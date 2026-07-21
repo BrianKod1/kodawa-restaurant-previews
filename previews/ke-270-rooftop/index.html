@@ -1,0 +1,420 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>270° Rooftop — Escada, Westlands, Nairobi</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Syne:wght@500;600;700;800&family=Manrope:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --navy:#121A2C;
+    --navy-deep:#0B1120;
+    --plum:#3B2A4C;
+    --gold:#E8B75E;
+    --coral:#E8714A;
+    --mist:#F4EFE6;
+    --mist-dim:#D9D2C2;
+    --display:'Syne', sans-serif;
+    --body:'Manrope', sans-serif;
+    --mono:'JetBrains Mono', monospace;
+  }
+  *{box-sizing:border-box; margin:0; padding:0;}
+  html{scroll-behavior:smooth;}
+  body{ font-family: var(--body); background: var(--mist); color: var(--navy-deep); -webkit-font-smoothing:antialiased; }
+  a{ color:inherit; text-decoration:none; }
+  :focus-visible{ outline: 3px solid var(--coral); outline-offset:3px; }
+  .wrap{ max-width: 1140px; margin:0 auto; padding: 0 clamp(20px,5vw,48px); }
+  section[id]{ scroll-margin-top: 70px; }
+
+  /* ---------- nav ---------- */
+  header.site-nav{
+    position: sticky; top:0; z-index:50;
+    background: rgba(18,26,44,0.92);
+    backdrop-filter: blur(8px);
+  }
+  .nav-inner{ display:flex; align-items:center; justify-content:space-between; padding: 16px clamp(20px,5vw,48px); }
+  .nav-mark{ font-family: var(--display); font-weight:700; font-size:1.05rem; color: var(--mist); letter-spacing: 0.02em; }
+  .nav-mark span{ color: var(--gold); }
+  .nav-links{ display:flex; gap:26px; font-size:0.78rem; letter-spacing:0.1em; text-transform:uppercase; color: var(--mist-dim); }
+  .nav-links a{ opacity:0.8; transition: opacity .15s, color .15s; }
+  .nav-links a:hover{ opacity:1; color: var(--gold); }
+  .nav-cta{
+    font-family: var(--mono); font-size:0.72rem; letter-spacing:0.05em; text-transform:uppercase;
+    background: var(--gold); color: var(--navy-deep); padding: 9px 16px; font-weight:600;
+  }
+  @media (max-width:720px){ .nav-links{ display:none; } }
+
+  /* ---------- hero ---------- */
+  .hero{
+    position:relative; overflow:hidden;
+    background: linear-gradient(180deg, var(--navy-deep) 0%, var(--navy) 45%, var(--plum) 100%);
+    color: var(--mist);
+    padding: clamp(80px,12vw,140px) 0 clamp(56px,9vw,96px);
+  }
+  .skyline{
+    position:absolute; left:0; right:0; bottom:0; height: 140px;
+    display:flex; align-items:flex-end; gap: 6px; opacity: 0.5; pointer-events:none;
+  }
+  .bld{ background: var(--navy-deep); flex: 0 0 auto; }
+  .dial{
+    position:absolute; top: 50%; right: -120px; transform: translateY(-50%);
+    width: 460px; height: 460px; border-radius:50%;
+    border: 1px solid rgba(232,183,94,0.18);
+    pointer-events:none;
+  }
+  .dial::before{
+    content:""; position:absolute; inset: 46px; border-radius:50%;
+    border: 1px solid rgba(232,183,94,0.14);
+  }
+  .dial::after{
+    content:""; position:absolute; inset: 92px; border-radius:50%;
+    border: 1px dashed rgba(232,183,94,0.16);
+  }
+  .hero-inner{ position:relative; z-index:2; }
+  .eyebrow{
+    font-family: var(--mono); font-size:0.76rem; letter-spacing:0.16em; text-transform:uppercase;
+    color: var(--gold); display:flex; align-items:center; gap:10px; margin-bottom:22px;
+  }
+  .eyebrow::before{ content:""; width:24px; height:1px; background: var(--gold); }
+  h1.hero-title{
+    font-family: var(--display); font-weight:800; font-size: clamp(2.6rem, 7.5vw, 5.2rem);
+    line-height: 0.98; max-width: 15ch; letter-spacing:-0.01em;
+  }
+  h1.hero-title .deg{ color: var(--gold); }
+  .hero-sub{
+    margin-top: 22px; font-size: clamp(1rem,1.8vw,1.18rem); max-width: 46ch;
+    color: rgba(244,239,230,0.72); line-height:1.6;
+  }
+  .fact-row{ margin-top:44px; display:flex; flex-wrap:wrap; gap:0; border-top: 1px solid rgba(244,239,230,0.16); }
+  .fact{ flex:1 1 140px; padding:18px 20px 0 0; }
+  .fact-num{ font-family: var(--display); font-weight:700; font-size:1.4rem; color: var(--gold); }
+  .fact-label{ font-family: var(--mono); font-size:0.68rem; letter-spacing:0.06em; text-transform:uppercase; opacity:0.6; margin-top:4px; }
+  .hero-cta-row{ margin-top:36px; display:flex; gap:14px; flex-wrap:wrap; }
+  .btn{
+    display:inline-flex; align-items:center; gap:8px; padding: 14px 26px;
+    font-size:0.82rem; letter-spacing:0.05em; text-transform:uppercase; font-weight:600;
+    transition: transform .15s ease;
+  }
+  .btn:hover{ transform: translateY(-2px); }
+  .btn-primary{ background: var(--coral); color: var(--mist); }
+  .btn-outline{ border: 1px solid var(--gold); color: var(--gold); }
+
+  /* ---------- about ---------- */
+  .about{ padding: clamp(56px,9vw,96px) 0; }
+  .about-grid{ display:grid; grid-template-columns: 0.85fr 1.15fr; gap: clamp(32px,6vw,72px); }
+  @media (max-width:780px){ .about-grid{ grid-template-columns:1fr; } }
+  .about h2{ font-family: var(--display); font-weight:700; font-size: clamp(1.8rem,4vw,2.5rem); line-height:1.1; }
+  .about-body p{ font-size:1.02rem; line-height:1.7; color: rgba(18,26,44,0.8); }
+  .about-body p + p{ margin-top:14px; }
+  .tag-row{ margin-top:22px; display:flex; flex-wrap:wrap; gap:10px; }
+  .tag{
+    font-family: var(--mono); font-size:0.68rem; letter-spacing:0.05em; text-transform:uppercase;
+    border: 1px solid var(--plum); color: var(--plum); padding:6px 12px;
+  }
+
+  /* ---------- menu ---------- */
+  .menu-section{ background: var(--navy-deep); color: var(--mist); padding: clamp(64px,10vw,108px) 0; }
+  .menu-head{ text-align:center; margin-bottom: clamp(40px,7vw,64px); }
+  .menu-head .eyebrow{ justify-content:center; }
+  .menu-head h2{ font-family: var(--display); font-weight:700; font-size: clamp(2.1rem,5vw,3.2rem); }
+  .menu-head p{ margin-top:14px; color: rgba(244,239,230,0.6); font-size:1rem; max-width:46ch; margin-left:auto; margin-right:auto; }
+
+  .dish-grid{ display:grid; grid-template-columns: 1fr 1fr; gap: 1px; background: rgba(232,183,94,0.18); border: 1px solid rgba(232,183,94,0.18); margin-top: 8px; }
+  @media (max-width:720px){ .dish-grid{ grid-template-columns:1fr; } }
+  .dish{ background: var(--navy-deep); padding: 30px 28px; }
+  .dish-kicker{ font-family: var(--mono); font-size:0.68rem; letter-spacing:0.08em; text-transform:uppercase; color: var(--gold); }
+  .dish h3{ font-family: var(--display); font-weight:600; font-size:1.3rem; margin-top:10px; }
+  .dish p{ margin-top:10px; font-size:0.92rem; line-height:1.55; color: rgba(244,239,230,0.65); }
+
+  .price-band{
+    margin-top: 48px; display:flex; flex-wrap:wrap; justify-content:center; gap: 22px;
+    text-align:center;
+  }
+  .price-chip{ padding: 18px 26px; border: 1px solid rgba(232,183,94,0.25); }
+  .price-chip .amt{ font-family: var(--display); font-weight:700; color: var(--gold); font-size:1.15rem; }
+  .price-chip .lbl{ font-family: var(--mono); font-size:0.66rem; letter-spacing:0.05em; text-transform:uppercase; color: rgba(244,239,230,0.55); margin-top:6px; }
+
+  /* ---------- proof ---------- */
+  .proof{ padding: clamp(56px,9vw,96px) 0; }
+  .proof-grid{ display:grid; grid-template-columns: repeat(3,1fr); gap: 1px; background: rgba(18,26,44,0.12); border:1px solid rgba(18,26,44,0.12); margin-top:28px; }
+  @media (max-width:780px){ .proof-grid{ grid-template-columns:1fr; } }
+  .proof-card{ background: var(--mist); padding: 26px 24px; }
+  .proof-card p{ font-size:0.98rem; line-height:1.6; color: rgba(18,26,44,0.82); }
+  .proof-meta{ margin-top:14px; font-family: var(--mono); font-size:0.7rem; letter-spacing:0.05em; text-transform:uppercase; color: var(--plum); }
+
+  /* ---------- visit ---------- */
+  .visit{ background: var(--plum); color: var(--mist); padding: clamp(56px,9vw,96px) 0; }
+  .visit-grid{ display:grid; grid-template-columns: 1fr 1fr 1fr; gap: 40px; }
+  @media (max-width:780px){ .visit-grid{ grid-template-columns:1fr; } }
+  .visit h4{ font-family: var(--mono); font-size:0.72rem; letter-spacing:0.1em; text-transform:uppercase; color: var(--gold); margin-bottom:12px; }
+  .visit p, .visit a{ font-size:1.02rem; line-height:1.65; }
+  .visit a{ text-decoration:underline; text-underline-offset:4px; text-decoration-color: rgba(244,239,230,0.35); }
+  .visit a:hover{ text-decoration-color: var(--gold); }
+  .visit .note{ margin-top:8px; font-size:0.85rem; opacity:0.65; }
+
+  footer{ background: var(--navy-deep); color: rgba(244,239,230,0.55); padding: 30px 0; }
+  .footer-inner{ display:flex; justify-content:space-between; align-items:center; flex-wrap:wrap; gap:16px; font-size:0.8rem; }
+  .footer-social{ display:flex; gap:18px; }
+  .footer-inner a:hover{ color: var(--gold); }
+
+  /* ---------- concept preview utility ---------- */
+  .concept-banner{
+    display:flex;
+    justify-content:space-between;
+    gap:18px;
+    align-items:center;
+    padding:9px clamp(20px,5vw,48px);
+    background:#080D18;
+    color:rgba(244,239,230,.75);
+    border-bottom:1px solid rgba(232,183,94,.22);
+    font-family:var(--mono);
+    font-size:.64rem;
+    letter-spacing:.04em;
+    line-height:1.4;
+  }
+  .concept-banner strong{
+    color:var(--gold);
+    text-transform:uppercase;
+  }
+  @media (max-width:760px){
+    .concept-banner{
+      align-items:flex-start;
+      flex-direction:column;
+      gap:3px;
+    }
+  }
+
+  /* ---------- subtle visual upgrades ---------- */
+  .hero::before{
+    content:"";
+    position:absolute;
+    inset:0;
+    pointer-events:none;
+    background:
+      radial-gradient(circle at 18% 20%, rgba(232,183,94,.08), transparent 28%),
+      radial-gradient(circle at 86% 26%, rgba(232,113,74,.10), transparent 22%);
+  }
+  .dish,.proof-card{
+    transition:transform .2s ease, background .2s ease, box-shadow .2s ease;
+  }
+  .dish:hover{
+    transform:translateY(-4px);
+    background:#0F1728;
+    box-shadow:0 14px 30px rgba(0,0,0,.18);
+  }
+  .proof-card:hover{
+    transform:translateY(-3px);
+    background:#FFF9EE;
+  }
+  .price-chip{
+    transition:transform .2s ease, border-color .2s ease;
+  }
+  .price-chip:hover{
+    transform:translateY(-3px);
+    border-color:rgba(232,183,94,.55);
+  }
+  .nav-cta,.btn{ border-radius:2px; }
+
+  .mobile-action{
+    display:none;
+  }
+  @media (max-width:720px){
+    body{padding-bottom:76px;}
+    .mobile-action{
+      position:fixed;
+      left:14px;
+      right:14px;
+      bottom:14px;
+      z-index:80;
+      display:flex;
+      gap:10px;
+      padding:10px;
+      background:rgba(11,17,32,.96);
+      border:1px solid rgba(232,183,94,.35);
+      backdrop-filter:blur(12px);
+      box-shadow:0 14px 35px rgba(0,0,0,.3);
+    }
+    .mobile-action a{
+      flex:1;
+      text-align:center;
+      padding:12px 10px;
+      font-family:var(--mono);
+      font-size:.7rem;
+      text-transform:uppercase;
+      letter-spacing:.05em;
+    }
+    .mobile-action .reserve{
+      background:var(--coral);
+      color:var(--mist);
+    }
+    .mobile-action .map{
+      border:1px solid var(--gold);
+      color:var(--gold);
+    }
+  }
+
+</style>
+</head>
+<body>
+<div class="concept-banner" role="note">
+  <span><strong>Concept Preview</strong> · Designed by Kodawa Labs</span>
+  <span>Independent redesign concept — not the official 270° Rooftop website.</span>
+</div>
+
+<header class="site-nav">
+  <div class="nav-inner">
+    <div class="nav-mark">270<span>°</span> ROOFTOP</div>
+    <nav class="nav-links">
+      <a href="#about">About</a>
+      <a href="#menu">Menu</a>
+      <a href="#reviews">Reviews</a>
+      <a href="#visit">Reserve</a>
+    </nav>
+    <a class="nav-cta" href="tel:+254702455665">Reserve</a>
+  </div>
+</header>
+
+<section class="hero">
+  <div class="dial"></div>
+  <div class="skyline" id="skyline"></div>
+  <div class="wrap hero-inner">
+    <p class="eyebrow">18th Floor · Escada · Westlands</p>
+    <h1 class="hero-title">Nairobi, from a <span class="deg">270°</span> angle.</h1>
+    <p class="hero-sub">A rooftop restaurant and bar above Westlands, with a fusion menu, signature cocktails, and the city laid out beneath you.</p>
+
+    <div class="fact-row">
+      <div class="fact"><div class="fact-num">4.3 ★</div><div class="fact-label">605 Google reviews</div></div>
+      <div class="fact"><div class="fact-num">KES 1.5k–4k</div><div class="fact-label">Per person</div></div>
+      <div class="fact"><div class="fact-num">18th Fl.</div><div class="fact-label">Escada, Lantana Rd</div></div>
+      <div class="fact"><div class="fact-num">Sunset</div><div class="fact-label">Best time to arrive</div></div>
+    </div>
+
+    <div class="hero-cta-row">
+      <a class="btn btn-primary" href="tel:+254702455665">Reserve a Table</a>
+      <a class="btn btn-outline" href="https://www.google.com/maps/place/270%C2%B0+Rooftop/data=!4m2!3m1!1s0x182f17e5d7323171:0x2ce8eaad6565345c" target="_blank" rel="noopener">Get Directions</a>
+    </div>
+  </div>
+</section>
+
+<section class="about" id="about">
+  <div class="wrap about-grid">
+    <div>
+      <p class="eyebrow" style="color:var(--coral);">The View</p>
+      <h2>Eighteen floors above Westlands.</h2>
+    </div>
+    <div class="about-body">
+      <p>270° Rooftop sits on the 18th floor of the Escada building on Lantana Road — high enough that the traffic and noise of Westlands fall away, replaced by an open-air view of the city that stretches nearly the full compass.</p>
+      <p>The kitchen runs a fusion menu that moves between Italian pasta and Asian seafood plates, backed by a full bar and a cocktail list built for watching the sun go down over Nairobi. Reservations are recommended, especially for evening tables.</p>
+      <div class="tag-row">
+        <span class="tag">Fusion Menu</span>
+        <span class="tag">Signature Cocktails</span>
+        <span class="tag">Rooftop Views</span>
+        <span class="tag">Reservations Recommended</span>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="menu-section" id="menu">
+  <div class="wrap">
+    <div class="menu-head">
+      <p class="eyebrow">From The Kitchen</p>
+      <h2>A Short, Considered Menu</h2>
+      <p>270° keeps its menu tight rather than sprawling — a handful of dishes done properly, spanning Italian and Asian influences.</p>
+    </div>
+
+    <div class="dish-grid">
+      <div class="dish">
+        <div class="dish-kicker">Pasta</div>
+        <h3>Cacio e Pepe</h3>
+        <p>Al dente pasta finished with real parmesan and cracked black pepper — simple, and done right.</p>
+      </div>
+      <div class="dish">
+        <div class="dish-kicker">Seafood</div>
+        <h3>Seafood Laksa</h3>
+        <p>Fish, prawns, calamari and octopus in a lemongrass broth, served with rice — a standout for freshness.</p>
+      </div>
+    </div>
+
+    <div class="price-band">
+      <div class="price-chip"><div class="amt">KES 1,500–1,700</div><div class="lbl">Most dishes</div></div>
+      <div class="price-chip"><div class="amt">KES 2,000–2,500</div><div class="lbl">Steak &amp; seafood</div></div>
+      <div class="price-chip"><div class="amt">KES 250</div><div class="lbl">Bottled water, 1L</div></div>
+    </div>
+  </div>
+</section>
+
+<section class="proof" id="reviews">
+  <div class="wrap">
+    <p class="eyebrow" style="color:var(--coral);">What Holds Up</p>
+    <div class="proof-grid">
+      <div class="proof-card">
+        <p>Independent reviewers rate the value highly — fair pricing for the caliber of food and the view on offer.</p>
+        <div class="proof-meta">Value For Money</div>
+      </div>
+      <div class="proof-card">
+        <p>Food quality consistently comes back rated good, with fresh seafood a particular highlight.</p>
+        <div class="proof-meta">Food Quality</div>
+      </div>
+      <div class="proof-card">
+        <p>Service runs efficient even on busy nights, with minimal wait despite the crowd.</p>
+        <div class="proof-meta">Service</div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="visit" id="visit">
+  <div class="wrap">
+    <div class="visit-grid">
+      <div>
+        <h4>Find Us</h4>
+        <p>18th Floor, Escada Building<br>Lantana Road, Westlands, Nairobi</p>
+      </div>
+      <div>
+        <h4>Reserve</h4>
+        <p><a href="tel:+254702455665">+254 702 455 665</a></p>
+        <p class="note">Booking ahead recommended, especially evenings</p>
+      </div>
+      <div>
+        <h4>Hours</h4>
+        <p>Mon–Fri · 6:00 AM – 10:30 PM<br>Sat–Sun · 7:00 AM – 10:30 PM</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<footer>
+  <div class="wrap footer-inner">
+    <span>© 2026 270° Rooftop, Westlands</span>
+    <div class="footer-social">
+      <a href="https://www.instagram.com/270rooftop/" target="_blank" rel="noopener">Instagram</a>
+    </div>
+  </div>
+</footer>
+
+<script>
+  // Generate a simple procedural skyline silhouette
+  const skyline = document.getElementById('skyline');
+  const count = 40;
+  for(let i=0;i<count;i++){
+    const b = document.createElement('div');
+    b.className = 'bld';
+    const h = 30 + Math.random()*110;
+    const w = 14 + Math.random()*26;
+    b.style.height = h + 'px';
+    b.style.width = w + 'px';
+    skyline.appendChild(b);
+  }
+</script>
+
+
+<div class="mobile-action" aria-label="Quick actions">
+  <a class="reserve" href="tel:+254702455665">Reserve</a>
+  <a class="map" href="https://www.google.com/maps/place/270%C2%B0+Rooftop/data=!4m2!3m1!1s0x182f17e5d7323171:0x2ce8eaad6565345c" target="_blank" rel="noopener">Directions</a>
+</div>
+
+</body>
+</html>
