@@ -1,0 +1,289 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>The Branch Restaurant — Kenya Cinema Plaza, Moi Avenue, Nairobi</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Alfa+Slab+One&family=Nunito+Sans:wght@400;500;600;700;800&family=Martian+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --brick:#A83E2C;
+    --brick-deep:#7E2E20;
+    --forest:#2F4A32;
+    --forest-deep:#1E301F;
+    --cream:#FBF2E3;
+    --mustard:#DDA13B;
+    --ink:#231A14;
+    --display:'Alfa Slab One', serif;
+    --body:'Nunito Sans', sans-serif;
+    --mono:'Martian Mono', monospace;
+  }
+  *{box-sizing:border-box; margin:0; padding:0;}
+  html{scroll-behavior:smooth;}
+  body{ font-family: var(--body); background: var(--cream); color: var(--ink); -webkit-font-smoothing:antialiased; }
+  a{ color:inherit; text-decoration:none; }
+  :focus-visible{ outline: 3px solid var(--brick); outline-offset:3px; }
+  .wrap{ max-width: 1080px; margin:0 auto; padding: 0 clamp(20px,5vw,48px); }
+  section[id]{ scroll-margin-top: 68px; }
+
+  header.site-nav{ position:sticky; top:0; z-index:50; background: var(--cream); border-bottom: 1px solid rgba(35,26,20,0.16); }
+  .nav-inner{ display:flex; align-items:center; justify-content:space-between; padding: 15px clamp(20px,5vw,48px); }
+  .nav-mark{ font-family: var(--display); font-size:1.1rem; color: var(--brick-deep); letter-spacing:0.01em; }
+  .nav-links{ display:flex; gap:24px; font-size:0.78rem; letter-spacing:0.06em; text-transform:uppercase; font-weight:700; }
+  .nav-links a{ opacity:0.65; transition: opacity .15s; }
+  .nav-links a:hover{ opacity:1; }
+  .nav-cta{ font-family: var(--mono); font-size:0.72rem; background: var(--forest-deep); color: var(--cream); padding: 9px 16px; }
+  @media (max-width:720px){ .nav-links{ display:none; } }
+
+  /* ---------- hero ---------- */
+  .hero{ padding: clamp(68px,10vw,116px) 0 clamp(52px,8vw,88px); }
+  .eyebrow{
+    font-family: var(--mono); font-size:0.72rem; letter-spacing:0.12em; text-transform:uppercase;
+    color: var(--brick-deep); display:flex; align-items:center; gap:10px; margin-bottom:22px;
+  }
+  .eyebrow::before{ content:""; width:24px; height:1px; background: var(--brick-deep); }
+  h1.hero-title{ font-family: var(--display); font-size: clamp(2.3rem, 6vw, 4.2rem); line-height:1.06; max-width:15ch; color: var(--forest-deep); }
+  h1.hero-title .accent{ color: var(--brick); }
+  .hero-sub{ margin-top:22px; font-size: clamp(1rem,1.8vw,1.15rem); max-width:48ch; color: rgba(35,26,20,0.75); line-height:1.6; }
+
+  .fact-row{ margin-top:40px; display:flex; flex-wrap:wrap; gap:0; border-top: 1px solid rgba(35,26,20,0.18); }
+  .fact{ flex:1 1 140px; padding:16px 20px 0 0; }
+  .fact-num{ font-family: var(--display); font-size:1.2rem; color: var(--brick-deep); }
+  .fact-label{ font-family: var(--mono); font-size:0.64rem; letter-spacing:0.05em; text-transform:uppercase; opacity:0.62; margin-top:6px; }
+
+  .hero-cta-row{ margin-top:32px; display:flex; gap:14px; flex-wrap:wrap; }
+  .btn{ display:inline-flex; align-items:center; gap:8px; padding:14px 26px; font-size:0.8rem; letter-spacing:0.04em; text-transform:uppercase; font-weight:700; transition: transform .15s ease; }
+  .btn:hover{ transform: translateY(-2px); }
+  .btn-primary{ background: var(--brick); color: var(--cream); }
+  .btn-outline{ border:1.5px solid var(--forest-deep); color: var(--forest-deep); }
+
+  /* ---------- about ---------- */
+  .about{ background: var(--forest-deep); color: var(--cream); padding: clamp(56px,9vw,96px) 0; }
+  .about-grid{ display:grid; grid-template-columns: 0.85fr 1.15fr; gap: clamp(32px,6vw,72px); }
+  @media (max-width:780px){ .about-grid{ grid-template-columns:1fr; } }
+  .about h2{ font-family: var(--display); font-size: clamp(1.6rem,3.6vw,2.2rem); line-height:1.2; }
+  .about-body p{ font-size:1.02rem; line-height:1.75; color: rgba(251,242,227,0.78); }
+  .about-body p + p{ margin-top:14px; }
+  .tag-row{ margin-top:22px; display:flex; flex-wrap:wrap; gap:10px; }
+  .tag{ font-family: var(--mono); font-size:0.64rem; letter-spacing:0.04em; text-transform:uppercase; border:1px solid var(--mustard); color: var(--mustard); padding:6px 12px; }
+
+  /* ---------- menu ---------- */
+  .menu-section{ padding: clamp(64px,10vw,108px) 0; }
+  .menu-head{ text-align:center; margin-bottom: clamp(40px,7vw,64px); }
+  .menu-head .eyebrow{ justify-content:center; }
+  .menu-head h2{ font-family: var(--display); font-size: clamp(1.8rem,4.2vw,2.6rem); color: var(--forest-deep); }
+  .menu-head p{ margin-top:14px; color: rgba(35,26,20,0.65); font-size:1rem; max-width:48ch; margin-left:auto; margin-right:auto; }
+
+  .menu-grid{ display:grid; grid-template-columns: repeat(2,1fr); gap:1px; background: rgba(35,26,20,0.14); border:1px solid rgba(35,26,20,0.14); }
+  @media (max-width:720px){ .menu-grid{ grid-template-columns:1fr; } }
+  .menu-item{ background: var(--cream); padding: 22px 26px; display:flex; align-items:baseline; justify-content:space-between; gap:16px; }
+  .menu-item-name{ font-size:1.02rem; font-weight:700; }
+  .menu-item-note{ display:block; font-size:0.85rem; font-weight:400; color: rgba(35,26,20,0.6); margin-top:2px; }
+  .menu-item-price{ font-family: var(--mono); font-size:0.9rem; color: var(--brick-deep); white-space:nowrap; }
+
+  /* ---------- staff ---------- */
+  .staff{ background: var(--mustard); padding: clamp(48px,8vw,80px) 0; }
+  .staff-grid{ display:grid; grid-template-columns: 1fr 1fr; gap:40px; align-items:center; }
+  @media (max-width:780px){ .staff-grid{ grid-template-columns:1fr; } }
+  .staff h2{ font-family: var(--display); font-size: clamp(1.5rem,3.4vw,2rem); color: var(--forest-deep); }
+  .staff p{ margin-top:14px; font-size:1rem; line-height:1.65; color: rgba(35,26,20,0.78); }
+  .staff-card{ background: var(--cream); padding:26px; border-radius: 4px; }
+  .staff-card h4{ font-family: var(--display); font-size:1.05rem; color: var(--brick-deep); }
+  .staff-card p{ margin-top:10px; font-size:0.92rem; color: rgba(35,26,20,0.75); }
+
+  /* ---------- proof ---------- */
+  .proof{ padding: clamp(48px,8vw,80px) 0; }
+  .proof-grid{ display:grid; grid-template-columns: repeat(3,1fr); gap:1px; background: rgba(35,26,20,0.12); border:1px solid rgba(35,26,20,0.12); margin-top:28px; }
+  @media (max-width:780px){ .proof-grid{ grid-template-columns:1fr; } }
+  .proof-card{ background: var(--cream); padding: 24px 22px; }
+  .proof-card p{ font-size:0.96rem; line-height:1.6; color: rgba(35,26,20,0.8); }
+  .proof-meta{ margin-top:14px; font-family: var(--mono); font-size:0.66rem; letter-spacing:0.04em; text-transform:uppercase; color: var(--brick-deep); }
+
+  /* ---------- visit ---------- */
+  .visit{ background: var(--forest-deep); color: var(--cream); padding: clamp(56px,9vw,96px) 0; }
+  .visit-grid{ display:grid; grid-template-columns: 1fr 1fr 1fr; gap:40px; }
+  @media (max-width:780px){ .visit-grid{ grid-template-columns:1fr; } }
+  .visit h4{ font-family: var(--mono); font-size:0.7rem; letter-spacing:0.08em; text-transform:uppercase; color: var(--mustard); margin-bottom:12px; }
+  .visit p, .visit a{ font-size:1.02rem; line-height:1.6; }
+  .visit a{ text-decoration:underline; text-underline-offset:4px; text-decoration-color: rgba(251,242,227,0.35); }
+  .visit a:hover{ text-decoration-color: var(--mustard); }
+
+  footer{ background: var(--forest-deep); color: rgba(251,242,227,0.5); padding: 26px 0; border-top: 1px solid rgba(251,242,227,0.12); }
+  .footer-inner{ display:flex; justify-content:space-between; align-items:center; flex-wrap:wrap; gap:16px; font-size:0.8rem; }
+  .footer-social{ display:flex; gap:18px; }
+  .footer-inner a:hover{ color: var(--mustard); }
+
+.concept-banner{display:flex;justify-content:space-between;gap:18px;align-items:center;padding:9px clamp(20px,5vw,48px);background:#1E301F;color:rgba(251,242,227,.76);border-bottom:1px solid rgba(221,161,59,.28);font-family:var(--mono);font-size:.64rem}
+.concept-banner strong{color:var(--mustard);text-transform:uppercase}
+.hero::before{content:"";position:absolute;inset:0;pointer-events:none;background:radial-gradient(circle at 82% 20%,rgba(168,62,44,.10),transparent 24%)}
+.menu-item,.staff-card,.proof-card{transition:transform .2s ease,box-shadow .2s ease}
+.menu-item:hover,.staff-card:hover,.proof-card:hover{transform:translateY(-4px);box-shadow:0 14px 28px rgba(0,0,0,.16)}
+.mobile-action{display:none}
+@media(max-width:720px){
+body{padding-bottom:76px}
+.concept-banner{flex-direction:column;align-items:flex-start}
+.mobile-action{display:flex;position:fixed;left:14px;right:14px;bottom:14px;z-index:99;gap:10px;padding:10px;background:rgba(30,48,31,.96);border:1px solid rgba(221,161,59,.35)}
+.mobile-action a{flex:1;text-align:center;padding:12px;font-family:var(--mono)}
+.mobile-action .call{background:var(--brick);color:var(--cream)}
+.mobile-action .ig{border:1px solid var(--mustard);color:var(--mustard)}
+}
+
+</style>
+</head>
+<body>
+<div class="concept-banner"><span><strong>Concept Preview</strong> · Designed by Kodawa Labs</span><span>Independent redesign concept — not the official The Branch Restaurant website.</span></div>
+
+<header class="site-nav">
+  <div class="nav-inner">
+    <div class="nav-mark">THE BRANCH</div>
+    <nav class="nav-links">
+      <a href="#about">About</a>
+      <a href="#menu">Menu</a>
+      <a href="#visit">Visit</a>
+    </nav>
+    <a class="nav-cta" href="tel:+254772575757">Call Us</a>
+  </div>
+</header>
+
+<section class="hero">
+  <div class="wrap">
+    <p class="eyebrow">Kenya Cinema Plaza · Moi Avenue · Nairobi CBD</p>
+    <h1 class="hero-title">Home-style African food, <span class="accent">up the stairs</span>.</h1>
+    <p class="hero-sub">Tucked inside Kenya Cinema Plaza on Moi Avenue — brown ugali, fresh fish, and generous plates that have kept CBD regulars coming back for years.</p>
+
+    <div class="fact-row">
+      <div class="fact"><div class="fact-num">4.1 ★</div><div class="fact-label">606 Google reviews</div></div>
+      <div class="fact"><div class="fact-num">Two Floors</div><div class="fact-label">+ balcony seating</div></div>
+      <div class="fact"><div class="fact-num">Under 10 Min</div><div class="fact-label">Typical order time</div></div>
+      <div class="fact"><div class="fact-num">7AM–11PM</div><div class="fact-label">Open daily</div></div>
+    </div>
+
+    <div class="hero-cta-row">
+      <a class="btn btn-primary" href="tel:+254772575757">Call Ahead</a>
+      <a class="btn btn-outline" href="#menu">See The Menu</a>
+    </div>
+  </div>
+</section>
+
+<section class="about" id="about">
+  <div class="wrap about-grid">
+    <div>
+      <p class="eyebrow" style="color:var(--mustard);">The Spot</p>
+      <h2>A CBD staple hiding in plain sight.</h2>
+    </div>
+    <div class="about-body">
+      <p>The Branch sits up the left staircase inside Kenya Cinema Plaza on Moi Avenue — a casual, welcoming room serving hearty, traditional African home-style cooking rather than a fine-dining performance. There's seating on two floors, plus a balcony overlooking the street for anyone who wants a view with their meal.</p>
+      <p>A large hot-water basin greets guests at the entrance, and the upstairs bar pours cocktails, mocktails and shots alongside the food menu — a spot built for a proper sit-down meal, not a quick bite.</p>
+      <div class="tag-row">
+        <span class="tag">Traditional African</span>
+        <span class="tag">Balcony Seating</span>
+        <span class="tag">Full Bar</span>
+        <span class="tag">Fast Service</span>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="menu-section" id="menu">
+  <div class="wrap">
+    <div class="menu-head">
+      <p class="eyebrow">On The Table</p>
+      <h2>What Regulars Order</h2>
+      <p>A short, honest menu built around home-style African cooking — here's what keeps people coming back.</p>
+    </div>
+
+    <div class="menu-grid">
+      <div class="menu-item">
+        <span class="menu-item-name">Fried Beef Wet Fry<span class="menu-item-note">Served with rice</span></span>
+        <span class="menu-item-price">KES 650</span>
+      </div>
+      <div class="menu-item">
+        <span class="menu-item-name">Chicken Wet Fry<span class="menu-item-note">Thick, rich sauce</span></span>
+        <span class="menu-item-price">KES 700</span>
+      </div>
+      <div class="menu-item">
+        <span class="menu-item-name">Brown Ugali &amp; Liver<span class="menu-item-note">A regulars' favourite</span></span>
+        <span class="menu-item-price"></span>
+      </div>
+      <div class="menu-item">
+        <span class="menu-item-name">Brown Ugali &amp; Fish<span class="menu-item-note">With a side of greens</span></span>
+        <span class="menu-item-price"></span>
+      </div>
+      <div class="menu-item">
+        <span class="menu-item-name">Ox Liver<span class="menu-item-note">A house specialty</span></span>
+        <span class="menu-item-price"></span>
+      </div>
+      <div class="menu-item">
+        <span class="menu-item-name">Fresh Mango Juice<span class="menu-item-note">Homemade, thick</span></span>
+        <span class="menu-item-price">KES 150</span>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="staff">
+  <div class="wrap staff-grid">
+    <div>
+      <h2>Ask for Dan or Shadrack.</h2>
+      <p>Regulars don't just praise "the service" here — they name names. Across years of reviews, two servers come up again and again for the same reason: fast, warm, attentive service that keeps people coming back specifically to see them.</p>
+    </div>
+    <div class="staff-card">
+      <h4>The Regulars' Tip</h4>
+      <p>For the quickest service, visit after 11AM once full staffing kicks in. Before that, service is still friendly, just slower with a smaller team on the floor.</p>
+    </div>
+  </div>
+</section>
+
+<section class="proof">
+  <div class="wrap">
+    <p class="eyebrow" style="color:var(--brick-deep);">Why People Come Back</p>
+    <div class="proof-grid">
+      <div class="proof-card">
+        <p>Portions are consistently described as generous enough to take some home — a recurring theme across years of reviews.</p>
+        <div class="proof-meta">Value</div>
+      </div>
+      <div class="proof-card">
+        <p>Food typically arrives in under ten minutes without sacrificing freshness — a rare combination for a busy CBD lunch spot.</p>
+        <div class="proof-meta">Speed</div>
+      </div>
+      <div class="proof-card">
+        <p>Long-time regulars — some visiting for 5+ years — say the quality and warmth have stayed consistent the whole time.</p>
+        <div class="proof-meta">Consistency</div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="visit" id="visit">
+  <div class="wrap">
+    <div class="visit-grid">
+      <div>
+        <h4>Find Us</h4>
+        <p>Kenya Cinema Plaza, 1st Floor<br>Moi Avenue, Nairobi CBD</p>
+      </div>
+      <div>
+        <h4>Call</h4>
+        <p><a href="tel:+254772575757">+254 772 575757</a></p>
+      </div>
+      <div>
+        <h4>Hours</h4>
+        <p>Daily · 7:00 AM – 11:00 PM</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<footer>
+  <div class="wrap footer-inner">
+    <span>© 2026 The Branch Restaurant, Moi Avenue</span>
+    <div class="footer-social">
+      <a href="https://www.instagram.com/thebranchrestaurantke/" target="_blank" rel="noopener">Instagram</a>
+      <a href="https://www.facebook.com/p/The-Branch-Restaurant-100068443623173/" target="_blank" rel="noopener">Facebook</a>
+    </div>
+  </div>
+</footer>
+
+<div class="mobile-action"><a class="call" href="tel:+254772575757">Call</a><a class="ig" href="https://www.instagram.com/thebranchrestaurantke/" target="_blank">Instagram</a></div></body>
+</html>
