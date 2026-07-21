@@ -1,0 +1,402 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Trattoria Ristorante &amp; Pizzeria — Kaunda &amp; Wabera, Nairobi</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Newsreader:ital,wght@0,400;0,500;0,600;1,400;1,500&family=Jost:wght@400;500;600&family=Courier+Prime:wght@400;700&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --cream:#F6F1E7;
+    --cream-deep:#EBE2CE;
+    --wine:#5B1F26;
+    --wine-deep:#3D1319;
+    --olive:#6B7150;
+    --gold:#A9822F;
+    --ink:#241C15;
+    --display:'Newsreader', serif;
+    --body:'Jost', sans-serif;
+    --mono:'Courier Prime', monospace;
+  }
+  *{box-sizing:border-box; margin:0; padding:0;}
+  html{scroll-behavior:smooth;}
+  body{ font-family: var(--body); background: var(--cream); color: var(--ink); -webkit-font-smoothing:antialiased; }
+  a{ color:inherit; text-decoration:none; }
+  :focus-visible{ outline: 3px solid var(--gold); outline-offset:3px; }
+  .wrap{ max-width: 1080px; margin:0 auto; padding: 0 clamp(20px,5vw,48px); }
+  section[id]{ scroll-margin-top: 68px; }
+
+  header.site-nav{ position:sticky; top:0; z-index:50; background: var(--cream); border-bottom: 1px solid rgba(36,28,21,0.14); }
+  .nav-inner{ display:flex; align-items:center; justify-content:space-between; padding: 14px clamp(20px,5vw,48px); }
+  .nav-mark{ font-family: var(--display); font-weight:600; font-size:1.15rem; letter-spacing: 0.01em; }
+  .nav-mark em{ font-style: italic; color: var(--wine); font-weight:500; }
+  .nav-links{ display:flex; gap:26px; font-size:0.78rem; letter-spacing:0.09em; text-transform:uppercase; }
+  .nav-links a{ opacity:0.72; transition: opacity .15s; }
+  .nav-links a:hover{ opacity:1; }
+  .nav-cta{ font-family: var(--mono); font-size:0.76rem; border:1px solid var(--wine); color: var(--wine); padding: 8px 15px; }
+  .nav-cta:hover{ background: var(--wine); color: var(--cream); }
+  @media (max-width:720px){ .nav-links{ display:none; } }
+
+  /* ---------- hero ---------- */
+  .hero{ padding: clamp(64px,10vw,112px) 0 clamp(48px,8vw,80px); position:relative; }
+  .est{
+    font-family: var(--mono); font-size:0.78rem; letter-spacing:0.14em; text-transform:uppercase;
+    color: var(--wine); display:flex; align-items:center; gap:10px; margin-bottom:20px;
+  }
+  .est::before{ content:""; width:24px; height:1px; background: var(--wine); }
+  h1.hero-title{
+    font-family: var(--display); font-weight:500; font-style: italic;
+    font-size: clamp(2.6rem, 7vw, 4.7rem); line-height:1.05; max-width: 15ch; color: var(--wine-deep);
+  }
+  .hero-sub{ margin-top:22px; font-size: clamp(1rem,1.8vw,1.15rem); max-width:50ch; color: rgba(36,28,21,0.78); line-height:1.65; }
+  .since-badge{
+    margin-top: 30px; display:inline-flex; align-items:baseline; gap: 14px;
+    border-top: 1px solid rgba(36,28,21,0.2); border-bottom: 1px solid rgba(36,28,21,0.2);
+    padding: 14px 0;
+  }
+  .since-badge .yr{ font-family: var(--display); font-weight:600; font-size:1.6rem; color: var(--gold); }
+  .since-badge .txt{ font-family: var(--mono); font-size:0.78rem; letter-spacing:0.04em; text-transform:uppercase; opacity:0.75; }
+
+  .fact-row{ margin-top:34px; display:flex; flex-wrap:wrap; gap:0; }
+  .fact{ flex:1 1 150px; padding: 0 22px 0 0; border-right: 1px dashed rgba(36,28,21,0.22); }
+  .fact:last-child{ border-right:none; }
+  .fact-num{ font-family: var(--display); font-weight:600; font-size:1.4rem; color: var(--wine); }
+  .fact-label{ font-family: var(--mono); font-size:0.7rem; letter-spacing:0.05em; text-transform:uppercase; opacity:0.65; margin-top:4px; }
+
+  .hero-cta-row{ margin-top:34px; display:flex; gap:14px; flex-wrap:wrap; }
+  .btn{ display:inline-flex; align-items:center; gap:8px; padding:13px 24px; font-size:0.8rem; letter-spacing:0.05em; text-transform:uppercase; font-weight:600; transition: transform .15s ease; }
+  .btn:hover{ transform: translateY(-2px); }
+  .btn-primary{ background: var(--wine); color: var(--cream); }
+  .btn-outline{ border:1px solid var(--wine); color: var(--wine); }
+
+  /* ---------- story ---------- */
+  .story{ background: var(--cream-deep); padding: clamp(56px,9vw,96px) 0; }
+  .story-grid{ display:grid; grid-template-columns: 0.85fr 1.15fr; gap: clamp(32px,6vw,72px); }
+  @media (max-width:780px){ .story-grid{ grid-template-columns:1fr; } }
+  .story h2{ font-family: var(--display); font-style:italic; font-weight:500; font-size: clamp(1.8rem,4vw,2.5rem); color: var(--wine-deep); line-height:1.15; }
+  .story-body p{ font-size:1.03rem; line-height:1.75; color: rgba(36,28,21,0.85); }
+  .story-body p + p{ margin-top:16px; }
+  .story-body .signoff{ margin-top: 20px; font-family: var(--display); font-style: italic; color: var(--gold); font-size:1.05rem; }
+
+  /* ---------- menu ---------- */
+  .menu-section{ background: var(--wine-deep); color: var(--cream); padding: clamp(64px,10vw,108px) 0; }
+  .menu-head{ text-align:center; margin-bottom: clamp(40px,7vw,64px); }
+  .menu-head .est{ justify-content:center; color: var(--gold); }
+  .menu-head .est::before{ background: var(--gold); }
+  .menu-head h2{ font-family: var(--display); font-style:italic; font-weight:500; font-size: clamp(2.1rem,5vw,3.2rem); }
+  .menu-head p{ margin-top:14px; color: rgba(246,241,231,0.65); font-size:1rem; max-width:48ch; margin-left:auto; margin-right:auto; }
+
+  .menu-cols{ display:grid; grid-template-columns: 1fr 1fr; gap: 48px 64px; }
+  @media (max-width:720px){ .menu-cols{ grid-template-columns:1fr; } }
+  .menu-cols h3{
+    font-family: var(--display); font-style:italic; font-weight:500; font-size:1.25rem; color: var(--gold);
+    margin-bottom:16px; padding-bottom:10px; border-bottom: 1px solid rgba(169,130,47,0.35);
+  }
+  .dish-line{ padding: 8px 0; font-size: 1.02rem; color: rgba(246,241,231,0.92); }
+  .dish-line .note{ display:block; font-size:0.85rem; color: rgba(246,241,231,0.55); margin-top:2px; }
+
+  /* ---------- staff feature ---------- */
+  .staff{ padding: clamp(56px,9vw,96px) 0; }
+  .staff-grid{ display:grid; grid-template-columns: 1fr 1fr; gap: 40px; align-items:center; }
+  @media (max-width:780px){ .staff-grid{ grid-template-columns:1fr; } }
+  .staff h2{ font-family: var(--display); font-style:italic; font-weight:500; font-size: clamp(1.7rem,4vw,2.3rem); color: var(--wine-deep); }
+  .staff p{ margin-top:16px; font-size:1.02rem; line-height:1.7; color: rgba(36,28,21,0.82); }
+  .staff-card{ border:1px solid var(--wine); padding: 30px; background: var(--cream-deep); }
+  .staff-card .est{ color: var(--wine); }
+  .staff-card h4{ font-family: var(--display); font-style:italic; font-size:1.2rem; margin-top:8px; color: var(--wine-deep); }
+  .staff-card p{ margin-top:10px; font-size:0.95rem; color: rgba(36,28,21,0.78); }
+
+  /* ---------- proof ---------- */
+  .proof{ background: var(--olive); color: var(--cream); padding: clamp(48px,8vw,80px) 0; }
+  .proof-grid{ display:grid; grid-template-columns: repeat(3,1fr); gap: 1px; background: rgba(246,241,231,0.2); border:1px solid rgba(246,241,231,0.2); margin-top:28px; }
+  @media (max-width:780px){ .proof-grid{ grid-template-columns:1fr; } }
+  .proof-card{ background: var(--olive); padding: 26px 24px; }
+  .proof-card p{ font-size:0.98rem; line-height:1.6; }
+  .proof-meta{ margin-top:14px; font-family: var(--mono); font-size:0.7rem; letter-spacing:0.04em; text-transform:uppercase; opacity:0.8; }
+
+  /* ---------- visit ---------- */
+  .visit{ padding: clamp(56px,9vw,96px) 0; }
+  .visit-grid{ display:grid; grid-template-columns: 1fr 1fr 1fr; gap: 40px; }
+  @media (max-width:780px){ .visit-grid{ grid-template-columns:1fr; } }
+  .visit h4{ font-family: var(--mono); font-size:0.72rem; letter-spacing:0.1em; text-transform:uppercase; color: var(--wine); margin-bottom:12px; }
+  .visit p, .visit a{ font-size:1.02rem; line-height:1.6; }
+  .visit a{ text-decoration:underline; text-underline-offset:4px; text-decoration-color: rgba(36,28,21,0.3); }
+  .visit a:hover{ text-decoration-color: var(--wine); }
+  .visit .note{ margin-top:8px; font-size:0.85rem; opacity:0.65; }
+
+  footer{ background: var(--wine-deep); color: rgba(246,241,231,0.6); padding: 30px 0; }
+  .footer-inner{ display:flex; justify-content:space-between; align-items:center; flex-wrap:wrap; gap:16px; font-size:0.8rem; }
+  .footer-social{ display:flex; gap:18px; }
+  .footer-inner a:hover{ color: var(--gold); }
+
+  /* ---------- concept preview utility ---------- */
+  .concept-banner{
+    display:flex;
+    justify-content:space-between;
+    gap:18px;
+    align-items:center;
+    padding:9px clamp(20px,5vw,48px);
+    background:#2E0E13;
+    color:rgba(246,241,231,.76);
+    border-bottom:1px solid rgba(169,130,47,.25);
+    font-family:var(--mono);
+    font-size:.64rem;
+    letter-spacing:.04em;
+    line-height:1.4;
+  }
+  .concept-banner strong{
+    color:var(--gold);
+    text-transform:uppercase;
+  }
+  @media (max-width:760px){
+    .concept-banner{
+      align-items:flex-start;
+      flex-direction:column;
+      gap:3px;
+    }
+  }
+
+  /* ---------- visual upgrades ---------- */
+  .hero::before{
+    content:"";
+    position:absolute;
+    inset:0;
+    pointer-events:none;
+    background:
+      radial-gradient(circle at 84% 18%, rgba(169,130,47,.10), transparent 24%),
+      linear-gradient(90deg, transparent 0 73%, rgba(91,31,38,.035) 73% 73.3%, transparent 73.3%);
+  }
+  .hero .wrap{position:relative; z-index:1;}
+  .staff-card{
+    box-shadow:12px 12px 0 rgba(91,31,38,.08);
+    transition:transform .2s ease, box-shadow .2s ease;
+  }
+  .staff-card:hover{
+    transform:translateY(-4px);
+    box-shadow:16px 16px 0 rgba(91,31,38,.11);
+  }
+  .proof-card{
+    transition:transform .2s ease, background .2s ease;
+  }
+  .proof-card:hover{
+    transform:translateY(-3px);
+    background:#747A58;
+  }
+  .dish-line{
+    transition:padding-left .18s ease, color .18s ease;
+  }
+  .dish-line:hover{
+    padding-left:8px;
+    color:#FFFFFF;
+  }
+  .nav-cta,.btn{border-radius:2px;}
+
+  .mobile-action{
+    display:none;
+  }
+  @media (max-width:720px){
+    body{padding-bottom:76px;}
+    .mobile-action{
+      position:fixed;
+      left:14px;
+      right:14px;
+      bottom:14px;
+      z-index:80;
+      display:flex;
+      gap:10px;
+      padding:10px;
+      background:rgba(61,19,25,.96);
+      border:1px solid rgba(169,130,47,.38);
+      backdrop-filter:blur(12px);
+      box-shadow:0 14px 35px rgba(0,0,0,.28);
+    }
+    .mobile-action a{
+      flex:1;
+      text-align:center;
+      padding:12px 10px;
+      font-family:var(--mono);
+      font-size:.7rem;
+      text-transform:uppercase;
+      letter-spacing:.05em;
+    }
+    .mobile-action .reserve{
+      background:var(--wine);
+      color:var(--cream);
+    }
+    .mobile-action .email{
+      border:1px solid var(--gold);
+      color:var(--gold);
+    }
+  }
+
+</style>
+</head>
+<body>
+<div class="concept-banner" role="note">
+  <span><strong>Concept Preview</strong> · Designed by Kodawa Labs</span>
+  <span>Independent redesign concept — not the official Trattoria website.</span>
+</div>
+
+<header class="site-nav">
+  <div class="nav-inner">
+    <div class="nav-mark">Trattoria <em>Ristorante</em></div>
+    <nav class="nav-links">
+      <a href="#story">Our Story</a>
+      <a href="#menu">The Menu</a>
+      <a href="#reviews">Reviews</a>
+      <a href="#visit">Visit</a>
+    </nav>
+    <a class="nav-cta" href="tel:+254202240205">Reserve</a>
+  </div>
+</header>
+
+<section class="hero">
+  <div class="wrap">
+    <p class="est">Kaunda &amp; Wabera Street · Nairobi CBD</p>
+    <h1 class="hero-title">Nairobi's Italian table since 1981.</h1>
+    <p class="hero-sub">Handmade pasta, wood-fired pizza and a wine list that hasn't chased a single trend in over forty years — recently resettled at 20th Century House, a few doors from where it all began.</p>
+
+    <div class="since-badge">
+      <span class="yr">1981</span>
+      <span class="txt">Opened by Gaetano Ruffo</span>
+    </div>
+
+    <div class="fact-row">
+      <div class="fact"><div class="fact-num">3.7 ★</div><div class="fact-label">387 Tripadvisor reviews</div></div>
+      <div class="fact"><div class="fact-num">$$–$$$</div><div class="fact-label">Full bar &amp; wine list</div></div>
+      <div class="fact"><div class="fact-num">7:30AM–12AM</div><div class="fact-label">Open daily</div></div>
+      <div class="fact"><div class="fact-num">44 Yrs</div><div class="fact-label">Serving Nairobi</div></div>
+    </div>
+
+    <div class="hero-cta-row">
+      <a class="btn btn-primary" href="tel:+254202240205">Reserve a Table</a>
+      <a class="btn btn-outline" href="#menu">See the Menu</a>
+    </div>
+  </div>
+</section>
+
+<section class="story" id="story">
+  <div class="wrap story-grid">
+    <div>
+      <p class="est">Since 1981</p>
+      <h2>A restaurant that outlasted its own address.</h2>
+    </div>
+    <div class="story-body">
+      <p>Gaetano Ruffo first visited Kenya as a tourist in 1975, settled permanently two years later, and in 1981 opened the doors of what would become one of Nairobi's most enduring dining rooms. For over four decades, Trattoria served everyone from Cabinet Ministers to first-time visitors from a corner table on Wabera Street — through recession, renovation, and a changing city around it.</p>
+      <p>In 2025, after 44 years at Town House, Trattoria moved a short distance to 20th Century House on Kaunda Street — new walls, same kitchen philosophy: honest, traditional Italian cooking, made the way it's always been made here.</p>
+      <p class="signoff">Still family recipes. Still the same welcome.</p>
+    </div>
+  </div>
+</section>
+
+<section class="menu-section" id="menu">
+  <div class="wrap">
+    <div class="menu-head">
+      <p class="est">On The Table</p>
+      <h2>Forty Years of Favourites</h2>
+      <p>A long, traditional Italian menu with nightly specials — the dishes below are what regulars keep coming back for.</p>
+    </div>
+
+    <div class="menu-cols">
+      <div>
+        <h3>Pasta &amp; Risotto</h3>
+        <div class="dish-line">Spaghetti Carbonara<span class="note">A long-standing house favourite</span></div>
+        <div class="dish-line">Arrabbiata<span class="note">Al dente, tasty, properly spiced</span></div>
+        <div class="dish-line">Wild Mushroom &amp; Ricotta Ravioli</div>
+        <div class="dish-line">Artichoke Risotto</div>
+      </div>
+      <div>
+        <h3>Mains &amp; Antipasti</h3>
+        <div class="dish-line">Ossobuco<span class="note">Served with potato mash</span></div>
+        <div class="dish-line">Mixed Seafood Antipasto</div>
+        <div class="dish-line">Thin-Crust Vegetarian Pizza</div>
+        <div class="dish-line">Fish Soup</div>
+      </div>
+      <div>
+        <h3>To Finish</h3>
+        <div class="dish-line">Tiramisu<span class="note">Made the traditional way</span></div>
+        <div class="dish-line">Double Espresso Macchiato</div>
+      </div>
+      <div>
+        <h3>Cellar</h3>
+        <div class="dish-line">Extensive Italian &amp; International Wine List</div>
+        <div class="dish-line">Full Bar Service</div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="staff">
+  <div class="wrap staff-grid">
+    <div>
+      <h2>The reason regulars keep a standing table.</h2>
+      <p>Trattoria's reputation was never built on spectacle. Guests consistently point to the same thing: a dining room run by people who have been doing this for decades, with a calm, attentive style that's become rarer across Nairobi's restaurant scene.</p>
+    </div>
+    <div class="staff-card">
+      <p class="est">A Recurring Note</p>
+      <h4>The Longest-Serving Member of Staff</h4>
+      <p>Guests describe a member of the front-of-house team, known for quiet, attentive service — communication through a glance rather than a raised hand — as one of the reasons they return.</p>
+    </div>
+  </div>
+</section>
+
+<section class="proof" id="reviews">
+  <div class="wrap">
+    <p class="est" style="color: var(--gold);">What Keeps People Coming Back</p>
+    <div class="proof-grid">
+      <div class="proof-card">
+        <p>Long-time regulars describe recipes that haven't changed in decades — the same food they remember from childhood visits.</p>
+        <div class="proof-meta">Tripadvisor · Repeat Guest</div>
+      </div>
+      <div class="proof-card">
+        <p>The upstairs balcony overlooking the CBD street below comes up often as a favourite spot to sit.</p>
+        <div class="proof-meta">Tripadvisor · Balcony Seating</div>
+      </div>
+      <div class="proof-card">
+        <p>Portions are generous enough that regulars often mention taking food home after the main course.</p>
+        <div class="proof-meta">Tripadvisor · Value</div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="visit" id="visit">
+  <div class="wrap">
+    <div class="visit-grid">
+      <div>
+        <h4>Find Us</h4>
+        <p>20th Century House, Kaunda &amp; Wabera Street<br>Nairobi CBD, Kenya</p>
+        <p class="note">Recently relocated from Town House, a short walk away</p>
+      </div>
+      <div>
+        <h4>Reserve</h4>
+        <p><a href="tel:+254202240205">+254 20 2240205</a></p>
+        <p class="note"><a href="mailto:trattoria.kenya@gmail.com">trattoria.kenya@gmail.com</a></p>
+      </div>
+      <div>
+        <h4>Hours</h4>
+        <p>Daily · 7:30 AM – 12:00 AM<br><span style="opacity:0.7; font-size:0.85rem;">Full bar, late-night service</span></p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<footer>
+  <div class="wrap footer-inner">
+    <span>© 2026 Trattoria Ristorante &amp; Pizzeria, Nairobi</span>
+    <div class="footer-social">
+      <a href="https://www.facebook.com/trattoriakenya/" target="_blank" rel="noopener">Facebook</a>
+    </div>
+  </div>
+</footer>
+
+
+<div class="mobile-action" aria-label="Quick actions">
+  <a class="reserve" href="tel:+254202240205">Reserve</a>
+  <a class="email" href="mailto:trattoria.kenya@gmail.com">Email</a>
+</div>
+
+</body>
+</html>
