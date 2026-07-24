@@ -1,392 +1,217 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
 <head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Akira — Modern Asian, Westgate Mall, Westlands</title>
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Zen+Old+Mincho:wght@400;500;600;700&family=Noto+Sans:wght@400;500;600;700&family=Zen+Kaku+Gothic+Mono:wght@400;500&display=swap" rel="stylesheet">
-<style>
-  :root{
-    --paper:#F2F0EA;
-    --paper-deep:#E6E2D8;
-    --sumi:#1B1B18;
-    --sumi-deep:#0E0E0C;
-    --crimson:#B3372C;
-    --moss:#4C5A45;
-    --clay:#B08863;
-    --display:'Zen Old Mincho', serif;
-    --body:'Noto Sans', sans-serif;
-    --mono:'Zen Kaku Gothic Mono', monospace;
-  }
-  *{box-sizing:border-box; margin:0; padding:0;}
-  html{scroll-behavior:smooth;}
-  body{ font-family: var(--body); background: var(--paper); color: var(--sumi); -webkit-font-smoothing:antialiased; }
-  a{ color:inherit; text-decoration:none; }
-  :focus-visible{ outline: 3px solid var(--crimson); outline-offset:3px; }
-  .wrap{ max-width: 1080px; margin:0 auto; padding: 0 clamp(20px,5vw,48px); }
-  section[id]{ scroll-margin-top: 68px; }
-
-  header.site-nav{ position:sticky; top:0; z-index:50; background: var(--paper); border-bottom: 1px solid rgba(27,27,24,0.14); }
-  .nav-inner{ display:flex; align-items:center; justify-content:space-between; padding: 15px clamp(20px,5vw,48px); }
-  .nav-mark{ font-family: var(--display); font-weight:600; font-size:1.2rem; letter-spacing: 0.04em; }
-  .nav-mark .dot{ color: var(--crimson); }
-  .nav-links{ display:flex; gap:26px; font-size:0.76rem; letter-spacing:0.12em; text-transform:uppercase; }
-  .nav-links a{ opacity:0.65; transition: opacity .15s; }
-  .nav-links a:hover{ opacity:1; }
-  .nav-cta{ font-family: var(--mono); font-size:0.74rem; background: var(--sumi-deep); color: var(--paper); padding: 9px 16px; letter-spacing:0.03em; }
-  @media (max-width:720px){ .nav-links{ display:none; } }
-
-  /* ---------- hero ---------- */
-  .hero{ padding: clamp(72px,11vw,124px) 0 clamp(56px,9vw,96px); position:relative; }
-  .hero-rule{ position:absolute; top:0; left:0; right:0; height:1px; background: rgba(27,27,24,0.1); }
-  .eyebrow{
-    font-family: var(--mono); font-size:0.76rem; letter-spacing:0.16em; text-transform:uppercase;
-    color: var(--crimson); display:flex; align-items:center; gap:10px; margin-bottom:24px;
-  }
-  .eyebrow::before{ content:""; width:24px; height:1px; background: var(--crimson); }
-  h1.hero-title{
-    font-family: var(--display); font-weight:600; font-size: clamp(2.8rem, 7.5vw, 5.4rem);
-    line-height: 1.05; letter-spacing: 0.01em;
-  }
-  h1.hero-title .accent{ color: var(--crimson); }
-  .hero-sub{ margin-top:24px; font-size: clamp(1rem,1.8vw,1.16rem); max-width:48ch; color: rgba(27,27,24,0.72); line-height:1.65; }
-
-  .fact-row{ margin-top:44px; display:flex; flex-wrap:wrap; gap:0; border-top: 1px solid rgba(27,27,24,0.16); }
-  .fact{ flex:1 1 150px; padding:18px 20px 0 0; }
-  .fact-num{ font-family: var(--display); font-weight:600; font-size:1.4rem; color: var(--crimson); }
-  .fact-label{ font-family: var(--mono); font-size:0.68rem; letter-spacing:0.05em; text-transform:uppercase; opacity:0.6; margin-top:4px; }
-
-  .hero-cta-row{ margin-top:36px; display:flex; gap:14px; flex-wrap:wrap; }
-  .btn{ display:inline-flex; align-items:center; gap:8px; padding:14px 26px; font-size:0.8rem; letter-spacing:0.05em; text-transform:uppercase; font-weight:600; transition: transform .15s ease; }
-  .btn:hover{ transform: translateY(-2px); }
-  .btn-primary{ background: var(--sumi-deep); color: var(--paper); }
-  .btn-outline{ border:1px solid var(--sumi-deep); color: var(--sumi-deep); }
-
-  /* ---------- about ---------- */
-  .about{ background: var(--paper-deep); padding: clamp(56px,9vw,96px) 0; }
-  .about-grid{ display:grid; grid-template-columns: 0.85fr 1.15fr; gap: clamp(32px,6vw,72px); }
-  @media (max-width:780px){ .about-grid{ grid-template-columns:1fr; } }
-  .about h2{ font-family: var(--display); font-weight:600; font-size: clamp(1.9rem,4vw,2.5rem); line-height:1.2; }
-  .about-body p{ font-size:1.02rem; line-height:1.75; color: rgba(27,27,24,0.8); }
-  .about-body p + p{ margin-top:14px; }
-  .tag-row{ margin-top:22px; display:flex; flex-wrap:wrap; gap:10px; }
-  .tag{ font-family: var(--mono); font-size:0.68rem; letter-spacing:0.04em; text-transform:uppercase; border:1px solid var(--sumi-deep); padding:6px 12px; }
-
-  /* ---------- menu ---------- */
-  .menu-section{ background: var(--sumi-deep); color: var(--paper); padding: clamp(64px,10vw,108px) 0; }
-  .menu-head{ text-align:center; margin-bottom: clamp(40px,7vw,64px); }
-  .menu-head .eyebrow{ justify-content:center; color: var(--clay); }
-  .menu-head .eyebrow::before{ background: var(--clay); }
-  .menu-head h2{ font-family: var(--display); font-weight:600; font-size: clamp(2.1rem,5vw,3.2rem); }
-  .menu-head p{ margin-top:14px; color: rgba(242,240,234,0.55); font-size:1rem; max-width:46ch; margin-left:auto; margin-right:auto; }
-
-  .board-grid{ display:grid; grid-template-columns: repeat(2,1fr); gap: 44px 64px; }
-  @media (max-width:720px){ .board-grid{ grid-template-columns:1fr; } }
-  .board-cat h3{ font-family: var(--display); font-weight:500; font-size:1.2rem; color: var(--clay); margin-bottom:16px; padding-bottom:10px; border-bottom: 1px solid rgba(176,136,99,0.3); }
-  .menu-item{ display:flex; align-items:baseline; gap:10px; padding: 9px 0; }
-  .menu-item-name{ font-size:1rem; font-weight:500; }
-  .menu-item-leader{ flex:1; border-bottom: 1px dotted rgba(242,240,234,0.3); transform: translateY(-4px); }
-  .menu-item-price{ font-family: var(--mono); font-size:0.9rem; opacity:0.85; white-space:nowrap; }
-
-  /* ---------- room ---------- */
-  .room{ padding: clamp(56px,9vw,96px) 0; }
-  .room-grid{ display:grid; grid-template-columns: 1fr 1fr; gap: 40px; align-items:center; }
-  @media (max-width:780px){ .room-grid{ grid-template-columns:1fr; } }
-  .room h2{ font-family: var(--display); font-weight:600; font-size: clamp(1.8rem,4vw,2.4rem); }
-  .room p{ margin-top:16px; font-size:1.02rem; line-height:1.7; color: rgba(27,27,24,0.78); }
-  .room-card{ border: 1px solid var(--sumi-deep); padding: 28px; background: var(--paper-deep); }
-  .room-card h4{ font-family: var(--display); font-weight:600; font-size:1.1rem; margin-bottom:8px; }
-  .room-card p{ margin-top:0; font-size:0.94rem; }
-  .room-card + .room-card{ margin-top: 18px; }
-
-  /* ---------- proof ---------- */
-  .proof{ background: var(--moss); color: var(--paper); padding: clamp(48px,8vw,80px) 0; }
-  .proof-grid{ display:grid; grid-template-columns: repeat(3,1fr); gap:1px; background: rgba(242,240,234,0.2); border:1px solid rgba(242,240,234,0.2); margin-top:28px; }
-  @media (max-width:780px){ .proof-grid{ grid-template-columns:1fr; } }
-  .proof-card{ background: var(--moss); padding: 26px 24px; }
-  .proof-card p{ font-size:0.98rem; line-height:1.6; }
-  .proof-meta{ margin-top:14px; font-family: var(--mono); font-size:0.7rem; letter-spacing:0.04em; text-transform:uppercase; opacity:0.75; }
-
-  /* ---------- visit ---------- */
-  .visit{ padding: clamp(56px,9vw,96px) 0; }
-  .visit-grid{ display:grid; grid-template-columns: 1fr 1fr 1fr; gap: 40px; }
-  @media (max-width:780px){ .visit-grid{ grid-template-columns:1fr; } }
-  .visit h4{ font-family: var(--mono); font-size:0.72rem; letter-spacing:0.1em; text-transform:uppercase; color: var(--crimson); margin-bottom:12px; }
-  .visit p, .visit a{ font-size:1.02rem; line-height:1.6; }
-  .visit a{ text-decoration:underline; text-underline-offset:4px; text-decoration-color: rgba(27,27,24,0.3); }
-  .visit a:hover{ text-decoration-color: var(--crimson); }
-
-  footer{ background: var(--sumi-deep); color: rgba(242,240,234,0.55); padding: 30px 0; }
-  .footer-inner{ display:flex; justify-content:space-between; align-items:center; flex-wrap:wrap; gap:16px; font-size:0.8rem; }
-  .footer-social{ display:flex; gap:18px; }
-  .footer-inner a:hover{ color: var(--clay); }
-
-  /* ---------- concept preview utility ---------- */
-  .concept-banner{
-    display:flex;
-    justify-content:space-between;
-    gap:18px;
-    align-items:center;
-    padding:9px clamp(20px,5vw,48px);
-    background:#090907;
-    color:rgba(242,240,234,.74);
-    border-bottom:1px solid rgba(176,136,99,.24);
-    font-family:var(--mono);
-    font-size:.64rem;
-    letter-spacing:.04em;
-    line-height:1.4;
-  }
-  .concept-banner strong{
-    color:var(--clay);
-    text-transform:uppercase;
-  }
-  @media (max-width:760px){
-    .concept-banner{
-      align-items:flex-start;
-      flex-direction:column;
-      gap:3px;
-    }
-  }
-
-  /* ---------- visual upgrades ---------- */
-  .hero::before{
-    content:"";
-    position:absolute;
-    inset:0;
-    pointer-events:none;
-    background:
-      radial-gradient(circle at 82% 18%, rgba(179,55,44,.08), transparent 24%),
-      linear-gradient(90deg, transparent 0 74%, rgba(76,90,69,.04) 74% 74.3%, transparent 74.3%);
-  }
-  .hero .wrap{position:relative; z-index:1;}
-
-  .room-card,.proof-card,.board-cat{
-    transition:transform .2s ease, background .2s ease, box-shadow .2s ease;
-  }
-  .room-card:hover{
-    transform:translateY(-4px);
-    box-shadow:12px 12px 0 rgba(27,27,24,.08);
-  }
-  .proof-card:hover{
-    transform:translateY(-3px);
-    background:#55644E;
-  }
-  .board-cat:hover{
-    transform:translateY(-3px);
-  }
-  .menu-item{
-    transition:padding-left .18s ease, color .18s ease;
-  }
-  .menu-item:hover{
-    padding-left:8px;
-    color:#FFFFFF;
-  }
-  .nav-cta,.btn{border-radius:2px;}
-
-  .mobile-action{
-    display:none;
-  }
-  @media (max-width:720px){
-    body{padding-bottom:76px;}
-    .mobile-action{
-      position:fixed;
-      left:14px;
-      right:14px;
-      bottom:14px;
-      z-index:80;
-      display:flex;
-      gap:10px;
-      padding:10px;
-      background:rgba(14,14,12,.96);
-      border:1px solid rgba(176,136,99,.34);
-      backdrop-filter:blur(12px);
-      box-shadow:0 14px 35px rgba(0,0,0,.3);
-    }
-    .mobile-action a{
-      flex:1;
-      text-align:center;
-      padding:12px 10px;
-      font-family:var(--mono);
-      font-size:.7rem;
-      text-transform:uppercase;
-      letter-spacing:.05em;
-    }
-    .mobile-action .reserve{
-      background:var(--crimson);
-      color:var(--paper);
-    }
-    .mobile-action .instagram{
-      border:1px solid var(--clay);
-      color:var(--clay);
-    }
-  }
-
-</style>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="Akira Modern Asian — contemporary Asian dining, sushi, robata and cocktails." />
+  <title>Akira Modern Asian</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500;600;700&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css" />
 </head>
 <body>
-<div class="concept-banner" role="note">
-  <span><strong>Concept Preview</strong> · Designed by Kodawa Labs</span>
-  <span>Independent redesign concept — not the official Akira website.</span>
-</div>
+  <div class="page-noise" aria-hidden="true"></div>
 
-<header class="site-nav">
-  <div class="nav-inner">
-    <div class="nav-mark">AKIRA<span class="dot">.</span></div>
-    <nav class="nav-links">
-      <a href="#about">About</a>
+  <header class="site-header" id="top">
+    <a class="brand" href="#top" aria-label="Akira home">
+      <span class="brand-mark">A</span>
+      <span class="brand-copy"><strong>AKIRA</strong><small>MODERN ASIAN</small></span>
+    </a>
+    <button class="menu-toggle" aria-label="Open menu" aria-expanded="false"><span></span><span></span></button>
+    <nav class="site-nav" aria-label="Main navigation">
+      <a href="#story">Story</a>
       <a href="#menu">Menu</a>
-      <a href="#room">The Room</a>
+      <a href="#gallery">Gallery</a>
       <a href="#visit">Visit</a>
+      <a class="nav-cta" href="#reserve">Reserve</a>
     </nav>
-    <a class="nav-cta" href="tel:+254700188988">Reserve</a>
-  </div>
-</header>
+  </header>
 
-<section class="hero">
-  <div class="hero-rule"></div>
-  <div class="wrap">
-    <p class="eyebrow">Westgate Mall · Mwanzi Road · Westlands</p>
-    <h1 class="hero-title">Modern <span class="accent">Asian</span>,<br>sharpened.</h1>
-    <p class="hero-sub">Sushi, wok-fired plates and Japanese-style low seating on the 1st floor of Westgate Mall — sleek, minimalist, and built for a slower kind of night out.</p>
+  <main>
+    <section class="hero">
+      <div class="hero-media" aria-hidden="true"></div>
+      <div class="hero-shade"></div>
+      <div class="hero-content reveal">
+        <p class="eyebrow">Nairobi · Modern Asian Dining</p>
+        <h1>Crafted with fire.<br><em>Served with soul.</em></h1>
+        <p class="hero-copy">A contemporary Asian dining experience where sushi, robata, wok-fired favourites and signature cocktails meet.</p>
+        <div class="hero-actions">
+          <a class="button button-primary" href="#reserve">Reserve a table</a>
+          <a class="button button-ghost" href="#menu">Explore the menu</a>
+        </div>
+      </div>
+      <a class="scroll-cue" href="#story" aria-label="Scroll to story"><span></span>Discover</a>
+    </section>
 
-    <div class="fact-row">
-      <div class="fact"><div class="fact-num">$$$</div><div class="fact-label">Higher-end pricing</div></div>
-      <div class="fact"><div class="fact-num">11AM–11PM</div><div class="fact-label">Open daily</div></div>
-      <div class="fact"><div class="fact-num">Sushi</div><div class="fact-label">Wok · Ramen · Robata</div></div>
-      <div class="fact"><div class="fact-num">Floor Seating</div><div class="fact-label">Japanese-style tables</div></div>
-    </div>
+    <section class="intro section" id="story">
+      <div class="section-kicker reveal">The Akira Experience</div>
+      <div class="intro-grid">
+        <div class="intro-copy reveal">
+          <h2>Asian tradition,<br><em>reimagined.</em></h2>
+          <p>Akira brings together the precision of Japanese craft, the energy of an open kitchen and the warmth of contemporary Nairobi hospitality.</p>
+          <p>From delicate sushi to flame-kissed skewers and vibrant wok dishes, every plate is designed to be shared, discovered and remembered.</p>
+          <a class="text-link" href="#menu">Discover our signatures <span>↗</span></a>
+        </div>
+        <figure class="portrait-card reveal">
+          <img src="assets/interior-2.webp" alt="Akira restaurant interior with open kitchen and warm wood details" />
+          <figcaption><span>01</span> Open kitchen dining</figcaption>
+        </figure>
+      </div>
+    </section>
 
-    <div class="hero-cta-row">
-      <a class="btn btn-primary" href="tel:+254700188988">Reserve a Table</a>
-      <a class="btn btn-outline" href="#menu">View Menu</a>
-    </div>
-  </div>
-</section>
+    <section class="experience-strip" aria-label="Dining highlights">
+      <div><span>01</span><strong>Sushi</strong><small>Freshly prepared</small></div>
+      <div><span>02</span><strong>Robata</strong><small>Flame grilled</small></div>
+      <div><span>03</span><strong>Wok</strong><small>Bold & aromatic</small></div>
+      <div><span>04</span><strong>Cocktails</strong><small>House signatures</small></div>
+    </section>
 
-<section class="about" id="about">
-  <div class="wrap about-grid">
-    <div>
-      <p class="eyebrow" style="color:var(--moss);">The Kitchen</p>
-      <h2>Contemporary Asian, precisely made.</h2>
-    </div>
-    <div class="about-body">
-      <p>Akira sits on the 1st floor of Westgate Mall in Westlands, with sleek wood styling and minimalist furniture that set a calmer tone than most of Nairobi's dinner-and-drinks scene. The menu runs wide — sushi and sashimi through to ramen, wok-fired rice, robata skewers, and steaks — built by chefs working across the breadth of modern Asian cooking.</p>
-      <p>Seating flexes with the occasion: large tables for groups, a full bar for solo diners, or the Japanese-style low tables with floor cushions for something more immersive.</p>
-      <div class="tag-row">
-        <span class="tag">Sushi &amp; Sashimi</span>
-        <span class="tag">Ramen</span>
-        <span class="tag">Robata Grill</span>
-        <span class="tag">Full Bar</span>
+    <section class="menu-section section" id="menu">
+      <div class="menu-heading reveal">
+        <div>
+          <p class="section-kicker">Chef's Selection</p>
+          <h2>Signature plates</h2>
+        </div>
+        <p>Designed for a table full of discovery—from crisp rolls and smoky skewers to comforting wok classics.</p>
       </div>
-    </div>
-  </div>
-</section>
 
-<section class="menu-section" id="menu">
-  <div class="wrap">
-    <div class="menu-head">
-      <p class="eyebrow">From The Kitchen</p>
-      <h2>A Taste of the Menu</h2>
-      <p>A sample of what's on offer — the full menu runs considerably longer, spanning sushi, mains and cocktails.</p>
-    </div>
+      <div class="dish-grid">
+        <article class="dish-card dish-card-large reveal">
+          <img src="assets/board-1.webp" alt="Sushi rolls served on a wooden board" />
+          <div class="dish-overlay"><span>Sushi</span><h3>Akira Signature Rolls</h3><p>Tempura, avocado, house spicy mayo</p></div>
+        </article>
+        <article class="dish-card reveal">
+          <img src="assets/skewers-1.webp" alt="Grilled chicken skewers on tabletop grill" />
+          <div class="dish-overlay"><span>Robata</span><h3>Charcoal Chicken</h3><p>Sweet soy glaze, chilli and sesame</p></div>
+        </article>
+        <article class="dish-card reveal">
+          <img src="assets/plate-8.webp" alt="Asian chicken dish with vegetables and rice" />
+          <div class="dish-overlay"><span>Wok</span><h3>Fire-Kissed Chicken</h3><p>Seasonal vegetables and steamed rice</p></div>
+        </article>
+        <article class="dish-card reveal">
+          <img src="assets/plate-2.webp" alt="Golden steamed buns with dipping sauce" />
+          <div class="dish-overlay"><span>Dim Sum</span><h3>Golden Bao</h3><p>Soft steamed buns, savoury filling</p></div>
+        </article>
+        <article class="dish-card dish-card-wide reveal">
+          <img src="assets/plate-3.webp" alt="Flat noodles with vegetables and peanuts" />
+          <div class="dish-overlay"><span>Noodles</span><h3>Wok-Tossed Flat Noodles</h3><p>Vegetables, roasted peanuts and lime</p></div>
+        </article>
+      </div>
 
-    <div class="board-grid">
-      <div class="board-cat">
-        <h3>To Start</h3>
-        <div class="menu-item"><span class="menu-item-name">Duck Dumplings</span><span class="menu-item-leader"></span><span class="menu-item-price">KES 1,200</span></div>
-        <div class="menu-item"><span class="menu-item-name">Pork Belly Skewers</span><span class="menu-item-leader"></span><span class="menu-item-price">KES 1,100</span></div>
+      <div class="menu-cta reveal">
+        <p>Vegetarian options and dietary accommodations are available.</p>
+        <a class="button button-outline" href="#reserve">Book your table</a>
       </div>
-      <div class="board-cat">
-        <h3>Mains</h3>
-        <div class="menu-item"><span class="menu-item-name">Kimchi Fried Rice</span><span class="menu-item-leader"></span><span class="menu-item-price">KES 1,250</span></div>
-        <div class="menu-item"><span class="menu-item-name">Spicy Chicken Ramen</span><span class="menu-item-leader"></span><span class="menu-item-price">KES 1,100</span></div>
-      </div>
-      <div class="board-cat">
-        <h3>Sushi</h3>
-        <div class="menu-item"><span class="menu-item-name">Crazy Salmon Roll</span><span class="menu-item-leader"></span><span class="menu-item-price">KES 1,900</span></div>
-      </div>
-      <div class="board-cat">
-        <h3>Bar</h3>
-        <div class="menu-item"><span class="menu-item-name">Lychee Gin &amp; Tonic</span><span class="menu-item-leader"></span><span class="menu-item-price">KES 1,050</span></div>
-      </div>
-    </div>
-  </div>
-</section>
+    </section>
 
-<section class="room" id="room">
-  <div class="wrap room-grid">
-    <div>
-      <h2>Built for date nights and long dinners.</h2>
-      <p>Akira's design does a lot of the work — wood tones, low light, and a seating plan spaced out enough that neighbouring tables stay out of earshot. It's landed as a go-to for date nights, celebrations, and the kind of dinner you don't want to rush.</p>
-    </div>
-    <div>
-      <div class="room-card">
-        <h4>Service</h4>
-        <p>Attentive front-of-house, consistently one of the better-reviewed parts of the experience.</p>
+    <section class="kitchen-story">
+      <img src="assets/open-kitchen.webp" alt="Akira open kitchen beneath sculptural wooden ceiling" />
+      <div class="kitchen-panel reveal">
+        <p class="section-kicker">Made in full view</p>
+        <h2>The theatre of the open kitchen.</h2>
+        <p>See the craft unfold. Every slice, flame and finishing touch happens at the heart of the restaurant.</p>
+        <a class="text-link light" href="#gallery">Step inside <span>↗</span></a>
       </div>
-      <div class="room-card">
-        <h4>Seating</h4>
-        <p>Big tables for groups, bar seating, or traditional low Japanese-style tables with floor cushions.</p>
-      </div>
-    </div>
-  </div>
-</section>
+    </section>
 
-<section class="proof">
-  <div class="wrap">
-    <p class="eyebrow" style="color:var(--clay);">Worth Knowing</p>
-    <div class="proof-grid">
-      <div class="proof-card">
-        <p>The duck dumplings and kimchi fried rice come up repeatedly as standout dishes worth ordering.</p>
-        <div class="proof-meta">Local Food Reviews</div>
+    <section class="gallery-section section" id="gallery">
+      <div class="gallery-heading reveal">
+        <p class="section-kicker">Inside Akira</p>
+        <h2>Come for the flavour.<br><em>Stay for the atmosphere.</em></h2>
       </div>
-      <div class="proof-card">
-        <p>Regarded as a premium spot in Westlands — worth planning for on price, not a casual weekday drop-in.</p>
-        <div class="proof-meta">Price Positioning</div>
+      <div class="masonry-gallery">
+        <button class="gallery-item tall reveal" data-image="assets/roof.webp"><img src="assets/roof.webp" alt="Sculptural wood ceiling at Akira" /></button>
+        <button class="gallery-item reveal" data-image="assets/cocktail.webp"><img src="assets/cocktail.webp" alt="Strawberry signature cocktail" /></button>
+        <button class="gallery-item reveal" data-image="assets/plate-1.webp"><img src="assets/plate-1.webp" alt="Assorted sushi platter" /></button>
+        <button class="gallery-item wide reveal" data-image="assets/dining.webp"><img src="assets/dining.webp" alt="Circular bar and dining area" /></button>
+        <button class="gallery-item reveal" data-image="assets/plate-7.webp"><img src="assets/plate-7.webp" alt="Grilled seafood with vegetables and rice" /></button>
+        <button class="gallery-item tall reveal" data-image="assets/interior-3.webp"><img src="assets/interior-3.webp" alt="Akira dining room and open kitchen" /></button>
+        <button class="gallery-item reveal" data-image="assets/plate-4.webp"><img src="assets/plate-4.webp" alt="Sizzling ribs with vegetables and rice" /></button>
+        <button class="gallery-item reveal" data-image="assets/entrance.webp"><img src="assets/entrance.webp" alt="Akira restaurant entrance" /></button>
       </div>
-      <div class="proof-card">
-        <p>Design and ambience are consistently the most-praised part of the experience, described as sleek and calm.</p>
-        <div class="proof-meta">Decor &amp; Atmosphere</div>
-      </div>
-    </div>
-  </div>
-</section>
+    </section>
 
-<section class="visit" id="visit">
-  <div class="wrap">
-    <div class="visit-grid">
-      <div>
-        <h4>Find Us</h4>
-        <p>1st Floor, Westgate Mall<br>Mwanzi Road, Westlands, Nairobi</p>
+    <section class="reserve-section section" id="reserve">
+      <div class="reserve-copy reveal">
+        <p class="section-kicker">Your table awaits</p>
+        <h2>Reserve your<br><em>Akira experience.</em></h2>
+        <p>Plan an intimate dinner, a relaxed lunch or a celebration around the table.</p>
+        <div class="contact-lines">
+          <span>Open daily</span>
+          <span>Lunch · Dinner · Drinks</span>
+        </div>
       </div>
-      <div>
-        <h4>Reserve</h4>
-        <p><a href="tel:+254700188988">0700 188 988</a></p>
+      <form class="reservation-form reveal" id="reservationForm">
+        <div class="field"><label for="name">Name</label><input id="name" name="name" type="text" placeholder="Your name" required /></div>
+        <div class="field"><label for="phone">Phone</label><input id="phone" name="phone" type="tel" placeholder="Your phone number" required /></div>
+        <div class="form-row">
+          <div class="field"><label for="date">Date</label><input id="date" name="date" type="date" required /></div>
+          <div class="field"><label for="time">Time</label><select id="time" name="time" required><option value="">Select</option><option>12:30 PM</option><option>1:30 PM</option><option>6:30 PM</option><option>7:30 PM</option><option>8:30 PM</option></select></div>
+        </div>
+        <div class="field"><label for="guests">Guests</label><select id="guests" name="guests" required><option>2 guests</option><option>3 guests</option><option>4 guests</option><option>5 guests</option><option>6 guests</option><option>7+ guests</option></select></div>
+        <button class="button button-primary submit-button" type="submit">Request reservation</button>
+        <p class="form-note">Demo reservation form for the Akira concept website.</p>
+      </form>
+    </section>
+
+    <section class="ai-section section">
+      <div class="ai-card reveal">
+        <div class="ai-copy">
+          <p class="section-kicker">Always available</p>
+          <h2>Meet ReserveAI.</h2>
+          <p>Instant answers, menu guidance and reservation support—even after closing time.</p>
+          <ul><li>Table availability</li><li>Menu and dietary questions</li><li>Celebrations and group dining</li></ul>
+        </div>
+        <div class="chat-demo" aria-label="ReserveAI conversation example">
+          <div class="chat-header"><span class="status-dot"></span><div><strong>ReserveAI</strong><small>Online now</small></div></div>
+          <div class="message user-message">I'd like a table for four tomorrow evening.</div>
+          <div class="message bot-message">I'd be happy to help. Would you prefer 6:30 PM or 8:00 PM?</div>
+          <div class="chat-input">Type your message… <span>↗</span></div>
+        </div>
       </div>
-      <div>
-        <h4>Hours</h4>
-        <p>Daily · 11:00 AM – 11:00 PM</p>
+    </section>
+
+    <section class="reviews-section section">
+      <p class="section-kicker reveal">Guest Notes</p>
+      <div class="review-stage reveal">
+        <button class="review-arrow" id="prevReview" aria-label="Previous review">←</button>
+        <div class="review" id="reviewContent">
+          <div class="stars">★★★★★</div>
+          <blockquote>“A beautiful atmosphere, attentive service and dishes that make you want to order one more for the table.”</blockquote>
+          <cite>Akira guest</cite>
+        </div>
+        <button class="review-arrow" id="nextReview" aria-label="Next review">→</button>
       </div>
-    </div>
-  </div>
-</section>
+    </section>
 
-<footer>
-  <div class="wrap footer-inner">
-    <span>© 2026 Akira Modern Asian, Westlands</span>
-    <div class="footer-social">
-      <a href="https://www.instagram.com/akira.modernasian/" target="_blank" rel="noopener">Instagram</a>
-    </div>
-  </div>
-</footer>
+    <section class="visit-section" id="visit">
+      <div class="visit-image"><img src="assets/entrance.webp" alt="Entrance to Akira Modern Asian" /></div>
+      <div class="visit-info reveal">
+        <p class="section-kicker">Visit Akira</p>
+        <h2>Find your way<br><em>to the table.</em></h2>
+        <div class="visit-grid">
+          <div><small>Location</small><p>Spring Valley area<br>Nairobi, Kenya</p></div>
+          <div><small>Hours</small><p>Open daily<br>Lunch & dinner</p></div>
+          <div><small>Reservations</small><p>Book online<br>or via WhatsApp</p></div>
+          <div><small>Social</small><p>Instagram<br>Facebook</p></div>
+        </div>
+        <a class="button button-outline" href="#reserve">Reserve now</a>
+      </div>
+    </section>
+  </main>
 
+  <footer class="site-footer">
+    <a class="footer-brand" href="#top">AKIRA <small>MODERN ASIAN</small></a>
+    <p>Contemporary Asian dining in Nairobi.</p>
+    <div class="footer-links"><a href="#menu">Menu</a><a href="#reserve">Reservations</a><a href="#visit">Visit</a></div>
+    <div class="footer-bottom"><span>Concept website by Kodawa Labs</span><span>© 2026 Akira Modern Asian</span></div>
+  </footer>
 
-<div class="mobile-action" aria-label="Quick actions">
-  <a class="reserve" href="tel:+254700188988">Reserve</a>
-  <a class="instagram" href="https://www.instagram.com/akira.modernasian/" target="_blank" rel="noopener">Instagram</a>
-</div>
+  <div class="lightbox" id="lightbox" aria-hidden="true"><button class="lightbox-close" aria-label="Close image">×</button><img src="" alt="Expanded gallery view" /></div>
+  <div class="toast" id="toast" role="status">Reservation request received. This is a demo form.</div>
+  <a class="mobile-reserve" href="#reserve">Reserve a table</a>
 
+  <script src="script.js"></script>
 </body>
 </html>
