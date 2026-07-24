@@ -1,289 +1,108 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
 <head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>The Branch Restaurant — Kenya Cinema Plaza, Moi Avenue, Nairobi</title>
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Alfa+Slab+One&family=Nunito+Sans:wght@400;500;600;700;800&family=Martian+Mono:wght@400;500&display=swap" rel="stylesheet">
-<style>
-  :root{
-    --brick:#A83E2C;
-    --brick-deep:#7E2E20;
-    --forest:#2F4A32;
-    --forest-deep:#1E301F;
-    --cream:#FBF2E3;
-    --mustard:#DDA13B;
-    --ink:#231A14;
-    --display:'Alfa Slab One', serif;
-    --body:'Nunito Sans', sans-serif;
-    --mono:'Martian Mono', monospace;
-  }
-  *{box-sizing:border-box; margin:0; padding:0;}
-  html{scroll-behavior:smooth;}
-  body{ font-family: var(--body); background: var(--cream); color: var(--ink); -webkit-font-smoothing:antialiased; }
-  a{ color:inherit; text-decoration:none; }
-  :focus-visible{ outline: 3px solid var(--brick); outline-offset:3px; }
-  .wrap{ max-width: 1080px; margin:0 auto; padding: 0 clamp(20px,5vw,48px); }
-  section[id]{ scroll-margin-top: 68px; }
-
-  header.site-nav{ position:sticky; top:0; z-index:50; background: var(--cream); border-bottom: 1px solid rgba(35,26,20,0.16); }
-  .nav-inner{ display:flex; align-items:center; justify-content:space-between; padding: 15px clamp(20px,5vw,48px); }
-  .nav-mark{ font-family: var(--display); font-size:1.1rem; color: var(--brick-deep); letter-spacing:0.01em; }
-  .nav-links{ display:flex; gap:24px; font-size:0.78rem; letter-spacing:0.06em; text-transform:uppercase; font-weight:700; }
-  .nav-links a{ opacity:0.65; transition: opacity .15s; }
-  .nav-links a:hover{ opacity:1; }
-  .nav-cta{ font-family: var(--mono); font-size:0.72rem; background: var(--forest-deep); color: var(--cream); padding: 9px 16px; }
-  @media (max-width:720px){ .nav-links{ display:none; } }
-
-  /* ---------- hero ---------- */
-  .hero{ padding: clamp(68px,10vw,116px) 0 clamp(52px,8vw,88px); }
-  .eyebrow{
-    font-family: var(--mono); font-size:0.72rem; letter-spacing:0.12em; text-transform:uppercase;
-    color: var(--brick-deep); display:flex; align-items:center; gap:10px; margin-bottom:22px;
-  }
-  .eyebrow::before{ content:""; width:24px; height:1px; background: var(--brick-deep); }
-  h1.hero-title{ font-family: var(--display); font-size: clamp(2.3rem, 6vw, 4.2rem); line-height:1.06; max-width:15ch; color: var(--forest-deep); }
-  h1.hero-title .accent{ color: var(--brick); }
-  .hero-sub{ margin-top:22px; font-size: clamp(1rem,1.8vw,1.15rem); max-width:48ch; color: rgba(35,26,20,0.75); line-height:1.6; }
-
-  .fact-row{ margin-top:40px; display:flex; flex-wrap:wrap; gap:0; border-top: 1px solid rgba(35,26,20,0.18); }
-  .fact{ flex:1 1 140px; padding:16px 20px 0 0; }
-  .fact-num{ font-family: var(--display); font-size:1.2rem; color: var(--brick-deep); }
-  .fact-label{ font-family: var(--mono); font-size:0.64rem; letter-spacing:0.05em; text-transform:uppercase; opacity:0.62; margin-top:6px; }
-
-  .hero-cta-row{ margin-top:32px; display:flex; gap:14px; flex-wrap:wrap; }
-  .btn{ display:inline-flex; align-items:center; gap:8px; padding:14px 26px; font-size:0.8rem; letter-spacing:0.04em; text-transform:uppercase; font-weight:700; transition: transform .15s ease; }
-  .btn:hover{ transform: translateY(-2px); }
-  .btn-primary{ background: var(--brick); color: var(--cream); }
-  .btn-outline{ border:1.5px solid var(--forest-deep); color: var(--forest-deep); }
-
-  /* ---------- about ---------- */
-  .about{ background: var(--forest-deep); color: var(--cream); padding: clamp(56px,9vw,96px) 0; }
-  .about-grid{ display:grid; grid-template-columns: 0.85fr 1.15fr; gap: clamp(32px,6vw,72px); }
-  @media (max-width:780px){ .about-grid{ grid-template-columns:1fr; } }
-  .about h2{ font-family: var(--display); font-size: clamp(1.6rem,3.6vw,2.2rem); line-height:1.2; }
-  .about-body p{ font-size:1.02rem; line-height:1.75; color: rgba(251,242,227,0.78); }
-  .about-body p + p{ margin-top:14px; }
-  .tag-row{ margin-top:22px; display:flex; flex-wrap:wrap; gap:10px; }
-  .tag{ font-family: var(--mono); font-size:0.64rem; letter-spacing:0.04em; text-transform:uppercase; border:1px solid var(--mustard); color: var(--mustard); padding:6px 12px; }
-
-  /* ---------- menu ---------- */
-  .menu-section{ padding: clamp(64px,10vw,108px) 0; }
-  .menu-head{ text-align:center; margin-bottom: clamp(40px,7vw,64px); }
-  .menu-head .eyebrow{ justify-content:center; }
-  .menu-head h2{ font-family: var(--display); font-size: clamp(1.8rem,4.2vw,2.6rem); color: var(--forest-deep); }
-  .menu-head p{ margin-top:14px; color: rgba(35,26,20,0.65); font-size:1rem; max-width:48ch; margin-left:auto; margin-right:auto; }
-
-  .menu-grid{ display:grid; grid-template-columns: repeat(2,1fr); gap:1px; background: rgba(35,26,20,0.14); border:1px solid rgba(35,26,20,0.14); }
-  @media (max-width:720px){ .menu-grid{ grid-template-columns:1fr; } }
-  .menu-item{ background: var(--cream); padding: 22px 26px; display:flex; align-items:baseline; justify-content:space-between; gap:16px; }
-  .menu-item-name{ font-size:1.02rem; font-weight:700; }
-  .menu-item-note{ display:block; font-size:0.85rem; font-weight:400; color: rgba(35,26,20,0.6); margin-top:2px; }
-  .menu-item-price{ font-family: var(--mono); font-size:0.9rem; color: var(--brick-deep); white-space:nowrap; }
-
-  /* ---------- staff ---------- */
-  .staff{ background: var(--mustard); padding: clamp(48px,8vw,80px) 0; }
-  .staff-grid{ display:grid; grid-template-columns: 1fr 1fr; gap:40px; align-items:center; }
-  @media (max-width:780px){ .staff-grid{ grid-template-columns:1fr; } }
-  .staff h2{ font-family: var(--display); font-size: clamp(1.5rem,3.4vw,2rem); color: var(--forest-deep); }
-  .staff p{ margin-top:14px; font-size:1rem; line-height:1.65; color: rgba(35,26,20,0.78); }
-  .staff-card{ background: var(--cream); padding:26px; border-radius: 4px; }
-  .staff-card h4{ font-family: var(--display); font-size:1.05rem; color: var(--brick-deep); }
-  .staff-card p{ margin-top:10px; font-size:0.92rem; color: rgba(35,26,20,0.75); }
-
-  /* ---------- proof ---------- */
-  .proof{ padding: clamp(48px,8vw,80px) 0; }
-  .proof-grid{ display:grid; grid-template-columns: repeat(3,1fr); gap:1px; background: rgba(35,26,20,0.12); border:1px solid rgba(35,26,20,0.12); margin-top:28px; }
-  @media (max-width:780px){ .proof-grid{ grid-template-columns:1fr; } }
-  .proof-card{ background: var(--cream); padding: 24px 22px; }
-  .proof-card p{ font-size:0.96rem; line-height:1.6; color: rgba(35,26,20,0.8); }
-  .proof-meta{ margin-top:14px; font-family: var(--mono); font-size:0.66rem; letter-spacing:0.04em; text-transform:uppercase; color: var(--brick-deep); }
-
-  /* ---------- visit ---------- */
-  .visit{ background: var(--forest-deep); color: var(--cream); padding: clamp(56px,9vw,96px) 0; }
-  .visit-grid{ display:grid; grid-template-columns: 1fr 1fr 1fr; gap:40px; }
-  @media (max-width:780px){ .visit-grid{ grid-template-columns:1fr; } }
-  .visit h4{ font-family: var(--mono); font-size:0.7rem; letter-spacing:0.08em; text-transform:uppercase; color: var(--mustard); margin-bottom:12px; }
-  .visit p, .visit a{ font-size:1.02rem; line-height:1.6; }
-  .visit a{ text-decoration:underline; text-underline-offset:4px; text-decoration-color: rgba(251,242,227,0.35); }
-  .visit a:hover{ text-decoration-color: var(--mustard); }
-
-  footer{ background: var(--forest-deep); color: rgba(251,242,227,0.5); padding: 26px 0; border-top: 1px solid rgba(251,242,227,0.12); }
-  .footer-inner{ display:flex; justify-content:space-between; align-items:center; flex-wrap:wrap; gap:16px; font-size:0.8rem; }
-  .footer-social{ display:flex; gap:18px; }
-  .footer-inner a:hover{ color: var(--mustard); }
-
-.concept-banner{display:flex;justify-content:space-between;gap:18px;align-items:center;padding:9px clamp(20px,5vw,48px);background:#1E301F;color:rgba(251,242,227,.76);border-bottom:1px solid rgba(221,161,59,.28);font-family:var(--mono);font-size:.64rem}
-.concept-banner strong{color:var(--mustard);text-transform:uppercase}
-.hero::before{content:"";position:absolute;inset:0;pointer-events:none;background:radial-gradient(circle at 82% 20%,rgba(168,62,44,.10),transparent 24%)}
-.menu-item,.staff-card,.proof-card{transition:transform .2s ease,box-shadow .2s ease}
-.menu-item:hover,.staff-card:hover,.proof-card:hover{transform:translateY(-4px);box-shadow:0 14px 28px rgba(0,0,0,.16)}
-.mobile-action{display:none}
-@media(max-width:720px){
-body{padding-bottom:76px}
-.concept-banner{flex-direction:column;align-items:flex-start}
-.mobile-action{display:flex;position:fixed;left:14px;right:14px;bottom:14px;z-index:99;gap:10px;padding:10px;background:rgba(30,48,31,.96);border:1px solid rgba(221,161,59,.35)}
-.mobile-action a{flex:1;text-align:center;padding:12px;font-family:var(--mono)}
-.mobile-action .call{background:var(--brick);color:var(--cream)}
-.mobile-action .ig{border:1px solid var(--mustard);color:var(--mustard)}
-}
-
-</style>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="theme-color" content="#15271d" />
+  <meta name="description" content="The Branch Restaurant — authentic Kenyan cuisine in the heart of Nairobi." />
+  <title>The Branch Restaurant | Nairobi</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Playfair+Display:ital,wght@0,600;0,700;1,600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="./styles.css" />
 </head>
 <body>
-<div class="concept-banner"><span><strong>Concept Preview</strong> · Designed by Kodawa Labs</span><span>Independent redesign concept — not the official The Branch Restaurant website.</span></div>
-
-<header class="site-nav">
-  <div class="nav-inner">
-    <div class="nav-mark">THE BRANCH</div>
-    <nav class="nav-links">
-      <a href="#about">About</a>
-      <a href="#menu">Menu</a>
-      <a href="#visit">Visit</a>
+  <a class="skip-link" href="#main">Skip to content</a>
+  <header class="site-header" id="top">
+    <a class="brand" href="#top" aria-label="The Branch Restaurant home">
+      <span class="brand-mark" aria-hidden="true">|||</span>
+      <span><b>The Branch</b><small>Restaurant</small></span>
+    </a>
+    <button class="menu-toggle" aria-label="Open navigation" aria-expanded="false"><span></span><span></span></button>
+    <nav class="nav" aria-label="Primary navigation">
+      <a href="#story">Our story</a><a href="#menu">Menu</a><a href="#experience">Experience</a><a href="#visit">Visit</a>
+      <a class="nav-cta" href="#reserve">Reserve a table</a>
     </nav>
-    <a class="nav-cta" href="tel:+254772575757">Call Us</a>
-  </div>
-</header>
+  </header>
 
-<section class="hero">
-  <div class="wrap">
-    <p class="eyebrow">Kenya Cinema Plaza · Moi Avenue · Nairobi CBD</p>
-    <h1 class="hero-title">Home-style African food, <span class="accent">up the stairs</span>.</h1>
-    <p class="hero-sub">Tucked inside Kenya Cinema Plaza on Moi Avenue — brown ugali, fresh fish, and generous plates that have kept CBD regulars coming back for years.</p>
+  <main id="main">
+    <section class="hero">
+      <img src="./assets/hero.webp" alt="A Kenyan feast of nyama, traditional greens and ugali" />
+      <div class="hero-shade"></div>
+      <div class="hero-content reveal">
+        <p class="eyebrow">Nairobi · Kenyan cuisine</p>
+        <h1>The taste of home,<br><em>served with pride.</em></h1>
+        <p class="hero-copy">Traditional Kenyan favourites, generous portions and a warm city-centre welcome.</p>
+        <div class="hero-actions"><a class="button primary" href="#menu">Explore the menu</a><a class="button ghost" href="#reserve">Reserve a table</a></div>
+      </div>
+      <a class="scroll-cue" href="#story">Discover <span>↓</span></a>
+    </section>
 
-    <div class="fact-row">
-      <div class="fact"><div class="fact-num">4.1 ★</div><div class="fact-label">606 Google reviews</div></div>
-      <div class="fact"><div class="fact-num">Two Floors</div><div class="fact-label">+ balcony seating</div></div>
-      <div class="fact"><div class="fact-num">Under 10 Min</div><div class="fact-label">Typical order time</div></div>
-      <div class="fact"><div class="fact-num">7AM–11PM</div><div class="fact-label">Open daily</div></div>
-    </div>
+    <section class="intro section" id="story">
+      <div class="section-kicker reveal">Rooted in Nairobi</div>
+      <div class="intro-grid">
+        <div class="reveal"><h2>Food that brings<br>people <em>together.</em></h2></div>
+        <div class="reveal delay"><p class="lead">The Branch celebrates the meals Kenyans know and love—from slow-cooked stews and nyama choma to ugali and nourishing traditional greens.</p><p>Set above the rhythm of Nairobi’s city centre, it is a familiar place for family lunches, catch-ups with friends and satisfying everyday meals.</p></div>
+      </div>
+      <div class="story-image reveal"><img src="./assets/entrance.webp" alt="Exterior of The Branch Restaurant at Kenya Cinema Plaza" /><div class="image-note"><span>At the heart of the city</span><b>Kenya Cinema Plaza</b></div></div>
+    </section>
 
-    <div class="hero-cta-row">
-      <a class="btn btn-primary" href="tel:+254772575757">Call Ahead</a>
-      <a class="btn btn-outline" href="#menu">See The Menu</a>
-    </div>
-  </div>
-</section>
+    <section class="classics section" id="menu">
+      <div class="section-heading reveal"><div><p class="section-kicker">Kenyan classics</p><h2>Comfort on<br><em>every plate.</em></h2></div><p>Honest flavours, hearty portions and dishes made for sharing.</p></div>
+      <div class="dish-grid">
+        <article class="dish-card large reveal"><img src="./assets/beef-stew.webp" alt="Beef stew with ugali and traditional greens"><div><span>House favourite</span><h3>Slow-cooked beef stew</h3><p>Rich tomato gravy, tender beef, ugali and greens.</p></div></article>
+        <article class="dish-card reveal delay"><img src="./assets/nyama-ugali.webp" alt="Nyama pieces served with ugali and kachumbari"><div><span>From the grill</span><h3>Nyama & ugali</h3><p>Deeply seasoned meat with fresh kachumbari.</p></div></article>
+        <article class="dish-card reveal"><img src="./assets/fish-rice.webp" alt="Fish in tomato sauce served with rice"><div><span>Daily special</span><h3>Fish in tomato sauce</h3><p>Comforting, bright and full of flavour.</p></div></article>
+        <article class="dish-card wide reveal delay"><img src="./assets/mixed-stew.webp" alt="Mixed meats and traditional greens"><div><span>Made to satisfy</span><h3>Traditional mixed plate</h3><p>A generous taste of Kenyan home cooking.</p></div></article>
+      </div>
+      <div class="center"><button class="button dark" data-open-menu>View sample menu</button></div>
+    </section>
 
-<section class="about" id="about">
-  <div class="wrap about-grid">
-    <div>
-      <p class="eyebrow" style="color:var(--mustard);">The Spot</p>
-      <h2>A CBD staple hiding in plain sight.</h2>
-    </div>
-    <div class="about-body">
-      <p>The Branch sits up the left staircase inside Kenya Cinema Plaza on Moi Avenue — a casual, welcoming room serving hearty, traditional African home-style cooking rather than a fine-dining performance. There's seating on two floors, plus a balcony overlooking the street for anyone who wants a view with their meal.</p>
-      <p>A large hot-water basin greets guests at the entrance, and the upstairs bar pours cocktails, mocktails and shots alongside the food menu — a spot built for a proper sit-down meal, not a quick bite.</p>
-      <div class="tag-row">
-        <span class="tag">Traditional African</span>
-        <span class="tag">Balcony Seating</span>
-        <span class="tag">Full Bar</span>
-        <span class="tag">Fast Service</span>
-      </div>
-    </div>
-  </div>
-</section>
+    <section class="experience section" id="experience">
+      <div class="experience-photo reveal"><img src="./assets/dining-room.webp" alt="The Branch dining room overlooking trees in Nairobi"></div>
+      <div class="experience-copy reveal delay"><p class="section-kicker">The Branch experience</p><h2>A table for<br><em>every occasion.</em></h2><p>Lunch with colleagues, a relaxed family meal or a quick stop in town—the dining room is made for easy conversation and unhurried hospitality.</p><ul><li>Family and group dining</li><li>Corporate lunches</li><li>City-centre views</li><li>Fresh traditional meals</li></ul><a class="text-link" href="#reserve">Plan your visit →</a></div>
+    </section>
 
-<section class="menu-section" id="menu">
-  <div class="wrap">
-    <div class="menu-head">
-      <p class="eyebrow">On The Table</p>
-      <h2>What Regulars Order</h2>
-      <p>A short, honest menu built around home-style African cooking — here's what keeps people coming back.</p>
-    </div>
+    <section class="specials section">
+      <div class="section-heading reveal"><div><p class="section-kicker">Made fresh</p><h2>Today’s <em>specials.</em></h2></div><p>Ask what is cooking today. Our selection changes with the kitchen.</p></div>
+      <div class="specials-grid">
+        <figure class="reveal"><img src="./assets/window-feast.webp" alt="Kenyan food spread overlooking Nairobi"><figcaption><span>City lunch</span><b>A full Kenyan spread</b></figcaption></figure>
+        <figure class="reveal delay"><img src="./assets/juice.webp" alt="Fresh juice"><figcaption><span>Freshly poured</span><b>House juice</b></figcaption></figure>
+        <figure class="reveal"><img src="./assets/city-feast.webp" alt="Traditional meal with Nairobi city view"><figcaption><span>Share the table</span><b>Family-style favourites</b></figcaption></figure>
+      </div>
+    </section>
 
-    <div class="menu-grid">
-      <div class="menu-item">
-        <span class="menu-item-name">Fried Beef Wet Fry<span class="menu-item-note">Served with rice</span></span>
-        <span class="menu-item-price">KES 650</span>
+    <section class="ai-section section">
+      <div class="ai-copy reveal"><p class="section-kicker light">Always ready to help</p><h2>Meet <em>Branch Assist.</em></h2><p>Ask about today’s dishes, get directions, check opening hours or request a table—all in one conversation.</p><div class="ai-points"><span>Menu questions</span><span>Table requests</span><span>Group bookings</span><span>Directions</span></div></div>
+      <div class="chat-card reveal delay">
+        <div class="chat-head"><span class="status"></span><div><b>Branch Assist</b><small>Online now</small></div></div>
+        <div class="bubble user">Do you have nyama choma and ugali today?</div>
+        <div class="bubble bot">Yes—both are available today. Would you like me to help reserve a table?</div>
+        <div class="quick-replies"><button>Reserve for 2</button><button>View hours</button></div>
       </div>
-      <div class="menu-item">
-        <span class="menu-item-name">Chicken Wet Fry<span class="menu-item-note">Thick, rich sauce</span></span>
-        <span class="menu-item-price">KES 700</span>
-      </div>
-      <div class="menu-item">
-        <span class="menu-item-name">Brown Ugali &amp; Liver<span class="menu-item-note">A regulars' favourite</span></span>
-        <span class="menu-item-price"></span>
-      </div>
-      <div class="menu-item">
-        <span class="menu-item-name">Brown Ugali &amp; Fish<span class="menu-item-note">With a side of greens</span></span>
-        <span class="menu-item-price"></span>
-      </div>
-      <div class="menu-item">
-        <span class="menu-item-name">Ox Liver<span class="menu-item-note">A house specialty</span></span>
-        <span class="menu-item-price"></span>
-      </div>
-      <div class="menu-item">
-        <span class="menu-item-name">Fresh Mango Juice<span class="menu-item-note">Homemade, thick</span></span>
-        <span class="menu-item-price">KES 150</span>
-      </div>
-    </div>
-  </div>
-</section>
+    </section>
 
-<section class="staff">
-  <div class="wrap staff-grid">
-    <div>
-      <h2>Ask for Dan or Shadrack.</h2>
-      <p>Regulars don't just praise "the service" here — they name names. Across years of reviews, two servers come up again and again for the same reason: fast, warm, attentive service that keeps people coming back specifically to see them.</p>
-    </div>
-    <div class="staff-card">
-      <h4>The Regulars' Tip</h4>
-      <p>For the quickest service, visit after 11AM once full staffing kicks in. Before that, service is still friendly, just slower with a smaller team on the floor.</p>
-    </div>
-  </div>
-</section>
+    <section class="reserve section" id="reserve">
+      <div class="reserve-image reveal"><img src="./assets/emblem.webp" alt="The Branch Restaurant illuminated emblem"></div>
+      <form class="reserve-form reveal delay" id="reservation-form">
+        <p class="section-kicker">Your table awaits</p><h2>Reserve your<br><em>next meal.</em></h2>
+        <div class="form-row"><label>Name<input required name="name" autocomplete="name" placeholder="Your name"></label><label>Phone<input required name="phone" autocomplete="tel" placeholder="07xx xxx xxx"></label></div>
+        <div class="form-row"><label>Date<input required type="date" name="date"></label><label>Guests<select name="guests"><option>2 guests</option><option>3 guests</option><option>4 guests</option><option>5 guests</option><option>6+ guests</option></select></label></div>
+        <label>Preferred time<select name="time"><option>12:00 PM</option><option>1:00 PM</option><option>2:00 PM</option><option>5:00 PM</option><option>6:00 PM</option><option>7:00 PM</option></select></label>
+        <button class="button primary full" type="submit">Request a table</button><p class="form-note">Concept demonstration—no reservation will be sent.</p>
+      </form>
+    </section>
 
-<section class="proof">
-  <div class="wrap">
-    <p class="eyebrow" style="color:var(--brick-deep);">Why People Come Back</p>
-    <div class="proof-grid">
-      <div class="proof-card">
-        <p>Portions are consistently described as generous enough to take some home — a recurring theme across years of reviews.</p>
-        <div class="proof-meta">Value</div>
-      </div>
-      <div class="proof-card">
-        <p>Food typically arrives in under ten minutes without sacrificing freshness — a rare combination for a busy CBD lunch spot.</p>
-        <div class="proof-meta">Speed</div>
-      </div>
-      <div class="proof-card">
-        <p>Long-time regulars — some visiting for 5+ years — say the quality and warmth have stayed consistent the whole time.</p>
-        <div class="proof-meta">Consistency</div>
-      </div>
-    </div>
-  </div>
-</section>
+    <section class="visit section" id="visit">
+      <div class="visit-copy reveal"><p class="section-kicker">Visit us</p><h2>Right in the<br><em>heart of Nairobi.</em></h2><div class="visit-details"><div><small>Location</small><b>Kenya Cinema Plaza<br>Nairobi CBD, Kenya</b></div><div><small>Opening hours</small><b>Monday–Sunday<br>Lunch & dinner</b></div></div><a class="button dark" href="https://maps.google.com/?q=Kenya+Cinema+Plaza+Nairobi" target="_blank" rel="noopener">Get directions</a></div>
+      <div class="visit-photo reveal delay"><img src="./assets/entrance.webp" alt="The Branch Restaurant exterior"></div>
+    </section>
+  </main>
 
-<section class="visit" id="visit">
-  <div class="wrap">
-    <div class="visit-grid">
-      <div>
-        <h4>Find Us</h4>
-        <p>Kenya Cinema Plaza, 1st Floor<br>Moi Avenue, Nairobi CBD</p>
-      </div>
-      <div>
-        <h4>Call</h4>
-        <p><a href="tel:+254772575757">+254 772 575757</a></p>
-      </div>
-      <div>
-        <h4>Hours</h4>
-        <p>Daily · 7:00 AM – 11:00 PM</p>
-      </div>
-    </div>
-  </div>
-</section>
+  <footer><div class="footer-brand"><span class="brand-mark">|||</span><div><b>The Branch</b><small>Restaurant</small></div></div><p>Authentic Kenyan food. Warm Nairobi hospitality.</p><div class="footer-links"><a href="#menu">Menu</a><a href="#reserve">Reservations</a><a href="#visit">Find us</a></div><small>Website concept by <a href="https://www.ouniverse.space" target="_blank" rel="noopener">Kodawa Labs</a></small></footer>
 
-<footer>
-  <div class="wrap footer-inner">
-    <span>© 2026 The Branch Restaurant, Moi Avenue</span>
-    <div class="footer-social">
-      <a href="https://www.instagram.com/thebranchrestaurantke/" target="_blank" rel="noopener">Instagram</a>
-      <a href="https://www.facebook.com/p/The-Branch-Restaurant-100068443623173/" target="_blank" rel="noopener">Facebook</a>
-    </div>
-  </div>
-</footer>
-
-<div class="mobile-action"><a class="call" href="tel:+254772575757">Call</a><a class="ig" href="https://www.instagram.com/thebranchrestaurantke/" target="_blank">Instagram</a></div></body>
+  <div class="modal" id="menu-modal" aria-hidden="true" role="dialog" aria-modal="true" aria-label="Sample menu"><button class="modal-close" aria-label="Close menu">×</button><div class="modal-card"><div><p class="section-kicker">A taste of The Branch</p><h2>Sample <em>menu.</em></h2><p>Traditional dishes and prices shown in the original restaurant menu photograph.</p></div><img src="./assets/menu.webp" alt="The Branch Restaurant menu"></div></div>
+  <div class="toast" role="status">Thanks—this concept form is ready for a real booking integration.</div>
+  <script src="./script.js"></script>
+</body>
 </html>
