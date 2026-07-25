@@ -2,23 +2,24 @@
 
 A cinematic Carnivore location-page concept created by Kodawa Labs.
 
-## Deploy path
+## Correct deploy path
 
-Upload the complete build inside:
+Upload this folder as:
 
 `previews/ke-carnivore/`
 
-Expected live URL:
+Expected URL:
 
 `https://showcase.ouniverse.space/previews/ke-carnivore/`
 
-## Required structure
+The build includes:
+- rotating hero imagery
+- full-screen navigation
+- experience storytelling
+- menu PDF links
+- event section
+- reviews
+- FAQ
+- reservation concept
 
-```text
-ke-carnivore/
-├── index.html
-├── styles.css
-├── script.js
-├── README.md
-├── assets/
-└── menus/
+All paths are relative and Cloudflare Pages safe.
