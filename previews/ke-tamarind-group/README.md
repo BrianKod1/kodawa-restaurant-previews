@@ -1,10 +1,11 @@
-# Tamarind Group Homepage Concept
+# Tamarind Group Homepage — Phase 2, Image-Rich Build
 
-Phase 2 homepage concept by Kodawa Labs.
-
-## Deploy path
-Place as:
+Upload this complete folder as:
 
 `previews/ke-tamarind-group/`
 
-All local asset paths are relative and Cloudflare Pages safe.
+Expected live URL:
+
+`https://showcase.ouniverse.space/previews/ke-tamarind-group/`
+
+All asset paths are relative and Cloudflare Pages safe.
