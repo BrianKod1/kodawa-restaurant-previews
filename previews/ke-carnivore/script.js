@@ -22,7 +22,7 @@ setInterval(() => {
   frames[current].classList.add('active');
   currentText.textContent = String(current + 1).padStart(2,'0');
   bar.style.animation = 'none'; bar.offsetHeight; bar.style.animation = '';
-}, 5400);
+}, 6200);
 
 const observer = new IntersectionObserver(entries => {
   entries.forEach(entry => {

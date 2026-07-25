@@ -23,3 +23,91 @@ footer{padding:80px 6vw 30px;background:#060504}.footer-brand{font-family:"Oswal
 .reveal{opacity:0;transform:translateY(36px);transition:.85s ease}.reveal.visible{opacity:1;transform:none}
 @media(max-width:960px){.manifesto,.ritual,.menu-section,.reviews,.reserve{grid-template-columns:1fr}.manifesto-index{border-right:0;border-bottom:1px solid var(--darkline);margin-bottom:45px}.manifesto-copy{padding-left:0}.feast-grid{grid-template-columns:1fr;grid-template-rows:auto}.feast-card.large{grid-row:auto}.menu-intro{padding:0 0 60px}.footer-grid{grid-template-columns:1fr 1fr}}
 @media(max-width:680px){.site-header{grid-template-columns:1fr auto}.brand{display:none}.hero{padding:0 22px 68px}.hero h1{font-size:4.5rem}.hero h1 em{margin-left:0}.hero-progress,.hero-side{display:none}.manifesto,.feast,.menu-section,.faq,.reserve{padding:90px 22px}.manifesto-body{grid-template-columns:1fr;gap:12px}.ritual-copy{padding:90px 24px}.fire-statement{padding:90px 24px}.menu-list a{grid-template-columns:36px 1fr auto}.menu-list small{display:none}.event-banner{padding:0 24px 70px}.reviews-copy{padding:90px 24px}.form-row{grid-template-columns:1fr}.footer-grid{grid-template-columns:1fr}.footer-bottom{flex-direction:column;gap:8px}.menu-panel nav a{font-size:2.6rem}.menu-meta{flex-direction:column;gap:6px}}
+
+
+/* Minimal refinement */
+:root{
+  --fire:#e7472f;
+  --ember:#f29a57;
+  --cream:#f0e9df;
+  --ivory:#faf7f1;
+}
+
+.hero-shade{
+  background:
+    linear-gradient(90deg,rgba(0,0,0,.78),rgba(0,0,0,.08) 72%),
+    linear-gradient(to top,rgba(0,0,0,.52),transparent 52%);
+}
+.ember{display:none}
+.hero h1{
+  font-size:clamp(4.2rem,9vw,9.4rem);
+  line-height:.83;
+  letter-spacing:-.035em;
+}
+.hero h1 em{margin-left:5vw}
+.hero-intro{
+  max-width:520px;
+  font-size:.98rem;
+  line-height:1.7;
+}
+.btn{
+  min-height:50px;
+  padding:0 21px;
+  letter-spacing:.12em;
+}
+.manifesto{padding-top:120px;padding-bottom:120px}
+.manifesto-index{
+  font-size:6rem;
+  color:#b9aa97;
+}
+.manifesto h2,.ritual h2,.section-head h2,.menu-intro h2,.event-copy h2,.reserve h2{
+  letter-spacing:-.025em;
+}
+.ritual-copy{padding-top:7vw;padding-bottom:7vw}
+.feast{padding-top:120px;padding-bottom:120px}
+.feast-grid{
+  gap:22px;
+}
+.feast-card{
+  border-radius:2px;
+}
+.card-copy{
+  left:24px;
+  right:24px;
+  bottom:22px;
+}
+.menu-section{
+  padding-top:120px;
+  padding-bottom:120px;
+}
+.menu-list a{
+  padding:23px 0;
+}
+.menu-list strong{
+  font-size:1.7rem;
+  letter-spacing:.01em;
+}
+.event-banner{
+  min-height:680px;
+  height:80vh;
+}
+.reviews-copy{
+  padding-top:8vw;
+  padding-bottom:8vw;
+}
+blockquote{
+  font-size:clamp(2.3rem,4.4vw,4.8rem);
+}
+.reserve{
+  padding-top:110px;
+  padding-bottom:110px;
+}
+footer{
+  padding-top:70px;
+}
+
+@media(max-width:680px){
+  .hero h1{font-size:4rem}
+  .hero h1 em{margin-left:0}
+  .manifesto,.feast,.menu-section,.reserve{padding-top:82px;padding-bottom:82px}
+}
