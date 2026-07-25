@@ -6,15 +6,27 @@ const panel = document.querySelector('.menu-panel');
 document.querySelector('.menu-toggle').addEventListener('click', () => {
   panel.classList.add('open');
   panel.setAttribute('aria-hidden','false');
+  document.body.classList.add('menu-open');
+  panel.scrollTop = 0;
 });
 document.querySelector('.menu-close').addEventListener('click', () => {
   panel.classList.remove('open');
   panel.setAttribute('aria-hidden','true');
+  document.body.classList.remove('menu-open');
 });
 panel.querySelectorAll('a').forEach(a => a.addEventListener('click', () => {
   panel.classList.remove('open');
   panel.setAttribute('aria-hidden','true');
+  document.body.classList.remove('menu-open');
 }));
+
+document.addEventListener('keydown', (event) => {
+  if (event.key === 'Escape' && panel.classList.contains('open')) {
+    panel.classList.remove('open');
+    panel.setAttribute('aria-hidden','true');
+    document.body.classList.remove('menu-open');
+  }
+});
 
 const frames = [...document.querySelectorAll('.hero-frame')];
 const currentLabel = document.querySelector('#heroCurrent');
