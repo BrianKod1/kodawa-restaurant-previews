@@ -96,3 +96,69 @@ soundToggle.addEventListener('click', async () => {
     soundLabel.textContent = 'Sound off';
   }
 });
+
+
+// HERO rotating gallery
+const heroCarousel = document.getElementById('heroCarousel');
+
+if (heroCarousel) {
+  const heroSlides = [...heroCarousel.querySelectorAll('.hero-slide')];
+  const heroIndex = document.getElementById('heroIndex');
+  const heroPrev = document.getElementById('heroPrev');
+  const heroNext = document.getElementById('heroNext');
+
+  let currentHeroSlide = 0;
+  let heroTimer;
+  let touchStartX = 0;
+
+  const showHeroSlide = (nextIndex) => {
+    heroSlides[currentHeroSlide].classList.remove('active');
+    currentHeroSlide = (nextIndex + heroSlides.length) % heroSlides.length;
+    heroSlides[currentHeroSlide].classList.add('active');
+
+    if (heroIndex) {
+      heroIndex.textContent = `${String(currentHeroSlide + 1).padStart(2, '0')} / ${String(heroSlides.length).padStart(2, '0')}`;
+    }
+  };
+
+  const startHeroRotation = () => {
+    clearInterval(heroTimer);
+    heroTimer = setInterval(() => showHeroSlide(currentHeroSlide + 1), 5200);
+  };
+
+  heroPrev?.addEventListener('click', () => {
+    showHeroSlide(currentHeroSlide - 1);
+    startHeroRotation();
+  });
+
+  heroNext?.addEventListener('click', () => {
+    showHeroSlide(currentHeroSlide + 1);
+    startHeroRotation();
+  });
+
+  heroCarousel.addEventListener('mouseenter', () => clearInterval(heroTimer));
+  heroCarousel.addEventListener('mouseleave', startHeroRotation);
+
+  heroCarousel.addEventListener('touchstart', (event) => {
+    touchStartX = event.changedTouches[0].clientX;
+  }, { passive: true });
+
+  heroCarousel.addEventListener('touchend', (event) => {
+    const distance = event.changedTouches[0].clientX - touchStartX;
+
+    if (Math.abs(distance) > 45) {
+      showHeroSlide(currentHeroSlide + (distance < 0 ? 1 : -1));
+      startHeroRotation();
+    }
+  }, { passive: true });
+
+  document.addEventListener('visibilitychange', () => {
+    if (document.hidden) {
+      clearInterval(heroTimer);
+    } else {
+      startHeroRotation();
+    }
+  });
+
+  startHeroRotation();
+}

@@ -42,9 +42,69 @@
           Reserve your table <span>↗</span>
         </a>
       </div>
-      <figure class="hero-visual reveal">
-        <img src="./assets/sushi-close.webp" alt="Hero sushi roll">
-        <span class="image-index">01 / 08</span>
+      <figure class="hero-visual reveal" id="heroCarousel" aria-label="HERO restaurant image gallery">
+        <div class="hero-slide active">
+          <img src="./assets/sushi-close.webp" alt="Close-up sushi roll at HERO">
+          <div class="slide-caption">
+            <span>Meet your first hero.</span>
+            <strong>Avocado, salmon and precision.</strong>
+          </div>
+        </div>
+        <div class="hero-slide">
+          <img src="./assets/sushi-green.webp" alt="Green sushi presentation at HERO">
+          <div class="slide-caption">
+            <span>Not every hero wears red.</span>
+            <strong>Fresh, sharp and impossible to ignore.</strong>
+          </div>
+        </div>
+        <div class="hero-slide">
+          <img src="./assets/sushi-roll.webp" alt="Signature sushi roll at HERO">
+          <div class="slide-caption">
+            <span>Choose your sidekick.</span>
+            <strong>Pair it with sake or Japanese whisky.</strong>
+          </div>
+        </div>
+        <div class="hero-slide">
+          <img src="./assets/sushi-smoke.webp" alt="Smoked sushi presentation at HERO">
+          <div class="slide-caption">
+            <span>The entrance matters.</span>
+            <strong>Smoke, theatre and a little danger.</strong>
+          </div>
+        </div>
+        <div class="hero-slide">
+          <img src="./assets/beef.webp" alt="Japanese beef dish at HERO">
+          <div class="slide-caption">
+            <span>Some heroes arrive heavier.</span>
+            <strong>Fire, umami and a proper main event.</strong>
+          </div>
+        </div>
+        <div class="hero-slide">
+          <img src="./assets/red-dessert.webp" alt="Hero dessert presentation">
+          <div class="slide-caption">
+            <span>Never skip the plot twist.</span>
+            <strong>Dessert is part of the story.</strong>
+          </div>
+        </div>
+        <div class="hero-slide">
+          <img src="./assets/hero-interior.webp" alt="HERO Restaurant interior">
+          <div class="slide-caption">
+            <span>Enter the universe.</span>
+            <strong>Part speakeasy. Part comic book. All HERO.</strong>
+          </div>
+        </div>
+        <div class="hero-slide">
+          <img src="./assets/art-wall.webp" alt="Comic-inspired artwork inside HERO">
+          <div class="slide-caption">
+            <span>Every wall has a character.</span>
+            <strong>The experience begins before the first bite.</strong>
+          </div>
+        </div>
+
+        <div class="carousel-controls">
+          <button class="carousel-arrow" id="heroPrev" type="button" aria-label="Previous image">←</button>
+          <span class="image-index" id="heroIndex">01 / 08</span>
+          <button class="carousel-arrow" id="heroNext" type="button" aria-label="Next image">→</button>
+        </div>
       </figure>
     </section>
 
