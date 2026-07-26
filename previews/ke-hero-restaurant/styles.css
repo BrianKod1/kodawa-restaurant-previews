@@ -138,3 +138,20 @@ button{font:inherit}
   .dessert-grid{grid-template-columns:1fr}
   .location{flex-direction:column;gap:12px}
 }
+
+/* CTA overlap fix */
+@media(max-width:650px){
+  .scroll-cue{
+    display:none;
+  }
+
+  .hero{
+    padding-bottom:96px;
+  }
+
+  .primary-cta{
+    position:relative;
+    z-index:3;
+    padding:12px 0;
+  }
+}
