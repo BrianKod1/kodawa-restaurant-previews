@@ -173,3 +173,13 @@ button{font:inherit}
   width:max-content;
   margin-top:4px;
 }
+
+/* Missing dessert asset fix */
+.alternate-dessert{
+  object-position:72% 50%;
+  transform:scale(1.08);
+}
+
+.sparkle-card:hover .alternate-dessert{
+  transform:scale(1.11);
+}
