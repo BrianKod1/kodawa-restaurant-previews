@@ -8,7 +8,7 @@
   <title>Cultiva — The Farm Writes the Menu</title>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@300;400;500;600&family=Libre+Caslon+Display&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@300;400;500;600&family=Libre+Caslon+Display&family=Caveat:wght@500;600&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="./styles.css">
 </head>
 <body>
@@ -21,10 +21,10 @@
       <small>Farm · Kitchen · Community</small>
     </a>
     <nav>
-      <a href="#farm">Farm</a>
       <a href="#people">People</a>
-      <a href="#menu">Menu</a>
-      <a href="#recognition">Recognition</a>
+      <a href="#cycle">Farm</a>
+      <a href="#menu">Today</a>
+      <a href="#gather">Gather</a>
     </nav>
     <div class="header-actions">
       <button id="soundToggle" class="sound-toggle" type="button" aria-label="Turn farm ambience on">
@@ -45,68 +45,65 @@
         <p class="subhead">We simply listen.</p>
         <div class="hero-actions">
           <a class="primary-cta" href="https://cultivakenya.com/" target="_blank" rel="noreferrer">Become part of the harvest <span>↗</span></a>
-          <a class="secondary-link" href="#farm">See where dinner begins ↓</a>
+          <a class="secondary-link" href="#people">Meet the people behind today ↓</a>
         </div>
       </div>
       <div class="award-pill">Food & Wine · Top 20 International Restaurants</div>
     </section>
 
-    <section class="statement day-section" id="farm" data-time="morning">
-      <div class="leaf-line"></div>
-      <p class="section-label">01 · Before the plate</p>
-      <h2 class="reveal">Everything begins<br>with what is ready today.</h2>
-      <div class="statement-grid">
-        <p class="reveal">Cultiva does not force ingredients into a fixed menu. The season leads. The soil answers. The kitchen follows.</p>
-        <p class="reveal">That makes every meal part of a larger rhythm: seed, care, harvest, craft, table.</p>
-      </div>
-    </section>
-
-    <section class="people-poster day-section" id="people" data-time="midday">
+    <section class="people-poster day-section" id="people" data-time="morning">
       <img src="./assets/farm-team.jpg" alt="Cultiva growers, makers and team">
       <div class="poster-shade"></div>
       <div class="poster-copy reveal">
-        <p class="eyebrow">The hands behind today's menu</p>
-        <h2>Nothing here<br>exists alone.</h2>
-        <p>Growers. Gardeners. Chefs. Artisans. Hosts. Guests. Every plate carries more than ingredients.</p>
+        <p class="eyebrow">Before the menu</p>
+        <h2>The hands<br>behind today.</h2>
+        <p>Cultiva begins with people who know the land, respect the season and understand that care is an ingredient.</p>
       </div>
-      <div class="people-note">Community is not a page on the website. It is the restaurant.</div>
+      <div class="handwritten-note">Community is not a page.<br>It is the restaurant.</div>
     </section>
 
-    <section class="journey day-section" data-time="afternoon">
-      <div class="journey-copy reveal">
-        <p class="section-label">02 · Soil to plate</p>
-        <h2>A meal is a chain<br>of care.</h2>
+    <section class="cycle day-section" id="cycle" data-time="midday">
+      <div class="cycle-intro reveal">
+        <p class="section-label">01 · A living system</p>
+        <h2>Nothing here<br>exists alone.</h2>
+        <p>One plate carries the work of soil, weather, growers, cooks, makers and guests.</p>
       </div>
-      <div class="journey-track">
-        <article><span>01</span><strong>Seed</strong><p>Potential, placed carefully.</p></article>
-        <article><span>02</span><strong>Soil</strong><p>Life built below the surface.</p></article>
-        <article><span>03</span><strong>Harvest</strong><p>Picked when flavour says ready.</p></article>
-        <article><span>04</span><strong>Kitchen</strong><p>Technique without waste.</p></article>
-        <article><span>05</span><strong>Table</strong><p>The circle becomes complete.</p></article>
+
+      <div class="life-sequence" aria-label="The Cultiva cycle">
+        <article class="life-step active"><span>Seed</span><small>Potential placed carefully.</small></article>
+        <article class="life-step"><span>Root</span><small>Life built below the surface.</small></article>
+        <article class="life-step"><span>Leaf</span><small>Growth made visible.</small></article>
+        <article class="life-step"><span>Flower</span><small>Patience becoming colour.</small></article>
+        <article class="life-step"><span>Harvest</span><small>Picked when flavour says ready.</small></article>
+        <article class="life-step"><span>Table</span><small>The farm enters the room.</small></article>
+        <article class="life-step"><span>Community</span><small>The circle becomes complete.</small></article>
+        <article class="life-step"><span>Tomorrow</span><small>Everything begins again.</small></article>
       </div>
+      <div class="sequence-progress"><span id="sequenceBar"></span></div>
     </section>
 
     <section class="dish-feature day-section" data-time="golden">
       <div class="dish-image-wrap">
         <img src="./assets/signature-dish.png" alt="A seasonal Cultiva dish">
-        <span class="dish-badge">Harvest today</span>
+        <span class="dish-badge">Picked for today</span>
       </div>
       <div class="dish-copy reveal">
         <p class="eyebrow">The living menu</p>
-        <h2>Built around the ingredient.<br>Not the category.</h2>
-        <p>Cold, warm, raw, charred, fermented, bright. The menu changes because the farm does.</p>
-        <div class="menu-links">
-          <a href="./menus/food-menu.pdf" target="_blank">Food menu <span>↗</span></a>
-          <a href="./menus/drinks-menu.pdf" target="_blank">Drinks menu <span>↗</span></a>
-          <a href="./menus/brunch-menu.pdf" target="_blank">Brunch menu <span>↗</span></a>
+        <h2>Built around<br>what is ready.</h2>
+        <p>The menu does not ask the farm to behave. It responds to what the season offers.</p>
+        <div class="menu-links" id="menu">
+          <a href="./menus/brunch-menu.pdf" target="_blank"><strong>Morning</strong><small>Sunrise menu</small><span>↗</span></a>
+          <a href="./menus/food-menu.pdf" target="_blank"><strong>Afternoon</strong><small>Seasonal plates</small><span>↗</span></a>
+          <a href="./menus/food-menu.pdf" target="_blank"><strong>Dinner</strong><small>Farm, fire & table</small><span>↗</span></a>
+          <a href="./menus/drinks-menu.pdf" target="_blank"><strong>Drinks</strong><small>Ferments & cocktails</small><span>↗</span></a>
         </div>
       </div>
     </section>
 
-    <section class="breakfast day-section" id="menu" data-time="late-afternoon">
+    <section class="breakfast day-section" data-time="late-afternoon">
       <div class="breakfast-copy reveal">
-        <p class="eyebrow">Morning at Cultiva</p>
-        <h2>Sunrise has<br>its own menu.</h2>
+        <p class="eyebrow">What's growing today</p>
+        <h2>Sunrise has<br>its own rhythm.</h2>
         <p>Fresh juices, cultured butter, farm leaves, proper coffee and brunch heroes—served Wednesday to Sunday until noon.</p>
         <a class="primary-cta dark-cta" href="./menus/brunch-menu.pdf" target="_blank">Open sunrise menu <span>↗</span></a>
       </div>
@@ -127,7 +124,28 @@
       </div>
     </section>
 
-    <section class="recognition day-section" id="recognition" data-time="dusk">
+    <section class="gather day-section" id="gather" data-time="dusk">
+      <div class="gather-heading reveal">
+        <p class="eyebrow">Cultiva is also where people gather</p>
+        <h2>Make a day<br>of it.</h2>
+      </div>
+      <div class="gather-grid">
+        <a class="event-card reveal" href="https://cultivakenya.com/events/" target="_blank" rel="noreferrer">
+          <img src="./assets/farm-team.jpg" alt="Cultiva garden gathering">
+          <div><span>01</span><h3>Harvest Dinner</h3><p>Long tables. Seasonal plates. Stories from the soil.</p></div>
+        </a>
+        <a class="event-card reveal" href="https://cultivakenya.com/events/" target="_blank" rel="noreferrer">
+          <img src="./assets/signature-dish.png" alt="Chef table dining at Cultiva">
+          <div><span>02</span><h3>Chef's Table</h3><p>A closer look at what is growing, cooking and changing.</p></div>
+        </a>
+        <a class="event-card reveal" href="https://cultivakenya.com/events/" target="_blank" rel="noreferrer">
+          <img src="./assets/award.jpg" alt="Private celebration at Cultiva">
+          <div><span>03</span><h3>Private Celebration</h3><p>Garden light, good food and a table built around your people.</p></div>
+        </a>
+      </div>
+    </section>
+
+    <section class="recognition day-section" id="recognition" data-time="night">
       <div class="recognition-copy reveal">
         <p class="eyebrow">Food & Wine · 2024</p>
         <h2>Top 20<br>International<br>Restaurants.</h2>
@@ -139,10 +157,16 @@
     <section class="final-cta day-section" data-time="night">
       <img src="./assets/farm-team.jpg" alt="Cultiva farm at the end of the day">
       <div class="night-overlay"></div>
+
+      <div class="signature-cloud" aria-hidden="true">
+        <span>Growers</span><span>Gardeners</span><span>Chefs</span><span>Artisans</span>
+        <span>Guests</span><span>Bakers</span><span>Winemakers</span><span>Families</span>
+      </div>
+
       <div class="final-copy reveal">
         <p class="eyebrow">The day ends at the table</p>
         <h2>Become part<br>of the harvest.</h2>
-        <p>Not everyone grows food. Everyone can appreciate where it comes from.</p>
+        <p>Every person who walks through the gate leaves the farm a little stronger.</p>
         <a class="primary-cta light-cta" href="https://cultivakenya.com/" target="_blank" rel="noreferrer">Reserve your experience <span>↗</span></a>
       </div>
     </section>

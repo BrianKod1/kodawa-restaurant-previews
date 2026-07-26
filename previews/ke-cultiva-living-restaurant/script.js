@@ -94,3 +94,36 @@ soundToggle.addEventListener('click', async ()=>{
   masterGain.gain.cancelScheduledValues(audioContext.currentTime);
   masterGain.gain.linearRampToValueAtTime(soundOn ? .55 : .0001,audioContext.currentTime + .7);
 });
+
+// Cultiva living-cycle sequence
+const lifeSteps = [...document.querySelectorAll('.life-step')];
+const sequenceBar = document.getElementById('sequenceBar');
+const cycleSection = document.querySelector('.cycle');
+
+if (lifeSteps.length && cycleSection) {
+  let cycleIndex = 0;
+  let cycleTimer;
+
+  const showLifeStep = (index) => {
+    lifeSteps[cycleIndex].classList.remove('active');
+    cycleIndex = (index + lifeSteps.length) % lifeSteps.length;
+    lifeSteps[cycleIndex].classList.add('active');
+    if (sequenceBar) {
+      sequenceBar.style.width = `${((cycleIndex + 1) / lifeSteps.length) * 100}%`;
+    }
+  };
+
+  const startCycle = () => {
+    clearInterval(cycleTimer);
+    cycleTimer = setInterval(() => showLifeStep(cycleIndex + 1), 2400);
+  };
+
+  const cycleObserver = new IntersectionObserver((entries) => {
+    entries.forEach(entry => {
+      if (entry.isIntersecting) startCycle();
+      else clearInterval(cycleTimer);
+    });
+  }, { threshold: .35 });
+
+  cycleObserver.observe(cycleSection);
+}
