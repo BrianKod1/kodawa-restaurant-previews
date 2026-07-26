@@ -183,3 +183,59 @@ button{font:inherit}
 .sparkle-card:hover .alternate-dessert{
   transform:scale(1.11);
 }
+
+/* Uncle Obama text feature */
+.dessert-story{
+  min-height:100%;
+  background:#0d0d0d;
+  color:#fff;
+  display:flex;
+  align-items:flex-end;
+  padding:46px;
+  position:relative;
+  overflow:hidden;
+}
+.dessert-story::before{
+  content:"";
+  position:absolute;
+  width:220px;
+  height:220px;
+  border-radius:50%;
+  background:var(--red);
+  right:-70px;
+  top:-70px;
+  filter:blur(2px);
+}
+.dessert-story::after{
+  content:"HERO";
+  position:absolute;
+  right:22px;
+  bottom:-22px;
+  font-size:7rem;
+  font-weight:600;
+  letter-spacing:-.08em;
+  color:rgba(255,255,255,.05);
+}
+.dessert-story-inner{
+  position:relative;
+  z-index:2;
+  max-width:520px;
+}
+.dessert-story h3{
+  font-size:clamp(2.5rem,4vw,5rem);
+  line-height:.95;
+  letter-spacing:-.06em;
+  margin:12px 0 22px;
+  font-weight:500;
+}
+.dessert-story p:not(.kicker){
+  color:#b7b7b7;
+  line-height:1.8;
+}
+.dessert-story strong{
+  display:block;
+  margin-top:24px;
+  color:var(--red);
+  font-size:.75rem;
+  letter-spacing:.14em;
+}
