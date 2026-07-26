@@ -155,3 +155,21 @@ button{font:inherit}
     padding:12px 0;
   }
 }
+
+/* HERO CTA and reservation link fix */
+.scroll-cue{
+  display:none !important;
+}
+
+.hero-copy{
+  position:relative;
+  z-index:5;
+}
+
+.primary-cta{
+  position:relative;
+  z-index:6;
+  display:inline-flex;
+  width:max-content;
+  margin-top:4px;
+}
