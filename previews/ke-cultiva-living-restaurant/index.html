@@ -1,0 +1,162 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="theme-color" content="#173c2c">
+  <meta name="description" content="Cultiva — a living farm-to-table restaurant experience in Nairobi.">
+  <title>Cultiva — The Farm Writes the Menu</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@300;400;500;600&family=Libre+Caslon+Display&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="./styles.css">
+</head>
+<body>
+  <div class="grain"></div>
+  <div class="sun-glow" id="sunGlow"></div>
+
+  <header class="site-header">
+    <a class="brand" href="#top">
+      <span>CULTIVA</span>
+      <small>Farm · Kitchen · Community</small>
+    </a>
+    <nav>
+      <a href="#farm">Farm</a>
+      <a href="#people">People</a>
+      <a href="#menu">Menu</a>
+      <a href="#recognition">Recognition</a>
+    </nav>
+    <div class="header-actions">
+      <button id="soundToggle" class="sound-toggle" type="button" aria-label="Turn farm ambience on">
+        <span class="sound-dot"></span>
+        <span class="sound-label">Sound off</span>
+      </button>
+      <a class="reserve-mini" href="https://cultivakenya.com/" target="_blank" rel="noreferrer">Reserve</a>
+    </div>
+  </header>
+
+  <main id="top">
+    <section class="hero day-section" data-time="dawn">
+      <img src="./assets/farm-team.jpg" alt="The Cultiva farm team">
+      <div class="hero-overlay"></div>
+      <div class="hero-copy reveal">
+        <p class="eyebrow">A living restaurant · Nairobi</p>
+        <h1>The farm writes<br>the menu.</h1>
+        <p class="subhead">We simply listen.</p>
+        <div class="hero-actions">
+          <a class="primary-cta" href="https://cultivakenya.com/" target="_blank" rel="noreferrer">Become part of the harvest <span>↗</span></a>
+          <a class="secondary-link" href="#farm">See where dinner begins ↓</a>
+        </div>
+      </div>
+      <div class="award-pill">Food & Wine · Top 20 International Restaurants</div>
+    </section>
+
+    <section class="statement day-section" id="farm" data-time="morning">
+      <div class="leaf-line"></div>
+      <p class="section-label">01 · Before the plate</p>
+      <h2 class="reveal">Everything begins<br>with what is ready today.</h2>
+      <div class="statement-grid">
+        <p class="reveal">Cultiva does not force ingredients into a fixed menu. The season leads. The soil answers. The kitchen follows.</p>
+        <p class="reveal">That makes every meal part of a larger rhythm: seed, care, harvest, craft, table.</p>
+      </div>
+    </section>
+
+    <section class="people-poster day-section" id="people" data-time="midday">
+      <img src="./assets/farm-team.jpg" alt="Cultiva growers, makers and team">
+      <div class="poster-shade"></div>
+      <div class="poster-copy reveal">
+        <p class="eyebrow">The hands behind today's menu</p>
+        <h2>Nothing here<br>exists alone.</h2>
+        <p>Growers. Gardeners. Chefs. Artisans. Hosts. Guests. Every plate carries more than ingredients.</p>
+      </div>
+      <div class="people-note">Community is not a page on the website. It is the restaurant.</div>
+    </section>
+
+    <section class="journey day-section" data-time="afternoon">
+      <div class="journey-copy reveal">
+        <p class="section-label">02 · Soil to plate</p>
+        <h2>A meal is a chain<br>of care.</h2>
+      </div>
+      <div class="journey-track">
+        <article><span>01</span><strong>Seed</strong><p>Potential, placed carefully.</p></article>
+        <article><span>02</span><strong>Soil</strong><p>Life built below the surface.</p></article>
+        <article><span>03</span><strong>Harvest</strong><p>Picked when flavour says ready.</p></article>
+        <article><span>04</span><strong>Kitchen</strong><p>Technique without waste.</p></article>
+        <article><span>05</span><strong>Table</strong><p>The circle becomes complete.</p></article>
+      </div>
+    </section>
+
+    <section class="dish-feature day-section" data-time="golden">
+      <div class="dish-image-wrap">
+        <img src="./assets/signature-dish.png" alt="A seasonal Cultiva dish">
+        <span class="dish-badge">Harvest today</span>
+      </div>
+      <div class="dish-copy reveal">
+        <p class="eyebrow">The living menu</p>
+        <h2>Built around the ingredient.<br>Not the category.</h2>
+        <p>Cold, warm, raw, charred, fermented, bright. The menu changes because the farm does.</p>
+        <div class="menu-links">
+          <a href="./menus/food-menu.pdf" target="_blank">Food menu <span>↗</span></a>
+          <a href="./menus/drinks-menu.pdf" target="_blank">Drinks menu <span>↗</span></a>
+          <a href="./menus/brunch-menu.pdf" target="_blank">Brunch menu <span>↗</span></a>
+        </div>
+      </div>
+    </section>
+
+    <section class="breakfast day-section" id="menu" data-time="late-afternoon">
+      <div class="breakfast-copy reveal">
+        <p class="eyebrow">Morning at Cultiva</p>
+        <h2>Sunrise has<br>its own menu.</h2>
+        <p>Fresh juices, cultured butter, farm leaves, proper coffee and brunch heroes—served Wednesday to Sunday until noon.</p>
+        <a class="primary-cta dark-cta" href="./menus/brunch-menu.pdf" target="_blank">Open sunrise menu <span>↗</span></a>
+      </div>
+      <div class="menu-preview">
+        <img src="./assets/sunrise-menu.jpg" alt="Cultiva sunrise menu">
+      </div>
+    </section>
+
+    <section class="fermentation day-section" data-time="sunset">
+      <div class="ferment-orb"></div>
+      <div class="fermentation-copy reveal">
+        <p class="eyebrow">Time is an ingredient</p>
+        <h2>Fermentation<br>is rebellion.</h2>
+        <p>No fluorescent syrups pretending to be fruit. No shortcuts pretending to be flavour. Just patience, microbes, herbs, fruit and time.</p>
+        <div class="ferment-tags">
+          <span>Farm soda</span><span>Wild herbs</span><span>House infusions</span><span>Natural rhythm</span>
+        </div>
+      </div>
+    </section>
+
+    <section class="recognition day-section" id="recognition" data-time="dusk">
+      <div class="recognition-copy reveal">
+        <p class="eyebrow">Food & Wine · 2024</p>
+        <h2>Top 20<br>International<br>Restaurants.</h2>
+        <p>Global recognition for a restaurant rooted in Nairobi soil.</p>
+      </div>
+      <img src="./assets/award.jpg" alt="Food and Wine recognition for Cultiva">
+    </section>
+
+    <section class="final-cta day-section" data-time="night">
+      <img src="./assets/farm-team.jpg" alt="Cultiva farm at the end of the day">
+      <div class="night-overlay"></div>
+      <div class="final-copy reveal">
+        <p class="eyebrow">The day ends at the table</p>
+        <h2>Become part<br>of the harvest.</h2>
+        <p>Not everyone grows food. Everyone can appreciate where it comes from.</p>
+        <a class="primary-cta light-cta" href="https://cultivakenya.com/" target="_blank" rel="noreferrer">Reserve your experience <span>↗</span></a>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <div>
+      <span class="footer-brand">CULTIVA</span>
+      <small>Farm · Kitchen · Community</small>
+    </div>
+    <p>Nairobi, Kenya</p>
+    <p class="concept-note">Independent Kodawa Labs concept · Not the official Cultiva website</p>
+  </footer>
+
+  <script src="./script.js"></script>
+</body>
+</html>
