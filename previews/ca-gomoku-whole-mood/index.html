@@ -259,12 +259,175 @@
       </div>
     </section>
 
+
+    <section class="social-sequence">
+      <div class="social-heading reveal">
+        <p class="eyebrow">Every section, a moment</p>
+        <h2>Built to stop the scroll.</h2>
+        <p>Each frame can stand alone as a social post, while still moving the visitor toward a booking, an order or an event inquiry.</p>
+      </div>
+
+      <div class="social-track" id="socialTrack">
+        <article class="social-frame active">
+          <img src="./assets/bartender-fire.jpg" alt="Flaming cocktail preparation at Gomoku">
+          <div class="social-shade"></div>
+          <div class="social-copy">
+            <span>01 / 05</span>
+            <h3>The drink arrives before the story does.</h3>
+            <p>Craft, heat and a reason to take out your phone.</p>
+          </div>
+        </article>
+
+        <article class="social-frame">
+          <img src="./assets/live-set.jpg" alt="Live performance at Gomoku">
+          <div class="social-shade"></div>
+          <div class="social-copy">
+            <span>02 / 05</span>
+            <h3>Dinner should have a soundtrack.</h3>
+            <p>Music belongs inside the restaurant experience, not on a forgotten event page.</p>
+          </div>
+        </article>
+
+        <article class="social-frame">
+          <img src="./assets/food-wide.jpg" alt="Food at Gomoku">
+          <div class="social-shade"></div>
+          <div class="social-copy">
+            <span>03 / 05</span>
+            <h3>Food that looks ready for the group chat.</h3>
+            <p>Bold, generous and built to be shared.</p>
+          </div>
+        </article>
+
+        <article class="social-frame">
+          <img src="./assets/event-host.jpg" alt="Private event at Gomoku">
+          <div class="social-shade"></div>
+          <div class="social-copy">
+            <span>04 / 05</span>
+            <h3>Bring the occasion. Keep the memory.</h3>
+            <p>Birthdays, launches, showers and nights people talk about later.</p>
+          </div>
+        </article>
+
+        <article class="social-frame">
+          <img src="./assets/booth-wide.jpg" alt="Gomoku booth seating">
+          <div class="social-shade"></div>
+          <div class="social-copy">
+            <span>05 / 05</span>
+            <h3>The room has its own personality.</h3>
+            <p>Purple, amber, art and enough character to make the venue recognizable instantly.</p>
+          </div>
+        </article>
+      </div>
+
+      <div class="social-controls">
+        <button id="socialPrev" type="button" aria-label="Previous story">←</button>
+        <div class="social-progress"><span id="socialProgress"></span></div>
+        <button id="socialNext" type="button" aria-label="Next story">→</button>
+      </div>
+    </section>
+
+    <section class="experience-tabs">
+      <div class="experience-tabs-copy reveal">
+        <p class="eyebrow dark">Choose the night</p>
+        <h2>One room. Different reasons to come.</h2>
+      </div>
+
+      <div class="tab-buttons" role="tablist">
+        <button class="experience-tab active" type="button" data-experience="dinner">Dinner</button>
+        <button class="experience-tab" type="button" data-experience="drinks">Drinks</button>
+        <button class="experience-tab" type="button" data-experience="live">Live night</button>
+        <button class="experience-tab" type="button" data-experience="event">Private event</button>
+      </div>
+
+      <div class="experience-panels">
+        <article class="experience-panel active" data-experience-panel="dinner">
+          <div>
+            <span>Best for</span>
+            <h3>Casual dinner that can turn into a night out.</h3>
+            <p>Start with bold shareables, stay for drinks and let the room decide how late the evening goes.</p>
+          </div>
+          <a href="https://www.opentable.ca/" target="_blank" rel="noreferrer">Book dinner ↗</a>
+        </article>
+
+        <article class="experience-panel" data-experience-panel="drinks">
+          <div>
+            <span>Best for</span>
+            <h3>Meeting at the bar before anything is decided.</h3>
+            <p>Crafted drinks, visual presentation and a room that already feels like plans have started.</p>
+          </div>
+          <a href="https://gomokurestaurant.ca/menus/" target="_blank" rel="noreferrer">See drinks ↗</a>
+        </article>
+
+        <article class="experience-panel" data-experience-panel="live">
+          <div>
+            <span>Best for</span>
+            <h3>Music, movement and a more memorable midweek.</h3>
+            <p>The website should surface what is happening now, not make guests search for it.</p>
+          </div>
+          <a href="https://gomokurestaurant.ca/" target="_blank" rel="noreferrer">See current events ↗</a>
+        </article>
+
+        <article class="experience-panel" data-experience-panel="event">
+          <div>
+            <span>Best for</span>
+            <h3>A celebration that needs more than a table.</h3>
+            <p>Custom menus, AV, drinks and planning support for groups that want the whole space to feel intentional.</p>
+          </div>
+          <a href="https://gomokurestaurant.ca/event-venue/" target="_blank" rel="noreferrer">Plan your event ↗</a>
+        </article>
+      </div>
+    </section>
+
+    <section class="review-section">
+      <div class="review-heading reveal">
+        <p class="eyebrow">What guests remember</p>
+        <h2>Not one thing.<br>The whole experience.</h2>
+      </div>
+
+      <div class="review-stage">
+        <blockquote class="review-card active">
+          <p>“The room, the drinks, the art and the energy all felt connected.”</p>
+          <footer><strong>Atmosphere</strong><span>Guest impression</span></footer>
+        </blockquote>
+        <blockquote class="review-card">
+          <p>“It felt like dinner and an event without needing to choose between them.”</p>
+          <footer><strong>Night out</strong><span>Guest impression</span></footer>
+        </blockquote>
+        <blockquote class="review-card">
+          <p>“The space made the celebration feel like it belonged there.”</p>
+          <footer><strong>Private event</strong><span>Guest impression</span></footer>
+        </blockquote>
+      </div>
+
+      <div class="review-dots">
+        <button class="review-dot active" type="button" data-review="0">01</button>
+        <button class="review-dot" type="button" data-review="1">02</button>
+        <button class="review-dot" type="button" data-review="2">03</button>
+      </div>
+    </section>
+
+    <section class="event-conversion">
+      <img src="./assets/event-room-wide.jpg" alt="Gomoku event room">
+      <div class="event-conversion-shade"></div>
+
+      <div class="event-conversion-copy reveal">
+        <p class="eyebrow">Revenue opportunity</p>
+        <h2>Events should feel like a main product.</h2>
+        <p>Not a small link in the navigation. A clear booking path for higher-value occasions.</p>
+
+        <div class="event-conversion-actions">
+          <a class="primary-cta" href="https://gomokurestaurant.ca/event-venue/" target="_blank" rel="noreferrer">Plan an event <span>↗</span></a>
+          <a class="secondary-cta" href="https://gomokurestaurant.ca/contact/" target="_blank" rel="noreferrer">Speak to the team</a>
+        </div>
+      </div>
+    </section>
+
     <section class="phase-strip">
       <div class="phase-line"></div>
       <div class="phase-copy reveal">
-        <p>Phase Two complete</p>
-        <h2>The mood now has substance.</h2>
-        <span>Food storytelling · drinks · live atmosphere · private events · people</span>
+        <p>Phase Three complete</p>
+        <h2>The experience now moves.</h2>
+        <span>Social storytelling · guest intent · reviews · event conversion · motion polish</span>
       </div>
       <a class="phase-event" href="https://gomokurestaurant.ca/event-venue/" target="_blank" rel="noreferrer">
         <span>Private events</span>

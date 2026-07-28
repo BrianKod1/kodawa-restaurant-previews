@@ -37,3 +37,13 @@ Expected URL:
 - Live-music storytelling
 - Private-event capacity and benefits
 - Team and service photography
+
+
+## Phase 3 additions
+
+- Social-media-style rotating story sequence
+- Guest-intent experience tabs
+- Review carousel
+- Event conversion section
+- Desktop pointer glow
+- Motion and transition polish

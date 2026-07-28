@@ -91,3 +91,58 @@ function stopMood(){
 }
 
 soundPlayer?.addEventListener('click',()=>audioPlaying?stopMood():startMood());
+
+// Phase 3 social sequence
+const socialFrames=[...document.querySelectorAll('.social-frame')];
+const socialProgress=document.getElementById('socialProgress');
+let socialIndex=0;
+
+function showSocial(index){
+  if(!socialFrames.length)return;
+  socialFrames[socialIndex].classList.remove('active');
+  socialIndex=(index+socialFrames.length)%socialFrames.length;
+  socialFrames[socialIndex].classList.add('active');
+  if(socialProgress){
+    socialProgress.style.width=`${((socialIndex+1)/socialFrames.length)*100}%`;
+  }
+}
+document.getElementById('socialPrev')?.addEventListener('click',()=>showSocial(socialIndex-1));
+document.getElementById('socialNext')?.addEventListener('click',()=>showSocial(socialIndex+1));
+
+// Guest intent tabs
+const experienceTabs=document.querySelectorAll('.experience-tab');
+const experiencePanels=document.querySelectorAll('.experience-panel');
+experienceTabs.forEach(tab=>{
+  tab.addEventListener('click',()=>{
+    experienceTabs.forEach(item=>item.classList.remove('active'));
+    experiencePanels.forEach(panel=>panel.classList.remove('active'));
+    tab.classList.add('active');
+    document.querySelector(`[data-experience-panel="${tab.dataset.experience}"]`)?.classList.add('active');
+  });
+});
+
+// Review carousel
+const reviewCards=[...document.querySelectorAll('.review-card')];
+const reviewDots=[...document.querySelectorAll('.review-dot')];
+let reviewIndex=0;
+function showReview(index){
+  if(!reviewCards.length)return;
+  reviewCards[reviewIndex].classList.remove('active');
+  reviewDots[reviewIndex]?.classList.remove('active');
+  reviewIndex=(index+reviewCards.length)%reviewCards.length;
+  reviewCards[reviewIndex].classList.add('active');
+  reviewDots[reviewIndex]?.classList.add('active');
+}
+reviewDots.forEach(dot=>dot.addEventListener('click',()=>showReview(Number(dot.dataset.review))));
+
+// Desktop pointer glow
+if(window.matchMedia('(pointer:fine)').matches){
+  const glow=document.createElement('div');
+  glow.className='cursor-glow';
+  document.body.appendChild(glow);
+  window.addEventListener('pointermove',event=>{
+    glow.style.transform=`translate(${event.clientX}px,${event.clientY}px)`;
+    glow.style.opacity='1';
+  },{passive:true});
+  document.documentElement.addEventListener('mouseleave',()=>glow.style.opacity='0');
+}
