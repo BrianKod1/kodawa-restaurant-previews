@@ -9,27 +9,16 @@ const observer=new IntersectionObserver(entries=>{
 document.querySelectorAll('.reveal').forEach(el=>observer.observe(el));
 
 const header=document.getElementById('siteHeader');
-window.addEventListener('scroll',()=>{
-  header.classList.toggle('scrolled',window.scrollY>70);
-},{passive:true});
+window.addEventListener('scroll',()=>header.classList.toggle('scrolled',window.scrollY>70),{passive:true});
 
-const auditOptions=document.querySelectorAll('.audit-option');
-const auditPanels=document.querySelectorAll('.audit-result');
-auditOptions.forEach(option=>{
+const options=document.querySelectorAll('.audit-option');
+const panels=document.querySelectorAll('.audit-result');
+options.forEach(option=>{
   option.addEventListener('click',()=>{
     const target=option.dataset.audit;
-    auditOptions.forEach(item=>item.classList.remove('active'));
-    auditPanels.forEach(panel=>panel.classList.remove('active'));
+    options.forEach(item=>item.classList.remove('active'));
+    panels.forEach(panel=>panel.classList.remove('active'));
     option.classList.add('active');
     document.querySelector(`[data-audit-panel="${target}"]`)?.classList.add('active');
   });
 });
-
-if(window.matchMedia('(pointer:fine)').matches){
-  const glow=document.getElementById('cursorGlow');
-  window.addEventListener('pointermove',event=>{
-    glow.style.transform=`translate(${event.clientX}px,${event.clientY}px)`;
-    glow.style.opacity='1';
-  },{passive:true});
-  document.documentElement.addEventListener('mouseleave',()=>glow.style.opacity='0');
-}

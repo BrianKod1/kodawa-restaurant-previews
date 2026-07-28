@@ -1,16 +1,16 @@
-# Kodawa Labs Restaurant Futures — Premium Showcase
+# Kodawa Labs Restaurant Futures — Mobile-First V2
 
-This is the final premium showcase refresh.
+This version is rebuilt around the phone experience.
 
 ## What changed
 
-- Outcome-led hero
-- Signature case studies for Ankole, Gomoku and The Talisman
-- Business-outcome labels on every project
-- Updated latest restaurant concepts
-- Commercial design methodology
-- Interactive restaurant website audit
-- Mobile and desktop polish
+- Immediate visual proof
+- Full-screen signature concept cards
+- Shorter copy blocks
+- Compact two-column concept grid
+- Mobile dock navigation
+- Audit moved near the bottom
+- Desktop expands the same system instead of using a separate structure
 
 ## Install
 
