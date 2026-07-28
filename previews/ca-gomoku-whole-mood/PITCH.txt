@@ -1,17 +1,19 @@
-Subject: I redesigned Gomoku around what guests actually remember
+Subject: I rebuilt Gomoku around what guests actually remember
 
 Hi Gomoku Team,
 
 I’m Brian Kodawa, founder of Kodawa Labs here in Oshawa.
 
-I went through your website and built an independent concept showing how Gomoku could be positioned more clearly around what makes it special: food, drinks, music, events and the feeling of the room.
+I spent time reviewing Gomoku’s website, menu, event offering and visual identity, then built an independent concept around what makes the restaurant different: food, drinks, music, events and the energy of the room working together.
 
-The current site contains a lot of useful information, but the strongest story—Gomoku as a social and event destination—gets buried. The concept puts bookings, events and online orders first while making the experience feel more modern and mobile-friendly.
+The concept makes table bookings, online orders and private-event inquiries easier to find while giving Gomoku a stronger mobile-first identity.
 
 Preview:
 https://showcase.ouniverse.space/previews/ca-gomoku-whole-mood/
 
-I’d be happy to walk you through the thinking and discuss turning it into a production-ready website.
+The concept is not meant to change what Gomoku is. It is designed to make the online experience feel more like the actual restaurant.
+
+I’d be happy to walk you through the thinking and discuss developing it into a production-ready website.
 
 Brian Kodawa
 Kodawa Labs

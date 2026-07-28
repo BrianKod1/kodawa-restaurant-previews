@@ -146,3 +146,22 @@ if(window.matchMedia('(pointer:fine)').matches){
   },{passive:true});
   document.documentElement.addEventListener('mouseleave',()=>glow.style.opacity='0');
 }
+
+// Phase 4 host guide
+const hostOptions=document.querySelectorAll('.host-option');
+const hostPanels=document.querySelectorAll('.host-result');
+
+hostOptions.forEach(option=>{
+  option.addEventListener('click',()=>{
+    const target=option.dataset.host;
+    hostOptions.forEach(item=>item.classList.remove('active'));
+    hostPanels.forEach(panel=>panel.classList.remove('active'));
+    option.classList.add('active');
+    document.querySelector(`[data-host-panel="${target}"]`)?.classList.add('active');
+  });
+});
+
+// Final header state
+window.addEventListener('scroll',()=>{
+  document.getElementById('siteHeader')?.classList.toggle('final-scrolled',window.scrollY>120);
+},{passive:true});

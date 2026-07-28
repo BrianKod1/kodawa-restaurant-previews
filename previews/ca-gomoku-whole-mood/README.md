@@ -47,3 +47,13 @@ Expected URL:
 - Event conversion section
 - Desktop pointer glow
 - Motion and transition polish
+
+
+## Phase 4 additions
+
+- Brand manifesto
+- Guest-intent host guide
+- Final conversion poster
+- Refined mobile CTA hierarchy
+- Final header, hover and responsive polish
+- Pitch-ready closing narrative
