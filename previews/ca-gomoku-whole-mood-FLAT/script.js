@@ -1,1 +1,36 @@
-document.querySelectorAll('[data-jump]').forEach(x=>x.onclick=()=>document.querySelector(x.dataset.jump)?.scrollIntoView({behavior:'smooth'}));const o=new IntersectionObserver(es=>es.forEach(e=>{if(e.isIntersecting){e.target.classList.add('visible');o.unobserve(e.target)}}),{threshold:.14});document.querySelectorAll('.reveal').forEach(e=>o.observe(e));const b=document.getElementById('sound');let c,n=[],t,p=false;function start(){c=c||new (window.AudioContext||window.webkitAudioContext)();if(c.state==='suspended')c.resume();const m=c.createGain();m.gain.value=.035;m.connect(c.destination);[73.42,98,146.83].forEach((f,i)=>{const q=c.createOscillator(),g=c.createGain();q.type=i===1?'triangle':'sine';q.frequency.value=f;g.gain.value=i===0?.16:.045;q.connect(g).connect(m);q.start();n.push(q,g)});n.push(m);p=true;b.querySelector('i').textContent='Ⅱ'}function stop(){n.forEach(x=>{try{x.stop&&x.stop()}catch{}try{x.disconnect()}catch{}});n=[];p=false;b.querySelector('i').textContent='▶'}b.onclick=()=>p?stop():start();
+const reveals=document.querySelectorAll('.reveal');
+const observer=new IntersectionObserver(entries=>{
+  entries.forEach(entry=>{
+    if(entry.isIntersecting){
+      entry.target.classList.add('visible');
+      observer.unobserve(entry.target);
+    }
+  });
+},{threshold:.14});
+reveals.forEach(el=>observer.observe(el));
+
+const images=[...document.querySelectorAll('.hero-image')];
+let current=0;
+setInterval(()=>{
+  images[current].classList.remove('active');
+  current=(current+1)%images.length;
+  images[current].classList.add('active');
+},5200);
+
+const mobileMenu=document.getElementById('mobileMenu');
+const menuButton=document.getElementById('menuButton');
+const menuClose=document.getElementById('menuClose');
+
+function setMenu(open){
+  mobileMenu.classList.toggle('open',open);
+  mobileMenu.setAttribute('aria-hidden',String(!open));
+  document.body.classList.toggle('menu-open',open);
+}
+menuButton?.addEventListener('click',()=>setMenu(true));
+menuClose?.addEventListener('click',()=>setMenu(false));
+mobileMenu.querySelectorAll('a').forEach(link=>link.addEventListener('click',()=>setMenu(false)));
+
+const header=document.getElementById('siteHeader');
+window.addEventListener('scroll',()=>{
+  header.classList.toggle('scrolled',window.scrollY>70);
+},{passive:true});

@@ -1,3 +1,29 @@
-# Gomoku — The Whole Mood
+# Gomoku — The Whole Mood — Phase 1
 
-Deploy into `previews/ca-gomoku-whole-mood/`.
+Phase 1 establishes:
+
+- Mobile-first responsive foundation
+- Rotating cinematic hero
+- Core positioning: “Not just a vibe. The whole mood.”
+- Navigation and mobile menu
+- Booking, event and menu paths
+- Identity and space introduction
+- Sticky mobile quick actions
+
+## Deploy
+
+Extract these files directly into:
+
+`previews/ca-gomoku-whole-mood/`
+
+The folder should contain:
+
+- index.html
+- styles.css
+- script.js
+- README.md
+- assets/
+
+Expected URL:
+
+`https://showcase.ouniverse.space/previews/ca-gomoku-whole-mood/`
