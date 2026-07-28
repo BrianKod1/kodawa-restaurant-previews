@@ -137,3 +137,23 @@ document.getElementById('galleryNext')?.addEventListener('click',()=>showGallery
 
 const reviewTabs=document.querySelectorAll('.review-tab'),reviewPanels=document.querySelectorAll('.review-panel');
 reviewTabs.forEach(tab=>tab.onclick=()=>{reviewTabs.forEach(x=>x.classList.remove('active'));reviewPanels.forEach(x=>x.classList.remove('active'));tab.classList.add('active');document.querySelector(`[data-review-panel="${tab.dataset.review}"]`)?.classList.add('active')});
+
+// Phase 4 lightweight concierge
+const conciergeOptions = document.querySelectorAll('.concierge-option');
+const conciergePanels = document.querySelectorAll('.concierge-panel');
+
+conciergeOptions.forEach(option => {
+  option.addEventListener('click', () => {
+    const target = option.dataset.concierge;
+    conciergeOptions.forEach(item => item.classList.remove('active'));
+    conciergePanels.forEach(panel => panel.classList.remove('active'));
+    option.classList.add('active');
+    document.querySelector(`[data-concierge-panel="${target}"]`)?.classList.add('active');
+  });
+});
+
+// Subtle sticky header refinement
+const siteHeader = document.getElementById('siteHeader');
+window.addEventListener('scroll', () => {
+  siteHeader?.classList.toggle('final-scrolled', window.scrollY > 80);
+}, { passive: true });

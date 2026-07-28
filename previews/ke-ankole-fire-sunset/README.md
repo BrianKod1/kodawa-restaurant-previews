@@ -41,3 +41,13 @@ Expected preview URL:
 - Events and private dining
 - Rotating editorial gallery
 - Reviews grouped by guest intent
+
+
+## Phase 4 additions
+
+- Why Ankole story section
+- Distinct Kitisuru and Kilimani experiences
+- Lightweight ReserveAI-style concierge
+- Final reservation and WhatsApp paths
+- Cinematic closing section
+- Final responsive and navigation polish
