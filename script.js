@@ -1,40 +1,35 @@
-const filterButtons = document.querySelectorAll('.filter-button');
-const cards = document.querySelectorAll('.project-card');
+const observer=new IntersectionObserver(entries=>{
+  entries.forEach(entry=>{
+    if(entry.isIntersecting){
+      entry.target.classList.add('visible');
+      observer.unobserve(entry.target);
+    }
+  });
+},{threshold:.12});
+document.querySelectorAll('.reveal').forEach(el=>observer.observe(el));
 
-filterButtons.forEach((button) => {
-  button.addEventListener('click', () => {
-    filterButtons.forEach((item) => item.classList.remove('active'));
-    button.classList.add('active');
+const header=document.getElementById('siteHeader');
+window.addEventListener('scroll',()=>{
+  header.classList.toggle('scrolled',window.scrollY>70);
+},{passive:true});
 
-    const filter = button.dataset.filter;
-
-    cards.forEach((card) => {
-      const categories = card.dataset.category.split(' ');
-      const shouldShow = filter === 'all' || categories.includes(filter);
-      card.classList.toggle('hidden', !shouldShow);
-    });
+const auditOptions=document.querySelectorAll('.audit-option');
+const auditPanels=document.querySelectorAll('.audit-result');
+auditOptions.forEach(option=>{
+  option.addEventListener('click',()=>{
+    const target=option.dataset.audit;
+    auditOptions.forEach(item=>item.classList.remove('active'));
+    auditPanels.forEach(panel=>panel.classList.remove('active'));
+    option.classList.add('active');
+    document.querySelector(`[data-audit-panel="${target}"]`)?.classList.add('active');
   });
 });
 
-const revealElements = document.querySelectorAll(
-  '.project-card, .approach-grid article, .section-heading, .approach-lead, .cta-section'
-);
-
-if ('IntersectionObserver' in window) {
-  revealElements.forEach((element) => {
-    element.style.opacity = '0';
-    element.style.transform = 'translateY(18px)';
-    element.style.transition = 'opacity .55s ease, transform .55s ease';
-  });
-
-  const observer = new IntersectionObserver((entries) => {
-    entries.forEach((entry) => {
-      if (!entry.isIntersecting) return;
-      entry.target.style.opacity = '1';
-      entry.target.style.transform = 'translateY(0)';
-      observer.unobserve(entry.target);
-    });
-  }, { threshold: 0.12 });
-
-  revealElements.forEach((element) => observer.observe(element));
+if(window.matchMedia('(pointer:fine)').matches){
+  const glow=document.getElementById('cursorGlow');
+  window.addEventListener('pointermove',event=>{
+    glow.style.transform=`translate(${event.clientX}px,${event.clientY}px)`;
+    glow.style.opacity='1';
+  },{passive:true});
+  document.documentElement.addEventListener('mouseleave',()=>glow.style.opacity='0');
 }

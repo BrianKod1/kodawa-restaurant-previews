@@ -1,365 +1,323 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="description" content="A curated collection of Kenyan restaurant website concepts by Kodawa Labs.">
-  <title>Kodawa Labs — Kenya Restaurant Collection</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+  <meta name="theme-color" content="#11100e">
+  <meta name="description" content="Kodawa Labs designs restaurant websites that turn atmosphere, storytelling and customer action into reservations and event inquiries.">
+  <title>Kodawa Labs — Restaurant Futures</title>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Manrope:wght@400;500;600;700&family=Playfair+Display:ital,wght@0,600;1,600&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="styles.css">
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600&family=Libre+Caslon+Display&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="./styles.css">
 </head>
 <body>
-  <div class="site-shell">
-    <header class="site-header">
-      <a class="brand" href="#top" aria-label="Kodawa Labs home">
-        <span class="brand-mark">K</span>
-        <span class="brand-copy">
-          <strong>Kodawa Labs</strong>
-          <small>Kenya Restaurant Collection</small>
-        </span>
-      </a>
+  <div class="grain" aria-hidden="true"></div>
+  <div class="cursor-glow" id="cursorGlow" aria-hidden="true"></div>
 
-      <nav class="desktop-nav" aria-label="Primary navigation">
-        <a href="#collection">Collection</a>
-        <a href="#approach">Approach</a>
-        <a href="#contact">Build yours</a>
-      </nav>
+  <header class="site-header" id="siteHeader">
+    <a class="brand" href="#top" aria-label="Kodawa Labs home">
+      <span class="brand-mark">K</span>
+      <span class="brand-copy">
+        <strong>KODAWA LABS</strong>
+        <small>RESTAURANT FUTURES</small>
+      </span>
+    </a>
 
-      <a class="header-cta" href="#contact">Request a concept</a>
-    </header>
+    <nav class="desktop-nav" aria-label="Primary navigation">
+      <a href="#signature">Signature work</a>
+      <a href="#collection">Collection</a>
+      <a href="#approach">Approach</a>
+      <a href="#audit">Website audit</a>
+    </nav>
 
-    <main id="top">
-      <section class="hero">
-        <div class="hero-copy">
-          <p class="eyebrow">Kodawa Labs · Nairobi, Kenya</p>
-          <h1>We redesign <em>first impressions.</em></h1>
-          <p class="hero-intro">
-            Ten independent restaurant website concepts exploring what Kenyan hospitality
-            can look like when brand, storytelling and customer action work together.
-          </p>
+    <a class="header-cta" href="mailto:Brian.Kodawa@gmail.com?subject=Restaurant%20website%20concept">Request a concept</a>
+  </header>
 
-          <div class="hero-actions">
-            <a class="button button-primary" href="#collection">Explore the collection</a>
-            <a class="button button-secondary" href="#approach">Why we built it</a>
-          </div>
+  <main id="top">
+    <section class="hero">
+      <img src="./assets/showcase/ankole.jpg" alt="Ankole restaurant atmosphere at night">
+      <div class="hero-shade"></div>
 
-          <div class="hero-stats" aria-label="Collection statistics">
-            <div>
-              <strong>10</strong>
-              <span>Restaurant concepts</span>
-            </div>
-            <div>
-              <strong>100%</strong>
-              <span>Responsive</span>
-            </div>
-            <div>
-              <strong>KE</strong>
-              <span>Built for Kenya</span>
-            </div>
-          </div>
+      <div class="hero-copy reveal">
+        <p class="eyebrow">Kodawa Labs · Hospitality Design</p>
+        <h1>We design restaurant websites that make people <em>want to go.</em></h1>
+        <p class="hero-intro">Not templates. Digital experiences built around atmosphere, reservations, events, mobile behaviour and what makes each restaurant worth remembering.</p>
+
+        <div class="hero-actions">
+          <a class="primary-btn" href="#signature">See signature work ↓</a>
+          <a class="secondary-btn" href="#audit">Audit your website</a>
         </div>
-
-        <div class="hero-art" aria-hidden="true">
-          <div class="orbit orbit-one"></div>
-          <div class="orbit orbit-two"></div>
-          <div class="hero-card hero-card-main">
-            <span class="card-label">Featured concept</span>
-            <strong>270° Rooftop</strong>
-            <small>Westlands · Nairobi</small>
-            <span class="card-arrow">↗</span>
-          </div>
-          <div class="hero-card hero-card-small top-card">
-            <span>Fine dining</span>
-            <strong>Sikia</strong>
-          </div>
-          <div class="hero-card hero-card-small bottom-card">
-            <span>Local icon</span>
-            <strong>Mama Oliech's</strong>
-          </div>
-        </div>
-      </section>
-
-      <section class="collection-section" id="collection">
-        <div class="section-heading">
-          <div>
-            <p class="eyebrow">The collection</p>
-            <h2>Ten restaurants. Ten distinct digital identities.</h2>
-          </div>
-          <p>
-            Each concept responds to the restaurant's atmosphere, audience and strongest
-            business opportunity rather than forcing every brand into the same template.
-          </p>
-        </div>
-
-        <div class="filters" aria-label="Filter restaurant concepts">
-          <button class="filter-button active" data-filter="all">All</button>
-          <button class="filter-button" data-filter="premium">Premium</button>
-          <button class="filter-button" data-filter="local">Local icons</button>
-          <button class="filter-button" data-filter="social">Social & rooftop</button>
-          <button class="filter-button" data-filter="heritage">Heritage</button>
-        </div>
-
-        <div class="project-grid">
-          <article class="project-card card-270" data-category="premium social">
-            <a href="./previews/ke-270-rooftop/" aria-label="View 270° Rooftop concept">
-              <div class="project-visual">
-                <span class="project-number">01</span>
-                <div class="visual-copy">
-                  <span>Westlands</span>
-                  <strong>270°</strong>
-                  <small>Rooftop</small>
-                </div>
-              </div>
-              <div class="project-info">
-                <div>
-                  <p>Rooftop restaurant · Premium</p>
-                  <h3>270° Rooftop</h3>
-                </div>
-                <span class="project-link">Explore concept ↗</span>
-              </div>
-            </a>
-          </article>
-
-          <article class="project-card card-akira" data-category="premium">
-            <a href="./previews/ke-akira-modern-asian/" aria-label="View Akira Modern Asian concept">
-              <div class="project-visual">
-                <span class="project-number">02</span>
-                <div class="visual-copy">
-                  <span>Westgate Mall</span>
-                  <strong>AKIRA.</strong>
-                  <small>Modern Asian</small>
-                </div>
-              </div>
-              <div class="project-info">
-                <div>
-                  <p>Modern Asian · Premium</p>
-                  <h3>Akira Modern Asian</h3>
-                </div>
-                <span class="project-link">Explore concept ↗</span>
-              </div>
-            </a>
-          </article>
-
-          <article class="project-card card-kilimanjaro" data-category="local">
-            <a href="./previews/ke-kilimanjaro-jamia/" aria-label="View Kilimanjaro Jamia concept">
-              <div class="project-visual">
-                <span class="project-number">03</span>
-                <div class="visual-copy">
-                  <span>Nairobi CBD</span>
-                  <strong>Kilimanjaro</strong>
-                  <small>Jamia</small>
-                </div>
-              </div>
-              <div class="project-info">
-                <div>
-                  <p>East African · Local icon</p>
-                  <h3>Kilimanjaro Jamia</h3>
-                </div>
-                <span class="project-link">Explore concept ↗</span>
-              </div>
-            </a>
-          </article>
-
-          <article class="project-card card-mama" data-category="local heritage">
-            <a href="./previews/ke-mama-oliech/" aria-label="View Mama Oliech's concept">
-              <div class="project-visual">
-                <span class="project-number">04</span>
-                <div class="visual-copy">
-                  <span>Marcus Garvey Road</span>
-                  <strong>Mama</strong>
-                  <small>Oliech's</small>
-                </div>
-              </div>
-              <div class="project-info">
-                <div>
-                  <p>Kenyan cuisine · Local legend</p>
-                  <h3>Mama Oliech's</h3>
-                </div>
-                <span class="project-link">Explore concept ↗</span>
-              </div>
-            </a>
-          </article>
-
-          <article class="project-card card-oliveira" data-category="heritage">
-            <a href="./previews/ke-oliveira-restaurant/" aria-label="View Oliveira Restaurant concept">
-              <div class="project-visual">
-                <span class="project-number">05</span>
-                <div class="visual-copy">
-                  <span>Biashara Street</span>
-                  <strong>Oliveira</strong>
-                  <small>Restaurant & gallery</small>
-                </div>
-              </div>
-              <div class="project-info">
-                <div>
-                  <p>Eclectic dining · Art-led</p>
-                  <h3>Oliveira Restaurant</h3>
-                </div>
-                <span class="project-link">Explore concept ↗</span>
-              </div>
-            </a>
-          </article>
-
-          <article class="project-card card-sikia" data-category="premium">
-            <a href="./previews/ke-sikia-fine-dining/" aria-label="View Sikia Fine Dining concept">
-              <div class="project-visual">
-                <span class="project-number">06</span>
-                <div class="visual-copy">
-                  <span>Upper Hill</span>
-                  <strong>Sikia</strong>
-                  <small>Fine dining</small>
-                </div>
-              </div>
-              <div class="project-info">
-                <div>
-                  <p>Hotel dining · Premium</p>
-                  <h3>Sikia Fine Dining</h3>
-                </div>
-                <span class="project-link">Explore concept ↗</span>
-              </div>
-            </a>
-          </article>
-
-          <article class="project-card card-summer" data-category="social premium">
-            <a href="./previews/ke-summer-lounge/" aria-label="View The Summer Lounge concept">
-              <div class="project-visual">
-                <span class="project-number">07</span>
-                <div class="visual-copy">
-                  <span>Sarit Centre</span>
-                  <strong>Summer</strong>
-                  <small>Lounge</small>
-                </div>
-              </div>
-              <div class="project-info">
-                <div>
-                  <p>Lifestyle dining · Social</p>
-                  <h3>The Summer Lounge</h3>
-                </div>
-                <span class="project-link">Explore concept ↗</span>
-              </div>
-            </a>
-          </article>
-
-          <article class="project-card card-trattoria" data-category="heritage premium">
-            <a href="./previews/ke-trattoria-nairobi/" aria-label="View Trattoria Nairobi concept">
-              <div class="project-visual">
-                <span class="project-number">08</span>
-                <div class="visual-copy">
-                  <span>Since 1981</span>
-                  <strong>Trattoria</strong>
-                  <small>Ristorante</small>
-                </div>
-              </div>
-              <div class="project-info">
-                <div>
-                  <p>Italian · Heritage</p>
-                  <h3>Trattoria Nairobi</h3>
-                </div>
-                <span class="project-link">Explore concept ↗</span>
-              </div>
-            </a>
-          </article>
-
-          <article class="project-card card-toprise" data-category="local">
-            <a href="./previews/ke-top-rise-restaurant/" aria-label="View Top Rise Restaurant concept">
-              <div class="project-visual">
-                <span class="project-number">09</span>
-                <div class="visual-copy">
-                  <span>Kimathi Street</span>
-                  <strong>TopRise</strong>
-                  <small>Restaurant</small>
-                </div>
-              </div>
-              <div class="project-info">
-                <div>
-                  <p>Casual dining · Local favourite</p>
-                  <h3>Top Rise Restaurant</h3>
-                </div>
-                <span class="project-link">Explore concept ↗</span>
-              </div>
-            </a>
-          </article>
-
-          <article class="project-card card-branch" data-category="local">
-            <a href="./previews/ke-the-branch-restaurant/" aria-label="View The Branch Restaurant concept">
-              <div class="project-visual">
-                <span class="project-number">10</span>
-                <div class="visual-copy">
-                  <span>Moi Avenue</span>
-                  <strong>The Branch</strong>
-                  <small>Restaurant</small>
-                </div>
-              </div>
-              <div class="project-info">
-                <div>
-                  <p>African cuisine · Local favourite</p>
-                  <h3>The Branch Restaurant</h3>
-                </div>
-                <span class="project-link">Explore concept ↗</span>
-              </div>
-            </a>
-          </article>
-        </div>
-      </section>
-
-      <section class="approach-section" id="approach">
-        <div class="approach-lead">
-          <p class="eyebrow">Our approach</p>
-          <h2>A memorable restaurant deserves more than a digital menu.</h2>
-          <p>
-            We build online experiences that translate atmosphere into action:
-            clearer reservations, stronger storytelling, better mobile journeys
-            and more reasons for guests to return.
-          </p>
-        </div>
-
-        <div class="approach-grid">
-          <article>
-            <span>01</span>
-            <h3>Brand before template</h3>
-            <p>Each visual direction is shaped around the restaurant's real identity and audience.</p>
-          </article>
-          <article>
-            <span>02</span>
-            <h3>Mobile first</h3>
-            <p>Calls, reservations, directions and social channels remain easy to reach on any screen.</p>
-          </article>
-          <article>
-            <span>03</span>
-            <h3>Built to convert</h3>
-            <p>The customer journey is designed to move visitors toward an order, booking or visit.</p>
-          </article>
-        </div>
-      </section>
-
-      <section class="cta-section" id="contact">
-        <div>
-          <p class="eyebrow">Your restaurant could be next</p>
-          <h2>Let's build a digital experience worthy of your food.</h2>
-        </div>
-        <div class="cta-actions">
-          <a class="button button-light" href="mailto:brnkdw58@gmail.com?subject=Restaurant%20website%20concept">Start a conversation</a>
-          <p>Independent concepts by Kodawa Labs.<br>Not affiliated with the featured restaurants.</p>
-        </div>
-      </section>
-    </main>
-
-    <footer class="site-footer">
-      <div>
-        <strong>Kodawa Labs</strong>
-        <span>Designing better first impressions.</span>
       </div>
-      <div class="footer-links">
-        <a href="#collection">Collection</a>
-        <a href="#approach">Approach</a>
-        <a href="mailto:brnkdw58@gmail.com">Contact</a>
-      </div>
-      <span>© 2026 Kodawa Labs</span>
-    </footer>
-  </div>
 
-  <script src="script.js"></script>
+      <div class="hero-proof">
+        <div><strong>Kenya + Canada</strong><span>Local insight, global execution</span></div>
+        <div><strong>Mobile-first</strong><span>Designed for where decisions happen</span></div>
+        <div><strong>Revenue-aware</strong><span>Bookings, events and customer action</span></div>
+      </div>
+    </section>
+
+    <section class="opening-statement">
+      <div class="opening-copy reveal">
+        <p class="eyebrow dark">The starting point</p>
+        <h2>What should a guest already feel before they reserve?</h2>
+        <p>That question shapes the story, photography, navigation and call to action. The website should start the experience before the guest arrives.</p>
+      </div>
+    </section>
+
+    <section class="signature" id="signature">
+      <div class="signature-heading reveal">
+        <p class="eyebrow dark">Signature work</p>
+        <h2>Three restaurants.<br>Three completely different answers.</h2>
+      </div>
+
+      <article class="case-study case-dark">
+        <div class="case-image">
+          <img src="./assets/showcase/ankole.jpg" alt="Ankole concept">
+          <div class="case-image-shade"></div>
+          <span class="case-number">01</span>
+        </div>
+        <div class="case-copy reveal">
+          <p class="eyebrow">Ankole · Nairobi</p>
+          <h3>Fire, flavour and the night ahead.</h3>
+          <p class="case-lead">The concept guides guests from craving to reservation through fire, live music, atmosphere and location—not a wall of navigation.</p>
+          <div class="outcomes">
+            <span>Clearer booking path</span>
+            <span>Mobile-native journey</span>
+            <span>Live-music discovery</span>
+          </div>
+          <a class="case-link" href="./previews/ke-ankole-fire-sunset/">Explore Ankole ↗</a>
+        </div>
+      </article>
+
+      <article class="case-study case-light reverse">
+        <div class="case-image">
+          <img src="./assets/showcase/gomoku.jpg" alt="Gomoku concept">
+          <div class="case-image-shade"></div>
+          <span class="case-number">02</span>
+        </div>
+        <div class="case-copy reveal">
+          <p class="eyebrow dark">Gomoku · Oshawa</p>
+          <h3>Not just a vibe. The whole mood.</h3>
+          <p class="case-lead">A long menu, event space, drinks and live energy become one clear social experience built to drive bookings, orders and private-event inquiries.</p>
+          <div class="outcomes dark-outcomes">
+            <span>Events as a main product</span>
+            <span>Food + nightlife positioning</span>
+            <span>Stronger mobile conversion</span>
+          </div>
+          <a class="case-link dark-link" href="./previews/ca-gomoku-whole-mood/">Explore Gomoku ↗</a>
+        </div>
+      </article>
+
+      <article class="case-study case-dark">
+        <div class="case-image">
+          <img src="./assets/showcase/talisman.jpg" alt="The Talisman concept">
+          <div class="case-image-shade"></div>
+          <span class="case-number">03</span>
+        </div>
+        <div class="case-copy reveal">
+          <p class="eyebrow">The Talisman · Karen</p>
+          <h3>Some restaurants feed you. The Talisman lets you stay awhile.</h3>
+          <p class="case-lead">The site turns intimacy, garden atmosphere, food and events into one slow, welcoming journey that feels like the restaurant itself.</p>
+          <div class="outcomes">
+            <span>Emotional brand story</span>
+            <span>Event discovery</span>
+            <span>Premium visual rhythm</span>
+          </div>
+          <a class="case-link" href="./previews/ke-talisman-stay-awhile/">Explore The Talisman ↗</a>
+        </div>
+      </article>
+    </section>
+
+    <section class="collection" id="collection">
+      <div class="collection-heading reveal">
+        <p class="eyebrow dark">More concepts</p>
+        <h2>Every restaurant gets its own point of view.</h2>
+        <p>No universal template. Each concept responds to the restaurant’s strongest emotional and commercial opportunity.</p>
+      </div>
+
+      <div class="concept-grid">
+        <a class="concept-card reveal" href="./previews/ke-cultiva-living-restaurant/">
+          <img src="./assets/showcase/cultiva.jpg" alt="Cultiva concept">
+          <div class="card-shade"></div>
+          <span class="concept-number">04</span>
+          <div class="concept-copy">
+            <p>Cultiva · Nairobi</p>
+            <h3>Become part of the harvest.</h3>
+            <div class="card-outcomes"><span>Farm storytelling</span><span>Brand philosophy</span></div>
+            <strong>Explore ↗</strong>
+          </div>
+        </a>
+
+        <a class="concept-card reveal" href="./previews/ke-inti-nikkei/">
+          <img src="./assets/showcase/inti.jpg" alt="INTI Nikkei concept">
+          <div class="card-shade"></div>
+          <span class="concept-number">05</span>
+          <div class="concept-copy">
+            <p>INTI Nikkei · Nairobi</p>
+            <h3>Peru meets Japan above the city.</h3>
+            <div class="card-outcomes"><span>Premium positioning</span><span>Light + motion</span></div>
+            <strong>Explore ↗</strong>
+          </div>
+        </a>
+
+        <a class="concept-card reveal" href="./previews/ke-hero-restaurant/">
+          <img src="./assets/showcase/hero.jpg" alt="Hero Restaurant concept">
+          <div class="card-shade"></div>
+          <span class="concept-number">06</span>
+          <div class="concept-copy">
+            <p>Hero · Nairobi</p>
+            <h3>Ordinary dinners are forgotten.</h3>
+            <div class="card-outcomes"><span>Rotating gallery</span><span>Experience-led copy</span></div>
+            <strong>Explore ↗</strong>
+          </div>
+        </a>
+
+        <a class="concept-card reveal" href="./previews/ke-mawimbi-one-evening/">
+          <img src="./assets/showcase/mawimbi.jpg" alt="Mawimbi concept">
+          <div class="card-shade"></div>
+          <span class="concept-number">07</span>
+          <div class="concept-copy">
+            <p>Mawimbi · Nairobi</p>
+            <h3>One evening, beautifully composed.</h3>
+            <div class="card-outcomes"><span>Luxury experience</span><span>Group bookings</span></div>
+            <strong>Explore ↗</strong>
+          </div>
+        </a>
+
+        <a class="concept-card reveal" href="./previews/ke-tamarind-group/">
+          <img src="./assets/showcase/tamarind.jpg" alt="Tamarind Group concept">
+          <div class="card-shade"></div>
+          <span class="concept-number">08</span>
+          <div class="concept-copy">
+            <p>Tamarind · Kenya</p>
+            <h3>Coastal elegance, told with restraint.</h3>
+            <div class="card-outcomes"><span>Group architecture</span><span>Premium storytelling</span></div>
+            <strong>Explore ↗</strong>
+          </div>
+        </a>
+
+        <a class="concept-card reveal" href="./previews/ke-carnivore/">
+          <img src="./assets/showcase/carnivore.jpg" alt="Carnivore concept">
+          <div class="card-shade"></div>
+          <span class="concept-number">09</span>
+          <div class="concept-copy">
+            <p>Carnivore · Nairobi</p>
+            <h3>The fire never stops.</h3>
+            <div class="card-outcomes"><span>Heritage energy</span><span>Clear reservation CTA</span></div>
+            <strong>Explore ↗</strong>
+          </div>
+        </a>
+
+        <a class="concept-card reveal" href="./previews/ke-top-rise-restaurant/">
+          <img src="./assets/showcase/top-rise.jpg" alt="Top Rise concept">
+          <div class="card-shade"></div>
+          <span class="concept-number">10</span>
+          <div class="concept-copy">
+            <p>Top Rise · Nairobi</p>
+            <h3>Dining above the skyline.</h3>
+            <div class="card-outcomes"><span>Rooftop positioning</span><span>Visual discovery</span></div>
+            <strong>Explore ↗</strong>
+          </div>
+        </a>
+      </div>
+    </section>
+
+    <section class="approach" id="approach">
+      <div class="approach-heading reveal">
+        <p class="eyebrow">How we work</p>
+        <h2>Design follows the business opportunity.</h2>
+      </div>
+
+      <div class="approach-grid">
+        <article class="reveal">
+          <span>01</span>
+          <h3>Find the feeling</h3>
+          <p>Identify what the restaurant truly sells beyond the menu: celebration, escape, intimacy, status, energy or belonging.</p>
+        </article>
+        <article class="reveal">
+          <span>02</span>
+          <h3>Map the decision</h3>
+          <p>Make menus, bookings, locations, events and ordering easy to reach without flattening the brand into a utility page.</p>
+        </article>
+        <article class="reveal">
+          <span>03</span>
+          <h3>Design for the phone</h3>
+          <p>Build for how guests actually browse: quickly, vertically and often while deciding where to go.</p>
+        </article>
+        <article class="reveal">
+          <span>04</span>
+          <h3>Connect it to revenue</h3>
+          <p>Every visual choice should support reservations, higher-value events, clearer offers or stronger customer trust.</p>
+        </article>
+      </div>
+    </section>
+
+    <section class="audit" id="audit">
+      <div class="audit-heading reveal">
+        <p class="eyebrow dark">Quick website audit</p>
+        <h2>What is your restaurant website currently missing?</h2>
+        <p>Choose the closest problem. We will point you toward the strongest next move.</p>
+      </div>
+
+      <div class="audit-shell">
+        <div class="audit-options" role="tablist" aria-label="Website goals">
+          <button class="audit-option active" type="button" data-audit="reservations">More reservations</button>
+          <button class="audit-option" type="button" data-audit="mobile">Better mobile experience</button>
+          <button class="audit-option" type="button" data-audit="events">More event inquiries</button>
+          <button class="audit-option" type="button" data-audit="story">Stronger brand story</button>
+        </div>
+
+        <div class="audit-results">
+          <article class="audit-result active" data-audit-panel="reservations">
+            <span>Recommended focus</span>
+            <h3>Reduce the distance between interest and booking.</h3>
+            <p>We would simplify the journey, strengthen reservation calls to action and use atmosphere to build desire before asking for the booking.</p>
+            <a href="mailto:Brian.Kodawa@gmail.com?subject=Restaurant%20website%20-%20more%20reservations&body=My%20restaurant%20website%20needs%20a%20clearer%20path%20to%20reservations.">Discuss reservations ↗</a>
+          </article>
+
+          <article class="audit-result" data-audit-panel="mobile">
+            <span>Recommended focus</span>
+            <h3>Treat mobile as the main product, not a smaller desktop.</h3>
+            <p>We would rebuild the page rhythm, thumb-friendly actions, image crops, type scale and navigation around the phone experience.</p>
+            <a href="mailto:Brian.Kodawa@gmail.com?subject=Restaurant%20website%20-%20mobile%20experience&body=My%20restaurant%20website%20needs%20a%20stronger%20mobile%20experience.">Discuss mobile ↗</a>
+          </article>
+
+          <article class="audit-result" data-audit-panel="events">
+            <span>Recommended focus</span>
+            <h3>Make private events feel like a main product.</h3>
+            <p>We would surface capacity, occasion types, planning support, visual proof and a dedicated inquiry path for higher-value bookings.</p>
+            <a href="mailto:Brian.Kodawa@gmail.com?subject=Restaurant%20website%20-%20event%20inquiries&body=My%20restaurant%20website%20needs%20a%20stronger%20private-event%20journey.">Discuss events ↗</a>
+          </article>
+
+          <article class="audit-result" data-audit-panel="story">
+            <span>Recommended focus</span>
+            <h3>Turn what makes the restaurant special into the website’s central idea.</h3>
+            <p>We would identify the strongest emotional promise, then align photography, copy, motion and calls to action around it.</p>
+            <a href="mailto:Brian.Kodawa@gmail.com?subject=Restaurant%20website%20-%20brand%20story&body=My%20restaurant%20website%20needs%20a%20clearer%20brand%20story.">Discuss the brand ↗</a>
+          </article>
+        </div>
+      </div>
+    </section>
+
+    <section class="final-cta">
+      <div class="final-copy reveal">
+        <p class="eyebrow">Build the first impression</p>
+        <h2>Your restaurant deserves a website guests remember before they arrive.</h2>
+        <p>We build and upgrade restaurant websites around reservations, events, storytelling and mobile experience.</p>
+        <a class="final-btn" href="mailto:Brian.Kodawa@gmail.com?subject=Restaurant%20website%20concept">Request a concept ↗</a>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <div>
+      <strong>KODAWA LABS</strong>
+      <span>Restaurant Futures</span>
+    </div>
+    <p>Kenya + Canada · Brian.Kodawa@gmail.com</p>
+  </footer>
+
+  <script src="./script.js"></script>
 </body>
 </html>
