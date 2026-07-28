@@ -27,3 +27,13 @@ The folder should contain:
 Expected URL:
 
 `https://showcase.ouniverse.space/previews/ca-gomoku-whole-mood/`
+
+
+## Phase 2 additions
+
+- Food storytelling and signature dishes
+- Drinks and cocktail experience
+- Optional ambient sound
+- Live-music storytelling
+- Private-event capacity and benefits
+- Team and service photography
