@@ -1,22 +1,5 @@
-# Ankole Grill — Mobile Phase A
+# Ankole Grill — Mobile Native Showcase
 
-A mobile-native rebuild designed first for a 390–430 px viewport.
+A phone-first Ankole concept with full-screen photo-led chapters, thumb-friendly actions, horizontal menu chips, an optional atmosphere player, a lightweight recommendation card, and a desktop layout that expands rather than replaces the mobile journey.
 
-## Core principles
-
-- The homepage acts as a launcher.
-- Major actions are reachable with one thumb.
-- Sections work as full-screen vertical chapters.
-- Menu, reservations, live music and locations are never buried.
-- ReserveAI is reduced to a simple decision assistant.
-- Desktop expands the mobile experience rather than replacing it.
-
-## Deploy
-
-Extract directly into:
-
-`previews/ke-ankole-mobile-phase-a/`
-
-Expected URL:
-
-`https://showcase.ouniverse.space/previews/ke-ankole-mobile-phase-a/`
+Deploy to `previews/ke-ankole-mobile-native/`.
