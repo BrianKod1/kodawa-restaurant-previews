@@ -57,3 +57,10 @@ Expected URL:
 - Refined mobile CTA hierarchy
 - Final header, hover and responsive polish
 - Pitch-ready closing narrative
+
+
+## Mobile event-image fix
+
+- Replaced the awkward mobile event crop with the warm interior image.
+- Added cinematic event copy: Dinner. Drinks. Music. The whole mood.
+- Preserved the original event-room image on larger screens.
