@@ -26,3 +26,12 @@ The folder should look like:
 Expected preview URL:
 
 `https://showcase.ouniverse.space/previews/ke-ankole-fire-sunset/`
+
+
+## Phase 2 additions
+
+- Today's Grill feature section
+- Interactive menu categories
+- Cocktail experience section
+- Editorial motion strip
+- Heat haze and subtle fire-inspired effects

@@ -108,3 +108,19 @@ soundToggle.addEventListener('click', async () => {
     stopAtmosphere();
   }
 });
+
+// Phase 2 menu tabs
+const menuTabs = document.querySelectorAll('.menu-tab');
+const menuPanels = document.querySelectorAll('.menu-panel');
+
+menuTabs.forEach(tab => {
+  tab.addEventListener('click', () => {
+    const target = tab.dataset.menu;
+
+    menuTabs.forEach(item => item.classList.remove('active'));
+    menuPanels.forEach(panel => panel.classList.remove('active'));
+
+    tab.classList.add('active');
+    document.querySelector(`[data-panel="${target}"]`)?.classList.add('active');
+  });
+});
