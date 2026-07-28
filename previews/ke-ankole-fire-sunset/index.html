@@ -2,10 +2,10 @@
 <html lang="en">
 <head>
   <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width,initial-scale=1">
-  <meta name="theme-color" content="#100b08">
-  <meta name="description" content="Ankole Grill — a Kodawa Labs concept built around fire, flavour and African hospitality.">
-  <title>Ankole Grill — Fire at Sunset</title>
+  <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+  <meta name="theme-color" content="#110b07">
+  <meta name="description" content="Ankole Grill mobile-native restaurant experience.">
+  <title>Ankole Grill — Mobile Phase A</title>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@300;400;500;600&family=Libre+Caslon+Display&display=swap" rel="stylesheet">
@@ -13,455 +13,195 @@
 </head>
 <body>
   <div class="grain" aria-hidden="true"></div>
-  <div class="embers" aria-hidden="true"></div>
 
-  <header class="site-header" id="siteHeader">
-    <a class="brand" href="#top">
+  <header class="mobile-header">
+    <a class="brand" href="#top" aria-label="Ankole home">
       <span class="brand-mark">A</span>
-      <span class="brand-copy">
-        <strong>ANKOLE GRILL</strong>
-        <small>Kitisuru · Kilimani</small>
-      </span>
+      <span><strong>ANKOLE</strong><small>GRILL</small></span>
     </a>
-
-    <nav class="desktop-nav" aria-label="Main navigation">
-      <a href="#experience">Experience</a>
-      <a href="https://www.ankole.co.ke/menu" target="_blank" rel="noreferrer">Menu</a>
-      <a href="https://www.ankole.co.ke/live" target="_blank" rel="noreferrer">Live</a>
-      <a href="https://www.ankole.co.ke/events" target="_blank" rel="noreferrer">Events</a>
-      <a href="#locations">Locations</a>
-    </nav>
-
-    <div class="header-actions">
-      <button class="sound-toggle" id="soundToggle" type="button" aria-pressed="false">
-        <span class="sound-bars"><i></i><i></i><i></i></span>
-        <span class="sound-label">Play atmosphere</span>
-      </button>
-      <a class="reserve-btn" href="https://www.ankole.co.ke/reservation" target="_blank" rel="noreferrer">Reserve</a>
-      <button class="menu-toggle" id="menuToggle" type="button" aria-label="Open menu">☰</button>
-    </div>
+    <button class="sound-toggle" id="soundToggle" type="button" aria-pressed="false">
+      <span class="sound-bars"><i></i><i></i><i></i></span>
+      <span>Atmosphere</span>
+    </button>
   </header>
 
-  <aside class="mobile-menu" id="mobileMenu" aria-hidden="true">
-    <button id="menuClose" type="button" aria-label="Close menu">×</button>
-    <a href="#experience">Experience</a>
-    <a href="https://www.ankole.co.ke/menu" target="_blank">Menu</a>
-    <a href="https://www.ankole.co.ke/live" target="_blank">Live Music</a>
-    <a href="https://www.ankole.co.ke/events" target="_blank">Events</a>
-    <a href="#locations">Locations</a>
-    <a class="mobile-reserve" href="https://www.ankole.co.ke/reservation" target="_blank">Reserve a table</a>
-  </aside>
-
   <main id="top">
-    <section class="hero">
-      <div class="hero-media" aria-hidden="true">
-        <img class="hero-frame active" src="./assets/hero-night.jpg" alt="">
-        <img class="hero-frame" src="./assets/steak.jpg" alt="">
-        <img class="hero-frame" src="./assets/kilimani-interior.jpg" alt="">
-      </div>
-      <div class="hero-overlay"></div>
+    <section class="launcher screen">
+      <img src="./assets/hero-night.jpg" alt="Ankole evening atmosphere">
+      <div class="screen-shade"></div>
 
-      <div class="hero-copy">
-        <p class="eyebrow reveal">Warm. Authentic. Generous.</p>
-        <h1 class="reveal">Fire.<br>Flavour.<br><em>Africa.</em></h1>
-        <p class="hero-intro reveal">A dining experience shaped by glowing grills, generous plates, live music and the spirit of African hospitality.</p>
+      <div class="launcher-copy">
+        <p class="eyebrow">Ankole Grill · Nairobi</p>
+        <h1>Fire.<br>Flavour.<br><em>Africa.</em></h1>
+        <p class="launcher-question">What brings you here tonight?</p>
 
-        <div class="hero-actions reveal">
-          <a class="primary-cta" href="https://www.ankole.co.ke/reservation" target="_blank" rel="noreferrer">Reserve your evening <span>↗</span></a>
-          <a class="secondary-cta" href="https://www.ankole.co.ke/menu" target="_blank" rel="noreferrer">Explore the menu</a>
-        </div>
-
-        <div class="hero-proof reveal">
-          <div><strong>2</strong><span>distinct locations</span></div>
-          <div><strong>7</strong><span>days a week</span></div>
-          <div><strong>Live</strong><span>acoustic Wednesdays</span></div>
-        </div>
-      </div>
-
-      <div class="hero-rail">
-        <span>Scroll into the evening</span>
-        <i></i>
-      </div>
-    </section>
-
-    <section class="experience" id="experience">
-      <div class="experience-copy reveal">
-        <p class="eyebrow dark">The first impression</p>
-        <h2>Walk toward the fire at sunset.</h2>
-        <p>Phase One establishes the feeling before the full restaurant journey begins: warm light, confident simplicity, optional atmosphere and a reservation path that never disappears.</p>
-      </div>
-
-      <div class="experience-grid">
-        <article class="location-card reveal">
-          <img src="./assets/kitisuru-night.jpg" alt="Ankole Kitisuru at night">
-          <div class="card-overlay"></div>
-          <div class="card-copy">
+        <div class="decision-grid">
+          <a href="https://www.ankole.co.ke/reservation" target="_blank" rel="noreferrer">
             <span>01</span>
-            <p>Garden nights</p>
-            <h3>Kitisuru</h3>
-          </div>
-        </article>
-
-        <article class="location-card reveal">
-          <img src="./assets/kilimani-night.jpg" alt="Ankole Kilimani at night">
-          <div class="card-overlay"></div>
-          <div class="card-copy">
+            <strong>Reserve a table</strong>
+            <small>Book in under a minute</small>
+          </a>
+          <button type="button" data-jump="#menu">
             <span>02</span>
-            <p>City energy</p>
-            <h3>Kilimani</h3>
-          </div>
-        </article>
-      </div>
-    </section>
-
-
-    <section class="story-strip">
-      <div class="story-marquee" aria-hidden="true">
-        <span>Smoke · Flame · Music · Generosity · Nairobi Nights ·</span>
-        <span>Smoke · Flame · Music · Generosity · Nairobi Nights ·</span>
-      </div>
-    </section>
-
-    <section class="today-grill" id="today-grill">
-      <div class="grill-copy reveal">
-        <p class="eyebrow">Today's grill</p>
-        <h2>Built around what is best tonight.</h2>
-        <p>Not a static list. A living recommendation—what the kitchen is proud of, what the grill is ready for and what should reach the table first.</p>
-
-        <div class="grill-meta">
-          <div><span>Chef's cut</span><strong>Charred T-bone</strong></div>
-          <div><span>Best with</span><strong>Roasted vegetables</strong></div>
-          <div><span>Mood</span><strong>Slow dinner</strong></div>
+            <strong>View the menu</strong>
+            <small>Breakfast, grill, seafood, drinks</small>
+          </button>
+          <button type="button" data-jump="#live">
+            <span>03</span>
+            <strong>Live music</strong>
+            <small>See what Wednesday sounds like</small>
+          </button>
+          <button type="button" data-jump="#locations">
+            <span>04</span>
+            <strong>Choose a location</strong>
+            <small>Kitisuru or Kilimani</small>
+          </button>
         </div>
+      </div>
+    </section>
 
-        <a class="primary-cta ember-cta" href="https://www.ankole.co.ke/kitisuru-menu#steak" target="_blank" rel="noreferrer">
-          Explore the grill <span>↗</span>
+    <section class="reel screen reel-fire">
+      <img src="./assets/steak.jpg" alt="Steak at Ankole">
+      <div class="screen-shade"></div>
+      <div class="reel-copy">
+        <span>01 / 05</span>
+        <h2>Cooked over fire.</h2>
+        <p>Char, smoke and the moment the table goes quiet.</p>
+        <a href="https://www.ankole.co.ke/kitisuru-menu" target="_blank" rel="noreferrer">See tonight's grill ↗</a>
+      </div>
+    </section>
+
+    <section class="menu-hub" id="menu">
+      <div class="section-copy">
+        <p class="eyebrow dark">Choose your craving</p>
+        <h2>The menu, without the hunt.</h2>
+      </div>
+
+      <div class="menu-choices">
+        <a href="https://www.ankole.co.ke/kitisuru-menu#breakfast" target="_blank" rel="noreferrer">
+          <span>🍳</span><strong>Breakfast</strong><small>Slow starts and strong coffee</small>
         </a>
-      </div>
-
-      <div class="grill-visual">
-        <img src="./assets/steak.jpg" alt="Ankole grilled steak with vegetables">
-        <div class="heat-haze" aria-hidden="true"></div>
-        <div class="availability-card">
-          <span>Tonight's feature</span>
-          <strong>Dry-aged T-bone</strong>
-          <small>Limited service · ask your host</small>
-        </div>
-      </div>
-    </section>
-
-    <section class="menu-showcase" id="menu-showcase">
-      <div class="menu-intro reveal">
-        <p class="eyebrow dark">More than the grill</p>
-        <h2>A menu with range, without losing its centre.</h2>
-        <p>Breakfast, seafood, vegetarian plates, cocktails and generous mains all live under one clear idea: warm African hospitality.</p>
-      </div>
-
-      <div class="menu-tabs" role="tablist" aria-label="Menu categories">
-        <button class="menu-tab active" type="button" data-menu="breakfast">Breakfast</button>
-        <button class="menu-tab" type="button" data-menu="grill">Grill</button>
-        <button class="menu-tab" type="button" data-menu="seafood">Seafood</button>
-        <button class="menu-tab" type="button" data-menu="vegetarian">Vegetarian</button>
-      </div>
-
-      <div class="menu-panels">
-        <article class="menu-panel active" data-panel="breakfast">
-          <div>
-            <p class="eyebrow dark">Morning</p>
-            <h3>Slow starts. Strong coffee.</h3>
-            <p>Breakfast should feel like the beginning of a good day, not a rushed obligation.</p>
-            <a href="https://www.ankole.co.ke/kitisuru-menu#breakfast" target="_blank" rel="noreferrer">View breakfast ↗</a>
-          </div>
-          <img src="./assets/kitisuru-night.jpg" alt="Ankole Kitisuru atmosphere">
-        </article>
-
-        <article class="menu-panel" data-panel="grill">
-          <div>
-            <p class="eyebrow dark">Fire</p>
-            <h3>The centre of the table.</h3>
-            <p>Steaks, lamb, chicken and generous sides made for sharing.</p>
-            <a href="https://www.ankole.co.ke/kilimani-menu" target="_blank" rel="noreferrer">View grill menu ↗</a>
-          </div>
-          <img src="./assets/steak.jpg" alt="Ankole steak">
-        </article>
-
-        <article class="menu-panel" data-panel="seafood">
-          <div>
-            <p class="eyebrow dark">From the coast</p>
-            <h3>Freshness with fire.</h3>
-            <p>Seafood that keeps the same confidence, warmth and generosity as the grill.</p>
-            <a href="https://www.ankole.co.ke/kilimani-menu" target="_blank" rel="noreferrer">View seafood ↗</a>
-          </div>
-          <img src="./assets/kilimani-interior.jpg" alt="Ankole Kilimani dining room">
-        </article>
-
-        <article class="menu-panel" data-panel="vegetarian">
-          <div>
-            <p class="eyebrow dark">From the garden</p>
-            <h3>Not an afterthought.</h3>
-            <p>Vegetarian plates with enough flavour, texture and presence to hold the table.</p>
-            <a href="https://www.ankole.co.ke/kitisuru-menu" target="_blank" rel="noreferrer">View vegetarian dishes ↗</a>
-          </div>
-          <img src="./assets/hero-night.jpg" alt="Ankole evening atmosphere">
-        </article>
-      </div>
-    </section>
-
-    <section class="cocktails">
-      <div class="cocktail-stage">
-        <img src="./assets/hero-night.jpg" alt="Ankole cocktail and night ambience">
-        <div class="cocktail-orbit orbit-one"></div>
-        <div class="cocktail-orbit orbit-two"></div>
-      </div>
-
-      <div class="cocktail-copy reveal">
-        <p class="eyebrow">Before the first plate</p>
-        <h2>The evening starts in the glass.</h2>
-        <p>Dark rum, citrus, bitters, spice and the first few minutes when the whole night is still ahead of you.</p>
-
-        <div class="ingredient-list">
-          <span>Dark rum</span>
-          <span>Citrus</span>
-          <span>Bitters</span>
-          <span>Cherry</span>
-        </div>
-
-        <a class="secondary-cta light-link" href="https://www.ankole.co.ke/kilimani-menu" target="_blank" rel="noreferrer">
-          Explore cocktails
+        <a href="https://www.ankole.co.ke/kilimani-menu" target="_blank" rel="noreferrer">
+          <span>🥩</span><strong>Grill</strong><small>Steak, lamb and fire</small>
+        </a>
+        <a href="https://www.ankole.co.ke/kilimani-menu" target="_blank" rel="noreferrer">
+          <span>🐟</span><strong>Seafood</strong><small>Freshness with heat</small>
+        </a>
+        <a href="https://www.ankole.co.ke/kilimani-menu" target="_blank" rel="noreferrer">
+          <span>🍸</span><strong>Drinks</strong><small>Cocktails before dinner</small>
         </a>
       </div>
     </section>
 
-
-<section class="live-section" id="live">
-  <div class="live-intro reveal">
-    <p class="eyebrow">Tukatike</p>
-    <h2>Wednesday belongs to live music.</h2>
-    <p>Ankole already owns a recurring cultural moment. This section brings that energy into the main experience instead of leaving it on a separate page.</p>
-  </div>
-  <div class="live-stage">
-    <article class="live-poster active"><span>01</span><div><small>Live Acoustic Wednesday</small><h3>Kato Change</h3><p>Warm guitar, late-evening conversation and a room that does not need to rush.</p></div><a href="https://www.ankole.co.ke/live" target="_blank">View live calendar ↗</a></article>
-    <article class="live-poster"><span>02</span><div><small>Live Acoustic Wednesday</small><h3>Miss Kamweru</h3><p>Soulful vocals and a midweek reason to gather around the table.</p></div><a href="https://www.ankole.co.ke/live" target="_blank">View live calendar ↗</a></article>
-    <article class="live-poster"><span>03</span><div><small>Live Acoustic Wednesday</small><h3>Welle &amp; The Band</h3><p>Rhythm, warmth and the kind of evening that becomes a habit.</p></div><a href="https://www.ankole.co.ke/live" target="_blank">View live calendar ↗</a></article>
-  </div>
-  <div class="live-controls"><button class="live-control active" data-live="0">01</button><button class="live-control" data-live="1">02</button><button class="live-control" data-live="2">03</button></div>
-</section>
-
-<section class="events-section">
-  <div class="events-heading reveal"><p class="eyebrow dark">Make a night of it</p><h2>Every occasion gets its own atmosphere.</h2></div>
-  <div class="event-cards">
-    <a class="event-card reveal" href="https://www.ankole.co.ke/events" target="_blank"><img src="./assets/kilimani-interior.jpg" alt=""><div></div><section><span>01</span><p>Private dinner</p><h3>For the conversations that matter.</h3></section></a>
-    <a class="event-card reveal" href="https://www.ankole.co.ke/events" target="_blank"><img src="./assets/kilimani-night.jpg" alt=""><div></div><section><span>02</span><p>Celebration</p><h3>Birthdays, milestones and reasons to stay late.</h3></section></a>
-    <a class="event-card reveal" href="https://www.ankole.co.ke/events" target="_blank"><img src="./assets/kitisuru-night.jpg" alt=""><div></div><section><span>03</span><p>Garden gathering</p><h3>Under the lights, around the table.</h3></section></a>
-  </div>
-</section>
-
-<section class="gallery-section">
-  <div class="gallery-heading reveal"><p class="eyebrow">Seen at Ankole</p><h2>Not a gallery. A sequence of reasons to go.</h2></div>
-  <div class="gallery-track">
-    <figure class="gallery-frame active"><img src="./assets/steak.jpg" alt=""><figcaption><span>01 / 05</span><strong>The grill</strong><small>Where appetite begins.</small></figcaption></figure>
-    <figure class="gallery-frame"><img src="./assets/kilimani-interior.jpg" alt=""><figcaption><span>02 / 05</span><strong>The room</strong><small>Warm light and city energy.</small></figcaption></figure>
-    <figure class="gallery-frame"><img src="./assets/kilimani-night.jpg" alt=""><figcaption><span>03 / 05</span><strong>The evening</strong><small>Golden lights after dark.</small></figcaption></figure>
-    <figure class="gallery-frame"><img src="./assets/kitisuru-night.jpg" alt=""><figcaption><span>04 / 05</span><strong>The garden</strong><small>A slower rhythm in Kitisuru.</small></figcaption></figure>
-    <figure class="gallery-frame"><img src="./assets/hero-night.jpg" alt=""><figcaption><span>05 / 05</span><strong>The return</strong><small>The reason one visit becomes another.</small></figcaption></figure>
-  </div>
-  <div class="gallery-controls"><button id="galleryPrev">←</button><div><span id="galleryProgress"></span></div><button id="galleryNext">→</button></div>
-</section>
-
-<section class="reviews-section">
-  <div class="reviews-copy reveal"><p class="eyebrow dark">Why people return</p><h2>Read the review that sounds like your night.</h2><p>Reviews are grouped by the experience a guest is trying to create, not presented as one long wall of praise.</p></div>
-  <div class="review-tabs">
-    <button class="review-tab active" data-review="date">Date night</button>
-    <button class="review-tab" data-review="family">Family</button>
-    <button class="review-tab" data-review="steak">Steak lovers</button>
-    <button class="review-tab" data-review="music">Live music</button>
-  </div>
-  <div class="review-panels">
-    <blockquote class="review-panel active" data-review-panel="date"><p>“Warm lighting, thoughtful service and exactly the kind of atmosphere that makes you forget to check the time.”</p><footer><strong>Date night</strong><span>Evening guest</span></footer></blockquote>
-    <blockquote class="review-panel" data-review-panel="family"><p>“Enough choice for everyone, generous portions and a setting where three generations could enjoy the same meal.”</p><footer><strong>Family table</strong><span>Weekend guest</span></footer></blockquote>
-    <blockquote class="review-panel" data-review-panel="steak"><p>“The steak arrived with the kind of confidence that made the whole table stop talking for a moment.”</p><footer><strong>Steak lover</strong><span>Grill guest</span></footer></blockquote>
-    <blockquote class="review-panel" data-review-panel="music"><p>“Dinner became an evening out. The live set changed the entire mood of the night.”</p><footer><strong>Live Wednesday</strong><span>Returning guest</span></footer></blockquote>
-  </div>
-  <a class="reviews-link" href="https://www.ankole.co.ke/reviews" target="_blank">Read current Ankole reviews ↗</a>
-</section>
-
-
-<section class="story-section" id="story">
-  <div class="story-copy reveal">
-    <p class="eyebrow">Why Ankole</p>
-    <h2>Fire is only the beginning.</h2>
-    <p>Ankole’s identity is bigger than grilled meat. It is warmth, generosity, music, two distinct neighbourhoods and the feeling that every table is being welcomed into something.</p>
-  </div>
-
-  <div class="story-grid">
-    <article class="story-card reveal">
-      <span>01</span>
-      <h3>Warmth</h3>
-      <p>Not just in the lighting. In the welcome, the portions and the pace of the room.</p>
-    </article>
-    <article class="story-card reveal">
-      <span>02</span>
-      <h3>Generosity</h3>
-      <p>A menu with range, designed for different moods without losing its centre.</p>
-    </article>
-    <article class="story-card reveal">
-      <span>03</span>
-      <h3>Rhythm</h3>
-      <p>Breakfast mornings, acoustic Wednesdays, long dinners and return visits.</p>
-    </article>
-  </div>
-</section>
-
-<section class="locations-final" id="locations-final">
-  <div class="locations-heading reveal">
-    <p class="eyebrow dark">Choose your Ankole</p>
-    <h2>Two locations. Two moods.</h2>
-  </div>
-
-  <div class="location-choice">
-    <article class="location-choice-card reveal">
-      <img src="./assets/kitisuru-night.jpg" alt="Ankole Kitisuru">
-      <div class="choice-shade"></div>
-      <div class="choice-copy">
-        <span>Kitisuru</span>
-        <h3>Garden nights.</h3>
-        <p>Slower, greener and built for a long table under warm lights.</p>
-        <div class="choice-meta">
-          <small>Daily</small><strong>9:00 AM–11:00 PM</strong>
-        </div>
-        <a href="https://www.ankole.co.ke/kitisuru-menu" target="_blank" rel="noreferrer">Explore Kitisuru ↗</a>
+    <section class="reel screen reel-cocktail">
+      <img src="./assets/kilimani-interior.jpg" alt="Ankole cocktail and interior">
+      <div class="screen-shade"></div>
+      <div class="reel-copy">
+        <span>02 / 05</span>
+        <h2>The evening starts here.</h2>
+        <p>One glass. One conversation. The whole night still ahead.</p>
+        <a href="https://www.ankole.co.ke/kilimani-menu" target="_blank" rel="noreferrer">Explore drinks ↗</a>
       </div>
-    </article>
+    </section>
 
-    <article class="location-choice-card reveal">
-      <img src="./assets/kilimani-night.jpg" alt="Ankole Kilimani">
-      <div class="choice-shade"></div>
-      <div class="choice-copy">
-        <span>Kilimani</span>
-        <h3>City energy.</h3>
-        <p>Sharper, livelier and made for evenings that continue after dinner.</p>
-        <div class="choice-meta">
-          <small>Daily</small><strong>7:30 AM–11:00 PM</strong>
-        </div>
-        <a href="https://www.ankole.co.ke/kilimani-menu" target="_blank" rel="noreferrer">Explore Kilimani ↗</a>
+    <section class="live-mobile" id="live">
+      <div class="section-copy">
+        <p class="eyebrow dark">Tukatike</p>
+        <h2>Wednesday sounds different.</h2>
       </div>
-    </article>
-  </div>
-</section>
 
-<section class="concierge-section" id="reserve">
-  <div class="concierge-intro reveal">
-    <p class="eyebrow">A lighter ReserveAI</p>
-    <h2>Tell us what kind of night you’re planning.</h2>
-    <p>This concierge does not pretend to replace Ankole’s reservation system. It helps guests choose the right path, then hands them off cleanly.</p>
-  </div>
+      <div class="live-card">
+        <img src="./assets/kilimani-night.jpg" alt="Ankole live music night">
+        <div class="live-card-copy">
+          <span>Live Acoustic Wednesday</span>
+          <h3>Midweek magic.</h3>
+          <p>Check the current artist, pick your table and make dinner an evening out.</p>
+          <div class="live-actions">
+            <a href="https://www.ankole.co.ke/live" target="_blank" rel="noreferrer">See artist lineup ↗</a>
+            <a href="https://www.ankole.co.ke/reservation" target="_blank" rel="noreferrer">Reserve</a>
+          </div>
+        </div>
+      </div>
+    </section>
 
-  <div class="concierge-shell">
-    <div class="concierge-sidebar">
-      <p>Start with the occasion</p>
-      <button class="concierge-option active" type="button" data-concierge="date">Date night</button>
-      <button class="concierge-option" type="button" data-concierge="family">Family dinner</button>
-      <button class="concierge-option" type="button" data-concierge="music">Live Wednesday</button>
-      <button class="concierge-option" type="button" data-concierge="group">Group occasion</button>
-    </div>
+    <section class="reel screen reel-garden">
+      <img src="./assets/kitisuru-night.jpg" alt="Ankole Kitisuru garden">
+      <div class="screen-shade"></div>
+      <div class="reel-copy">
+        <span>03 / 05</span>
+        <h2>Stay for the night.</h2>
+        <p>Warm lights, a slower table and no reason to rush.</p>
+      </div>
+    </section>
 
-    <div class="concierge-content">
-      <article class="concierge-panel active" data-concierge-panel="date">
+    <section class="locations-mobile" id="locations">
+      <div class="section-copy">
+        <p class="eyebrow dark">Choose your Ankole</p>
+        <h2>Two moods. One welcome.</h2>
+      </div>
+
+      <div class="location-stack">
+        <article>
+          <img src="./assets/kitisuru-night.jpg" alt="Ankole Kitisuru">
+          <div class="location-copy">
+            <span>Kitisuru</span>
+            <h3>Garden nights.</h3>
+            <p>Relaxed, green and built for long tables.</p>
+            <a href="https://www.ankole.co.ke/kitisuru-menu" target="_blank" rel="noreferrer">Explore Kitisuru ↗</a>
+          </div>
+        </article>
+
+        <article>
+          <img src="./assets/kilimani-night.jpg" alt="Ankole Kilimani">
+          <div class="location-copy">
+            <span>Kilimani</span>
+            <h3>City energy.</h3>
+            <p>Livelier, sharper and made for dinner after dark.</p>
+            <a href="https://www.ankole.co.ke/kilimani-menu" target="_blank" rel="noreferrer">Explore Kilimani ↗</a>
+          </div>
+        </article>
+      </div>
+    </section>
+
+    <section class="decision-assistant">
+      <div class="section-copy inverse">
+        <p class="eyebrow">Still deciding?</p>
+        <h2>Pick the night you want.</h2>
+      </div>
+
+      <div class="assistant-options">
+        <button class="assistant-option active" type="button" data-plan="date">❤️ Date</button>
+        <button class="assistant-option" type="button" data-plan="family">👨‍👩‍👧 Family</button>
+        <button class="assistant-option" type="button" data-plan="music">🎶 Music</button>
+        <button class="assistant-option" type="button" data-plan="group">🎂 Group</button>
+      </div>
+
+      <div class="assistant-result" id="assistantResult">
         <span>Recommended</span>
         <h3>Kilimani after 7 PM</h3>
-        <p>City energy, warm lighting and a stronger evening atmosphere.</p>
-        <div class="concierge-actions">
-          <a href="https://www.ankole.co.ke/reservation" target="_blank" rel="noreferrer">Continue to reservation ↗</a>
-          <a href="https://api.whatsapp.com/send?phone=703212121&text=Hello%20Ankole%20Grill.%20I%27m%20planning%20a%20date%20night." target="_blank" rel="noreferrer">Ask on WhatsApp</a>
-        </div>
-      </article>
-
-      <article class="concierge-panel" data-concierge-panel="family">
-        <span>Recommended</span>
-        <h3>Kitisuru for a slower table</h3>
-        <p>More relaxed pacing and a setting that works well across generations.</p>
-        <div class="concierge-actions">
-          <a href="https://www.ankole.co.ke/reservation" target="_blank" rel="noreferrer">Continue to reservation ↗</a>
-          <a href="https://api.whatsapp.com/send?phone=703212121&text=Hello%20Ankole%20Grill.%20I%27m%20planning%20a%20family%20dinner." target="_blank" rel="noreferrer">Ask on WhatsApp</a>
-        </div>
-      </article>
-
-      <article class="concierge-panel" data-concierge-panel="music">
-        <span>Recommended</span>
-        <h3>Book around Live Acoustic Wednesday</h3>
-        <p>Check the current artist schedule first, then reserve early.</p>
-        <div class="concierge-actions">
-          <a href="https://www.ankole.co.ke/live" target="_blank" rel="noreferrer">See live calendar ↗</a>
-          <a href="https://www.ankole.co.ke/reservation" target="_blank" rel="noreferrer">Reserve a table</a>
-        </div>
-      </article>
-
-      <article class="concierge-panel" data-concierge-panel="group">
-        <span>Recommended</span>
-        <h3>Speak to the restaurant directly</h3>
-        <p>For larger parties, timing and seating details are best confirmed with the team.</p>
-        <div class="concierge-actions">
-          <a href="https://www.ankole.co.ke/contact" target="_blank" rel="noreferrer">Contact Ankole ↗</a>
-          <a href="https://api.whatsapp.com/send?phone=703212121&text=Hello%20Ankole%20Grill.%20I%27m%20planning%20a%20group%20occasion." target="_blank" rel="noreferrer">Message on WhatsApp</a>
-        </div>
-      </article>
-    </div>
-  </div>
-</section>
-
-<section class="finale">
-  <img src="./assets/hero-night.jpg" alt="Ankole Grill at night">
-  <div class="finale-shade"></div>
-  <div class="finale-embers" aria-hidden="true">
-    <i></i><i></i><i></i><i></i><i></i><i></i>
-  </div>
-  <div class="finale-copy reveal">
-    <p class="eyebrow">The fire is already burning.</p>
-    <h2>Come hungry.<br>Stay for the night.</h2>
-    <p>Two locations. One unmistakable welcome.</p>
-    <div class="finale-actions">
-      <a class="primary-cta" href="https://www.ankole.co.ke/reservation" target="_blank" rel="noreferrer">Reserve your table <span>↗</span></a>
-      <a class="secondary-cta" href="https://api.whatsapp.com/send?phone=703212121&text=Welcome%20to%20Ankole%20Grill.%20How%20may%20we%20be%20of%20assistance" target="_blank" rel="noreferrer">WhatsApp Ankole</a>
-    </div>
-  </div>
-</section>
-
-    <section class="phase-note" id="locations">
-      <div class="phase-line"></div>
-      <div class="phase-copy reveal">
-        <p>Final build</p>
-        <h2>The whole night is here.</h2>
-        <span>Experience · grill · cocktails · live music · events · reviews · locations · reservations</span>
+        <p>Warm lighting, stronger evening energy and a natural date-night atmosphere.</p>
+        <a href="https://www.ankole.co.ke/reservation" target="_blank" rel="noreferrer">Continue to reservation ↗</a>
       </div>
-      <a class="whatsapp" href="https://api.whatsapp.com/send?phone=703212121&text=Welcome%20to%20Ankole%20Grill.%20How%20may%20we%20be%20of%20assistance" target="_blank" rel="noreferrer">
-        <span>WhatsApp</span>
-        <strong>Talk to Ankole</strong>
-      </a>
+    </section>
+
+    <section class="reel screen reel-final">
+      <img src="./assets/hero-night.jpg" alt="Ankole at night">
+      <div class="screen-shade deep"></div>
+      <div class="reel-copy centre">
+        <span>05 / 05</span>
+        <h2>The fire is already burning.</h2>
+        <p>Come hungry. Stay for the night.</p>
+        <a class="final-reserve" href="https://www.ankole.co.ke/reservation" target="_blank" rel="noreferrer">Reserve your table ↗</a>
+      </div>
     </section>
   </main>
 
-  <footer>
-    <div class="footer-brand">
-      <span class="brand-mark">A</span>
-      <div>
-        <strong>ANKOLE GRILL</strong>
-        <small>Fire at Sunset</small>
-      </div>
-    </div>
-
-    <div class="footer-locations">
-      <div><strong>Kitisuru</strong><span>Daily · 9:00 AM–11:00 PM</span></div>
-      <div><strong>Kilimani</strong><span>Daily · 7:30 AM–11:00 PM</span></div>
-    </div>
-
-    <div class="footer-links">
-      <a href="https://www.ankole.co.ke/reviews" target="_blank">Reviews</a>
-      <a href="https://www.ankole.co.ke/contact" target="_blank">Contact</a>
-      <a href="https://www.ankole.co.ke/reservation" target="_blank">Reservations</a>
-    </div>
-
-    <small class="concept-note">Independent Kodawa Labs concept · Not the official Ankole Grill website</small>
-  </footer>
+  <nav class="thumb-nav" aria-label="Quick actions">
+    <a href="https://www.ankole.co.ke/reservation" target="_blank" rel="noreferrer"><span>Reserve</span></a>
+    <button type="button" data-jump="#menu"><span>Menu</span></button>
+    <button type="button" data-jump="#live"><span>Live</span></button>
+    <a href="https://api.whatsapp.com/send?phone=703212121&text=Welcome%20to%20Ankole%20Grill.%20How%20may%20we%20be%20of%20assistance" target="_blank" rel="noreferrer"><span>WhatsApp</span></a>
+  </nav>
 
   <script src="./script.js"></script>
 </body>
