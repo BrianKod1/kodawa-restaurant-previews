@@ -35,3 +35,9 @@ Expected preview URL:
 - Cocktail experience section
 - Editorial motion strip
 - Heat haze and subtle fire-inspired effects
+
+## Phase 3 additions
+- Live Acoustic Wednesday carousel
+- Events and private dining
+- Rotating editorial gallery
+- Reviews grouped by guest intent

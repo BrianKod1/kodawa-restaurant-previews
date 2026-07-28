@@ -124,3 +124,16 @@ menuTabs.forEach(tab => {
     document.querySelector(`[data-panel="${target}"]`)?.classList.add('active');
   });
 });
+
+const livePosters=[...document.querySelectorAll('.live-poster')],liveControls=[...document.querySelectorAll('.live-control')];let liveIndex=0,liveTimer;
+function showLive(i){if(!livePosters.length)return;livePosters[liveIndex].classList.remove('active');liveControls[liveIndex]?.classList.remove('active');liveIndex=(i+livePosters.length)%livePosters.length;livePosters[liveIndex].classList.add('active');liveControls[liveIndex]?.classList.add('active')}
+function startLive(){clearInterval(liveTimer);liveTimer=setInterval(()=>showLive(liveIndex+1),5200)}
+liveControls.forEach(b=>b.onclick=()=>{showLive(Number(b.dataset.live));startLive()});startLive();
+
+const galleryFrames=[...document.querySelectorAll('.gallery-frame')],galleryProgress=document.getElementById('galleryProgress');let galleryIndex=0;
+function showGallery(i){if(!galleryFrames.length)return;galleryFrames[galleryIndex].classList.remove('active');galleryIndex=(i+galleryFrames.length)%galleryFrames.length;galleryFrames[galleryIndex].classList.add('active');if(galleryProgress)galleryProgress.style.width=`${((galleryIndex+1)/galleryFrames.length)*100}%`}
+document.getElementById('galleryPrev')?.addEventListener('click',()=>showGallery(galleryIndex-1));
+document.getElementById('galleryNext')?.addEventListener('click',()=>showGallery(galleryIndex+1));
+
+const reviewTabs=document.querySelectorAll('.review-tab'),reviewPanels=document.querySelectorAll('.review-panel');
+reviewTabs.forEach(tab=>tab.onclick=()=>{reviewTabs.forEach(x=>x.classList.remove('active'));reviewPanels.forEach(x=>x.classList.remove('active'));tab.classList.add('active');document.querySelector(`[data-review-panel="${tab.dataset.review}"]`)?.classList.add('active')});
