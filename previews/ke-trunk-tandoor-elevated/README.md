@@ -1,28 +1,20 @@
-# Trunk & Tandoor — Elevated
+# Trunk & Tandoor — Elevated V2
 
-A mobile-first concept website created for the Kodawa Labs Kenyan restaurant showcase.
+Premium mobile-first concept website by Kodawa Labs.
 
-## Concept
+## New additions
 
-**Emotional direction:** Anticipation  
-**Positioning:** Elevated Indian rooftop dining above Nairobi  
-**Core line:** Some evenings deserve a better view.
+- Cinematic opening loader
+- Scroll progress indicator
+- Animated rooftop brand ticker
+- Ambient sound toggle on desktop
+- Decorative skyline orbit motion
+- Reservation confirmation modal
+- Ready-to-send reservation email flow
+- Refined image motion and interaction
 
-## Files
-
-- `index.html`
-- `styles.css`
-- `script.js`
-- `assets/`
-
-## Preview path
-
-Recommended folder name:
+## Recommended path
 
 `previews/ke-trunk-tandoor-elevated/`
 
-The reservation form is a concept interaction only. Before production, connect it to the restaurant's real booking platform, contact details and approved menus.
-
-## Built by
-
-Kodawa Labs
+Replace the previous contents of that folder with this version.

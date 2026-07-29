@@ -12,6 +12,13 @@
   <link rel="stylesheet" href="./styles.css">
 </head>
 <body>
+  <div class="intro-loader" id="introLoader" aria-hidden="true">
+    <div class="loader-mark">T</div>
+    <p>TRUNK & TANDOOR</p>
+    <span>Above Nairobi</span>
+  </div>
+
+  <div class="scroll-progress" aria-hidden="true"><span id="scrollProgress"></span></div>
   <div class="grain" aria-hidden="true"></div>
   <div class="cursor-glow" aria-hidden="true"></div>
 
@@ -31,7 +38,10 @@
       <a href="#celebrate">Celebrate</a>
     </nav>
 
-    <a class="reserve-link" href="#reserve">Reserve</a>
+    <div class="header-actions">
+      <button class="sound-toggle" id="soundToggle" type="button" aria-pressed="false">Ambient off</button>
+      <a class="reserve-link" href="#reserve">Reserve</a>
+    </div>
   </header>
 
   <main id="top">
@@ -41,6 +51,8 @@
       </div>
       <div class="hero-overlay"></div>
 
+      <div class="hero-orbit orbit-one" aria-hidden="true"></div>
+      <div class="hero-orbit orbit-two" aria-hidden="true"></div>
       <div class="hero-copy reveal">
         <p class="eyebrow">Elevated Indian dining · Nairobi</p>
         <h1>Some evenings deserve a <em>better view.</em></h1>
@@ -54,6 +66,17 @@
       <div class="hero-note">
         <span>Lower Kabete Road</span>
         <span>Above Nairobi</span>
+      </div>
+    </section>
+
+    <section class="floating-statement" aria-label="Brand statement">
+      <div class="floating-track">
+        <span>Fire-led dining</span><i>·</i>
+        <span>Skyline cocktails</span><i>·</i>
+        <span>Occasions worth dressing for</span><i>·</i>
+        <span>Fire-led dining</span><i>·</i>
+        <span>Skyline cocktails</span><i>·</i>
+        <span>Occasions worth dressing for</span>
       </div>
     </section>
 
@@ -278,6 +301,20 @@
       </div>
     </section>
   </main>
+
+  <div class="booking-modal" id="bookingModal" aria-hidden="true">
+    <div class="booking-backdrop" data-close-modal></div>
+    <div class="booking-dialog" role="dialog" aria-modal="true" aria-labelledby="bookingTitle">
+      <button class="booking-close" type="button" data-close-modal aria-label="Close">×</button>
+      <p class="eyebrow dark">Your request is ready</p>
+      <h2 id="bookingTitle">The table is almost yours.</h2>
+      <p id="bookingSummary">We have prepared your reservation request.</p>
+      <div class="booking-actions">
+        <a id="bookingEmail" class="button button-gold" href="#">Send reservation request</a>
+        <button type="button" class="button button-dark" data-close-modal>Keep exploring</button>
+      </div>
+    </div>
+  </div>
 
   <footer>
     <div class="footer-brand">
