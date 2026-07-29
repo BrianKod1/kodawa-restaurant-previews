@@ -1,20 +1,22 @@
-# Trunk & Tandoor — Elevated V2
+# Trunk & Tandoor V3 — Foundation Build
 
-Premium mobile-first concept website by Kodawa Labs.
+This build establishes the first Kodawa Labs Hospitality Design System foundation:
 
-## New additions
+- Mobile-first composition
+- Pacing as the signature
+- Instrument Serif + Manrope typography
+- Full-screen storytelling scenes
+- Minimal navigation
+- Floating mobile reservation action
+- Conversational bottom-sheet reservation flow
+- Reduced-motion accessibility support
 
-- Cinematic opening loader
-- Scroll progress indicator
-- Animated rooftop brand ticker
-- Ambient sound toggle on desktop
-- Decorative skyline orbit motion
-- Reservation confirmation modal
-- Ready-to-send reservation email flow
-- Refined image motion and interaction
+## Run locally
 
-## Recommended path
+Open `index.html` directly or use a local static server.
 
-`previews/ke-trunk-tandoor-elevated/`
+## Deploy
 
-Replace the previous contents of that folder with this version.
+Upload this folder to:
+
+`previews/ke-trunk-tandoor-v3/`

@@ -1,127 +1,76 @@
-const header = document.querySelector('.site-header');
-window.addEventListener('scroll', () => {
-  header.classList.toggle('scrolled', window.scrollY > 70);
-}, { passive: true });
+const loader = document.querySelector('#pageLoader');
+const header = document.querySelector('#siteHeader');
+const floatingReserve = document.querySelector('.floating-reserve');
+const sheet = document.querySelector('#bookingSheet');
+const triggers = document.querySelectorAll('.reserve-trigger');
+const steps = [...document.querySelectorAll('.booking-step')];
+const guestButtons = document.querySelectorAll('[data-guests]');
+const dateInput = document.querySelector('#bookingDate');
+const timeInput = document.querySelector('#bookingTime');
+const nameInput = document.querySelector('#bookingName');
+const phoneInput = document.querySelector('#bookingPhone');
+const summary = document.querySelector('#bookingSummary');
+const emailLink = document.querySelector('#emailReservation');
+let guests = '';
 
-const observer = new IntersectionObserver((entries) => {
-  entries.forEach(entry => {
-    if (entry.isIntersecting) {
-      entry.target.classList.add('visible');
-      observer.unobserve(entry.target);
-    }
-  });
-}, { threshold: 0.12 });
-
-document.querySelectorAll('.reveal, .reveal-image').forEach(el => observer.observe(el));
-
-const glow = document.querySelector('.cursor-glow');
-window.addEventListener('pointermove', (event) => {
-  if (!glow) return;
-  glow.style.left = `${event.clientX}px`;
-  glow.style.top = `${event.clientY}px`;
-}, { passive: true });
-
-document.getElementById('reservationForm')?.addEventListener('submit', (event) => {
-  event.preventDefault();
-  const note = document.getElementById('formNote');
-  note.textContent = 'Thank you. In a production version, this request would now be sent to the restaurant’s reservation team.';
-  note.style.color = '#edd7ad';
-});
-
-
-const introLoader = document.getElementById('introLoader');
-window.addEventListener('load', () => {
-  window.setTimeout(() => introLoader?.classList.add('hide'), 850);
-});
-
-const progress = document.getElementById('scrollProgress');
-const updateProgress = () => {
-  const scrollable = document.documentElement.scrollHeight - window.innerHeight;
-  const value = scrollable > 0 ? (window.scrollY / scrollable) * 100 : 0;
-  if (progress) progress.style.width = `${value}%`;
+const showStep = (number) => {
+  steps.forEach((step) => step.classList.toggle('is-active', Number(step.dataset.step) === number));
 };
-window.addEventListener('scroll', updateProgress, { passive: true });
-updateProgress();
 
-const soundToggle = document.getElementById('soundToggle');
-let ambientContext;
-let ambientGain;
-let ambientOn = false;
+window.addEventListener('load', () => {
+  window.setTimeout(() => loader?.classList.add('is-hidden'), 1050);
+});
 
-function startAmbient() {
-  const AudioCtx = window.AudioContext || window.webkitAudioContext;
-  if (!AudioCtx) return;
-  ambientContext = ambientContext || new AudioCtx();
-  ambientGain = ambientGain || ambientContext.createGain();
-  ambientGain.gain.value = 0.018;
-  ambientGain.connect(ambientContext.destination);
+window.addEventListener('scroll', () => {
+  const scrolled = window.scrollY > 24;
+  header?.classList.toggle('is-scrolled', scrolled);
+  floatingReserve?.classList.toggle('is-visible', window.scrollY > window.innerHeight * .65);
+}, { passive: true });
 
-  const oscA = ambientContext.createOscillator();
-  const oscB = ambientContext.createOscillator();
-  const gainA = ambientContext.createGain();
-  const gainB = ambientContext.createGain();
+triggers.forEach((trigger) => trigger.addEventListener('click', () => {
+  showStep(1);
+  if (typeof sheet.showModal === 'function') sheet.showModal();
+}));
 
-  oscA.frequency.value = 110;
-  oscB.frequency.value = 164.81;
-  oscA.type = 'sine';
-  oscB.type = 'sine';
-  gainA.gain.value = 0.45;
-  gainB.gain.value = 0.2;
+guestButtons.forEach((button) => button.addEventListener('click', () => {
+  guests = button.dataset.guests;
+  guestButtons.forEach((item) => item.classList.toggle('is-selected', item === button));
+  window.setTimeout(() => showStep(2), 180);
+}));
 
-  oscA.connect(gainA).connect(ambientGain);
-  oscB.connect(gainB).connect(ambientGain);
-  oscA.start();
-  oscB.start();
-
-  soundToggle._nodes = [oscA, oscB];
-}
-
-soundToggle?.addEventListener('click', async () => {
-  ambientOn = !ambientOn;
-  soundToggle.setAttribute('aria-pressed', String(ambientOn));
-  soundToggle.textContent = ambientOn ? 'Ambient on' : 'Ambient off';
-
-  if (ambientOn) {
-    startAmbient();
-    if (ambientContext?.state === 'suspended') await ambientContext.resume();
-  } else if (ambientGain && ambientContext) {
-    ambientGain.gain.cancelScheduledValues(ambientContext.currentTime);
-    ambientGain.gain.setTargetAtTime(0, ambientContext.currentTime, 0.08);
+document.querySelector('#toDetails')?.addEventListener('click', () => {
+  if (!dateInput.value || !timeInput.value) {
+    dateInput.reportValidity();
+    timeInput.reportValidity();
+    return;
   }
+  showStep(3);
 });
 
-const modal = document.getElementById('bookingModal');
-const summary = document.getElementById('bookingSummary');
-const emailLink = document.getElementById('bookingEmail');
-
-function closeModal() {
-  modal?.classList.remove('open');
-  modal?.setAttribute('aria-hidden', 'true');
-  document.body.classList.remove('modal-open');
-}
-
-document.querySelectorAll('[data-close-modal]').forEach(el => el.addEventListener('click', closeModal));
-document.addEventListener('keydown', event => {
-  if (event.key === 'Escape') closeModal();
-});
-
-const reservationForm = document.getElementById('reservationForm');
-reservationForm?.addEventListener('submit', event => {
-  event.preventDefault();
-  const formData = new FormData(reservationForm);
-  const name = formData.get('name') || 'Guest';
-  const guests = formData.get('guests') || '2 guests';
-  const occasion = formData.get('occasion') || 'Dinner';
-
-  if (summary) {
-    summary.textContent = `${name}, your request for ${guests} for ${occasion.toString().toLowerCase()} is ready to send.`;
+document.querySelector('#completeBooking')?.addEventListener('click', () => {
+  if (!nameInput.value.trim() || !phoneInput.value.trim()) {
+    nameInput.reportValidity();
+    phoneInput.reportValidity();
+    return;
   }
 
-  const subject = encodeURIComponent(`Reservation request — ${occasion}`);
-  const body = encodeURIComponent(`Hello Trunk & Tandoor Team,\n\nMy name is ${name}. I would like to request a table for ${guests} for ${occasion}.\n\nPlease let me know the available dates and times.\n\nThank you.`);
-  if (emailLink) emailLink.href = `mailto:?subject=${subject}&body=${body}`;
+  const selectedDate = new Date(`${dateInput.value}T12:00:00`);
+  const formattedDate = selectedDate.toLocaleDateString('en-KE', { weekday: 'long', month: 'long', day: 'numeric' });
+  const details = `${nameInput.value.trim()}, ${guests} guests · ${formattedDate} at ${timeInput.value}.`;
+  summary.textContent = details;
 
-  modal?.classList.add('open');
-  modal?.setAttribute('aria-hidden', 'false');
-  document.body.classList.add('modal-open');
+  const subject = encodeURIComponent('Reservation request — Trunk & Tandoor');
+  const body = encodeURIComponent(`Hello Trunk & Tandoor,\n\nI would like to request a reservation.\n\nName: ${nameInput.value.trim()}\nGuests: ${guests}\nDate: ${formattedDate}\nTime: ${timeInput.value}\nPhone: ${phoneInput.value.trim()}\n\nThank you.`);
+  emailLink.href = `mailto:reservations@trunkandtandoor.com?subject=${subject}&body=${body}`;
+  showStep(4);
 });
+
+sheet?.addEventListener('click', (event) => {
+  const rect = sheet.getBoundingClientRect();
+  const inside = event.clientX >= rect.left && event.clientX <= rect.right && event.clientY >= rect.top && event.clientY <= rect.bottom;
+  if (!inside) sheet.close();
+});
+
+const today = new Date();
+today.setMinutes(today.getMinutes() - today.getTimezoneOffset());
+dateInput.min = today.toISOString().split('T')[0];
