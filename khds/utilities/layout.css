@@ -1,0 +1,75 @@
+/*
+──────────────────────────────────────────────
+KHDS Layout System
+
+Purpose
+
+Create consistent rhythm and page structure
+across every Kodawa Labs hospitality experience.
+
+Components should never define page width.
+Layouts do.
+
+──────────────────────────────────────────────
+*/
+
+/* Main page container */
+
+.khds-container {
+    width: min(
+        calc(100% - (var(--khds-page-gutter) * 2)),
+        var(--khds-container)
+    );
+
+    margin-inline: auto;
+}
+
+
+/* Editorial reading width */
+
+.khds-content {
+    width: min(
+        100%,
+        var(--khds-content-narrow)
+    );
+
+    margin-inline: auto;
+}
+
+
+/* Standard section spacing */
+
+.khds-section {
+
+    padding-block:
+        var(--khds-section-space);
+
+}
+
+
+/* Vertical spacing utility */
+
+.khds-stack {
+
+    display: flex;
+
+    flex-direction: column;
+
+    gap: var(--khds-space-6);
+
+}
+
+
+/* Horizontal alignment */
+
+.khds-cluster {
+
+    display: flex;
+
+    align-items: center;
+
+    gap: var(--khds-space-4);
+
+    flex-wrap: wrap;
+
+}
