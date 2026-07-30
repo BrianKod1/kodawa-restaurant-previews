@@ -1,0 +1,75 @@
+/*
+──────────────────────────────────────────────
+Kodawa Hospitality Design System (KHDS)
+
+The design system powering every Kodawa Labs
+hospitality experience.
+
+The Twelve Foundations govern every decision.
+
+Create emotion.
+Respect the brand.
+Produce business value.
+──────────────────────────────────────────────
+*/
+
+:root {
+
+  /* =====================================
+     COLORS
+  ===================================== */
+
+  --surface-background: #0b0b0b;
+  --surface-primary: #141414;
+  --surface-secondary: #1d1d1d;
+
+  --text-primary: #ffffff;
+  --text-secondary: #c7c7c7;
+  --text-muted: #8c8c8c;
+
+  --accent-primary: #d4af37;
+
+  /* =====================================
+     TYPOGRAPHY
+  ===================================== */
+
+  --font-display: "Cormorant Garamond", serif;
+  --font-body: "Inter", sans-serif;
+
+  /* =====================================
+     SPACING
+  ===================================== */
+
+  --space-xs: .5rem;
+  --space-sm: 1rem;
+  --space-md: 2rem;
+  --space-lg: 4rem;
+  --space-xl: 8rem;
+
+  /* =====================================
+     RADIUS
+  ===================================== */
+
+  --radius-sm: 8px;
+  --radius-md: 16px;
+  --radius-lg: 28px;
+
+  /* =====================================
+     SHADOWS
+  ===================================== */
+
+  --shadow-soft:
+      0 12px 40px rgba(0,0,0,.25);
+
+  /* =====================================
+     MOTION
+  ===================================== */
+
+  --duration-fast: 180ms;
+  --duration-normal: 350ms;
+  --duration-slow: 650ms;
+
+  --ease-standard:
+      cubic-bezier(.2,.8,.2,1);
+
+}
