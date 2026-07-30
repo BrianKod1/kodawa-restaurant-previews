@@ -1,22 +1,15 @@
-# Trunk & Tandoor V3 — Foundation Build
+# Trunk & Tandoor V3 — KHDS Sprint 1
 
-This build establishes the first Kodawa Labs Hospitality Design System foundation:
+This project now contains the first implementation of the Kodawa Hospitality Design System.
 
-- Mobile-first composition
-- Pacing as the signature
-- Instrument Serif + Manrope typography
-- Full-screen storytelling scenes
-- Minimal navigation
-- Floating mobile reservation action
-- Conversational bottom-sheet reservation flow
-- Reduced-motion accessibility support
+Open `index.html` locally or deploy the folder as a static site.
 
-## Run locally
+## Design-review mode
+The Kodawa Foundation panel appears at the bottom-left. It keeps the studio principles visible and lets the team flag any principle that a design decision may be moving away from.
 
-Open `index.html` directly or use a local static server.
+For a clean presentation, append:
 
-## Deploy
+`?principles=off`
 
-Upload this folder to:
-
-`previews/ke-trunk-tandoor-v3/`
+## Commit message
+`feat: establish KHDS Sprint 1 and add foundation principles monitor`

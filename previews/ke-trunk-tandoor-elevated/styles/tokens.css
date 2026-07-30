@@ -1,0 +1,42 @@
+:root {
+  /* KHDS v1 — shared hospitality tokens */
+  --khds-color-ink: #111315;
+  --khds-color-graphite: #1e2023;
+  --khds-color-stone: #f5f2ec;
+  --khds-color-gold: #b8924a;
+  --khds-color-bronze: #8a6a4a;
+  --khds-color-line: rgba(245, 242, 236, 0.18);
+  --khds-color-overlay: rgba(10, 12, 13, 0.54);
+
+  --khds-space-1: 0.25rem;
+  --khds-space-2: 0.5rem;
+  --khds-space-3: 1rem;
+  --khds-space-4: 1.5rem;
+  --khds-space-5: 2.5rem;
+  --khds-space-6: 4rem;
+  --khds-space-7: 6rem;
+  --khds-space-8: 10rem;
+
+  --khds-radius-pill: 999px;
+  --khds-radius-card: 1.5rem;
+  --khds-radius-image: 2rem;
+  --khds-radius-modal: 2.25rem;
+
+  --khds-duration-response: 180ms;
+  --khds-duration-reveal: 400ms;
+  --khds-duration-image: 700ms;
+  --khds-duration-scene: 1000ms;
+  --khds-duration-ambient: 28s;
+
+  --khds-ease-standard: cubic-bezier(.22, .61, .36, 1);
+  --khds-ease-emphasized: cubic-bezier(.16, 1, .3, 1);
+
+  --khds-container: 78rem;
+  --khds-gutter: clamp(1.25rem, 4vw, 4rem);
+
+  --khds-z-base: 1;
+  --khds-z-header: 30;
+  --khds-z-action: 40;
+  --khds-z-modal: 80;
+  --khds-z-principles: 100;
+}

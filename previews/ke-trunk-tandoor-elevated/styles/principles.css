@@ -1,0 +1,108 @@
+.khds-principles {
+  position: fixed;
+  z-index: var(--khds-z-principles);
+  left: .85rem;
+  bottom: max(.85rem, env(safe-area-inset-bottom));
+  width: min(22rem, calc(100vw - 1.7rem));
+  color: var(--khds-color-stone);
+  background: rgba(17,19,21,.88);
+  border: 1px solid var(--khds-color-line);
+  border-radius: 1.2rem;
+  backdrop-filter: blur(18px);
+  box-shadow: 0 18px 60px rgba(0,0,0,.28);
+  overflow: hidden;
+  transition: width var(--khds-duration-reveal) var(--khds-ease-standard);
+}
+
+.khds-principles__toggle {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  gap: 1rem;
+  padding: .9rem 1rem;
+  color: inherit;
+  background: transparent;
+  border: 0;
+  cursor: pointer;
+  text-align: left;
+}
+
+.khds-principles__toggle strong {
+  font-size: .7rem;
+  letter-spacing: .13em;
+  text-transform: uppercase;
+}
+
+.khds-principles__status {
+  color: rgba(245,242,236,.58);
+  font-size: .72rem;
+}
+
+.khds-principles__body {
+  padding: 0 .65rem .7rem;
+}
+
+.khds-principles[data-collapsed="true"] .khds-principles__body {
+  display: none;
+}
+
+.khds-principles__rule {
+  width: 100%;
+  display: grid;
+  grid-template-columns: 1.25rem 1fr;
+  gap: .55rem;
+  align-items: start;
+  padding: .65rem .55rem;
+  color: rgba(245,242,236,.68);
+  background: transparent;
+  border: 0;
+  border-radius: .75rem;
+  text-align: left;
+}
+
+.khds-principles__rule::before {
+  content: "";
+  width: .5rem;
+  height: .5rem;
+  margin-top: .33rem;
+  border-radius: 50%;
+  background: rgba(245,242,236,.28);
+  box-shadow: 0 0 0 4px transparent;
+  transition: all var(--khds-duration-response) var(--khds-ease-standard);
+}
+
+.khds-principles__rule[data-state="watch"] {
+  color: var(--khds-color-stone);
+  background: rgba(184,146,74,.12);
+}
+
+.khds-principles__rule[data-state="watch"]::before {
+  background: var(--khds-color-gold);
+  box-shadow: 0 0 0 4px rgba(184,146,74,.15);
+}
+
+.khds-principles__rule[data-state="risk"] {
+  color: #fff3dc;
+  background: rgba(184,104,74,.2);
+}
+
+.khds-principles__rule[data-state="risk"]::before {
+  background: #d8875f;
+  box-shadow: 0 0 0 4px rgba(216,135,95,.16);
+}
+
+@media (max-width: 720px) {
+  .khds-principles {
+    left: .7rem;
+    bottom: .7rem;
+    width: calc(100vw - 1.4rem);
+  }
+
+  .khds-principles[data-collapsed="true"] {
+    width: auto;
+  }
+
+  .khds-principles[data-collapsed="true"] .khds-principles__status {
+    display: none;
+  }
+}
