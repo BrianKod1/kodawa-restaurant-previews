@@ -1,0 +1,60 @@
+/*
+──────────────────────────────────────────────
+KHDS Button System
+
+Purpose
+
+Provide a consistent interactive language
+across every Kodawa Labs hospitality experience.
+
+Buttons communicate hierarchy,
+not decoration.
+──────────────────────────────────────────────
+*/
+
+.khds-button {
+
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+
+    gap: var(--khds-space-2);
+
+    padding:
+        var(--khds-space-4)
+        var(--khds-space-6);
+
+    border: none;
+    border-radius: var(--khds-radius-pill);
+
+    cursor: pointer;
+
+    font-family: var(--font-body);
+    font-size: var(--khds-text-base);
+    font-weight: 600;
+
+    transition:
+        transform var(--khds-duration-standard) var(--khds-ease-standard),
+        background-color var(--khds-duration-standard) var(--khds-ease-standard),
+        color var(--khds-duration-standard) var(--khds-ease-standard);
+
+}
+
+.khds-button:hover {
+
+    transform: translateY(-2px);
+
+}
+
+.khds-button:focus-visible {
+
+    outline: 2px solid currentColor;
+    outline-offset: 4px;
+
+}
+.khds-button--primary {
+
+    background: var(--accent-primary);
+    color: var(--text-primary);
+
+}
