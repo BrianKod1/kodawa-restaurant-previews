@@ -1,0 +1,46 @@
+/*
+──────────────────────────────────────────────
+KHDS Typography System
+
+Purpose
+
+Create consistent hierarchy across every
+Kodawa Labs hospitality experience.
+
+Fonts belong to themes.
+Hierarchy belongs to KHDS.
+──────────────────────────────────────────────
+*/
+
+.khds-display {
+    font-family: var(--font-display);
+    font-size: var(--khds-text-display);
+    line-height: var(--khds-leading-tight);
+}
+
+.khds-heading {
+    font-family: var(--font-display);
+    font-size: var(--khds-text-3xl);
+    line-height: var(--khds-leading-heading);
+}
+
+.khds-body {
+    font-family: var(--font-body);
+    font-size: var(--khds-text-base);
+    line-height: var(--khds-leading-body);
+    max-width: 65ch;
+}
+
+.khds-caption {
+    font-family: var(--font-body);
+    font-size: var(--khds-text-sm);
+    line-height: var(--khds-leading-body);
+    opacity: .75;
+}
+
+.khds-eyebrow {
+    font-family: var(--font-body);
+    font-size: var(--khds-text-xs);
+    letter-spacing: .15em;
+    text-transform: uppercase;
+}
