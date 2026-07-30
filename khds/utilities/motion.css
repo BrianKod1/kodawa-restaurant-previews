@@ -1,0 +1,105 @@
+/*
+──────────────────────────────────────────────
+KHDS Motion Engine
+
+Purpose
+
+Motion exists to guide attention,
+reinforce hierarchy,
+and create a sense of hospitality.
+
+Animation must never compete
+with the story.
+
+──────────────────────────────────────────────
+*/
+
+/* Fade */
+
+.khds-fade-in {
+
+    animation:
+        khdsFade
+        var(--khds-duration-reveal)
+        var(--khds-ease-reveal)
+        both;
+
+}
+
+/* Rise */
+
+.khds-rise {
+
+    animation:
+        khdsRise
+        var(--khds-duration-reveal)
+        var(--khds-ease-reveal)
+        both;
+
+}
+
+/* Reveal */
+
+.khds-reveal {
+
+    overflow: hidden;
+
+}
+
+/* Hover */
+
+.khds-hover {
+
+    transition:
+        transform
+        var(--khds-duration-standard)
+        var(--khds-ease-standard);
+
+}
+
+.khds-hover:hover {
+
+    transform:
+        translateY(-4px);
+
+}
+
+/* Keyframes */
+
+@keyframes khdsFade {
+
+    from {
+
+        opacity: 0;
+
+    }
+
+    to {
+
+        opacity: 1;
+
+    }
+
+}
+
+@keyframes khdsRise {
+
+    from {
+
+        opacity: 0;
+
+        transform:
+            translateY(24px);
+
+    }
+
+    to {
+
+        opacity: 1;
+
+        transform:
+            translateY(0);
+
+    }
+
+}
