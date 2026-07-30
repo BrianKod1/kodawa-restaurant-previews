@@ -1,0 +1,18 @@
+:root {
+
+  /*
+  Trunk & Tandoor Theme
+  */
+
+  --accent-primary: #d4af37;
+
+  --surface-background: #0b0b0b;
+  --surface-primary: #141414;
+
+  --text-primary: #ffffff;
+  --text-secondary: #c7c7c7;
+
+  --font-display: "Cormorant Garamond", serif;
+  --font-body: "Inter", sans-serif;
+
+}

@@ -1,75 +1,75 @@
 /*
 ──────────────────────────────────────────────
-Kodawa Hospitality Design System (KHDS)
+Kodawa Hospitality Design System — Core Tokens
 
-The design system powering every Kodawa Labs
-hospitality experience.
-
-The Twelve Foundations govern every decision.
-
-Create emotion.
-Respect the brand.
-Produce business value.
+These values define structure and behaviour.
+Individual restaurants override brand choices
+inside their own theme files.
 ──────────────────────────────────────────────
 */
 
 :root {
+  /* Typography families */
+  --khds-font-display: Georgia, "Times New Roman", serif;
+  --khds-font-body: Arial, Helvetica, sans-serif;
 
-  /* =====================================
-     COLORS
-  ===================================== */
+  /* Typography sizes */
+  --khds-text-xs: 0.75rem;
+  --khds-text-sm: 0.875rem;
+  --khds-text-base: 1rem;
+  --khds-text-lg: 1.125rem;
+  --khds-text-xl: 1.5rem;
+  --khds-text-2xl: 2rem;
+  --khds-text-3xl: clamp(2.5rem, 6vw, 5rem);
+  --khds-text-display: clamp(3.5rem, 10vw, 8rem);
 
-  --surface-background: #0b0b0b;
-  --surface-primary: #141414;
-  --surface-secondary: #1d1d1d;
+  /* Line height */
+  --khds-leading-tight: 0.95;
+  --khds-leading-heading: 1.1;
+  --khds-leading-body: 1.6;
 
-  --text-primary: #ffffff;
-  --text-secondary: #c7c7c7;
-  --text-muted: #8c8c8c;
+  /* Spacing */
+  --khds-space-1: 0.25rem;
+  --khds-space-2: 0.5rem;
+  --khds-space-3: 0.75rem;
+  --khds-space-4: 1rem;
+  --khds-space-5: 1.5rem;
+  --khds-space-6: 2rem;
+  --khds-space-7: 3rem;
+  --khds-space-8: 4rem;
+  --khds-space-9: 6rem;
+  --khds-space-10: 8rem;
 
-  --accent-primary: #d4af37;
+  /* Layout */
+  --khds-container: 75rem;
+  --khds-content-narrow: 42rem;
+  --khds-page-gutter: clamp(1rem, 4vw, 4rem);
+  --khds-section-space: clamp(4rem, 10vw, 9rem);
 
-  /* =====================================
-     TYPOGRAPHY
-  ===================================== */
+  /* Radius */
+  --khds-radius-sm: 0.375rem;
+  --khds-radius-md: 0.75rem;
+  --khds-radius-lg: 1.5rem;
+  --khds-radius-pill: 999px;
 
-  --font-display: "Cormorant Garamond", serif;
-  --font-body: "Inter", sans-serif;
+  /* Shadows */
+  --khds-shadow-soft: 0 1rem 3rem rgb(0 0 0 / 0.14);
+  --khds-shadow-elevated: 0 1.5rem 5rem rgb(0 0 0 / 0.22);
 
-  /* =====================================
-     SPACING
-  ===================================== */
+  /* Motion */
+  --khds-duration-fast: 160ms;
+  --khds-duration-standard: 320ms;
+  --khds-duration-reveal: 700ms;
+  --khds-duration-ceremony: 1100ms;
 
-  --space-xs: .5rem;
-  --space-sm: 1rem;
-  --space-md: 2rem;
-  --space-lg: 4rem;
-  --space-xl: 8rem;
+  --khds-ease-standard: cubic-bezier(0.2, 0.8, 0.2, 1);
+  --khds-ease-reveal: cubic-bezier(0.16, 1, 0.3, 1);
 
-  /* =====================================
-     RADIUS
-  ===================================== */
-
-  --radius-sm: 8px;
-  --radius-md: 16px;
-  --radius-lg: 28px;
-
-  /* =====================================
-     SHADOWS
-  ===================================== */
-
-  --shadow-soft:
-      0 12px 40px rgba(0,0,0,.25);
-
-  /* =====================================
-     MOTION
-  ===================================== */
-
-  --duration-fast: 180ms;
-  --duration-normal: 350ms;
-  --duration-slow: 650ms;
-
-  --ease-standard:
-      cubic-bezier(.2,.8,.2,1);
-
+  /* Layering */
+  --khds-layer-base: 0;
+  --khds-layer-content: 10;
+  --khds-layer-header: 100;
+  --khds-layer-overlay: 500;
+  --khds-layer-modal: 1000;
+  --khds-layer-review: 2000;
 }
