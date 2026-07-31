@@ -1,0 +1,61 @@
+/*
+==================================================
+KHDS Editorial Experience
+
+Purpose
+
+Create a calm, editorial storytelling section
+for hospitality experiences.
+
+Editorial sections communicate identity,
+craftsmanship and narrative.
+
+They compose existing KHDS primitives.
+
+==================================================
+*/
+
+.khds-editorial {
+
+    padding-block: var(--khds-space-8);
+
+}
+
+.khds-editorial__content {
+
+    display: flex;
+    flex-direction: column;
+
+    gap: var(--khds-space-4);
+
+    max-width: 65ch;
+
+}
+
+.khds-editorial__eyebrow {
+
+    margin: 0;
+
+}
+
+.khds-editorial__heading {
+
+    margin: 0;
+
+}
+
+.khds-editorial__body {
+
+    margin: 0;
+
+}
+
+@media (max-width: 768px) {
+
+    .khds-editorial {
+
+        padding-block: var(--khds-space-6);
+
+    }
+
+}
