@@ -11,7 +11,7 @@ button, a { -webkit-tap-highlight-color: transparent; }
 a { color: inherit; text-decoration: none; }
 
 :focus-visible {
-  outline: 2px solid var(--khds-color-gold);
+ outline: 2px solid var(--accent-primary);
   outline-offset: 4px;
 }
 

@@ -12,8 +12,8 @@ html {
 }
 
 body {
-  color: var(--khds-color-stone);
-  background: var(--khds-color-ink);
+  color: var(--text-secondary);
+  background: var(--surface-background);
 }
 
 .khds-display {

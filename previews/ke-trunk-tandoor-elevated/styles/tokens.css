@@ -1,13 +1,5 @@
-:root {
-  /* KHDS v1 — shared hospitality tokens */
-  --khds-color-ink: #111315;
-  --khds-color-graphite: #1e2023;
-  --khds-color-stone: #f5f2ec;
-  --khds-color-gold: #b8924a;
-  --khds-color-bronze: #8a6a4a;
-  --khds-color-line: rgba(245, 242, 236, 0.18);
-  --khds-color-overlay: rgba(10, 12, 13, 0.54);
-
+:root 
+  /* KHD
   --khds-space-1: 0.25rem;
   --khds-space-2: 0.5rem;
   --khds-space-3: 1rem;

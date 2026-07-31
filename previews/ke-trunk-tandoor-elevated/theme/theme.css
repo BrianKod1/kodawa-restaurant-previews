@@ -4,13 +4,27 @@
   Trunk & Tandoor Theme
   */
 
+  /* Brand */
+
   --accent-primary: #d4af37;
+  --accent-secondary: #8a6a4a;
+
+  /* Surfaces */
 
   --surface-background: #0b0b0b;
   --surface-primary: #141414;
 
+  /* Text */
+
   --text-primary: #ffffff;
   --text-secondary: #c7c7c7;
+
+  /* Decorative */
+
+  --border-color: rgba(245, 242, 236, 0.18);
+  --overlay-color: rgba(10, 12, 13, 0.54);
+
+  /* Typography */
 
   --font-display: "Cormorant Garamond", serif;
   --font-body: "Inter", sans-serif;

@@ -4,9 +4,9 @@
   left: .85rem;
   bottom: max(.85rem, env(safe-area-inset-bottom));
   width: min(22rem, calc(100vw - 1.7rem));
-  color: var(--khds-color-stone);
+  color: var(--text-secondary);
   background: rgba(17,19,21,.88);
-  border: 1px solid var(--khds-color-line);
+  border: 1px solid var(--border-color);
   border-radius: 1.2rem;
   backdrop-filter: blur(18px);
   box-shadow: 0 18px 60px rgba(0,0,0,.28);
@@ -72,12 +72,12 @@
 }
 
 .khds-principles__rule[data-state="watch"] {
-  color: var(--khds-color-stone);
+ color: var(--text-secondary);
   background: rgba(184,146,74,.12);
 }
 
 .khds-principles__rule[data-state="watch"]::before {
-  background: var(--khds-color-gold);
+  background: var(--accent-primary);
   box-shadow: 0 0 0 4px rgba(184,146,74,.15);
 }
 

@@ -19,13 +19,14 @@
 
 .khds-button--primary {
   color: #17130d;
-  background: var(--khds-color-gold);
+ background: var(--accent-primary);
+
 }
 
 .khds-button--quiet {
-  color: var(--khds-color-stone);
+ color: var(--text-secondary);
   background: rgba(17,19,21,.48);
-  border-color: var(--khds-color-line);
+ border-color: var(--border-color);
   backdrop-filter: blur(18px);
 }
 
@@ -68,8 +69,8 @@
   max-height: 88svh;
   overflow: auto;
   padding: 1.2rem var(--khds-gutter) calc(1.5rem + env(safe-area-inset-bottom));
-  color: var(--khds-color-stone);
-  background: var(--khds-color-graphite);
+ color: var(--text-secondary);
+ background: var(--surface-primary);
   border-radius: var(--khds-radius-modal) var(--khds-radius-modal) 0 0;
   animation: khds-sheet-in var(--khds-duration-image) var(--khds-ease-emphasized) both;
 }
