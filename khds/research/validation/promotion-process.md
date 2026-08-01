@@ -89,3 +89,16 @@ Production Experience
 Research creates candidates.
 
 Validation creates standards.
+
+
+---
+
+# Promotion Log
+
+Every promoted KHDS Pattern must record:
+
+- Date promoted
+- Supporting restaurants
+- Supporting research files
+- Reviewer
+- Version
