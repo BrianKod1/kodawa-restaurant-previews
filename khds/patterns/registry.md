@@ -34,13 +34,13 @@ Production Experience
 
 # Registry
 
-| Pattern | Status | Restaurants | Evidence | Version |
+| Pattern | Status | Restaurants | Research | Version |
 |---------|--------|-------------|----------|---------|
-| Emotion before interface | Candidate | Trunk & Tandoor | ✓ | - |
-| Story before features | Candidate | Trunk & Tandoor | ✓ | - |
-| Photography before decoration | Candidate | Trunk & Tandoor | ✓ | - |
-| Own the guest relationship | Candidate | Trunk & Tandoor | ✓ | - |
-| Atmosphere through consistency | Emerging | Trunk & Tandoor | ✓ | - |
+| Emotion before interface | Candidate | Trunk & Tandoor | arrival.md | - |
+| Story before features | Candidate | Trunk & Tandoor | story.md | - |
+| Photography before decoration | Candidate | Trunk & Tandoor | photography.md | - |
+| Own the guest relationship | Candidate | Trunk & Tandoor | reservation.md | - |
+| Atmosphere through consistency | Emerging | Trunk & Tandoor | atmosphere.md | - |
 
 ---
 
@@ -49,6 +49,19 @@ Production Experience
 No patterns have been promoted yet.
 
 ---
+
+
+## Traceability Rule
+
+Every KHDS Pattern must reference:
+
+- Supporting restaurants
+- Research documents
+- Date promoted
+- KHDS version
+- Reviewer
+
+Patterns without traceable evidence cannot become KHDS Principles.
 
 # Rule
 
