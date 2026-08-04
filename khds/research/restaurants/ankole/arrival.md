@@ -19,7 +19,7 @@ Restaurant identity is communicated through imagery, typography, and pacing befo
 
 ---
 
-## Initial Insight
+## Interpretation
 
 The website delays functional information in favour of emotional immersion.
 
