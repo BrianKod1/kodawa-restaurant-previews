@@ -2,7 +2,7 @@
 
 ## Purpose
 
-Compare how independent restaurant websites use photography to communicate atmosphere, quality, identity, and story.
+Compare how independent restaurant websites use photography to communicate food, atmosphere, place, process, and identity.
 
 Kodawa Labs concepts may be referenced separately for validation, but they are not treated as independent hospitality evidence.
 
@@ -12,6 +12,7 @@ Kodawa Labs concepts may be referenced separately for validation, but they are n
 
 - Ankole
 - Cultiva
+- Talisman
 
 ---
 
@@ -21,24 +22,24 @@ Kodawa Labs concepts may be referenced separately for validation, but they are n
 
 The Trunk & Tandoor Concept is reviewed separately as a Kodawa Labs interpretation of hospitality principles.
 
-It does not carry the same evidentiary role as Ankole or Cultiva.
+It does not carry the same evidentiary role as Ankole, Cultiva, or Talisman.
 
 ---
 
 ## Common Behaviours
 
-Ankole and Cultiva both use authentic photography as a primary storytelling system.
+Ankole, Cultiva, and Talisman all use photography as a primary source of meaning.
 
-In both experiences:
+Across the three experiences:
 
-- photography occupies substantial visual space
-- imagery communicates atmosphere before detailed explanation
-- food is presented as part of the restaurant’s identity
-- photography supports perceived quality
-- images carry narrative meaning rather than serving only as decoration
-- the visual language remains consistent with the restaurant’s broader brand
+- imagery communicates more than decoration
+- food photography creates appetite
+- environmental photography helps establish place
+- photography supports the restaurant’s story
+- visual evidence strengthens written claims
+- guests are shown aspects of the experience before visiting
 
-Both restaurants allow imagery to communicate qualities that would be weaker if expressed only through copy.
+None of the three relies on decorative graphics to carry the restaurant’s identity.
 
 ---
 
@@ -46,44 +47,29 @@ Both restaurants allow imagery to communicate qualities that would be weaker if 
 
 ### Photographic Approach
 
-Ankole uses photography to communicate place, polish, food quality, and the character of the physical environment.
+Ankole uses photography to communicate refinement, place, and the finished dining environment.
 
-Its imagery feels atmospheric, refined, and closely connected to the dining space.
+The visual language feels controlled, polished, and cohesive.
 
 ### Primary Subjects
 
-- restaurant interiors
-- architectural details
-- food
-- lighting
-- table settings
+- interiors
+- architecture
+- finished dishes
 - environmental atmosphere
+- restaurant spaces
 
 ### Narrative Role
 
-Photography helps the guest imagine the physical experience of dining at Ankole.
+The imagery helps the guest imagine what it would feel like to enter and dine in the restaurant.
 
-The imagery communicates:
-
-- sophistication
-- comfort
-- warmth
-- scale
-- ambience
-- perceived quality
+Photography carries much of the brand’s emotional meaning without requiring extensive explanation.
 
 ### Distinctive Behaviour
 
-Ankole’s photography is strongly destination-led.
+Ankole uses photography as spatial proof.
 
-It focuses on what the guest will encounter when they arrive:
-
-- the space
-- the food
-- the mood
-- the visual quality of the restaurant
-
-The restaurant environment itself becomes part of the story.
+Its images validate the restaurant’s premium atmosphere and sense of place.
 
 ---
 
@@ -91,77 +77,100 @@ The restaurant environment itself becomes part of the story.
 
 ### Photographic Approach
 
-Cultiva uses photography to reveal the wider system behind the restaurant.
+Cultiva uses photography to reveal the wider system behind the dining experience.
 
-Its imagery connects:
+Its imagery extends beyond completed dishes to include:
 
-- farming
 - ingredients
+- farming
 - people
-- culinary craft
-- finished dishes
+- preparation
 - community
+- cultural activity
+- the restaurant environment
 
 ### Primary Subjects
 
-- farm environments
+- food
 - produce
-- restaurant team
-- food preparation context
-- finished dishes
-- cultural and community activity
+- farming
+- people
+- process
+- community
+- events
+- environment
 
 ### Narrative Role
 
-Photography provides evidence for Cultiva’s farm-to-table and community-led worldview.
+The photography explains how Cultiva’s worldview becomes visible in practice.
 
-The imagery communicates:
+It provides evidence that cultivation is not only a written idea.
 
-- authenticity
-- craftsmanship
-- sustainability
-- collaboration
-- abundance
-- creativity
+It appears through food, people, land, and participation.
 
 ### Distinctive Behaviour
 
-Cultiva does not show only the finished hospitality product.
+Cultiva uses photography to reveal the system behind the plate.
 
-It also reveals the process, people, and environments that produce it.
+The imagery connects the final dining experience to the people, ingredients, and processes that produce it.
 
-This creates a clear visual sequence:
+---
 
-Farm
+## Talisman
 
-↓
+### Photographic Approach
 
-People
+Talisman uses photography to communicate several layers of the hospitality experience.
 
-↓
+Its imagery covers:
 
-Ingredients
+- food
+- interiors
+- ambience
+- environment
+- heritage
+- art
+- physical character
 
-↓
+### Primary Subjects
 
-Craft
+- finished dishes
+- dining spaces
+- interior details
+- garden and environment
+- art
+- the old-house setting
 
-↓
+### Narrative Role
 
-Finished Dish
+The imagery helps the guest understand both what Talisman serves and what kind of place it is.
+
+Food creates appetite.
+
+Interiors communicate ambience.
+
+Environmental and historical context support the restaurant’s sense of continuity.
+
+Art adds another layer of cultural identity.
+
+### Distinctive Behaviour
+
+Talisman uses photography to communicate accumulated character.
+
+Its visual story is broader and more layered than a purely food-led or interior-led approach.
 
 ---
 
 ## Key Similarities
 
-Both restaurants:
+All three restaurants:
 
-- rely on authentic photography
-- use imagery as a primary storytelling device
-- communicate quality visually
-- support atmosphere through photographic consistency
-- avoid depending on decorative graphics to explain identity
-- use photography to create desire before detailed information
+- use authentic restaurant photography
+- rely on imagery to establish trust
+- communicate physical atmosphere visually
+- show food as part of the brand experience
+- use photography to support narrative
+- avoid treating imagery as filler
 
 ---
 
@@ -169,35 +178,44 @@ Both restaurants:
 
 ### Ankole
 
-- photography is primarily place-led
-- the physical restaurant environment is central
-- imagery helps the guest imagine arrival and presence
-- refinement and ambience carry the story
-- the emphasis is on the hospitality outcome
+- photography focused on refinement and place
+- highly controlled visual language
+- strong emphasis on interiors and finished experience
+- imagery feels curated and restrained
+- photography primarily communicates polish
 
 ### Cultiva
 
-- photography is primarily system-led
-- farming, people, produce, and process are central
-- imagery explains where the experience comes from
-- authenticity and cultivation carry the story
-- the emphasis includes both process and outcome
+- photography focused on process and ecosystem
+- shows food before and behind the plate
+- strong emphasis on people, produce, and participation
+- imagery feels active and purpose-led
+- photography primarily communicates worldview in practice
+
+### Talisman
+
+- photography focused on multiple layers of experience
+- combines food, interiors, environment, heritage, and art
+- strong emphasis on accumulated physical character
+- imagery feels rich and varied
+- photography primarily communicates continuity and destination identity
 
 ---
 
-## Existing Candidate Pattern Strengthened
+## Existing Pattern Strengthened
 
 ### Photography Before Decoration
 
-Both restaurants demonstrate that authentic photography can communicate:
+All three restaurants use authentic imagery as a primary communication tool.
 
+Photography carries:
+
+- emotion
+- appetite
 - atmosphere
-- quality
-- identity
+- place
 - story
-- emotional value
-
-more effectively than unrelated decorative graphics.
+- credibility
 
 Status:
 
@@ -207,6 +225,35 @@ Independent Evidence:
 
 - Ankole
 - Cultiva
+- Talisman
+
+Confidence:
+
+Medium to High
+
+---
+
+## Existing Pattern Strengthened
+
+### Photography as Proof
+
+All three restaurants use photography as evidence of brand claims.
+
+The proof differs:
+
+- Ankole proves refinement and place.
+- Cultiva proves process, people, and cultivation.
+- Talisman proves ambience, character, heritage, and artistic identity.
+
+Status:
+
+Emerging
+
+Independent Evidence:
+
+- Ankole
+- Cultiva
+- Talisman
 
 Confidence:
 
@@ -214,11 +261,15 @@ Medium
 
 ---
 
-## New Candidate Pattern
+## Existing Candidate Pattern Strengthened
 
 ### Show the System Behind the Plate
 
-Hospitality photography becomes more credible when it reveals the people, ingredients, environments, and processes behind the finished dish.
+Cultiva demonstrates that food photography can become more meaningful when the guest also sees the ingredients, farming, people, and processes behind the final dish.
+
+Talisman partially supports the broader idea by showing several layers of the restaurant experience, but it does not reveal the production system as clearly as Cultiva.
+
+Ankole focuses more strongly on the finished environment and completed experience.
 
 Status:
 
@@ -230,9 +281,7 @@ Observed In:
 
 Partially Supported By:
 
-- Ankole
-
-Ankole strongly communicates the finished hospitality experience, but the current evidence provides less emphasis on the production system behind it.
+- Talisman
 
 Confidence:
 
@@ -240,114 +289,212 @@ Low to Medium
 
 Needs Confirmation:
 
-- other farm-to-table restaurants
-- chef-led restaurants
-- sustainability-focused hospitality brands
+- farm-to-table restaurants
+- chef-led concepts
+- sustainability-led hospitality brands
 
 ---
 
-## Possible Supporting Pattern
+## Candidate Pattern
 
-### Photography as Proof
+### Photography Through Layers of Experience
 
-Photography can strengthen hospitality claims by visually demonstrating the qualities described in the brand story.
+A hospitality website can create a fuller understanding of the restaurant by showing multiple dimensions of the experience instead of relying on one photographic subject.
 
-Cultiva uses photography as proof of:
+Possible dimensions include:
 
-- farming
-- ingredient sourcing
-- community
-- craftsmanship
-
-Ankole uses photography as proof of:
-
-- atmosphere
-- physical quality
-- refinement
-- dining environment
+- food
+- interiors
+- environment
+- people
+- process
+- heritage
+- art
+- culture
 
 Status:
 
-Observed
+Candidate
+
+Observed In:
+
+- Talisman
+
+Partially Supported By:
+
+- Cultiva
+- Ankole
 
 Confidence:
 
 Low to Medium
 
-Further research is required before this becomes a formal candidate pattern.
+Needs Confirmation:
+
+- Tamarind
+- Carnivore
+- other destination-led restaurants
+
+---
+
+## Supporting Behaviour
+
+### Place as Visual Evidence
+
+Interior and environmental photography help guests understand the physical setting before visiting.
+
+Status:
+
+Observed
+
+Observed In:
+
+- Ankole
+- Talisman
+
+Partially Supported By:
+
+- Cultiva
+
+Confidence:
+
+Medium
+
+This remains a supporting behaviour because it currently sits within broader patterns around photography, atmosphere, and story through place.
+
+---
+
+## Supporting Behaviour
+
+### Food as Sensory Entry Point
+
+Food photography can create immediate appetite and motivate continued exploration.
+
+Status:
+
+Observed
+
+Observed In:
+
+- Ankole
+- Cultiva
+- Talisman
+
+Confidence:
+
+Medium
+
+This is a common behaviour, but the current evidence does not justify treating it as a separate formal KHDS pattern.
 
 ---
 
 ## Kodawa Labs Concept Validation
 
-The Trunk & Tandoor Concept also uses photography as a primary storytelling device.
+The Trunk & Tandoor Concept uses photography to create:
 
-It relies on:
+- cinematic atmosphere
+- visual pacing
+- emotional immersion
+- sensory anticipation
+- restaurant identity
 
-- cinematic food photography
-- atmospheric imagery
-- dark visual tones
-- close-up detail
-- restrained supporting copy
-- paced visual reveals
+The concept strongly applies Photography Before Decoration.
 
-The concept aligns with the broader behaviour observed independently in Ankole and Cultiva:
+Its imagery is used structurally rather than as background filler.
 
-Photography carries the narrative rather than merely illustrating written content.
-
-However, the concept should be treated as validation of Kodawa Labs execution, not as additional independent evidence.
+However, it remains a Kodawa Labs validation reference and is not counted as additional independent evidence.
 
 ---
 
 ## Comparison Insight
 
-Ankole and Cultiva demonstrate that hospitality photography can tell different kinds of stories.
+Ankole, Cultiva, and Talisman show that hospitality photography can serve different strategic roles.
 
-Ankole answers:
+Ankole uses photography to answer:
 
-“What will it feel like to be there?”
+“What will the place feel like?”
 
-Cultiva answers:
+Cultiva uses photography to answer:
 
-“What people, values, and processes make this experience possible?”
+“What people, ingredients, and processes create this experience?”
 
-Both approaches are valuable.
+Talisman uses photography to answer:
+
+“What food, history, space, and character make this destination distinctive?”
 
 The transferable principle is therefore not:
 
-“Every restaurant should use the same type of photography.”
+“Every restaurant website should use the same image style.”
 
 It is:
 
-“Photography should reveal the most important truth about the restaurant.”
+“Photography should reveal something meaningful that words alone cannot prove.”
 
-For one restaurant, that truth may be place and atmosphere.
+Depending on the restaurant, photography may reveal:
 
-For another, it may be process, provenance, people, or craftsmanship.
+- place
+- process
+- product
+- people
+- atmosphere
+- heritage
+- culture
+- continuity
+
+---
+
+## Tension Identified
+
+### Curation Versus Completeness
+
+Ankole demonstrates the strength of a tightly controlled photographic language.
+
+Cultiva and Talisman demonstrate the value of showing more layers of the hospitality experience.
+
+This creates an important research tension:
+
+A broader image collection may create richness and credibility, but too much visual variety can weaken hierarchy and consistency.
+
+KHDS should not automatically prefer fewer or more images.
+
+The correct approach should depend on:
+
+- what the brand needs to prove
+- the quality of the photography
+- the strength of the sequence
+- the number of meaningful subjects
+- the mobile experience
+- the role of each image in the narrative
+
+Status:
+
+Observed Research Tension
+
+Confidence:
+
+Medium
 
 ---
 
 ## Confidence
 
-Medium
+Medium to High
 
 ### Reason
 
-Photography Before Decoration is clearly supported across two independent restaurant experiences with different visual approaches:
+Photography Before Decoration now appears clearly across three independent restaurant websites with different visual strategies.
 
-- Ankole
-- Cultiva
+Photography as Proof also receives stronger support because the imagery consistently validates brand claims across place, process, food, and heritage.
 
-The Trunk & Tandoor Concept applies the same broader behaviour but remains a Kodawa Labs validation reference.
-
-Show the System Behind the Plate remains a candidate because it is strongly visible in Cultiva but requires further independent confirmation.
+The newer findings—Photography Through Layers of Experience and Show the System Behind the Plate—still require further independent confirmation.
 
 ---
 
 ## Next Validation Targets
 
-- Talisman
 - Tamarind
+- Carnivore
 - Oretta
 - additional farm-to-table restaurants
-- additional chef-led hospitality brands
+- additional heritage-led restaurants
+- additional highly curated premium restaurants

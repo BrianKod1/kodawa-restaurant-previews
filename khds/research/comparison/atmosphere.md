@@ -2,7 +2,7 @@
 
 ## Purpose
 
-Compare how independent restaurant websites create a coherent emotional environment and identify the behaviours that make atmosphere transferable across hospitality experiences.
+Compare how independent restaurant websites create atmosphere and identify recurring or contrasting hospitality behaviours.
 
 Kodawa Labs concepts may be referenced separately for validation, but they are not treated as independent hospitality evidence.
 
@@ -12,6 +12,7 @@ Kodawa Labs concepts may be referenced separately for validation, but they are n
 
 - Ankole
 - Cultiva
+- Talisman
 
 ---
 
@@ -21,26 +22,24 @@ Kodawa Labs concepts may be referenced separately for validation, but they are n
 
 The Trunk & Tandoor Concept is reviewed separately as a Kodawa Labs interpretation of hospitality principles.
 
-It does not carry the same evidentiary role as Ankole or Cultiva.
+It does not carry the same evidentiary role as Ankole, Cultiva, or Talisman.
 
 ---
 
 ## Common Behaviours
 
-Ankole and Cultiva both create atmosphere through consistency rather than through one isolated visual element.
+Ankole, Cultiva, and Talisman all create atmosphere through more than visual styling alone.
 
-In both experiences:
+Across the three experiences:
 
-- photography supports the restaurant’s identity
-- typography reinforces the emotional tone
-- spacing and pacing contribute to the mood
-- colour supports the overall brand world
-- the website avoids disconnected visual styles
-- atmosphere is sustained across multiple sections
+- photography carries emotional meaning
+- the physical restaurant matters
+- story and place influence mood
+- typography and language support the restaurant identity
+- practical information does not fully replace emotional presentation
+- atmosphere is created through several reinforcing signals
 
-Neither restaurant relies on one decorative device to create a premium feeling.
-
-The atmosphere emerges from the relationship between the elements.
+Each restaurant produces a different emotional world, but all three depend on consistency between what the restaurant says, shows, and represents.
 
 ---
 
@@ -48,30 +47,29 @@ The atmosphere emerges from the relationship between the elements.
 
 ### Atmospheric Approach
 
-Ankole creates atmosphere primarily through visual cohesion, restraint, and a strong sense of place.
+Ankole creates atmosphere through visual polish, restraint, spatial presence, and a strong sense of place.
 
-Its digital environment feels polished, composed, and premium.
+The website allows photography and controlled presentation to communicate much of the restaurant’s character.
 
 ### Primary Atmospheric Tools
 
-- immersive restaurant photography
-- restrained typography
-- warm visual tones
+- refined interior photography
+- strong visual hierarchy
+- restrained copy
 - controlled spacing
-- consistent layout rhythm
-- clear brand presence
+- premium presentation
+- environmental imagery
+- clear brand identity
 
 ### Emotional Effect
 
-The experience feels refined, confident, and grounded in the physical restaurant environment.
+The guest is invited to imagine a polished, composed, and premium physical experience.
 
 ### Distinctive Behaviour
 
-Ankole’s atmosphere is strongly place-led.
+Ankole creates atmosphere through refinement.
 
-The website uses imagery and visual composition to help the guest imagine being inside the restaurant.
-
-Its atmosphere is communicated more through physical environment and presentation than through an explicit ideological message.
+Its mood is built by visual control, place, and restraint.
 
 ---
 
@@ -79,56 +77,83 @@ Its atmosphere is communicated more through physical environment and presentatio
 
 ### Atmospheric Approach
 
-Cultiva creates atmosphere through a combination of visual consistency and a coherent worldview.
+Cultiva creates atmosphere through worldview, cultivation, community, and purpose.
 
-Its digital environment connects food, farming, sustainability, people, creativity, culture, and community.
+Its digital mood is not limited to the dining room.
+
+The restaurant presents a broader ecosystem involving food, farming, people, culture, sustainability, and participation.
 
 ### Primary Atmospheric Tools
 
 - expressive language
-- organic and colourful photography
-- farming imagery
-- food imagery
-- team and community imagery
-- sustainability narratives
+- farm and ingredient imagery
+- people and community
 - cultural programming
-- repeated references to cultivation
+- sustainability narrative
+- strong organising idea
+- emotional promise
 
 ### Emotional Effect
 
-The experience feels organic, generous, soulful, creative, and alive.
+The guest is invited to imagine a restaurant that feels alive, purposeful, and connected to something larger than the meal.
 
 ### Distinctive Behaviour
 
-Cultiva’s atmosphere is not created only through visual styling.
+Cultiva creates atmosphere through worldview.
 
-It is also created through ideological consistency.
+Its mood comes from what the restaurant believes and how that belief appears across food, farming, people, and culture.
 
-The same central belief appears across:
+---
 
-- food
-- farming
-- education
-- sustainability
-- community
+## Talisman
+
+### Atmospheric Approach
+
+Talisman creates atmosphere through heritage, physical setting, continuity, and accumulated character.
+
+The website connects the restaurant’s current experience to:
+
+- the old house
+- Karen
+- the garden
+- its interiors
+- its food
 - art
-- music
-- guest experience
+- its established history
 
-This gives the website a coherent emotional world.
+### Primary Atmospheric Tools
+
+- interior photography
+- food photography
+- historical storytelling
+- environmental imagery
+- art
+- the old-house origin
+- garden references
+- fine-dining positioning
+
+### Emotional Effect
+
+The guest is invited to imagine a place that feels established, warm, intimate, and lived-in.
+
+### Distinctive Behaviour
+
+Talisman creates atmosphere through continuity.
+
+Its mood feels accumulated over time rather than newly constructed.
 
 ---
 
 ## Key Similarities
 
-Both restaurants:
+All three restaurants:
 
-- create atmosphere through multiple coordinated elements
-- maintain a consistent emotional tone
-- use authentic photography as a major atmospheric tool
-- avoid visual fragmentation
-- connect the digital experience to the physical restaurant
-- use pacing and spacing to support mood
+- use authentic photography
+- connect atmosphere to restaurant identity
+- communicate more than operational information
+- allow place to influence mood
+- create emotional context before complete practical evaluation
+- align several visual and narrative signals
 
 ---
 
@@ -136,35 +161,41 @@ Both restaurants:
 
 ### Ankole
 
-- atmosphere is primarily visual and place-led
-- the physical restaurant environment carries much of the emotional message
-- restraint and polish are central
-- the mood feels composed and refined
+- atmosphere through refinement
+- restrained and visually controlled
+- strongly place-led
+- premium through polish
+- mood created through spatial presentation
 
 ### Cultiva
 
-- atmosphere is both visual and ideological
-- the restaurant’s worldview carries much of the emotional message
-- expressive storytelling and community are central
-- the mood feels organic, abundant, and culturally active
+- atmosphere through worldview
+- expressive and purpose-led
+- extends beyond the dining room
+- premium through meaning and participation
+- mood created through ideas, people, food systems, and culture
+
+### Talisman
+
+- atmosphere through continuity
+- historical and layered
+- strongly tied to house, garden, art, and place
+- premium through accumulated character
+- mood created through heritage and physical identity
 
 ---
 
-## Existing Candidate Pattern Strengthened
+## Existing Pattern Strengthened
 
 ### Atmosphere Through Consistency
 
-Both restaurants demonstrate that atmosphere emerges when multiple systems communicate the same emotional message.
+All three restaurants create a coherent emotional world by aligning several parts of the digital experience.
 
-These systems include:
+The consistency appears differently:
 
-- photography
-- typography
-- colour
-- spacing
-- pacing
-- layout
-- narrative
+- Ankole aligns visual polish, restraint, and place.
+- Cultiva aligns worldview, people, food, and purpose.
+- Talisman aligns heritage, environment, art, food, and reputation.
 
 Status:
 
@@ -174,6 +205,30 @@ Independent Evidence:
 
 - Ankole
 - Cultiva
+- Talisman
+
+Confidence:
+
+Medium to High
+
+---
+
+## Existing Pattern Strengthened
+
+### Story Through Place
+
+Ankole and Talisman both use the physical restaurant as an important part of atmosphere and identity.
+
+Talisman strengthens this further by connecting place to history and continuity.
+
+Status:
+
+Emerging
+
+Independent Evidence:
+
+- Ankole
+- Talisman
 
 Confidence:
 
@@ -181,11 +236,13 @@ Medium
 
 ---
 
-## New Candidate Pattern
+## Existing Candidate Pattern Strengthened
 
 ### Atmosphere Through Worldview
 
-A hospitality atmosphere becomes stronger when the restaurant’s values, language, imagery, offerings, and cultural activity express one coherent belief.
+Cultiva demonstrates that atmosphere can emerge from a restaurant’s beliefs, values, and wider ecosystem rather than only from interiors or visual style.
+
+Ankole and Talisman partially support the broader idea that atmosphere can come from a coherent identity, but they do not communicate worldview as explicitly.
 
 Status:
 
@@ -198,8 +255,7 @@ Observed In:
 Partially Supported By:
 
 - Ankole
-
-Ankole supports coherence and identity, but its atmosphere is less explicitly organised around a stated worldview.
+- Talisman
 
 Confidence:
 
@@ -207,83 +263,213 @@ Low to Medium
 
 Needs Confirmation:
 
+- additional purpose-led restaurants
+- cultural hospitality venues
+- community-led dining concepts
+
+---
+
+## Candidate Pattern
+
+### Atmosphere Through Continuity
+
+A hospitality experience can build emotional depth when the website communicates that the restaurant has developed over time within a recognisable physical setting.
+
+Status:
+
+Candidate
+
+Observed In:
+
 - Talisman
+
+Partially Supported By:
+
+- Ankole
+
+Confidence:
+
+Low to Medium
+
+Needs Confirmation:
+
 - Tamarind
-- other purpose-led hospitality brands
+- Carnivore
+- other heritage-led hospitality brands
+
+---
+
+## Candidate Pattern
+
+### Accumulated Character
+
+A restaurant may communicate premium value through visible history, physical detail, art, setting, and continuity rather than through minimalism or visual perfection alone.
+
+Status:
+
+Candidate
+
+Observed In:
+
+- Talisman
+
+Partially Supported By:
+
+- Ankole
+
+Confidence:
+
+Low
+
+Needs Confirmation:
+
+- additional long-established restaurants
+- heritage venues
+- destination-led hospitality brands
+
+---
+
+## Supporting Behaviour
+
+### Place as Emotional Evidence
+
+Interior and environmental photography can make atmosphere believable by showing the physical setting in which the hospitality experience occurs.
+
+Status:
+
+Observed
+
+Observed In:
+
+- Ankole
+- Talisman
+
+Partially Supported By:
+
+- Cultiva
+
+Confidence:
+
+Medium
+
+This remains a supporting behaviour because the evidence does not yet establish it as a separate formal pattern.
 
 ---
 
 ## Kodawa Labs Concept Validation
 
-The Trunk & Tandoor Concept also creates atmosphere through consistency.
-
-It uses:
+The Trunk & Tandoor Concept applies atmosphere through:
 
 - cinematic photography
-- restrained copy
-- dark visual tones
-- deliberate spacing
+- restrained typography
 - controlled pacing
-- cohesive typography
+- dark tonal presentation
+- progressive visual reveal
+- minimal interface interruption
 
-The concept aligns strongly with the visual-consistency behaviour observed in Ankole.
+The concept aligns with the broader independent finding that atmosphere emerges when visual, narrative, and interaction systems communicate one emotional world.
 
-It also demonstrates how a Kodawa Labs concept can apply the existing KHDS atmosphere principle in production.
-
-However, it should not be counted as independent evidence for promoting the pattern.
+However, it remains a Kodawa Labs validation reference and is not counted as additional independent evidence.
 
 ---
 
 ## Comparison Insight
 
-Ankole and Cultiva show that atmosphere can be coherent without being visually identical.
+Ankole, Cultiva, and Talisman demonstrate that atmosphere is not a fixed visual style.
 
-Ankole creates atmosphere through:
+Ankole shows:
 
-- place
-- restraint
-- refinement
-- visual consistency
+Atmosphere through refinement.
 
-Cultiva creates atmosphere through:
+Cultiva shows:
 
-- worldview
-- abundance
-- community
-- ideological and visual consistency
+Atmosphere through worldview.
+
+Talisman shows:
+
+Atmosphere through continuity.
 
 The transferable principle is therefore not:
 
-“Premium restaurant websites should all look restrained and cinematic.”
+“Premium restaurants should all look minimal, dark, or cinematic.”
 
 It is:
 
-“Every part of the experience should reinforce the same emotional world.”
+“Every visual and narrative signal should reinforce the same emotional identity.”
 
-Cultiva extends this idea further by showing that the emotional world may be built from meaning and values as much as from visual design.
+Atmosphere may be created through:
+
+- refinement
+- worldview
+- heritage
+- people
+- food
+- architecture
+- culture
+- place
+- continuity
+
+What matters is coherence.
+
+---
+
+## Tension Identified
+
+### Richness Versus Restraint
+
+Ankole demonstrates the value of restraint.
+
+Cultiva and Talisman demonstrate the value of richness.
+
+This creates an important research tension:
+
+A hospitality website may gain emotional depth from many layers, but too many competing signals can weaken pacing and hierarchy.
+
+KHDS should not automatically prefer minimalism or abundance.
+
+The correct level of richness should depend on:
+
+- the restaurant’s identity
+- the strength of its story
+- the quality of its photography
+- the clarity of its hierarchy
+- the needs of mobile users
+
+Status:
+
+Observed Research Tension
+
+Confidence:
+
+Medium
 
 ---
 
 ## Confidence
 
-Medium
+Medium to High
 
 ### Reason
 
-Atmosphere Through Consistency appears clearly across two independent restaurant experiences:
+Atmosphere Through Consistency now appears across three independent restaurant websites with distinct identities.
 
-- Ankole
-- Cultiva
+The pattern survives across:
 
-The Trunk & Tandoor Concept also applies the same behaviour, but remains a Kodawa Labs validation reference.
+- restrained visual hospitality
+- purpose-led hospitality
+- heritage-led hospitality
 
-Atmosphere Through Worldview remains a candidate because it is strongly visible in Cultiva but requires confirmation from additional independent restaurants.
+That strengthens the broader principle.
+
+The newer findings—Atmosphere Through Continuity, Accumulated Character, and Atmosphere Through Worldview—still require further independent confirmation.
 
 ---
 
 ## Next Validation Targets
 
-- Talisman
 - Tamarind
+- Carnivore
 - Oretta
-- additional purpose-led premium hospitality websites
+- additional heritage-led restaurants
+- additional purpose-led restaurants
+- additional highly restrained premium restaurants

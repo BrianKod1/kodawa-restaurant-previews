@@ -12,6 +12,7 @@ Kodawa Labs concepts may be referenced separately for validation, but they are n
 
 - Ankole
 - Cultiva
+- Talisman
 
 ---
 
@@ -21,23 +22,24 @@ Kodawa Labs concepts may be referenced separately for validation, but they are n
 
 The Trunk & Tandoor Concept is reviewed separately as a Kodawa Labs interpretation of hospitality principles.
 
-It does not carry the same evidentiary role as Ankole or Cultiva.
+It does not carry the same evidentiary role as Ankole, Cultiva, or Talisman.
 
 ---
 
 ## Common Behaviours
 
-Ankole and Cultiva both establish emotional context before presenting detailed operational information.
+Ankole, Cultiva, and Talisman all establish emotional or experiential value before reducing the restaurant to practical information.
 
-Both experiences:
+Across the three experiences:
 
-- communicate atmosphere before logistics
-- establish restaurant identity early
-- avoid beginning with a feature list
-- make reservation accessible near the beginning
-- allow the guest to understand the character of the restaurant before exploring practical details
+- photography plays an important role
+- restaurant identity is established early
+- reservation remains accessible
+- the opening avoids behaving like a simple feature list
+- atmosphere, story, food, or place create interest before complete operational detail
+- guests can continue exploring before committing
 
-These behaviours strengthen the idea that premium hospitality arrival is designed to create confidence and desire before delivering complete information.
+Each restaurant creates confidence differently, but none begins with logistics alone.
 
 ---
 
@@ -47,9 +49,9 @@ These behaviours strengthen the idea that premium hospitality arrival is designe
 
 Ankole introduces the guest primarily through visual atmosphere, brand presence, and controlled pacing.
 
-The arrival feels image-led and restrained.
+The arrival feels image-led, polished, and restrained.
 
-Practical information is available, but it does not dominate the initial experience.
+Practical information remains accessible without dominating the first impression.
 
 ### Primary Arrival Tools
 
@@ -58,16 +60,17 @@ Practical information is available, but it does not dominate the initial experie
 - restrained opening information
 - visible navigation
 - accessible reservation action
+- clear sense of place
 
 ### Emotional Effect
 
-The guest is invited to experience the restaurant’s atmosphere before examining its details.
+The guest is invited to imagine the physical atmosphere before examining the restaurant’s full offering.
 
 ### Distinctive Behaviour
 
-Ankole balances emotional presentation with relatively clear operational access.
+Ankole creates confidence through visual polish, restraint, and environmental presence.
 
-Its arrival relies more heavily on visual communication than expressive written language.
+Its arrival is primarily place-led.
 
 ---
 
@@ -79,37 +82,88 @@ Cultiva introduces the guest through an explicit emotional promise:
 
 “Where flavors transcend and souls flourish.”
 
-The message presents the restaurant as a transformative and soulful experience before menu details, farming information, events, or operational content appear.
+The opening presents the restaurant as a soulful and transformative experience before detailed information about food, farming, community, events, or operations.
 
 ### Primary Arrival Tools
 
 - expressive opening statement
-- clear brand philosophy
-- immediate “Book Your Table” action
 - emotional language
+- clear restaurant philosophy
+- immediate “Book Your Table” action
 - access to continued exploration
 
 ### Emotional Effect
 
-The guest is invited to imagine the personal and sensory value of the experience.
+The guest is invited to imagine the sensory and personal value of the experience.
 
 ### Distinctive Behaviour
 
-Cultiva combines emotion with direct verbal storytelling.
+Cultiva combines imagery with a direct written promise.
 
-Unlike Ankole’s more image-led introduction, Cultiva clearly states the emotional promise it wants the guest to expect.
+Its arrival is primarily worldview-led.
+
+---
+
+## Talisman
+
+### Arrival Approach
+
+Talisman introduces the guest through several connected layers rather than one dominant message.
+
+The homepage creates initial appetite through food imagery, then expands the experience through restaurant history, interior atmosphere, place, reputation, and reservation access.
+
+### Primary Arrival Tools
+
+- food imagery
+- sensory language
+- restaurant history
+- the old-house origin
+- the Karen setting
+- interior and environmental photography
+- menu and reservation access
+
+### Emotional Effect
+
+The guest moves from appetite into historical understanding and then into an imagined sense of place.
+
+### Distinctive Behaviour
+
+Talisman creates confidence through accumulated character.
+
+Its arrival connects:
+
+Food
+
+↓
+
+Heritage
+
+↓
+
+Place
+
+↓
+
+Ambience
+
+↓
+
+Action
+
+The arrival is layered rather than purely food-led, place-led, or philosophy-led.
 
 ---
 
 ## Key Similarities
 
-Both restaurants:
+All three restaurants:
 
-- lead with emotion rather than logistics
-- establish identity before detailed information
+- establish value before complete operational detail
+- use authentic photography
+- present the restaurant as more than a menu
 - preserve access to reservation
-- avoid forcing every guest through the full website before booking
-- treat arrival as part of the hospitality experience
+- allow guests to explore before committing
+- communicate emotional or experiential character early
 
 ---
 
@@ -117,25 +171,38 @@ Both restaurants:
 
 ### Ankole
 
-- leads primarily through imagery and atmosphere
-- uses more restrained verbal communication
-- balances emotional introduction with clearer operational orientation
-- creates confidence through visual presence and pacing
+- leads primarily through place and visual atmosphere
+- uses restrained written communication
+- creates confidence through polish and pacing
+- feels controlled and image-led
 
 ### Cultiva
 
-- leads through an emotional written promise
-- uses more expressive and aspirational language
-- introduces the restaurant’s worldview immediately
-- creates desire through language as well as imagery
+- leads through emotional promise and worldview
+- uses expressive and aspirational language
+- introduces purpose immediately
+- creates desire through meaning as well as imagery
+
+### Talisman
+
+- leads through several connected layers
+- begins with food, then expands into heritage and place
+- creates confidence through continuity and reputation
+- feels richer and less restrained
 
 ---
 
-## Existing Candidate Patterns Strengthened
+## Existing Pattern Strengthened
 
 ### Emotion Before Interface
 
-Both restaurants create an emotional impression before presenting detailed functional information.
+All three restaurants establish an emotional or experiential impression before presenting the full functional offering.
+
+The method differs:
+
+- Ankole uses place and atmosphere.
+- Cultiva uses promise and worldview.
+- Talisman uses food, heritage, and place.
 
 Status:
 
@@ -145,16 +212,19 @@ Independent Evidence:
 
 - Ankole
 - Cultiva
+- Talisman
 
 Confidence:
 
-Medium
+Medium to High
 
 ---
+
+## Existing Pattern Strengthened
 
 ### Reservation Throughout the Journey
 
-Both restaurants make reservation accessible near the beginning without allowing it to replace the emotional introduction.
+All three restaurants make reservation accessible without allowing booking to replace the emotional introduction.
 
 Status:
 
@@ -164,28 +234,55 @@ Independent Evidence:
 
 - Ankole
 - Cultiva
+- Talisman
 
 Confidence:
 
-Medium
+Medium to High
 
 ---
 
+## Existing Pattern Strengthened
+
 ### Dual-Path Hospitality
 
-Both experiences support:
+All three experiences support:
 
-- guests who are ready to reserve immediately
+- guests who arrive ready to reserve
 - guests who want to explore before committing
 
 Status:
 
-Candidate
+Emerging
 
 Independent Evidence:
 
 - Ankole
 - Cultiva
+- Talisman
+
+Confidence:
+
+Medium to High
+
+---
+
+## Existing Candidate Pattern Strengthened
+
+### Story Through Place
+
+Ankole and Talisman both use the physical setting as an important part of restaurant identity.
+
+Talisman strengthens this further by connecting place to history and continuity.
+
+Status:
+
+Emerging
+
+Independent Evidence:
+
+- Ankole
+- Talisman
 
 Confidence:
 
@@ -193,13 +290,15 @@ Medium
 
 ---
 
-## New Candidate Pattern
+## Candidate Pattern
 
 ### Promise Before Proof
 
-Cultiva introduces the emotional transformation of the experience before presenting detailed evidence about food, farming, community, or operations.
+Cultiva presents the emotional transformation of the experience before providing detailed evidence about food, farming, culture, or operations.
 
-Ankole supports the broader behaviour of emotion before detail, but it does not express the promise as explicitly through language.
+Ankole partially supports the broader behaviour of emotion before detail, but does not state its promise as explicitly.
+
+Talisman relies more on evidence through food, history, and place than on a single written promise.
 
 Status:
 
@@ -219,78 +318,176 @@ Low to Medium
 
 Needs Confirmation:
 
+- additional promise-led hospitality brands
+
+---
+
+## Candidate Pattern
+
+### Layered Arrival
+
+A hospitality website can build desire and confidence through several connected layers rather than relying on one dominant opening device.
+
+Possible layers include:
+
+- food
+- story
+- heritage
+- place
+- atmosphere
+- reputation
+- reservation
+
+Status:
+
+Candidate
+
+Observed In:
+
 - Talisman
+
+Partially Supported By:
+
+- Ankole
+- Cultiva
+
+Confidence:
+
+Low to Medium
+
+Needs Confirmation:
+
 - Tamarind
-- additional independent premium restaurants
+- Carnivore
+- additional destination-led restaurants
+
+---
+
+## Candidate Pattern
+
+### Heritage Builds Confidence
+
+A restaurant’s history can strengthen guest confidence by demonstrating continuity, reputation, and an established relationship with place.
+
+Status:
+
+Candidate
+
+Observed In:
+
+- Talisman
+
+Confidence:
+
+Low to Medium
+
+Needs Confirmation:
+
+- Tamarind
+- Carnivore
+- other long-established hospitality brands
+
+---
+
+## Supporting Behaviour
+
+### Product as Entry Point
+
+Food can create the initial desire that encourages the guest to continue into story, atmosphere, and action.
+
+Status:
+
+Observed
+
+Observed In:
+
+- Talisman
+
+Confidence:
+
+Low
+
+This remains a supporting behaviour rather than a formal candidate pattern because Talisman’s complete arrival depends on more than food alone.
 
 ---
 
 ## Kodawa Labs Concept Validation
 
-The Trunk & Tandoor Concept also uses an atmosphere-first arrival.
+The Trunk & Tandoor Concept also uses an atmosphere-first and progressively revealed arrival.
 
-It:
+It applies:
 
-- uses restrained copy
-- delays practical information
-- relies on cinematic pacing
-- keeps reservation available
-- prioritises emotional immersion
+- cinematic photography
+- restrained copy
+- controlled pacing
+- progressive information reveal
+- accessible reservation
+- emotional immersion before practical detail
 
-This suggests that the concept aligns with the arrival behaviours observed independently in Ankole and Cultiva.
+The concept aligns with the broader independent finding that premium hospitality arrivals should establish experiential value before presenting the complete offer.
 
-However, it should be treated as validation of Kodawa Labs execution, not as additional independent evidence for promoting the patterns.
+However, it remains a Kodawa Labs validation reference and is not counted as additional independent evidence.
 
 ---
 
 ## Comparison Insight
 
-Ankole and Cultiva demonstrate that emotional arrival does not require one fixed visual formula.
+Ankole, Cultiva, and Talisman demonstrate that strong hospitality arrival does not require one fixed visual formula.
 
-Ankole creates emotion primarily through:
+Ankole answers:
 
-- imagery
-- restraint
-- atmosphere
-- pacing
+“What will it feel like to be there?”
 
-Cultiva creates emotion through:
+Cultiva answers:
 
-- imagery
-- expressive language
-- philosophy
-- direct promise
+“What could this experience mean or awaken?”
+
+Talisman answers:
+
+“What food, history, and place make this destination worth experiencing?”
 
 The transferable principle is therefore not:
 
-“Every premium restaurant should use the same kind of hero.”
+“Every premium restaurant should use the same hero.”
 
 It is:
 
-“The arrival should establish what the experience feels like before explaining everything the restaurant offers.”
+“The arrival should create desire and confidence before explaining everything the restaurant offers.”
+
+That value may come from:
+
+- atmosphere
+- worldview
+- food
+- heritage
+- place
+- or several connected layers
 
 ---
 
 ## Confidence
 
-Medium
+Medium to High
 
 ### Reason
 
-The core arrival behaviour appears across two independent restaurant websites:
+The broader arrival behaviour now appears across three independent restaurant websites with distinct approaches:
 
 - Ankole
 - Cultiva
+- Talisman
 
-The Trunk & Tandoor Concept also applies a similar approach, but it remains a Kodawa Labs validation reference.
+The differences strengthen rather than weaken the finding because the principle survives across multiple brand identities and narrative styles.
 
-Additional independent research is required before these behaviours can be promoted to validated KHDS patterns.
+The newer patterns—Layered Arrival, Heritage Builds Confidence, and Promise Before Proof—still require additional independent confirmation.
 
 ---
 
 ## Next Validation Targets
 
-- Talisman
 - Tamarind
+- Carnivore
 - Oretta
-- additional premium hospitality websites
+- additional heritage-led restaurants
+- additional destination-led restaurants
+- additional purpose-led hospitality brands
