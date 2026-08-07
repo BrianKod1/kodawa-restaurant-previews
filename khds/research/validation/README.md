@@ -8,7 +8,7 @@ It separates:
 
 - independent hospitality evidence
 - Kodawa Labs implementation validation
-- candidate patterns
+- candidate patterns 
 - emerging patterns
 - partially supported findings
 - research tensions
