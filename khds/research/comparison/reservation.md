@@ -2,557 +2,1344 @@
 
 ## Purpose
 
-Compare how independent restaurant websites introduce, structure, and complete the reservation journey.
+Compare how independent restaurants handle reservation access, commitment, confirmation, and guest choice.
 
-Kodawa Labs concepts may be referenced separately for validation, but they are not treated as independent hospitality evidence.
+This file asks:
+
+- How early is reservation introduced?
+- Is booking persistent throughout the guest journey?
+- Is the experience automated or human-assisted?
+- Does the guest receive immediate certainty?
+- How many booking channels exist?
+- How are groups and events handled?
+- What does the reservation model suggest about guest convenience and restaurant control?
+- Which behaviours repeat across different hospitality brands?
+
+The goal is not to define one universal reservation system.
+
+The goal is to identify which reservation behaviours create confidence, flexibility, and hospitality.
 
 ---
 
-## Independent Restaurants Compared
+# Restaurants Compared
 
 - Ankole
 - Cultiva
 - Talisman
+- Mawimbi
+
+All four are treated as independent hospitality research.
+
+Kodawa Labs concepts are excluded from independent evidence counts.
 
 ---
 
-## Kodawa Labs Validation Reference
+# Ankole
 
-- Trunk & Tandoor Concept
+## Reservation Character
 
-The Trunk & Tandoor Concept is reviewed separately as a Kodawa Labs interpretation of reservation principles.
+Persistent, structured, and accessible.
 
-It does not carry the same evidentiary role as Ankole, Cultiva, or Talisman.
+Ankole integrates reservation clearly into the digital experience without forcing the guest to abandon exploration.
 
----
+The booking action remains visible while the broader website continues to communicate:
 
-## Common Behaviours
+- atmosphere
+- food
+- place
+- restaurant identity
 
-Ankole, Cultiva, and Talisman all treat reservation as a core guest action rather than a secondary administrative detail.
+## Reservation Logic
 
-Across the three experiences:
+Discover
 
-- booking is accessible from the main website journey
-- guests can explore before committing
-- reservation does not fully replace storytelling or atmosphere
-- the restaurant encourages action without fake urgency
-- the guest begins the process through the restaurant’s branded digital presence
-- booking is connected to the broader hospitality experience
+↓
 
-The implementation differs, but all three recognise that reservation must remain visible and understandable.
+Explore
 
----
+↓
 
-## Ankole
+Reserve When Ready
 
-### Reservation Approach
+## Strongest Reservation Contribution
 
-Ankole presents reservation as a clear and recurring action within a structured restaurant website journey.
+Ankole demonstrates that booking access can remain persistent without dominating the entire hospitality experience.
 
-Guests can encounter the brand, explore the experience, and move toward booking without needing to search deeply.
+## Patterns Supported
 
-### Primary Reservation Tools
+- Reservation Throughout the Journey
+- Dual-Path Hospitality
+- Commitment Without Pressure
 
-- visible reservation actions
-- structured navigation
-- clear operational information
-- access from multiple stages of the journey
-- support for both exploratory and action-ready guests
+## Partial Support
 
-### Guest Effect
-
-The reservation path feels accessible without dominating the entire experience.
-
-### Distinctive Behaviour
-
-Ankole treats reservation as a persistent but controlled part of the guest journey.
-
-Its approach supports direct action while preserving space for exploration.
+- Own the Guest Relationship
 
 ---
 
-## Cultiva
+# Cultiva
 
-### Reservation Approach
+## Reservation Character
 
-Cultiva introduces reservation early alongside its emotional promise.
+Emotionally integrated and experience-led.
 
-The guest can respond to the restaurant’s positioning immediately or continue exploring its food, philosophy, farming, people, and cultural activity.
+Cultiva places reservation beside a broader narrative around:
 
-### Primary Reservation Tools
+- cultivation
+- food
+- worldview
+- community
+- experience
 
-- early “Book Your Table” action
-- visible reservation access
-- integrated booking pathway
-- continued access to story and exploration
-- external reservation technology connected to the restaurant journey
+Booking does not appear disconnected from the emotional journey.
 
-### Guest Effect
+## Reservation Logic
 
-Cultiva gives immediate access to commitment while preserving the option to understand the restaurant more deeply.
+Promise
 
-### Distinctive Behaviour
+↓
 
-Cultiva places reservation close to the emotional opening.
+Explore
 
-Its approach is the clearest example of immediate dual-path hospitality.
+↓
 
----
+Build Meaning
 
-## Talisman
+↓
 
-### Reservation Approach
+Reserve
 
-Talisman presents reservation within a dedicated homepage section and encourages guests to reserve in advance.
+or
 
-The process appears to involve submitting a request followed by confirmation from the restaurant team through phone or email.
+Ready Guest
 
-### Primary Reservation Tools
+↓
 
-- dedicated reservation section
-- advance-booking guidance
-- direct reservation link
-- telephone contact
-- email contact
-- operating hours and kitchen times
-- later confirmation from the restaurant team
+Reserve
 
-### Guest Effect
+## Strongest Reservation Contribution
 
-The process preserves direct human involvement, but the guest may not receive immediate certainty.
+Cultiva demonstrates that reservation can remain accessible without interrupting a story-led experience.
 
-### Distinctive Behaviour
+## Patterns Supported
 
-Talisman uses a human-confirmed reservation model.
+- Reservation Throughout the Journey
+- Dual-Path Hospitality
+- Commitment Without Pressure
 
-Its approach prioritises direct restaurant involvement over fully automated confirmation.
+## Partial Support
+
+- Own the Guest Relationship
 
 ---
 
-## Key Similarities
+# Talisman
 
-All three restaurants:
+## Reservation Character
 
-- keep reservation visible
-- support guests who want to explore first
-- encourage booking without pressure tactics
-- begin the reservation relationship through the restaurant website
-- connect booking to the wider guest experience
-- provide a clear path toward commitment
+Human-confirmed and request-led.
 
----
+Talisman asks the guest to initiate a reservation request, with confirmation following through restaurant communication.
 
-## Key Differences
+The process therefore preserves human involvement rather than providing complete immediate certainty. :contentReference[oaicite:0]{index=0}
 
-### Ankole
+## Reservation Logic
 
-- reservation is persistent and structured
-- supports exploration and action across the journey
-- feels operationally clear
-- does not appear to overpower the brand experience
+Reservation Request
 
-### Cultiva
+↓
 
-- reservation is introduced very early
-- sits close to the emotional promise
-- gives immediate access to action
-- provides the clearest balance between exploration and booking
+Restaurant Review
 
-### Talisman
+↓
 
-- reservation appears within a dedicated section
-- includes direct phone and email contact
-- relies on later human confirmation
-- preserves personal involvement but delays certainty
+Phone / Email Confirmation
 
----
+↓
 
-## Existing Pattern Strengthened
+Confirmed Visit
 
-### Reservation Throughout the Journey
+## Strongest Reservation Contribution
 
-All three restaurants integrate reservation into the main digital experience rather than hiding it behind deep navigation.
+Talisman demonstrates that reservation can function as a hospitality interaction rather than only an inventory transaction.
 
-The implementation differs:
+However, it also exposes a trade-off between:
 
-- Ankole distributes reservation across a structured journey.
-- Cultiva introduces booking immediately alongside the emotional promise.
-- Talisman presents reservation within a dedicated homepage section and direct contact path.
+- personal service
+- immediate certainty
 
-Status:
+## Patterns Supported
 
-Emerging
-
-Independent Evidence:
-
-- Ankole
-- Cultiva
-- Talisman
-
-Confidence:
-
-Medium to High
-
----
-
-## Existing Pattern Strengthened
-
-### Dual-Path Hospitality
-
-All three restaurants support two types of guests:
-
-- those ready to reserve
-- those who want to continue exploring
-
-Cultiva demonstrates the clearest immediate version.
-
-Ankole supports the behaviour through persistent access.
-
-Talisman supports it through a dedicated booking section after broader exploration.
-
-Status:
-
-Emerging
-
-Independent Evidence:
-
-- Ankole
-- Cultiva
-- Talisman
-
-Confidence:
-
-Medium to High
-
----
-
-## Existing Pattern Strengthened
-
-### Commitment Without Pressure
-
-None of the three appears to rely on:
-
-- fake urgency
-- countdowns
-- aggressive pop-ups
-- pressure-based language
-- interruptive booking prompts
-
-They make reservation accessible without manufacturing anxiety.
-
-Status:
-
-Emerging
-
-Independent Evidence:
-
-- Ankole
-- Cultiva
-- Talisman
-
-Confidence:
-
-Medium
-
----
-
-## Existing Principle Partially Strengthened
-
-### Own the Guest Relationship
-
-All three restaurants begin the reservation journey through their own branded websites.
-
-However, the website evidence does not fully confirm:
-
-- where guest data is stored
-- who owns the reservation record
-- whether third-party platforms retain the relationship
-- how remarketing or follow-up is handled
-- how cancellations and changes are managed
-- whether deposits are processed directly
-
-Talisman appears to preserve stronger direct human involvement through phone and email confirmation.
-
-Cultiva appears to use an external booking platform while keeping the action connected to its own website.
-
-Ankole’s full reservation-data architecture cannot be confirmed from the available research.
-
-Status:
-
-Partially Supported
-
-Independent Evidence:
-
-- Ankole
-- Cultiva
-- Talisman
-
-Confidence:
-
-Medium
-
----
+- Reservation Throughout the Journey
+- Dual-Path Hospitality
+- Commitment Without Pressure
 
 ## Candidate Pattern
 
-### Human Confirmation as Hospitality
+- Human Confirmation as Hospitality
 
-A restaurant may preserve a sense of personal service by having the team confirm reservations directly rather than relying entirely on automated availability.
+## Research Tension
+
+- Personal Service Versus Immediate Certainty
+
+## Partial Support
+
+- Own the Guest Relationship
+
+---
+
+# Mawimbi
+
+## Reservation Character
+
+Multi-channel, hybrid, and complexity-sensitive.
+
+Mawimbi supports several visible booking pathways, including:
+
+- website booking
+- WhatsApp
+- email
+- in-person reservation
+- group booking
+- event inquiry
+
+Simple reservations can begin digitally, while larger groups and events introduce greater human involvement.
+
+The restaurant also states that reservations are not fully confirmed until confirmation is received from the restaurant. :contentReference[oaicite:1]{index=1}
+
+## Reservation Logic
+
+### Standard Reservation
+
+Guest
+
+↓
+
+Digital Booking
+
+↓
+
+Confirmation
+
+### Group Booking
+
+Guest
+
+↓
+
+Direct Contact
+
+↓
+
+Requirements
+
+↓
+
+Deposit / Coordination
+
+↓
+
+Confirmation
+
+### Event Booking
+
+Guest
+
+↓
+
+Event Inquiry
+
+↓
+
+Human Coordination
+
+↓
+
+Final Arrangement
+
+## Strongest Reservation Contribution
+
+Mawimbi demonstrates that reservation complexity may determine the appropriate level of automation.
+
+Simple interactions can remain self-service.
+
+Complex hospitality may benefit from greater human involvement.
+
+## Patterns Supported
+
+- Reservation Throughout the Journey
+- Dual-Path Hospitality
+- Commitment Without Pressure
+- Human Confirmation as Hospitality
+
+## Candidate Pattern
+
+- Escalating Reservation Complexity
+
+## Partial Support
+
+- Own the Guest Relationship
+
+---
+
+# Cross-Restaurant Comparison
+
+## How Does Reservation Enter the Journey?
+
+### Ankole
+
+Persistent structured access.
+
+### Cultiva
+
+Reservation beside emotional and narrative experience.
+
+### Talisman
+
+Human-confirmed reservation request.
+
+### Mawimbi
+
+Multi-channel booking with complexity escalation.
+
+---
+
+# Key Finding
+
+There is no single correct hospitality reservation model.
+
+The current restaurants show different combinations of:
+
+- self-service
+- human assistance
+- persistence
+- flexibility
+- confirmation
+- direct communication
+
+The repeated goal appears to be:
+
+Make Action Accessible
+
+↓
+
+Reduce Uncertainty
+
+↓
+
+Preserve Hospitality
+
+↓
+
+Confirm Commitment
+
+The specific mechanism can vary.
+
+---
+
+# Emerging Pattern
+
+## Reservation Throughout the Journey
+
+All four restaurants support accessible reservation without requiring the guest to finish the entire website journey.
+
+Independent Evidence:
+
+- Ankole
+- Cultiva
+- Talisman
+- Mawimbi
+
+Status:
+
+Emerging
+
+Confidence:
+
+High
+
+### Current Interpretation
+
+Reservation should remain easy to locate throughout the hospitality journey.
+
+This does not mean every section requires a booking button.
+
+It means the guest should rarely have to search for the next action once intent develops.
+
+---
+
+# Emerging Pattern
+
+## Dual-Path Hospitality
+
+All four restaurants support guests at different levels of intent.
+
+### Ready Guest
+
+Reserve
+
+### Exploring Guest
+
+Discover
+
+↓
+
+Build Confidence
+
+↓
+
+Reserve
+
+Independent Evidence:
+
+- Ankole
+- Cultiva
+- Talisman
+- Mawimbi
+
+Status:
+
+Emerging
+
+Confidence:
+
+High
+
+### Current Interpretation
+
+Hospitality websites should not assume every visitor is equally ready to commit.
+
+The reservation system should support both immediate intent and slower consideration.
+
+---
+
+# Emerging Pattern
+
+## Commitment Without Pressure
+
+The current research set consistently avoids aggressive reservation pressure.
+
+Observed behaviours include:
+
+- accessible CTAs
+- persistent booking access
+- reservation recommendations
+- clear next steps
+
+without relying heavily on:
+
+- countdowns
+- fake scarcity
+- aggressive pop-ups
+- artificial urgency
+
+Independent Evidence:
+
+- Ankole
+- Cultiva
+- Talisman
+- Mawimbi
+
+Status:
+
+Emerging
+
+Confidence:
+
+High
+
+### Current Interpretation
+
+Reservation can be commercially prominent without becoming coercive.
+
+Premium hospitality appears compatible with clear commitment and guest autonomy at the same time.
+
+---
+
+# Emerging Pattern
+
+## Human Confirmation as Hospitality
+
+Talisman and Mawimbi provide two independent examples of reservation models where restaurant confirmation remains part of the booking process.
+
+Independent Evidence:
+
+- Talisman
+- Mawimbi
+
+Status:
+
+Emerging
+
+Confidence:
+
+Medium
+
+### Current Interpretation
+
+Human confirmation may provide:
+
+- operational oversight
+- personal interaction
+- flexibility
+- restaurant control
+
+However, the current evidence does not prove that guests prefer this model.
+
+The pattern reflects a repeated behaviour.
+
+It does not yet establish superior performance.
+
+---
+
+# Candidate Pattern
+
+## Escalating Reservation Complexity
+
+Mawimbi introduces a useful reservation hierarchy.
+
+### Simple Need
+
+Self-Service
+
+### More Complex Need
+
+Human Assistance
+
+This produces a possible model:
+
+Standard Table
+
+↓
+
+Automated Booking
+
+Group
+
+↓
+
+Assisted Booking
+
+Event
+
+↓
+
+Human Coordination
+
+Strongest Evidence:
+
+- Mawimbi
+
+Partial Support:
+
+- Talisman
 
 Status:
 
 Candidate
 
-Observed In:
-
-- Talisman
-
 Confidence:
 
-Low
+Low to Medium
+
+### Current Interpretation
+
+The level of human intervention may be more useful when determined by complexity rather than applied equally to every reservation.
 
 Needs Confirmation:
 
-- other request-based reservation systems
-- destination restaurants
-- fine-dining restaurants
-- high-touch hospitality brands
+- fine dining
+- hotels
+- private dining
+- event-led restaurants
+- large-group hospitality
 
 ---
 
-## Research Tension
+# Partially Supported Finding
 
-### Personal Service Versus Immediate Certainty
+## Own the Guest Relationship
 
-Talisman introduces an important trade-off.
+All four restaurants provide some evidence of restaurant-controlled access or communication.
 
-Human confirmation may strengthen:
+However, website observation cannot prove:
 
-- personal connection
-- restaurant control
-- flexibility
-- high-touch service
+- CRM ownership
+- customer-data ownership
+- payment-data ownership
+- reservation-history ownership
+- remarketing capability
+- third-party contractual control
 
-However, it may weaken:
+Evidence:
 
-- booking speed
-- immediate certainty
-- convenience
-- self-service availability
-- confidence for time-sensitive guests
+- Ankole
+- Cultiva
+- Talisman
+- Mawimbi
 
 Status:
 
-Observed Research Tension
+Partially Supported
 
 Confidence:
 
 Medium
 
-KHDS should not assume that human confirmation is always more hospitable or that automation is always better.
+### Governance Rule
 
-The correct model should depend on:
+Do not promote this pattern based on website observation alone.
 
-- guest expectations
-- restaurant capacity
-- service style
-- reservation complexity
-- operating hours
-- response speed
-- need for deposits
-- group-booking requirements
+Operational or technical evidence is required.
 
 ---
 
-## Research Tension
+# Supporting Behaviour
 
-### Direct Relationship Versus Third-Party Convenience
+## Multiple Booking Channels Increase Access
 
-External booking tools may provide:
+Strongest Evidence:
 
-- live availability
-- automated confirmation
-- reminders
-- waitlists
-- payment handling
-- operational efficiency
+- Mawimbi
 
-They may also weaken restaurant control over:
+Multiple channels may allow guests to choose between:
 
-- guest data
-- brand continuity
-- follow-up communication
-- loyalty development
-- the complete booking experience
-
-The current website research does not provide enough evidence to determine the full ownership model for each restaurant.
-
-Status:
-
-Observed Research Tension
-
-Confidence:
-
-Medium
-
----
-
-## Supporting Behaviour
-
-### Reservation as Confidence Signal
-
-Visible and understandable booking access may communicate that the restaurant is organised, available, and prepared to receive the guest.
+- website
+- WhatsApp
+- email
+- in-person contact
 
 Status:
 
 Observed
 
-Observed In:
+Confidence:
 
-- Ankole
-- Cultiva
-- Talisman
+Medium
+
+### Important Limitation
+
+More channels do not automatically mean a better reservation system.
+
+Without backend coordination, multiple entry points may create operational fragmentation.
+
+Website research cannot establish whether this fragmentation exists.
+
+---
+
+# Supporting Behaviour
+
+## Booking Policies Can Build Confidence
+
+Strongest Evidence:
+
+- Mawimbi
+
+Clear policies around:
+
+- confirmation
+- deposits
+- cancellation
+- group size
+- payment
+
+can reduce uncertainty before commitment.
+
+Status:
+
+Observed
 
 Confidence:
 
 Medium
 
-This remains a supporting behaviour because the available research does not yet show how strongly reservation visibility affects actual guest trust or conversion.
+---
+
+# Supporting Behaviour
+
+## Reservation Can Reflect Brand Character
+
+Strongest Evidence:
+
+- Cultiva
+- Talisman
+- Mawimbi
+
+Reservation does not need to feel completely separate from the restaurant brand.
+
+It may reflect:
+
+- storytelling
+- service style
+- formality
+- degree of human contact
+- guest expectations
+
+Status:
+
+Observed
+
+Confidence:
+
+Medium
 
 ---
 
-## Kodawa Labs Concept Validation
+# Research Tension
 
-The Trunk & Tandoor Concept applies reservation through:
+## Human Confirmation Versus Immediate Certainty
 
-- repeated but restrained booking access
-- visible reservation calls to action
-- progressive movement from atmosphere to commitment
-- mobile-friendly access
-- preservation of the emotional journey
-- direct-first positioning
+Repeated In:
 
-The concept aligns with the broader independent finding that reservation should remain accessible without interrupting the restaurant’s story.
+- Talisman
+- Mawimbi
 
-It also reflects the direct-first hospitality model Kodawa Labs wants to strengthen:
+Human confirmation may create:
 
-Website
+- personal service
+- flexibility
+- operational control
 
-↓
+but may also create:
 
-Restaurant-controlled booking
+- waiting
+- uncertainty
+- extra communication
+- risk of abandoned intent
 
-↓
+Status:
 
-Direct guest relationship
+Observed
 
-↓
+Confidence:
 
-Future communication and return visits
+High
 
-However, the concept remains a Kodawa Labs validation reference and is not counted as additional independent evidence.
+### Current Question
 
----
-
-## Comparison Insight
-
-Ankole, Cultiva, and Talisman demonstrate three valid reservation models.
-
-Ankole shows:
-
-Persistent and structured access.
-
-Cultiva shows:
-
-Immediate action beside emotional promise.
-
-Talisman shows:
-
-Human-confirmed booking through direct involvement.
-
-The transferable principle is therefore not:
-
-“Every restaurant should use the same booking widget.”
-
-It is:
-
-“Reservation should be easy to find, appropriate to the service model, and consistent with the restaurant’s hospitality identity.”
-
-The correct reservation model may be:
-
-- instant
-- request-based
-- human-confirmed
-- platform-supported
-- deposit-led
-- direct-contact assisted
-
-What matters is that the guest understands:
-
-- how to begin
-- what happens next
-- whether the booking is confirmed
-- how to make changes
-- who they are dealing with
+When does human confirmation add hospitality, and when does it simply add friction?
 
 ---
 
-## Operational Implication for KHDS
+# Research Tension
 
-KHDS should not define one universal reservation interface.
+## Guest Choice Versus Operational Complexity
 
-It should support multiple reservation patterns:
+Mawimbi exposes this tension most clearly.
 
-### Instant Booking
+Guest choice may increase when several reservation channels exist.
 
-Best suited to restaurants with live availability and automated confirmation.
+Restaurant complexity may also increase if those channels are not unified.
 
-### Request-Based Booking
+Status:
 
-Best suited to restaurants that manually review availability or require special handling.
+Observed
 
-### Human-Assisted Booking
+Confidence:
 
-Best suited to high-touch hospitality, group dining, events, or complex requests.
+Medium
 
-### Hybrid Booking
+### Current Question
 
-Allows simple reservations to be automated while directing complex requests to staff.
+How many booking channels improve access before they become difficult for restaurant teams to manage?
 
-Each pattern should preserve:
+Operational evidence is required.
 
-- clarity
-- confirmation
+---
+
+# Research Tension
+
+## Automation Versus Hospitality
+
+Automation can increase:
+
+- speed
+- certainty
+- availability
+- operational efficiency
+
+Human involvement can increase:
+
+- flexibility
+- personal attention
+- contextual understanding
+
+Status:
+
+Observed
+
+Confidence:
+
+Medium
+
+### Current Question
+
+Which parts of hospitality should be automated, and which become more valuable when handled by people?
+
+---
+
+# Research Tension
+
+## Direct Relationship Versus Third-Party Convenience
+
+Third-party systems may provide:
+
+- infrastructure
+- availability management
+- distribution
+- convenience
+
+Direct systems may potentially provide greater:
+
 - brand continuity
-- mobile usability
-- accessibility
-- direct relationship where possible
+- guest communication
+- data control
+- relationship continuity
+
+The websites alone do not establish actual data or platform ownership.
+
+Status:
+
+Observed
+
+Confidence:
+
+Medium
 
 ---
 
-## Confidence
+# Business Gap
 
-Medium to High
+## Routine Reservations May Not Need Manual Confirmation
 
-### Reason
+Strongest Evidence:
 
-Reservation Throughout the Journey, Dual-Path Hospitality, and Commitment Without Pressure now appear across three independent restaurant websites.
+- Talisman
+- Mawimbi
 
-The restaurants use different operational models, but the broader behaviours remain consistent.
+Potential Gap:
 
-Own the Guest Relationship receives only partial support because website observation alone cannot confirm data ownership or platform control.
+Human confirmation may create unnecessary uncertainty for standard table bookings.
 
-Human Confirmation as Hospitality remains a candidate because it is currently strongest in Talisman.
+Potential Kodawa Labs Direction:
+
+Simple Reservation
+
+↓
+
+Live Availability
+
+↓
+
+Instant Confirmation
+
+while:
+
+Complex Request
+
+↓
+
+Human Review
+
+↓
+
+Personal Assistance
+
+Opportunity Categories:
+
+- Conversion
+- Operations
+- Guest Experience
+
+Status:
+
+Potential Opportunity
 
 ---
 
-## Next Validation Targets
+# Business Gap
 
-- Tamarind
-- Carnivore
-- Oretta
-- restaurants using instant embedded booking
-- restaurants requiring deposits
-- restaurants using WhatsApp-assisted booking
-- restaurants with waitlist systems
-- restaurants using hybrid automated and human confirmation
+## Reservation Channels Could Become One Operating Layer
+
+Strongest Evidence:
+
+- Mawimbi
+
+Visible channels may include:
+
+- website booking
+- WhatsApp
+- email
+- groups
+- events
+- in-person requests
+
+Potential Kodawa Labs Direction:
+
+Multiple Entry Channels
+
+↓
+
+Unified Reservation Inbox
+
+↓
+
+Single Guest Record
+
+↓
+
+Restaurant Team
+
+Potential Capabilities:
+
+- availability
+- WhatsApp
+- event leads
+- group booking
+- guest notes
+- reminders
+- deposits
+- customer history
+
+This aligns conceptually with ReserveAI.
+
+However, current website evidence does not establish what infrastructure Mawimbi already operates.
+
+Opportunity Categories:
+
+- Operations
+- Guest Relationship
+- Conversion
+- Revenue
+
+Status:
+
+Potential Opportunity
+
+---
+
+# Business Gap
+
+## Group and Event Booking Can Be Qualified Earlier
+
+Strongest Evidence:
+
+- Mawimbi
+
+Higher-value booking requests often require more information than a normal table reservation.
+
+Potential Digital Qualification:
+
+Date
+
+↓
+
+Guest Count
+
+↓
+
+Occasion
+
+↓
+
+Space Requirement
+
+↓
+
+Food Preference
+
+↓
+
+Budget
+
+↓
+
+Special Requirements
+
+↓
+
+Contact
+
+↓
+
+Human Follow-Up
+
+Opportunity Categories:
+
+- Revenue
+- Conversion
+- Operations
+
+Status:
+
+Potential Opportunity
+
+---
+
+# Business Gap
+
+## Deposits Can Become Part of the Booking Journey
+
+Strongest Evidence:
+
+- Mawimbi
+
+Where deposits are required, the strongest guest journey may connect:
+
+Reservation
+
+↓
+
+Deposit
+
+↓
+
+Confirmation
+
+↓
+
+Reminder
+
+↓
+
+Visit
+
+Potential payment methods in the Kenyan market may include:
+
+- M-PESA
+- card
+
+Opportunity Categories:
+
+- Revenue
+- Conversion
+- Operations
+
+Status:
+
+Potential Opportunity
+
+---
+
+# Business Gap
+
+## Reservation Should Continue Beyond Confirmation
+
+Across the current research set, reservation is mostly evaluated up to booking.
+
+The broader guest relationship may include:
+
+Reservation
+
+↓
+
+Confirmation
+
+↓
+
+Pre-Visit Communication
+
+↓
+
+Arrival Information
+
+↓
+
+Visit
+
+↓
+
+Review
+
+↓
+
+Return Visit
+
+Potential Capabilities:
+
+- reminders
+- parking or arrival instructions
+- dietary preference capture
+- celebration information
+- review requests
+- loyalty
+- return offers
+
+Opportunity Categories:
+
+- Guest Relationship
+- Revenue
+- Operations
+- Experience
+
+Status:
+
+Potential Opportunity
+
+---
+
+# Reservation Models
+
+The four restaurants currently demonstrate four useful models.
+
+## Model 1 — Persistent Structured Booking
+
+Example:
+
+Ankole
+
+Primary Strength:
+
+Easy access to commitment.
+
+---
+
+## Model 2 — Story-Integrated Booking
+
+Example:
+
+Cultiva
+
+Primary Strength:
+
+Reservation remains part of the emotional journey.
+
+---
+
+## Model 3 — Human-Confirmed Booking
+
+Example:
+
+Talisman
+
+Primary Strength:
+
+Personal involvement and restaurant control.
+
+Primary Tension:
+
+Delayed certainty.
+
+---
+
+## Model 4 — Complexity-Sensitive Booking
+
+Example:
+
+Mawimbi
+
+Primary Strength:
+
+Different reservation types can receive different levels of human support.
+
+---
+
+# KHDS Reservation Principle Under Development
+
+The evidence suggests KHDS should not prescribe one booking technology.
+
+Instead, reservation architecture should answer:
+
+## 1. How ready is the guest?
+
+Ready now?
+
+↓
+
+Book
+
+Still exploring?
+
+↓
+
+Continue Experience
+
+↓
+
+Reserve Later
+
+---
+
+## 2. How complex is the request?
+
+Simple?
+
+↓
+
+Self-Service
+
+Complex?
+
+↓
+
+Human Assistance
+
+---
+
+## 3. How quickly does the guest need certainty?
+
+The booking experience should clearly communicate:
+
+- availability
+- request status
+- confirmation status
+- next steps
+
+---
+
+## 4. Where does hospitality add value?
+
+Human interaction should be preserved where it improves:
+
+- understanding
+- flexibility
+- special requests
+- events
+- groups
+- high-value occasions
+
+not simply because manual work already exists.
+
+---
+
+# Working Reservation Logic
+
+Guest Intent
+
+↓
+
+Reservation Complexity
+
+↓
+
+Appropriate Level of Automation
+
+↓
+
+Clear Confirmation
+
+↓
+
+Continued Guest Relationship
+
+This may become a more useful KHDS reservation framework than assuming every restaurant should use either:
+
+Fully Automated
+
+or
+
+Fully Human
+
+---
+
+# Current Reservation Pattern Position
+
+## Emerging
+
+- Reservation Throughout the Journey
+- Dual-Path Hospitality
+- Commitment Without Pressure
+- Human Confirmation as Hospitality
+
+## Candidate
+
+- Escalating Reservation Complexity
+
+## Partially Supported
+
+- Own the Guest Relationship
+
+## Supporting Behaviours
+
+- Multiple Booking Channels Increase Access
+- Booking Policies Can Build Confidence
+- Reservation Can Reflect Brand Character
+
+## Research Tensions
+
+- Human Confirmation Versus Immediate Certainty
+- Guest Choice Versus Operational Complexity
+- Automation Versus Hospitality
+- Direct Relationship Versus Third-Party Convenience
+
+---
+
+# Current Confidence
+
+Reservation research now includes four independent restaurants using different models.
+
+The strongest patterns remain:
+
+- Reservation Throughout the Journey
+- Dual-Path Hospitality
+- Commitment Without Pressure
+
+Mawimbi also gives Human Confirmation as Hospitality a second independent example alongside Talisman, allowing it to move from Candidate to Emerging after full reconciliation. :contentReference[oaicite:2]{index=2} :contentReference[oaicite:3]{index=3}
+
+However:
+
+Repeated human confirmation does not prove that manual confirmation is preferable.
+
+The behaviour is Emerging.
+
+Its effectiveness remains unresolved.
+
+No reservation pattern should yet move to Validated.
+
+---
+
+# Next Validation Questions
+
+Future restaurant studies should ask:
+
+- How often is instant confirmation used?
+- When does human confirmation improve the experience?
+- Which requests actually need human review?
+- How are large groups handled?
+- How are event leads qualified?
+- Are deposits integrated into reservation?
+- Does WhatsApp function as a primary or secondary booking channel?
+- How many visible booking channels are useful?
+- Does reservation data remain restaurant-controlled?
+- What happens after confirmation?
+- How does reservation behave on mobile?
+- How quickly can a guest move from intent to certainty?
+- Can automation increase speed without making hospitality feel impersonal?
+
+---
+
+# Current Knowledge Statement
+
+The current research shows that strong reservation design is not defined by full automation or full human control.
+
+Ankole makes reservation persistently accessible.
+
+Cultiva integrates booking into a broader emotional journey.
+
+Talisman preserves human confirmation.
+
+Mawimbi varies human involvement according to booking complexity.
+
+The repeated requirement underneath these differences is:
+
+Accessible Action
+
+↓
+
+Appropriate Support
+
+↓
+
+Clear Confirmation
+
+↓
+
+Guest Confidence
+
+The most important emerging idea is that automation should follow the complexity of the hospitality request.
+
+Simple transactions may benefit from speed.
+
+Complex hospitality may benefit from people.
+
+KHDS should therefore standardise **reservation confidence and appropriate support**, not one booking technology.

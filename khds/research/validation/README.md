@@ -132,6 +132,7 @@ Current independent restaurants:
 - Ankole
 - Cultiva
 - Talisman
+- Mawimbi
 
 Independent restaurant research determines pattern maturity.
 
@@ -155,7 +156,7 @@ Kodawa Labs concepts do not increase independent evidence counts.
 
 Independent Restaurants Studied:
 
-3
+4
 
 Candidate Patterns:
 
@@ -163,9 +164,14 @@ Candidate Patterns:
 
 Emerging Patterns:
 
-9
+10
 
 Partially Supported Patterns:
+
+1
+
+
+Existing Implementation Patterns Pending Formal Validation:
 
 1
 
@@ -173,9 +179,9 @@ Validated Research-Derived Patterns:
 
 0
 
-Existing Implementation Patterns Pending Formal Validation:
+KHDS Principles Promoted From Research: 
 
-1
+0
 
 Current Implementation Pattern:
 

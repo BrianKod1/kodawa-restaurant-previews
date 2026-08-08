@@ -2,524 +2,1388 @@
 
 ## Purpose
 
-Compare how independent restaurant websites communicate identity, meaning, history, and purpose.
+Compare how independent restaurants communicate meaning, identity, and narrative through their digital experiences.
 
-Kodawa Labs concepts may be referenced separately for validation, but they are not treated as independent hospitality evidence.
+This file asks:
+
+- What kind of story does the restaurant tell?
+- Where does that story come from?
+- Is the narrative based on place, worldview, heritage, product, people, or concept?
+- How does story influence the rest of the digital experience?
+- Which storytelling behaviours repeat across different restaurant identities?
+- Which current KHDS pattern names may need refinement?
+
+The goal is not to define one universal hospitality story structure.
+
+The goal is to identify how restaurants create meaning before reducing the experience to menus, features, and booking.
 
 ---
 
-## Independent Restaurants Compared
+# Restaurants Compared
 
 - Ankole
 - Cultiva
 - Talisman
+- Mawimbi
+
+All four are treated as independent hospitality research.
+
+Kodawa Labs concepts are excluded from independent evidence counts.
 
 ---
 
-## Kodawa Labs Validation Reference
+# Ankole
 
-- Trunk & Tandoor Concept
+## Story Character
 
-The Trunk & Tandoor Concept is reviewed separately as a Kodawa Labs interpretation of hospitality principles.
+Place-led, atmospheric, and visually implied.
 
-It does not carry the same evidentiary role as Ankole, Cultiva, or Talisman.
+Ankole communicates much of its identity through:
 
----
-
-## Common Behaviours
-
-Ankole, Cultiva, and Talisman all communicate that the restaurant is more than a menu or reservation function.
-
-Across the three experiences:
-
-- identity appears before complete operational detail
-- photography supports the story
-- place influences meaning
-- the restaurant is presented as an experience rather than only a service
-- narrative helps establish confidence before commitment
-- story is integrated into the broader homepage journey
-
-The narrative style differs, but all three give the guest a reason to care before asking them to evaluate the full offer.
-
----
-
-## Ankole
-
-### Story Approach
-
-Ankole communicates story primarily through place, atmosphere, and visual identity.
-
-Its narrative is relatively restrained.
-
-Rather than relying on a long historical or philosophical explanation, the website allows the environment, photography, and presentation to communicate much of the restaurant’s meaning.
-
-### Primary Storytelling Tools
-
-- restaurant photography
-- spatial atmosphere
-- brand identity
-- restrained copy
-- place
-- visual polish
-- dining experience cues
-
-### Narrative Effect
-
-The guest understands Ankole through what the restaurant appears to feel like.
-
-The story is largely interpreted through:
-
-- place
-- atmosphere
-- visual character
-- premium positioning
-- the finished hospitality experience
-
-### Distinctive Behaviour
-
-Ankole tells story through place.
-
-Its narrative is more implicit than Cultiva’s or Talisman’s.
-
----
-
-## Cultiva
-
-### Story Approach
-
-Cultiva communicates story through worldview, purpose, and one central organising idea:
-
-Cultivation.
-
-That idea connects:
-
+- physical environment
+- restaurant setting
+- imagery
 - food
-- farming
-- people
-- sustainability
-- creativity
-- community
-- education
-- culture
-- guest participation
+- refined presentation
 
-### Primary Storytelling Tools
+The story is not heavily dependent on long-form narrative.
 
-- expressive copy
-- a central organising idea
-- farm-to-table narrative
-- visible people and community
-- sustainability language
-- cultural programming
-- guest participation
+Instead, meaning is carried through the impression of the place itself.
 
-### Narrative Effect
+## Story Logic
 
-The guest is introduced to Cultiva as a living ecosystem rather than only as a restaurant.
+Place
 
-Its story explains what the restaurant believes and what it hopes to contribute through hospitality.
+↓
 
-### Distinctive Behaviour
+Atmosphere
 
-Cultiva tells story through worldview.
+↓
 
-Its narrative is explicit, purpose-led, and expansive.
+Food
+
+↓
+
+Identity
+
+## Strongest Story Contribution
+
+Ankole demonstrates that story can be communicated through place and visual evidence rather than through extensive written narrative.
+
+## Patterns Supported
+
+- Story Before Features
+- Story Through Place
+- Photography as Proof
+- Atmosphere Through Consistency
+
+## Partial Support
+
+- One Idea Can Organise the Brand Story
+- Promise Before Proof
 
 ---
 
-## Talisman
+# Cultiva
 
-### Story Approach
+## Story Character
 
-Talisman communicates story through heritage, place, continuity, and growth.
+Worldview-led, philosophical, and system-driven.
 
-The website explains that the restaurant began in the 1990s as a small old house in Karen and later developed into an established dining destination.
+Cultiva communicates its identity through ideas around:
 
-Its story is grounded in:
+- cultivation
+- sustainability
+- community
+- food systems
+- sourcing
+- process
+- transformation
 
-- origin
-- physical setting
-- long-term development
-- culinary reputation
-- continuity
-- relationship with Karen
+The story explains more than what the restaurant serves.
 
-### Primary Storytelling Tools
+It explains a broader way of thinking about food and hospitality.
 
-- historical narrative
-- the old-house origin
-- the Karen setting
-- growth over time
-- interior and environmental imagery
-- reputation
-- established dining identity
+## Story Logic
 
-### Narrative Effect
+Cultivation
 
-The guest is given a sense of permanence and credibility.
+↓
 
-The story communicates that Talisman has developed naturally over time rather than appearing as a newly manufactured concept.
+Worldview
 
-### Distinctive Behaviour
+↓
+
+Process
+
+↓
+
+Food
+
+↓
+
+Community
+
+↓
+
+Guest Experience
+
+## Strongest Story Contribution
+
+Cultiva demonstrates that a restaurant can organise its entire narrative around one central belief system.
+
+Its story influences:
+
+- language
+- photography
+- process
+- food
+- atmosphere
+- guest participation
+
+## Patterns Supported
+
+- Story Before Features
+- One Idea Can Organise the Brand Story
+- The Guest as Participant
+- Atmosphere Through Worldview
+- Show the System Behind the Plate
+
+---
+
+# Talisman
+
+## Story Character
+
+Heritage-led, place-led, and continuity-driven.
 
 Talisman tells a story of becoming.
 
-Its narrative moves from modest origin to established destination.
+Its narrative is built around:
+
+- the original house
+- Karen
+- the restaurant’s beginnings
+- growth over time
+- reputation
+- physical character
+- continuity
+
+The story explains how a small house developed into an established dining destination. :contentReference[oaicite:0]{index=0}
+
+## Story Logic
+
+Beginning
+
+↓
+
+House
+
+↓
+
+Place
+
+↓
+
+Growth
+
+↓
+
+Reputation
+
+↓
+
+Established Destination
+
+## Strongest Story Contribution
+
+Talisman demonstrates that history itself can become a source of trust and identity.
+
+Its story gives the restaurant depth because the guest can understand both where it started and what it became.
+
+## Patterns Supported
+
+- Story Before Features
+- Story Through Place
+
+## Candidate Patterns
+
+- Heritage Builds Confidence
+- Growth as Narrative
+
+## Partial Support
+
+- One Idea Can Organise the Brand Story
 
 ---
 
-## Key Similarities
+# Mawimbi
 
-All three restaurants:
+## Story Character
 
-- communicate identity before complete practical detail
-- use photography as part of storytelling
-- connect narrative to place
-- establish emotional or reputational value
-- avoid treating the homepage as a simple brochure
-- present the restaurant as more than its menu
+Concept-led, participatory, and experiential.
+
+Mawimbi organises its story around a maritime world.
+
+Its digital language includes:
+
+- The Cruise
+- The Crew
+- Welcome Aboard
+- sea
+- journey
+- coastal escape
+- seafood
+- connection
+- celebration
+
+Rather than relying on a deep founder-origin story, the restaurant invites the guest into a branded world. :contentReference[oaicite:1]{index=1}
+
+## Story Logic
+
+Sea
+
+↓
+
+Journey
+
+↓
+
+Crew
+
+↓
+
+Seafood
+
+↓
+
+Atmosphere
+
+↓
+
+Connection
+
+↓
+
+Guest Participation
+
+## Strongest Story Contribution
+
+Mawimbi demonstrates that story does not need to begin with biography or history.
+
+A restaurant can create meaning by defining the world the guest is entering.
+
+## Patterns Supported
+
+- Story Before Features
+- One Idea Can Organise the Brand Story
+- The Guest as Participant
+
+## Candidate Patterns
+
+- World Before Biography
+- Narrative Language as Interface
+
+## Research Refinement
+
+Mawimbi also suggests that atmosphere and story may sometimes be organised around a central experiential idea rather than a formal worldview.
 
 ---
 
-## Key Differences
+# Cross-Restaurant Comparison
+
+## What Organises the Story?
 
 ### Ankole
 
-- story through place and atmosphere
-- narrative is restrained and implicit
-- visual identity carries much of the meaning
-- the guest interprets the story through the environment
+Place.
 
 ### Cultiva
 
-- story through worldview and purpose
-- narrative is expressive and explicit
-- one central idea connects the whole brand
-- the guest is invited to understand and participate in a wider philosophy
+Worldview.
 
 ### Talisman
 
-- story through heritage and continuity
-- narrative is historical and concrete
-- growth over time builds credibility
-- the guest is shown how the restaurant became established
+Heritage and growth.
+
+### Mawimbi
+
+Concept and participation.
 
 ---
 
-## Existing Pattern Strengthened
+# Key Finding
 
-### Story Before Features
+The four restaurants tell very different kinds of stories.
 
-All three restaurants communicate why the experience matters before reducing the restaurant to menus, hours, and booking details.
+The repeated behaviour is not one narrative format.
 
-The story appears differently:
+The repeated behaviour is meaning before utility.
 
-- Ankole communicates meaning through place.
-- Cultiva communicates meaning through worldview.
-- Talisman communicates meaning through heritage and growth.
+Each restaurant gives the guest a reason to understand why the experience matters before reducing it entirely to:
 
-Status:
+- menu
+- price
+- logistics
+- reservation
 
-Emerging
+This produces a broader storytelling logic:
+
+Identity
+
+↓
+
+Meaning
+
+↓
+
+Evidence
+
+↓
+
+Experience
+
+↓
+
+Action
+
+The source of identity can differ substantially.
+
+---
+
+# Emerging Pattern
+
+## Story Before Features
+
+All four restaurants support this pattern through different narrative forms.
+
+### Ankole
+
+Story through place and visual identity.
+
+### Cultiva
+
+Story through worldview and philosophy.
+
+### Talisman
+
+Story through heritage and growth.
+
+### Mawimbi
+
+Story through concept and participation.
 
 Independent Evidence:
 
 - Ankole
 - Cultiva
 - Talisman
+- Mawimbi
+
+Status:
+
+Emerging
 
 Confidence:
 
-Medium to High
+High
+
+### Current Interpretation
+
+A hospitality website should help the guest understand why the restaurant matters before asking them to evaluate the experience only through practical features.
+
+Story may be expressed through:
+
+- place
+- philosophy
+- history
+- people
+- product
+- culture
+- concept
+- atmosphere
+
+The narrative form can change.
+
+The function remains consistent.
 
 ---
 
-## Existing Pattern Strengthened
+# Emerging Pattern
 
-### Story Through Place
+## Story Through Place
 
-Ankole and Talisman both use the physical setting as an important part of restaurant identity.
+Ankole and Talisman remain the strongest examples.
 
-Cultiva also connects story to land, farming, and environment, but the physical restaurant is less central than its broader worldview.
+### Ankole
 
-Status:
+Place communicates identity through physical environment and visual refinement.
 
-Emerging
+### Talisman
+
+Place communicates identity through the old house, Karen, garden, history, and continuity.
 
 Independent Evidence:
 
 - Ankole
 - Talisman
 
-Partially Supported By:
+Partial Support:
 
 - Cultiva
+- Mawimbi
+
+Status:
+
+Emerging
 
 Confidence:
 
 Medium
 
+### Current Interpretation
+
+A restaurant’s physical setting can become part of the story rather than functioning only as background.
+
+Place may communicate:
+
+- identity
+- history
+- atmosphere
+- credibility
+- destination value
+
 ---
 
-## Existing Candidate Pattern Strengthened
+# Emerging Pattern
 
-### One Idea Can Organise the Brand Story
+## One Idea Can Organise the Brand Story
 
-Cultiva demonstrates this pattern most clearly through cultivation.
+Cultiva and Mawimbi provide two strong but substantially different examples.
 
-Ankole presents a coherent identity, but does not express one central organising idea as explicitly.
+### Cultiva
 
-Talisman organises its story around continuity and becoming, but that idea is communicated through historical progression rather than a repeated brand concept.
+Cultivation becomes the organising idea.
 
-Status:
+It connects:
 
-Candidate
+- worldview
+- food
+- sourcing
+- process
+- sustainability
+- community
 
-Observed In:
+### Mawimbi
 
-- Cultiva
+The maritime journey becomes the organising idea.
 
-Partially Supported By:
+It connects:
+
+- naming
+- seafood
+- atmosphere
+- team
+- guest participation
+- interface language
+
+Partial Support:
 
 - Ankole
 - Talisman
 
-Confidence:
+Independent Evidence:
 
-Low to Medium
-
-Needs Confirmation:
-
-- additional purpose-led hospitality brands
-- chef-led concepts with a clearly stated philosophy
-- culturally organised restaurant brands
-
----
-
-## Candidate Pattern
-
-### Heritage Builds Confidence
-
-A restaurant’s history can increase trust by showing continuity, reputation, and an established relationship with place.
+- Cultiva
+- Mawimbi
 
 Status:
 
-Candidate
+Emerging
+
+Confidence:
+
+Medium to High
+
+### Current Interpretation
+
+A central idea becomes valuable when it can organise multiple parts of the hospitality experience rather than appearing only in copy.
+
+The idea may be:
+
+- belief
+- place
+- heritage
+- cuisine
+- journey
+- culture
+- ritual
+- purpose
+
+---
+
+# Emerging Pattern
+
+## The Guest as Participant
+
+Cultiva and Mawimbi now provide independent evidence for participatory storytelling.
+
+### Cultiva
+
+The guest is invited into a broader worldview around food, cultivation, and community.
+
+### Mawimbi
+
+The guest is welcomed into a branded maritime experience.
+
+Independent Evidence:
+
+- Cultiva
+- Mawimbi
+
+Status:
+
+Emerging
+
+Confidence:
+
+Medium
+
+### Current Interpretation
+
+Hospitality story becomes more immersive when the guest is given a role inside the narrative rather than being treated only as an observer.
+
+The form of participation may differ.
+
+It can be:
+
+- ideological
+- communal
+- experiential
+- ritual
+- cultural
+- narrative
+
+---
+
+# Candidate Pattern
+
+## Heritage Builds Confidence
+
+Talisman remains the strongest current example.
+
+Its story communicates:
+
+- longevity
+- continuity
+- place
+- reputation
+- cultural familiarity
 
 Observed In:
 
 - Talisman
 
+Status:
+
+Candidate
+
 Confidence:
 
 Low to Medium
+
+### Current Interpretation
+
+History may increase trust when it demonstrates that the restaurant has endured, evolved, and maintained relevance over time.
 
 Needs Confirmation:
 
 - Tamarind
 - Carnivore
-- other long-established hospitality brands
+- long-established independent restaurants
+- family hospitality brands
 
 ---
 
-## Candidate Pattern
+# Candidate Pattern
 
-### Growth as Narrative
+## Growth as Narrative
 
-A hospitality brand can create emotional and reputational value by showing how a modest beginning developed into an established destination.
-
-Status:
-
-Candidate
+Talisman demonstrates that development over time can itself become part of the restaurant story.
 
 Observed In:
 
 - Talisman
 
+Status:
+
+Candidate
+
 Confidence:
 
 Low
 
+### Current Interpretation
+
+A restaurant may build trust by explaining how a modest beginning became an established destination.
+
 Needs Confirmation:
 
-- founder-led restaurants
-- family-owned hospitality brands
-- long-established independent venues
+- founder-led hospitality brands
+- family restaurants
+- long-established independents
+- restaurants with documented evolution
 
 ---
 
-## Existing Candidate Pattern
+# Candidate Pattern
 
-### The Guest as Participant
+## World Before Biography
 
-Cultiva invites the guest to see themselves as part of the restaurant’s wider community, culture, and purpose.
+Mawimbi introduces a distinct narrative model.
 
-Ankole and Talisman do not support this pattern as clearly within the current evidence.
+The restaurant does not depend on founder biography before establishing meaning.
+
+Instead, it presents:
+
+- language
+- atmosphere
+- concept
+- product
+- guest role
+
+Observed In:
+
+- Mawimbi
+
+Partial Support:
+
+- Cultiva
 
 Status:
 
 Candidate
 
+Confidence:
+
+Low to Medium
+
+### Current Interpretation
+
+Some hospitality brands may be better served by introducing the world the guest is entering before explaining who created it.
+
+This may be especially relevant to:
+
+- concept restaurants
+- lifestyle hospitality
+- immersive restaurants
+- nightlife
+- destination brands
+
+---
+
+# Candidate Pattern
+
+## Narrative Language as Interface
+
+Mawimbi demonstrates how story vocabulary can influence digital structure.
+
+Examples include:
+
+- The Cruise
+- The Crew
+- Welcome Aboard
+
 Observed In:
 
-- Cultiva
+- Mawimbi
+
+Status:
+
+Candidate
 
 Confidence:
 
 Low
 
-Needs Confirmation:
+### Current Interpretation
 
-- community-led restaurants
-- cultural hospitality venues
-- participatory dining concepts
+A restaurant’s narrative may become more immersive when branded vocabulary influences:
+
+- section naming
+- navigation
+- guest orientation
+- team presentation
+
+However, this must be balanced against clarity.
 
 ---
 
-## Supporting Behaviour
+# Supporting Behaviour
 
-### Story Through Atmosphere
+## Story Can Be Implicit
 
-A restaurant may communicate narrative through visual environment, pacing, photography, and physical character without relying on extensive written explanation.
+Strongest In:
+
+- Ankole
+
+A restaurant does not always require long written narrative.
+
+Meaning can also be carried through:
+
+- photography
+- environment
+- pacing
+- place
+- visual hierarchy
 
 Status:
 
 Observed
 
-Observed In:
+Confidence:
+
+Medium
+
+---
+
+# Supporting Behaviour
+
+## History Can Create Reputation Evidence
+
+Strongest In:
+
+- Talisman
+
+Historical narrative can provide visible context for:
+
+- longevity
+- continuity
+- reputation
+- established identity
+
+Status:
+
+Observed
+
+Confidence:
+
+Medium
+
+---
+
+# Supporting Behaviour
+
+## Product Can Carry Narrative
+
+Strongest In:
+
+- Cultiva
+- Mawimbi
+
+Food or culinary category can become part of the story rather than merely a product listing.
+
+Cultiva connects food to cultivation and process.
+
+Mawimbi connects seafood to its maritime identity.
+
+Status:
+
+Observed
+
+Confidence:
+
+Medium
+
+---
+
+# Supporting Behaviour
+
+## Team Can Belong to the Story
+
+Strongest In:
+
+- Mawimbi
+
+Calling the team “The Crew” integrates people directly into the central brand narrative.
+
+Status:
+
+Observed
+
+Confidence:
+
+Medium
+
+### Research Question
+
+How can team storytelling strengthen hospitality identity without turning people into decorative brand devices?
+
+---
+
+# Research Tension
+
+## Implicit Story Versus Explicit Story
+
+Ankole and Talisman demonstrate different levels of explicit narrative.
+
+A brand may communicate meaning through:
+
+- imagery
+- place
+- atmosphere
+
+or through:
+
+- written history
+- philosophy
+- explanation
+
+Status:
+
+Observed
+
+Confidence:
+
+Medium
+
+### Current Question
+
+How much story needs to be stated directly for the guest to understand it?
+
+---
+
+# Research Tension
+
+## Brand Language Versus Clarity
+
+Mawimbi introduces this tension clearly.
+
+Branded labels may increase:
+
+- memorability
+- immersion
+- personality
+
+but reduce immediate comprehension.
+
+Status:
+
+Observed
+
+Confidence:
+
+Medium
+
+### Current Question
+
+When does custom hospitality language improve the experience, and when should conventional interface language take priority?
+
+---
+
+# Research Tension
+
+## Concept Versus Substance
+
+Cultiva and Mawimbi both demonstrate strong organising ideas.
+
+Those ideas become more credible when supported by:
+
+- product
+- people
+- process
+- place
+- operations
+- photography
+
+Status:
+
+Observed
+
+Confidence:
+
+Medium
+
+### Current Question
+
+How much real-world evidence is required before a strong narrative concept feels earned?
+
+---
+
+# Research Tension
+
+## Heritage Versus Human Detail
+
+Talisman communicates history effectively but provides less depth around:
+
+- founders
+- chefs
+- people
+- turning points
+- culinary evolution
+
+Status:
+
+Observed
+
+Confidence:
+
+Medium
+
+### Current Question
+
+Does heritage become more emotionally effective when the people behind it are visible?
+
+---
+
+# Research Tension
+
+## Narrative Coherence Versus Narrative Variety
+
+One central idea can increase clarity.
+
+Too much reliance on one metaphor or message may make the story feel repetitive or restrictive.
+
+Relevant To:
+
+- Cultiva
+- Mawimbi
+
+Status:
+
+Observed
+
+Confidence:
+
+Low to Medium
+
+### Current Question
+
+How strongly should one organising idea control the rest of the brand story?
+
+---
+
+# Business Gap
+
+## Restaurant Origin Stories Are Often Underdeveloped
+
+Strongest Evidence:
+
+- Talisman
+- Mawimbi
+
+Potential gaps may include:
+
+- founder motivation
+- why the restaurant exists
+- culinary evolution
+- turning points
+- people behind the brand
+- development of the concept
+
+Potential Kodawa Labs Direction:
+
+Build deeper story architectures around:
+
+Origin
+
+↓
+
+People
+
+↓
+
+Purpose
+
+↓
+
+Evolution
+
+↓
+
+Present Experience
+
+Opportunity Categories:
+
+- Brand
+- Storytelling
+- Trust
+
+Status:
+
+Potential Opportunity
+
+---
+
+# Business Gap
+
+## Strong Concepts Need Supporting Proof
+
+Strongest Evidence:
+
+- Cultiva
+- Mawimbi
+
+A central idea is valuable only when the wider experience supports it.
+
+Potential Kodawa Labs Direction:
+
+Connect brand concept to:
+
+- food
+- sourcing
+- chef
+- process
+- environment
+- team
+- events
+- photography
+
+Opportunity Categories:
+
+- Brand
+- Conversion
+- Storytelling
+
+Status:
+
+Potential Opportunity
+
+---
+
+# Business Gap
+
+## Heritage Can Be Turned Into Commercial Differentiation
+
+Strongest Evidence:
+
+- Talisman
+
+Long-established restaurants may possess valuable stories that competitors cannot reproduce.
+
+Potential Kodawa Labs Direction:
+
+Transform heritage into:
+
+- interactive timelines
+- archival photography
+- founder stories
+- milestone moments
+- place history
+- culinary evolution
+- anniversary experiences
+
+Opportunity Categories:
+
+- Brand
+- Differentiation
+- Experience
+
+Status:
+
+Potential Opportunity
+
+---
+
+# Business Gap
+
+## Story Can Extend Into the Guest Journey
+
+Strongest Evidence:
+
+- Cultiva
+- Mawimbi
+
+Story does not have to end inside an About section.
+
+Potential Kodawa Labs Direction:
+
+Allow narrative to influence:
+
+- arrival
+- navigation
+- photography
+- menu framing
+- reservation language
+- events
+- post-visit communication
+
+Opportunity Categories:
+
+- Brand
+- Experience
+- Guest Relationship
+
+Status:
+
+Potential Opportunity
+
+---
+
+# Story Models
+
+The four restaurants currently demonstrate four useful narrative models.
+
+## Model 1 — Story Through Place
+
+Example:
+
+Ankole
+
+Primary Driver:
+
+Physical environment and visual identity.
+
+---
+
+## Model 2 — Story Through Worldview
+
+Example:
+
+Cultiva
+
+Primary Driver:
+
+Belief, philosophy, cultivation, and system.
+
+---
+
+## Model 3 — Story Through Heritage
+
+Example:
+
+Talisman
+
+Primary Driver:
+
+Origin, continuity, growth, and reputation.
+
+---
+
+## Model 4 — Story Through Experiential World
+
+Example:
+
+Mawimbi
+
+Primary Driver:
+
+Concept, language, atmosphere, and participation.
+
+---
+
+# KHDS Story Principle Under Development
+
+The current evidence suggests KHDS should not prescribe:
+
+About Section
+
+↓
+
+Founder Story
+
+↓
+
+Mission
+
+↓
+
+Menu
+
+as a universal narrative structure.
+
+Instead, story should answer:
+
+## 1. Why does this restaurant exist or matter?
+
+Establish meaning.
+
+## 2. What gives it identity?
+
+Possible sources:
+
+- place
+- worldview
+- history
+- people
+- product
+- culture
+- concept
+
+## 3. What evidence makes the story believable?
+
+Possible evidence:
+
+- photography
+- process
+- heritage
+- people
+- environment
+- food
+- reputation
+
+## 4. What role does the guest have?
+
+Observer?
+
+Participant?
+
+Community member?
+
+Celebrant?
+
+Traveller?
+
+## 5. How does the story support action?
+
+Narrative should eventually help the guest:
+
+- understand
+- trust
+- desire
+- reserve
+- return
+
+The working logic becomes:
+
+Identity
+
+↓
+
+Meaning
+
+↓
+
+Evidence
+
+↓
+
+Participation
+
+↓
+
+Action
+
+---
+
+# Current Story Pattern Position
+
+## Emerging
+
+- Story Before Features
+- Story Through Place
+- One Idea Can Organise the Brand Story
+- The Guest as Participant
+
+## Candidate
+
+- Heritage Builds Confidence
+- Growth as Narrative
+- World Before Biography
+- Narrative Language as Interface
+
+## Supporting Behaviours
+
+- Story Can Be Implicit
+- History Can Create Reputation Evidence
+- Product Can Carry Narrative
+- Team Can Belong to the Story
+
+## Research Tensions
+
+- Implicit Story Versus Explicit Story
+- Brand Language Versus Clarity
+- Concept Versus Substance
+- Heritage Versus Human Detail
+- Narrative Coherence Versus Narrative Variety
+
+---
+
+# Current Confidence
+
+Story research now includes four independent restaurants with substantially different narrative identities.
+
+The evidence strongly supports:
+
+- Story Before Features
+
+Mawimbi also gives sufficient additional independent evidence for:
+
+- One Idea Can Organise the Brand Story
+- The Guest as Participant
+
+to move from Candidate to Emerging after final reconciliation. :contentReference[oaicite:2]{index=2}
+
+Story Through Place remains Emerging through strong evidence from:
 
 - Ankole
 - Talisman
 
-Partially Supported By:
+Talisman also continues to support Candidate patterns around heritage and growth. :contentReference[oaicite:3]{index=3}
 
-- Cultiva
+No story pattern should yet move to Validated.
 
-Confidence:
+The highest appropriate status remains:
 
-Medium
-
-This remains a supporting behaviour because it sits within broader patterns around Story Through Place and Atmosphere Through Consistency.
+Emerging
 
 ---
 
-## Kodawa Labs Concept Validation
+# Next Validation Questions
 
-The Trunk & Tandoor Concept applies story through:
+Future restaurant studies should ask:
 
-- restrained copy
-- cinematic pacing
-- emotional imagery
-- progressive information reveal
-- atmosphere before practical detail
-- narrative-led homepage structure
-
-The concept aligns with the independent finding that hospitality story should establish meaning before the full functional offering is presented.
-
-However, it remains a Kodawa Labs validation reference and is not counted as additional independent evidence.
-
----
-
-## Comparison Insight
-
-Ankole, Cultiva, and Talisman show that hospitality storytelling does not require one narrative formula.
-
-Ankole answers:
-
-“What does this place feel like?”
-
-Cultiva answers:
-
-“What does this restaurant believe?”
-
-Talisman answers:
-
-“How did this place become what it is?”
-
-The transferable principle is therefore not:
-
-“Every restaurant needs a long About section.”
-
-It is:
-
-“The guest should understand why the restaurant matters before being asked to evaluate everything it offers.”
-
-Story may be communicated through:
-
-- place
-- worldview
-- heritage
-- growth
-- people
-- process
-- culture
-- atmosphere
-
-What matters is that the narrative creates meaning and confidence.
+- Does Story Before Features survive in more transactional restaurant categories?
+- Can a restaurant succeed with almost no explicit story?
+- How much founder biography is actually useful?
+- Does heritage measurably increase guest confidence?
+- Does one organising idea improve brand recall?
+- When does branded interface language reduce clarity?
+- Can product itself carry the full story?
+- How should story change on mobile?
+- How much narrative should appear before reservation?
+- What role should chefs and staff play?
+- How should cultural history be handled respectfully?
+- Can story influence repeat visits after the first reservation?
 
 ---
 
-## Tension Identified
+# Current Knowledge Statement
 
-### Implicit Story Versus Explicit Story
+The four independent restaurants demonstrate that hospitality storytelling does not require one narrative formula.
 
-Ankole demonstrates the strength of implicit storytelling.
+Ankole uses place.
 
-Cultiva and Talisman demonstrate the value of more explicit narrative.
+Cultiva uses worldview.
 
-This creates an important research tension:
+Talisman uses heritage and growth.
 
-A restrained story can preserve atmosphere and allow the guest to interpret meaning.
+Mawimbi uses concept and participation.
 
-A more explicit story can create clarity, purpose, and credibility.
+The repeated behaviour underneath those differences is:
 
-KHDS should not automatically prefer one approach.
+Create Meaning
 
-The correct narrative depth should depend on:
+↓
 
-- the strength of the brand story
-- the quality of the photography
-- how much context the guest needs
-- the restaurant’s age and history
-- the role of place
-- mobile pacing
-- the clarity of the restaurant’s identity
+Establish Identity
 
-Status:
+↓
 
-Observed Research Tension
+Provide Evidence
 
-Confidence:
+↓
 
-Medium
+Invite the Guest In
 
----
+↓
 
-## Confidence
+Enable Action
 
-Medium to High
+The strongest current conclusion is:
 
-### Reason
+**KHDS should standardise the purpose of story, not the type of story.**
 
-Story Before Features now appears across three independent restaurant websites with different narrative strategies.
+A restaurant should not be forced into founder biography, heritage narrative, or lifestyle copy simply because those formats are common.
 
-The pattern survives across:
-
-- place-led storytelling
-- worldview-led storytelling
-- heritage-led storytelling
-
-That strengthens the broader principle.
-
-The newer findings—Heritage Builds Confidence, Growth as Narrative, One Idea Can Organise the Brand Story, and The Guest as Participant—still require further independent confirmation.
-
----
-
-## Next Validation Targets
-
-- Tamarind
-- Carnivore
-- Oretta
-- additional heritage-led restaurants
-- additional worldview-led restaurants
-- additional highly restrained restaurant brands
+The narrative should emerge from what is actually distinctive about the restaurant.

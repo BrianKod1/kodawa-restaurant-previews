@@ -54,7 +54,7 @@ Current independent research set:
 - Ankole
 - Cultiva
 - Talisman
-
+- Mawimbi
 Purpose:
 
 Understand what existing hospitality experiences can teach KHDS.

@@ -2,135 +2,170 @@
 
 ## Purpose
 
-Compare how independent restaurant websites introduce the guest and identify recurring or contrasting arrival behaviours.
+Compare how independent restaurants introduce themselves during the guest's first digital encounter.
 
-Kodawa Labs concepts may be referenced separately for validation, but they are not treated as independent hospitality evidence.
+This file asks:
+
+- What does the guest notice first?
+- What creates desire?
+- What creates confidence?
+- How quickly is the restaurant's identity understood?
+- How does reservation enter the journey?
+- Which arrival behaviours repeat across different hospitality brands?
+
+The goal is not to identify one correct homepage sequence.
+
+The goal is to identify transferable hospitality behaviours.
 
 ---
 
-## Independent Restaurants Compared
+# Restaurants Compared
 
 - Ankole
 - Cultiva
 - Talisman
+- Mawimbi
+
+All four are treated as independent hospitality research.
+
+Kodawa Labs concepts are excluded from independent evidence counts.
 
 ---
 
-## Kodawa Labs Validation Reference
+# Ankole
 
-- Trunk & Tandoor Concept
+## Arrival Character
 
-The Trunk & Tandoor Concept is reviewed separately as a Kodawa Labs interpretation of hospitality principles.
+Place-led and refinement-led.
 
-It does not carry the same evidentiary role as Ankole, Cultiva, or Talisman.
+Ankole establishes value primarily through:
 
----
+- visual atmosphere
+- physical setting
+- refined presentation
+- food
+- accessible reservation
 
-## Common Behaviours
+The guest is introduced to the restaurant as a polished place before receiving a large amount of explanation.
 
-Ankole, Cultiva, and Talisman all establish emotional or experiential value before reducing the restaurant to practical information.
+## Arrival Logic
 
-Across the three experiences:
+Place
 
-- photography plays an important role
-- restaurant identity is established early
-- reservation remains accessible
-- the opening avoids behaving like a simple feature list
-- atmosphere, story, food, or place create interest before complete operational detail
-- guests can continue exploring before committing
+↓
 
-Each restaurant creates confidence differently, but none begins with logistics alone.
+Atmosphere
 
----
+↓
 
-## Ankole
+Food
 
-### Arrival Approach
+↓
 
-Ankole introduces the guest primarily through visual atmosphere, brand presence, and controlled pacing.
+Confidence
 
-The arrival feels image-led, polished, and restrained.
+↓
 
-Practical information remains accessible without dominating the first impression.
+Reservation
 
-### Primary Arrival Tools
+## Strongest Arrival Contribution
 
-- immersive photography
-- strong restaurant identity
-- restrained opening information
-- visible navigation
-- accessible reservation action
-- clear sense of place
+Ankole demonstrates that physical setting and visual refinement can create confidence before detailed storytelling.
 
-### Emotional Effect
+## Patterns Supported
 
-The guest is invited to imagine the physical atmosphere before examining the restaurant’s full offering.
+- Emotion Before Interface
+- Photography Before Decoration
+- Reservation Throughout the Journey
+- Dual-Path Hospitality
+- Commitment Without Pressure
+- Story Through Place
 
-### Distinctive Behaviour
+## Partial Support
 
-Ankole creates confidence through visual polish, restraint, and environmental presence.
-
-Its arrival is primarily place-led.
+- Promise Before Proof
+- Layered Arrival
 
 ---
 
-## Cultiva
+# Cultiva
 
-### Arrival Approach
+## Arrival Character
 
-Cultiva introduces the guest through an explicit emotional promise:
+Promise-led and worldview-led.
 
-“Where flavors transcend and souls flourish.”
+Cultiva introduces the guest through an emotional and philosophical proposition rather than only through food or place.
 
-The opening presents the restaurant as a soulful and transformative experience before detailed information about food, farming, community, events, or operations.
+Its identity develops through:
 
-### Primary Arrival Tools
+- cultivation
+- sustainability
+- transformation
+- community
+- food
+- reservation
 
-- expressive opening statement
-- emotional language
-- clear restaurant philosophy
-- immediate “Book Your Table” action
-- access to continued exploration
+## Arrival Logic
 
-### Emotional Effect
+Emotional Promise
 
-The guest is invited to imagine the sensory and personal value of the experience.
+↓
 
-### Distinctive Behaviour
+Worldview
 
-Cultiva combines imagery with a direct written promise.
+↓
 
-Its arrival is primarily worldview-led.
+Food and Craft
+
+↓
+
+Confidence
+
+↓
+
+Reservation
+
+## Strongest Arrival Contribution
+
+Cultiva demonstrates that a strong organising belief can establish meaning before practical restaurant information.
+
+## Patterns Supported
+
+- Emotion Before Interface
+- Story Before Features
+- Photography Before Decoration
+- Reservation Throughout the Journey
+- Dual-Path Hospitality
+- Commitment Without Pressure
+- Promise Before Proof
+
+## Partial Support
+
+- Layered Arrival
+- One Idea Can Organise the Brand Story
 
 ---
 
-## Talisman
+# Talisman
 
-### Arrival Approach
+## Arrival Character
 
-Talisman introduces the guest through several connected layers rather than one dominant message.
+Layered arrival through food, heritage, and place.
 
-The homepage creates initial appetite through food imagery, then expands the experience through restaurant history, interior atmosphere, place, reputation, and reservation access.
+Talisman begins with sensory appeal but expands into:
 
-### Primary Arrival Tools
-
-- food imagery
-- sensory language
 - restaurant history
-- the old-house origin
-- the Karen setting
-- interior and environmental photography
-- menu and reservation access
+- Karen
+- the original house
+- interiors
+- reputation
+- reservation
 
-### Emotional Effect
+The arrival is not controlled by one message alone.
 
-The guest moves from appetite into historical understanding and then into an imagined sense of place.
+Food initially creates appetite, while heritage and place build depth and confidence. :contentReference[oaicite:0]{index=0}
 
-### Distinctive Behaviour
-
-Talisman creates confidence through accumulated character.
-
-Its arrival connects:
+## Arrival Logic
 
 Food
 
@@ -144,145 +179,472 @@ Place
 
 ↓
 
-Ambience
+Atmosphere
+
+↓
+
+Reputation
+
+↓
+
+Reservation
+
+## Strongest Arrival Contribution
+
+Talisman demonstrates that arrival can accumulate meaning through several connected forms of evidence.
+
+## Patterns Supported
+
+- Emotion Before Interface
+- Story Before Features
+- Photography Before Decoration
+- Reservation Throughout the Journey
+- Dual-Path Hospitality
+- Commitment Without Pressure
+- Story Through Place
+- Layered Arrival
+
+## Supporting Behaviour
+
+- Product as Entry Point
+
+---
+
+# Mawimbi
+
+## Arrival Character
+
+Promise-led, product-led, and atmosphere-led.
+
+Mawimbi introduces the guest through a combination of:
+
+- emotional aspiration
+- luxury positioning
+- seafood identity
+- coastal atmosphere
+- social connection
+- early reservation access
+
+Its arrival connects the restaurant's culinary category to the experience it promises.
+
+## Arrival Logic
+
+Emotional Promise
+
+↓
+
+Luxury Positioning
+
+↓
+
+Seafood
+
+↓
+
+Atmosphere
+
+↓
+
+Events and Experience
+
+↓
+
+Reservation
+
+## Strongest Arrival Contribution
+
+Mawimbi demonstrates that a highly product-led restaurant can still lead emotionally before presenting detailed product evidence.
+
+It also gives KHDS a second strong example of a layered arrival. :contentReference[oaicite:1]{index=1}
+
+## Patterns Supported
+
+- Emotion Before Interface
+- Photography Before Decoration
+- Reservation Throughout the Journey
+- Dual-Path Hospitality
+- Commitment Without Pressure
+- Promise Before Proof
+- Layered Arrival
+
+## Supporting Behaviour
+
+- Product as Entry Point
+- Repetition Reinforces Positioning
+
+---
+
+# Cross-Restaurant Comparison
+
+## What Leads the Arrival?
+
+### Ankole
+
+Place and refinement.
+
+### Cultiva
+
+Worldview and emotional promise.
+
+### Talisman
+
+Food, heritage, and place.
+
+### Mawimbi
+
+Promise, seafood, atmosphere, and luxury.
+
+---
+
+# Key Finding
+
+There is no single correct hospitality arrival sequence.
+
+The restaurants use substantially different entry points:
+
+- place
+- worldview
+- product
+- heritage
+- atmosphere
+- emotional promise
+
+Yet each attempts to achieve a similar outcome:
+
+Create Desire
+
+↓
+
+Establish Meaning
+
+↓
+
+Build Confidence
+
+↓
+
+Offer Action
+
+This suggests that KHDS should not standardise one homepage sequence.
+
+It should preserve the underlying function of arrival.
+
+---
+
+# Emerging Pattern
+
+## Emotion Before Interface
+
+All four restaurants establish emotional or experiential value before reducing the experience to practical information.
+
+Independent Evidence:
+
+- Ankole
+- Cultiva
+- Talisman
+- Mawimbi
+
+Status:
+
+Emerging
+
+Confidence:
+
+High
+
+### Current Interpretation
+
+An effective hospitality arrival should give the guest a reason to care before asking them to process the complete functional offer.
+
+The emotion may come from:
+
+- place
+- worldview
+- food
+- heritage
+- atmosphere
+- aspiration
+
+The emotional source can change.
+
+The underlying behaviour remains consistent.
+
+---
+
+# Emerging Pattern
+
+## Reservation Throughout the Journey
+
+All four restaurants make reservation accessible without requiring the guest to finish the entire narrative first.
+
+Independent Evidence:
+
+- Ankole
+- Cultiva
+- Talisman
+- Mawimbi
+
+Status:
+
+Emerging
+
+Confidence:
+
+High
+
+### Current Interpretation
+
+Arrival does not require hiding action.
+
+Emotional experience and booking access can coexist.
+
+---
+
+# Emerging Pattern
+
+## Dual-Path Hospitality
+
+All four restaurants support both:
+
+### Ready Guest
+
+Reserve
+
+and
+
+### Exploring Guest
+
+Discover
+
+↓
+
+Build Confidence
+
+↓
+
+Reserve
+
+Independent Evidence:
+
+- Ankole
+- Cultiva
+- Talisman
+- Mawimbi
+
+Status:
+
+Emerging
+
+Confidence:
+
+High
+
+### Current Interpretation
+
+A hospitality website should not assume every guest arrives at the same decision stage.
+
+---
+
+# Emerging Pattern
+
+## Promise Before Proof
+
+Mawimbi gives this pattern meaningful additional support.
+
+### Cultiva
+
+Leads strongly with worldview and transformation before providing complete evidence.
+
+### Mawimbi
+
+Leads strongly with luxury, connection, exceptional seafood, and atmosphere before fully explaining why those claims should be believed.
+
+### Ankole
+
+Provides partial support through visual promise before detailed explanation.
+
+Independent Evidence:
+
+- Cultiva
+- Mawimbi
+
+Partial Support:
+
+- Ankole
+
+Status:
+
+Emerging
+
+Confidence:
+
+Medium
+
+### Current Interpretation
+
+A strong hospitality arrival may establish aspiration before providing complete proof.
+
+However:
+
+The stronger the promise, the greater the later evidence burden.
+
+This leads to an important tension:
+
+Aspiration
+
+versus
+
+Credibility
+
+---
+
+# Emerging Pattern
+
+## Layered Arrival
+
+Talisman and Mawimbi now provide two strong independent examples.
+
+### Talisman
+
+Food
+
+↓
+
+Heritage
+
+↓
+
+Place
+
+↓
+
+Atmosphere
+
+↓
+
+Reservation
+
+### Mawimbi
+
+Promise
+
+↓
+
+Product
+
+↓
+
+Atmosphere
+
+↓
+
+Experience
+
+↓
+
+Reservation
+
+Ankole and Cultiva provide partial support because their arrivals also develop progressively, though each has a more dominant organising idea.
+
+Strong Independent Evidence:
+
+- Talisman
+- Mawimbi
+
+Partial Support:
+
+- Ankole
+- Cultiva
+
+Status:
+
+Emerging
+
+Confidence:
+
+Medium
+
+### Current Interpretation
+
+Layered Arrival does not mean every restaurant should follow the same sequence.
+
+It means confidence can be built progressively through different forms of evidence.
+
+The transferable behaviour is:
+
+Attention
+
+↓
+
+Meaning
+
+↓
+
+Evidence
+
+↓
+
+Confidence
 
 ↓
 
 Action
 
-The arrival is layered rather than purely food-led, place-led, or philosophy-led.
-
 ---
 
-## Key Similarities
+# Supporting Behaviour
 
-All three restaurants:
+## Product as Entry Point
 
-- establish value before complete operational detail
-- use authentic photography
-- present the restaurant as more than a menu
-- preserve access to reservation
-- allow guests to explore before committing
-- communicate emotional or experiential character early
+Observed In:
 
----
+- Talisman
+- Mawimbi
 
-## Key Differences
+Talisman uses food to begin an arrival that later expands into heritage and place.
 
-### Ankole
-
-- leads primarily through place and visual atmosphere
-- uses restrained written communication
-- creates confidence through polish and pacing
-- feels controlled and image-led
-
-### Cultiva
-
-- leads through emotional promise and worldview
-- uses expressive and aspirational language
-- introduces purpose immediately
-- creates desire through meaning as well as imagery
-
-### Talisman
-
-- leads through several connected layers
-- begins with food, then expands into heritage and place
-- creates confidence through continuity and reputation
-- feels richer and less restrained
-
----
-
-## Existing Pattern Strengthened
-
-### Emotion Before Interface
-
-All three restaurants establish an emotional or experiential impression before presenting the full functional offering.
-
-The method differs:
-
-- Ankole uses place and atmosphere.
-- Cultiva uses promise and worldview.
-- Talisman uses food, heritage, and place.
+Mawimbi uses seafood as a more persistent organising identity.
 
 Status:
 
-Emerging
-
-Independent Evidence:
-
-- Ankole
-- Cultiva
-- Talisman
+Observed
 
 Confidence:
 
-Medium to High
+Medium
+
+### Research Question
+
+When does product become strong enough to organise the entire arrival rather than simply create initial appetite?
+
+Further product-led restaurant research is required.
 
 ---
 
-## Existing Pattern Strengthened
+# Supporting Behaviour
 
-### Reservation Throughout the Journey
+## Place as Emotional Evidence
 
-All three restaurants make reservation accessible without allowing booking to replace the emotional introduction.
-
-Status:
-
-Emerging
-
-Independent Evidence:
+Strongest In:
 
 - Ankole
+- Talisman
+
+Partial Support:
+
 - Cultiva
-- Talisman
+- Mawimbi
 
-Confidence:
+Place can communicate:
 
-Medium to High
-
----
-
-## Existing Pattern Strengthened
-
-### Dual-Path Hospitality
-
-All three experiences support:
-
-- guests who arrive ready to reserve
-- guests who want to explore before committing
+- credibility
+- destination value
+- atmosphere
+- identity
 
 Status:
 
-Emerging
-
-Independent Evidence:
-
-- Ankole
-- Cultiva
-- Talisman
-
-Confidence:
-
-Medium to High
-
----
-
-## Existing Candidate Pattern Strengthened
-
-### Story Through Place
-
-Ankole and Talisman both use the physical setting as an important part of restaurant identity.
-
-Talisman strengthens this further by connecting place to history and continuity.
-
-Status:
-
-Emerging
-
-Independent Evidence:
-
-- Ankole
-- Talisman
+Observed
 
 Confidence:
 
@@ -290,204 +652,270 @@ Medium
 
 ---
 
-## Candidate Pattern
+# New Arrival Question
 
-### Promise Before Proof
+## Product Claim Before Product Proof
 
-Cultiva presents the emotional transformation of the experience before providing detailed evidence about food, farming, culture, or operations.
+Mawimbi raises a new research question.
 
-Ankole partially supports the broader behaviour of emotion before detail, but does not state its promise as explicitly.
+A restaurant may state that its product is exceptional before explaining:
 
-Talisman relies more on evidence through food, history, and place than on a single written promise.
+- sourcing
+- craft
+- freshness
+- technique
+- expertise
 
-Status:
-
-Candidate
-
-Observed In:
-
-- Cultiva
-
-Partially Supported By:
-
-- Ankole
-
-Confidence:
-
-Low to Medium
-
-Needs Confirmation:
-
-- additional promise-led hospitality brands
-
----
-
-## Candidate Pattern
-
-### Layered Arrival
-
-A hospitality website can build desire and confidence through several connected layers rather than relying on one dominant opening device.
-
-Possible layers include:
-
-- food
-- story
-- heritage
-- place
-- atmosphere
-- reputation
-- reservation
-
-Status:
-
-Candidate
-
-Observed In:
-
-- Talisman
-
-Partially Supported By:
-
-- Ankole
-- Cultiva
-
-Confidence:
-
-Low to Medium
-
-Needs Confirmation:
-
-- Tamarind
-- Carnivore
-- additional destination-led restaurants
-
----
-
-## Candidate Pattern
-
-### Heritage Builds Confidence
-
-A restaurant’s history can strengthen guest confidence by demonstrating continuity, reputation, and an established relationship with place.
-
-Status:
-
-Candidate
-
-Observed In:
-
-- Talisman
-
-Confidence:
-
-Low to Medium
-
-Needs Confirmation:
-
-- Tamarind
-- Carnivore
-- other long-established hospitality brands
-
----
-
-## Supporting Behaviour
-
-### Product as Entry Point
-
-Food can create the initial desire that encourages the guest to continue into story, atmosphere, and action.
+This behaviour is distinct from Promise Before Proof because it specifically concerns culinary product claims.
 
 Status:
 
 Observed
 
-Observed In:
-
-- Talisman
-
 Confidence:
 
 Low
 
-This remains a supporting behaviour rather than a formal candidate pattern because Talisman’s complete arrival depends on more than food alone.
+Do not promote to Candidate yet.
+
+Future validation should include:
+
+- seafood restaurants
+- steakhouses
+- sushi restaurants
+- chef-led concepts
+- specialist product restaurants
 
 ---
 
-## Kodawa Labs Concept Validation
+# Research Tension
 
-The Trunk & Tandoor Concept also uses an atmosphere-first and progressively revealed arrival.
+## Aspiration Versus Credibility
 
-It applies:
+Cultiva and Mawimbi both make strong promises early.
 
-- cinematic photography
-- restrained copy
-- controlled pacing
-- progressive information reveal
-- accessible reservation
-- emotional immersion before practical detail
+The benefit is immediate emotional positioning.
 
-The concept aligns with the broader independent finding that premium hospitality arrivals should establish experiential value before presenting the complete offer.
+The risk is that ambitious language may exceed the visible evidence supporting it.
 
-However, it remains a Kodawa Labs validation reference and is not counted as additional independent evidence.
+Status:
 
----
+Observed
 
-## Comparison Insight
+Confidence:
 
-Ankole, Cultiva, and Talisman demonstrate that strong hospitality arrival does not require one fixed visual formula.
+Medium
 
-Ankole answers:
+### Question
 
-“What will it feel like to be there?”
-
-Cultiva answers:
-
-“What could this experience mean or awaken?”
-
-Talisman answers:
-
-“What food, history, and place make this destination worth experiencing?”
-
-The transferable principle is therefore not:
-
-“Every premium restaurant should use the same hero.”
-
-It is:
-
-“The arrival should create desire and confidence before explaining everything the restaurant offers.”
-
-That value may come from:
-
-- atmosphere
-- worldview
-- food
-- heritage
-- place
-- or several connected layers
+How much aspiration strengthens premium positioning before it begins reducing credibility?
 
 ---
 
-## Confidence
+# Research Tension
 
-Medium to High
+## Richness Versus Restraint
 
-### Reason
+Talisman and Mawimbi both use layered arrivals with several kinds of content.
 
-The broader arrival behaviour now appears across three independent restaurant websites with distinct approaches:
+This creates richness.
 
-- Ankole
-- Cultiva
-- Talisman
+It may also create:
 
-The differences strengthen rather than weaken the finding because the principle survives across multiple brand identities and narrative styles.
+- competing messages
+- pacing problems
+- mobile length
+- weaker hierarchy
 
-The newer patterns—Layered Arrival, Heritage Builds Confidence, and Promise Before Proof—still require additional independent confirmation.
+Status:
+
+Observed
+
+Confidence:
+
+Medium
+
+Website observation alone cannot determine actual guest response.
 
 ---
 
-## Next Validation Targets
+# Arrival Diversity
 
-- Tamarind
-- Carnivore
-- Oretta
-- additional heritage-led restaurants
-- additional destination-led restaurants
-- additional purpose-led hospitality brands
+The four restaurants currently demonstrate four meaningfully different models.
+
+## Model 1 — Place-Led Arrival
+
+Example:
+
+Ankole
+
+Primary Driver:
+
+Physical setting and refinement.
+
+---
+
+## Model 2 — Worldview-Led Arrival
+
+Example:
+
+Cultiva
+
+Primary Driver:
+
+Belief, philosophy, and emotional promise.
+
+---
+
+## Model 3 — Heritage-Layered Arrival
+
+Example:
+
+Talisman
+
+Primary Driver:
+
+Food expanding into history and place.
+
+---
+
+## Model 4 — Product-Promise Arrival
+
+Example:
+
+Mawimbi
+
+Primary Driver:
+
+Emotional promise, seafood, atmosphere, and luxury.
+
+---
+
+# KHDS Arrival Principle Under Development
+
+The evidence currently suggests that KHDS should not prescribe:
+
+Hero
+
+↓
+
+Story
+
+↓
+
+Gallery
+
+↓
+
+Reservation
+
+as a universal formula.
+
+Instead, arrival should answer four functional questions.
+
+## 1. Why should I care?
+
+Create desire.
+
+## 2. What kind of place is this?
+
+Establish identity.
+
+## 3. Why should I believe the promise?
+
+Provide evidence.
+
+## 4. What can I do next?
+
+Provide action.
+
+Restaurants may answer these questions in different orders and through different media.
+
+---
+
+# Current Arrival Pattern Position
+
+## Emerging
+
+- Emotion Before Interface
+- Reservation Throughout the Journey
+- Dual-Path Hospitality
+- Promise Before Proof
+- Layered Arrival
+
+## Supporting Behaviours
+
+- Product as Entry Point
+- Place as Emotional Evidence
+
+## Observed Research Direction
+
+- Product Claim Before Product Proof
+
+## Research Tensions
+
+- Aspiration Versus Credibility
+- Richness Versus Restraint
+
+---
+
+# Current Confidence
+
+Arrival research now includes four independent restaurants with meaningfully different identities.
+
+This is enough to increase confidence in several patterns.
+
+It is not enough to classify any arrival pattern as Validated.
+
+The highest appropriate status remains:
+
+Emerging
+
+---
+
+# Next Validation Questions
+
+Future restaurant studies should ask:
+
+- Does Emotion Before Interface survive in more functional or high-volume restaurants?
+- Does Layered Arrival still work when the restaurant has a very simple brand?
+- Can product alone carry arrival?
+- When should place dominate story?
+- How much proof should follow an aspirational promise?
+- Can a very direct reservation-first experience still feel premium?
+- How does arrival change on mobile?
+- At what point does richness weaken pacing?
+
+---
+
+# Current Knowledge Statement
+
+The four independent restaurants show that strong hospitality arrival is not defined by one visual formula.
+
+Ankole uses place.
+
+Cultiva uses worldview.
+
+Talisman uses food, heritage, and place.
+
+Mawimbi uses promise, product, and atmosphere.
+
+The repeated behaviour underneath those differences is:
+
+Create Desire
+
+↓
+
+Establish Meaning
+
+↓
+
+Build Confidence
+
+↓
+
+Enable Action
+
+KHDS should therefore standardise the purpose of arrival, not its appearance or exact sequence.
+
+That is the strongest arrival conclusion supported by the current evidence.
