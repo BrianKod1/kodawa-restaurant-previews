@@ -2,21 +2,22 @@
 
 ## Purpose
 
-This dashboard provides a current snapshot of KHDS research maturity.
+The Validation Dashboard provides a current operational view of KHDS research.
 
 It tracks:
 
-- independent restaurant research
-- Kodawa Labs validation studies
-- Emerging patterns
-- Candidate patterns
-- Partially Supported findings
-- Existing implementation patterns
+- independent restaurant coverage
+- current pattern maturity
+- unresolved findings
+- pattern promotions
+- abstraction reviews
+- contradictions
 - research tensions
-- opportunities and gaps
-- current validation position
+- business opportunities and gaps
+- validation requirements
+- next research priorities
 
-The dashboard summarizes the current evidence.
+The dashboard summarises the current state.
 
 Detailed evidence remains in:
 
@@ -29,148 +30,919 @@ Detailed evidence remains in:
 
 # Current Research Position
 
-## Independent Restaurants Studied
+Independent Restaurants Studied:
 
-4
+5
 
-- Ankole
-- Cultiva
-- Talisman
-- Mawimbi
+1. Ankole
+2. Cultiva
+3. Talisman
+4. Mawimbi
+5. Bistro Lolo
 
-## Kodawa Labs Validation Concepts
+Kodawa Labs Validation Concepts:
 
 1
 
 - Trunk & Tandoor Concept
 
-## Emerging Patterns
+Emerging Patterns:
 
-15
+16
 
-## Candidate Patterns
+Candidate Patterns:
 
-10
+9
 
-## Partially Supported Findings
-
-1
-
-## Validated Research-Derived Patterns
-
-0
-
-## KHDS Principles Promoted From Research
-
-0
-
-## Existing KHDS Implementation Patterns Pending Formal Validation
+Partially Supported Findings:
 
 1
 
-- Invitation
+Validated Research-Derived Patterns:
 
-## Opportunity Themes Identified
+0
 
-19
+KHDS Principles Promoted From Research:
 
----
+0
 
-# Highest Current Research Status
+Existing KHDS Implementation Patterns Pending Formal Validation:
+
+1
+
+Opportunity Themes Identified:
+
+30
+
+Highest Current Research-Derived Status:
 
 Emerging
-
-No research-derived pattern currently meets the threshold for:
-
-Validated
-
-or
-
-KHDS Principle
-
-The addition of Mawimbi strengthens the evidence base but does not change the maximum justified maturity.
 
 ---
 
 # Independent Research Set
 
-| Restaurant | Primary Research Contribution | Status |
+| Restaurant | Primary Research Character | Status |
 |---|---|---|
-| Ankole | Refinement, place, atmosphere, reservation access | Complete |
-| Cultiva | Worldview, cultivation, process, participatory story | Complete |
-| Talisman | Heritage, continuity, layered arrival, human confirmation | Complete |
-| Mawimbi | Product, designed escape, narrative concept, reservation complexity | Complete |
+| Ankole | Refinement and place | Complete |
+| Cultiva | Worldview and cultivation | Complete |
+| Talisman | Heritage and continuity | Complete |
+| Mawimbi | Product, designed escape, and social experience | Complete |
+| Bistro Lolo | Belonging, architecture, social rhythm, and neighbourhood hospitality | Complete |
 
 ---
 
 # Kodawa Labs Validation
 
-Kodawa Labs concepts remain separate from independent research evidence.
-
-Current validation reference:
-
 ## Trunk & Tandoor Concept
 
 Classification:
 
-Kodawa Labs Validation Study
+Kodawa Labs Validation Concept
 
-Purpose:
+Status:
 
-Test whether KHDS thinking can be translated into a production-style hospitality experience.
-
-Current Study:
-
-`trunk-tandoor/arrival-pattern-study.md`
+Validation Reference
 
 Independent Evidence Contribution:
 
-None
+0
 
-Important:
+Purpose:
+
+Test whether KHDS knowledge can be translated into a production-style hospitality experience.
+
+Relevant Study:
+
+`trunk-tandoor/arrival-pattern-study.md`
+
+### Governance Rule
 
 Kodawa Labs concepts may validate implementation.
 
-They do not increase independent pattern maturity.
+They must not increase independent research maturity.
 
 ---
 
-# Emerging Patterns
+# Current Emerging Patterns
 
-| Pattern | Independent Evidence | Confidence |
-|---|---|---|
-| Emotion Before Interface | Ankole, Cultiva, Talisman, Mawimbi | High |
-| Story Before Features | Ankole, Cultiva, Talisman, Mawimbi | High |
-| Photography Before Decoration | Ankole, Cultiva, Talisman, Mawimbi | High |
-| Reservation Throughout the Journey | Ankole, Cultiva, Talisman, Mawimbi | High |
-| Atmosphere Through Consistency | Ankole, Cultiva, Talisman, Mawimbi | High |
-| Dual-Path Hospitality | Ankole, Cultiva, Talisman, Mawimbi | High |
-| Commitment Without Pressure | Ankole, Cultiva, Talisman, Mawimbi | High |
-| Photography as Proof | Ankole, Cultiva, Talisman, Mawimbi | High |
-| Story Through Place | Ankole, Talisman; partial Cultiva, Mawimbi | Medium |
-| Promise Before Proof | Cultiva, Mawimbi; partial Ankole | Medium |
-| Layered Arrival | Talisman, Mawimbi; partial Ankole, Cultiva | Medium |
-| One Idea Can Organise the Brand Story | Cultiva, Mawimbi; partial Ankole, Talisman | Medium to High |
-| The Guest as Participant | Cultiva, Mawimbi | Medium |
-| Photography Through Layers of Experience | Talisman, Mawimbi; partial Ankole, Cultiva | Medium |
-| Human Confirmation as Hospitality | Talisman, Mawimbi | Medium |
+## 1. Emotion Before Interface
+
+Status:
+
+Emerging
+
+Evidence:
+
+- Ankole
+- Cultiva
+- Talisman
+- Mawimbi
+- Bistro Lolo
+
+Confidence:
+
+High
+
+Current Learning:
+
+A hospitality experience should establish a meaningful feeling before presenting the complete functional offer.
+
+Bistro Lolo broadens this pattern by demonstrating that the feeling may be:
+
+- familiarity
+- comfort
+- belonging
+
+rather than dramatic aspiration.
 
 ---
 
-# Candidate Patterns
+## 2. Story Before Features
 
-| Pattern | Strongest Evidence | Confidence |
-|---|---|---|
-| Atmosphere Through Worldview | Cultiva; related Mawimbi | Medium |
-| Show the System Behind the Plate | Cultiva; partial Mawimbi | Low to Medium |
-| Heritage Builds Confidence | Talisman | Low to Medium |
-| Growth as Narrative | Talisman | Low |
-| Atmosphere Through Continuity | Talisman; partial Ankole | Low to Medium |
-| Designed Escape | Mawimbi | Low |
-| Atmosphere as Product | Mawimbi; partial Ankole, Talisman | Low to Medium |
-| World Before Biography | Mawimbi; partial Cultiva | Low to Medium |
-| Narrative Language as Interface | Mawimbi | Low |
-| Escalating Reservation Complexity | Mawimbi; partial Talisman | Low to Medium |
+Status:
+
+Emerging
+
+Evidence:
+
+- Ankole
+- Cultiva
+- Talisman
+- Mawimbi
+- Bistro Lolo
+
+Confidence:
+
+High
+
+Current Learning:
+
+Story may be:
+
+- explicit
+- implicit
+- spatial
+- inherited
+- distributed
+- conceptual
+- biographical
+- behavioural
+
+The underlying requirement is meaning before pure functionality.
+
+---
+
+## 3. Photography Before Decoration
+
+Status:
+
+Emerging
+
+Evidence:
+
+- Ankole
+- Cultiva
+- Talisman
+- Mawimbi
+- Bistro Lolo
+
+Confidence:
+
+High
+
+Current Learning:
+
+Real hospitality evidence should carry more visual meaning than decorative treatment wherever possible.
+
+---
+
+## 4. Reservation Throughout the Journey
+
+Status:
+
+Emerging
+
+Evidence:
+
+- Ankole
+- Cultiva
+- Talisman
+- Mawimbi
+- Bistro Lolo
+
+Confidence:
+
+High
+
+Current Learning:
+
+The appropriate participation path should remain accessible.
+
+Participation may mean:
+
+- reserve
+- request
+- inquire
+- contact
+- walk in
+
+This pattern does not require repeating the same Reserve CTA throughout the site.
+
+---
+
+## 5. Atmosphere Through Consistency
+
+Status:
+
+Emerging
+
+Evidence:
+
+- Ankole
+- Cultiva
+- Talisman
+- Mawimbi
+- Bistro Lolo
+
+Confidence:
+
+High
+
+Current Learning:
+
+Atmosphere becomes stronger when several signals reinforce one emotional direction.
+
+Consistency does not require stylistic sameness.
+
+---
+
+## 6. Dual-Path Hospitality
+
+Status:
+
+Emerging
+
+Evidence:
+
+- Ankole
+- Cultiva
+- Talisman
+- Mawimbi
+- Bistro Lolo
+
+Confidence:
+
+High
+
+Current Learning:
+
+The current evidence now exceeds a literal two-path model.
+
+Observed guest states include:
+
+- exploring
+- planned
+- spontaneous
+- complex
+- event-oriented
+- existing hospitality guest
+
+Review:
+
+Possible future abstraction:
+
+`Multi-Intent Hospitality`
+
+Do not rename yet.
+
+---
+
+## 7. Commitment Without Pressure
+
+Status:
+
+Emerging
+
+Evidence:
+
+- Ankole
+- Cultiva
+- Talisman
+- Mawimbi
+- Bistro Lolo
+
+Confidence:
+
+High
+
+Current Learning:
+
+Hospitality should make action accessible without reducing guest autonomy.
+
+Bistro Lolo adds strong evidence that valid non-reservation participation may remain available.
+
+---
+
+## 8. Photography as Proof
+
+Status:
+
+Emerging
+
+Evidence:
+
+- Ankole
+- Cultiva
+- Talisman
+- Mawimbi
+- Bistro Lolo
+
+Confidence:
+
+High
+
+Current Proof Categories:
+
+- Product Proof
+- Place Proof
+- Process Proof
+- Atmosphere Proof
+- Occasion Proof
+- Use Proof
+
+These remain categories within one pattern.
+
+---
+
+## 9. Story Through Place
+
+Status:
+
+Emerging
+
+Strong Evidence:
+
+- Ankole
+- Talisman
+- Bistro Lolo
+
+Partial Support:
+
+- Cultiva
+- Mawimbi
+
+Confidence:
+
+High
+
+Current Learning:
+
+Place may carry narrative through:
+
+- architecture
+- environmental character
+- location
+- physical history
+- local context
+
+Bistro Lolo demonstrates that place history does not require restaurant longevity.
+
+---
+
+## 10. Promise Before Proof
+
+Status:
+
+Emerging
+
+Strong Evidence:
+
+- Cultiva
+- Mawimbi
+
+Partial Support:
+
+- Ankole
+
+Boundary Evidence:
+
+- Bistro Lolo
+
+Confidence:
+
+Medium
+
+Current Learning:
+
+The pattern appears strongest for:
+
+- aspiration-led hospitality
+- luxury positioning
+- transformational hospitality
+- concept-heavy brands
+
+Bistro Lolo demonstrates that premium desire can also emerge through familiarity and belonging.
+
+Review:
+
+Scope refinement required.
+
+---
+
+## 11. Layered Arrival
+
+Status:
+
+Emerging
+
+Strong Evidence:
+
+- Talisman
+- Mawimbi
+
+Partial Support:
+
+- Ankole
+- Cultiva
+- Bistro Lolo
+
+Confidence:
+
+Medium to High
+
+Current Learning:
+
+Layering may be:
+
+Sequential
+
+or
+
+Ambient
+
+The transferable behaviour is progressive confidence-building, not a fixed section order.
+
+---
+
+## 12. One Idea Can Organise the Brand Story
+
+Status:
+
+Emerging
+
+Strong Evidence:
+
+- Cultiva
+- Mawimbi
+
+Partial Support:
+
+- Ankole
+- Talisman
+
+Boundary Evidence:
+
+- Bistro Lolo
+
+Confidence:
+
+Medium to High
+
+Current Learning:
+
+One strong idea can organise a hospitality brand.
+
+However, Bistro Lolo demonstrates that coherence may also emerge from several aligned values.
+
+Review:
+
+Possible future abstraction:
+
+`Narrative Coherence Through Organising Logic`
+
+Do not rename yet.
+
+---
+
+## 13. The Guest as Participant
+
+Status:
+
+Emerging
+
+Strong Evidence:
+
+- Cultiva
+- Mawimbi
+- Bistro Lolo
+
+Partial Support:
+
+- Ankole
+- Talisman
+
+Confidence:
+
+High
+
+Current Participation Types:
+
+- philosophical
+- narrative
+- experiential
+- social
+
+Current Learning:
+
+The guest should understand how they belong inside the hospitality experience.
+
+---
+
+## 14. Photography Through Layers of Experience
+
+Status:
+
+Emerging
+
+Strong Evidence:
+
+- Talisman
+- Mawimbi
+- Bistro Lolo
+
+Partial Support:
+
+- Ankole
+- Cultiva
+
+Confidence:
+
+High
+
+Current Layers Include:
+
+- food
+- interiors
+- architecture
+- process
+- people
+- environment
+- occasion
+- behaviour
+- social use
+- daypart
+
+---
+
+## 15. Human Confirmation as Hospitality
+
+Status:
+
+Emerging
+
+Supporting Evidence:
+
+- Talisman
+- Mawimbi
+
+Boundary Evidence:
+
+- Bistro Lolo
+
+Confidence:
+
+Medium
+
+Current Learning:
+
+Human involvement may create value when booking requires:
+
+- judgment
+- flexibility
+- special requests
+- groups
+- events
+- complex coordination
+
+Current evidence does not prove that human confirmation is superior to instant confirmation.
+
+Review:
+
+Scope refinement required.
+
+Possible future logic:
+
+Human Assistance When Complexity Requires It
+
+---
+
+## 16. Atmosphere as Product
+
+Status:
+
+Emerging
+
+Strong Evidence:
+
+- Mawimbi
+- Bistro Lolo
+
+Partial Support:
+
+- Ankole
+- Talisman
+
+Conceptual Support:
+
+- Cultiva
+
+Confidence:
+
+Medium to High
+
+Current Learning:
+
+Atmosphere may become valuable enough that it forms part of the guest’s decision to visit.
+
+Mawimbi demonstrates:
+
+Escape
+
+Bistro Lolo demonstrates:
+
+Belonging
+
+The commercial role survives both models.
+
+Promotion:
+
+Candidate → Emerging after Bistro Lolo reconciliation.
+
+---
+
+# Current Candidate Patterns
+
+## 1. Atmosphere Through Worldview
+
+Status:
+
+Candidate / Under Review
+
+Strong Evidence:
+
+- Cultiva
+
+Boundary Evidence:
+
+- Mawimbi
+- Bistro Lolo
+
+Confidence:
+
+Medium
+
+Review:
+
+Likely too narrow.
+
+Possible future abstraction:
+
+`Atmosphere Through Organising Idea`
+
+Do not rename yet.
+
+---
+
+## 2. Show the System Behind the Plate
+
+Status:
+
+Candidate
+
+Strong Evidence:
+
+- Cultiva
+
+Partial Evidence:
+
+- Mawimbi
+- Bistro Lolo
+
+Confidence:
+
+Medium
+
+Current Learning:
+
+Most relevant where:
+
+- sourcing
+- ingredients
+- process
+- preparation
+- craft
+
+materially differentiate the restaurant.
+
+---
+
+## 3. Heritage Builds Confidence
+
+Status:
+
+Candidate
+
+Strong Evidence:
+
+- Talisman
+
+Boundary Evidence:
+
+- Bistro Lolo
+
+Confidence:
+
+Medium
+
+Review:
+
+Distinguish:
+
+Business Heritage
+
+from
+
+Place Heritage.
+
+---
+
+## 4. Growth as Narrative
+
+Status:
+
+Candidate
+
+Strong Evidence:
+
+- Talisman
+
+Boundary / Not Applicable:
+
+- Bistro Lolo
+
+Confidence:
+
+Low to Medium
+
+Current Learning:
+
+Growth can be meaningful when development over time is itself part of the brand story.
+
+It is not universal.
+
+---
+
+## 5. Atmosphere Through Continuity
+
+Status:
+
+Candidate
+
+Strong Evidence:
+
+- Talisman
+
+Partial Evidence:
+
+- Bistro Lolo
+- Ankole
+
+Confidence:
+
+Medium
+
+Current Continuity Types:
+
+- business continuity
+- architectural continuity
+- spatial continuity
+- cultural continuity
+
+---
+
+## 6. Designed Escape
+
+Status:
+
+Candidate
+
+Strong Evidence:
+
+- Mawimbi
+
+Partial Support:
+
+- Ankole
+- Talisman
+
+Boundary Evidence:
+
+- Bistro Lolo
+
+Confidence:
+
+Medium
+
+Current Learning:
+
+Designed Escape appears to be one valid atmospheric model rather than a general premium hospitality rule.
+
+---
+
+## 7. World Before Biography
+
+Status:
+
+Candidate
+
+Strongest Evidence:
+
+- Mawimbi
+
+Partial Support:
+
+- Cultiva
+
+Boundary Evidence:
+
+- Talisman
+- Bistro Lolo
+
+Confidence:
+
+Low to Medium
+
+Review:
+
+Sequence may be too prescriptive.
+
+---
+
+## 8. Narrative Language as Interface
+
+Status:
+
+Candidate
+
+Strong Evidence:
+
+- Mawimbi
+
+Partial Support:
+
+- Cultiva
+
+Boundary Evidence:
+
+- Bistro Lolo
+
+Confidence:
+
+Low to Medium
+
+Current Learning:
+
+Narrative vocabulary may increase immersion, but custom terminology should justify its clarity cost.
+
+---
+
+## 9. Escalating Reservation Complexity
+
+Status:
+
+Candidate
+
+Strong Evidence:
+
+- Mawimbi
+
+Partial Evidence:
+
+- Talisman
+- Bistro Lolo
+
+Confidence:
+
+Medium
+
+Current Learning:
+
+Increasing reservation complexity may justify increasing human involvement.
+
+Limitation:
+
+Website evidence still proves channel variation more strongly than verified backend routing.
 
 ---
 
@@ -178,142 +950,384 @@ They do not increase independent pattern maturity.
 
 ## Own the Guest Relationship
 
-Independent Evidence:
+Status:
+
+Partially Supported
+
+Evidence:
 
 - Ankole
 - Cultiva
 - Talisman
 - Mawimbi
-
-Status:
-
-Partially Supported
+- Bistro Lolo
 
 Confidence:
 
 Medium
 
-Current evidence supports visible direct guest communication or branded access.
+Website Evidence Supports:
 
-Website observation does not prove:
+- direct communication
+- branded entrypoints
+- visible booking paths
+- third-party routing
+
+Website Evidence Does Not Prove:
 
 - CRM ownership
-- customer-data ownership
 - payment-data ownership
-- reservation-history ownership
+- reservation-record ownership
+- guest-history ownership
 - remarketing rights
-- third-party contractual control
+- backend integration
+- platform contracts
 
-Promotion Requirement:
+Governance Rule:
 
-Operational or technical evidence.
-
----
-
-# Mawimbi Promotion Reconciliation
-
-The Mawimbi cycle supports the following Candidate → Emerging promotions:
-
-1. Promise Before Proof
-2. Layered Arrival
-3. One Idea Can Organise the Brand Story
-4. The Guest as Participant
-5. Photography Through Layers of Experience
-6. Human Confirmation as Hospitality
-
-These promotions are now reflected in:
-
-- `candidate-patterns.md`
-- `../../patterns/registry.md`
-
-No Mawimbi finding has been promoted to Validated.
+Operational evidence is required before promotion.
 
 ---
 
-# New Candidate Patterns From Mawimbi
+# Observed Research Directions
 
-Mawimbi introduced:
+The following remain below Candidate status.
 
-1. Designed Escape
-2. Atmosphere as Product
-3. World Before Biography
-4. Narrative Language as Interface
-5. Escalating Reservation Complexity
-
-These remain Candidate.
+They are not official patterns.
 
 ---
-
-# Research Directions Below Candidate
 
 ## Photography Should Demonstrate Difference
 
-Question:
-
-Can product photography explain why a restaurant's core culinary product is distinctive rather than simply attractive?
-
-Strongest Evidence:
+Evidence:
 
 - Mawimbi
+- Bistro Lolo
+- Cultiva conceptual
 
-Conceptual Support:
+Confidence:
 
-- Cultiva
+Medium to High
 
-Status:
+Question:
 
-Observed
+Can product photography explain why the restaurant is distinct rather than merely attractive?
 
 ---
 
 ## Product Claim Before Product Proof
 
-Question:
-
-How much product evidence should follow a strong premium claim?
-
-Strongest Evidence:
+Evidence:
 
 - Mawimbi
+- Bistro Lolo partial
 
-Status:
+Confidence:
 
-Observed
+Low to Medium
+
+Question:
+
+How quickly should product evidence follow strong culinary or premium claims?
 
 ---
 
-# Pattern Under Review
+## Designed Belonging
+
+Evidence:
+
+- Bistro Lolo
+
+Possible Partial Support:
+
+- Ankole
+- Talisman
+
+Confidence:
+
+Low to Medium
+
+Question:
+
+Can hospitality create premium value through deeper connection to the surrounding place?
+
+---
+
+## Atmosphere Through Use
+
+Evidence:
+
+- Bistro Lolo
+- Mawimbi partial
+- Talisman partial
+
+Confidence:
+
+Low to Medium
+
+Question:
+
+Can behaviour communicate atmosphere as strongly as physical design?
+
+---
+
+## Hospitality Through Rhythm
+
+Evidence:
+
+- Bistro Lolo
+
+Confidence:
+
+Low to Medium
+
+Question:
+
+Can hospitality identity be organised through changing use across dayparts?
+
+---
+
+## Familiarity Before Aspiration
+
+Evidence:
+
+- Bistro Lolo
+
+Confidence:
+
+Low
+
+Question:
+
+Can familiarity and belonging create premium desire without large aspirational promises?
+
+---
+
+## Photography as Use-Case Evidence
+
+Evidence:
+
+- Bistro Lolo
+- Mawimbi partial
+- Talisman partial
+
+Confidence:
+
+Medium
+
+Question:
+
+Can photography improve understanding by showing how people actually use the experience?
+
+---
+
+## Daypart Photography
+
+Evidence:
+
+- Bistro Lolo
+
+Confidence:
+
+Low to Medium
+
+Question:
+
+Can photography across morning, afternoon, and evening communicate multiple restaurant identities while preserving coherence?
+
+---
+
+## Founders as Hosts
+
+Evidence:
+
+- Bistro Lolo
+
+Confidence:
+
+Low to Medium
+
+Question:
+
+Can founder biography become hospitality when it explains what guests are invited to share?
+
+---
+
+## Story Through Reinterpretation
+
+Evidence:
+
+- Bistro Lolo
+
+Conceptual Contrast:
+
+- Talisman
+
+Confidence:
+
+Low to Medium
+
+Question:
+
+Can reinterpretation create narrative depth similar to accumulated continuity?
+
+---
+
+## Friendship as Brand Origin
+
+Evidence:
+
+- Bistro Lolo
+
+Confidence:
+
+Low
+
+Question:
+
+Can relational origin stories create warmth differently from traditional founder credentials?
+
+---
+
+# Pattern Promotion History
+
+## After Mawimbi
+
+Candidate → Emerging:
+
+- Promise Before Proof
+- Layered Arrival
+- One Idea Can Organise the Brand Story
+- The Guest as Participant
+- Photography Through Layers of Experience
+- Human Confirmation as Hospitality
+
+---
+
+## After Bistro Lolo
+
+Candidate → Emerging:
+
+- Atmosphere as Product
+
+No other pattern changed maturity.
+
+Bistro Lolo primarily created:
+
+- stronger confidence
+- boundary evidence
+- definition refinement
+- abstraction review
+
+rather than broad promotion.
+
+---
+
+# Patterns Under Active Review
+
+## Promise Before Proof
+
+Review:
+
+Scope
+
+Reason:
+
+Bistro Lolo creates premium desire through familiarity and belonging without a strong aspirational promise.
+
+---
+
+## One Idea Can Organise the Brand Story
+
+Review:
+
+Abstraction
+
+Reason:
+
+Bistro Lolo remains coherent through several aligned values.
+
+Potential Direction:
+
+`Narrative Coherence Through Organising Logic`
+
+---
+
+## Human Confirmation as Hospitality
+
+Review:
+
+Scope
+
+Reason:
+
+Routine self-service can coexist with strong human accessibility.
+
+Potential Direction:
+
+Human support where complexity creates value.
+
+---
 
 ## Atmosphere Through Worldview
 
-Current Status:
+Review:
 
-Candidate
+Abstraction
 
-Research Concern:
+Reason:
 
-Mawimbi suggests that the current pattern name may be too narrow.
-
-Possible deeper abstraction:
-
-Atmosphere Through Organising Idea
-
-Possible organising ideas include:
+Current atmosphere models include:
 
 - worldview
-- place
-- heritage
+- continuity
 - escape
-- cuisine
-- ritual
-- culture
-- journey
+- belonging
+- refinement
 
-Decision:
+Potential Direction:
 
-Do not rename yet.
+`Atmosphere Through Organising Idea`
 
-Additional independent evidence is required.
+---
+
+## Dual-Path Hospitality
+
+Review:
+
+Abstraction
+
+Reason:
+
+The current restaurant set reveals more than two guest-intent states.
+
+Potential Direction:
+
+`Multi-Intent Hospitality`
+
+---
+
+## World Before Biography
+
+Review:
+
+Scope
+
+Reason:
+
+Bistro Lolo demonstrates reciprocal reinforcement between founders and brand world.
+
+---
+
+## Narrative Language as Interface
+
+Review:
+
+Scope
+
+Reason:
+
+Strong narrative identity can coexist with conventional navigation.
 
 ---
 
@@ -329,11 +1343,15 @@ Research Status:
 
 Pending Formal Validation
 
-Purpose:
+Independent Evidence Contribution:
 
-Transition the guest from initial visual impact into the restaurant's emotional promise.
+0 unless separately established through independent research.
 
-Related Research Findings:
+Current Purpose:
+
+Transition the guest from initial visual impact into the restaurant’s emotional promise.
+
+Related Research:
 
 - Emotion Before Interface
 - Story Before Features
@@ -341,244 +1359,53 @@ Related Research Findings:
 - Layered Arrival
 - Atmosphere Through Consistency
 
-Kodawa Labs Validation:
+Kodawa Labs Validation Reference:
 
 - Trunk & Tandoor Concept
 
-Important:
-
-Invitation is not currently:
-
-- Candidate
-- Emerging
-- Validated
-- KHDS Principle
-
-Existing implementation does not equal independent research validation.
-
----
-
-# Supporting Behaviours
-
-Current supporting behaviours include:
-
-- Product as Entry Point
-- Food as Sensory Entry Point
-- Place as Emotional Evidence
-- Reservation as Confidence Signal
-- Language Can Reinforce Atmosphere
-- Product Can Reinforce Atmosphere
-- Process Photography Builds Credibility
-- Occasion Photography Can Support Revenue
-- Story Can Be Implicit
-- History Can Create Reputation Evidence
-- Product Can Carry Narrative
-- Team Can Belong to the Story
-- Multiple Booking Channels Increase Access
-- Booking Policies Can Build Confidence
-- Reservation Can Reflect Brand Character
-
-Supporting behaviours do not automatically become Candidate Patterns.
+Existing implementation does not equal research validation.
 
 ---
 
 # Research Tensions
 
-## Richness Versus Restraint
-
-Relevant To:
-
-- Talisman
-- Mawimbi
-
-Question:
-
-How much richness strengthens character before hierarchy and pacing weaken?
-
----
-
-## Implicit Story Versus Explicit Story
-
-Relevant To:
-
-- Ankole
-- Talisman
-
-Question:
-
-How much story must be stated directly for guests to understand it?
-
----
-
-## Curation Versus Completeness
-
-Relevant To:
-
-- Cultiva
-- Talisman
-- Mawimbi
-
-Question:
-
-How much content should be shown before richness becomes documentation?
-
----
-
-## Human Confirmation Versus Immediate Certainty
-
-Relevant To:
-
-- Talisman
-- Mawimbi
-
-Confidence:
-
-High
-
-Question:
-
-When does human confirmation create hospitality, and when does it create friction?
-
----
-
-## Direct Relationship Versus Third-Party Convenience
-
-Relevant Across:
-
-- current reservation research set
-
-Question:
-
-How much third-party convenience can be accepted before restaurant control weakens?
-
----
-
-## Aspiration Versus Credibility
-
-Relevant To:
-
-- Cultiva
-- Mawimbi
-
-Question:
-
-How strong can premium claims become before they require more evidence than the website provides?
-
----
-
-## Immersion Versus Theme
-
-Strongest In:
-
-- Mawimbi
-
-Question:
-
-When does immersive branding become overly literal?
-
----
-
-## Brand Language Versus Clarity
-
-Strongest In:
-
-- Mawimbi
-
-Question:
-
-When does branded interface language improve memorability at the expense of comprehension?
-
----
-
-## Concept Versus Substance
-
-Relevant To:
-
-- Cultiva
-- Mawimbi
-
-Question:
-
-How much product, people, process, and place evidence must support a strong narrative concept?
-
----
-
-## Appetite Versus Evidence
-
-Strongest In:
-
-- Mawimbi
-
-Relevant To:
-
-- Cultiva
-
-Question:
-
-When should product photography create appetite, and when must it prove differentiation?
-
----
-
-## Visual Richness Versus Editorial Control
-
-Relevant To:
-
-- Talisman
-- Mawimbi
-
-Question:
-
-When does image variety weaken hierarchy, sequence, and mobile pacing?
-
----
-
-## Automation Versus Hospitality
-
-Relevant To:
-
-- Talisman
-- Mawimbi
-
-Question:
-
-Which interactions become more valuable through automation, and which benefit from human involvement?
-
----
-
-## Guest Choice Versus Operational Complexity
-
-Strongest In:
-
-- Mawimbi
-
-Question:
-
-How many reservation channels increase accessibility before they become difficult to coordinate?
-
----
-
-## Heritage Versus Human Detail
-
-Strongest In:
-
-- Talisman
-
-Question:
-
-Does heritage become more emotionally powerful when the people behind it are visible?
-
----
-
-## Narrative Coherence Versus Narrative Variety
-
-Relevant To:
-
-- Cultiva
-- Mawimbi
-
-Question:
-
-How strongly should one organising idea control the broader story?
+Research tensions are not patterns.
+
+They represent unresolved trade-offs that future restaurant research should test.
+
+Current tensions include:
+
+1. Richness Versus Restraint
+2. Implicit Story Versus Explicit Story
+3. Curation Versus Completeness
+4. Human Confirmation Versus Immediate Certainty
+5. Direct Relationship Versus Third-Party Convenience
+6. Aspiration Versus Credibility
+7. Immersion Versus Theme
+8. Brand Language Versus Clarity
+9. Concept Versus Substance
+10. Appetite Versus Evidence
+11. Visual Richness Versus Editorial Control
+12. Automation Versus Hospitality
+13. Guest Choice Versus Operational Complexity
+14. Heritage Versus Human Detail
+15. Narrative Coherence Versus Narrative Variety
+16. Escape Versus Belonging
+17. Premium Versus Familiar
+18. Flexibility Versus Positioning
+19. Heritage Versus Reinterpretation
+20. Visual Control Versus Lived Energy
+21. Product Versus Lifestyle
+22. Architectural Beauty Versus Restaurant Clarity
+23. Editorial Polish Versus Lived Energy
+24. Proof Versus Aspiration
+25. Spontaneity Versus Reservation Optimisation
+26. Channel Choice Versus Decision Simplicity
+27. Platform Efficiency Versus Brand Continuity
+28. Coherence Versus Singular Idea
+29. Founder Story Versus Restaurant Story
+30. Local Story Versus International Influence
+31. Informality Versus Brand Craft
 
 ---
 
@@ -586,861 +1413,18 @@ How strongly should one organising idea control the broader story?
 
 ## Purpose
 
-This section tracks business, experience, and operational opportunities discovered during restaurant research.
+This section tracks business, experience, and operational opportunities discovered during independent restaurant research.
 
 These are not automatically KHDS patterns.
 
-They represent areas where restaurants may improve through:
+They may become:
 
-- better digital design
-- stronger direct booking
-- better guest communication
-- automation
-- stronger storytelling
-- improved mobile experience
-- deeper customer relationships
-- stronger revenue pathways
+- client recommendations
+- product opportunities
+- prototypes
+- future Kodawa Labs offerings
 
----
-
-# Current Opportunity Themes
-
-## 1. Direct Reservation Ownership
-
-Observed Across:
-
-- Ankole
-- Cultiva
-- Talisman
-- Mawimbi
-
-Opportunity:
-
-Restaurants may benefit from keeping more of the reservation journey inside their own branded ecosystem.
-
-Current research does not establish full ownership of:
-
-- guest data
-- reservation records
-- deposits
-- CRM
-- remarketing rights
-
-Potential Kodawa Labs Direction:
-
-- ReserveAI
-- embedded booking
-- WhatsApp booking
-- automated confirmation
-- reminders
-- waitlists
-- deposits
-- guest CRM
-
-Categories:
-
-- Revenue
-- Conversion
-- Guest Relationship
-- Operations
-
-Status:
-
-Potential Opportunity
-
----
-
-## 2. Human Hospitality Without Booking Friction
-
-Observed In:
-
-- Talisman
-- Mawimbi
-
-Gap:
-
-Human confirmation may preserve personal service while delaying certainty.
-
-Potential Direction:
-
-Simple Reservations
-
-↓
-
-Instant Confirmation
-
-Complex Requests
-
-↓
-
-Human Assistance
-
-Categories:
-
-- Conversion
-- Operations
-- Experience
-
-Status:
-
-Potential Opportunity
-
----
-
-## 3. Heritage Is Often Underused
-
-Strongest Evidence:
-
-- Talisman
-
-Opportunity:
-
-Established restaurants may possess history that could strengthen:
-
-- trust
-- differentiation
-- perceived value
-- destination appeal
-- emotional connection
-
-Potential Direction:
-
-Research-led heritage storytelling.
-
-Categories:
-
-- Brand
-- Experience
-- Differentiation
-
-Status:
-
-Potential Opportunity
-
----
-
-## 4. Restaurant Story Can Be Deeper
-
-Observed Through:
-
-- Talisman
-- Mawimbi
-
-Potential gaps include:
-
-- founders
-- chefs
-- team
-- turning points
-- culinary evolution
-- reason for existence
-
-Potential Direction:
-
-Origin
-
-↓
-
-People
-
-↓
-
-Purpose
-
-↓
-
-Evolution
-
-↓
-
-Present Experience
-
-Categories:
-
-- Brand
-- Storytelling
-- Trust
-
-Status:
-
-Potential Opportunity
-
----
-
-## 5. Photography Can Carry More Business Value
-
-Observed Across:
-
-- Ankole
-- Cultiva
-- Talisman
-- Mawimbi
-
-Opportunity:
-
-Photography can communicate:
-
-- atmosphere
-- place
-- process
-- sourcing
-- people
-- heritage
-- product
-- events
-- quality
-
-Potential Direction:
-
-Assign each image a meaningful role.
-
-Possible roles:
-
-- Desire
-- Proof
-- Place
-- Product
-- Process
-- People
-- Story
-- Occasion
-
-Categories:
-
-- Brand
-- Conversion
-- Experience
-
-Status:
-
-Potential Opportunity
-
----
-
-## 6. Image Volume Needs Better Curation
-
-Observed Through:
-
-- Cultiva
-- Talisman
-- Mawimbi
-
-Gap:
-
-Image richness may weaken:
-
-- hierarchy
-- pacing
-- consistency
-- mobile experience
-- narrative clarity
-
-Potential Direction:
-
-Editorial image systems based on:
-
-- sequencing
-- image roles
-- selective reveal
-- responsive curation
-
-Categories:
-
-- Experience
-- Brand
-
-Status:
-
-Potential Opportunity
-
----
-
-## 7. Dual-Path Guests Need Different Journeys
-
-Observed Across:
-
-- Ankole
-- Cultiva
-- Talisman
-- Mawimbi
-
-Potential Direction:
-
-Ready Guest
-
-↓
-
-Reserve
-
-and
-
-Exploring Guest
-
-↓
-
-Discover
-
-↓
-
-Build Confidence
-
-↓
-
-Reserve
-
-Categories:
-
-- Conversion
-- Experience
-
-Status:
-
-Potential Opportunity
-
----
-
-## 8. Restaurant Websites Can Own More of the Customer Journey
-
-Observed Across:
-
-- Ankole
-- Cultiva
-- Talisman
-- Mawimbi
-
-Potential capabilities:
-
-- reservation confirmation
-- pre-visit reminders
-- parking or arrival instructions
-- dietary preference collection
-- event promotion
-- review requests
-- loyalty
-- return offers
-- guest preference history
-
-Categories:
-
-- Guest Relationship
-- Revenue
-- Operations
-
-Status:
-
-Potential Opportunity
-
----
-
-## 9. Mobile Hospitality Needs Dedicated Validation
-
-Observed Across:
-
-- current independent research set
-
-Gap:
-
-Current research has not yet produced sufficient mobile-specific evidence.
-
-Research Questions:
-
-- How quickly can a guest reserve?
-- Does story survive on mobile?
-- Are image sequences too long?
-- Are CTAs thumb-friendly?
-- Does navigation interrupt atmosphere?
-- How much content is appropriate before commitment?
-
-Categories:
-
-- Experience
-- Conversion
-
-Status:
-
-Potential Opportunity
-
----
-
-## 10. Stronger Product Proof
-
-Strongest Evidence:
-
-- Mawimbi
-- Cultiva
-
-Gap:
-
-Strong culinary claims may not always be accompanied by equally strong evidence.
-
-Potential Direction:
-
-Ingredient
-
-↓
-
-Origin
-
-↓
-
-Chef
-
-↓
-
-Preparation
-
-↓
-
-Finished Dish
-
-↓
-
-Guest Experience
-
-Categories:
-
-- Brand
-- Conversion
-- Storytelling
-
-Status:
-
-Potential Opportunity
-
----
-
-## 11. Culinary Storytelling
-
-Strongest Evidence:
-
-- Mawimbi
-- Cultiva
-
-Opportunity:
-
-Connect culinary identity to:
-
-- sourcing
-- chef expertise
-- ingredients
-- preparation
-- signature techniques
-- product philosophy
-
-Categories:
-
-- Brand
-- Storytelling
-- Conversion
-
-Status:
-
-Potential Opportunity
-
----
-
-## 12. Unified Reservation Infrastructure
-
-Strongest Evidence:
-
-- Mawimbi
-
-Potential visible entry channels include:
-
-- website booking
-- WhatsApp
-- email
-- group booking
-- events
-- in-person contact
-
-Potential Direction:
-
-Multiple Channels
-
-↓
-
-One Reservation Layer
-
-↓
-
-Single Guest Record
-
-↓
-
-Restaurant Team
-
-Potential Capabilities:
-
-- availability
-- booking inbox
-- WhatsApp
-- group bookings
-- event leads
-- deposits
-- reminders
-- guest history
-
-Categories:
-
-- Operations
-- Guest Relationship
-- Revenue
-- Conversion
-
-Status:
-
-Potential Opportunity
-
-Important:
-
-Website observation does not establish whether this infrastructure already exists internally.
-
----
-
-## 13. Hybrid Automated and Human Booking
-
-Strongest Evidence:
-
-- Talisman
-- Mawimbi
-
-Potential Direction:
-
-Routine Booking
-
-↓
-
-Automation
-
-Complex Hospitality
-
-↓
-
-Human Assistance
-
-Categories:
-
-- Operations
-- Conversion
-- Experience
-
-Status:
-
-Potential Opportunity
-
----
-
-## 14. Integrated Deposits
-
-Strongest Evidence:
-
-- Mawimbi
-
-Potential Direction:
-
-Reservation
-
-↓
-
-Deposit
-
-↓
-
-Confirmation
-
-↓
-
-Reminder
-
-↓
-
-Visit
-
-Potential Payment Support:
-
-- M-PESA
-- card
-
-Categories:
-
-- Revenue
-- Operations
-- Conversion
-
-Status:
-
-Potential Opportunity
-
----
-
-## 15. Event Conversion Systems
-
-Strongest Evidence:
-
-- Mawimbi
-
-Potential Journey:
-
-Occasion
-
-↓
-
-Relevant Space
-
-↓
-
-Atmosphere
-
-↓
-
-Food
-
-↓
-
-Capacity
-
-↓
-
-Requirements
-
-↓
-
-Inquiry
-
-Categories:
-
-- Revenue
-- Conversion
-- Operations
-- Experience
-
-Status:
-
-Potential Opportunity
-
----
-
-## 16. Atmosphere-Led Digital Experience
-
-Strongest Evidence:
-
-- Mawimbi
-- Ankole
-- Talisman
-
-Potential Direction:
-
-Use:
-
-- environmental photography
-- intentional sequencing
-- restrained motion
-- spatial storytelling
-- mobile-first pacing
-
-Categories:
-
-- Brand
-- Experience
-- Conversion
-
-Status:
-
-Potential Opportunity
-
----
-
-## 17. Occasion-Based Photography
-
-Strongest Evidence:
-
-- Mawimbi
-
-Partial Support:
-
-- Talisman
-
-Potential Direction:
-
-Organise imagery by:
-
-- dining
-- celebrations
-- birthdays
-- private events
-- corporate gatherings
-
-Categories:
-
-- Revenue
-- Conversion
-- Photography
-- Experience
-
-Status:
-
-Potential Opportunity
-
----
-
-## 18. Stronger Guest Relationship Loop
-
-Observed Across:
-
-- current reservation research set
-
-Potential Direction:
-
-Reservation
-
-↓
-
-Confirmation
-
-↓
-
-Pre-Visit Communication
-
-↓
-
-Visit
-
-↓
-
-Review
-
-↓
-
-Preference History
-
-↓
-
-Return Offer
-
-↓
-
-Future Visit
-
-Potential Capabilities:
-
-- reminders
-- dietary preferences
-- celebration recognition
-- reviews
-- loyalty
-- personalised return offers
-
-Categories:
-
-- Guest Relationship
-- Revenue
-- Operations
-
-Status:
-
-Potential Opportunity
-
----
-
-## 19. Strong Concepts Need Better Digital Translation
-
-Strongest Evidence:
-
-- Cultiva
-- Mawimbi
-
-Gap:
-
-A generic restaurant website structure may weaken a brand whose identity depends heavily on one organising idea.
-
-Potential Direction:
-
-Translate brand concept into:
-
-- story architecture
-- section naming
-- photography roles
-- motion
-- pacing
-- content hierarchy
-
-without sacrificing clarity.
-
-Categories:
-
-- Brand
-- Experience
-- Differentiation
-
-Status:
-
-Potential Opportunity
-
----
-
-# Opportunity Categories
-
-## Revenue
-
-Opportunities that may improve:
-
-- reservations
-- deposits
-- average spend
-- event bookings
-- repeat visits
-- direct sales
-
-## Conversion
-
-Opportunities that may improve:
-
-- booking completion
-- CTA effectiveness
-- decision confidence
-- mobile usability
-
-## Guest Relationship
-
-Opportunities that may improve:
-
-- direct communication
-- CRM
-- loyalty
-- personalization
-- return visits
-
-## Operations
-
-Opportunities that may reduce:
-
-- manual reservation work
-- missed inquiries
-- confirmation delays
-- repetitive communication
-- fragmented workflows
-
-## Brand
-
-Opportunities that may strengthen:
-
-- differentiation
-- storytelling
-- heritage
-- positioning
-- perceived quality
-
-## Experience
-
-Opportunities that may improve:
-
-- pacing
-- clarity
-- atmosphere
-- navigation
-- reservation confidence
-- mobile interaction
+Opportunity maturity follows a separate lifecycle.
 
 ---
 
@@ -1474,67 +1458,1139 @@ Production Offering
 
 ---
 
-# Cross-Restaurant Research Summary
+# Current Opportunity Themes
 
-## Ankole
+## 1. Direct Reservation Ownership
 
-Primary contribution:
+Observed Across:
 
-- refinement
+- Ankole
+- Cultiva
+- Talisman
+- Mawimbi
+- Bistro Lolo
+
+Opportunity:
+
+Keep more reservation discovery, communication, and guest relationship activity close to the restaurant’s own digital ecosystem where this creates measurable value.
+
+Important:
+
+Website evidence does not establish actual CRM or data ownership.
+
+Potential Direction:
+
+- ReserveAI
+- branded booking
+- WhatsApp support
+- automated confirmation
+- reminders
+- deposits
+- waitlists
+- guest CRM
+
+Status:
+
+Potential Opportunity
+
+---
+
+## 2. Human Hospitality Without Booking Friction
+
+Observed Through:
+
+- Talisman
+- Mawimbi
+- Bistro Lolo contrast
+
+Opportunity:
+
+Preserve human involvement where it creates value without making routine bookings wait unnecessarily.
+
+Potential Direction:
+
+Simple Booking
+
+↓
+
+Instant Confirmation
+
+Complex Need
+
+↓
+
+Human Assistance
+
+Status:
+
+Potential Opportunity
+
+---
+
+## 3. Heritage Is Often Underused
+
+Observed Through:
+
+- Talisman
+
+Extended By:
+
+- Bistro Lolo place heritage
+
+Opportunity:
+
+Translate business or place history into stronger digital differentiation.
+
+Status:
+
+Potential Opportunity
+
+---
+
+## 4. Restaurant Story Can Be Deeper
+
+Observed Across:
+
+- Talisman
+- Mawimbi
+- Bistro Lolo
+
+Opportunity:
+
+Expand shallow About content into stronger systems involving:
+
+- people
+- purpose
+- culinary evolution
 - place
-- visual atmosphere
-- persistent reservation access
+- product
+- milestones
 
-## Cultiva
+Status:
 
-Primary contribution:
+Potential Opportunity
 
-- worldview
-- cultivation
+---
+
+## 5. Photography Can Carry More Business Value
+
+Observed Across:
+
+- Ankole
+- Cultiva
+- Talisman
+- Mawimbi
+- Bistro Lolo
+
+Opportunity:
+
+Use photography to prove:
+
+- product
+- place
 - process
-- system behind the plate
-- guest participation
+- atmosphere
+- use
+- occasion
 
-## Talisman
+rather than merely decorating pages.
 
-Primary contribution:
+Status:
 
+Potential Opportunity
+
+---
+
+## 6. Image Volume Needs Better Curation
+
+Observed Through:
+
+- Cultiva
+- Talisman
+- Mawimbi
+- Bistro Lolo
+
+Opportunity:
+
+Build stronger editorial image systems with:
+
+- image roles
+- sequencing
+- responsive curation
+- selective reveal
+
+Status:
+
+Potential Opportunity
+
+---
+
+## 7. Dual-Path Guests Need Different Journeys
+
+Observed Across:
+
+Current independent set.
+
+Opportunity:
+
+Support guests with different levels of intent rather than forcing one conversion path.
+
+Current research now suggests the problem may be broader than two paths.
+
+Status:
+
+Potential Opportunity
+
+---
+
+## 8. Restaurant Websites Can Own More of the Customer Journey
+
+Observed Across:
+
+Current independent set.
+
+Opportunity:
+
+Extend the guest journey beyond discovery and reservation into:
+
+- confirmation
+- reminders
+- preference capture
+- arrival guidance
+- post-visit communication
+- reviews
+- loyalty
+- return visits
+
+Status:
+
+Potential Opportunity
+
+---
+
+## 9. Mobile Hospitality Needs Dedicated Validation
+
+Observed Across:
+
+Current research set.
+
+Gap:
+
+Current KHDS research is not yet sufficiently mobile-specific.
+
+Opportunity:
+
+Create dedicated validation around:
+
+- booking speed
+- thumb reach
+- story pacing
+- image sequencing
+- navigation
+- daypart intent
+- walk-in guidance
+
+Status:
+
+Potential Opportunity
+
+---
+
+## 10. Stronger Product Proof
+
+Strengthened By:
+
+- Mawimbi
+- Bistro Lolo
+
+Opportunity:
+
+Connect premium product claims to visible evidence around:
+
+- ingredients
+- sourcing
+- craft
+- preparation
+- signature difference
+
+Status:
+
+Potential Opportunity
+
+---
+
+## 11. Culinary Storytelling
+
+Strengthened By:
+
+- Mawimbi
+- Bistro Lolo
+- Cultiva
+
+Opportunity:
+
+Connect:
+
+Ingredient
+
+↓
+
+Source
+
+↓
+
+Chef
+
+↓
+
+Technique
+
+↓
+
+Dish
+
+↓
+
+Guest Experience
+
+Status:
+
+Potential Opportunity
+
+---
+
+## 12. Unified Reservation Infrastructure
+
+Strengthened By:
+
+- Mawimbi
+- Bistro Lolo
+
+Opportunity:
+
+Potentially unify multiple visible booking channels behind one operational layer.
+
+Important:
+
+Current research does not prove either restaurant lacks backend integration.
+
+Status:
+
+Potential Opportunity
+
+---
+
+## 13. Hybrid Automated and Human Booking
+
+Strengthened By:
+
+- Talisman
+- Mawimbi
+- Bistro Lolo
+
+Opportunity:
+
+Use automation for predictable interactions and human assistance for complexity.
+
+Status:
+
+Potential Opportunity
+
+---
+
+## 14. Integrated Deposits
+
+Raised Through:
+
+- Mawimbi
+
+Opportunity:
+
+Connect reservations, payment, confirmation, and reminders where deposits are operationally useful.
+
+Status:
+
+Potential Opportunity
+
+---
+
+## 15. Event Conversion Systems
+
+Strengthened By:
+
+- Mawimbi
+- Bistro Lolo occasion research
+
+Opportunity:
+
+Create event-specific discovery around:
+
+- occasion
+- space
+- capacity
+- atmosphere
+- food
+- requirements
+- inquiry
+
+Status:
+
+Potential Opportunity
+
+---
+
+## 16. Atmosphere-Led Digital Experience
+
+Observed Across:
+
+- Ankole
+- Talisman
+- Mawimbi
+- Bistro Lolo
+
+Opportunity:
+
+Translate strong physical atmosphere into stronger digital evidence using:
+
+- spatial photography
+- pacing
+- materials
+- social use
+- occasion
+- restrained motion
+
+Status:
+
+Potential Opportunity
+
+---
+
+## 17. Occasion-Based Photography
+
+Strengthened By:
+
+- Mawimbi
+- Bistro Lolo
+
+Partial:
+
+- Talisman
+
+Opportunity:
+
+Organise imagery around commercially meaningful guest occasions.
+
+Status:
+
+Potential Opportunity
+
+---
+
+## 18. Stronger Guest Relationship Loop
+
+Observed Across:
+
+Current set.
+
+Opportunity:
+
+Extend:
+
+Reservation
+
+↓
+
+Visit
+
+↓
+
+Review
+
+↓
+
+Guest Preference
+
+↓
+
+Return Visit
+
+Status:
+
+Potential Opportunity
+
+---
+
+## 19. Strong Concepts Need Better Digital Translation
+
+Observed Through:
+
+- Cultiva
+- Mawimbi
+- Bistro Lolo
+
+Opportunity:
+
+Ensure the digital experience proves the brand concept through:
+
+- product
+- people
+- place
+- process
+- behaviour
+
+rather than relying on language alone.
+
+Status:
+
+Potential Opportunity
+
+---
+
+## 20. Daypart Intent System
+
+Introduced By:
+
+- Bistro Lolo
+
+Opportunity:
+
+Help guests navigate according to:
+
+- morning
+- lunch
+- afternoon
+- drinks
+- dinner
+- weekend
+
+Potential Value:
+
+- conversion
+- relevance
+- revenue
+- guest clarity
+
+Status:
+
+Potential Opportunity
+
+---
+
+## 21. Walk-In and Reservation Intent Routing
+
+Introduced By:
+
+- Bistro Lolo
+
+Opportunity:
+
+Present different participation paths clearly:
+
+Plan Ahead
+
+↓
+
+Reserve
+
+Nearby / Spontaneous
+
+↓
+
+Walk In
+
+Need Something Special
+
+↓
+
+Direct Contact
+
+Status:
+
+Potential Opportunity
+
+---
+
+## 22. Stronger Architecture Story
+
+Introduced / Strengthened By:
+
+- Bistro Lolo
+- Talisman
+- Ankole
+
+Opportunity:
+
+Translate architectural character into:
+
+- brand meaning
+- differentiation
+- atmosphere
+- guest imagination
+
+Status:
+
+Potential Opportunity
+
+---
+
+## 23. Local Sourcing Proof
+
+Strengthened By:
+
+- Cultiva
+- Bistro Lolo
+- Mawimbi
+
+Opportunity:
+
+Turn sourcing claims into visible proof through:
+
+- producer stories
+- ingredients
+- process
+- chef narrative
+- photography
+
+Status:
+
+Potential Opportunity
+
+---
+
+## 24. French + Kenyan Culinary Differentiation
+
+Introduced By:
+
+- Bistro Lolo
+
+Opportunity:
+
+Make the relationship between:
+
+Local Ingredients
+
+and
+
+French Culinary Influence
+
+more explicit digitally.
+
+Status:
+
+Potential Opportunity
+
+---
+
+## 25. Chef-Led Culinary Story
+
+Strengthened By:
+
+- Bistro Lolo
+- Mawimbi
+
+Opportunity:
+
+Connect chef authorship more directly to:
+
+- product
+- sourcing
+- technique
+- brand identity
+
+Status:
+
+Potential Opportunity
+
+---
+
+## 26. Atmosphere-to-Occasion Conversion
+
+Strengthened By:
+
+- Mawimbi
+- Bistro Lolo
+
+Opportunity:
+
+Connect atmosphere directly to:
+
+Occasion
+
+↓
+
+Offer
+
+↓
+
+Action
+
+Possible occasions:
+
+- brunch
+- drinks
+- poolside
+- long lunch
+- celebration
+- private gathering
+
+Status:
+
+Potential Opportunity
+
+---
+
+## 27. Photography by Intent
+
+Introduced By:
+
+- Bistro Lolo
+
+Opportunity:
+
+Use different visual evidence for different guest goals.
+
+Examples:
+
+- breakfast
+- lunch
+- poolside
+- dinner
+- weekend
+
+Status:
+
+Potential Opportunity
+
+---
+
+## 28. Bistro / Hotel Cross-Discovery
+
+Introduced By:
+
+- Bistro Lolo
+
+Opportunity:
+
+Create clearer parent-property and restaurant pathways while preserving shared identity.
+
+Potential Model:
+
+Shared Hospitality World
+
+↓
+
+Hotel Path
+
+and
+
+Restaurant Path
+
+↓
+
+Intentional Cross-Discovery
+
+Status:
+
+Potential Opportunity
+
+---
+
+## 29. Neighbourhood Relationship Loop
+
+Introduced By:
+
+- Bistro Lolo
+
+Opportunity:
+
+Turn neighbourhood positioning into repeat-visit infrastructure.
+
+Possible capabilities:
+
+- local events
+- guest preferences
+- newsletters
+- loyalty
+- brunch reminders
+- return offers
+
+Status:
+
+Potential Opportunity
+
+---
+
+## 30. Parent Brand / Restaurant Narrative Architecture
+
+Introduced By:
+
+- Bistro Lolo
+
+Opportunity:
+
+For multi-concept hospitality environments, separate:
+
+Parent Brand Story
+
+↓
+
+Shared Meaning
+
+↓
+
+Restaurant-Specific Story
+
+↓
+
+Restaurant-Specific Conversion
+
+Applicable To:
+
+- hotels
+- hospitality groups
+- multi-concept properties
+- restaurant groups
+
+Status:
+
+Potential Opportunity
+
+---
+
+# Opportunity Categories
+
+Current opportunities may belong to one or more of the following:
+
+## Revenue
+
+May increase:
+
+- reservations
+- deposits
+- event bookings
+- average spend
+- repeat visits
+- direct sales
+
+## Conversion
+
+May improve:
+
+- booking completion
+- participation clarity
+- CTA effectiveness
+- decision confidence
+- intent routing
+
+## Guest Relationship
+
+May improve:
+
+- direct communication
+- preference history
+- return visits
+- loyalty
+- CRM value
+
+## Operations
+
+May reduce:
+
+- manual coordination
+- fragmented booking work
+- repetitive communication
+- confirmation delays
+- missed inquiries
+
+## Brand
+
+May strengthen:
+
+- differentiation
+- story
 - heritage
-- continuity
-- growth
-- layered experience
-- human-confirmed reservation
+- product proof
+- positioning
+- perceived quality
 
-## Mawimbi
+## Experience
 
-Primary contribution:
+May improve:
 
-- product-led identity
-- designed escape
-- maritime organising concept
-- event opportunity
-- reservation complexity
+- pacing
+- clarity
+- atmosphere
+- navigation
+- reservation confidence
+- mobile interaction
+
+---
+
+# Cross-Restaurant Summary
+
+## Arrival
+
+### Ankole
+
+Refinement and place.
+
+### Cultiva
+
+Worldview and promise.
+
+### Talisman
+
+Food, heritage, and place.
+
+### Mawimbi
+
+Aspiration, product, and atmosphere.
+
+### Bistro Lolo
+
+Familiarity, social rhythm, and belonging.
+
+### Current Learning
+
+No universal arrival sequence exists.
+
+Strongest current logic:
+
+Meaning
+
+↓
+
+Confidence
+
+↓
+
+Participation
+
+---
+
+# Atmosphere
+
+### Ankole
+
+Refinement.
+
+### Cultiva
+
+Worldview.
+
+### Talisman
+
+Continuity.
+
+### Mawimbi
+
+Designed escape.
+
+### Bistro Lolo
+
+Architecture, use, and belonging.
+
+### Current Learning
+
+Atmosphere Through Consistency remains strong.
+
+`Atmosphere Through Worldview` is increasingly too narrow.
+
+Possible future abstraction:
+
+`Atmosphere Through Organising Idea`
+
+---
+
+# Photography
+
+### Ankole
+
+Place and refinement.
+
+### Cultiva
+
+Process and system.
+
+### Talisman
+
+Layers of accumulated character.
+
+### Mawimbi
+
+Product, atmosphere, and occasion.
+
+### Bistro Lolo
+
+Place, lifestyle, design, and social use.
+
+### Current Learning
+
+Every important image should help the guest:
+
+Understand
+
+or
+
+Believe
+
+or
+
+Desire
+
+or
+
+Imagine
+
+something meaningful.
+
+---
+
+# Reservation
+
+### Ankole
+
+Structured persistent access.
+
+### Cultiva
+
+Story-integrated booking.
+
+### Talisman
+
+Human confirmation.
+
+### Mawimbi
+
+Multi-channel coordination.
+
+### Bistro Lolo
+
+Self-service, direct human access, and walk-in spontaneity.
+
+### Current Learning
+
+The stronger emerging logic is:
+
+Guest Intent
+
+↓
+
+Complexity
+
+↓
+
+Appropriate Level of Automation
+
+↓
+
+Appropriate Human Support
+
+↓
+
+Clear Outcome
+
+---
+
+# Story
+
+### Ankole
+
+Place.
+
+### Cultiva
+
+Worldview.
+
+### Talisman
+
+Heritage.
+
+### Mawimbi
+
+Concept and participation.
+
+### Bistro Lolo
+
+People, reinterpretation, and belonging.
+
+### Current Learning
+
+Hospitality story can be:
+
+- explicit
+- implicit
+- inherited
+- spatial
+- conceptual
+- biographical
+- behavioural
+
+The deeper requirement is coherent meaning.
 
 ---
 
 # Validation Goal
 
-The current four-restaurant research set is not enough for automatic promotion to Validated.
+The current five-restaurant research set improves confidence significantly.
 
-Broader validation should consider:
+It does not automatically justify Validated status.
 
-- approximately 5–10 or more independent restaurants
-- different hospitality categories
-- different brand identities
-- different geographic markets
-- different reservation models
-- contradictory examples
+Broader validation should continue to include:
+
+- approximately 5–10+ independent restaurants
+- category diversity
+- geographic diversity
+- brand diversity
+- reservation diversity
+- contradictory evidence
 - implementation viability
-- guest behaviour evidence where available
+- mobile-specific evidence
+- guest behaviour where available
+- operational evidence where relevant
 
-Restaurant count alone is not enough.
+Restaurant count alone is insufficient.
 
-Patterns must survive variation.
+---
+
+# Current Governance Decisions
+
+## Promotion
+
+`Atmosphere as Product`
+
+Candidate
+
+↓
+
+Emerging
+
+---
+
+## Scope Review
+
+- Promise Before Proof
+- Human Confirmation as Hospitality
+- World Before Biography
+- Narrative Language as Interface
+
+---
+
+## Abstraction Review
+
+- One Idea Can Organise the Brand Story
+- Atmosphere Through Worldview
+- Dual-Path Hospitality
+
+---
+
+## No Change
+
+`Own the Guest Relationship`
+
+remains:
+
+Partially Supported
 
 ---
 
@@ -1550,11 +2606,11 @@ Kodawa Labs concepts do not count as independent evidence.
 
 ## Rule 3
 
-Website observation cannot establish invisible operational or technical facts.
+Website observation must not be used to claim technical or operational facts that cannot be verified.
 
 ## Rule 4
 
-Supporting behaviours are not automatically Candidate Patterns.
+Supporting behaviours are not automatically Candidate patterns.
 
 ## Rule 5
 
@@ -1562,45 +2618,57 @@ Research tensions are not patterns.
 
 ## Rule 6
 
-Business opportunities are not KHDS Principles.
+Commercial opportunities are not hospitality principles.
 
 ## Rule 7
 
-Contradictory evidence must remain visible.
+Contradictory evidence must be preserved.
 
 ## Rule 8
 
-Existing implementation does not equal research validation.
+Emerging patterns may remain active while their scope is under review.
 
 ## Rule 9
 
-Emerging does not mean proven.
+Do not rename a pattern to a broader abstraction until additional evidence supports the change.
 
 ## Rule 10
 
-Validated does not automatically mean KHDS Principle.
+Existing implementation patterns remain separate from research-derived validation.
+
+## Rule 11
+
+Cross-restaurant comparison should determine promotion decisions.
+
+## Rule 12
+
+`candidate-patterns.md`, `../../patterns/registry.md`, and this dashboard must remain consistent.
 
 ---
 
-# Current Validation Position
+# Current Dashboard Summary
 
 Independent Restaurants:
 
-4
+5
 
-Emerging Patterns:
-
-15
-
-Candidate Patterns:
-
-10
-
-Partially Supported Findings:
+Kodawa Labs Validation Concepts:
 
 1
 
-Validated Research-Derived Patterns:
+Emerging:
+
+16
+
+Candidate:
+
+9
+
+Partially Supported:
+
+1
+
+Validated:
 
 0
 
@@ -1608,15 +2676,15 @@ KHDS Principles Promoted From Research:
 
 0
 
-Existing Implementation Patterns Pending Formal Validation:
+Existing Implementation Patterns Pending Validation:
 
 1
 
 Opportunity Themes:
 
-19
+30
 
-Highest Current Status:
+Highest Research-Derived Status:
 
 Emerging
 
@@ -1624,38 +2692,61 @@ Emerging
 
 # Next Research Requirement
 
-Do not promote anything else based only on the existing four restaurants.
+The next independent restaurant should again be selected for contradiction and diversity.
 
-The next independent restaurant should be selected for contradiction and diversity rather than similarity.
+Priority should be given to a restaurant capable of testing one or more of the following:
 
-Priority should be given to a restaurant that can test:
-
-- heritage versus concept
-- atmosphere as product
-- product proof
-- instant versus human booking
-- organising idea versus visual identity
-- direct-first reservation
+- atmosphere through organising logic
+- escape versus belonging
+- aspiration versus familiarity
+- restaurant heritage versus place heritage
+- singular narrative idea versus broader coherence
+- instant booking versus human support
+- walk-in versus reservation optimisation
+- process and product proof
+- daypart hospitality
+- neighbourhood versus destination hospitality
 - mobile hospitality
+- direct versus third-party booking
+- parent-brand versus restaurant-specific identity
 
-The next research cycle should attempt to challenge the current Emerging patterns, not merely confirm them.
+The next cycle should not be selected simply because it resembles the current research set.
+
+It should expose where KHDS still has weak assumptions.
 
 ---
 
-# Final Dashboard Statement
+# Final Statement
 
-KHDS currently has a stronger evidence base than before the Mawimbi cycle.
+KHDS has now studied five independent restaurants with meaningfully different hospitality models.
 
-Six Candidate patterns have moved to Emerging.
+The current research has become stronger not because every pattern received more support, but because several patterns were challenged.
 
-Five new Candidates have been added.
+Bistro Lolo strengthened:
 
-The research set now contains four independent restaurants with meaningfully different hospitality identities.
+- belonging as premium hospitality
+- atmosphere as commercial product
+- photography as proof of use
+- guest autonomy
+- place-led story
+- social participation
 
-No pattern has yet earned Validated status.
+It also challenged:
 
-That is intentional.
+- universal promise-led arrival
+- universal human-confirmed booking
+- one-idea narrative logic
+- escape as the default immersive strategy
+- branded interface vocabulary as a requirement
 
-The dashboard should reflect what the evidence justifies, not what Kodawa Labs hopes to prove.
+The current highest research-derived status remains:
+
+Emerging
+
+No research-derived pattern is Validated.
+
+That is the correct position.
+
+KHDS should continue becoming more precise before it becomes more certain.
 
 Evidence wins.

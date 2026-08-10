@@ -2,517 +2,1056 @@
 
 ## Purpose
 
-Compare how independent restaurants use photography to communicate:
+Compare how the current independent restaurant research set uses photography to communicate hospitality.
 
-- food
-- atmosphere
-- place
-- process
-- heritage
-- people
-- product quality
-- occasion
-- identity
+This file does not assume that restaurant photography has one universal role.
 
-This file asks:
+It asks:
 
-- What is photography expected to prove?
-- Which photographic subjects dominate?
-- Does imagery create desire, evidence, or both?
-- How does photography support the restaurant’s broader story?
-- Which behaviours repeat across different hospitality brands?
-- Where does photography become decorative rather than useful?
+- what each restaurant needs photography to prove
+- whether photography primarily creates appetite, atmosphere, credibility, or imagination
+- how image roles differ across hospitality models
+- which KHDS patterns survive different photographic strategies
+- where current research directions gain or lose support
 
-The goal is not to identify one universal restaurant photography style.
+Current independent research set:
 
-The goal is to identify the functions photography performs inside hospitality experiences.
+1. Ankole
+2. Cultiva
+3. Talisman
+4. Mawimbi
+5. Bistro Lolo
+
+Kodawa Labs validation concepts are excluded from independent evidence.
 
 ---
 
-# Restaurants Compared
+# Current Comparison Position
 
-- Ankole
-- Cultiva
-- Talisman
-- Mawimbi
+The five restaurants use photography for meaningfully different purposes.
 
-All four are treated as independent hospitality research.
+## Ankole
 
-Kodawa Labs concepts are excluded from independent evidence counts.
+Photography primarily communicates:
 
----
-
-# Ankole
-
-## Photographic Character
-
-Refined, place-led, atmospheric, and controlled.
-
-Ankole uses photography primarily to communicate:
-
-- food
-- interiors
-- physical environment
 - refinement
-- destination character
+- interiors
+- place
+- atmosphere
 
-The imagery supports the restaurant’s premium positioning by allowing the guest to see both what they may eat and where the experience takes place.
+Primary role:
 
-## Photographic Logic
-
-Place
-
-↓
-
-Atmosphere
-
-↓
-
-Food
-
-↓
-
-Confidence
-
-## Strongest Photography Contribution
-
-Ankole demonstrates that photography can make physical setting part of the restaurant’s value proposition.
-
-The imagery is not only showing dishes.
-
-It is helping the guest understand the character of the destination.
-
-## Patterns Supported
-
-- Photography Before Decoration
-- Photography as Proof
-- Story Through Place
-
-## Partial Support
-
-- Photography Through Layers of Experience
+Help the guest understand the quality and character of the physical environment.
 
 ---
 
-# Cultiva
+## Cultiva
 
-## Photographic Character
+Photography communicates:
 
-Process-led, product-led, organic, and worldview-driven.
-
-Cultiva expands photography beyond the finished dish.
-
-Its visual system can communicate:
-
-- ingredients
 - food
 - cultivation
-- process
 - sourcing
-- environment
-- people
-- the system behind the plate
+- process
+- ingredients
+- system
 
-Photography therefore supports the restaurant’s broader worldview around cultivation and food production.
+Primary role:
 
-## Photographic Logic
-
-Ingredient
-
-↓
-
-Process
-
-↓
-
-Craft
-
-↓
-
-Dish
-
-↓
-
-Experience
-
-## Strongest Photography Contribution
-
-Cultiva demonstrates that photography can explain more than the final product.
-
-It can reveal the system that produces the product.
-
-## Patterns Supported
-
-- Photography Before Decoration
-- Photography as Proof
-- Show the System Behind the Plate
-- Story Before Features
-
-## Partial Support
-
-- Photography Through Layers of Experience
+Show the thinking and process behind the product.
 
 ---
 
-# Talisman
+## Talisman
 
-## Photographic Character
-
-Layered, atmospheric, historical, and place-rich.
-
-Talisman uses photography to communicate:
+Photography communicates:
 
 - food
 - interiors
 - garden
 - art
-- physical environment
-- heritage
-- accumulated character
+- history
+- environmental character
 
-Its imagery helps the guest understand that the restaurant is more than a dining room or menu.
+Primary role:
 
-The physical setting, historical character, and atmosphere all contribute to the restaurant’s identity. :contentReference[oaicite:0]{index=0}
-
-## Photographic Logic
-
-Food
-
-↓
-
-Interiors
-
-↓
-
-Place
-
-↓
-
-Art
-
-↓
-
-Heritage
-
-↓
-
-Atmosphere
-
-## Strongest Photography Contribution
-
-Talisman demonstrates that photography can reveal multiple layers of one hospitality experience.
-
-The visual system helps explain both what the restaurant serves and what kind of place it has become.
-
-## Patterns Supported
-
-- Photography Before Decoration
-- Photography as Proof
-- Photography Through Layers of Experience
-- Story Through Place
-
-## Supporting Behaviour
-
-- Place as Emotional Evidence
+Reveal multiple layers of an established hospitality experience.
 
 ---
 
-# Mawimbi
+## Mawimbi
 
-## Photographic Character
-
-Product-led, atmosphere-led, occasion-led, and experiential.
-
-Mawimbi’s photography is responsible for communicating:
+Photography communicates:
 
 - seafood
-- plated dishes
+- atmosphere
 - interiors
-- tropical and coastal atmosphere
-- events
-- private gatherings
 - social experience
-- destination character
-
-Its photography therefore carries two major proof responsibilities:
-
-1. prove the premium seafood proposition
-2. prove the distinctive physical atmosphere
-
-Mawimbi also introduces stronger commercial use of occasion photography through events and group experiences. :contentReference[oaicite:1]{index=1}
-
-## Photographic Logic
-
-Product
-
-↓
-
-Environment
-
-↓
-
-Occasion
-
-↓
-
-Experience
-
-↓
-
-Confidence
-
-## Strongest Photography Contribution
-
-Mawimbi demonstrates that photography can simultaneously prove:
-
-- product
-- atmosphere
+- events
 - occasion
 
-It also exposes the difference between attractive imagery and imagery that explains why the restaurant is distinctive.
+Primary role:
 
-## Patterns Supported
-
-- Photography Before Decoration
-- Photography as Proof
-- Photography Through Layers of Experience
-- Atmosphere Through Consistency
-
-## Research Direction
-
-- Photography Should Demonstrate Difference
+Prove both the culinary product and the experiential world.
 
 ---
 
-# Cross-Restaurant Comparison
+## Bistro Lolo
 
-## What Does Photography Primarily Communicate?
+Photography communicates:
 
-### Ankole
+- architecture
+- materials
+- food
+- drinks
+- garden
+- pool
+- people
+- dayparts
+- social use
+- design details
 
-Refinement and place.
+Primary role:
 
-### Cultiva
-
-Process and the system behind the plate.
-
-### Talisman
-
-Layers of character and atmosphere.
-
-### Mawimbi
-
-Product, atmosphere, and occasion.
-
----
-
-# Key Finding
-
-Photography does not have one universal job in hospitality.
-
-Its role depends on what the restaurant needs the guest to believe.
-
-The current research shows photography functioning as:
-
-- appetite
-- proof
-- place
-- process
-- atmosphere
-- history
-- identity
-- occasion
-- differentiation
-
-This suggests KHDS should not ask:
-
-> What photographs should every restaurant website contain?
-
-It should ask:
-
-> What does this restaurant need photography to prove?
+Help the guest imagine both the place and how they might spend time there.
 
 ---
 
-# Emerging Pattern
+# Photography Model Comparison
+
+| Restaurant | Primary Photographic Job | Strongest Proof Category | Secondary Role |
+|---|---|---|---|
+| Ankole | Communicate place | Refinement / environment | Desire |
+| Cultiva | Explain system | Process / sourcing | Product credibility |
+| Talisman | Reveal layers | Place / continuity | Atmosphere |
+| Mawimbi | Prove product + experience | Product / occasion | Aspiration |
+| Bistro Lolo | Prove place + use | Lifestyle / social use | Design credibility |
+
+The comparison shows that photography does not have one fixed hospitality function.
+
+Different restaurants need imagery to answer different guest questions.
+
+---
+
+# Shared Photographic Behaviour
+
+Across the five restaurants, strong photography repeatedly performs one or more of four jobs:
+
+## Understand
+
+What kind of place is this?
+
+## Believe
+
+Why should I trust the claims being made?
+
+## Desire
+
+Why would I want this experience?
+
+## Imagine
+
+Can I picture myself here?
+
+The strongest photographic systems appear to do more than decorate the interface.
+
+They help answer one or more of these questions.
+
+---
+
+# Emerging Pattern Review
 
 ## Photography Before Decoration
 
-All four restaurants strongly support this pattern.
-
 ### Ankole
 
-Real imagery communicates place and refinement.
+Strong support.
+
+Real place and atmosphere carry the visual identity.
 
 ### Cultiva
 
-Photography communicates product, cultivation, and process.
+Strong support.
+
+Photography communicates food, process, and sourcing rather than relying on decorative graphics.
 
 ### Talisman
 
-Photography communicates food, interiors, heritage, and character.
+Strong support.
+
+Food, interiors, art, garden, and place carry the visual experience.
 
 ### Mawimbi
 
-Photography communicates seafood, atmosphere, and occasion.
+Strong support.
 
-Independent Evidence:
+Seafood, atmosphere, events, and environment carry the brand world.
 
-- Ankole
-- Cultiva
-- Talisman
-- Mawimbi
+### Bistro Lolo
 
-Status:
+Strong support.
+
+Architecture, materials, food, people, pool, garden, and lifestyle imagery communicate the experience directly.
+
+### Current Assessment
+
+Strongly Supported
+
+### Status
 
 Emerging
 
-Confidence:
+### Confidence
 
 High
 
-### Current Interpretation
+### Comparison Insight
 
-Authentic photography should carry the restaurant’s core visual meaning before decorative graphics attempt to do so.
+The evidence is now strong that authentic hospitality evidence should carry more weight than decorative visual treatment.
 
-Photography is most valuable when it communicates something real about:
+The deeper rule is not:
 
-- product
-- place
+Use large photography everywhere.
+
+It is:
+
+> Let real hospitality evidence do the visual work whenever possible.
+
+That evidence may be:
+
+- food
 - people
+- place
 - process
+- architecture
+- materiality
 - atmosphere
-- experience
+- occasion
+
+This pattern survives the Bistro Lolo stress test strongly.
 
 ---
 
-# Emerging Pattern
+# Emerging Pattern Review
 
 ## Photography as Proof
 
-All four restaurants strengthen this pattern.
+### Ankole
 
-Photography provides visible evidence for claims around:
+Photography proves:
 
-- quality
-- atmosphere
+- refinement
 - place
+- environmental quality
+
+### Cultiva
+
+Photography proves:
+
 - process
-- product
-- identity
-
-Independent Evidence:
-
-- Ankole
-- Cultiva
-- Talisman
-- Mawimbi
-
-Status:
-
-Emerging
-
-Confidence:
-
-High
-
-### Current Interpretation
-
-Photography should help substantiate the restaurant’s claims.
-
-If the restaurant claims:
-
-- premium product
-- exceptional atmosphere
-- craftsmanship
-- authenticity
-- heritage
-
-the imagery should provide visible evidence supporting those claims.
-
----
-
-# Emerging Pattern
-
-## Photography Through Layers of Experience
-
-Talisman and Mawimbi now provide strong independent support.
+- sourcing
+- cultivation
+- product system
 
 ### Talisman
 
-Photography communicates:
+Photography proves:
 
+- physical character
 - food
-- interiors
-- garden
-- art
-- heritage
-- place
+- atmosphere
+- accumulated identity
 
 ### Mawimbi
 
-Photography communicates:
+Photography proves:
 
 - seafood
-- interiors
 - atmosphere
-- events
-- social experience
 - occasion
+- social experience
 
-Cultiva and Ankole provide partial support because their photography also performs several functions, though with more dominant subjects.
+### Bistro Lolo
 
-Strong Independent Evidence:
+Photography proves:
 
-- Talisman
-- Mawimbi
+- architecture
+- design
+- social use
+- atmosphere
+- place
+- lifestyle
 
-Partial Support:
+### Current Assessment
 
-- Ankole
-- Cultiva
+Strongly Supported
 
-Status:
+### Status
 
 Emerging
 
-Confidence:
+### Confidence
 
-Medium
+High
 
-### Current Interpretation
+### Comparison Insight
 
-A hospitality photography system can create a fuller understanding of the restaurant by revealing several meaningful layers of the guest experience.
+This is one of the most transferable patterns in the current photography research.
 
-Possible Layers:
+The proof category changes by restaurant.
 
-- food
-- place
-- people
-- process
-- interiors
-- heritage
-- culture
-- events
-- atmosphere
+The behaviour survives.
 
-The specific layers should depend on the restaurant.
+Photography should help substantiate something the brand needs the guest to believe.
 
 ---
 
-# Candidate Pattern
+# Emerging Pattern Review
+
+## Photography Through Layers of Experience
+
+### Ankole
+
+Partial support.
+
+Place and refinement dominate, with less visible layering than later examples.
+
+### Cultiva
+
+Partial support.
+
+Product, process, cultivation, and sourcing create several layers.
+
+### Talisman
+
+Strong support.
+
+Food, interiors, garden, art, history, and place create a layered view of the experience.
+
+### Mawimbi
+
+Strong support.
+
+Product, environment, event, and social occasion form distinct layers.
+
+### Bistro Lolo
+
+Strong support.
+
+Architecture, materials, food, people, social use, dayparts, pool, garden, and design create several experiential layers.
+
+### Current Assessment
+
+Strongly Supported
+
+### Status
+
+Emerging
+
+### Confidence
+
+High
+
+### Comparison Insight
+
+Bistro Lolo expands the meaning of photographic layering.
+
+Layers are not only:
+
+different visual subjects.
+
+They can also represent:
+
+- behaviour
+- occasion
+- time
+- relationship with place
+
+The current pattern is therefore increasingly robust.
+
+---
+
+# Candidate Pattern Review
 
 ## Show the System Behind the Plate
 
-Cultiva remains the strongest example.
+### Cultiva
 
-The restaurant demonstrates that photography can reveal:
+Strongest support.
 
-Ingredient
+Photography and storytelling expose process, sourcing, cultivation, and the system behind the product.
+
+### Mawimbi
+
+Partial.
+
+There is a clear product story, but process and sourcing proof could be deeper.
+
+### Bistro Lolo
+
+Weak to partial support.
+
+The restaurant references:
+
+- local growers
+- small producers
+- French culinary influence
+
+but the visible photographic system appears stronger at lifestyle and place than at showing the complete culinary system.
+
+### Talisman
+
+Limited.
+
+### Ankole
+
+Limited.
+
+### Current Assessment
+
+Valid but Narrow
+
+### Status
+
+Candidate
+
+### Confidence
+
+Medium
+
+### Comparison Insight
+
+The pattern appears particularly useful when:
+
+- sourcing
+- process
+- craft
+- ingredient systems
+
+are part of the restaurant’s differentiation.
+
+It is not required for every hospitality brand.
+
+Do not promote yet.
+
+---
+
+# Observed Research Direction Review
+
+## Photography Should Demonstrate Difference
+
+### Mawimbi
+
+Strong support as a research question.
+
+Attractive seafood imagery can create appetite without fully proving why the seafood proposition is distinctive.
+
+### Bistro Lolo
+
+Strong support as a research question.
+
+The restaurant has a distinctive stated proposition involving:
+
+- local producers
+- French culinary identity
+- Nairobi context
+
+but lifestyle and place imagery appear stronger than direct photographic proof of that culinary difference.
+
+### Cultiva
+
+Conceptual support.
+
+Process photography more clearly reveals differentiation.
+
+### Current Assessment
+
+Strengthened Research Direction
+
+### Status
+
+Observed Research Direction
+
+### Confidence
+
+Medium to High
+
+### Current Insight
+
+The distinction is becoming increasingly important:
+
+## Attractive Photography
+
+creates desire.
+
+## Differentiating Photography
+
+explains why this restaurant is not interchangeable with another.
+
+The current evidence suggests premium hospitality may need both.
+
+Do not promote yet.
+
+---
+
+# New Research Direction Review
+
+## Photography as Use-Case Evidence
+
+### Bistro Lolo
+
+Strongest current example.
+
+Photography and surrounding content help communicate:
+
+- coffee
+- work
+- poolside time
+- lunch
+- drinks
+- weekends
+- social gatherings
+
+### Mawimbi
+
+Partial support through:
+
+- events
+- celebrations
+- group experience
+
+### Talisman
+
+Partial support through broader environmental and dining imagery.
+
+### Current Assessment
+
+Observed Research Direction
+
+### Confidence
+
+Medium
+
+### Research Question
+
+Can photography improve conversion by showing not only the hospitality environment, but the situations it supports?
+
+Needs additional independent evidence.
+
+---
+
+# New Research Direction Review
+
+## Daypart Photography
+
+### Bistro Lolo
+
+Strongest current example.
+
+The brand changes naturally across:
+
+- morning
+- lunch
+- afternoon
+- golden hour
+- dinner
+- evening
+
+### Other Restaurants
+
+Current evidence is weaker or less explicit.
+
+### Current Assessment
+
+Observed Research Direction
+
+### Confidence
+
+Low to Medium
+
+### Research Question
+
+Can photography across dayparts help all-day hospitality brands communicate several use cases without fragmenting identity?
+
+Needs further evidence.
+
+---
+
+# Supporting Behaviour Review
+
+## Place as Emotional Evidence
+
+### Ankole
+
+Strong.
+
+### Talisman
+
+Strong.
+
+### Bistro Lolo
+
+Strong.
+
+### Cultiva
+
+Partial.
+
+### Mawimbi
+
+Partial.
+
+### Current Assessment
+
+Supporting Behaviour
+
+### Confidence
+
+High
+
+### Photography Insight
+
+Place photography repeatedly does more than show architecture.
+
+It can communicate:
+
+- refinement
+- continuity
+- belonging
+- atmosphere
+- destination value
+
+---
+
+# Supporting Behaviour Review
+
+## Process Photography Builds Credibility
+
+### Cultiva
+
+Strong.
+
+### Mawimbi
+
+Partial.
+
+### Bistro Lolo
+
+Potentially useful but weakly demonstrated.
+
+### Current Assessment
+
+Supporting Behaviour
+
+### Confidence
+
+Medium
+
+### Insight
+
+This behaviour appears strongest when product claims depend on invisible systems such as:
+
+- sourcing
+- preparation
+- ingredients
+- craft
+
+---
+
+# Supporting Behaviour Review
+
+## Occasion Photography Can Support Revenue
+
+### Mawimbi
+
+Strong.
+
+Events and social occasions are commercially important.
+
+### Bistro Lolo
+
+Strong.
+
+Poolside use, brunch, weekends, drinks, long lunches, and social gatherings all connect atmosphere to commercial use cases.
+
+### Talisman
+
+Partial.
+
+### Current Assessment
+
+Supporting Behaviour
+
+### Confidence
+
+Medium to High
+
+### Insight
+
+This supporting behaviour is becoming significant.
+
+Photography may help convert not only restaurant interest, but specific occasions.
+
+Do not promote yet.
+
+---
+
+# Supporting Behaviour Review
+
+## Material Photography Builds Place Credibility
+
+### Bistro Lolo
+
+Strongest current example.
+
+Materials including:
+
+- timber
+- terrazzo
+- stone
+- concrete
+- art
+- lighting
+
+help make the space feel specific.
+
+### Talisman
+
+Partial.
+
+### Ankole
+
+Partial.
+
+### Current Assessment
+
+Supporting Behaviour
+
+### Confidence
+
+Medium
+
+---
+
+# Supporting Behaviour Review
+
+## People Can Make Design Feel Lived-In
+
+### Bistro Lolo
+
+Strong.
+
+Human presence and social scenarios prevent the designed environment from feeling purely architectural.
+
+### Mawimbi
+
+Partial to strong through social and event imagery.
+
+### Current Assessment
+
+Supporting Behaviour
+
+### Confidence
+
+Medium
+
+### Insight
+
+People can function as atmospheric proof.
+
+They help demonstrate:
+
+- scale
+- behaviour
+- energy
+- social comfort
+
+---
+
+# Major Photography Tension
+
+## Appetite Versus Evidence
+
+### Mawimbi
+
+Strong.
+
+Seafood imagery can create appetite while leaving sourcing, craft, or difference less visible.
+
+### Bistro Lolo
+
+Strong.
+
+Food imagery can create appetite while the brand’s local-producer and French-culinary claims require additional evidence.
+
+### Cultiva
+
+Provides a useful contrast because process and sourcing are more visible.
+
+### Current Assessment
+
+Major Research Tension
+
+### Confidence
+
+High
+
+### Current Learning
+
+The best food image is not always the image that creates the strongest product confidence.
+
+Photography strategy may need to distinguish between:
+
+Appetite
+
+and
+
+Evidence.
+
+---
+
+# Major Photography Tension
+
+## Product Versus Lifestyle
+
+### Mawimbi
+
+Both product and social experience matter.
+
+### Bistro Lolo
+
+Lifestyle, architecture, and social use are especially important.
+
+### Cultiva
+
+Product and process carry more weight.
+
+### Current Assessment
+
+Research Tension
+
+### Confidence
+
+High
+
+### Core Question
+
+How much of a hospitality visual system should sell:
+
+What guests consume
+
+versus
+
+How guests live the experience?
+
+The answer appears brand-specific.
+
+---
+
+# Major Photography Tension
+
+## Visual Richness Versus Editorial Control
+
+### Talisman
+
+Strong tension.
+
+A wide range of imagery creates richness but can challenge pacing.
+
+### Mawimbi
+
+Strong tension.
+
+Multiple compelling photographic subjects compete for attention.
+
+### Bistro Lolo
+
+Strong tension.
+
+Architecture, food, pool, garden, materials, people, and lifestyle all provide viable visual material.
+
+### Current Assessment
+
+Research Tension
+
+### Confidence
+
+High
+
+### Current Learning
+
+Having many strong images does not remove the need for curation.
+
+It increases it.
+
+KHDS should distinguish:
+
+Image Quality
+
+from
+
+Image Selection.
+
+---
+
+# Major Photography Tension
+
+## Architectural Beauty Versus Restaurant Clarity
+
+### Bistro Lolo
+
+Strongest current example.
+
+The broader Céline & Lolo property provides highly attractive:
+
+- rooms
+- architecture
+- pool
+- garden
+- details
+
+Those images strengthen the world.
+
+They may also compete with Bistro Lolo-specific restaurant evidence.
+
+### Ankole / Talisman
+
+Partial support through strong environmental identity.
+
+### Current Assessment
+
+Research Tension
+
+### Confidence
+
+Medium
+
+### Core Question
+
+When does environmental photography stop strengthening the restaurant and begin shifting attention toward the wider property?
+
+---
+
+# Major Photography Tension
+
+## Editorial Polish Versus Lived Energy
+
+### Bistro Lolo
+
+Strong.
+
+The brand depends on both:
+
+- curated design
+- neighbourhood social life
+
+### Mawimbi
+
+Partial.
+
+### Current Assessment
+
+Research Tension
+
+### Confidence
+
+Medium
+
+### Core Question
+
+How polished can hospitality photography become before it stops feeling believable as a lived experience?
+
+---
+
+# Major Photography Tension
+
+## Proof Versus Aspiration
+
+Some images exist primarily to create:
+
+- fantasy
+- desire
+- aspiration
+
+Others exist to establish:
+
+- evidence
+- credibility
+- understanding
+
+### Mawimbi
+
+Strong aspiration requirement.
+
+### Cultiva
+
+Stronger evidence requirement.
+
+### Bistro Lolo
+
+Balances aspiration through lifestyle with proof through place.
+
+### Current Assessment
+
+Research Tension
+
+### Confidence
+
+Medium to High
+
+### Current Learning
+
+One image does not always need to perform both jobs.
+
+A strong photography system can sequence:
+
+Desire
 
 ↓
 
-Cultivation
+Evidence
+
+↓
+
+Deeper Desire
+
+---
+
+# Cross-Restaurant Photography Logic
+
+The current five-restaurant set suggests at least five valid photographic models.
+
+---
+
+## Model A — Place as Proof
+
+Example:
+
+Ankole
+
+Place
+
+↓
+
+Refinement
+
+↓
+
+Confidence
+
+↓
+
+Desire
+
+---
+
+## Model B — Process as Proof
+
+Example:
+
+Cultiva
+
+Ingredient
 
 ↓
 
@@ -520,406 +1059,189 @@ Process
 
 ↓
 
-Craft
+System
 
 ↓
 
-Dish
+Credibility
 
-This makes the product more understandable and potentially more credible.
+↓
 
-Strongest Evidence:
-
-- Cultiva
-
-Partial Support:
-
-- Mawimbi
-
-Status:
-
-Candidate
-
-Confidence:
-
-Low to Medium
-
-### Current Interpretation
-
-Restaurants with meaningful sourcing, production, or culinary processes may benefit from showing how the finished dish comes into existence.
-
-More independent evidence is required.
+Product Desire
 
 ---
 
-# Research Direction
+## Model C — Layers as Proof
 
-## Photography Should Demonstrate Difference
+Example:
 
-Mawimbi introduces an important distinction.
+Talisman
 
-A photograph can make food look desirable without explaining why that food is distinctive.
+Food
 
-For a product-led restaurant, photography may need to reveal:
++
 
-- ingredient quality
-- freshness
-- sourcing
-- preparation
-- craft
-- scale
-- chef expertise
-- signature presentation
+Place
 
-Observed In:
++
 
-- Mawimbi
+Art
 
-Partial Conceptual Support:
++
 
-- Cultiva
+History
 
-Status:
+↓
 
-Observed Research Direction
-
-Confidence:
-
-Low
-
-Do not promote to Candidate yet.
-
-### Current Question
-
-When does food photography move from:
-
-Appetite
-
-to
-
-Differentiation?
+Accumulated Character
 
 ---
 
-# Supporting Behaviour
+## Model D — Product + Occasion Proof
 
-## Place as Emotional Evidence
+Example:
 
-Strongest In:
+Mawimbi
 
-- Ankole
-- Talisman
+Seafood
 
-Partial Support:
++
 
-- Mawimbi
+Atmosphere
 
-Photography of the physical environment can communicate:
++
 
+Social Occasion
+
+↓
+
+Experiential Desire
+
+---
+
+## Model E — Place + Use Proof
+
+Example:
+
+Bistro Lolo
+
+Architecture
+
++
+
+People
+
++
+
+Dayparts
+
++
+
+Lifestyle
+
+↓
+
+Guest Imagination
+
+---
+
+# Current Photography Principle
+
+The evidence increasingly supports this working rule:
+
+## First Ask What Must Be Proven
+
+Possible answers:
+
+- quality
 - atmosphere
-- destination value
-- refinement
-- identity
-- credibility
-
-Status:
-
-Observed
-
-Confidence:
-
-Medium
-
----
-
-# Supporting Behaviour
-
-## Process Photography Builds Credibility
-
-Strongest In:
-
-- Cultiva
-
-Partial Support:
-
-- Mawimbi
-
-Images of:
-
-- ingredients
-- preparation
-- sourcing
-- chefs
 - craft
-
-may strengthen confidence by making the culinary process visible.
-
-Status:
-
-Observed
-
-Confidence:
-
-Low to Medium
-
----
-
-# Supporting Behaviour
-
-## Occasion Photography Can Support Revenue
-
-Strongest In:
-
-- Mawimbi
-
-Partial Support:
-
-- Talisman
-
-Photography can help guests imagine:
-
-- celebrations
-- private dinners
-- group experiences
-- events
-
-This makes imagery commercially useful beyond general brand presentation.
-
-Status:
-
-Observed
-
-Confidence:
-
-Medium
-
----
-
-# Supporting Behaviour
-
-## Photography Can Establish Scale
-
-Mawimbi introduces the possibility that images of:
-
-- whole seafood
-- large platters
-- shareable dishes
-- event setups
-- physical spaces
-
-may communicate abundance, capacity, and perceived value.
-
-Status:
-
-Observed
-
-Confidence:
-
-Low
-
-Needs further validation.
-
----
-
-# Research Tension
-
-## Appetite Versus Evidence
-
-Food photography can create desire without explaining:
-
-- why the product is special
-- how it is made
-- where it comes from
-- why it deserves premium positioning
-
-Strongest Evidence:
-
-- Mawimbi
-
-Relevant To:
-
-- Cultiva
-
-Status:
-
-Observed
-
-Confidence:
-
-Medium
-
-### Question
-
-When should food photography simply create appetite, and when must it explain difference?
-
----
-
-# Research Tension
-
-## Visual Richness Versus Editorial Control
-
-Talisman and Mawimbi both have many photographic subjects available.
-
-This creates richness.
-
-It can also weaken:
-
-- hierarchy
-- pacing
-- narrative sequence
-- visual memory
-- mobile experience
-
-Status:
-
-Observed
-
-Confidence:
-
-Medium
-
-### Current Interpretation
-
-More photographs do not automatically create a stronger experience.
-
-Image value depends on:
-
-- role
-- sequencing
-- relevance
-- hierarchy
-
----
-
-# Research Tension
-
-## Curation Versus Completeness
-
-Restaurants may want to show:
-
-- every dish
-- every room
-- every event
-- every feature
-
-But complete visual coverage may weaken emotional impact.
-
-Strongest Evidence:
-
-- Talisman
-- Cultiva
-- Mawimbi
-
-Status:
-
-Observed
-
-Confidence:
-
-Medium
-
-### Question
-
-How much should a hospitality website show before photography becomes documentation instead of storytelling?
-
----
-
-# Research Tension
-
-## Authenticity Versus Polish
-
-Premium restaurants need photography that feels high quality.
-
-Excessive polish may make images feel staged or detached from the actual guest experience.
-
-Status:
-
-Observed Research Question
-
-Confidence:
-
-Low
-
-Future research should compare:
-
-- editorial photography
-- documentary photography
-- guest-generated imagery
-- highly produced campaign photography
-
----
-
-# Business Gap
-
-## Photography Is Often Treated as Content Rather Than Evidence
-
-Across the current research set, imagery can potentially do much more than decorate pages.
-
-Potential Kodawa Labs Direction:
-
-Assign every major image one primary role.
-
-Possible Roles:
-
-- Desire
-- Proof
-- Place
-- Product
-- Process
-- People
-- Story
-- Occasion
-
-This would turn photography strategy into part of information architecture.
-
-Opportunity Categories:
-
-- Brand
-- Conversion
-- Experience
-
-Status:
-
-Potential Opportunity
-
----
-
-# Business Gap
-
-## Product-Led Restaurants Need Stronger Visual Proof
-
-Strongest Evidence:
-
-- Mawimbi
-- Cultiva
-
-Restaurants making strong product claims may benefit from visually showing:
-
 - sourcing
-- ingredients
-- preparation
-- chefs
-- signature techniques
-- product scale
-- freshness
+- place
+- social energy
+- heritage
+- occasion
+- product difference
 
-Potential Kodawa Labs Direction:
+↓
 
-Build product-proof sequences such as:
+## Assign Photography a Job
+
+Every important image should help the guest:
+
+Understand
+
+or
+
+Believe
+
+or
+
+Desire
+
+or
+
+Imagine
+
+↓
+
+## Curate for Narrative
+
+Strong images should be selected and sequenced according to purpose rather than volume.
+
+↓
+
+## Preserve Brand-Specific Expression
+
+Different restaurants require different image roles.
+
+---
+
+# KHDS Implementation Implication
+
+KHDS should standardise:
+
+- purposeful imagery
+- proof-oriented image selection
+- narrative sequencing
+- responsive curation
+- accessible image treatment
+- image performance discipline
+
+KHDS should not standardise:
+
+- one image ratio
+- one subject type
+- one gallery style
+- one level of photographic density
+- one art direction
+- one food-to-environment ratio
+
+Restaurant identity and evidence needs should determine those choices.
+
+---
+
+# Photography Opportunity Themes
+
+The comparison strengthens several commercial opportunities.
+
+---
+
+## Product-Proof Storytelling
+
+Mawimbi and Bistro Lolo both suggest opportunities to move beyond attractive food imagery.
+
+Potential system:
 
 Ingredient
 
 ↓
 
-Origin
+Source
 
 ↓
 
-Preparation
-
-↓
-
-Chef
+Craft
 
 ↓
 
@@ -927,87 +1249,24 @@ Finished Product
 
 ↓
 
-Guest Experience
-
-Opportunity Categories:
-
-- Brand
-- Conversion
-- Storytelling
-
-Status:
-
-Potential Opportunity
+Guest
 
 ---
 
-# Business Gap
+## Occasion-Based Visual Conversion
 
-## Generic Galleries Can Waste Strong Photography
+Mawimbi and Bistro Lolo show that photography can support:
 
-Restaurants may have excellent imagery while presenting it in ways that provide little narrative or commercial value.
+- events
+- brunch
+- celebrations
+- pool days
+- drinks
+- social gatherings
 
-Potential Kodawa Labs Direction:
+Potential system:
 
-Replace generic gallery thinking with editorial sequencing.
-
-Possible Sequence:
-
-Attention
-
-↓
-
-Product
-
-↓
-
-Place
-
-↓
-
-People
-
-↓
-
-Atmosphere
-
-↓
-
-Action
-
-The exact sequence should depend on the restaurant.
-
-Opportunity Categories:
-
-- Experience
-- Brand
-- Conversion
-
-Status:
-
-Potential Opportunity
-
----
-
-# Business Gap
-
-## Event Photography Can Become a Conversion System
-
-Strongest Evidence:
-
-- Mawimbi
-
-Where events generate meaningful revenue, imagery can answer:
-
-- What does this occasion look like?
-- Which space fits?
-- How many guests can attend?
-- What atmosphere should I expect?
-- What food experience is available?
-
-Potential Journey:
-
-Occasion
+Guest Occasion
 
 ↓
 
@@ -1015,277 +1274,374 @@ Relevant Photography
 
 ↓
 
-Space
+Relevant Offer
 
 ↓
 
-Food
+Action
+
+---
+
+## Daypart-Aware Photography
+
+Bistro Lolo suggests an opportunity for all-day venues.
+
+Possible system:
+
+Time / Intent
 
 ↓
 
-Capacity
+Relevant Visual Story
 
 ↓
 
-Inquiry
-
-Opportunity Categories:
-
-- Revenue
-- Conversion
-- Experience
-
-Status:
-
-Potential Opportunity
-
----
-
-# Photography Models
-
-The four restaurants currently demonstrate four useful photographic models.
-
-## Model 1 — Place and Refinement
-
-Example:
-
-Ankole
-
-Primary Role:
-
-Make the physical experience desirable and credible.
-
----
-
-## Model 2 — Process and System
-
-Example:
-
-Cultiva
-
-Primary Role:
-
-Reveal what exists behind the finished product.
-
----
-
-## Model 3 — Layers of Character
-
-Example:
-
-Talisman
-
-Primary Role:
-
-Communicate the restaurant as a complete place with history and atmosphere.
-
----
-
-## Model 4 — Product, Atmosphere, and Occasion
-
-Example:
-
-Mawimbi
-
-Primary Role:
-
-Sell the culinary product, environment, and reasons to visit.
-
----
-
-# KHDS Photography Principle Under Development
-
-The evidence suggests KHDS should not prescribe:
-
-- one image ratio
-- one gallery layout
-- one photographic style
-- one list of required subjects
-
-Instead, photography strategy should begin with:
-
-## 1. What must the guest desire?
-
-Possible answers:
-
-- food
-- place
-- atmosphere
-- experience
-
-## 2. What must the guest believe?
-
-Possible answers:
-
-- quality
-- authenticity
-- craft
-- premium value
-- heritage
-
-## 3. What must the restaurant prove?
-
-Possible answers:
-
-- sourcing
-- process
-- product
-- setting
-- expertise
-
-## 4. What should the guest imagine?
-
-Possible answers:
-
-- dining there
-- celebrating there
-- bringing someone there
-- returning there
-
-The working logic becomes:
-
-Guest Question
+Relevant Product
 
 ↓
 
-Photographic Role
-
-↓
-
-Image Selection
-
-↓
-
-Editorial Sequence
-
-↓
-
-Confidence
+Action
 
 ---
 
-# Current Photography Pattern Position
+## Spatial Proof
 
-## Emerging
+Ankole, Talisman, and Bistro Lolo suggest that distinctive environments should be treated as commercial assets.
 
-- Photography Before Decoration
-- Photography as Proof
-- Photography Through Layers of Experience
-
-## Candidate
-
-- Show the System Behind the Plate
-
-## Observed Research Direction
-
-- Photography Should Demonstrate Difference
-
-## Supporting Behaviours
-
-- Place as Emotional Evidence
-- Process Photography Builds Credibility
-- Occasion Photography Can Support Revenue
-- Photography Can Establish Scale
-
-## Research Tensions
-
-- Appetite Versus Evidence
-- Visual Richness Versus Editorial Control
-- Curation Versus Completeness
-- Authenticity Versus Polish
-
----
-
-# Current Confidence
-
-Photography research now includes four independent restaurants with substantially different identities.
-
-The evidence strongly supports:
-
-- Photography Before Decoration
-- Photography as Proof
-
-Mawimbi also gives enough additional independent evidence to move:
-
-Photography Through Layers of Experience
-
-from Candidate to:
-
-Emerging
-
-after the full comparison reconciliation is complete. :contentReference[oaicite:2]{index=2}
-
-No photography pattern should yet move to Validated.
-
-The highest appropriate status remains:
-
-Emerging
-
----
-
-# Next Validation Questions
-
-Future restaurant studies should ask:
-
-- Does Photography Before Decoration survive in low-photography brands?
-- Can typography or illustration carry hospitality identity without extensive imagery?
-- When should process photography appear?
-- Can photography demonstrate measurable product differentiation?
-- How much imagery is appropriate on mobile?
-- Which images create confidence versus appetite?
-- How should event photography differ from ordinary restaurant photography?
-- When does photographic polish weaken authenticity?
-- How should guest-generated imagery interact with professional photography?
-- Can one image perform several roles without weakening the narrative?
-
----
-
-# Current Knowledge Statement
-
-The four independent restaurants demonstrate that restaurant photography should not be evaluated simply by whether the images are beautiful.
-
-Ankole uses photography to prove place and refinement.
-
-Cultiva uses it to reveal process and the system behind the plate.
-
-Talisman uses it to reveal layers of character.
-
-Mawimbi uses it to sell product, atmosphere, and occasion.
-
-The repeated lesson is:
-
-Photography is strongest when it has a job.
-
-That job may be:
-
-Desire
-
-↓
-
-Proof
-
-↓
+Potential system:
 
 Place
 
 ↓
 
-Process
+Detail
 
 ↓
 
-Story
+Atmosphere
 
 ↓
 
-Occasion
+Use
 
 ↓
 
-Confidence
+Visit
 
-KHDS should therefore standardise the purpose of photography, not the photographic style.
+---
 
-The strongest current rule is:
+## Editorial Curation Systems
 
-**Every important image should help the guest understand, believe, desire, or imagine something meaningful about the restaurant.**
+Talisman, Mawimbi, and Bistro Lolo all generate large amounts of viable visual content.
+
+Potential KHDS direction:
+
+Define image roles such as:
+
+- Arrival
+- Product Proof
+- Place Proof
+- Story
+- Occasion
+- People
+- Detail
+- Conversion
+
+Then curate photography according to purpose.
+
+---
+
+# Pattern Effects After Bistro Lolo Photography Comparison
+
+## Strongly Supported
+
+- Photography Before Decoration
+- Photography as Proof
+- Photography Through Layers of Experience
+
+## Candidate Kept Narrow
+
+- Show the System Behind the Plate
+
+## Research Direction Strengthened
+
+- Photography Should Demonstrate Difference
+
+## New Research Directions
+
+- Photography as Use-Case Evidence
+- Daypart Photography
+
+## Supporting Behaviours Strengthened
+
+- Place as Emotional Evidence
+- Process Photography Builds Credibility
+- Occasion Photography Can Support Revenue
+- Material Photography Builds Place Credibility
+- People Can Make Design Feel Lived-In
+
+## Major Tensions
+
+- Appetite Versus Evidence
+- Product Versus Lifestyle
+- Visual Richness Versus Editorial Control
+- Architectural Beauty Versus Restaurant Clarity
+- Editorial Polish Versus Lived Energy
+- Proof Versus Aspiration
+
+---
+
+# Promotion Assessment
+
+## Photography Before Decoration
+
+Keep:
+
+Emerging
+
+Confidence:
+
+High
+
+---
+
+## Photography as Proof
+
+Keep:
+
+Emerging
+
+Confidence:
+
+High
+
+---
+
+## Photography Through Layers of Experience
+
+Keep:
+
+Emerging
+
+Confidence:
+
+High
+
+Bistro Lolo materially strengthens this pattern because it introduces:
+
+- behaviour
+- daypart
+- social use
+
+as additional photographic layers.
+
+---
+
+## Show the System Behind the Plate
+
+Keep:
+
+Candidate
+
+Confidence:
+
+Medium
+
+The pattern is useful but appears category-dependent.
+
+---
+
+## Photography Should Demonstrate Difference
+
+Keep:
+
+Observed Research Direction
+
+Confidence:
+
+Medium to High
+
+Do not promote yet.
+
+The question is strong, but independent examples are still too limited for Candidate status.
+
+---
+
+# No Validated Promotion
+
+No photography pattern should become Validated after this comparison.
+
+Five independent restaurants improve confidence, but broader validation still requires:
+
+- additional hospitality categories
+- geographic diversity
+- contradictory evidence
+- mobile-specific image research
+- behavioural data where possible
+- performance and conversion evidence
+
+Highest appropriate research-derived status remains:
+
+Emerging
+
+---
+
+# Governance Recommendations From Photography
+
+## Photography Before Decoration
+
+Keep:
+
+Emerging
+
+No major scope change required.
+
+---
+
+## Photography as Proof
+
+Keep:
+
+Emerging
+
+Consider documenting proof categories later:
+
+- Product Proof
+- Place Proof
+- Process Proof
+- Atmosphere Proof
+- Occasion Proof
+- Use Proof
+
+Do not split into separate patterns yet.
+
+---
+
+## Photography Through Layers of Experience
+
+Keep:
+
+Emerging
+
+Refine interpretation to include:
+
+- subject layers
+- behavioural layers
+- occasion layers
+- temporal layers
+
+---
+
+## Show the System Behind the Plate
+
+Keep:
+
+Candidate
+
+Clarify that it is most relevant when process or sourcing materially differentiates the restaurant.
+
+---
+
+## Photography Should Demonstrate Difference
+
+Keep:
+
+Observed Research Direction
+
+Continue testing against product-specialist restaurants.
+
+---
+
+# Final Photography Knowledge Statement
+
+The five independent restaurants now show that hospitality photography does not have one job.
+
+Ankole uses photography to prove place and refinement.
+
+Cultiva uses photography to prove process and system.
+
+Talisman uses photography to reveal accumulated layers of character.
+
+Mawimbi uses photography to prove product, atmosphere, and occasion.
+
+Bistro Lolo uses photography to prove place, lifestyle, design, and social use.
+
+What survives is purpose.
+
+Strong hospitality photography helps the guest:
+
+Understand
+
+↓
+
+Believe
+
+↓
+
+Desire
+
+↓
+
+Imagine
+
+Bistro Lolo adds an especially useful fifth function:
+
+Imagine how you would use the place.
+
+That matters because hospitality is not only a product to observe.
+
+It is an experience the guest must picture themselves entering.
+
+The comparison also strengthens an important distinction:
+
+Beautiful photography is not automatically informative photography.
+
+Food may look desirable without explaining product difference.
+
+Architecture may look impressive without explaining restaurant identity.
+
+Lifestyle may look attractive without proving culinary substance.
+
+The strongest KHDS photography systems should therefore begin with one question:
+
+> **What does this restaurant need the guest to believe?**
+
+Then every image should earn its place by helping answer that question.
+
+---
+
+## Comparison Status
+
+Photography Comparison Updated After Bistro Lolo
+
+Independent Restaurants Compared:
+
+5
+
+Highest Research-Derived Status:
+
+Emerging
+
+Validated Research-Derived Patterns:
+
+0
+
+New Official Promotions:
+
+None Yet
+
+---
+
+## Next Step
+
+Update:
+
+`comparison/reservation.md`
+
+Do not update:
+
+- `validation/candidate-patterns.md`
+- `patterns/registry.md`
+- `validation/dashboard.md`
+
+until the reservation and story comparison files are complete.

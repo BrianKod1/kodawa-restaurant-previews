@@ -2,56 +2,953 @@
 
 ## Purpose
 
-Compare how independent restaurants communicate atmosphere through their digital experiences.
+Compare how the current independent restaurant research set creates and communicates atmosphere.
 
-This file asks:
+This file does not assume that premium hospitality requires one visual style, one emotional tone, or one relationship with place.
 
-- What creates the emotional character of the restaurant?
-- Is atmosphere led by place, worldview, heritage, product, or concept?
-- Which signals reinforce one another?
-- What makes the experience feel coherent?
-- Which atmospheric behaviours repeat across different restaurant identities?
-- Where do current KHDS pattern names need refinement?
+It asks:
 
-The goal is not to define one visual style for premium hospitality.
+- what creates atmospheric coherence
+- whether atmosphere comes from place, worldview, continuity, escape, belonging, or social use
+- which KHDS patterns survive across different restaurant models
+- where current pattern names may be too narrow
+- what contradictory evidence reveals about pattern scope
 
-The goal is to identify how atmosphere is constructed and sustained.
+Current independent research set:
+
+1. Ankole
+2. Cultiva
+3. Talisman
+4. Mawimbi
+5. Bistro Lolo
+
+Kodawa Labs validation concepts are excluded from independent evidence.
 
 ---
 
-# Restaurants Compared
+# Current Comparison Position
+
+The five restaurants now present five different atmospheric models.
+
+## Ankole
+
+Atmosphere through:
+
+- refinement
+- visual control
+- physical place
+- polished presentation
+
+Primary effect:
+
+The restaurant feels composed, premium, and spatially distinctive.
+
+---
+
+## Cultiva
+
+Atmosphere through:
+
+- worldview
+- cultivation
+- sustainability
+- process
+- community
+
+Primary effect:
+
+The environment feels connected to a broader philosophy rather than only to visual styling.
+
+---
+
+## Talisman
+
+Atmosphere through:
+
+- continuity
+- history
+- house
+- garden
+- interiors
+- art
+- accumulated character
+
+Primary effect:
+
+The restaurant feels established and lived-in rather than newly manufactured.
+
+---
+
+## Mawimbi
+
+Atmosphere through:
+
+- seafood
+- coastal language
+- tropical environment
+- luxury
+- experiential concept
+- social occasion
+
+Primary effect:
+
+The guest is invited into a designed alternate world.
+
+---
+
+## Bistro Lolo
+
+Atmosphere through:
+
+- architecture
+- materiality
+- garden
+- pool
+- social use
+- dayparts
+- neighbourhood belonging
+- Nairobi context
+
+Primary effect:
+
+The guest is invited to feel naturally embedded in the place rather than transported away from it.
+
+---
+
+# Atmosphere Model Comparison
+
+| Restaurant | Primary Atmospheric Driver | Relationship With Place | Social Character | Current Atmospheric Model |
+|---|---|---|---|---|
+| Ankole | Refinement | Place reinforces polish | Controlled, composed | Refinement Through Place |
+| Cultiva | Worldview | Place expresses philosophy | Purposeful, thoughtful | Worldview-Led |
+| Talisman | Continuity | Place carries history | Established, layered | Continuity-Led |
+| Mawimbi | Experiential concept | Place creates escape | Social, immersive | Designed Escape |
+| Bistro Lolo | Architecture + use | Place creates belonging | Relaxed, neighbourhood-led | Designed Belonging / Use-Led |
+
+The comparison shows that atmosphere does not depend on one source.
+
+Atmosphere may emerge from:
+
+- visual refinement
+- worldview
+- history
+- concept
+- architecture
+- behaviour
+- social rhythm
+- relationship with place
+
+---
+
+# Shared Atmospheric Behaviour
+
+Across all five restaurants, the strongest common behaviour is:
+
+Organising Logic
+
+↓
+
+Repeated Signals
+
+↓
+
+Emotional Coherence
+
+The organising logic differs.
+
+The signals differ.
+
+The emotion differs.
+
+But the atmosphere becomes stronger when the restaurant repeatedly reinforces one recognisable emotional direction.
+
+This continues to support:
+
+## Atmosphere Through Consistency
+
+---
+
+# Emerging Pattern Review
+
+## Atmosphere Through Consistency
+
+### Ankole
+
+Strong support.
+
+Atmosphere is reinforced through refinement, spatial imagery, restrained visual presentation, and place.
+
+### Cultiva
+
+Strong support.
+
+Worldview, process, sustainability, language, and food reinforce one emotional system.
+
+### Talisman
+
+Strong support.
+
+History, house, garden, food, art, and interiors reinforce accumulated character.
+
+### Mawimbi
+
+Strong support.
+
+Seafood, maritime language, tropical environment, events, and luxury reinforce the same experiential world.
+
+### Bistro Lolo
+
+Strong support.
+
+Architecture, materials, social scenarios, dayparts, local context, food, and language reinforce a relaxed neighbourhood identity.
+
+### Current Assessment
+
+Strongly Supported
+
+### Status
+
+Emerging
+
+### Confidence
+
+High
+
+### Comparison Insight
+
+This is one of the strongest patterns in the current KHDS research set.
+
+Bistro Lolo adds an important refinement:
+
+Consistency does not mean stylistic sameness.
+
+The transferable behaviour is:
+
+> Different elements repeatedly communicate the same emotional direction.
+
+Those elements may include:
+
+- architecture
+- language
+- photography
+- product
+- history
+- materiality
+- behaviour
+- time
+- place
+- people
+
+The pattern survives the Bistro Lolo stress test strongly.
+
+---
+
+# Candidate Pattern Review
+
+## Atmosphere Through Worldview
+
+### Cultiva
+
+Strong support.
+
+Atmosphere is closely tied to cultivation, sustainability, process, and philosophy.
+
+### Ankole
+
+Weak / partial support.
+
+Atmosphere is clearer through place and refinement than through an articulated worldview.
+
+### Talisman
+
+Weak.
+
+Continuity and place matter more than philosophy.
+
+### Mawimbi
+
+Boundary evidence.
+
+Atmosphere is organised around an experiential concept rather than a philosophical worldview.
+
+### Bistro Lolo
+
+Boundary evidence.
+
+Atmosphere is organised around:
+
+- architecture
+- neighbourhood life
+- social rhythm
+- belonging
+- design
+
+rather than a formal worldview.
+
+### Current Assessment
+
+Pattern Name Likely Too Narrow
+
+### Status
+
+Candidate / Under Review
+
+### Confidence
+
+High that refinement is needed
+
+### Comparison Insight
+
+The five-restaurant comparison provides increasing evidence that:
+
+Atmosphere Through Worldview
+
+describes one valid mechanism, but not the deeper transferable behaviour.
+
+The broader abstraction appears increasingly likely to be:
+
+## Atmosphere Through Organising Idea
+
+Possible organising ideas include:
+
+- worldview
+- refinement
+- continuity
+- escape
+- belonging
+- cuisine
+- ritual
+- culture
+- social rhythm
+- place
+
+### Governance Recommendation
+
+Do not rename during this comparison file.
+
+Complete all five comparisons first.
+
+But mark this pattern for strong abstraction review during governance reconciliation.
+
+---
+
+# Candidate Pattern Review
+
+## Atmosphere Through Continuity
+
+### Talisman
+
+Strong support.
+
+The restaurant’s atmosphere reflects accumulated history, physical continuity, and long-term relationship with place.
+
+### Bistro Lolo
+
+Partial support.
+
+The hospitality brand itself is contemporary, but it inherits architectural continuity from the older estate.
+
+### Ankole
+
+Possible partial support through established place identity.
+
+### Cultiva
+
+Limited.
+
+### Mawimbi
+
+Limited.
+
+### Current Assessment
+
+Supported With Important Refinement
+
+### Status
+
+Candidate
+
+### Confidence
+
+Medium
+
+### Comparison Insight
+
+Bistro Lolo reveals at least two different kinds of continuity.
+
+## Business Continuity
+
+The restaurant itself develops over time.
+
+Example:
+
+Talisman.
+
+## Place Continuity
+
+A newer hospitality brand preserves or reinterprets older spatial character.
+
+Example:
+
+Bistro Lolo.
+
+The pattern may eventually need to account for:
+
+- business continuity
+- architectural continuity
+- cultural continuity
+- spatial continuity
+
+Do not promote yet.
+
+---
+
+# Candidate Pattern Review
+
+## Designed Escape
+
+### Mawimbi
+
+Strong support.
+
+The restaurant creates a coastal and tropical experiential world inside Nairobi.
+
+### Bistro Lolo
+
+Meaningful contradictory / boundary evidence.
+
+The restaurant provides relief from city intensity but remains closely tied to:
+
+- Nairobi
+- Lavington
+- local community
+- local producers
+- neighbourhood life
+
+### Ankole
+
+Partial.
+
+Place may create distance from ordinary urban experience, but not necessarily an alternate world.
+
+### Talisman
+
+Partial.
+
+Destination character exists, but escape is not the primary atmospheric logic.
+
+### Cultiva
+
+Weak.
+
+### Current Assessment
+
+Valid but Narrow
+
+### Status
+
+Candidate
+
+### Confidence
+
+Medium
+
+### Comparison Insight
+
+Designed Escape should not be treated as a general atmospheric rule.
+
+It appears more applicable to hospitality brands that deliberately create:
+
+- transformation
+- alternate environment
+- fantasy
+- resort feeling
+- immersive destination identity
+
+Bistro Lolo provides the clearest opposing model:
+
+## Designed Belonging
+
+This should remain below Candidate for now.
+
+---
+
+# Candidate Pattern Review
+
+## Atmosphere as Product
+
+### Mawimbi
+
+Strong support.
+
+Atmosphere is explicitly part of why the guest should visit.
+
+### Bistro Lolo
+
+Strong support.
+
+Architecture, garden, pool, art, materiality, social life, and daypart experience appear commercially meaningful alongside food.
+
+### Ankole
+
+Partial support.
+
+Physical atmosphere strongly contributes to desirability.
+
+### Talisman
+
+Partial support.
+
+Setting and accumulated character are significant parts of the restaurant experience.
+
+### Cultiva
+
+Partial / conceptual support.
+
+Worldview and environment support the broader proposition, though atmosphere is less obviously sold as a standalone reason to visit.
+
+### Current Assessment
+
+Strong Candidate for Promotion
+
+### Current Status
+
+Candidate
+
+### Confidence
+
+Medium to High
+
+### Promotion Recommendation
+
+Atmosphere as Product should move to:
+
+Emerging
+
+after the full five-comparison reconciliation.
+
+Reason:
+
+Strong independent evidence:
+
+- Mawimbi
+- Bistro Lolo
+
+Partial support:
 
 - Ankole
-- Cultiva
 - Talisman
-- Mawimbi
+- Cultiva conceptual
 
-All four are treated as independent hospitality research.
+This is currently the clearest promotion candidate produced by Bistro Lolo.
 
-Kodawa Labs concepts are excluded from independent evidence counts.
+Do not update the registry yet.
 
 ---
 
-# Ankole
+# New Research Direction Review
 
-## Atmospheric Character
+## Designed Belonging
 
-Refined, polished, place-led, and visually controlled.
+### Bistro Lolo
 
-Ankole builds atmosphere primarily through:
+Strongest current example.
 
-- physical setting
-- architecture
-- restrained presentation
-- food
+The restaurant strengthens connection to:
+
+- neighbourhood
+- city
+- local culture
+- local routines
+- familiar social use
+
+instead of constructing an alternate world.
+
+### Partial Support
+
+Ankole and Talisman may contain place attachment, but neither currently provides equally clear neighbourhood-belonging evidence.
+
+### Current Assessment
+
+Observed Research Direction
+
+### Confidence
+
+Low to Medium
+
+### Research Question
+
+Can hospitality create premium value by helping guests feel more deeply connected to a place they already belong to?
+
+Needs further independent evidence.
+
+---
+
+# New Research Direction Review
+
+## Atmosphere Through Use
+
+### Bistro Lolo
+
+Strong support.
+
+Atmosphere is communicated through what guests do:
+
+- read
+- work
+- eat
+- drink
+- gather
+- swim
+- linger
+
+### Mawimbi
+
+Partial support.
+
+Events and social occasions contribute to atmosphere.
+
+### Talisman
+
+Partial.
+
+Dining, garden, art, and place suggest use, but behaviour is less central to the digital narrative.
+
+### Current Assessment
+
+Observed Research Direction
+
+### Confidence
+
+Low to Medium
+
+### Research Question
+
+Can behavioural scenes communicate atmosphere as effectively as architectural imagery?
+
+Needs more evidence.
+
+---
+
+# Supporting Behaviour Review
+
+## Materiality Can Carry Character
+
+### Bistro Lolo
+
+Strongest current evidence.
+
+Materials such as:
+
+- timber
+- terrazzo
+- river stone
+- concrete
+- mosaic
+
+are directly tied to the property character.
+
+### Talisman
+
+Partial support through old-house character, interiors, garden, and art.
+
+### Ankole
+
+Partial support through refined spatial treatment.
+
+### Current Assessment
+
+Supporting Behaviour
+
+### Confidence
+
+Medium
+
+### Insight
+
+Materiality can make atmosphere more specific and believable.
+
+It should remain supporting behaviour rather than Candidate status for now.
+
+---
+
+# Supporting Behaviour Review
+
+## Social Scenarios Can Explain Atmosphere
+
+### Bistro Lolo
+
+Strong.
+
+The digital experience repeatedly describes:
+
+- breakfast
+- meetings
+- long lunches
+- poolside afternoons
+- after-work drinks
+- weekends
+
+### Mawimbi
+
+Strong partial support through events, celebrations, and social dining.
+
+### Current Assessment
+
+Supporting Behaviour
+
+### Confidence
+
+Medium to High
+
+### Insight
+
+Atmosphere can be communicated through:
+
+What the place enables
+
+as well as:
+
+What the place looks like.
+
+---
+
+# Supporting Behaviour Review
+
+## Dayparts Can Change Atmosphere Without Breaking Identity
+
+### Bistro Lolo
+
+Strongest current evidence.
+
+The restaurant shifts from morning through evening while maintaining a coherent emotional character.
+
+### Other Restaurants
+
+Current evidence is weaker or less explicit.
+
+### Current Assessment
+
+Supporting Behaviour
+
+### Confidence
+
+Medium
+
+### Connection
+
+This strengthens:
+
+Hospitality Through Rhythm
+
+as a below-Candidate research direction.
+
+---
+
+# Major Atmosphere Tension
+
+## Escape Versus Belonging
+
+### Mawimbi
+
+Strong escape model.
+
+The restaurant creates an alternate coastal world.
+
+### Bistro Lolo
+
+Strong belonging model.
+
+The restaurant strengthens connection to Nairobi and neighbourhood life.
+
+### Current Assessment
+
+Major Research Tension
+
+### Confidence
+
+High
+
+### Current Learning
+
+Strong hospitality atmosphere can operate through opposite relationships with place.
+
+## Escape
+
+The environment creates distance from everyday surroundings.
+
+## Belonging
+
+The environment deepens attachment to local surroundings.
+
+Neither should be treated as inherently superior.
+
+### KHDS Implication
+
+Atmospheric strategy should begin by asking:
+
+What relationship should the guest have with the surrounding place?
+
+Not:
+
+How do we make this restaurant feel immersive?
+
+---
+
+# Major Atmosphere Tension
+
+## Heritage Versus Reinterpretation
+
+### Talisman
+
+Atmosphere derives partly from accumulated restaurant history.
+
+### Bistro Lolo
+
+Atmosphere derives partly from reinterpreted older architecture.
+
+### Current Assessment
+
+Research Tension
+
+### Confidence
+
+Medium to High
+
+### Current Learning
+
+Past character can enter hospitality in at least two ways:
+
+Preservation Through Continuity
+
+or
+
+Preservation Through Reinterpretation
+
+This distinction may become important to future heritage research.
+
+---
+
+# Major Atmosphere Tension
+
+## Premium Versus Informal
+
+### Ankole / Mawimbi
+
+More obvious premium or aspirational signalling.
+
+### Bistro Lolo
+
+Strong design combined with casual, conversational positioning.
+
+### Current Assessment
+
+Research Tension
+
+### Confidence
+
+High
+
+### Current Learning
+
+Premium atmosphere does not require formal social distance.
+
+A brand may communicate high perceived value through:
+
+- craft
+- design
+- materiality
+- atmosphere
+- confidence
+
+while remaining conversational and relaxed.
+
+---
+
+# Major Atmosphere Tension
+
+## Visual Control Versus Lived Energy
+
+### Ankole
+
+Stronger sense of control and refinement.
+
+### Bistro Lolo
+
+Atmosphere depends more visibly on social use and lived energy.
+
+### Mawimbi
+
+Uses both polished imagery and social occasion.
+
+### Current Assessment
+
+Research Tension
+
+### Confidence
+
+Medium
+
+### Core Question
+
+How much visual control can hospitality introduce before the environment stops feeling alive?
+
+This becomes particularly relevant for photography and production design.
+
+---
+
+# Major Atmosphere Tension
+
+## Physical Atmosphere Versus Digital Proof
+
+All five restaurants possess some form of physical atmosphere.
+
+The website must decide how much of that atmosphere can actually be translated digitally.
+
+### Current Assessment
+
+Research Tension
+
+### Confidence
+
+High
+
+### Current Learning
+
+A strong physical environment does not automatically create a strong digital atmospheric experience.
+
+Digital proof may require:
+
 - photography
-- spatial confidence
+- language
+- sound where appropriate
+- motion
+- material detail
+- social scenes
+- pacing
+- spatial storytelling
 
-The experience feels premium because multiple visual elements communicate the same broad level of refinement.
+This remains a major Kodawa Labs opportunity area.
 
-## Atmospheric Logic
+---
+
+# Cross-Restaurant Atmospheric Logic
+
+The current research suggests at least five legitimate atmospheric models.
+
+---
+
+## Model A — Refinement Through Place
+
+Example:
+
+Ankole
 
 Place
+
+↓
+
+Visual Restraint
 
 ↓
 
@@ -59,62 +956,17 @@ Refinement
 
 ↓
 
-Photography
-
-↓
-
-Food
-
-↓
-
-Confidence
-
-## Strongest Atmosphere Contribution
-
-Ankole demonstrates that atmosphere can emerge from controlled consistency across place, imagery, and visual presentation.
-
-## Patterns Supported
-
-- Atmosphere Through Consistency
-- Story Through Place
-- Photography Before Decoration
-- Photography as Proof
-
-## Partial Support
-
-- Atmosphere as Product
-- Atmosphere Through Worldview
+Desirability
 
 ---
 
-# Cultiva
+## Model B — Worldview Through Environment
 
-## Atmospheric Character
+Example:
 
-Worldview-led, organic, thoughtful, and cultivation-driven.
+Cultiva
 
-Cultiva creates atmosphere through more than interior design.
-
-Its emotional identity is reinforced through:
-
-- cultivation
-- sustainability
-- food
-- sourcing
-- community
-- process
-- natural imagery
-- brand language
-
-The atmosphere comes from the feeling that the restaurant belongs to a larger system of values.
-
-## Atmospheric Logic
-
-Worldview
-
-↓
-
-Cultivation
+Belief
 
 ↓
 
@@ -122,59 +974,19 @@ Process
 
 ↓
 
-Food
-
-↓
-
-Community
+Environment
 
 ↓
 
 Atmosphere
 
-## Strongest Atmosphere Contribution
-
-Cultiva demonstrates that atmosphere can be created through an organising belief system rather than physical environment alone.
-
-## Patterns Supported
-
-- Atmosphere Through Consistency
-- Atmosphere Through Worldview
-- Story Before Features
-- One Idea Can Organise the Brand Story
-- Photography as Proof
-
 ---
 
-# Talisman
+## Model C — Continuity Through Place
 
-## Atmospheric Character
+Example:
 
-Established, layered, lived-in, and continuity-led.
-
-Talisman creates atmosphere through accumulated character.
-
-Its identity is reinforced by:
-
-- the old house
-- Karen
-- garden
-- interiors
-- art
-- food
-- history
-- reputation
-- continuity
-
-The atmosphere does not feel recently invented.
-
-It feels like something that has developed over time. :contentReference[oaicite:0]{index=0}
-
-## Atmospheric Logic
-
-House
-
-↓
+Talisman
 
 History
 
@@ -184,172 +996,7 @@ Place
 
 ↓
 
-Interiors
-
-↓
-
-Food
-
-↓
-
-Art
-
-↓
-
-Continuity
-
-## Strongest Atmosphere Contribution
-
-Talisman demonstrates that atmosphere can be strengthened by time.
-
-History, place, and environment can create a sense of accumulated character.
-
-## Patterns Supported
-
-- Atmosphere Through Consistency
-- Story Through Place
-- Photography Through Layers of Experience
-- Photography as Proof
-
-## Candidate Pattern
-
-- Atmosphere Through Continuity
-
----
-
-# Mawimbi
-
-## Atmospheric Character
-
-Coastal, tropical, immersive, escapist, and concept-led.
-
-Mawimbi creates atmosphere around the idea of transporting the guest into a different emotional environment.
-
-Its atmosphere is reinforced through:
-
-- coastal language
-- tropical references
-- seafood
-- relaxation
-- luxury
-- social connection
-- events
-- maritime naming
-- environmental imagery
-
-The restaurant is physically in Nairobi but presents an experience designed to feel coastal and transportive. :contentReference[oaicite:1]{index=1}
-
-## Atmospheric Logic
-
-City
-
-↓
-
-Threshold
-
-↓
-
-Coastal Escape
-
-↓
-
-Seafood
-
-↓
-
-Relaxation
-
-↓
-
-Connection
-
-↓
-
-Experience
-
-## Strongest Atmosphere Contribution
-
-Mawimbi demonstrates that atmosphere can be intentionally designed as escape.
-
-The environment itself becomes part of the reason to visit.
-
-## Patterns Supported
-
-- Atmosphere Through Consistency
-- One Idea Can Organise the Brand Story
-- Photography as Proof
-- Photography Through Layers of Experience
-
-## Candidate Patterns
-
-- Designed Escape
-- Atmosphere as Product
-
-## Pattern Under Review
-
-- Atmosphere Through Worldview
-
-Mawimbi suggests that the current name may be too narrow.
-
----
-
-# Cross-Restaurant Comparison
-
-## What Creates Atmosphere?
-
-### Ankole
-
-Refinement and place.
-
-### Cultiva
-
-Worldview and cultivation.
-
-### Talisman
-
-Continuity and accumulated character.
-
-### Mawimbi
-
-Designed escape and immersive concept.
-
----
-
-# Key Finding
-
-The restaurants create atmosphere through very different sources.
-
-The repeated behaviour is not aesthetic similarity.
-
-The repeated behaviour is coherence.
-
-Atmosphere becomes stronger when multiple parts of the experience reinforce the same emotional identity.
-
-This includes combinations of:
-
-- photography
-- place
-- language
-- food
-- story
-- architecture
-- history
-- concept
-- process
-- events
-- product
-
-The transferable behaviour is:
-
-Central Emotional Identity
-
-↓
-
-Consistent Signals
-
-↓
-
-Reinforcement
+Accumulated Character
 
 ↓
 
@@ -357,70 +1004,199 @@ Atmosphere
 
 ---
 
-# Emerging Pattern
+## Model D — Designed Escape
 
-## Atmosphere Through Consistency
+Example:
 
-All four restaurants strongly support this pattern.
+Mawimbi
 
-### Ankole
-
-Consistency through refinement, place, and presentation.
-
-### Cultiva
-
-Consistency through worldview, food, process, and cultivation.
-
-### Talisman
-
-Consistency through heritage, place, art, and accumulated character.
-
-### Mawimbi
-
-Consistency through coastal concept, seafood, naming, and atmosphere.
-
-Independent Evidence:
-
-- Ankole
-- Cultiva
-- Talisman
-- Mawimbi
-
-Status:
-
-Emerging
-
-Confidence:
-
-High
-
-### Current Interpretation
-
-Atmosphere does not require a universal aesthetic.
-
-It requires coherence.
-
-Typography, imagery, place, language, story, product, and behaviour should reinforce the same emotional direction.
-
----
-
-# Pattern Under Review
-
-## Atmosphere Through Worldview
-
-Cultiva remains the strongest example of atmosphere created through a philosophical worldview.
-
-Mawimbi provides related but different evidence.
-
-Its atmosphere is organised around an experiential concept rather than a belief system.
-
-### Cultiva
-
-Cultivation
+Concept
 
 ↓
 
-Sustainability
+Environment
+
+↓
+
+Transformation
+
+↓
+
+Atmosphere
+
+---
+
+## Model E — Designed Belonging
+
+Example:
+
+Bistro Lolo
+
+Place
+
+↓
+
+Social Use
+
+↓
+
+Local Connection
+
+↓
+
+Atmosphere
+
+---
+
+# Current Atmospheric Principle
+
+The evidence increasingly supports this working logic:
+
+## Establish an Organising Logic
+
+What emotional world should the place express?
+
+↓
+
+## Repeat It Across Signals
+
+Possible signals:
+
+- architecture
+- photography
+- materials
+- language
+- food
+- people
+- music
+- history
+- behaviour
+- dayparts
+
+↓
+
+## Create Coherence
+
+The guest understands what kind of place they are entering.
+
+↓
+
+## Allow Brand-Specific Expression
+
+Do not force one style of atmosphere onto every restaurant.
+
+---
+
+# KHDS Implementation Implication
+
+KHDS should standardise:
+
+- atmospheric coherence
+- relationship between signals
+- intentionality
+- translation of physical character into digital evidence
+- consistency between brand promise and environmental proof
+
+KHDS should not standardise:
+
+- one mood
+- one colour palette
+- one image style
+- one level of luxury
+- one relationship with the city
+- one density of visual information
+- one type of motion
+
+The correct atmospheric expression is restaurant-specific.
+
+---
+
+# Atmosphere Opportunity Themes
+
+The comparison strengthens several commercially relevant opportunities.
+
+---
+
+## Atmosphere-to-Occasion Conversion
+
+Mawimbi and Bistro Lolo both show that atmosphere can support commercial occasions.
+
+Possible pathway:
+
+Atmosphere
+
+↓
+
+Occasion
+
+↓
+
+Relevant Offer
+
+↓
+
+Action
+
+Possible uses:
+
+- brunch
+- events
+- poolside
+- celebrations
+- drinks
+- private dining
+- corporate gatherings
+
+---
+
+## Spatial Storytelling
+
+Ankole, Talisman, and Bistro Lolo suggest that distinctive place can carry meaningful brand value.
+
+Potential direction:
+
+Architecture
+
+↓
+
+Meaning
+
+↓
+
+Atmosphere
+
+↓
+
+Guest Imagination
+
+↓
+
+Visit
+
+---
+
+## Digital Atmosphere Translation
+
+Restaurants with strong physical environments may digitally undersell them.
+
+Potential Kodawa Labs direction:
+
+- cinematic photography
+- spatial sequencing
+- restrained motion
+- material storytelling
+- occasion-based visual systems
+- mobile-first environmental pacing
+
+---
+
+## Local Belonging Systems
+
+Bistro Lolo introduces the possibility that neighbourhood identity can become commercially useful.
+
+Potential direction:
+
+Local Place
 
 ↓
 
@@ -428,697 +1204,301 @@ Community
 
 ↓
 
-Food
+Repeat Use
 
 ↓
 
-Atmosphere
+Guest Relationship
 
-### Mawimbi
-
-Sea
-
-↓
-
-Escape
-
-↓
-
-Seafood
-
-↓
-
-Connection
-
-↓
-
-Atmosphere
-
-This suggests the current abstraction may be too narrow.
-
-Current Status:
-
-Candidate / Under Review
-
-Confidence:
-
-Medium
+This remains a solution hypothesis.
 
 ---
 
-# Possible Pattern Refinement
+# Pattern Effects After Bistro Lolo Atmosphere Comparison
 
-## Atmosphere Through Organising Idea
-
-Possible Definition:
-
-A hospitality brand can create atmospheric coherence when multiple elements of the guest experience are organised around one central emotional, conceptual, cultural, or philosophical idea.
-
-Possible Organising Ideas:
-
-- worldview
-- place
-- heritage
-- escape
-- cuisine
-- ritual
-- journey
-- culture
-- community
-
-Potential Evidence:
-
-- Cultiva
-- Mawimbi
-
-Partial Support:
-
-- Ankole
-- Talisman
-
-Status:
-
-Research Refinement Only
-
-Do not rename the registry pattern yet.
-
-Further independent evidence is required.
-
----
-
-# Candidate Pattern
-
-## Atmosphere Through Continuity
-
-Talisman remains the strongest example.
-
-Its atmosphere gains depth because the restaurant communicates:
-
-- history
-- longstanding place
-- accumulated character
-- reputation
-- environment
-
-Observed In:
-
-- Talisman
-
-Partial Support:
-
-- Ankole
-
-Status:
-
-Candidate
-
-Confidence:
-
-Low to Medium
-
-### Current Interpretation
-
-Time itself can become atmospheric evidence.
-
-A restaurant may feel valuable because its character appears lived-in rather than recently manufactured.
-
----
-
-# Candidate Pattern
-
-## Designed Escape
-
-Mawimbi introduces a distinct atmospheric behaviour.
-
-The restaurant intentionally creates an emotional environment that differs from the surrounding city.
-
-Observed In:
-
-- Mawimbi
-
-Status:
-
-Candidate
-
-Confidence:
-
-Low
-
-### Current Interpretation
-
-A hospitality experience can create value by transporting the guest into an alternate emotional world.
-
-Needs Confirmation:
-
-- rooftop restaurants
-- resorts
-- beach clubs
-- nightlife venues
-- immersive restaurants
-- destination dining
-
----
-
-# Candidate Pattern
-
-## Atmosphere as Product
-
-Mawimbi also strengthens the idea that ambience itself may influence purchase intent.
-
-Strongest Evidence:
-
-- Mawimbi
-
-Partial Support:
-
-- Ankole
-- Talisman
-
-Status:
-
-Candidate
-
-Confidence:
-
-Low to Medium
-
-### Current Interpretation
-
-For some restaurants, guests are purchasing more than:
-
-- food
-- drinks
-- service
-
-They are also purchasing access to a specific emotional environment.
-
-Further evidence is required before this becomes Emerging.
-
----
-
-# Supporting Behaviour
-
-## Place Can Carry Atmosphere
-
-Strongest In:
-
-- Ankole
-- Talisman
-
-Place can communicate:
-
-- identity
-- confidence
-- destination value
-- emotional character
-
-Status:
-
-Observed
-
-Confidence:
-
-Medium
-
----
-
-# Supporting Behaviour
-
-## Language Can Reinforce Atmosphere
-
-Strongest In:
-
-- Cultiva
-- Mawimbi
-
-Cultiva uses cultivation language.
-
-Mawimbi uses maritime language.
-
-This suggests brand vocabulary can contribute directly to the emotional environment.
-
-Status:
-
-Observed
-
-Confidence:
-
-Medium
-
----
-
-# Supporting Behaviour
-
-## Product Can Reinforce Atmosphere
-
-Strongest In:
-
-- Cultiva
-- Mawimbi
-- Talisman
-
-Food is not always separate from atmosphere.
-
-It may reinforce:
-
-- worldview
-- place
-- escape
-- continuity
-- identity
-
-Status:
-
-Observed
-
-Confidence:
-
-Medium
-
----
-
-# Research Tension
-
-## Richness Versus Restraint
-
-Talisman and Mawimbi both use many atmospheric signals.
-
-This can create depth.
-
-It can also create:
-
-- visual competition
-- pacing issues
-- weaker hierarchy
-- mobile density
-
-Status:
-
-Observed
-
-Confidence:
-
-Medium
-
-### Question
-
-How much atmospheric richness strengthens character before it becomes noise?
-
----
-
-# Research Tension
-
-## Immersion Versus Theme
-
-Mawimbi introduces a strong version of this tension.
-
-A central concept can increase memorability.
-
-Overuse may make the experience feel overly literal or themed.
-
-Status:
-
-Observed
-
-Confidence:
-
-Medium
-
-### Question
-
-How far should atmospheric storytelling extend into:
-
-- naming
-- navigation
-- section language
-- motion
-- visual treatment
-
-before clarity or sophistication begins to weaken?
-
----
-
-# Research Tension
-
-## Coherence Versus Repetition
-
-Consistent atmosphere requires reinforcement.
-
-Too much repetition may make the experience feel one-dimensional.
-
-Status:
-
-Observed
-
-Confidence:
-
-Low to Medium
-
-### Question
-
-How can KHDS preserve one emotional identity while still allowing visual and narrative variety?
-
----
-
-# Research Tension
-
-## Physical Atmosphere Versus Digital Proof
-
-Restaurants may have strong physical environments that are difficult to translate digitally.
-
-This is especially relevant for:
-
-- Ankole
-- Talisman
-- Mawimbi
-
-Status:
-
-Observed
-
-Confidence:
-
-Medium
-
-### Question
-
-Which digital tools best communicate physical atmosphere?
-
-Possible Evidence Sources:
-
-- cinematic photography
-- video
-- motion
-- spatial sequencing
-- sound
-- editorial pacing
-
-Further research is needed.
-
----
-
-# Business Gap
-
-## Atmosphere Is Often Undersold Digitally
-
-Across the current research set, physical place appears to be commercially important.
-
-Yet the website must still prove that atmosphere before the guest visits.
-
-Potential Kodawa Labs Direction:
-
-Build stronger atmosphere storytelling systems using:
-
-- environmental photography
-- intentional sequencing
-- restrained motion
-- spatial storytelling
-- mobile-first pacing
-- visual transitions
-- occasion-based imagery
-
-Opportunity Categories:
-
-- Brand
-- Experience
-- Conversion
-
-Status:
-
-Potential Opportunity
-
----
-
-# Business Gap
-
-## Atmosphere Can Support Event Conversion
-
-Strongest Evidence:
-
-- Mawimbi
-- Talisman partial
-
-Where atmosphere is part of the value proposition, event journeys could sell the environment more deliberately.
-
-Potential Structure:
-
-Occasion
-
-↓
-
-Atmosphere
-
-↓
-
-Space
-
-↓
-
-Food
-
-↓
-
-Capacity
-
-↓
-
-Inquiry
-
-Opportunity Categories:
-
-- Revenue
-- Conversion
-- Brand
-
-Status:
-
-Potential Opportunity
-
----
-
-# Business Gap
-
-## Restaurants With Strong Concepts Need Better Digital Translation
-
-Cultiva and Mawimbi both rely heavily on central organising ideas.
-
-A generic restaurant website structure may weaken those brands.
-
-Potential Kodawa Labs Direction:
-
-Translate organising ideas into:
-
-- story architecture
-- section naming
-- photography roles
-- motion
-- pacing
-- content hierarchy
-
-without sacrificing usability.
-
-Opportunity Categories:
-
-- Brand
-- Experience
-- Differentiation
-
-Status:
-
-Potential Opportunity
-
----
-
-# Atmosphere Diversity
-
-The four restaurants currently demonstrate four distinct atmospheric models.
-
-## Model 1 — Refinement Through Place
-
-Example:
-
-Ankole
-
-Primary Driver:
-
-Physical environment and controlled presentation.
-
----
-
-## Model 2 — Atmosphere Through Worldview
-
-Example:
-
-Cultiva
-
-Primary Driver:
-
-Belief, cultivation, sustainability, and community.
-
----
-
-## Model 3 — Atmosphere Through Continuity
-
-Example:
-
-Talisman
-
-Primary Driver:
-
-History, place, and accumulated character.
-
----
-
-## Model 4 — Atmosphere Through Designed Escape
-
-Example:
-
-Mawimbi
-
-Primary Driver:
-
-Transportive concept, coastal identity, and experiential world.
-
----
-
-# KHDS Atmosphere Principle Under Development
-
-The evidence currently suggests that KHDS should not define atmosphere through:
-
-- dark palettes
-- luxury typography
-- cinematic photography
-- minimalism
-- one specific visual style
-
-Instead, atmosphere should answer:
-
-## 1. What should this place feel like?
-
-Define the emotional identity.
-
-## 2. What creates that feeling?
-
-Identify the strongest drivers.
-
-## 3. Which signals reinforce it?
-
-Align:
-
-- photography
-- language
-- place
-- food
-- story
-- motion
-- interface
-- pacing
-
-## 4. What should be removed?
-
-Eliminate elements that contradict the intended emotional identity.
-
-The working logic becomes:
-
-Emotional Identity
-
-↓
-
-Supporting Signals
-
-↓
-
-Consistency
-
-↓
-
-Atmosphere
-
----
-
-# Current Atmosphere Pattern Position
-
-## Emerging
+## Strongly Supported
 
 - Atmosphere Through Consistency
 
-## Candidate
+## Candidate With Promotion Recommendation
 
-- Atmosphere Through Worldview
-- Atmosphere Through Continuity
-- Designed Escape
 - Atmosphere as Product
 
-## Under Review
+Proposed:
 
-- Atmosphere Through Worldview may eventually become Atmosphere Through Organising Idea
+Candidate → Emerging
+
+Pending full comparison reconciliation.
+
+## Candidate Requiring Abstraction Review
+
+- Atmosphere Through Worldview
+
+Likely too narrow.
+
+Potential broader abstraction:
+
+Atmosphere Through Organising Idea
+
+Do not rename yet.
+
+## Candidate Supported With Refinement
+
+- Atmosphere Through Continuity
+
+## Candidate With Boundary Evidence
+
+- Designed Escape
+
+## New Research Directions
+
+- Designed Belonging
+- Atmosphere Through Use
 
 ## Supporting Behaviours
 
-- Place Can Carry Atmosphere
-- Language Can Reinforce Atmosphere
-- Product Can Reinforce Atmosphere
+- Materiality Can Carry Character
+- Social Scenarios Can Explain Atmosphere
+- Dayparts Can Change Atmosphere Without Breaking Identity
 
-## Research Tensions
+## Major Tensions
 
-- Richness Versus Restraint
-- Immersion Versus Theme
-- Coherence Versus Repetition
+- Escape Versus Belonging
+- Heritage Versus Reinterpretation
+- Premium Versus Informal
+- Visual Control Versus Lived Energy
 - Physical Atmosphere Versus Digital Proof
 
 ---
 
-# Current Confidence
+# Promotion Assessment
 
-Atmosphere research now includes four independent restaurants with substantially different emotional identities.
+## Atmosphere as Product
 
-This strongly supports:
+Current:
 
-Atmosphere Through Consistency
+Candidate
 
-It also demonstrates that consistency does not mean sameness.
+Recommended After Full Reconciliation:
 
-The atmospheric mechanism can differ completely between restaurants.
+Emerging
 
-No atmosphere pattern should yet move to Validated.
+Evidence:
 
-The highest appropriate status remains:
+Strong:
+
+- Mawimbi
+- Bistro Lolo
+
+Partial:
+
+- Ankole
+- Talisman
+
+Conceptual:
+
+- Cultiva
+
+Confidence:
+
+Medium to High
+
+Reason:
+
+The pattern now survives two very different atmospheric models.
+
+Mawimbi sells atmosphere through escape.
+
+Bistro Lolo sells atmosphere through belonging.
+
+That diversity strengthens transferability.
+
+---
+
+# No Validated Promotion
+
+No atmospheric pattern should become Validated after this comparison.
+
+Five independent restaurants improve evidence quality but do not automatically satisfy the broader validation requirement.
+
+Further work should include:
+
+- more geographic diversity
+- additional restaurant categories
+- stronger contradictory examples
+- mobile-specific research
+- guest behaviour
+- implementation testing
+
+Highest research-derived status remains:
 
 Emerging
 
 ---
 
-# Next Validation Questions
+# Governance Recommendations From Atmosphere
 
-Future restaurant studies should ask:
+## Atmosphere Through Consistency
 
-- Can atmosphere survive in highly functional or high-volume restaurants?
-- Can ambience itself drive measurable purchase intent?
-- Does Designed Escape repeat across other destination concepts?
-- Is Atmosphere Through Worldview actually part of the broader Atmosphere Through Organising Idea pattern?
-- How much atmospheric storytelling is appropriate on mobile?
-- Can atmosphere remain strong with very little photography?
-- When does immersive branding become theme?
-- How much does physical place need to appear digitally?
-- Can product become the primary source of atmosphere?
-- How do different restaurant categories change atmospheric requirements?
+Keep:
+
+Emerging
+
+Confidence:
+
+High
 
 ---
 
-# Current Knowledge Statement
+## Atmosphere Through Worldview
 
-The current independent research shows that premium hospitality atmosphere is not defined by one visual language.
+Keep temporarily:
+
+Candidate / Under Review
+
+Flag strongly for abstraction review.
+
+Potential future replacement:
+
+Atmosphere Through Organising Idea
+
+Do not rename yet.
+
+---
+
+## Atmosphere Through Continuity
+
+Keep:
+
+Candidate
+
+Add distinction between:
+
+- business continuity
+- place continuity
+
+---
+
+## Designed Escape
+
+Keep:
+
+Candidate
+
+Clarify future scope around transformational hospitality rather than general premium atmosphere.
+
+---
+
+## Atmosphere as Product
+
+Recommend:
+
+Emerging
+
+only after all five comparison files are complete and governance files are reconciled.
+
+---
+
+# Final Atmosphere Knowledge Statement
+
+The five independent restaurants now show that premium hospitality atmosphere does not come from one aesthetic language.
 
 Ankole creates atmosphere through refinement.
 
-Cultiva creates it through worldview.
+Cultiva creates atmosphere through worldview.
 
-Talisman creates it through continuity.
+Talisman creates atmosphere through continuity.
 
-Mawimbi creates it through designed escape.
+Mawimbi creates atmosphere through escape.
 
-The repeated behaviour underneath all four is coherence.
+Bistro Lolo creates atmosphere through belonging, architecture, and use.
 
-Strong atmosphere occurs when the restaurant knows what emotional world it wants to create and multiple parts of the experience consistently reinforce that world.
+What survives is not the style.
 
-KHDS should therefore standardise atmospheric coherence, not atmospheric style.
+It is the coherence.
+
+Each strong example connects several signals to one recognisable emotional direction.
+
+The current strongest atmospheric logic is therefore:
+
+Organising Logic
+
+↓
+
+Repeated Signals
+
+↓
+
+Emotional Coherence
+
+↓
+
+Guest Imagination
+
+Bistro Lolo adds two major corrections.
+
+First:
+
+Atmosphere does not have to transport the guest away.
+
+It can make the guest feel more deeply connected to where they already are.
+
+Second:
+
+Atmosphere is not only what the space looks like.
+
+It can also be communicated through what people do there.
+
+That makes the emerging KHDS understanding broader:
+
+> Atmosphere is the coherent relationship between place, identity, behaviour, and feeling.
+
+This comparison also gives `Atmosphere as Product` its strongest case yet for promotion to Emerging.
+
+But it puts `Atmosphere Through Worldview` under serious pressure.
+
+The current evidence increasingly suggests that worldview is only one possible organising mechanism.
+
+The deeper abstraction may be:
+
+**Atmosphere Through Organising Idea.**
+
+That should not become official until the entire Bistro Lolo comparison cycle is complete.
+
+---
+
+## Comparison Status
+
+Atmosphere Comparison Updated After Bistro Lolo
+
+Independent Restaurants Compared:
+
+5
+
+Highest Research-Derived Status:
+
+Emerging
+
+Validated Research-Derived Patterns:
+
+0
+
+Provisional Promotion Recommendation:
+
+- Atmosphere as Product → Emerging
+
+---
+
+## Next Step
+
+Update:
+
+`comparison/photography.md`
+
+Do not update:
+
+- `validation/candidate-patterns.md`
+- `patterns/registry.md`
+- `validation/dashboard.md`
+
+until all five Bistro Lolo comparison files are complete.
