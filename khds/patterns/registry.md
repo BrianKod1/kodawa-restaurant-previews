@@ -2,40 +2,32 @@
 
 ## Purpose
 
-The KHDS Pattern Registry is the official source of truth for research-derived hospitality patterns.
+This registry is the canonical index of KHDS patterns and their current research maturity.
 
-It records:
+It exists to answer:
 
-- current pattern maturity
-- independent evidence
-- confidence
-- contradictory evidence
-- scope limitations
-- abstraction reviews
-- promotion history
-- validation requirements
+- What patterns currently exist?
+- Which patterns are research-derived?
+- What maturity has each pattern reached?
+- What evidence supports each pattern?
+- What contradictions or boundaries exist?
+- Which patterns require abstraction review?
+- Which ideas remain below Candidate status?
+- Which implementation patterns existed before formal research?
 
-Research may create findings.
+This file should reflect governance decisions already reconciled through:
 
-Comparison may strengthen or challenge them.
+- independent restaurant dossiers
+- cross-restaurant comparisons
+- Candidate governance
 
-This registry determines their official KHDS research status.
-
----
-
-# Core Rule
-
-If a research-derived pattern is not listed in this registry, it is not an official KHDS research pattern.
-
-Existing implementation patterns may exist separately, but implementation does not equal research validation.
-
-Independent restaurant evidence determines research maturity.
-
-Kodawa Labs concepts do not count as independent evidence.
+It should not promote patterns independently.
 
 ---
 
 # Pattern Lifecycle
+
+KHDS research patterns move through:
 
 Observed
 
@@ -55,380 +47,569 @@ Validated
 
 KHDS Principle
 
-↓
-
-Production Experience
+These statuses are not interchangeable.
 
 ---
 
-# Current Research Position
+# Status Definitions
 
-Independent Restaurants Studied:
+## Observed
 
-5
+A potentially useful behaviour has been identified.
+
+Evidence is too limited for Candidate status.
+
+---
+
+## Candidate
+
+The behaviour has repeated meaningfully enough to deserve formal tracking.
+
+It still requires:
+
+- additional independent evidence
+- contradiction testing
+- scope refinement
+- abstraction testing
+
+---
+
+## Emerging
+
+The pattern has repeated across multiple independent cases and has survived meaningful contradiction or category variation.
+
+The abstraction is useful but not yet sufficiently validated for principle-level promotion.
+
+---
+
+## Validated
+
+The pattern has survived broader research across:
+
+- markets
+- hospitality categories
+- contradictory examples
+- implementation contexts
+
+and has a stable enough abstraction to be treated as validated knowledge.
+
+No research-derived pattern has reached this status yet.
+
+---
+
+## KHDS Principle
+
+A deeply validated pattern that becomes part of the formal KHDS design and hospitality philosophy.
+
+No research-derived KHDS Principle has been promoted yet.
+
+---
+
+# Important Classification Rule
+
+Existing Kodawa Labs implementation practices are not automatically research-derived patterns.
+
+A pre-existing implementation pattern may exist in KHDS while remaining:
+
+Pending Formal Validation.
+
+The current example is:
+
+`Invitation`
+
+---
+
+# Current Research Base
+
+## Independent Restaurants
+
+6
 
 1. Ankole
 2. Cultiva
 3. Talisman
 4. Mawimbi
 5. Bistro Lolo
+6. FYN
 
-Kodawa Labs Validation Concepts:
+---
+
+## Kodawa Labs Validation Concepts
 
 1
 
 - Trunk & Tandoor Concept
 
-Emerging Patterns:
+Kodawa Labs concepts do not count as independent evidence.
 
-16
+They may validate:
 
-Candidate Patterns:
+- implementation
+- usability
+- visual translation
+- production application
 
-9
-
-Partially Supported Findings:
-
-1
-
-Validated Research-Derived Patterns:
-
-0
-
-KHDS Principles Promoted From Research:
-
-0
-
-Existing KHDS Implementation Patterns Pending Formal Validation:
-
-1
-
-Highest Current Research-Derived Status:
-
-Emerging
+but not independent research maturity.
 
 ---
 
-# Registry
+# Current Governance State
 
-| Pattern | Status | Independent Evidence | Confidence | Review |
-|---|---|---|---|---|
-| Emotion Before Interface | Emerging | Ankole, Cultiva, Talisman, Mawimbi, Bistro Lolo | High | Definition broadened |
-| Story Before Features | Emerging | Ankole, Cultiva, Talisman, Mawimbi, Bistro Lolo | High | Definition broadened |
-| Photography Before Decoration | Emerging | Ankole, Cultiva, Talisman, Mawimbi, Bistro Lolo | High | Stable |
-| Reservation Throughout the Journey | Emerging | Ankole, Cultiva, Talisman, Mawimbi, Bistro Lolo | High | Participation-path refinement |
-| Atmosphere Through Consistency | Emerging | Ankole, Cultiva, Talisman, Mawimbi, Bistro Lolo | High | Stable |
-| Dual-Path Hospitality | Emerging | Ankole, Cultiva, Talisman, Mawimbi, Bistro Lolo | High | Abstraction review |
-| Commitment Without Pressure | Emerging | Ankole, Cultiva, Talisman, Mawimbi, Bistro Lolo | High | Guest-autonomy refinement |
-| Photography as Proof | Emerging | Ankole, Cultiva, Talisman, Mawimbi, Bistro Lolo | High | Proof categories expanded |
-| Story Through Place | Emerging | Ankole, Talisman, Bistro Lolo; Cultiva/Mawimbi partial | High | Place-history refinement |
-| Promise Before Proof | Emerging | Cultiva, Mawimbi; Ankole partial; Bistro Lolo boundary | Medium | Scope review |
-| Layered Arrival | Emerging | Talisman, Mawimbi; Ankole/Cultiva/Bistro Lolo partial | Medium to High | Sequential/ambient refinement |
-| One Idea Can Organise the Brand Story | Emerging | Cultiva, Mawimbi; Ankole/Talisman partial; Bistro Lolo boundary | Medium to High | Abstraction review |
-| The Guest as Participant | Emerging | Cultiva, Mawimbi, Bistro Lolo; Ankole/Talisman partial | High | Participation types expanded |
-| Photography Through Layers of Experience | Emerging | Talisman, Mawimbi, Bistro Lolo; Ankole/Cultiva partial | High | Layer definition expanded |
-| Human Confirmation as Hospitality | Emerging | Talisman, Mawimbi; Bistro Lolo boundary | Medium | Scope review |
-| Atmosphere as Product | Emerging | Mawimbi, Bistro Lolo; Ankole/Talisman partial; Cultiva conceptual | Medium to High | Promoted after Bistro Lolo |
-| Atmosphere Through Worldview | Candidate | Cultiva; Mawimbi/Bistro Lolo boundary | Medium | Strong abstraction review |
-| Show the System Behind the Plate | Candidate | Cultiva; Mawimbi/Bistro Lolo partial | Medium | Narrow/category-dependent |
-| Heritage Builds Confidence | Candidate | Talisman; Bistro Lolo boundary | Medium | Business vs place heritage |
-| Growth as Narrative | Candidate | Talisman; Bistro Lolo not applicable | Low to Medium | Narrow |
-| Atmosphere Through Continuity | Candidate | Talisman; Bistro Lolo/Ankole partial | Medium | Continuity types under review |
-| Designed Escape | Candidate | Mawimbi; Ankole/Talisman partial; Bistro Lolo boundary | Medium | Narrow atmospheric model |
-| World Before Biography | Candidate | Mawimbi; Cultiva partial; Bistro Lolo/Talisman boundary | Low to Medium | Scope review |
-| Narrative Language as Interface | Candidate | Mawimbi; Cultiva partial; Bistro Lolo boundary | Low to Medium | Optional mechanism |
-| Escalating Reservation Complexity | Candidate | Mawimbi; Talisman/Bistro Lolo partial | Medium | Needs stronger operational evidence |
-| Own the Guest Relationship | Partially Supported | Ankole, Cultiva, Talisman, Mawimbi, Bistro Lolo | Medium | Operational evidence required |
+## Emerging Patterns
+
+17
+
+## Candidate Patterns
+
+9
+
+## Partially Supported Findings
+
+1
+
+## Validated Research-Derived Patterns
+
+0
+
+## KHDS Principles Promoted From Research
+
+0
+
+## Existing KHDS Implementation Patterns Pending Validation
+
+1
+
+---
+
+# Highest Current Research-Derived Status
+
+Emerging
 
 ---
 
 # Emerging Patterns
 
-## Emotion Before Interface
+---
 
-Status:
+## 1. Emotion Before Interface
+
+### Status
 
 Emerging
 
-Independent Evidence:
-
-- Ankole
-- Cultiva
-- Talisman
-- Mawimbi
-- Bistro Lolo
-
-Confidence:
+### Confidence
 
 High
 
-### Current Interpretation
+### Core Interpretation
 
-A hospitality experience should establish a meaningful feeling before presenting the complete functional offer.
+A hospitality experience should establish a meaningful emotional orientation before asking the guest to process the complete functional offer.
 
-The feeling may include:
+Emotion may include:
 
 - refinement
 - curiosity
 - appetite
 - aspiration
 - comfort
-- familiarity
 - belonging
+- familiarity
+- precision
+- anticipation
+- authority
 
-### Bistro Lolo Effect
+The pattern does not require emotional warmth.
 
-Bistro Lolo demonstrates that emotional arrival does not require dramatic aspiration.
-
-Quiet familiarity can perform the same underlying role.
-
----
-
-## Story Before Features
-
-Status:
-
-Emerging
-
-Independent Evidence:
+### Independent Evidence
 
 - Ankole
 - Cultiva
 - Talisman
 - Mawimbi
 - Bistro Lolo
+- FYN
 
-Confidence:
+### Geographic Transferability
+
+Strengthened by FYN.
+
+### Current Boundary
+
+Emotion should orient the guest.
+
+It should not obstruct:
+
+- clarity
+- navigation
+- participation
+
+### Research Note
+
+FYN demonstrated that:
+
+precision
+
+and
+
+anticipation
+
+can perform the emotional role just as effectively as warmth or belonging.
+
+---
+
+## 2. Story Before Features
+
+### Status
+
+Emerging
+
+### Confidence
 
 High
 
-### Current Interpretation
+### Core Interpretation
 
 The guest should understand enough meaning to recognise what kind of hospitality experience they are entering before the experience becomes purely functional.
 
 Story may be:
 
 - explicit
-- implicit
 - spatial
-- inherited
-- distributed
+- philosophical
+- historical
 - conceptual
 - biographical
 - behavioural
+- product-embedded
 
-### Bistro Lolo Effect
-
-Story can be distributed across a wider hospitality ecosystem rather than concentrated in one restaurant narrative.
-
----
-
-## Photography Before Decoration
-
-Status:
-
-Emerging
-
-Independent Evidence:
+### Independent Evidence
 
 - Ankole
 - Cultiva
 - Talisman
 - Mawimbi
 - Bistro Lolo
+- FYN
 
-Confidence:
+### Geographic Transferability
+
+Strengthened by FYN.
+
+### Current Boundary
+
+Story does not require:
+
+- long copy
+- an About page
+- founder biography
+
+Story can exist inside:
+
+- menu
+- place
+- ingredients
+- photography
+- atmosphere
+- language
+
+---
+
+## 3. Photography Before Decoration
+
+### Status
+
+Emerging
+
+### Confidence
 
 High
 
-### Current Interpretation
+### Core Interpretation
 
-Real hospitality evidence should carry the primary visual storytelling role whenever possible.
+Real hospitality evidence should perform more visual work than decorative graphics whenever possible.
 
-Photography may communicate:
+Photography can carry:
 
-- food
-- people
+- appetite
+- atmosphere
 - place
 - process
-- architecture
-- atmosphere
+- craft
 - occasion
-- materiality
+- identity
+- credibility
 
----
-
-## Reservation Throughout the Journey
-
-Status:
-
-Emerging
-
-Independent Evidence:
+### Independent Evidence
 
 - Ankole
 - Cultiva
 - Talisman
 - Mawimbi
 - Bistro Lolo
+- FYN
 
-Confidence:
+### Geographic Transferability
+
+Strengthened by FYN.
+
+### Boundary
+
+The pattern does not mean:
+
+use as many photographs as possible.
+
+FYN demonstrates that selective photography can remain highly effective.
+
+---
+
+## 4. Reservation Throughout the Journey
+
+### Status
+
+Emerging
+
+### Confidence
 
 High
 
-### Current Interpretation
+### Core Interpretation
 
-The appropriate participation path should remain accessible throughout the guest journey.
+The appropriate path to participation should remain accessible throughout the digital guest journey.
 
-Participation may include:
+Participation may mean:
 
 - reserve
 - request
-- contact
 - inquire
+- contact
 - walk in
+- select experience
+- use exception route
 
-This pattern does not require repeating one Reserve CTA everywhere.
-
----
-
-## Atmosphere Through Consistency
-
-Status:
-
-Emerging
-
-Independent Evidence:
+### Independent Evidence
 
 - Ankole
 - Cultiva
 - Talisman
 - Mawimbi
 - Bistro Lolo
+- FYN
 
-Confidence:
+### Geographic Transferability
+
+Strengthened by FYN.
+
+### Boundary
+
+This does not mean:
+
+repeat the same reservation button everywhere.
+
+Access should remain appropriate to:
+
+- context
+- guest intent
+- commitment level
+
+---
+
+## 5. Atmosphere Through Consistency
+
+### Status
+
+Emerging
+
+### Confidence
 
 High
 
-### Current Interpretation
+### Core Interpretation
 
-Atmosphere becomes stronger when multiple signals repeatedly communicate the same emotional direction.
+Atmosphere becomes stronger when different hospitality signals reinforce a coherent emotional direction.
 
-Possible signals include:
+Signals may include:
 
 - architecture
-- language
 - photography
-- product
+- language
 - materials
+- food
 - people
-- behaviour
 - history
+- service
 - place
-- time
+- behaviour
+- lighting
+- pacing
 
-Consistency does not mean stylistic sameness.
-
----
-
-## Dual-Path Hospitality
-
-Status:
-
-Emerging
-
-Independent Evidence:
+### Independent Evidence
 
 - Ankole
 - Cultiva
 - Talisman
 - Mawimbi
 - Bistro Lolo
+- FYN
 
-Confidence:
+### Geographic Transferability
+
+Strengthened by FYN.
+
+### FYN Refinement
+
+Consistency does not require:
+
+one mood.
+
+Complementary opposites can remain coherent.
+
+Examples:
+
+- stillness / energy
+- dark / light
+- raw / refined
+
+The stronger requirement is:
+
+intentional relationship.
+
+---
+
+## 6. Dual-Path Hospitality
+
+### Status
+
+Emerging
+
+### Confidence
 
 High
 
 ### Current Interpretation
 
-Hospitality should support guests with different levels and types of intent.
+Different legitimate guest situations should receive an appropriate route to participation.
 
-Current observed states include:
+### Independent Evidence
 
-- exploring
-- planned
+- Ankole
+- Cultiva
+- Talisman
+- Mawimbi
+- Bistro Lolo
+- FYN
+
+### Current Problem
+
+The term:
+
+Dual-Path
+
+is becoming too literal.
+
+Current research includes:
+
 - spontaneous
+- planned
+- standard
 - complex
-- event-oriented
-- existing hotel guest
+- event
+- solo
+- dietary-specific
+- high-commitment
+- walk-in
 
-### Review
+guest states.
 
-The evidence now exceeds a literal two-path model.
+### Strong Abstraction Review
 
-Possible future abstraction:
+Possible future name:
 
 `Multi-Intent Hospitality`
+
+### Governance Decision
+
+Keep current name for this cycle.
 
 Do not rename yet.
 
 ---
 
-## Commitment Without Pressure
+## 7. Commitment Without Pressure
 
-Status:
+### Status
 
 Emerging
 
-Independent Evidence:
+### Confidence
+
+High
+
+### Updated Core Interpretation
+
+Hospitality may require meaningful commitment while avoiding manipulative pressure when:
+
+- expectations are visible
+- consequences are understandable
+- requirements are relevant
+- the guest knowingly chooses to proceed
+
+### Independent Evidence
 
 - Ankole
 - Cultiva
 - Talisman
 - Mawimbi
 - Bistro Lolo
+- FYN
 
-Confidence:
+### Critical Distinction
 
-High
+## Commitment
 
-### Current Interpretation
+A legitimate condition attached to participation.
 
-Hospitality should make action clear and accessible while protecting guest autonomy.
+## Pressure
 
-Avoid:
+Artificial persuasion designed to force action.
 
-- fake urgency
-- manipulative scarcity
-- forced interruption
+### FYN Refinement
 
-Bistro Lolo also demonstrates that valid non-reservation paths may remain available.
+Commitment may include:
+
+- deposit
+- cancellation consequences
+- seating windows
+- behavioural expectations
+
+without automatically becoming harmful friction.
+
+### Working Rule
+
+Do not minimise commitment automatically.
+
+Make required commitment:
+
+- clear
+- proportionate
+- non-manipulative
 
 ---
 
-## Photography as Proof
+## 8. Photography as Proof
 
-Status:
+### Status
 
 Emerging
 
-Independent Evidence:
-
-- Ankole
-- Cultiva
-- Talisman
-- Mawimbi
-- Bistro Lolo
-
-Confidence:
+### Confidence
 
 High
 
-### Current Interpretation
+### Core Interpretation
 
-Photography should substantiate something the restaurant needs the guest to believe.
+Photography should provide evidence for claims the hospitality experience asks the guest to believe.
 
-Current proof categories include:
+### Current Proof Categories
 
 - Product Proof
 - Place Proof
@@ -436,1037 +617,1496 @@ Current proof categories include:
 - Atmosphere Proof
 - Occasion Proof
 - Use Proof
+- Craft Proof
 
-These remain categories of one pattern rather than separate patterns.
+### Independent Evidence
+
+- Ankole
+- Cultiva
+- Talisman
+- Mawimbi
+- Bistro Lolo
+- FYN
+
+### FYN Refinement
+
+FYN introduces a useful distinction:
+
+## Craft Proof
+
+Evidence of precision and execution.
+
+versus
+
+## System Proof
+
+Evidence of how the product came into existence.
+
+Do not treat these as equivalent.
 
 ---
 
-## Story Through Place
+## 9. Story Through Place
 
-Status:
+### Status
 
 Emerging
 
-Strong Independent Evidence:
-
-- Ankole
-- Talisman
-- Bistro Lolo
-
-Partial Support:
-
-- Cultiva
-- Mawimbi
-
-Confidence:
+### Confidence
 
 High
 
-### Current Interpretation
+### Core Interpretation
 
-Hospitality identity can be strengthened when:
+Hospitality story may become more meaningful when it connects the experience to a real sense of place.
 
-- architecture
-- location
-- local context
-- physical history
-- environmental character
+### Strong Evidence
 
-become part of the story.
+- Ankole
+- Talisman
+- Bistro Lolo
+- FYN
 
-### Bistro Lolo Effect
-
-Place history does not require restaurant history.
-
-A newer hospitality brand can inherit and reinterpret an older place.
-
----
-
-## Promise Before Proof
-
-Status:
-
-Emerging
-
-Strong Evidence:
+### Partial Support
 
 - Cultiva
 - Mawimbi
 
-Partial Support:
+### Current Place Forms
+
+- Architectural Place
+- Historical Place
+- Neighbourhood Place
+- Ecological Place
+- Culinary Place
+
+### FYN Refinement
+
+Place should not be limited to:
+
+- building
+- venue history
+- neighbourhood
+
+It may also appear through:
+
+- ecology
+- geography
+- ingredients
+- land
+- sea
+
+---
+
+## 10. Promise Before Proof
+
+### Status
+
+Emerging
+
+### Confidence
+
+Medium to High
+
+### Strong Evidence
+
+- Cultiva
+- Mawimbi
+
+### Partial Support
 
 - Ankole
+- FYN
 
-Boundary / Contradictory Evidence:
+### Boundary Evidence
 
 - Bistro Lolo
 
-Confidence:
+### Core Interpretation
 
-Medium
+Concept-heavy or aspiration-led hospitality may establish a meaningful promise before providing complete evidence.
 
-### Current Interpretation
+### Current Scope
 
-Aspiration-led hospitality may establish a meaningful promise before presenting the complete proof behind it.
+Likely strongest in:
 
-### Scope Review
+- luxury hospitality
+- concept-led restaurants
+- destination dining
+- transformation-led experiences
+- chef-led authority brands
 
-Bistro Lolo demonstrates that understated premium hospitality can create desire through:
+### Scope Boundary
+
+Less necessary where hospitality is driven primarily through:
 
 - familiarity
-- belonging
-- place
-- confidence
+- neighbourhood belonging
+- informal participation
 
-without a large initial promise.
+### Current Research Question
 
-Likely strongest for:
+How far apart should promise and proof be?
 
-- aspiration-led brands
-- luxury-positioned brands
-- transformational hospitality
-- concept-heavy hospitality
-
-Do not demote yet.
+FYN suggests the distance should sometimes remain short.
 
 ---
 
-## Layered Arrival
+## 11. Layered Arrival
 
-Status:
-
-Emerging
-
-Strong Evidence:
-
-- Talisman
-- Mawimbi
-
-Partial Support:
-
-- Ankole
-- Cultiva
-- Bistro Lolo
-
-Confidence:
-
-Medium to High
-
-### Current Interpretation
-
-Hospitality arrival can build confidence through multiple connected layers of meaning and evidence.
-
-Layering may be:
-
-### Sequential
-
-Examples:
-
-- Talisman
-- Mawimbi
-
-### Ambient
-
-Example:
-
-- Bistro Lolo
-
-The pattern does not prescribe one homepage sequence.
-
----
-
-## One Idea Can Organise the Brand Story
-
-Status:
+### Status
 
 Emerging
 
-Strong Evidence:
+### Confidence
 
-- Cultiva
-- Mawimbi
+High
 
-Partial Support:
+### Core Interpretation
 
-- Ankole
-- Talisman
+Hospitality arrival may build confidence through several connected layers of:
 
-Boundary Evidence:
-
-- Bistro Lolo
-
-Confidence:
-
-Medium to High
-
-### Current Interpretation
-
-One strong idea can organise:
-
-- language
+- meaning
+- evidence
 - atmosphere
 - product
 - story
 - participation
 
-### Review
+### Strong Evidence
 
-Bistro Lolo demonstrates that strong coherence may also come from a cluster of tightly aligned values.
+- Talisman
+- Mawimbi
+- FYN
 
-Possible future abstraction:
+### Partial Support
 
-`Narrative Coherence Through Organising Logic`
+- Ankole
+- Cultiva
+- Bistro Lolo
 
-Do not rename yet.
+### Canonical Refinement
+
+Layered Arrival does not prescribe a fixed page sequence.
+
+It refers to:
+
+progressive confidence-building.
+
+Layering may be:
+
+## Sequential
+
+Clearly ordered.
+
+or
+
+## Ambient
+
+Several signals reinforce one another without rigid order.
+
+### FYN Contribution
+
+Operational expectations can become one of the layers in high-commitment hospitality.
 
 ---
 
-## The Guest as Participant
+## 12. Narrative Coherence Through Organising Logic
 
-Status:
+### Status
 
 Emerging
 
-Strong Evidence:
+### Confidence
+
+High in underlying behaviour
+
+### Previous Name
+
+`One Idea Can Organise the Brand Story`
+
+### Rename Reason
+
+The six-restaurant evidence supports:
+
+narrative coherence
+
+but does not support the universal requirement of:
+
+one singular idea.
+
+### Strong Singular-Idea Evidence
+
+- Cultiva
+- Mawimbi
+
+### Strong Multi-Element Coherence Evidence
+
+- Bistro Lolo
+- FYN
+
+### Mixed Evidence
+
+- Ankole
+- Talisman
+
+### Core Interpretation
+
+A hospitality brand should organise its:
+
+- stories
+- people
+- place
+- product
+- language
+
+around a coherent narrative logic so that multiple ideas reinforce rather than compete with one another.
+
+### Governance Change
+
+Renamed during FYN reconciliation.
+
+Status remains Emerging.
+
+This is an abstraction refinement.
+
+It is not a maturity promotion.
+
+---
+
+## 13. The Guest as Participant
+
+### Status
+
+Emerging
+
+### Confidence
+
+High
+
+### Strong Evidence
 
 - Cultiva
 - Mawimbi
 - Bistro Lolo
 
-Partial Support:
+### Partial / Boundary Evidence
 
 - Ankole
 - Talisman
+- FYN
 
-Confidence:
+### Core Interpretation
 
-High
+The guest does not only consume hospitality.
 
-### Current Interpretation
+The guest enters and participates in the meaning of the experience.
 
-The guest should be able to understand how they belong inside the hospitality experience.
+### Current Participation Forms
 
-Current forms include:
+- Narrative Participation
+- Philosophical Participation
+- Social Participation
+- Experiential Participation
 
-- philosophical participation
-- narrative participation
-- experiential participation
-- social participation
+### FYN Refinement
+
+Participation does not require co-creation.
+
+In highly authored hospitality, participation may involve:
+
+- entering
+- trusting
+- tasting
+- interpreting
+- experiencing
+
+a deliberately designed sequence.
 
 ---
 
-## Photography Through Layers of Experience
+## 14. Photography Through Layers of Experience
 
-Status:
+### Status
 
 Emerging
 
-Strong Evidence:
+### Confidence
+
+High
+
+### Strong Evidence
 
 - Talisman
 - Mawimbi
 - Bistro Lolo
+- FYN
 
-Partial Support:
+### Partial Support
 
 - Ankole
 - Cultiva
 
-Confidence:
+### Core Interpretation
 
-High
+Photography can create richer guest understanding by presenting several relevant layers of the hospitality experience.
 
-### Current Interpretation
-
-Hospitality photography can create a fuller understanding through several meaningful layers.
-
-Current layers include:
+Possible layers include:
 
 - food
-- interiors
-- architecture
-- process
+- place
 - people
-- environment
+- process
+- architecture
+- atmosphere
 - occasion
-- behaviour
-- social use
-- daypart
-
----
-
-## Human Confirmation as Hospitality
-
-Status:
-
-Emerging
-
-Supporting Evidence:
-
-- Talisman
-- Mawimbi
-
-Boundary / Contradictory Evidence:
-
-- Bistro Lolo
-
-Confidence:
-
-Medium
-
-### Current Interpretation
-
-Human involvement may add hospitality value when reservation needs involve:
-
-- judgment
-- flexibility
-- special requests
-- groups
-- events
-- complex coordination
-
-### Important Limitation
-
-Current evidence does not prove that human confirmation is superior to instant confirmation.
-
-### Review
-
-Possible future abstraction:
-
-`Human Assistance When Complexity Requires It`
-
-Do not rename yet.
-
----
-
-## Atmosphere as Product
-
-Status:
-
-Emerging
-
-Strong Independent Evidence:
-
-- Mawimbi
-- Bistro Lolo
-
-Partial Support:
-
-- Ankole
-- Talisman
-
-Conceptual Support:
-
-- Cultiva
-
-Confidence:
-
-Medium to High
-
-### Current Interpretation
-
-Atmosphere can become valuable enough that it forms part of the guest’s decision to visit.
-
-### Transferability Evidence
-
-Mawimbi demonstrates:
-
-Escape
-
-Bistro Lolo demonstrates:
-
-Belonging
-
-The atmospheric models are different.
-
-The commercial role survives.
-
-### Promotion
-
-Promoted after Bistro Lolo comparison reconciliation.
-
-Previous Status:
-
-Candidate
-
-New Status:
-
-Emerging
-
----
-
-# Candidate Patterns
-
-## Atmosphere Through Worldview
-
-Status:
-
-Candidate / Under Review
-
-Strong Evidence:
-
-- Cultiva
-
-Boundary Evidence:
-
-- Mawimbi
-- Bistro Lolo
-
-Confidence:
-
-Medium
-
-### Current Interpretation
-
-A hospitality atmosphere can be shaped by the restaurant’s worldview.
-
-### Problem
-
-Current research increasingly suggests worldview is only one possible organising mechanism.
-
-Possible broader abstraction:
-
-`Atmosphere Through Organising Idea`
-
-Do not rename yet.
-
----
-
-## Show the System Behind the Plate
-
-Status:
-
-Candidate
-
-Strong Evidence:
-
-- Cultiva
-
-Partial Evidence:
-
-- Mawimbi
-- Bistro Lolo
-
-Confidence:
-
-Medium
-
-### Current Interpretation
-
-When process materially differentiates the restaurant, exposing:
-
-- sourcing
-- ingredients
-- cultivation
-- preparation
+- materiality
 - craft
+- daypart
+- behaviour
 
-can strengthen credibility.
+### FYN Refinement
 
-### Boundary
+Layering should be selective.
 
-Not every restaurant requires deep process storytelling.
+The pattern does not mean:
+
+show everything.
+
+It means:
+
+show the evidence layers relevant to the restaurant’s proposition.
 
 ---
 
-## Heritage Builds Confidence
+## 15. Human Confirmation as Hospitality
 
-Status:
+### Status
 
-Candidate
+Emerging
 
-Strong Evidence:
-
-- Talisman
-
-Boundary Evidence:
-
-- Bistro Lolo
-
-Confidence:
+### Confidence
 
 Medium
 
-### Current Interpretation
-
-Hospitality history can strengthen:
-
-- continuity
-- credibility
-- cultural connection
-- permanence
-
-### Review
-
-Distinguish:
-
-Business Heritage
-
-from
-
-Place Heritage.
-
----
-
-## Growth as Narrative
-
-Status:
-
-Candidate
-
-Strong Evidence:
+### Supporting Evidence
 
 - Talisman
-
-Contradictory / Not Applicable:
-
-- Bistro Lolo
-
-Confidence:
-
-Low to Medium
-
-### Current Interpretation
-
-A hospitality brand can create trust by showing how a modest beginning developed into an established destination.
-
-### Boundary
-
-Most relevant to brands where development over time is itself meaningful.
-
----
-
-## Atmosphere Through Continuity
-
-Status:
-
-Candidate
-
-Strong Evidence:
-
-- Talisman
-
-Partial Evidence:
-
-- Bistro Lolo
-- Ankole
-
-Confidence:
-
-Medium
-
-### Current Interpretation
-
-Atmosphere can gain emotional depth through continuity.
-
-Possible forms include:
-
-- business continuity
-- architectural continuity
-- spatial continuity
-- cultural continuity
-
----
-
-## Designed Escape
-
-Status:
-
-Candidate
-
-Strong Evidence:
-
 - Mawimbi
 
-Partial Support:
-
-- Ankole
-- Talisman
-
-Boundary / Contradictory Evidence:
+### Boundary / Narrowing Evidence
 
 - Bistro Lolo
-
-Confidence:
-
-Medium
-
-### Current Interpretation
-
-Some hospitality environments create value by transporting the guest emotionally away from their surrounding environment.
-
-### Boundary
-
-Bistro Lolo demonstrates an opposing viable model:
-
-Belonging.
-
-Designed Escape should remain narrow.
-
----
-
-## World Before Biography
-
-Status:
-
-Candidate
-
-Strongest Evidence:
-
-- Mawimbi
-
-Partial Evidence:
-
-- Cultiva
-
-Boundary Evidence:
-
-- Talisman
-- Bistro Lolo
-
-Confidence:
-
-Low to Medium
+- FYN
 
 ### Current Problem
 
-The sequence may be too prescriptive.
+The current name may overstate the role of human confirmation.
 
-Some hospitality stories allow:
+The evidence increasingly suggests that human involvement is most valuable when:
 
-People
+- judgment is required
+- complexity increases
+- an exception appears
+- the standard digital path does not fit
 
-and
+### Possible Future Abstraction
 
-World
+`Human Assistance When Complexity Requires It`
 
-to explain each other.
+### Governance Decision
 
-Keep under scope review.
+Keep current name for this cycle.
+
+Major scope review required.
 
 ---
 
-## Narrative Language as Interface
+## 16. Atmosphere as Product
 
-Status:
+### Status
 
-Candidate
+Emerging
 
-Strong Evidence:
+### Confidence
+
+High
+
+### Strong Evidence
 
 - Mawimbi
+- Bistro Lolo
+- FYN
 
-Partial Evidence:
+### Partial Support
+
+- Ankole
+- Talisman
+
+### Conceptual Support
 
 - Cultiva
 
-Boundary Evidence:
+### Core Interpretation
 
-- Bistro Lolo
+Atmosphere can become valuable enough that it forms part of what the guest is choosing when deciding whether to visit.
 
-Confidence:
+The guest may be choosing:
 
-Low to Medium
+- escape
+- belonging
+- intimacy
+- ceremony
+- energy
+- calm
+- design
+- refinement
+- social possibility
 
-### Current Interpretation
+in addition to:
 
-Narrative vocabulary can increase immersion when it remains understandable.
+- food
+- drink
+- service
 
-### Boundary
+### Cross-Model Strength
 
-Distinctive storytelling does not require unconventional navigation labels.
+## Mawimbi
 
-Custom terminology must justify its clarity cost.
+Escape.
+
+## Bistro Lolo
+
+Belonging.
+
+## FYN
+
+Restraint and controlled contrast.
+
+### FYN Effect
+
+Confidence increased to High.
 
 ---
 
-## Escalating Reservation Complexity
+## 17. Escalating Reservation Complexity
 
-Status:
+### Status
+
+Emerging
+
+### Previous Status
 
 Candidate
 
-Strong Evidence:
+### Confidence
+
+Medium to High
+
+### Promotion Evidence
+
+Strong:
 
 - Mawimbi
+- FYN
 
-Partial Evidence:
+Meaningful Partial Support:
 
 - Talisman
 - Bistro Lolo
 
-Confidence:
+### Core Interpretation
 
-Medium
+Hospitality systems may preserve efficiency by keeping predictable booking interactions self-service while increasing human involvement as requests become exceptional or operationally complex.
 
-### Current Interpretation
+### Working Logic
 
-Reservation systems may preserve efficiency by increasing human involvement as guest requirements become more complex.
-
-Possible model:
-
-Routine Booking
+Standard Need
 
 ↓
 
 Self-Service
 
-Complex Booking
+Complex / Exceptional Need
 
 ↓
 
-Human Assistance
+Greater Human Assistance
 
-### Limitation
+### FYN Evidence
 
-Current website evidence more strongly proves channel variation than verified backend complexity routing.
+FYN visibly distinguishes:
 
-Operationally explicit examples are still required.
+standard digital reservation
+
+from
+
+solo-diner direct contact.
+
+### Important Boundary
+
+The pattern refers to visible hospitality logic.
+
+It does not prove:
+
+- backend routing
+- automated escalation
+- staff workflow
+- CRM architecture
+- channel unification
+
+### Governance Change
+
+Candidate
+
+↓
+
+Emerging
+
+during FYN reconciliation.
+
+---
+
+# Candidate Patterns
+
+---
+
+## 1. Atmosphere Through Worldview
+
+### Status
+
+Candidate / Under Review
+
+### Confidence
+
+Medium to High
+
+### Strong Evidence
+
+- Cultiva
+- FYN
+
+### Partial / Contextual Evidence
+
+- Ankole
+- Talisman
+
+### Boundary Evidence
+
+- Mawimbi
+- Bistro Lolo
+
+### Core Hypothesis
+
+A restaurant’s worldview may shape the atmosphere of the hospitality experience.
+
+### Current Abstraction Question
+
+Possible broader future abstraction:
+
+`Atmosphere Through Organising Idea`
+
+### FYN Governance Effect
+
+Do not rename.
+
+FYN gives worldview meaningful second-case evidence across a different geography and hospitality model.
+
+### Promotion Requirement
+
+More evidence that worldview is meaningfully distinct from:
+
+Atmosphere Through Consistency.
+
+---
+
+## 2. Show the System Behind the Plate
+
+### Status
+
+Candidate
+
+### Confidence
+
+Medium to High
+
+### Strong Evidence
+
+- Cultiva
+
+### Meaningful Partial Evidence
+
+- Mawimbi
+- Bistro Lolo
+- FYN
+
+### Core Hypothesis
+
+When sourcing, process, provenance, or production systems materially differentiate the restaurant, making that system visible may strengthen credibility and product understanding.
+
+### Important Distinction
+
+Craft Proof
+
+is not the same as
+
+System Proof.
+
+### Promotion Requirement
+
+More direct multi-restaurant evidence of:
+
+- process
+- sourcing
+- producer
+- ingredient journey
+- production system
+
+---
+
+## 3. Heritage Builds Confidence
+
+### Status
+
+Candidate
+
+### Confidence
+
+Medium
+
+### Strong Evidence
+
+- Talisman
+
+### Partial Evidence
+
+- Ankole
+
+### Boundary / Negative Evidence
+
+- Bistro Lolo
+- FYN
+
+### Core Hypothesis
+
+Historical continuity may create confidence through:
+
+- longevity
+- accumulated reputation
+- place continuity
+- cultural significance
+
+### Current Scope
+
+Narrow.
+
+### FYN Boundary
+
+Contemporary authority can come from:
+
+- expertise
+- philosophy
+- craft
+- authorship
+
+without heritage.
+
+---
+
+## 4. Growth as Narrative
+
+### Status
+
+Candidate
+
+### Confidence
+
+Low to Medium
+
+### Strong Evidence
+
+- Talisman
+
+### Partial Evidence
+
+- Bistro Lolo
+
+### Weak / Not Central
+
+- Ankole
+- Cultiva
+- Mawimbi
+- FYN
+
+### Core Hypothesis
+
+Growth over time may itself become meaningful hospitality story.
+
+### Current Governance Flag
+
+Possible future demotion.
+
+### Important Distinction
+
+Evolution
+
+is not automatically:
+
+Growth Narrative.
+
+---
+
+## 5. Atmosphere Through Continuity
+
+### Status
+
+Candidate
+
+### Confidence
+
+Medium
+
+### Strong Evidence
+
+- Talisman
+
+### Partial Evidence
+
+- Ankole
+- Bistro Lolo
+
+### Weak / Negative Evidence
+
+- FYN
+
+### Core Hypothesis
+
+Atmospheric depth may emerge from continuity across:
+
+- time
+- architecture
+- place
+- long-term use
+- accumulated identity
+
+### Current Scope
+
+Narrow atmospheric mechanism.
+
+Not a universal requirement.
+
+---
+
+## 6. Designed Escape
+
+### Status
+
+Candidate
+
+### Confidence
+
+Medium
+
+### Strong Evidence
+
+- Mawimbi
+
+### Partial Evidence
+
+- Ankole
+- Talisman
+- FYN
+
+### Boundary / Contradictory Evidence
+
+- Bistro Lolo
+
+### Core Hypothesis
+
+Hospitality can create value by transporting the guest emotionally into a world meaningfully separate from ordinary surroundings.
+
+### Important Distinction
+
+## Escape
+
+Mawimbi.
+
+## Belonging
+
+Bistro Lolo.
+
+## Controlled Separation
+
+FYN.
+
+### Governance Decision
+
+Keep Designed Escape narrow.
+
+Do not collapse all three into one pattern.
+
+---
+
+## 7. World Before Biography
+
+### Status
+
+Candidate
+
+### Confidence
+
+Low to Medium
+
+### Stronger Relevance
+
+- Cultiva
+- Mawimbi
+
+### Boundary Evidence
+
+- Bistro Lolo
+- FYN
+
+### Core Hypothesis
+
+The guest may benefit from understanding the restaurant’s world before receiving detailed biography.
+
+### Current Problem
+
+The sequence may be over-prescriptive.
+
+### Better Research Question
+
+When does biography become meaningful to the guest?
+
+### Governance Flag
+
+Strong scope review.
+
+Possible future redefinition.
+
+---
+
+## 8. Narrative Language as Interface
+
+### Status
+
+Candidate
+
+### Confidence
+
+Low to Medium
+
+### Strongest Evidence
+
+- Mawimbi
+
+### Partial Evidence
+
+- Cultiva
+- FYN
+
+### Boundary Evidence
+
+- Bistro Lolo
+
+### Core Hypothesis
+
+Narrative language may increase distinctiveness inside hospitality interfaces.
+
+### Current Refinement Direction
+
+Narrative language appears strongest in:
+
+- headlines
+- menu framing
+- editorial copy
+- section introductions
+
+while core navigation remains understandable.
+
+### Possible Future Direction
+
+`Narrative Language Within Clear Interface`
+
+Do not rename yet.
+
+---
+
+## 9. Photography Should Demonstrate Difference
+
+### Status
+
+Candidate
+
+### Previous Status
+
+Observed Research Direction
+
+### Confidence
+
+High as a research question
+
+### Strong Evidence
+
+- Mawimbi
+- Bistro Lolo
+- FYN
+
+### Conceptual Support
+
+- Cultiva
+
+### Core Hypothesis
+
+Hospitality photography should help communicate what makes the restaurant’s core product meaningfully distinctive rather than merely attractive.
+
+### Repeated Tension
+
+Beautiful Product
+
+is not the same as
+
+Distinctive Product.
+
+### Important Boundary
+
+Not every photograph must communicate differentiation.
+
+The photographic system should provide sufficient evidence of difference when differentiation is commercially important.
+
+### Relationship to Photography as Proof
+
+## Photography as Proof
+
+asks:
+
+Is the claim believable?
+
+## Photography Should Demonstrate Difference
+
+asks:
+
+Is the distinction understandable?
+
+### Relationship to Show the System Behind the Plate
+
+Difference may come from:
+
+- ingredient
+- geography
+- technique
+- philosophy
+- authorship
+- format
+
+without requiring the complete production system.
+
+### Governance Change
+
+Observed
+
+↓
+
+Candidate
+
+during FYN reconciliation.
+
+---
+
+# Candidate Count
+
+9
+
+1. Atmosphere Through Worldview
+2. Show the System Behind the Plate
+3. Heritage Builds Confidence
+4. Growth as Narrative
+5. Atmosphere Through Continuity
+6. Designed Escape
+7. World Before Biography
+8. Narrative Language as Interface
+9. Photography Should Demonstrate Difference
 
 ---
 
 # Partially Supported Findings
 
+---
+
 ## Own the Guest Relationship
 
-Status:
+### Status
 
 Partially Supported
 
-Visible Evidence:
+### Confidence
+
+Medium
+
+### Independent Website Evidence
 
 - Ankole
 - Cultiva
 - Talisman
 - Mawimbi
 - Bistro Lolo
+- FYN
 
-Confidence:
+### Website Evidence Supports
 
-Medium
+Restaurants visibly maintain combinations of:
 
-### Website Evidence Can Support
+- direct website access
+- direct contact
+- phone
+- email
+- WhatsApp
+- branded reservation entrypoints
+- third-party reservation tools
 
-- direct contact availability
-- branded entrypoints
-- visible booking pathways
-- third-party routing
-
-### Website Evidence Cannot Prove
+### Website Evidence Does Not Prove
 
 - CRM ownership
-- reservation-record ownership
+- reservation-data ownership
+- customer-database ownership
 - payment-data ownership
-- guest-history ownership
 - remarketing rights
-- platform contracts
+- guest-history ownership
+- booking-platform contractual rights
 - backend integration
 
 ### Governance Rule
 
-Operational evidence is required before promotion.
+Do not promote from website observation alone.
+
+Operational evidence is required.
 
 ---
 
-# Observed Research Directions
+# Below-Candidate Research Directions
 
-The following remain below Candidate status.
+These ideas are being preserved for further study.
 
-They are not official Candidate patterns.
-
----
-
-## Photography Should Demonstrate Difference
-
-Evidence:
-
-- Mawimbi
-- Bistro Lolo
-
-Conceptual Support:
-
-- Cultiva
-
-Confidence:
-
-Medium to High
-
-Question:
-
-Can product photography explain why the restaurant is distinct rather than simply making the food attractive?
+They are not Candidate patterns.
 
 ---
 
-## Product Claim Before Product Proof
+## Meaningful Constraint
 
-Evidence:
+### Status
 
-- Mawimbi
-- Bistro Lolo partial
+Observed Research Direction
 
-Confidence:
+### Confidence
+
+Medium
+
+### Strongest Evidence
+
+- FYN
+
+### Core Question
+
+When does a constraint protect the hospitality experience rather than create harmful friction?
+
+---
+
+## Structure as Hospitality
+
+### Status
+
+Observed Research Direction
+
+### Confidence
 
 Low to Medium
 
-Question:
+### Strongest Evidence
 
-How quickly should product evidence follow strong culinary or premium claims?
+- FYN
 
----
+### Core Question
 
-## Designed Belonging
-
-Evidence:
-
-- Bistro Lolo
-
-Possible Partial Support:
-
-- Ankole
-- Talisman
-
-Confidence:
-
-Low to Medium
-
-Question:
-
-Can hospitality create value by deepening connection to the surrounding neighbourhood or city?
+Can clear structure itself reduce uncertainty and improve hospitality?
 
 ---
 
-## Atmosphere Through Use
+## Commitment as Value Signal
 
-Evidence:
+### Status
 
-- Bistro Lolo
-- Mawimbi partial
-- Talisman partial
+Observed Research Direction
 
-Confidence:
-
-Low to Medium
-
-Question:
-
-Can atmosphere be communicated through what people do rather than only how the environment looks?
-
----
-
-## Hospitality Through Rhythm
-
-Evidence:
-
-- Bistro Lolo
-
-Confidence:
-
-Low to Medium
-
-Question:
-
-Can changing use across different dayparts become part of hospitality identity?
-
----
-
-## Familiarity Before Aspiration
-
-Evidence:
-
-- Bistro Lolo
-
-Confidence:
+### Confidence
 
 Low
 
-Question:
+### Limitation
 
-Can familiarity and belonging create premium desire without strong aspirational positioning?
+Requires guest-perception or behavioural evidence.
+
+---
+
+## Hospitality Through Explicit Boundaries
+
+### Status
+
+Observed Research Direction
+
+### Confidence
+
+Medium
+
+### Strongest Evidence
+
+- FYN
+
+---
+
+## Reservation as Pre-Arrival Contract
+
+### Status
+
+Observed Research Direction
+
+### Confidence
+
+Low to Medium
+
+### Strongest Evidence
+
+- FYN
+
+---
+
+## Exception-Aware Hospitality
+
+### Status
+
+Observed Research Direction
+
+### Confidence
+
+Medium
+
+### Strongest Evidence
+
+- FYN
+
+### Related Patterns
+
+- Escalating Reservation Complexity
+- Dual-Path Hospitality
+- Human Confirmation as Hospitality
+
+### Governance Warning
+
+Avoid duplicate promotion.
+
+---
+
+## Controlled Separation
+
+### Status
+
+Observed Research Direction
+
+### Confidence
+
+Low to Medium
+
+### Strongest Evidence
+
+- FYN
+
+### Related Tension
+
+Escape
+
+versus
+
+Belonging
+
+versus
+
+Separation.
+
+---
+
+## Restraint as Premium Signal
+
+### Status
+
+Observed Research Direction
+
+### Confidence
+
+Medium
+
+### Strongest Evidence
+
+- FYN
+
+### Limitation
+
+Requires guest-perception evidence.
+
+---
+
+## Contrast as Atmospheric Structure
+
+### Status
+
+Observed Research Direction
+
+### Confidence
+
+Low to Medium
+
+### Strongest Evidence
+
+- FYN
+
+---
+
+## Photography as Culinary Authority
+
+### Status
+
+Observed Research Direction
+
+### Confidence
+
+Low to Medium
+
+### Strongest Evidence
+
+- FYN
+
+---
+
+## Restraint Through Image Selection
+
+### Status
+
+Observed Research Direction
+
+### Confidence
+
+Low
+
+### Strongest Evidence
+
+- FYN
+
+---
+
+## Expertise as Credibility
+
+### Status
+
+Observed Research Direction
+
+### Confidence
+
+Medium
+
+### Strongest Evidence
+
+- FYN
+
+### Current Position
+
+Strong Candidate Watch.
+
+---
+
+## Culinary Philosophy as Story
+
+### Status
+
+Observed Research Direction
+
+### Confidence
+
+Medium to High
+
+### Strong Evidence
+
+- FYN
+- Cultiva
+
+### Current Position
+
+Strong Candidate Watch.
+
+---
+
+## Culinary Geography as Story
+
+### Status
+
+Observed Research Direction
+
+### Confidence
+
+Medium to High
+
+### Strongest Evidence
+
+- FYN
+
+### Governance Warning
+
+Likely mechanism within:
+
+Story Through Place.
+
+Avoid duplicate pattern creation.
+
+---
+
+## Collaboration as Authorship
+
+### Status
+
+Observed Research Direction
+
+### Confidence
+
+Low to Medium
+
+### Strongest Evidence
+
+- FYN
 
 ---
 
 ## Photography as Use-Case Evidence
 
-Evidence:
+### Status
+
+Observed Research Direction
+
+### Strongest Evidence
 
 - Bistro Lolo
-- Mawimbi partial
-- Talisman partial
 
-Confidence:
+### Partial Evidence
 
-Medium
-
-Question:
-
-Can photography improve guest understanding by showing how a hospitality environment is used?
+- Mawimbi
+- Talisman
 
 ---
 
 ## Daypart Photography
 
-Evidence:
+### Status
+
+Observed Research Direction
+
+### Strongest Evidence
 
 - Bistro Lolo
 
-Confidence:
+### Comparative Relevance
 
-Low to Medium
-
-Question:
-
-Can photography across different times of day support multi-use hospitality without fragmenting identity?
+- FYN
 
 ---
 
-## Founders as Hosts
+## Designed Belonging
 
-Evidence:
+### Status
+
+Observed Research Direction
+
+### Strongest Evidence
 
 - Bistro Lolo
 
-Confidence:
+### Contrast
 
-Low to Medium
-
-Question:
-
-Can founder biography strengthen hospitality when founders are framed through the experience they want guests to share?
+- Mawimbi
+- FYN
 
 ---
 
-## Story Through Reinterpretation
+## Atmosphere Through Use
 
-Evidence:
+### Status
+
+Observed Research Direction
+
+### Strongest Evidence
 
 - Bistro Lolo
 
-Conceptual Contrast:
-
-- Talisman
-
-Confidence:
-
-Low to Medium
-
-Question:
-
-Can reinterpretation create narrative depth similar to long-term continuity?
-
 ---
 
-## Friendship as Brand Origin
+## Familiarity Before Aspiration
 
-Evidence:
+### Status
+
+Observed Research Direction
+
+### Strongest Evidence
 
 - Bistro Lolo
 
-Confidence:
+### Contrast
 
-Low
-
-Question:
-
-Can relational origin stories create warmth differently from traditional founder credentials?
+- Mawimbi
+- FYN
 
 ---
 
-# Supporting Behaviours
+## Hospitality Through Rhythm
 
-Supporting behaviours are useful research findings.
+### Status
 
-They are not automatically patterns.
+Observed Research Direction
 
-Current supporting behaviours include:
+### Strongest Evidence
 
-- Product as Entry Point
-- Food as Sensory Entry Point
-- Place as Emotional Evidence
-- Reservation as Confidence Signal
-- Language Can Reinforce Atmosphere
-- Product Can Reinforce Atmosphere
-- Process Photography Builds Credibility
-- Occasion Photography Can Support Revenue
-- Story Can Be Implicit
-- History Can Create Reputation Evidence
-- Product Can Carry Narrative
-- Team Can Belong to Story
-- Multiple Booking Channels Increase Access
-- Booking Policies Can Build Confidence
-- Reservation Can Reflect Brand Character
-- Walk-In as Hospitality Signal
-- Materiality Can Carry Character
-- Social Scenarios Can Explain Atmosphere
-- Dayparts Can Change Atmosphere Without Breaking Identity
-- Material Photography Builds Place Credibility
-- People Can Make Design Feel Lived-In
-- Walk-In Access Can Reduce Commitment Friction
-- WhatsApp Can Function as Hospitality Infrastructure
-- Founder Story Can Humanise a Designed Brand
-- Locality Can Strengthen Story Credibility
-- Story Can Explain Design Decisions
+- Bistro Lolo
 
 ---
 
-# Research Tensions
+## Walk-In as Arrival Signal
 
-Research tensions are unresolved trade-offs.
+### Status
 
-They are not patterns.
+Observed Research Direction
 
-Current tensions include:
+### Strongest Evidence
 
-- Richness Versus Restraint
-- Implicit Story Versus Explicit Story
-- Curation Versus Completeness
-- Human Confirmation Versus Immediate Certainty
-- Direct Relationship Versus Third-Party Convenience
-- Aspiration Versus Credibility
-- Immersion Versus Theme
-- Brand Language Versus Clarity
-- Concept Versus Substance
-- Appetite Versus Evidence
-- Visual Richness Versus Editorial Control
-- Automation Versus Hospitality
-- Guest Choice Versus Operational Complexity
-- Heritage Versus Human Detail
-- Narrative Coherence Versus Narrative Variety
-- Escape Versus Belonging
-- Premium Versus Familiar
-- Flexibility Versus Positioning
-- Heritage Versus Reinterpretation
-- Visual Control Versus Lived Energy
-- Product Versus Lifestyle
-- Architectural Beauty Versus Restaurant Clarity
-- Editorial Polish Versus Lived Energy
-- Proof Versus Aspiration
-- Spontaneity Versus Reservation Optimisation
-- Channel Choice Versus Decision Simplicity
-- Platform Efficiency Versus Brand Continuity
-- Coherence Versus Singular Idea
-- Founder Story Versus Restaurant Story
-- Local Story Versus International Influence
-- Informality Versus Brand Craft
+- Bistro Lolo
 
-These should remain visible because future restaurants may resolve, deepen, or reverse them.
+### Boundary
+
+- FYN
 
 ---
 
-# Existing KHDS Implementation Pattern
+# Existing KHDS Implementation Patterns
+
+These patterns existed before the current formal research methodology.
+
+They must remain separate from research-derived maturity until independently validated.
+
+---
 
 ## Invitation
 
-Classification:
+### Classification
 
 Existing KHDS Implementation Pattern
 
-Research Status:
+### Research Status
 
 Pending Formal Validation
-
-Independent Evidence Contribution:
-
-0 unless supported through independent restaurant research.
 
 ### Purpose
 
@@ -1479,22 +2119,6 @@ Transition the guest from initial visual impact into the restaurant’s emotiona
 - supporting line
 - generous visual pause
 
-### KHDS Responsibilities
-
-- reading width
-- vertical rhythm
-- responsive spacing
-- typographic hierarchy
-- accessible structure
-
-### Restaurant Responsibilities
-
-- copy
-- tone
-- brand language
-- theme values
-- imagery
-
 ### Related Research
 
 - Emotion Before Interface
@@ -1503,321 +2127,242 @@ Transition the guest from initial visual impact into the restaurant’s emotiona
 - Layered Arrival
 - Atmosphere Through Consistency
 
-### Kodawa Labs Validation Reference
+### Kodawa Labs Validation
 
-- Trunk & Tandoor Concept
+Trunk & Tandoor Concept
 
-### Rule
+### Important Rule
 
-Existing implementation does not equal independent validation.
+Invitation is not currently:
 
----
-
-# Kodawa Labs Validation
-
-## Trunk & Tandoor Concept
-
-Classification:
-
-Kodawa Labs Validation Concept
-
-Independent Evidence Contribution:
-
-0
-
-Purpose:
-
-Evaluate whether KHDS knowledge can be translated into a production-style hospitality experience.
-
-Relevant Study:
-
-`../research/validation/trunk-tandoor/arrival-pattern-study.md`
-
-Kodawa Labs validation may inform:
-
-- implementation viability
-- component design
-- experience structure
-- production refinement
-
-It must not inflate independent research maturity.
+- Candidate
+- Emerging
+- Validated
+- Research-Derived KHDS Principle
 
 ---
 
-# Promotion History
+# Current Emerging Pattern Set
 
-## After Mawimbi
-
-The following moved:
-
-Candidate
-
-↓
-
-Emerging
-
-- Promise Before Proof
-- Layered Arrival
-- One Idea Can Organise the Brand Story
-- The Guest as Participant
-- Photography Through Layers of Experience
-- Human Confirmation as Hospitality
-
-Mawimbi also introduced:
-
-- Designed Escape
-- Atmosphere as Product
-- World Before Biography
-- Narrative Language as Interface
-- Escalating Reservation Complexity
-
-as Candidate patterns.
+1. Emotion Before Interface
+2. Story Before Features
+3. Photography Before Decoration
+4. Reservation Throughout the Journey
+5. Atmosphere Through Consistency
+6. Dual-Path Hospitality
+7. Commitment Without Pressure
+8. Photography as Proof
+9. Story Through Place
+10. Promise Before Proof
+11. Layered Arrival
+12. Narrative Coherence Through Organising Logic
+13. The Guest as Participant
+14. Photography Through Layers of Experience
+15. Human Confirmation as Hospitality
+16. Atmosphere as Product
+17. Escalating Reservation Complexity
 
 ---
 
-## After Bistro Lolo
+# Current Candidate Pattern Set
 
-The following moved:
-
-Candidate
-
-↓
-
-Emerging
-
-### Atmosphere as Product
-
-Reason:
-
-Strong independent evidence now exists across two meaningfully different atmospheric models:
-
-- Mawimbi → Escape
-- Bistro Lolo → Belonging
-
-Partial support also exists in:
-
-- Ankole
-- Talisman
-
-Conceptual support exists in:
-
-- Cultiva
+1. Atmosphere Through Worldview
+2. Show the System Behind the Plate
+3. Heritage Builds Confidence
+4. Growth as Narrative
+5. Atmosphere Through Continuity
+6. Designed Escape
+7. World Before Biography
+8. Narrative Language as Interface
+9. Photography Should Demonstrate Difference
 
 ---
 
-# Patterns Flagged for Review After Bistro Lolo
+# Pattern Review Flags
 
-## Promise Before Proof
+## Dual-Path Hospitality
 
-Review Type:
+### Review
 
-Scope
+Strong abstraction pressure.
 
-Reason:
+### Possible Future Name
 
-Bistro Lolo creates premium desire without strong aspirational promise.
+`Multi-Intent Hospitality`
 
----
-
-## One Idea Can Organise the Brand Story
-
-Review Type:
-
-Abstraction
-
-Reason:
-
-Bistro Lolo demonstrates coherence through several aligned values rather than one singular idea.
-
-Possible Future Abstraction:
-
-`Narrative Coherence Through Organising Logic`
+No rename yet.
 
 ---
 
 ## Human Confirmation as Hospitality
 
-Review Type:
+### Review
 
-Scope
+Major scope narrowing.
 
-Reason:
+### Possible Future Name
 
-Bistro Lolo preserves human access while allowing routine self-service.
+`Human Assistance When Complexity Requires It`
 
-Possible Future Logic:
-
-Human support becomes more valuable as complexity rises.
+No rename yet.
 
 ---
 
 ## Atmosphere Through Worldview
 
-Review Type:
+### Review
 
-Abstraction
+Abstraction question remains unresolved.
 
-Reason:
-
-Cultiva uses worldview.
-
-Mawimbi uses concept.
-
-Bistro Lolo uses architecture, belonging, and social rhythm.
-
-Possible Future Abstraction:
+### Possible Future Broader Form
 
 `Atmosphere Through Organising Idea`
 
+Do not rename.
+
 ---
 
-## Dual-Path Hospitality
+## Growth as Narrative
 
-Review Type:
+### Review
 
-Abstraction
-
-Reason:
-
-The independent set now shows more than two meaningful guest-intent states.
-
-Possible Future Abstraction:
-
-`Multi-Intent Hospitality`
+Possible future demotion.
 
 ---
 
 ## World Before Biography
 
-Review Type:
+### Review
 
-Scope
-
-Reason:
-
-Bistro Lolo demonstrates reciprocal reinforcement between people and world.
+Strong scope pressure.
 
 ---
 
 ## Narrative Language as Interface
 
-Review Type:
+### Review
 
-Scope
+Strong scope pressure.
+
+---
+
+# FYN Governance Changes
+
+The FYN cycle produced three canonical registry changes.
+
+---
+
+## Candidate → Emerging
+
+### Escalating Reservation Complexity
 
 Reason:
 
-Bistro Lolo maintains strong narrative character using conventional interface terminology.
+Repeated evidence now exists across materially different hospitality models.
 
 ---
 
-# Validation Rule
+## Observed → Candidate
 
-No research-derived pattern becomes Validated simply because it appears across five restaurants.
+### Photography Should Demonstrate Difference
 
-Validation should consider:
+Reason:
 
-- approximately 5–10+ independent restaurants
-- category diversity
-- geographic diversity
-- brand diversity
-- reservation diversity
-- contradictory evidence
-- pattern boundary clarity
-- implementation viability
-- mobile-specific evidence
-- guest behaviour where available
-- operational evidence where relevant
+The tension between:
 
-Restaurant count alone is insufficient.
+beautiful product
+
+and
+
+distinctive product
+
+now repeats strongly across several independent restaurants.
 
 ---
 
-# Governance Rules
+## Emerging Rename
 
-## Rule 1
+### Previous
 
-Independent restaurant evidence determines research maturity.
+One Idea Can Organise the Brand Story
 
-## Rule 2
+### Current
 
-Kodawa Labs concepts do not count as independent evidence.
+Narrative Coherence Through Organising Logic
 
-## Rule 3
+Reason:
 
-Website evidence must not be used to claim technical or operational facts that cannot be verified.
+The evidence supports coherence but not universal narrative singularity.
 
-## Rule 4
-
-Supporting behaviours do not automatically become Candidate patterns.
-
-## Rule 5
-
-Research tensions are not patterns.
-
-## Rule 6
-
-Business opportunities are not KHDS Principles.
-
-## Rule 7
-
-Contradictory evidence must be preserved.
-
-## Rule 8
-
-A pattern may remain Emerging while its scope is under review.
-
-## Rule 9
-
-A more general abstraction should not replace an existing pattern until additional independent evidence justifies the change.
-
-## Rule 10
-
-Existing implementation patterns must be classified separately until formally validated.
-
-## Rule 11
-
-Pattern promotion should follow cross-restaurant comparison, not individual restaurant observation alone.
-
-## Rule 12
-
-The registry and validation files must remain consistent.
+Status remains Emerging.
 
 ---
 
-# Governance Sources
+# FYN Definition Refinements
 
-Detailed Candidate and Emerging evidence:
-
-`../research/validation/candidate-patterns.md`
-
-Current research dashboard:
-
-`../research/validation/dashboard.md`
-
-Promotion methodology:
-
-`../research/validation/promotion-process.md`
-
-Independent restaurant research:
-
-`../research/restaurants/`
-
-Cross-restaurant comparisons:
-
-`../research/comparison/`
-
-Kodawa Labs validation:
-
-`../research/validation/trunk-tandoor/`
+The following patterns keep their maturity but receive stronger interpretation.
 
 ---
 
-# Current Registry Summary
+## Commitment Without Pressure
+
+Now distinguishes:
+
+legitimate commitment
+
+from
+
+manipulative pressure.
+
+---
+
+## Story Through Place
+
+Now explicitly includes:
+
+- ecology
+- geography
+- ingredients
+- land
+- sea
+
+in addition to physical place.
+
+---
+
+## Layered Arrival
+
+Now explicitly means:
+
+progressive confidence-building
+
+rather than fixed page sequence.
+
+---
+
+## Photography Through Layers of Experience
+
+Now explicitly requires:
+
+selective evidence
+
+rather than maximum completeness.
+
+---
+
+## Atmosphere as Product
+
+Confidence strengthened to:
+
+High.
+
+---
+
+# Pattern Count Check
 
 ## Emerging
 
-16
+17
 
 ## Candidate
 
@@ -1831,69 +2376,176 @@ Kodawa Labs validation:
 
 0
 
-## KHDS Principles Promoted From Research
+## Research-Derived KHDS Principles
 
 0
 
-## Existing Implementation Patterns Pending Formal Validation
+## Existing Implementation Patterns Pending Validation
 
 1
 
-Highest Research-Derived Status:
+Counts are consistent with:
 
-Emerging
-
----
-
-# Next Research Requirement
-
-The next independent restaurant should be selected for contradiction and diversity rather than simple confirmation.
-
-Priority should be given to cases capable of testing:
-
-- atmosphere through organising logic
-- escape versus belonging
-- aspiration versus familiarity
-- business heritage versus place heritage
-- narrative singularity versus broader coherence
-- instant booking versus human assistance
-- walk-in versus reservation optimisation
-- product differentiation
-- process proof
-- daypart hospitality
-- mobile hospitality
-- direct versus third-party booking
-
-The next research cycle should attempt to break current patterns where possible.
+`../research/validation/candidate-patterns.md`
 
 ---
 
-# Final Rule
+# Validation Discipline
 
-The Pattern Registry is not a trophy cabinet.
+Pattern maturity must not increase simply because:
 
-A larger number of patterns is not automatically better.
+- the research set grows
+- an idea appears repeatedly
+- the idea is commercially attractive
+- Kodawa Labs already uses it
+- the pattern sounds intuitively correct
 
-The purpose of the registry is to preserve the most defensible hospitality knowledge KHDS currently has.
+Promotion requires consideration of:
 
-If new evidence strengthens a pattern:
+- repeated independent evidence
+- contradictions
+- category diversity
+- geographic diversity
+- abstraction stability
+- scope boundaries
+- observable evidence quality
 
-increase confidence.
+---
 
-If new evidence narrows a pattern:
+# Current Validation Gaps
 
-record the boundary.
+The research set still needs greater:
 
-If new evidence reveals a better abstraction:
+- geographic diversity
+- cuisine diversity
+- price-point diversity
+- casual hospitality
+- high-volume hospitality
+- chain hospitality
+- hotel hospitality
+- no-reservation hospitality
+- digital-first hospitality
+- guest-behaviour evidence
+- mobile-specific evidence
+- operational evidence
+- analytics
+- conversion testing
 
-test it.
+Six independent restaurants provide a useful research base.
 
-If new evidence contradicts a pattern:
+They do not constitute broad validation.
 
-preserve the contradiction.
+---
 
-If the evidence is insufficient:
+# Relationship to KHDS Principles
 
-do not promote.
+Research-derived patterns are not automatically KHDS Principles.
+
+The current research-derived principle count remains:
+
+0
+
+The existing studio philosophy may still contain earlier foundations.
+
+Those should be classified separately as:
+
+- pre-research studio beliefs
+- design philosophy
+- implementation guidance
+
+unless and until research formally validates them.
+
+---
+
+# Related Governance Files
+
+Candidate governance:
+
+`../research/validation/candidate-patterns.md`
+
+Research dashboard:
+
+`../research/validation/dashboard.md`
+
+Promotion process:
+
+`../research/validation/promotion-process.md`
+
+Research methodology:
+
+`../research/methodology/`
+
+Restaurant dossiers:
+
+`../research/restaurants/`
+
+Comparison layer:
+
+`../research/comparison/`
+
+Kodawa Labs validation:
+
+`../research/validation/`
+
+---
+
+# Next Governance Step
+
+After updating this registry, reconcile:
+
+`../research/validation/dashboard.md`
+
+The dashboard should reflect:
+
+- 6 independent restaurants
+- 1 Kodawa Labs validation concept
+- 17 Emerging patterns
+- 9 Candidate patterns
+- 1 Partially Supported finding
+- 0 Validated patterns
+- 0 research-derived KHDS Principles
+- 1 existing implementation pattern pending validation
+
+The dashboard should also record the FYN governance changes:
+
+- Escalating Reservation Complexity → Emerging
+- Photography Should Demonstrate Difference → Candidate
+- One Idea Can Organise the Brand Story → Narrative Coherence Through Organising Logic
+
+No additional maturity decisions should be introduced during dashboard reconciliation.
+
+---
+
+# Final Registry Statement
+
+KHDS now contains a larger research base.
+
+That does not mean the framework should become more rigid.
+
+FYN created several useful results precisely because it resisted earlier assumptions.
+
+It showed that:
+
+- commitment can be hospitable
+- friction and constraint are not the same
+- atmosphere can be restrained rather than rich
+- worldviews can shape atmosphere without being universal
+- photography can prove craft without proving system
+- coherent story does not require one singular idea
+- human assistance becomes more useful as complexity increases
+
+The registry should preserve those distinctions.
+
+The purpose of KHDS is not to force restaurants into patterns.
+
+The purpose is to identify recurring hospitality behaviours, understand their boundaries, and know when they apply.
+
+A useful pattern should survive contradiction.
+
+A weak pattern should be refined.
+
+A narrow pattern should remain narrow.
+
+An unsupported pattern should not be promoted.
 
 Evidence wins.

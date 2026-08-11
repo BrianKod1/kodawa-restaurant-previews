@@ -2,137 +2,239 @@
 
 ## Purpose
 
-Compare how the current independent restaurant research set creates meaning through story.
+Compare how independent restaurants create meaning through story.
 
-This file does not assume that hospitality storytelling must take one form.
+This file tracks:
 
-It asks:
+- story models
+- narrative mechanisms
+- place
+- heritage
+- worldview
+- people
+- authorship
+- philosophy
+- product-embedded story
+- contradictions
+- abstraction pressure
+- pattern maturity
+- geographic transferability
+- commercial opportunities
 
-- what gives each restaurant meaning
-- whether story is explicit or implicit
-- whether identity comes from place, worldview, heritage, concept, people, or behaviour
-- which KHDS patterns survive different storytelling models
-- where existing patterns require narrower scope or broader abstraction
+The goal is not to identify one ideal restaurant story structure.
 
-Current independent research set:
+The goal is to determine which narrative behaviours remain useful across materially different hospitality models.
+
+---
+
+# Independent Research Set
+
+Current independent restaurants compared:
 
 1. Ankole
 2. Cultiva
 3. Talisman
 4. Mawimbi
 5. Bistro Lolo
-
-Kodawa Labs validation concepts are excluded from independent evidence.
+6. FYN
 
 ---
 
-# Current Comparison Position
-
-The five restaurants now present five different storytelling models.
+# Story Models
 
 ## Ankole
 
-Story through:
+### Primary Character
 
-- place
-- atmosphere
-- visual identity
+Place-led meaning.
 
-Primary effect:
+### Working Logic
 
-The restaurant communicates meaning largely through environment and presentation rather than extensive explicit narrative.
+Place
+
+↓
+
+Identity
+
+↓
+
+Refinement
+
+↓
+
+Confidence
+
+### Key Behaviour
+
+The restaurant’s setting helps explain what kind of experience the guest is entering.
 
 ---
 
 ## Cultiva
 
-Story through:
+### Primary Character
 
-- worldview
-- cultivation
-- sustainability
-- process
-- community
+Worldview-led meaning.
 
-Primary effect:
+### Working Logic
 
-The guest understands what the restaurant believes and how those beliefs influence the food and experience.
+Belief
+
+↓
+
+Cultivation
+
+↓
+
+Process
+
+↓
+
+Product
+
+↓
+
+Experience
+
+### Key Behaviour
+
+The restaurant’s philosophy helps organise the meaning behind the food and hospitality experience.
 
 ---
 
 ## Talisman
 
-Story through:
+### Primary Character
 
-- origin
-- heritage
-- place
-- continuity
-- growth
-- reputation
+Heritage-led meaning.
 
-Primary effect:
+### Working Logic
 
-The guest understands how the restaurant developed over time and why its history matters.
+History
+
+↓
+
+Place
+
+↓
+
+Continuity
+
+↓
+
+Credibility
+
+### Key Behaviour
+
+The restaurant’s accumulated history helps establish trust and character.
 
 ---
 
 ## Mawimbi
 
-Story through:
+### Primary Character
 
-- maritime concept
-- language
-- seafood
-- journey
-- crew
-- guest participation
+Concept-led meaning.
 
-Primary effect:
+### Working Logic
 
-The guest is invited into an experiential world organised around a coherent concept.
+Concept
+
+↓
+
+World
+
+↓
+
+Product
+
+↓
+
+Participation
+
+### Key Behaviour
+
+A strong organising idea creates a distinct hospitality world and gives the guest a role within it.
 
 ---
 
 ## Bistro Lolo
 
-Story through:
+### Primary Character
 
-- founders
-- friendship
-- Nairobi
-- architecture
-- reinterpretation
-- social belonging
-- everyday use
+People, place, friendship, architecture, and reinterpretation.
 
-Primary effect:
+### Working Logic
 
-The wider Céline & Lolo story explains why the place exists, while Bistro Lolo focuses more heavily on what life inside that world feels like.
+People
+
++
+
+Place
+
++
+
+Reinterpretation
+
+↓
+
+Belonging
+
+↓
+
+Hospitality Identity
+
+### Key Behaviour
+
+The story emerges through a cluster of related ideas rather than one dominant concept.
 
 ---
 
-# Story Model Comparison
+## FYN
 
-| Restaurant | Primary Story Driver | Story Form | Guest Role | Relationship With Place |
-|---|---|---|---|---|
-| Ankole | Place | Mostly implicit | Observer / prospective guest | Strong |
-| Cultiva | Worldview | Explicit philosophy | Learner / participant | Moderate to strong |
-| Talisman | Heritage | Explicit history | Guest entering established place | Strong |
-| Mawimbi | Concept | Immersive branded narrative | Participant | Concept-led |
-| Bistro Lolo | People + place | Distributed founder and experience story | Social participant | Strong |
+### Primary Character
 
-The comparison confirms that Story Before Features does not require one narrative format.
+Ecology, culinary philosophy, expertise, and collaborative authorship.
+
+### Working Logic
+
+Cape Ecology
+
++
+
+African Identity
+
++
+
+Japanese Culinary Philosophy
+
++
+
+People
+
+↓
+
+Culinary Point of View
+
+↓
+
+Product
+
+↓
+
+Guest Experience
+
+### Key Behaviour
+
+The restaurant builds authority through a deliberate contemporary point of view rather than inherited longevity.
 
 ---
 
-# Shared Story Behaviour
+# Shared Story Finding
 
-Across the five restaurants, the strongest transferable behaviour is not:
+Across all six restaurants, the story mechanism changes.
 
-Tell a long About story.
-
-It is:
+The deeper recurring behaviour is:
 
 Meaning
 
@@ -152,1213 +254,25 @@ Guest Understanding
 
 Participation
 
-The source of meaning differs.
+FYN adds another important component:
 
-It may come from:
+## Authorship
 
-- place
-- belief
-- history
-- concept
-- people
-- behaviour
+The guest may also need to understand:
 
----
+Who is responsible for this point of view?
 
-# Emerging Pattern Review
-
-## Story Before Features
-
-### Ankole
-
-Supported through place, atmosphere, and identity before complete practical detail.
-
-### Cultiva
-
-Strongly supported.
-
-Worldview and philosophy establish meaning before the restaurant is reduced to product and booking.
-
-### Talisman
-
-Strongly supported.
-
-History and place create context before the experience becomes purely practical.
-
-### Mawimbi
-
-Strongly supported.
-
-Concept, emotional language, and experiential framing precede the full operational offer.
-
-### Bistro Lolo
-
-Supported with qualification.
-
-Story is distributed across the wider Céline & Lolo experience rather than concentrated on the restaurant page itself.
-
-### Current Assessment
-
-Strongly Supported
-
-### Status
-
-Emerging
-
-### Confidence
-
-High
-
-### Comparison Insight
-
-Bistro Lolo materially refines the pattern.
-
-Story Before Features should not mean:
-
-Every restaurant must present explicit long-form narrative before practical information.
-
-A stronger interpretation is:
-
-> Give the guest enough meaning to understand what kind of hospitality experience this is before reducing it to functions.
-
-That meaning may be:
-
-- explicit
-- implicit
-- inherited
-- spatial
-- conceptual
-- biographical
-- behavioural
-
-This pattern survives the Bistro Lolo stress test strongly.
-
----
-
-# Emerging Pattern Review
-
-## Story Through Place
-
-### Ankole
-
-Strong support.
-
-Place carries much of the restaurant’s identity.
-
-### Talisman
-
-Strong support.
-
-The house, Karen setting, garden, and long relationship with place are central to the story.
-
-### Bistro Lolo
-
-Strong support.
-
-The reinterpreted 1970s estate gives the wider brand and restaurant meaningful narrative depth.
-
-### Cultiva
-
-Partial support.
-
-Place reinforces worldview and cultivation.
-
-### Mawimbi
-
-Partial support.
-
-Environment supports concept and atmosphere.
-
-### Current Assessment
-
-Strongly Supported
-
-### Status
-
-Emerging
-
-### Confidence
-
-High
-
-### Comparison Insight
-
-Bistro Lolo introduces an important distinction:
-
-## Restaurant History Through Place
-
-Example:
-
-Talisman
-
-versus
-
-## New Hospitality Through Inherited Place
-
-Example:
-
-Bistro Lolo
-
-Story Through Place therefore does not require restaurant longevity.
-
-Place can carry:
-
-- memory
-- architecture
-- local identity
-- environmental meaning
-- inherited character
-
-This strengthens the pattern considerably.
-
----
-
-# Emerging Pattern Review
-
-## One Idea Can Organise the Brand Story
-
-### Cultiva
-
-Strong support.
-
-Cultivation functions as a coherent worldview and organising idea.
-
-### Mawimbi
-
-Strong support.
-
-Sea, voyage, crew, and maritime language organise the brand world.
-
-### Ankole
-
-Partial support.
-
-Identity is coherent, but less obviously organised around one singular idea.
-
-### Talisman
-
-Partial support.
-
-Place, continuity, and heritage create coherence without one dominant metaphor.
-
-### Bistro Lolo
-
-Boundary evidence.
-
-The brand appears coherent through a cluster of aligned values:
-
-- friendship
-- Nairobi
-- design
-- ease
-- architecture
-- community
-- food
-
-rather than one singular narrative idea.
-
-### Current Assessment
-
-Valid but Too Narrowly Framed
-
-### Status
-
-Emerging
-
-### Confidence
-
-Medium to High
-
-### Comparison Insight
-
-Bistro Lolo weakens any universal interpretation that strong brand story requires one dominant idea.
-
-The deeper transferable behaviour may be:
-
-## Narrative Coherence Through Organising Logic
-
-That organising logic may be:
-
-- one idea
-- one worldview
-- one place
-- one heritage story
-- one cluster of aligned values
-
-### Governance Recommendation
-
-Keep the current pattern name for now.
-
-Flag strongly for abstraction review.
-
-Do not rename until governance reconciliation.
-
----
-
-# Emerging Pattern Review
-
-## The Guest as Participant
-
-### Cultiva
-
-Strong support.
-
-The guest is invited into the restaurant’s worldview and values.
-
-### Mawimbi
-
-Strong support.
-
-The guest is explicitly drawn into the maritime narrative.
-
-### Bistro Lolo
-
-Strong support.
-
-The guest is framed through:
-
-- conversation
-- brunch
-- poolside life
-- work
-- drinks
-- neighbourhood social use
-
-### Talisman
-
-Partial support.
-
-The guest is invited into an established destination and history.
-
-### Ankole
-
-Partial.
-
-### Current Assessment
-
-Strongly Supported
-
-### Status
-
-Emerging
-
-### Confidence
-
-High
-
-### Comparison Insight
-
-Bistro Lolo broadens the pattern significantly.
-
-Guest participation can occur through:
-
-## Narrative Participation
-
-Example:
-
-Mawimbi
-
-The guest is placed inside a branded world.
-
-## Philosophical Participation
-
-Example:
-
-Cultiva
-
-The guest is invited into a worldview.
-
-## Social Participation
-
-Example:
-
-Bistro Lolo
-
-The guest is invited into the lived rhythm of the place.
-
-The deeper behaviour is not role-play.
-
-It is:
-
-> Make the guest feel that they have a meaningful place inside the experience.
-
----
-
-# Candidate Pattern Review
-
-## Heritage Builds Confidence
-
-### Talisman
-
-Strong support.
-
-Restaurant longevity and accumulated history provide credibility.
-
-### Bistro Lolo
-
-Boundary evidence.
-
-Architectural history is meaningful, but the restaurant itself does not depend on long operational history.
-
-### Ankole
-
-Limited / possible partial support.
-
-### Cultiva
-
-Limited.
-
-### Mawimbi
-
-Limited.
-
-### Current Assessment
-
-Valid but Narrow
-
-### Status
-
-Candidate
-
-### Confidence
-
-Medium
-
-### Comparison Insight
-
-Bistro Lolo forces a useful distinction:
-
-## Business Heritage
-
-versus
-
-## Place Heritage
-
-Both may create depth.
-
-They should not automatically be treated as equivalent forms of confidence.
-
-### Governance Recommendation
-
-Keep:
-
-Candidate
-
-Do not promote.
-
-Continue testing with long-established restaurants and newer concepts inside historically meaningful properties.
-
----
-
-# Candidate Pattern Review
-
-## Growth as Narrative
-
-### Talisman
-
-Strongest support.
-
-The story follows a clear development:
-
-Small House
-
-↓
-
-Growth
-
-↓
-
-Reputation
-
-### Bistro Lolo
-
-Contradictory / Not Applicable.
-
-The story focuses on creation and reinterpretation rather than long-term growth.
-
-### Other Restaurants
-
-Limited.
-
-### Current Assessment
-
-Valid but Narrow
-
-### Status
-
-Candidate
-
-### Confidence
-
-Low to Medium
-
-### Comparison Insight
-
-Growth is one possible narrative structure.
-
-It is not a universal hospitality story.
-
-It may be most relevant to:
-
-- family businesses
-- founder-led brands
-- institutions with long histories
-- venues with meaningful expansion stories
-
-Do not promote.
-
----
-
-# Candidate Pattern Review
-
-## World Before Biography
-
-### Mawimbi
-
-Strong support.
-
-The experiential world is more prominent than founder biography.
-
-### Cultiva
-
-Partial support.
-
-Worldview is central.
-
-### Bistro Lolo
-
-Meaningful boundary evidence.
-
-Founder biography and hospitality world reinforce each other.
-
-### Talisman
-
-Partial contradiction.
-
-History and place are explicit.
-
-### Current Assessment
-
-Pattern Scope Uncertain
-
-### Status
-
-Candidate
-
-### Confidence
-
-Low to Medium
-
-### Comparison Insight
-
-The evidence increasingly suggests that:
-
-World Before Biography
-
-may be too prescriptive.
-
-A stronger question is:
-
-What should the guest understand first in order to understand the brand?
-
-Sometimes:
-
-World
-
-comes first.
-
-Sometimes:
-
-People
-
-come first.
-
-Sometimes they explain each other.
-
-### Governance Recommendation
-
-Keep Candidate.
-
-Mark for scope review.
-
-Do not rename yet.
-
----
-
-# Candidate Pattern Review
-
-## Narrative Language as Interface
-
-### Mawimbi
-
-Strong support.
-
-Branded vocabulary such as:
-
-- The Cruise
-- The Crew
-- Welcome Aboard
-
-extends the narrative into interface language.
-
-### Bistro Lolo
-
-Meaningful boundary evidence.
-
-Distinctive editorial voice coexists with conventional navigation labels.
-
-### Cultiva
-
-Partial support through language, but less strongly interface-driven.
-
-### Talisman
-
-Limited.
-
-### Ankole
-
-Limited.
-
-### Current Assessment
-
-Valid but Optional
-
-### Status
-
-Candidate
-
-### Confidence
-
-Low to Medium
-
-### Comparison Insight
-
-Narrative immersion does not require branded navigation terminology.
-
-Custom interface language may be useful when it:
-
-- strengthens the world
-- remains immediately understandable
-
-It may become harmful when it:
-
-- increases interpretation cost
-- weakens navigation clarity
-
-### Governance Recommendation
-
-Keep:
-
-Candidate
-
-No promotion.
-
-Continue testing.
-
----
-
-# New Research Direction Review
-
-## Founders as Hosts
-
-### Bistro Lolo
-
-Strongest current example.
-
-The founders are presented through:
-
-- friendship
-- shared desire
-- hospitality
-- welcoming people
-- creating a place they wanted to exist
-
-### Partial Support
-
-Cultiva may contain founder or people-led worldview evidence, but current support is weaker.
-
-### Current Assessment
-
-Observed Research Direction
-
-### Confidence
-
-Low to Medium
-
-### Research Question
-
-Can founder biography build stronger hospitality connection when it explains what guests are being invited to share?
-
-Needs more independent examples.
-
----
-
-# New Research Direction Review
-
-## Story Through Reinterpretation
-
-### Bistro Lolo
-
-Strongest current example.
-
-An older estate is preserved and transformed into a new hospitality experience.
-
-### Talisman
-
-Possible conceptual contrast.
-
-Its value comes more from continuity than reinterpretation.
-
-### Current Assessment
-
-Observed Research Direction
-
-### Confidence
-
-Low to Medium
-
-### Research Question
-
-Can thoughtful reinterpretation create the same narrative depth that accumulated history creates?
-
-Needs more evidence.
-
----
-
-# New Research Direction Review
-
-## Friendship as Brand Origin
-
-### Bistro Lolo
-
-Strongest current example.
-
-The hospitality brand begins with a friendship group rather than a purely commercial origin story.
-
-### Current Assessment
-
-Observed Research Direction
-
-### Confidence
-
-Low
-
-### Research Question
-
-Does relational origin create stronger warmth or trust than founder credentials?
-
-Needs confirmation.
-
----
-
-# Supporting Behaviour Review
-
-## Story Can Be Implicit
-
-### Ankole
-
-Strongest current example.
-
-Meaning is carried heavily through:
-
-- place
-- atmosphere
-- visual identity
-
-rather than extensive explicit narrative.
-
-### Bistro Lolo
-
-Partial support.
-
-The restaurant page inherits meaning from the wider brand rather than repeating the full origin story.
-
-### Current Assessment
-
-Supporting Behaviour
-
-### Confidence
-
-High
-
-### Insight
-
-Not all hospitality storytelling should become long-form copy.
-
-KHDS should distinguish:
-
-Absence of Story
-
-from
-
-Implicit Story.
-
----
-
-# Supporting Behaviour Review
-
-## History Can Create Reputation Evidence
-
-### Talisman
-
-Strong.
-
-### Bistro Lolo
-
-Partial through place history, but not equivalent restaurant history.
-
-### Current Assessment
-
-Supporting Behaviour
-
-### Confidence
-
-Medium
-
----
-
-# Supporting Behaviour Review
-
-## Product Can Carry Narrative
-
-### Cultiva
-
-Strong.
-
-Food and cultivation are integrated with worldview.
-
-### Mawimbi
-
-Strong.
-
-Seafood reinforces the maritime concept.
-
-### Bistro Lolo
-
-Partial.
-
-French culinary identity and local sourcing can reinforce the wider story, but the connection could be deeper.
-
-### Current Assessment
-
-Supporting Behaviour
-
-### Confidence
-
-Medium to High
-
----
-
-# Supporting Behaviour Review
-
-## Team Can Belong to Story
-
-### Mawimbi
-
-Strong through “The Crew.”
-
-### Bistro Lolo
-
-Strong through founder visibility and friendship.
-
-### Talisman
-
-Potential but underused.
-
-### Current Assessment
-
-Supporting Behaviour
-
-### Confidence
-
-Medium
-
-### Insight
-
-People can become part of narrative structure rather than appearing only on an About page.
-
----
-
-# Supporting Behaviour Review
-
-## Founder Story Can Humanise a Designed Brand
-
-### Bistro Lolo
-
-Strongest current evidence.
-
-### Cultiva
-
-Possible partial support.
-
-### Current Assessment
-
-Supporting Behaviour
-
-### Confidence
-
-Medium
-
----
-
-# Supporting Behaviour Review
-
-## Locality Can Strengthen Story Credibility
-
-### Ankole
-
-Strong through place.
-
-### Talisman
-
-Strong through Karen and house history.
-
-### Bistro Lolo
-
-Strong through Nairobi, local producers, local creatives, and neighbourhood framing.
-
-### Cultiva
-
-Strong through sourcing and cultivation context.
-
-### Current Assessment
-
-Supporting Behaviour
-
-### Confidence
-
-High
-
----
-
-# Supporting Behaviour Review
-
-## Story Can Explain Design Decisions
-
-### Bistro Lolo
-
-Strong.
-
-The founder and architecture narrative helps explain why the environment looks the way it does.
-
-### Talisman
-
-Partial.
-
-History explains some of the physical character.
-
-### Current Assessment
-
-Supporting Behaviour
-
-### Confidence
-
-Medium
-
----
-
-# Major Story Tension
-
-## Implicit Story Versus Explicit Story
-
-### Ankole
-
-Strong implicit model.
-
-### Cultiva
-
-Strong explicit worldview model.
-
-### Talisman
-
-Strong explicit heritage model.
-
-### Mawimbi
-
-Strong explicit concept model.
-
-### Bistro Lolo
-
-Distributed model.
-
-### Current Assessment
-
-Major Research Tension
-
-### Confidence
-
-High
-
-### Current Learning
-
-Strong hospitality storytelling can be:
-
-- implicit
-- explicit
-- distributed
-
-The correct level depends on:
-
-- brand complexity
-- place
-- heritage
-- concept
-- guest knowledge
-- commercial need
-
-KHDS should not automatically reward more copy.
-
----
-
-# Major Story Tension
-
-## Coherence Versus Singular Idea
-
-### Cultiva / Mawimbi
-
-Strong examples of one dominant organising idea.
-
-### Bistro Lolo
-
-Strong example of coherence through several aligned values.
-
-### Talisman
-
-Also supports coherence through several connected realities:
-
-- place
-- history
-- food
-- reputation
-
-### Current Assessment
-
-Major Research Tension
-
-### Confidence
-
-High
-
-### Current Learning
-
-Narrative coherence does not necessarily require narrative singularity.
-
-The deeper requirement may be:
-
-Aligned Meaning.
-
----
-
-# Major Story Tension
-
-## Brand Language Versus Clarity
-
-### Mawimbi
-
-Strong branded language.
-
-### Bistro Lolo
-
-Conventional interface language with distinctive editorial copy.
-
-### Current Assessment
-
-Research Tension
-
-### Confidence
-
-High
-
-### Current Learning
-
-Branded vocabulary is a tool.
-
-It should not become a rule.
-
-The right balance depends on whether the vocabulary adds:
-
-Meaning
-
-without removing:
-
-Understanding.
-
----
-
-# Major Story Tension
-
-## Concept Versus Substance
-
-### Cultiva
-
-Worldview is supported by cultivation, process, and sourcing.
-
-### Mawimbi
-
-Strong concept increases the need for culinary and experiential proof.
-
-### Bistro Lolo
-
-Design and lifestyle positioning increase the need for food and local sourcing proof.
-
-### Current Assessment
-
-Research Tension
-
-### Confidence
-
-High
-
-### Current Learning
-
-A strong concept earns attention.
-
-Substance earns confidence.
-
-KHDS should continue testing how the two reinforce each other.
-
----
-
-# Major Story Tension
-
-## Heritage Versus Human Detail
-
-### Talisman
-
-Strong history, but limited human detail.
-
-### Bistro Lolo
-
-Stronger founder detail, shorter institutional history.
-
-### Current Assessment
-
-Research Tension
-
-### Confidence
-
-Medium to High
-
-### Core Question
-
-Which creates stronger emotional connection:
-
-History of the place
-
-or
-
-People behind the place?
-
-Current evidence suggests both perform different roles.
-
----
-
-# Major Story Tension
-
-## Founder Story Versus Restaurant Story
-
-### Bistro Lolo
-
-Strongest example.
-
-The wider parent-brand story is richer than the restaurant-specific origin story.
-
-### Current Assessment
-
-Research Tension
-
-### Confidence
-
-Medium
-
-### Core Question
-
-How much parent-brand narrative should a restaurant inherit before its own proposition becomes less distinct?
-
----
-
-# Major Story Tension
-
-## Local Story Versus International Influence
-
-### Bistro Lolo
-
-Strong.
-
-Nairobi identity coexists with:
-
-- French culinary influence
-- global travel
-- modernist architecture
-- international design sensibility
-
-### Cultiva
-
-Relevant through global culinary thinking and local systems.
-
-### Current Assessment
-
-Research Tension
-
-### Confidence
-
-Medium
-
-### Current Learning
-
-Local identity does not require cultural isolation.
-
-The stronger question is whether international influence is translated through a credible local context.
-
----
-
-# Major Story Tension
-
-## Informality Versus Brand Craft
-
-### Bistro Lolo
-
-Strongest current example.
-
-Conversational storytelling coexists with highly controlled design.
-
-### Mawimbi
-
-Partial through playful brand language and premium positioning.
-
-### Current Assessment
-
-Research Tension
-
-### Confidence
-
-Medium
-
-### Current Learning
-
-High craft does not require formal voice.
-
-This supports a broader premium-hospitality model than traditional luxury language.
-
----
-
-# Cross-Restaurant Story Logic
-
-The five independent restaurants now suggest at least five valid narrative models.
-
----
-
-## Model A — Implicit Place Story
-
-Example:
-
-Ankole
+A stronger provisional model becomes:
 
 Place
 
-↓
++
 
-Atmosphere
+Philosophy
+
++
+
+People
 
 ↓
 
@@ -1366,43 +280,478 @@ Identity
 
 ↓
 
-Meaning
+Product Evidence
+
+↓
+
+Guest Understanding
+
+↓
+
+Participation
+
+This remains a working model.
+
+Do not promote it as a formal pattern.
 
 ---
 
-## Model B — Worldview Story
+# Pattern Review
 
-Example:
+## Story Before Features
 
-Cultiva
+### Current Status
 
-Belief
+Emerging
 
-↓
+### Evidence
 
-Process
+Strongly supported across:
 
-↓
+- Ankole
+- Cultiva
+- Talisman
+- Mawimbi
+- Bistro Lolo
+- FYN
 
-Product
+### Confidence
 
-↓
+High
 
-Guest Meaning
+### Cross-Restaurant Effect
+
+Very Strongly Supported
+
+### Current Interpretation
+
+Hospitality becomes easier to understand when the guest first receives enough meaning to recognise what kind of experience they are entering.
+
+Story may appear through:
+
+- place
+- worldview
+- history
+- concept
+- people
+- architecture
+- product
+- philosophy
+- ecology
+- menu language
+- behaviour
+
+Story does not require a long About page.
+
+### FYN Effect
+
+FYN provides strong evidence that story may live inside:
+
+- culinary philosophy
+- menu structure
+- ingredient language
+- geographic references
+- team authorship
+
+### Geographic Transferability
+
+Strengthened.
+
+FYN is the first current independent case outside Nairobi.
+
+### Recommendation
+
+Keep Emerging.
+
+No maturity change.
 
 ---
 
-## Model C — Heritage Story
+# Pattern Review
 
-Example:
+## Story Through Place
 
-Talisman
+### Current Status
 
-Origin
+Emerging
 
-↓
+### Strong Evidence
 
-Continuity
+- Ankole
+- Talisman
+- Bistro Lolo
+- FYN
+
+### Partial Support
+
+- Cultiva
+- Mawimbi
+
+### Confidence
+
+High
+
+### Cross-Restaurant Effect
+
+Strongly Supported
+
+### Previous Interpretation
+
+Place contributes narrative through:
+
+- physical setting
+- neighbourhood
+- architecture
+- history
+
+### FYN Effect
+
+FYN expands the pattern substantially.
+
+Place may also enter story through:
+
+- ecology
+- ingredients
+- landscape
+- geography
+- land
+- sea
+
+### Current Place Forms
+
+## Architectural Place
+
+The venue itself carries meaning.
+
+## Historical Place
+
+The site or restaurant history creates narrative.
+
+## Neighbourhood Place
+
+Local context creates belonging.
+
+## Ecological Place
+
+Landscape and environment influence identity.
+
+## Culinary Place
+
+Ingredients and regional food systems communicate geography.
+
+### Recommendation
+
+Keep Emerging.
+
+Refine canonical interpretation to ensure place is not limited to architecture or venue history.
+
+No status change.
+
+---
+
+# Pattern Review
+
+## One Idea Can Organise the Brand Story
+
+### Current Status
+
+Emerging
+
+### Strong Evidence
+
+- Cultiva
+- Mawimbi
+
+### Partial Support
+
+- Ankole
+- Talisman
+
+### Boundary Evidence
+
+- Bistro Lolo
+- FYN
+
+### Confidence
+
+Medium to High
+
+### Cross-Restaurant Effect
+
+Strong Abstraction Pressure
+
+### Original Strength
+
+The pattern correctly identifies that strong hospitality brands often benefit from narrative organisation.
+
+### Current Problem
+
+The phrase:
+
+One Idea
+
+is now too restrictive for part of the evidence.
+
+### Cultiva
+
+A relatively singular worldview creates coherence.
+
+### Mawimbi
+
+A strong maritime organising concept creates coherence.
+
+### Bistro Lolo
+
+Meaning emerges from several related ideas:
+
+- people
+- friendship
+- architecture
+- neighbourhood
+- reinterpretation
+- social use
+
+### FYN
+
+Meaning emerges from:
+
+- Cape ecology
+- African identity
+- Japanese philosophy
+- restraint
+- land and sea
+- culinary expertise
+- collaborative authorship
+
+FYN remains coherent without one idea clearly carrying the entire story.
+
+### Deeper Behaviour
+
+Strong restaurant stories appear to require:
+
+Narrative Coherence
+
+rather than necessarily:
+
+Narrative Singularity.
+
+### Recommended Abstraction
+
+`Narrative Coherence Through Organising Logic`
+
+### Proposed Interpretation
+
+A hospitality brand should organise its stories, people, place, product, and language around a coherent narrative logic so that multiple ideas reinforce rather than compete with one another.
+
+### Recommendation
+
+Rename during governance reconciliation.
+
+Current:
+
+`One Idea Can Organise the Brand Story`
+
+Proposed:
+
+`Narrative Coherence Through Organising Logic`
+
+### Status Recommendation
+
+Remain Emerging.
+
+This is an abstraction change, not a maturity promotion.
+
+---
+
+# Pattern Review
+
+## The Guest as Participant
+
+### Current Status
+
+Emerging
+
+### Strong Evidence
+
+- Cultiva
+- Mawimbi
+- Bistro Lolo
+
+### Partial / Boundary Evidence
+
+- Ankole
+- Talisman
+- FYN
+
+### Confidence
+
+High
+
+### Cross-Restaurant Effect
+
+Supported With Scope Expansion
+
+### Previous Interpretation
+
+The guest becomes part of the hospitality story.
+
+### Current Problem
+
+Participation does not always mean:
+
+- social co-creation
+- active narrative role
+- lifestyle identification
+
+### FYN Effect
+
+FYN introduces a more receptive form.
+
+The guest may participate by:
+
+- entering
+- trusting
+- tasting
+- interpreting
+- experiencing
+
+a highly authored sequence.
+
+### Current Participation Forms
+
+Possible forms now include:
+
+## Narrative Participation
+
+The guest becomes part of an explicit story.
+
+## Philosophical Participation
+
+The guest experiences the restaurant’s worldview.
+
+## Social Participation
+
+The guest contributes to atmosphere through use.
+
+## Experiential Participation
+
+The guest enters a deliberately authored sequence.
+
+### Recommendation
+
+Keep Emerging.
+
+Broaden interpretation.
+
+Do not rename yet.
+
+---
+
+# Candidate Pattern Review
+
+## Heritage Builds Confidence
+
+### Current Status
+
+Candidate
+
+### Strong Evidence
+
+- Talisman
+
+### Partial Evidence
+
+- Ankole
+
+### Boundary / Negative Evidence
+
+- Bistro Lolo
+- FYN
+
+### Confidence
+
+Medium
+
+### Cross-Restaurant Effect
+
+Supported as a Narrow Credibility Mechanism
+
+### Current Interpretation
+
+Heritage may build confidence where:
+
+- longevity matters
+- accumulated reputation matters
+- physical continuity matters
+- historical character matters
+
+### FYN Effect
+
+FYN provides strong boundary evidence.
+
+The restaurant creates authority without relying primarily on heritage.
+
+Instead, credibility comes from:
+
+- expertise
+- authorship
+- philosophy
+- craft
+- recognition
+- place identity
+
+### Current Learning
+
+Heritage is one credibility mechanism.
+
+It is not a universal requirement.
+
+### Recommendation
+
+Keep Candidate.
+
+Scope remains narrow.
+
+No promotion.
+
+---
+
+# Candidate Pattern Review
+
+## Growth as Narrative
+
+### Current Status
+
+Candidate
+
+### Strong Evidence
+
+- Talisman
+
+### Partial Evidence
+
+- Bistro Lolo
+
+### Weak / Not Central
+
+- FYN
+- Mawimbi
+- Cultiva
+- Ankole
+
+### Confidence
+
+Low to Medium
+
+### Cross-Restaurant Effect
+
+Weakly Supported
+
+### FYN Effect
+
+FYN describes itself as evolving, but that does not create a clear:
+
+Beginning
 
 ↓
 
@@ -1410,639 +759,1073 @@ Growth
 
 ↓
 
-Reputation
+Expansion
+
+↓
+
+Institution
+
+narrative.
+
+### Current Learning
+
+Change and evolution should not be confused with growth as narrative.
+
+### Recommendation
+
+Keep Candidate for now.
+
+Flag for possible demotion if future restaurants do not strengthen it.
+
+Do not promote.
 
 ---
 
-## Model D — Concept Story
+# Candidate Pattern Review
 
-Example:
+## World Before Biography
 
-Mawimbi
+### Current Status
 
-Central Idea
+Candidate
 
-↓
+### Evidence
 
-Language
+Mixed.
 
-↓
+### Stronger Relevance
 
-Atmosphere
+- Cultiva
+- Mawimbi
 
-↓
+### Boundary Evidence
 
-Guest Participation
+- Bistro Lolo
+- FYN
 
----
+### Confidence
 
-## Model E — People + Place Story
+Low to Medium
 
-Example:
+### Cross-Restaurant Effect
 
-Bistro Lolo
+Increasingly Narrow
 
-Founders
+### Original Idea
 
-↓
+Establish the restaurant’s world before introducing the people behind it.
 
-Purpose
+### FYN Effect
 
-↓
+FYN shows that:
 
-Existing Place
+world
 
-↓
+and
 
-Reinterpretation
+people
 
-↓
+can reinforce one another.
 
-Social Experience
+Chef and team authorship help explain the culinary point of view rather than interrupt it.
 
----
+### Current Learning
 
-# Current Story Principle
+The issue may not be:
 
-The evidence increasingly supports this working logic:
+World Before Biography.
 
-## Create Meaning
+The stronger question may be:
 
-Why does this place matter?
+> When does biography become meaningful to the guest?
 
-↓
+### Recommendation
 
-## Establish Identity
+Keep Candidate.
 
-What makes this hospitality experience recognisable?
+Flag for strong scope review.
 
-↓
-
-## Provide Evidence
-
-What proves the story is real?
-
-Possible evidence:
-
-- place
-- people
-- product
-- history
-- process
-- architecture
-- language
-
-↓
-
-## Invite the Guest In
-
-How does the guest belong inside the story?
-
-↓
-
-## Enable Action
-
-The story eventually supports:
-
-- exploration
-- reservation
-- walk-in
-- inquiry
-- visit
-
-This is more defensible than prescribing one type of About section.
-
----
-
-# KHDS Implementation Implication
-
-KHDS should standardise:
-
-- meaningful narrative purpose
-- coherence
-- relationship between story and evidence
-- guest relevance
-- clarity
-- connection between narrative and action
-
-KHDS should not standardise:
-
-- one narrative length
-- one story type
-- one placement
-- founder-first storytelling
-- worldview-first storytelling
-- custom navigation language
-- heritage-led storytelling
-- one tone of voice
-
-The restaurant’s actual identity should determine narrative structure.
-
----
-
-# Story Opportunity Themes
-
-The comparison strengthens several commercially relevant opportunities.
-
----
-
-## Deeper Founder and Team Stories
-
-Talisman and Bistro Lolo show opposite strengths.
-
-Talisman:
-
-Strong history, less human detail.
-
-Bistro Lolo:
-
-Strong human origin, less standalone restaurant biography.
-
-Potential direction:
-
-People
-
-↓
-
-Purpose
-
-↓
-
-Place
-
-↓
-
-Product
-
-↓
-
-Guest Experience
-
----
-
-## Place-Based Storytelling
-
-Ankole, Talisman, and Bistro Lolo all show meaningful place-led identity.
-
-Potential system:
-
-Place
-
-↓
-
-Why It Matters
-
-↓
-
-Physical Evidence
-
-↓
-
-Atmosphere
-
-↓
-
-Guest Experience
-
----
-
-## Product Story as Substance
-
-Cultiva, Mawimbi, and Bistro Lolo suggest opportunities to connect:
-
-Claim
-
-↓
-
-Process
-
-↓
-
-Product
-
-↓
-
-Proof
-
-This can reduce the gap between concept and culinary substance.
-
----
-
-## Parent Brand / Restaurant Narrative Architecture
-
-Bistro Lolo introduces a useful hospitality-system opportunity.
-
-Potential model:
-
-Parent Brand Story
-
-↓
-
-Shared World
-
-↓
-
-Restaurant-Specific Story
-
-↓
-
-Restaurant-Specific Action
-
-This may be useful for:
-
-- hotels
-- hospitality groups
-- multi-concept properties
-- restaurant groups
-
----
-
-## Locality as Differentiation
-
-Several restaurants show that location can provide:
-
-- credibility
-- emotional depth
-- cultural identity
-- story
-- differentiation
-
-Potential direction:
-
-Make locality concrete rather than decorative.
-
----
-
-# Pattern Effects After Bistro Lolo Story Comparison
-
-## Strongly Supported
-
-- Story Before Features
-- Story Through Place
-- The Guest as Participant
-
-## Emerging Pattern Requiring Abstraction Review
-
-- One Idea Can Organise the Brand Story
-
-## Candidate Kept Narrow
-
-- Heritage Builds Confidence
-- Growth as Narrative
-- World Before Biography
-- Narrative Language as Interface
-
-## New Research Directions
-
-- Founders as Hosts
-- Story Through Reinterpretation
-- Friendship as Brand Origin
-
-## Supporting Behaviours
-
-- Story Can Be Implicit
-- History Can Create Reputation Evidence
-- Product Can Carry Narrative
-- Team Can Belong to Story
-- Founder Story Can Humanise a Designed Brand
-- Locality Can Strengthen Story Credibility
-- Story Can Explain Design Decisions
-
-## Major Tensions
-
-- Implicit Story Versus Explicit Story
-- Coherence Versus Singular Idea
-- Brand Language Versus Clarity
-- Concept Versus Substance
-- Heritage Versus Human Detail
-- Founder Story Versus Restaurant Story
-- Local Story Versus International Influence
-- Informality Versus Brand Craft
-
----
-
-# Promotion Assessment
-
-## Story Before Features
-
-Keep:
-
-Emerging
-
-Confidence:
-
-High
-
-Definition should eventually clarify that story may be:
-
-- explicit
-- implicit
-- distributed
-
----
-
-## Story Through Place
-
-Keep:
-
-Emerging
-
-Confidence:
-
-High
-
-Bistro Lolo materially strengthens this pattern by proving that place-led story does not require restaurant longevity.
-
----
-
-## One Idea Can Organise the Brand Story
-
-Keep:
-
-Emerging
-
-Confidence:
-
-Medium to High
-
-But mark for abstraction review.
-
-Possible deeper concept:
-
-Narrative Coherence Through Organising Logic
+Possible future redefinition may be required.
 
 Do not rename yet.
 
 ---
 
-## The Guest as Participant
+# Candidate Pattern Review
 
-Keep:
+## Narrative Language as Interface
 
-Emerging
+### Current Status
+
+Candidate
+
+### Evidence
+
+Strongest:
+
+- Mawimbi
+
+Partial:
+
+- Cultiva
+- FYN
+
+Boundary:
+
+- Bistro Lolo
+
+### Confidence
+
+Low to Medium
+
+### Cross-Restaurant Effect
+
+Supported With Strong Boundary
+
+### FYN Effect
+
+FYN uses highly distinctive editorial language while keeping functional navigation relatively conventional.
+
+Narrative character appears through:
+
+- headlines
+- section framing
+- menu language
+- philosophy
+
+rather than requiring unusual interface labels.
+
+### Current Learning
+
+Narrative language can enrich the experience without replacing clarity.
+
+### Recommendation
+
+Keep Candidate.
+
+Refine toward:
+
+Narrative Language Within Clear Interface
+
+during future review if evidence continues.
+
+Do not promote.
+
+---
+
+# Candidate Pattern Review
+
+## Atmosphere Through Worldview
+
+### Current Status
+
+Candidate / Under Review
+
+### Strong Evidence
+
+- Cultiva
+- FYN
+
+### Boundary Evidence
+
+- Mawimbi
+- Bistro Lolo
+
+### Confidence
+
+Medium to High
+
+### Story-Layer Contribution
+
+FYN strongly connects:
+
+- culinary philosophy
+- language
+- food
+- space
+- restraint
+
+### Cross-File Effect
+
+The story comparison reinforces the atmosphere comparison.
+
+### Recommendation
+
+Keep Candidate / Under Review.
+
+Do not rename to:
+
+`Atmosphere Through Organising Idea`
+
+yet.
+
+---
+
+# New Research Direction
+
+## Expertise as Credibility
+
+### Evidence
+
+Strongest:
+
+- FYN
+
+Partial Relevance:
+
+- Mawimbi
+- Cultiva
+- Bistro Lolo
+
+### Confidence
+
+Medium
+
+### Working Interpretation
+
+Hospitality brands may build trust by making visible:
+
+- who is responsible
+- what expertise they bring
+- which part of the experience they shape
+
+### Current Contrast
+
+## Talisman
+
+Credibility through history.
+
+## FYN
+
+Credibility through expertise.
+
+### Status
+
+Observed Research Direction
+
+### Recommendation
+
+Strong Candidate Watch.
+
+Do not promote yet.
+
+More chef-led and expertise-led restaurants are needed.
+
+---
+
+# New Research Direction
+
+## Culinary Philosophy as Story
+
+### Strong Evidence
+
+- FYN
+- Cultiva
+
+### Partial Relevance
+
+- Mawimbi
+
+### Confidence
+
+Medium to High
+
+### Working Interpretation
+
+The principles governing how food is sourced, prepared, and understood may become the restaurant’s central narrative.
+
+### Current Distinction
+
+This is more specific than:
+
+Story Before Features.
+
+It explains:
+
+what kind of story is carrying the identity.
+
+### Status
+
+Observed Research Direction
+
+### Recommendation
+
+Candidate Watch.
+
+Do not promote yet.
+
+---
+
+# New Research Direction
+
+## Culinary Geography as Story
+
+### Strongest Evidence
+
+- FYN
+
+### Supporting Relevance
+
+- Ankole
+- Talisman
+- Cultiva
+
+### Confidence
+
+Medium to High
+
+### Working Interpretation
+
+Geography may become culinary narrative when:
+
+- landscape
+- ingredients
+- ecological context
+- regional identity
+
+are meaningfully connected to the menu.
+
+### Governance Concern
+
+This may simply be a mechanism within:
+
+`Story Through Place`.
+
+### Recommendation
+
+Do not promote separately.
+
+Preserve as a supporting research direction until duplication risk is resolved.
+
+---
+
+# New Research Direction
+
+## Collaboration as Authorship
+
+### Strongest Evidence
+
+- FYN
+
+### Partial Relevance
+
+- Bistro Lolo
+
+### Confidence
+
+Low to Medium
+
+### Working Interpretation
+
+Hospitality identity may be deliberately authored across several disciplines rather than by one founder or chef.
+
+Possible authors include:
+
+- chef
+- culinary director
+- sommelier
+- service director
+- architect
+- founder
+
+### Status
+
+Observed Research Direction
+
+Do not promote.
+
+---
+
+# Supporting Behaviour
+
+## Name Can Carry Story
+
+### Evidence
+
+- FYN
+- Mawimbi
+- Ankole
+
+### Interpretation
+
+The restaurant name can carry:
+
+- place
+- concept
+- ecology
+- cultural meaning
+
+before longer explanation begins.
+
+### Status
+
+Supporting Behaviour
+
+---
+
+# Supporting Behaviour
+
+## Menu Can Extend the Story
+
+### Strong Evidence
+
+- FYN
+- Cultiva
+- Mawimbi
+
+### Partial
+
+- Bistro Lolo
+- Talisman
+
+### Confidence
+
+High
+
+### Interpretation
+
+Story should not necessarily end when the guest reaches the menu.
+
+The product itself can continue the narrative through:
+
+- course names
+- ingredients
+- geography
+- technique
+- descriptions
+
+### Status
+
+Supporting Behaviour
+
+---
+
+# Supporting Behaviour
+
+## People Can Carry Authority
+
+### Strong Evidence
+
+- FYN
+
+### Partial
+
+- Bistro Lolo
+- Cultiva
+
+### Interpretation
+
+Team visibility can provide:
+
+- authorship
+- credibility
+- accountability
+- humanity
+
+### Status
+
+Supporting Behaviour
+
+---
+
+# Supporting Behaviour
+
+## Story Can Explain Restraint
+
+### Strongest Evidence
+
+- FYN
+
+### Confidence
+
+High
+
+### Interpretation
+
+Minimal or restrained design becomes more meaningful when the guest understands the philosophy behind it.
+
+### Status
+
+Supporting Behaviour
+
+---
+
+# Supporting Behaviour
+
+## Place Can Be Ecological
+
+### Strongest Evidence
+
+- FYN
+
+### Supporting
+
+- Cultiva
+
+### Confidence
+
+High
+
+### Interpretation
+
+Story Through Place should not be limited to:
+
+building
+
+or
+
+neighbourhood.
+
+Natural systems may also create place identity.
+
+### Status
+
+Supporting Behaviour
+
+---
+
+# Story Tensions
+
+## Place Versus Person
+
+### Place-Strong
+
+- Ankole
+- Talisman
+
+### People-Strong
+
+- Bistro Lolo
+- FYN
+
+### Mixed
+
+- Cultiva
+- Mawimbi
+
+### Confidence
+
+High
+
+### Current Learning
+
+Some hospitality stories begin with:
+
+where.
+
+Others begin with:
+
+who.
+
+Both can work.
+
+---
+
+# Story Tension
+
+## Heritage Versus Reinvention
+
+### Heritage
+
+- Talisman
+
+### Reinvention / Contemporary Authorship
+
+- Bistro Lolo
+- FYN
+
+### Confidence
+
+High
+
+### Current Learning
+
+Credibility may come from:
+
+continuity
+
+or
+
+deliberate reinvention.
+
+These should not be treated as the same narrative asset.
+
+---
+
+# Story Tension
+
+## Singular Idea Versus Narrative System
+
+### Singular-Idea Strong
+
+- Cultiva
+- Mawimbi
+
+### Narrative-System Strong
+
+- Bistro Lolo
+- FYN
+
+### Mixed
+
+- Ankole
+- Talisman
+
+### Confidence
+
+High
+
+### Current Learning
+
+This tension is now strong enough to require abstraction of:
+
+`One Idea Can Organise the Brand Story`.
+
+The deeper behaviour is:
+
+Coherent Organising Logic.
+
+---
+
+# Story Tension
+
+## Local Identity Versus International Influence
+
+### Strongest Evidence
+
+- FYN
+
+### Confidence
+
+High
+
+### Observation
+
+FYN combines:
+
+modern African cuisine
+
+with
+
+Japanese culinary philosophy.
+
+### Current Learning
+
+International influence does not automatically weaken local identity.
+
+The key question is how the influence relates to:
+
+- place
+- ingredients
+- technique
+- authorship
+
+---
+
+# Story Tension
+
+## Place Versus Technique
+
+### Strongest Evidence
+
+- FYN
+
+### Comparative Relevance
+
+- Cultiva
+
+### Confidence
+
+High
+
+### Current Learning
+
+Restaurant identity may emerge from both:
+
+where the product comes from
+
+and
+
+how it is transformed.
+
+Strong storytelling may need to connect both.
+
+---
+
+# Story Tension
+
+## Chef Authority Versus Team Authorship
+
+### Strongest Evidence
+
+- FYN
+
+### Confidence
+
+High
+
+### Current Learning
+
+A strong chef-founder narrative does not require erasing the wider team.
+
+Hospitality authorship may be collective.
+
+---
+
+# Story Tension
+
+## Mystery Versus Explanation
+
+### Strongest Evidence
+
+- FYN
+- Mawimbi
+
+### Confidence
+
+High
+
+### Current Learning
+
+The restaurant should explain enough meaning for confidence without eliminating every element of discovery.
+
+This is particularly relevant to:
+
+- tasting menus
+- destination dining
+- immersive hospitality
+
+---
+
+# Story Tension
+
+## World Versus Biography
+
+### World-First
+
+- Cultiva
+- Mawimbi
+
+### Integrated
+
+- Bistro Lolo
+- FYN
+
+### Confidence
+
+Medium to High
+
+### Current Learning
+
+Biography should appear when it helps explain:
+
+- worldview
+- expertise
+- place
+- product
+- hospitality intention
+
+Sequence should remain context-dependent.
+
+---
+
+# Story Tension
+
+## Narrative Language Versus Interface Clarity
+
+### Strong Narrative Language
+
+- Mawimbi
+- FYN
+
+### Strong Conventional Clarity
+
+- Bistro Lolo
+
+### Confidence
+
+High
+
+### Current Learning
+
+Narrative language works best when it enriches meaning without forcing the guest to decode basic navigation.
+
+---
+
+# Geographic Transferability
+
+FYN provides the first story case outside Nairobi.
+
+It strongly strengthens geographic transferability for:
+
+## Story Before Features
+
+and
+
+## Story Through Place.
+
+It also creates important geographically distinct evidence for:
+
+- worldview
+- culinary philosophy
+- expertise
+- contemporary authorship
+
+However, one non-Nairobi restaurant is not enough for broad geographic validation.
+
+The correct conclusion is:
+
+Several story behaviours survive market change.
+
+Their expression changes substantially.
+
+---
+
+# Current Story Pattern Position
+
+## Emerging — Strong
+
+### Story Before Features
 
 Confidence:
 
 High
 
-Broaden interpretation beyond explicit narrative participation to include social and philosophical participation.
+---
+
+### Story Through Place
+
+Confidence:
+
+High
 
 ---
 
-## Heritage Builds Confidence
+### The Guest as Participant
 
-Keep:
+Confidence:
 
-Candidate
+High
+
+Review:
+
+Broaden participation definition.
+
+---
+
+# Emerging — Recommended Abstraction Change
+
+### One Idea Can Organise the Brand Story
+
+Current Status:
+
+Emerging
+
+Recommended New Name:
+
+`Narrative Coherence Through Organising Logic`
+
+Recommended Status:
+
+Emerging
+
+Confidence:
+
+High in underlying behaviour.
+
+### Reason
+
+The literal:
+
+One Idea
+
+claim is no longer supported across the full independent set.
+
+The deeper pattern survives.
+
+### Evidence
+
+Singular logic:
+
+- Cultiva
+- Mawimbi
+
+Multi-element coherent logic:
+
+- Bistro Lolo
+- FYN
+
+Mixed support:
+
+- Ankole
+- Talisman
+
+### Recommendation
+
+Rename during governance reconciliation.
+
+Do not treat this as a promotion or demotion.
+
+It is a refinement of abstraction.
+
+---
+
+# Candidate — Keep
+
+### Heritage Builds Confidence
 
 Confidence:
 
 Medium
 
-Clarify the distinction between:
+Scope:
 
-- business heritage
-- place heritage
+Narrow.
 
 ---
 
-## Growth as Narrative
-
-Keep:
-
-Candidate
+### Growth as Narrative
 
 Confidence:
 
 Low to Medium
 
-No promotion.
+Review:
+
+Possible future demotion.
 
 ---
 
-## World Before Biography
-
-Keep:
-
-Candidate
+### World Before Biography
 
 Confidence:
 
 Low to Medium
 
-Scope remains uncertain.
+Review:
+
+Strong scope pressure.
 
 ---
 
-## Narrative Language as Interface
-
-Keep:
-
-Candidate
+### Narrative Language as Interface
 
 Confidence:
 
 Low to Medium
 
-No promotion.
+Review:
 
-Treat as optional rather than universal.
-
----
-
-# No Validated Promotion
-
-No story pattern becomes Validated after this comparison.
-
-Five independent restaurants increase confidence but do not by themselves satisfy broader validation requirements.
-
-Further research should include:
-
-- more geographic diversity
-- more founder-led brands
-- more heritage restaurants
-- more restaurant groups
-- more chef-led concepts
-- simpler brands with very little explicit story
-- guest behaviour and qualitative testing where available
-
-Highest appropriate research-derived status remains:
-
-Emerging
+Strong scope pressure.
 
 ---
 
-# Governance Recommendations From Story
+# Candidate Watch
 
-## Story Before Features
+## Expertise as Credibility
 
-Keep:
+Current Status:
 
-Emerging
-
-Refine interpretation around meaning before pure functionality, not long-form story before features.
-
----
-
-## Story Through Place
-
-Keep:
-
-Emerging
+Observed Research Direction
 
 Confidence:
 
-High.
+Medium
 
-No maturity change.
+Recommendation:
 
----
+Keep below Candidate for now.
 
-## One Idea Can Organise the Brand Story
-
-Keep:
-
-Emerging
-
-Flag for abstraction review.
-
-Current evidence suggests:
-
-one idea
-
-is one form of:
-
-organising logic.
+More independent expertise-led cases needed.
 
 ---
 
-## The Guest as Participant
+## Culinary Philosophy as Story
 
-Keep:
+Current Status:
 
-Emerging
+Observed Research Direction
 
-Broaden interpretation to include:
+Confidence:
 
-- conceptual participation
-- philosophical participation
-- social participation
+Medium to High
 
----
+Recommendation:
 
-## Heritage Builds Confidence
+Strong Candidate Watch.
 
-Keep:
-
-Candidate
-
-Add distinction:
-
-Business Heritage
-
-versus
-
-Place Heritage.
+Do not promote until additional chef-led or philosophy-led cases are studied.
 
 ---
 
-## Growth as Narrative
+# Do Not Split Story Through Place
 
-Keep:
+`Culinary Geography as Story`
 
-Candidate
+should remain below Candidate.
 
-No change.
+Reason:
 
----
+Current evidence suggests it may be a mechanism inside:
 
-## World Before Biography
+`Story Through Place`.
 
-Keep:
-
-Candidate
-
-Flag for scope review.
+Creating both patterns now would likely produce unnecessary duplication.
 
 ---
 
-## Narrative Language as Interface
+# Governance Recommendation From Story Comparison
 
-Keep:
+The story layer produces one major canonical change:
 
-Candidate
+## Rename
 
-Clarify that custom vocabulary must justify its clarity cost.
+`One Idea Can Organise the Brand Story`
+
+to
+
+`Narrative Coherence Through Organising Logic`
+
+### Why
+
+The current six-restaurant evidence supports:
+
+coherence
+
+but not universally:
+
+one idea.
+
+This change preserves the underlying insight while removing an increasingly unsupported literal constraint.
 
 ---
 
-# Final Story Knowledge Statement
+# No Story Promotion To Validated
 
-The five independent restaurants now demonstrate that hospitality storytelling does not have one correct form.
+No story pattern becomes Validated after six independent restaurants.
 
-Ankole tells story through place.
+The evidence base still lacks sufficient:
 
-Cultiva tells story through worldview.
+- geographic breadth
+- category breadth
+- guest comprehension research
+- conversion evidence
+- mobile-specific analysis
+- cross-cultural validation
 
-Talisman tells story through heritage.
+The highest appropriate research-derived status remains:
 
-Mawimbi tells story through concept.
+Emerging.
 
-Bistro Lolo tells story through people, place, reinterpretation, and social belonging.
+---
 
-What survives is not narrative format.
+# Working Story Principle
 
-It is meaning.
+The six-restaurant comparison increasingly suggests:
 
-Strong hospitality story helps the guest understand:
+> Restaurant story is not an About section.
 
-Why this place exists
-
-↓
-
-What makes it distinct
-
-↓
-
-What proves that identity
-
-↓
-
-Where the guest belongs inside it
-
-Bistro Lolo gives KHDS several important corrections.
-
-First:
-
-Story does not need to live entirely on the restaurant page.
-
-It can be distributed across a wider hospitality ecosystem.
-
-Second:
-
-Brand coherence does not necessarily require one dominant organising idea.
-
-Several tightly aligned values may create equivalent coherence.
-
-Third:
-
-Narrative immersion does not require unconventional interface language.
-
-Distinctive copy can coexist with conventional navigation.
-
-Fourth:
-
-Place can carry inherited meaning even when the restaurant itself is new.
-
-That strengthens Story Through Place while creating a useful distinction between:
-
-Restaurant Heritage
-
-and
-
-Place Heritage.
-
-The strongest current KHDS story logic is therefore:
+The stronger model is:
 
 Meaning
 
@@ -2056,55 +1839,365 @@ Evidence
 
 ↓
 
-Participation
+Guest Understanding
 
 ↓
 
-Action
+Participation
 
-That is broad enough to accommodate all five restaurants without forcing them into the same storytelling style.
+Meaning may come from:
 
----
+- place
+- history
+- worldview
+- concept
+- people
+- ecology
+- product
+- philosophy
+- expertise
+- architecture
 
-## Comparison Status
+The transferable requirement is not:
 
-Story Comparison Updated After Bistro Lolo
+one storytelling format.
 
-Independent Restaurants Compared:
+It is:
 
-5
-
-Highest Research-Derived Status:
-
-Emerging
-
-Validated Research-Derived Patterns:
-
-0
-
-Full Bistro Lolo Comparison Pass:
-
-Complete
+coherent meaning.
 
 ---
 
-## Next Step
+# Commercial Implications
 
-The full five-dimension comparison pass is now complete.
+The comparison suggests that Kodawa Labs should not write every restaurant website story using:
 
-Reconcile, in this order:
+Founder
 
-1. `validation/candidate-patterns.md`
-2. `patterns/registry.md`
-3. `validation/dashboard.md`
+↓
 
-The reconciliation should now decide:
+History
 
-- whether `Atmosphere as Product` moves from Candidate to Emerging
-- how `Promise Before Proof` should be scoped
-- whether `One Idea Can Organise the Brand Story` needs a future abstraction review
-- how `Human Confirmation as Hospitality` should be narrowed
-- whether `Atmosphere Through Worldview` should remain under review for a broader abstraction
-- whether `Dual-Path Hospitality` should be flagged for eventual multi-intent refinement
+↓
 
-Do not mark any research-derived pattern Validated.
+Mission
+
+↓
+
+Menu.
+
+Different hospitality models require different narrative architecture.
+
+---
+
+# Story Architecture Type
+
+## Place-Led
+
+Example:
+
+Ankole
+
+Possible digital priorities:
+
+- location
+- environment
+- architecture
+- sensory identity
+- place photography
+
+---
+
+## Worldview-Led
+
+Example:
+
+Cultiva
+
+Possible priorities:
+
+- philosophy
+- process
+- ingredients
+- proof
+- values translated into product
+
+---
+
+## Heritage-Led
+
+Example:
+
+Talisman
+
+Possible priorities:
+
+- timeline
+- place continuity
+- reputation
+- historical proof
+- present-day relevance
+
+---
+
+## Concept-Led
+
+Example:
+
+Mawimbi
+
+Possible priorities:
+
+- central idea
+- immersive language
+- atmosphere
+- product
+- guest participation
+
+---
+
+## People + Place-Led
+
+Example:
+
+Bistro Lolo
+
+Possible priorities:
+
+- founders
+- architecture
+- neighbourhood
+- social rhythm
+- reinterpretation
+
+---
+
+## Philosophy + Authorship-Led
+
+Example:
+
+FYN
+
+Possible priorities:
+
+- ecology
+- culinary philosophy
+- people
+- ingredients
+- technique
+- product
+- place
+
+---
+
+# Opportunity Direction
+
+## Narrative Architecture Engine
+
+A future KHDS system may eventually determine:
+
+What Creates Meaning Here?
+
+↓
+
+Which Narrative Model Fits?
+
+↓
+
+What Evidence Exists?
+
+↓
+
+Which Story Structure Should Be Used?
+
+Potential inputs:
+
+- restaurant history
+- location
+- founder story
+- culinary philosophy
+- sourcing
+- architecture
+- community
+- concept
+- team
+- ingredient geography
+
+Potential outputs:
+
+- story hierarchy
+- section order
+- photography brief
+- menu narrative
+- team visibility
+- reservation context
+
+### Status
+
+Potential Kodawa Labs Solution Direction
+
+Not a KHDS pattern.
+
+---
+
+# Opportunity Direction
+
+## Expertise-to-Experience Storytelling
+
+FYN creates a useful commercial direction.
+
+Possible model:
+
+Person
+
+↓
+
+Expertise
+
+↓
+
+Responsibility
+
+↓
+
+Product / Service Decision
+
+↓
+
+Guest Outcome
+
+This could be useful for:
+
+- chef-led restaurants
+- sommeliers
+- mixologists
+- hospitality groups
+- tasting-menu restaurants
+
+### Status
+
+Potential Kodawa Labs Solution Direction
+
+---
+
+# Opportunity Direction
+
+## Place-to-Plate Story System
+
+Repeated evidence across:
+
+- Cultiva
+- FYN
+- Bistro Lolo
+- Ankole
+
+suggests a possible digital storytelling system:
+
+Place
+
+↓
+
+Ingredient
+
+↓
+
+Process / Technique
+
+↓
+
+Dish
+
+↓
+
+Guest Meaning
+
+This could support:
+
+- sourcing
+- local identity
+- regional differentiation
+- food storytelling
+- photography planning
+
+### Status
+
+Potential Kodawa Labs Solution Direction
+
+---
+
+# Final Story Comparison
+
+FYN gives the story layer its clearest reason yet to separate:
+
+narrative coherence
+
+from
+
+narrative singularity.
+
+Cultiva and Mawimbi demonstrate that one strong idea can organise a restaurant exceptionally well.
+
+Bistro Lolo and FYN demonstrate something equally important:
+
+A restaurant can remain highly coherent while several ideas work together.
+
+FYN’s story includes:
+
+- Cape ecology
+- African identity
+- Japanese culinary philosophy
+- restraint
+- land and sea
+- expertise
+- collaboration
+
+No one element alone fully explains the restaurant.
+
+Yet those ideas are not random.
+
+They reinforce one another.
+
+That means the current pattern:
+
+`One Idea Can Organise the Brand Story`
+
+has reached the point where its literal wording is weaker than the evidence underneath it.
+
+The underlying insight survives.
+
+The better abstraction is:
+
+`Narrative Coherence Through Organising Logic`.
+
+That should be the major story-layer governance change from the FYN cycle.
+
+FYN also strengthens:
+
+`Story Through Place`
+
+by demonstrating that place can be:
+
+ecological
+
+and
+
+culinary
+
+rather than only architectural or historical.
+
+It gives `Heritage Builds Confidence` useful negative evidence by demonstrating that contemporary authority can come from:
+
+- expertise
+- philosophy
+- authorship
+- craft
+
+instead of longevity.
+
+And it keeps `World Before Biography` under pressure by showing that people may help explain the world rather than merely appearing after it.
+
+No story pattern becomes Validated.
+
+The story system becomes less literal and more transferable.
+
+Evidence wins.

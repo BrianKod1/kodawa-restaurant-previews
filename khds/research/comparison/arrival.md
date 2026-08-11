@@ -2,143 +2,52 @@
 
 ## Purpose
 
-Compare how the current independent restaurant research set introduces the guest to the hospitality experience.
+Compare how independent restaurants introduce the guest to the hospitality experience.
 
-This file does not look for one correct homepage formula.
+This file tracks:
 
-It asks:
+- recurring arrival behaviours
+- contradictory arrival models
+- pattern transferability
+- scope boundaries
+- geographic variation
+- candidate maturity
+- new research directions
 
-- what each restaurant makes the guest feel first
-- what creates confidence
-- how meaning is introduced
-- how action becomes available
-- which KHDS patterns survive across different arrival models
-- where contradictory evidence creates useful boundaries
+The goal is not to identify one ideal homepage sequence.
 
-Current independent research set:
+The goal is to determine which arrival behaviours survive across substantially different hospitality models.
+
+---
+
+# Independent Research Set
+
+Current independent restaurants compared:
 
 1. Ankole
 2. Cultiva
 3. Talisman
 4. Mawimbi
 5. Bistro Lolo
-
-Kodawa Labs validation concepts are excluded from independent evidence.
+6. FYN
 
 ---
 
-# Current Comparison Position
-
-The five restaurants now present five meaningfully different arrival models.
+# Arrival Models
 
 ## Ankole
 
-Arrival through:
+### Primary Character
 
-- place
-- refinement
-- visual atmosphere
+Place and refinement.
 
-Primary effect:
+### Working Arrival Logic
 
-The guest understands that the restaurant belongs to a polished and distinctive physical environment.
+Place
 
----
+↓
 
-## Cultiva
-
-Arrival through:
-
-- worldview
-- emotional promise
-- cultivation
-- philosophy
-
-Primary effect:
-
-The guest understands what the restaurant believes before fully evaluating the practical offer.
-
----
-
-## Talisman
-
-Arrival through:
-
-- food
-- heritage
-- place
-- ambience
-
-Primary effect:
-
-The guest moves from appetite into historical credibility and then toward the physical dining experience.
-
----
-
-## Mawimbi
-
-Arrival through:
-
-- aspiration
-- seafood
-- luxury
-- atmosphere
-- concept
-- reservation
-
-Primary effect:
-
-The guest is invited into a premium experiential world before the full product and operational detail is explained.
-
----
-
-## Bistro Lolo
-
-Arrival through:
-
-- familiarity
-- neighbourhood belonging
-- social rhythm
-- place
-- everyday use
-
-Primary effect:
-
-The guest is encouraged to imagine themselves naturally spending time there rather than entering an exclusive or highly ceremonial destination.
-
----
-
-# Arrival Model Comparison
-
-| Restaurant | Primary Entry | Secondary Evidence | Emotional Character | Action Model |
-|---|---|---|---|---|
-| Ankole | Place | Refinement, atmosphere | Calm, polished, desirable | Reserve / explore |
-| Cultiva | Worldview | Food, process, philosophy | Purposeful, thoughtful | Explore / reserve |
-| Talisman | Food | Heritage, place, ambience | Established, rich, credible | Explore / reserve |
-| Mawimbi | Promise | Product, atmosphere, concept | Aspirational, immersive | Reserve / explore |
-| Bistro Lolo | Belonging | Place, rhythm, social use | Familiar, relaxed, social | Walk in / reserve / explore |
-
-The comparison shows that there is no single correct hospitality arrival sequence.
-
-The first meaningful signal may be:
-
-- place
-- worldview
-- product
-- promise
-- belonging
-
-What matters is what happens after that signal.
-
----
-
-# Shared Arrival Behaviour
-
-Across all five restaurants, the strongest transferable behaviour is not one fixed hero structure.
-
-It is:
-
-Meaning
+Refinement
 
 ↓
 
@@ -146,182 +55,53 @@ Confidence
 
 ↓
 
-Participation
+Action
 
-The route to meaning differs.
+### Key Behaviour
 
-The route to participation also differs.
-
-This suggests KHDS should standardise the purpose of arrival rather than its visual order.
+The guest encounters a polished physical identity and atmosphere before moving toward practical participation.
 
 ---
 
-# Emerging Pattern Review
+## Cultiva
 
-## Emotion Before Interface
+### Primary Character
 
-### Ankole
+Worldview and promise.
 
-Supported through refinement, imagery, and place.
+### Working Arrival Logic
 
-### Cultiva
+Worldview
 
-Supported through emotional promise and worldview.
+↓
 
-### Talisman
+Meaning
 
-Supported through appetite, history, and ambience.
+↓
 
-### Mawimbi
+Promise
 
-Supported through aspiration, luxury positioning, seafood, and atmosphere.
+↓
 
-### Bistro Lolo
+Evidence
 
-Supported through familiarity, ease, social imagination, and neighbourhood belonging.
+↓
 
-### Current Assessment
+Action
 
-Strongly Supported
+### Key Behaviour
 
-### Status
-
-Emerging
-
-### Confidence
-
-High
-
-### Comparison Insight
-
-Bistro Lolo materially broadens this pattern.
-
-The first four restaurants might have encouraged an overly dramatic interpretation of emotion.
-
-Bistro Lolo shows that emotional arrival can also be quiet.
-
-Emotion Before Interface therefore should not mean:
-
-Create drama before information.
-
-A stronger interpretation is:
-
-> Establish a meaningful feeling before presenting the complete functional offer.
-
-Possible feelings include:
-
-- refinement
-- curiosity
-- aspiration
-- appetite
-- comfort
-- familiarity
-- belonging
-
-This pattern survives Bistro Lolo’s stress test.
+The restaurant establishes what it believes before fully explaining the practical offer.
 
 ---
 
-# Emerging Pattern Review
+## Talisman
 
-## Promise Before Proof
+### Primary Character
 
-### Ankole
+Food, heritage, and place.
 
-Partial support.
-
-The experience creates expectation before all evidence is presented, but the promise is less explicit.
-
-### Cultiva
-
-Strong support.
-
-The brand establishes worldview and promise before full proof.
-
-### Talisman
-
-Limited support.
-
-Talisman relies more on tangible evidence such as food, place, history, and reputation.
-
-### Mawimbi
-
-Strong support.
-
-Large claims around premium seafood, luxury, atmosphere, and memorable experience precede full proof.
-
-### Bistro Lolo
-
-Boundary / contradictory evidence.
-
-The arrival appears comparatively understated.
-
-It creates desirability through:
-
-- familiarity
-- neighbourhood identity
-- everyday social scenes
-- place
-
-rather than a strong aspirational promise.
-
-### Current Assessment
-
-Supported With Meaningful Boundary Evidence
-
-### Status
-
-Emerging
-
-### Confidence
-
-Medium
-
-### Comparison Insight
-
-Promise Before Proof should not currently be treated as a universal premium-hospitality rule.
-
-The evidence suggests a likely boundary:
-
-It is more applicable when the brand is:
-
-- aspiration-led
-- transformational
-- concept-heavy
-- luxury-positioned
-
-It appears less necessary when the brand builds desire through:
-
-- familiarity
-- local belonging
-- tangible place
-- understated confidence
-
-Do not demote yet.
-
-The pattern should be reviewed for scope during governance reconciliation.
-
----
-
-# Emerging Pattern Review
-
-## Layered Arrival
-
-### Ankole
-
-Partial support.
-
-Place and refinement build progressively, but the experience is relatively restrained.
-
-### Cultiva
-
-Partial support.
-
-Promise, worldview, product, and process build understanding over time.
-
-### Talisman
-
-Strong support.
+### Working Arrival Logic
 
 Food
 
@@ -335,723 +115,25 @@ Place
 
 ↓
 
-Ambience
-
-↓
-
-Action
-
-### Mawimbi
-
-Strong support.
-
-Promise
-
-↓
-
-Luxury
-
-↓
-
-Seafood
-
-↓
-
-Atmosphere
-
-↓
-
-Events
-
-↓
-
-Reservation
-
-### Bistro Lolo
-
-Partial support.
-
-Neighbourhood
-
-↓
-
-Food
-
-↓
-
-Place
-
-↓
-
-Social Use
-
-↓
-
-Dayparts
-
-↓
-
-Participation
-
-However, the sequence feels more ambient than explicitly staged.
-
-### Current Assessment
-
-Supported
-
-### Status
-
-Emerging
-
-### Confidence
-
-Medium to High
-
-### Comparison Insight
-
-Bistro Lolo provides an important refinement.
-
-Layered Arrival does not require one carefully controlled editorial sequence.
-
-There appear to be at least two forms:
-
-## Sequential Layering
-
-The guest is intentionally moved through a visible progression.
-
-Examples:
-
-- Talisman
-- Mawimbi
-
-## Ambient Layering
-
-Meaning accumulates through several connected signals without a rigid order.
-
-Example:
-
-- Bistro Lolo
-
-The deeper pattern is therefore:
-
-> Confidence can be built progressively through multiple connected forms of meaning and evidence.
-
-The exact order is brand-dependent.
-
----
-
-# Emerging Pattern Review
-
-## Dual-Path Hospitality
-
-### Ankole
-
-Supports guests who want immediate action and those who want to explore.
-
-### Cultiva
-
-Supports story-led exploration alongside reservation access.
-
-### Talisman
-
-Supports browsing alongside table reservation.
-
-### Mawimbi
-
-Supports standard booking, direct contact, events, and group needs.
-
-### Bistro Lolo
-
-Expands the model further through:
-
-- walk-in guests
-- planned guests
-- exploring guests
-- hotel guests
-- direct-contact guests
-
-### Current Assessment
-
-Strongly Supported
-
-### Status
-
-Emerging
-
-### Confidence
-
-High
-
-### Comparison Insight
-
-The original dual-path model is becoming too simple.
-
-The evidence now suggests multiple legitimate intent states:
-
-Exploring Guest
-
-↓
-
-Discover
-
-Planned Guest
-
-↓
-
-Reserve
-
-Spontaneous Guest
-
-↓
-
-Walk In
-
-Complex Guest
-
-↓
-
-Human Assistance
-
-Hotel / Existing Guest
-
-↓
-
-Transition Into Restaurant
-
-Do not rename the pattern yet.
-
-But future KHDS work should investigate whether the deeper abstraction is:
-
-## Multi-Intent Hospitality
-
-rather than strictly Dual-Path Hospitality.
-
----
-
-# Emerging Pattern Review
-
-## Commitment Without Pressure
-
-### Ankole
-
-Supports accessible reservation without aggressive persuasion.
-
-### Cultiva
-
-Allows reservation beside story without making action dominate the experience.
-
-### Talisman
-
-Encourages advance booking without artificial urgency.
-
-### Mawimbi
-
-Keeps booking accessible while acknowledging that reservation is not always required.
-
-### Bistro Lolo
-
-Explicitly preserves:
-
-- reservation
-- direct contact
-- walk-in spontaneity
-
-### Current Assessment
-
-Strongly Supported
-
-### Status
-
-Emerging
-
-### Confidence
-
-High
-
-### Comparison Insight
-
-Bistro Lolo adds an important dimension.
-
-Commitment Without Pressure does not only mean:
-
-Do not use aggressive persuasion.
-
-It can also mean:
-
-Preserve legitimate non-commitment pathways.
-
-For Bistro Lolo:
-
-Reserve
-
-and
-
-Walk In
-
-are both valid outcomes.
-
-The pattern is therefore increasingly tied to guest autonomy.
-
----
-
-# Supporting Behaviour Review
-
-## Product as Entry Point
-
-### Talisman
-
-Strong.
-
-Food initiates desire before heritage and place expand the story.
-
-### Mawimbi
-
-Strong.
-
-Seafood remains a core category signal inside the arrival.
-
-### Bistro Lolo
-
-Partial.
-
-Food matters, but neighbourhood atmosphere and social use appear equally important.
-
-### Current Assessment
-
-Supporting Behaviour
-
-### Confidence
-
-Medium
-
-### Insight
-
-Product can lead arrival, but it is not required.
-
-It should not become a universal Candidate pattern from current evidence.
-
----
-
-# Supporting Behaviour Review
-
-## Place as Emotional Evidence
-
-### Ankole
-
-Strong.
-
-### Cultiva
-
-Partial.
-
-### Talisman
-
-Strong.
-
-### Mawimbi
-
-Partial.
-
-### Bistro Lolo
-
-Strong.
-
-### Current Assessment
-
-Supporting Behaviour
-
-### Confidence
-
-High
-
-### Insight
-
-Place repeatedly helps create confidence, but it performs different jobs.
-
-It can communicate:
-
-- refinement
-- heritage
-- atmosphere
-- belonging
-- continuity
-- design character
-
-This makes place one of the most transferable forms of arrival evidence.
-
----
-
-# Observed Research Direction
-
-## Product Claim Before Product Proof
-
-### Mawimbi
-
-Strongest example.
-
-Premium seafood claims create expectation before the complete product evidence appears.
-
-### Bistro Lolo
-
-Partial relevance.
-
-Its local-producer and French-culinary positioning creates a product expectation, but the arrival itself is less claim-heavy.
-
-### Current Assessment
-
-Observed Research Direction
-
-### Confidence
-
-Low to Medium
-
-### Next Question
-
-When a restaurant makes a specific culinary claim, how quickly must digital proof follow?
-
-Do not promote yet.
-
----
-
-# New Research Direction
-
-## Familiarity Before Aspiration
-
-### Bistro Lolo
-
-Strongest evidence.
-
-The experience appears to build desirability through:
-
-- recognition
-- social familiarity
-- neighbourhood belonging
-- easy participation
-
-rather than large premium claims.
-
-### Partial Conceptual Support
-
-Ankole and Talisman occasionally use tangible place and experience rather than exaggerated aspiration.
-
-### Current Assessment
-
-Observed Research Direction
-
-### Confidence
-
-Low
-
-### Research Question
-
-Can familiarity function as a premium signal when the environment and execution are sufficiently strong?
-
-Needs additional independent evidence.
-
----
-
-# New Research Direction
-
-## Hospitality Through Rhythm
-
-### Bistro Lolo
-
-Strongest current example.
-
-Its arrival introduces the experience through several moments:
-
-Morning
-
-↓
-
-Lunch
-
-↓
-
-Afternoon
-
-↓
-
-Drinks
-
-↓
-
-Dinner
-
-↓
-
-Weekend
-
-### Current Assessment
-
-Observed Research Direction
-
-### Confidence
-
-Low to Medium
-
-### Research Question
-
-Can temporal rhythm become a primary arrival and brand-organising mechanism for all-day hospitality?
-
-Needs confirmation from:
-
-- cafés
-- hotel restaurants
-- all-day dining
-- beach clubs
-- rooftop venues
-
----
-
-# New Research Direction
-
-## Walk-In as Arrival Signal
-
-### Bistro Lolo
-
-Strongest current example.
-
-Explicit walk-in hospitality communicates:
-
-- openness
-- spontaneity
-- local accessibility
-- reduced commitment
-
-### Current Assessment
-
-Observed Research Direction
-
-### Confidence
-
-Low to Medium
-
-### Research Question
-
-Can explicit walk-in messaging strengthen neighbourhood positioning?
-
-Do not promote yet.
-
----
-
-# Major Arrival Tension
-
-## Aspiration Versus Familiarity
-
-### Cultiva / Mawimbi
-
-Create desire partly through promise and aspiration.
-
-### Bistro Lolo
-
-Creates desire through familiarity and belonging.
-
-### Current Insight
-
-Both appear capable of supporting premium positioning.
-
-This means premium hospitality should not be equated with distance, exclusivity, or grandeur.
-
-### Status
-
-Observed Research Tension
-
-### Confidence
-
-High
-
-### Core Question
-
-When should a restaurant say:
-
-> Come experience something exceptional.
-
-and when should it say:
-
-> You will feel comfortable here.
-
----
-
-# Major Arrival Tension
-
-## Sequential Control Versus Ambient Discovery
-
-### Talisman / Mawimbi
-
-Arrival is easier to describe as a sequence.
-
-### Bistro Lolo
-
-Meaning appears more distributed and ambient.
-
-### Status
-
-Observed Research Tension
-
-### Confidence
-
-Medium
-
-### Core Question
-
-Does every premium hospitality website benefit from a tightly controlled narrative sequence?
-
-Current evidence suggests:
-
-No.
-
-The degree of sequencing should reflect the brand.
-
----
-
-# Major Arrival Tension
-
-## Reservation Optimisation Versus Spontaneity
-
-### Most Previous Restaurants
-
-Reservation is one of the clearest conversion outcomes.
-
-### Bistro Lolo
-
-Walk-in participation is also part of the brand proposition.
-
-### Status
-
-Observed Research Tension
-
-### Confidence
-
-High
-
-### Core Question
-
-Should every hospitality arrival optimise toward reservation?
-
-Current evidence suggests:
-
-No.
-
-Some brands may lose character if spontaneous participation is treated as inferior conversion.
-
----
-
-# Major Arrival Tension
-
-## Escape Versus Belonging
-
-### Mawimbi
-
-Arrival helps move the guest toward an alternate experiential world.
-
-### Bistro Lolo
-
-Arrival appears to deepen the guest’s connection with Nairobi and neighbourhood life.
-
-### Status
-
-Observed Research Tension
-
-### Confidence
-
-High
-
-### Current Insight
-
-Strong hospitality can either:
-
-Transport
-
-or
-
-Anchor.
-
-Neither appears inherently superior.
-
-This distinction should continue into atmosphere research.
-
----
-
-# Cross-Restaurant Arrival Logic
-
-The current five-restaurant set suggests several valid models.
-
-## Model A — Place-Led Arrival
-
-Example:
-
-Ankole
-
-Place
-
-↓
-
-Feeling
-
-↓
-
 Confidence
 
 ↓
 
 Action
 
----
+### Key Behaviour
 
-## Model B — Worldview-Led Arrival
-
-Example:
-
-Cultiva
-
-Belief
-
-↓
-
-Meaning
-
-↓
-
-Evidence
-
-↓
-
-Action
+The guest is introduced through several connected layers rather than one dominant idea.
 
 ---
 
-## Model C — Product + Heritage Arrival
+## Mawimbi
 
-Example:
+### Primary Character
 
-Talisman
+Aspiration, product, atmosphere, and occasion.
 
-Appetite
-
-↓
-
-History
-
-↓
-
-Place
-
-↓
-
-Confidence
-
-↓
-
-Action
-
----
-
-## Model D — Aspirational Experience Arrival
-
-Example:
-
-Mawimbi
+### Working Arrival Logic
 
 Promise
 
@@ -1071,13 +153,19 @@ Participation
 
 Action
 
+### Key Behaviour
+
+The guest is drawn into a premium experiential world before commitment.
+
 ---
 
-## Model E — Belonging-Led Arrival
+## Bistro Lolo
 
-Example:
+### Primary Character
 
-Bistro Lolo
+Familiarity, social rhythm, and belonging.
+
+### Working Arrival Logic
 
 Recognition
 
@@ -1097,124 +185,29 @@ Participation
 
 Action
 
+### Key Behaviour
+
+The guest is welcomed through ease and belonging rather than strong aspiration or ceremony.
+
 ---
 
-# Current Arrival Principle
+## FYN
 
-The evidence does not support one universal content sequence.
+### Primary Character
 
-The strongest transferable logic is:
+Authority, structure, evidence, and commitment.
 
-## Create Meaning
+### Working Arrival Logic
 
-The guest understands what kind of experience this is.
+Curiosity
 
 ↓
 
-## Build Confidence
-
-The guest receives enough emotional or tangible evidence to believe the experience is worth considering.
+Authority
 
 ↓
 
-## Enable Participation
-
-The guest can:
-
-- reserve
-- explore
-- walk in
-- contact
-- continue discovering
-
-depending on intent.
-
-This logic is more defensible than prescribing one hero, one CTA structure, or one narrative order.
-
----
-
-# KHDS Implementation Implication
-
-KHDS should standardise:
-
-- arrival purpose
-- clarity of emotional direction
-- confidence-building
-- accessible participation
-- brand coherence
-
-KHDS should not standardise:
-
-- one hero layout
-- one order of sections
-- one emotional tone
-- one level of aspiration
-- one booking model
-- one content density
-- one narrative pacing strategy
-
-Restaurant identity should determine those expressions.
-
----
-
-# Arrival Opportunity Themes
-
-The comparison strengthens several commercially relevant opportunities.
-
----
-
-## Intent-Aware Arrival
-
-Restaurants increasingly appear to have guests with different levels of intent.
-
-Potential Direction:
-
-Guest Intent
-
-↓
-
-Relevant Path
-
-Possible paths:
-
-- explore
-- reserve
-- walk in
-- event inquiry
-- group booking
-- hotel transition
-
----
-
-## Daypart-Aware Arrival
-
-Bistro Lolo introduces the possibility that all-day venues could adapt arrival around time.
-
-Example:
-
-Morning
-
-↓
-
-Coffee / Breakfast
-
-Evening
-
-↓
-
-Dinner / Drinks
-
-This remains a solution hypothesis.
-
----
-
-## Product Proof After Premium Claims
-
-Mawimbi strengthens the need to connect aspiration to evidence.
-
-Potential Journey:
-
-Claim
+Structure
 
 ↓
 
@@ -1222,190 +215,23 @@ Evidence
 
 ↓
 
-Confidence
+Commitment
 
 ↓
 
-Action
+Anticipation
+
+### Key Behaviour
+
+The guest is introduced not only to desire, but also to the conditions of participation.
 
 ---
 
-## Place-Led Differentiation
+# Shared Arrival Finding
 
-Ankole, Talisman, and Bistro Lolo all suggest that restaurants with distinctive physical environments may have underused digital differentiation assets.
+Across all six restaurants, the exact sequence differs.
 
-Potential Direction:
-
-Place
-
-↓
-
-Meaning
-
-↓
-
-Proof
-
-↓
-
-Experience
-
-↓
-
-Visit
-
----
-
-# Pattern Effects After Bistro Lolo Arrival Comparison
-
-## Strongly Supported
-
-- Emotion Before Interface
-- Dual-Path Hospitality
-- Commitment Without Pressure
-
-## Supported With Refinement
-
-- Layered Arrival
-
-## Boundary / Scope Review Required
-
-- Promise Before Proof
-
-## Supporting Behaviours Strengthened
-
-- Place as Emotional Evidence
-- Product as Entry Point
-
-## Research Directions Strengthened or Introduced
-
-- Product Claim Before Product Proof
-- Familiarity Before Aspiration
-- Hospitality Through Rhythm
-- Walk-In as Arrival Signal
-
-## Major Tensions
-
-- Aspiration Versus Familiarity
-- Sequential Control Versus Ambient Discovery
-- Reservation Optimisation Versus Spontaneity
-- Escape Versus Belonging
-
----
-
-# Promotion Assessment
-
-## No Pattern Becomes Validated From This Comparison
-
-Bistro Lolo increases the independent restaurant set to five.
-
-That does not automatically satisfy KHDS validation requirements.
-
-Restaurant count is only one factor.
-
-The current evidence still requires:
-
-- broader category diversity
-- geographic diversity
-- more contradictory examples
-- additional reservation models
-- mobile-specific validation
-- implementation evidence
-- behavioural evidence where possible
-
-Highest appropriate research-derived status remains:
-
-Emerging
-
----
-
-# Governance Recommendations From Arrival
-
-## Emotion Before Interface
-
-Keep:
-
-Emerging
-
-Confidence:
-
-High
-
-Definition should eventually reflect quiet emotion as well as aspirational emotion.
-
----
-
-## Promise Before Proof
-
-Keep:
-
-Emerging
-
-But mark for scope review.
-
-Potential future qualification:
-
-Most applicable to aspiration-led or claim-led hospitality.
-
-Do not rename yet.
-
----
-
-## Layered Arrival
-
-Keep:
-
-Emerging
-
-Refine interpretation toward progressive confidence rather than fixed sequencing.
-
----
-
-## Dual-Path Hospitality
-
-Keep:
-
-Emerging
-
-Mark for future abstraction review because Bistro Lolo suggests more than two guest-intent states.
-
-Do not rename yet.
-
----
-
-## Commitment Without Pressure
-
-Keep:
-
-Emerging
-
-Confidence:
-
-High
-
-Bistro Lolo strengthens the connection between this pattern and guest autonomy.
-
----
-
-# Final Arrival Knowledge Statement
-
-The five independent restaurants now demonstrate that premium hospitality does not have one correct arrival formula.
-
-Ankole creates desire through place.
-
-Cultiva creates desire through worldview.
-
-Talisman creates desire through food, heritage, and place.
-
-Mawimbi creates desire through aspiration, product, and experiential atmosphere.
-
-Bistro Lolo creates desire through familiarity, social rhythm, and belonging.
-
-Despite these differences, one behaviour survives:
-
-The guest is given a reason to care before being reduced to a transaction.
-
-The strongest current KHDS arrival logic is therefore:
+The deeper recurring behaviour remains:
 
 Meaning
 
@@ -1417,50 +243,1325 @@ Confidence
 
 Participation
 
-But Bistro Lolo adds an important correction.
+FYN introduces an important extension for high-commitment hospitality:
 
-Meaning does not always need to be dramatic.
+Meaning
 
-Confidence does not always need to come from prestige.
+↓
 
-Participation does not always need to mean reservation.
+Confidence
 
-Sometimes the arrival succeeds when the guest simply thinks:
+↓
 
-> I understand this place.
->
-> I can imagine myself here.
->
-> I know what I can do next.
+Expectation Clarity
 
-That is a more defensible arrival principle than any fixed homepage sequence.
+↓
+
+Commitment
+
+↓
+
+Participation
+
+This should remain a working model rather than a formal KHDS pattern.
 
 ---
 
-## Comparison Status
+# Pattern Review
 
-Arrival Comparison Updated After Bistro Lolo
+## Emotion Before Interface
 
-Independent Restaurants Compared:
-
-5
-
-Highest Research-Derived Status:
+### Current Status
 
 Emerging
 
-Validated Research-Derived Patterns:
+### Evidence
 
-0
+Strongly supported across:
+
+- Ankole
+- Cultiva
+- Talisman
+- Mawimbi
+- Bistro Lolo
+- FYN
+
+### Confidence
+
+High
+
+### Cross-Restaurant Effect
+
+Strongly Supported
+
+### Current Interpretation
+
+A hospitality experience should establish a meaningful emotional orientation before the guest is asked to process the complete functional offer.
+
+Observed emotional states include:
+
+- refinement
+- curiosity
+- appetite
+- aspiration
+- comfort
+- familiarity
+- belonging
+- precision
+- anticipation
+- authority
+
+### FYN Effect
+
+FYN adds important geographic and emotional variation.
+
+It shows that Emotion Before Interface does not require:
+
+- warmth
+- friendliness
+- familiarity
+- dramatic imagery
+
+The initial emotion may instead be:
+
+- control
+- anticipation
+- curiosity
+- precision
+
+### Geographic Transferability
+
+Strengthened.
+
+FYN is the first current independent case outside Nairobi.
+
+### Recommendation
+
+Keep Emerging.
+
+Increase confidence in transferability.
+
+No promotion to Validated.
 
 ---
 
-## Next Step
+# Pattern Review
 
-Update:
+## Story Before Features
 
-`comparison/atmosphere.md`
+### Current Status
 
-Do not update the Pattern Registry yet.
+Emerging
 
-The complete five-dimension comparison pass should be finished before any official maturity or naming changes are made.
+### Evidence
+
+Supported across all six restaurants.
+
+### Confidence
+
+High
+
+### Cross-Restaurant Effect
+
+Strongly Supported
+
+### Current Interpretation
+
+The guest should understand enough meaning to recognise what kind of hospitality experience they are entering before the experience becomes purely functional.
+
+Story may be:
+
+- explicit
+- implicit
+- spatial
+- inherited
+- philosophical
+- historical
+- conceptual
+- biographical
+- behavioural
+- product-embedded
+
+### FYN Effect
+
+FYN shows that story may live directly inside:
+
+- menu structure
+- ingredient language
+- culinary philosophy
+- geographic references
+
+### Recommendation
+
+Keep Emerging.
+
+No maturity change.
+
+---
+
+# Pattern Review
+
+## Promise Before Proof
+
+### Current Status
+
+Emerging
+
+### Strong Evidence
+
+- Cultiva
+- Mawimbi
+
+### Partial Support
+
+- Ankole
+- FYN
+
+### Boundary Evidence
+
+- Bistro Lolo
+
+### Confidence
+
+Medium to High
+
+### Cross-Restaurant Effect
+
+Supported With Meaningful Boundary
+
+### Current Interpretation
+
+Aspiration-led or concept-heavy hospitality may establish a promise before supplying complete evidence.
+
+However, the useful question is increasingly:
+
+> How far apart should promise and proof be?
+
+### FYN Effect
+
+FYN makes a sophisticated promise but appears to bring product evidence relatively close through:
+
+- detailed menu architecture
+- ingredient language
+- geographic framing
+
+This reduces the gap between claim and substantiation.
+
+### Current Scope
+
+Likely strongest in:
+
+- aspirational hospitality
+- luxury hospitality
+- concept-led restaurants
+- transformation-led experiences
+- high-authority chef-led brands
+
+Less necessary in hospitality led through:
+
+- familiarity
+- belonging
+- neighbourhood ease
+
+### Recommendation
+
+Keep Emerging.
+
+Refine scope during governance.
+
+Do not demote.
+
+---
+
+# Pattern Review
+
+## Layered Arrival
+
+### Current Status
+
+Emerging
+
+### Strong Evidence
+
+- Talisman
+- Mawimbi
+- FYN
+
+### Partial Support
+
+- Ankole
+- Cultiva
+- Bistro Lolo
+
+### Confidence
+
+High
+
+### Cross-Restaurant Effect
+
+Strongly Supported
+
+### Current Interpretation
+
+Hospitality arrival can progressively build confidence through multiple connected forms of meaning, evidence, and action.
+
+Layering may be:
+
+## Sequential
+
+Clear progression between content states.
+
+or
+
+## Ambient
+
+Several signals reinforcing one another without rigid section order.
+
+### FYN Effect
+
+FYN introduces another important layer:
+
+## Operational Structure
+
+The arrival may include:
+
+- booking expectations
+- commitment
+- policies
+- participation conditions
+
+without becoming purely transactional.
+
+### Current Learning
+
+Layered Arrival should not prescribe:
+
+Hero
+
+↓
+
+Story
+
+↓
+
+Gallery
+
+↓
+
+Reservation
+
+The transferable principle is progressive confidence-building.
+
+### Recommendation
+
+Keep Emerging.
+
+Confidence increases from Medium-High to High.
+
+No validation yet.
+
+---
+
+# Pattern Review
+
+## Dual-Path Hospitality
+
+### Current Status
+
+Emerging
+
+### Evidence
+
+Observed across all six restaurants.
+
+### Confidence
+
+High
+
+### Cross-Restaurant Effect
+
+Strongly Supported With Abstraction Pressure
+
+### Current Problem
+
+The term:
+
+Dual-Path
+
+has become increasingly literal.
+
+The current research contains guest states including:
+
+- exploring
+- ready to book
+- spontaneous
+- planned
+- complex
+- event-oriented
+- hotel guest
+- solo diner
+- dietary-specific diner
+- high-commitment diner
+
+### Bistro Lolo Effect
+
+Showed flexible participation through:
+
+- walk-in
+- self-service
+- direct human contact
+
+### FYN Effect
+
+Shows structured variation rather than broad flexibility.
+
+Examples include:
+
+- standard online reservation
+- plant-based experience
+- pescatarian experience
+- solo diner exception
+- high-commitment booking
+
+### Deeper Behaviour
+
+Different legitimate guest situations should receive an appropriate route to participation.
+
+### Possible Future Abstraction
+
+`Multi-Intent Hospitality`
+
+### Recommendation
+
+Keep Emerging.
+
+Flag for strong abstraction review during governance.
+
+Do not rename yet.
+
+---
+
+# Pattern Review
+
+## Commitment Without Pressure
+
+### Current Status
+
+Emerging
+
+### Evidence
+
+Supported across all six restaurants.
+
+### Confidence
+
+High
+
+### Cross-Restaurant Effect
+
+Strongly Supported With Major Definition Refinement
+
+### Previous Interpretation
+
+Make participation clear while preserving guest autonomy.
+
+### FYN Challenge
+
+FYN requires:
+
+- deposit
+- cancellation consequences
+- defined seating windows
+- behavioural expectations
+
+This is the highest visible commitment level in the current research set.
+
+### Important Distinction
+
+## Commitment
+
+A real condition attached to participation.
+
+versus
+
+## Pressure
+
+Artificial persuasion designed to force the guest to act.
+
+### Current Interpretation
+
+A hospitality experience may require meaningful commitment while still avoiding manipulative pressure when:
+
+- expectations are visible
+- consequences are understandable
+- requirements are proportionate to the experience
+- the guest chooses knowingly
+
+### Key Learning
+
+Commitment Without Pressure does not mean:
+
+Minimise commitment.
+
+It means:
+
+Do not manufacture pressure around legitimate commitment.
+
+### Recommendation
+
+Keep Emerging.
+
+Canonical definition should be refined after the full comparison cycle.
+
+This is one of the strongest FYN contributions.
+
+---
+
+# Supporting Arrival Behaviour
+
+## Product as Entry Point
+
+### Evidence
+
+Strongest:
+
+- Talisman
+- Mawimbi
+- FYN
+
+### Interpretation
+
+Food or culinary proposition may create initial desire.
+
+However, product does not need to carry the entire arrival.
+
+### Status
+
+Supporting Behaviour
+
+Do not promote.
+
+---
+
+# Supporting Arrival Behaviour
+
+## Place as Emotional Evidence
+
+### Evidence
+
+- Ankole
+- Talisman
+- Bistro Lolo
+- FYN
+
+### Interpretation
+
+Place can communicate emotional meaning before the guest understands all operational details.
+
+Place may mean:
+
+- architecture
+- neighbourhood
+- ecology
+- geography
+- environmental context
+
+### Status
+
+Supporting Behaviour
+
+---
+
+# Supporting Arrival Behaviour
+
+## Explicit Policies Can Reduce Ambiguity
+
+### Strong Evidence
+
+- FYN
+
+### Interpretation
+
+Operational clarity can become part of confidence-building when the experience requires greater commitment.
+
+### Status
+
+Supporting Behaviour
+
+### Confidence
+
+Medium
+
+Needs more independent cases.
+
+---
+
+# Supporting Arrival Behaviour
+
+## Exception Paths Can Preserve Access
+
+### Evidence
+
+- Bistro Lolo
+- FYN
+
+### Interpretation
+
+A standard journey does not need to handle every guest identically.
+
+Alternative routes may preserve hospitality for:
+
+- unusual needs
+- complex requests
+- non-standard party types
+
+### Status
+
+Supporting Behaviour
+
+---
+
+# New Research Direction
+
+## Meaningful Constraint
+
+### Strongest Evidence
+
+- FYN
+
+### Comparative Relevance
+
+- Mawimbi
+- Talisman
+
+### Confidence
+
+Medium
+
+### Definition Under Study
+
+Transparent constraints may protect the integrity of a hospitality experience without becoming harmful friction.
+
+Possible examples:
+
+- deposits
+- seating windows
+- cancellation terms
+- age policies
+- behavioural expectations
+
+### Important Limitation
+
+Current evidence does not prove that guests experience these constraints positively.
+
+### Status
+
+Observed Research Direction
+
+Do not promote.
+
+---
+
+# New Research Direction
+
+## Structure as Hospitality
+
+### Strongest Evidence
+
+- FYN
+
+### Confidence
+
+Low to Medium
+
+### Working Interpretation
+
+Clear structure can reduce uncertainty and prepare guests for a complex or high-commitment experience.
+
+### Status
+
+Observed Research Direction
+
+Do not promote.
+
+---
+
+# New Research Direction
+
+## Commitment as Value Signal
+
+### Strongest Evidence
+
+- FYN
+
+### Confidence
+
+Low
+
+### Research Question
+
+Can meaningful commitment reinforce perceived seriousness or value in destination hospitality?
+
+### Important Limitation
+
+Website research cannot answer this.
+
+Guest or behavioural evidence is required.
+
+### Status
+
+Observed Research Direction
+
+---
+
+# New Research Direction
+
+## Familiarity Before Aspiration
+
+### Strongest Evidence
+
+- Bistro Lolo
+
+### Contrast Evidence
+
+- Mawimbi
+- FYN
+
+### Confidence
+
+Low to Medium
+
+### Current Learning
+
+Premium arrival may create desire through:
+
+Aspiration
+
+or
+
+Familiarity.
+
+FYN further confirms that familiarity is not a universal premium mechanism.
+
+### Status
+
+Observed Research Direction
+
+---
+
+# New Research Direction
+
+## Hospitality Through Rhythm
+
+### Strongest Evidence
+
+- Bistro Lolo
+
+### Contrast
+
+- FYN
+
+FYN is more structured around defined experience windows than flexible daily rhythm.
+
+### Confidence
+
+Low to Medium
+
+### Status
+
+Observed Research Direction
+
+---
+
+# New Research Direction
+
+## Walk-In as Arrival Signal
+
+### Strongest Evidence
+
+- Bistro Lolo
+
+### Contrasting Evidence
+
+FYN’s high-commitment reservation model.
+
+### Confidence
+
+Low
+
+### Current Learning
+
+Walk-in availability may communicate ease and spontaneity in some hospitality categories.
+
+It is clearly not universal.
+
+### Status
+
+Observed Research Direction
+
+---
+
+# Arrival Tensions
+
+## Aspiration Versus Familiarity
+
+### Aspiration-Oriented
+
+- Cultiva
+- Mawimbi
+- FYN
+
+### Familiarity-Oriented
+
+- Bistro Lolo
+
+### Mixed / Place-Led
+
+- Ankole
+- Talisman
+
+### Confidence
+
+High
+
+### Current Learning
+
+Premium hospitality does not require one emotional entry strategy.
+
+---
+
+# Arrival Tension
+
+## Sequential Control Versus Ambient Discovery
+
+### More Sequential
+
+- Talisman
+- Mawimbi
+- FYN
+
+### More Ambient
+
+- Bistro Lolo
+- Ankole
+
+### Confidence
+
+High
+
+### Current Learning
+
+Layered arrival can be controlled or discovered.
+
+---
+
+# Arrival Tension
+
+## Reservation Optimisation Versus Spontaneity
+
+### High Structure
+
+- FYN
+
+### High Flexibility
+
+- Bistro Lolo
+
+### Middle Positions
+
+- Ankole
+- Cultiva
+- Talisman
+- Mawimbi
+
+### Confidence
+
+High
+
+### Current Learning
+
+There is no universal ideal level of reservation commitment.
+
+The hospitality proposition should determine the model.
+
+---
+
+# Arrival Tension
+
+## Escape Versus Belonging
+
+### Escape
+
+- Mawimbi
+
+### Belonging
+
+- Bistro Lolo
+
+### Controlled Separation
+
+- FYN
+
+### Confidence
+
+High
+
+### Current Learning
+
+Hospitality may position the guest in at least three relationships with surrounding place:
+
+- transport them elsewhere
+- deepen connection to where they already are
+- create temporary distance while preserving context
+
+Do not create three formal patterns yet.
+
+---
+
+# Arrival Tension
+
+## Ease Versus Commitment
+
+### Bistro Lolo
+
+Ease.
+
+### FYN
+
+Commitment.
+
+### Confidence
+
+High
+
+### Current Learning
+
+Low friction is not automatically superior.
+
+The correct amount of commitment depends on the hospitality model.
+
+---
+
+# Arrival Tension
+
+## Freedom Versus Structure
+
+### Bistro Lolo
+
+Broad freedom.
+
+### FYN
+
+Defined participation.
+
+### Confidence
+
+High
+
+### Current Learning
+
+Good hospitality may involve either:
+
+- freedom
+- structure
+
+provided the guest understands what they are entering.
+
+---
+
+# Arrival Tension
+
+## Familiarity Versus Ceremony
+
+### Bistro Lolo
+
+Informal belonging.
+
+### FYN
+
+Purposeful preparation.
+
+### Confidence
+
+High
+
+### Current Learning
+
+Premium experience can begin through:
+
+Recognition
+
+or
+
+Ceremony.
+
+Both can create anticipation.
+
+---
+
+# Arrival Tension
+
+## Mystery Versus Clarity
+
+### FYN
+
+Strongest current case.
+
+The restaurant preserves culinary discovery while clearly communicating:
+
+- price
+- menu structure
+- reservation conditions
+- behavioural expectations
+
+### Confidence
+
+High
+
+### Current Learning
+
+Operational clarity does not require eliminating experiential mystery.
+
+This is especially relevant to tasting-menu hospitality.
+
+---
+
+# Arrival Tension
+
+## Exclusivity Versus Accessibility
+
+### FYN
+
+Clear access conditions but higher participation requirements.
+
+### Bistro Lolo
+
+Broader informal access.
+
+### Confidence
+
+Medium to High
+
+### Current Learning
+
+Accessibility and exclusivity are not necessarily opposites.
+
+A restaurant can be:
+
+clear about access
+
+while
+
+selective about participation.
+
+---
+
+# Geographic Transferability
+
+FYN is the first restaurant in the current independent research set outside Nairobi.
+
+This gives the arrival layer its first meaningful geographic stress test.
+
+Patterns that survive include:
+
+- Emotion Before Interface
+- Story Before Features
+- Promise Before Proof
+- Layered Arrival
+- Dual-Path Hospitality
+- Commitment Without Pressure
+
+However, they survive through substantially different expressions.
+
+That distinction matters.
+
+## Pattern Repetition
+
+The behaviour appears again.
+
+## Geographic Transferability
+
+The behaviour survives after the market context changes.
+
+FYN provides initial evidence for the second.
+
+One non-Nairobi case is not enough for broad geographic validation.
+
+---
+
+# Current Arrival Pattern Position
+
+## Emerging — Strong
+
+- Emotion Before Interface
+- Story Before Features
+- Layered Arrival
+- Dual-Path Hospitality
+- Commitment Without Pressure
+
+---
+
+## Emerging — Scope / Definition Review
+
+- Promise Before Proof
+
+---
+
+# Possible Governance Changes After Full FYN Comparison
+
+## Commitment Without Pressure
+
+Likely:
+
+Canonical definition refinement.
+
+No status change.
+
+---
+
+## Dual-Path Hospitality
+
+Likely:
+
+Strong abstraction review.
+
+Possible future:
+
+`Multi-Intent Hospitality`
+
+No rename yet.
+
+---
+
+## Layered Arrival
+
+Likely:
+
+Confidence increase to High.
+
+No status change.
+
+---
+
+## Promise Before Proof
+
+Likely:
+
+Keep Emerging with narrower applicability and stronger proximity-to-proof guidance.
+
+---
+
+# No Validation Promotion
+
+No arrival pattern should become Validated after FYN solely because the independent set reaches six restaurants.
+
+Current evidence remains limited by:
+
+- geographic concentration
+- category concentration
+- limited guest-behaviour evidence
+- limited mobile-specific evidence
+- limited operational evidence
+
+The highest appropriate research-derived status remains:
+
+Emerging.
+
+---
+
+# Working Arrival Principle
+
+The six-restaurant comparison increasingly suggests:
+
+> There is no universal premium hospitality arrival sequence.
+
+The stronger transferable logic is:
+
+Meaning
+
+↓
+
+Confidence
+
+↓
+
+Participation
+
+For higher-commitment hospitality, FYN adds:
+
+Meaning
+
+↓
+
+Confidence
+
+↓
+
+Expectation Clarity
+
+↓
+
+Commitment
+
+↓
+
+Participation
+
+The arrival should therefore answer:
+
+1. What kind of experience is this?
+2. Why should I believe it?
+3. What does participation require?
+4. What is my appropriate next action?
+
+The relative importance of each question changes by hospitality model.
+
+---
+
+# Commercial Implications
+
+The comparison now reveals several distinct arrival architectures that Kodawa Labs may eventually need to support.
+
+## Low-Commitment Hospitality
+
+Example:
+
+Bistro Lolo
+
+Possible priorities:
+
+- immediacy
+- walk-in guidance
+- daypart relevance
+- location
+- social imagination
+
+---
+
+## Destination / High-Commitment Hospitality
+
+Example:
+
+FYN
+
+Possible priorities:
+
+- experience explanation
+- proof
+- pricing
+- policy clarity
+- deposit
+- reservation certainty
+- pre-arrival expectation
+
+---
+
+## Concept-Led Hospitality
+
+Example:
+
+Mawimbi / Cultiva
+
+Possible priorities:
+
+- strong promise
+- narrative coherence
+- atmosphere
+- product substantiation
+
+---
+
+## Heritage-Led Hospitality
+
+Example:
+
+Talisman
+
+Possible priorities:
+
+- history
+- place
+- reputation
+- product
+- participation
+
+---
+
+# Opportunity Direction
+
+## Intent-Sensitive Arrival Architecture
+
+The growing evidence suggests Kodawa Labs should avoid treating every premium restaurant homepage as the same conversion funnel.
+
+A future KHDS experience system may need to identify:
+
+Hospitality Model
+
+↓
+
+Guest Intent
+
+↓
+
+Commitment Level
+
+↓
+
+Required Evidence
+
+↓
+
+Arrival Structure
+
+This is not yet a KHDS pattern.
+
+It is an implementation and product direction.
+
+---
+
+# Final Arrival Comparison
+
+The first five restaurants established that premium hospitality can begin through:
+
+- place
+- worldview
+- heritage
+- aspiration
+- belonging
+
+FYN adds:
+
+- authority
+- structure
+- expectation clarity
+- commitment
+
+Its contribution is important because it directly challenges a simplistic design assumption:
+
+> Less friction always creates better hospitality.
+
+The six-restaurant evidence does not support that statement.
+
+A more defensible position is:
+
+> Unnecessary friction should be removed. Meaningful commitment should be explained.
+
+FYN therefore strengthens `Commitment Without Pressure` by making the pattern harder, not easier.
+
+It also strengthens the case that `Dual-Path Hospitality` is becoming too literal.
+
+And it gives `Layered Arrival` its strongest confidence level so far because the pattern now survives both:
+
+low-commitment belonging
+
+and
+
+high-commitment destination dining.
+
+No arrival pattern becomes Validated.
+
+The comparison has made the patterns more precise.
+
+That is the correct outcome.
+
+Evidence wins.
