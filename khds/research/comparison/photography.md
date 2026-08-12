@@ -1,38 +1,40 @@
-# Photography Comparison
+# KHDS Photography Comparison
 
 ## Purpose
 
-Compare how independent restaurants use photography to communicate:
+Compare how independent hospitality brands use photography to communicate:
 
-- product
-- place
-- process
-- atmosphere
-- use
-- occasion
-- craft
-- identity
+* product
+* place
+* atmosphere
+* process
+* craft
+* people
+* use
+* culture
+* memory
+* difference
 
-This file tracks:
+This document asks:
 
-- recurring photographic behaviours
-- proof roles
-- contradictions
-- pattern transferability
-- candidate maturity
-- geographic variation
-- new research directions
-- commercial opportunities
+* What does photography need to prove?
+* What does it need to explain?
+* What should remain mysterious?
+* Which image types create confidence?
+* Which image types create differentiation?
+* How do different hospitality models use photography differently?
+* Which KHDS photography patterns survive across materially different restaurants?
+* Which research directions are now strong enough to approach Candidate maturity?
 
-The goal is not to identify one ideal photography style.
+The goal is not to define one universal photography style.
 
-The goal is to determine what photography must accomplish across different hospitality models.
+The goal is to understand the jobs photography performs.
 
 ---
 
-# Independent Research Set
+# Current Research Set
 
-Current independent restaurants compared:
+## Completed Independent Restaurants
 
 1. Ankole
 2. Cultiva
@@ -41,17 +43,41 @@ Current independent restaurants compared:
 5. Bistro Lolo
 6. FYN
 
+## Current Research Candidate
+
+7. Dishoom Covent Garden
+
+Dishoom should not enter the official completed global research count until:
+
+* all five comparison files are complete
+* candidate governance is reconciled
+* the pattern registry is updated
+* the validation dashboard is updated
+* the root research README is updated
+
 ---
 
-# Photography Models
+# Ankole
 
-## Ankole
+## Photography Character
 
-### Primary Character
+Place + refinement proof.
 
-Place and refinement proof.
+## Primary Subjects
 
-### Working Logic
+* architecture
+* interiors
+* food
+* atmosphere
+* environmental detail
+
+## Main Job
+
+Help the guest believe:
+
+this place feels considered and premium.
+
+## Working Logic
 
 Place
 
@@ -63,203 +89,1476 @@ Visual Refinement
 
 Confidence
 
-### Key Behaviour
+## Interpretation
 
-Photography helps establish:
+Ankole uses photography heavily to communicate physical environment and polish.
 
-- environment
-- polish
-- physical character
+The images do not need to explain a complex production system.
+
+They establish:
+
+* place
+* quality
+* atmosphere
+
+through visual confidence.
 
 ---
 
-## Cultiva
+# Cultiva
 
-### Primary Character
+## Photography Character
 
-Process and system proof.
+Process + system proof.
 
-### Working Logic
+## Primary Subjects
 
-Ingredient
+* ingredients
+* cultivation
+* sourcing
+* production
+* people
+* natural environment
+* food
 
-↓
+## Main Job
 
-Cultivation
+Help the guest understand:
 
-↓
+why the food and worldview deserve credibility.
+
+## Working Logic
 
 Process
 
 ↓
 
-Product
+System
 
-### Key Behaviour
+↓
 
-Photography is most valuable when it helps explain the system behind the restaurant’s culinary claims.
+Product Meaning
+
+↓
+
+Confidence
+
+## Interpretation
+
+Cultiva gives photography a broader explanatory role.
+
+The image system can show:
+
+where food comes from
+
+and
+
+how the restaurant’s worldview becomes visible.
+
+This helped establish the Candidate:
+
+`Show the System Behind the Plate`.
 
 ---
 
-## Talisman
+# Talisman
 
-### Primary Character
+## Photography Character
 
 Layered character proof.
 
-### Working Logic
+## Primary Subjects
+
+* food
+* interiors
+* garden
+* art
+* historical character
+* atmosphere
+
+## Main Job
+
+Help the guest understand:
+
+what kind of destination Talisman is.
+
+## Working Logic
 
 Food
 
-+
-
-Interiors
-
-+
+*
 
 Place
 
-+
-
-Art
-
-+
+*
 
 History
 
 ↓
 
-Accumulated Character
+Character
 
-### Key Behaviour
+↓
 
-Photography communicates several layers of the hospitality experience rather than one dominant subject.
+Confidence
+
+## Interpretation
+
+Talisman demonstrates that photography can communicate multiple layers without one subject dominating.
+
+Its strongest contribution was showing that:
+
+food alone
+
+does not explain the complete hospitality proposition.
 
 ---
 
-## Mawimbi
+# Mawimbi
 
-### Primary Character
+## Photography Character
 
-Product, atmosphere, and occasion proof.
+Product + atmosphere + occasion proof.
 
-### Working Logic
+## Primary Subjects
 
-Seafood
+* seafood
+* interiors
+* tropical atmosphere
+* social occasions
+* events
+* luxury experience
 
-+
+## Main Job
 
-Environment
+Help the guest believe:
 
-+
+the seafood
 
-Celebration
+and
+
+the atmosphere
+
+justify the premium proposition.
+
+## Working Logic
+
+Product
+
+*
+
+Atmosphere
+
+*
+
+Occasion
 
 ↓
 
 Desire
 
-### Key Behaviour
+↓
 
-Photography must support both the culinary proposition and the social experience.
+Confidence
+
+## Interpretation
+
+Mawimbi made one photography problem especially visible:
+
+beautiful food
+
+is not automatically:
+
+distinctive food.
+
+This introduced the research direction:
+
+`Photography Should Demonstrate Difference`.
 
 ---
 
-## Bistro Lolo
+# Bistro Lolo
 
-### Primary Character
+## Photography Character
 
-Place, lifestyle, and use proof.
+Place + lifestyle + use proof.
 
-### Working Logic
+## Primary Subjects
 
-Architecture
+* architecture
+* food
+* people
+* dayparts
+* neighbourhood rhythm
+* social use
 
-+
+## Main Job
 
-Garden
+Help the guest imagine:
 
-+
+using the restaurant.
 
-Food
+## Working Logic
 
-+
+Place
+
+*
 
 People
 
-+
+*
 
-Social Use
+Use
 
 ↓
 
-Belonging
+Recognition
 
-### Key Behaviour
+↓
 
-Photography helps the guest imagine how the environment is actually inhabited.
+Participation
+
+## Interpretation
+
+Bistro Lolo strengthened the role of:
+
+* people
+* use cases
+* dayparts
+
+inside hospitality photography.
+
+It introduced stronger directions around:
+
+* Photography as Use-Case Evidence
+* Daypart Photography
 
 ---
 
-## FYN
+# FYN
 
-### Primary Character
+## Photography Character
 
-Product, craft, and spatial proof.
+Product + craft + spatial proof.
 
-### Working Logic
+## Primary Subjects
 
-Dish
+* finished dishes
+* precision
+* culinary craft
+* architecture
+* restrained atmosphere
 
-+
+## Main Job
 
-Precision
+Help the guest believe:
 
-+
+the experience is controlled, precise, and worthy of commitment.
 
-Interior
+## Working Logic
 
-+
+Craft
 
-Restraint
+↓
+
+Product Authority
+
+↓
+
+Spatial Authority
+
+↓
+
+Confidence
+
+## Interpretation
+
+FYN created several important distinctions.
+
+First:
+
+craft proof
+
+is not:
+
+system proof.
+
+A finished plate may prove execution without proving:
+
+* sourcing
+* producer relationships
+* ingredient journey
+* preparation process
+
+Second:
+
+beautiful photography
+
+is not automatically:
+
+differentiating photography.
+
+FYN materially strengthened:
+
+`Photography Should Demonstrate Difference`.
+
+---
+
+# Dishoom Covent Garden
+
+## Photography Character
+
+Product + cultural + social + memory proof.
+
+## Primary Subjects
+
+* food
+* drinks
+* interiors
+* people
+* family photographs
+* historical references
+* cultural material
+* social use
+* dayparts
+* location-specific story
+
+## Main Job
+
+Help the guest believe:
+
+* the food belongs to a specific cultural world
+* the café has social meaning
+* the location has its own personality
+* the brand’s cultural claims have substance
+
+## Working Logic
+
+Food
+
+*
+
+People
+
+*
+
+Place
+
+*
+
+Memory
+
+*
+
+Culture
+
+↓
+
+Context
+
+↓
+
+Difference
+
+↓
+
+Confidence
+
+## Interpretation
+
+Dishoom gives photography a new responsibility:
+
+contextual proof.
+
+The restaurant is not only asking the guest to believe:
+
+the food looks good.
+
+It is also asking the guest to understand:
+
+why Bombay matters
+
+and
+
+why this café world is meaningful.
+
+This introduces stronger research around:
+
+* Photography as Cultural Evidence
+* Archival Image as Brand Evidence
+* Photography as Behavioural Invitation
+
+and materially strengthens:
+
+`Photography Should Demonstrate Difference`.
+
+---
+
+# Seven Photography Models
+
+The current research suggests at least seven distinct photography systems.
+
+## Model A — Refinement Evidence
+
+Ankole
+
+Place
+
+↓
+
+Polish
+
+↓
+
+Confidence
+
+---
+
+## Model B — Process / System Evidence
+
+Cultiva
+
+Process
+
+↓
+
+System
+
+↓
+
+Credibility
+
+---
+
+## Model C — Layered Character Evidence
+
+Talisman
+
+Food
+
+*
+
+Place
+
+*
+
+History
+
+↓
+
+Character
+
+---
+
+## Model D — Product + Occasion Evidence
+
+Mawimbi
+
+Product
+
+*
+
+Atmosphere
+
+*
+
+Occasion
+
+↓
+
+Desire
+
+---
+
+## Model E — Social Use Evidence
+
+Bistro Lolo
+
+People
+
+*
+
+Place
+
+*
+
+Use
+
+↓
+
+Participation Imagination
+
+---
+
+## Model F — Craft + Controlled Mystery
+
+FYN
+
+Product
+
+*
+
+Craft
+
+*
+
+Spatial Control
 
 ↓
 
 Authority
 
-### Key Behaviour
+---
 
-Photography establishes culinary authorship, product quality, and environmental sophistication while preserving some mystery.
+## Model G — Cultural + Social + Memory Evidence
+
+Dishoom
+
+Food
+
+*
+
+People
+
+*
+
+Culture
+
+*
+
+Memory
+
+↓
+
+Context
+
+↓
+
+Difference
 
 ---
 
-# Shared Photography Finding
+# Comparison Finding 1
 
-Across all six restaurants, photography performs different subject-level jobs.
+## Photography Before Decoration Remains Highly Resilient
 
-But the deeper recurring behaviour remains:
+### Current Status
 
-What Must Be Proven?
+Emerging
+
+### Evidence Effect
+
+Very Strongly Supported
+
+### Confidence
+
+High
+
+Across the research set, photography consistently carries real hospitality meaning.
+
+### Ankole
+
+Place and refinement.
+
+### Cultiva
+
+Process and system.
+
+### Talisman
+
+Character.
+
+### Mawimbi
+
+Product and occasion.
+
+### Bistro Lolo
+
+Use and lifestyle.
+
+### FYN
+
+Craft and authority.
+
+### Dishoom
+
+Culture, memory, and social use.
+
+### Current Conclusion
+
+Photography is strongest when it carries:
+
+evidence
+
+rather than merely:
+
+visual decoration.
+
+### Dishoom Contribution
+
+Dishoom broadens the pattern beyond contemporary hospitality photography.
+
+Relevant evidence may include:
+
+* archival material
+* family photography
+* documentary imagery
+* cultural references
+
+when those images genuinely contribute meaning.
+
+### Governance Recommendation
+
+Retain:
+
+`Photography Before Decoration`
+
+Status:
+
+Emerging
+
+No promotion to Validated.
+
+---
+
+# Comparison Finding 2
+
+## Photography as Proof Remains One of the Strongest Photography Patterns
+
+### Current Status
+
+Emerging
+
+### Evidence Effect
+
+Very Strongly Supported
+
+### Confidence
+
+High
+
+The research now shows photography proving different claims across the set.
+
+## Product Proof
+
+* Mawimbi
+* FYN
+* Dishoom
+
+## Place Proof
+
+* Ankole
+* Talisman
+* Bistro Lolo
+
+## Process Proof
+
+* Cultiva
+
+## Atmosphere Proof
+
+* Ankole
+* Mawimbi
+* FYN
+* Dishoom
+
+## Occasion / Use Proof
+
+* Mawimbi
+* Bistro Lolo
+* Dishoom
+
+## Craft Proof
+
+* FYN
+
+## Cultural Proof
+
+* Dishoom
+
+## Memory Proof
+
+* Dishoom
+
+### Current Conclusion
+
+The transferable rule is not:
+
+use more photography.
+
+It is:
+
+> Use photography to prove the claims that matter to the guest decision.
+
+### Governance Recommendation
+
+Retain:
+
+`Photography as Proof`
+
+Emerging.
+
+No maturity change yet.
+
+---
+
+# Comparison Finding 3
+
+## Photography Through Layers of Experience Remains Strong
+
+### Current Status
+
+Emerging
+
+### Evidence Effect
+
+Strongly Supported
+
+### Confidence
+
+High
+
+The pattern has progressively evolved away from:
+
+show everything
+
+toward:
+
+show the relevant layers.
+
+### Talisman
+
+Food + place + heritage.
+
+### Mawimbi
+
+Product + atmosphere + occasion.
+
+### Bistro Lolo
+
+Place + people + use.
+
+### FYN
+
+Product + craft + spatial evidence.
+
+### Dishoom
+
+Product + culture + social use + memory.
+
+### Current Conclusion
+
+Layering is not image quantity.
+
+It is:
+
+evidence diversity.
+
+### Refined Working Interpretation
+
+> Hospitality photography should use the relevant visual layers required to help the guest understand the experience without overwhelming the decision journey.
+
+### Governance Recommendation
+
+Retain:
+
+`Photography Through Layers of Experience`
+
+Emerging.
+
+No rename.
+
+No promotion.
+
+---
+
+# Comparison Finding 4
+
+## Photography Should Demonstrate Difference Is Now Much Stronger
+
+### Current Status
+
+Candidate
+
+### Previous Evidence
+
+Strong:
+
+* Mawimbi
+* Bistro Lolo
+* FYN
+
+Conceptual:
+
+* Cultiva
+
+### Dishoom Contribution
+
+Strong.
+
+Dishoom extends the question into:
+
+high-volume comfort food.
+
+This is important because the pattern now survives very different culinary models.
+
+### Mawimbi
+
+Premium seafood.
+
+### Bistro Lolo
+
+Neighbourhood French-influenced dining.
+
+### FYN
+
+Tasting-menu fine dining.
+
+### Dishoom
+
+Bombay comfort food.
+
+### Core Problem
+
+Attractive imagery can show:
+
+quality
+
+without showing:
+
+difference.
+
+### Current Working Definition
+
+> Hospitality photography should help communicate what makes the restaurant’s core product meaningfully distinctive rather than merely attractive.
+
+### Boundary
+
+Not every image needs to differentiate.
+
+The photography system as a whole should provide enough evidence where culinary differentiation matters.
+
+### Pattern Effect
+
+Very Strongly Strengthened
+
+### Confidence
+
+High as a research question
+
+### Governance Recommendation
+
+Strong promotion watch:
+
+Candidate
 
 ↓
 
-Assign Photography a Job
+Potential Emerging
 
-↓
+Do not promote from photography comparison alone.
 
-Select Relevant Evidence
+The final decision belongs in candidate governance after all five Dishoom comparisons.
 
-↓
+---
 
-Build Desire and Confidence
+# Comparison Finding 5
 
-FYN adds another important question:
+## Product Beauty and Product Difference Must Stay Separate
 
-What Should Remain Unrevealed?
+This distinction now repeats strongly across:
 
-This matters especially in high-commitment tasting-menu hospitality where discovery is part of the value.
+* Mawimbi
+* Bistro Lolo
+* FYN
+* Dishoom
 
-A more complete working model becomes:
+### Product Beauty
+
+Answers:
+
+Does this look desirable?
+
+### Product Difference
+
+Answers:
+
+Why this restaurant?
+
+### Possible Difference Signals
+
+* origin
+* ingredient
+* technique
+* scale
+* preparation
+* ritual
+* chef expertise
+* cultural context
+* serving format
+* signature style
+
+### Current Conclusion
+
+KHDS photography should evaluate:
+
+desire
+
+and
+
+differentiation
+
+separately.
+
+This is one of the strongest outcomes of the current photography research.
+
+---
+
+# Comparison Finding 6
+
+## Show the System Behind the Plate Gains Broader Pressure
+
+### Current Status
+
+Candidate
+
+### Strongest Original Evidence
+
+Cultiva
+
+### Supporting Evidence
+
+* Mawimbi
+* FYN
+* Dishoom
+
+but for different reasons.
+
+### Dishoom Challenge
+
+Dishoom suggests that the relevant system may include:
+
+* culinary tradition
+* cultural origin
+* technique
+* recipe knowledge
+* chef interpretation
+
+rather than only:
+
+* sourcing
+* farms
+* producers
+* supply chain
+
+### Current Problem
+
+The pattern may currently blur two systems.
+
+## Production System
+
+How the product is physically created and sourced.
+
+## Cultural / Culinary System
+
+How tradition, technique, knowledge, and context shape the product.
+
+### Governance Recommendation
+
+Keep Candidate.
+
+Do not broaden yet.
+
+Strong definition review.
+
+More product-specialist restaurants are needed.
+
+---
+
+# Comparison Finding 7
+
+## Photography as Use-Case Evidence Is Becoming Stronger
+
+### Current Status
+
+Below Candidate
+
+### Strong Evidence
+
+* Bistro Lolo
+* Dishoom
+
+### Partial Evidence
+
+* Mawimbi
+* Talisman
+
+### Working Definition
+
+> Hospitality photography may help guests understand not only what the restaurant looks like, but how and when the experience can be used.
+
+Possible use cases include:
+
+* breakfast
+* lunch
+* date night
+* drinks
+* celebration
+* group dining
+* work meeting
+* casual drop-in
+
+### Dishoom Contribution
+
+Dishoom provides strong all-day evidence across:
+
+* breakfast
+* lunch
+* chai
+* dinner
+* drinks
+* group gathering
+
+### Confidence
+
+Medium to High
+
+### Governance Recommendation
+
+Candidate Watch.
+
+Do not promote yet.
+
+A third strong independent model would materially improve confidence.
+
+---
+
+# Comparison Finding 8
+
+## Daypart Photography Is Becoming a Serious Research Direction
+
+### Current Status
+
+Below Candidate
+
+### Strong Evidence
+
+* Bistro Lolo
+* Dishoom
+
+### Supporting Evidence
+
+* FYN in a more constrained form
+
+### Working Question
+
+Should photography change according to:
+
+when
+
+the guest intends to visit?
+
+### Possible Variables
+
+Morning:
+
+* light
+* food
+* coffee
+* pace
+* people
+
+Afternoon:
+
+* social use
+* lighter food
+* environment
+
+Evening:
+
+* lighting
+* drinks
+* atmosphere
+* occasion
+
+### Current Conclusion
+
+One generic image system may not fully communicate an all-day hospitality model.
+
+### Governance Recommendation
+
+Candidate Watch.
+
+No promotion yet.
+
+---
+
+# Comparison Finding 9
+
+## Photography as Cultural Evidence Is Distinct From Ordinary Brand Photography
+
+### Current Status
+
+Observed Research Direction
+
+### Strong Evidence
+
+Dishoom
+
+### Working Definition
+
+> Culturally rooted hospitality photography may need to connect the contemporary guest experience to people, objects, places, memories, and traditions that give the cultural story context.
+
+### Important Boundary
+
+Photography cannot by itself prove:
+
+cultural authenticity.
+
+It can only contribute evidence.
+
+### Governance Recommendation
+
+Keep below Candidate.
+
+Additional culturally interpretive hospitality cases are needed.
+
+---
+
+# Comparison Finding 10
+
+## Archival and Family Images Can Carry Brand Meaning
+
+Dishoom introduces a new image class into KHDS research.
+
+### Contemporary Hospitality Photography
+
+Shows:
+
+what the guest experiences now.
+
+### Archival / Family Material
+
+Can show:
+
+* memory
+* lineage
+* cultural context
+* human history
+
+### Current Research Direction
+
+`Archival Image as Brand Evidence`
+
+### Confidence
+
+Medium
+
+### Important Boundary
+
+Archival-looking imagery must not be treated as historical evidence unless provenance is known.
+
+### Governance Recommendation
+
+Remain below Candidate.
+
+---
+
+# Comparison Finding 11
+
+## Photography Can Participate in Narrative Coherence
+
+Dishoom contains:
+
+* contemporary food photography
+* family images
+* cultural references
+* interiors
+* people
+* historical material
+
+These could feel visually fragmented.
+
+The wider narrative system allows them to coexist.
+
+### Existing Pattern Strengthened
+
+`Narrative Coherence Through Organising Logic`
+
+### Current Conclusion
+
+A photography system does not need:
+
+one visual subject
+
+or
+
+one photographic genre.
+
+It needs:
+
+a coherent reason for the different image types to exist together.
+
+### Governance Recommendation
+
+No status change from photography alone.
+
+---
+
+# Comparison Finding 12
+
+## People Photography Matters More in Some Hospitality Models Than Others
+
+### FYN
+
+Product + craft dominant.
+
+### Bistro Lolo
+
+People + use important.
+
+### Dishoom
+
+People + social participation highly important.
+
+### Mawimbi
+
+People + occasion relevant.
+
+### Current Conclusion
+
+The correct balance between:
+
+product
+
+and
+
+people
+
+depends on what the restaurant needs the guest to imagine.
+
+### If the decision is:
+
+Can I trust the craft?
+
+Product may dominate.
+
+### If the decision is:
+
+Can I see myself here?
+
+People may become essential.
+
+This should remain a design choice driven by evidence, not a universal rule.
+
+---
+
+# Comparison Finding 13
+
+## Social Use Can Become Proof
+
+Bistro Lolo and Dishoom both make the guest’s behaviour part of the proposition.
+
+Photography can therefore prove:
+
+* social energy
+* occasion fit
+* daypart use
+* group suitability
+
+### Current Direction
+
+`Photography as Use-Case Evidence`
+
+### Strong Implication
+
+An empty interior may prove:
+
+space.
+
+A populated interior may prove:
+
+use.
+
+Those are different claims.
+
+---
+
+# Comparison Finding 14
+
+## Image Abundance Increases the Need for Editorial Control
+
+### Rich Visual Systems
+
+* Talisman
+* Mawimbi
+* Dishoom
+
+### Restrained Visual System
+
+* FYN
+
+### Current Conclusion
+
+More legitimate photographic subjects do not justify:
+
+more indiscriminate photography.
+
+The more visual material a restaurant possesses, the more important:
+
+* sequencing
+* selection
+* hierarchy
+* role definition
+
+become.
+
+This reinforces the FYN refinement of:
+
+`Photography Through Layers of Experience`.
+
+---
+
+# Comparison Finding 15
+
+## Cultural Context Can Be Part of Culinary Difference
+
+Dishoom strengthens the relationship between:
+
+food photography
+
+and
+
+story.
+
+A dish may be differentiated not only through:
+
+* plating
+* ingredient
+* technique
+
+but also through:
+
+* cultural origin
+* tradition
+* ritual
+* context
+
+### Current Conclusion
+
+`Photography Should Demonstrate Difference`
+
+may need to allow difference to be communicated through:
+
+context
+
+as well as:
+
+visual product characteristics.
+
+### Important Rule
+
+Do not turn every cultural reference into a culinary claim.
+
+Evidence must remain specific.
+
+---
+
+# Comparison Finding 16
+
+## Memory and Present Experience Need Balance
+
+Dishoom introduces an explicit tension between:
+
+What shaped the brand?
+
+and
+
+What will the guest experience now?
+
+### Too Much Memory
+
+Risk:
+
+the contemporary product becomes unclear.
+
+### Too Much Present Experience
+
+Risk:
+
+the story loses depth.
+
+### Current Conclusion
+
+Hospitality photography may need to balance:
+
+Past
+
+*
+
+Present
+
+when memory is central to the brand.
+
+This remains a research tension.
+
+---
+
+# Comparison Finding 17
+
+## Photography Architecture Should Follow the Guest Question
+
+The research set increasingly supports a question-first approach.
+
+Instead of asking:
+
+What photography should this website contain?
+
+Ask:
+
+What does this guest need evidence of?
+
+Possible questions include:
+
+## Is this place premium?
+
+Ankole.
+
+## Is this philosophy real?
+
+Cultiva.
+
+## Does this place have character?
+
+Talisman.
+
+## Is the product and occasion worth the visit?
+
+Mawimbi.
+
+## Can I imagine myself using this place?
+
+Bistro Lolo.
+
+## Is the craft worth the commitment?
+
+FYN.
+
+## Is this cultural and social world meaningful?
+
+Dishoom.
+
+### Current Conclusion
+
+Photography architecture should follow:
+
+the evidence requirement.
+
+---
+
+# Current Cross-Restaurant Photography Logic
+
+The FYN-era working model was:
 
 What Must Be Proven?
 
@@ -273,1314 +1572,451 @@ What Should Remain Mysterious?
 
 ↓
 
-Select and Sequence Evidence
+Select Evidence
 
 ↓
 
-Build Confidence Without Removing Anticipation
+Build Confidence
 
-This remains a working model rather than a formal KHDS pattern.
+Dishoom adds:
+
+What Must Be Contextualised?
+
+The strongest provisional model becomes:
+
+What Must the Guest Believe?
+
+↓
+
+What Must Be Proven?
+
+↓
+
+What Must Be Contextualised?
+
+↓
+
+What Must Be Explained?
+
+↓
+
+What Should Remain Unrevealed?
+
+↓
+
+Select Evidence
+
+↓
+
+Build Meaning + Confidence
+
+This remains a comparison model.
+
+Do not promote as a formal KHDS Principle.
 
 ---
 
-# Pattern Review
+# Pattern Outcomes
 
 ## Photography Before Decoration
 
-### Current Status
+Current:
 
 Emerging
 
-### Evidence
+Dishoom Effect:
 
-Strongly supported across:
+Very Strong Support
 
-- Ankole
-- Cultiva
-- Talisman
-- Mawimbi
-- Bistro Lolo
-- FYN
+Recommendation:
 
-### Confidence
-
-High
-
-### Cross-Restaurant Effect
-
-Strongly Supported
-
-### Current Interpretation
-
-Real hospitality evidence should perform more visual work than decorative graphics whenever possible.
-
-Photography may carry:
-
-- appetite
-- atmosphere
-- place
-- process
-- craft
-- occasion
-- human use
-- materiality
-- credibility
-
-### FYN Effect
-
-FYN shows that the pattern does not require high image volume.
-
-A restrained visual system can still strongly support Photography Before Decoration.
-
-### Geographic Transferability
-
-Strengthened.
-
-FYN is the first current independent case outside Nairobi.
-
-### Recommendation
-
-Keep Emerging.
-
-No maturity change.
+Retain.
 
 ---
-
-# Pattern Review
 
 ## Photography as Proof
 
-### Current Status
+Current:
 
 Emerging
 
-### Evidence
+Dishoom Effect:
 
-Strongly supported across all six restaurants.
+Very Strong Support
 
-### Confidence
+Recommendation:
 
-High
-
-### Cross-Restaurant Effect
-
-Very Strongly Supported
-
-### Current Proof Categories
-
-## Product Proof
-
-Does the food or drink look credible?
-
-## Place Proof
-
-Does the physical environment exist as claimed?
-
-## Process Proof
-
-Can the guest see how the product is created?
-
-## Atmosphere Proof
-
-Can the guest understand the emotional character of the space?
-
-## Occasion Proof
-
-Can the guest imagine a commercially meaningful use or event?
-
-## Use Proof
-
-Can the guest see how people inhabit the environment?
-
-## Craft Proof
-
-Can precision and expertise be inferred from the finished execution?
-
-### FYN Effect
-
-FYN introduces the clearest evidence so far for:
-
-Craft Proof.
-
-This is distinct from:
-
-Process Proof.
-
-A finished plate may show extraordinary execution without showing the process that created it.
-
-### Recommendation
-
-Keep Emerging.
-
-Confidence remains High.
-
-Do not split proof categories into separate patterns.
+Retain.
 
 ---
-
-# Pattern Review
 
 ## Photography Through Layers of Experience
 
-### Current Status
+Current:
 
 Emerging
 
-### Strong Evidence
+Dishoom Effect:
 
-- Talisman
-- Mawimbi
-- Bistro Lolo
-- FYN
+Strong Support
 
-### Partial Support
+Recommendation:
 
-- Ankole
-- Cultiva
+Retain.
 
-### Confidence
-
-High
-
-### Cross-Restaurant Effect
-
-Strongly Supported With Boundary Refinement
-
-### Current Interpretation
-
-Photography can create a fuller understanding of hospitality by presenting several relevant layers.
-
-Possible layers include:
-
-- food
-- interior
-- architecture
-- environment
-- process
-- people
-- materiality
-- behaviour
-- occasion
-- daypart
-- craft
-
-### FYN Effect
-
-FYN adds an important correction:
-
-Layers should be selective.
-
-A strong photography system does not need to show:
-
-everything.
-
-It needs to show:
-
-the evidence that matters to that restaurant’s proposition.
-
-### Current Distinction
-
-## Layered Photography
-
-Multiple relevant forms of evidence.
-
-versus
-
-## Complete Photography
-
-Attempting to show every possible aspect of the restaurant.
-
-The second is not automatically better.
-
-### Recommendation
-
-Keep Emerging.
-
-Canonical interpretation should include selectivity during governance reconciliation.
+Definition remains selective rather than exhaustive.
 
 ---
-
-# Candidate Pattern Review
-
-## Show the System Behind the Plate
-
-### Current Status
-
-Candidate
-
-### Strong Evidence
-
-- Cultiva
-
-### Meaningful Partial Evidence
-
-- Mawimbi
-- Bistro Lolo
-- FYN
-
-### Confidence
-
-Medium to High
-
-### Cross-Restaurant Effect
-
-Meaningfully Strengthened
-
-### Current Interpretation
-
-When sourcing, ingredients, process, or production systems materially differentiate the restaurant, the digital experience may benefit from making those systems visible.
-
-### FYN Effect
-
-FYN provides an especially useful distinction.
-
-The restaurant strongly communicates:
-
-- culinary craft
-- finished product
-- geography
-- philosophy
-
-But the visible photography does not automatically prove:
-
-- sourcing
-- producers
-- ingredient journey
-- preparation
-- supply system
-
-### Current Learning
-
-A restaurant can strongly prove:
-
-craft
-
-while weakly proving:
-
-system.
-
-Those are not equivalent.
-
-### Recommendation
-
-Keep Candidate.
-
-Do not promote yet.
-
-The pattern remains category-dependent and requires stronger multi-restaurant direct process evidence.
-
----
-
-# Observed Research Direction Review
 
 ## Photography Should Demonstrate Difference
 
-### Current Status
-
-Observed Research Direction
-
-### Evidence
-
-Strongest:
-
-- Mawimbi
-- Bistro Lolo
-- FYN
-
-Conceptual Support:
-
-- Cultiva
-
-### Confidence
-
-High
-
-### Cross-Restaurant Effect
-
-Strongly Strengthened
-
-### Repeated Problem
-
-## Mawimbi
-
-Beautiful seafood does not automatically explain why Mawimbi’s seafood proposition is distinct.
-
-## Bistro Lolo
-
-Attractive food does not automatically explain the French culinary heart plus local producer relationship.
-
-## FYN
-
-Precise fine-dining plates do not automatically explain:
-
-Modern African cuisine
-
-+
-
-Cape ingredients
-
-+
-
-Japanese culinary philosophy.
-
-### Current Interpretation
-
-Photography should ideally communicate:
-
-why this product belongs to this restaurant
-
-rather than only:
-
-why this product looks attractive.
-
-### Important Distinction
-
-## Beauty
-
-Creates desire.
-
-## Difference
-
-Creates differentiation.
-
-Both matter.
-
-### Recommendation
-
-Promote from:
-
-Observed Research Direction
-
-to:
+Current:
 
 Candidate
 
-after the full FYN comparison pass is complete.
+Dishoom Effect:
 
-This recommendation should still be checked against:
+Major Strengthening
 
-- reservation
-- story
-- complete governance reconciliation
+Recommendation:
 
-before registry update.
+Strong promotion watch.
 
----
+Potential:
 
-# New Research Direction
+Emerging.
 
-## Photography as Culinary Authority
-
-### Strongest Evidence
-
-- FYN
-
-### Comparative Relevance
-
-- Mawimbi
-- Cultiva
-
-### Confidence
-
-Low to Medium
-
-### Working Interpretation
-
-Chef-led hospitality may use disciplined product photography to make:
-
-- authorship
-- technical control
-- precision
-- expertise
-
-visible.
-
-### Status
-
-Observed Research Direction
-
-Do not promote.
+Final governance required.
 
 ---
 
-# New Research Direction
+## Show the System Behind the Plate
 
-## Restraint Through Image Selection
+Current:
 
-### Strongest Evidence
+Candidate
 
-- FYN
+Dishoom Effect:
 
-### Comparative Contrast
-
-- Talisman
-- Mawimbi
-- Bistro Lolo
-
-### Confidence
-
-Low
-
-### Working Interpretation
-
-Image quantity itself may communicate brand character.
-
-A restrained hospitality brand may gain coherence through:
-
-- selective imagery
-- visual silence
-- controlled repetition
-- omission
-
-### Important Limitation
-
-Website research cannot establish whether guests interpret lower image volume as premium.
-
-### Status
-
-Observed Research Direction
-
----
-
-# Existing Research Direction
-
-## Photography as Use-Case Evidence
-
-### Strongest Evidence
-
-- Bistro Lolo
-
-### Partial Support
-
-- Mawimbi
-- Talisman
-
-### Weak / Limited
-
-- FYN
-
-### Confidence
-
-Medium
-
-### Current Learning
-
-Photography showing actual guest behaviour can be valuable for hospitality driven by:
-
-- social use
-- occasion
-- neighbourhood rhythm
-- flexible participation
-
-FYN provides useful boundary evidence.
-
-A highly authored tasting-menu proposition may not need social-use photography to the same degree.
-
-### Recommendation
-
-Keep Observed.
-
----
-
-# Existing Research Direction
-
-## Daypart Photography
-
-### Strongest Evidence
-
-- Bistro Lolo
-
-### Comparative Relevance
-
-- FYN lunch / dinner structure
-
-### Confidence
-
-Low to Medium
-
-### Current Learning
-
-Different dayparts may require different visual evidence where the hospitality experience meaningfully changes across time.
-
-FYN provides operational daypart structure but insufficient visual evidence for promotion.
-
-### Recommendation
-
-Keep Observed.
-
----
-
-# Supporting Behaviour
-
-## Place as Emotional Evidence
-
-### Evidence
-
-- Ankole
-- Talisman
-- Bistro Lolo
-- FYN
-
-### Interpretation
-
-Spatial photography can communicate how the restaurant wants the guest to feel before arrival.
-
-### Status
-
-Supporting Behaviour
-
----
-
-# Supporting Behaviour
-
-## Process Photography Builds Credibility
-
-### Strongest Evidence
-
-- Cultiva
-
-### Partial Relevance
-
-- FYN
-- Mawimbi
-- Bistro Lolo
-
-### Interpretation
-
-Process becomes valuable visual proof where the restaurant makes meaningful claims around:
-
-- sourcing
-- craft
-- seasonality
-- production
-
-### Status
-
-Supporting Behaviour
-
----
-
-# Supporting Behaviour
-
-## Occasion Photography Can Support Revenue
-
-### Strongest Evidence
-
-- Mawimbi
-- Bistro Lolo
-
-### Partial
-
-- Talisman
-
-### Weak
-
-- FYN
-
-### Interpretation
-
-Where events and social occasions are commercially important, imagery can help guests imagine booking that use case.
-
-### Status
-
-Supporting Behaviour
-
----
-
-# Supporting Behaviour
-
-## Material Photography Builds Place Credibility
-
-### Strong Evidence
-
-- Bistro Lolo
-- FYN
-- Talisman
-
-### Partial
-
-- Ankole
-
-### Interpretation
-
-Close attention to:
-
-- surfaces
-- light
-- furniture
-- architecture
-- table detail
-
-can help explain the physical character of a hospitality environment.
-
-### Status
-
-Supporting Behaviour
-
----
-
-# Supporting Behaviour
-
-## People Can Make Design Feel Lived-In
-
-### Strong Evidence
-
-- Bistro Lolo
-- Mawimbi
-
-### Partial
-
-- Talisman
-
-### Boundary
-
-- FYN
-
-### Interpretation
-
-Human presence may transform architectural photography from:
-
-designed space
-
-into:
-
-used hospitality.
-
-However, FYN shows this is not universally required as a dominant visual strategy.
-
-### Status
-
-Supporting Behaviour
-
----
-
-# Supporting Behaviour
-
-## Finished Product Can Demonstrate Craft
-
-### Strongest Evidence
-
-- FYN
-
-### Comparative Relevance
-
-- Mawimbi
-- Cultiva
-
-### Confidence
-
-High
-
-### Interpretation
-
-The finished dish can provide evidence of:
-
-- precision
-- technical control
-- composition
-- intentionality
-
-even when preparation is unseen.
-
-### Status
-
-Supporting Behaviour
-
----
-
-# Supporting Behaviour
-
-## Spatial Photography Can Validate Brand Positioning
-
-### Strong Evidence
-
-- Ankole
-- Mawimbi
-- Bistro Lolo
-- FYN
-
-### Interpretation
-
-When atmosphere is part of the restaurant’s promise, spatial imagery helps turn that claim into visible evidence.
-
-### Status
-
-Supporting Behaviour
-
----
-
-# Supporting Behaviour
-
-## Photography Can Preserve Mystery
-
-### Strongest Evidence
-
-- FYN
-
-### Comparative Relevance
-
-- chef-led tasting-menu hospitality
-
-### Confidence
-
-Medium
-
-### Interpretation
-
-Not showing everything may preserve:
-
-- discovery
-- anticipation
-- surprise
-
-while still providing enough confidence to reserve.
-
-### Status
-
-Supporting Behaviour
-
-Do not treat deliberate omission as automatically beneficial.
-
----
-
-# Photography Tensions
-
-## Appetite Versus Evidence
-
-### Strong Cases
-
-- Mawimbi
-- Bistro Lolo
-- FYN
-
-### Confidence
-
-High
-
-### Current Learning
-
-A photograph can create appetite without providing sufficient evidence of differentiation.
-
-The system must decide whether the image’s job is:
-
-desire
-
-or
-
-proof.
-
-Often it must do both.
-
----
-
-# Photography Tension
-
-## Product Proof Versus Product Explanation
-
-### Strongest Case
-
-- FYN
-
-### Relevant
-
-- Mawimbi
-- Bistro Lolo
-
-### Confidence
-
-High
-
-### Current Learning
-
-Photography may convincingly answer:
-
-Does this look excellent?
-
-without answering:
-
-Why is this product distinct?
-
-Those are separate communication problems.
-
----
-
-# Photography Tension
-
-## Craft Versus System
-
-### Strongest Contrast
-
-## Cultiva
-
-Strong process/system orientation.
-
-## FYN
-
-Strong finished craft orientation.
-
-### Confidence
-
-High
-
-### Current Learning
-
-KHDS should distinguish:
-
-Craft Proof
-
-from
-
-System Proof.
-
-A precise result does not reveal the system that produced it.
-
----
-
-# Photography Tension
-
-## Product Versus Lifestyle
-
-### Lifestyle-Strong
-
-- Bistro Lolo
-- Mawimbi
-
-### Product-Strong
-
-- FYN
-- Cultiva
-
-### Mixed
-
-- Talisman
-- Ankole
-
-### Confidence
-
-High
-
-### Current Learning
-
-Photography strategy should reflect what the restaurant is actually selling.
-
-A neighbourhood hospitality brand may need:
-
-use and belonging.
-
-A chef-led tasting-menu restaurant may need:
-
-craft and authority.
-
----
-
-# Photography Tension
-
-## Architecture Versus Restaurant Clarity
-
-### Strongest
-
-- Bistro Lolo
-
-### Relevant
-
-- Talisman
-- Ankole
-- FYN
-
-### Confidence
-
-Medium to High
-
-### Current Learning
-
-Beautiful architecture should not obscure:
-
-- food
-- hospitality
-- guest participation
-- restaurant identity
-
-FYN reduces this tension by pairing spatial imagery with a strongly authored culinary proposition.
-
----
-
-# Photography Tension
-
-## Editorial Polish Versus Lived Energy
-
-### Editorial Polish
-
-- FYN
-- Ankole
-
-### Lived Energy
-
-- Bistro Lolo
-- Mawimbi
-
-### Mixed
-
-- Talisman
-
-### Confidence
-
-High
-
-### Current Learning
-
-There is no universal requirement for social energy in hospitality photography.
-
-The correct balance depends on the brand.
-
----
-
-# Photography Tension
-
-## Proof Versus Aspiration
-
-### Strongest
-
-- Cultiva
-- Mawimbi
-- FYN
-
-### Confidence
-
-High
-
-### Current Learning
-
-The stronger the restaurant’s claims, the more important it becomes to determine what photographic evidence is needed to sustain them.
-
----
-
-# Photography Tension
-
-## Mystery Versus Evidence
-
-### Strongest
-
-- FYN
-
-### Comparative Relevance
-
-- Mawimbi
-- Cultiva
-
-### Confidence
-
-High
-
-### Current Learning
-
-High-commitment hospitality must provide enough evidence for confidence without necessarily revealing the complete experience.
-
-This may be especially important for:
-
-- tasting menus
-- destination dining
-- immersive experiences
-
----
-
-# Photography Tension
-
-## Restraint Versus Completeness
-
-### Restraint
-
-- FYN
-
-### Broad Coverage
-
-- Talisman
-- Bistro Lolo
-- Mawimbi
-
-### Confidence
-
-Medium to High
-
-### Current Learning
-
-More evidence is not automatically better evidence.
-
-The useful question is:
-
-What does the guest actually need to understand?
-
----
-
-# Photography Tension
-
-## Culinary Beauty Versus Culinary Difference
-
-### Repeated Strongly Across
-
-- Mawimbi
-- Bistro Lolo
-- FYN
-
-### Conceptual Relevance
-
-- Cultiva
-
-### Confidence
-
-High
-
-### Current Learning
-
-This is now one of the most important repeated photography tensions.
-
-Beautiful food communicates:
-
-quality and desire.
-
-Distinctive food requires evidence of:
-
-- source
-- technique
-- philosophy
-- ingredient
-- authorship
-- geography
-- process
-
-depending on the restaurant.
-
-This repeated tension is the strongest evidence supporting promotion of:
-
-`Photography Should Demonstrate Difference`
-
-to Candidate.
-
----
-
-# Geographic Transferability
-
-FYN provides the first photography case outside Nairobi.
-
-It strengthens geographic transferability for:
-
-## Photography Before Decoration
-
-and
-
-## Photography as Proof.
-
-It also strengthens:
-
-## Photography Through Layers of Experience
-
-while introducing useful boundary evidence around:
-
-- social-use photography
-- completeness
-- lifestyle imagery
-
-One non-Nairobi case is not enough for broad geographic validation.
-
-But the core photographic behaviours survive meaningful market change.
-
----
-
-# Current Photography Pattern Position
-
-## Emerging — Strong
-
-### Photography Before Decoration
-
-Confidence:
-
-High
-
----
-
-### Photography as Proof
-
-Confidence:
-
-High
-
----
-
-### Photography Through Layers of Experience
-
-Confidence:
-
-High
-
----
-
-# Candidate — Existing
-
-### Show the System Behind the Plate
-
-Confidence:
-
-Medium to High
+Support + definition pressure
 
 Recommendation:
 
 Keep Candidate.
 
+Strong abstraction review.
+
 ---
 
-# Candidate — Proposed After FYN Reconciliation
+## Narrative Coherence Through Organising Logic
 
-### Photography Should Demonstrate Difference
+Current:
 
-Current Status:
+Emerging
 
-Observed Research Direction
+Photography Evidence:
 
-Recommended Status:
+Strong Support
 
-Candidate
+Recommendation:
 
-Evidence:
+Retain.
+
+---
+
+## The Guest as Participant
+
+Current:
+
+Emerging
+
+Photography Evidence:
+
+Supported through social-use imagery.
+
+Recommendation:
+
+Retain.
+
+---
+
+# Below-Candidate Directions Strengthened
+
+## Photography as Use-Case Evidence
 
 Strong:
 
-- Mawimbi
-- Bistro Lolo
-- FYN
+* Bistro Lolo
+* Dishoom
 
-Conceptual:
+Partial:
 
-- Cultiva
+* Mawimbi
+* Talisman
 
-Confidence:
+Status:
 
-High as a research question.
-
-### Proposed Definition
-
-Hospitality photography should help communicate what makes the restaurant’s core product meaningfully distinctive rather than merely attractive.
-
-### Important Boundary
-
-Not every photograph needs to perform differentiation.
-
-The system as a whole should provide sufficient evidence of difference when product differentiation is commercially important.
-
-### Promotion Recommendation
-
-Observed
-
-↓
-
-Candidate
-
-Subject to final six-restaurant governance reconciliation.
+Candidate Watch.
 
 ---
 
-# No Emerging Promotion From Photography Yet
+## Daypart Photography
 
-`Photography Should Demonstrate Difference` should not move directly to Emerging.
+Strong:
 
-The appropriate move, if governance agrees, is:
+* Bistro Lolo
+* Dishoom
 
-Observed
+Supporting:
 
-↓
+* FYN
 
-Candidate
+Status:
 
-The research direction has repeated meaningfully.
-
-It has not yet reached the maturity of the strongest Emerging patterns.
-
----
-
-# No Validation Promotion
-
-No photography pattern becomes Validated after six restaurants.
-
-The evidence base still lacks sufficient:
-
-- geographic diversity
-- category diversity
-- mobile-specific evidence
-- guest behaviour
-- image-performance analytics
-- conversion evidence
-
-The highest appropriate research-derived status remains:
-
-Emerging.
+Candidate Watch.
 
 ---
 
-# Working Photography Principle
+## Photography as Cultural Evidence
 
-The six-restaurant comparison increasingly suggests:
+Strong:
 
-> Photography should not be selected because a restaurant needs pictures.
+* Dishoom
 
-It should be selected because the guest needs evidence.
+Status:
 
-The stronger process is:
-
-Hospitality Claim
-
-↓
-
-Guest Question
-
-↓
-
-Required Proof
-
-↓
-
-Photography Role
-
-↓
-
-Image Selection
-
-↓
-
-Narrative Sequence
-
-Possible proof roles now include:
-
-- Product
-- Place
-- Process
-- Atmosphere
-- Occasion
-- Use
-- Craft
-
-FYN adds another important editorial question:
-
-> What should not be shown yet?
-
-Photography may need to build:
-
-Confidence
-
-without eliminating:
-
-Discovery.
+Observed Research Direction.
 
 ---
 
-# Commercial Implications
+## Archival Image as Brand Evidence
 
-The six models suggest that Kodawa Labs should eventually avoid one universal restaurant photography strategy.
+Strong:
 
-A future KHDS photography system may first identify:
+* Dishoom
 
-Restaurant Proposition
+Status:
 
-↓
+Observed Research Direction.
 
-Guest Doubt
+---
+
+## Photography as Behavioural Invitation
+
+Strong:
+
+* Dishoom
+
+Related strongly to:
+
+Photography as Use-Case Evidence.
+
+Status:
+
+Below Candidate.
+
+Avoid duplication.
+
+---
+
+# Major Photography Tensions
+
+## Beauty vs Difference
+
+Now strongly repeated.
+
+---
+
+## Product vs People
+
+Different models require different balances.
+
+---
+
+## Craft vs System
+
+FYN remains strongest case.
+
+Dishoom adds cultural-system pressure.
+
+---
+
+## Culture vs Aestheticisation
+
+Dishoom creates strongest current case.
+
+---
+
+## Documentary Truth vs Constructed Story
+
+Dishoom introduces explicit complexity.
+
+---
+
+## Memory vs Present Experience
+
+Dishoom.
+
+---
+
+## Image Abundance vs Editorial Control
+
+Talisman / Mawimbi / Dishoom vs FYN.
+
+---
+
+## Mystery vs Evidence
+
+Especially relevant to:
+
+FYN
+
+and
+
+culturally rich brands like Dishoom.
+
+---
+
+## Brand Consistency vs Location Specificity
+
+Dishoom introduces strong multi-location pressure.
+
+---
+
+## Editorial Depth vs Decision Speed
+
+Dishoom introduces strong evidence that rich content and practical decision-making must coexist.
+
+---
+
+# Contradiction Matrix
+
+## Photography Before Decoration
+
+Dishoom Outcome:
+
+Supported
+
+---
+
+## Photography as Proof
+
+Dishoom Outcome:
+
+Supported
+
+---
+
+## Photography Through Layers of Experience
+
+Dishoom Outcome:
+
+Supported
+
+---
+
+## Photography Should Demonstrate Difference
+
+Dishoom Outcome:
+
+Strong Support
+
+---
+
+## Show the System Behind the Plate
+
+Dishoom Outcome:
+
+Supported With Definition Pressure
+
+---
+
+## Photography as Use-Case Evidence
+
+Dishoom Outcome:
+
+Strong Support
+
+---
+
+## Daypart Photography
+
+Dishoom Outcome:
+
+Strong Support
+
+---
+
+## Narrative Coherence Through Organising Logic
+
+Dishoom Outcome:
+
+Supported
+
+---
+
+## The Guest as Participant
+
+Dishoom Outcome:
+
+Supported
+
+---
+
+# Geographic Transferability
+
+After full Dishoom reconciliation, photography research will span:
+
+* Kenya
+* South Africa
+* United Kingdom
+
+and materially different categories:
+
+* premium casual
+* worldview-led dining
+* heritage dining
+* seafood destination
+* neighbourhood hospitality
+* tasting-menu fine dining
+* high-volume comfort food
+
+### Patterns Strengthened Across Markets
+
+* Photography Before Decoration
+* Photography as Proof
+* Photography Through Layers of Experience
+* Narrative Coherence Through Organising Logic
+
+### Candidate Strongly Strengthened
+
+* Photography Should Demonstrate Difference
+
+### Candidate Requiring Scope Review
+
+* Show the System Behind the Plate
+
+### Important Rule
+
+Dishoom strengthens transferability.
+
+It does not create broad international validation.
+
+---
+
+# Commercial Opportunity Implications
+
+Photography comparison strengthens several opportunity clusters.
+
+These remain separate from pattern maturity.
+
+---
+
+## Photography Proof Architecture
+
+Possible system:
+
+Claim
 
 ↓
 
@@ -1588,117 +2024,7 @@ Required Evidence
 
 ↓
 
-Photography Roles
-
-↓
-
-Editorial Sequence
-
----
-
-# Example
-
-## Neighbourhood Hospitality
-
-Example:
-
-Bistro Lolo
-
-Likely photography priorities:
-
-- people
-- use
-- dayparts
-- place
-- food
-- social rhythm
-
----
-
-## Product Specialist
-
-Example:
-
-Mawimbi
-
-Likely priorities:
-
-- product
-- sourcing
-- craft
-- signature difference
-- occasion
-
----
-
-## Heritage Destination
-
-Example:
-
-Talisman
-
-Likely priorities:
-
-- place
-- history
-- food
-- interiors
-- accumulated character
-
----
-
-## Process-Led Restaurant
-
-Example:
-
-Cultiva
-
-Likely priorities:
-
-- source
-- ingredients
-- cultivation
-- process
-- finished product
-
----
-
-## High-Commitment Chef-Led Dining
-
-Example:
-
-FYN
-
-Likely priorities:
-
-- product
-- craft
-- space
-- authorship
-- selected ingredient evidence
-- controlled mystery
-
----
-
-# Opportunity Direction
-
-## Photography Proof Architecture
-
-Potential future KHDS system:
-
-Restaurant Claim
-
-↓
-
-What Must Be Believed?
-
-↓
-
-Proof Category
-
-↓
-
-Image Requirement
+Image Role
 
 ↓
 
@@ -1706,43 +2032,131 @@ Sequence
 
 ↓
 
-CTA / Reservation
-
-Possible proof categories:
-
-- Product
-- Place
-- Process
-- Craft
-- Atmosphere
-- Occasion
-- Use
-
-### Status
-
-Implementation / Product Direction
-
-Not a research pattern.
+Confidence
 
 ---
 
-# Opportunity Direction
+## Culinary Difference Proof
 
-## Culinary Difference Proof System
+For product-led restaurants:
 
-The repeated tension across Mawimbi, Bistro Lolo, and FYN creates a clear commercial direction.
-
-Possible structure:
-
-What Makes the Product Different?
+Attractive Product
 
 ↓
 
-Ingredient
+Distinctive Evidence
 
 ↓
 
-Place / Source
+Reason to Choose
+
+---
+
+## Photography by Intent
+
+Possible guest intents:
+
+* date night
+* breakfast
+* group dining
+* celebration
+* casual drop-in
+* business meal
+* drinks
+
+↓
+
+Relevant imagery.
+
+---
+
+## Daypart Photography System
+
+Possible:
+
+Morning
+
+↓
+
+Afternoon
+
+↓
+
+Evening
+
+↓
+
+Late
+
+with different:
+
+* light
+* food
+* people
+* atmosphere
+* occasion.
+
+---
+
+## Cultural Photography Architecture
+
+Separate:
+
+* documentary evidence
+* archival material
+* contemporary hospitality
+* product proof
+* location-specific evidence
+
+---
+
+## Social Use Photography
+
+Show:
+
+who uses the space
+
+*
+
+how
+
+*
+
+when.
+
+---
+
+## Parent Brand / Location Photography Architecture
+
+Parent Library
+
+*
+
+Location Library
+
+↓
+
+Shared Coherence
+
+*
+
+Local Difference.
+
+---
+
+## Product-to-Culture Proof
+
+Possible sequence:
+
+Dish
+
+↓
+
+Origin / Context
+
+↓
+
+Tradition
 
 ↓
 
@@ -1750,81 +2164,310 @@ Technique
 
 ↓
 
-Person
+Current Interpretation
 
 ↓
 
-Finished Product
-
-↓
-
-Guest Meaning
-
-This could eventually inform:
-
-- KHDS photography briefs
-- restaurant content strategy
-- chef storytelling
-- client audits
-- photography shot lists
-
-### Status
-
-Potential Kodawa Labs Solution Direction
+Guest Experience.
 
 ---
 
-# Final Photography Comparison
+# Evidence Limitations
 
-The first five restaurants established that photography can prove:
+This comparison can establish:
 
-- place
-- process
-- product
-- atmosphere
-- occasion
-- use
+* visible photography subjects
+* published photography and design logic
+* food imagery roles
+* people / use imagery
+* cultural and archival material
+* location-specific visual material
+* visible narrative relationships
 
-FYN adds a major new distinction:
+It cannot establish:
 
-Photography can prove:
+* which images improve conversion
+* which images guests remember
+* whether product differentiation is understood
+* whether cultural imagery improves perceived authenticity
+* whether people imagery increases willingness to visit
+* whether daypart images improve intent matching
+* whether image volume harms engagement
+* whether archival imagery increases trust
+* whether photography changes average spend
 
-craft
+Those require:
 
-without proving:
+* analytics
+* usability testing
+* guest interviews
+* conversion testing
+* eye-tracking
+* direct behavioural evidence
+
+---
+
+# Comparison Outcome
+
+Dishoom does not create a new universal photography rule.
+
+It makes the current rule more precise.
+
+The strongest photography question is becoming:
+
+> **What does this guest need to believe, and what visual evidence would justify that belief?**
+
+Ankole needs to prove:
+
+place.
+
+Cultiva:
 
 system.
 
-That matters because fine-dining imagery can make a dish look extraordinary while leaving the restaurant’s deeper differentiation invisible.
+Talisman:
 
-Across Mawimbi, Bistro Lolo, and FYN, the same problem now repeats:
+character.
 
-> **Beautiful food is easy to communicate. Distinctive food is harder to prove.**
+Mawimbi:
 
-This gives `Photography Should Demonstrate Difference` enough repeated independent evidence to deserve Candidate status after the FYN governance cycle, provided the remaining comparison files do not reveal a contradiction.
+product + occasion.
 
-FYN also improves `Photography Through Layers of Experience`.
+Bistro Lolo:
 
-The pattern should not mean:
+use.
 
-show every layer.
+FYN:
 
-It should mean:
+craft.
 
-select the layers the guest actually needs.
+Dishoom:
 
-And FYN gives KHDS a new question that will matter increasingly as we study destination and tasting-menu hospitality:
+culture + social meaning + difference.
 
-> **What should photography deliberately leave for the guest to discover in person?**
+That diversity is important.
 
-That question protects photography from becoming pure explanation.
+It means KHDS should never define hospitality photography as:
 
-The goal is not maximum disclosure.
+large hero image
 
-It is enough evidence to create confident desire.
+*
 
-No photography pattern becomes Validated.
+food gallery
 
-The comparison becomes more precise.
+*
+
+interior gallery.
+
+That would be implementation-first thinking.
+
+The research supports:
+
+Evidence Requirement
+
+↓
+
+Photography Strategy
+
+not:
+
+Template
+
+↓
+
+Image Filling.
+
+Dishoom also materially strengthens:
+
+`Photography Should Demonstrate Difference`.
+
+This Candidate now survives four materially different product contexts with additional conceptual support from Cultiva.
+
+That makes it one of the strongest promotion candidates in the current Dishoom cycle.
+
+However, promotion should still wait until:
+
+* reservation comparison
+* story comparison
+* candidate governance
+
+are complete.
+
+Dishoom also adds a new question:
+
+what if the restaurant needs photography to prove:
+
+culture
+
+not only:
+
+product?
+
+That creates promising directions around:
+
+* cultural evidence
+* archival imagery
+* memory
+* context
+
+but those ideas remain immature.
+
+One restaurant should not define them.
+
+---
+
+# Provisional Photography Governance Position
+
+After the Dishoom photography comparison:
+
+## No Final Promotions
+
+0
+
+## No Demotions
+
+0
+
+## No Renames
+
+0
+
+## Strong Promotion Watch
+
+1
+
+* Photography Should Demonstrate Difference
+
+## Strong Candidate Scope Review
+
+1
+
+* Show the System Behind the Plate
+
+## Below-Candidate Candidate Watches
+
+2
+
+* Photography as Use-Case Evidence
+* Daypart Photography
+
+## New Below-Candidate Directions Preserved
+
+* Photography as Cultural Evidence
+* Archival Image as Brand Evidence
+* Photography as Behavioural Invitation
+
+Official KHDS maturity remains unchanged until the full Dishoom governance reconciliation.
+
+---
+
+# Current Photography Model
+
+The strongest provisional model is:
+
+What Must the Guest Believe?
+
+↓
+
+What Must Be Proven?
+
+↓
+
+What Must Be Contextualised?
+
+↓
+
+What Must Be Explained?
+
+↓
+
+What Should Remain Unrevealed?
+
+↓
+
+Select Evidence
+
+↓
+
+Build Meaning + Confidence
+
+This allows every restaurant to have a different image system.
+
+That is a strength.
+
+---
+
+# Final Photography Statement
+
+The first restaurant studies taught KHDS that photography carries atmosphere.
+
+Cultiva showed that it can carry:
+
+system.
+
+Talisman showed:
+
+character.
+
+Mawimbi showed:
+
+product + occasion.
+
+Bistro Lolo showed:
+
+use.
+
+FYN showed:
+
+craft.
+
+Dishoom now adds:
+
+culture + memory + social meaning.
+
+The deeper lesson is therefore not:
+
+use better photography.
+
+It is:
+
+> **Use photography to provide the evidence the guest actually needs.**
+
+And where the product is commercially differentiated:
+
+> **Do not stop at beauty. Show enough difference for the guest to understand why this restaurant deserves attention.**
+
+That is why:
+
+`Photography Should Demonstrate Difference`
+
+now deserves serious promotion consideration.
+
+But the comparison cycle is not finished.
+
+The next file should test whether Dishoom creates an equally important correction in reservation architecture.
+
+---
+
+## Research Status
+
+Dishoom Photography Comparison Complete
+
+---
+
+## Next Step
+
+Update:
+
+`comparison/reservation.md`
+
+Do not update:
+
+* `validation/candidate-patterns.md`
+* `patterns/registry.md`
+* `validation/dashboard.md`
+* `research/README.md`
+
+until all five Dishoom comparison files are complete.
 
 Evidence wins.

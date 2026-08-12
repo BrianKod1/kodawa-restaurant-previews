@@ -2,11 +2,30 @@
 
 ## Purpose
 
-This file tracks research-derived patterns that have not yet reached full validation.
+This file governs the movement of research findings through the KHDS maturity system.
 
-It exists to prevent KHDS from promoting ideas too quickly.
+It determines:
 
-Patterns move through:
+* which research findings remain observations
+* which become Candidates
+* which become Emerging patterns
+* which require refinement
+* which require renaming
+* which should be demoted
+* which are strong enough for future validation consideration
+* which findings must remain separate from implementation patterns and studio beliefs
+
+This file is the canonical governance layer for research-derived pattern maturity.
+
+It does not exist to maximise the number of KHDS patterns.
+
+It exists to protect the quality of KHDS knowledge.
+
+---
+
+# Pattern Lifecycle
+
+KHDS research follows:
 
 Observed
 
@@ -26,25 +45,39 @@ Validated
 
 KHDS Principle
 
-The purpose of this file is to:
+↓
 
-- track Candidate patterns
-- record evidence and contradictions
-- document scope changes
-- record abstraction pressure
-- prevent duplicate patterns
-- identify promotion and demotion conditions
-- separate visible website evidence from unverified operational claims
+Production Experience
 
-This file is governance.
+A finding may also move:
 
-It should not be treated as a list of design rules.
+downward
+
+if stronger evidence weakens it.
+
+Research maturity is not permanent simply because a pattern was previously promoted.
+
+Contradiction is evidence.
+
+Demotion is allowed.
+
+Renaming is allowed.
+
+Scope reduction is allowed.
+
+Pattern consolidation is allowed.
 
 ---
 
-# Research Base
+# Research Tracks
 
-Current completed independent research set:
+## Track A — Independent Hospitality Research
+
+Real hospitality businesses not designed by Kodawa Labs.
+
+These are the primary evidence base for research-derived KHDS patterns.
+
+Current independent set:
 
 1. Ankole
 2. Cultiva
@@ -52,24 +85,44 @@ Current completed independent research set:
 4. Mawimbi
 5. Bistro Lolo
 6. FYN
-
-Kodawa Labs validation concepts:
-
-1. Trunk & Tandoor Concept
-
-Important:
-
-Kodawa Labs concepts do not count as independent evidence.
-
-They may validate implementation decisions but must remain separate from research-derived maturity.
+7. Dishoom Covent Garden
 
 ---
 
-# Current Governance State After FYN Comparison
+## Track B — Kodawa Labs Validation
+
+Concepts designed by Kodawa Labs.
+
+Current validation concept:
+
+1. Trunk & Tandoor Concept
+
+Track B may test implementation.
+
+It must not be counted as independent evidence.
+
+---
+
+# Current Governance State
+
+Following completion of:
+
+* Dishoom Covent Garden dossier
+* arrival comparison
+* atmosphere comparison
+* photography comparison
+* reservation comparison
+* story comparison
+
+Dishoom is now formally reconciled into the KHDS independent research set.
+
+---
+
+# Official Research Counts
 
 ## Independent Restaurants Studied
 
-6
+7
 
 ## Kodawa Labs Validation Concepts
 
@@ -77,11 +130,11 @@ They may validate implementation decisions but must remain separate from researc
 
 ## Emerging Patterns
 
-17
+18
 
 ## Candidate Patterns
 
-9
+7
 
 ## Partially Supported Findings
 
@@ -95,35 +148,54 @@ They may validate implementation decisions but must remain separate from researc
 
 0
 
-## Existing KHDS Implementation Patterns Pending Validation
+## Existing KHDS Implementation Patterns Pending Formal Validation
 
 1
 
-### Existing Implementation Pattern
+Highest current research-derived maturity:
 
-- Invitation
-
-Current Research Status:
-
-Pending Formal Validation
+## Emerging
 
 ---
 
-# Current Highest Research-Derived Status
+# Dishoom Governance Summary
 
-Emerging
+The Dishoom cycle produced:
 
-No research-derived pattern has reached Validated status.
+## Five Official Pattern Renames
+
+1. Reservation Throughout the Journey
+   → Participation Throughout the Journey
+
+2. Dual-Path Hospitality
+   → Multi-Intent Hospitality
+
+3. Human Confirmation as Hospitality
+   → Human Assistance When Complexity Requires It
+
+4. Escalating Reservation Complexity
+   → Escalating Participation Complexity
+
+5. Narrative Language as Interface
+   → Narrative Language Within Clear Interface
+
+These are:
+
+## Abstraction Refinements
+
+They do not represent:
+
+* promotions
+* demotions
+* new patterns
+
+The underlying research findings remain at their existing maturity levels.
 
 ---
 
-# FYN Reconciliation Summary
+## One Official Promotion
 
-The FYN research cycle produced three major governance changes.
-
-## Promotion
-
-`Escalating Reservation Complexity`
+Photography Should Demonstrate Difference
 
 Candidate
 
@@ -133,528 +205,1106 @@ Emerging
 
 ---
 
-## Promotion
+## One Official Demotion
 
-`Photography Should Demonstrate Difference`
+Growth as Narrative
+
+Candidate
+
+↓
 
 Observed Research Direction
 
-↓
+---
 
-Candidate
+## Major Definition Refinements
+
+* Commitment Without Pressure
+* Story Through Place
+* Heritage Builds Confidence
+* Atmosphere Through Continuity
+* Layered Arrival
+* Photography Through Layers of Experience
 
 ---
 
-## Abstraction Change
+# Why Dishoom Changed KHDS
 
-`One Idea Can Organise the Brand Story`
+Dishoom was selected specifically to challenge the existing framework through:
 
-becomes:
+* high-volume hospitality
+* walk-in-first participation
+* all-day service
+* deep cultural storytelling
+* multi-location brand structure
+* social energy
+* location-specific mythology
 
-`Narrative Coherence Through Organising Logic`
+FYN tested:
 
-Status remains:
+## High Commitment
+
+Dishoom tested:
+
+## Low-Commitment / Flexible Participation
+
+Together they exposed several pattern names that were describing:
+
+specific implementations
+
+rather than:
+
+the deeper guest behaviour.
+
+The most significant correction is the shift from:
+
+Reservation Architecture
+
+toward:
+
+Participation Architecture.
+
+---
+
+# Official Emerging Patterns
+
+The following 18 research-derived patterns are now officially Emerging.
+
+---
+
+# 1. Emotion Before Interface
+
+## Status
 
 Emerging
 
-This is not a promotion.
+## Confidence
 
-It is a refinement of the underlying abstraction.
+High
+
+## Definition
+
+A hospitality digital experience should establish an emotional sense of the restaurant before reducing the experience to functional interface elements.
+
+This does not mean:
+
+emotion instead of usability.
+
+It means the guest should first understand:
+
+what kind of experience this is
+
+rather than encounter only:
+
+* buttons
+* forms
+* menus
+* booking tools
+
+## Independent Evidence
+
+* Ankole
+* Cultiva
+* Talisman
+* Mawimbi
+* Bistro Lolo
+* FYN
+* Dishoom
+
+## Dishoom Effect
+
+Strongly strengthened.
+
+Dishoom demonstrates that emotionally distinctive arrival can survive:
+
+* high volume
+* practical clarity
+* walk-in-first hospitality
+
+without becoming operationally confusing.
 
 ---
 
-# Emerging Pattern Removed From Candidate Governance
+# 2. Story Before Features
 
-## Escalating Reservation Complexity
-
-### Previous Status
-
-Candidate
-
-### New Status
+## Status
 
 Emerging
 
-### Promotion Reason
+## Confidence
 
-Strong independent evidence:
+High
 
-- Mawimbi
-- FYN
+## Definition
 
-Meaningful partial support:
+Hospitality experiences should establish enough meaning for guests to understand why the restaurant exists before reducing the brand to functional features.
 
-- Talisman
-- Bistro Lolo
+This does not require:
 
-### Cross-Restaurant Logic
+long-form storytelling.
 
-Standard / Predictable Need
+Story may be carried through:
+
+* place
+* worldview
+* history
+* product
+* people
+* philosophy
+* culture
+* atmosphere
+
+## Independent Evidence
+
+All seven restaurants.
+
+## Dishoom Effect
+
+Very strongly strengthened.
+
+Dishoom demonstrates that substantial narrative depth can coexist with:
+
+* booking
+* menus
+* location discovery
+* walk-ins
+* group dining
+* practical navigation
+
+---
+
+# 3. Photography Before Decoration
+
+## Status
+
+Emerging
+
+## Confidence
+
+High
+
+## Definition
+
+Hospitality imagery should carry meaningful evidence about the actual experience before decorative visual treatment is used to create identity.
+
+Photography may provide evidence of:
+
+* product
+* place
+* atmosphere
+* people
+* process
+* craft
+* use
+* culture
+* memory
+
+## Independent Evidence
+
+All seven restaurants.
+
+## Dishoom Effect
+
+Broadens the evidence base to include:
+
+* family photography
+* archival material
+* documentary imagery
+* cultural imagery
+
+when these carry meaningful narrative evidence.
+
+---
+
+# 4. Participation Throughout the Journey
+
+## Previous Name
+
+Reservation Throughout the Journey
+
+## Status
+
+Emerging
+
+## Confidence
+
+High
+
+## Official Rename
+
+Yes.
+
+## Definition
+
+> A hospitality experience should keep the appropriate path to participation understandable and accessible throughout the guest journey.
+
+Possible participation mechanisms include:
+
+* reservation
+* walk-in
+* queue
+* group booking
+* direct enquiry
+* ticket
+* order
+
+depending on the hospitality model.
+
+## Why Renamed
+
+The first research set made:
+
+reservation
+
+appear to be the transferable behaviour.
+
+Dishoom showed that:
+
+participation
+
+is the deeper guest need.
+
+A guest may legitimately participate without making a reservation.
+
+## Independent Evidence
+
+* Ankole
+* Cultiva
+* Talisman
+* Mawimbi
+* Bistro Lolo
+* FYN
+* Dishoom
+
+## Governance Effect
+
+Rename only.
+
+No maturity change.
+
+---
+
+# 5. Atmosphere Through Consistency
+
+## Status
+
+Emerging
+
+## Confidence
+
+High
+
+## Definition
+
+Atmosphere becomes stronger when the restaurant’s:
+
+* story
+* space
+* photography
+* food
+* language
+* material
+* behaviour
+
+reinforce the same broader emotional logic.
+
+Consistency does not mean:
+
+minimalism.
+
+It means:
+
+coherence.
+
+## Dishoom Effect
+
+Strongly strengthened.
+
+FYN demonstrated:
+
+consistency through restraint.
+
+Dishoom demonstrates:
+
+consistency through richness and density.
+
+---
+
+# 6. Multi-Intent Hospitality
+
+## Previous Name
+
+Dual-Path Hospitality
+
+## Status
+
+Emerging
+
+## Confidence
+
+High
+
+## Official Rename
+
+Yes.
+
+## Definition
+
+> Hospitality systems should recognise materially different guest intentions and provide appropriate participation routes without forcing every guest through the same journey.
+
+Possible intent differences include:
+
+* ready to book
+* exploring
+* spontaneous visit
+* breakfast
+* dinner
+* group event
+* large party
+* special request
+
+## Why Renamed
+
+The evidence no longer supports the idea that two paths adequately describe hospitality behaviour.
+
+Dishoom exposes several legitimate guest states simultaneously.
+
+## Governance Effect
+
+Rename only.
+
+No maturity change.
+
+---
+
+# 7. Commitment Without Pressure
+
+## Status
+
+Emerging
+
+## Confidence
+
+High
+
+## Refined Definition
+
+> Hospitality may require different levels of commitment when those requirements are relevant to the experience or operational consequence, provided they are proportionate, visible, understandable, and non-manipulative.
+
+## FYN Contribution
+
+High commitment may remain hospitable when:
+
+* expectations are visible
+* consequences are understandable
+* constraints are meaningful
+
+## Dishoom Contribution
+
+Commitment may scale with operational consequence.
+
+Possible progression:
+
+Walk-In
 
 ↓
 
-Self-Service
+Low Commitment
 
-Complex / Exceptional Need
+Standard Reservation
 
 ↓
 
-Greater Human Assistance
+Planning Commitment
 
-### Important Boundary
+Group Feast
 
-The research supports differentiated guest pathways.
+↓
 
-It does not prove:
+Guarantee
 
-- backend routing
-- automated escalation
-- CRM architecture
-- unified channel infrastructure
-- staff workflow implementation
+Large Event
 
-### Canonical Scope
+↓
 
-The pattern should refer to visible hospitality logic, not inferred technical architecture.
+Deposit
 
-### Promotion Confidence
+## Governance Decision
+
+Retain name.
+
+Absorb:
+
+`Proportionate Commitment`
+
+as a mechanism inside this pattern.
+
+Do not create a separate pattern.
+
+---
+
+# 8. Photography as Proof
+
+## Status
+
+Emerging
+
+## Confidence
+
+High
+
+## Definition
+
+Photography should provide visible evidence for the claims that matter to the guest decision.
+
+Possible evidence includes:
+
+* Product Proof
+* Place Proof
+* Process Proof
+* Atmosphere Proof
+* Occasion Proof
+* Use Proof
+* Craft Proof
+* Cultural Proof
+* Memory Proof
+
+## Governance Boundary
+
+Not every restaurant requires every proof category.
+
+The evidence required depends on the claim being made.
+
+---
+
+# 9. Story Through Place
+
+## Status
+
+Emerging
+
+## Confidence
+
+High
+
+## Refined Definition
+
+> Hospitality story may draw meaning from physical, historical, neighbourhood, ecological, culinary, geographic, remembered, or referenced place when that relationship genuinely helps explain the experience.
+
+## Previous Scope
+
+Primarily physical place.
+
+## FYN Expansion
+
+* ecological
+* culinary
+* geographic
+
+## Dishoom Expansion
+
+* remembered
+* referenced
+* historical
+* translated place
+
+## Important Boundary
+
+Fictional or remembered place must not be presented as documentary geography.
+
+---
+
+# 10. Promise Before Proof
+
+## Status
+
+Emerging
+
+## Confidence
 
 Medium to High
 
-### Governance Decision
+## Definition
 
-Promoted to Emerging.
+A hospitality brand may first create an emotional promise and then provide the evidence required to justify it.
 
-Remove from Candidate count.
+Possible flow:
 
----
+Promise
 
-# Candidate 1
+↓
 
-## Atmosphere Through Worldview
+Evidence
 
-### Status
+↓
 
-Candidate / Under Review
+Confidence
 
-### Confidence
+## Dishoom Effect
 
-Medium to High
+Supported with boundary.
 
-### Core Hypothesis
+Dishoom keeps the distance between:
 
-A restaurant’s worldview may shape the atmosphere of the physical and digital hospitality experience.
+promise
 
-### Strong Evidence
+and
 
-- Cultiva
-- FYN
+proof
 
-### Partial / Contextual Evidence
+relatively short.
 
-- Ankole
-- Talisman
+## Governance Decision
 
-### Boundary Evidence
+Retain.
 
-- Mawimbi
-- Bistro Lolo
-
-### Cultiva Evidence
-
-Atmosphere is connected to:
-
-- cultivation
-- sustainability
-- process
-- community
-- food philosophy
-
-### FYN Evidence
-
-Atmosphere is connected to:
-
-- restraint
-- seasonality
-- ingredient character
-- African place
-- Japanese culinary philosophy
-- elemental design
-- controlled contrast
-
-### Current Tension
-
-Worldview clearly functions as an atmospheric mechanism.
-
-However, other restaurants create strong atmosphere through different mechanisms.
-
-Examples:
-
-## Mawimbi
-
-Designed Escape
-
-## Bistro Lolo
-
-Designed Belonging
-
-## Talisman
-
-Continuity
-
-### Previous Abstraction Question
-
-Possible future broadening:
-
-`Atmosphere Through Organising Idea`
-
-### FYN Effect
-
-Do not broaden yet.
-
-FYN provides strong geographically distinct evidence that worldview itself remains meaningful.
-
-### Promotion Requirement
-
-Before promotion to Emerging, future research should establish whether:
-
-- worldview consistently influences atmosphere
-- the behaviour survives additional categories and markets
-- worldview is meaningfully distinct from generic brand consistency
-
-### Demotion Condition
-
-Demote if future evidence shows that:
-
-- worldview rarely influences atmosphere directly
-- the useful behaviour is fully explained by Atmosphere Through Consistency
-
-### Governance Decision
-
-Keep Candidate / Under Review.
-
-Do not rename.
+No maturity change.
 
 ---
 
-# Candidate 2
+# 11. Layered Arrival
 
-## Show the System Behind the Plate
+## Status
 
-### Status
+Emerging
 
-Candidate
+## Confidence
 
-### Confidence
+High
 
-Medium to High
+## Refined Definition
 
-### Core Hypothesis
+> A hospitality arrival progressively gives the guest enough meaning, evidence, expectation clarity, and participation guidance to continue with confidence.
 
-When sourcing, ingredients, process, or production systems materially differentiate a restaurant, making that system visible can strengthen credibility and product understanding.
+Layered Arrival does not prescribe:
 
-### Strong Evidence
+* number of sections
+* fixed page order
+* slow pacing
+* cinematic presentation
 
-- Cultiva
+## FYN Contribution
 
-### Meaningful Partial Evidence
+Layering may include:
 
-- Mawimbi
-- Bistro Lolo
-- FYN
+expectation clarity
 
-### Cultiva Evidence
+and
 
-The wider food system is central to the restaurant’s proposition.
+commitment.
 
-### Mawimbi Evidence
+## Dishoom Contribution
 
-Seafood identity creates a meaningful sourcing and product-system question.
+Layering can happen:
 
-### Bistro Lolo Evidence
+quickly
 
-Local sourcing and culinary differentiation create opportunity for stronger system visibility.
+and
 
-### FYN Evidence
+densely.
 
-The menu and story contain:
+## Governance Decision
 
-- geography
-- ecology
-- seasonality
-- ingredient identity
-- philosophy
+Retain.
 
-while photography more clearly proves:
-
-craft
-
-than
-
-system.
-
-### Important Distinction
-
-## Craft Proof
-
-Shows execution.
-
-## System Proof
-
-Shows how the product came into existence.
-
-These should not be treated as equivalent.
-
-### Scope
-
-The pattern is most relevant when the restaurant’s differentiation depends materially on:
-
-- sourcing
-- provenance
-- process
-- sustainability
-- ingredients
-- production method
-
-### Promotion Requirement
-
-More strong direct process/system evidence across independent restaurants.
-
-### Demotion Condition
-
-Demote if system visibility repeatedly adds complexity without meaningful guest value.
-
-### Governance Decision
-
-Keep Candidate.
+Progressive confidence-building remains the canonical interpretation.
 
 ---
 
-# Candidate 3
+# 12. Narrative Coherence Through Organising Logic
 
-## Heritage Builds Confidence
+## Status
 
-### Status
+Emerging
 
-Candidate
+## Confidence
 
-### Confidence
+High
 
-Medium
+## Definition
 
-### Core Hypothesis
+> A hospitality brand should organise its stories, people, places, products, language, and experiences around a coherent narrative logic so that multiple ideas reinforce rather than compete with one another.
 
-Historical continuity can strengthen guest confidence by demonstrating:
+## FYN Contribution
 
-- longevity
-- accumulated reputation
-- place continuity
-- cultural significance
+Multiple:
 
-### Strong Evidence
+* places
+* chefs
+* techniques
+* ingredients
+* influences
 
-- Talisman
+can remain coherent.
 
-### Partial Evidence
+## Dishoom Contribution
 
-- Ankole
+Multiple:
 
-### Boundary / Negative Evidence
+* cultural stories
+* myths
+* characters
+* locations
+* historical references
+* products
 
-- Bistro Lolo
-- FYN
+can also remain coherent.
 
-### FYN Effect
+## Governance Decision
 
-FYN demonstrates that authority can come from:
+Retain.
 
-- expertise
-- philosophy
-- authorship
-- craft
-- recognition
-
-without relying on heritage.
-
-### Current Learning
-
-Heritage is one credibility mechanism.
-
-It is not a universal trust mechanism.
-
-### Scope
-
-Potentially strongest for:
-
-- long-running restaurants
-- historically significant venues
-- family businesses
-- place-based institutions
-
-### Promotion Requirement
-
-Additional strong heritage-led independent cases.
-
-### Demotion Condition
-
-Demote if future cases show heritage repeatedly functioning as background trivia rather than confidence-building evidence.
-
-### Governance Decision
-
-Keep Candidate.
-
-Narrow scope.
+The previous FYN rename is strongly validated as an abstraction improvement.
 
 ---
 
-# Candidate 4
+# 13. The Guest as Participant
 
-## Growth as Narrative
+## Status
 
-### Status
+Emerging
 
-Candidate
+## Confidence
 
-### Confidence
+High
 
-Low to Medium
+## Definition
 
-### Core Hypothesis
+The guest should be understood as someone who participates in the hospitality experience rather than merely observes the brand.
 
-A restaurant’s growth over time can become meaningful narrative evidence.
+Participation may be:
+
+* social
+* culinary
+* spatial
+* cultural
+* narrative
+* behavioural
+
+## Dishoom Effect
+
+Strongly strengthened.
+
+Dishoom introduces especially strong:
+
+social participation.
+
+---
+
+# 14. Photography Through Layers of Experience
+
+## Status
+
+Emerging
+
+## Confidence
+
+High
+
+## Refined Definition
+
+> Hospitality photography should use the relevant visual layers required to help the guest understand the experience without overwhelming the decision journey.
+
+Layering is not:
+
+show everything.
+
+It is:
+
+selective evidence diversity.
+
+## FYN Contribution
+
+Reinforced restraint and selective evidence.
+
+## Dishoom Contribution
+
+Demonstrates why editorial selection becomes more important when the brand possesses many legitimate image types.
+
+---
+
+# 15. Human Assistance When Complexity Requires It
+
+## Previous Name
+
+Human Confirmation as Hospitality
+
+## Status
+
+Emerging
+
+## Confidence
+
+High
+
+## Official Rename
+
+Yes.
+
+## Definition
+
+> Hospitality systems should preserve efficient self-service for predictable interactions while introducing human assistance when judgement, coordination, exception handling, or complexity makes it valuable.
+
+## Why Renamed
+
+Earlier Talisman evidence made:
+
+human confirmation
+
+appear to be the transferable behaviour.
+
+Later evidence from:
+
+* Mawimbi
+* FYN
+* Dishoom
+
+shows that human involvement is more consistently valuable when:
+
+complexity increases.
+
+## Important Boundary
+
+Human interaction is not automatically superior to self-service.
+
+Human assistance should appear where it adds value.
+
+## Governance Effect
+
+Rename only.
+
+No maturity change.
+
+---
+
+# 16. Atmosphere as Product
+
+## Status
+
+Emerging
+
+## Confidence
+
+High
+
+## Definition
+
+For some hospitality brands, the emotional environment itself is part of what the guest chooses and purchases.
+
+Strong independent models include:
+
+* Mawimbi — Escape
+* Bistro Lolo — Belonging
+* FYN — Restraint + Controlled Contrast
+* Dishoom — Cultural Immersion + Social Energy
+
+## Governance Decision
+
+Retain Emerging.
+
+No universal atmospheric style implied.
+
+---
+
+# 17. Escalating Participation Complexity
+
+## Previous Name
+
+Escalating Reservation Complexity
+
+## Status
+
+Emerging
+
+## Confidence
+
+High
+
+## Official Rename
+
+Yes.
+
+## Definition
+
+> As guest participation becomes more operationally complex, hospitality systems should progressively introduce the coordination, commitment, policy, and human involvement necessary to support it.
+
+Possible complexity variables include:
+
+* party size
+* time
+* occasion
+* event type
+* special requirements
+* operational exposure
+
+## Why Renamed
+
+Dishoom demonstrates that escalation can begin outside formal reservation.
 
 Possible structure:
 
-Beginning
+Walk-In
 
 ↓
 
-Development
+Reservation
 
 ↓
 
-Expansion
+Group Booking
 
 ↓
 
-Institution
+Direct Coordination
 
-### Strong Evidence
+↓
 
-- Talisman
+Financial Commitment
 
-### Partial Evidence
+## Strong Evidence
 
-- Bistro Lolo
+* Mawimbi
+* FYN
+* Dishoom
 
-### Weak / Not Central
+## Governance Effect
 
-- Ankole
-- Cultiva
-- Mawimbi
-- FYN
+Rename only.
 
-### FYN Effect
-
-FYN describes itself as evolving.
-
-However:
-
-Evolution
-
-is not the same as:
-
-Growth Narrative.
-
-### Current Problem
-
-The pattern remains supported by too few strong independent cases.
-
-### Promotion Requirement
-
-Additional restaurants where:
-
-- expansion
-- scale
-- evolution
-- institutional growth
-
-are clearly part of the public-facing story.
-
-### Demotion Watch
-
-High.
-
-### Demotion Condition
-
-If the next relevant research cases do not strengthen this pattern, move it back to Observed.
-
-### Governance Decision
-
-Keep Candidate temporarily.
-
-Flag for possible demotion.
+No maturity change.
 
 ---
 
-# Candidate 5
+# 18. Photography Should Demonstrate Difference
 
-## Atmosphere Through Continuity
-
-### Status
+## Previous Status
 
 Candidate
 
-### Confidence
+## New Status
+
+Emerging
+
+## Confidence
+
+High
+
+## Official Promotion
+
+Yes.
+
+## Definition
+
+> Hospitality photography should help communicate what makes the restaurant’s core product meaningfully distinctive rather than merely attractive.
+
+## Boundary
+
+Not every image must differentiate.
+
+The visual system as a whole should provide enough evidence of meaningful difference when product differentiation is commercially important.
+
+## Strong Independent Evidence
+
+### Mawimbi
+
+Premium seafood.
+
+### Bistro Lolo
+
+Neighbourhood / French-influenced hospitality.
+
+### FYN
+
+Chef-led tasting-menu fine dining.
+
+### Dishoom
+
+High-volume Bombay comfort food.
+
+## Conceptual Support
+
+Cultiva.
+
+## Why Promoted
+
+The behaviour now repeats across:
+
+* materially different categories
+* different market positions
+* different photography systems
+* different hospitality models
+
+The distinction between:
+
+Product Beauty
+
+and
+
+Product Difference
+
+has survived repeated stress testing.
+
+## Important Rule
+
+This promotion does not make the pattern:
+
+Validated.
+
+Emerging remains the highest research-derived maturity.
+
+---
+
+# Official Candidate Patterns
+
+Following the Dishoom governance cycle, seven patterns remain Candidate.
+
+---
+
+# 1. Atmosphere Through Worldview
+
+## Status
+
+Candidate / Under Review
+
+## Confidence
+
+High
+
+## Strong Evidence
+
+* Cultiva
+* FYN
+* Dishoom
+
+## Definition
+
+A restaurant’s worldview may shape its atmosphere when beliefs about:
+
+* food
+* land
+* culture
+* hospitality
+* craft
+* social meaning
+
+materially influence the environment and guest experience.
+
+## Dishoom Effect
+
+Major strengthening.
+
+## Governance Decision
+
+Keep Candidate.
+
+Keep current name.
+
+Previous pressure to broaden into:
+
+`Atmosphere Through Organising Idea`
+
+is reduced.
+
+Worldview now appears to be a distinct mechanism across three materially different hospitality models.
+
+---
+
+# 2. Show the System Behind the Plate
+
+## Status
+
+Candidate
+
+## Confidence
+
+Medium to High
+
+## Strongest Evidence
+
+Cultiva.
+
+## Additional Pressure
+
+* Mawimbi
+* FYN
+* Dishoom
+
+## Current Definition
+
+Hospitality brands may strengthen product credibility by showing meaningful evidence of the system that produces the food.
+
+## Current Scope Question
+
+Does:
+
+System Behind the Plate
+
+mean only:
+
+## Production System
+
+* sourcing
+* farming
+* suppliers
+* preparation
+
+or also:
+
+## Culinary / Cultural System
+
+* tradition
+* technique
+* recipe knowledge
+* cultural context
+* chef interpretation
+
+## Governance Decision
+
+Keep Candidate.
+
+Do not broaden yet.
+
+Requires more product-specialist evidence.
+
+---
+
+# 3. Heritage Builds Confidence
+
+## Status
+
+Candidate
+
+## Confidence
 
 Medium
 
-### Core Hypothesis
+## Strongest Evidence
 
-Atmosphere may gain emotional depth through continuity across:
+Talisman.
 
-- history
-- place
-- architecture
-- long-term use
-- accumulated identity
+## Refined Definition
 
-### Strong Evidence
+> A restaurant’s own institutional or directly inherited heritage may strengthen guest confidence when that continuity remains relevant to the contemporary hospitality experience.
 
-- Talisman
+## Critical Boundary
 
-### Partial Evidence
+## Institutional Heritage
 
-- Ankole
-- Bistro Lolo
+The restaurant’s own accumulated history.
 
-### Weak / Negative Evidence
+versus
 
-- FYN
+## Cultural Heritage
 
-### FYN Effect
+History interpreted by the restaurant.
 
-FYN creates strong atmosphere without relying on:
+Dishoom provides:
 
-- inherited history
-- long restaurant continuity
-- accumulated character
+cultural heritage.
 
-### Current Learning
+It should not be counted as equivalent institutional heritage evidence.
 
-Continuity is a valid atmospheric strategy.
-
-It is not required for strong atmosphere.
-
-### Promotion Requirement
-
-More strong independent cases where continuity clearly influences guest-facing atmosphere.
-
-### Demotion Condition
-
-Demote if continuity repeatedly proves secondary to broader Atmosphere Through Consistency.
-
-### Governance Decision
+## Governance Decision
 
 Keep Candidate.
 
@@ -662,112 +1312,120 @@ Narrow scope.
 
 ---
 
-# Candidate 6
+# 4. Atmosphere Through Continuity
 
-## Designed Escape
-
-### Status
+## Status
 
 Candidate
 
-### Confidence
+## Confidence
 
 Medium
 
-### Core Hypothesis
+## Strongest Evidence
 
-Hospitality can create value by transporting the guest emotionally into a world meaningfully separate from their ordinary surroundings.
+Talisman.
 
-### Strong Evidence
+## Refined Definition
 
-- Mawimbi
+Atmosphere may gain meaning through the restaurant’s own accumulated relationship with:
 
-### Partial Evidence
+* place
+* architecture
+* history
+* material
+* repeated use
 
-- Ankole
-- Talisman
-- FYN
+## Critical Boundary
 
-### Boundary / Contradictory Evidence
+## Accumulated Continuity
 
-- Bistro Lolo
+The restaurant has lived the history.
 
-### Important New Distinction
+versus
 
-Current research now contains:
+## Designed Historical Memory
 
-## Escape
+The restaurant deliberately references another history.
 
-Mawimbi
+Dishoom belongs primarily to the second category.
 
-## Belonging
-
-Bistro Lolo
-
-## Controlled Separation
-
-FYN
-
-### FYN Effect
-
-FYN should not be forced into Designed Escape.
-
-The restaurant creates distance from the city while preserving awareness of it.
-
-### Current Scope
-
-Designed Escape should remain specific to restaurants that intentionally create:
-
-- alternate world
-- emotional transport
-- thematic separation
-- immersive environment
-
-### Promotion Requirement
-
-Additional strong escape-led hospitality cases.
-
-### Demotion Condition
-
-Demote if future evidence shows escape is merely one expression of a broader atmospheric category already covered elsewhere.
-
-### Governance Decision
+## Governance Decision
 
 Keep Candidate.
 
-Do not broaden.
+Do not count designed memory as straightforward continuity evidence.
 
 ---
 
-# Candidate 7
+# 5. Designed Escape
 
-## World Before Biography
-
-### Status
+## Status
 
 Candidate
 
-### Confidence
+## Confidence
+
+Medium
+
+## Strongest Evidence
+
+Mawimbi.
+
+## Definition
+
+A hospitality environment may create value by deliberately producing emotional distance from the guest’s surrounding environment.
+
+## Dishoom Boundary
+
+Dishoom is transportive.
+
+But:
+
+Cultural Immersion
+
+is not automatically:
+
+Designed Escape.
+
+## Governance Decision
+
+Keep Candidate.
+
+Keep narrow.
+
+Do not broaden to every transportive hospitality environment.
+
+---
+
+# 6. World Before Biography
+
+## Status
+
+Candidate
+
+## Confidence
 
 Low to Medium
 
-### Core Hypothesis
+## Evidence
 
-Hospitality storytelling may become stronger when the guest understands the restaurant’s world before receiving detailed founder or team biography.
+Support:
 
-### Stronger Relevance
+* Cultiva
+* Dishoom
 
-- Cultiva
-- Mawimbi
+Meaningful:
 
-### Boundary Evidence
+* FYN
 
-- Bistro Lolo
-- FYN
+Boundary:
 
-### FYN Effect
+* Bistro Lolo
 
-FYN demonstrates that:
+## Current Problem
+
+The evidence increasingly suggests that:
 
 world
 
@@ -775,829 +1433,152 @@ and
 
 people
 
-may explain one another.
+are not necessarily competing story elements.
 
-Its leadership team helps make the culinary point of view understandable.
+Dishoom establishes a world first but then uses:
 
-### Current Problem
+character biography
 
-The phrase:
+inside the world.
 
-World Before Biography
+FYN uses:
 
-may over-prescribe sequence.
+people
 
-### Better Research Question
+to explain authorship.
 
-When does biography become meaningful to the guest?
+Bistro Lolo uses people to explain:
 
-### Potential Future Refinement
+belonging.
 
-People should appear when their presence helps explain:
+## Current Research Question
 
-- expertise
-- worldview
-- product
-- place
-- hospitality intention
+The deeper behaviour may be:
 
-### Promotion Requirement
+> Introduce people when they help the guest understand the world.
 
-More evidence that sequence itself creates value.
-
-### Demotion Watch
-
-High.
-
-### Governance Decision
+## Governance Decision
 
 Keep Candidate.
 
 Strong scope review.
 
-Do not rename yet.
+No rename yet.
 
 ---
 
-# Candidate 8
+# 7. Narrative Language Within Clear Interface
 
-## Narrative Language as Interface
+## Previous Name
 
-### Status
+Narrative Language as Interface
+
+## Status
 
 Candidate
 
-### Confidence
+## Confidence
 
-Low to Medium
+Medium to High
 
-### Core Hypothesis
+## Official Rename
 
-Narrative language can make functional hospitality interfaces feel more distinctive and immersive.
+Yes.
 
-### Strongest Evidence
+## Definition
 
-- Mawimbi
+> Hospitality interfaces may use distinctive narrative language to reinforce brand meaning while keeping essential actions, navigation, policies, and decisions immediately understandable.
 
-### Partial Evidence
+## Strong Evidence
 
-- Cultiva
-- FYN
+* Mawimbi
+* FYN
+* Dishoom
 
-### Boundary Evidence
+## Why Renamed
 
-- Bistro Lolo
+The previous name could imply:
 
-### FYN Effect
+all interface language should become narrative.
 
-FYN demonstrates strong narrative language through:
+The research does not support that.
 
-- headlines
-- menu framing
-- philosophy
-- editorial language
+Dishoom especially demonstrates that:
 
-while maintaining relatively conventional functional navigation.
+rich branded language
 
-### Current Learning
+can coexist with:
 
-Narrative language may enrich:
+clear functional language.
 
-- headlines
-- section framing
-- menus
-- editorial copy
+## Governance Decision
 
-without replacing clear interface terminology.
+Rename.
 
-### Current Scope Pressure
-
-The pattern may ultimately need refinement toward:
-
-`Narrative Language Within Clear Interface`
-
-### Promotion Requirement
-
-Evidence that narrative language improves identity without harming clarity across several independent cases.
-
-### Demotion Condition
-
-Demote if narrative interface language repeatedly creates ambiguity or proves unnecessary.
-
-### Governance Decision
-
-Keep Candidate.
-
-Do not rename yet.
+Retain Candidate maturity.
 
 ---
 
-# Candidate 9
+# Official Demotion
 
-## Photography Should Demonstrate Difference
-
-### Status
-
-Candidate
+## Growth as Narrative
 
 ### Previous Status
 
+Candidate
+
+### New Status
+
 Observed Research Direction
 
 ### Confidence
 
-High as a research question
+Low
 
-### Core Hypothesis
+### Why Demoted
 
-Hospitality photography should help communicate what makes the restaurant’s core product meaningfully distinctive rather than merely attractive.
+The evidence does not show sufficient independent repetition that:
 
-### Strong Evidence
+business expansion
 
-- Mawimbi
-- Bistro Lolo
-- FYN
+consistently creates guest-facing narrative value.
 
-### Conceptual Support
+Dishoom is particularly important negative evidence.
 
-- Cultiva
+Dishoom has clearly grown into a multi-location hospitality brand.
 
-### Mawimbi Evidence
+Yet the Covent Garden guest story is organised around:
 
-Beautiful seafood photography can create desire without automatically explaining why Mawimbi’s seafood proposition is distinct.
+* Bombay
+* culture
+* cinema
+* myth
+* food
+* hospitality
 
-### Bistro Lolo Evidence
-
-Attractive food imagery can communicate quality without fully explaining:
-
-- French culinary identity
-- local sourcing
-- producer relationships
-- neighbourhood differentiation
-
-### FYN Evidence
-
-Fine-dining photography strongly communicates:
-
-- precision
-- quality
-- craft
-
-but visual beauty alone may not explain:
-
-Modern African cuisine
-
-+
-
-Cape ingredients
-
-+
-
-Japanese culinary philosophy.
-
-### Repeated Tension
-
-Beautiful Product
-
-is not the same as
-
-Distinctive Product.
+rather than organisational growth.
 
 ### Current Interpretation
 
-Photography should help the guest understand:
+Growth may become narrative when it genuinely explains:
 
-Why this restaurant?
+* evolution
+* impact
+* legacy
+* credibility
+* guest experience
 
-not only:
+But growth itself is not automatically:
 
-Does this look good?
-
-### Important Boundary
-
-Not every image must demonstrate differentiation.
-
-The photographic system as a whole should provide enough evidence of meaningful difference when differentiation is commercially important.
-
-### Relationship to Existing Patterns
-
-This pattern should remain distinct from:
-
-## Photography as Proof
-
-because proof asks:
-
-Is the claim believable?
-
-while this Candidate asks:
-
-Is the difference understandable?
-
-It should also remain distinct from:
-
-## Show the System Behind the Plate
-
-because differentiation may come from:
-
-- ingredient
-- technique
-- philosophy
-- geography
-- authorship
-- product form
-
-without requiring the complete production system.
-
-### Promotion Requirement
-
-To reach Emerging, future research should confirm the pattern across additional:
-
-- chef-led restaurants
-- ingredient-led restaurants
-- product specialists
-- geographically distinct markets
-
-### Demotion Condition
-
-Demote if future evidence shows differentiation is more effectively communicated through copy/story than photography in most cases.
+story value.
 
 ### Governance Decision
 
-Promote:
+Demote below Candidate.
 
-Observed Research Direction
+Continue observing.
 
-↓
-
-Candidate
-
----
-
-# Candidate Count After FYN Reconciliation
-
-Current Candidate Patterns:
-
-9
-
-1. Atmosphere Through Worldview
-2. Show the System Behind the Plate
-3. Heritage Builds Confidence
-4. Growth as Narrative
-5. Atmosphere Through Continuity
-6. Designed Escape
-7. World Before Biography
-8. Narrative Language as Interface
-9. Photography Should Demonstrate Difference
-
----
-
-# Emerging Pattern Governance Notes
-
-Candidate governance must also track changes that affect Emerging patterns when those changes alter Candidate relationships.
-
----
-
-# Emerging Pattern Update
-
-## Narrative Coherence Through Organising Logic
-
-### Previous Name
-
-One Idea Can Organise the Brand Story
-
-### Status
-
-Emerging
-
-### Confidence
-
-High in underlying behaviour
-
-### Evidence
-
-## Singular-Idea Strong
-
-- Cultiva
-- Mawimbi
-
-## Multi-Element Coherence Strong
-
-- Bistro Lolo
-- FYN
-
-## Mixed Support
-
-- Ankole
-- Talisman
-
-### Reason for Rename
-
-The independent evidence supports:
-
-Narrative Coherence
-
-but does not support the universal claim that coherence requires:
-
-One Idea.
-
-### Canonical Direction
-
-A hospitality brand should organise its:
-
-- stories
-- people
-- place
-- product
-- language
-
-around a coherent narrative logic so that multiple ideas reinforce rather than compete with one another.
-
-### Governance Decision
-
-Rename during registry reconciliation.
-
-Status remains Emerging.
-
-No promotion or demotion.
-
----
-
-# Emerging Pattern Update
-
-## Commitment Without Pressure
-
-### Status
-
-Emerging
-
-### Confidence
-
-High
-
-### FYN Effect
-
-Major definition refinement.
-
-### Previous Risk
-
-The pattern could be interpreted as:
-
-Reduce commitment.
-
-### Updated Meaning
-
-The current evidence supports:
-
-> Hospitality may require meaningful commitment while avoiding manipulative pressure when expectations, consequences, and required actions are made clear before the guest commits.
-
-### Core Distinction
-
-## Commitment
-
-Legitimate participation condition.
-
-## Pressure
-
-Artificial persuasion.
-
-### Governance Decision
-
-Keep Emerging.
-
-Update canonical definition during registry reconciliation.
-
----
-
-# Emerging Pattern Update
-
-## Dual-Path Hospitality
-
-### Status
-
-Emerging
-
-### Confidence
-
-High
-
-### Current Problem
-
-The name is increasingly literal.
-
-Evidence now includes more than two guest states.
-
-### Deeper Behaviour
-
-Different legitimate guest intents require appropriate participation paths.
-
-### Possible Future Name
-
-`Multi-Intent Hospitality`
-
-### Governance Decision
-
-Keep current name for this cycle.
-
-Flag for strong abstraction review.
-
-No rename yet.
-
----
-
-# Emerging Pattern Update
-
-## Human Confirmation as Hospitality
-
-### Status
-
-Emerging
-
-### Confidence
-
-Medium
-
-### Supporting Evidence
-
-- Talisman
-- Mawimbi
-
-### Boundary / Narrowing Evidence
-
-- Bistro Lolo
-- FYN
-
-### Current Problem
-
-Human confirmation itself is increasingly difficult to defend as the universal behaviour.
-
-### Deeper Behaviour
-
-Human involvement appears most valuable when:
-
-- judgment is required
-- complexity increases
-- a standard digital flow does not fit
-
-### Possible Future Name
-
-`Human Assistance When Complexity Requires It`
-
-### Governance Decision
-
-Keep current name for this cycle.
-
-Flag for major scope review.
-
-No rename yet.
-
----
-
-# Emerging Pattern Update
-
-## Atmosphere as Product
-
-### Status
-
-Emerging
-
-### Confidence
-
-High
-
-### Strong Evidence
-
-- Mawimbi
-- Bistro Lolo
-- FYN
-
-### Partial Support
-
-- Ankole
-- Talisman
-
-### Conceptual Support
-
-- Cultiva
-
-### Governance Effect
-
-Confidence strengthened.
-
-No maturity change.
-
----
-
-# Emerging Pattern Update
-
-## Layered Arrival
-
-### Status
-
-Emerging
-
-### Confidence
-
-High
-
-### FYN Effect
-
-Strengthens interpretation that Layered Arrival means:
-
-progressive confidence-building
-
-rather than:
-
-fixed page sequence.
-
-### Governance Decision
-
-Keep Emerging.
-
-Update wording if needed in registry.
-
----
-
-# Emerging Pattern Update
-
-## Story Through Place
-
-### Status
-
-Emerging
-
-### Confidence
-
-High
-
-### FYN Effect
-
-Expands place beyond:
-
-- architecture
-- history
-- neighbourhood
-
-to include:
-
-- ecology
-- geography
-- ingredients
-- land
-- sea
-
-### Governance Decision
-
-Keep Emerging.
-
-Broaden canonical definition.
-
----
-
-# Emerging Pattern Update
-
-## Photography Through Layers of Experience
-
-### Status
-
-Emerging
-
-### Confidence
-
-High
-
-### FYN Effect
-
-Adds the requirement of:
-
-selectivity.
-
-Layered photography does not mean:
-
-show everything.
-
-It means:
-
-show the relevant evidence layers.
-
-### Governance Decision
-
-Keep Emerging.
-
-Refine canonical wording.
-
----
-
-# Below-Candidate Research Directions To Preserve
-
-Do not promote these during the FYN governance cycle.
-
-## Meaningful Constraint
-
-Status:
-
-Observed Research Direction
-
-Strongest Evidence:
-
-- FYN
-
-Confidence:
-
-Medium
-
----
-
-## Structure as Hospitality
-
-Status:
-
-Observed Research Direction
-
-Strongest Evidence:
-
-- FYN
-
-Confidence:
-
-Low to Medium
-
----
-
-## Commitment as Value Signal
-
-Status:
-
-Observed Research Direction
-
-Confidence:
-
-Low
-
-Requires guest evidence.
-
----
-
-## Hospitality Through Explicit Boundaries
-
-Status:
-
-Observed Research Direction
-
-Confidence:
-
-Medium
-
----
-
-## Reservation as Pre-Arrival Contract
-
-Status:
-
-Observed Research Direction
-
-Confidence:
-
-Low to Medium
-
----
-
-## Exception-Aware Hospitality
-
-Status:
-
-Observed Research Direction
-
-Confidence:
-
-Medium
-
-May ultimately belong inside:
-
-- Escalating Reservation Complexity
-- Dual-Path Hospitality
-- Human Confirmation as Hospitality
-
-Avoid duplication.
-
----
-
-## Controlled Separation
-
-Status:
-
-Observed Research Direction
-
-Confidence:
-
-Low to Medium
-
----
-
-## Restraint as Premium Signal
-
-Status:
-
-Observed Research Direction
-
-Confidence:
-
-Medium
-
-Requires guest-perception evidence.
-
----
-
-## Contrast as Atmospheric Structure
-
-Status:
-
-Observed Research Direction
-
-Confidence:
-
-Low to Medium
-
----
-
-## Photography as Culinary Authority
-
-Status:
-
-Observed Research Direction
-
-Confidence:
-
-Low to Medium
-
----
-
-## Restraint Through Image Selection
-
-Status:
-
-Observed Research Direction
-
-Confidence:
-
-Low
-
----
-
-## Expertise as Credibility
-
-Status:
-
-Observed Research Direction
-
-Confidence:
-
-Medium
-
-Strong Candidate Watch.
-
----
-
-## Culinary Philosophy as Story
-
-Status:
-
-Observed Research Direction
-
-Confidence:
-
-Medium to High
-
-Strong Candidate Watch.
-
----
-
-## Culinary Geography as Story
-
-Status:
-
-Observed Research Direction
-
-Confidence:
-
-Medium to High
-
-Likely mechanism within:
-
-Story Through Place.
-
-Avoid duplicate promotion.
-
----
-
-## Collaboration as Authorship
-
-Status:
-
-Observed Research Direction
-
-Confidence:
-
-Low to Medium
+Do not delete the finding.
 
 ---
 
@@ -1609,52 +1590,777 @@ Low to Medium
 
 Partially Supported
 
-### Confidence
+### Independent Evidence
 
-Medium
+Visible direct or branded participation entry points now exist across the seven independent restaurant studies.
 
-### Independent Website Evidence
+### Why It Cannot Be Promoted
 
-- Ankole
-- Cultiva
-- Talisman
-- Mawimbi
-- Bistro Lolo
-- FYN
+Website observation can show:
 
-### Visible Evidence Supports
+* direct reservation entry
+* branded communication
+* direct enquiry
+* owned web presence
 
-Restaurants can visibly provide:
+It cannot prove:
 
-- direct website access
-- branded booking entrypoints
-- email
-- phone
-- WhatsApp
-- direct inquiry channels
-
-### Visible Evidence Does Not Prove
-
-- CRM ownership
-- reservation data ownership
-- payment-data ownership
-- customer-database ownership
-- remarketing rights
-- guest-history control
-- system integration
-- booking platform contract terms
+* CRM ownership
+* customer-data ownership
+* payment ownership
+* reservation-data ownership
+* remarketing control
+* backend integration
+* operational data access
 
 ### Governance Decision
 
-Remain Partially Supported.
+Remain:
 
-Do not promote using website research alone.
+Partially Supported.
+
+### Important Rule
+
+Do not infer operational ownership from visible direct booking.
+
+Operational evidence is required.
+
+---
+
+# Participation Architecture Cluster
+
+The Dishoom cycle reveals a coherent relationship between four Emerging patterns.
+
+This is a cluster.
+
+It is not a new pattern.
+
+---
+
+## Layer 1 — Participation Access
+
+### Participation Throughout the Journey
+
+Question:
+
+Can the guest understand how to participate?
+
+---
+
+## Layer 2 — Guest Intent
+
+### Multi-Intent Hospitality
+
+Question:
+
+Does the system recognise materially different guest intentions?
+
+---
+
+## Layer 3 — Complexity
+
+### Escalating Participation Complexity
+
+Question:
+
+Does structure increase appropriately as participation becomes more complex?
+
+---
+
+## Layer 4 — Human Escalation
+
+### Human Assistance When Complexity Requires It
+
+Question:
+
+Does human involvement appear when judgement or coordination becomes valuable?
+
+---
+
+# Participation Architecture Model
+
+Guest Intent
+
+↓
+
+Participation Throughout the Journey
+
+↓
+
+Multi-Intent Routing
+
+↓
+
+Complexity Assessment
+
+↓
+
+Escalating Participation Structure
+
+↓
+
+Human Assistance When Required
+
+↓
+
+Participation
+
+This model is useful for:
+
+* research
+* design
+* ReserveAI
+* hospitality website architecture
+
+It should not be promoted as a separate KHDS pattern.
+
+---
+
+# Official Definition Refinements
+
+The Dishoom cycle formally refines several existing patterns.
+
+---
+
+# Commitment Without Pressure
+
+## Previous Emphasis
+
+Meaningful commitment without manipulation.
+
+## New Canonical Emphasis
+
+Meaningful and:
+
+proportionate
+
+commitment.
+
+### Canonical Working Rule
+
+> Ask for the level of commitment the hospitality model genuinely requires, make that requirement visible and understandable, and avoid manipulative pressure.
+
+---
+
+# Story Through Place
+
+## Previous Scope
+
+* physical
+* architectural
+* historical
+* neighbourhood
+* ecological
+* culinary
+
+## Expanded Scope
+
+Also include:
+
+* remembered
+* referenced
+* translated place
+
+where genuinely meaningful.
+
+## Boundary
+
+Do not confuse:
+
+narrative place
+
+with
+
+documentary geography.
+
+---
+
+# Heritage Builds Confidence
+
+## New Boundary
+
+Institutional / inherited heritage
+
+must remain distinct from:
+
+cultural reference.
+
+---
+
+# Atmosphere Through Continuity
+
+## New Boundary
+
+Accumulated continuity
+
+must remain distinct from:
+
+designed historical memory.
+
+---
+
+# Layered Arrival
+
+## Canonical Definition
+
+Progressive confidence-building.
+
+Not:
+
+fixed page sequence.
+
+Not:
+
+mandatory slow pacing.
+
+---
+
+# Photography Through Layers of Experience
+
+## Canonical Definition
+
+Selective relevant evidence.
+
+Not:
+
+photographic completeness.
+
+---
+
+# Below-Candidate Research Directions
+
+The following remain research directions rather than formal Candidate patterns.
+
+The list is intentionally broader than the Candidate registry.
+
+---
+
+# Participation Directions
+
+* Walk-In as First-Class Participation
+* Participation Fluidity
+* Availability Without Exclusivity
+* Participation Before Reservation
+
+`Participation Throughout the Journey` is no longer listed here because it is now the official renamed Emerging pattern.
+
+`Proportionate Commitment` is treated as a mechanism inside Commitment Without Pressure.
+
+---
+
+# Atmosphere Directions
+
+* Cultural Immersion
+* Cultural Memory as Atmospheric Material
+* Location-Specific Atmosphere Within Shared Brand
+* Atmosphere Through Use
+* Designed Belonging
+* Controlled Separation
+* Restraint as Premium Signal
+* Contrast as Atmospheric Structure
+
+---
+
+# Photography Directions
+
+* Photography as Use-Case Evidence
+* Daypart Photography
+* Photography as Cultural Evidence
+* Archival Image as Brand Evidence
+* Photography as Behavioural Invitation
+
+---
+
+# Story Directions
+
+* Cultural Memory as Narrative Infrastructure
+* Founding Myth as Design Infrastructure
+* Fiction Can Organise Real Hospitality
+* Location-Specific Myth Within Parent Brand
+* Story as Behavioural Permission
+* Growth as Narrative
+
+Growth as Narrative now appears here following demotion.
+
+---
+
+# Research Direction Consolidation Watch
+
+Several research directions may ultimately belong inside broader existing patterns rather than becoming independent patterns.
+
+Examples:
+
+## Photography as Behavioural Invitation
+
+may belong inside:
+
+Photography as Use-Case Evidence.
+
+---
+
+## Cultural Memory as Atmospheric Material
+
+and
+
+Cultural Memory as Narrative Infrastructure
+
+may eventually belong inside a broader cultural-memory framework.
+
+---
+
+## Location-Specific Atmosphere Within Shared Brand
+
+and
+
+Location-Specific Myth Within Parent Brand
+
+may converge around:
+
+multi-location hospitality architecture.
+
+---
+
+## Walk-In as First-Class Participation
+
+may become a mechanism inside:
+
+Participation Throughout the Journey.
+
+---
+
+## Participation Fluidity
+
+may become a variable inside:
+
+Multi-Intent Hospitality.
+
+Do not create new patterns where an existing abstraction already explains the behaviour.
+
+---
+
+# Major Research Tensions After Dishoom
+
+The following tensions should remain visible in future research.
+
+They should not be prematurely resolved.
+
+---
+
+## Reservation vs Participation
+
+Dishoom materially changes the framing.
+
+---
+
+## Walk-In vs Reservation
+
+Different access models remain legitimate.
+
+---
+
+## Spontaneity vs Certainty
+
+Dishoom vs FYN.
+
+---
+
+## Access vs Guaranteed Access
+
+Walk-in and reservation solve different guest problems.
+
+---
+
+## Commitment vs Flexibility
+
+FYN vs Dishoom.
+
+---
+
+## Automation vs Human Assistance
+
+Routine vs complexity.
+
+---
+
+## Human Confirmation vs Human Escalation
+
+Earlier Talisman framing vs later evidence.
+
+---
+
+## Social Energy vs Restraint
+
+Dishoom vs FYN.
+
+---
+
+## Belonging vs Escape
+
+Bistro Lolo vs Mawimbi.
+
+---
+
+## Cultural Immersion vs Designed Escape
+
+Dishoom vs Mawimbi.
+
+---
+
+## Accumulated Continuity vs Designed Memory
+
+Talisman vs Dishoom.
+
+---
+
+## Culture vs Theme
+
+Dishoom creates strongest current case.
+
+---
+
+## Authenticity vs Interpretation
+
+Still unresolved.
+
+---
+
+## History vs Myth
+
+Dishoom.
+
+---
+
+## Cultural Heritage vs Institutional Heritage
+
+Dishoom vs Talisman.
+
+---
+
+## World vs Biography
+
+Cultiva / Dishoom vs Bistro Lolo / FYN.
+
+---
+
+## Growth vs Guest Experience
+
+Dishoom materially weakens Growth as Narrative.
+
+---
+
+## Beauty vs Difference
+
+Repeated strongly across photography research.
+
+---
+
+## Craft vs System
+
+FYN + Dishoom.
+
+---
+
+## Product vs People
+
+Restaurant-dependent.
+
+---
+
+## Image Abundance vs Editorial Control
+
+Dishoom / Mawimbi / Talisman vs FYN.
+
+---
+
+## Parent Brand vs Location Identity
+
+Dishoom creates strongest current case.
+
+---
+
+# Dishoom Pattern Stress-Test Summary
+
+## Supported
+
+* Emotion Before Interface
+* Story Before Features
+* Photography Before Decoration
+* Atmosphere Through Consistency
+* Commitment Without Pressure
+* Photography as Proof
+* Story Through Place
+* Promise Before Proof
+* Layered Arrival
+* Narrative Coherence Through Organising Logic
+* The Guest as Participant
+* Photography Through Layers of Experience
+* Atmosphere as Product
+* Photography Should Demonstrate Difference
+
+---
+
+## Supported but Renamed for Better Abstraction
+
+* Reservation Throughout the Journey
+* Dual-Path Hospitality
+* Human Confirmation as Hospitality
+* Escalating Reservation Complexity
+
+These now become:
+
+* Participation Throughout the Journey
+* Multi-Intent Hospitality
+* Human Assistance When Complexity Requires It
+* Escalating Participation Complexity
+
+---
+
+## Candidate Strongly Strengthened
+
+* Atmosphere Through Worldview
+
+---
+
+## Candidate Strengthened With Scope Review
+
+* World Before Biography
+* Show the System Behind the Plate
+* Narrative Language Within Clear Interface
+
+---
+
+## Candidate Boundary Evidence
+
+* Heritage Builds Confidence
+* Atmosphere Through Continuity
+* Designed Escape
+
+---
+
+## Candidate Demoted
+
+* Growth as Narrative
+
+---
+
+# Promotion Decision
+
+## Photography Should Demonstrate Difference
+
+### Decision
+
+Promote.
+
+### Previous Status
+
+Candidate
+
+### New Status
+
+Emerging
+
+### Reason
+
+Independent repetition is now strong across materially different categories.
+
+Strong evidence:
+
+* Mawimbi
+* Bistro Lolo
+* FYN
+* Dishoom
+
+Conceptual support:
+
+* Cultiva
+
+### Boundary
+
+The pattern does not require every image to differentiate.
+
+It requires the photography system to communicate meaningful product difference where differentiation matters commercially.
+
+---
+
+# Demotion Decision
+
+## Growth as Narrative
+
+### Decision
+
+Demote.
+
+### Previous Status
+
+Candidate
+
+### New Status
+
+Observed Research Direction
+
+### Reason
+
+Growth is not consistently guest-facing narrative value.
+
+Dishoom provides strong contradiction.
+
+The pattern lacks enough repeated independent evidence to remain Candidate.
+
+---
+
+# Rename Decisions
+
+The following renames are now official.
+
+---
+
+## Reservation Throughout the Journey
+
+↓
+
+## Participation Throughout the Journey
+
+### Reason
+
+Participation is broader than reservation.
+
+---
+
+## Dual-Path Hospitality
+
+↓
+
+## Multi-Intent Hospitality
+
+### Reason
+
+The research supports more than two legitimate guest journeys.
+
+---
+
+## Human Confirmation as Hospitality
+
+↓
+
+## Human Assistance When Complexity Requires It
+
+### Reason
+
+Human value appears most consistently when judgement and coordination are required.
+
+---
+
+## Escalating Reservation Complexity
+
+↓
+
+## Escalating Participation Complexity
+
+### Reason
+
+Complexity may begin before or outside formal reservation.
+
+---
+
+## Narrative Language as Interface
+
+↓
+
+## Narrative Language Within Clear Interface
+
+### Reason
+
+Narrative language should enrich meaning without obscuring essential actions.
+
+---
+
+# Maturity Changes From Dishoom Governance
+
+## Promotions
+
+1
+
+Photography Should Demonstrate Difference:
+
+Candidate
+
+↓
+
+Emerging
+
+---
+
+## Demotions
+
+1
+
+Growth as Narrative:
+
+Candidate
+
+↓
+
+Observed Research Direction
+
+---
+
+## Renames
+
+5
+
+No maturity change.
+
+---
+
+## Definition Refinements
+
+6 major refinements.
+
+---
+
+# Official Post-Dishoom Counts
+
+## Independent Restaurants
+
+7
+
+## Kodawa Validation Concepts
+
+1
+
+## Emerging
+
+18
+
+## Candidate
+
+7
+
+## Partially Supported
+
+1
+
+## Validated
+
+0
+
+## Research-Derived KHDS Principles
+
+0
+
+## Existing Implementation Patterns Pending Formal Validation
+
+1
 
 ---
 
 # Existing KHDS Implementation Pattern
 
 ## Invitation
+
+Location:
+
+`../../patterns/invitation.md`
 
 ### Classification
 
@@ -1668,365 +2374,262 @@ Pending Formal Validation
 
 Invitation is not:
 
-- Candidate
-- Emerging
-- Validated
-- Research-Derived Principle
+* Candidate
+* Emerging
+* Validated
+* research-derived Principle
 
-until formal independent evidence is reconciled.
-
-### Kodawa Labs Validation
-
-Trunk & Tandoor Concept
-
-### Governance Decision
-
-No change.
+until formally reconciled through independent research.
 
 ---
 
-# Promotion Summary
+# Pre-Research Foundations
 
-## Candidate → Emerging
+The Twelve Foundations remain studio beliefs created before the formal research methodology.
 
-### Escalating Reservation Complexity
+They must not be counted as:
 
-Approved for registry reconciliation.
+research-derived KHDS Principles.
 
----
+Examples include:
 
-## Observed → Candidate
+* Emotion Before Interface
+* Story Before Features
+* Photography Before Decoration
 
-### Photography Should Demonstrate Difference
-
-Approved for registry reconciliation.
-
----
-
-# Rename Summary
-
-## Emerging Rename
+Where names overlap with research patterns, their research maturity must still be determined independently.
 
 Current:
 
-`One Idea Can Organise the Brand Story`
+## Research-Derived KHDS Principles
 
-New:
-
-`Narrative Coherence Through Organising Logic`
-
-Status:
-
-Emerging
-
-Approved for registry reconciliation.
+0
 
 ---
 
-# Definition Refinement Summary
+# Validation Discipline
 
-## Commitment Without Pressure
+No pattern becomes Validated because:
 
-Refine.
+* it appears in many files
+* it has existed for a long time
+* Kodawa Labs already uses it
+* it sounds strategically correct
+* it appears in seven restaurants
 
----
+Validation requires broader evidence including:
 
-## Story Through Place
+* more independent restaurants
+* additional geographies
+* different price points
+* different operational models
+* contradiction testing
+* category diversity
+* behavioural or operational evidence where relevant
 
-Broaden.
-
----
-
-## Layered Arrival
-
-Clarify progressive confidence-building.
-
----
-
-## Photography Through Layers of Experience
-
-Add selectivity.
+Restaurant count alone is insufficient.
 
 ---
 
-# Strong Review Flags
+# Next Research Strategy
 
-## Dual-Path Hospitality
+Dishoom successfully attacked the current framework.
 
-Possible future:
+The next independent restaurant should not be selected because it:
 
-`Multi-Intent Hospitality`
+looks like the current set.
 
-Do not rename yet.
+It should be selected because it can challenge the strongest current assumptions.
 
----
+Priority stress areas now include:
 
-## Human Confirmation as Hospitality
+## Participation Architecture
 
-Possible future:
+Find restaurants where participation differs again, such as:
 
-`Human Assistance When Complexity Requires It`
-
-Do not rename yet.
+* ticketed dining
+* no-reservation dining
+* membership
+* counter-service
+* pre-order
+* hybrid restaurant / bar models
 
 ---
 
 ## Atmosphere Through Worldview
 
-Possible future broader abstraction remains unresolved.
+Find a restaurant where atmosphere is highly developed but:
 
-Do not rename.
+worldview is weak or absent.
+
+Attempt to break the Candidate.
+
+---
+
+## Photography Should Demonstrate Difference
+
+Now Emerging.
+
+Find a successful hospitality brand where:
+
+generic beauty
+
+appears commercially sufficient.
+
+Attempt to break the pattern.
+
+---
+
+## Narrative Coherence
+
+Find hospitality brands with multiple story systems that:
+
+do not rely on one strong organising logic.
 
 ---
 
 ## World Before Biography
 
-Strong scope review.
+Find chef-led or founder-led restaurants where:
+
+person
+
+is clearly the most useful first narrative layer.
 
 ---
 
-## Growth as Narrative
+## Show the System Behind the Plate
 
-Possible future demotion.
+Find restaurants where differentiation depends strongly on:
 
----
+technique
 
-## Narrative Language as Interface
+without:
 
-Strong scope review.
-
----
-
-# Governance Count Check
-
-After applying the FYN decisions:
-
-## Emerging
-
-17
-
-Previous:
-
-16
-
-Change:
-
-+1 from Escalating Reservation Complexity.
-
-Rename of One Idea does not change count.
+sourcing narrative.
 
 ---
 
-## Candidate
+# Governance Rule
 
-9
+The next research target should be chosen for:
 
-Previous:
+contradiction
 
-9
+not:
 
-Changes:
+confirmation.
 
--1 Escalating Reservation Complexity
+For every current pattern ask:
 
-+1 Photography Should Demonstrate Difference
+> What restaurant would make this pattern fail?
 
-Net:
-
-0
+That is the strongest path toward useful KHDS knowledge.
 
 ---
 
-## Partially Supported
+# Canonical Links
 
-1
+## Pattern Registry
 
-No change.
+[KHDS Pattern Registry](../../patterns/registry.md)
 
----
+## Validation Dashboard
 
-## Validated
+[KHDS Research Validation Dashboard](dashboard.md)
 
-0
+## Promotion Process
 
-No change.
+[KHDS Pattern Promotion Process](promotion-process.md)
 
----
+## Validation Overview
 
-## KHDS Principles Promoted From Research
+[KHDS Validation](README.md)
 
-0
+## Research Comparison
 
-No change.
+[KHDS Comparison Research](../comparison/)
 
----
+## Restaurant Research
 
-## Existing Implementation Patterns Pending Validation
-
-1
-
-No change.
-
----
-
-# Current Emerging Pattern Set After FYN
-
-1. Emotion Before Interface
-2. Story Before Features
-3. Photography Before Decoration
-4. Reservation Throughout the Journey
-5. Atmosphere Through Consistency
-6. Dual-Path Hospitality
-7. Commitment Without Pressure
-8. Photography as Proof
-9. Story Through Place
-10. Promise Before Proof
-11. Layered Arrival
-12. Narrative Coherence Through Organising Logic
-13. The Guest as Participant
-14. Photography Through Layers of Experience
-15. Human Confirmation as Hospitality
-16. Atmosphere as Product
-17. Escalating Reservation Complexity
-
----
-
-# Current Candidate Pattern Set After FYN
-
-1. Atmosphere Through Worldview
-2. Show the System Behind the Plate
-3. Heritage Builds Confidence
-4. Growth as Narrative
-5. Atmosphere Through Continuity
-6. Designed Escape
-7. World Before Biography
-8. Narrative Language as Interface
-9. Photography Should Demonstrate Difference
-
----
-
-# Promotion Discipline
-
-No pattern should be promoted simply because:
-
-- six restaurants have now been studied
-- a pattern appears frequently
-- an idea sounds strategically useful
-- Kodawa Labs already uses it
-- FYN strengthened it
-
-Promotion should continue to require:
-
-- repeated independent evidence
-- meaningful category diversity
-- contradictory testing
-- clear boundaries
-- stable abstraction
-- sufficient confidence
-
-Validated status should require stronger evidence than currently available.
-
----
-
-# Validation Gaps
-
-The research base still needs more:
-
-- geographic diversity
-- cuisine diversity
-- hospitality-category diversity
-- low-cost restaurant models
-- chain / group models
-- mobile-specific analysis
-- guest interviews
-- behaviour data
-- reservation analytics
-- operational evidence
-- conversion testing
-- implementation evidence
-
-FYN improves geographic diversity.
-
-It does not solve geographic diversity.
-
----
-
-# Next Research Target Logic
-
-The next independent restaurant should not be selected because it looks like FYN.
-
-It should create contradiction.
-
-Priority targets should stress:
-
-- current Emerging patterns
-- weak Candidates
-- FYN-generated research directions
-- geographic transferability
-
-Useful contrast categories may include:
-
-- highly casual restaurant
-- extremely high-volume restaurant
-- restaurant with almost no story
-- digital-first restaurant
-- luxury hotel restaurant
-- family-run heritage restaurant
-- restaurant with no reservations
-- restaurant with heavy walk-in culture
-- restaurant outside Africa
-- restaurant with strong direct commerce
-- restaurant with deliberately minimal photography
-
-The next case should attempt to break the framework.
+[KHDS Restaurant Research](../restaurants/)
 
 ---
 
 # Final Governance Statement
 
-FYN improves KHDS because it creates both support and resistance.
+Dishoom did not merely add a seventh restaurant.
 
-It strengthens:
+It corrected the language KHDS was using to describe hospitality participation.
 
-- Commitment Without Pressure
-- Atmosphere as Product
-- Story Through Place
-- Photography Through Layers of Experience
-- Atmosphere Through Worldview
+The earlier research repeatedly observed:
 
-It creates enough repeated evidence to promote:
+reservation.
 
-`Escalating Reservation Complexity`
+Dishoom exposed the deeper behaviour:
 
-to Emerging.
+participation.
 
-It creates enough repeated evidence to move:
+That produces four stronger abstractions:
 
-`Photography Should Demonstrate Difference`
+Participation Throughout the Journey
 
-into Candidate.
+Multi-Intent Hospitality
 
-It also proves that:
+Escalating Participation Complexity
 
-`One Idea Can Organise the Brand Story`
+Human Assistance When Complexity Requires It
 
-is now too literal.
+Together they form a more durable:
 
-The stronger abstraction is:
+Participation Architecture.
 
-`Narrative Coherence Through Organising Logic`.
+Dishoom also strengthens one of the most important photography findings enough to promote it:
 
-At the same time, FYN does not justify:
+Photography Should Demonstrate Difference.
 
-- any Validated pattern
-- any research-derived KHDS Principle
-- promotion of Own the Guest Relationship
-- automatic promotion of every repeated research direction
+The research now repeatedly shows that:
 
-The correct governance outcome is therefore:
+beautiful
 
-More precision.
+and
 
-Not more confidence than the evidence supports.
+distinctive
+
+are not the same commercial job.
+
+At the same time, Dishoom weakens:
+
+Growth as Narrative
+
+enough to remove it from Candidate maturity.
+
+That demotion matters.
+
+KHDS should become smaller when evidence requires it.
+
+It should become more precise when language fails.
+
+It should become broader only when the evidence supports broader abstraction.
+
+Current official state:
+
+7 independent restaurants.
+
+18 Emerging patterns.
+
+7 Candidate patterns.
+
+1 Partially Supported finding.
+
+0 Validated research-derived patterns.
+
+0 research-derived KHDS Principles.
+
+1 existing implementation pattern pending formal validation.
+
+The highest research-derived maturity remains:
+
+Emerging.
 
 Evidence wins.

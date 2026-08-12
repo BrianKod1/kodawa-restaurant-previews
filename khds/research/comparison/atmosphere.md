@@ -1,30 +1,27 @@
-# Atmosphere Comparison
+# KHDS Atmosphere Comparison
 
 ## Purpose
 
-Compare how independent restaurants create and communicate atmosphere.
+Compare how independent hospitality brands create and communicate atmosphere.
 
-This file tracks:
+This document asks:
 
-- recurring atmospheric behaviours
-- distinct atmosphere models
-- contradictions
-- transferability
-- candidate maturity
-- abstraction pressure
-- geographic variation
-- research tensions
-- commercial opportunities
+* What creates the restaurant’s emotional world?
+* Is atmosphere produced through place, worldview, history, use, escape, restraint, or cultural interpretation?
+* How does atmosphere become commercially meaningful?
+* Which KHDS patterns survive across materially different hospitality models?
+* Which Candidate patterns need narrower boundaries?
+* Which new atmospheric mechanisms appear repeatedly enough to deserve continued study?
 
-The goal is not to identify one ideal atmospheric style.
+The goal is not to identify one ideal visual style.
 
-The goal is to determine which underlying behaviours remain useful across substantially different hospitality environments.
+The goal is to understand the different mechanisms through which hospitality atmosphere becomes coherent and meaningful.
 
 ---
 
-# Independent Research Set
+# Current Research Set
 
-Current independent restaurants compared:
+## Completed Independent Restaurants
 
 1. Ankole
 2. Cultiva
@@ -33,69 +30,123 @@ Current independent restaurants compared:
 5. Bistro Lolo
 6. FYN
 
+## Current Research Candidate
+
+7. Dishoom Covent Garden
+
+Dishoom should not enter the official completed global research count until:
+
+* all five comparison files are complete
+* candidate governance is reconciled
+* the pattern registry is updated
+* the validation dashboard is updated
+* the root research README is updated
+
 ---
 
-# Atmosphere Models
+# Ankole
 
-## Ankole
-
-### Primary Character
+## Atmosphere Character
 
 Refinement through place.
 
-### Working Logic
+## Primary Signals
+
+* architecture
+* environmental photography
+* visual polish
+* food
+* spacing
+* calm
+* material quality
+
+## Working Logic
 
 Place
 
 ↓
 
-Visual Refinement
+Refinement
 
 ↓
 
 Emotional Confidence
 
-### Key Behaviour
+## Interpretation
 
-The physical setting and polished visual presentation communicate premium character without requiring a large conceptual narrative.
+Ankole’s atmosphere is strongly carried by the physical environment and the way that environment is presented.
+
+The restaurant does not need an extensive ideological or historical framework to create atmosphere.
+
+The place itself carries much of the emotional weight.
 
 ---
 
-## Cultiva
+# Cultiva
 
-### Primary Character
+## Atmosphere Character
 
 Worldview through cultivation.
 
-### Working Logic
+## Primary Signals
 
-Philosophy
+* sustainability
+* growing
+* sourcing
+* process
+* natural materials
+* agriculture
+* community
+* food system
+
+## Working Logic
+
+Worldview
 
 ↓
 
-Process
-
-↓
-
-Environment
+Environmental Signals
 
 ↓
 
 Atmosphere
 
-### Key Behaviour
+## Interpretation
 
-The restaurant’s worldview influences how the physical and digital experience feels.
+Cultiva demonstrates that atmosphere can emerge from a coherent belief system.
+
+The guest does not only encounter a beautiful environment.
+
+The environment appears to reinforce a larger philosophy around:
+
+* cultivation
+* food
+* land
+* sustainability
+
+This provided early evidence for:
+
+`Atmosphere Through Worldview`.
 
 ---
 
-## Talisman
+# Talisman
 
-### Primary Character
+## Atmosphere Character
 
 Continuity through history and place.
 
-### Working Logic
+## Primary Signals
+
+* old house
+* Karen
+* garden
+* interiors
+* art
+* accumulated character
+* long-standing identity
+
+## Working Logic
 
 History
 
@@ -111,53 +162,93 @@ Accumulated Character
 
 Atmosphere
 
-### Key Behaviour
+## Interpretation
 
-Atmosphere is strengthened by the sense that the restaurant has developed over time within a recognisable setting.
+Talisman creates atmosphere partly because the restaurant appears to have developed over time.
+
+Its emotional value is not based purely on a designed concept.
+
+It is connected to:
+
+* history
+* physical continuity
+* the original house
+* an established relationship with place
+
+This created the Candidate:
+
+`Atmosphere Through Continuity`.
 
 ---
 
-## Mawimbi
+# Mawimbi
 
-### Primary Character
+## Atmosphere Character
 
 Designed escape.
 
-### Working Logic
+## Primary Signals
+
+* coastal language
+* seafood
+* tropical imagery
+* luxury
+* social energy
+* environmental transformation
+
+## Working Logic
 
 Concept
 
 ↓
 
-Coastal Identity
-
-↓
-
-Spatial Transformation
+Transportive Signals
 
 ↓
 
 Escape
 
-### Key Behaviour
+↓
 
-The restaurant creates emotional distance from the surrounding city by presenting a distinct experiential world.
+Atmosphere
+
+## Interpretation
+
+Mawimbi demonstrates that atmosphere can be created by deliberately transporting the guest away from the character of the surrounding city.
+
+Its emotional proposition is not continuity or familiarity.
+
+It is transformation.
+
+This created the Candidate:
+
+`Designed Escape`.
 
 ---
 
-## Bistro Lolo
+# Bistro Lolo
 
-### Primary Character
+## Atmosphere Character
 
-Belonging through architecture, use, and social rhythm.
+Belonging through architecture and social use.
 
-### Working Logic
+## Primary Signals
 
-Place
+* neighbourhood identity
+* domestic scale
+* all-day rhythm
+* food
+* social use
+* familiarity
+* casual refinement
+
+## Working Logic
+
+Recognition
 
 ↓
 
-Architecture
+Comfort
 
 ↓
 
@@ -165,848 +256,421 @@ Use
 
 ↓
 
-People
-
-↓
-
-Rhythm
-
-↓
-
 Belonging
 
-### Key Behaviour
+## Interpretation
 
-Atmosphere comes from the relationship between environment and how people inhabit it.
+Bistro Lolo introduced a different premium atmosphere.
+
+Rather than creating:
+
+distance
+
+or
+
+escape,
+
+it creates value through:
+
+belonging.
+
+The restaurant feels useful because the guest can imagine:
+
+being there
+
+throughout the day.
+
+This strengthened research directions around:
+
+* Designed Belonging
+* Atmosphere Through Use
+* Hospitality Through Rhythm
+
+These remain below Candidate maturity.
 
 ---
 
-## FYN
+# FYN
 
-### Primary Character
+## Atmosphere Character
 
 Restraint through controlled contrast.
 
-### Working Logic
+## Primary Signals
 
-Culinary Philosophy
+* precision
+* stillness
+* restrained visual language
+* culinary authority
+* architectural control
+* raw versus refined
+* intimate versus expansive
+* contrast
+
+## Working Logic
+
+Worldview
 
 ↓
 
-Spatial Restraint
+Restraint
 
 ↓
 
 Controlled Contrast
-
-↓
-
-Intimacy
 
 ↓
 
 Atmospheric Authority
 
-### Key Behaviour
+## Interpretation
 
-FYN creates atmosphere through deliberate tensions such as:
+FYN materially challenged the assumption that premium atmosphere requires richness.
 
-- stillness and energy
-- dark and light
-- expansive and intimate
-- raw and refined
+It demonstrated that atmosphere may become stronger through:
 
----
+* reduction
+* precision
+* restraint
+* deliberate contrast
 
-# Shared Atmosphere Finding
-
-Across all six restaurants, atmosphere does not emerge from one universal visual formula.
-
-The strongest recurring logic remains:
-
-Organising Logic
-
-↓
-
-Repeated Signals
-
-↓
-
-Emotional Coherence
-
-FYN adds an important complication.
-
-Repeated signals do not always need to communicate one identical mood.
-
-They may communicate complementary opposites while still belonging to one coherent system.
-
-A provisional extension is:
-
-Organising Logic
-
-↓
-
-Intentional Signals
-
-↓
-
-Controlled Contrast
-
-↓
-
-Emotional Coherence
-
-This should remain a working model rather than a formal KHDS pattern.
-
----
-
-# Pattern Review
-
-## Atmosphere Through Consistency
-
-### Current Status
-
-Emerging
-
-### Evidence
-
-Strongly supported across:
-
-- Ankole
-- Cultiva
-- Talisman
-- Mawimbi
-- Bistro Lolo
-- FYN
-
-### Confidence
-
-High
-
-### Cross-Restaurant Effect
-
-Strongly Supported
-
-### Current Interpretation
-
-Atmosphere becomes stronger when:
-
-- architecture
-- photography
-- language
-- materials
-- food
-- people
-- behaviour
-- history
-- place
-- time
-- service expectations
-
-reinforce the same broader emotional direction.
-
-Consistency does not mean stylistic sameness.
-
-### FYN Effect
-
-FYN strengthens the pattern while introducing a useful distinction.
-
-Atmospheric coherence can contain:
-
-- dark and light
-- raw and refined
-- stillness and energy
-
-without becoming inconsistent.
-
-The requirement is not:
-
-one mood.
-
-The requirement is:
-
-intentional relationship.
-
-### Geographic Transferability
-
-Strengthened.
-
-FYN is the first current independent case outside Nairobi.
-
-### Recommendation
-
-Keep Emerging.
-
-Confidence remains High.
-
-No validation promotion.
-
----
-
-# Candidate Pattern Review
-
-## Atmosphere Through Worldview
-
-### Current Status
-
-Candidate / Under Review
-
-### Strong Evidence
-
-- Cultiva
-- FYN
-
-### Boundary Evidence
-
-- Mawimbi
-- Bistro Lolo
-
-### Confidence
-
-Medium to High
-
-### Cross-Restaurant Effect
-
-Strongly Strengthened, but Abstraction Remains Unresolved
-
-### Previous Concern
-
-After Mawimbi and Bistro Lolo, the term:
-
-Atmosphere Through Worldview
-
-appeared potentially too narrow.
-
-Possible broader abstraction:
-
-`Atmosphere Through Organising Idea`
-
-### FYN Effect
-
-FYN creates meaningful counter-evidence to that planned broadening.
-
-Its culinary philosophy and spatial atmosphere appear connected through:
-
-- restraint
-- seasonality
-- ingredient character
-- elemental design
-- precision
-- controlled contrast
-
-This resembles Cultiva in an important way.
-
-The philosophy behind the restaurant appears to influence the atmosphere itself.
-
-### Comparison
-
-## Cultiva
-
-Worldview through:
-
-- cultivation
-- sustainability
-- community
-- process
-
-## FYN
-
-Worldview through:
-
-- restraint
-- African place
-- Japanese culinary philosophy
-- ingredient character
-- controlled contrast
-
-These are geographically and stylistically different cases.
-
-### Current Learning
-
-Worldview remains a valid atmospheric mechanism.
-
-However, it is not the only mechanism.
-
-### Recommendation
-
-Keep Candidate / Under Review.
-
-Do not rename.
-
-Do not promote yet.
-
-The next few independent cases should determine whether:
+FYN also strengthened:
 
 `Atmosphere Through Worldview`
 
-remains a distinct pattern
+because its environment appears connected to a broader culinary philosophy rather than aesthetic treatment alone.
+
+---
+
+# Dishoom Covent Garden
+
+## Atmosphere Character
+
+Cultural immersion through designed memory and social energy.
+
+## Primary Signals
+
+* Bombay
+* Irani café references
+* cinema
+* family photography
+* artwork
+* material references
+* food
+* all-day use
+* social participation
+* location-specific myth
+
+## Working Logic
+
+Cultural Memory
+
+↓
+
+Narrative System
+
+↓
+
+Material + Visual Signals
+
+↓
+
+Social Use
+
+↓
+
+Cultural Immersion
+
+## Interpretation
+
+Dishoom introduces another distinct atmospheric mechanism.
+
+The restaurant does not simply:
+
+recreate Bombay
 
 or
 
-becomes one subtype of a broader atmospheric abstraction.
+escape London.
+
+It interprets a cultural world through:
+
+* story
+* material
+* food
+* language
+* people
+* social behaviour
+
+This is better described as:
+
+`Cultural Immersion`
+
+than:
+
+`Designed Escape`.
+
+Dishoom also provides strong new evidence for:
+
+`Atmosphere Through Worldview`
+
+because its stated interpretation of Irani cafés includes social meaning, not only visual reference.
 
 ---
 
-# Candidate Pattern Review
+# Seven Atmospheric Models
 
-## Atmosphere Through Continuity
+The current independent research suggests at least seven distinct mechanisms.
 
-### Current Status
+## Model A — Refinement Through Place
 
-Candidate
+Ankole
 
-### Strong Evidence
+Place
 
-- Talisman
+↓
 
-### Partial Evidence
+Refinement
 
-- Ankole
-- Bistro Lolo
+↓
 
-### Weak / Negative Evidence
-
-- FYN
-
-### Confidence
-
-Medium
-
-### Cross-Restaurant Effect
-
-Supported as a Narrow Model
-
-### Current Interpretation
-
-Atmosphere may gain depth through continuity across:
-
-- time
-- architecture
-- place
-- cultural identity
-- long-term use
-
-### FYN Effect
-
-FYN provides useful negative evidence.
-
-The restaurant creates strong atmosphere without relying on:
-
-- long heritage
-- inherited restaurant history
-- accumulated character
-
-### Current Learning
-
-Continuity is one valid way of creating atmospheric depth.
-
-It is not required.
-
-### Recommendation
-
-Keep Candidate.
-
-Do not promote.
-
-Scope remains narrow.
+Atmosphere
 
 ---
 
-# Candidate Pattern Review
+## Model B — Worldview Through Environment
 
-## Designed Escape
+Cultiva
 
-### Current Status
+Worldview
 
-Candidate
+↓
 
-### Strong Evidence
+Environmental Signals
 
-- Mawimbi
+↓
 
-### Partial Support
-
-- Ankole
-- Talisman
-- FYN
-
-### Boundary / Contradictory Evidence
-
-- Bistro Lolo
-
-### Confidence
-
-Medium
-
-### Cross-Restaurant Effect
-
-Supported With Strong Boundary Definition
-
-### FYN Effect
-
-FYN introduces an important distinction.
-
-The restaurant appears to create:
-
-Controlled Separation
-
-rather than:
-
-Designed Escape.
-
-The guest gains distance from Cape Town’s energy while the city remains part of the experience.
-
-### Current Distinction
-
-## Escape
-
-Transport the guest emotionally into another world.
-
-## Belonging
-
-Deepen connection to the existing world.
-
-## Controlled Separation
-
-Create temporary distance while preserving awareness of the existing context.
-
-### Recommendation
-
-Keep Candidate.
-
-Do not broaden the pattern to include all three models.
-
-Escape remains a distinct atmospheric strategy.
+Atmosphere
 
 ---
 
-# Pattern Review
+## Model C — Continuity Through History and Place
 
-## Atmosphere as Product
+Talisman
+
+History
+
+↓
+
+Place
+
+↓
+
+Accumulated Character
+
+↓
+
+Atmosphere
+
+---
+
+## Model D — Designed Escape
+
+Mawimbi
+
+Concept
+
+↓
+
+Transportive Signals
+
+↓
+
+Escape
+
+↓
+
+Atmosphere
+
+---
+
+## Model E — Designed Belonging
+
+Bistro Lolo
+
+Recognition
+
+↓
+
+Use
+
+↓
+
+Belonging
+
+↓
+
+Atmosphere
+
+---
+
+## Model F — Restraint Through Controlled Contrast
+
+FYN
+
+Worldview
+
+↓
+
+Restraint
+
+↓
+
+Contrast
+
+↓
+
+Atmosphere
+
+---
+
+## Model G — Cultural Immersion Through Designed Memory
+
+Dishoom
+
+Cultural Memory
+
+↓
+
+Narrative
+
+↓
+
+Material + Social Signals
+
+↓
+
+Atmosphere
+
+---
+
+# Comparison Finding 1
+
+## Atmosphere Through Consistency Remains Highly Resilient
 
 ### Current Status
 
 Emerging
 
-### Strong Evidence
-
-- Mawimbi
-- Bistro Lolo
-- FYN
-
-### Partial Support
-
-- Ankole
-- Talisman
-
-### Conceptual Support
-
-- Cultiva
-
-### Confidence
-
-High
-
-### Cross-Restaurant Effect
+### Evidence Effect
 
 Very Strongly Supported
 
-### Previous Position
-
-After Bistro Lolo:
-
-Medium to High confidence.
-
-### FYN Effect
-
-FYN provides a third strong and meaningfully different atmospheric model.
-
-## Mawimbi
-
-Escape
-
-## Bistro Lolo
-
-Belonging
-
-## FYN
-
-Restraint and controlled contrast
-
-The commercial role survives all three.
-
-### Current Interpretation
-
-Atmosphere can become valuable enough that it forms part of what the guest is choosing when deciding whether to visit.
-
-The guest may be choosing:
-
-- escape
-- belonging
-- ceremony
-- calm
-- energy
-- design
-- social use
-- intimacy
-- refinement
-
-in addition to food and service.
-
-### Recommendation
-
-Keep Emerging.
-
-Increase confidence to High.
-
-This is now one of the strongest Emerging patterns.
-
-No validation promotion yet.
-
----
-
-# New Research Direction
-
-## Restraint as Premium Signal
-
-### Strongest Evidence
-
-- FYN
-
-### Comparative Relevance
-
-- Ankole
-
-### Contrast
-
-- Talisman
-- Mawimbi
-
 ### Confidence
 
-Medium
+High
 
-### Working Interpretation
+Across the research set, atmosphere takes materially different forms.
 
-Reduction may communicate:
+Yet in every strong case, the visible signals reinforce one another.
 
-- confidence
-- precision
-- control
-- seriousness
-- premium value
+### Ankole
 
-when the restraint is intentional and supported by strong product and spatial evidence.
+Architecture + photography + refinement.
 
-### Important Limitation
+### Cultiva
 
-Website research cannot establish whether guests perceive restraint as premium.
+Worldview + sourcing + natural systems.
 
-### Status
+### Talisman
 
-Observed Research Direction
+History + place + art + interiors.
 
-Do not promote.
+### Mawimbi
 
----
+Seafood + escape + tropical luxury.
 
-# New Research Direction
+### Bistro Lolo
 
-## Contrast as Atmospheric Structure
+Architecture + neighbourhood rhythm + social use.
 
-### Strongest Evidence
+### FYN
 
-- FYN
+Restraint + precision + contrast.
 
-### Confidence
+### Dishoom
 
-Low to Medium
+Cultural memory + story + materials + social energy.
 
-### Working Interpretation
+### Current Conclusion
 
-Atmosphere may be organised through deliberate tension between opposing qualities.
+The transferable behaviour is not:
 
-Examples:
+one visual style.
 
-- stillness / energy
-- dark / light
-- expansive / intimate
-- raw / refined
+It is:
 
-### Current Question
+## Coherent Atmospheric Signalling
 
-Can contrast become a transferable atmospheric mechanism?
+A restaurant’s atmosphere becomes stronger when:
 
-Needs more evidence.
+* space
+* language
+* photography
+* food
+* story
+* behaviour
+* pacing
 
-### Status
+support the same broader emotional logic.
 
-Observed Research Direction
+### Dishoom Contribution
 
----
+Dishoom is particularly useful because it proves:
 
-# New Research Direction
+consistency does not require restraint.
 
-## Controlled Separation
+FYN demonstrated:
 
-### Strongest Evidence
+consistency through reduction.
 
-- FYN
+Dishoom demonstrates:
 
-### Comparative Context
+consistency through density.
 
-- Mawimbi → escape
-- Bistro Lolo → belonging
+### Governance Recommendation
 
-### Confidence
+Retain:
 
-Low to Medium
+`Atmosphere Through Consistency`
 
-### Working Interpretation
+Status:
 
-A hospitality environment may create value by giving the guest distance from the surrounding context without fully replacing it.
+Emerging
 
-### Status
+No rename.
 
-Observed Research Direction
-
-Do not promote.
+No promotion to Validated.
 
 ---
 
-# Existing Research Direction
+# Comparison Finding 2
 
-## Designed Belonging
+## Atmosphere as Product Becomes Stronger
 
-### Strongest Evidence
+### Current Status
 
-- Bistro Lolo
+Emerging
 
-### Possible Partial Support
+### Evidence Effect
 
-- Ankole
-- Talisman
-
-### Contrast
-
-- Mawimbi
-- FYN
-
-### Confidence
-
-Low to Medium
-
-### Current Learning
-
-Belonging remains one valid atmospheric strategy.
-
-FYN strengthens its boundary by showing a very different premium mechanism.
-
-### Status
-
-Observed Research Direction
-
----
-
-# Existing Research Direction
-
-## Atmosphere Through Use
-
-### Strongest Evidence
-
-- Bistro Lolo
-
-### Partial Support
-
-- Mawimbi
-- Talisman
-
-### Weak / Limited Evidence
-
-- FYN
-
-### Confidence
-
-Low to Medium
-
-### Current Learning
-
-Some restaurants communicate atmosphere strongly through behaviour and social use.
-
-Others, such as FYN, appear to place greater emphasis on:
-
-- craft
-- spatial composition
-- restraint
-- ceremony
-
-### Status
-
-Observed Research Direction
-
----
-
-# Supporting Behaviour
-
-## Materiality Can Carry Character
-
-### Evidence
-
-- Ankole
-- Talisman
-- Bistro Lolo
-- FYN
-
-### Interpretation
-
-Materials can communicate emotional identity without requiring decorative density.
-
-### FYN Contribution
-
-FYN adds stronger evidence around:
-
-- timber
-- darker surfaces
-- lighting
-- controlled material contrast
-
-### Status
-
-Supporting Behaviour
-
----
-
-# Supporting Behaviour
-
-## Social Scenarios Can Explain Atmosphere
-
-### Strongest Evidence
-
-- Bistro Lolo
-- Mawimbi
-
-### Partial
-
-- Talisman
-
-### Weak
-
-- FYN
-
-### Interpretation
-
-People and use can be powerful atmospheric evidence.
-
-They are not universally required.
-
-### Status
-
-Supporting Behaviour
-
----
-
-# Supporting Behaviour
-
-## Dayparts Can Change Atmosphere Without Breaking Identity
-
-### Strongest Evidence
-
-- Bistro Lolo
-
-### Comparative Relevance
-
-- FYN lunch / dinner structure
-
-### Confidence
-
-Low to Medium
-
-### Interpretation
-
-The same restaurant may support different atmospheric states across time while maintaining one broader identity.
-
-FYN provides structural daypart evidence but not enough visual evidence yet to strongly expand this finding.
-
-### Status
-
-Supporting Behaviour
-
----
-
-# Supporting Behaviour
-
-## Culinary Philosophy Can Reinforce Spatial Atmosphere
-
-### Strong Evidence
-
-- FYN
-- Cultiva
+Strongly Supported
 
 ### Confidence
 
 High
 
-### Interpretation
-
-Food philosophy and physical design may reinforce each other.
-
-### FYN
-
-Restraint in cuisine
-
-↓
-
-Restraint in space
-
-### Cultiva
-
-Cultivation worldview
-
-↓
-
-Process and environmental atmosphere
-
-### Status
-
-Supporting Behaviour
-
-This may support `Atmosphere Through Worldview` without becoming a separate pattern.
-
----
-
-# Supporting Behaviour
-
-## Material and Lighting Contrast Can Carry Character
-
-### Strongest Evidence
-
-- FYN
-
-### Confidence
-
-Medium
-
-### Interpretation
-
-Atmospheric identity may emerge from the relationship between:
-
-- darkness
-- warm illumination
-- timber
-- table setting
-- architectural detail
-
-rather than decorative abundance.
-
-### Status
-
-Supporting Behaviour
-
----
-
-# Atmosphere Tensions
-
-## Escape Versus Belonging Versus Separation
+The current evidence now contains multiple restaurants where atmosphere is part of the guest’s purchase decision.
 
 ### Mawimbi
 
@@ -1018,436 +682,697 @@ Belonging.
 
 ### FYN
 
-Controlled separation.
+Restraint + ceremony.
 
-### Confidence
+### Dishoom
 
-High
+Cultural immersion + social energy.
 
-### Current Learning
+### Partial Support
 
-Hospitality can create at least three different relationships with surrounding place.
+* Ankole
+* Talisman
 
-The research should preserve these distinctions.
+### Current Conclusion
 
-Do not collapse them prematurely.
+Some restaurants do not sell only:
 
----
-
-# Atmosphere Tension
-
-## Restraint Versus Richness
-
-### Richness
-
-- Talisman
-- Mawimbi
-- Bistro Lolo
-
-### Restraint
-
-- FYN
-- Ankole partial
-
-### Confidence
-
-High
-
-### Current Learning
-
-Premium atmosphere may be created through:
-
-Accumulation
-
-or
-
-Reduction.
-
-Neither is inherently superior.
-
-The transferable requirement appears to be intentional coherence.
-
----
-
-# Atmosphere Tension
-
-## Worldview Versus Aesthetic
-
-### Strong Worldview Cases
-
-- Cultiva
-- FYN
-
-### Concept-Led Case
-
-- Mawimbi
-
-### Place / Behaviour-Led Case
-
-- Bistro Lolo
-
-### Confidence
-
-High
-
-### Current Learning
-
-Visual identity alone does not establish worldview.
-
-The research must distinguish:
-
-Aesthetic Cohesion
-
-from
-
-Philosophical Cohesion.
-
-FYN strengthens the second category.
-
----
-
-# Atmosphere Tension
-
-## Heritage Versus Deliberate Contemporary Design
-
-### Heritage / Continuity
-
-- Talisman
-
-### Contemporary Deliberate Design
-
-- FYN
-- Mawimbi
-
-### Reinterpretation
-
-- Bistro Lolo
-
-### Confidence
-
-High
-
-### Current Learning
-
-Atmospheric depth can come from:
-
-- accumulated history
-- deliberate invention
-- reinterpretation
-
-These are separate mechanisms.
-
----
-
-# Atmosphere Tension
-
-## Visual Control Versus Lived Energy
-
-### Strong Visual Control
-
-- FYN
-- Ankole
-
-### Strong Lived Energy
-
-- Bistro Lolo
-- Mawimbi
-
-### Mixed
-
-- Talisman
-
-### Confidence
-
-High
-
-### Current Learning
-
-Some brands create atmosphere by controlling what is seen.
-
-Others create atmosphere by showing what happens.
-
-Photography and digital pacing should reflect the hospitality model.
-
----
-
-# Atmosphere Tension
-
-## Stillness Versus Energy
-
-### FYN
-
-Strongest evidence.
-
-### Bistro Lolo
-
-Energy through social rhythm.
-
-### Mawimbi
-
-Energy through occasion and social experience.
-
-### Confidence
-
-High
-
-### Current Learning
-
-Atmosphere may deliberately balance:
-
-stillness
+food
 
 and
 
-energy
+service.
 
-rather than choosing one.
+They also sell:
 
----
+access to a particular emotional environment.
 
-# Atmosphere Tension
+### Dishoom Contribution
 
-## Raw Versus Refined
+Dishoom materially strengthens this pattern because:
 
-### FYN
+the café world itself
 
-Strongest explicit evidence.
+is part of the proposition.
 
-### Ankole / Bistro Lolo
+The guest is choosing:
 
-Partial contextual relevance.
+* food
+* social experience
+* atmosphere
+* cultural world
 
-### Confidence
+together.
 
-Medium to High
+### Governance Recommendation
 
-### Current Learning
+Retain:
 
-Refinement can coexist with elemental or raw qualities.
-
-Premium design does not require removing all visual roughness.
-
----
-
-# Atmosphere Tension
-
-## Expansive Versus Intimate
-
-### FYN
-
-Strongest explicit evidence.
-
-### Confidence
-
-Medium to High
-
-### Research Question
-
-Can a large or visually open space still feel intimate through:
-
-- lighting
-- seating
-- pacing
-- table scale
-- service
-
-Website evidence does not resolve guest perception.
-
----
-
-# Atmosphere Tension
-
-## Physical Atmosphere Versus Digital Proof
-
-Observed Across:
-
-All six restaurants.
-
-### Confidence
-
-High
-
-### Current Learning
-
-A restaurant may possess extraordinary physical atmosphere while the digital experience communicates only part of it.
-
-The website therefore needs to decide which evidence can translate:
-
-- place
-- light
-- material
-- people
-- movement
-- scale
-- occasion
-- sound implication
-- daypart
-
-This remains a major commercial problem.
-
----
-
-# Geographic Transferability
-
-FYN provides the first atmosphere comparison outside Nairobi.
-
-The strongest pattern surviving geographically is:
-
-## Atmosphere Through Consistency
-
-FYN also strengthens geographic evidence for:
-
-## Atmosphere as Product
-
-and gives new cross-market support to:
-
-## Atmosphere Through Worldview
-
-This is important because the atmosphere layer now contains both:
-
-### Cross-Market Transferable Patterns
-
-- Atmosphere Through Consistency
-- Atmosphere as Product
-
-and
-
-### Context-Specific Mechanisms
-
-- worldview
-- continuity
-- escape
-- belonging
-- controlled separation
-
-One non-Nairobi restaurant is not enough for broad geographic validation.
-
----
-
-# Current Atmosphere Pattern Position
-
-## Emerging — Strong
-
-### Atmosphere Through Consistency
-
-Confidence:
-
-High
-
----
-
-### Atmosphere as Product
-
-Confidence:
-
-High
-
----
-
-# Candidate — Stronger After FYN
-
-### Atmosphere Through Worldview
-
-Confidence:
-
-Medium to High
+`Atmosphere as Product`
 
 Status:
 
-Under Review
+Emerging
+
+Confidence remains High.
+
+No promotion to Validated.
 
 ---
 
-# Candidate — Narrow
+# Comparison Finding 3
 
-### Atmosphere Through Continuity
+## Atmosphere Through Worldview Gains Major Strength
 
-Confidence:
+### Current Status
 
-Medium
+Candidate / Under Review
 
----
+### Previous Evidence
 
-### Designed Escape
+Strong:
 
-Confidence:
+* Cultiva
+* FYN
 
-Medium
+### Dishoom Contribution
 
----
+Dishoom provides a third materially different strong case.
 
-# Possible Governance Changes After Full FYN Comparison
+### Cultiva
 
-## Atmosphere as Product
+Worldview:
 
-Likely:
+cultivation + sustainability.
 
-Remain Emerging.
+### FYN
 
-Increase canonical confidence to High.
+Worldview:
 
----
+restraint + ingredient philosophy + culinary authorship.
 
-## Atmosphere Through Worldview
+### Dishoom
 
-Likely:
+Worldview:
 
-Remain Candidate / Under Review.
+shared hospitality + cultural memory + social meaning of Irani cafés.
+
+### Pattern Effect
+
+Very Strongly Strengthened
+
+### Confidence
+
+High as a research question
+
+### Important Governance Effect
+
+Before Dishoom, there was significant pressure to broaden:
+
+`Atmosphere Through Worldview`
+
+into:
+
+`Atmosphere Through Organising Idea`.
+
+Dishoom reduces that pressure.
+
+Why?
+
+Because the evidence now shows worldview functioning as a distinct atmospheric mechanism across:
+
+* different countries
+* different aesthetics
+* different hospitality models
+
+### Current Conclusion
+
+Worldview appears to deserve continued study as its own mechanism.
+
+### Comparison Recommendation
+
+Keep:
+
+`Atmosphere Through Worldview`
+
+Candidate / Under Review.
 
 Do not rename.
 
-FYN materially strengthens worldview as a legitimate mechanism.
+Do not promote yet.
+
+This is a strong Candidate, but the broader validation requirement still applies.
 
 ---
 
-## Atmosphere Through Continuity
+# Comparison Finding 4
 
-Likely:
+## Designed Escape Must Stay Narrow
 
-Remain Candidate.
+### Current Status
+
+Candidate
+
+### Strong Evidence
+
+Mawimbi
+
+### Dishoom Outcome
+
+Boundary Evidence
+
+### Why Dishoom Does Not Fit Cleanly
+
+Dishoom may transport the guest toward Bombay cultural memory.
+
+But the restaurant explicitly frames its design approach as:
+
+interpretation
+
+and
+
+homage
+
+rather than literal recreation.
+
+Its goal appears to be:
+
+cultural immersion
+
+rather than:
+
+emotional escape from London.
+
+### Current Conclusion
+
+`Designed Escape`
+
+should not become a general label for:
+
+any restaurant that transports the guest.
+
+### Boundary
+
+Designed Escape should remain closer to:
+
+> Deliberately creating emotional distance from the surrounding environment through an authored hospitality world.
+
+### Dishoom Alternative
+
+Cultural Immersion.
+
+### Governance Recommendation
+
+Retain Candidate.
+
+Keep narrow.
+
+Do not broaden.
+
+---
+
+# Comparison Finding 5
+
+## Atmosphere Through Continuity Requires Stronger Boundaries
+
+### Current Status
+
+Candidate
+
+### Strongest Evidence
+
+Talisman
+
+### Dishoom Outcome
+
+Boundary / Contradictory Evidence
+
+Dishoom references history intensely.
+
+But it does not possess:
+
+the same kind of accumulated institutional continuity.
+
+### Critical Distinction
+
+## Accumulated Continuity
+
+The restaurant has lived through the history.
+
+Example:
+
+Talisman.
+
+## Designed Historical Memory
+
+The restaurant interprets another cultural or historical tradition.
+
+Example:
+
+Dishoom.
+
+### Current Conclusion
+
+Historical atmosphere should not automatically strengthen:
+
+`Atmosphere Through Continuity`.
+
+The restaurant’s own continuity matters.
+
+### Governance Recommendation
+
+Keep Candidate.
+
+Narrow definition.
 
 No promotion.
 
 ---
 
-## Designed Escape
+# Comparison Finding 6
 
-Likely:
+## Designed Belonging Remains Distinct From Cultural Immersion
 
-Remain Candidate.
+Bistro Lolo and Dishoom both create socially accessible hospitality.
 
-Scope becomes more clearly defined against:
+But the mechanism differs.
 
-- belonging
-- controlled separation
+### Bistro Lolo
+
+Belonging through:
+
+* familiarity
+* neighbourhood rhythm
+* architecture
+* everyday use
+
+### Dishoom
+
+Immersion through:
+
+* cultural memory
+* story
+* social philosophy
+* material reference
+
+### Current Conclusion
+
+Do not merge:
+
+`Designed Belonging`
+
+and
+
+`Cultural Immersion`.
+
+The first asks:
+
+> Can I imagine myself here?
+
+The second asks:
+
+> Can I enter and understand this cultural world?
+
+These may overlap.
+
+They are not the same.
+
+Both remain below Candidate.
 
 ---
 
-# No Validation Promotion
+# Comparison Finding 7
 
-No atmosphere pattern should become Validated merely because the independent set reaches six restaurants.
+## Social Use Can Be Atmospheric Evidence
 
-The current research still lacks sufficient:
+Bistro Lolo and Dishoom both make social use important to the atmosphere.
 
-- geographic breadth
-- hospitality-category breadth
-- guest-behaviour evidence
-- direct sensory observation
-- mobile-specific evidence
+### Bistro Lolo
 
-The highest appropriate research-derived status remains:
+All-day neighbourhood rhythm.
 
-Emerging.
+### Dishoom
+
+Shared café culture and high-volume social energy.
+
+### Current Research Direction
+
+`Atmosphere Through Use`
+
+### Evidence
+
+Strong:
+
+* Bistro Lolo
+* Dishoom
+
+Partial:
+
+* Mawimbi
+
+### Confidence
+
+Medium to High
+
+### Current Conclusion
+
+Atmosphere may be communicated through:
+
+what people do
+
+not only:
+
+what the room looks like.
+
+### Governance Recommendation
+
+Keep below Candidate for now.
+
+Candidate Watch.
+
+Needs another materially different case.
 
 ---
 
-# Working Atmosphere Principle
+# Comparison Finding 8
 
-The six-restaurant comparison suggests:
+## Social Energy and Restraint Are Both Valid Premium Mechanisms
 
-> Atmosphere is not one style.
+Dishoom and FYN create a powerful contradiction.
 
-The stronger transferable behaviour is:
+## FYN
+
+Stillness.
+
+Precision.
+
+Restraint.
+
+Controlled separation.
+
+## Dishoom
+
+Energy.
+
+Density.
+
+Social activity.
+
+Visual richness.
+
+### Current Conclusion
+
+Premium atmosphere cannot be defined through:
+
+quiet
+
+or
+
+abundance.
+
+The correct mechanism depends on the hospitality proposition.
+
+### Governance Effect
+
+This strongly protects KHDS from becoming stylistically prescriptive.
+
+---
+
+# Comparison Finding 9
+
+## Cultural Memory Can Become Atmospheric Material
+
+Dishoom introduces one of the strongest new below-Candidate directions.
+
+### Observation
+
+Atmosphere is built partly from:
+
+* old café traditions
+* family imagery
+* cinema
+* historical references
+* cultural memory
+
+### Research Direction
+
+## Cultural Memory as Atmospheric Material
+
+### Confidence
+
+Medium to High
+
+### Current Conclusion
+
+Memory can influence:
+
+* design
+* objects
+* artwork
+* language
+* food context
+* social meaning
+
+### Important Boundary
+
+Memory itself does not prove:
+
+authenticity.
+
+This direction needs additional culturally interpretive hospitality cases.
+
+### Governance Recommendation
+
+Remain below Candidate.
+
+---
+
+# Comparison Finding 10
+
+## Cultural Immersion Is a Distinct Atmospheric Mechanism
+
+Dishoom does not fit neatly into:
+
+* continuity
+* escape
+* belonging
+* restraint
+
+### New Direction
+
+## Cultural Immersion
+
+### Working Definition
+
+> A hospitality environment may create atmosphere by translating cultural memory, story, food, material, language, and social behaviour into a coherent contemporary experience.
+
+### Current Evidence
+
+Strong:
+
+* Dishoom
+
+Possible partial:
+
+* Cultiva in a different form
+
+But insufficient for Candidate.
+
+### Governance Recommendation
+
+Observed Research Direction.
+
+No promotion.
+
+---
+
+# Comparison Finding 11
+
+## Location-Specific Atmosphere Can Exist Inside a Shared Brand
+
+Dishoom introduces a significant multi-location question.
+
+### Parent Brand
+
+Bombay + Irani café world.
+
+### Covent Garden
+
+Talkies + cinema + Ruby/Yasmin narrative.
+
+### Current Direction
+
+## Location-Specific Atmosphere Within Shared Brand
+
+### Working Logic
+
+Parent World
+
+↓
+
+Shared Design Language
+
+↓
+
+Location Story
+
+↓
+
+Location Atmosphere
+
+### Confidence
+
+Medium to High
+
+### Commercial Relevance
+
+Strong.
+
+### Governance Recommendation
+
+Below Candidate.
+
+Needs additional hospitality-group evidence.
+
+---
+
+# Comparison Finding 12
+
+## Atmosphere Through Worldview and Narrative Coherence Are Related but Not Identical
+
+Dishoom could superficially support both:
+
+* Atmosphere Through Worldview
+* Narrative Coherence Through Organising Logic
+
+The distinction matters.
+
+### Atmosphere Through Worldview
+
+Explains:
+
+why the environment feels the way it does.
+
+### Narrative Coherence Through Organising Logic
+
+Explains:
+
+how multiple stories remain coherent.
+
+### Example
+
+Dishoom’s social philosophy around Irani cafés supports:
+
+Atmosphere Through Worldview.
+
+Bombay as a parent narrative container supports:
+
+Narrative Coherence Through Organising Logic.
+
+### Current Conclusion
+
+Do not merge them.
+
+They operate at different levels.
+
+---
+
+# Comparison Finding 13
+
+## Historical Reference Is Not Automatically Heritage or Continuity
+
+Dishoom forces a useful distinction across multiple atmospheric concepts.
+
+### Historical Reference
+
+Use of past material.
+
+### Cultural Heritage
+
+Interpretation of a broader cultural history.
+
+### Institutional Heritage
+
+The restaurant’s own accumulated history.
+
+### Continuity
+
+The persistence of character through the restaurant’s own time and place.
+
+### Current Conclusion
+
+These must remain separate.
+
+This protects:
+
+* Heritage Builds Confidence
+* Atmosphere Through Continuity
+
+from becoming overly broad.
+
+---
+
+# Comparison Finding 14
+
+## Atmosphere Can Be Created Through Opposite Relationships to Place
+
+The research now includes different place relationships.
+
+### Ankole
+
+Atmosphere through the actual place.
+
+### Talisman
+
+Atmosphere through accumulated place.
+
+### Mawimbi
+
+Atmosphere through escape from surrounding place.
+
+### Bistro Lolo
+
+Atmosphere through belonging within neighbourhood place.
+
+### FYN
+
+Atmosphere through architectural and culinary control of place.
+
+### Dishoom
+
+Atmosphere through a layered relationship between:
+
+London
+
+and
+
+Bombay.
+
+### Current Conclusion
+
+Place is not one atmospheric mechanism.
+
+It may operate as:
+
+* origin
+* setting
+* memory
+* contrast
+* escape
+* belonging
+* reference
+
+This supports keeping:
+
+`Story Through Place`
+
+broad enough to include multiple place relationships while keeping individual atmosphere mechanisms distinct.
+
+---
+
+# Current Atmospheric Logic
+
+The pre-Dishoom working model was:
 
 Organising Logic
 
@@ -1459,284 +1384,806 @@ Intentional Signals
 
 Emotional Coherence
 
-Those signals may come from:
+Dishoom strengthens the model but adds:
 
-- worldview
-- history
-- place
-- architecture
-- cuisine
-- behaviour
-- materiality
-- social use
-- restraint
-- contrast
+social meaning.
 
-FYN adds a critical refinement:
+A provisional expanded model is:
 
-Coherence does not require emotional uniformity.
-
-A restaurant may intentionally contain:
-
-dark
-
-and
-
-light
-
-stillness
-
-and
-
-energy
-
-raw
-
-and
-
-refined
-
-while remaining atmospherically coherent.
-
-The question is:
-
-> **Do the contrasts belong to the same idea?**
-
----
-
-# Commercial Implications
-
-The six atmospheric models suggest that KHDS should not create one universal premium restaurant aesthetic.
-
-Future implementation should begin by identifying:
-
-Hospitality Model
+Organising Logic
 
 ↓
 
-Atmospheric Mechanism
+Story + Material + Behaviour
 
 ↓
 
-Evidence Required
+Social / Emotional Meaning
 
 ↓
 
-Digital Expression
+Atmospheric Coherence
 
-Possible examples:
+This appears to explain:
 
-## Refinement Through Place
+* Cultiva
+* Mawimbi
+* Bistro Lolo
+* FYN
+* Dishoom
 
-Potential digital tools:
+reasonably well.
 
-- architectural photography
-- controlled whitespace
-- restrained typography
+However:
 
----
+it should remain a comparison model.
 
-## Worldview Through Environment
-
-Potential digital tools:
-
-- philosophy-led story
-- process evidence
-- aligned material and product language
+Do not promote it as a formal KHDS Principle.
 
 ---
 
-## Continuity Through Place
+# Pattern Outcome
 
-Potential digital tools:
+## Atmosphere Through Consistency
 
-- heritage
-- historical imagery
-- architectural continuity
-- narrative sequencing
+Current:
+
+Emerging
+
+Dishoom Effect:
+
+Very Strong Support
+
+Recommendation:
+
+Retain.
+
+---
+
+## Atmosphere as Product
+
+Current:
+
+Emerging
+
+Dishoom Effect:
+
+Strong Support
+
+Recommendation:
+
+Retain.
+
+---
+
+## Atmosphere Through Worldview
+
+Current:
+
+Candidate / Under Review
+
+Dishoom Effect:
+
+Major Strengthening
+
+Recommendation:
+
+Keep current name.
+
+Keep Candidate.
+
+Reduce rename pressure.
 
 ---
 
 ## Designed Escape
 
-Potential digital tools:
+Current:
 
-- immersive photography
-- strong transition
-- cinematic pacing
-- thematic language
+Candidate
+
+Dishoom Effect:
+
+Boundary Evidence
+
+Recommendation:
+
+Keep narrow.
+
+---
+
+## Atmosphere Through Continuity
+
+Current:
+
+Candidate
+
+Dishoom Effect:
+
+Boundary / Contradictory Evidence
+
+Recommendation:
+
+Keep narrow.
+
+---
+
+## Narrative Coherence Through Organising Logic
+
+Current:
+
+Emerging
+
+Atmosphere Evidence:
+
+Strongly Supported
+
+Recommendation:
+
+Retain.
+
+Full judgment remains cross-dimensional.
+
+---
+
+## The Guest as Participant
+
+Current:
+
+Emerging
+
+Atmosphere Evidence:
+
+Strongly Supported through social participation.
+
+Recommendation:
+
+Retain.
+
+---
+
+# Below-Candidate Directions Strengthened
+
+## Designed Belonging
+
+Strong:
+
+* Bistro Lolo
+
+Dishoom:
+
+related but not equivalent.
+
+Status:
+
+Below Candidate.
+
+---
+
+## Atmosphere Through Use
+
+Strong:
+
+* Bistro Lolo
+* Dishoom
+
+Status:
+
+Candidate Watch
+
+No promotion yet.
+
+---
+
+## Cultural Immersion
+
+Strong:
+
+* Dishoom
+
+Status:
+
+Observed Research Direction.
+
+---
+
+## Cultural Memory as Atmospheric Material
+
+Strong:
+
+* Dishoom
+
+Status:
+
+Observed Research Direction.
+
+---
+
+## Location-Specific Atmosphere Within Shared Brand
+
+Strong:
+
+* Dishoom
+
+Status:
+
+Observed Research Direction.
+
+---
+
+## Controlled Separation
+
+Strongest:
+
+* FYN
+
+Dishoom:
+
+contrasting evidence through social openness.
+
+Status:
+
+Below Candidate.
+
+---
+
+## Restraint as Premium Signal
+
+Strongest:
+
+* FYN
+
+Dishoom:
+
+direct contradiction to universality.
+
+Status:
+
+Below Candidate.
+
+Keep narrow.
+
+---
+
+## Contrast as Atmospheric Structure
+
+Strongest:
+
+* FYN
+
+Dishoom:
+
+supports contrast differently through London/Bombay and present/memory but not enough to broaden.
+
+Status:
+
+Below Candidate.
+
+---
+
+# Major Atmosphere Tensions
+
+## Social Energy vs Restraint
+
+Dishoom vs FYN.
+
+---
+
+## Belonging vs Escape
+
+Bistro Lolo vs Mawimbi.
+
+---
+
+## Cultural Immersion vs Designed Escape
+
+Dishoom vs Mawimbi.
+
+---
+
+## Accumulated Continuity vs Designed Memory
+
+Talisman vs Dishoom.
+
+---
+
+## Actual Place vs Referenced Place
+
+Ankole / Talisman vs Dishoom.
+
+---
+
+## Accessibility vs Exclusivity
+
+Dishoom vs FYN.
+
+---
+
+## Richness vs Restraint
+
+Dishoom / Talisman vs FYN.
+
+---
+
+## Culture vs Theme
+
+Dishoom creates the strongest current case.
+
+---
+
+## Authenticity vs Interpretation
+
+Dishoom creates a major unresolved question.
+
+---
+
+## Brand Consistency vs Location Individuality
+
+Dishoom creates a new multi-location tension.
+
+---
+
+## Volume vs Intimacy
+
+Dishoom creates a strong operationally relevant tension.
+
+Guest evidence is still missing.
+
+---
+
+# Contradiction Matrix
+
+## Atmosphere Through Consistency
+
+Dishoom Outcome:
+
+Supported
+
+---
+
+## Atmosphere as Product
+
+Dishoom Outcome:
+
+Supported
+
+---
+
+## Atmosphere Through Worldview
+
+Dishoom Outcome:
+
+Strong Support
+
+---
+
+## Designed Escape
+
+Dishoom Outcome:
+
+Boundary / Not Equivalent
+
+---
+
+## Atmosphere Through Continuity
+
+Dishoom Outcome:
+
+Boundary / Partial Contradiction
+
+---
+
+## Narrative Coherence Through Organising Logic
+
+Dishoom Outcome:
+
+Supported
+
+---
+
+## The Guest as Participant
+
+Dishoom Outcome:
+
+Supported
 
 ---
 
 ## Designed Belonging
 
-Potential digital tools:
+Dishoom Outcome:
 
-- people
-- social use
-- neighbourhood context
-- daypart rhythm
+Related but not same mechanism
 
 ---
 
-## Controlled Contrast
+## Atmosphere Through Use
 
-Potential digital tools:
+Dishoom Outcome:
 
-- light/dark transitions
-- negative space
-- scale variation
-- restrained motion
-- selective imagery
+Supported
 
 ---
 
-# Opportunity Direction
+# Geographic Transferability
 
-## Atmosphere-Model Detection
+Dishoom adds another geographic and hospitality-model stress test.
 
-A future KHDS research or AI system may eventually need to identify:
+After full reconciliation, current markets will include:
 
-What type of atmosphere is this restaurant actually creating?
+* Kenya
+* South Africa
+* United Kingdom
 
-before choosing:
+### Patterns Strengthened Across Markets
 
-- photography structure
-- motion
-- typography
-- pacing
-- story density
-- layout
-- reservation presentation
+* Atmosphere Through Consistency
+* Atmosphere as Product
+* Narrative Coherence Through Organising Logic
+* The Guest as Participant
 
-Possible working architecture:
+### Candidate Strongly Strengthened
 
-Restaurant Evidence
+* Atmosphere Through Worldview
 
-↓
+### Candidate Boundaries Sharpened
 
-Atmospheric Model
+* Designed Escape
+* Atmosphere Through Continuity
 
-↓
+### Important Rule
 
-Required Proof
+Dishoom strengthens transferability.
 
-↓
-
-Digital Translation
-
-This is an implementation direction.
-
-It is not yet a KHDS pattern.
+It does not establish international validation.
 
 ---
 
-# Opportunity Direction
+# Commercial Opportunity Implications
 
-## Physical-to-Digital Atmosphere Translation
+Atmosphere comparison continues to surface several product and service opportunities.
 
-Observed Across:
-
-All six restaurants.
-
-### Opportunity
-
-Build a repeatable process for translating physical hospitality signals into digital ones.
-
-Possible inputs:
-
-- architecture
-- lighting
-- materiality
-- people
-- sound cues
-- social rhythm
-- landscape
-- table setting
-- service character
-
-Possible outputs:
-
-- image sequencing
-- typography
-- motion
-- colour
-- whitespace
-- pacing
-- content order
-
-### Status
-
-Potential Kodawa Labs Solution Direction
+These remain separate from pattern maturity.
 
 ---
 
-# Final Atmosphere Comparison
+## Location-Specific Atmosphere Architecture
 
-FYN makes the current atmosphere research significantly stronger because it does not fit neatly into the previous spectrum.
+Potential system:
 
-Before FYN, the clearest atmospheric contrasts were:
-
-Mawimbi
+Parent Brand
 
 ↓
 
-Escape
-
-and
-
-Bistro Lolo
+Shared Design Language
 
 ↓
 
-Belonging.
+Location Story
 
-FYN adds:
+↓
 
-Controlled Separation
+Location-Specific Atmosphere
 
-and
+---
 
-Restraint Through Contrast.
+## Digital Atmosphere Translation
 
-More importantly, it changes our interpretation of `Atmosphere Through Worldview`.
+Restaurants with powerful physical environments may need better digital translation through:
 
-After Mawimbi and Bistro Lolo, we had good reason to suspect that worldview was too narrow and should eventually become:
+* photography
+* motion
+* pacing
+* language
+* sound where appropriate
+* spatial sequencing
 
-`Atmosphere Through Organising Idea`.
+---
 
-FYN prevents that decision from becoming premature.
+## Cultural Story Translation
 
-Cultiva and FYN now provide two strong and materially different examples where:
+Possible architecture:
 
-what the restaurant believes
+History
 
-appears connected to
+↓
 
-how the restaurant feels.
+Meaning
 
-At the same time, Mawimbi, Talisman, Ankole, and Bistro Lolo show that worldview is not required.
+↓
 
-So the current evidence says:
+Material
 
-> Worldview is a real atmospheric mechanism, but not the universal atmospheric mechanism.
+↓
 
-That is much more useful than either promoting or deleting the pattern too quickly.
+Food
 
-FYN also strengthens `Atmosphere as Product` considerably.
+↓
 
-The pattern now survives:
+Language
 
-- escape
-- belonging
-- controlled restraint
+↓
 
-which makes it one of the strongest current Emerging patterns.
+Guest Experience
 
-No atmosphere pattern becomes Validated.
+---
 
-The research now understands more atmospheric models than it did before.
+## Daypart Atmosphere Translation
 
-That is the correct outcome.
+Relevant to:
+
+* Bistro Lolo
+* Dishoom
+
+Possible digital states:
+
+Morning
+
+↓
+
+Afternoon
+
+↓
+
+Evening
+
+↓
+
+Late
+
+---
+
+## Social Atmosphere Proof
+
+Use imagery and content to show:
+
+* who uses the space
+* how the space is used
+* which occasions fit
+* what type of social energy exists
+
+---
+
+# Evidence Limitations
+
+The comparison can establish:
+
+* visible design logic
+* published brand philosophy
+* story-to-space relationships
+* visible environmental cues
+* public descriptions of atmosphere
+* social-use positioning
+* location-specific narrative
+
+It cannot establish:
+
+* actual sensory atmosphere
+* noise levels
+* crowding
+* smell
+* temperature
+* perceived intimacy
+* guest emotional response
+* whether guests interpret cultural references as intended
+* whether atmosphere affects conversion
+* whether atmosphere increases repeat visits
+
+Those require:
+
+* direct observation
+* guest interviews
+* sensory research
+* analytics
+* operational evidence
+
+---
+
+# Comparison Outcome
+
+Dishoom does not weaken the broader atmosphere framework.
+
+It makes the framework more precise.
+
+It strongly reinforces:
+
+`Atmosphere Through Consistency`
+
+because its rich and layered environment remains coherent.
+
+It strengthens:
+
+`Atmosphere as Product`
+
+because guests are clearly being invited into:
+
+a café world
+
+not only:
+
+a menu.
+
+Most importantly, it materially strengthens:
+
+`Atmosphere Through Worldview`.
+
+Cultiva showed worldview through cultivation.
+
+FYN showed worldview through culinary philosophy and restraint.
+
+Dishoom shows worldview through cultural memory and the social meaning of Irani cafés.
+
+That is now meaningful independent repetition across highly different hospitality models.
+
+At the same time, Dishoom creates useful boundaries.
+
+It should not be counted as straightforward support for:
+
+`Designed Escape`.
+
+Cultural immersion is not the same as escape.
+
+It should not be counted as support for:
+
+`Atmosphere Through Continuity`.
+
+Remembering another history is not the same as possessing one’s own accumulated continuity.
+
+This distinction is important.
+
+Dishoom also introduces a new atmospheric mechanism:
+
+`Cultural Immersion`.
+
+That direction is promising.
+
+But one strong restaurant is not enough.
+
+Keep it below Candidate.
+
+---
+
+# Provisional Atmosphere Governance Position
+
+After the Dishoom atmosphere comparison:
+
+## No Pattern Promotions
+
+0
+
+## No Pattern Demotions
+
+0
+
+## No Final Renames
+
+0
+
+## Candidate Strongly Strengthened
+
+1
+
+* Atmosphere Through Worldview
+
+## Candidate Boundary Clarifications
+
+2
+
+* Designed Escape
+* Atmosphere Through Continuity
+
+## Below-Candidate Directions Strengthened
+
+* Atmosphere Through Use
+* Cultural Immersion
+* Cultural Memory as Atmospheric Material
+* Location-Specific Atmosphere Within Shared Brand
+
+## Major New Tensions Preserved
+
+* Cultural Immersion vs Designed Escape
+* Accumulated Continuity vs Designed Memory
+* Culture vs Theme
+* Authenticity vs Interpretation
+* Brand Consistency vs Location Individuality
+
+Official KHDS maturity remains unchanged until all five Dishoom comparisons and governance reconciliation are complete.
+
+---
+
+# Current Atmosphere Model
+
+The strongest provisional model is:
+
+Organising Logic
+
+↓
+
+Story + Material + Behaviour
+
+↓
+
+Social / Emotional Meaning
+
+↓
+
+Atmospheric Coherence
+
+The mechanism may then take different forms:
+
+* refinement
+* worldview
+* continuity
+* escape
+* belonging
+* restraint
+* cultural immersion
+
+This is stronger than prescribing:
+
+one aesthetic language.
+
+---
+
+# Final Atmosphere Statement
+
+The current research no longer supports the idea that premium hospitality atmosphere has a recognisable visual formula.
+
+Ankole creates atmosphere through place.
+
+Cultiva through worldview.
+
+Talisman through continuity.
+
+Mawimbi through escape.
+
+Bistro Lolo through belonging.
+
+FYN through restraint.
+
+Dishoom through cultural immersion and social energy.
+
+Those models contradict one another aesthetically.
+
+Yet the deeper mechanism survives:
+
+> **Atmosphere becomes convincing when the restaurant’s story, space, material, behaviour, and emotional promise reinforce one another.**
+
+Dishoom adds an important warning.
+
+A restaurant can reference history without possessing historical continuity.
+
+It can transport the guest without creating escape.
+
+It can be visually rich without becoming incoherent.
+
+It can be culturally specific without relying on one decorative theme.
+
+That is exactly the kind of distinction KHDS needs.
+
+The next comparison should test whether Dishoom creates the same kind of refinement in the photography framework.
+
+---
+
+## Research Status
+
+Dishoom Atmosphere Comparison Complete
+
+---
+
+## Next Step
+
+Update:
+
+`comparison/photography.md`
+
+Do not update:
+
+* `validation/candidate-patterns.md`
+* `patterns/registry.md`
+* `validation/dashboard.md`
+* `research/README.md`
+
+until all five Dishoom comparison files are complete.
 
 Evidence wins.

@@ -1,31 +1,37 @@
-# Reservation Comparison
+# KHDS Reservation Comparison
 
 ## Purpose
 
-Compare how independent restaurants structure reservation, participation, commitment, and guest access.
+Compare how independent hospitality brands structure:
 
-This file tracks:
+* reservations
+* walk-ins
+* booking pathways
+* commitment
+* guest routing
+* human assistance
+* group complexity
+* pre-arrival expectations
 
-- reservation models
-- guest intent
-- commitment level
-- automation versus human assistance
-- visible booking exceptions
-- operational boundaries
-- pattern maturity
-- contradictions
-- geographic transferability
-- commercial opportunities
+This document asks:
 
-The goal is not to identify one universal booking system.
+* Is reservation the primary participation mechanism?
+* How does access change by guest intent?
+* How does party size affect the route?
+* When does human involvement become necessary?
+* When does commitment increase?
+* Which KHDS reservation patterns survive across different operating models?
+* Which current pattern names are now too narrow?
 
-The goal is to determine which reservation behaviours remain useful across substantially different hospitality models.
+The goal is not to identify one ideal booking flow.
+
+The goal is to understand the deeper participation logic behind different hospitality systems.
 
 ---
 
-# Independent Research Set
+# Current Research Set
 
-Current independent restaurants compared:
+## Completed Independent Restaurants
 
 1. Ankole
 2. Cultiva
@@ -34,1702 +40,1581 @@ Current independent restaurants compared:
 5. Bistro Lolo
 6. FYN
 
----
+## Current Research Candidate
 
-# Reservation Models
+7. Dishoom Covent Garden
 
-## Ankole
+Dishoom should not enter the official completed global research count until:
 
-### Primary Character
-
-Persistent structured reservation access.
-
-### Working Logic
-
-Guest Interest
-
-↓
-
-Visible Booking Access
-
-↓
-
-Structured Reservation
-
-### Key Behaviour
-
-Reservation remains easy to find while the guest continues exploring the restaurant.
+* all five comparison files are complete
+* candidate governance is reconciled
+* the pattern registry is updated
+* the validation dashboard is updated
+* the root research README is updated
 
 ---
 
-## Cultiva
+# Ankole
 
-### Primary Character
+## Reservation Character
 
-Story-integrated reservation.
+Persistent structured access.
 
-### Working Logic
+## Primary Behaviour
+
+Reservation is available as a clear and visible action.
+
+## Working Logic
+
+Interest
+
+↓
+
+Reservation Access
+
+↓
+
+Confirmed Visit
+
+## Interpretation
+
+Ankole supports a relatively conventional reservation-led model.
+
+The guest can discover the restaurant and move toward booking without requiring a complex decision tree.
+
+Its main contribution is evidence that reservation should remain easy to access when booking is a meaningful participation mechanism.
+
+---
+
+# Cultiva
+
+## Reservation Character
+
+Story-integrated booking.
+
+## Primary Behaviour
+
+The reservation route exists within a wider worldview-led experience.
+
+## Working Logic
 
 Meaning
 
 ↓
 
-Confidence
+Product / Place Understanding
 
 ↓
 
 Reservation
 
-### Key Behaviour
+## Interpretation
 
-Booking exists alongside the restaurant’s worldview rather than replacing it.
+Cultiva shows that reservation does not need to dominate the digital experience.
+
+Booking can remain accessible while story and worldview create context first.
+
+This helped reinforce the early interpretation of:
+
+`Reservation Throughout the Journey`
+
+as persistent access rather than immediate conversion pressure.
 
 ---
 
-## Talisman
+# Talisman
 
-### Primary Character
+## Reservation Character
 
-Request-based reservation with human confirmation.
+Request + human confirmation.
 
-### Working Logic
+## Primary Behaviour
 
-Guest Request
+The guest may submit a reservation request and receive later confirmation.
+
+## Working Logic
+
+Intent
 
 ↓
 
-Restaurant Review
+Reservation Request
 
 ↓
 
 Human Confirmation
 
-### Key Behaviour
+↓
 
-Human involvement remains part of the reservation process.
+Participation
 
-This creates personal service but delays certainty.
+## Interpretation
+
+Talisman provided important early evidence that hospitality could continue after form submission.
+
+The confirmation interaction itself appeared to preserve a human layer.
+
+This contributed strongly to:
+
+`Human Confirmation as Hospitality`.
+
+Later restaurants have put significant pressure on whether that is the correct abstraction.
 
 ---
 
-## Mawimbi
+# Mawimbi
 
-### Primary Character
+## Reservation Character
 
-Multi-channel reservation with increasing coordination.
+Multi-channel and complexity-sensitive.
 
-### Working Logic
+## Primary Behaviour
 
-Standard Booking
+Different guest needs may move through different routes.
+
+Possible contexts include:
+
+* standard dining
+* groups
+* events
+* direct contact
+
+## Working Logic
+
+Guest Need
 
 ↓
 
-Digital Entry
-
-Complex Need
+Appropriate Channel
 
 ↓
 
-Greater Human Coordination
+Coordination
 
-### Key Behaviour
+↓
 
-Different reservation situations appear to require different levels of assistance.
+Participation
+
+## Interpretation
+
+Mawimbi helped show that reservation architecture becomes more complex as:
+
+* party size
+* occasion
+* event type
+
+change.
+
+This created important evidence for:
+
+`Escalating Reservation Complexity`.
+
+It also strengthened the idea that complex requests may benefit from more human involvement.
 
 ---
 
-## Bistro Lolo
+# Bistro Lolo
 
-### Primary Character
+## Reservation Character
 
-Flexible, intent-sensitive participation.
+Flexible intent-sensitive access.
 
-### Working Logic
+## Primary Behaviour
 
-Spontaneous
+The restaurant supports a less rigid participation model than strongly reservation-led restaurants.
 
-↓
+## Working Logic
 
-Walk In
-
-Routine Planned
+Intent
 
 ↓
 
-Self-Service
-
-Direct / Complex
+Flexible Route
 
 ↓
 
-WhatsApp / Phone / Email
+Participation
 
-### Key Behaviour
+## Interpretation
 
-The restaurant preserves several legitimate ways to participate without forcing every guest into one booking flow.
+Bistro Lolo introduced pressure on the assumption that all guests require the same access mechanism.
+
+Its broader all-day hospitality model suggested that:
+
+* reservation
+* timing
+* daypart
+* spontaneous participation
+
+may interact differently depending on the occasion.
+
+This helped strengthen:
+
+`Dual-Path Hospitality`
+
+but also began exposing that two paths might eventually be too narrow.
 
 ---
 
-## FYN
+# FYN
 
-### Primary Character
+## Reservation Character
 
-High-commitment structured reservation with explicit exception routes.
+High-commitment structured booking with exception handling.
 
-### Working Logic
+## Primary Behaviour
 
-Standard Guest
+Normal participation is strongly structured around:
+
+* reservation
+* deposits
+* cancellation rules
+* defined expectations
+* policy clarity
+
+More exceptional needs may require direct human involvement.
+
+## Working Logic
+
+Guest Intent
 
 ↓
 
-Digital Reservation
+Structured Reservation
+
+↓
+
+Expectation Clarity
+
+↓
+
+Commitment
+
+↓
+
+Participation
+
+Exceptional Need
+
+↓
+
+Additional Human Assistance
+
+## Interpretation
+
+FYN materially improved the KHDS reservation framework.
+
+It introduced the distinction between:
+
+## Harmful Friction
+
+Unnecessary:
+
+* ambiguity
+* confusion
+* delay
+* effort
+
+and
+
+## Meaningful Constraint
+
+Transparent requirements that protect or define the hospitality experience.
+
+FYN also strengthened:
+
+`Escalating Reservation Complexity`
+
+because routine booking remained structured while exceptions required more direct handling.
+
+It refined:
+
+`Commitment Without Pressure`
+
+by showing that meaningful commitment can remain hospitable when expectations are:
+
+* visible
+* understandable
+* relevant
+* proportionate
+
+---
+
+# Dishoom Covent Garden
+
+## Reservation Character
+
+Walk-in-first participation with escalating complexity.
+
+## Primary Behaviour
+
+Dishoom supports several legitimate participation routes:
+
+* walk in
+* standard daytime reservation
+* larger evening reservation
+* group feast
+* direct enquiry
+* higher commitment for very large groups
+
+## Working Logic
+
+Guest Intent
+
+*
+
+Party Size
+
+*
+
+Time
+
+*
+
+Complexity
+
+↓
+
+Appropriate Participation Route
+
+↓
+
+Appropriate Commitment
+
+↓
+
+Appropriate Human Support
+
+↓
+
+Participation
+
+## Interpretation
+
+Dishoom creates the strongest challenge so far to the assumption that:
+
+reservation
+
+is the central transferable behaviour.
+
+The guest may legitimately participate without reserving at all.
+
+This changes the comparison from:
+
+reservation architecture
+
+toward:
+
+participation architecture.
+
+---
+
+# Seven Participation Models
+
+The current research now suggests at least seven distinct access models.
+
+## Model A — Persistent Reservation
+
+Ankole
+
+Intent
+
+↓
+
+Reserve
+
+↓
+
+Visit
+
+---
+
+## Model B — Story-Integrated Reservation
+
+Cultiva
+
+Meaning
+
+↓
+
+Reserve
+
+↓
+
+Visit
+
+---
+
+## Model C — Request + Human Confirmation
+
+Talisman
+
+Request
+
+↓
+
+Human Confirmation
+
+↓
+
+Visit
+
+---
+
+## Model D — Multi-Channel Complexity
+
+Mawimbi
+
+Need
+
+↓
+
+Channel / Coordination
+
+↓
+
+Visit
+
+---
+
+## Model E — Flexible Intent Routing
+
+Bistro Lolo
+
+Intent
+
+↓
+
+Flexible Route
+
+↓
+
+Visit
+
+---
+
+## Model F — High-Commitment Structured Reservation
+
+FYN
+
+Intent
+
+↓
+
+Reservation
+
+↓
+
+Expectation Clarity
+
+↓
+
+Commitment
+
+↓
+
+Visit
+
+---
+
+## Model G — Walk-In-First Participation
+
+Dishoom
+
+Intent
+
+↓
+
+Walk In / Reserve / Group Route
+
+↓
+
+Appropriate Commitment
+
+↓
+
+Visit
+
+---
+
+# Comparison Finding 1
+
+## Reservation Is Not the Universal Participation Mechanism
+
+### Previous Assumption
+
+The first six restaurants gave reservation a central role.
+
+Even where the implementation differed, formal booking remained important.
+
+### Dishoom Challenge
+
+Dishoom explicitly supports walk-in participation as a primary route.
+
+### Current Conclusion
+
+The transferable guest need is not:
+
+reservation.
+
+It is:
+
+## Participation Access
+
+The guest needs to understand:
+
+* whether they can come
+* how they can come
+* what route fits their situation
+* whether commitment is required
+* whether human assistance is necessary
+
+### Governance Consequence
+
+This creates major pressure on:
+
+`Reservation Throughout the Journey`.
+
+---
+
+# Comparison Finding 2
+
+## Reservation Throughout the Journey Is Now Too Narrow
+
+### Current Status
+
+Emerging
+
+### Previous Definition
+
+Reservation should remain accessible throughout the guest journey without disrupting the hospitality experience.
+
+### Cross-Restaurant Evidence
+
+#### Ankole
+
+Strong fit.
+
+#### Cultiva
+
+Strong fit.
+
+#### Talisman
+
+Fit through request access.
+
+#### Mawimbi
+
+Fit through multiple booking routes.
+
+#### Bistro Lolo
+
+Partial fit.
+
+#### FYN
+
+Very strong fit.
+
+#### Dishoom
+
+Underlying behaviour supported, literal reservation framing challenged.
+
+### Pattern Outcome
+
+Behaviour:
+
+Strong.
+
+Name:
+
+Too narrow.
+
+### Stronger Abstraction
+
+## Participation Throughout the Journey
+
+### Proposed Definition
+
+> A hospitality experience should keep the appropriate path to participation understandable and accessible throughout the guest journey.
+
+Possible participation mechanisms include:
+
+* reservation
+* walk-in
+* queue
+* group booking
+* direct enquiry
+* ticket
+* order
+
+depending on the restaurant model.
+
+### Comparison Recommendation
+
+Rename strongly recommended during governance.
+
+This is no longer merely a watch.
+
+The reservation comparison provides enough evidence that:
+
+reservation
+
+was an implementation-specific label for a broader recurring behaviour.
+
+Do not apply the rename until all five comparison files are complete.
+
+---
+
+# Comparison Finding 3
+
+## Dual-Path Hospitality Is No Longer an Adequate Name
+
+### Current Status
+
+Emerging
+
+### Previous Logic
+
+Different guests may need different journeys.
+
+The original abstraction often focused on:
+
+Ready Guest
+
+versus
+
+Exploring Guest.
+
+### Cross-Restaurant Evidence
+
+#### Ankole
+
+Different readiness levels.
+
+#### Cultiva
+
+Explore story or act.
+
+#### Talisman
+
+Explore or request.
+
+#### Mawimbi
+
+Standard dining or more complex needs.
+
+#### Bistro Lolo
+
+Different participation intents.
+
+#### FYN
+
+Standard structured booking or exception handling.
+
+#### Dishoom
+
+Multiple legitimate states:
+
+* walk-in
+* planned daytime reservation
+* larger evening group
+* group feast
+* direct enquiry
+* daypart-specific participation
+
+### Pattern Outcome
+
+Underlying behaviour:
+
+Very Strong.
+
+Current name:
+
+Contradicted by breadth.
+
+### Stronger Abstraction
+
+## Multi-Intent Hospitality
+
+### Proposed Definition
+
+> Hospitality systems should recognise materially different guest intentions and provide appropriate participation routes without forcing every guest through the same journey.
+
+### Comparison Recommendation
+
+Rename strongly recommended during governance.
+
+Dishoom is the strongest case, but the broader set already supports more than two routes.
+
+---
+
+# Comparison Finding 4
+
+## Human Confirmation as Hospitality Is the Wrong Abstraction
+
+### Current Status
+
+Emerging
+
+### Original Strong Evidence
+
+Talisman.
+
+### Supporting Historical Evidence
+
+Mawimbi.
+
+### FYN Development
+
+Human involvement became more useful for exceptional or complex needs.
+
+### Dishoom Challenge
+
+Routine participation can occur through:
+
+* walk-in
+* self-service reservation
+
+without human confirmation being presented as the value mechanism.
+
+Human involvement becomes more visible when complexity increases.
+
+### Pattern Outcome
+
+Current wording:
+
+Contradicted.
+
+Underlying behaviour:
+
+Strongly supported.
+
+### Stronger Abstraction
+
+## Human Assistance When Complexity Requires It
+
+### Proposed Definition
+
+> Hospitality systems should preserve efficient self-service for predictable interactions while introducing human assistance when judgement, coordination, exception handling, or complexity makes it valuable.
+
+### Cross-Restaurant Fit
+
+#### Talisman
+
+Human confirmation performs an assistance role.
+
+#### Mawimbi
+
+Complex requests may require coordination.
+
+#### Bistro Lolo
+
+Some flexibility without universal human involvement.
+
+#### FYN
+
+Exceptions receive more direct handling.
+
+#### Dishoom
+
+Large or special groups move toward human coordination.
+
+### Comparison Recommendation
+
+Rename strongly recommended.
+
+The evidence now supports:
+
+human escalation
+
+more reliably than:
+
+human confirmation.
+
+---
+
+# Comparison Finding 5
+
+## Escalating Reservation Complexity Survives but the Name Is Too Narrow
+
+### Current Status
+
+Emerging
+
+### Strong Evidence
+
+* Mawimbi
+* FYN
+* Dishoom
+
+### Partial / Compatible Evidence
+
+* Talisman
+* Bistro Lolo
+
+### Dishoom Contribution
+
+Dishoom gives the clearest visible escalation structure:
+
+Walk-In
+
+↓
+
+Standard Reservation
+
+↓
+
+Larger Evening Reservation
+
+↓
+
+Group Feast
+
+↓
+
+Direct Enquiry
+
+↓
+
+Higher Commitment
+
+### Pattern Outcome
+
+Underlying behaviour:
+
+Very Strongly Supported.
+
+Current name:
+
+Too narrow.
+
+### Stronger Abstraction
+
+## Escalating Participation Complexity
+
+### Proposed Definition
+
+> As guest participation becomes more operationally complex, hospitality systems should progressively introduce the coordination, commitment, policy, and human involvement necessary to support it.
+
+### Why This Is Stronger
+
+The first stage may involve:
+
+no reservation at all.
+
+The relevant variable is:
+
+complexity of participation.
+
+### Comparison Recommendation
+
+Rename recommended during governance.
+
+This is now part of the same abstraction cluster as:
+
+* Participation Throughout the Journey
+* Multi-Intent Hospitality
+* Human Assistance When Complexity Requires It
+
+---
+
+# Comparison Finding 6
+
+## Four Reservation Patterns Are Actually One Related Participation System
+
+Dishoom reveals that four existing patterns may have been describing different layers of one broader architecture.
+
+## Layer 1 — Access
+
+Current:
+
+Reservation Throughout the Journey
+
+Possible:
+
+Participation Throughout the Journey
+
+---
+
+## Layer 2 — Intent
+
+Current:
+
+Dual-Path Hospitality
+
+Possible:
+
+Multi-Intent Hospitality
+
+---
+
+## Layer 3 — Complexity
+
+Current:
+
+Escalating Reservation Complexity
+
+Possible:
+
+Escalating Participation Complexity
+
+---
+
+## Layer 4 — Human Escalation
+
+Current:
+
+Human Confirmation as Hospitality
+
+Possible:
+
+Human Assistance When Complexity Requires It
+
+### Current Conclusion
+
+These should remain four separate patterns for now because they describe different behaviours.
+
+But governance should treat them as:
+
+## Participation Architecture Cluster
+
+rather than independent unrelated concepts.
+
+This is the most important structural outcome of the reservation comparison.
+
+---
+
+# Comparison Finding 7
+
+## Commitment Without Pressure Becomes Stronger and More Precise
+
+### Current Status
+
+Emerging
+
+### FYN Contribution
+
+High commitment can remain hospitable when expectations are:
+
+* clear
+* relevant
+* visible
+* non-manipulative
+
+### Dishoom Contribution
+
+Commitment itself can scale with operational consequence.
+
+Possible progression:
+
+Spontaneous Visit
+
+↓
+
+Low Commitment
+
+Standard Reservation
+
+↓
+
+Planning Commitment
+
+Group Feast
+
+↓
+
+Card Guarantee
+
+Very Large Group
 
 ↓
 
 Deposit
 
-↓
+### Current Conclusion
 
-Clear Policies
+The deeper mechanism is:
 
-↓
+## Proportionate Commitment
 
-Confirmation
+### Refined Working Definition
 
-Exception
+> Hospitality may require commitment when it is relevant to the experience or operational consequence, provided the requirement is proportionate, visible, understandable, and non-manipulative.
 
-↓
+### Governance Recommendation
 
-Direct Human Assistance
+Keep:
 
-### Key Behaviour
-
-Routine participation is highly structured, while guests who fall outside the standard path receive an alternative route.
-
----
-
-# Shared Reservation Finding
-
-Across all six restaurants, the booking mechanism differs substantially.
-
-The strongest common logic is not:
-
-One Reservation System.
-
-It is:
-
-Guest Intent
-
-↓
-
-Accessible Participation Path
-
-↓
-
-Appropriate Level of Coordination
-
-↓
-
-Clear Outcome
-
-FYN strengthens this by adding two more variables:
-
-- commitment level
-- explicit expectation-setting
-
-A stronger working model now becomes:
-
-Guest Intent
-
-+
-
-Operational Complexity
-
-+
-
-Commitment Level
-
-↓
-
-Appropriate Automation
-
-+
-
-Appropriate Human Support
-
-+
-
-Clear Expectations
-
-↓
-
-Confirmed Participation
-
-This remains provisional.
-
-Do not promote it as a formal KHDS pattern yet.
-
----
-
-# Pattern Review
-
-## Reservation Throughout the Journey
-
-### Current Status
-
-Emerging
-
-### Evidence
-
-Strongly supported across:
-
-- Ankole
-- Cultiva
-- Talisman
-- Mawimbi
-- Bistro Lolo
-- FYN
-
-### Confidence
-
-High
-
-### Cross-Restaurant Effect
-
-Strongly Supported
-
-### Current Interpretation
-
-The appropriate path to participation should remain accessible throughout the digital guest journey.
-
-Participation may mean:
-
-- reserve
-- request
-- contact
-- inquire
-- walk in
-- select an experience
-- use an exception route
-
-The pattern does not require repeating the same reservation button everywhere.
-
-### FYN Effect
-
-FYN adds another requirement:
-
-the guest may also need access to:
-
-- deposit expectations
-- cancellation rules
-- seating structure
-- relevant policies
-
-before commitment.
-
-### Geographic Transferability
-
-Strengthened.
-
-FYN is the first current independent case outside Nairobi.
-
-### Recommendation
-
-Keep Emerging.
-
-No maturity change.
-
----
-
-# Pattern Review
-
-## Dual-Path Hospitality
-
-### Current Status
-
-Emerging
-
-### Evidence
-
-Observed across all six restaurants.
-
-### Confidence
-
-High
-
-### Cross-Restaurant Effect
-
-Strongly Supported With Strong Abstraction Pressure
-
-### Current Problem
-
-The name now under-describes the evidence.
-
-Current guest states include:
-
-- browsing
-- ready to reserve
-- spontaneous
-- planned
-- event-oriented
-- large-party
-- solo
-- dietary-specific
-- hotel-related
-- high-commitment
-- exception-based
-
-### Bistro Lolo Effect
-
-Introduced:
-
-- walk-in
-- self-service
-- direct human contact
-
-as legitimate parallel routes.
-
-### FYN Effect
-
-Shows that multiple pathways do not require broad flexibility.
-
-A highly structured restaurant may still support:
-
-- standard digital booking
-- dietary variations
-- lunch versus dinner
-- solo-diner exception
-- human-assisted edge cases
-
-### Deeper Behaviour
-
-Different legitimate guest situations should have an appropriate route to participation.
-
-### Possible Future Abstraction
-
-`Multi-Intent Hospitality`
-
-### Recommendation
-
-Keep Emerging.
-
-Flag for strong abstraction review during governance.
-
-Do not rename yet.
-
----
-
-# Pattern Review
-
-## Commitment Without Pressure
-
-### Current Status
-
-Emerging
-
-### Evidence
-
-Supported across all six restaurants.
-
-### Confidence
-
-High
-
-### Cross-Restaurant Effect
-
-Strongly Supported With Major Definition Refinement
-
-### Previous Working Interpretation
-
-Make participation clear while preserving guest autonomy.
-
-### FYN Effect
-
-FYN introduces:
-
-- financial deposit
-- cancellation consequences
-- defined seating windows
-- age policy
-- dress expectations
-- timing expectations
-- cashless payment
-- photography rules
-
-before arrival.
-
-This is the strongest current evidence that commitment itself is not necessarily the problem.
-
-### Critical Distinction
-
-## Commitment
-
-A legitimate condition attached to participation.
-
-## Pressure
-
-Artificial persuasion designed to force action.
-
-### Current Interpretation
-
-Hospitality may require meaningful commitment while still avoiding pressure when:
-
-- requirements are visible
-- consequences are understandable
-- the conditions are relevant to the experience
-- the guest knowingly chooses to proceed
-
-### Working Definition
-
-> Hospitality should make required commitment clear and proportionate without using manipulation, artificial urgency, or hidden consequence.
-
-### Recommendation
-
-Keep Emerging.
-
-Canonical definition should be refined during governance.
-
-No status change.
-
----
-
-# Pattern Review
-
-## Human Confirmation as Hospitality
-
-### Current Status
-
-Emerging
-
-### Strong Supporting Evidence
-
-- Talisman
-- Mawimbi
-
-### Boundary / Narrowing Evidence
-
-- Bistro Lolo
-- FYN
-
-### Confidence
-
-Medium
-
-### Cross-Restaurant Effect
-
-Increasingly Narrow
-
-### Current Problem
-
-The current name may imply:
-
-human confirmation itself creates hospitality value.
-
-The six-restaurant evidence no longer supports that broad claim.
-
-### Talisman
-
-Human confirmation is central.
-
-### Mawimbi
-
-Human involvement remains visible in more complex scenarios.
-
-### Bistro Lolo
-
-Routine booking can be self-service while human access remains available.
-
-### FYN
-
-Routine reservation is structured digitally.
-
-Human contact becomes relevant for exceptions such as solo dining.
-
-### Current Learning
-
-The stronger behaviour appears to be:
-
-Human involvement becomes most valuable when:
-
-- judgment is required
-- the request is unusual
-- complexity increases
-- the standard system does not fit
-
-### Possible Future Abstraction
-
-`Human Assistance When Complexity Requires It`
-
-### Recommendation
-
-Keep Emerging for now.
-
-Flag for major scope and naming review during governance.
-
-Do not promote.
-
----
-
-# Candidate Pattern Review
-
-## Escalating Reservation Complexity
-
-### Current Status
-
-Candidate
-
-### Strong Evidence
-
-- Mawimbi
-- FYN
-
-### Partial Support
-
-- Talisman
-- Bistro Lolo
-
-### Confidence
-
-Medium to High
-
-### Cross-Restaurant Effect
-
-Strongly Strengthened
-
-### Current Interpretation
-
-Reservation systems may preserve efficiency by increasing human involvement as guest requirements become more complex.
-
-Possible model:
-
-Standard Need
-
-↓
-
-Self-Service
-
-Complex / Exceptional Need
-
-↓
-
-Human Assistance
-
-### Mawimbi Contribution
-
-Different reservation situations appear to require increasing coordination.
-
-### FYN Contribution
-
-The strongest visible exception logic so far:
-
-standard booking
-
-versus
-
-solo-diner direct contact.
-
-FYN also publishes clear handling expectations around:
-
-- changes
-- cancellations
-- lateness
-- guest policies
-
-### Important Limitation
-
-Website evidence still does not establish:
-
-- backend routing
-- automated escalation
-- staff workflow
-- unified CRM
-- channel integration
-- whether complexity is actually classified systematically
-
-### Recommendation
-
-Promote from:
-
-Candidate
-
-to:
-
-Emerging
-
-after the full FYN comparison pass and governance reconciliation.
-
-### Reason
-
-The pattern now has:
-
-Strong independent evidence:
-
-- Mawimbi
-- FYN
-
-Meaningful partial support:
-
-- Talisman
-- Bistro Lolo
-
-and survives across two materially different hospitality models.
-
-### Confidence
-
-Medium to High
-
-### Governance Caveat
-
-The canonical definition must remain limited to visible hospitality logic.
-
-Do not claim technical routing architecture.
-
----
-
-# Partially Supported Finding Review
-
-## Own the Guest Relationship
-
-### Current Status
-
-Partially Supported
-
-### Visible Evidence
-
-- Ankole
-- Cultiva
-- Talisman
-- Mawimbi
-- Bistro Lolo
-- FYN
-
-### Confidence
-
-Medium
-
-### Cross-Restaurant Effect
-
-Repeated but Still Operationally Unresolved
-
-### Website Evidence Supports
-
-Restaurants may visibly provide:
-
-- branded reservation entrypoints
-- direct email
-- phone
-- WhatsApp
-- direct inquiry channels
-- third-party booking routes
-
-### Website Evidence Does Not Establish
-
-- CRM ownership
-- reservation-record ownership
-- guest-data ownership
-- payment-data ownership
-- remarketing rights
-- guest-history ownership
-- integration architecture
-- platform contracts
-
-### Recommendation
-
-Remain Partially Supported.
-
-No promotion.
-
-Operational evidence is required.
-
----
-
-# New Research Direction
-
-## Meaningful Constraint
-
-### Strongest Evidence
-
-- FYN
-
-### Comparative Relevance
-
-- Mawimbi
-- Talisman
-
-### Confidence
-
-Medium
-
-### Working Interpretation
-
-Some constraints may protect:
-
-- pacing
-- capacity
-- service consistency
-- restaurant economics
-- atmosphere
-- expectation clarity
-
-rather than simply creating unnecessary friction.
-
-Possible examples:
-
-- deposits
-- cancellation windows
-- seating windows
-- age restrictions
-- behavioural expectations
-
-### Status
-
-Observed Research Direction
-
-Do not promote.
-
----
-
-# New Research Direction
-
-## Hospitality Through Explicit Boundaries
-
-### Strongest Evidence
-
-- FYN
-
-### Confidence
-
-Medium
-
-### Working Interpretation
-
-Clear boundaries can support hospitality when they prevent surprise and explain how participation works.
-
-### Important Distinction
-
-Explicit boundary
-
-is not the same as
-
-hostile restriction.
-
-### Status
-
-Observed Research Direction
-
-Needs more independent cases.
-
----
-
-# New Research Direction
-
-## Reservation as Pre-Arrival Contract
-
-### Strongest Evidence
-
-- FYN
-
-### Confidence
-
-Low to Medium
-
-### Working Interpretation
-
-High-commitment reservation may establish reciprocal expectations between restaurant and guest before arrival.
-
-Restaurant commits:
-
-- space
-- service
-- preparation
-
-Guest commits:
-
-- time
-- payment
-- attendance
-- agreed conditions
-
-### Status
-
-Observed Research Direction
-
-Do not promote.
-
----
-
-# New Research Direction
-
-## Exception-Aware Hospitality
-
-### Evidence
-
-Strongest:
-
-- FYN
-
-Partial:
-
-- Mawimbi
-- Bistro Lolo
-
-### Confidence
-
-Medium
-
-### Working Interpretation
-
-Hospitality systems may become stronger when they can recognise that a guest no longer fits the standard flow and provide a more appropriate route.
-
-### Relationship to Existing Patterns
-
-This may ultimately belong inside:
-
-- Escalating Reservation Complexity
-- Multi-Intent Hospitality
-- Human Assistance When Complexity Requires It
-
-Avoid creating duplicate patterns.
-
-### Status
-
-Observed Research Direction
-
----
-
-# Supporting Behaviour
-
-## Multiple Booking Channels Increase Access
-
-### Evidence
-
-- Mawimbi
-- Bistro Lolo
-- Talisman
-- FYN
-
-### Interpretation
-
-Multiple channels may increase accessibility for different guest needs.
-
-### Limitation
-
-More channels may also increase operational complexity.
-
-Website research cannot determine whether channels are operationally unified.
-
-### Status
-
-Supporting Behaviour
-
----
-
-# Supporting Behaviour
-
-## Reservation Can Reflect Brand Character
-
-### Evidence
-
-Across all six restaurants.
-
-### Examples
-
-## Bistro Lolo
-
-Flexible.
-
-## FYN
-
-Structured.
-
-## Talisman
-
-Personal.
-
-## Mawimbi
-
-Multi-channel.
-
-### Interpretation
-
-Reservation design should reflect the hospitality model rather than sit outside it as a generic utility.
-
-### Status
-
-Supporting Behaviour
-
----
-
-# Supporting Behaviour
-
-## Walk-In Access Can Reduce Commitment Friction
-
-### Strongest Evidence
-
-- Bistro Lolo
-
-### Boundary
-
-- FYN
-
-### Interpretation
-
-Walk-in availability can support spontaneity where the restaurant model allows it.
-
-It is clearly not universal.
-
-### Status
-
-Supporting Behaviour
-
----
-
-# Supporting Behaviour
-
-## WhatsApp Can Function as Hospitality Infrastructure
-
-### Evidence
-
-- Mawimbi
-- Bistro Lolo
-- FYN
-
-### Interpretation
-
-WhatsApp may function as:
-
-- booking support
-- exception handling
-- direct communication
-- clarification infrastructure
-
-rather than simply a marketing contact channel.
-
-### Status
-
-Supporting Behaviour
-
----
-
-# Supporting Behaviour
-
-## Deposits Can Convert Intent Into Commitment
-
-### Strongest Evidence
-
-- FYN
-
-### Confidence
-
-High
-
-### Interpretation
-
-A reservation backed by payment represents a different level of commitment from a no-cost inquiry.
-
-### Limitation
-
-Do not infer:
-
-- reduced no-shows
-- increased value
-- improved profitability
-
-without operational evidence.
-
-### Status
-
-Supporting Behaviour
-
----
-
-# Supporting Behaviour
-
-## Cancellation Policy Can Clarify Consequences
-
-### Strongest Evidence
-
-- FYN
-
-### Confidence
-
-High
-
-### Interpretation
-
-Clear cancellation terms reduce ambiguity around what happens if plans change.
-
-### Status
-
-Supporting Behaviour
-
----
-
-# Supporting Behaviour
-
-## Human Channels Can Function as Exception Infrastructure
-
-### Strong Evidence
-
-- FYN
-- Mawimbi
-
-### Partial
-
-- Bistro Lolo
-
-### Confidence
-
-High
-
-### Interpretation
-
-Human communication channels may be most valuable when they handle situations the standard digital path cannot accommodate cleanly.
-
-### Status
-
-Supporting Behaviour
-
----
-
-# Reservation Tensions
-
-## Human Confirmation Versus Immediate Certainty
-
-### Human Confirmation
-
-- Talisman
-- Mawimbi
-
-### Immediate / Structured Digital Certainty
-
-- Bistro Lolo
-- FYN
-
-### Confidence
-
-High
-
-### Current Learning
-
-Confirmation and hospitality should not be treated as the same thing.
-
-Digital confirmation may create confidence.
-
-Human assistance may create value when judgment is required.
-
-The two can coexist.
-
----
-
-# Reservation Tension
-
-## Direct Relationship Versus Third-Party Convenience
-
-Observed Across:
-
-- Ankole
-- Cultiva
-- Talisman
-- Mawimbi
-- Bistro Lolo
-- FYN
-
-### Confidence
-
-High
-
-### Current Learning
-
-Third-party booking may improve convenience.
-
-Direct channels may strengthen brand continuity and communication.
-
-Website evidence cannot determine which party actually owns the customer data.
-
----
-
-# Reservation Tension
-
-## Guest Choice Versus Operational Complexity
-
-### Strongest Evidence
-
-- Mawimbi
-- Bistro Lolo
-- FYN
-
-### Confidence
-
-High
-
-### Current Learning
-
-More guest pathways can increase:
-
-- accessibility
-- flexibility
-
-while also potentially increasing:
-
-- routing complexity
-- channel fragmentation
-- staff coordination
-
-The optimal number of channels is not universal.
-
----
-
-# Reservation Tension
-
-## Automation Versus Hospitality
-
-### Evidence
-
-All six restaurants contribute.
-
-### Confidence
-
-High
-
-### Current Learning
-
-This is increasingly a false binary.
-
-The stronger model is:
-
-Automate predictable interactions.
-
-Use humans where human judgment adds value.
-
-FYN provides particularly strong evidence for this interpretation.
-
----
-
-# Reservation Tension
-
-## Spontaneity Versus Reservation Optimisation
-
-### Spontaneity
-
-- Bistro Lolo
-
-### High Reservation Structure
-
-- FYN
-
-### Mixed
-
-- Ankole
-- Cultiva
-- Talisman
-- Mawimbi
-
-### Confidence
-
-High
-
-### Current Learning
-
-A hospitality system should not optimise reservations so aggressively that it undermines a restaurant whose value partly comes from spontaneity.
-
-Nor should a high-commitment destination restaurant be forced into a casual walk-in model.
-
----
-
-# Reservation Tension
-
-## Channel Choice Versus Decision Simplicity
-
-### Strongest Evidence
-
-- Mawimbi
-- Bistro Lolo
-
-### Relevant
-
-- FYN
-
-### Confidence
-
-High
-
-### Current Learning
-
-More booking channels may improve access but also create uncertainty about:
-
-Which path should I use?
-
-Intent-sensitive routing may reduce this problem.
-
----
-
-# Reservation Tension
-
-## Platform Efficiency Versus Brand Continuity
-
-### Evidence
-
-- Mawimbi
-- Bistro Lolo
-- FYN
-
-### Confidence
-
-Medium to High
-
-### Current Learning
-
-External booking technology may improve operational convenience.
-
-However, digital handoff can affect:
-
-- visual continuity
-- trust
-- perceived ownership
-- guest understanding
-
-This should remain a commercial and implementation concern rather than a universal principle.
-
----
-
-# Reservation Tension
-
-## Commitment Versus Convenience
-
-### Highest Commitment
-
-- FYN
-
-### Highest Flexibility
-
-- Bistro Lolo
-
-### Confidence
-
-High
-
-### Current Learning
-
-Convenience should not be maximised independently of the hospitality model.
-
-A restaurant may legitimately require commitment.
-
----
-
-# Reservation Tension
-
-## Guest Freedom Versus Operational Protection
-
-### Strongest Evidence
-
-- FYN
-
-### Comparative Relevance
-
-- Mawimbi
-- Talisman
-
-### Confidence
-
-High
-
-### Current Learning
-
-Guest autonomy does not require unlimited post-commitment flexibility.
-
-A useful distinction is emerging between:
-
-Freedom to Choose
-
-and
-
-Freedom From Consequence.
-
-Do not formalise yet.
-
----
-
-# Reservation Tension
-
-## Transparency Versus Exclusivity
-
-### Strongest Evidence
-
-- FYN
-
-### Confidence
-
-Medium to High
-
-### Current Learning
-
-A premium or exclusive experience does not require hidden rules.
-
-Clear policies may coexist with selective participation.
-
----
-
-# Reservation Tension
-
-## Standardisation Versus Individual Accommodation
-
-### Strongest Evidence
-
-- FYN
-
-### Relevant
-
-- Mawimbi
-- Bistro Lolo
-
-### Confidence
-
-High
-
-### Current Learning
-
-Hospitality systems need a boundary between:
-
-what should be standardised
-
-and
-
-what deserves human judgment.
-
-This is increasingly important for ReserveAI.
-
----
-
-# Geographic Transferability
-
-FYN provides the first reservation comparison outside Nairobi.
-
-It strengthens geographic transferability for:
-
-- Reservation Throughout the Journey
-- Dual-Path Hospitality
-- Commitment Without Pressure
-
-It also provides geographically distinct evidence for:
-
-- exception-based human assistance
-- structured commitment
-- explicit booking boundaries
-
-One non-Nairobi case is not enough for broad geographic validation.
-
-But the core reservation patterns survive substantial market and hospitality-model change.
-
----
-
-# Current Reservation Pattern Position
-
-## Emerging — Strong
-
-### Reservation Throughout the Journey
-
-Confidence:
-
-High
-
----
-
-### Dual-Path Hospitality
-
-Confidence:
-
-High
-
-Review:
-
-Strong abstraction pressure.
-
----
-
-### Commitment Without Pressure
-
-Confidence:
-
-High
-
-Review:
-
-Major definition refinement.
-
----
-
-# Emerging — Major Scope Review
-
-### Human Confirmation as Hospitality
-
-Confidence:
-
-Medium
-
-Review:
-
-Strong narrowing.
-
----
-
-# Candidate — Recommended Promotion
-
-### Escalating Reservation Complexity
-
-Current Status:
-
-Candidate
-
-Recommended Status:
-
-Emerging
-
-Evidence:
-
-Strong:
-
-- Mawimbi
-- FYN
-
-Partial:
-
-- Talisman
-- Bistro Lolo
-
-Confidence:
-
-Medium to High
-
-### Proposed Interpretation
-
-Hospitality systems may preserve efficiency by keeping predictable booking interactions self-service while increasing human involvement as requests become exceptional or operationally complex.
-
-### Important Boundary
-
-This pattern refers to visible hospitality logic.
-
-It does not imply verified backend routing.
-
-### Promotion Recommendation
-
-Candidate
-
-↓
-
-Emerging
-
-after full FYN comparison reconciliation.
-
----
-
-# Partially Supported
-
-### Own the Guest Relationship
-
-Confidence:
-
-Medium
-
-Recommendation:
-
-No change.
-
----
-
-# No Validation Promotion
-
-No reservation pattern becomes Validated after six restaurants.
-
-The current evidence still lacks sufficient:
-
-- geographic breadth
-- operational evidence
-- guest behaviour
-- conversion evidence
-- booking analytics
-- technical integration evidence
-- category breadth
-
-The highest appropriate status remains:
+`Commitment Without Pressure`
 
 Emerging.
 
+Do not rename to Proportionate Commitment.
+
+Instead, absorb:
+
+proportionality
+
+into the definition.
+
+### Reason
+
+`Proportionate Commitment`
+
+appears to be a mechanism inside the broader pattern rather than a separate pattern.
+
 ---
 
-# Working Reservation Principle
+# Comparison Finding 8
 
-The six-restaurant comparison increasingly supports:
+## Human Assistance Should Follow Complexity, Not Channel
 
-> The best reservation system is not the one with the least human involvement or the most automation.
+A common design mistake would be:
 
-The stronger question is:
+online = automated
 
-> What level of coordination does this guest situation actually require?
+phone/email = human.
 
-The current working logic is:
+The research does not support that simple division.
+
+### Better Variable
+
+Complexity.
+
+### Predictable Need
+
+Can remain:
+
+* self-service
+* structured
+* automated
+
+### Exceptional Need
+
+May require:
+
+* judgement
+* coordination
+* negotiation
+* clarification
+* accommodation
+
+### Current Conclusion
+
+Human assistance should be introduced because:
+
+the guest need requires it.
+
+Not because:
+
+a specific channel is inherently more hospitable.
+
+This strongly supports the proposed rename of:
+
+`Human Confirmation as Hospitality`.
+
+---
+
+# Comparison Finding 9
+
+## Walk-In Is a Legitimate First-Class Participation Model
+
+Dishoom creates the strongest evidence.
+
+Bistro Lolo provides supporting pressure.
+
+### Current Research Direction
+
+## Walk-In as First-Class Participation
+
+### Working Definition
+
+> A restaurant may deliberately preserve spontaneous access as a core participation model rather than treating walk-ins as leftover demand.
+
+### Possible Design Responsibilities
+
+* explain whether walk-ins are welcome
+* explain when they are most suitable
+* manage expectations
+* route large parties elsewhere
+* preserve spontaneity
+
+### Governance Recommendation
+
+Remain below Candidate.
+
+Dishoom is strong evidence, but independent repetition is still limited.
+
+---
+
+# Comparison Finding 10
+
+## Access and Guaranteed Access Are Different
+
+Dishoom makes an important distinction.
+
+### Walk-In
+
+Provides:
+
+access opportunity.
+
+### Reservation
+
+Provides:
+
+greater certainty.
+
+### Current Conclusion
+
+KHDS should distinguish:
+
+## Participation Access
+
+Can the guest reasonably attempt to participate?
+
+from
+
+## Participation Guarantee
+
+Is the guest’s place secured?
+
+These are different guest needs.
+
+This helps explain why:
+
+walk-in
+
+and
+
+reservation
+
+can coexist without one invalidating the other.
+
+---
+
+# Comparison Finding 11
+
+## Spontaneity and Certainty Are Both Legitimate Hospitality Values
+
+### FYN
+
+Optimises:
+
+certainty.
+
+### Dishoom
+
+Protects:
+
+spontaneity.
+
+### Bistro Lolo
+
+Occupies:
+
+a flexible middle ground.
+
+### Current Conclusion
+
+Neither should become the KHDS default.
+
+The correct access system should reflect:
+
+* service format
+* demand
+* occasion
+* guest expectation
+* operating model
+
+---
+
+# Comparison Finding 12
+
+## Meaningful Constraint Survives Beyond FYN
+
+FYN introduced the distinction between:
+
+harmful friction
+
+and
+
+meaningful constraint.
+
+Dishoom strengthens it differently.
+
+### Dishoom Constraints
+
+As complexity increases, guests may encounter:
+
+* group thresholds
+* card guarantees
+* cancellation rules
+* deposits
+* direct enquiry
+
+### Current Conclusion
+
+Constraint becomes hospitable when it is:
+
+* relevant
+* proportionate
+* predictable
+* understandable
+
+This reinforces:
+
+`Commitment Without Pressure`.
+
+---
+
+# Comparison Finding 13
+
+## Participation Complexity Can Be Determined by Multiple Variables
+
+Dishoom makes the logic especially visible.
+
+Complexity may increase because of:
+
+* party size
+* time
+* occasion
+* event type
+* special request
+* financial exposure
+* operational coordination
+
+### Current Conclusion
+
+Participation routing should not be based on:
+
+party size alone.
+
+A stronger future system may evaluate:
 
 Guest Intent
 
-+
+*
+
+Party Size
+
+*
+
+Time
+
+*
 
 Operational Complexity
 
-+
+↓
 
-Commitment Level
+Appropriate Route
+
+---
+
+# Comparison Finding 14
+
+## The Best Reservation System May Sometimes Preserve Non-Reservation Capacity
+
+Dishoom deliberately preserves walk-in capacity.
+
+### Current Tension
+
+Digital Capacity Optimisation
+
+versus
+
+Hospitality Model Preservation.
+
+### Current Conclusion
+
+KHDS should not assume:
+
+more online bookability
+
+is always better.
+
+The restaurant may intentionally reserve capacity for:
+
+* walk-ins
+* spontaneity
+* local behaviour
+* operational flexibility
+
+### Limitation
+
+Website evidence cannot establish Dishoom’s internal reason for doing so.
+
+Do not infer whether the motivation is:
+
+commercial
+
+operational
+
+or
+
+cultural.
+
+---
+
+# Comparison Finding 15
+
+## Confirmation Is Not the Same as Hospitality
+
+Talisman originally made confirmation feel important because:
+
+human contact continued the guest journey.
+
+The wider set now shows that:
+
+confirmation itself
+
+is not the transferable behaviour.
+
+### Better Question
+
+Does the guest receive:
+
+the support required for their level of complexity?
+
+### Current Conclusion
+
+Human hospitality can occur:
+
+* before booking
+* during enquiry
+* during exception handling
+* at arrival
+* during service
+
+It does not need to be attached specifically to:
+
+reservation confirmation.
+
+---
+
+# Comparison Finding 16
+
+## Participation Fluidity Deserves Continued Study
+
+### Strongest Evidence
+
+* Bistro Lolo
+* Dishoom
+
+### Contrast
+
+FYN.
+
+### Working Definition
+
+> Participation fluidity describes how freely guests may move between spontaneous, lightly planned, and highly committed forms of participation.
+
+### Possible Continuum
+
+Spontaneous
 
 ↓
 
-Appropriate Automation
+Walk-In
 
-+
+↓
 
-Appropriate Human Support
+Lightly Planned
 
-+
+↓
+
+Standard Reservation
+
+↓
+
+Structured Commitment
+
+↓
+
+High Coordination
+
+### Status
+
+Below Candidate.
+
+### Confidence
+
+Medium to High
+
+### Governance Recommendation
+
+Continue research.
+
+Do not promote yet.
+
+---
+
+# Comparison Finding 17
+
+## Reservation Architecture Should Begin With the Hospitality Model
+
+The evidence does not support beginning with:
+
+Which booking widget should we install?
+
+The stronger sequence is:
+
+Hospitality Model
+
+↓
+
+Guest Intents
+
+↓
+
+Operational Constraints
+
+↓
+
+Participation Routes
+
+↓
+
+Commitment Rules
+
+↓
+
+Human Escalation
+
+↓
+
+Technology
+
+### Current Conclusion
+
+Technology should implement:
+
+the participation model.
+
+It should not define it.
+
+This is especially relevant to future ReserveAI work.
+
+---
+
+# Current Cross-Restaurant Participation Logic
+
+The strongest provisional model is:
+
+Guest Intent
+
+*
+
+Operational Complexity
+
+*
+
+Commitment Requirement
+
+*
+
+Access Model
+
+↓
+
+Appropriate Participation Route
+
+↓
+
+Appropriate Self-Service
+
+and/or
+
+Human Assistance
+
+↓
 
 Clear Expectations
 
 ↓
 
-Confirmed Participation
+Participation
 
-This working logic now explains:
+This model accommodates:
 
-## Bistro Lolo
+* Ankole
+* Cultiva
+* Talisman
+* Mawimbi
+* Bistro Lolo
+* FYN
+* Dishoom
 
-Low commitment
-
-+
-
-spontaneity
-
-↓
-
-flexible access.
-
-## FYN
-
-High commitment
-
-+
-
-structured experience
-
-↓
-
-deposit-backed digital booking
-
-+
-
-exception support.
-
-## Talisman
-
-human-controlled confirmation.
-
-## Mawimbi
-
-multiple pathways with greater coordination for complexity.
-
-The logic travels better than any one booking interface.
+without forcing them into one booking architecture.
 
 ---
 
-# Commercial Implications
+# Participation Architecture Cluster
 
-The reservation comparison now reveals several hospitality system types.
+The comparison now supports treating four patterns as a coherent cluster.
 
-## Flexible Neighbourhood Booking
+## Participation Access
 
-Example:
+### Proposed Pattern
 
-Bistro Lolo
+Participation Throughout the Journey
 
-Likely needs:
+Question:
 
-- walk-in clarity
-- real-time availability
-- daypart awareness
-- WhatsApp support
-- minimal commitment
+Can the guest always understand how to participate?
 
 ---
 
-## Standard Premium Booking
+## Participation Intent
 
-Examples:
+### Proposed Pattern
 
-Ankole / Cultiva
+Multi-Intent Hospitality
 
-Likely needs:
+Question:
 
-- persistent booking access
-- clear availability
-- mobile speed
-- simple confirmation
+Do different legitimate guest intentions receive appropriate routes?
 
 ---
 
-## Human-Controlled Booking
+## Participation Complexity
 
-Example:
+### Proposed Pattern
 
-Talisman
+Escalating Participation Complexity
 
-Potential need:
+Question:
 
-- manual review
-- personal confirmation
-- faster certainty
-- staff-friendly workflow
+Does the system add structure as operational complexity increases?
 
 ---
 
-## Complex Multi-Channel Booking
+## Human Escalation
 
-Example:
+### Proposed Pattern
 
-Mawimbi
+Human Assistance When Complexity Requires It
 
-Potential need:
+Question:
 
-- groups
-- events
-- WhatsApp
-- online booking
-- human escalation
-- unified guest records
+Does human involvement appear when judgement or coordination becomes valuable?
 
 ---
 
-## High-Commitment Destination Booking
+# Cluster Relationship
 
-Example:
-
-FYN
-
-Likely needs:
-
-- experience selection
-- deposit
-- cancellation clarity
-- dietary information
-- policy acknowledgement
-- immediate confirmation
-- pre-arrival communication
-- intelligent exception handling
-
----
-
-# Opportunity Direction
-
-## Intent + Complexity Reservation Engine
-
-The strongest commercial architecture now emerging is:
+Possible system:
 
 Guest Intent
+
+↓
+
+Participation Throughout the Journey
+
+↓
+
+Multi-Intent Routing
 
 ↓
 
@@ -1737,184 +1622,802 @@ Complexity Assessment
 
 ↓
 
-Commitment Assessment
+Escalating Participation Structure
 
 ↓
 
-Appropriate Booking Route
+Human Assistance When Required
 
-Possible routes:
+↓
 
-## Standard
+Participation
 
-Instant Digital Booking
+This is not a new single pattern.
 
-## Exceptional
-
-Human-Assisted Booking
-
-## Spontaneous
-
-Walk-In / Availability
-
-## Event
-
-Event Workflow
-
-## High Commitment
-
-Deposit + Policy + Confirmation
-
-This architecture could eventually become highly relevant to:
-
-ReserveAI.
-
-### Status
-
-Kodawa Labs Solution Direction
-
-Not a KHDS pattern.
+It is a relationship between four patterns.
 
 ---
 
-# Opportunity Direction
+# Pattern Outcomes
 
-## Pre-Arrival Hospitality Layer
+## Reservation Throughout the Journey
 
-FYN strengthens a commercial gap that is less visible in lower-commitment booking models.
+Current:
 
-Possible journey:
+Emerging
 
-Reservation
+Comparison Outcome:
 
-↓
+Underlying behaviour strongly supported.
 
-Confirmation
+Current name too narrow.
 
-↓
+Governance Recommendation:
 
-Policy Summary
+Rename to:
 
-↓
-
-Dietary Reminder
-
-↓
-
-Arrival Guidance
-
-↓
-
-Visit
-
-This turns:
-
-rules
-
-into:
-
-preparation.
-
-### Status
-
-Potential Kodawa Labs Solution Direction
+`Participation Throughout the Journey`
 
 ---
 
-# Opportunity Direction
+## Dual-Path Hospitality
 
-## Intelligent Exception Routing
+Current:
 
-Repeated evidence now exists across:
+Emerging
 
-- Mawimbi
-- Bistro Lolo
-- FYN
+Comparison Outcome:
 
-Potential logic:
+Underlying behaviour strongly supported.
 
-Standard Request
+Current name too narrow.
 
-↓
+Governance Recommendation:
 
-Automation
+Rename to:
 
-Unusual Request
-
-↓
-
-Human Review
-
-Possible triggers:
-
-- solo dining
-- large party
-- event
-- complex allergy
-- unusual time
-- accessibility requirement
-- special arrangement
-
-### Status
-
-Potential Kodawa Labs Solution Direction
+`Multi-Intent Hospitality`
 
 ---
 
-# Final Reservation Comparison
+## Commitment Without Pressure
 
-FYN materially changes the reservation research.
+Current:
 
-Before FYN, KHDS could still be interpreted as leaning toward:
+Emerging
 
-less friction
+Comparison Outcome:
 
-+
+Very strongly supported.
 
-more flexibility
+Governance Recommendation:
 
-=
+Retain name.
 
-better hospitality.
+Refine definition around proportionality.
 
-The six-restaurant comparison no longer supports that simplification.
+---
 
-Bistro Lolo demonstrates that flexibility can be hospitable.
+## Human Confirmation as Hospitality
 
-FYN demonstrates that structure can also be hospitable.
+Current:
 
-The important question is whether the participation model fits the restaurant.
+Emerging
 
-FYN therefore produces three major governance consequences.
+Comparison Outcome:
 
-First:
+Current wording contradicted.
 
-`Commitment Without Pressure` becomes more mature.
+Underlying behaviour strongly supported.
 
-The pattern should distinguish:
+Governance Recommendation:
 
-real commitment
+Rename to:
 
-from
+`Human Assistance When Complexity Requires It`
 
-manipulative pressure.
+---
 
-Second:
+## Escalating Reservation Complexity
 
-`Human Confirmation as Hospitality` becomes narrower.
+Current:
 
-Human involvement increasingly appears most useful at the edge of standard automation rather than as a universal confirmation model.
+Emerging
 
-Third:
+Comparison Outcome:
 
-`Escalating Reservation Complexity` now has enough repeated independent evidence to justify promotion from Candidate to Emerging after the full FYN reconciliation.
+Very strongly supported.
 
-That promotion should still preserve one hard boundary:
+Current name too narrow.
 
-> Website evidence proves differentiated guest pathways. It does not prove the backend system that routes them.
+Governance Recommendation:
 
-No reservation pattern becomes Validated.
+Rename to:
 
-The evidence has become more operationally useful without becoming overconfident.
+`Escalating Participation Complexity`
+
+---
+
+## The Guest as Participant
+
+Current:
+
+Emerging
+
+Reservation Evidence:
+
+Strongly supported.
+
+Governance Recommendation:
+
+Retain.
+
+---
+
+# Below-Candidate Directions
+
+## Walk-In as First-Class Participation
+
+Strongest:
+
+Dishoom.
+
+Supporting:
+
+Bistro Lolo.
+
+Status:
+
+Below Candidate.
+
+---
+
+## Participation Fluidity
+
+Strong:
+
+Dishoom.
+
+Supporting:
+
+Bistro Lolo.
+
+Contrast:
+
+FYN.
+
+Status:
+
+Below Candidate.
+
+---
+
+## Proportionate Commitment
+
+Strong:
+
+FYN + Dishoom.
+
+Status:
+
+Mechanism within Commitment Without Pressure.
+
+Do not promote separately.
+
+---
+
+## Availability Without Exclusivity
+
+Strongest:
+
+Dishoom.
+
+Status:
+
+Observed Research Direction.
+
+---
+
+# Major Reservation Tensions
+
+## Reservation vs Participation
+
+Dishoom makes this the central abstraction issue.
+
+---
+
+## Walk-In vs Reservation
+
+Dishoom.
+
+---
+
+## Spontaneity vs Certainty
+
+Dishoom vs FYN.
+
+---
+
+## Access vs Guaranteed Access
+
+Dishoom.
+
+---
+
+## Automation vs Human Assistance
+
+Mawimbi / FYN / Dishoom.
+
+---
+
+## Human Confirmation vs Human Escalation
+
+Talisman vs later evidence.
+
+---
+
+## Convenience vs Operational Protection
+
+FYN + Dishoom.
+
+---
+
+## Self-Service vs Coordination
+
+FYN + Dishoom.
+
+---
+
+## Commitment vs Flexibility
+
+FYN vs Dishoom.
+
+---
+
+## Digital Optimisation vs Walk-In Preservation
+
+Dishoom.
+
+---
+
+## Standardisation vs Exception Handling
+
+FYN + Dishoom.
+
+---
+
+# Contradiction Matrix
+
+## Reservation Throughout the Journey
+
+Dishoom Outcome:
+
+Underlying Behaviour Supported / Current Name Contradicted
+
+---
+
+## Dual-Path Hospitality
+
+Dishoom Outcome:
+
+Underlying Behaviour Supported / Current Name Contradicted
+
+---
+
+## Commitment Without Pressure
+
+Dishoom Outcome:
+
+Strong Support
+
+---
+
+## Human Confirmation as Hospitality
+
+Dishoom Outcome:
+
+Current Form Contradicted
+
+---
+
+## Escalating Reservation Complexity
+
+Dishoom Outcome:
+
+Strong Support / Current Name Challenged
+
+---
+
+## The Guest as Participant
+
+Dishoom Outcome:
+
+Strong Support
+
+---
+
+# Geographic Transferability
+
+After full Dishoom reconciliation, reservation research will span:
+
+* Kenya
+* South Africa
+* United Kingdom
+
+More importantly, the access models span:
+
+* reservation-led
+* request-led
+* multi-channel
+* flexible
+* high-commitment
+* walk-in-first
+
+### Behaviour Strongly Transferring
+
+* differentiated access
+* commitment clarity
+* complexity-based escalation
+* participation routing
+
+### Names Failing Transferability
+
+* Reservation Throughout the Journey
+* Dual-Path Hospitality
+* Human Confirmation as Hospitality
+* Escalating Reservation Complexity
+
+### Important Interpretation
+
+The behaviours are surviving.
+
+The labels are not.
+
+That is a healthy research outcome.
+
+---
+
+# Commercial Opportunity Implications
+
+The reservation comparison strengthens several major product directions.
+
+These remain separate from KHDS pattern maturity.
+
+---
+
+## Multi-Intent Participation Router
+
+Input:
+
+* party size
+* time
+* occasion
+* intent
+* complexity
+
+↓
+
+Output:
+
+* walk in
+* reserve
+* group booking
+* direct enquiry
+
+---
+
+## Intelligent Human Escalation
+
+Standard Need
+
+↓
+
+Self-Service
+
+Exceptional Need
+
+↓
+
+Human Assistance
+
+---
+
+## Proportionate Booking Protection
+
+Operational Exposure
+
+↓
+
+Appropriate:
+
+* guarantee
+* cancellation policy
+* deposit
+* confirmation requirement
+
+---
+
+## Walk-In Intelligence
+
+Potentially communicate:
+
+* wait expectation
+* best arrival period
+* party-size guidance
+* current access status
+
+where operationally appropriate.
+
+---
+
+## Queue-to-Guest Journey
+
+Potential:
+
+Arrival
+
+↓
+
+Queue
+
+↓
+
+Expectation
+
+↓
+
+Menu / Story
+
+↓
+
+Ready Notification
+
+↓
+
+Seat
+
+---
+
+## Participation Policy Translation
+
+Complex operational rules
+
+↓
+
+Simple guest questions
+
+↓
+
+Correct route.
+
+Example:
+
+Party Size
+
+*
+
+Preferred Time
+
+*
+
+Occasion
+
+↓
+
+Recommended Participation Path
+
+---
+
+## Adaptive Reservation Infrastructure
+
+This remains the strongest umbrella opportunity.
+
+Possible components:
+
+* reservation
+* walk-in
+* group route
+* event route
+* deposits
+* policy logic
+* human escalation
+* queue integration
+* messaging
+
+Dishoom materially strengthens this opportunity cluster.
+
+---
+
+# Evidence Limitations
+
+This comparison can establish:
+
+* public reservation rules
+* visible walk-in policy
+* party-size thresholds
+* direct enquiry routes
+* commitment requirements
+* group booking structure
+* visible guest-routing logic
+
+It cannot establish:
+
+* actual no-show rates
+* table utilisation
+* queue abandonment
+* staff workload
+* operational reasons for routing decisions
+* revenue impact
+* backend integrations
+* CRM ownership
+* payment ownership
+* reservation data ownership
+* whether guests prefer one route
+* whether routing reduces workload
+
+Those questions require:
+
+* analytics
+* operational data
+* staff interviews
+* guest interviews
+* direct observation
+
+---
+
+# Comparison Outcome
+
+Dishoom creates the strongest structural correction in KHDS since FYN.
+
+FYN taught the system:
+
+> More commitment can still be hospitable.
+
+Dishoom teaches:
+
+> Reservation itself is not the universal form of participation.
+
+That changes the language.
+
+The current KHDS reservation patterns are not failing because their underlying behaviours are weak.
+
+They are failing because the original names were too closely tied to the implementations first observed.
+
+The broader evidence now supports:
+
+## Reservation Throughout the Journey
+
+becoming:
+
+## Participation Throughout the Journey
+
+because the guest need is:
+
+access to participation.
+
+---
+
+## Dual-Path Hospitality
+
+becoming:
+
+## Multi-Intent Hospitality
+
+because the research clearly contains more than two legitimate guest states.
+
+---
+
+## Human Confirmation as Hospitality
+
+becoming:
+
+## Human Assistance When Complexity Requires It
+
+because human value appears strongest around:
+
+judgement
+
+and
+
+coordination
+
+rather than confirmation itself.
+
+---
+
+## Escalating Reservation Complexity
+
+becoming:
+
+## Escalating Participation Complexity
+
+because complexity can begin before or outside formal reservation.
+
+Together, these four patterns now form a coherent:
+
+## Participation Architecture Cluster
+
+This is a major improvement.
+
+It allows KHDS to describe:
+
+* Talisman
+* FYN
+* Dishoom
+
+without treating any one of their booking systems as the default.
+
+---
+
+# Provisional Reservation Governance Position
+
+After the Dishoom reservation comparison:
+
+## No Maturity Promotions
+
+0
+
+## No Maturity Demotions
+
+0
+
+## Strong Rename Recommendations
+
+4
+
+1. Reservation Throughout the Journey
+   → Participation Throughout the Journey
+
+2. Dual-Path Hospitality
+   → Multi-Intent Hospitality
+
+3. Human Confirmation as Hospitality
+   → Human Assistance When Complexity Requires It
+
+4. Escalating Reservation Complexity
+   → Escalating Participation Complexity
+
+## Definition Refinement
+
+1
+
+Commitment Without Pressure
+
+Add proportionality explicitly.
+
+## Below-Candidate Directions Retained
+
+* Walk-In as First-Class Participation
+* Participation Fluidity
+* Availability Without Exclusivity
+
+## Mechanism Absorbed Rather Than Promoted
+
+* Proportionate Commitment
+
+Official KHDS maturity remains unchanged until the full Dishoom comparison and governance reconciliation.
+
+---
+
+# Current Participation Model
+
+The strongest provisional model is now:
+
+Guest Intent
+
+*
+
+Operational Complexity
+
+*
+
+Access Model
+
+*
+
+Commitment Requirement
+
+↓
+
+Appropriate Participation Route
+
+↓
+
+Self-Service Where Predictable
+
+↓
+
+Human Assistance Where Complexity Requires It
+
+↓
+
+Clear Expectations
+
+↓
+
+Participation
+
+This is more resilient than a booking-first model.
+
+---
+
+# Final Reservation Statement
+
+The first restaurant studies made reservation look like the centre of digital hospitality.
+
+FYN complicated that assumption by showing that reservation could legitimately require:
+
+structure
+
+and
+
+commitment.
+
+Dishoom breaks the assumption further.
+
+The guest may:
+
+walk in.
+
+Reserve.
+
+Bring six.
+
+Bring ten.
+
+Plan a major group.
+
+Ask for help.
+
+The system changes with the guest.
+
+That means the real KHDS question is no longer:
+
+> **How should restaurants structure reservations?**
+
+It is:
+
+> **How should restaurants structure participation?**
+
+Once that question changes, four current patterns become clearer.
+
+Access.
+
+Intent.
+
+Complexity.
+
+Human assistance.
+
+Those are the durable behaviours.
+
+Reservation is only one implementation.
+
+That is the strongest conclusion from the Dishoom reservation cycle.
+
+The next comparison should test whether Dishoom creates the same level of refinement in the story framework.
+
+---
+
+## Research Status
+
+Dishoom Reservation Comparison Complete
+
+---
+
+## Next Step
+
+Update:
+
+`comparison/story.md`
+
+Do not yet update:
+
+* `validation/candidate-patterns.md`
+* `patterns/registry.md`
+* `validation/dashboard.md`
+* `research/README.md`
+
+until the story comparison is complete.
 
 Evidence wins.
