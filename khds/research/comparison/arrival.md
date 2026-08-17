@@ -1,31 +1,28 @@
-# KHDS Arrival Comparison
+# KHDS Cross-Restaurant Comparison — Arrival
 
-## Purpose
+## Research Status
 
-Compare how independent hospitality brands introduce the guest to the experience.
+Alinea Comparison Cycle
 
-This document asks:
+Arrival Reconciliation Complete
 
-* what does the guest encounter first?
-* what creates desire?
-* what creates confidence?
-* how early does operational reality appear?
-* how much narrative is required?
-* how much structure is required?
-* what form of participation is made visible?
-* how much commitment is expected?
-* which KHDS arrival patterns survive materially different hospitality models?
-* which current abstractions are becoming too broad, too narrow, or too prescriptive?
-
-The purpose is not to discover one ideal homepage structure.
-
-The purpose is to identify transferable arrival behaviours.
+Global Governance Still Frozen
 
 ---
 
-# Current Research Set
+# Purpose
 
-## Officially Reconciled Independent Restaurants
+Compare how the current independent restaurant set introduces the guest to the hospitality experience.
+
+This document evaluates whether arrival patterns remain:
+
+- transferable
+- contextual
+- contradicted
+- in need of narrowing
+- in need of stronger boundaries
+
+The comparison set now includes:
 
 1. Ankole
 2. Cultiva
@@ -34,49 +31,42 @@ The purpose is to identify transferable arrival behaviours.
 5. Bistro Lolo
 6. FYN
 7. Dishoom Covent Garden
-
-## Current Research Candidate
-
 8. Franklin Barbecue
+9. Alinea
 
-Franklin’s dossier is complete.
+Alinea remains:
 
-Franklin should not enter the official completed global research count until:
+Independent Restaurant #9 Candidate
 
-* all five comparison files are updated
-* candidate governance is reconciled
-* the pattern registry is reconciled
-* the validation dashboard is reconciled
-* the research overview is reconciled
-
-Official global counts therefore remain unchanged during this comparison cycle.
+until all comparison and governance files are reconciled.
 
 ---
 
-# Comparison Question
+# Core Arrival Question
 
-## What does the guest need before participation?
+> **What does the guest need to understand, feel, trust, or know before meaningful participation becomes reasonable?**
 
-The eight restaurant models now provide increasingly different answers.
+The current evidence increasingly shows that:
+
+arrival
+
+is not:
+
+a hero-section pattern.
+
+It is:
+
+the process by which the guest becomes sufficiently oriented to continue.
 
 ---
 
-# Ankole
+# Nine Arrival Models
 
-## Arrival Character
+---
 
-Place-led refinement.
+## Ankole
 
-## Primary Signals
-
-* environment
-* photography
-* visual polish
-* food
-* atmosphere
-* reservation access
-
-## Working Sequence
+### Model
 
 Place
 
@@ -92,34 +82,21 @@ Confidence
 
 Action
 
-## Arrival Logic
+### Primary Arrival Mechanism
 
-Ankole allows the physical environment and its presentation to create confidence before the guest needs substantial explanation.
+Place-led atmosphere.
 
-Its place carries significant meaning.
+### Main Guest Need
 
-The guest is primarily asked to believe:
+Understand:
 
-this is a refined hospitality environment worth entering.
+what kind of environment this is.
 
 ---
 
-# Cultiva
+## Cultiva
 
-## Arrival Character
-
-Worldview-led meaning.
-
-## Primary Signals
-
-* cultivation
-* sustainability
-* philosophy
-* food
-* place
-* process
-
-## Working Sequence
+### Model
 
 Worldview
 
@@ -135,39 +112,25 @@ Evidence
 
 Action
 
-## Arrival Logic
+### Primary Arrival Mechanism
 
-Cultiva gives the guest an organising philosophy through which the restaurant becomes understandable.
+Philosophy / worldview.
 
-The restaurant is partly introduced through:
+### Main Guest Need
 
-what it believes
+Understand:
 
-rather than only:
+what the restaurant believes
 
-what it serves.
+and
 
-The worldview creates context for later product and place evidence.
+why that matters.
 
 ---
 
-# Talisman
+## Talisman
 
-## Arrival Character
-
-Layered product, heritage, and place.
-
-## Primary Signals
-
-* food
-* institutional history
-* old house
-* Karen
-* interiors
-* reputation
-* reservation
-
-## Working Sequence
+### Model
 
 Food
 
@@ -187,42 +150,25 @@ Confidence
 
 Action
 
-## Arrival Logic
+### Primary Arrival Mechanism
 
-Talisman begins with appetite but expands meaning through:
+Layered food, history, and setting.
 
-* accumulated history
-* physical character
-* place
-* institutional continuity
+### Main Guest Need
 
-It remains one of the clearest cases showing that:
+Understand:
 
-product
+what the restaurant offers
 
-can begin the journey
+and
 
-without carrying the complete brand meaning.
+why the place carries established meaning.
 
 ---
 
-# Mawimbi
+## Mawimbi
 
-## Arrival Character
-
-Promise-led experiential arrival.
-
-## Primary Signals
-
-* luxury
-* seafood
-* coastal escape
-* social experience
-* atmosphere
-* reservation
-* events
-
-## Working Sequence
+### Model
 
 Promise
 
@@ -242,37 +188,21 @@ Participation
 
 Action
 
-## Arrival Logic
+### Primary Arrival Mechanism
 
-Mawimbi demonstrates that a strongly visual restaurant may establish an emotional promise before complete product explanation.
+Experiential promise.
 
-The guest is invited into:
+### Main Guest Need
 
-an experiential proposition
+Imagine:
 
-before being reduced to:
-
-menu + reservation.
+the luxury seafood experience.
 
 ---
 
-# Bistro Lolo
+## Bistro Lolo
 
-## Arrival Character
-
-Familiarity, social rhythm, and belonging.
-
-## Primary Signals
-
-* neighbourhood identity
-* architecture
-* all-day use
-* food
-* people
-* social possibility
-* relaxed familiarity
-
-## Working Sequence
+### Model
 
 Recognition
 
@@ -288,47 +218,21 @@ Social Imagination
 
 Participation
 
-## Arrival Logic
+### Primary Arrival Mechanism
 
-Bistro Lolo weakened the assumption that premium hospitality must create:
+Belonging and familiarity.
 
-distance
+### Main Guest Need
 
-or
+Understand:
 
-aspiration.
-
-Confidence is instead built through:
-
-familiarity
-
-and
-
-use imagination.
-
-The guest is encouraged to imagine:
-
-being there.
+how this place fits into everyday life.
 
 ---
 
-# FYN
+## FYN
 
-## Arrival Character
-
-Authority, structure, evidence, and commitment.
-
-## Primary Signals
-
-* culinary philosophy
-* precision
-* chef authority
-* product evidence
-* reservation structure
-* policies
-* commitment expectations
-
-## Working Sequence
+### Model
 
 Curiosity
 
@@ -352,60 +256,23 @@ Commitment
 
 Anticipation
 
-## Arrival Logic
+### Primary Arrival Mechanism
 
-FYN challenged the assumption that:
+Culinary authority + expectation clarity.
 
-less friction
+### Main Guest Need
 
-always equals:
+Understand:
 
-better hospitality.
+why the experience justifies:
 
-It established the important distinction between:
-
-## Harmful Friction
-
-Unnecessary:
-
-* ambiguity
-* confusion
-* delay
-* effort
-
-and
-
-## Meaningful Constraint
-
-Transparent requirements that protect or define the hospitality experience.
-
-FYN demonstrated that arrival may legitimately require:
-
-expectation clarity
-
-before:
-
-commitment.
+greater commitment.
 
 ---
 
-# Dishoom Covent Garden
+## Dishoom Covent Garden
 
-## Arrival Character
-
-Open social arrival through cultural identity and participation choice.
-
-## Primary Signals
-
-* Bombay identity
-* food
-* social possibility
-* all-day hospitality
-* walk-in access
-* reservation choice
-* group routes
-
-## Working Sequence
+### Model
 
 Cultural Identity
 
@@ -419,62 +286,27 @@ Social Possibility
 
 ↓
 
-Intent
+Participation Route
 
-↓
+### Primary Arrival Mechanism
 
-Appropriate Participation Route
+Cultural world + social hospitality.
 
-↓
+### Main Guest Need
 
-Experience
+Understand:
 
-## Arrival Logic
+what kind of place this is
 
-Dishoom challenged:
+and
 
-reservation
-
-as the universal endpoint of arrival.
-
-The guest may:
-
-* walk in
-* reserve
-* group book
-* enquire
-
-The deeper question became:
-
-> How can this guest participate?
-
-rather than:
-
-> How can we convert this guest into a reservation?
-
-This produced the current canonical shift toward:
-
-Participation Architecture.
+how they can participate.
 
 ---
 
-# Franklin Barbecue
+## Franklin Barbecue
 
-## Arrival Character
-
-Product-led clarity under finite availability.
-
-## Primary Signals
-
-* barbecue
-* product reputation
-* founder / craft authority
-* operating hours
-* sold-out reality
-* walk-up participation
-* preorder alternative
-
-## Working Sequence
+### Model
 
 Product Expectation
 
@@ -494,149 +326,151 @@ Participation Choice
 
 Access
 
+### Advance Route
+
+Product Expectation
+
+↓
+
+Planning
+
+↓
+
+Commitment
+
+↓
+
+Secured Pickup Route
+
 ↓
 
 Experience
 
-## Arrival Logic
+### Primary Arrival Mechanism
 
-Franklin introduces the simplest visible arrival architecture in the current set.
+Product authority + access clarity.
 
-The guest appears to need relatively little information to understand:
+### Main Guest Need
 
-* what the restaurant sells
-* when participation is possible
-* that product can sell out
-* how standard dine-in works
-* how preorder differs
+Understand:
 
-Franklin therefore attacks the assumption that:
+the product
 
-strong hospitality arrival
+and
 
-requires:
-
-rich narrative or interface complexity.
-
-Its main contribution is:
-
-## Operational Clarity Under Constraint
-
-The guest may not receive guaranteed access.
-
-But the participation model can still be made understandable.
+how to get it.
 
 ---
 
-# Eight Arrival Models
+## Alinea
 
-The current research now suggests at least eight distinct arrival architectures.
+### Model
 
-## Model A — Place-Led Refinement
-
-Ankole
-
-Place
+Experience Identity
 
 ↓
 
-Refinement
+Experience Differentiation
 
 ↓
 
-Confidence
+Guest Fit
+
+↓
+
+Commitment
+
+↓
+
+Confirmed Participation
+
+### Primary Arrival Mechanism
+
+Experience selection.
+
+### Main Guest Need
+
+Understand:
+
+which hospitality product they are choosing
+
+before:
+
+consequential commitment.
 
 ---
 
-## Model B — Worldview-Led Meaning
+# First Cross-Restaurant Finding
 
-Cultiva
+## There Is No Universal Arrival Sequence
 
-Worldview
+The nine restaurants begin through materially different organising signals:
 
-↓
+- place
+- worldview
+- food
+- promise
+- belonging
+- authority
+- culture
+- product
+- experience format
+
+No evidence supports:
+
+one universal homepage sequence.
+
+The transferable behaviour lies:
+
+beneath
+
+the sequence.
+
+---
+
+# Current Arrival Abstraction
+
+The strongest current model remains:
 
 Meaning
 
 ↓
 
-Evidence
-
-↓
-
-Action
-
----
-
-## Model C — Heritage-Layered Arrival
-
-Talisman
-
-Product
-
-↓
-
-History
-
-↓
-
-Place
-
-↓
-
 Confidence
-
----
-
-## Model D — Promise-Led Experience
-
-Mawimbi
-
-Promise
-
-↓
-
-Product
-
-↓
-
-Atmosphere
 
 ↓
 
 Participation
 
----
+But the expanded set requires more precision.
 
-## Model E — Familiarity-Led Belonging
-
-Bistro Lolo
-
-Recognition
-
-↓
-
-Comfort
-
-↓
-
-Participation Imagination
-
----
-
-## Model F — Structured High-Commitment Arrival
-
-FYN
+For low-commitment hospitality:
 
 Meaning
 
 ↓
 
-Authority
+Confidence
+
+↓
+
+Participation
+
+For more consequential hospitality:
+
+Meaning
+
+↓
+
+Confidence
 
 ↓
 
 Expectation Clarity
+
+↓
+
+Compatibility / Fit
 
 ↓
 
@@ -646,132 +480,1140 @@ Commitment
 
 Participation
 
----
+This second version becomes especially visible in:
 
-## Model G — Open Multi-Intent Arrival
+- FYN
+- Alinea
 
-Dishoom
+Franklin contributes:
 
-Meaning
+availability clarity
 
-↓
-
-Participation Choice
-
-↓
-
-Appropriate Route
-
-↓
-
-Experience
+where access uncertainty is the more important variable.
 
 ---
 
-## Model H — Product-Led Clarity Under Constraint
+# Arrival Principle Under Review
 
-Franklin
-
-Product Expectation
-
-↓
-
-Authority
-
-↓
-
-Availability Clarity
-
-↓
-
-Access Route
-
-↓
-
-Experience
-
----
-
-# Comparison Finding 1
-
-## There Is Still No Universal Arrival Sequence
-
-Franklin strengthens this conclusion rather than challenging it.
-
-The research now contains arrival through:
-
-* place
-* worldview
-* heritage
-* promise
-* familiarity
-* authority
-* cultural identity
-* product authority
-
-The evidence strongly contradicts any fixed homepage formula such as:
-
-Hero
-
-↓
-
-Story
-
-↓
-
-Gallery
-
-↓
-
-Menu
-
-↓
-
-Reservation.
-
-### Current Conclusion
-
-The transferable behaviour is:
-
-## Progressive Guest Orientation
-
-The arrival should help the guest understand:
-
-* what kind of experience this is
-* why it matters
-* what they can expect
-* what constraints exist
-* how they can participate
-
-The order and depth may differ radically.
-
----
-
-# Comparison Finding 2
-
-## Layered Arrival Survives Extreme Simplicity
+## Layered Arrival
 
 ### Current Status
 
 Emerging
 
-### Franklin Outcome
+### Current Confidence
+
+High
+
+### Current Definition
+
+Layered Arrival means:
+
+progressive confidence-building.
+
+It does not mean:
+
+- slow pacing
+- many sections
+- a fixed hero-to-story-to-gallery sequence
+- maximum content
+- identical narrative order
+
+---
+
+# Layered Arrival Evidence
+
+## Ankole
+
+Supported.
+
+Arrival progressively establishes:
+
+place
+
+refinement
+
+and
+
+confidence.
+
+---
+
+## Cultiva
+
+Supported.
+
+Worldview is followed by:
+
+supporting evidence
+
+and
+
+participation.
+
+---
+
+## Talisman
 
 Strongly Supported.
 
-### Previous Canonical Definition
+Food
 
-> A hospitality arrival progressively gives the guest enough meaning, evidence, expectation clarity, and participation guidance to continue with confidence.
+heritage
 
-Franklin provides important new evidence because its layers may be extremely compact.
+place
 
-Possible Franklin layers:
+and
 
-Product
+action
+
+operate as connected layers.
+
+---
+
+## Mawimbi
+
+Strongly Supported.
+
+Promise
+
+product
+
+atmosphere
+
+and
+
+reservation
+
+build progressively.
+
+---
+
+## Bistro Lolo
+
+Supported.
+
+Familiarity
+
+place
+
+social possibility
+
+and
+
+participation
+
+work together.
+
+---
+
+## FYN
+
+Strongly Supported.
+
+High commitment increases the importance of:
+
+progressive expectation clarity.
+
+---
+
+## Dishoom
+
+Strongly Supported.
+
+Cultural identity
+
+food
+
+social possibility
+
+and
+
+participation
+
+are introduced progressively.
+
+---
+
+## Franklin
+
+Strongly Supported.
+
+Franklin proves that:
+
+layers can be minimal.
+
+The logic remains:
+
+progressive confidence
+
+not:
+
+narrative volume.
+
+---
+
+## Alinea
+
+Very Strongly Supported.
+
+Alinea introduces:
+
+experience differentiation
+
+guest fit
+
+and
+
+commitment
+
+as increasingly consequential arrival layers.
+
+---
+
+# Layered Arrival — Post-Alinea Conclusion
+
+## Status Recommendation
+
+Retain:
+
+Emerging
+
+## Confidence Recommendation
+
+Retain:
+
+High
+
+### Refined Interpretation
+
+> **Arrival should progressively establish the meaning, confidence, fit, expectations, and participation clarity required for the specific level of guest commitment.**
+
+This is stronger than:
+
+a fixed website sequence.
+
+### Alinea Contribution
+
+Alinea adds:
+
+consequence
+
+and
+
+fit
+
+to the arrival problem.
+
+Do not change maturity.
+
+---
+
+# Emotion Before Interface
+
+## Current Status
+
+Emerging
+
+## Current Confidence
+
+High
+
+### Cross-Restaurant Evidence
+
+Supported differently across the set.
+
+#### Ankole
+
+Atmospheric orientation.
+
+#### Cultiva
+
+Worldview.
+
+#### Talisman
+
+Food + place + history.
+
+#### Mawimbi
+
+Aspiration.
+
+#### Bistro Lolo
+
+Belonging.
+
+#### FYN
+
+Curiosity + authority.
+
+#### Dishoom
+
+Cultural identity.
+
+#### Franklin
+
+Product anticipation.
+
+#### Alinea
+
+Experience imagination.
+
+### Current Conclusion
+
+The pattern survives.
+
+### Important Boundary
+
+Emotion does not require:
+
+- poetic copy
+- cinematic hero
+- slow browsing
+- low information density
+
+Emotion may be produced through:
+
+- appetite
+- anticipation
+- recognition
+- curiosity
+- identity
+- belonging
+- experience imagination
+
+### Status Recommendation
+
+Retain:
+
+Emerging
+
+### Confidence
+
+High
+
+---
+
+# Story Before Features
+
+## Current Status
+
+Emerging
+
+## Current Confidence
+
+High
+
+### Alinea Contribution
+
+Alinea strongly reinforces:
+
+story = meaning
+
+not:
+
+long narrative.
+
+The guest does not require:
+
+extensive biography
+
+or
+
+history
+
+before understanding why:
+
+the experience matters.
+
+### Cross-Restaurant Conclusion
+
+Story Before Features survives because:
+
+different restaurants provide meaning through:
+
+- place
+- worldview
+- heritage
+- people
+- culture
+- product
+- craft
+- experience
+
+### Current Definition Remains Strong
+
+> Give the guest enough meaning to understand why the hospitality experience matters before reducing the brand to functional features and transactions.
+
+### Status Recommendation
+
+Retain:
+
+Emerging
+
+### Confidence
+
+High
+
+---
+
+# Promise Before Proof
+
+## Current Status
+
+Emerging
+
+## Current Confidence
+
+Medium-High
+
+### Strong Evidence
+
+- Cultiva
+- Mawimbi
+- Alinea
+
+### Supporting / Compressed Evidence
+
+- Ankole
+- FYN
+- Franklin
+- Dishoom
+
+### Alinea Contribution
+
+Alinea promises:
+
+distinct experience
+
+innovation
+
+and
+
+surprise
+
+before the guest has:
+
+complete evidence.
+
+### Important Boundary
+
+Promise does not justify:
+
+unsupported claim.
+
+Higher promise increases:
+
+proof burden.
+
+### Status Recommendation
+
+Retain:
+
+Emerging
+
+### Confidence Recommendation
+
+Retain:
+
+Medium-High
+
+Alinea strengthens the pattern but does not remove:
+
+context dependence.
+
+---
+
+# Participation Throughout the Journey
+
+## Current Status
+
+Emerging
+
+## Current Confidence
+
+High
+
+Alinea provides:
+
+very strong evidence.
+
+The nine cases now span:
+
+- reservation-led
+- walk-in-led
+- human-confirmed
+- multi-channel
+- flexible
+- structured
+- queue-first
+- prepaid
+
+Yet participation clarity remains:
+
+consistently relevant.
+
+### Important Cross-Restaurant Finding
+
+Participation Throughout the Journey is not:
+
+reservation persistence.
+
+It is:
+
+the ongoing legibility of:
+
+how the guest can engage with the hospitality system.
+
+### Current Participation Forms
+
+- reserve
+- walk in
+- wait
+- preorder
+- enquire
+- join group route
+- purchase prepaid experience
+- attend event
+- secure pickup
+
+### Status Recommendation
+
+Retain:
+
+Emerging
+
+### Confidence
+
+High
+
+---
+
+# Multi-Intent Hospitality
+
+## Current Status
+
+Emerging
+
+## Current Confidence
+
+High
+
+### Alinea Outcome
+
+Strongly Supported.
+
+Alinea offers materially different:
+
+experience formats
+
+plus
+
+private-event intent.
+
+### Important Refinement
+
+Alinea creates an important distinction between:
+
+## Intent Choice
+
+What experience do I want?
+
+and
+
+## Post-Commitment Flexibility
+
+What can I change after choosing?
+
+These are not the same.
+
+### Cross-Restaurant Comparison
+
+#### Dishoom
+
+Multiple guest routes with substantial flexibility.
+
+#### Franklin
+
+Walk-up / preorder / event.
+
+#### Alinea
+
+Multiple experience choices before commitment
+
+with narrower flexibility after commitment.
+
+### Current Definition Remains Strong
+
+> Hospitality systems should recognise materially different guest intents and provide proportionate participation routes without manufacturing unnecessary complexity.
+
+### New Boundary
+
+Multi-Intent Hospitality does not require:
+
+high flexibility
+
+after route selection.
+
+### Status Recommendation
+
+Retain:
+
+Emerging
+
+### Confidence
+
+High
+
+---
+
+# Walk-In as First-Class Participation
+
+## Current Status
+
+Candidate
+
+## Current Confidence
+
+High
+
+### Strong Positive Evidence
+
+- Dishoom
+- Franklin
+
+### Supporting Evidence
+
+- Bistro Lolo
+
+### Alinea Outcome
+
+Not Applicable / Strong Boundary Evidence
+
+### FYN
+
+Limited / contextual.
+
+### Current Conclusion
+
+Alinea does not contradict:
+
+the Candidate.
+
+It clarifies the scope.
+
+### Refined Boundary
+
+> **Walk-in should be treated as a first-class route where spontaneous physical arrival is genuinely part of the hospitality model.**
+
+It should not be:
+
+added artificially
+
+to models where:
+
+- preparation
+- experience structure
+- capacity
+- payment
+- timing
+
+require:
+
+secured advance participation.
+
+### Status Recommendation
+
+Retain:
+
+Candidate
+
+### Confidence Recommendation
+
+Retain:
+
+High
+
+Alinea strengthens the Candidate by:
+
+making its boundary clearer.
+
+---
+
+# Commitment Without Pressure
+
+## Current Status
+
+Emerging
+
+## Current Confidence
+
+High
+
+Alinea is the strongest current stress test.
+
+### Commitment Evidence Across Set
+
+#### Bistro Lolo
+
+Low.
+
+#### Dishoom
+
+Low to moderate.
+
+#### Franklin
+
+Time / planning / quantity depending on route.
+
+#### FYN
+
+Financial + policy + timing.
+
+#### Alinea
+
+Financial + timing + policy + compatibility + behavioural.
+
+### Current Conclusion
+
+Commitment exists on:
+
+multiple dimensions.
+
+### Current Commitment Dimensions
+
+- financial
+- planning
+- time
+- quantity
+- coordination
+- behavioural
+- compatibility
+- experience selection
+
+### Current Definition Remains Strong
+
+> Hospitality may require different levels of commitment when those requirements are relevant to the experience or operational consequence, provided they are proportionate, visible, understandable, and non-manipulative.
+
+### Alinea Contribution
+
+High commitment does not:
+
+invalidate the pattern.
+
+It makes:
+
+clarity
+
+more important.
+
+### Status Recommendation
+
+Retain:
+
+Emerging
+
+### Confidence
+
+High
+
+---
+
+# New Arrival Direction
+
+## Consequence-Proportionate Clarity
+
+### Strong Evidence
+
+- FYN
+- Alinea
+
+### Supporting Logic
+
+Franklin
+
+### Working Definition
+
+> The greater the consequence of choosing or committing incorrectly, the more clearly the relevant experience, constraints, expectations, and compatibility should be communicated beforehand.
+
+### Why It Matters
+
+Consequences may include:
+
+- money
+- time
+- limited flexibility
+- compatibility
+- planning
+- travel
+- inventory
+
+### Status Recommendation
+
+Remain:
+
+Observed Research Direction
+
+### Promotion Watch
+
+Medium-High
+
+### Reason Not to Promote
+
+Strong current evidence comes primarily from:
+
+high-commitment hospitality.
+
+Need tests in:
+
+- casual reservation systems
+- events
+- prepaid casual concepts
+- hotel dining
+- high-volume restaurants
+
+### Likely Relationship
+
+Could ultimately become:
+
+a mechanism inside
+
+Layered Arrival
+
+and
+
+Commitment Without Pressure.
+
+Do not create another Candidate yet.
+
+---
+
+# New Arrival Direction
+
+## Compatibility Before Commitment
+
+### Strong Evidence
+
+Alinea.
+
+### Supporting Logic
+
+FYN.
+
+### Working Definition
+
+> Where guest needs materially affect fit with a hospitality experience, compatibility should be understandable before consequential commitment.
+
+### Possible Compatibility Variables
+
+- dietary requirements
+- accessibility
+- age restrictions
+- party structure
+- time
+- experience format
+- participation requirements
+
+### Status Recommendation
+
+Remain:
+
+Observed Research Direction
+
+### Promotion Watch
+
+Medium
+
+### Reason
+
+Current evidence is strong but:
+
+narrow.
+
+Likely Participation Architecture variable rather than:
+
+standalone pattern.
+
+---
+
+# New Arrival Direction
+
+## Choice Architecture Before Participation
+
+### Strong Evidence
+
+Alinea.
+
+### Supporting Evidence
+
+- Dishoom
+- Franklin
+- Mawimbi
+
+### Working Question
+
+> When materially different hospitality products exist, how should the guest understand the difference before entering a participation route?
+
+### Current Interpretation
+
+This is already largely captured by:
+
+Multi-Intent Hospitality.
+
+### Governance Recommendation
+
+Consolidate.
+
+Do not promote separately.
+
+---
+
+# New Arrival Direction
+
+## Flexibility Before vs After Commitment
+
+### Strong Evidence
+
+Alinea.
+
+### Supporting Evidence
+
+FYN.
+
+### Current Interpretation
+
+This distinction is valuable but belongs more naturally inside:
+
+Participation Architecture.
+
+### Governance Recommendation
+
+Remain:
+
+architecture variable.
+
+Not Candidate.
+
+---
+
+# New Arrival Direction
+
+## Experience Type as Routing Variable
+
+Alinea makes this especially clear.
+
+Previous routing variables included:
+
+- reservation intent
+- walk-in intent
+- event intent
+- quantity
+- certainty
+- group complexity
+
+Alinea adds:
+
+## Desired Experience
+
+### Current Interpretation
+
+The guest may be selecting:
+
+a hospitality product
+
+not merely:
+
+an access method.
+
+### Governance Recommendation
+
+Add to:
+
+Participation Architecture
+
+during later governance reconciliation.
+
+Do not create:
+
+new pattern.
+
+---
+
+# New Arrival Direction
+
+## Time-Bound Participation
+
+### Strong Evidence
+
+Alinea.
+
+### Supporting Evidence
+
+FYN.
+
+### Franklin Contribution
+
+Time as commitment exists through:
+
+availability
+
+and
+
+planning.
+
+### Current Interpretation
+
+Time can function as:
+
+- duration
+- punctuality
+- planning
+- inventory
+- commitment
+
+### Governance Recommendation
+
+Keep:
+
+below Candidate.
+
+Treat:
+
+Time as Commitment
+
+as mechanism inside:
+
+Commitment Without Pressure
+
+and
+
+Participation Architecture.
+
+---
+
+# Availability Clarity
+
+Franklin made availability:
+
+a central arrival variable.
+
+Alinea adds:
+
+release timing
+
+and
+
+confirmed future access.
+
+### Franklin
+
+Is the product still available?
+
+### Alinea
+
+When does future access become available?
+
+and
+
+is my selected experience confirmed?
+
+### Current Interpretation
+
+Availability can exist at several levels:
+
+- immediate
+- future
+- scheduled release
+- waitlist
+- confirmed
+
+### Research Direction
+
+`Availability Clarity as Hospitality`
+
+remains useful.
+
+### Status
+
+Observed Research Direction.
+
+### Governance Recommendation
+
+Do not promote.
+
+Likely mechanism inside:
+
+Participation Throughout the Journey.
+
+---
+
+# Certainty as Routing Variable
+
+Alinea strongly reinforces:
+
+certainty
+
+as separate from:
+
+route complexity.
+
+### Franklin
+
+Simple route
+
+lower certainty.
+
+### Alinea
+
+More structured route
+
+higher certainty after confirmation.
+
+### Current Interpretation
+
+Desired certainty may influence:
+
+how much commitment
+
+the guest is willing or required to make.
+
+### Governance Recommendation
+
+Retain:
+
+below Candidate.
+
+Treat as:
+
+Participation Architecture variable.
+
+---
+
+# Participation State Clarity
+
+Alinea introduces a clearer state model:
+
+Interest
 
 ↓
 
-Authority
+Waitlist / Availability
+
+↓
+
+Selection
+
+↓
+
+Payment
+
+↓
+
+Confirmation
+
+### Franklin
+
+Arrival
 
 ↓
 
@@ -779,485 +1621,1094 @@ Availability
 
 ↓
 
-Participation
+Access
 
-### Current Conclusion
+or
 
-Layered Arrival does not mean:
+Preorder
 
-many layers.
+↓
 
-It means:
+Secured Product
 
-confidence develops progressively.
+### Current Interpretation
 
-### Franklin Contribution
+Hospitality participation may require:
 
-The pattern now survives both:
+explicit state communication.
 
-## Dense Layering
+### Status Recommendation
 
-Dishoom
+Observed Research Direction.
 
-and
+### Promotion Watch
 
-## Minimal Layering
+Low-Medium.
 
-Franklin.
-
-### Governance Recommendation
-
-Retain Emerging.
-
-No rename.
-
-No maturity change.
-
-Confidence strengthened.
+Need broader evidence.
 
 ---
 
-# Comparison Finding 3
+# Prepaid Experience Participation
 
-## Emotion Before Interface Survives Without Elaborate Atmosphere
+### Strongest Evidence
 
-### Current Status
+Alinea.
 
-Emerging
+### Supporting Evidence
 
-### Franklin Outcome
+FYN uses high commitment but a different model.
 
-Supported.
+### Current Interpretation
 
-Franklin’s emotional orientation appears to come from:
+Alinea may represent:
 
-* appetite
-* product expectation
-* craft reputation
-* anticipation
+prepaid experience access
 
-rather than:
+rather than merely:
 
-* luxury
-* world-building
-* environmental spectacle
-
-### Current Conclusion
-
-Emotion Before Interface should not be interpreted as:
-
-atmosphere before utility.
-
-A product itself may create:
-
-emotional orientation.
-
-### Refined Interpretation
-
-Emotion may come through:
-
-* place
-* worldview
-* product
-* story
-* atmosphere
-* reputation
-* cultural identity
+table reservation.
 
 ### Governance Recommendation
 
-Retain Emerging.
+Remain:
+
+Observed Research Direction.
+
+### Important Rule
+
+Use public terminology:
+
+prepaid reservation
+
+where that is what the restaurant calls it.
+
+Do not prematurely label:
+
+ticketing.
+
+---
+
+# Arrival Does Not Equal Low Friction
+
+The nine-case set now makes this increasingly clear.
+
+A useful arrival can include:
+
+- time
+- rules
+- deposits
+- waiting
+- limited availability
+- prepayment
+- experience selection
+
+The relevant distinction remains:
+
+## Harmful Friction
+
+Unnecessary:
+
+- confusion
+- ambiguity
+- effort
+- delay
+
+versus
+
+## Meaningful Constraint
+
+Relevant structure required by:
+
+the hospitality model
+
+or
+
+the participation consequence.
+
+### Alinea Contribution
+
+Strong.
+
+---
+
+# Arrival Does Not Equal Maximum Choice
+
+Dishoom provides:
+
+high flexibility.
+
+Alinea provides:
+
+high pre-commitment choice
+
+followed by:
+
+greater constraint.
+
+Both can remain:
+
+coherent.
+
+### Current Rule
+
+KHDS should optimise:
+
+appropriate choice.
+
+Not:
+
+maximum choice.
+
+---
+
+# Arrival Does Not Equal Immediate Transaction
+
+Even Alinea’s high-commitment model requires:
+
+orientation
+
+before:
+
+payment.
+
+### Current Logic
+
+Understand
+
+↓
+
+Choose
+
+↓
+
+Commit
+
+rather than:
+
+Transact Immediately.
+
+This reinforces:
+
+Story Before Features
+
+and
+
+Layered Arrival.
+
+---
+
+# Arrival Does Not Equal Narrative Volume
+
+Franklin and Alinea together strongly establish:
+
+high-quality arrival can remain:
+
+compressed.
+
+### Current Rule
+
+The amount of narrative should follow:
+
+the amount of explanation required.
+
+This connects directly to the story direction:
+
+`Narrative Weight Follows Explanatory Value`.
+
+---
+
+# Nine Different Arrival Problems
+
+The current set now exposes nine different primary guest problems.
+
+## Ankole
+
+What kind of place is this?
+
+## Cultiva
+
+What does this restaurant believe?
+
+## Talisman
+
+Why does this place have depth and credibility?
+
+## Mawimbi
+
+What emotional experience is being promised?
+
+## Bistro Lolo
+
+Can I imagine myself belonging here?
+
+## FYN
+
+Why does this experience justify higher commitment?
+
+## Dishoom
+
+How can I participate?
+
+## Franklin
+
+How do I access a finite product?
+
+## Alinea
+
+Which version of the experience am I actually choosing?
+
+This is a major KHDS finding.
+
+Arrival should begin with:
+
+the guest’s primary uncertainty.
+
+Not:
+
+a fixed design component.
+
+---
+
+# Arrival Architecture — Refined Model
+
+The strongest current abstraction is:
+
+Guest Intent
+
+↓
+
+Primary Uncertainty
+
+↓
+
+Relevant Meaning
+
+↓
+
+Relevant Evidence
+
+↓
+
+Participation Understanding
+
+↓
+
+Appropriate Commitment
+
+↓
+
+Participation
+
+For high-consequence hospitality:
+
+Guest Intent
+
+↓
+
+Primary Uncertainty
+
+↓
+
+Experience / Product Understanding
+
+↓
+
+Compatibility
+
+↓
+
+Expectation Clarity
+
+↓
+
+Relevant Evidence
+
+↓
+
+Commitment
+
+↓
+
+Confirmed Participation
+
+This is:
+
+a comparison model.
+
+Not yet canonical KHDS governance.
+
+---
+
+# Primary Uncertainty as Arrival Variable
+
+Alinea makes this especially visible.
+
+Different restaurants have different:
+
+decision uncertainty.
+
+Examples:
+
+### Franklin
+
+Will I get the product?
+
+### Alinea
+
+Which experience am I selecting
+
+and
+
+does it fit me?
+
+### FYN
+
+What does this commitment entail?
+
+### Bistro Lolo
+
+What kind of social place is this?
+
+### Dishoom
+
+Do I need a reservation?
+
+### Cultiva
+
+What does this restaurant stand for?
+
+### Research Direction
+
+## Arrival Should Resolve the Primary Uncertainty
+
+### Working Definition
+
+The arrival experience should prioritise the meaning, evidence, or participation information most relevant to the guest’s most consequential early uncertainty.
+
+### Status Recommendation
+
+Observed Research Direction
+
+### Promotion Watch
+
+High
+
+### Governance Warning
+
+Potential overlap with:
+
+Layered Arrival
+
+and
+
+Promise Before Proof.
+
+Do not promote yet.
+
+---
+
+# Pattern Interaction
+
+Arrival increasingly appears to be produced by:
+
+multiple patterns working together.
+
+Example:
+
+## Alinea
+
+Emotion Before Interface
+
++
+
+Story Before Features
+
++
+
+Layered Arrival
+
++
+
+Multi-Intent Hospitality
+
++
+
+Commitment Without Pressure
+
++
+
+Participation Throughout the Journey
+
+↓
+
+Experience Understanding
+
+↓
+
+Fit
+
+↓
+
+Commitment
+
+↓
+
+Confirmed Participation
+
+The combination is more useful than:
+
+inventing an Alinea-specific universal pattern.
+
+---
+
+# Cross-Restaurant Arrival Tensions
+
+---
+
+## Emotion vs Information
+
+No longer a useful binary.
+
+Strong arrival may require:
+
+both.
+
+---
+
+## Meaning vs Function
+
+Meaning should not eliminate:
+
+functional clarity.
+
+---
+
+## Low Friction vs Relevant Constraint
+
+FYN + Alinea strongly reinforce this distinction.
+
+---
+
+## Spontaneity vs Precision
+
+Dishoom / Franklin versus Alinea.
+
+---
+
+## Choice vs Clarity
+
+More choice can increase:
+
+orientation need.
+
+---
+
+## Commitment vs Pressure
+
+Alinea gives the strongest current stress test.
+
+---
+
+## Certainty vs Flexibility
+
+Alinea shows:
+
+high certainty
+
+can coexist with:
+
+low post-commitment flexibility.
+
+---
+
+## Product Access vs Experience Access
+
+Franklin versus Alinea.
+
+---
+
+## Walk-In vs Secured Access
+
+Both are legitimate in:
+
+different models.
+
+---
+
+## Narrative Depth vs Decision Speed
+
+More narrative is not automatically:
+
+better arrival.
+
+---
+
+## Promise vs Evidence
+
+Higher promise increases:
+
+proof responsibility.
+
+---
+
+## Mystery vs Understanding
+
+Alinea makes this more important.
+
+The guest needs:
+
+enough understanding
+
+without necessarily receiving:
+
+complete disclosure.
+
+---
+
+# Arrival Contradictions Preserved
+
+KHDS should preserve:
+
+Ankole
+
+against
+
+Alinea.
+
+One is:
+
+place-led.
+
+One is:
+
+experience-selection-led.
+
+Preserve:
+
+Dishoom
+
+against
+
+Alinea.
+
+One privileges:
+
+spontaneity.
+
+One requires:
+
+advance commitment.
+
+Preserve:
+
+Franklin
+
+against
+
+Alinea.
+
+One creates uncertainty through:
+
+finite product access.
+
+The other reduces access uncertainty through:
+
+prepayment.
+
+Preserve:
+
+Bistro Lolo
+
+against
+
+FYN / Alinea.
+
+One can create confidence through:
+
+familiarity.
+
+The others require:
+
+greater expectation clarity.
+
+These contradictions strengthen:
+
+KHDS.
+
+---
+
+# Alinea Arrival Effect on Official Patterns
+
+---
+
+## Emotion Before Interface
+
+### Outcome
+
+Supported
+
+### Governance Recommendation
 
 No change.
 
 ---
 
-# Comparison Finding 4
+## Story Before Features
 
-## Story Before Features Survives, But Franklin Compresses Story
+### Outcome
 
-### Current Status
-
-Emerging
-
-### Franklin Arrival Pressure
-
-Initially:
-
-Partially Supported.
-
-### Franklin Story Evidence
-
-Later dossier evidence showed that Franklin does contain a clear story layer through:
-
-* Aaron and Stacy
-* craft
-* origin
-* product authority
-
-### Current Conclusion
-
-Franklin does not break:
-
-Story Before Features.
-
-But it improves the abstraction.
-
-Story does not need to mean:
-
-long-form narrative.
-
-It may be compressed into:
-
-meaning-bearing authority.
-
-### Stronger Working Interpretation
-
-> Give the guest enough meaning to understand why the hospitality experience matters before reducing the brand to pure utility.
+Strongly Supported
 
 ### Governance Recommendation
 
-Retain Emerging.
+No change.
 
-Possible definition refinement later.
+---
+
+## Participation Throughout the Journey
+
+### Outcome
+
+Very Strongly Supported
+
+### Governance Recommendation
 
 No maturity change.
 
+Definition remains strong.
+
 ---
 
-# Comparison Finding 5
+## Multi-Intent Hospitality
 
-## Participation Throughout the Journey Becomes Stronger
+### Outcome
 
-### Current Status
-
-Emerging
-
-### Franklin Outcome
-
-Strongly Supported.
-
-Franklin is one of the strongest post-Dishoom tests of the rename.
-
-The standard guest does not need:
-
-a reservation.
-
-Yet they still need to understand:
-
-how participation works.
-
-### Franklin Participation Routes
-
-* walk-up dine-in
-* preorder pickup
-* private event enquiry
-
-### Current Conclusion
-
-The Dishoom-era rename from:
-
-Reservation Throughout the Journey
-
-to:
-
-Participation Throughout the Journey
-
-is strongly reinforced.
-
-### Important Franklin Boundary
-
-Participation Throughout the Journey does not mean:
-
-many persistent CTAs.
-
-It means:
-
-the correct route remains understandable.
+Strongly Supported
 
 ### Governance Recommendation
 
-Retain Emerging.
+No maturity change.
 
-Strengthen boundary.
+Add future boundary:
+
+multiple intents do not imply continuous flexibility.
 
 ---
 
-# Comparison Finding 6
+## Commitment Without Pressure
 
-## Multi-Intent Hospitality Survives, But Must Not Create Artificial Complexity
+### Outcome
 
-### Current Status
-
-Emerging
-
-### Franklin Outcome
-
-Supported With Boundary Pressure.
-
-Franklin has multiple legitimate brand-level intents:
-
-* dine in
-* preorder
-* private event
-
-but its primary dine-in journey is very simple.
-
-### Important Distinction
-
-## Brand-Level Multi-Intent
-
-Different ways to engage with the business.
-
-versus
-
-## Experience-Level Multi-Intent
-
-Different routes into one hospitality experience.
-
-### Current Risk
-
-KHDS could misread:
-
-Multi-Intent Hospitality
-
-as:
-
-create multiple pathways because sophisticated systems are better.
-
-Franklin contradicts that implementation tendency.
-
-### Refined Working Boundary
-
-> Recognise materially different guest intents without manufacturing unnecessary journey complexity.
+Very Strongly Supported
 
 ### Governance Recommendation
 
-Retain Emerging.
+No maturity change.
 
-Definition refinement recommended.
-
-No rename.
+Alinea materially strengthens current definition.
 
 ---
 
-# Comparison Finding 7
+## Promise Before Proof
 
-## Commitment Without Pressure Expands Beyond Financial Commitment
+### Outcome
 
-### Current Status
-
-Emerging
-
-### Previous Strong Evidence
-
-## FYN
-
-Financial + policy commitment.
-
-## Dishoom
-
-Proportionate commitment by complexity.
-
-### Franklin Contribution
-
-Possible additional commitment dimensions:
-
-* time
-* planning
-* quantity
-* payment
-
-### Current Conclusion
-
-Commitment can take different forms.
-
-Possible categories include:
-
-* financial
-* planning
-* time
-* coordination
-* behavioural
-
-### Important Boundary
-
-Not every cost imposed on the guest becomes:
-
-meaningful commitment.
-
-A long wait may simply be:
-
-inconvenience.
+Supported
 
 ### Governance Recommendation
 
-Retain Emerging.
-
-Do not create:
-
-Time as Commitment
-
-as a separate pattern.
+No change.
 
 ---
 
-# Comparison Finding 8
+## Layered Arrival
 
-## Availability Clarity Becomes an Important Arrival Mechanism
+### Outcome
 
-Franklin introduces a strong new arrival variable:
+Very Strongly Supported
 
-finite product.
+### Governance Recommendation
 
-The guest needs to know that:
+No maturity change.
 
-participation availability
+Refine interpretation around:
 
-is not unlimited.
-
-### Working Direction
-
-## Availability Clarity as Hospitality
-
-### Working Definition
-
-> When participation cannot be guaranteed, hospitality may be improved by clearly communicating the relevant availability constraint before the guest commits effort.
-
-### Evidence
-
-Strong:
-
-Franklin.
-
-Related:
-
-* Dishoom
-* FYN
-
-but through different forms.
-
-### Governance Position
-
-Below Candidate.
-
-Strong research direction.
+consequence-proportionate clarity.
 
 ---
 
-# Comparison Finding 9
+## Walk-In as First-Class Participation
 
-## Access and Secured Access Become More Important
+### Outcome
 
-Dishoom introduced:
+Not Applicable / Strong Boundary Evidence
 
-Access
+### Governance Recommendation
 
-versus
+Retain Candidate / High.
 
-Guaranteed Access.
+Alinea sharpens:
 
-Franklin materially strengthens the distinction.
-
-### Franklin Walk-Up
-
-Participation route exists.
-
-Outcome remains uncertain.
-
-### Franklin Preorder
-
-More commitment creates:
-
-greater certainty.
-
-### Current Conclusion
-
-Arrival should sometimes clarify:
-
-not only
-
-how to participate
-
-but:
-
-how certain that participation is.
-
-### Working Distinction
-
-## Open Access
-
-You may attempt to participate.
-
-## Secured Access
-
-The relevant product / place / capacity has been committed to you.
-
-This may become important inside:
-
-Participation Architecture.
-
-Do not create a formal pattern yet.
+context boundary.
 
 ---
 
-# Comparison Finding 10
+## Biography When It Explains the Experience
 
-## Route Simplicity and Outcome Certainty Are Independent Variables
+### Arrival Outcome
 
-Franklin introduces one of the strongest new arrival distinctions.
+Supported.
 
-A route can be:
+### Governance Recommendation
 
-very simple.
+No arrival-driven change.
 
-Example:
+Full story comparison should decide.
 
-show up.
+---
 
-But the outcome can remain:
+## Narrative Language Within Clear Interface
 
-uncertain.
+### Arrival Outcome
 
-### Current Conclusion
+Supported.
 
-KHDS should separately evaluate:
+### Governance Recommendation
 
-## Route Complexity
+No arrival-driven change.
 
-How difficult is participation to understand?
+---
+
+# Arrival Promotion Review
+
+No Alinea arrival finding should currently be promoted to:
+
+Candidate
+
+Emerging
+
+Validated
+
+or
+
+KHDS Principle.
+
+The highest-value new directions are:
+
+1. Arrival Should Resolve the Primary Uncertainty
+2. Consequence-Proportionate Clarity
+3. Compatibility Before Commitment
+4. Participation State Clarity
+
+But each overlaps:
+
+existing architecture.
+
+Promotion now would risk:
+
+pattern inflation.
+
+---
+
+# Arrival Consolidation Recommendations
+
+---
+
+## Choice Architecture Before Participation
+
+Consolidate into:
+
+Multi-Intent Hospitality.
+
+---
+
+## Flexibility Before vs After Commitment
+
+Treat as:
+
+Participation Architecture variable.
+
+---
+
+## Certainty as Routing Variable
+
+Treat as:
+
+Participation Architecture variable.
+
+---
+
+## Experience Type as Routing Variable
+
+Add to:
+
+Resource / Intent architecture.
+
+---
+
+## Time-Bound Participation
+
+Treat as:
+
+Commitment / Participation mechanism.
+
+---
+
+## Prepaid Experience Participation
+
+Retain:
+
+research direction.
+
+Model-specific.
+
+---
+
+## Participation State Clarity
+
+Retain:
+
+research direction.
+
+Potentially transferable.
+
+---
+
+## Consequence-Proportionate Clarity
+
+Retain:
+
+strong research direction.
+
+Possible future refinement to:
+
+Layered Arrival.
+
+---
+
+# Arrival Evidence Discipline
+
+Website research can establish:
+
+- sequence
+- public positioning
+- experience options
+- visible reservation routes
+- pricing
+- policies
+- availability structure
+- named experiences
+- participation states
+- public compatibility limits
+
+It cannot establish:
+
+- guest comprehension
+- emotional response
+- conversion
+- abandonment
+- decision confidence
+- whether guests feel pressured
+- whether more clarity improves booking
+- whether one arrival model performs better
+- actual guest preferences
+
+Those require:
+
+behavioural evidence.
+
+---
+
+# Current Arrival Research Model
+
+After nine restaurants, the strongest current model becomes:
+
+Guest Intent
+
+↓
+
+What Is the Guest Uncertain About?
+
+↓
+
+What Must Be Understood?
+
+↓
+
+What Must Be Believed?
+
+↓
+
+What Must Be Proven?
+
+↓
+
+What Participation Route Fits?
+
+↓
+
+What Commitment Is Relevant?
+
+↓
+
+Participation
+
+For higher-consequence hospitality:
+
+add:
+
+Compatibility
 
 and
 
-## Outcome Certainty
+Expectation Clarity
 
-How guaranteed is access?
+before:
 
-This distinction is more useful than treating:
+Commitment.
 
-simple
+This model should remain:
 
-as:
+comparison-stage knowledge.
 
-easy.
+Do not move it into:
 
-### Governance Position
+patterns
 
-Research model.
+or
 
-Not yet formal pattern.
+principles
+
+yet.
 
 ---
 
-# Comparison Finding 11
+# Arrival Governance Recommendation
 
-## Product Authority Can Perform Arrival Work
+## Promote
 
-Franklin may be the strongest current case.
+None.
 
-### Other Arrival Sources
+---
 
-Ankole:
+## Demote
+
+None.
+
+---
+
+## Rename
+
+None.
+
+---
+
+## Retain Emerging
+
+- Emotion Before Interface
+- Story Before Features
+- Participation Throughout the Journey
+- Multi-Intent Hospitality
+- Commitment Without Pressure
+- Promise Before Proof
+- Layered Arrival
+
+---
+
+## Retain Candidate
+
+- Walk-In as First-Class Participation
+
+---
+
+## Strong Research Directions to Preserve
+
+- Arrival Should Resolve the Primary Uncertainty
+- Consequence-Proportionate Clarity
+- Compatibility Before Commitment
+- Participation State Clarity
+- Availability Clarity
+- Certainty as Routing Variable
+- Prepaid Experience Participation
+
+---
+
+# Official Governance Freeze
+
+Do not yet update:
+
+- `validation/candidate-patterns.md`
+- `patterns/registry.md`
+- `validation/dashboard.md`
+- `research/README.md`
+- `validation/README.md`
+
+The official global state remains:
+
+Independent Restaurants:
+
+8
+
+Kodawa Labs Validation Concepts:
+
+1
+
+Emerging:
+
+18
+
+Candidate:
+
+9
+
+Partially Supported:
+
+1
+
+Validated:
+
+0
+
+Research-Derived KHDS Principles:
+
+0
+
+Existing Implementation Patterns Pending Validation:
+
+1
+
+Alinea remains:
+
+Independent Restaurant #9 Candidate.
+
+---
+
+# Final Arrival Comparison Statement
+
+Nine restaurants now show nine materially different ways of:
+
+beginning hospitality digitally.
+
+The important commonality is not:
+
+hero layout
+
+copy length
+
+CTA position
+
+or
+
+visual style.
+
+The commonality is:
+
+orientation.
+
+Each restaurant has a different early guest uncertainty.
+
+Ankole needs to establish:
 
 place.
 
@@ -1265,1276 +2716,101 @@ Cultiva:
 
 worldview.
 
-Dishoom:
+Talisman:
 
-culture.
+depth.
+
+Mawimbi:
+
+experiential promise.
+
+Bistro Lolo:
+
+belonging.
 
 FYN:
 
-authority + philosophy.
+high-commitment credibility.
+
+Dishoom:
+
+participation possibility.
 
 Franklin:
 
-product + craft authority.
+access.
 
-### Current Direction
+Alinea:
 
-## Product Authority as Arrival
+experience choice and fit.
 
-### Working Question
+That suggests a stronger arrival question for KHDS:
 
-Can an already meaningful product reduce the need for:
+> **What does this guest need resolved before moving forward becomes reasonable?**
 
-* long story
-* heavy atmosphere
-* elaborate interface
+Alinea strengthens:
 
-during arrival?
+Layered Arrival
 
-### Current Conclusion
+because it shows that:
 
-Likely yes in Franklin’s case.
+as the consequence of commitment increases,
 
-### Governance Position
+the arrival system needs to become more precise about:
 
-Below Candidate.
+- difference
+- fit
+- expectations
+- commitment
+- participation
 
-Possible mechanism inside:
+without necessarily becoming:
 
-Emotion Before Interface
-
-and
-
-Story Before Features.
-
-Do not create separately yet.
-
----
-
-# Comparison Finding 12
-
-## Promise Before Proof Becomes More Contextual
-
-### Current Status
-
-Emerging
-
-### Franklin Outcome
-
-Partially Supported.
-
-Franklin appears to compress:
-
-promise
-
-and
-
-proof.
-
-The brand’s:
-
-* product
-* founder authority
-* reputation
-* imagery
-
-may perform both jobs almost simultaneously.
-
-### Current Conclusion
-
-The pattern survives.
-
-But the distance between:
-
-promise
-
-and
-
-proof
-
-is highly contextual.
-
-### Governance Recommendation
-
-Retain Emerging.
-
-Potential definition refinement:
-
-promise may precede proof by:
-
-moments
-
-rather than:
-
-sections.
-
----
-
-# Comparison Finding 13
-
-## Arrival Pacing Can Be Extremely Fast
-
-Previous models:
-
-## FYN
-
-Slow / structured.
-
-## Dishoom
-
-Fast / dense.
-
-## Franklin
-
-Fast / sparse.
-
-This gives KHDS three very different pacing forms.
-
-### Current Conclusion
-
-Pacing is not:
-
-slow versus fast.
-
-It is:
-
-how quickly the guest receives enough meaning and confidence for the hospitality model.
-
-### Important Rule
-
-This remains a research / implementation insight.
-
-Do not promote the pre-research Foundation:
-
-Pacing Is Our Signature
-
-into a research-derived Principle.
-
----
-
-# Comparison Finding 14
-
-## Sophisticated Hospitality Does Not Require Sophisticated Arrival Interface
-
-Franklin provides strong evidence.
-
-The core dine-in model can be understood through:
-
-* product
-* hours
-* sold-out limitation
-* physical arrival
-
-### Current Conclusion
-
-Digital arrival sophistication should be:
-
-proportionate to the guest problem.
-
-### Current Risk
-
-KHDS could accidentally produce:
-
-interface theatre
-
-where:
-
-simple operational clarity
-
-would work better.
-
-### Research Direction
-
-## Simplicity Without Emptiness
-
-### Status
-
-Observed Research Direction.
-
----
-
-# Comparison Finding 15
-
-## Operational Reality Can Be Part of Arrival
-
-FYN brought policies into arrival.
-
-Franklin brings:
-
-finite product.
-
-### Current Conclusion
-
-Arrival should not hide important operating realities when those realities materially affect:
-
-guest effort
+longer
 
 or
 
-participation success.
+more visually complex.
 
-Potential examples:
+And Alinea does not weaken:
 
-* deposit
-* cancellation rule
-* sold-out risk
-* pickup requirement
-* group threshold
+Walk-In as First-Class Participation.
 
-### Important Boundary
+It helps prove why the Candidate needed:
 
-Operational reality should not dominate:
+a boundary.
 
-the emotional experience
+Walk-in is:
 
-unless it materially affects the decision.
+first-class
 
----
-
-# Comparison Finding 16
-
-## Harmful Friction and Operational Constraint Must Stay Separate
-
-Franklin makes this distinction more important.
-
-### Harmful Friction
-
-Avoidable:
-
-* confusion
-* broken flow
-* unnecessary delay
-* unclear rules
-
-### Operational Constraint
-
-A real limit caused by:
-
-* finite production
-* capacity
-* service format
-
-### Participatory Behaviour
-
-The actions the guest must undertake because of the model.
-
-### Current Conclusion
-
-KHDS should optimise:
-
-communication
-
-and
-
-support
-
-without automatically claiming it can eliminate:
-
-the underlying constraint.
-
-This is especially important for future digital hospitality products.
-
----
-
-# Comparison Finding 17
-
-## Queue Should Not Become an Arrival Pattern Yet
-
-Franklin makes queue participation highly visible.
-
-But the evidence does not prove:
-
-* queue enjoyment
-* queue community
-* queue desirability
-* queue-driven brand value
-
-### Current Outcome
-
-`Queue as Participation`
-
-remains:
-
-Observed Research Direction.
-
-### Strong Boundary
-
-Do not create:
-
-Queue as Hospitality.
-
----
-
-# Comparison Finding 18
-
-## Walk-In as First-Class Participation Gains Significant Support
-
-### Current Status
-
-Below Candidate
-
-### Strong Evidence
-
-* Dishoom
-* Franklin
-
-### Supporting Evidence
-
-* Bistro Lolo
-
-### Arrival Contribution
-
-Franklin provides especially strong evidence because:
-
-standard participation is structurally walk-up.
-
-### Current Working Definition
-
-> A restaurant may deliberately support spontaneous or physical arrival as a primary participation route rather than treating it as leftover capacity.
-
-### Governance Position
-
-Strong Candidate promotion watch.
-
-Final judgment belongs in:
-
-reservation comparison
-
-and candidate governance.
-
----
-
-# Comparison Finding 19
-
-## World Before Biography Receives Strong Arrival Pressure
-
-### Current Status
-
-Candidate
-
-Franklin’s arrival already places:
-
-founder / craft authority
-
-very early in the confidence system.
-
-The story dossier later produces:
-
-strong contradiction.
-
-### Arrival Conclusion
-
-People-first authority can clearly perform arrival work.
-
-### Governance Position
-
-Carry major contradiction into story comparison.
-
-Do not decide from arrival alone.
-
----
-
-# Comparison Finding 20
-
-## Franklin Does Not Restore Growth as Narrative
-
-Growth is not central to arrival.
-
-The guest does not need to understand:
-
-business expansion
-
-before participation.
-
-### Current Outcome
-
-Supports continued demotion of:
-
-Growth as Narrative.
-
----
-
-# Current Cross-Restaurant Arrival Logic
-
-The post-Dishoom working model was:
-
-Meaning
-
-↓
-
-Orientation
-
-↓
-
-Confidence
-
-↓
-
-Appropriate Participation Route
-
-↓
-
-Experience
-
-Franklin adds:
-
-## Constraint Awareness
-
-where relevant.
-
-The strongest provisional model becomes:
-
-Meaning
-
-↓
-
-Orientation
-
-↓
-
-Relevant Constraint Awareness
-
-↓
-
-Confidence
-
-↓
-
-Appropriate Participation Route
-
-↓
-
-Experience
-
-But:
-
-constraint awareness
-
-is not mandatory for every restaurant.
-
-A more flexible model may be:
-
-Meaning
-
-↓
-
-Orientation
-
-↓
-
-Enough Relevant Information
-
-↓
-
-Confidence
-
-↓
-
-Appropriate Participation Route
-
-↓
-
-Experience
-
-This is stronger because:
-
-“Relevant Information”
-
-can include:
-
-* atmosphere
-* product
-* policy
-* availability
-* commitment
-* place
-* story
-
-depending on the restaurant.
-
-Do not formalise this as a KHDS Principle.
-
----
-
-# Arrival Architecture By Restaurant
-
-## Ankole
-
-Primary confidence mechanism:
-
-Place.
-
----
-
-## Cultiva
-
-Primary confidence mechanism:
-
-Worldview.
-
----
-
-## Talisman
-
-Primary confidence mechanism:
-
-Heritage + Place.
-
----
-
-## Mawimbi
-
-Primary confidence mechanism:
-
-Promise + Atmosphere.
-
----
-
-## Bistro Lolo
-
-Primary confidence mechanism:
-
-Familiarity + Use.
-
----
-
-## FYN
-
-Primary confidence mechanism:
-
-Authority + Structure.
-
----
-
-## Dishoom
-
-Primary confidence mechanism:
-
-Cultural Identity + Participation Choice.
-
----
-
-## Franklin
-
-Primary confidence mechanism:
-
-Product Authority + Operational Clarity.
-
----
-
-# Pattern Outcomes After Franklin Arrival Comparison
-
-## Strongly Supported
-
-### Layered Arrival
-
-Retain Emerging.
-
----
-
-### Participation Throughout the Journey
-
-Retain Emerging.
-
----
-
-### The Guest as Participant
-
-Retain Emerging.
-
----
-
-## Supported
-
-### Emotion Before Interface
-
-Retain Emerging.
-
----
-
-### Story Before Features
-
-Retain Emerging.
-
-Possible definition clarification.
-
----
-
-### Commitment Without Pressure
-
-Retain Emerging.
-
-Commitment mechanisms broaden.
-
----
-
-## Supported With Boundary Refinement
-
-### Multi-Intent Hospitality
-
-Retain Emerging.
-
-Add:
-
-do not manufacture unnecessary intents.
-
----
-
-## Partially Supported / Contextual
-
-### Promise Before Proof
-
-Retain Emerging.
-
----
-
-## Major Candidate Pressure
-
-### World Before Biography
-
-Carry to story comparison.
-
----
-
-# Below-Candidate Arrival Directions
-
-## Walk-In as First-Class Participation
-
-Strong Candidate watch.
-
----
-
-## Availability Clarity as Hospitality
-
-Strengthened.
-
----
-
-## Time as Commitment
-
-Strengthened as mechanism / research direction.
-
----
-
-## Queue as Participation
-
-Observable.
-
-Do not romanticise.
-
----
-
-## Product Authority as Arrival
-
-Strong new direction.
-
-Likely mechanism.
-
----
-
-## Simplicity Without Emptiness
-
-Strong new direction.
-
-Likely implementation principle / research insight rather than separate pattern.
-
----
-
-## Certainty as a Routing Variable
-
-Strengthened from Dishoom + Franklin.
-
-Primarily participation architecture.
-
----
-
-# Arrival Tensions
-
-## Product vs Story
-
-Franklin creates strongest current case.
-
----
-
-## Simplicity vs Sophistication
-
-Does better design require more structure?
-
-Franklin suggests:
-
-not necessarily.
-
----
-
-## Access vs Secured Access
-
-Franklin + Dishoom.
-
----
-
-## Clarity vs Guarantee
-
-Clear participation does not guarantee success.
-
----
-
-## Friction vs Operational Constraint
-
-Central Franklin tension.
-
----
-
-## Waiting vs Efficiency
-
-Physical effort versus digital convenience.
-
----
-
-## Scarcity vs Pressure
-
-Finite product versus manipulative urgency.
-
----
-
-## Founder vs World
-
-Franklin pressures current Candidate.
+when spontaneous arrival genuinely belongs to:
 
----
-
-## Multi-Intent vs Single Dominant Route
-
-Franklin creates important boundary.
-
----
-
-## Product Authority vs Atmospheric World-Building
-
-Franklin versus Dishoom / Mawimbi.
-
----
-
-## Fast Dense vs Fast Sparse
-
-Dishoom versus Franklin.
-
----
-
-# Contradiction Matrix
-
-## Emotion Before Interface
-
-Franklin Outcome:
-
-Supported.
-
----
-
-## Story Before Features
-
-Franklin Outcome:
-
-Supported With Compression.
-
----
-
-## Layered Arrival
-
-Franklin Outcome:
-
-Strongly Supported.
-
----
-
-## Participation Throughout the Journey
-
-Franklin Outcome:
-
-Strongly Supported.
-
----
-
-## Multi-Intent Hospitality
-
-Franklin Outcome:
-
-Supported With Boundary Pressure.
-
----
-
-## Commitment Without Pressure
-
-Franklin Outcome:
-
-Supported.
-
----
-
-## Promise Before Proof
-
-Franklin Outcome:
-
-Partial / Contextual Support.
-
----
-
-## The Guest as Participant
-
-Franklin Outcome:
-
-Strongly Supported.
-
----
-
-## World Before Biography
-
-Franklin Arrival Outcome:
-
-Major Pressure.
-
-Final contradiction belongs in story comparison.
-
----
-
-## Growth as Narrative
-
-Franklin Arrival Outcome:
-
-Weak / Not Relevant.
-
----
-
-# Geographic and Model Transferability
-
-If fully reconciled, Franklin would add:
-
-United States
-
-to the current research markets:
-
-* Kenya
-* South Africa
-* United Kingdom
-* United States
-
-More importantly, Franklin adds:
-
-* counter-service destination hospitality
-* queue-first access
-* finite product availability
-* founder/craft-led authority
-* preorder as product-security mechanism
-
-### Patterns Strengthened Across Models
-
-* Layered Arrival
-* Participation Throughout the Journey
-* Emotion Before Interface
-* Commitment Without Pressure
-* The Guest as Participant
-
-### Pattern Under Useful Boundary Pressure
-
-* Multi-Intent Hospitality
-* Promise Before Proof
-* Story Before Features
-
-### Candidate Under Major Pressure
-
-* World Before Biography
-
----
-
-# Commercial Opportunity Implications
-
-Arrival research creates several potential opportunity directions.
-
-These remain separate from pattern maturity.
-
----
-
-# Availability-Aware Arrival
-
-Possible system:
-
-Guest Intent
-
-↓
-
-Current Availability
-
-↓
-
-Relevant Expectation
-
-↓
-
-Participation Route
-
----
-
-# Walk-Up / Preorder Decision Layer
-
-Possible simple decision:
-
-Eat Here Today
-
-or
-
-Secure Food Ahead
-
-↓
-
-Correct Route
-
----
-
-# Constraint Translation
-
-Internal operating rule
-
-↓
-
-guest-facing clarity.
-
-Possible inputs:
-
-* sold-out risk
-* service cutoff
-* quantity threshold
-* pickup timing
-
----
-
-# Product Authority Arrival Architecture
-
-Potential for highly product-led brands:
-
-Product
-
-↓
-
-Proof
-
-↓
-
-Authority
-
-↓
-
-Action
-
-rather than:
-
-long narrative sequencing.
-
----
-
-# Queue Expectation Layer
-
-Only where operational data exists:
+the hospitality model.
 
-* arrival guidance
-* current sold-out status
-* estimated availability
-* what to expect
+Prepaid access is:
 
-### Important Rule
+equally legitimate
 
-Do not promise:
+when the product requires:
 
-queue elimination
+a different structure.
 
-where the operating model still requires physical participation.
+KHDS should not choose:
 
----
-
-# Evidence Limitations
-
-This comparison can establish:
-
-* visible arrival hierarchy
-* public participation routes
-* operating constraints
-* founder prominence
-* preorder alternatives
-* arrival framing
-
-It cannot establish:
-
-* arrival conversion
-* guest comprehension
-* emotional response
-* queue tolerance
-* abandonment
-* whether product authority reduces the need for story
-* whether simple arrival performs better
-* whether waiting increases perceived value
-
-Those require:
-
-* analytics
-* usability testing
-* guest interviews
-* direct observation
-
----
-
-# Comparison Outcome
-
-Franklin does not break the KHDS arrival framework.
-
-It makes the framework leaner.
-
-The strongest previous arrival model emphasised:
-
-meaning
-
-orientation
-
-confidence
-
-participation.
-
-Franklin demonstrates that those jobs may be completed with:
-
-very little interface complexity.
-
-The guest may only need to know:
-
-what this is,
-
-why it is credible,
-
-when it is available,
-
-and
-
-how to access it.
-
-That strengthens:
-
-`Layered Arrival`
-
-because the pattern survives:
-
-minimal layering.
-
-It strengthens:
-
-`Participation Throughout the Journey`
-
-because the dominant route is not reservation-led.
-
-It strengthens:
-
-`Emotion Before Interface`
-
-because appetite and craft authority can create emotion without elaborate atmosphere.
-
-It supports:
-
-`Story Before Features`
-
-but forces the pattern away from equating:
-
-story
-
-with:
-
-long narrative.
-
-Most importantly, Franklin sharpens:
-
-`Multi-Intent Hospitality`.
-
-A good hospitality system should recognise:
-
-real intent differences.
-
-It should not create:
-
-additional routes
-
-simply because the technology allows it.
-
-Franklin therefore introduces an important discipline:
-
-> **Do not over-design a guest journey that is naturally simple.**
-
-That may become one of the most useful implementation lessons of restaurant #8.
-
----
-
-# Provisional Arrival Governance Position
-
-After the Franklin arrival comparison:
-
-## No Pattern Promotions
-
-0
-
-## No Pattern Demotions
-
-0
-
-## No Final Renames
-
-0
-
-## Emerging Definition Refinement Watches
-
-* Multi-Intent Hospitality
-* Story Before Features
-* Promise Before Proof
+one.
 
-## Strong Candidate Promotion Watch
+It should understand:
 
-* Walk-In as First-Class Participation
+why each exists.
 
-## Major Candidate Review Carried Forward
+Evidence wins.
 
-* World Before Biography
-
-## Strong Below-Candidate Directions
-
-* Availability Clarity as Hospitality
-* Product Authority as Arrival
-* Certainty as a Routing Variable
-* Time as Commitment
-
-Official KHDS maturity remains unchanged until all five Franklin comparisons and governance reconciliation are complete.
-
----
-
-# Current Arrival Model
-
-The strongest provisional model is:
-
-Meaning
-
-↓
-
-Orientation
-
-↓
-
-Relevant Information
-
-↓
-
-Confidence
-
-↓
-
-Appropriate Participation Route
-
-↓
-
-Experience
-
-Where:
-
-Relevant Information
-
-may include:
-
-* product
-* atmosphere
-* story
-* availability
-* policy
-* commitment
-* place
-* people
-
-depending on the hospitality model.
-
-This is more flexible than:
-
-one homepage sequence.
-
-It also remains more precise than:
-
-anything goes.
-
-Every layer must contribute to:
-
-understanding
-
-confidence
-
-or
-
-participation.
-
----
-
-# Final Arrival Statement
-
-FYN taught KHDS that:
-
-arrival may require structure.
-
-Dishoom taught KHDS that:
-
-arrival may lead to multiple forms of participation.
-
-Franklin now teaches:
-
-> **arrival may need almost no complexity at all.**
-
-The guest may only need:
-
-Product.
-
-Authority.
-
-Availability.
-
-Access.
-
-That is enough when those signals carry the real decision.
-
-Franklin therefore gives KHDS an important correction.
-
-The question is not:
-
-> How much experience can we design before the CTA?
-
-It is:
-
-> **What is the minimum amount of meaning and operational clarity this guest needs to participate confidently?**
-
-For some restaurants that answer may require:
-
-story.
-
-For others:
-
-atmosphere.
-
-For others:
-
-policies.
-
-For Franklin:
-
-product authority and access clarity may carry most of the load.
-
-That is stronger than a template.
-
-And it gives the next comparison a clear task:
-
-determine whether Franklin creates the same kind of simplification pressure in the atmosphere framework.
-
 ---
-
-## Research Status
 
-Franklin Arrival Comparison Complete
+## Comparison Status
 
-Franklin Global Reconciliation Pending
+Arrival Comparison Reconciled Through Alinea
 
 ---
 
@@ -2544,14 +2820,4 @@ Update:
 
 `khds/research/comparison/atmosphere.md`
 
-Do not update:
-
-* `validation/candidate-patterns.md`
-* `patterns/registry.md`
-* `validation/dashboard.md`
-* `research/README.md`
-* `validation/README.md`
-
-until all five Franklin comparison files are complete.
-
-Evidence wins.
+Do not update global governance yet.

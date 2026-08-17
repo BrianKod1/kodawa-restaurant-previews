@@ -1,42 +1,123 @@
 # KHDS Research
 
-## Purpose
+## Research Status
 
-This directory contains the independent hospitality research that informs:
+Post-Alinea Research Reconciled
 
-Kodawa Hospitality Design System
+Independent Restaurants:
 
-KHDS.
+9
 
-The research exists to answer:
+Kodawa Labs Validation Concepts:
 
-> **Which hospitality design behaviours remain useful across materially different restaurants, markets, participation models, atmospheres, and storytelling systems?**
+1
 
-KHDS does not begin with:
+Highest Research-Derived Maturity:
 
-templates
-
-or
-
-fixed interface rules.
-
-It begins with:
-
-observation
-
-comparison
-
-contradiction
-
-and
-
-governance.
+Emerging
 
 ---
 
-# Research Method
+# Purpose
 
-KHDS follows the maturity path:
+The KHDS research layer exists to study:
+
+how hospitality businesses create
+
+- meaning
+- confidence
+- atmosphere
+- participation
+- differentiation
+- commercial clarity
+
+through their digital experiences.
+
+The research is designed to produce:
+
+reusable hospitality knowledge
+
+without forcing every restaurant into:
+
+the same design system.
+
+KHDS should learn:
+
+what transfers
+
+what remains contextual
+
+what contradicts
+
+what requires narrowing
+
+and
+
+what should never become:
+
+a pattern.
+
+---
+
+# Research Methodology
+
+KHDS uses:
+
+two separate evidence tracks.
+
+---
+
+# Track A — Independent Hospitality Research
+
+Independent restaurants are real hospitality businesses:
+
+not designed by Kodawa Labs.
+
+They may contribute evidence toward:
+
+- Candidate patterns
+- Emerging patterns
+- Validated patterns
+- research-derived KHDS Principles
+
+Current independent restaurant set:
+
+1. Ankole
+2. Cultiva
+3. Talisman
+4. Mawimbi
+5. Bistro Lolo
+6. FYN
+7. Dishoom Covent Garden
+8. Franklin Barbecue
+9. Alinea
+
+---
+
+# Track B — Kodawa Labs Validation
+
+Kodawa Labs concepts and implementations are kept separate from:
+
+independent evidence.
+
+Current validation concept:
+
+1. Trunk & Tandoor Concept
+
+Validation concepts may help test:
+
+- implementation
+- practical translation
+- pattern usability
+- production behaviour
+
+They do not count as:
+
+independent pattern evidence.
+
+---
+
+# Pattern Lifecycle
 
 Observed
 
@@ -56,136 +137,63 @@ Validated
 
 KHDS Principle
 
-A finding should not advance because:
+↓
 
-- it sounds good
-- Kodawa Labs already uses it
-- several similar restaurants support it
-- it aligns with an existing studio belief
+Production Experience
 
-It should advance only when:
+Progression depends on:
 
-independent evidence
+- evidence breadth
+- evidence diversity
+- contradiction survival
+- boundary clarity
+- transferability
+- governance discipline
 
-survives:
+Repeated observation alone is:
 
-- repetition
-- contradiction
-- boundary testing
-- materially different hospitality contexts
-
----
-
-# Two Research Tracks
-
-KHDS separates:
-
-## Track A — Independent Hospitality Research
-
-Real hospitality businesses not designed by Kodawa Labs.
-
-These may contribute toward:
-
-research-derived pattern maturity.
+not enough.
 
 ---
 
-## Track B — Kodawa Labs Validation
-
-Concepts or production experiences created by Kodawa Labs.
-
-These may help validate:
-
-implementation
-
-but do not count as:
-
-independent research evidence.
-
----
-
-# Current Official Research State
-
-## Independent Restaurants Studied
-
-8
-
-1. Ankole
-2. Cultiva
-3. Talisman
-4. Mawimbi
-5. Bistro Lolo
-6. FYN
-7. Dishoom Covent Garden
-8. Franklin Barbecue
-
----
-
-## Kodawa Labs Validation Concepts
-
-1
-
-- Trunk & Tandoor Concept
-
----
-
-# Current Governance Counts
-
-## Emerging Patterns
-
-18
-
-## Candidate Patterns
-
-9
-
-## Partially Supported Findings
-
-1
-
-## Validated Research-Derived Patterns
-
-0
-
-## Research-Derived KHDS Principles
-
-0
-
-## Existing KHDS Implementation Patterns Pending Formal Validation
-
-1
-
----
-
-# Highest Research-Derived Maturity
-
-Emerging
-
-No research-derived pattern has yet reached:
-
-Validated
-
-or
-
-KHDS Principle.
-
----
-
-# Independent Restaurant Research
-
-Restaurant research lives in:
-
-`restaurants/`
-
-Current official folders:
+# Research Architecture
 
 ```text
-restaurants/
-├── ankole/
-├── cultiva/
-├── talisman/
-├── mawimbi/
-├── bistro-lolo/
-├── fyn/
-├── dishoom-covent-garden/
-└── franklin-barbecue/
+khds/
+├── components/
+├── docs/
+├── experiences/
+├── patterns/
+│   ├── invitation.md
+│   └── registry.md
+├── principles/
+├── research/
+│   ├── comparison/
+│   │   ├── arrival.md
+│   │   ├── atmosphere.md
+│   │   ├── photography.md
+│   │   ├── reservation.md
+│   │   └── story.md
+│   ├── methodology/
+│   ├── observations/
+│   ├── restaurants/
+│   │   ├── ankole/
+│   │   ├── cultiva/
+│   │   ├── talisman/
+│   │   ├── mawimbi/
+│   │   ├── bistro-lolo/
+│   │   ├── fyn/
+│   │   ├── dishoom-covent-garden/
+│   │   ├── franklin-barbecue/
+│   │   └── alinea/
+│   ├── validation/
+│   │   ├── trunk-tandoor/
+│   │   │   └── arrival-pattern-study.md
+│   │   ├── candidate-patterns.md
+│   │   ├── dashboard.md
+│   │   ├── promotion-process.md
+│   │   └── README.md
+│   └── README.md
+├── tokens/
+├── utilities/
+└── khds.css

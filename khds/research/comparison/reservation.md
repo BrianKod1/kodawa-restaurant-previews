@@ -1,45 +1,41 @@
-# KHDS Reservation / Participation Comparison
+# KHDS Cross-Restaurant Comparison — Reservation / Participation
 
-## Purpose
+## Research Status
 
-Compare how independent hospitality brands structure:
+Alinea Comparison Cycle
 
-- access
-- reservations
-- walk-ins
-- bookings
-- preorder
-- group participation
-- private events
-- commitment
-- certainty
-- human assistance
-- participation complexity
+Reservation / Participation Reconciliation Complete
 
-This document asks:
-
-- what is the guest actually trying to secure?
-- does participation require a reservation?
-- when is walk-in access sufficient?
-- when does advance commitment become necessary?
-- when should human assistance appear?
-- how does complexity change participation structure?
-- how much certainty does each route provide?
-- when does technology support the operating model rather than replace it?
-- which KHDS participation patterns survive materially different hospitality models?
-- which patterns now need stronger boundaries or revised definitions?
-
-The goal is not to identify one ideal booking system.
-
-The goal is to understand:
-
-> **how the correct participation structure changes with guest intent, operating model, and complexity.**
+Global Governance Still Frozen
 
 ---
 
-# Current Research Set
+# Purpose
 
-## Officially Reconciled Independent Restaurants
+Compare how the current independent restaurant set structures:
+
+- access
+- reservation
+- walk-in participation
+- prepayment
+- waitlists
+- commitment
+- self-service
+- human assistance
+- uncertainty
+- confirmation
+- guest flexibility
+
+This document evaluates whether participation patterns remain:
+
+- transferable
+- contextual
+- contradicted
+- in need of narrowing
+- in need of renaming
+- in need of stronger architecture
+
+The comparison set now includes:
 
 1. Ankole
 2. Cultiva
@@ -48,2553 +44,522 @@ The goal is to understand:
 5. Bistro Lolo
 6. FYN
 7. Dishoom Covent Garden
-
-## Current Research Candidate
-
 8. Franklin Barbecue
+9. Alinea
 
-Franklin’s dossier is complete.
+Alinea remains:
 
-Franklin should not enter the official completed global research count until:
+Independent Restaurant #9 Candidate
 
-- all five comparison files are updated
-- candidate governance is reconciled
-- the pattern registry is reconciled
-- the validation dashboard is reconciled
-- the research overview is reconciled
-
-Official global counts therefore remain unchanged during this comparison cycle.
+until all comparison and governance files are reconciled.
 
 ---
 
-# Participation Architecture
+# Core Participation Question
 
-The current research no longer supports:
+> **How should the hospitality system route a guest into the right form of participation with the right level of certainty, commitment, flexibility, and human support?**
 
-Reservation
+After nine independent restaurants, reservation can no longer be treated as:
 
-as the universal model.
+one booking widget
 
-Instead, the deeper system is:
+or
 
-## Participation Architecture
+one CTA.
 
-Possible routes include:
+Participation now includes:
 
-- walk-in
+- walk-in access
 - reservation
 - preorder
-- enquiry
-- group booking
-- private event
-- direct human coordination
+- queueing
+- waitlist
+- prepaid experience
+- event enquiry
+- group coordination
+- human confirmation
+- self-service
+- secured pickup
+- structured exception handling
 
-The relevant question is:
+The transferable problem is:
 
-> **What is this guest trying to participate in, and what level of structure does that require?**
-
----
-
-# Ankole
-
-## Participation Character
-
-Conventional reservation-supported hospitality.
-
-## Primary Routes
-
-- direct restaurant access
-- reservation
-- standard dining participation
-
-## Working Logic
-
-Intent
-
-↓
-
-Reservation / Direct Participation
-
-↓
-
-Dining Experience
-
-## Interpretation
-
-Ankole provides relatively conventional restaurant access.
-
-The participation model does not appear to require:
-
-complex routing
-
-or
-
-substantial escalation.
-
-### Primary Participation Role
-
-Straightforward reservation access.
+participation architecture.
 
 ---
 
-# Cultiva
-
-## Participation Character
-
-Direct participation aligned with a strong brand world.
-
-## Primary Routes
-
-- direct restaurant access
-- reservation
-- dining experience
-
-## Working Logic
-
-Intent
-
-↓
-
-Direct Reservation
-
-↓
-
-Experience
-
-## Interpretation
-
-Cultiva supports the broader principle that:
-
-participation should remain closely connected to the restaurant’s own digital environment.
-
-The public site can establish:
-
-direct branded participation.
-
-It cannot prove:
-
-CRM ownership
-
-or
-
-customer-data ownership.
-
-### Primary Participation Role
-
-Direct branded access.
+# Nine Participation Models
 
 ---
-
-# Talisman
-
-## Participation Character
-
-Reservation-supported destination hospitality.
-
-## Primary Routes
-
-- direct reservation
-- contact
-- dining participation
-
-## Working Logic
-
-Intent
-
-↓
-
-Reservation
-
-↓
-
-Experience
-
-## Interpretation
-
-Talisman remains relatively conventional in participation architecture.
-
-Its importance lies less in complex routing and more in:
-
-clear direct access
-
-within a destination-led restaurant experience.
-
----
-
-# Mawimbi
-
-## Participation Character
-
-Reservation + occasion-led participation.
-
-## Primary Routes
-
-- standard reservation
-- events
-- occasion-led participation
-- direct contact
-
-## Working Logic
-
-Intent
-
-↓
-
-Dining
-
-or
-
-Occasion
-
-↓
-
-Appropriate Route
-
-↓
-
-Experience
-
-## Interpretation
-
-Mawimbi helped expand participation beyond:
-
-ordinary table booking.
-
-The restaurant supports:
-
-social and occasion-based intent.
-
-This contributed to early evidence for:
-
-multi-intent participation.
-
----
-
-# Bistro Lolo
-
-## Participation Character
-
-Flexible neighbourhood participation.
-
-## Primary Routes
-
-- everyday dining
-- all-day use
-- social participation
-- direct restaurant access
-
-## Working Logic
-
-Intent
-
-↓
-
-Use Context
-
-↓
-
-Participation
-
-## Interpretation
-
-Bistro Lolo helped reveal that participation does not always begin with:
-
-formal reservation intent.
-
-The restaurant’s value partly comes from:
-
-how naturally guests can imagine using it.
-
-This contributed to:
-
-`Participation Before Reservation`
-
-and
-
-`Walk-In as First-Class Participation`
-
-as research directions.
-
----
-
-# FYN
-
-## Participation Character
-
-Structured high-commitment participation.
-
-## Primary Routes
-
-- reservation
-- high-value dining commitment
-- clear policy structure
-- cancellation / deposit logic
-- human assistance where necessary
-
-## Working Logic
-
-Intent
-
-↓
-
-Reservation
-
-↓
-
-Commitment
-
-↓
-
-Policy Understanding
-
-↓
-
-Participation
-
-## Interpretation
-
-FYN created one of the strongest early challenges to:
-
-friction reduction
-
-as the universal goal.
-
-The restaurant demonstrates that:
-
-meaningful constraints
-
-may legitimately appear where the experience itself carries:
-
-higher financial or operational consequence.
-
-FYN established:
-
-## Commitment Without Pressure
-
-and materially strengthened:
-
-## Escalating Participation Complexity.
-
----
-
-# Dishoom Covent Garden
-
-## Participation Character
-
-Flexible, walk-in-first, multi-intent hospitality.
-
-## Primary Routes
-
-- walk-in
-- reservation
-- group booking
-- group feast
-- enquiry
-
-## Working Logic
-
-Guest Intent
-
-↓
-
-Walk-In
-
-or
-
-Reservation
-
-or
-
-Group Route
-
-↓
-
-Relevant Commitment
-
-↓
-
-Participation
-
-## Interpretation
-
-Dishoom created the decisive shift from:
-
-Reservation Architecture
-
-to:
-
-Participation Architecture.
-
-The guest may:
-
-walk in
-
-or
-
-reserve
-
-or
-
-coordinate a larger experience.
-
-Dishoom demonstrates that:
-
-reservation
-
-is only one access mechanism.
-
-It also established a participation cluster:
-
-## Participation Throughout the Journey
-
-Access.
-
-## Multi-Intent Hospitality
-
-Intent.
-
-## Escalating Participation Complexity
-
-Complexity.
-
-## Human Assistance When Complexity Requires It
-
-Human escalation.
-
-### Dishoom Working Model
-
-Guest Intent
-
-↓
-
-Participation Throughout the Journey
-
-↓
-
-Multi-Intent Routing
-
-↓
-
-Complexity Assessment
-
-↓
-
-Escalating Participation Structure
-
-↓
-
-Human Assistance When Required
-
-↓
-
-Participation
-
----
-
-# Franklin Barbecue
-
-## Participation Character
-
-Queue-first access with advance certainty alternatives.
-
-## Primary Routes
-
-- walk-up dine-in
-- preorder pickup
-- private event enquiry
-
-## Working Logic
-
-Guest Intent
-
-+
-
-Desired Certainty
-
-+
-
-Timing
-
-+
-
-Quantity
-
-+
-
-Experience Type
-
-↓
-
-Walk-Up
-
-or
-
-Preorder
-
-or
-
-Private Event
-
-↓
-
-Relevant Commitment
-
-↓
-
-Relevant Human Support
-
-↓
-
-Participation
-
-## Interpretation
-
-Franklin provides the strongest test yet of:
-
-Participation Architecture.
-
-Its standard dine-in route does not require:
-
-reservation.
-
-Instead, participation depends on:
-
-- physical arrival
-- joining the service flow
-- finite product availability
-
-The restaurant separately supports:
-
-advance preorder
-
-for guests seeking:
-
-greater certainty
-
-and
-
-private-event enquiry
-
-for guests with:
-
-greater coordination needs.
-
-Franklin therefore confirms that:
-
-reservation
-
-is only one tool inside a broader participation system.
-
----
-
-# Eight Participation Models
-
-## Model A — Conventional Reservation Access
-
-Ankole
-
-Intent
-
-↓
-
-Reservation
-
-↓
-
-Experience
-
----
-
-## Model B — Direct Branded Participation
-
-Cultiva
-
-Intent
-
-↓
-
-Direct Access
-
-↓
-
-Experience
-
----
-
-## Model C — Destination Reservation Access
-
-Talisman
-
-Intent
-
-↓
-
-Reservation
-
-↓
-
-Experience
-
----
-
-## Model D — Occasion-Based Participation
-
-Mawimbi
-
-Intent
-
-↓
-
-Dining
-
-or
-
-Occasion
-
-↓
-
-Appropriate Route
-
----
-
-## Model E — Flexible Everyday Participation
-
-Bistro Lolo
-
-Intent
-
-↓
-
-Use Context
-
-↓
-
-Participation
-
----
-
-## Model F — High-Commitment Structured Participation
-
-FYN
-
-Intent
-
-↓
-
-Commitment
-
-↓
-
-Policy
-
-↓
-
-Participation
-
----
-
-## Model G — Walk-In-First Multi-Intent Participation
-
-Dishoom
-
-Intent
-
-↓
-
-Walk-In / Reservation / Group Route
-
-↓
-
-Participation
-
----
-
-## Model H — Queue-First Access + Advance Certainty Alternative
-
-Franklin
-
-Intent
-
-↓
-
-Walk-Up / Preorder / Event
-
-↓
-
-Relevant Commitment
-
-↓
-
-Participation
-
----
-
-# Comparison Finding 1
-
-## Participation Throughout the Journey Is Strongly Reinforced
-
-### Current Status
-
-Emerging
-
-### Franklin Outcome
-
-Strongly Supported.
-
-Dishoom shifted KHDS away from:
-
-reservation everywhere.
-
-Franklin makes that shift significantly harder to reverse.
-
-### Franklin Evidence
-
-The guest may participate through:
-
-- walk-up dine-in
-- preorder pickup
-- private-event enquiry
-
-The correct route depends on:
-
-what the guest is trying to secure.
-
-### Current Conclusion
-
-Participation Throughout the Journey should remain:
-
-broader than reservation.
-
-### Important Boundary
-
-The pattern does not mean:
-
-many CTAs.
-
-It means:
-
-the appropriate route remains understandable where participation matters.
-
-### Governance Recommendation
-
-Retain Emerging.
-
-Confidence strengthened.
-
----
-
-# Comparison Finding 2
-
-## Multi-Intent Hospitality Survives, But Its Boundary Must Be Explicit
-
-### Current Status
-
-Emerging
-
-### Dishoom Evidence
-
-Strong.
-
-Multiple materially different intents.
-
-### Franklin Evidence
-
-Strong at brand level.
-
-Simpler at primary dine-in level.
-
-### Current Distinction
-
-## Brand-Level Multi-Intent
-
-Different ways to engage with the business.
-
-## Experience-Level Multi-Intent
-
-Different ways to participate in one experience.
-
-### Franklin Correction
-
-A system should not create:
-
-additional routes
-
-simply because the interface can support them.
-
-### Stronger Working Definition
-
-> **Hospitality systems should recognise materially different guest intents and provide proportionate routes without manufacturing unnecessary complexity.**
-
-### Governance Recommendation
-
-Retain Emerging.
-
-Definition refinement recommended.
-
----
-
-# Comparison Finding 3
-
-## Escalating Participation Complexity Becomes Highly Resilient
-
-### Current Status
-
-Emerging
-
-### FYN
-
-High commitment creates:
-
-greater policy structure.
-
-### Dishoom
-
-Group size and intent create:
-
-different participation routes.
-
-### Franklin
-
-Dine-in
-
-↓
-
-Preorder
-
-↓
-
-Private event
-
-creates an unusually clean escalation ladder.
-
-### Current Conclusion
-
-Complexity may increase with:
-
-- party size
-- quantity
-- timing
-- occasion
-- coordination
-- commitment
-- certainty requirement
-
-### Important Learning
-
-Escalation does not mean:
-
-more interface for everyone.
-
-It means:
-
-more structure where the participation problem becomes harder.
-
-### Governance Recommendation
-
-Retain Emerging.
-
-Confidence strengthened significantly.
-
----
-
-# Comparison Finding 4
-
-## Human Assistance When Complexity Requires It Is Strongly Supported, But the Name Is Now Under Pressure
-
-### Current Status
-
-Emerging
-
-### Previous Evidence
-
-Dishoom showed:
-
-human assistance appearing as:
-
-group complexity increases.
-
-### Franklin Evidence
-
-Two distinct forms appear.
-
-## Higher Complexity
-
-Private-event enquiry.
-
-## Normal Physical Flow
-
-Line-manager assistance.
-
-### Current Problem
-
-Human support may appear because of:
-
-- complexity
-- uncertainty
-- coordination
-- exception handling
-- physical flow
-
-not only:
-
-complexity.
-
-### Important Distinction
-
-A normal route may be:
-
-simple
-
-but still benefit from:
-
-human guidance.
-
-### Governance Question
-
-Is:
-
-complexity
-
-the correct trigger?
-
-or is the deeper abstraction:
-
-## Human Assistance Where Structured Self-Service Is Insufficient
-
-Possible alternative wording remains provisional.
-
-Do not rename yet.
-
-### Governance Recommendation
-
-Retain Emerging.
-
-Major definition / naming review.
-
----
-
-# Comparison Finding 5
-
-## Walk-In as First-Class Participation Is Now Mature Enough for Candidate Promotion
-
-### Current Status
-
-Below Candidate
-
-### Strong Evidence
-
-## Dishoom
-
-Walk-in is central and intentionally preserved.
-
-## Franklin
-
-Walk-up participation is structurally primary.
-
-### Supporting Evidence
-
-## Bistro Lolo
-
-Everyday and flexible use supports spontaneous participation.
-
-### Current Working Definition
-
-> **A restaurant may intentionally support spontaneous physical arrival as a primary participation route rather than treating it as leftover capacity or reservation failure.**
-
-### Why This Is Distinct
-
-This is not simply:
-
-Participation Throughout the Journey.
-
-That pattern asks:
-
-Can the guest find a participation route?
-
-Walk-In as First-Class Participation asks:
-
-Is spontaneous physical arrival itself intentionally treated as a legitimate primary route?
-
-### Why This Is Not Multi-Intent Hospitality
-
-Multi-Intent concerns:
-
-different guest intents.
-
-Walk-In as First-Class Participation concerns:
-
-one specific access model.
-
-### Governance Recommendation
-
-Promote:
-
-`Walk-In as First-Class Participation`
-
-to:
-
-Candidate
-
-during final Franklin governance reconciliation.
-
-### Confidence
-
-High.
-
----
-
-# Comparison Finding 6
-
-## Participation Before Reservation Is Real, But Likely Already Contained
-
-### Current Status
-
-Below Candidate
-
-### Strong Evidence
-
-- Bistro Lolo
-- Dishoom
-- Franklin
-
-### Current Meaning
-
-Guests may form:
-
-participation intent
-
-before deciding whether:
-
-reservation
-
-is necessary.
-
-### Current Problem
-
-This may duplicate:
-
-Participation Throughout the Journey.
-
-### Governance Recommendation
-
-Do not promote.
-
-Likely consolidate as:
-
-a supporting direction / mechanism inside Participation Architecture.
-
----
-
-# Comparison Finding 7
-
-## Commitment Without Pressure Becomes Broader and Stronger
-
-### Current Status
-
-Emerging
-
-### FYN
-
-Financial + policy commitment.
-
-### Dishoom
-
-Proportionate commitment.
-
-### Franklin
-
-Time + planning + quantity + advance payment.
-
-### Current Conclusion
-
-Commitment may include:
-
-- financial
-- behavioural
-- planning
-- time
-- coordination
-- quantity
-
-### Critical Boundary
-
-Commitment is legitimate only when:
-
-- relevant
-- proportionate
-- visible
-- understandable
-- non-manipulative
-
-### Canonical Definition
-
-The current canonical definition remains strong:
-
-> Hospitality may require different levels of commitment when those requirements are relevant to the experience or operational consequence, provided they are proportionate, visible, understandable, and non-manipulative.
-
-### Governance Recommendation
-
-Retain Emerging.
-
-No rename.
-
-Confidence strengthened.
-
----
-
-# Comparison Finding 8
-
-## Time as Commitment Is a Real Mechanism
-
-### Current Status
-
-Observed Research Direction
-
-### Strongest Evidence
-
-Franklin.
-
-### Related Evidence
-
-FYN demonstrates:
-
-financial commitment.
-
-Dishoom demonstrates:
-
-planning / group commitment.
-
-### Current Working Definition
-
-> A guest may commit to participation through time investment even when advance financial commitment is low.
-
-### Major Boundary
-
-Time commitment may be:
-
-meaningful
-
-or
-
-harmful.
-
-Waiting does not automatically become:
-
-hospitality value.
-
-### Governance Recommendation
-
-Remain below Candidate.
-
-Treat as mechanism inside:
-
-Commitment Without Pressure.
-
----
-
-# Comparison Finding 9
-
-## Access and Secured Access Must Remain Separate
-
-### Strong Evidence
-
-Dishoom + Franklin.
-
-### Dishoom
-
-Walk-in access
-
-versus
-
-reservation certainty.
-
-### Franklin
-
-Walk-up access
-
-versus
-
-preorder certainty.
-
-### Current Distinction
-
-## Access
-
-A legitimate route exists.
-
-## Secured Access
-
-The relevant product, time, place, or capacity has been committed to the guest.
-
-### Current Conclusion
-
-Participation Architecture should ask:
-
-> What exactly does the guest need secured?
-
-Possible answers:
-
-- table
-- product
-- time
-- capacity
-- event
-- service
-
-### Governance Position
-
-Strong research model.
-
-Not yet formal pattern.
-
----
-
-# Comparison Finding 10
-
-## Certainty Is Now a Serious Routing Variable
-
-### Current Direction
-
-`Certainty as a Routing Variable`
-
-### Strong Evidence
-
-- Dishoom
-- Franklin
-
-### Working Logic
-
-Desired Certainty
-
-+
-
-Guest Intent
-
-↓
-
-Appropriate Participation Route
-
-### Example
-
-Franklin:
-
-Walk-up
-
-=
-
-lower certainty
-
-lower formal commitment.
-
-Preorder
-
-=
-
-higher certainty
-
-higher commitment.
-
-### Current Conclusion
-
-Certainty materially affects:
-
-route selection.
-
-### Governance Position
-
-Strong research direction.
-
-Do not promote yet.
-
-Likely part of:
-
-Participation Architecture.
-
----
-
-# Comparison Finding 11
-
-## Route Complexity and Outcome Certainty Are Independent Variables
-
-Franklin makes this distinction unavoidable.
-
-### Simple Route
-
-Show up.
-
-### Outcome
-
-May remain uncertain.
-
-### Complex Route
-
-Private event enquiry.
-
-### Outcome
-
-May eventually become highly secured.
-
-### Current Conclusion
-
-KHDS should separately evaluate:
-
-## Route Complexity
-
-How difficult is the process?
-
-## Outcome Certainty
-
-How guaranteed is the result?
-
-This is one of the strongest participation-model refinements from Franklin.
-
----
-
-# Comparison Finding 12
-
-## Availability Without Exclusivity Is Strongly Strengthened
-
-### Current Status
-
-Below Candidate
-
-### Dishoom
-
-Open walk-in access alongside reservations.
-
-### Franklin
-
-Open walk-up access within finite product capacity.
-
-### Current Working Definition
-
-> Hospitality can preserve broad access even when availability is constrained, without necessarily turning scarcity into exclusivity.
-
-### Current Conclusion
-
-Scarcity
-
-does not automatically equal:
-
-exclusive positioning.
-
-### Governance Recommendation
-
-Remain below Candidate for now.
-
-Confidence strengthened.
-
----
-
-# Comparison Finding 13
-
-## Queue as Participation Is Observable
-
-### Current Status
-
-Observed Research Direction
-
-### Franklin Evidence
-
-Strong.
-
-The queue is part of:
-
-the normal participation route.
-
-### Current Conclusion
-
-Queueing can legitimately be treated as:
-
-a stage in the guest journey.
-
-### Not Established
-
-- queue enjoyment
-- queue bonding
-- queue prestige
-- queue-driven desirability
-- queue as intentional ritual
-
-### Governance Position
-
-Remain Observed.
-
-Do not create:
-
-Queue as Hospitality.
-
----
-
-# Comparison Finding 14
-
-## Physical Flow Assistance Is a Real Human-Support Category
-
-Franklin adds:
-
-line-manager assistance.
-
-This is not:
-
-reservation complexity.
-
-It is:
-
-physical journey support.
-
-### Working Definition
-
-> Human assistance may help guests navigate physical participation even when the underlying transaction is simple.
-
-### Current Relationship
-
-Potentially inside:
-
-Human Assistance When Complexity Requires It.
-
-### Governance Question
-
-Should human support be triggered by:
-
-complexity
-
-or by:
-
-guest need?
-
-### Governance Position
-
-Preserve as research direction.
-
-Use during naming review.
-
----
-
-# Comparison Finding 15
-
-## Self-Service and Human Assistance Are Complementary
-
-The current set increasingly shows:
-
-not:
-
-automation versus humans.
-
-But:
-
-self-service where predictable
-
-and
-
-human help where necessary.
-
-### FYN
-
-Structured booking / policy.
-
-### Dishoom
-
-Self-service for standard participation.
-
-Human coordination for complex groups.
-
-### Franklin
-
-Self-service preorder.
-
-Human assistance for:
-
-events
-
-and
-
-physical flow.
-
-### Current Conclusion
-
-The stronger abstraction remains:
-
-> Use self-service where the path is predictable and human assistance where uncertainty, coordination, or physical complexity makes it valuable.
-
-This may eventually replace the current narrower pattern wording.
-
-Do not formalise yet.
-
----
-
-# Comparison Finding 16
-
-## Participation Complexity Is Not Only About Party Size
-
-The current set now suggests multiple variables.
-
-### Possible Complexity Inputs
-
-- party size
-- quantity
-- occasion
-- timing
-- commitment
-- certainty
-- service format
-- product access
-- coordination need
-
-### Franklin Contribution
-
-Quantity becomes especially important.
-
-### Current Conclusion
-
-Participation Architecture needs:
-
-multi-variable assessment.
-
-This strengthens:
-
-Escalating Participation Complexity.
-
----
-
-# Comparison Finding 17
-
-## Product Access and Space Access Are Different
-
-Franklin makes this explicit.
-
-### Preorder
-
-Secures:
-
-product.
-
-It does not secure:
-
-a table.
-
-### Reservation
-
-Typically secures:
-
-space / time.
-
-### Event Enquiry
-
-May coordinate:
-
-space + service + timing.
-
-### Current Conclusion
-
-Participation Architecture should distinguish:
-
-what resource
-
-the guest is trying to secure.
-
-Possible resource types:
-
-- product
-- seat
-- table
-- room
-- time
-- event capacity
-- service
-
-This is a major systems-design implication.
-
----
-
-# Comparison Finding 18
-
-## Technology Should Support the Operating Model, Not Automatically Replace It
-
-Franklin creates strong evidence.
-
-The digital preorder system does not replace:
-
-walk-up dine-in.
-
-It creates:
-
-an alternative participation route.
-
-### Dishoom
-
-Digital reservations coexist with:
-
-walk-in hospitality.
-
-### Franklin
-
-Preorder coexists with:
-
-physical line participation.
-
-### Current Conclusion
-
-Digital optimisation should not automatically mean:
-
-convert every guest into:
-
-advance booking.
-
-### Strong Working Rule
-
-> Build digital routes around legitimate operating models rather than forcing operating models into one digital funnel.
-
-This is an important implementation insight.
-
----
-
-# Comparison Finding 19
-
-## Walk-In and Reservation Are Not Opposites
-
-Dishoom and Franklin both demonstrate this.
-
-The deeper spectrum is:
-
-## Spontaneous Participation
-
-↓
-
-## Planned Participation
-
-↓
-
-## Secured Participation
-
-↓
-
-## Coordinated Participation
-
-### Current Conclusion
-
-Walk-in and reservation are:
-
-different commitment / certainty configurations.
-
-Not necessarily:
-
-competing models.
-
-This strengthens:
-
-Participation Fluidity.
-
----
-
-# Comparison Finding 20
-
-## Participation Fluidity Becomes Stronger
-
-### Current Status
-
-Below Candidate
-
-### Dishoom
-
-Walk-in → reservation → group route.
-
-### Franklin
-
-Walk-up → preorder → event coordination.
-
-### Current Working Definition
-
-> Guests may move across different levels of planning, certainty, and commitment depending on their intent.
-
-### Current Conclusion
-
-The direction is real.
-
-### Governance Position
-
-Remain below Candidate.
-
-Potentially a broader architecture model rather than pattern.
-
----
-
-# Comparison Finding 21
-
-## Multi-Intent Hospitality Should Not Become Multi-Interface Hospitality
-
-This is the strongest Franklin boundary.
-
-### Risk
-
-Designers see:
-
-multiple possible flows
-
-and build:
-
-multiple interfaces
-
-even when the guest problem is simple.
-
-### Franklin Correction
-
-Primary dine-in:
-
-show up.
-
-That may be enough.
-
-### Current Conclusion
-
-Intent diversity should be:
-
-real.
-
-Routing complexity should be:
-
-proportionate.
-
-This refinement should be carried into governance.
-
----
-
-# Comparison Finding 22
-
-## Human Assistance Should Not Be Treated as Failure
-
-Across the current set:
-
-human coordination often appears where:
-
-- complexity rises
-- uncertainty rises
-- physical guidance matters
-- event needs become specific
-
-### Current Conclusion
-
-A human handoff is not:
-
-an inferior digital experience
-
-when it is the appropriate participation route.
-
-This remains one of the strongest principles inside the Participation Architecture cluster.
-
----
-
-# Comparison Finding 23
-
-## Human Assistance Should Also Not Be Added Everywhere
-
-The opposite error is also possible.
-
-Franklin’s preorder system is structured and self-service.
-
-Standard predictable participation may not need:
-
-manual coordination.
-
-### Current Conclusion
-
-Human assistance should appear:
-
-where it adds clarity or handles complexity.
-
-Not:
-
-as a substitute for poor system design.
-
----
-
-# Comparison Finding 24
-
-## Commitment and Certainty Often Move Together, But Not Universally
-
-### Franklin
-
-More commitment
-
-↓
-
-greater certainty.
-
-### FYN
-
-More commitment
-
-↓
-
-secured high-value experience.
-
-### Dishoom
-
-Higher group complexity
-
-↓
-
-more planning / commitment.
-
-### Current Conclusion
-
-There is a repeated relationship:
-
-Commitment
-
-↔
-
-Certainty
-
-but KHDS should not assume:
-
-more commitment always produces:
-
-more value.
-
-### Governance Position
-
-Research model.
-
----
-
-# Comparison Finding 25
-
-## Availability Communication Is Part of Participation Design
-
-Franklin makes this especially visible.
-
-### Possible Availability Types
-
-- table availability
-- product availability
-- time availability
-- event capacity
-- preorder capacity
-
-### Current Conclusion
-
-Participation design should communicate:
-
-the availability variable that actually matters.
-
-### Research Direction
-
-`Availability Clarity as Hospitality`
-
-Strengthened.
-
----
-
-# Current Participation Architecture Cluster
-
-The post-Dishoom cluster remains valid.
-
-## Participation Throughout the Journey
-
-Access.
-
-## Multi-Intent Hospitality
-
-Intent.
-
-## Escalating Participation Complexity
-
-Complexity.
-
-## Human Assistance When Complexity Requires It
-
-Human escalation.
-
-Franklin adds two useful variables:
-
-## Certainty
-
-What level of guarantee does the guest need?
-
-## Resource
-
-What exactly is being secured?
-
-### Revised Provisional Model
-
-Guest Intent
-
-+
-
-Desired Certainty
-
-+
-
-Resource Needed
-
-+
-
-Complexity
-
-↓
-
-Appropriate Participation Route
-
-↓
-
-Relevant Commitment
-
-↓
-
-Self-Service Where Predictable
-
-↓
-
-Human Assistance Where Required
-
-↓
-
-Participation
-
-This is a stronger model.
-
-Do not formalise it as a new pattern.
-
----
-
-# Participation Architecture By Restaurant
 
 ## Ankole
 
-Primary route:
+### Model
 
-Reservation.
+Persistent Structured Access
+
+### Primary Characteristics
+
+- reservation-forward
+- direct participation CTA
+- relatively conventional booking logic
+
+### Primary Guest Question
+
+How do I secure a table?
 
 ---
 
 ## Cultiva
 
-Primary route:
+### Model
 
-Direct branded reservation.
+Story-Integrated Booking
+
+### Primary Characteristics
+
+- participation embedded inside brand story
+- booking remains present without overwhelming narrative
+
+### Primary Guest Question
+
+How do I move from understanding the restaurant to participating?
 
 ---
 
 ## Talisman
 
-Primary route:
+### Model
 
-Destination reservation.
+Human Confirmation
+
+### Primary Characteristics
+
+- direct enquiry
+- human handling
+- relationship-led participation
+
+### Primary Guest Question
+
+Who confirms my participation?
 
 ---
 
 ## Mawimbi
 
-Primary route:
+### Model
 
-Reservation + occasion routing.
+Multi-Channel Complexity
+
+### Primary Characteristics
+
+- multiple participation channels
+- events
+- reservation
+- direct contact
+- higher coordination potential
+
+### Primary Guest Question
+
+Which route fits my occasion?
 
 ---
 
 ## Bistro Lolo
 
-Primary route:
+### Model
 
-Flexible everyday participation.
+Flexible Intent-Sensitive Access
+
+### Primary Characteristics
+
+- everyday participation
+- lower commitment
+- walk-in / reservation flexibility
+- social use
+
+### Primary Guest Question
+
+How much planning do I actually need?
 
 ---
 
 ## FYN
 
-Primary route:
+### Model
 
-Structured committed reservation.
+High-Commitment Structured Booking + Exception Handling
 
----
+### Primary Characteristics
 
-## Dishoom
+- advance reservation
+- meaningful financial commitment
+- explicit policy
+- structured experience
+- human support where needed
 
-Primary route:
+### Primary Guest Question
 
-Walk-in + reservation + group routing.
-
----
-
-## Franklin
-
-Primary route:
-
-Walk-up + preorder + event enquiry.
+What am I committing to, and what happens if my situation differs from the standard route?
 
 ---
 
-# Pattern Outcomes After Franklin Participation Comparison
+## Dishoom Covent Garden
 
-## Very Strongly Supported
+### Model
 
-### The Guest as Participant
+Walk-In-First + Reservation / Group Alternatives
 
-Retain Emerging.
+### Primary Characteristics
 
----
+- walk-in as primary route
+- reservation for specific cases
+- group route
+- relatively low standard commitment
 
-## Strongly Supported
+### Primary Guest Question
 
-### Participation Throughout the Journey
-
-Retain Emerging.
-
----
-
-### Commitment Without Pressure
-
-Retain Emerging.
+Do I need to book, or can I simply arrive?
 
 ---
 
-### Escalating Participation Complexity
+## Franklin Barbecue
 
-Retain Emerging.
+### Model
 
----
+Queue-First Access + Advance Certainty Alternative
 
-## Supported With Boundary Refinement
+### Primary Characteristics
 
-### Multi-Intent Hospitality
+- walk-up
+- finite product
+- queue participation
+- preorder alternative
+- private-event route
 
-Retain Emerging.
+### Primary Guest Question
 
-Refine against artificial routing.
-
----
-
-## Strongly Supported With Major Definition Pressure
-
-### Human Assistance When Complexity Requires It
-
-Retain Emerging.
-
-Naming / trigger review required.
+Do I accept uncertain physical access, or do I choose a more certain advance route?
 
 ---
 
-## Recommended Candidate Promotion
+## Alinea
 
-### Walk-In as First-Class Participation
+### Model
 
-Below Candidate
+Prepaid Experience-Specific Access + Structured Exception Handling
 
-→
+### Primary Characteristics
 
-Candidate
+- experience selection
+- prepayment
+- confirmed access after payment
+- defined policies
+- structured self-service
+- human support for exceptions
+- low post-commitment flexibility
 
-during final Franklin reconciliation.
+### Primary Guest Question
 
----
+Which experience fits me, what must I commit to, and when is my participation actually confirmed?
 
-# Below-Candidate Participation Directions
-
-## Participation Fluidity
-
-Strengthened.
-
----
-
-## Availability Without Exclusivity
-
-Strongly strengthened.
+This model remains provisional until full reconciliation.
 
 ---
 
-## Participation Before Reservation
+# First Cross-Restaurant Finding
 
-Real but likely contained within broader participation architecture.
+## Reservation Is Too Narrow a Concept
 
----
+The nine-case set now includes hospitality where:
 
-## Time as Commitment
+reservation
 
-Mechanism inside Commitment Without Pressure.
+is only one possible participation mechanism.
 
----
+Other mechanisms include:
 
-## Queue as Participation
+- walking in
+- waiting
+- preordering
+- joining a waitlist
+- securing a prepaid experience
+- submitting an enquiry
+- obtaining human confirmation
+- coordinating an event
 
-Observable.
+The stronger abstraction remains:
 
-Remain below Candidate.
+## Participation Architecture
 
----
+not:
 
-## Certainty as a Routing Variable
-
-Strong direction.
-
----
-
-## Outcome Uncertainty
-
-Strong Franklin contribution.
-
----
-
-## Physical Flow Assistance
-
-Strong Franklin contribution.
+Reservation Design.
 
 ---
 
-# Major Participation Tensions
+# Participation Throughout the Journey
 
-## Reservation vs Participation
+## Current Status
 
-Core KHDS shift.
+Emerging
 
----
+## Current Confidence
 
-## Walk-In vs Reservation
+High
 
-Different participation modes.
+### Evidence Across Set
 
-Not necessarily opposites.
+Strong and highly diverse.
 
----
+#### Ankole
 
-## Spontaneity vs Certainty
+Participation route is persistently visible.
 
-Dishoom + Franklin.
+#### Cultiva
 
----
+Booking is integrated into story.
 
-## Access vs Secured Access
+#### Talisman
 
-Central.
+Participation remains human-confirmed.
 
----
+#### Mawimbi
 
-## Commitment vs Flexibility
+Multiple routes remain visible.
 
-FYN + Dishoom + Franklin.
+#### Bistro Lolo
 
----
+Low-friction participation fits casual intent.
 
-## Time vs Money
+#### FYN
 
-Franklin.
+Commitment and exception rules remain important.
 
----
+#### Dishoom
 
-## Simplicity vs Uncertainty
+Participation route depends on guest context.
 
-Franklin.
+#### Franklin
 
----
+Guest chooses between uncertain immediate access and more certain advance access.
 
-## Self-Service vs Human Assistance
+#### Alinea
 
-Cross-case.
+Participation remains legible across:
 
----
+experience choice
 
-## Automation vs Coordination
+payment
 
-Where should humans appear?
+policy
 
----
+confirmation
 
-## Product Access vs Space Access
+exception handling.
 
-Franklin.
+### Post-Alinea Conclusion
 
----
+The pattern is stronger than:
 
-## Open Access vs Finite Capacity
+reservation visibility.
 
-Franklin.
+### Refined Interpretation
 
----
+> **Hospitality participation should remain legible across the guest journey so the guest can understand how to enter, secure, modify, or escalate participation where relevant.**
 
-## Digital Optimisation vs Walk-In Preservation
+### Status Recommendation
 
-Dishoom + Franklin.
+Retain:
 
----
+Emerging
 
-## Route Complexity vs Outcome Complexity
+### Confidence
 
-Franklin.
-
----
-
-# Contradiction Matrix
-
-## Participation Throughout the Journey
-
-Franklin Outcome:
-
-Strongly Supported.
+High
 
 ---
 
-## Multi-Intent Hospitality
+# Multi-Intent Hospitality
 
-Franklin Outcome:
+## Current Status
 
-Supported With Boundary Pressure.
+Emerging
 
----
+## Current Confidence
 
-## Commitment Without Pressure
+High
 
-Franklin Outcome:
+### Strong Evidence
 
-Strongly Supported.
+- Mawimbi
+- Dishoom
+- Franklin
+- Alinea
 
----
+### Supporting Evidence
 
-## Escalating Participation Complexity
+- Bistro Lolo
+- FYN
 
-Franklin Outcome:
+### Alinea Contribution
 
-Strongly Supported.
+Alinea demonstrates:
 
----
+multiple materially different experience types
 
-## Human Assistance When Complexity Requires It
+without:
 
-Franklin Outcome:
+continuous flexibility after selection.
 
-Strongly Supported + Definition Pressure.
+### Post-Alinea Boundary
 
----
+Multi-Intent Hospitality means:
 
-## The Guest as Participant
+multiple meaningful guest intents deserve:
 
-Franklin Outcome:
+appropriate routes.
 
-Very Strongly Supported.
+It does not mean:
 
----
+the guest should retain maximum freedom after choosing a route.
 
-## Walk-In as First-Class Participation
+### Current Definition
 
-Franklin Outcome:
+> Hospitality systems should recognise materially different guest intents and provide proportionate participation routes without manufacturing unnecessary complexity.
 
-Very Strongly Supported.
+### Status Recommendation
 
-Candidate promotion recommended.
+Retain:
 
----
+Emerging
 
-## Participation Fluidity
+### Confidence
 
-Franklin Outcome:
-
-Strengthened.
-
----
-
-## Availability Without Exclusivity
-
-Franklin Outcome:
-
-Strongly Strengthened.
+High
 
 ---
 
-## Time as Commitment
+# Commitment Without Pressure
 
-Franklin Outcome:
+## Current Status
 
-Strongly Observable.
+Emerging
 
----
+## Current Confidence
 
-## Queue as Participation
+High
 
-Franklin Outcome:
+### Commitment Range Across Set
 
-Strongly Observable.
+#### Bistro Lolo
 
----
+Low formal commitment.
 
-# Geographic and Model Transferability
+#### Dishoom
 
-If fully reconciled, Franklin would add:
+Low to moderate.
 
-United States
+#### Franklin
 
-and
+Planning, time, quantity, and financial commitment depending on route.
 
-counter-service destination hospitality
+#### FYN
 
-to the current participation research.
+Financial, policy, timing, and behavioural commitment.
 
-Participation patterns would then span:
+#### Alinea
 
-- conventional reservation dining
-- premium destination dining
-- all-day neighbourhood hospitality
-- high-commitment fine dining
-- high-volume walk-in hospitality
-- queue-first counter-service hospitality
+Financial, timing, policy, compatibility, and experience-selection commitment.
 
-### Patterns Strengthened Across Models
+### Cross-Restaurant Conclusion
 
-- Participation Throughout the Journey
-- Multi-Intent Hospitality
-- Commitment Without Pressure
-- Escalating Participation Complexity
-- Human Assistance When Complexity Requires It
-- The Guest as Participant
+Commitment is:
 
-### New Candidate Recommendation
+multidimensional.
 
-- Walk-In as First-Class Participation
+### Current Commitment Dimensions
 
----
-
-# Commercial Opportunity Implications
-
-These remain separate from pattern maturity.
-
----
-
-# Adaptive Participation Infrastructure
-
-The strongest broader opportunity umbrella is now:
-
-`Adaptive Participation Infrastructure`
-
-Possible model:
-
-Guest Intent
-
-+
-
-Desired Certainty
-
-+
-
-Resource Needed
-
-+
-
-Complexity
-
-↓
-
-Best Participation Route
-
-Possible routes:
-
-- walk-in
-- reservation
-- preorder
-- group booking
-- event enquiry
-- human coordination
-
----
-
-# Certainty-Based Routing
-
-Possible guest question:
-
-> What are you trying to secure?
-
-Possible answers:
-
-- table
-- product
+- financial
+- planning
 - time
-- event
-- group capacity
+- quantity
+- coordination
+- behavioural
+- experience-specific
+- compatibility-related
 
-Then:
+### Alinea Contribution
 
-> How much certainty do you need?
+The strongest current stress test.
 
-↓
+High commitment does not by itself prove:
 
-appropriate route.
+pressure.
 
----
+### Current Definition
 
-# Walk-In Preservation Layer
+> Hospitality may require different levels of commitment when those requirements are relevant to the experience or operational consequence, provided they are proportionate, visible, understandable, and non-manipulative.
 
-Useful for businesses where:
+### Status Recommendation
 
-walk-in is commercially or culturally important.
+Retain:
 
-Possible features:
+Emerging
 
-- walk-in guidance
-- current expectations
-- availability communication
-- queue information where operational data exists
-- alternate route when needed
+### Confidence
 
-### Important Rule
-
-Do not force walk-in-first businesses into:
-
-reservation-only logic.
+High
 
 ---
 
-# Product Access Router
+# Escalating Participation Complexity
 
-Franklin introduces:
+## Current Status
 
-product
+Emerging
 
-as a participation resource.
+## Current Confidence
 
-Possible system:
+High
 
-Need Food Today
+### Previous Interpretation
 
-↓
+Participation complexity increases when:
 
-Walk-Up
+- party size grows
+- coordination increases
+- exception handling increases
+- occasion changes
+- commitment increases
 
-Need Guaranteed Quantity Later
+### Alinea Contribution
 
-↓
+Alinea reveals an important correction.
 
-Preorder
+Escalation does not require:
 
-Need Coordinated Event
+a simple standard route.
 
-↓
+A standard route may already be:
 
-Human Enquiry
+highly structured.
 
----
+### Cross-Restaurant Models
 
-# Human Escalation Logic
+#### Dishoom
 
-Possible model:
-
-Predictable
-
-↓
-
-Self-Service
-
-Uncertain
-
-or
-
-Complex
-
-or
-
-Physically Ambiguous
+Walk-in
 
 ↓
 
-Human Assistance
+reservation
 
-This is potentially stronger than:
+↓
 
-complexity only.
+group complexity
 
----
-
-# Availability Communication Layer
-
-Possible availability categories:
-
-- tables
-- product
-- times
-- event capacity
-- group limits
-
-The system should display:
-
-the availability that affects:
-
-guest success.
-
----
-
-# Evidence Limitations
-
-This comparison can establish:
-
-- public participation routes
-- reservation structures
-- preorder rules
-- group routing
-- event enquiry paths
-- visible commitment rules
-- line participation
-- human-assistance touchpoints
-
-It cannot establish:
-
-- queue abandonment
-- reservation conversion
-- no-show rate
-- guest satisfaction
-- operational efficiency
-- profitability
-- reasons for capacity limits
-- why a restaurant preserves walk-ins
-- how often human support is required
-- whether advance commitment improves revenue
-- CRM ownership
-- customer-data ownership
-
-Those require:
-
-- operational evidence
-- staff interviews
-- analytics
-- guest research
-- direct observation
-
----
-
-# Comparison Outcome
-
-Franklin strongly confirms the post-Dishoom shift to:
-
-`Participation Architecture`.
-
-The reason is simple.
-
-The normal Franklin guest does not need:
-
-a reservation.
-
-They need:
-
-a valid route into the experience.
-
-The preorder guest does not need:
-
-a table.
-
-They need:
-
-product certainty.
-
-The event guest does not need:
-
-a standard checkout.
-
-They need:
-
-coordination.
-
-That means the guest journey should begin with:
-
-what the guest is trying to secure.
-
-Franklin also strengthens:
-
-`Escalating Participation Complexity`.
-
-The escalation is clear:
+#### Franklin
 
 walk-up
 
@@ -2604,130 +569,1262 @@ preorder
 
 ↓
 
-private event.
+private event
 
-But Franklin complicates:
+#### FYN
 
-`Human Assistance When Complexity Requires It`.
+standard reservation
 
-Human support appears:
+↓
 
-both
+exception / special requirement
 
-at higher complexity
+#### Alinea
 
-and
+structured prepaid experience
 
-inside the standard physical journey.
+↓
 
-That means the current name may be too narrow.
+experience-specific accommodation
 
-The deeper trigger may be:
+↓
 
-guest need for guidance
+exception
 
-rather than:
+↓
 
-complexity alone.
+human coordination
 
-This should receive a serious governance review after story comparison.
+↓
 
-The most important maturity change from this file is:
+bespoke participation
 
-`Walk-In as First-Class Participation`.
+### Refined Interpretation
 
-Dishoom established it.
+> **Participation complexity escalates when the guest need becomes less standard, less predictable, more coordinated, or more consequential than the normal route can handle.**
 
-Franklin confirms it through a materially different operating model.
+### Important Change
 
-Bistro Lolo adds supporting evidence.
+This definition now introduces:
 
-The direction is now sufficiently repeated and distinct from the broader participation patterns to justify:
+predictability
 
-Candidate promotion.
+not merely:
 
-Franklin also gives KHDS two highly useful systems distinctions:
+complexity.
 
-## Route Complexity
+### Status Recommendation
 
-versus
+Retain:
 
-## Outcome Certainty
+Emerging
 
-and
+### Confidence
 
-## Space Access
-
-versus
-
-## Product Access.
-
-Those distinctions make the Participation Architecture model substantially stronger.
+High
 
 ---
 
-# Provisional Participation Governance Position
+# Human Assistance When Complexity Requires It
 
-After the Franklin reservation / participation comparison:
+## Current Status
 
-## Recommended Promotion
+Emerging
 
-### Walk-In as First-Class Participation
+## Current Confidence
 
-Below Candidate
+Medium-High
 
-→
+## Current Governance
+
+Naming Review
+
+This is the most important participation governance question after Alinea.
+
+---
+
+# Previous Evidence
+
+## Talisman
+
+Human confirmation is:
+
+core to standard participation.
+
+---
+
+## Mawimbi
+
+Multiple routes create:
+
+coordination pressure.
+
+---
+
+## FYN
+
+Human assistance becomes valuable around:
+
+exceptions
+
+and
+
+high-commitment complexity.
+
+---
+
+## Dishoom
+
+Groups and unusual participation needs increase:
+
+human coordination.
+
+---
+
+## Franklin
+
+Human assistance appears around:
+
+physical flow
+
+and
+
+participation in the line.
+
+---
+
+# Alinea Challenge
+
+Alinea handles substantial standard complexity through:
+
+structured self-service.
+
+Predictable topics include:
+
+- experience selection
+- payment
+- rescheduling policy
+- transferability
+- timing
+- dietary compatibility
+- service charge
+- confirmation states
+
+Human assistance remains useful where:
+
+- coordination is needed
+- exceptions arise
+- uncertainty remains
+- real-world disruption occurs
+- bespoke handling is required
+
+### Current Conclusion
+
+The trigger is increasingly not:
+
+complexity.
+
+The stronger variable is:
+
+## Structured Predictability.
+
+---
+
+# Complexity vs Predictability
+
+This is now one of the strongest KHDS participation distinctions.
+
+---
+
+## High Complexity + High Predictability
+
+Can often remain:
+
+structured self-service.
+
+Strongest example:
+
+Alinea.
+
+---
+
+## Low Complexity + Low Predictability
+
+May still require:
+
+human assistance.
+
+Example:
+
+Franklin physical flow.
+
+---
+
+## High Complexity + Low Predictability
+
+Often increases:
+
+human coordination.
+
+Examples:
+
+- private events
+- bespoke groups
+- unusual exceptions
+
+---
+
+## Low Complexity + High Predictability
+
+Strongest fit for:
+
+simple self-service.
+
+### Current Conclusion
+
+Complexity alone is:
+
+not sufficient
+
+to determine:
+
+human-support need.
+
+---
+
+# Rename Review
+
+The current name:
+
+`Human Assistance When Complexity Requires It`
+
+is becoming less precise.
+
+Possible replacements include:
+
+## Human Assistance Where Structured Self-Service Is Insufficient
+
+or
+
+## Human Assistance Where Predictability Ends
+
+The first is:
+
+more operational.
+
+The second is:
+
+more conceptually elegant
+
+but potentially too absolute.
+
+### Recommended Final Name
+
+> **Human Assistance Where Structured Self-Service Is Insufficient**
+
+### Proposed Definition
+
+> **Hospitality systems should use structured self-service where guest needs, rules, and routes can be handled predictably, while preserving human assistance where uncertainty, coordination, judgment, physical flow, or exceptions exceed what the structure can handle well.**
+
+### Why This Is Stronger
+
+It survives:
+
+- Talisman
+- FYN
+- Dishoom
+- Franklin
+- Alinea
+
+without making:
+
+complexity
+
+the main trigger.
+
+### Status Recommendation
+
+Retain:
+
+Emerging
+
+### Confidence Recommendation
+
+Increase:
+
+Medium-High
+
+↓
+
+High
+
+only if final governance accepts:
+
+the rename and broader evidence base.
+
+### Current Comparison Recommendation
+
+Rename during:
+
+final governance reconciliation.
+
+No count change.
+
+---
+
+# Structured Self-Service
+
+## Current Status
+
+Observed Research Direction
+
+### Strongest Evidence
+
+Alinea.
+
+### Supporting Evidence
+
+- FYN
+- Dishoom
+- Franklin
+
+### Working Definition
+
+> A hospitality system may absorb substantial complexity digitally when the routes, rules, decisions, and exceptions are predictable enough to structure clearly.
+
+### Post-Alinea Conclusion
+
+This is:
+
+highly valuable.
+
+But it appears to be:
+
+the inverse side
+
+of
+
+Human Assistance Where Structured Self-Service Is Insufficient.
+
+### Governance Recommendation
+
+Consolidate.
+
+Do not promote as:
+
+separate Candidate.
+
+---
+
+# Predictability as Automation Variable
+
+## Current Status
+
+Observed Research Direction
+
+### Evidence
+
+Strong across:
+
+- FYN
+- Dishoom
+- Franklin
+- Alinea
+
+### Working Definition
+
+> The suitability of self-service depends significantly on whether the guest need can be predictably structured, not merely on how complex the need appears.
+
+### Governance Recommendation
+
+Treat as:
+
+Participation Architecture variable.
+
+Not pattern.
+
+### Importance
+
+Very High.
+
+---
+
+# Walk-In as First-Class Participation
+
+## Current Status
 
 Candidate
 
-Pending final Franklin governance reconciliation.
+## Current Confidence
+
+High
+
+### Strong Positive Evidence
+
+- Dishoom
+- Franklin
+
+### Supporting Evidence
+
+- Bistro Lolo
+
+### Alinea Outcome
+
+Not Applicable / Strong Boundary Evidence
+
+### FYN
+
+Contextual / limited.
+
+### Current Conclusion
+
+Alinea strengthens:
+
+the boundary.
+
+### Refined Definition
+
+> **A restaurant may intentionally support spontaneous physical arrival as a primary participation route when that mode genuinely fits the hospitality model, rather than treating walk-in access as leftover capacity, reservation failure, or an unstructured exception.**
+
+### Important Boundary
+
+Do not manufacture:
+
+walk-in access
+
+where:
+
+- preparation
+- timing
+- capacity
+- experience integrity
+- prepayment
+
+require:
+
+secured participation.
+
+### Status Recommendation
+
+Retain:
+
+Candidate
+
+### Confidence
+
+High
 
 ---
 
-## Retain Emerging
+# The Guest as Participant
 
-- Participation Throughout the Journey
-- Multi-Intent Hospitality
-- Commitment Without Pressure
-- Escalating Participation Complexity
-- Human Assistance When Complexity Requires It
-- The Guest as Participant
+## Current Status
+
+Emerging
+
+## Current Confidence
+
+High
+
+### Participation Forms Across Set
+
+- story-led
+- reservation-led
+- social
+- walk-in
+- queue-based
+- preorder
+- high-commitment
+- choreographed
+- group
+- event
+
+### Alinea Contribution
+
+Participation can be:
+
+highly structured
+
+without becoming:
+
+passive.
+
+### Important Boundary
+
+Participation does not mean:
+
+maximum agency.
+
+### Status Recommendation
+
+Retain:
+
+Emerging
+
+### Confidence
+
+High
 
 ---
 
-## Major Definition / Naming Review
+# Certainty as Routing Variable
 
-### Human Assistance When Complexity Requires It
+## Current Status
 
-Current trigger may be too narrow.
+Observed Research Direction
+
+### Strong Evidence
+
+Franklin + Alinea.
+
+### Franklin
+
+Lower commitment
+
+can produce:
+
+lower certainty.
+
+Advance preorder increases:
+
+certainty.
+
+### Alinea
+
+Higher commitment produces:
+
+confirmed future access.
+
+### Current Interpretation
+
+Guest preference for:
+
+certainty
+
+may legitimately affect:
+
+route
+
+and
+
+commitment.
+
+### Governance Recommendation
+
+Treat as:
+
+Participation Architecture variable.
+
+Not pattern.
 
 ---
 
-## Definition Refinement
+# Route Complexity ≠ Outcome Certainty
 
-### Multi-Intent Hospitality
+The Franklin / Alinea contrast makes this:
 
-Clarify:
+very strong.
 
-do not manufacture unnecessary routes.
+## Franklin Walk-Up
+
+Simple route.
+
+Uncertain access.
+
+## Alinea
+
+More complex route.
+
+Higher certainty after confirmation.
+
+### Current Conclusion
+
+Never use:
+
+route simplicity
+
+as a proxy for:
+
+outcome certainty.
+
+This should become:
+
+canonical Participation Architecture knowledge
+
+during final reconciliation.
+
+Not a separate pattern.
 
 ---
 
-## Retain Below Candidate
+# Access vs Secured Access
 
-- Participation Fluidity
-- Availability Without Exclusivity
-- Time as Commitment
-- Queue as Participation
-- Certainty as a Routing Variable
-- Outcome Uncertainty
-- Physical Flow Assistance
+The distinction is now strongly supported.
+
+## Access
+
+Ability to attempt:
+
+participation.
+
+## Secured Access
+
+Future participation has been:
+
+confirmed.
+
+### Examples
+
+#### Dishoom Walk-In
+
+Access.
+
+#### Franklin Walk-Up
+
+Access.
+
+#### Franklin Preorder
+
+Secured product access.
+
+#### FYN Reservation
+
+Secured experience access.
+
+#### Alinea
+
+Prepaid secured experience access.
+
+### Governance Recommendation
+
+Preserve as:
+
+architecture distinction.
+
+Not pattern.
 
 ---
 
-# Current Participation Model
+# Product Access vs Space Access vs Experience Access
 
-The strongest provisional model is:
+The research set now makes:
+
+resource type
+
+important.
+
+### Product Access
+
+Franklin preorder.
+
+### Space / Table Access
+
+Traditional reservation models.
+
+### Event Capacity
+
+Private events.
+
+### Experience Access
+
+Alinea.
+
+### Group Coordination
+
+Dishoom group route.
+
+### Current Participation Architecture Variable
+
+## Resource Needed
+
+Possible resources:
+
+- table
+- product
+- time
+- space
+- experience
+- event capacity
+- group coordination
+
+### Governance Recommendation
+
+Expand canonical:
+
+Resource Needed
+
+during final reconciliation.
+
+---
+
+# Compatibility Before Commitment
+
+## Current Status
+
+Observed Research Direction
+
+### Strongest Evidence
+
+Alinea.
+
+### Supporting Logic
+
+FYN.
+
+### Working Definition
+
+> Where guest needs materially affect fit with a hospitality experience, compatibility should be understandable before consequential commitment.
+
+### Possible Variables
+
+- dietary
+- accessibility
+- age
+- group format
+- time
+- experience restrictions
+
+### Current Interpretation
+
+Compatibility can:
+
+change the route.
+
+### Governance Recommendation
+
+Add:
+
+Compatibility
+
+as a Participation Architecture variable.
+
+Do not promote:
+
+standalone pattern yet.
+
+---
+
+# Flexibility Before vs After Commitment
+
+## Current Status
+
+Observed Research Direction
+
+### Strongest Evidence
+
+Alinea.
+
+### Supporting Evidence
+
+FYN.
+
+### Current Distinction
+
+## Pre-Commitment Choice
+
+What can I choose?
+
+## Post-Commitment Flexibility
+
+What can I change?
+
+### Current Conclusion
+
+Guest freedom should not be measured as:
+
+one dimension.
+
+### Governance Recommendation
+
+Treat as:
+
+architecture variable.
+
+---
+
+# Flexibility Has Multiple Forms
+
+Alinea makes this especially clear.
+
+Possible forms include:
+
+- cancellation
+- refund
+- rescheduling
+- transfer
+- modification
+- accommodation
+- route switching
+
+### Cross-Restaurant Implication
+
+A system can be:
+
+restrictive in one dimension
+
+and
+
+flexible in another.
+
+### Governance Recommendation
+
+Preserve as:
+
+architecture knowledge.
+
+Not pattern.
+
+---
+
+# Time as Commitment
+
+## Current Status
+
+Mechanism
+
+### Strong Evidence
+
+- FYN
+- Franklin
+- Alinea
+
+### Time Can Mean
+
+- planning horizon
+- duration
+- punctuality
+- release timing
+- pickup window
+- reservation time
+
+### Current Conclusion
+
+Time belongs inside:
+
+Commitment Without Pressure
+
+and
+
+Participation Architecture.
+
+Do not promote independently.
+
+---
+
+# Time-Bound Participation
+
+## Current Status
+
+Observed Research Direction
+
+### Strong Evidence
+
+Alinea.
+
+### Supporting Evidence
+
+FYN.
+
+### Current Interpretation
+
+Some hospitality experiences make:
+
+timing
+
+part of:
+
+the product structure.
+
+### Governance Recommendation
+
+Remain:
+
+below Candidate.
+
+Treat as:
+
+participation mechanism.
+
+---
+
+# Policy as Participation Architecture
+
+## Current Status
+
+Observed Research Direction
+
+### Strongest Evidence
+
+Alinea.
+
+### Supporting Evidence
+
+FYN.
+
+### Current Interpretation
+
+Policy becomes participation architecture when it materially determines:
+
+- access
+- confirmation
+- change
+- compatibility
+- timing
+- commitment
+
+### Governance Recommendation
+
+Retain as:
+
+research direction.
+
+Likely mechanism inside:
+
+Participation Throughout the Journey
+
+and
+
+Commitment Without Pressure.
+
+---
+
+# Release-Based Availability
+
+## Current Status
+
+Observed Research Direction
+
+### Strongest Evidence
+
+Alinea.
+
+### Supporting Logic
+
+Finite-release models beyond current set may exist.
+
+### Current Interpretation
+
+Participation can begin:
+
+before availability exists.
+
+### Working Flow
+
+Awareness
+
+↓
+
+Release Timing
+
+↓
+
+Availability
+
+↓
+
+Selection
+
+↓
+
+Commitment
+
+### Governance Recommendation
+
+Remain:
+
+research direction.
+
+Current evidence too narrow for promotion.
+
+---
+
+# Participation State Clarity
+
+## Current Status
+
+Observed Research Direction
+
+### Alinea States
+
+- interest
+- waitlist
+- available
+- selected
+- paid
+- confirmed
+
+### Supporting Logic
+
+Franklin also distinguishes:
+
+- potential access
+- preorder
+- secured pickup
+
+### Current Interpretation
+
+Participation may contain:
+
+meaningfully different states
+
+that should not be conflated.
+
+### Governance Recommendation
+
+Retain:
+
+research direction.
+
+### Promotion Watch
+
+Medium.
+
+Need broader evidence.
+
+---
+
+# Waitlist Is Not Confirmation
+
+Alinea makes this explicit.
+
+### Current Distinction
+
+## Waitlist
+
+Potential future participation.
+
+## Confirmed Reservation
+
+Secured participation.
+
+### Current Rule
+
+Participation systems should not:
+
+visually or verbally blur:
+
+potential access
+
+and
+
+confirmed access.
+
+This is likely part of:
+
+Participation State Clarity.
+
+---
+
+# Participation Before Reservation
+
+This older direction should now be treated carefully.
+
+### Previous Idea
+
+Hospitality begins:
+
+before reservation.
+
+### Current Problem
+
+The broader research already captures this through:
+
+`Participation Throughout the Journey`.
+
+### Governance Recommendation
+
+Consolidated.
+
+Do not track as:
+
+active promotion direction.
+
+### Status
+
+Historical / absorbed into:
+
+Participation Architecture.
+
+This corrects earlier documentation drift.
+
+---
+
+# Reservation vs Prepaid Experience
+
+Alinea makes this tension more visible.
+
+### Traditional Reservation
+
+Secure:
+
+table or time.
+
+### Prepaid Experience
+
+Secure:
+
+a specific experience
+
+through advance payment.
+
+### Current Rule
+
+Use:
+
+restaurant’s public terminology.
+
+If the system calls it:
+
+prepaid reservation,
+
+do not prematurely relabel:
+
+ticket.
+
+### Research Direction
+
+`Prepaid Experience Participation`
+
+remains:
+
+below Candidate.
+
+---
+
+# Participation Fluidity
+
+## Current Status
+
+Below Candidate
+
+### Current Interpretation
+
+Some systems allow:
+
+route switching
+
+and
+
+low-friction changes.
+
+Others intentionally:
+
+do not.
+
+Alinea provides:
+
+strong boundary evidence.
+
+### Governance Recommendation
+
+Remain:
+
+below Candidate.
+
+Not universal.
+
+---
+
+# Availability Without Exclusivity
+
+## Current Status
+
+Below Candidate
+
+### Current Problem
+
+Availability constraints can exist without proving:
+
+exclusivity strategy.
+
+### Franklin + Alinea
+
+Both demonstrate:
+
+capacity and availability structures.
+
+Neither should be used to infer:
+
+manufactured scarcity
+
+without evidence.
+
+### Governance Recommendation
+
+Remain:
+
+below Candidate.
+
+---
+
+# Physical Flow Assistance
+
+## Current Status
+
+Observed Research Direction
+
+### Strongest Evidence
+
+Franklin.
+
+### Alinea Outcome
+
+Supporting conceptual contrast.
+
+Alinea’s human-assistance needs are:
+
+less physically flow-oriented
+
+and more:
+
+exception / coordination-oriented.
+
+### Current Interpretation
+
+Physical flow is:
+
+one human-support trigger
+
+inside the broader pattern.
+
+### Governance Recommendation
+
+Consolidate into renamed:
+
+Human Assistance Where Structured Self-Service Is Insufficient.
+
+---
+
+# Human Support Triggers
+
+After nine restaurants, current triggers include:
+
+- uncertainty
+- exception handling
+- judgment
+- coordination
+- group complexity
+- bespoke request
+- physical flow
+- unresolved compatibility
+- disruption
+- ambiguous participation state
+
+### Current Conclusion
+
+Human assistance is best understood as:
+
+a fallback and support layer
+
+where:
+
+structured participation stops being sufficient.
+
+---
+
+# Participation Architecture — Post-Alinea Model
+
+## Previous Post-Franklin Model
 
 Guest Intent
 
@@ -2763,86 +1860,1550 @@ Human Assistance Where Needed
 
 Participation
 
-Where:
+---
+
+# Alinea-Refined Model
+
+Guest Intent
+
++
+
+Desired Certainty
+
++
 
 Resource Needed
 
-may include:
++
 
-- table
-- product
-- time
-- space
-- event capacity
-- group coordination
+Compatibility
 
-This is materially stronger than:
++
 
-reservation funnel.
+Predictability
+
+↓
+
+Appropriate Participation Route
+
+↓
+
+Relevant Commitment
+
+↓
+
+Structured Self-Service Where Predictable
+
+↓
+
+Human Assistance Where Structured Self-Service Is Insufficient
+
+↓
+
+Participation State
+
+↓
+
+Confirmed or Ongoing Participation
+
+### Important Question
+
+Does:
+
+Complexity
+
+disappear?
+
+Not entirely.
+
+Complexity can still affect:
+
+predictability
+
+coordination
+
+and
+
+resource need.
+
+But it should no longer stand as:
+
+the dominant routing variable.
+
+### Governance Recommendation
+
+Adopt this refined model during:
+
+final reconciliation.
 
 ---
 
-# Final Participation Statement
+# Complexity Becomes Secondary
 
-FYN taught KHDS that:
+The nine-case set suggests:
 
-participation may require commitment.
+Complexity
 
-Dishoom taught KHDS that:
+is better treated as:
 
-reservation is only one participation route.
+a contributor
 
-Franklin now teaches:
+rather than:
 
-> **the guest may be trying to secure something other than a table.**
+the primary self-service boundary.
 
-That changes the architecture.
+Possible relationship:
 
-The question is no longer:
+Complexity
 
-> How do we get this guest into the reservation system?
++
+
+Novelty
+
++
+
+Coordination
+
++
+
+Exception
+
+↓
+
+Predictability
+
+↓
+
+Self-Service or Human Assistance
+
+This is:
+
+architecture-level knowledge.
+
+---
+
+# Participation Is Not Reservation
+
+This is now extremely well supported.
+
+Dishoom:
+
+walk-in.
+
+Franklin:
+
+queue + preorder.
+
+Alinea:
+
+prepaid experience.
+
+Talisman:
+
+human confirmation.
+
+Mawimbi:
+
+multi-channel event participation.
+
+### Current Rule
+
+KHDS should design:
+
+participation systems.
+
+Reservation is:
+
+one implementation.
+
+---
+
+# Participation Is Not Maximum Convenience
+
+Alinea and FYN make this explicit.
+
+Relevant:
+
+- rules
+- timing
+- payment
+- constraints
+
+may be legitimate.
+
+The correct goal is not:
+
+remove every commitment.
 
 It is:
 
-> **What is this guest trying to secure, how much certainty do they need, and what is the simplest appropriate route?**
+remove:
 
-For one guest:
+unnecessary ambiguity and effort
 
-walk in.
+while keeping:
 
-For another:
-
-reserve.
-
-For another:
-
-preorder.
-
-For another:
-
-speak to a human.
-
-That is:
-
-Participation Architecture.
-
-And Franklin gives us enough independent evidence to recommend that:
-
-`Walk-In as First-Class Participation`
-
-graduate to Candidate during reconciliation.
-
-The final comparison now needs to deal with the largest remaining Franklin contradiction:
-
-`World Before Biography`.
+relevant structure.
 
 ---
 
-## Research Status
+# Participation Is Not Maximum Flexibility
 
-Franklin Reservation / Participation Comparison Complete
+Dishoom demonstrates:
 
-Franklin Global Reconciliation Pending
+high flexibility.
+
+Alinea demonstrates:
+
+lower flexibility.
+
+Both can remain:
+
+coherent.
+
+### Current Rule
+
+Optimise:
+
+appropriate flexibility
+
+not:
+
+maximum flexibility.
+
+---
+
+# Participation Is Not Maximum Automation
+
+Alinea strongly supports:
+
+structured self-service.
+
+Talisman demonstrates:
+
+a human-led model.
+
+Franklin demonstrates:
+
+human physical-flow support.
+
+### Current Rule
+
+Use automation:
+
+where structure is predictable.
+
+Use people:
+
+where structure becomes insufficient.
+
+---
+
+# Participation Is Not Maximum Human Contact
+
+The opposite error is also unsupported.
+
+High-value hospitality does not automatically require:
+
+manual handling.
+
+Alinea demonstrates:
+
+substantial digital self-service.
+
+### Current Conclusion
+
+Human involvement should follow:
+
+need
+
+not:
+
+price point.
+
+---
+
+# Participation Is Not One Channel
+
+The set includes:
+
+- websites
+- booking systems
+- walk-ins
+- queues
+- preorder
+- enquiries
+- direct contact
+- human confirmation
+
+### Current Conclusion
+
+Channel count is:
+
+not quality.
+
+The question is:
+
+whether each meaningful intent has:
+
+an appropriate route.
+
+---
+
+# Participation Is Not Automatically Direct Ownership
+
+This remains important for:
+
+Own the Guest Relationship.
+
+### Observable
+
+Website can show:
+
+- branded booking entry point
+- direct enquiry
+- direct confirmation
+- first-party domain routes
+
+### Not Observable
+
+Website alone cannot prove:
+
+- CRM ownership
+- data ownership
+- payment ownership
+- remarketing control
+- customer database ownership
+
+### Governance Position
+
+Own the Guest Relationship remains:
+
+Partially Supported
+
+Medium.
+
+No Alinea participation evidence changes this.
+
+---
+
+# Participation Tensions After Alinea
+
+---
+
+## Complexity vs Predictability
+
+Now central.
+
+---
+
+## Self-Service vs Human Assistance
+
+The dividing line is becoming:
+
+structured sufficiency.
+
+---
+
+## Certainty vs Flexibility
+
+High certainty can coexist with:
+
+low flexibility.
+
+---
+
+## Choice Before Commitment vs Flexibility After Commitment
+
+Alinea makes this explicit.
+
+---
+
+## Walk-In vs Secured Access
+
+Both remain valid.
+
+---
+
+## Low Commitment vs High Commitment
+
+Both can remain hospitable.
+
+---
+
+## Reservation vs Experience Purchase
+
+Still unresolved.
+
+---
+
+## Access vs Secured Access
+
+Strongly established.
+
+---
+
+## Product Access vs Experience Access
+
+Franklin versus Alinea.
+
+---
+
+## Policy vs Friction
+
+Policy may be:
+
+relevant structure
+
+or
+
+harmful friction
+
+depending on:
+
+clarity and necessity.
+
+---
+
+## Automation vs Judgment
+
+Predictability determines:
+
+where each fits.
+
+---
+
+## Availability vs Confirmation
+
+Potential access
+
+is not:
+
+secured access.
+
+---
+
+# Contradictions to Preserve
+
+---
+
+## Talisman vs Alinea
+
+Talisman:
+
+human-led confirmation.
+
+Alinea:
+
+structured digital confirmation.
+
+Both can work.
+
+Do not create:
+
+automation doctrine.
+
+---
+
+## Dishoom vs Alinea
+
+Dishoom:
+
+walk-in-first
+
+low commitment
+
+high spontaneity.
+
+Alinea:
+
+prepaid
+
+high commitment
+
+low spontaneity.
+
+Both are:
+
+coherent participation architectures.
+
+---
+
+## Franklin vs Alinea
+
+Franklin:
+
+simple route
+
+lower certainty.
+
+Alinea:
+
+complex route
+
+higher certainty.
+
+This protects:
+
+Route Complexity ≠ Outcome Certainty.
+
+---
+
+## Bistro Lolo vs Alinea
+
+Bistro Lolo:
+
+lightweight planning.
+
+Alinea:
+
+heavy planning.
+
+Both match:
+
+different products.
+
+---
+
+## FYN vs Alinea
+
+Both high commitment.
+
+But Alinea demonstrates:
+
+more standard complexity can still remain:
+
+self-service.
+
+This is important for:
+
+predictability.
+
+---
+
+# Alinea Effect on Official Participation Patterns
+
+---
+
+## Participation Throughout the Journey
+
+### Outcome
+
+Very Strongly Supported
+
+### Governance Recommendation
+
+Retain Emerging / High.
+
+Refine around:
+
+entry
+
+confirmation
+
+modification
+
+and
+
+escalation clarity.
+
+---
+
+## Multi-Intent Hospitality
+
+### Outcome
+
+Strongly Supported
+
+### Governance Recommendation
+
+Retain Emerging / High.
+
+Add boundary:
+
+multiple intents do not imply continuous flexibility.
+
+---
+
+## Commitment Without Pressure
+
+### Outcome
+
+Very Strongly Supported
+
+### Governance Recommendation
+
+Retain Emerging / High.
+
+No maturity change.
+
+---
+
+## Escalating Participation Complexity
+
+### Outcome
+
+Strongly Supported With Definition Pressure
+
+### Governance Recommendation
+
+Retain Emerging / High.
+
+Refine around:
+
+predictability
+
+and
+
+non-standard needs.
+
+---
+
+## Human Assistance When Complexity Requires It
+
+### Outcome
+
+Strongly Supported
+
+but
+
+Current Name No Longer Precise Enough.
+
+### Governance Recommendation
+
+Rename to:
+
+`Human Assistance Where Structured Self-Service Is Insufficient`
+
+Retain:
+
+Emerging
+
+Provisional confidence:
+
+Medium-High
+
+→
+
+High
+
+---
+
+## Walk-In as First-Class Participation
+
+### Outcome
+
+Not Applicable / Strong Boundary Evidence
+
+### Governance Recommendation
+
+Retain Candidate / High.
+
+Boundary strengthens.
+
+---
+
+## The Guest as Participant
+
+### Outcome
+
+Strongly Supported
+
+### Governance Recommendation
+
+Retain Emerging / High.
+
+Add boundary:
+
+participation does not require maximum freedom.
+
+---
+
+# New Participation Directions — Governance Review
+
+---
+
+## Structured Self-Service
+
+Consolidate into:
+
+renamed Human Assistance pattern.
+
+Do not promote separately.
+
+---
+
+## Predictability as Automation Variable
+
+Treat as:
+
+Participation Architecture variable.
+
+---
+
+## Compatibility Before Commitment
+
+Add to:
+
+Participation Architecture.
+
+Do not promote.
+
+---
+
+## Flexibility Before vs After Commitment
+
+Treat as:
+
+architecture variable.
+
+---
+
+## Flexibility Has Multiple Forms
+
+Treat as:
+
+architecture knowledge.
+
+---
+
+## Policy as Participation Architecture
+
+Retain:
+
+Observed Research Direction.
+
+---
+
+## Release-Based Availability
+
+Retain:
+
+Observed Research Direction.
+
+---
+
+## Participation State Clarity
+
+Retain:
+
+Observed Research Direction.
+
+Promotion Watch:
+
+Medium.
+
+---
+
+## Time-Bound Participation
+
+Treat as:
+
+participation mechanism.
+
+---
+
+## Prepaid Experience Participation
+
+Retain:
+
+model-specific research direction.
+
+---
+
+## Participation Before Reservation
+
+Consolidate / historical.
+
+Do not track as:
+
+active watch.
+
+---
+
+# Participation Promotion Review
+
+## Promote
+
+None.
+
+---
+
+## Demote
+
+None.
+
+---
+
+## Rename
+
+Human Assistance When Complexity Requires It
+
+↓
+
+Human Assistance Where Structured Self-Service Is Insufficient
+
+Recommended during final governance.
+
+---
+
+## Provisional Confidence Increase
+
+Renamed Human Assistance pattern:
+
+Medium-High
+
+↓
+
+High
+
+---
+
+## Definition Refinement
+
+Escalating Participation Complexity.
+
+---
+
+## Boundary Refinement
+
+Multi-Intent Hospitality.
+
+---
+
+## Boundary Refinement
+
+Walk-In as First-Class Participation.
+
+---
+
+# Why Human Assistance Should Be Renamed Now
+
+This is the strongest current governance change created by Alinea.
+
+The old title contains an implication:
+
+Complexity
+
+↓
+
+Human Assistance.
+
+The nine-case evidence no longer supports that cleanly.
+
+Alinea demonstrates:
+
+High Complexity
+
++
+
+High Predictability
+
+↓
+
+Structured Self-Service
+
+Franklin demonstrates:
+
+Simple Interaction
+
++
+
+Physical / Situational Uncertainty
+
+↓
+
+Human Assistance
+
+Therefore:
+
+complexity
+
+is not:
+
+the reliable trigger.
+
+The new name:
+
+`Human Assistance Where Structured Self-Service Is Insufficient`
+
+describes the evidence better
+
+without overcommitting to:
+
+one specific reason.
+
+It allows:
+
+- uncertainty
+- physical flow
+- exceptions
+- coordination
+- judgment
+- compatibility
+- bespoke needs
+
+to trigger:
+
+human support.
+
+---
+
+# Why Structured Self-Service Should Not Become a Separate Pattern
+
+Because it is:
+
+the complementary side
+
+of the same system.
+
+We do not need:
+
+Pattern A:
+
+Use structured self-service where predictable.
+
+and
+
+Pattern B:
+
+Use people where self-service fails.
+
+The stronger architecture is:
+
+one decision system.
+
+### Proposed Logic
+
+Can the need be:
+
+reliably structured?
+
+If:
+
+yes
+
+↓
+
+Self-Service
+
+If:
+
+no
+
+↓
+
+Human Assistance
+
+This prevents:
+
+pattern inflation.
+
+---
+
+# Participation State Architecture
+
+Alinea makes state clarity increasingly important.
+
+Possible states include:
+
+Interest
+
+↓
+
+Available
+
+↓
+
+Selected
+
+↓
+
+Pending Commitment
+
+↓
+
+Paid
+
+↓
+
+Confirmed
+
+↓
+
+Modified
+
+↓
+
+Transferred
+
+↓
+
+Completed
+
+Other models may add:
+
+Waitlist
+
+Queue
+
+Preorder
+
+Enquiry
+
+Human Confirmation
+
+### Current Conclusion
+
+Participation state is:
+
+an important architecture layer.
+
+### Governance Recommendation
+
+Track below Candidate.
+
+Need another case before stronger promotion.
+
+---
+
+# Current Participation Architecture
+
+After nine restaurants, the strongest current model becomes:
+
+Guest Intent
+
+↓
+
+Desired Certainty
+
+↓
+
+Resource Needed
+
+↓
+
+Compatibility
+
+↓
+
+How Predictable Is the Need?
+
+↓
+
+Appropriate Participation Route
+
+↓
+
+Relevant Commitment
+
+↓
+
+Structured Self-Service Where Sufficient
+
+↓
+
+Human Assistance Where Insufficient
+
+↓
+
+Participation State
+
+↓
+
+Confirmed / Ongoing Participation
+
+This model is:
+
+stronger than the post-Franklin version.
+
+### Complexity
+
+remains:
+
+supporting variable
+
+rather than:
+
+primary trigger.
+
+---
+
+# Participation Architecture Variables
+
+Current variables now include:
+
+## Intent
+
+Why is the guest participating?
+
+---
+
+## Desired Certainty
+
+How important is guaranteed access?
+
+---
+
+## Resource Needed
+
+What must be secured?
+
+- table
+- product
+- space
+- experience
+- event capacity
+- group coordination
+- time
+
+---
+
+## Compatibility
+
+Does the route fit:
+
+the guest’s needs?
+
+---
+
+## Predictability
+
+Can the need be:
+
+reliably structured?
+
+---
+
+## Commitment
+
+What must the guest provide?
+
+- money
+- time
+- planning
+- quantity
+- coordination
+- behavioural compliance
+
+---
+
+## Participation State
+
+Where is the guest in:
+
+the access process?
+
+---
+
+## Flexibility
+
+What can change:
+
+before
+
+and
+
+after
+
+commitment?
+
+---
+
+# Current Participation Architecture Rule
+
+> **Choose the participation route according to guest intent, desired certainty, resource need, compatibility, and predictability; require only relevant commitment; automate what can be structured clearly; preserve human assistance where the structure becomes insufficient.**
+
+This is:
+
+comparison-stage knowledge.
+
+Do not yet promote to:
+
+KHDS Principle.
+
+---
+
+# Evidence Discipline
+
+Website research can establish:
+
+- public booking routes
+- walk-in instructions
+- reservation policies
+- waitlist states
+- prepayment
+- confirmation language
+- public timing
+- visible exception routes
+- direct contact
+- private-event enquiry
+- compatibility rules
+
+It cannot establish:
+
+- booking conversion
+- no-show rates
+- guest preference
+- operational efficiency
+- CRM ownership
+- actual staffing impact
+- backend automation
+- profitability
+- whether guests feel pressured
+- whether self-service reduces workload
+- actual human-assistance volume
+- demand
+- actual capacity utilisation
+
+Those require:
+
+operational
+
+or
+
+behavioural evidence.
+
+---
+
+# Reservation / Participation Governance Recommendation
+
+## Promote
+
+None.
+
+---
+
+## Demote
+
+None.
+
+---
+
+## Rename
+
+`Human Assistance When Complexity Requires It`
+
+↓
+
+`Human Assistance Where Structured Self-Service Is Insufficient`
+
+---
+
+## Retain Emerging
+
+- Participation Throughout the Journey
+- Multi-Intent Hospitality
+- Commitment Without Pressure
+- Escalating Participation Complexity
+- The Guest as Participant
+- renamed Human Assistance pattern
+
+---
+
+## Retain Candidate
+
+- Walk-In as First-Class Participation
+
+---
+
+## Retain Partially Supported
+
+- Own the Guest Relationship
+
+---
+
+## Provisional Confidence Increase
+
+Renamed Human Assistance pattern:
+
+Medium-High
+
+↓
+
+High
+
+---
+
+## Strong Architecture Variables to Preserve
+
+- Desired Certainty
+- Resource Needed
+- Compatibility
+- Predictability
+- Commitment
+- Participation State
+- Flexibility Before vs After Commitment
+
+---
+
+## Research Directions to Preserve
+
+- Policy as Participation Architecture
+- Participation State Clarity
+- Release-Based Availability
+- Prepaid Experience Participation
+
+---
+
+## Consolidate
+
+- Structured Self-Service
+- Participation Before Reservation
+- Physical Flow Assistance
+- Time as Commitment
+- Flexibility Has Multiple Forms
+
+into:
+
+the broader Participation Architecture
+
+where appropriate.
+
+---
+
+# Provisional Governance Changes for Final Reconciliation
+
+These are not official until all comparisons are complete.
+
+### Human Assistance When Complexity Requires It
+
+Rename:
+
+`Human Assistance Where Structured Self-Service Is Insufficient`
+
+Confidence:
+
+Medium-High
+
+→
+
+High
+
+Maturity remains:
+
+Emerging.
+
+### Escalating Participation Complexity
+
+Retain:
+
+Emerging / High
+
+but refine definition around:
+
+non-standard need
+
+predictability
+
+coordination
+
+and
+
+consequence.
+
+### Multi-Intent Hospitality
+
+Retain:
+
+Emerging / High
+
+with explicit boundary:
+
+multiple intents do not require continuous flexibility.
+
+### Walk-In as First-Class Participation
+
+Retain:
+
+Candidate / High
+
+with stronger contextual boundary.
+
+No maturity count changes result from these recommendations.
+
+---
+
+# Official Governance Freeze
+
+Do not yet update:
+
+- `validation/candidate-patterns.md`
+- `patterns/registry.md`
+- `validation/dashboard.md`
+- `research/README.md`
+- `validation/README.md`
+
+The official global state remains:
+
+Independent Restaurants:
+
+8
+
+Kodawa Labs Validation Concepts:
+
+1
+
+Emerging:
+
+18
+
+Candidate:
+
+9
+
+Partially Supported:
+
+1
+
+Validated:
+
+0
+
+Research-Derived KHDS Principles:
+
+0
+
+Existing Implementation Patterns Pending Validation:
+
+1
+
+Alinea remains:
+
+Independent Restaurant #9 Candidate.
+
+---
+
+# Final Participation Comparison Statement
+
+Nine restaurants now make one major correction unavoidable:
+
+> **Complexity is not the same thing as a need for human assistance.**
+
+Talisman can use:
+
+human confirmation.
+
+Dishoom can support:
+
+walk-ins.
+
+Franklin can support:
+
+queue-first access.
+
+FYN can require:
+
+high commitment.
+
+Alinea can handle:
+
+significant complexity
+
+through:
+
+structured self-service.
+
+The more useful dividing line is:
+
+> **Can this guest need be handled predictably by the structure?**
+
+If yes:
+
+self-service can remain appropriate
+
+even when the experience is:
+
+complex.
+
+If no:
+
+human support becomes more important
+
+even when the individual interaction appears:
+
+simple.
+
+That means the current pattern:
+
+`Human Assistance When Complexity Requires It`
+
+has reached the point where:
+
+the name is holding the research back.
+
+The stronger version is:
+
+> **Human Assistance Where Structured Self-Service Is Insufficient**
+
+This accommodates:
+
+- uncertainty
+- judgment
+- exceptions
+- physical flow
+- coordination
+- bespoke needs
+
+without pretending:
+
+complexity alone
+
+explains the boundary.
+
+Alinea also strengthens the broader Participation Architecture.
+
+The system now needs to understand:
+
+Intent
+
+↓
+
+Desired Certainty
+
+↓
+
+Resource Needed
+
+↓
+
+Compatibility
+
+↓
+
+Predictability
+
+↓
+
+Relevant Commitment
+
+↓
+
+Appropriate Self-Service / Human Support
+
+↓
+
+Participation State
+
+That is a materially stronger model than:
+
+put a reservation button on every page.
+
+And it is exactly why KHDS moved from:
+
+Reservation Design
+
+to:
+
+Participation Architecture.
+
+Evidence wins.
+
+---
+
+## Comparison Status
+
+Reservation / Participation Comparison Reconciled Through Alinea
 
 ---
 
@@ -2852,14 +3413,4 @@ Update:
 
 `khds/research/comparison/story.md`
 
-Do not update:
-
-- `validation/candidate-patterns.md`
-- `patterns/registry.md`
-- `validation/dashboard.md`
-- `research/README.md`
-- `validation/README.md`
-
-until the Franklin story comparison is complete.
-
-Evidence wins.
+Do not update global governance yet.

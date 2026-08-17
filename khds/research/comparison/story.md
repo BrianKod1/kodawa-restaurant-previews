@@ -1,34 +1,41 @@
-# KHDS Story Comparison
+# KHDS Cross-Restaurant Comparison — Story
 
-## Purpose
+## Research Status
 
-Compare how independent hospitality brands create and organise story.
+Alinea Comparison Cycle
 
-This document asks:
+Story Reconciliation Complete
 
-- what gives the restaurant meaning?
-- what comes first: place, worldview, people, product, heritage, myth, or concept?
-- when is biography useful?
-- when does biography become irrelevant?
-- how much story is necessary?
-- how much story can be compressed?
-- when does culture become narrative infrastructure?
-- when does craft become narrative infrastructure?
-- how does story support confidence?
-- which KHDS story patterns survive materially different hospitality models?
-- which Candidate patterns now require promotion, narrowing, renaming, or demotion?
-
-The goal is not to identify one ideal restaurant story.
-
-The goal is to understand:
-
-> **what organising logic makes the hospitality experience understandable and meaningful.**
+Global Governance Still Frozen
 
 ---
 
-# Current Research Set
+# Purpose
 
-## Officially Reconciled Independent Restaurants
+Compare how the current independent restaurant set creates meaning through:
+
+- place
+- worldview
+- heritage
+- people
+- culture
+- founder story
+- product
+- experience
+- authority
+- reputation
+- narrative structure
+
+This document evaluates whether story patterns remain:
+
+- transferable
+- contextual
+- contradicted
+- in need of narrowing
+- in need of renaming
+- in need of consolidation
+
+The comparison set now includes:
 
 1. Ankole
 2. Cultiva
@@ -37,2399 +44,1081 @@ The goal is to understand:
 5. Bistro Lolo
 6. FYN
 7. Dishoom Covent Garden
-
-## Current Research Candidate
-
 8. Franklin Barbecue
+9. Alinea
 
-Franklin’s dossier is complete.
+Alinea remains:
 
-Franklin should not enter the official completed global research count until:
+Independent Restaurant #9 Candidate
 
-- all five comparison files are updated
-- candidate governance is reconciled
-- the pattern registry is reconciled
-- the validation dashboard is reconciled
-- the research overview is reconciled
-
-This file completes the five Franklin comparison updates.
-
-Official global counts still remain unchanged until governance reconciliation.
+until all comparison and governance files are reconciled.
 
 ---
 
-# Ankole
+# Core Story Question
 
-## Story Character
+> **What most efficiently helps the guest understand why this hospitality experience matters?**
 
-Place-led story.
+After nine independent restaurants, story can no longer be treated as:
 
-## Primary Signals
-
-- Nairobi / Kenyan setting
-- environment
-- restaurant identity
-- food
-- refinement
-- place
-
-## Working Logic
-
-Place
-
-↓
-
-Experience
-
-↓
-
-Meaning
-
-## Interpretation
-
-Ankole demonstrates that story does not always require:
-
-long biography
+an About page
 
 or
 
-deep historical narrative.
+a founder biography.
 
-Place itself can carry:
+The evidence now shows that narrative meaning may be organised through:
 
-meaning.
-
-The restaurant becomes understandable through:
-
-where it is
-
-and
-
-how that place is translated into hospitality.
-
-### Primary Story Role
-
-Place as organising logic.
-
----
-
-# Cultiva
-
-## Story Character
-
-Worldview-led story.
-
-## Primary Signals
-
-- cultivation
-- sustainability
-- food systems
-- producers
-- ingredients
-- philosophy
-- land
-
-## Working Logic
-
-Worldview
-
-↓
-
-System
-
-↓
-
-Product
-
-↓
-
-Experience
-
-## Interpretation
-
-Cultiva remains one of the clearest cases where:
-
-belief
-
-organises the restaurant story.
-
-The guest is not simply told:
-
-who founded the restaurant.
-
-The guest is shown:
-
-what the restaurant believes about food and production.
-
-### Primary Story Role
-
-Worldview as organising logic.
-
----
-
-# Talisman
-
-## Story Character
-
-Heritage-led story.
-
-## Primary Signals
-
-- long-standing institution
-- old house
-- Karen
 - place
-- continuity
-- accumulated identity
-
-## Working Logic
-
-History
-
-↓
-
-Place
-
-↓
-
-Continuity
-
-↓
-
-Meaning
-
-## Interpretation
-
-Talisman demonstrates how:
-
-institutional continuity
-
-can become story.
-
-Its meaning is strengthened by:
-
-time
-
-and
-
-place.
-
-The restaurant does not need:
-
-fictional mythology.
-
-Its accumulated history provides enough narrative infrastructure.
-
-### Primary Story Role
-
-Heritage + place.
-
----
-
-# Mawimbi
-
-## Story Character
-
-Concept-led story.
-
-## Primary Signals
-
-- seafood
-- coastal inspiration
-- escape
-- luxury
-- occasion
-- experiential positioning
-
-## Working Logic
-
-Concept
-
-↓
-
-Promise
-
-↓
-
-Experience
-
-## Interpretation
-
-Mawimbi shows that story can be organised around:
-
-a concept.
-
-The guest does not need:
-
-deep founder biography
-
-or
-
-institutional heritage
-
-to understand the proposition.
-
-The concept itself provides:
-
-meaning.
-
-### Primary Story Role
-
-Concept as organising logic.
-
----
-
-# Bistro Lolo
-
-## Story Character
-
-People + place story.
-
-## Primary Signals
-
-- neighbourhood
-- social use
-- architecture
-- hospitality personality
+- worldview
+- heritage
+- concept
 - people
-- daily rhythm
-
-## Working Logic
-
-People
-
-+
-
-Place
-
-↓
-
-Belonging
-
-↓
-
-Meaning
-
-## Interpretation
-
-Bistro Lolo introduced early pressure on:
-
-`World Before Biography`.
-
-People and place can work together.
-
-The human layer does not necessarily distract from:
-
-the hospitality world.
-
-It can help explain:
-
-belonging.
-
-### Primary Story Role
-
-People + place.
-
----
-
-# FYN
-
-## Story Character
-
-Culinary philosophy + authorship.
-
-## Primary Signals
-
-- African ingredients
-- Japanese technique
-- chef authority
-- culinary philosophy
-- place
-- craft
-- authorship
-
-## Working Logic
-
-Culinary Philosophy
-
-+
-
-Authorship
-
-↓
-
-Product
-
-↓
-
-Experience
-
-## Interpretation
-
-FYN weakened any simple distinction between:
-
-world
-
-and
-
-biography.
-
-The chef is not separate from:
-
-the culinary idea.
-
-Authorship and worldview are integrated.
-
-### Primary Story Role
-
-Philosophy + authorship.
-
----
-
-# Dishoom Covent Garden
-
-## Story Character
-
-Cultural memory + founding myth + location-specific world-building.
-
-## Primary Signals
-
-- Bombay
-- Irani café culture
 - cultural memory
-- historical references
-- founding myth
-- cinema
-- Ruby
-- Yasmin
-- location-specific narrative
-
-## Working Logic
-
-Bombay
-
-↓
-
-Irani Café Culture
-
-↓
-
-Dishoom
-
-↓
-
-Covent Garden Myth
-
-↓
-
-People
-
-↓
-
-Food + Space + Participation
-
-## Interpretation
-
-Dishoom provides the strongest current example of:
-
-world before individual biography.
-
-The restaurant begins with:
-
-a cultural world.
-
-The people inside the founding myth belong to:
-
-that world.
-
-Dishoom also demonstrates:
-
-fiction can organise real hospitality
-
-when clearly framed as narrative rather than evidence.
-
-### Primary Story Role
-
-Cultural memory + myth.
-
----
-
-# Franklin Barbecue
-
-## Story Character
-
-Founder + craft-led story.
-
-## Primary Signals
-
-- Aaron Franklin
-- Stacy Franklin
-- backyard cookouts
-- trailer origin
-- barbecue craft
-- technical authority
-- recognition
-- books
-- education
-- broader brand ecosystem
-
-## Working Logic
-
-People
-
-↓
-
-Craft
-
-↓
-
-Origin
-
-↓
-
-Product
-
-↓
-
-Recognition
-
-↓
-
-Education
-
-↓
-
-Brand Authority
-
-## Interpretation
-
-Franklin creates the strongest current contradiction to:
-
-`World Before Biography`.
-
-The founders do not appear after:
-
-a pre-existing world.
-
-They materially explain:
-
-- where the restaurant came from
-- how the product became credible
-- why the craft matters
-- how the brand developed
-
-The people help generate:
-
-the world.
-
-### Primary Story Role
-
-Founder + craft authority.
-
----
-
-# Eight Story Models
-
-## Model A — Place-Led Story
-
-Ankole
-
-Place
-
-↓
-
-Experience
-
-↓
-
-Meaning
-
----
-
-## Model B — Worldview-Led Story
-
-Cultiva
-
-Worldview
-
-↓
-
-System
-
-↓
-
-Product
-
-↓
-
-Meaning
-
----
-
-## Model C — Heritage-Led Story
-
-Talisman
-
-History
-
-↓
-
-Place
-
-↓
-
-Continuity
-
-↓
-
-Meaning
-
----
-
-## Model D — Concept-Led Story
-
-Mawimbi
-
-Concept
-
-↓
-
-Promise
-
-↓
-
-Experience
-
----
-
-## Model E — People + Place Story
-
-Bistro Lolo
-
-People
-
-+
-
-Place
-
-↓
-
-Belonging
-
----
-
-## Model F — Culinary Philosophy + Authorship
-
-FYN
-
-Philosophy
-
-+
-
-Authorship
-
-↓
-
-Product
-
-↓
-
-Experience
-
----
-
-## Model G — Cultural Memory + Founding Myth
-
-Dishoom
-
-Culture
-
-↓
-
-Memory
-
-↓
-
-Myth
-
-↓
-
-Experience
-
----
-
-## Model H — Founder + Craft-Led Story
-
-Franklin
-
-People
-
-↓
-
-Craft
-
-↓
-
-Product
-
-↓
-
-Authority
-
-↓
-
-Meaning
-
----
-
-# Comparison Finding 1
-
-## Narrative Coherence Through Organising Logic Becomes Highly Resilient
-
-### Current Status
-
-Emerging
-
-### Franklin Outcome
-
-Very Strongly Supported.
-
-The eight restaurants now use radically different organising logics.
-
-Possible organising logics include:
-
-- place
-- worldview
-- heritage
-- concept
-- belonging
 - culinary philosophy
-- cultural memory
 - craft
-
-Yet the strongest stories remain coherent because:
-
-one meaningful logic connects the parts.
-
-### Franklin Contribution
-
-Franklin is important because the story is:
-
-comparatively simple.
-
-Dishoom demonstrates:
-
-high narrative density + coherence.
-
-Franklin demonstrates:
-
-low narrative density + coherence.
-
-### Current Conclusion
-
-Narrative coherence does not require:
-
-complex story.
-
-It requires:
-
-clear organising logic.
-
-### Governance Recommendation
-
-Retain Emerging.
-
-Confidence significantly strengthened.
-
----
-
-# Comparison Finding 2
-
-## World Before Biography Is No Longer Defensible in Its Current Form
-
-### Current Status
-
-Candidate
-
-### Previous Evidence
-
-Strong support:
-
-- Cultiva
-- Dishoom
-
-Mixed / integrated:
-
-- FYN
-
-Pressure:
-
-- Bistro Lolo
-
-### Franklin Outcome
-
-Strongly Contradicted.
-
-Franklin provides direct evidence that:
-
-people can be the shortest and clearest route to understanding:
-
-the product
-
-the craft
-
-the origin
-
-and
-
-the brand world.
-
-### Current Problem
-
-The wording:
-
-`World Before Biography`
-
-imposes a sequence.
-
-The research no longer supports that sequence as a broadly useful pattern.
-
-### Cross-Case Evidence
-
-## Cultiva
-
-World before people works.
-
-## Dishoom
-
-World before people works.
-
-## FYN
-
-World and authorship are integrated.
-
-## Bistro Lolo
-
-People help explain belonging.
-
-## Franklin
-
-People generate the world.
-
-### Current Conclusion
-
-The deeper transferable behaviour is not:
-
-world first.
-
-It is:
-
-> **use people when they materially help explain the hospitality experience.**
-
-### Governance Recommendation
-
-`World Before Biography`
-
-should not remain Candidate unchanged.
-
-A final governance decision should choose between:
-
-- rename + redefine
-- demote and replace with a broader research direction
-
-### Recommended Direction
-
-Rename / replace toward:
-
-## Biography When It Explains the Experience
-
-or
-
-## Meaning-Bearing Biography
-
-Exact canonical name should be decided in candidate governance.
-
-### Confidence
-
-High.
-
----
-
-# Comparison Finding 3
-
-## Biography Can Be Narrative Infrastructure
-
-Franklin makes this explicit.
-
-### Weak Biography
-
-Generic founder profile that does not help the guest understand:
-
-- product
-- experience
-- values
+- experience architecture
 - authority
 
-### Strong Biography
+The transferable problem is:
 
-The person materially explains:
-
-- origin
-- expertise
-- product
-- philosophy
-- authority
-
-### Current Conclusion
-
-Biography should not be judged by:
-
-position in the sequence.
-
-It should be judged by:
-
-explanatory value.
-
-### Research Direction
-
-`Biography as Brand Infrastructure`
-
-Strengthened.
-
-### Governance Position
-
-Possible replacement abstraction for:
-
-World Before Biography.
+narrative architecture.
 
 ---
 
-# Comparison Finding 4
-
-## People-First Storytelling Is Not Automatically Founder-Centric Branding
-
-This distinction matters.
-
-Franklin does not support:
-
-put the founder everywhere.
-
-It supports:
-
-feature the person when their role materially explains the hospitality system.
-
-### Franklin
-
-Aaron:
-
-craft authority.
-
-Stacy:
-
-operational / entrepreneurial authority.
-
-### FYN
-
-Chef authorship:
-
-culinary logic.
-
-### Bistro Lolo
-
-People:
-
-belonging / personality.
-
-### Current Conclusion
-
-The transferable question is:
-
-> What does this person help the guest understand?
-
-Not:
-
-> Is there a founder we can feature?
+# Nine Story Models
 
 ---
-
-# Comparison Finding 5
-
-## Story Before Features Survives, But Story Must Be Defined as Meaning
-
-### Current Status
-
-Emerging
-
-### Franklin Outcome
-
-Strongly Supported after full dossier review.
-
-Arrival initially created pressure because:
-
-the digital journey is simple.
-
-Story research clarifies that meaning is still present through:
-
-- founder
-- craft
-- origin
-- product authority
-
-### Current Conclusion
-
-Story should not be interpreted as:
-
-long-form copy.
-
-A better abstraction is:
-
-## Meaning Before Utility
-
-But the current pattern does not require renaming yet.
-
-### Possible Definition Refinement
-
-> Give the guest enough meaning to understand why the hospitality experience matters before reducing the brand to functional features and transactions.
-
-### Governance Recommendation
-
-Retain Emerging.
-
-Definition refinement recommended.
-
----
-
-# Comparison Finding 6
-
-## Story Through Place Remains Transferable but Not Always Primary
-
-### Current Status
-
-Emerging
-
-### Strong Cases
-
-- Ankole
-- Talisman
-- FYN
-- Dishoom
-
-### Franklin Outcome
-
-Supported as context.
-
-Austin matters.
-
-But Franklin is not primarily:
-
-place-led.
-
-### Current Conclusion
-
-Place can support story through:
-
-- physical place
-- historical place
-- neighbourhood
-- ecological place
-- culinary place
-- referenced place
-
-But it need not:
-
-organise every story.
-
-### Governance Recommendation
-
-Retain Emerging.
-
-Boundary remains strong.
-
----
-
-# Comparison Finding 7
-
-## Heritage Builds Confidence Gains Better Boundary Definition
-
-### Current Status
-
-Candidate
-
-### Strongest Evidence
-
-Talisman.
-
-### Franklin Outcome
-
-Partial Support / Boundary Evidence.
-
-Franklin has:
-
-real institutional history.
-
-But its 2009 origin raises:
-
-when does history become heritage?
-
-### Dishoom Boundary
-
-Cultural heritage
-
-is not the same as:
-
-institutional heritage.
-
-### Franklin Boundary
-
-Institutional history
-
-is not automatically:
-
-heritage.
-
-### Current Working Definition
-
-Heritage should involve some combination of:
-
-- continuity
-- accumulated significance
-- inherited or sustained identity
-- current relevance
-
-### Current Conclusion
-
-Age alone is insufficient.
-
-### Governance Recommendation
-
-Retain Candidate.
-
-Definition refinement recommended.
-
----
-
-# Comparison Finding 8
-
-## Growth as Narrative Should Remain Below Candidate
-
-### Current Status
-
-Observed Research Direction
-
-### Dishoom Outcome
-
-Strong negative evidence.
-
-### Franklin Outcome
-
-Contains real growth history:
-
-backyard cookouts
-
-↓
-
-trailer
-
-↓
-
-restaurant
-
-↓
-
-books
-
-↓
-
-education
-
-↓
-
-products
-
-Yet the story is still organised around:
-
-craft
-
-not:
-
-growth.
-
-### Current Conclusion
-
-Growth can be:
-
-evidence of evolution.
-
-It is not consistently:
-
-guest-facing narrative value.
-
-### Governance Recommendation
-
-Keep below Candidate.
-
-No restoration.
-
----
-
-# Comparison Finding 9
-
-## Craft Can Organise a Complete Hospitality Story
-
-Franklin makes this unusually clear.
-
-### Craft connects:
-
-- founder
-- product
-- process
-- education
-- recognition
-- reputation
-- brand extensions
-
-### FYN Supporting Evidence
-
-Craft also helps organise:
-
-product + authorship.
-
-### Cultiva Supporting Evidence
-
-Production system helps organise:
-
-worldview + product.
-
-### Current Direction
-
-`Craft Ethos as Organising Logic`
-
-### Current Conclusion
-
-This likely belongs inside:
-
-Narrative Coherence Through Organising Logic.
-
-### Governance Recommendation
-
-Do not create separate Candidate.
-
-Preserve as mechanism.
-
----
-
-# Comparison Finding 10
-
-## Show the System Behind the Plate Clearly Extends Into Story
-
-### Current Status
-
-Candidate
-
-### Strong Evidence
-
-## Cultiva
-
-Production system.
-
-## FYN
-
-Craft system.
-
-## Franklin
-
-Craft + education + process.
-
-### Story Contribution
-
-Franklin demonstrates that:
-
-the system behind the product
-
-can itself become:
-
-narrative infrastructure.
-
-### Current Problem
-
-The Candidate is still too easy to interpret narrowly as:
-
-sourcing.
-
-### Stronger Working Definition
-
-> **When the product’s meaningful difference depends on a system the guest would not otherwise see, reveal enough of that relevant system to make the product understandable and credible.**
-
-Possible system categories:
-
-- production
-- craft
-- culinary / cultural
-- process
-
-### Governance Recommendation
-
-Retain Candidate.
-
-Major definition refinement.
-
-Do not split.
-
----
-
-# Comparison Finding 11
-
-## Teaching Can Become Authority Infrastructure
-
-### Strongest Evidence
-
-Franklin.
-
-### Supporting Logic
-
-Teaching exposes:
-
-knowledge.
-
-Knowledge supports:
-
-authority.
-
-Authority supports:
-
-product credibility.
-
-### Working Logic
-
-Expertise
-
-↓
-
-Teaching
-
-↓
-
-Visible Knowledge
-
-↓
-
-Authority
-
-↓
-
-Trust
-
-### Current Direction
-
-`Teaching as Authority Infrastructure`
-
-### Governance Position
-
-Below Candidate.
-
-Likely mechanism inside:
-
-Show the System Behind the Plate
-
-and
-
-Narrative Coherence Through Organising Logic.
-
----
-
-# Comparison Finding 12
-
-## Reputation Can Compress Narrative
-
-Franklin provides the strongest case.
-
-The guest may already arrive with:
-
-- product recognition
-- founder recognition
-- awards awareness
-- media familiarity
-
-### Possible Effect
-
-Existing Reputation
-
-↓
-
-Less Explanation Required
-
-### Research Direction
-
-`Reputation as Narrative Compression`
-
-### Evidence Limitation
-
-Website observation cannot determine:
-
-how much prior knowledge guests actually possess.
-
-### Governance Position
-
-Observed Research Direction.
-
-Do not promote.
-
----
-
-# Comparison Finding 13
-
-## Recognition Works Best as Proof, Not as Story
-
-Franklin includes significant external recognition.
-
-But awards are most useful when they answer:
-
-> Why should I trust this authority?
-
-rather than:
-
-> Why should I admire this brand?
-
-### Current Conclusion
-
-Awards should support:
-
-credibility.
-
-They should not necessarily organise:
-
-the narrative.
-
-This is an implementation insight.
-
----
-
-# Comparison Finding 14
-
-## Story Does Not Require Myth
-
-Dishoom uses:
-
-founding myth.
-
-Franklin uses:
-
-documented origin.
-
-Talisman uses:
-
-institutional history.
-
-Cultiva uses:
-
-worldview.
-
-### Current Conclusion
-
-Story mechanism is contextual.
-
-Strong hospitality story can be:
-
-- factual
-- historical
-- conceptual
-- philosophical
-- fictional
-- biographical
-
-The transferability lies in:
-
-coherence
-
-not:
-
-story type.
-
----
-
-# Comparison Finding 15
-
-## Fiction Can Organise Real Hospitality Without Becoming Evidence
-
-Dishoom remains the strongest case.
-
-Franklin adds useful contrast because:
-
-its narrative is factual.
-
-### Current Rule
-
-Fiction may:
-
-- organise meaning
-- guide design
-- create atmosphere
-
-but should not be confused with:
-
-historical evidence.
-
-### Governance Position
-
-Remain research insight / direction.
-
-No new pattern.
-
----
-
-# Comparison Finding 16
-
-## Narrative Language Within Clear Interface Receives Useful Negative Evidence
-
-### Current Status
-
-Candidate
-
-### Strongest Evidence
-
-Dishoom.
-
-### Franklin Outcome
-
-Compatible but weak.
-
-Franklin remains distinctive with:
-
-comparatively direct functional language.
-
-### Current Conclusion
-
-Narrative language is:
-
-one interface mechanism.
-
-It is not always required.
-
-### Important Boundary
-
-Where narrative language is used:
-
-it should not reduce:
-
-clarity.
-
-### Governance Recommendation
-
-Retain Candidate for now.
-
-Confidence should remain:
-
-Medium-High
-
-rather than increase.
-
-Franklin provides useful restraint.
-
----
-
-# Comparison Finding 17
-
-## Founder Authority and Product Authority Are Different
-
-Franklin makes them overlap.
-
-But the distinction remains necessary.
-
-### Founder Authority
-
-Who carries expertise?
-
-### Product Authority
-
-Why is the product credible?
-
-The relationship may be:
-
-Founder Expertise
-
-↓
-
-Craft Credibility
-
-↓
-
-Product Authority
-
-But another restaurant could have:
-
-product authority
-
-without:
-
-founder visibility.
-
-### Current Conclusion
-
-Do not collapse:
-
-founder
-
-and
-
-product.
-
----
-
-# Comparison Finding 18
-
-## Multiple Founders Can Carry Different Narrative Functions
-
-Franklin provides a useful correction to:
-
-single-genius storytelling.
-
-### Aaron
-
-Craft authority.
-
-### Stacy
-
-Operational / entrepreneurial authority.
-
-### Current Conclusion
-
-A hospitality story can distribute:
-
-authority
-
-across different people.
-
-This reduces the risk of:
-
-oversimplifying multi-person businesses into one hero narrative.
-
----
-
-# Comparison Finding 19
-
-## People Can Explain Operations Without Turning the Story Into Corporate Biography
-
-Stacy’s public role helps explain:
-
-operations
-
-and
-
-business structure.
-
-This is useful where:
-
-operational competence
-
-is relevant to understanding:
-
-the institution.
-
-### Current Boundary
-
-Operational biography should still earn:
-
-guest relevance.
-
-Do not expose internal roles merely because they exist.
-
----
-
-# Comparison Finding 20
-
-## Story Density and Story Strength Are Independent
-
-### Dishoom
-
-High density.
-
-High coherence.
-
-### Franklin
-
-Low density.
-
-High coherence.
-
-### Mawimbi
-
-Moderate concept density.
-
-### Cultiva
-
-Philosophy-led density.
-
-### Current Conclusion
-
-Story strength should not be measured by:
-
-amount of content.
-
-It should be measured by:
-
-how well the organising logic makes the hospitality experience understandable.
-
-This strongly reinforces:
-
-Narrative Coherence Through Organising Logic.
-
----
-
-# Comparison Finding 21
-
-## Worldview and Craft Ethos Must Remain Distinct
-
-Franklin creates this distinction in both:
-
-atmosphere
-
-and
-
-story.
-
-### Worldview
-
-Broad beliefs about:
-
-food
-
-culture
-
-land
-
-hospitality
-
-or meaning.
-
-### Craft Ethos
-
-A coherent approach to:
-
-making the product.
-
-### Current Conclusion
-
-Do not expand:
-
-worldview
-
-to include:
-
-any technical philosophy.
-
-Doing so would make:
-
-Atmosphere Through Worldview
-
-and related narrative analysis unfalsifiable.
-
----
-
-# Comparison Finding 22
-
-## Product Authority Can Compress Story Without Eliminating It
-
-Franklin appears highly product-led.
-
-But product authority itself comes from:
-
-- craft
-- origin
-- founder expertise
-- recognition
-
-### Current Conclusion
-
-What appears to be:
-
-minimal story
-
-may actually be:
-
-compressed story.
-
-This is useful for:
-
-Story Before Features.
-
----
-
-# Comparison Finding 23
-
-## Story and Proof Can Overlap
-
-Franklin demonstrates:
-
-founder biography
-
-can be:
-
-story
-
-and
-
-authority proof.
-
-Cultiva demonstrates:
-
-system explanation
-
-can be:
-
-story
-
-and
-
-product proof.
-
-Dishoom demonstrates:
-
-cultural memory
-
-can be:
-
-story
-
-and
-
-atmospheric context.
-
-### Current Conclusion
-
-KHDS should not assume clean separation between:
-
-story
-
-and
-
-evidence.
-
-One asset can perform multiple jobs.
-
----
-
-# Comparison Finding 24
-
-## Heritage, History, and Memory Need Different Boundaries
-
-The current set now contains:
-
-### Talisman
-
-Institutional heritage / continuity.
-
-### Dishoom
-
-Cultural memory + designed historical reference.
-
-### Franklin
-
-Documented institutional history.
-
-### Current Distinction
-
-## History
-
-What happened.
-
-## Heritage
-
-What has been meaningfully inherited or sustained.
-
-## Memory
-
-How the past is remembered, interpreted, or referenced.
-
-### Current Conclusion
-
-These should not be collapsed.
-
-This supports:
-
-Heritage Builds Confidence
-
-while keeping its definition disciplined.
-
----
-
-# Comparison Finding 25
-
-## Location-Specific Story Can Sit Inside Parent Brand Coherence
-
-Dishoom remains strongest.
-
-Franklin offers a weaker but useful contrast through:
-
-Austin-rooted brand identity
-
-and
-
-Franklin Backyard.
-
-### Current Conclusion
-
-Parent-brand coherence does not require:
-
-identical location storytelling.
-
-### Governance Position
-
-Preserve as research direction.
-
----
-
-# Current Cross-Restaurant Story Logic
-
-The strongest current model is no longer:
-
-World
-
-↓
-
-Biography
-
-↓
-
-Product.
-
-The evidence supports something more flexible:
-
-Organising Logic
-
-↓
-
-Relevant Meaning-Bearing Elements
-
-↓
-
-Product / Place / People / Culture / Craft / History
-
-↓
-
-Confidence
-
-↓
-
-Participation
-
-Where:
-
-Organising Logic
-
-may be:
-
-- place
-- worldview
-- heritage
-- concept
-- belonging
-- philosophy
-- cultural memory
-- craft
-
-### Important Rule
-
-People should appear:
-
-when they contribute meaningful explanatory value.
-
-Place should appear:
-
-when place contributes meaning.
-
-History should appear:
-
-when history contributes meaning.
-
-The order should follow:
-
-explanatory value
-
-not:
-
-a fixed doctrine.
-
----
-
-# Story Architecture By Restaurant
 
 ## Ankole
 
-Primary organising logic:
+### Model
 
-Place.
+Place-Led Story
+
+### Primary Narrative Mechanisms
+
+- place
+- refinement
+- setting
+- destination character
+
+### Primary Guest Question
+
+Why does this place matter?
 
 ---
 
 ## Cultiva
 
-Primary organising logic:
+### Model
 
-Worldview.
+Worldview-Led Story
+
+### Primary Narrative Mechanisms
+
+- cultivation
+- sustainability
+- philosophy
+- sourcing
+- culinary worldview
+
+### Primary Guest Question
+
+What does this restaurant believe?
 
 ---
 
 ## Talisman
 
-Primary organising logic:
+### Model
 
-Heritage.
+Heritage-Led Story
+
+### Primary Narrative Mechanisms
+
+- long-term presence
+- place
+- history
+- accumulated identity
+- continuity
+
+### Primary Guest Question
+
+Why does this place carry depth and credibility?
 
 ---
 
 ## Mawimbi
 
-Primary organising logic:
+### Model
 
-Concept.
+Concept-Led Story
+
+### Primary Narrative Mechanisms
+
+- seafood
+- escape
+- coastal inspiration
+- luxury
+- occasion
+
+### Primary Guest Question
+
+What kind of experience is being promised?
 
 ---
 
 ## Bistro Lolo
 
-Primary organising logic:
+### Model
 
-People + Place.
+People + Place Story
+
+### Primary Narrative Mechanisms
+
+- neighbourhood
+- belonging
+- everyday use
+- people
+- local identity
+
+### Primary Guest Question
+
+Who is this place for, and how does it belong here?
 
 ---
 
 ## FYN
 
-Primary organising logic:
+### Model
 
-Culinary Philosophy + Authorship.
+Culinary Philosophy + Authorship
 
----
+### Primary Narrative Mechanisms
 
-## Dishoom
+- culinary philosophy
+- authorship
+- cultural dialogue
+- authority
+- craft
 
-Primary organising logic:
+### Primary Guest Question
 
-Cultural Memory + Myth.
-
----
-
-## Franklin
-
-Primary organising logic:
-
-Founder + Craft.
+Why does this high-commitment experience deserve attention?
 
 ---
 
-# Pattern Outcomes After Franklin Story Comparison
+## Dishoom Covent Garden
 
-## Very Strongly Supported
+### Model
 
-### Narrative Coherence Through Organising Logic
+Cultural Memory + Founding Myth + Location-Specific World-Building
 
-Retain Emerging.
+### Primary Narrative Mechanisms
 
-Confidence significantly strengthened.
+- Bombay café memory
+- cultural reference
+- founding mythology
+- location-specific story
+- designed historical world
 
----
+### Primary Guest Question
 
-## Strongly Supported
-
-### Story Before Features
-
-Retain Emerging.
-
-Definition refinement:
-
-story = meaning, not necessarily long-form narrative.
+What cultural world am I entering?
 
 ---
 
-## Supported
+## Franklin Barbecue
 
-### Story Through Place
+### Model
 
-Retain Emerging.
+Founder + Craft-Led Story
 
----
+### Primary Narrative Mechanisms
 
-## Candidate Retain With Definition Refinement
+- Aaron and Stacy Franklin
+- origin
+- craft
+- product
+- recognition
+- education
 
-### Heritage Builds Confidence
+### Primary Guest Question
 
-Retain Candidate.
-
-Clarify:
-
-history ≠ heritage.
-
----
-
-### Show the System Behind the Plate
-
-Retain Candidate.
-
-Major definition refinement required.
+Who created this product culture, and why should I trust the craft?
 
 ---
 
-### Narrative Language Within Clear Interface
+## Alinea
 
-Retain Candidate.
+### Model
 
-Franklin provides useful weak / negative evidence.
+Experience + Innovation + Authority Story
+
+### Primary Narrative Mechanisms
+
+- experience architecture
+- innovation
+- institutional recognition
+- Grant Achatz + team
+- authority
+- compressed narrative
+
+### Primary Guest Question
+
+What kind of experience is this, why is it distinctive, and why should I trust it?
+
+This model remains provisional until full reconciliation.
 
 ---
 
-## Candidate Requiring Major Governance Change
+# First Cross-Restaurant Finding
 
-### World Before Biography
+## Story Does Not Have One Universal Subject
 
-Current form:
+The nine restaurants organise story around materially different things:
 
-Strongly Contradicted.
+- place
+- worldview
+- heritage
+- concept
+- people
+- philosophy
+- cultural memory
+- founder
+- craft
+- experience
 
-Recommendation:
+No evidence supports:
 
-Do not retain unchanged.
+founder story first
 
-Rename / redefine
+place story first
 
 or
 
-demote and replace with a broader abstraction.
+worldview first
+
+as a universal rule.
+
+The stronger transferable question is:
+
+> **What most helps the guest understand this hospitality experience?**
 
 ---
 
-## Remains Below Candidate
+# Story Before Features
 
-### Growth as Narrative
+## Current Status
 
-No restoration.
+Emerging
 
----
+## Current Confidence
 
-# Recommended Replacement Direction For World Before Biography
+High
 
-The evidence no longer supports:
+### Evidence Across Set
 
-sequence.
+Strong and highly diverse.
 
-The strongest common logic is:
+#### Ankole
 
-## Biography When It Explains the Experience
+Meaning through place.
 
-### Working Definition
+#### Cultiva
 
-> Founder, chef, or team biography should become prominent when those people materially help explain the hospitality product, worldview, origin, authority, or guest experience.
+Meaning through worldview.
 
-### Strong Evidence
+#### Talisman
 
-- Franklin
-- FYN
-- Bistro Lolo
+Meaning through heritage.
 
-### Negative / Boundary Evidence
+#### Mawimbi
 
-- Cultiva
-- Dishoom
+Meaning through concept.
 
-These cases show that:
+#### Bistro Lolo
 
-people do not need to be prominent when:
+Meaning through people and place.
 
-the world itself explains the experience more effectively.
+#### FYN
 
-### Why This Is Better
+Meaning through philosophy and authorship.
 
-It allows:
+#### Dishoom
 
-World First
+Meaning through cultural memory.
 
-when appropriate.
+#### Franklin
 
-It allows:
+Meaning through founder and craft.
 
-People First
+#### Alinea
 
-when appropriate.
+Meaning through experience, innovation, and authority.
 
-It does not prescribe:
+### Current Conclusion
 
-sequence.
+Story Before Features remains strong because:
 
-It preserves:
+story
 
-relevance.
+means:
 
-### Governance Recommendation
+meaning.
 
-Strong recommendation for:
+It does not mean:
 
-Candidate replacement / rename during reconciliation.
+long copy
 
----
+or
 
-# Major Story Tensions
+chronological narrative.
 
-## World vs Biography
+### Current Definition
 
-Now resolved as:
+> **Give the guest enough meaning to understand why the hospitality experience matters before reducing the brand to functional features and transactions.**
 
-contextual rather than sequential.
+### Alinea Contribution
 
----
+Alinea reinforces:
 
-## People vs Meaning
+compressed meaning.
 
-People should earn narrative prominence.
+### Status Recommendation
 
----
+Retain:
 
-## Craft vs Worldview
+Emerging
 
-Distinct organising mechanisms.
+### Confidence
 
----
-
-## Biography vs Authority
-
-Biography is useful when it provides relevant authority or meaning.
+High
 
 ---
 
-## Story vs Utility
+# Narrative Coherence Through Organising Logic
 
-Meaning should not disappear into transaction.
+## Current Status
 
----
+Emerging
 
-## Narrative Density vs Coherence
+## Current Confidence
 
-More story is not stronger story.
+High
 
----
+### Evidence Across Set
 
-## History vs Heritage
+Very strong.
 
-Keep distinct.
+Each restaurant has a different organising logic.
 
----
+The common behaviour is:
 
-## Cultural Memory vs Institutional Heritage
+coherence.
 
-Keep distinct.
+### Organising Logics Observed
 
----
+- place
+- worldview
+- heritage
+- concept
+- belonging
+- culinary philosophy
+- cultural memory
+- founder + craft
+- experience architecture
 
-## Fiction vs Evidence
+### Alinea Contribution
 
-Dishoom boundary.
+Alinea is one of the clearest cases of:
 
----
+low narrative density
 
-## Founder Authority vs Product Authority
++
 
-Related but separate.
+high narrative coherence.
 
----
+### Current Conclusion
 
-## Growth vs Guest Meaning
+Narrative coherence does not require:
 
-Growth remains secondary.
+one topic
 
----
+or
 
-## Reputation vs Explanation
+high narrative volume.
 
-Reputation may compress story.
+It requires:
 
----
+a legible organising logic.
 
-# Contradiction Matrix
+### Status Recommendation
 
-## Story Before Features
+Retain:
 
-Franklin Outcome:
+Emerging
 
-Strongly Supported Through Compressed Meaning.
+### Confidence
 
----
-
-## Narrative Coherence Through Organising Logic
-
-Franklin Outcome:
-
-Very Strongly Supported.
-
----
-
-## Story Through Place
-
-Franklin Outcome:
-
-Supported as Context.
+High
 
 ---
 
-## World Before Biography
+# Biography When It Explains the Experience
 
-Franklin Outcome:
+## Current Status
 
-Strongly Contradicted.
+Candidate
 
----
+## Current Confidence
 
-## Heritage Builds Confidence
+Medium-High
 
-Franklin Outcome:
+### Strong Positive Evidence
 
-Partially Supported / Boundary Evidence.
+#### Franklin
 
----
+Founder story materially explains:
 
-## Narrative Language Within Clear Interface
+origin
 
-Franklin Outcome:
+craft
 
-Compatible / Weak Evidence.
-
----
-
-## Show the System Behind the Plate
-
-Franklin Outcome:
-
-Strongly Strengthened + Definition Pressure.
-
----
-
-## Growth as Narrative
-
-Franklin Outcome:
-
-Weak / Supporting Only.
-
----
-
-# Geographic and Model Transferability
-
-If fully reconciled, Franklin would add:
-
-United States
+authority
 
 and
 
-founder-led counter-service hospitality
+brand.
 
-to current story research.
+#### FYN
 
-The story models would then span:
+Authorship helps explain:
 
-- place-led dining
-- worldview-led dining
-- heritage institutions
-- experiential concepts
-- neighbourhood hospitality
-- chef-led fine dining
-- culturally storied hospitality
-- founder/craft-led counter-service hospitality
+culinary philosophy and experience.
 
-### Patterns Strengthened Across Models
+#### Bistro Lolo
 
-- Story Before Features
-- Story Through Place
-- Narrative Coherence Through Organising Logic
+People support:
 
-### Candidate Strongly Strengthened
+place and belonging.
 
-- Show the System Behind the Plate
+### Boundary / Negative Evidence
 
-### Candidate Under Major Contradiction
+#### Cultiva
 
-- World Before Biography
+Worldview explains the experience more strongly than:
+
+individual biography.
+
+#### Dishoom
+
+Cultural world and story infrastructure carry more explanatory weight than:
+
+simple founder biography.
+
+### Alinea Outcome
+
+Strongly Supported.
+
+Grant Achatz is:
+
+relevant
+
+and
+
+visible.
+
+But Alinea does not require:
+
+biography-first narrative.
+
+### Current Conclusion
+
+The post-Franklin rename remains:
+
+strong.
+
+### Current Definition
+
+> **Founder, chef, or team biography should become prominent when those people materially help explain the hospitality product, worldview, origin, authority, or guest experience.**
+
+### Alinea Contribution
+
+Founder fame alone is:
+
+insufficient reason
+
+for founder-first storytelling.
+
+### Status Recommendation
+
+Retain:
+
+Candidate
+
+### Confidence Recommendation
+
+Increase:
+
+Medium-High
+
+↓
+
+High
+
+provisionally.
+
+### Reason
+
+Alinea adds:
+
+strong boundary evidence
+
+without weakening the pattern.
+
+The Candidate now survives:
+
+both
+
+founder-led
+
+and
+
+experience-led
+
+high-authority restaurants.
 
 ---
 
-# Commercial Opportunity Implications
+# Narrative Weight Follows Explanatory Value
 
-These remain separate from pattern maturity.
+## Current Status
+
+Observed Research Direction
+
+### Evidence
+
+Now broad.
+
+#### Ankole
+
+Place explains.
+
+#### Cultiva
+
+Worldview explains.
+
+#### Talisman
+
+Heritage / place explain.
+
+#### Mawimbi
+
+Concept explains.
+
+#### Bistro Lolo
+
+People + place explain.
+
+#### FYN
+
+Philosophy + authorship explain.
+
+#### Dishoom
+
+Cultural memory explains.
+
+#### Franklin
+
+Founder + craft explain.
+
+#### Alinea
+
+Experience + authority explain.
+
+### Working Definition
+
+> **Narrative elements should receive prominence in proportion to how much they help the guest understand the hospitality experience.**
+
+### Current Interpretation
+
+This is broader than:
+
+Biography When It Explains the Experience.
+
+It applies to:
+
+all narrative material.
+
+### Governance Question
+
+Should this become:
+
+a Candidate
+
+or
+
+does it already sit inside:
+
+Narrative Coherence Through Organising Logic?
+
+### Current Recommendation
+
+Do not promote separately.
+
+### Reason
+
+The idea is strong.
+
+But it substantially overlaps with:
+
+`Narrative Coherence Through Organising Logic`.
+
+A separate Candidate risks:
+
+duplication.
+
+### Governance Recommendation
+
+Use it as:
+
+a governing decision rule
+
+inside
+
+Narrative Coherence Through Organising Logic.
+
+Do not increase Candidate count.
 
 ---
 
-# Hospitality Narrative Architecture
+# Biography Candidate vs Broader Explanatory Rule
 
-The Franklin cycle strengthens the broader opportunity umbrella:
-
-`Hospitality Narrative Architecture`
-
-Possible system:
-
-What Makes This Experience Meaningful?
-
-↓
-
-What Organises That Meaning?
-
-↓
-
-Which Elements Explain It?
-
-↓
-
-Story Structure
-
-↓
-
-Proof
-
-↓
-
-Participation
-
-Possible organising elements:
-
-- place
-- people
-- craft
-- culture
-- history
-- worldview
-- concept
-
----
-
-# Founder Relevance Test
-
-Before using founder-led storytelling, ask:
-
-1. Does this person explain the product?
-2. Does this person explain the worldview?
-3. Does this person explain the origin?
-4. Does this person provide relevant authority?
-5. Would removing them make the hospitality experience harder to understand?
+Alinea creates an important governance question.
 
 If:
 
-no,
+Narrative Weight Follows Explanatory Value
 
-do not force biography forward.
+is broader,
+
+does:
+
+Biography When It Explains the Experience
+
+become redundant?
+
+### Current Answer
+
+Not yet.
+
+The biography Candidate addresses:
+
+a specific recurring design error:
+
+giving founder / chef biography prominence simply because:
+
+the person exists
+
+or
+
+is famous.
+
+The broader rule addresses:
+
+all narrative weighting.
+
+### Current Relationship
+
+Narrative Coherence Through Organising Logic
+
+↓
+
+Narrative Weight Follows Explanatory Value
+
+↓
+
+Biography When It Explains the Experience
+
+as a specific application.
+
+### Governance Recommendation
+
+Retain:
+
+Biography Candidate.
+
+Track broader rule as:
+
+architecture.
 
 ---
 
-# Craft Narrative Architecture
+# Story Through Place
 
-Possible system:
+## Current Status
 
-Craft Difference
+Emerging
+
+## Current Confidence
+
+High
+
+### Strong Evidence
+
+- Ankole
+- Talisman
+- Bistro Lolo
+- Dishoom in a different form
+
+### Supporting Evidence
+
+- Cultiva
+- Mawimbi
+
+### Weak / Contextual
+
+- FYN
+- Franklin
+- Alinea
+
+### Alinea Outcome
+
+Weak / Contextual.
+
+Place does not organise:
+
+the current public story.
+
+### Current Conclusion
+
+Story Through Place remains:
+
+strong
+
+but contextual.
+
+### Important Boundary
+
+Place can be:
+
+- physical
+- historical
+- neighbourhood
+- ecological
+- cultural
+- remembered
+- referenced / translated
+
+But:
+
+not every restaurant requires place-led story.
+
+### Status Recommendation
+
+Retain:
+
+Emerging
+
+### Confidence
+
+High
+
+---
+
+# Heritage Builds Confidence
+
+## Current Status
+
+Candidate
+
+## Current Confidence
+
+Medium
+
+### Strongest Evidence
+
+Talisman.
+
+### Supporting Evidence
+
+Dishoom requires caution because:
+
+designed cultural memory
+
+is not the same as:
+
+institutional heritage.
+
+### Weak / Not Central
+
+- Ankole
+- Cultiva
+- Mawimbi
+- Bistro Lolo
+- FYN
+- Franklin
+- Alinea
+
+### Alinea Outcome
+
+Weak / Not Central.
+
+Alinea has:
+
+history
+
+and
+
+recognition.
+
+But its current authority is organised more through:
+
+innovation
+
+experience
+
+and
+
+institutional recognition.
+
+### Current Conclusion
+
+The pattern remains:
+
+narrow.
+
+### Important Boundary
+
+History
+
+≠
+
+Heritage.
+
+Recognition
+
+≠
+
+Heritage.
+
+Cultural reference
+
+≠
+
+Inherited heritage.
+
+### Status Recommendation
+
+Retain:
+
+Candidate
+
+### Confidence
+
+Medium
+
+---
+
+# Narrative Language Within Clear Interface
+
+## Current Status
+
+Candidate
+
+## Current Confidence
+
+Medium-High
+
+### Strong Evidence
+
+- Dishoom
+- Alinea
+
+### Supporting Evidence
+
+- FYN
+- Cultiva
+- Mawimbi
+
+### Franklin Outcome
+
+Weak.
+
+Franklin does not depend heavily on:
+
+narrative interface language.
+
+### Alinea Contribution
+
+Very useful.
+
+Alinea combines:
+
+distinctive experience names
+
+with:
+
+relatively clear functional interface language.
+
+### Current Interpretation
+
+Narrative language works best when:
+
+it adds meaning
+
+without obscuring:
+
+function.
+
+### Proposed Refined Definition
+
+> **Hospitality interfaces may use distinctive narrative language where it strengthens identity or experience meaning, while preserving enough functional clarity for guests to understand what actions, routes, or information actually mean.**
+
+### Status Recommendation
+
+Retain:
+
+Candidate
+
+### Confidence Recommendation
+
+Increase:
+
+Medium-High
 
 ↓
 
-Relevant Technique
+High
 
-↓
+provisionally.
 
-People / Process
+### Reason
 
-↓
+Dishoom and Alinea now provide:
 
-Product Meaning
+two highly different but strong cases.
+
+One is:
+
+narratively dense.
+
+One is:
+
+narratively restrained.
+
+Both preserve:
+
+clear function.
+
+---
+
+# Growth as Narrative
+
+## Current Status
+
+Observed Research Direction
+
+## Current Confidence
+
+Low
+
+### Previous Strongest Evidence
+
+Some early restaurant material suggested:
+
+growth
+
+or
+
+evolution
+
+could carry story value.
+
+### Dishoom
+
+Strong negative pressure.
+
+### Franklin
+
+Growth history exists.
+
+But growth itself is not:
+
+the guest-facing organising logic.
+
+### Alinea
+
+No meaningful restoration.
+
+### Current Conclusion
+
+Retain:
+
+Observed Research Direction
+
+Low.
+
+### Governance Recommendation
+
+No promotion watch.
+
+---
+
+# Experience as Organising Logic
+
+## Current Status
+
+Observed Research Direction
+
+### Strongest Evidence
+
+Alinea.
+
+### Supporting Evidence
+
+- Mawimbi
+- FYN
+
+### Working Definition
+
+> **A hospitality brand may organise its narrative around the structure and character of the experience being offered.**
+
+### Current Interpretation
+
+Strong.
+
+But clearly a specific instance of:
+
+Narrative Coherence Through Organising Logic.
+
+### Governance Recommendation
+
+Consolidate as:
+
+mechanism.
+
+Do not promote separately.
+
+---
+
+# Reputation as Narrative Compression
+
+## Current Status
+
+Observed Research Direction
+
+### Strong Evidence
+
+- Alinea
+- Franklin
+- FYN
+
+### Possible Logic
+
+Recognition
 
 ↓
 
@@ -2437,216 +1126,1658 @@ Authority
 
 ↓
 
-Guest Confidence
+Reduced Explanation Burden
+
+### Alinea Contribution
+
+Very strong.
+
+Alinea can establish:
+
+credibility
+
+with substantial institutional recognition
+
+without:
+
+heavy origin narrative.
+
+### Current Problem
+
+Website evidence cannot establish:
+
+how much guests already know
+
+or
+
+how much recognition influences:
+
+trust.
+
+### Governance Recommendation
+
+Retain:
+
+Observed Research Direction.
+
+### Promotion Watch
+
+Medium.
+
+Need:
+
+behavioural evidence
+
+or
+
+another strong independent case.
 
 ---
 
-# Heritage Classification Layer
+# Reputation Does Not Replace Story
 
-Possible distinctions:
+This distinction is important.
 
-History
+Alinea still explains:
 
-↓
+- innovation
+- experience
+- authorship
 
-Heritage
+even while presenting:
 
-↓
+recognition.
 
-Memory
+### Current Conclusion
 
-↓
+Reputation can:
 
-Myth
+compress explanation.
 
-with different evidence requirements.
-
-This could prevent:
-
-restaurants from overstating cultural or institutional claims.
-
----
-
-# Story Compression Architecture
-
-For high-reputation or product-led brands:
-
-Core Meaning
-
-↓
-
-Authority Signal
-
-↓
-
-Product
-
-↓
-
-Action
-
-instead of:
-
-long narrative exposition.
-
-### Important Rule
-
-Compression should not remove:
+It does not eliminate:
 
 meaning.
 
 ---
 
-# Evidence Limitations
+# Biography as Authority Infrastructure
 
-This comparison can establish:
+## Current Status
 
-- public story structure
-- founder prominence
-- origin stories
-- published philosophy
-- cultural narrative
-- public awards
-- educational extensions
-- public institutional history
+Observed Research Direction
 
-It cannot establish:
+### Strongest Evidence
 
-- which story guests remember
-- whether biography increases conversion
-- whether founder prominence increases trust
-- whether story improves willingness to wait
-- whether guests understand craft ethos
-- whether cultural narratives increase bookings
-- how prior reputation changes comprehension
-- whether narrative density affects commercial performance
+Alinea.
 
-Those require:
+### Supporting Evidence
 
-- guest interviews
-- analytics
-- usability testing
-- controlled experiments
+- FYN
+- Franklin
+
+### Current Distinction
+
+## Biography as Story
+
+Who is this person?
+
+versus
+
+## Biography as Authority
+
+Why does this person’s authorship matter?
+
+### Governance Recommendation
+
+Consolidate into:
+
+Biography When It Explains the Experience.
+
+Do not promote separately.
 
 ---
 
-# Comparison Outcome
+# Distributed Authorship
 
-Franklin creates the largest story-governance correction since the current methodology was adopted.
+## Current Status
 
-`World Before Biography`
+Observed Research Direction
 
-cannot survive unchanged.
+### Strongest Evidence
 
-The issue is not that:
+Alinea.
 
-world-first storytelling
+### Supporting Evidence
 
-is wrong.
+FYN.
 
-Cultiva and Dishoom prove:
+### Current Interpretation
 
-it can be excellent.
+Some hospitality experiences are:
 
-The issue is that:
+collectively produced.
 
-world-first storytelling
+Narrative may need to recognise:
 
-is not transferable enough to remain a general Candidate in its current sequential form.
-
-Franklin shows:
-
-the founder may explain the world.
-
-FYN shows:
-
-authorship and worldview may be inseparable.
-
-Bistro Lolo shows:
-
-people can explain belonging.
-
-The stronger abstraction is therefore:
-
-> **Narrative prominence should follow explanatory value.**
-
-People first when:
-
-people explain the experience.
-
-World first when:
-
-the world explains the experience.
-
-Place first when:
-
-place explains the experience.
-
-Craft first when:
-
-craft explains the experience.
-
-That is a much stronger KHDS position.
-
-Franklin also strengthens:
-
-`Narrative Coherence Through Organising Logic`
-
-because it demonstrates that:
-
-a story can remain extremely simple
-
-and still be coherent.
-
-It strengthens:
-
-`Show the System Behind the Plate`
-
-because the system can be:
-
-technical craft
-
-and
-
-education,
-
-not only:
-
-sourcing.
-
-It does not restore:
-
-Growth as Narrative.
-
-Growth remains:
-
-supporting evidence
+team
 
 rather than:
 
-guest-facing organising logic.
+over-attribute everything to one founder.
+
+### Governance Recommendation
+
+Remain:
+
+below Candidate.
+
+### Reason
+
+Strong idea.
+
+Current evidence too narrow.
 
 ---
 
-# Provisional Story Governance Position
+# Distributed Authority
 
-After the Franklin story comparison:
+## Current Status
 
-## Recommended Major Change
+Observed Research Direction
 
-### World Before Biography
+### Strong Evidence
 
-Candidate
+Alinea.
+
+### Supporting Evidence
+
+- FYN
+- Franklin
+- Dishoom
+
+### Authority Sources May Include
+
+- founder
+- chef
+- team
+- institution
+- awards
+- heritage
+- product
+- place
+- cultural recognition
+
+### Current Interpretation
+
+Authority is:
+
+multimodal.
+
+### Governance Recommendation
+
+Treat as:
+
+narrative architecture knowledge.
+
+Not pattern.
+
+---
+
+# Narrative as Routing
+
+## Current Status
+
+Observed Research Direction
+
+### Strongest Evidence
+
+Alinea.
+
+### Supporting Evidence
+
+Dishoom.
+
+### Alinea Example
+
+Kitchen Table
+
+Gallery
+
+Salon
+
+function as:
+
+both narrative labels
+
+and
+
+participation routes.
+
+### Current Interpretation
+
+Narrative categories can help:
+
+organise choice.
+
+### Governance Recommendation
+
+Consolidate into:
+
+Multi-Intent Hospitality
+
++
+
+Narrative Language Within Clear Interface.
+
+Do not promote separately.
+
+---
+
+# Naming as Narrative Compression
+
+## Current Status
+
+Observed Research Direction
+
+### Strongest Evidence
+
+Alinea.
+
+### Supporting Evidence
+
+Dishoom.
+
+### Current Interpretation
+
+Names may carry:
+
+identity
+
+difference
+
+and
+
+choice
+
+efficiently.
+
+### Important Boundary
+
+Naming alone cannot replace:
+
+explanation.
+
+### Governance Recommendation
+
+Treat as:
+
+narrative technique.
+
+Not pattern.
+
+---
+
+# Narrative Selective Reveal
+
+## Current Status
+
+Observed Research Direction
+
+### Strongest Evidence
+
+Alinea.
+
+### Supporting Logic
+
+FYN.
+
+### Working Definition
+
+> Hospitality storytelling may provide enough meaning and expectation clarity for informed commitment while preserving elements whose value depends on discovery.
+
+### Current Tension
+
+Explanation
+
+vs
+
+Mystery.
+
+### Governance Recommendation
+
+Retain:
+
+below Candidate.
+
+### Promotion Watch
+
+Medium.
+
+Need another strong:
+
+discovery-dependent hospitality case.
+
+---
+
+# Interface Restraint for Complex Hospitality
+
+## Current Status
+
+Observed Research Direction
+
+### Strongest Evidence
+
+Alinea.
+
+### Supporting Evidence
+
+FYN.
+
+### Current Logic
+
+Complex Product
+
+↓
+
+Clear Interface
+
+↓
+
+Lower Interpretation Burden
+
+### Current Interpretation
+
+A complex hospitality product does not require:
+
+a complex digital interface.
+
+### Governance Recommendation
+
+Consolidate into:
+
+Narrative Language Within Clear Interface.
+
+Do not promote separately.
+
+---
+
+# Innovation as Organising Logic
+
+## Current Status
+
+Observed Research Direction
+
+### Strongest Evidence
+
+Alinea.
+
+### Current Problem
+
+Innovation is:
+
+too generic
+
+and
+
+too commonly claimed.
+
+### Governance Recommendation
+
+Do not promote.
+
+Treat as:
+
+restaurant-specific organising logic.
+
+---
+
+# Craft Ethos as Organising Logic
+
+## Current Status
+
+Observed Research Direction
+
+### Strongest Evidence
+
+Franklin.
+
+### Supporting Evidence
+
+FYN.
+
+### Alinea Outcome
+
+Craft is present conceptually
+
+but not the primary:
+
+story structure.
+
+### Governance Recommendation
+
+Remain:
+
+below Candidate.
+
+---
+
+# Cultural Memory as Organising Logic
+
+## Current Status
+
+Observed Research Direction
+
+### Strongest Evidence
+
+Dishoom.
+
+### Supporting Logic
+
+Talisman differs because:
+
+institutional continuity
+
+is not:
+
+designed cultural memory.
+
+### Alinea Outcome
+
+Not Applicable.
+
+### Governance Recommendation
+
+Remain:
+
+mechanism.
+
+---
+
+# Founder as World
+
+## Current Status
+
+Observed Research Direction
+
+### Strongest Evidence
+
+Franklin.
+
+### Alinea Outcome
+
+Strong boundary.
+
+Grant Achatz contributes authority.
+
+But Alinea’s world is not simply:
+
+equivalent to:
+
+Grant Achatz.
+
+### Current Interpretation
+
+Founder as World is:
+
+one possible structure.
+
+Not:
+
+the opposite of World Before Biography.
+
+### Governance Recommendation
+
+Remain:
+
+below Candidate.
+
+---
+
+# Teaching as Authority Infrastructure
+
+## Current Status
+
+Observed Research Direction
+
+### Strongest Evidence
+
+Franklin.
+
+### Supporting Evidence
+
+FYN.
+
+### Alinea Outcome
+
+Weak / not central in current public story.
+
+### Governance Recommendation
+
+Remain:
+
+below Candidate.
+
+---
+
+# Story Through Place — Stronger Boundary
+
+The current evidence supports:
+
+Story Through Place
+
+only where place materially explains:
+
+identity
+
+meaning
+
+or
+
+experience.
+
+### Strong Cases
+
+- Ankole
+- Talisman
+- Bistro Lolo
+- Dishoom
+
+### Boundary Cases
+
+- Franklin
+- Alinea
+
+### Current Rule
+
+Do not force:
+
+geographic storytelling
+
+when:
+
+place does not actually explain the restaurant.
+
+---
+
+# Heritage Builds Confidence — Stronger Boundary
+
+Talisman remains the clearest case.
+
+Alinea gives useful negative evidence.
+
+A restaurant may have:
+
+history
+
+recognition
+
+and
+
+institutional age
+
+without:
+
+heritage
+
+being the confidence mechanism.
+
+### Current Rule
+
+Ask:
+
+Does continuity itself explain:
+
+current value?
+
+If:
+
+no,
+
+do not label it:
+
+heritage.
+
+---
+
+# Biography Candidate — Stronger Boundary
+
+The nine cases now make the decision rule clearer.
+
+Ask:
+
+## Does the Person Explain the Experience?
+
+If yes:
+
+increase narrative prominence.
+
+If no:
+
+ask:
+
+## What Does Explain the Experience?
+
+Possible answers:
+
+- place
+- worldview
+- heritage
+- concept
+- culture
+- craft
+- experience
+
+### Current Rule
+
+Biography prominence should follow:
+
+explanatory value.
+
+Not:
+
+founder fame.
+
+---
+
+# Narrative Language — Stronger Boundary
+
+Dishoom and Alinea together provide:
+
+excellent contrast.
+
+### Dishoom
+
+Narrative-rich experience
+
+with:
+
+clear functional structure.
+
+### Alinea
+
+Narrative-restraint
+
+with:
+
+distinctive experience naming
+
+and
+
+clear functional structure.
+
+### Current Conclusion
+
+Narrative language is:
+
+optional.
+
+Functional clarity is:
+
+not.
+
+The Candidate should not become:
+
+use branded labels everywhere.
+
+---
+
+# Narrative Density vs Narrative Coherence
+
+This is now strongly established.
+
+### High Narrative Density
+
+Dishoom.
+
+### Lower Narrative Density
+
+Franklin.
+
+Alinea.
+
+Both can create:
+
+strong coherence.
+
+### Current Rule
+
+More story
+
+does not equal:
+
+better story.
+
+---
+
+# Authority as Story Support
+
+The nine-case set now identifies multiple authority mechanisms.
+
+## Heritage Authority
+
+Talisman.
+
+## Philosophy / Culinary Authority
+
+FYN.
+
+## Cultural Authority
+
+Dishoom.
+
+## Founder / Craft Authority
+
+Franklin.
+
+## Institutional / Recognition Authority
+
+Alinea.
+
+### Current Interpretation
+
+Authority should support:
+
+the organising logic.
+
+It should not:
+
+replace it.
+
+---
+
+# Story Is Not Biography
+
+Strongly established.
+
+Only some restaurants require:
+
+biography
+
+to explain:
+
+meaning.
+
+---
+
+# Story Is Not History
+
+Talisman uses history strongly.
+
+Alinea does not.
+
+Both can have:
+
+strong story.
+
+---
+
+# Story Is Not Place
+
+Ankole and Bistro Lolo:
+
+place matters.
+
+Alinea and Franklin:
+
+place is less central.
+
+---
+
+# Story Is Not Long Copy
+
+Franklin and Alinea make this:
+
+very clear.
+
+---
+
+# Story Is Not Brand Theatre Alone
+
+Alinea still requires:
+
+functional understanding.
+
+Dishoom still requires:
+
+clear participation.
+
+Meaning cannot come at the expense of:
+
+legibility.
+
+---
+
+# Story Is Not Reputation Alone
+
+Awards can support:
+
+confidence.
+
+They cannot tell the entire:
+
+hospitality story.
+
+---
+
+# Cross-Restaurant Narrative Architecture
+
+After nine restaurants, the strongest comparison model becomes:
+
+Hospitality Experience
+
+↓
+
+What Most Explains It?
+
+↓
+
+Choose Organising Logic
+
+↓
+
+Place / Worldview / Heritage / Concept / People / Culture / Craft / Experience
+
+↓
+
+Give Narrative Weight According to Explanatory Value
+
+↓
+
+Add Supporting Authority / Evidence
+
+↓
+
+Preserve Functional Clarity
+
+↓
+
+Participation
+
+This is:
+
+comparison-stage knowledge.
+
+Not yet:
+
+canonical KHDS governance.
+
+---
+
+# Explanatory Value as Narrative Variable
+
+This is the strongest post-Franklin + Alinea narrative learning.
+
+### Example
+
+## Franklin
+
+Founder + craft have:
+
+high explanatory value.
+
+## Alinea
+
+Experience architecture has:
+
+higher explanatory value than:
+
+long biography.
+
+## Cultiva
+
+Worldview has:
+
+high explanatory value.
+
+## Talisman
+
+heritage + place have:
+
+high explanatory value.
+
+### Current Conclusion
+
+The question is not:
+
+Which narrative category should lead?
+
+It is:
+
+> **Which narrative category actually explains the experience?**
+
+---
+
+# Pattern Interaction
+
+Alinea’s story can be understood through:
+
+Story Before Features
+
++
+
+Narrative Coherence Through Organising Logic
+
++
+
+Biography When It Explains the Experience
+
++
+
+Narrative Language Within Clear Interface
+
+↓
+
+Experience-Led Story
+
+↓
+
+Authority
+
+↓
+
+Participation
+
+This is stronger than:
+
+creating:
+
+Alinea Story Pattern.
+
+---
+
+# Alinea Effect on Official Story Patterns
+
+---
+
+## Story Before Features
+
+### Outcome
+
+Strongly Supported
+
+### Governance Recommendation
+
+Retain Emerging / High.
+
+No maturity change.
+
+---
+
+## Narrative Coherence Through Organising Logic
+
+### Outcome
+
+Very Strongly Supported
+
+### Governance Recommendation
+
+Retain Emerging / High.
+
+Incorporate:
+
+explanatory-value rule
+
+as governance guidance.
+
+---
+
+## Story Through Place
+
+### Outcome
+
+Weak / Contextual
+
+### Governance Recommendation
+
+Retain Emerging / High.
+
+Boundary strengthens.
+
+---
+
+## Biography When It Explains the Experience
+
+### Outcome
+
+Strongly Supported
+
+### Governance Recommendation
+
+Retain Candidate.
+
+Provisional confidence:
+
+Medium-High
 
 →
 
-Rename / Replace
+High.
 
-Recommended replacement direction:
+---
 
-`Biography When It Explains the Experience`
+## Heritage Builds Confidence
 
-Final wording to be decided in candidate governance.
+### Outcome
+
+Weak / Not Central
+
+### Governance Recommendation
+
+Retain Candidate / Medium.
+
+No change.
+
+---
+
+## Narrative Language Within Clear Interface
+
+### Outcome
+
+Strongly Supported
+
+### Governance Recommendation
+
+Retain Candidate.
+
+Provisional confidence:
+
+Medium-High
+
+→
+
+High.
+
+Refine definition around:
+
+optional narrative distinction
+
++
+
+required functional clarity.
+
+---
+
+## Show the System Behind the Plate
+
+### Story Outcome
+
+Strong Boundary Evidence
+
+### Governance Recommendation
+
+No story-driven maturity change.
+
+Photography comparison should govern:
+
+definition refinement.
+
+---
+
+## Growth as Narrative
+
+### Outcome
+
+No restoration.
+
+### Governance Recommendation
+
+Remain:
+
+Observed Research Direction / Low.
+
+---
+
+# New Story Directions — Governance Review
+
+---
+
+## Narrative Weight Follows Explanatory Value
+
+Do not promote separately.
+
+Use as:
+
+governing rule inside:
+
+Narrative Coherence Through Organising Logic.
+
+---
+
+## Experience as Organising Logic
+
+Treat as:
+
+mechanism.
+
+Do not promote.
+
+---
+
+## Reputation as Narrative Compression
+
+Retain:
+
+Observed Research Direction.
+
+Promotion Watch:
+
+Medium.
+
+---
+
+## Biography as Authority Infrastructure
+
+Consolidate into:
+
+Biography When It Explains the Experience.
+
+---
+
+## Distributed Authorship
+
+Retain:
+
+Observed Research Direction.
+
+---
+
+## Distributed Authority
+
+Treat as:
+
+architecture knowledge.
+
+---
+
+## Narrative as Routing
+
+Consolidate into:
+
+Multi-Intent Hospitality
+
++
+
+Narrative Language Within Clear Interface.
+
+---
+
+## Naming as Narrative Compression
+
+Treat as:
+
+narrative technique.
+
+---
+
+## Narrative Selective Reveal
+
+Retain:
+
+Observed Research Direction.
+
+---
+
+## Interface Restraint for Complex Hospitality
+
+Consolidate into:
+
+Narrative Language Within Clear Interface.
+
+---
+
+# Story Promotion Review
+
+## Promote
+
+None.
+
+---
+
+## Demote
+
+None.
+
+---
+
+## Rename
+
+None.
+
+---
+
+## Provisional Confidence Increase
+
+### Biography When It Explains the Experience
+
+Medium-High
+
+↓
+
+High
+
+### Narrative Language Within Clear Interface
+
+Medium-High
+
+↓
+
+High
+
+---
+
+## Definition / Governance Refinement
+
+### Narrative Coherence Through Organising Logic
+
+Add:
+
+narrative weight should follow:
+
+explanatory value.
+
+### Narrative Language Within Clear Interface
+
+Clarify:
+
+distinctive narrative language is optional.
+
+Functional clarity is required.
+
+---
+
+# Why Narrative Weight Follows Explanatory Value Should Not Become Candidate
+
+Because the strongest value of the direction is:
+
+architectural.
+
+It helps decide:
+
+which existing story mechanism should receive:
+
+narrative weight.
+
+Promoting it separately could duplicate:
+
+Narrative Coherence Through Organising Logic.
+
+The stronger move is to refine:
+
+the existing Emerging pattern.
+
+### Proposed Interpretation
+
+> **Narrative coherence emerges when the hospitality experience is organised around the elements that most meaningfully explain it, with narrative weight distributed according to explanatory value rather than fixed storytelling hierarchy.**
+
+This should be considered during:
+
+final governance.
+
+---
+
+# Why Biography When It Explains the Experience Should Remain Candidate
+
+Because:
+
+founder-first storytelling
+
+is a specific recurring design decision.
+
+The Candidate gives KHDS a clear rule:
+
+do not foreground biography simply because:
+
+a founder
+
+chef
+
+or public figure exists.
+
+Use biography when:
+
+the person materially explains:
+
+the experience.
+
+Alinea makes this rule:
+
+more credible
+
+not less.
+
+---
+
+# Why Narrative Language Within Clear Interface Should Gain Confidence
+
+Because the strongest current cases are:
+
+structurally different.
+
+### Dishoom
+
+high narrative density.
+
+### Alinea
+
+lower narrative density.
+
+Both show:
+
+brand-specific language
+
+can coexist with:
+
+functional legibility.
+
+That makes the pattern:
+
+less style-dependent
+
+and
+
+more transferable.
+
+---
+
+# Major Story Tensions After Alinea
+
+---
+
+## Founder vs Experience
+
+Central Alinea contribution.
+
+---
+
+## Explanatory Value vs Fixed Narrative Hierarchy
+
+Now a major KHDS distinction.
+
+---
+
+## Narrative Density vs Narrative Coherence
+
+Strongly established.
+
+---
+
+## Reputation vs Explanation
+
+Authority may compress:
+
+but not replace:
+
+meaning.
+
+---
+
+## Biography vs Authority
+
+A person can support:
+
+credibility
+
+without carrying:
+
+the whole narrative.
+
+---
+
+## Heritage vs Innovation
+
+Different confidence routes.
+
+---
+
+## Place vs Experience
+
+Ankole / Talisman
+
+versus
+
+Alinea.
+
+---
+
+## Worldview vs Experience
+
+Cultiva
+
+versus
+
+Alinea.
+
+---
+
+## Cultural Memory vs Creative Method
+
+Dishoom
+
+versus
+
+Alinea.
+
+---
+
+## Narrative Language vs Functional Language
+
+Alinea clarifies:
+
+they can coexist.
+
+---
+
+## Mystery vs Explanation
+
+Alinea strengthens:
+
+selective narrative disclosure.
+
+---
+
+## Individual Authorship vs Distributed Authorship
+
+Alinea creates useful pressure.
+
+---
+
+# Contradictions to Preserve
+
+---
+
+## Franklin vs Alinea
+
+Franklin:
+
+founder + craft
+
+strongly explain:
+
+the restaurant.
+
+Alinea:
+
+experience architecture
+
+can explain:
+
+the restaurant
+
+with biography supporting.
+
+Both support:
+
+Biography When It Explains the Experience.
+
+---
+
+## Cultiva vs Alinea
+
+Cultiva:
+
+worldview should lead.
+
+Alinea:
+
+experience can lead.
+
+Do not force:
+
+one hierarchy.
+
+---
+
+## Talisman vs Alinea
+
+Talisman:
+
+heritage and continuity create:
+
+confidence.
+
+Alinea:
+
+innovation and institutional authority create:
+
+confidence.
+
+Different narrative mechanisms.
+
+---
+
+## Dishoom vs Alinea
+
+Dishoom:
+
+dense cultural story.
+
+Alinea:
+
+compressed experience story.
+
+Both remain:
+
+coherent.
+
+---
+
+## Bistro Lolo vs Alinea
+
+Bistro Lolo:
+
+people + place.
+
+Alinea:
+
+experience + authority.
+
+Both remain:
+
+humanly legible.
+
+---
+
+# Story Evidence Discipline
+
+Website research can establish:
+
+- public narrative subjects
+- section order
+- founder / chef visibility
+- experience naming
+- public history
+- place references
+- awards
+- language style
+- visible narrative density
+- interface labels
+
+It cannot establish:
+
+- what story guests remember
+- whether biography builds trust
+- whether awards increase conversion
+- whether narrative density improves engagement
+- whether guests understand cultural references
+- whether founder fame is already known
+- whether reputation reduces explanation need
+- whether mystery increases anticipation
+
+Those require:
+
+behavioural
+
+or
+
+guest research.
+
+---
+
+# Current Story Research Model
+
+After nine restaurants, the strongest current model becomes:
+
+Hospitality Experience
+
+↓
+
+What Does the Guest Need to Understand?
+
+↓
+
+What Most Explains the Experience?
+
+↓
+
+Place / Worldview / Heritage / Concept / People / Culture / Craft / Experience
+
+↓
+
+Give Narrative Weight According to Explanatory Value
+
+↓
+
+Use Supporting Authority and Evidence
+
+↓
+
+Preserve Necessary Functional Clarity
+
+↓
+
+Preserve Appropriate Mystery
+
+↓
+
+Participation
+
+This is:
+
+comparison-stage knowledge.
+
+Do not yet promote it to:
+
+KHDS Principle.
+
+---
+
+# Story Governance Recommendation
+
+## Promote
+
+None.
+
+---
+
+## Demote
+
+None.
+
+---
+
+## Rename
+
+None.
 
 ---
 
@@ -2658,323 +2789,373 @@ Final wording to be decided in candidate governance.
 
 ---
 
-## Retain Candidate With Definition Refinement
+## Retain Candidate
 
 - Heritage Builds Confidence
-- Show the System Behind the Plate
+- Biography When It Explains the Experience
 - Narrative Language Within Clear Interface
+
+---
+
+## Provisional Confidence Increase
+
+Biography When It Explains the Experience:
+
+Medium-High
+
+↓
+
+High
+
+Narrative Language Within Clear Interface:
+
+Medium-High
+
+↓
+
+High
 
 ---
 
 ## Retain Below Candidate
 
-- Growth as Narrative
-- Biography as Brand Infrastructure
-- Founder as World
 - Reputation as Narrative Compression
+- Narrative Selective Reveal
+- Distributed Authorship
+- Growth as Narrative
+- Founder as World
 - Teaching as Authority Infrastructure
 - Craft Ethos as Organising Logic
 
 ---
 
-# Franklin Comparison Cycle — Combined Governance Pressure
+## Consolidate
 
-All five comparison files are now complete.
+- Narrative Weight Follows Explanatory Value
+- Experience as Organising Logic
+- Biography as Authority Infrastructure
+- Distributed Authority
+- Narrative as Routing
+- Naming as Narrative Compression
+- Interface Restraint for Complex Hospitality
 
-Franklin has produced the following strongest governance recommendations.
+into:
 
-## Recommended Candidate Promotions
+existing patterns
 
-1. Photography as Use-Case Evidence
-2. Walk-In as First-Class Participation
+or
 
----
+narrative architecture knowledge
 
-## Candidate Requiring Rename / Replacement
-
-3. World Before Biography
-
-Recommended direction:
-
-Biography When It Explains the Experience
-
----
-
-## Candidate Under Major Review
-
-4. Atmosphere Through Worldview
-
-Franklin provides meaningful contradiction.
+rather than creating new patterns.
 
 ---
 
-## Candidate Requiring Major Definition Refinement
+# Provisional Story Governance Changes for Final Reconciliation
 
-5. Show the System Behind the Plate
+These are not yet official.
 
-Must account for:
+### Biography When It Explains the Experience
 
-craft systems
+Candidate
 
-not only production / sourcing systems.
+Confidence:
+
+Medium-High
+
+→
+
+High
+
+### Narrative Language Within Clear Interface
+
+Candidate
+
+Confidence:
+
+Medium-High
+
+→
+
+High
+
+### Narrative Coherence Through Organising Logic
+
+Emerging / High
+
+Refine governance interpretation:
+
+narrative weight should follow:
+
+explanatory value.
+
+### Story Through Place
+
+Emerging / High
+
+Retain.
+
+Strengthen:
+
+contextual boundary.
+
+### Heritage Builds Confidence
+
+Candidate / Medium
+
+Retain.
+
+No change.
+
+No maturity count changes result from these recommendations.
 
 ---
 
-## Emerging Pattern Requiring Naming / Definition Review
+# Cross-Comparison State After Alinea
 
-6. Human Assistance When Complexity Requires It
+All five Alinea comparison files are now complete:
 
-Franklin suggests:
+1. `arrival.md`
+2. `atmosphere.md`
+3. `photography.md`
+4. `reservation.md`
+5. `story.md`
 
-complexity
+The comparison cycle now produces the following provisional governance changes:
 
-may not be the only trigger.
+### Confidence Increase
 
-Possible deeper triggers:
+- Atmosphere as Product: Medium-High → High
+- Biography When It Explains the Experience: Medium-High → High
+- Narrative Language Within Clear Interface: Medium-High → High
 
-- uncertainty
-- coordination
-- physical flow
-- exception handling
+### Confidence Decrease
 
----
+- Atmosphere Through Worldview: Medium-High → Medium
+- Photography as Use-Case Evidence: High → Medium-High
 
-## Emerging Pattern Requiring Boundary Refinement
+### Recommended Rename
 
-7. Multi-Intent Hospitality
+- Human Assistance When Complexity Requires It
+  →
+  Human Assistance Where Structured Self-Service Is Insufficient
 
-Do not manufacture unnecessary routes.
+Provisional confidence:
 
----
+Medium-High → High
 
-## Emerging Pattern Strongly Strengthened
+### Strong Candidate Watch Change
+
+- Atmosphere Through Use:
+  remove Very Strong Candidate Watch
+  and retain below Candidate
+
+### Definition Refinements
 
 - Photography Should Demonstrate Difference
-- Narrative Coherence Through Organising Logic
-- Participation Throughout the Journey
+- Show the System Behind the Plate
 - Escalating Participation Complexity
-- Commitment Without Pressure
-- The Guest as Participant
-- Photography as Proof
-- Layered Arrival
-
----
-
-## Direction Remaining Appropriately Demoted
-
-- Growth as Narrative
-
----
-
-# Expected Governance Count Pressure
-
-Current official state remains:
-
-## Emerging
-
-18
-
-## Candidate
-
-7
-
-## Partially Supported
-
-1
-
-No count changes are official yet.
-
-However, if governance accepts both proposed promotions:
-
-- Photography as Use-Case Evidence
+- Multi-Intent Hospitality
 - Walk-In as First-Class Participation
+- Narrative Coherence Through Organising Logic
+- Narrative Language Within Clear Interface
 
-Candidate count would rise by:
+These remain:
 
-+2
+provisional
 
-If:
+until formal governance reconciliation.
 
-World Before Biography
+---
 
-is renamed / replaced without changing maturity,
+# Official Governance Freeze
 
-Candidate count does not change.
+The official global state remains:
 
-If:
-
-Atmosphere Through Worldview
-
-is retained Candidate after narrowing,
-
-Candidate count does not change.
-
-If it is demoted,
-
-Candidate count would decrease by:
-
-1.
-
-Therefore the likely post-Franklin Candidate count is currently somewhere between:
+Independent Restaurants:
 
 8
 
-and
+Kodawa Labs Validation Concepts:
+
+1
+
+Emerging:
+
+18
+
+Candidate:
 
 9
 
-depending on the Atmosphere Through Worldview decision.
+Partially Supported:
 
-Do not set the count until candidate governance is reconciled.
+1
 
----
+Validated:
 
-# Current Story Model
+0
 
-The strongest provisional model is:
+Research-Derived KHDS Principles:
 
-Hospitality Meaning
+0
 
-↓
+Existing Implementation Patterns Pending Validation:
 
-Best Organising Logic
+1
 
-↓
+Alinea remains:
 
-Relevant Meaning-Bearing Elements
+Independent Restaurant #9 Candidate
 
-↓
-
-Story + Proof
-
-↓
-
-Confidence
-
-↓
-
-Participation
-
-Where:
-
-Best Organising Logic
-
-may be:
-
-- place
-- worldview
-- heritage
-- concept
-- people
-- craft
-- cultural memory
-- culinary philosophy
-
-The goal is not:
-
-one sequence.
-
-The goal is:
-
-explanatory coherence.
+until the governance files are updated.
 
 ---
 
-# Final Story Statement
+# Next Governance Sequence
 
-Cultiva taught KHDS:
+Now reconcile:
 
-the world can come first.
+1. `khds/research/validation/candidate-patterns.md`
+2. `khds/patterns/registry.md`
+3. `khds/research/validation/dashboard.md`
+4. `khds/research/README.md`
+5. `khds/research/validation/README.md`
 
-Dishoom taught KHDS:
+Only after these files agree should Alinea become:
 
-a cultural world can contain people.
+official independent restaurant #9.
 
-Franklin now teaches:
+---
 
-> **people can create the world.**
+# Final Story Comparison Statement
 
-That breaks the current sequencing assumption.
+Nine restaurants now make one narrative rule increasingly difficult to ignore:
 
-The correct question is not:
+> **There is no universal story hierarchy.**
 
-> Should biography come before or after the world?
-
-It is:
-
-> **What actually helps the guest understand why this hospitality experience matters?**
-
-Sometimes:
+Ankole is best explained through:
 
 place.
 
-Sometimes:
+Cultiva:
 
-history.
+worldview.
 
-Sometimes:
+Talisman:
 
-culture.
+heritage.
 
-Sometimes:
+Mawimbi:
 
-a founder.
+concept.
 
-Sometimes:
+Bistro Lolo:
 
-craft.
+people and place.
 
-The strongest story architecture follows:
+FYN:
 
-meaning.
+culinary philosophy and authorship.
 
-Not doctrine.
+Dishoom:
 
-Franklin therefore gives KHDS its clearest evidence yet that:
+cultural memory.
 
-`World Before Biography`
+Franklin:
 
-needs to change.
+founder and craft.
 
-At the same time, it makes:
+Alinea:
 
-`Narrative Coherence Through Organising Logic`
+experience, innovation, and authority.
 
-much stronger.
+The mistake would be to turn any one of these into:
 
-Because Franklin proves:
+the KHDS storytelling formula.
 
-a story does not need to be complicated.
+The stronger question is:
 
-It only needs to know:
+> **What most efficiently explains this hospitality experience?**
 
-what holds it together.
+Then:
+
+give that element:
+
+appropriate narrative weight.
+
+Franklin proved:
+
+biography can lead.
+
+Alinea proves:
+
+biography does not need to lead
+
+even when the founder is highly visible.
+
+That makes:
+
+`Biography When It Explains the Experience`
+
+stronger.
+
+Dishoom proved:
+
+narrative language can create:
+
+world-building.
+
+Alinea proves:
+
+a complex hospitality product can also benefit from:
+
+restraint
+
+and
+
+clear functional language.
+
+That makes:
+
+`Narrative Language Within Clear Interface`
+
+stronger.
+
+The largest story learning from Alinea is therefore not:
+
+a new Candidate.
+
+It is:
+
+a better narrative decision rule.
+
+> **Narrative weight should follow explanatory value.**
+
+That idea should now refine:
+
+Narrative Coherence Through Organising Logic
+
+rather than inflate the registry with:
+
+another overlapping pattern.
+
+Evidence wins.
 
 ---
 
-## Research Status
+## Comparison Status
 
-Franklin Story Comparison Complete
+Story Comparison Reconciled Through Alinea
 
-Franklin Comparison Cycle Complete
-
-Global Governance Reconciliation Pending
+Alinea Comparison Cycle Complete
 
 ---
 
 ## Next Step
 
-Update:
+Reconcile:
 
 `khds/research/validation/candidate-patterns.md`
 
-Then reconcile:
-
-1. `khds/patterns/registry.md`
-2. `khds/research/validation/dashboard.md`
-3. `khds/research/README.md`
-4. `khds/research/validation/README.md`
-
-Do not update official counts until the candidate governance decisions are resolved.
-
-Evidence wins.
+Global governance can now begin.
