@@ -2,9 +2,9 @@
 
 ## Research Status
 
-Alinea Comparison Cycle
+Post-NARISAWA Atmosphere Comparison Complete
 
-Atmosphere Reconciliation Complete
+Independent Restaurant #10 Candidate Included
 
 Global Governance Still Frozen
 
@@ -12,18 +12,50 @@ Global Governance Still Frozen
 
 # Purpose
 
-Compare how the current independent restaurant set creates and communicates atmosphere.
+This document compares how the current independent restaurant set creates and communicates:
 
-This document evaluates whether atmosphere patterns remain:
+- emotional coherence
+- atmosphere
+- environmental identity
+- worldview
+- place
+- use
+- continuity
+- cultural memory
+- craft
+- experience architecture
 
-- transferable
-- contextual
-- contradictory
-- overly broad
-- in need of narrowing
-- in need of stronger boundaries
+The goal is not to identify:
 
-The comparison set now includes:
+one correct atmospheric style.
+
+The goal is to determine:
+
+which mechanisms actually create coherent hospitality atmosphere
+
+and
+
+where current KHDS patterns need:
+
+- stronger boundaries
+- stronger confidence
+- contradiction
+- refinement
+- consolidation
+
+NARISAWA is included as:
+
+Independent Restaurant #10 Candidate.
+
+Its evidence should not change:
+
+global governance
+
+until all five comparison files are complete.
+
+---
+
+# Current Comparison Set
 
 1. Ankole
 2. Cultiva
@@ -34,69 +66,70 @@ The comparison set now includes:
 7. Dishoom Covent Garden
 8. Franklin Barbecue
 9. Alinea
-
-Alinea remains:
-
-Independent Restaurant #9 Candidate
-
-until all comparison and governance files are reconciled.
+10. NARISAWA
 
 ---
 
 # Core Atmosphere Question
 
-> **What actually creates this restaurant’s emotional coherence?**
+Across ten materially different restaurants:
 
-After nine independent restaurants, atmosphere can no longer be treated as:
+> **What actually creates emotional coherence?**
 
-visual style alone.
+The answer is no longer:
 
-The current evidence shows atmosphere may emerge through:
+one aesthetic system.
+
+The research now shows atmosphere can emerge through:
 
 - place
 - worldview
 - continuity
 - escape
 - belonging
-- controlled contrast
+- restraint
 - cultural memory
-- craft-led social behaviour
+- craft
+- social use
 - experience architecture
+- seasonal culinary translation
 
-The mechanism varies.
+The stronger question is:
 
-The requirement for coherence remains.
-
----
-
-# Nine Atmosphere Models
+> **Which mechanism is doing the atmospheric work in this restaurant?**
 
 ---
 
-## Ankole
+# Ten Atmosphere Models
 
-### Model
+---
+
+## 1. Ankole
+
+### Atmosphere Model
 
 Refinement Through Place
 
 ### Primary Mechanisms
 
-- environment
-- spatial identity
+- physical environment
+- polished presentation
+- place identity
 - visual refinement
-- place
 
-### Guest Impression Being Communicated
+### Character
 
-A refined destination connected to:
+calm
 
-its physical setting.
+refined
+
+place-led.
 
 ---
 
-## Cultiva
+## 2. Cultiva
 
-### Model
+### Atmosphere Model
 
 Worldview Through Environment
 
@@ -104,44 +137,48 @@ Worldview Through Environment
 
 - cultivation
 - sustainability
-- philosophy
 - environment
-- culinary worldview
+- sourcing logic
+- philosophical identity
 
-### Guest Impression Being Communicated
+### Character
 
-A restaurant whose physical atmosphere reflects:
+worldview-led
 
-what it believes.
+ecological
+
+system-aware.
 
 ---
 
-## Talisman
+## 3. Talisman
 
-### Model
+### Atmosphere Model
 
 Continuity Through History and Place
 
 ### Primary Mechanisms
 
-- old house
+- old-house setting
 - Karen
+- accumulated history
 - garden
 - art
-- long-term presence
-- accumulated character
+- lived-in character
 
-### Guest Impression Being Communicated
+### Character
 
-An established place whose atmosphere has:
+historical
 
-developed over time.
+established
+
+place-rooted.
 
 ---
 
-## Mawimbi
+## 4. Mawimbi
 
-### Model
+### Atmosphere Model
 
 Designed Escape
 
@@ -150,175 +187,200 @@ Designed Escape
 - coastal references
 - tropical environment
 - luxury
+- social occasion
 - seafood
-- destination character
 
-### Guest Impression Being Communicated
+### Character
 
-A designed emotional departure from:
+aspirational
 
-the surrounding city.
+immersive
+
+escape-led.
 
 ---
 
-## Bistro Lolo
+## 5. Bistro Lolo
 
-### Model
+### Atmosphere Model
 
 Designed Belonging
 
 ### Primary Mechanisms
 
-- neighbourhood rhythm
-- casual use
+- neighbourhood identity
+- daily rhythm
+- people
+- social use
 - familiarity
-- social life
-- place
-- everyday participation
 
-### Guest Impression Being Communicated
+### Character
 
-A place guests can:
+social
 
-return to
+human
 
-inhabit
+familiar
 
-and
-
-belong within.
+belonging-led.
 
 ---
 
-## FYN
+## 6. FYN
 
-### Model
+### Atmosphere Model
 
 Restraint Through Controlled Contrast
 
 ### Primary Mechanisms
 
-- restraint
 - precision
-- separation
-- complementary opposites
-- controlled visual systems
+- restraint
+- contrast
+- spatial separation
+- culinary authority
 
-### Guest Impression Being Communicated
+### Character
 
-A high-control environment whose coherence does not depend on:
+controlled
 
-visual abundance.
+refined
+
+high-commitment.
 
 ---
 
-## Dishoom Covent Garden
+## 7. Dishoom Covent Garden
 
-### Model
+### Atmosphere Model
 
 Cultural Immersion Through Designed Memory
 
 ### Primary Mechanisms
 
 - cultural memory
-- Bombay café references
-- story
-- spatial design
-- social use
-- historical imagination
+- location-specific world-building
+- social energy
+- historical references
+- design language
 
-### Guest Impression Being Communicated
+### Character
 
-Entry into:
+immersive
 
-a culturally constructed hospitality world.
+cultural
+
+social
+
+narrative-rich.
 
 ---
 
-## Franklin Barbecue
+## 8. Franklin Barbecue
 
-### Model
+### Atmosphere Model
 
 Craft-Led Social Informality
 
 ### Primary Mechanisms
 
-- product expectation
-- craft authority
-- operational informality
-- shared waiting / participation
-- social energy
+- product
+- craft
+- queue
+- founder ethos
+- social informality
+- physical use
 
-### Guest Impression Being Communicated
+### Character
 
-A strong product culture carried through:
+craft-led
 
-craft
+informal
 
-and
-
-social participation.
+participatory.
 
 ---
 
-## Alinea
+## 9. Alinea
 
-### Model
+### Atmosphere Model
 
 Controlled Experiential Theatre
 
 ### Primary Mechanisms
 
 - experience architecture
-- spatial differentiation
 - pacing
-- surprise
-- precision
+- controlled participation
+- selective reveal
+- spatial differentiation
 - creative method
-- choreographed participation
 
-### Guest Impression Being Communicated
+### Character
 
-A deliberately authored experience where:
+theatrical
 
-the structure itself
+controlled
 
-helps create atmosphere.
-
-This model remains provisional until full reconciliation.
+experience-led.
 
 ---
 
-# First Cross-Restaurant Finding
+## 10. NARISAWA
 
-## Atmosphere Does Not Have One Universal Source
+### Atmosphere Model
 
-The nine restaurants create atmosphere through very different mechanisms.
+Worldview Through Seasonal Culinary Translation
 
-Current mechanisms include:
+### Primary Mechanisms
+
+- Satoyama worldview
+- cultural and ecological place
+- seasonality
+- chef translation
+- omakase
+- restraint
+
+### Character
+
+worldview-led
+
+seasonal
+
+culinary
+
+philosophically coherent.
+
+---
+
+# First Major Comparison Finding
+
+## Atmosphere Has Multiple Legitimate Organising Mechanisms
+
+Across ten restaurants:
+
+strong atmosphere appears through:
 
 - place
 - worldview
-- continuity
-- escape
+- history
 - belonging
-- contrast
-- cultural memory
+- escape
 - craft
-- social use
+- cultural memory
 - experience structure
+- use
+- seasonality
 
 This makes one thing increasingly clear:
 
-> **KHDS should not define atmosphere by a specific aesthetic mechanism.**
+> **Atmosphere is emotional coherence, not visual uniformity.**
 
-The more transferable question is:
-
-> **Does the restaurant’s emotional experience remain coherent across the signals that matter?**
+This remains the strongest general KHDS atmosphere rule.
 
 ---
 
-# Atmosphere Through Consistency
+# Pattern Stress Test — Atmosphere Through Consistency
 
 ## Current Status
 
@@ -328,682 +390,919 @@ Emerging
 
 High
 
-### Evidence Across Set
-
-#### Ankole
-
-Place and refinement align.
-
-#### Cultiva
-
-Worldview, environment, language, and food align.
-
-#### Talisman
-
-History, setting, interiors, art, and reputation align.
-
-#### Mawimbi
-
-Product, escape, luxury, and language align.
-
-#### Bistro Lolo
-
-Place, rhythm, casual use, and belonging align.
-
-#### FYN
-
-Restraint and controlled contrast align.
-
-#### Dishoom
-
-Culture, narrative, physical memory, and social use align.
-
-#### Franklin
-
-Craft, product, behaviour, and operational informality align.
-
-#### Alinea
-
-Experience format, timing, spatial differentiation, creative method, and participation align.
-
-### Post-Alinea Interpretation
-
-Alinea strongly supports the refined definition:
-
-consistency does not require:
-
-- one mood
-- one visual language
-- one room
-- one emotional tone
-
-It may exist at the level of:
-
-## Organising Experience Logic.
-
-### Refined Working Definition
-
-> **Atmosphere Through Consistency means that the relevant visual, spatial, behavioural, narrative, operational, and experiential signals reinforce a coherent emotional logic, even when the experience contains deliberate contrast.**
-
-### Status Recommendation
-
-Retain:
-
-Emerging
-
-### Confidence Recommendation
-
-Retain:
-
-High
-
----
-
-# Atmosphere as Product
-
-## Current Status
-
-Emerging
-
-## Current Confidence
-
-Medium-High
-
 ### Strong Evidence
 
-- Mawimbi
-- Bistro Lolo
-- FYN
-- Dishoom
-- Alinea
+All ten restaurants provide:
 
-### Supporting Evidence
+some form of coherent atmospheric logic.
 
-- Ankole
-- Talisman
+But the signals differ.
 
-### Franklin Boundary
+### NARISAWA Contribution
 
-Atmosphere can:
+NARISAWA shows that consistency can come from:
 
-support the product
+conceptual alignment
 
-without necessarily becoming:
+between:
 
-the primary product.
-
-### Alinea Contribution
-
-Alinea is one of the strongest current tests because the guest selects:
-
-materially different experience formats
-
-before purchase.
-
-### Important Distinction
-
-## Atmosphere as Primary Product Value
-
-The atmosphere itself is a major reason for choosing the experience.
-
-versus
-
-## Atmosphere as Supporting Product Value
-
-Atmosphere strengthens:
-
-food
-
-craft
-
-or
-
-social experience
-
-without becoming the main commercial proposition.
-
-### Alinea Interpretation
-
-The selected experience format is commercially material.
-
-But website evidence still cannot establish:
-
-how much of the price guests attribute specifically to:
-
-atmosphere.
-
-### Status Recommendation
-
-Retain:
-
-Emerging
-
-### Confidence Recommendation
-
-Increase from:
-
-Medium-High
-
-to:
-
-High
-
-### Reason
-
-Alinea adds a strong materially different case where:
-
-experience configuration
-
-is clearly part of:
-
-what the guest selects.
-
-This confidence change should remain:
-
-provisional
-
-until final governance reconciliation.
-
----
-
-# Atmosphere Through Worldview
-
-## Current Status
-
-Candidate / Under Review
-
-## Current Confidence
-
-Medium-High
-
-### Strong Positive Evidence
-
-#### Cultiva
-
-Very strong.
-
-Atmosphere directly reflects:
-
-a cultivation and sustainability worldview.
-
-#### FYN
-
-Strong.
-
-Culinary philosophy and broader authorship influence:
-
-the emotional world.
-
-#### Dishoom
-
-Strong.
-
-Cultural memory and a larger worldview materially organise:
-
-the experience.
-
-### Previous Contradiction
-
-#### Franklin
-
-Strong atmosphere exists through:
-
-craft culture
-
-product authority
-
-and
-
-social informality
-
-without clear evidence that:
-
-broad worldview
-
-is the primary mechanism.
-
-### Alinea Outcome
-
-A second materially different challenge.
-
-Alinea appears capable of strong atmospheric coherence through:
-
-- creative method
-- experience architecture
-- pacing
-- theatricality
-- precision
-- controlled participation
-
-without clear evidence that:
-
-broad worldview
-
-is the primary source.
-
-### Current Question
-
-Is:
-
-worldview
-
-a transferable atmosphere pattern
-
-or merely:
-
-one atmospheric mechanism?
-
-### Current Evidence
-
-Increasingly suggests:
-
-one mechanism.
-
-### Important Boundary
-
-KHDS should not stretch:
-
-worldview
-
-until it includes:
-
-- any design concept
-- any craft philosophy
-- any creative method
-- any strong aesthetic
-- any coherent experience
-
-Doing so would make the Candidate:
-
-unfalsifiable.
-
-### Status Recommendation
-
-Retain:
-
-Candidate / Under Review
-
-### Confidence Recommendation
-
-Reduce from:
-
-Medium-High
-
-to:
-
-Medium
-
-### Reason
-
-Alinea produces a second strong contradiction class after Franklin.
-
-The positive evidence remains real.
-
-But the Candidate now appears:
-
-more contextual
-
-and
-
-less broadly transferable
-
-than previously assumed.
-
-Do not demote yet.
-
----
-
-# Atmosphere Through Continuity
-
-## Current Status
-
-Candidate
-
-## Current Confidence
-
-Medium
-
-### Strong Evidence
-
-- Talisman
-
-### Supporting Evidence
-
-- Dishoom, but through designed historical memory rather than accumulated institutional continuity
-
-### Weak / Not Central
-
-- Ankole
-- Cultiva
-- Mawimbi
-- Bistro Lolo
-- FYN
-- Franklin
-- Alinea
-
-### Alinea Outcome
-
-Weak / Not Central.
-
-### Important Distinction
-
-Alinea has:
-
-history.
-
-But history alone does not create:
-
-Atmosphere Through Continuity.
-
-### Current Conclusion
-
-This remains:
-
-narrow
-
-but valid.
-
-### Status Recommendation
-
-Retain:
-
-Candidate
-
-### Confidence
-
-Medium
-
----
-
-# Designed Escape
-
-## Current Status
-
-Candidate
-
-## Current Confidence
-
-Medium
-
-### Strong Evidence
-
-Mawimbi.
-
-### Possible Related Evidence
-
-Alinea.
-
-### Alinea Tension
-
-Alinea may produce:
-
-experiential departure
-
-from ordinary dining
+- worldview
+- seasonality
+- chef authorship
+- product
+- reservation structure
+- restrained interface
 
 rather than:
 
-environmental or destination escape.
+visual repetition alone.
 
-### Governance Risk
+### Comparison Outcome
 
-If Designed Escape is expanded to include:
+Very Strongly Supported.
 
-any unusual experience
+### Governance Recommendation
 
-it becomes:
-
-too broad.
-
-### Current Boundary
-
-Designed Escape should remain connected to:
-
-intentional emotional transportation away from:
-
-the surrounding everyday environment
-
-or
-
-ordinary context.
-
-### Alinea Outcome
-
-Related / Boundary Evidence
-
-not:
-
-strong direct support.
-
-### Status Recommendation
-
-Retain:
-
-Candidate
-
-### Confidence
-
-Medium
+No change.
 
 ---
 
-# Atmosphere Through Use
+# Atmosphere Through Consistency — Refined Interpretation
+
+The current definition remains strong:
+
+> **Atmosphere Through Consistency means that the relevant visual, spatial, behavioural, narrative, operational, and experiential signals reinforce a coherent emotional logic, even when the experience contains deliberate contrast.**
+
+NARISAWA adds:
+
+conceptual translation
+
+as another way those signals can align.
+
+No rewrite required yet.
+
+---
+
+# Pattern Stress Test — Atmosphere Through Worldview
+
+## Current Status
+
+Candidate / Under Review
+
+## Current Confidence
+
+Medium
+
+### Strong Positive Evidence
+
+- Cultiva
+- FYN
+- Dishoom
+- NARISAWA
+
+### Strong Boundary / Contradiction Evidence
+
+- Franklin
+- Alinea
+
+### Supporting / Partial
+
+- Mawimbi
+- Ankole
+
+---
+
+# NARISAWA Contribution to Atmosphere Through Worldview
+
+NARISAWA provides:
+
+one of the strongest positive worldview cases in the current research set.
+
+Its public philosophy connects:
+
+- Satoyama
+- ecology
+- culture
+- seasonality
+- chef authorship
+- cuisine
+
+inside one coherent system.
+
+This is materially different from:
+
+Cultiva
+
+Dishoom
+
+and
+
+FYN.
+
+That matters.
+
+---
+
+# Should Atmosphere Through Worldview Confidence Increase?
+
+Yes.
+
+The evidence now supports:
+
+a stronger confidence position
+
+provided the pattern remains:
+
+narrowly defined.
+
+### Previous
+
+Candidate / Under Review
+
+Confidence:
+
+Medium
+
+### Recommended Post-NARISAWA
+
+Candidate / Under Review
+
+Confidence:
+
+Medium-High
+
+### Reason
+
+NARISAWA provides:
+
+strong positive evidence
+
+after:
+
+meaningful contradiction
+
+from Franklin and Alinea.
+
+This is stronger than:
+
+simple confirmation.
+
+---
+
+# Atmosphere Through Worldview — Definition Pressure
+
+The current definition is:
+
+> **A restaurant may create atmospheric coherence through a broader worldview when that worldview materially shapes the environment, experience, story, or guest interpretation.**
+
+NARISAWA suggests:
+
+one refinement.
+
+### Stronger Possible Definition
+
+> **A restaurant may create atmospheric coherence through a broader worldview when that worldview is materially translated into the environment, product, experience, story, or participation rather than remaining only as declared philosophy.**
+
+### Governance Recommendation
+
+Strong refinement candidate.
+
+Do not make official until:
+
+all five NARISAWA comparisons are complete.
+
+---
+
+# Worldview Requires Translation
 
 ## Current Status
 
 Observed Research Direction
 
-## Previous Position
+### Strong Evidence
 
-Very Strong Candidate Watch
+- Cultiva
+- NARISAWA
 
-## Previous Confidence
+### Supporting Evidence
 
-High
+- FYN
+- Dishoom
 
-### Strong Positive Evidence
+### Current Interpretation
 
-#### Bistro Lolo
+This is probably:
 
-Social rhythm and everyday use appear deeply connected to:
+not a separate pattern.
 
-belonging.
+It is:
 
-#### Dishoom
+a boundary rule
 
-Social behaviour contributes strongly to:
+inside:
 
-café atmosphere.
-
-#### Franklin
-
-Waiting, arrival, ordering, and shared physical participation appear intertwined with:
-
-social energy.
-
-### Alinea Outcome
-
-Major contradiction pressure.
-
-Alinea introduces a materially different relationship between:
-
-use
-
-and
-
-atmosphere.
-
-### Previous Implied Model
-
-Guest Use
-
-↓
-
-Social Behaviour
-
-↓
-
-Atmosphere
-
-### Alinea Model
-
-Designed Experience
-
-↓
-
-Atmospheric Structure
-
-↓
-
-Guest Behaviour
-
-### Current Question
-
-Does use:
-
-create atmosphere
-
-or
-
-reveal / enact atmosphere?
-
-### Post-Alinea Conclusion
-
-The original direction:
-
-`Atmosphere Through Use`
-
-is now too causally confident.
+Atmosphere Through Worldview.
 
 ### Governance Recommendation
 
-Do not promote.
+Consolidate into:
 
-Remove:
+Atmosphere Through Worldview
 
-Very Strong Candidate Watch
+after full reconciliation.
 
-until another case clarifies the relationship.
+---
 
-### Confidence Recommendation
+# Worldview Is Still Not Universal
 
-Reduce from:
+NARISAWA does not erase:
+
+Franklin
+
+or
+
+Alinea.
+
+### Franklin
+
+Craft
+
++
+
+social use
+
+can produce:
+
+strong atmosphere.
+
+### Alinea
+
+Experience architecture
+
++
+
+controlled participation
+
+can produce:
+
+strong atmosphere.
+
+### NARISAWA
+
+Worldview
+
++
+
+seasonal culinary translation
+
+can produce:
+
+strong atmosphere.
+
+### Current Conclusion
+
+Worldview is:
+
+one legitimate mechanism
+
+not:
+
+the universal atmospheric source.
+
+This keeps the Candidate:
+
+falsifiable.
+
+---
+
+# Pattern Stress Test — Atmosphere as Product
+
+## Current Status
+
+Emerging
+
+## Current Confidence
 
 High
 
-to:
+### Strong Evidence
+
+- Mawimbi
+- Alinea
+- NARISAWA
+
+### Supporting Evidence
+
+- Ankole
+- Talisman
+- FYN
+- Dishoom
+
+### NARISAWA Contribution
+
+The guest appears to choose:
+
+not merely food
+
+but:
+
+a philosophy-shaped
+
+seasonal
+
+omakase experience.
+
+### Comparison Outcome
+
+Strongly Supported.
+
+### Governance Recommendation
+
+No confidence change.
+
+Remain:
+
+Emerging / High.
+
+---
+
+# Atmosphere as Product — Boundary
+
+The current definition remains useful:
+
+> **Atmosphere may become a material component of the hospitality product when the environment, experience format, emotional world, or participation structure contributes substantially to what the guest is choosing.**
+
+NARISAWA adds:
+
+worldview-shaped product
+
+as another example.
+
+No rewrite required.
+
+---
+
+# Pattern Stress Test — Story Through Place
+
+## Current Status
+
+Emerging
+
+## Current Confidence
+
+High
+
+### NARISAWA Contribution
+
+NARISAWA strongly expands:
+
+place
+
+through:
+
+- ecology
+- culture
+- landscape
+- seasonal relationship
+
+### Comparison Outcome
+
+Very Strongly Supported.
+
+### Governance Recommendation
+
+No change.
+
+---
+
+# Place Types Across the Atmosphere Set
+
+## Immediate Physical Place
+
+- Ankole
+- Talisman
+- Bistro Lolo
+
+## Cultural / Remembered Place
+
+- Dishoom
+
+## Ecological / Culinary Place
+
+- FYN
+- NARISAWA
+
+## Designed Environmental World
+
+- Mawimbi
+
+### Current Conclusion
+
+Place is atmospherically useful when:
+
+it materially explains:
+
+the experience.
+
+---
+
+# Pattern Stress Test — Atmosphere Through Continuity
+
+## Current Status
+
+Candidate
+
+## Current Confidence
+
+Medium
+
+### Strongest Evidence
+
+Talisman.
+
+### Supporting / Related
+
+Dishoom
+
+in a different form.
+
+### NARISAWA Outcome
+
+Weak / Not Central.
+
+NARISAWA references:
+
+cultural inheritance
+
+but not:
+
+institutional continuity.
+
+### Comparison Outcome
+
+No strengthening.
+
+### Governance Recommendation
+
+Retain:
+
+Candidate / Medium.
+
+---
+
+# Pattern Stress Test — Designed Escape
+
+## Current Status
+
+Candidate
+
+## Current Confidence
+
+Medium
+
+### Strongest Evidence
+
+Mawimbi.
+
+### Boundary / Related
+
+Alinea.
+
+### NARISAWA Outcome
+
+Not Central.
+
+### Comparison Outcome
+
+No change.
+
+### Governance Recommendation
+
+Retain:
+
+Candidate / Medium.
+
+---
+
+# Pattern Stress Test — Heritage Builds Confidence
+
+## Current Status
+
+Candidate
+
+## Current Confidence
+
+Medium
+
+### Strongest Evidence
+
+Talisman.
+
+### NARISAWA Outcome
+
+Related / Boundary Evidence.
+
+NARISAWA uses:
+
+cultural inheritance
+
+not:
+
+institutional heritage.
+
+### Current Conclusion
+
+This distinction becomes:
+
+more important.
+
+### Governance Recommendation
+
+Retain:
+
+Candidate / Medium.
+
+No broadening.
+
+---
+
+# Strong Direction — Cultural Memory as Atmospheric Material
+
+## Current Status
+
+Observed Research Direction
+
+### Strong Evidence
+
+- Dishoom
+- NARISAWA
+
+### Supporting Logic
+
+- FYN
+
+### Dishoom
+
+Cultural memory becomes:
+
+designed world-building.
+
+### NARISAWA
+
+Cultural memory becomes:
+
+culinary and ecological translation.
+
+### Current Interpretation
+
+The same deeper idea survives:
+
+through very different atmospheric mechanisms.
+
+### Governance Significance
+
+High.
+
+---
+
+# Is Cultural Memory as Atmospheric Material Ready for Candidate?
+
+Not yet.
+
+The evidence is:
+
+promising
+
+but still:
+
+concentrated.
+
+### Recommended Post-NARISAWA State
+
+Observed Research Direction
+
+Promotion Watch:
 
 Medium-High
 
-as a research direction.
-
-### Possible Future Abstraction
-
-## Use as Atmospheric Material
-
-or
-
-## Behaviour as Atmospheric Material
-
-These are not official.
-
 ### Reason
 
-Guest behaviour may:
+The mechanism now appears:
 
-create
+transferable
 
-reinforce
+but still needs:
 
-reveal
-
-or
-
-be shaped by
-
-atmosphere depending on:
-
-the hospitality model.
-
-Alinea proves that:
-
-cause cannot be assumed.
+another independent case.
 
 ---
 
-# Emergent Use vs Designed Use
+# Cultural Memory Through Contemporary Translation
 
-Alinea introduces one of the strongest new atmosphere distinctions in the current research set.
+## Current Status
+
+Observed Research Direction
+
+### Strongest Evidence
+
+NARISAWA.
+
+### Supporting
+
+Dishoom
+
+in a different form.
+
+### Current Interpretation
+
+Likely:
+
+mechanism inside:
+
+Cultural Memory as Atmospheric Material.
+
+### Governance Recommendation
+
+Do not promote separately.
 
 ---
 
-## Emergent Use
+# World-Building vs Worldview Translation
 
-Guest behaviour develops through:
+This distinction becomes:
 
-comparatively open participation
+increasingly useful.
 
-and contributes to:
+---
 
-atmospheric character.
+## World-Building
 
-Strong examples:
+The hospitality brand constructs:
+
+a representational world
+
+through:
+
+- narrative
+- environment
+- naming
+- design
+- social use
+
+Strong example:
+
+Dishoom.
+
+---
+
+## Worldview Translation
+
+The hospitality brand translates:
+
+a philosophy
+
+through:
+
+- product
+- method
+- seasonality
+- participation
+- experience
+
+Strong example:
+
+NARISAWA.
+
+---
+
+# Governance Use
+
+This should remain:
+
+architecture knowledge.
+
+It helps prevent:
+
+Atmosphere Through Worldview
+
+from becoming:
+
+too broad.
+
+---
+
+# Strong Direction — Creative Method as Atmosphere
+
+## Current Status
+
+Observed Research Direction
+
+### Strong Evidence
+
+- Alinea
+- NARISAWA
+
+### Supporting
+
+FYN.
+
+### Alinea
+
+Creative experimentation
+
+helps organise:
+
+theatrical atmosphere.
+
+### NARISAWA
+
+Philosophical culinary translation
+
+helps organise:
+
+seasonal atmosphere.
+
+### Current Interpretation
+
+Creative method can become:
+
+atmospheric
+
+when it materially shapes:
+
+the experience.
+
+### Governance Recommendation
+
+Promotion Watch:
+
+Medium
+
+Remain below Candidate.
+
+---
+
+# New Direction — Seasonality as Atmospheric Material
+
+## Strongest Evidence
+
+NARISAWA.
+
+### Supporting Logic
+
+FYN.
+
+### Working Definition
+
+> **Seasonal change may contribute to hospitality atmosphere when it materially shapes product, expectation, temporality, narrative, or anticipation.**
+
+### Current Status
+
+Observed Research Direction.
+
+### Governance Recommendation
+
+Remain below Candidate.
+
+Need:
+
+another strong seasonal case.
+
+---
+
+# Is Seasonality an Organising Logic?
+
+Not yet.
+
+At NARISAWA:
+
+seasonality appears to be:
+
+an expression of:
+
+Satoyama worldview.
+
+### Current Conclusion
+
+Do not create:
+
+Seasonality as Organising Logic
+
+unless future cases show:
+
+seasonality can independently organise:
+
+multiple systems.
+
+---
+
+# Pattern Stress Test — Atmosphere Through Use
+
+## Current Status
+
+Observed Research Direction
+
+## Current Confidence
+
+Medium-High
+
+### Strong Positive Evidence
 
 - Bistro Lolo
 - Dishoom
 - Franklin
 
-Possible features:
-
-- social rhythm
-- waiting
-- spontaneous interaction
-- flexible occupation
-- informal behaviour
-
----
-
-## Designed Use
-
-The hospitality system strongly determines:
-
-- timing
-- sequence
-- movement
-- interaction
-- participation structure
-
-Strongest current example:
+### Strong Boundary Evidence
 
 - Alinea
+- NARISAWA
 
-Supporting:
+### NARISAWA Contribution
 
-- FYN
+NARISAWA’s atmospheric identity is not strongly dependent on:
+
+social-use imagery
+
+or
+
+public behavioural narrative.
 
 ### Current Interpretation
 
-Atmosphere may exist along a spectrum:
+This reinforces:
 
-Emergent Use
+the unresolved causal problem.
 
-↔
+Atmosphere may:
 
-Designed Use
+- create use
+- be reinforced by use
+- be revealed by use
+- exist without use-led explanation
+
+### Comparison Outcome
+
+Further Boundary Pressure.
 
 ### Governance Recommendation
 
-Retain as:
+Retain:
 
-research distinction.
+Observed Research Direction
 
-Do not create:
+Confidence:
 
-two new patterns.
+Medium-High
+
+No promotion watch increase.
 
 ---
 
-# The Guest as Participant
+# Atmosphere Through Use — Current Causal Problem
+
+Current evidence supports:
+
+multiple possibilities.
+
+## Use Creates Atmosphere
+
+Possible in:
+
+Bistro Lolo.
+
+## Use Reinforces Atmosphere
+
+Possible in:
+
+Dishoom.
+
+## Use Reveals Atmosphere
+
+Possible in:
+
+Franklin.
+
+## Atmosphere Shapes Use
+
+Possible in:
+
+Alinea.
+
+## Atmosphere Exists With Little Use-Led Evidence
+
+NARISAWA.
+
+### Current Conclusion
+
+The causal relationship remains:
+
+unresolved.
+
+This direction should not be promoted.
+
+---
+
+# The Guest as Participant — Atmosphere Contribution
 
 ## Current Status
 
@@ -1013,128 +1312,29 @@ Emerging
 
 High
 
-Alinea strongly reinforces:
+### NARISAWA Contribution
 
-participation
+Participation includes:
 
-without requiring:
+acceptance of:
 
-spontaneity.
+- omakase
+- structure
+- uncertainty
 
-### Participation Forms Across Set
+### Current Interpretation
 
-#### Cultiva
+Participation can affect:
 
-Philosophical / experiential invitation.
+atmospheric expectation
 
-#### Mawimbi
+without being:
 
-Branded participation.
+socially expressive.
 
-#### Bistro Lolo
+### Comparison Outcome
 
-Everyday social use.
-
-#### FYN
-
-Structured high-commitment participation.
-
-#### Dishoom
-
-Flexible social participation.
-
-#### Franklin
-
-Physical product-access participation.
-
-#### Alinea
-
-Choreographed experiential participation.
-
-### Current Conclusion
-
-Participation is:
-
-broader than agency.
-
-The guest may participate inside:
-
-highly authored systems.
-
-### Important Boundary
-
-The Guest as Participant does not mean:
-
-- maximum flexibility
-- user-generated atmosphere
-- unrestricted movement
-- co-creation of the experience
-
-### Status Recommendation
-
-Retain:
-
-Emerging
-
-### Confidence
-
-High
-
----
-
-# Narrative Coherence Through Organising Logic
-
-## Current Status
-
-Emerging
-
-## Current Confidence
-
-High
-
-Alinea strongly supports:
-
-experience architecture
-
-as a legitimate organising logic.
-
-### Current Organising Logics Across Set
-
-- place
-- worldview
-- heritage
-- escape
-- belonging
-- culinary philosophy
-- cultural memory
-- craft
-- experience architecture
-
-### Current Conclusion
-
-Atmospheric coherence can be created when:
-
-the restaurant has:
-
-a stable organising logic
-
-even if the logic is not:
-
-a singular story idea.
-
-### Alinea Contribution
-
-Very strong.
-
-### Status Recommendation
-
-Retain:
-
-Emerging
-
-### Confidence
-
-High
+Strongly Supported.
 
 ---
 
@@ -1147,56 +1347,17 @@ Observed Research Direction
 ### Strong Evidence
 
 - FYN
-
-### Supporting Evidence
-
 - Alinea
 
-### Alinea Contribution
+### NARISAWA Outcome
 
-Kitchen Table
-
-Gallery
-
-Salon
-
-create materially different:
-
-participation environments.
-
-The system uses:
-
-spatial and experience separation
-
-to support:
-
-different hospitality formats.
-
-### Current Interpretation
-
-Separation can be:
-
-functional
-
-and
-
-atmospheric.
+Not Observable / Weak.
 
 ### Governance Recommendation
 
-Remain:
+No change.
 
-below Candidate.
-
-### Reason
-
-Current evidence is:
-
-narrow
-
-and
-
-high-end.
+Remain below Candidate.
 
 ---
 
@@ -1211,641 +1372,105 @@ Observed Research Direction
 - FYN
 - Alinea
 
-### Alinea Contribution
+### NARISAWA Outcome
 
-Defined experience duration
+Potentially relevant
 
-and
+but:
 
-sequenced participation
+not sufficiently observable
 
-make pacing:
+from current public evidence.
 
-structurally visible.
+### Governance Recommendation
 
-### Working Definition
+Remain:
 
-> The timing and sequence of a hospitality experience may contribute materially to its emotional rhythm.
+Observed
 
-### Current Boundary
+Promotion Watch:
 
-Duration alone does not prove:
+Medium.
+
+---
+
+# Trust as Atmospheric Condition
+
+## Current Status
+
+Observed Research Question
+
+### NARISAWA Contribution
+
+The guest accepts:
+
+chef-led uncertainty
+
+inside:
+
+omakase.
+
+### Evidence Limitation
+
+Actual guest trust is:
+
+not observable.
+
+### Governance Recommendation
+
+Do not promote.
+
+---
+
+# Restraint as Atmospheric Mechanism
+
+Across:
+
+FYN
+
+Alinea
+
+NARISAWA
+
+restraint repeatedly appears:
+
+relevant.
+
+But:
+
+restraint alone
+
+does not explain:
 
 atmosphere.
 
-### Governance Recommendation
+### FYN
 
-Remain:
+Restraint + contrast.
 
-Observed Research Direction
+### Alinea
 
-### Promotion Watch
+Restraint + experience control.
 
-Medium
+### NARISAWA
 
-Need:
-
-- lower-commitment cases
-- high-volume cases
-- casual dining
-- guest observation
-
----
-
-# Creative Method as Atmosphere
-
-## Current Status
-
-Observed Research Direction
-
-### Strongest Evidence
-
-Alinea.
-
-### Supporting Logic
-
-Franklin craft culture
-
-but not the same mechanism.
-
-### Working Definition
-
-> A consistent creative method may contribute to atmosphere when experimentation, interaction, precision, surprise, or sequencing materially shapes the guest experience.
-
-### Current Risk
-
-This could become:
-
-too broad.
-
-Almost every strong restaurant has:
-
-some method.
-
-### Governance Recommendation
-
-Remain:
-
-below Candidate.
-
----
-
-# Structure as Atmosphere
-
-## Current Status
-
-Observed Research Direction
-
-### Strongest Evidence
-
-Alinea.
-
-### Supporting Evidence
-
-FYN.
-
-### Current Question
-
-Can:
-
-rules
-
-pacing
-
-experience structure
-
-and
-
-timing
-
-themselves create:
-
-atmospheric meaning?
-
-### Current Evidence
-
-Suggestive.
-
-Not sufficient.
-
-### Governance Recommendation
-
-Keep below Candidate.
-
-### Consolidation Watch
-
-Potential mechanism inside:
-
-Atmosphere Through Consistency
-
-and
-
-Atmosphere as Product.
-
----
-
-# Experience Architecture as Atmospheric Mechanism
-
-Alinea introduces this strongly.
-
-### Working Model
-
-Experience Format
-
-+
-
-Space
-
-+
-
-Pacing
-
-+
-
-Participation
-
-+
-
-Creative Method
-
-↓
-
-Atmospheric Coherence
-
-### Current Status
-
-Observed Research Direction.
-
-### Current Interpretation
-
-This is likely:
-
-a mechanism
-
-rather than:
-
-a separate universal pattern.
-
-### Governance Recommendation
-
-Do not promote.
-
----
-
-# Atmosphere Through Place
-
-There is no formal pattern currently named:
-
-Atmosphere Through Place.
-
-Yet place contributes heavily to:
-
-- Ankole
-- Talisman
-- Bistro Lolo
-- Dishoom
-
-### Current Interpretation
-
-Place is an:
-
-atmospheric mechanism
-
-already partly captured by:
-
-- Story Through Place
-- Atmosphere Through Continuity
-- Atmosphere Through Consistency
-
-### Governance Recommendation
-
-Do not create another pattern.
-
-Avoid pattern inflation.
-
----
-
-# Cultural Memory as Atmospheric Material
-
-## Current Status
-
-Observed Research Direction
-
-### Strongest Evidence
-
-Dishoom.
-
-### Supporting Logic
-
-Talisman, but through different history.
-
-### Alinea Outcome
-
-Not Applicable.
-
-### Governance Recommendation
-
-Remain below Candidate.
-
----
-
-# Craft Culture as Atmosphere
-
-## Current Status
-
-Observed Research Direction
-
-### Strongest Evidence
-
-Franklin.
-
-### Alinea Outcome
-
-Partial conceptual contrast.
-
-Alinea’s atmosphere may involve:
-
-creative authority
-
-but the mechanism is more:
-
-experience architecture
-
-than:
-
-open craft culture.
-
-### Governance Recommendation
-
-Remain:
-
-below Candidate.
-
----
-
-# Hospitality Before Service
-
-## Current Status
-
-Observed Research Direction
-
-### Prior Relevance
-
-Franklin.
-
-### Alinea Outcome
-
-Weak / Not Observable from public digital evidence.
-
-### Governance Recommendation
-
-Do not promote.
-
----
-
-# Reputation as Pre-Atmosphere
-
-## Current Status
-
-Observed Research Direction
-
-### Strong Evidence
-
-Potentially:
-
-- FYN
-- Franklin
-- Alinea
-
-### Current Problem
-
-Website research cannot establish:
-
-the guest’s pre-existing expectations.
-
-### Governance Recommendation
-
-Remain below Candidate.
-
-Requires:
-
-guest evidence.
-
----
-
-# Designed Belonging
-
-## Current Status
-
-Observed Research Direction
-
-### Strongest Evidence
-
-Bistro Lolo.
-
-### Dishoom
-
-Related through social familiarity.
-
-### Alinea Outcome
-
-Strong contrast.
-
-Alinea does not appear primarily organised around:
-
-belonging.
-
-### Governance Recommendation
-
-Remain:
-
-restaurant-model direction.
-
-Do not promote.
-
----
-
-# Atmosphere Architecture Spectrum
-
-The nine cases now suggest several atmosphere axes.
-
----
-
-## Axis 1 — Emergent vs Authored
-
-### More Emergent
-
-- Bistro Lolo
-- Franklin
-- parts of Dishoom
-
-### More Authored
-
-- FYN
-- Alinea
-- Mawimbi
-
----
-
-## Axis 2 — Familiarity vs Separation
-
-### Familiarity
-
-- Bistro Lolo
-- Dishoom
-
-### Separation
-
-- FYN
-- Alinea
-
----
-
-## Axis 3 — Place-Led vs Experience-Led
-
-### Place-Led
-
-- Ankole
-- Talisman
-- Bistro Lolo
-
-### Experience-Led
-
-- Mawimbi
-- FYN
-- Alinea
-
----
-
-## Axis 4 — Social Energy vs Controlled Rhythm
-
-### Social Energy
-
-- Dishoom
-- Franklin
-- Bistro Lolo
-
-### Controlled Rhythm
-
-- FYN
-- Alinea
-
----
-
-## Axis 5 — Explicit Worldview vs Implicit Ethos
-
-### Explicit Worldview
-
-- Cultiva
-- FYN
-- Dishoom
-
-### Implicit / Other Organising Mechanism
-
-- Ankole
-- Talisman
-- Mawimbi
-- Bistro Lolo
-- Franklin
-- Alinea
-
-These are:
-
-comparison tools.
-
-Not patterns.
-
----
-
-# Atmosphere Is Not a Mood
-
-The current evidence increasingly rejects:
-
-atmosphere = mood.
-
-Alinea is especially important.
-
-Its atmosphere may contain:
-
-- precision
-- surprise
-- control
-- theatre
-- anticipation
-
-These are not necessarily:
-
-one emotional tone.
-
-Similarly:
-
-FYN contains:
-
-controlled contrast.
-
-Dishoom contains:
-
-nostalgia
-
-energy
-
-and
-
-social density.
+Restraint + worldview.
 
 ### Current Conclusion
 
-Atmosphere is better understood as:
+Restraint remains:
 
-## Emotional Coherence
+mechanism
 
 not:
 
-Emotional Uniformity.
+pattern.
 
 ---
 
-# Atmosphere Is Not Visual Style
+# Atmosphere Architecture — Ten-Case Model
 
-Current evidence includes:
-
-- refined design
-- heritage-rich environments
-- tropical escape
-- casual neighbourhood use
-- restrained fine dining
-- cultural immersion
-- barbecue informality
-- controlled experiential theatre
-
-No visual formula survives all nine cases.
-
-### Current KHDS Rule
-
-Atmosphere should not be inferred from:
-
-aesthetic similarity.
-
----
-
-# Atmosphere Is Not Necessarily Story
-
-Cultiva and Dishoom strongly integrate:
-
-story
-
-and
-
-atmosphere.
-
-Franklin and Alinea show:
-
-strong atmosphere can exist with:
-
-less narrative density.
-
-### Current Conclusion
-
-Story may:
-
-create
-
-support
-
-or
-
-explain
-
-atmosphere.
-
-But it is not:
-
-the only atmospheric mechanism.
-
----
-
-# Atmosphere Is Not Necessarily Guest-Created
-
-This is the most important Alinea correction.
-
-Bistro Lolo
-
-Dishoom
-
-Franklin
-
-made it tempting to believe:
-
-guest use creates atmosphere.
-
-Alinea shows:
-
-guest use may instead be:
-
-strongly authored by the experience.
-
-### Stronger Research Question
-
-> **What is the relationship between atmosphere and behaviour in this hospitality model?**
-
-Possible answers:
-
-Atmosphere
-
-↓
-
-Behaviour
-
-or
-
-Behaviour
-
-↓
-
-Atmosphere
-
-or
-
-Atmosphere ↔ Behaviour
-
-This relationship should remain:
-
-open.
-
----
-
-# Atmosphere Is Not Necessarily Worldview
-
-Alinea materially strengthens this boundary.
-
-Strong atmosphere may exist through:
-
-- craft
-- place
-- behaviour
-- experience structure
-- continuity
-- escape
-
-without:
-
-broad worldview.
-
-### Current Governance Implication
-
-Atmosphere Through Worldview must remain:
-
-narrow
-
-and
-
-falsifiable.
-
----
-
-# Current Atmosphere Architecture
-
-After nine restaurants, the strongest working model becomes:
+The current model is:
 
 Hospitality Model
 
@@ -1855,693 +1480,22 @@ What Creates Emotional Coherence?
 
 ↓
 
-Place / Worldview / Continuity / Escape / Belonging / Craft / Cultural Memory / Use / Experience Architecture
+Possible Mechanism
+
+- Place
+- Worldview
+- Continuity
+- Escape
+- Belonging
+- Craft
+- Cultural Memory
+- Use
+- Experience Architecture
+- Seasonal Translation
 
 ↓
 
-Relevant Signals
-
-↓
-
-Guest Participation
-
-↓
-
-Atmosphere
-
-But Alinea requires a second branch:
-
-Designed Experience
-
-↓
-
-Guest Behaviour
-
-↓
-
-Atmospheric Reinforcement
-
-whereas Bistro Lolo / Franklin may more closely resemble:
-
-Guest Behaviour
-
-↓
-
-Atmospheric Reinforcement
-
-↓
-
-Place Meaning
-
-This is:
-
-comparison-stage architecture.
-
-Not canonical KHDS yet.
-
----
-
-# Strongest Current Atmosphere Rule
-
-> **Do not ask what atmosphere should look like. Ask what actually creates emotional coherence in this hospitality model.**
-
-This rule survives:
-
-all nine restaurants.
-
-It should remain:
-
-research guidance
-
-until formally governed.
-
----
-
-# Alinea Effect on Official Atmosphere Patterns
-
----
-
-## Atmosphere Through Consistency
-
-### Outcome
-
-Strongly Supported
-
-### Governance Recommendation
-
-Retain Emerging / High.
-
-Refine around:
-
-experience logic
-
-and
-
-emotional coherence.
-
----
-
-## Atmosphere as Product
-
-### Outcome
-
-Very Strongly Supported
-
-### Governance Recommendation
-
-Retain Emerging.
-
-Provisional confidence increase:
-
-Medium-High → High.
-
-Final governance later.
-
----
-
-## Atmosphere Through Worldview
-
-### Outcome
-
-Potentially Contradicted / Strong Boundary Evidence
-
-### Governance Recommendation
-
-Retain Candidate / Under Review.
-
-Provisional confidence reduction:
-
-Medium-High → Medium.
-
-No demotion yet.
-
----
-
-## Atmosphere Through Continuity
-
-### Outcome
-
-Weak / Not Central
-
-### Governance Recommendation
-
-Retain Candidate / Medium.
-
-No change.
-
----
-
-## Designed Escape
-
-### Outcome
-
-Related / Boundary Evidence
-
-### Governance Recommendation
-
-Retain Candidate / Medium.
-
-Do not broaden.
-
----
-
-## The Guest as Participant
-
-### Outcome
-
-Strongly Supported
-
-### Governance Recommendation
-
-Retain Emerging / High.
-
-Add boundary:
-
-participation does not require high freedom.
-
----
-
-## Narrative Coherence Through Organising Logic
-
-### Outcome
-
-Strongly Supported
-
-### Governance Recommendation
-
-Retain Emerging / High.
-
----
-
-# Alinea Effect on Atmosphere Through Use
-
-### Previous
-
-Observed Research Direction
-
-Very Strong Candidate Watch
-
-High
-
-### Alinea Outcome
-
-Major contradiction pressure.
-
-### Governance Recommendation
-
-Remain:
-
-Observed Research Direction
-
-Remove:
-
-Very Strong Candidate Watch
-
-### Proposed Confidence
-
-Medium-High
-
-### Current Reason
-
-Use may:
-
-create
-
-reinforce
-
-reveal
-
-or
-
-be prescribed by
-
-atmosphere.
-
-The causal relationship is not stable enough for:
-
-Candidate status.
-
----
-
-# New Atmosphere Directions — Governance Review
-
----
-
-## Designed Use
-
-Retain:
-
-Observed Research Direction.
-
-Strong current evidence:
-
-Alinea.
-
-Need comparison against:
-
-another choreographed hospitality model.
-
----
-
-## Pacing as Atmospheric Structure
-
-Retain:
-
-Observed Research Direction.
-
-Strong:
-
-FYN + Alinea.
-
-Potential future Candidate if:
-
-more diverse evidence appears.
-
----
-
-## Creative Method as Atmosphere
-
-Retain:
-
-Observed Research Direction.
-
-Currently too narrow / Alinea-heavy.
-
----
-
-## Structure as Atmosphere
-
-Retain:
-
-Observed Research Direction.
-
-Potentially overlaps:
-
-Atmosphere Through Consistency.
-
----
-
-## Experience Architecture as Atmospheric Mechanism
-
-Treat as:
-
-mechanism.
-
-Not separate Candidate.
-
----
-
-# Atmosphere Promotion Review
-
-## Promote
-
-None.
-
----
-
-## Demote
-
-None yet.
-
----
-
-## Rename
-
-None.
-
----
-
-## Provisional Confidence Increase
-
-Atmosphere as Product:
-
-Medium-High
-
-↓
-
-High
-
----
-
-## Provisional Confidence Decrease
-
-Atmosphere Through Worldview:
-
-Medium-High
-
-↓
-
-Medium
-
----
-
-## Strong Candidate Watch Removed
-
-Atmosphere Through Use
-
----
-
-# Why No Demotion Yet for Atmosphere Through Worldview?
-
-Because:
-
-contradiction
-
-does not automatically mean:
-
-failure.
-
-The pattern may simply describe:
-
-one legitimate mechanism.
-
-Strong evidence remains:
-
-- Cultiva
-- FYN
-- Dishoom
-
-Alinea and Franklin establish:
-
-boundary.
-
-The next question is:
-
-whether a Candidate should represent:
-
-a broad transferable requirement
-
-or
-
-a sufficiently recurring mechanism.
-
-Current KHDS governance has allowed:
-
-narrow Candidates
-
-such as:
-
-Designed Escape
-
-and
-
-Atmosphere Through Continuity.
-
-Therefore:
-
-Atmosphere Through Worldview
-
-can remain Candidate
-
-if its definition stays:
-
-narrow
-
-and
-
-does not claim universality.
-
----
-
-# Why Atmosphere Through Use Should Not Be Promoted
-
-Before Alinea, evidence was beginning to look unusually strong:
-
-- Bistro Lolo
-- Dishoom
-- Franklin
-
-But those three share:
-
-substantial social / behavioural atmosphere.
-
-Alinea exposes:
-
-selection bias.
-
-Another hospitality model produces:
-
-strong atmosphere
-
-with highly choreographed use.
-
-Therefore:
-
-the deeper relationship remains unresolved.
-
-This is exactly why KHDS waits.
-
----
-
-# Major Atmosphere Tensions After Alinea
-
----
-
-## Worldview vs Experience Architecture
-
-Now a major governance tension.
-
----
-
-## Emergent Use vs Designed Use
-
-New major tension.
-
----
-
-## Social Energy vs Controlled Rhythm
-
-Dishoom / Franklin / Bistro Lolo
-
-versus
-
-FYN / Alinea.
-
----
-
-## Belonging vs Separation
-
-Bistro Lolo
-
-versus
-
-FYN / Alinea.
-
----
-
-## Place vs Experience
-
-Ankole / Talisman
-
-versus
-
-Alinea.
-
----
-
-## Atmosphere as Primary Product vs Supporting Value
-
-Mawimbi / Alinea
-
-versus
-
-Franklin.
-
----
-
-## Cultural Memory vs Creative Method
-
-Dishoom
-
-versus
-
-Alinea.
-
----
-
-## Continuity vs Reinvention
-
-Talisman
-
-versus
-
-Alinea.
-
----
-
-## Freedom vs Choreography
-
-Dishoom / Franklin
-
-versus
-
-Alinea.
-
----
-
-## Emotional Coherence vs Emotional Uniformity
-
-FYN and Alinea strongly reject:
-
-uniformity.
-
----
-
-# Contradictions to Preserve
-
-Do not reconcile these into:
-
-one formula.
-
----
-
-## Bistro Lolo vs Alinea
-
-Bistro Lolo:
-
-atmosphere through:
-
-everyday use
-
-familiarity
-
-belonging.
-
-Alinea:
-
-atmosphere through:
-
-controlled experience
-
-precision
-
-choreography.
-
-Both can remain:
-
-coherent.
-
----
-
-## Franklin vs Alinea
-
-Franklin:
-
-social informality
-
-product authority
-
-behaviour.
-
-Alinea:
-
-controlled theatre
-
-experience selection
-
-structure.
-
-These models directly protect KHDS from:
-
-one atmosphere doctrine.
-
----
-
-## Cultiva vs Alinea
-
-Cultiva:
-
-worldview strongly explains:
-
-atmosphere.
-
-Alinea:
-
-experience architecture may explain:
-
-atmosphere without broad worldview.
-
-This is the critical boundary for:
-
-Atmosphere Through Worldview.
-
----
-
-## Dishoom vs Alinea
-
-Dishoom:
-
-culture
-
-memory
-
-social use.
-
-Alinea:
-
-creative method
-
-precision
-
-choreographed experience.
-
-Different routes to:
-
-immersive hospitality.
-
----
-
-# Atmosphere Evidence Discipline
-
-Website research can support:
-
-- visible space
-- public experience descriptions
-- public story language
-- named experience formats
-- visible participation routes
-- public photography
-- public positioning
-- structural differences between experiences
-
-It cannot establish:
-
-- actual emotional response
-- sensory experience
-- whether guests perceive atmosphere as part of value
-- whether pacing creates anticipation
-- whether social behaviour improves atmosphere
-- whether choreography feels restrictive
-- whether worldview affects satisfaction
-- how much atmosphere influences willingness to pay
-- whether private spaces feel more exclusive
-- actual guest behaviour
-
-Those require:
-
-guest research
-
-observation
-
-or
-
-operational evidence.
-
----
-
-# Current Atmosphere Research Model
-
-The strongest current model after nine restaurants is:
-
-Hospitality Model
-
-↓
-
-What Creates Emotional Coherence?
-
-↓
-
-Relevant Atmospheric Mechanism
+How Is That Mechanism Translated?
 
 ↓
 
@@ -2559,149 +1513,651 @@ Does Behaviour Create, Reinforce, Reveal, or Follow the Atmosphere?
 
 Atmospheric Experience
 
-Possible mechanisms currently include:
+---
 
-- place
-- worldview
-- continuity
-- escape
-- belonging
-- cultural memory
-- craft culture
-- social use
-- controlled contrast
-- experience architecture
+# NARISAWA Architecture Refinement
+
+NARISAWA strongly suggests adding:
+
+## Translation
+
+between:
+
+Atmospheric Mechanism
+
+and
+
+Relevant Signals.
+
+### Previous
+
+Mechanism
+
+↓
+
+Signals
+
+### Stronger
+
+Mechanism
+
+↓
+
+Translation
+
+↓
+
+Signals
+
+### Reason
+
+A worldview cannot create:
+
+atmosphere
+
+simply by:
+
+existing.
+
+It must become:
+
+something experiential.
+
+---
+
+# Possible Updated Atmosphere Architecture
+
+Hospitality Model
+
+↓
+
+What Creates Emotional Coherence?
+
+↓
+
+Atmospheric Mechanism
+
+↓
+
+How Is the Mechanism Translated Into Experience?
+
+↓
+
+Relevant Signals
+
+↓
+
+Guest Participation
+
+↓
+
+Behavioural Relationship
+
+↓
+
+Atmospheric Experience
 
 This is:
 
-comparison-stage knowledge.
+comparison-level architecture.
 
-Not:
-
-a new KHDS pattern.
+Not yet canonical.
 
 ---
 
-# Atmosphere Governance Recommendation
+# NARISAWA and the Atmosphere Through Worldview Boundary
 
-## Promote
+NARISAWA helps create a much stronger boundary.
 
-None.
+### Weak Worldview Evidence
 
----
+A restaurant says:
 
-## Demote
+- sustainable
+- local
+- authentic
+- cultural
+- innovative
 
-None.
+but those claims do not materially shape:
 
----
+the experience.
 
-## Rename
+### Strong Worldview Evidence
 
-None.
+The worldview materially shapes:
 
----
+- story
+- product
+- method
+- place
+- participation
+- atmosphere
 
-## Retain Emerging
+### NARISAWA
 
-- Atmosphere Through Consistency
-- Atmosphere as Product
-- The Guest as Participant
-- Narrative Coherence Through Organising Logic
+Closer to:
 
----
+strong worldview evidence.
 
-## Retain Candidate
+### Governance Importance
 
-- Atmosphere Through Worldview — Under Review
-- Atmosphere Through Continuity
-- Designed Escape
-
----
-
-## Remove Strong Promotion Watch
-
-- Atmosphere Through Use
+Very High.
 
 ---
 
-## Strong Research Directions to Preserve
-
-- Emergent Use vs Designed Use
-- Pacing as Atmospheric Structure
-- Creative Method as Atmosphere
-- Structure as Atmosphere
-- Controlled Separation
-- Reputation as Pre-Atmosphere
-- Cultural Memory as Atmospheric Material
-- Craft Culture as Atmosphere
-- Designed Belonging
+# Atmosphere Contradictions Preserved
 
 ---
 
-# Provisional Governance Changes for Final Reconciliation
+## Worldview vs Craft
 
-These are not official yet.
+NARISAWA versus Franklin.
 
-After all five comparison files are complete, governance should consider:
+Both can create:
 
-### Atmosphere as Product
+strong atmosphere.
+
+---
+
+## Worldview vs Experience Architecture
+
+NARISAWA versus Alinea.
+
+Both can create:
+
+strong atmosphere.
+
+---
+
+## Cultural Memory vs Institutional Heritage
+
+NARISAWA versus Talisman.
+
+---
+
+## World-Building vs Worldview Translation
+
+Dishoom versus NARISAWA.
+
+---
+
+## Social Use vs Controlled Structure
+
+Bistro Lolo / Franklin
+
+versus
+
+Alinea / NARISAWA.
+
+---
+
+## Belonging vs Escape
+
+Bistro Lolo versus Mawimbi.
+
+---
+
+## Richness vs Restraint
+
+Dishoom / Talisman
+
+versus
+
+FYN / NARISAWA.
+
+---
+
+## Place vs Philosophy
+
+Ankole versus NARISAWA.
+
+---
+
+## Continuity vs Reinvention
+
+Talisman versus NARISAWA.
+
+---
+
+## Emergent Use vs Designed Use
+
+Bistro Lolo / Franklin
+
+versus
+
+Alinea.
+
+NARISAWA remains:
+
+less use-led.
+
+---
+
+# Current Atmosphere Pattern Matrix
+
+| Restaurant | Primary Atmosphere Mechanism | Use-Led? | Worldview-Led? | Atmosphere as Product? | Key Boundary |
+|---|---|---:|---:|---:|---|
+| Ankole | Place + Refinement | Low | Low | Supporting | Place can carry atmosphere |
+| Cultiva | Worldview + Environment | Medium | High | Supporting | Worldview needs translation |
+| Talisman | Continuity + Place | Low–Medium | Low | Supporting | Institutional continuity is distinct |
+| Mawimbi | Designed Escape | Medium | Medium | High | Atmosphere may be sold directly |
+| Bistro Lolo | Belonging + Social Rhythm | High | Low | Supporting | Use can strongly shape atmosphere |
+| FYN | Restraint + Controlled Contrast | Low | Medium | High | Contrast can remain coherent |
+| Dishoom | Cultural Memory + World-Building | High | High | High | Cultural memory can be designed |
+| Franklin | Craft + Social Informality | High | Low | Supporting | Worldview not required |
+| Alinea | Experience Architecture + Theatre | Low | Low | High | Atmosphere can be highly controlled |
+| NARISAWA | Worldview + Seasonal Culinary Translation | Low | High | High | Worldview must become experience |
+
+---
+
+# NARISAWA Atmosphere Governance Pressure
+
+NARISAWA creates:
+
+one likely confidence change
+
+and
+
+several definition / architecture refinements.
+
+---
+
+# Recommended Post-Comparison Change 1
+
+## Atmosphere Through Worldview
+
+### Previous
+
+Candidate / Under Review
 
 Confidence:
-
-Medium-High
-
-→
-
-High
-
-### Atmosphere Through Worldview
-
-Confidence:
-
-Medium-High
-
-→
 
 Medium
 
-while retaining:
+### Recommended
 
-Candidate / Under Review.
+Candidate / Under Review
 
-### Atmosphere Through Use
+Confidence:
 
-Remove:
+Medium-High
 
-Very Strong Candidate Watch
+### Reason
 
-and reduce research-direction confidence:
+Strong independent positive evidence now includes:
 
-High
+- Cultiva
+- FYN
+- Dishoom
+- NARISAWA
 
-→
+while contradiction remains:
 
-Medium-High.
+- Franklin
+- Alinea
 
-No maturity count changes result from these recommendations.
+This is:
+
+healthy bounded evidence.
 
 ---
 
-# Official Governance Freeze
+# Recommended Post-Comparison Change 2
 
-Do not yet update:
+## Atmosphere Through Worldview Definition
 
-- `validation/candidate-patterns.md`
-- `patterns/registry.md`
-- `validation/dashboard.md`
-- `research/README.md`
-- `validation/README.md`
+Possible future wording:
 
-The official global state remains:
+> **A restaurant may create atmospheric coherence through a broader worldview when that worldview is materially translated into the product, environment, experience, story, or participation rather than remaining only as declared philosophy.**
+
+### Recommendation
+
+Likely adopt after:
+
+all five comparisons.
+
+---
+
+# Recommended Post-Comparison Change 3
+
+## Cultural Memory as Atmospheric Material
+
+### Current
+
+Observed Research Direction
+
+### Recommended Future State
+
+Observed Research Direction
+
+Promotion Watch:
+
+Medium-High
+
+### Reason
+
+Strong evidence now includes:
+
+- Dishoom
+- NARISAWA
+
+through:
+
+different translation mechanisms.
+
+No Candidate promotion yet.
+
+---
+
+# Recommended Post-Comparison Change 4
+
+## Creative Method as Atmosphere
+
+### Current
+
+Observed Research Direction
+
+### Recommended
+
+Observed Research Direction
+
+Promotion Watch:
+
+Medium
+
+### Evidence
+
+- Alinea
+- NARISAWA
+- FYN supporting
+
+No Candidate promotion.
+
+---
+
+# Recommended Post-Comparison Change 5
+
+## Atmosphere Through Use
+
+Retain:
+
+Observed Research Direction
+
+Confidence:
+
+Medium-High
+
+No active promotion increase.
+
+### Reason
+
+NARISAWA adds:
+
+more boundary evidence
+
+rather than:
+
+causal clarity.
+
+---
+
+# Recommended Post-Comparison Change 6
+
+## Seasonality as Atmospheric Material
+
+Add to:
+
+below-Candidate directions
+
+if not already present.
+
+### Status
+
+Observed Research Direction
+
+### Confidence
+
+Low-Medium
+
+### Strongest Evidence
+
+NARISAWA.
+
+No promotion watch yet.
+
+---
+
+# Recommended Post-Comparison Change 7
+
+## Worldview Translation vs World-Building
+
+Preserve as:
+
+Atmosphere Architecture knowledge.
+
+Do not create:
+
+Candidate.
+
+---
+
+# Recommended Post-Comparison Change 8
+
+## Worldview Requires Translation
+
+Consolidate into:
+
+Atmosphere Through Worldview
+
+rather than:
+
+creating a separate pattern.
+
+---
+
+# Atmosphere Evidence Limitations
+
+The comparison can establish:
+
+- public philosophy
+- visual positioning
+- story language
+- experience framing
+- public photography
+- reservation structure
+- public atmosphere claims
+
+It cannot establish:
+
+- actual sound
+- scent
+- temperature
+- physical comfort
+- room energy
+- guest emotional response
+- whether guests perceive worldview
+- whether atmosphere affects spend
+- whether atmosphere affects return visits
+- whether social behaviour creates atmosphere
+- whether restraint is experienced as premium
+- whether cultural memory feels authentic
+
+Those require:
+
+direct observation
+
+guest research
+
+or
+
+behavioural evidence.
+
+---
+
+# Atmosphere Comparison Conclusion
+
+The ten-case comparison makes the current KHDS atmosphere position substantially clearer.
+
+There is:
+
+no universal atmospheric mechanism.
+
+Ankole demonstrates:
+
+place.
+
+Cultiva:
+
+worldview through environment.
+
+Talisman:
+
+continuity.
+
+Mawimbi:
+
+escape.
+
+Bistro Lolo:
+
+belonging.
+
+FYN:
+
+restraint through contrast.
+
+Dishoom:
+
+designed cultural memory.
+
+Franklin:
+
+craft-led social informality.
+
+Alinea:
+
+experience architecture.
+
+NARISAWA:
+
+worldview through seasonal culinary translation.
+
+This diversity strengthens:
+
+Atmosphere Through Consistency
+
+because consistency is increasingly understood as:
+
+coherent emotional logic
+
+rather than:
+
+one style.
+
+NARISAWA also resolves part of the uncertainty around:
+
+Atmosphere Through Worldview.
+
+Franklin and Alinea correctly prevented KHDS from turning worldview into:
+
+a universal explanation.
+
+NARISAWA now demonstrates:
+
+that worldview remains a legitimate and powerful mechanism
+
+when it is:
+
+materially translated.
+
+The stronger conclusion is therefore:
+
+> **Worldview is not required for atmosphere, but when worldview materially shapes the hospitality experience it can become a strong atmospheric organiser.**
+
+That is a much healthier Candidate than:
+
+“great restaurants need worldview.”
+
+NARISAWA also strengthens:
+
+Cultural Memory as Atmospheric Material
+
+because cultural memory now survives through:
+
+two very different systems.
+
+Dishoom translates it through:
+
+designed world-building.
+
+NARISAWA translates it through:
+
+contemporary cuisine.
+
+The comparison also further weakens any attempt to promote:
+
+Atmosphere Through Use.
+
+Use remains important in:
+
+Bistro Lolo
+
+Dishoom
+
+and
+
+Franklin.
+
+But NARISAWA joins:
+
+Alinea
+
+as another strong atmosphere case where:
+
+use is not the visible primary atmospheric generator.
+
+The causal relationship therefore remains unresolved.
+
+The most important NARISAWA atmosphere contribution is:
+
+translation.
+
+An atmosphere mechanism does not become:
+
+hospitality
+
+simply because it exists as:
+
+idea.
+
+It must become:
+
+experience.
+
+That may eventually improve the entire KHDS Atmosphere Architecture.
+
+Evidence wins.
+
+---
+
+## Comparison Status
+
+NARISAWA Atmosphere Comparison Complete
+
+NARISAWA remains:
+
+Independent Restaurant #10 Candidate.
+
+Global governance remains frozen.
+
+---
+
+## Official Governance Still Unchanged
 
 Independent Restaurants:
 
-8
+9
 
 Kodawa Labs Validation Concepts:
 
@@ -2727,117 +2183,41 @@ Research-Derived KHDS Principles:
 
 0
 
-Existing Implementation Patterns Pending Validation:
+Existing Implementation Patterns Pending Formal Validation:
 
 1
 
-Alinea remains:
+Opportunity Themes:
 
-Independent Restaurant #9 Candidate.
-
----
-
-# Final Atmosphere Comparison Statement
-
-Nine restaurants now make one thing impossible to ignore:
-
-> **Atmosphere is not a visual recipe.**
-
-Ankole creates atmosphere through:
-
-place.
-
-Cultiva:
-
-worldview.
-
-Talisman:
-
-continuity.
-
-Mawimbi:
-
-escape.
-
-Bistro Lolo:
-
-belonging.
-
-FYN:
-
-controlled contrast.
-
-Dishoom:
-
-cultural memory and social immersion.
-
-Franklin:
-
-craft-led social informality.
-
-Alinea:
-
-controlled experiential theatre.
-
-The transferable problem is therefore not:
-
-> What style should a hospitality website use?
-
-It is:
-
-> **What actually creates emotional coherence in this hospitality model, and what digital evidence is necessary to communicate it?**
-
-Alinea creates the strongest pressure yet on:
-
-`Atmosphere Through Worldview`.
-
-Not because worldview has become:
-
-wrong.
-
-But because worldview is increasingly clearly:
-
-one mechanism
-
-among several.
-
-Alinea also prevents us from prematurely promoting:
-
-`Atmosphere Through Use`.
-
-The first three strong cases made guest behaviour look:
-
-causal.
-
-Alinea demonstrates:
-
-the opposite relationship can exist.
-
-Sometimes:
-
-use helps create atmosphere.
-
-Sometimes:
-
-the designed atmosphere shapes use.
-
-Sometimes:
-
-both happen simultaneously.
-
-That relationship is not stable enough to become:
-
-a Candidate.
-
-This is exactly the kind of correction restaurant #9 was chosen to create.
-
-Evidence wins.
+36
 
 ---
 
-## Comparison Status
+## Provisional Governance Recommendation From Atmosphere Comparison
 
-Atmosphere Comparison Reconciled Through Alinea
+Atmosphere Through Worldview:
+
+Candidate / Under Review
+
+Confidence:
+
+Medium
+
+↓
+
+Recommended after full NARISAWA reconciliation:
+
+Candidate / Under Review
+
+Confidence:
+
+Medium-High
+
+Definition refinement:
+
+likely.
+
+No maturity promotion.
 
 ---
 
@@ -2847,4 +2227,12 @@ Update:
 
 `khds/research/comparison/photography.md`
 
-Do not update global governance yet.
+Do not update:
+
+- `khds/research/validation/candidate-patterns.md`
+- `khds/patterns/registry.md`
+- `khds/research/validation/dashboard.md`
+- `khds/research/README.md`
+- `khds/research/validation/README.md`
+
+until all five NARISAWA comparison files are complete.

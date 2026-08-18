@@ -1,832 +1,168 @@
 # KHDS Validation Dashboard
 
-## Dashboard Status
+## Governance Status
 
-Post-Alinea Governance Reconciled
+Post-NARISAWA Governance Reconciled
 
-Independent Restaurant Count:
+Independent Restaurant Research:
 
-9
+10 Complete
+
+Kodawa Labs Validation Concepts:
+
+1
 
 Highest Research-Derived Maturity:
 
-Emerging
+Candidate / Emerging Research States
+
+Validated Patterns:
+
+0
+
+Research-Derived KHDS Principles:
+
+0
+
+Existing KHDS Implementation Patterns Pending Formal Validation:
+
+1
+
+Opportunity Themes:
+
+36
 
 ---
 
 # Purpose
 
-This dashboard provides the current operational view of KHDS research maturity.
+This dashboard provides the current governance snapshot for:
 
-It tracks:
-
-- independent restaurant coverage
-- Kodawa Labs validation concepts
-- Emerging patterns
+- independent hospitality research
+- Kodawa Labs validation
 - Candidate patterns
-- Partially Supported findings
-- Validated patterns
-- research-derived KHDS Principles
-- existing implementation patterns pending formal validation
-- confidence changes
-- contradiction pressure
-- promotion watches
-- architecture refinements
-- research tensions
-- opportunity governance
-- next-case priorities
+- Emerging patterns
+- Partially Supported patterns
+- below-Candidate research directions
+- architecture knowledge
+- existing implementation patterns
+- opportunity themes
+- promotion readiness
 
-This dashboard should mirror:
+This dashboard is a:
+
+governance summary.
+
+It should not replace:
+
+the detailed evidence files.
+
+For definitions
+
+evidence
+
+contradictions
+
+and
+
+boundaries,
+
+refer to:
 
 - `candidate-patterns.md`
 - `../../patterns/registry.md`
-
-It should not:
-
-- create independent governance
-- promote findings on its own
-- count Kodawa Labs concepts as independent research
-- turn repeated observations into patterns without reconciliation
-- erase contradiction
-- infer operational facts from public websites
+- `../comparison/`
+- `../restaurants/`
 
 ---
 
-# Official Governance State
+# Current Research Set
 
-## Independent Restaurants
+## Track A — Independent Hospitality Research
 
-9
+Completed:
 
-## Kodawa Labs Validation Concepts
+1. Ankole
+2. Cultiva
+3. Talisman
+4. Mawimbi
+5. Bistro Lolo
+6. FYN
+7. Dishoom Covent Garden
+8. Franklin Barbecue
+9. Alinea
+10. NARISAWA
+
+### Independent Restaurant Count
+
+10
+
+---
+
+## Track B — Kodawa Labs Validation
+
+Current validation concepts:
+
+1. Trunk & Tandoor Concept
+
+### Validation Concept Count
 
 1
 
-## Emerging Patterns
+### Governance Rule
 
-18
+Track B may validate:
 
-## Candidate Patterns
+implementation
 
-9
+translation
 
-## Partially Supported Findings
+and
 
-1
+production behaviour.
 
-## Validated Patterns
+It must not count as:
 
-0
-
-## Research-Derived KHDS Principles
-
-0
-
-## Existing Implementation Patterns Pending Formal Validation
-
-1
-
-## Highest Research-Derived Maturity
-
-Emerging
+independent research evidence.
 
 ---
 
-# Independent Research Set
+# Current Governance Snapshot
+
+| Category | Count |
+|---|---:|
+| Independent Restaurants | 10 |
+| Kodawa Labs Validation Concepts | 1 |
+| Emerging Patterns | 18 |
+| Candidate Patterns | 9 |
+| Partially Supported | 1 |
+| Validated Patterns | 0 |
+| Research-Derived KHDS Principles | 0 |
+| Existing Implementation Patterns Pending Validation | 1 |
+| Opportunity Themes | 36 |
 
 ---
 
-## 1. Ankole
+# Post-NARISAWA Changes
 
-Status:
+The NARISAWA cycle produced:
 
-Complete
+- Independent Restaurant count: 9 → 10
+- Candidate count: unchanged at 9
+- Emerging count: unchanged at 18
+- Validated count: unchanged at 0
+- Research-Derived Principle count: unchanged at 0
+- Opportunity Theme count: unchanged at 36
 
-Primary atmosphere model:
-
-Refinement Through Place
-
-Primary photography model:
-
-Place + Refinement Proof
-
-Primary story model:
-
-Place-Led Story
+Two Candidate confidence changes were approved.
 
 ---
 
-## 2. Cultiva
+# Candidate Confidence Changes
 
-Status:
+## Atmosphere Through Worldview
 
-Complete
-
-Primary atmosphere model:
-
-Worldview Through Environment
-
-Primary photography model:
-
-Process + System Proof
-
-Primary story model:
-
-Worldview-Led Story
-
----
-
-## 3. Talisman
-
-Status:
-
-Complete
-
-Primary atmosphere model:
-
-Continuity Through History and Place
-
-Primary photography model:
-
-Layered Character Proof
-
-Primary story model:
-
-Heritage-Led Story
-
----
-
-## 4. Mawimbi
-
-Status:
-
-Complete
-
-Primary atmosphere model:
-
-Designed Escape
-
-Primary photography model:
-
-Product + Atmosphere + Occasion Proof
-
-Primary story model:
-
-Concept-Led Story
-
----
-
-## 5. Bistro Lolo
-
-Status:
-
-Complete
-
-Primary atmosphere model:
-
-Designed Belonging
-
-Primary photography model:
-
-Place + Lifestyle + Use Proof
-
-Primary story model:
-
-People + Place Story
-
----
-
-## 6. FYN
-
-Status:
-
-Complete
-
-Primary atmosphere model:
-
-Restraint Through Controlled Contrast
-
-Primary photography model:
-
-Product + Craft + Spatial Proof
-
-Primary story model:
-
-Culinary Philosophy + Authorship
-
-Primary research contribution:
-
-high-commitment hospitality
-
----
-
-## 7. Dishoom Covent Garden
-
-Status:
-
-Complete
-
-Primary atmosphere model:
-
-Cultural Immersion Through Designed Memory
-
-Primary photography model:
-
-Product + Cultural + Social + Memory Proof
-
-Primary story model:
-
-Cultural Memory + Founding Myth + Location-Specific World-Building
-
-Primary research contribution:
-
-walk-in-first
-
-high-volume
-
-story-rich hospitality
-
----
-
-## 8. Franklin Barbecue
-
-Status:
-
-Complete
-
-Primary atmosphere model:
-
-Craft-Led Social Informality
-
-Primary photography model:
-
-Product + Craft + Founder + Participation Proof
-
-Primary story model:
-
-Founder + Craft-Led Story
-
-Primary research contribution:
-
-queue-first
-
-finite-product
-
-craft-led hospitality
-
----
-
-## 9. Alinea
-
-Status:
-
-Complete
-
-Primary atmosphere model:
-
-Controlled Experiential Theatre
-
-Primary photography model:
-
-Product + Space + Experience Difference + Selective Proof
-
-Primary story model:
-
-Experience + Innovation + Authority Story
-
-Primary participation model:
-
-Prepaid Experience-Specific Access + Structured Exception Handling
-
-Primary research contribution:
-
-prepaid
-
-high-commitment
-
-highly structured
-
-experience-specific hospitality
-
----
-
-# Kodawa Labs Validation Track
-
----
-
-## Trunk & Tandoor Concept
-
-Classification:
-
-Kodawa Labs Validation Concept
-
-Status:
-
-Separate From Independent Evidence
-
-Primary validation file:
-
-`trunk-tandoor/arrival-pattern-study.md`
-
-Role:
-
-test implementation behaviour
-
-not:
-
-independent pattern evidence.
-
----
-
-# Official Emerging Patterns
-
-There are:
-
-18 Emerging patterns.
-
----
-
-## 1. Emotion Before Interface
-
-Status:
-
-Emerging
-
-Confidence:
-
-High
-
-Alinea effect:
-
-Supported.
-
-No governance change.
-
----
-
-## 2. Story Before Features
-
-Status:
-
-Emerging
-
-Confidence:
-
-High
-
-Alinea effect:
-
-Strongly Supported.
-
-Meaning remains:
-
-compressed
-
-rather than absent.
-
----
-
-## 3. Photography Before Decoration
-
-Status:
-
-Emerging
-
-Confidence:
-
-High
-
-Alinea effect:
-
-Strongly Supported.
-
-No governance change.
-
----
-
-## 4. Participation Throughout the Journey
-
-Status:
-
-Emerging
-
-Confidence:
-
-High
-
-Alinea effect:
-
-Very Strongly Supported.
-
-Post-Alinea emphasis:
-
-participation should remain legible across:
-
-- entry
-- securing access
-- modification
-- confirmation
-- escalation
-
----
-
-## 5. Atmosphere Through Consistency
-
-Status:
-
-Emerging
-
-Confidence:
-
-High
-
-Post-Alinea definition refined.
-
-Current emphasis:
-
-coherent emotional logic
-
-across:
-
-- visual
-- spatial
-- behavioural
-- narrative
-- operational
-- experiential
-
-signals.
-
-Alinea contribution:
-
-consistency can exist at:
-
-experience-logic level.
-
----
-
-## 6. Multi-Intent Hospitality
-
-Status:
-
-Emerging
-
-Confidence:
-
-High
-
-Post-Alinea boundary:
-
-multiple meaningful intents do not require:
-
-continuous flexibility
-
-after route selection.
-
----
-
-## 7. Commitment Without Pressure
-
-Status:
-
-Emerging
-
-Confidence:
-
-High
-
-Alinea effect:
-
-Very Strongly Supported.
-
-Current commitment dimensions include:
-
-- financial
-- planning
-- time
-- quantity
-- coordination
-- behavioural
-- compatibility-related
-- experience-specific
-
----
-
-## 8. Photography as Proof
-
-Status:
-
-Emerging
-
-Confidence:
-
-High
-
-Alinea effect:
-
-Strongly Supported.
-
-Post-Alinea boundary:
-
-photography is:
-
-one proof channel
-
-inside a broader evidence system.
-
----
-
-## 9. Story Through Place
-
-Status:
-
-Emerging
-
-Confidence:
-
-High
-
-Alinea effect:
-
-Weak / Contextual.
-
-Boundary strengthened.
-
-Place remains:
-
-one narrative mechanism
-
-not:
-
-a universal requirement.
-
----
-
-## 10. Promise Before Proof
-
-Status:
-
-Emerging
-
-Confidence:
-
-Medium-High
-
-Alinea effect:
-
-Supported.
-
-No maturity change.
-
----
-
-## 11. Layered Arrival
-
-Status:
-
-Emerging
-
-Confidence:
-
-High
-
-Post-Alinea refinement:
-
-arrival should progressively establish:
-
-- meaning
-- confidence
-- fit
-- expectations
-- participation clarity
-
-relative to:
-
-guest commitment.
-
----
-
-## 12. Narrative Coherence Through Organising Logic
-
-Status:
-
-Emerging
-
-Confidence:
-
-High
-
-Post-Alinea refinement:
-
-narrative weight should follow:
-
-explanatory value.
-
-`Narrative Weight Follows Explanatory Value`
-
-is consolidated here as:
-
-architecture guidance.
-
----
-
-## 13. The Guest as Participant
-
-Status:
-
-Emerging
-
-Confidence:
-
-High
-
-Alinea effect:
-
-Strongly Supported.
-
-Boundary:
-
-participation does not require:
-
-maximum freedom.
-
-Participation may be:
-
-choreographed.
-
----
-
-## 14. Photography Through Layers of Experience
-
-Status:
-
-Emerging
-
-Confidence:
-
-High
-
-Post-Alinea refinement:
-
-use:
-
-relevant evidence layers
-
-not:
-
-visual completeness.
-
----
-
-## 15. Human Assistance Where Structured Self-Service Is Insufficient
-
-Previous name:
-
-Human Assistance When Complexity Requires It
-
-Status:
-
-Emerging
-
-Confidence:
-
-High
-
-Previous confidence:
-
-Medium-High
-
-Post-Alinea status:
-
-Officially Renamed
-
-Current definition:
-
-> Hospitality systems should use structured self-service where guest needs, rules, and routes can be handled predictably, while preserving human assistance where uncertainty, coordination, judgment, physical flow, or exceptions exceed what the structure can handle well.
-
-Primary Alinea correction:
-
-complexity
-
-does not automatically require:
-
-human assistance.
-
-Predictable complexity may remain:
-
-self-service.
-
----
-
-## 16. Atmosphere as Product
-
-Status:
-
-Emerging
-
-Confidence:
-
-High
-
-Previous confidence:
-
-Medium-High
-
-Alinea effect:
-
-Very Strongly Supported.
-
-Official confidence increase:
-
-Medium-High
-
-→
-
-High
-
-Boundary:
-
-atmosphere may be:
-
-primary value
-
-or
-
-supporting value.
-
----
-
-## 17. Escalating Participation Complexity
-
-Status:
-
-Emerging
-
-Confidence:
-
-High
-
-Post-Alinea definition refined.
-
-Current emphasis:
-
-participation complexity escalates where the need becomes:
-
-- less standard
-- less predictable
-- more coordinated
-- more consequential
-
-than:
-
-the normal route can handle.
-
----
-
-## 18. Photography Should Demonstrate Difference
-
-Status:
-
-Emerging
-
-Confidence:
-
-High
-
-Post-Alinea definition refined.
-
-Current emphasis:
-
-photography should make:
-
-meaningful difference
-
-legible.
-
-Difference may be demonstrated through:
-
-- source
-- process
-- result
-- place
-- use
-- craft
-- context
-- experience format
-
----
-
-# Official Candidate Patterns
-
-There are:
-
-9 Candidate patterns.
-
----
-
-## 1. Atmosphere Through Worldview
-
-Status:
+Previous:
 
 Candidate / Under Review
 
@@ -834,69 +170,44 @@ Confidence:
 
 Medium
 
-Previous confidence:
+Current:
+
+Candidate / Under Review
+
+Confidence:
 
 Medium-High
 
-Strong evidence:
+### Reason
 
-- Cultiva
-- FYN
-- Dishoom
+NARISAWA provided:
 
-Strong boundary / contradiction evidence:
+strong positive evidence
 
-- Franklin
+after:
+
+meaningful contradiction from:
+
+- Franklin Barbecue
 - Alinea
 
-Post-Alinea governance:
+The Candidate is stronger because:
 
-retain Candidate
-
-lower confidence
-
-keep narrow.
-
-Primary risk:
-
-worldview becoming:
-
-unfalsifiably broad.
+its boundary is clearer.
 
 ---
 
-## 2. Show the System Behind the Plate
+## Photography as Use-Case Evidence
 
-Status:
+Previous:
 
 Candidate
 
 Confidence:
 
-High
+Medium-High
 
-Post-Alinea definition refined around:
-
-evidence gap.
-
-Current rule:
-
-> Show the system only when important difference depends on a hidden system the guest would not otherwise understand.
-
-Strong evidence:
-
-- Cultiva
-- Franklin
-
-Boundary evidence:
-
-- Alinea
-
----
-
-## 3. Heritage Builds Confidence
-
-Status:
+Current:
 
 Candidate
 
@@ -904,304 +215,436 @@ Confidence:
 
 Medium
 
-Strongest evidence:
+### Reason
 
-Talisman
+Alinea and NARISAWA provide:
 
-Alinea effect:
+strong boundary evidence
 
-Weak / Not Central
+showing:
 
-Boundary:
+use-case photography is important only when:
 
-History
+guest behaviour itself
 
-≠
+is materially relevant to:
 
-Heritage
+the decision.
 
-Recognition
+The Candidate remains:
 
-≠
+valid
 
-Heritage
-
-Cultural reference
-
-≠
-
-Inherited heritage
+but more contextual.
 
 ---
 
-## 4. Atmosphere Through Continuity
+# Candidate Patterns
+
+Current Candidate count:
+
+9
+
+---
+
+## Candidate / Medium-High
+
+### Atmosphere Through Worldview
+
+Confidence:
+
+Medium-High
 
 Status:
 
-Candidate
+Under Review
+
+Primary governance change:
+
+definition refined around:
+
+translation.
+
+---
+
+# Candidate / High
+
+### Show the System Behind the Plate
+
+Confidence:
+
+High
+
+---
+
+### Biography When It Explains the Experience
+
+Confidence:
+
+High
+
+---
+
+### Narrative Language Within Clear Interface
+
+Confidence:
+
+High
+
+---
+
+### Walk-In as First-Class Participation
+
+Confidence:
+
+High
+
+---
+
+# Candidate / Medium
+
+### Heritage Builds Confidence
 
 Confidence:
 
 Medium
 
-Strongest evidence:
-
-Talisman
-
-Alinea effect:
-
-Weak / Not Central
-
-No governance change.
-
 ---
 
-## 5. Designed Escape
-
-Status:
-
-Candidate
+### Atmosphere Through Continuity
 
 Confidence:
 
 Medium
 
-Strongest evidence:
+---
 
-Mawimbi
+### Designed Escape
 
-Alinea effect:
+Confidence:
 
-Related / Boundary Evidence
-
-Governance:
-
-retain narrow definition.
+Medium
 
 ---
 
-## 6. Biography When It Explains the Experience
+### Photography as Use-Case Evidence
 
-Status:
+Confidence:
 
-Candidate
+Medium
+
+---
+
+# Candidate Count
+
+9
+
+No Candidate was:
+
+promoted
+
+or
+
+demoted
+
+during:
+
+the NARISAWA cycle.
+
+---
+
+# Candidate Pattern Snapshot
+
+| Candidate | Confidence | Post-NARISAWA Status |
+|---|---|---|
+| Atmosphere Through Worldview | Medium-High | Confidence increased |
+| Show the System Behind the Plate | High | Stable |
+| Heritage Builds Confidence | Medium | Stable |
+| Atmosphere Through Continuity | Medium | Stable |
+| Designed Escape | Medium | Stable |
+| Biography When It Explains the Experience | High | Stable |
+| Narrative Language Within Clear Interface | High | Stable |
+| Photography as Use-Case Evidence | Medium | Confidence reduced |
+| Walk-In as First-Class Participation | High | Stable |
+
+---
+
+# Emerging Patterns
+
+Current Emerging count:
+
+18
+
+---
+
+## 1. Emotion Before Interface
 
 Confidence:
 
 High
 
-Previous confidence:
-
-Medium-High
-
-Strong evidence:
-
-- Franklin
-- FYN
-- Bistro Lolo
-- Alinea
-
-Boundary evidence:
-
-- Cultiva
-- Dishoom
-
-Official confidence increase:
-
-Medium-High
-
-→
-
-High
-
-Primary rule:
-
-founder fame alone does not justify:
-
-founder-first storytelling.
-
 ---
 
-## 7. Narrative Language Within Clear Interface
-
-Status:
-
-Candidate
+## 2. Story Before Features
 
 Confidence:
 
 High
 
-Previous confidence:
-
-Medium-High
-
-Strong evidence:
-
-- Dishoom
-- Alinea
-
-Supporting evidence:
-
-- FYN
-- Cultiva
-- Mawimbi
-
-Official confidence increase:
-
-Medium-High
-
-→
-
-High
-
-Boundary:
-
-narrative language is:
-
-optional.
-
-Functional clarity is:
-
-required.
-
 ---
 
-## 8. Photography as Use-Case Evidence
-
-Status:
-
-Candidate
-
-Confidence:
-
-Medium-High
-
-Previous confidence:
-
-High
-
-Strong positive evidence:
-
-- Bistro Lolo
-- Dishoom
-- Franklin
-
-Alinea effect:
-
-Strong Boundary / Contradiction Pressure
-
-Official confidence decrease:
-
-High
-
-→
-
-Medium-High
-
-Current rule:
-
-use-case imagery should solve:
-
-a meaningful behavioural uncertainty.
-
-Not:
-
-show people by default.
-
----
-
-## 9. Walk-In as First-Class Participation
-
-Status:
-
-Candidate
+## 3. Photography Before Decoration
 
 Confidence:
 
 High
 
-Strong evidence:
+---
 
-- Dishoom
-- Franklin
+## 4. Participation Throughout the Journey
 
-Supporting evidence:
+Confidence:
 
-- Bistro Lolo
-
-Strong boundary evidence:
-
-- FYN
-- Alinea
-
-Post-Alinea boundary:
-
-walk-in should be:
-
-first-class
-
-only where spontaneous physical arrival genuinely fits:
-
-the hospitality model.
+High
 
 ---
 
-# Partially Supported Finding
+## 5. Atmosphere Through Consistency
+
+Confidence:
+
+High
+
+---
+
+## 6. Multi-Intent Hospitality
+
+Confidence:
+
+High
+
+---
+
+## 7. Commitment Without Pressure
+
+Confidence:
+
+High
+
+---
+
+## 8. Photography as Proof
+
+Confidence:
+
+High
+
+---
+
+## 9. Story Through Place
+
+Confidence:
+
+High
+
+---
+
+## 10. Promise Before Proof
+
+Confidence:
+
+Medium-High
+
+---
+
+## 11. Layered Arrival
+
+Confidence:
+
+High
+
+---
+
+## 12. Narrative Coherence Through Organising Logic
+
+Confidence:
+
+High
+
+---
+
+## 13. The Guest as Participant
+
+Confidence:
+
+High
+
+---
+
+## 14. Photography Through Layers of Experience
+
+Confidence:
+
+High
+
+---
+
+## 15. Human Assistance Where Structured Self-Service Is Insufficient
+
+Confidence:
+
+High
+
+---
+
+## 16. Atmosphere as Product
+
+Confidence:
+
+High
+
+---
+
+## 17. Escalating Participation Complexity
+
+Confidence:
+
+High
+
+---
+
+## 18. Photography Should Demonstrate Difference
+
+Confidence:
+
+High
+
+---
+
+# Emerging Count
+
+18
+
+No Emerging pattern was:
+
+promoted
+
+demoted
+
+renamed
+
+or
+
+removed
+
+during:
+
+the NARISAWA cycle.
+
+---
+
+# Partially Supported
+
+Current count:
+
+1
 
 ---
 
 ## Own the Guest Relationship
 
-Status:
+### Status
 
 Partially Supported
 
-Confidence:
+### Confidence
 
 Medium
 
-Observable:
+### Public Evidence Can Show
 
-- direct branded entry point
-- direct enquiry
-- direct booking link
-- first-party site route
+- direct branded entrypoints
+- owned-domain participation journeys
+- direct reservation links
+- branded communications
 
-Not observable from website alone:
+### Public Evidence Cannot Prove
 
 - CRM ownership
-- guest database ownership
+- customer-data ownership
 - payment-data ownership
-- remarketing control
+- remarketing rights
 - backend integration
-- lifetime-value tracking
+- portability
+- economic ownership of the relationship
 
-Alinea effect:
+### Governance Position
 
-No governance change.
+Remain:
+
+Partially Supported / Medium.
 
 ---
 
-# Existing Implementation Pattern Pending Formal Validation
+# Validated Patterns
+
+Current count:
+
+0
+
+No pattern currently meets:
+
+the KHDS Validated threshold.
+
+---
+
+# Research-Derived KHDS Principles
+
+Current count:
+
+0
+
+No research-derived Principle is:
+
+currently approved.
+
+---
+
+# Existing KHDS Implementation Patterns
+
+Current count:
+
+1
 
 ---
 
 ## Invitation
 
-Classification:
-
-Existing KHDS Implementation Pattern
-
-Research Status:
-
-Pending Formal Validation
-
 Path:
 
 `../../patterns/invitation.md`
 
-Related research:
+### Classification
+
+Existing KHDS Implementation Pattern
+
+### Research Status
+
+Pending Formal Validation
+
+### Candidate?
+
+No
+
+### Emerging?
+
+No
+
+### Validated?
+
+No
+
+### Related Research
 
 - Emotion Before Interface
 - Story Before Features
@@ -1209,480 +652,431 @@ Related research:
 - Layered Arrival
 - Atmosphere Through Consistency
 
-Kodawa validation:
+### Kodawa Labs Validation
 
 Trunk & Tandoor Concept
 
-Invitation remains outside:
+### Governance Rule
 
-Candidate
+Invitation remains:
 
-Emerging
+separate
 
-Validated
+from:
 
-and
-
-research-derived Principle counts.
+research-derived maturity.
 
 ---
 
-# Official Post-Alinea Confidence Changes
+# Strong Below-Candidate Research Directions
 
----
+These are:
 
-## Increased
+actively tracked
 
-### Human Assistance Where Structured Self-Service Is Insufficient
+but are not:
 
-Medium-High
-
-→
-
-High
-
-### Atmosphere as Product
-
-Medium-High
-
-→
-
-High
-
-### Biography When It Explains the Experience
-
-Medium-High
-
-→
-
-High
-
-### Narrative Language Within Clear Interface
-
-Medium-High
-
-→
-
-High
-
----
-
-## Decreased
-
-### Atmosphere Through Worldview
-
-Medium-High
-
-→
-
-Medium
-
-### Photography as Use-Case Evidence
-
-High
-
-→
-
-Medium-High
-
----
-
-# Official Rename
-
-Human Assistance When Complexity Requires It
-
-↓
-
-Human Assistance Where Structured Self-Service Is Insufficient
-
-Maturity remains:
-
-Emerging
-
-Count effect:
-
-0
-
----
-
-# Official Definition Refinements
-
-The following patterns were refined during:
-
-Alinea reconciliation.
-
-1. Atmosphere Through Consistency
-2. Multi-Intent Hospitality
-3. Layered Arrival
-4. Narrative Coherence Through Organising Logic
-5. The Guest as Participant
-6. Photography Through Layers of Experience
-7. Human Assistance Where Structured Self-Service Is Insufficient
-8. Escalating Participation Complexity
-9. Photography Should Demonstrate Difference
-10. Show the System Behind the Plate
-11. Narrative Language Within Clear Interface
-12. Photography as Use-Case Evidence
-13. Walk-In as First-Class Participation
-
-No maturity count changed as a result.
-
----
-
-# Strong Below-Candidate Watches
+Candidate patterns.
 
 ---
 
 ## Selective Reveal
 
-Status:
+### Status
 
 Observed Research Direction
 
-Promotion Watch:
+### Promotion Watch
 
-Medium-High
+Very Strong
 
-Strongest evidence:
+### Strong Evidence
 
-Alinea
+- Alinea
+- NARISAWA
 
-Question:
+### Distinction
 
-> How much evidence should be revealed when discovery itself is part of the experience?
+Designed Mystery
+
+versus
+
+Authentic Variability
+
+### Promotion Blocker
 
 Need:
 
-another independent discovery-dependent case.
+another materially different hospitality model.
 
 ---
 
 ## Consequence-Proportionate Clarity
 
-Status:
+### Status
 
 Observed Research Direction
 
-Confidence:
+### Confidence
 
-Medium-High
+High
 
-Strong evidence:
+### Strong Evidence
 
 - FYN
 - Alinea
+- NARISAWA
 
-Likely destination:
+### Current Interpretation
 
-refinement inside:
+Likely:
+
+cross-system rule
+
+inside:
 
 - Layered Arrival
 - Commitment Without Pressure
+- Participation Architecture
+
+### Promotion Position
+
+No Candidate promotion yet.
+
+---
+
+## Release-Based Availability
+
+### Status
+
+Observed Research Direction
+
+### Promotion Watch
+
+Medium-High
+
+### Strong Evidence
+
+- Alinea
+- NARISAWA
+
+### Promotion Blocker
+
+Need:
+
+another materially different case.
+
+---
+
+## Cultural Memory as Atmospheric Material
+
+### Status
+
+Observed Research Direction
+
+### Promotion Watch
+
+Medium-High
+
+### Strong Evidence
+
+- Dishoom Covent Garden
+- NARISAWA
+
+### Translation Mechanisms
+
+Dishoom:
+
+World-Building
+
+NARISAWA:
+
+Contemporary Culinary Translation
+
+### Promotion Blocker
+
+Need:
+
+another independent case.
+
+---
+
+## Atmosphere Through Use
+
+### Status
+
+Observed Research Direction
+
+### Confidence
+
+Medium-High
+
+### Strong Positive Evidence
+
+- Bistro Lolo
+- Dishoom Covent Garden
+- Franklin Barbecue
+
+### Boundary Evidence
+
+- Alinea
+- NARISAWA
+
+### Current Problem
+
+Causality remains:
+
+unresolved.
+
+### Promotion Position
+
+No active increase.
 
 ---
 
 ## Participation State Clarity
 
-Status:
+### Status
 
 Observed Research Direction
 
-Promotion Watch:
+### Promotion Watch
 
 Medium
 
-Strong evidence:
+### Strong Evidence
 
 - Alinea
-- Franklin supporting
+- NARISAWA
 
-Need broader testing.
+### Supporting
+
+- FYN
+- Mawimbi
+
+---
+
+## Philosophy as Proof Burden
+
+### Status
+
+Observed Research Direction
+
+### Confidence
+
+Medium
+
+### Strongest Evidence
+
+NARISAWA
+
+### Supporting
+
+- Cultiva
+- FYN
+
+### Likely Destination
+
+Hospitality Proof Architecture
+
+---
+
+## Creative Method as Atmosphere
+
+### Status
+
+Observed Research Direction
+
+### Promotion Watch
+
+Medium
+
+### Strong Evidence
+
+- Alinea
+- NARISAWA
+
+### Supporting
+
+FYN
 
 ---
 
 ## Pacing as Atmospheric Structure
 
-Status:
+### Status
 
 Observed Research Direction
 
-Promotion Watch:
+### Promotion Watch
 
 Medium
 
-Strong evidence:
+### Strong Evidence
 
 - FYN
 - Alinea
 
-Need lower-commitment and higher-volume contradiction testing.
+---
+
+## Controlled Separation
+
+### Status
+
+Observed Research Direction
+
+### Strong Evidence
+
+- FYN
+- Alinea
 
 ---
 
 ## Reputation as Narrative Compression
 
-Status:
+### Status
 
 Observed Research Direction
 
-Confidence:
+### Confidence
 
 Medium
 
-Strong evidence:
+### Supporting Evidence
 
-- Alinea
-- Franklin
 - FYN
-
-Limitation:
-
-behavioural evidence remains missing.
+- Franklin Barbecue
+- Alinea
+- NARISAWA
 
 ---
 
-# Strong Watch Removed
+## Distributed Authorship
 
-## Atmosphere Through Use
-
-Previous status:
-
-Very Strong Candidate Watch / High
-
-Current status:
+### Status
 
 Observed Research Direction
 
-Confidence:
+### Strongest Evidence
 
-Medium-High
+Alinea
 
-Reason:
+### NARISAWA Outcome
 
-Alinea introduces:
-
-Designed Use
-
-and shows that:
-
-guest behaviour may:
-
-follow
-
-rather than:
-
-cause
-
-atmosphere.
-
-Current question:
-
-Does use:
-
-- create
-- reinforce
-- reveal
-- enact
-- follow
-
-atmosphere?
-
-Do not promote yet.
+Weak / Not Central
 
 ---
 
-# Consolidated Directions
+## Growth as Narrative
 
-The following are no longer active independent promotion paths.
+### Status
 
----
+Observed Research Direction
 
-## Participation Before Reservation
+### Confidence
 
-Status:
+Low
 
-Historical / Consolidated
+### Promotion Watch
 
-Absorbed into:
-
-- Participation Throughout the Journey
-- Participation Architecture
+None
 
 ---
 
-## Structured Self-Service
+## Seasonality as Atmospheric Material
 
-Consolidated into:
+### Status
 
-Human Assistance Where Structured Self-Service Is Insufficient
+Observed Research Direction
 
----
+### Confidence
 
-## Physical Flow Assistance
+Low-Medium
 
-Consolidated into:
+### Strongest Evidence
 
-Human Assistance Where Structured Self-Service Is Insufficient
-
----
-
-## Predictability as Automation Variable
-
-Status:
-
-Participation Architecture Variable
+NARISAWA
 
 ---
 
-## Certainty as Routing Variable
+## Seasonality as Narrative Bridge
 
-Status:
+### Status
 
-Participation Architecture Variable
+Observed Research Direction
 
----
+### Strongest Evidence
 
-## Flexibility Before vs After Commitment
-
-Status:
-
-Participation Architecture Variable
+NARISAWA
 
 ---
 
-## Flexibility Has Multiple Forms
+## Temporal Proof
 
-Status:
+### Status
 
-Architecture Knowledge
+Observed Research Direction
 
----
+### Confidence
 
-## Time as Commitment
+Low
 
-Status:
+### Strongest Evidence
 
-Mechanism
-
----
-
-## Time-Bound Participation
-
-Status:
-
-Participation Mechanism
+NARISAWA
 
 ---
 
-## Process Need Depends on Evidence Gap
+## Reservation Identity Integrity
 
-Consolidated into:
+### Status
 
-Show the System Behind the Plate
+Observed Research Direction
 
----
+### Confidence
 
-## Result as Difference Proof
+Low
 
-Status:
+### Strongest Evidence
 
-Photography Proof Type
-
----
-
-## Evidence-Type Selection
-
-Status:
-
-Hospitality Proof Architecture Variable
+NARISAWA
 
 ---
 
-## Mystery Can Limit Proof
+# Promotion Watch Summary
 
-Status:
-
-Hospitality Proof Architecture Variable
-
----
-
-## Experience-Specific Proof
-
-Consolidated into:
-
-- Photography as Proof
-- Multi-Intent Hospitality
-
----
-
-## Space as Participation Proof
-
-Status:
-
-Photography Proof Type
+| Direction | Status | Promotion Watch / Confidence |
+|---|---|---|
+| Selective Reveal | Observed | Very Strong |
+| Consequence-Proportionate Clarity | Observed | High |
+| Release-Based Availability | Observed | Medium-High |
+| Cultural Memory as Atmospheric Material | Observed | Medium-High |
+| Atmosphere Through Use | Observed | Medium-High Confidence |
+| Participation State Clarity | Observed | Medium |
+| Philosophy as Proof Burden | Observed | Medium Confidence |
+| Creative Method as Atmosphere | Observed | Medium |
+| Pacing as Atmospheric Structure | Observed | Medium |
+| Seasonality as Atmospheric Material | Observed | Low-Medium |
+| Temporal Proof | Observed | Low |
+| Reservation Identity Integrity | Observed | Low |
 
 ---
 
-## Narrative Weight Follows Explanatory Value
+# Architecture Knowledge
 
-Consolidated into:
+KHDS should not promote every useful insight into:
 
-Narrative Coherence Through Organising Logic
+a pattern.
 
----
+The NARISAWA cycle materially strengthened:
 
-## Experience as Organising Logic
-
-Status:
-
-Narrative Mechanism
-
----
-
-## Biography as Authority Infrastructure
-
-Consolidated into:
-
-Biography When It Explains the Experience
-
----
-
-## Distributed Authority
-
-Status:
-
-Narrative Architecture Knowledge
-
----
-
-## Narrative as Routing
-
-Consolidated into:
-
-- Multi-Intent Hospitality
-- Narrative Language Within Clear Interface
-
----
-
-## Naming as Narrative Compression
-
-Status:
-
-Narrative Technique
-
----
-
-## Interface Restraint for Complex Hospitality
-
-Consolidated into:
-
-Narrative Language Within Clear Interface
+architecture knowledge.
 
 ---
 
 # Participation Architecture
 
-Current post-Alinea model:
+## Current Canonical Working Model
 
 Guest Intent
 
@@ -1728,110 +1122,49 @@ Confirmed / Ongoing Participation
 
 ---
 
-# Participation Architecture Variables
+## Post-NARISAWA Participation Knowledge
 
-Current variables include:
+Formalised:
 
-## Guest Intent
-
-Why is the guest participating?
-
----
-
-## Desired Certainty
-
-How important is:
-
-guaranteed access?
-
----
-
-## Resource Needed
-
-What must be secured?
-
-Possible resources:
-
-- table
-- product
-- time
-- space
-- experience
-- event capacity
-- group coordination
+- Compatibility
+- Eligibility vs Accommodation
+- Intent Complexity vs Participation Complexity
+- Choice Complexity vs Condition Complexity
+- Experience Certainty vs Product Certainty
+- Multidimensional Certainty
+- Predictability as Automation Variable
+- Certainty as Routing Variable
+- Format Commitment
+- Party Structure as Compatibility
 
 ---
 
-## Compatibility
+# Multidimensional Certainty
 
-Does the route fit:
+Certainty may include:
 
-the guest’s needs?
+- access certainty
+- format certainty
+- product certainty
+- compatibility certainty
+- timing certainty
+- participation-state certainty
 
----
+### NARISAWA Contribution
 
-## Predictability
+High:
 
-Can the need be:
+format certainty
 
-reliably structured?
+can coexist with:
 
----
-
-## Commitment
-
-What must the guest provide?
-
-Possible forms:
-
-- money
-- time
-- planning
-- quantity
-- coordination
-- behavioural compliance
-
----
-
-## Participation State
-
-Where is the guest in:
-
-the access process?
-
----
-
-## Flexibility
-
-What can change:
-
-before
-
-and
-
-after
-
-commitment?
-
----
-
-# Participation Architecture Rule
-
-> **Choose the participation route according to guest intent, desired certainty, resource need, compatibility, and predictability; require only relevant commitment; structure what can be handled clearly; preserve human assistance where the structure becomes insufficient.**
-
-This remains:
-
-research architecture.
-
-Not:
-
-KHDS Principle.
+lower exact product certainty.
 
 ---
 
 # Hospitality Proof Architecture
 
-Current post-Alinea model:
+## Current Canonical Working Model
 
 Guest Decision
 
@@ -1867,21 +1200,50 @@ Photography / Copy / Authority / Policy / Interaction / Other Evidence
 
 Build Meaning + Confidence
 
-### Key Rule
+---
 
-Photography is:
+## Post-NARISAWA Proof Knowledge
 
-one evidence medium.
+Formalised:
 
-Not:
+- Proof Can Be Multimodal
+- Evidence-Type Selection
+- Minimum Sufficient Proof
+- Designed Mystery vs Authentic Variability
+- Process Need Depends on Evidence Gap
+- Result as Difference Proof
+- Mystery Can Limit Proof
+- Temporal Proof
+- Ecological Place as Visual Proof
 
-the entire proof system.
+---
+
+# Claim-Type Question
+
+NARISAWA introduced:
+
+a stronger Proof Architecture question.
+
+> **What kind of claim is this?**
+
+Possible claim types:
+
+- visual
+- conceptual
+- operational
+- ecological
+- cultural
+- behavioural
+
+Different claims require:
+
+different evidence.
 
 ---
 
 # Narrative Architecture
 
-Current post-Alinea model:
+## Current Canonical Working Model
 
 Hospitality Experience
 
@@ -1917,15 +1279,26 @@ Preserve Appropriate Mystery
 
 Participation
 
-### Key Rule
+---
 
-No universal narrative hierarchy exists.
+## Post-NARISAWA Narrative Knowledge
+
+Formalised:
+
+- Worldview Requires Translation
+- Worldview Translation vs World-Building
+- Cultural Inheritance vs Institutional Heritage
+- Chef as Philosophical Translator
+- Cultural Memory Through Contemporary Translation
+- Seasonality as Narrative Bridge
+- Ecological Place as Narrative Infrastructure
+- Distributed Authority
 
 ---
 
 # Atmosphere Architecture
 
-Current post-Alinea model:
+## Current Canonical Working Model
 
 Hospitality Model
 
@@ -1953,546 +1326,662 @@ Does Behaviour Create, Reinforce, Reveal, or Follow the Atmosphere?
 
 Atmospheric Experience
 
-### Key Rule
-
-Atmosphere is:
-
-emotional coherence
-
-not:
-
-visual uniformity.
-
 ---
 
-# Alinea Research Corrections
+## Post-NARISAWA Refinement Under Review
 
-Alinea produced:
+Possible addition:
 
-no new patterns.
+Atmospheric Mechanism
 
-It produced:
+↓
 
-stronger governance.
+How Is It Translated Into Experience?
 
----
+↓
 
-## Participation Correction
+Relevant Signals
 
-Complexity
-
-is not:
-
-the best self-service boundary.
-
-Predictability
-
-and
-
-structured sufficiency
-
-matter more.
-
----
-
-## Atmosphere Correction
+### Reason
 
 Worldview
 
-is one mechanism.
+or another atmospheric mechanism
 
-Not:
+must become:
 
-a universal requirement.
+experiential
 
----
+before it can create:
 
-## Use Correction
+hospitality atmosphere.
 
-Guest behaviour may:
+This is:
 
-create atmosphere
-
-or
-
-be shaped by atmosphere.
-
-Causality remains:
-
-context-dependent.
+not yet canonical.
 
 ---
 
-## Photography Correction
+# Arrival Architecture
 
-Not every difference needs:
+## Current Canonical Working Model
 
-process proof.
+Guest Intent
 
-The stronger question is:
+↓
 
-what evidence gap remains?
+Primary Uncertainty
 
----
+↓
 
-## Use-Case Photography Correction
+Relevant Meaning
 
-Show guest behaviour where:
+↓
 
-guest behaviour is:
+Relevant Evidence
 
-decision-relevant.
+↓
 
-Not by default.
+Participation Understanding
 
----
+↓
 
-## Story Correction
+Appropriate Commitment
 
-Narrative weight should follow:
+↓
 
-explanatory value.
+Participation
 
----
+For higher-consequence hospitality:
 
-## Interface Correction
+add:
 
-Complex hospitality may benefit from:
+- fit
+- compatibility
+- expectation clarity
 
-clearer
+before:
 
-not:
-
-more complex
-
-digital language.
+commitment.
 
 ---
 
-# Research Tensions
+## Post-NARISAWA Arrival Refinement
 
-Current high-value tensions include:
+Decision-Relevant Clarity
 
-1. Spontaneity vs Precision
-2. Complexity vs Predictability
-3. Worldview vs Experience Architecture
-4. Emergent Use vs Designed Use
-5. Source Proof vs Result Proof
-6. Proof vs Mystery
-7. Founder vs Experience
-8. Heritage vs Innovation
-9. Certainty vs Flexibility
-10. Choice Before Commitment vs Flexibility After Commitment
-11. Product Access vs Experience Access
-12. Narrative Density vs Narrative Coherence
-13. Automation vs Judgment
-14. Social Energy vs Controlled Rhythm
-15. Place vs Experience
-16. Product Beauty vs Product Difference
+>
 
-These tensions should be:
+Information Volume
 
-preserved
+### Working Rule
 
-not:
-
-flattened.
+> **Higher commitment requires better decision-relevant clarity, not necessarily more content.**
 
 ---
 
-# Opportunity Governance
+# Consolidated Directions
 
-The existing tracked opportunity count remains:
+The following remain:
+
+consolidated
+
+rather than:
+
+independent Candidate paths.
+
+---
+
+## Participation Before Reservation
+
+Consolidated into:
+
+- Participation Throughout the Journey
+- Participation Architecture
+
+---
+
+## Structured Self-Service
+
+Consolidated into:
+
+Human Assistance Where Structured Self-Service Is Insufficient.
+
+---
+
+## Physical Flow Assistance
+
+Consolidated into:
+
+Human Assistance Where Structured Self-Service Is Insufficient.
+
+---
+
+## Predictability as Automation Variable
+
+Participation Architecture variable.
+
+---
+
+## Certainty as Routing Variable
+
+Participation Architecture variable.
+
+---
+
+## Flexibility Before / After Commitment
+
+Participation Architecture variable.
+
+---
+
+## Flexibility Has Multiple Forms
+
+Participation Architecture knowledge.
+
+---
+
+## Time as Commitment
+
+Participation mechanism.
+
+---
+
+## Time-Bound Participation
+
+Participation mechanism.
+
+---
+
+## Process Need Depends on Evidence Gap
+
+Consolidated into:
+
+Show the System Behind the Plate.
+
+---
+
+## Result as Difference Proof
+
+Proof type.
+
+---
+
+## Evidence-Type Selection
+
+Proof Architecture variable.
+
+---
+
+## Mystery Can Limit Proof
+
+Proof Architecture variable.
+
+---
+
+## Experience-Specific Proof
+
+Consolidated into:
+
+- Photography as Proof
+- Multi-Intent Hospitality
+
+---
+
+## Space as Participation Proof
+
+Proof type.
+
+---
+
+## Narrative Weight Follows Explanatory Value
+
+Consolidated into:
+
+Narrative Coherence Through Organising Logic.
+
+---
+
+## Experience as Organising Logic
+
+Narrative mechanism.
+
+---
+
+## Biography as Authority Infrastructure
+
+Consolidated into:
+
+Biography When It Explains the Experience.
+
+---
+
+## Distributed Authority
+
+Narrative Architecture knowledge.
+
+---
+
+## Narrative as Routing
+
+Consolidated into:
+
+- Multi-Intent Hospitality
+- Narrative Language Within Clear Interface
+
+---
+
+## Naming as Narrative Compression
+
+Narrative technique.
+
+---
+
+## Interface Restraint for Complex Hospitality
+
+Consolidated into:
+
+Narrative Language Within Clear Interface.
+
+---
+
+## Chef as Philosophical Translator
+
+Consolidated into:
+
+Biography When It Explains the Experience.
+
+---
+
+## Worldview Requires Translation
+
+Retained as:
+
+boundary / architecture knowledge
+
+inside:
+
+Atmosphere Through Worldview.
+
+---
+
+# Opportunity Layer
+
+Current Opportunity Theme count:
 
 36
 
-Do not increment the count because:
+The NARISAWA cycle surfaced:
 
-Alinea surfaced additional ideas.
+additional potential commercial opportunities.
 
-A separate:
+These include:
 
-deduplication
+- Philosophy-to-Proof Architecture
+- Seasonal Proof System
+- Omakase Expectation Architecture
+- Eligibility + Compatibility Booking Layer
+- Structured Uncertainty UX
+- Release-Based Reservation Communication
+- Worldview Translation System
+- Cultural Translation Without Heritage Inflation
+- Human Escalation for Compatibility Exceptions
+- Minimum Sufficient Proof System
+
+These have not been:
+
+automatically added
+
+to the official count.
+
+### Governance Rule
+
+Opportunity Theme count remains:
+
+36
+
+until:
+
+a separate commercial deduplication pass.
+
+---
+
+# Validation Readiness
+
+No current pattern is ready for:
+
+Validated.
+
+The strongest current research states remain:
+
+Candidate
 
 and
 
-commercial consolidation pass
-
-must determine whether any new Alinea themes are:
-
-genuinely new.
+Emerging.
 
 ---
 
-# Existing Opportunity Architecture Umbrellas
+# Why No Validated Pattern Yet?
 
-Current broad commercial umbrellas remain:
+Ten independent restaurants provide:
 
-## Adaptive Participation Infrastructure
+meaningful evidence.
 
-Potentially covers:
+But:
 
-- reservation
-- walk-in
-- waitlist
-- preorder
-- prepaid experience
-- compatibility
-- exception routing
-- participation states
+Validated requires:
 
----
+more than:
 
-## Hospitality Proof System
+sample size.
 
-Potentially covers:
+It requires:
 
-- photography
-- authority
-- policy
-- evidence selection
-- selective reveal
-- difference proof
+- diversity
+- contradiction survival
+- definition stability
+- boundary clarity
+- transferability
+- non-duplication
+- evidence appropriate to the claim
+- repeated support outside narrow categories
 
----
+Current research continues to improve:
 
-## Hospitality Narrative Architecture
+these dimensions.
 
-Potentially covers:
+No promotion should be forced because:
 
-- story organisation
-- founder relevance
-- narrative weighting
-- authority
-- functional clarity
+the independent count reached:
+
+10.
 
 ---
 
-## Digital Atmosphere Translation System
+# Research-Derived KHDS Principles
 
-Potentially covers:
-
-- visual atmosphere
-- place
-- worldview
-- experience architecture
-- use
-- emotional coherence
-
-These remain:
-
-commercial architecture hypotheses.
-
-Not:
-
-KHDS patterns.
-
----
-
-# Potential Alinea Opportunity Themes
-
-These remain:
-
-Potential Opportunities.
-
-Do not add to:
-
-the 36-count
-
-yet.
-
-1. High-Commitment Experience Choice Architecture
-2. Compatibility-Aware Booking
-3. Structured Exception Routing
-4. Participation-State Messaging
-5. Proof Architecture for High-Commitment Hospitality
-6. Selective Reveal System
-7. Prepaid Experience Infrastructure
-8. Policy UX for Hospitality
-9. Experience-Specific Story and Photography
-10. Reputation + Evidence Architecture
-
----
-
-# Research Governance Risks
-
----
-
-## Risk 1 — Pattern Inflation
-
-Alinea produced many useful directions.
-
-Most should remain:
-
-- mechanisms
-- variables
-- proof types
-- architecture knowledge
-
-not:
-
-patterns.
-
----
-
-## Risk 2 — Worldview Inflation
-
-Do not redefine:
-
-worldview
-
-until every strong atmosphere fits it.
-
----
-
-## Risk 3 — Automation Doctrine
-
-Alinea strongly supports:
-
-structured self-service.
-
-Talisman and Franklin prevent:
-
-automation absolutism.
-
----
-
-## Risk 4 — Human-Service Doctrine
-
-High-value hospitality does not automatically require:
-
-manual handling.
-
----
-
-## Risk 5 — Use-Causality Error
-
-Do not assume:
-
-guest behaviour creates atmosphere.
-
-In some models:
-
-atmosphere shapes guest behaviour.
-
----
-
-## Risk 6 — Process Fetish
-
-Do not show:
-
-craft
-
-or
-
-system
-
-simply because it is interesting.
-
-Show it when:
-
-the guest needs the evidence.
-
----
-
-## Risk 7 — Founder Gravity
-
-Do not make:
-
-founder biography
-
-the default organising story
-
-because:
-
-the founder is famous.
-
----
-
-## Risk 8 — Mystery as Excuse
-
-Selective reveal should not become:
-
-an excuse for:
-
-poor clarity
-
-or
-
-insufficient proof.
-
----
-
-## Risk 9 — Restaurant Count as Validation
-
-Nine restaurants is:
-
-more evidence.
-
-It is not:
-
-automatic validation.
-
-Diversity
-
-contradiction survival
-
-and
-
-external evidence
-
-still matter.
-
----
-
-# Twelve Foundations Distinction
-
-The Twelve Foundations remain:
-
-pre-research Kodawa Labs studio beliefs.
-
-They are not:
-
-research-derived KHDS Principles.
-
-Current research-derived KHDS Principles:
+Current:
 
 0
 
-The research may:
-
-support
-
-challenge
+No Candidate
 
 or
 
-refine
+Emerging finding
 
-the Foundations.
+should be treated as:
 
-It does not:
-
-retroactively validate them.
+a KHDS Principle.
 
 ---
 
-# Existing Implementation Pattern
+# Pre-Research Foundations
 
-## Invitation
+Older KHDS studio beliefs may exist under:
 
-Classification:
+`../../principles/`
 
-Existing KHDS Implementation Pattern
+These should remain separate from:
 
-Research Status:
+research-derived governance.
 
-Pending Formal Validation
+Examples may include:
 
-Path:
+- Emotion Before Interface
+- Story Before Features
+- Photography Before Decoration
+- Reservation Throughout the Journey
+- Atmosphere Through Consistency
 
-`../../patterns/invitation.md`
+Where names overlap:
 
-Invitation remains outside:
+the research state
 
-- Emerging
-- Candidate
-- Validated
-- research-derived Principle
+must remain:
 
-counts.
+explicit.
 
----
+A pre-research studio belief
 
-# Alinea Reconciliation Status
+is not automatically:
 
-## Restaurant Dossier
-
-Complete
-
-Files:
-
-- `../restaurants/alinea/README.md`
-- `../restaurants/alinea/arrival.md`
-- `../restaurants/alinea/atmosphere.md`
-- `../restaurants/alinea/photography.md`
-- `../restaurants/alinea/reservation.md`
-- `../restaurants/alinea/story.md`
-- `../restaurants/alinea/knowledge-extraction.md`
+a research-derived KHDS Principle.
 
 ---
 
-## Cross-Restaurant Comparison
-
-Complete
-
-Files:
-
-- `../comparison/arrival.md`
-- `../comparison/atmosphere.md`
-- `../comparison/photography.md`
-- `../comparison/reservation.md`
-- `../comparison/story.md`
+# Promotion Readiness Snapshot
 
 ---
 
-## Candidate Governance
+## Highest Candidate Promotion Pressure
 
-Complete
+No Candidate currently appears ready for:
 
-File:
+Emerging-to-Validated
 
-`candidate-patterns.md`
+or
 
----
+Candidate-to-Validated
 
-## Registry
-
-Complete
-
-File:
-
-`../../patterns/registry.md`
+promotion.
 
 ---
 
-## Validation Dashboard
+## Strongest Below-Candidate Promotion Pressure
 
-Complete
+### 1. Selective Reveal
 
-This file.
+Promotion Watch:
+
+Very Strong
+
+### 2. Consequence-Proportionate Clarity
+
+Confidence:
+
+High
+
+### 3. Release-Based Availability
+
+Promotion Watch:
+
+Medium-High
+
+### 4. Cultural Memory as Atmospheric Material
+
+Promotion Watch:
+
+Medium-High
 
 ---
 
-## Research Overview
+# Highest Priority Contradiction Targets
 
-Pending Alinea reconciliation
+Future research should attempt to break:
 
-Next:
-
-`../README.md`
+current findings.
 
 ---
 
-## Validation Overview
+## Selective Reveal
 
-Pending final Alinea reconciliation
+Find:
 
-After:
+a materially different hospitality model
 
-research overview.
+outside:
+
+high-commitment tasting-menu dining.
 
 ---
 
-# Current Official State
+## Consequence-Proportionate Clarity
+
+Find:
+
+a lower-price
+
+but high-consequence hospitality model.
+
+---
+
+## Cultural Memory as Atmospheric Material
+
+Find:
+
+another strong cultural-memory case
+
+with:
+
+different translation mechanics.
+
+---
+
+## Release-Based Availability
+
+Find:
+
+release-based access
+
+outside:
+
+high-end tasting hospitality.
+
+---
+
+## Photography as Use-Case Evidence
+
+Find:
+
+a high-commitment hospitality experience
+
+where:
+
+behavioural imagery is:
+
+essential.
+
+---
+
+## Atmosphere Through Worldview
+
+Find:
+
+a restaurant with:
+
+strong philosophy language
+
+but weak translation into:
+
+product
+
+experience
+
+or participation.
+
+---
+
+## Show the System Behind the Plate
+
+Find:
+
+a highly differentiated product
+
+with:
+
+almost no public process proof.
+
+---
+
+## Biography When It Explains the Experience
+
+Find:
+
+a famous-chef restaurant
+
+where:
+
+the chef is almost absent
+
+from:
+
+the digital story.
+
+---
+
+## Walk-In as First-Class Participation
+
+Find:
+
+a highly operationally complex restaurant
+
+where:
+
+walk-in remains:
+
+primary.
+
+---
+
+## Narrative Language Within Clear Interface
+
+Find:
+
+a restaurant where:
+
+distinctive branded language
+
+creates:
+
+real usability ambiguity.
+
+---
+
+# NARISAWA Cycle Assessment
+
+The NARISAWA cycle produced:
+
+healthy governance.
+
+It did not:
+
+inflate:
+
+pattern count.
+
+It produced:
+
+- 1 official restaurant-count increase
+- 1 Candidate confidence increase
+- 1 Candidate confidence decrease
+- 1 Candidate definition refinement
+- stronger promotion watches
+- stronger architecture knowledge
+- clearer proof boundaries
+- clearer participation boundaries
+- no new Candidate
+- no Validated promotion
+- no Principle promotion
+
+---
+
+# Post-NARISAWA Governance Summary
+
+## Research
 
 Independent Restaurants:
 
-9
+10
 
 Kodawa Labs Validation Concepts:
 
 1
+
+---
+
+## Maturity
 
 Emerging:
 
@@ -2501,6 +1990,114 @@ Emerging:
 Candidate:
 
 9
+
+Partially Supported:
+
+1
+
+Validated:
+
+0
+
+Research-Derived KHDS Principles:
+
+0
+
+---
+
+## Existing Implementation
+
+Pending Formal Validation:
+
+1
+
+---
+
+## Commercial
+
+Opportunity Themes:
+
+36
+
+---
+
+# Current Highest-Priority Governance Questions
+
+---
+
+## 1. Selective Reveal
+
+Can it survive:
+
+outside:
+
+high-commitment tasting hospitality?
+
+---
+
+## 2. Consequence-Proportionate Clarity
+
+Is it:
+
+a standalone pattern
+
+or:
+
+architecture rule?
+
+---
+
+## 3. Cultural Memory as Atmospheric Material
+
+Can another:
+
+materially different restaurant
+
+support it?
+
+---
+
+## 4. Release-Based Availability
+
+Is it:
+
+category-specific
+
+or:
+
+transferable participation logic?
+
+---
+
+## 5. Atmosphere Through Worldview
+
+Can a future:
+
+declared-worldview
+
+but weak-translation case
+
+break the current:
+
+Medium-High Candidate?
+
+---
+
+# Validation Dashboard Status
+
+Post-NARISAWA Validation Dashboard Reconciled
+
+Independent Restaurant Count:
+
+10
+
+Candidate Count:
+
+9
+
+Emerging Count:
+
+18
 
 Partially Supported:
 
@@ -2524,211 +2121,72 @@ Opportunity Themes:
 
 ---
 
-# Restaurant #10 Research Strategy
+# Related Governance Files
 
-Restaurant #10 should not be selected to:
-
-confirm Alinea.
-
-It should attack:
-
-the strongest post-Alinea corrections.
-
-Priority contradiction targets include:
-
-- Human Assistance Where Structured Self-Service Is Insufficient
-- Photography as Use-Case Evidence
-- Show the System Behind the Plate
-- Atmosphere Through Worldview
-- Selective Reveal
-- Consequence-Proportionate Clarity
-- Narrative Language Within Clear Interface
-- Biography When It Explains the Experience
-- Walk-In as First-Class Participation
-- Participation State Clarity
-
----
-
-# Ideal Restaurant #10 Characteristics
-
-Look for a restaurant with several of the following:
-
-- low or moderate price point
-- operationally simple but digitally complex
-- reservation-heavy without prepayment
-- little founder relevance
-- strong product distinction with little visual proof
-- strong atmosphere without worldview
-- highly social but not walk-in-first
-- high human support despite predictable participation
-- no dedicated gallery
-- minimal narrative language
-- little mystery / high transparency
-- strong direct conversion despite sparse storytelling
-
-The goal is:
-
-falsification.
-
-Not:
-
-confirmation.
-
----
-
-# Dashboard Governance Recommendation
-
-No further pattern changes should be made during:
-
-dashboard reconciliation.
-
-The Alinea governance state is now:
-
-fixed
-
-until:
-
-`../README.md`
-
-and
-
-`README.md`
-
-are reconciled to:
-
-the same state.
-
----
-
-# Canonical Links
-
-## Candidate Governance
+Candidate Pattern Detail:
 
 `candidate-patterns.md`
 
-## Pattern Registry
+Pattern Registry:
 
 `../../patterns/registry.md`
 
-## Research Overview
+Promotion Process:
+
+`promotion-process.md`
+
+Research Overview:
 
 `../README.md`
 
-## Validation Overview
+Validation Overview:
 
 `README.md`
 
-## Cross-Restaurant Comparison
-
-`../comparison/`
-
-## Restaurant Research
+Restaurant Research:
 
 `../restaurants/`
 
-## Invitation Pattern
+Cross-Restaurant Comparison:
 
-`../../patterns/invitation.md`
+`../comparison/`
 
-## Trunk & Tandoor Validation
+Trunk & Tandoor Validation Study:
 
 `trunk-tandoor/arrival-pattern-study.md`
 
----
+Invitation Pattern:
 
-# Final Dashboard Statement
-
-The Alinea cycle does not increase:
-
-pattern count.
-
-It increases:
-
-precision.
-
-Alinea became official:
-
-independent restaurant #9
-
-while the research-derived maturity state remains:
-
-18 Emerging
-
-9 Candidate
-
-1 Partially Supported
-
-0 Validated
-
-0 research-derived KHDS Principles.
-
-The major official changes are:
-
-- Human Assistance renamed and strengthened
-- Atmosphere as Product confidence increased
-- Biography When It Explains the Experience confidence increased
-- Narrative Language Within Clear Interface confidence increased
-- Atmosphere Through Worldview confidence decreased
-- Photography as Use-Case Evidence confidence decreased
-- Atmosphere Through Use removed from Strong Candidate Watch
-- multiple definitions narrowed or clarified
-
-The largest methodological gain is:
-
-KHDS is becoming better at distinguishing:
-
-mechanism
-
-from
-
-principle
-
-and
-
-boundary
-
-from
-
-failure.
-
-Alinea does not prove:
-
-structured hospitality is better.
-
-Franklin does not prove:
-
-spontaneous hospitality is better.
-
-Together they show:
-
-the architecture must fit:
-
-the product
-
-guest intent
-
-required certainty
-
-relevant commitment
-
-and
-
-actual evidence need.
-
-That is stronger research.
-
-Evidence wins.
+`../../patterns/invitation.md`
 
 ---
 
-## Dashboard Status
-
-Post-Alinea Governance Reconciled
-
----
-
-## Next Step
+# Next Step
 
 Update:
 
 `khds/research/README.md`
+
+Then:
+
+`khds/research/validation/README.md`
+
+After those two files are reconciled:
+
+the full post-NARISAWA governance cycle will be:
+
+complete.
+
+Do not change:
+
+- Independent Restaurant count: 10
+- Emerging count: 18
+- Candidate count: 9
+- Partially Supported count: 1
+- Validated count: 0
+- Research-Derived KHDS Principle count: 0
+- Opportunity Theme count: 36
+
+without:
+
+a new formal evidence review.

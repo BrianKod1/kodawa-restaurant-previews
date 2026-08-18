@@ -2,9 +2,9 @@
 
 ## Research Status
 
-Alinea Comparison Cycle
+Post-NARISAWA Photography Comparison Complete
 
-Photography Reconciliation Complete
+Independent Restaurant #10 Candidate Included
 
 Global Governance Still Frozen
 
@@ -12,25 +12,40 @@ Global Governance Still Frozen
 
 # Purpose
 
-Compare how the current independent restaurant set uses photography to create:
+This document compares how the current independent restaurant set uses photography as:
 
-- desire
-- proof
-- differentiation
-- understanding
 - atmosphere
-- participation clarity
+- proof
+- product evidence
+- process evidence
+- place evidence
+- use-case evidence
+- authority evidence
+- narrative support
+- difference proof
+- selective reveal
 
-This document evaluates whether photography patterns remain:
+The goal is not to determine:
 
-- transferable
-- contextual
-- contradicted
-- too broad
-- in need of narrowing
-- in need of stronger boundaries
+one correct restaurant photography style.
 
-The comparison set now includes:
+The goal is to answer:
+
+> **What does this guest need to see in order to understand and believe what is different about this hospitality experience?**
+
+NARISAWA is included here as:
+
+Independent Restaurant #10 Candidate.
+
+Its evidence should not change:
+
+global governance
+
+until all five comparison files are complete.
+
+---
+
+# Current Comparison Set
 
 1. Ankole
 2. Cultiva
@@ -41,1629 +56,274 @@ The comparison set now includes:
 7. Dishoom Covent Garden
 8. Franklin Barbecue
 9. Alinea
-
-Alinea remains:
-
-Independent Restaurant #9 Candidate
-
-until all comparison and governance files are reconciled.
+10. NARISAWA
 
 ---
 
 # Core Photography Question
 
-> **What must this guest believe, and what evidence can credibly prove it?**
+Across ten materially different restaurants:
 
-After nine independent restaurants, photography can no longer be treated as:
+> **What must be proven visually, what should be proven by another medium, and what should legitimately remain unrevealed?**
 
-a visual-content category.
+The evidence now strongly rejects:
 
-It is increasingly better understood as:
+photography as decoration.
 
-one evidence channel inside a broader hospitality proof system.
+It also rejects:
+
+photography as the only proof system.
+
+The stronger model is:
+
+Photography
+
+inside:
+
+a broader Hospitality Proof Architecture.
 
 ---
 
-# Nine Photography Models
+# Ten Photography Models
 
 ---
 
-## Ankole
+## 1. Ankole
 
-### Model
+### Photography Model
 
 Place + Refinement Proof
 
-### Primary Photography Jobs
+### Primary Evidence Jobs
 
-- establish place
-- communicate refinement
-- show physical atmosphere
+- environment
+- physical quality
+- dining atmosphere
+- visual refinement
 
-### Primary Guest Question
+### Core Question Solved
 
-What kind of environment is this?
+What kind of place is this?
 
 ---
 
-## Cultiva
+## 2. Cultiva
 
-### Model
+### Photography Model
 
 Process + System Proof
 
-### Primary Photography Jobs
+### Primary Evidence Jobs
 
-- reveal sourcing
-- show cultivation
-- demonstrate ingredients
-- make worldview credible
+- cultivation
+- sourcing
+- ingredients
+- process
+- environment
+- philosophy translation
 
-### Primary Guest Question
+### Core Question Solved
 
-Why should I believe the restaurant’s philosophy?
+How does the restaurant’s worldview become product?
 
 ---
 
-## Talisman
+## 3. Talisman
 
-### Model
+### Photography Model
 
 Layered Character Proof
 
-### Primary Photography Jobs
+### Primary Evidence Jobs
 
-- show food
-- reveal interiors
-- demonstrate atmosphere
-- support place
-- support accumulated character
+- food
+- interiors
+- art
+- heritage character
+- environment
 
-### Primary Guest Question
+### Core Question Solved
 
-What kind of established destination is this?
+What kind of place has accumulated here over time?
 
 ---
 
-## Mawimbi
+## 4. Mawimbi
 
-### Model
+### Photography Model
 
 Product + Atmosphere + Occasion Proof
 
-### Primary Photography Jobs
+### Primary Evidence Jobs
 
-- create appetite
-- show seafood
-- communicate luxury
-- show destination atmosphere
-- support events and occasions
+- seafood
+- luxury
+- atmosphere
+- events
+- social occasion
 
-### Primary Guest Question
+### Core Question Solved
 
-What kind of premium seafood experience am I choosing?
+What am I coming here to experience?
 
 ---
 
-## Bistro Lolo
+## 5. Bistro Lolo
 
-### Model
+### Photography Model
 
 Place + Lifestyle + Use Proof
 
-### Primary Photography Jobs
+### Primary Evidence Jobs
 
-- show neighbourhood character
-- show social use
-- communicate day-to-day rhythm
-- help guests imagine belonging
+- people
+- neighbourhood use
+- social rhythm
+- interiors
+- dining moments
 
-### Primary Guest Question
+### Core Question Solved
 
 Can I imagine myself using this place?
 
 ---
 
-## FYN
+## 6. FYN
 
-### Model
+### Photography Model
 
 Product + Craft + Spatial Proof
 
-### Primary Photography Jobs
+### Primary Evidence Jobs
 
-- show culinary precision
-- establish authority
-- communicate restrained space
-- prove craft through finished output
+- finished dishes
+- culinary precision
+- space
+- craft
+- authority
 
-### Primary Guest Question
+### Core Question Solved
 
-Does this high-commitment experience visibly justify its positioning?
+What level of culinary precision and experience should I expect?
 
 ---
 
-## Dishoom Covent Garden
+## 7. Dishoom Covent Garden
 
-### Model
+### Photography Model
 
 Product + Cultural + Social + Memory Proof
 
-### Primary Photography Jobs
+### Primary Evidence Jobs
 
-- show food
-- demonstrate cultural world
-- communicate social café use
-- reinforce designed historical memory
+- food
+- cultural world
+- social participation
+- interiors
+- historical / memory cues
 
-### Primary Guest Question
+### Core Question Solved
 
-What kind of cultural and social world am I entering?
+What cultural and social world am I entering?
 
 ---
 
-## Franklin Barbecue
+## 8. Franklin Barbecue
 
-### Model
+### Photography Model
 
 Product + Craft + Founder + Participation Proof
 
-### Primary Photography Jobs
+### Primary Evidence Jobs
 
-- show product
-- reveal texture
-- show craft
-- support founder authority
-- show participation and use
+- barbecue
+- smoke / craft
+- founder authority
+- queue / use
+- physical product access
 
-### Primary Guest Question
+### Core Question Solved
 
-Why is this barbecue meaningfully different, and what is participation like?
-
----
-
-## Alinea
-
-### Model
-
-Product + Space + Experience Difference + Selective Proof
-
-### Primary Photography Jobs
-
-- show product
-- distinguish spaces
-- support experience selection
-- demonstrate visible difference
-- preserve some mystery
-
-### Primary Guest Question
-
-Which experience am I choosing, why is it different, and how much should I know before committing?
-
-This model remains provisional until full reconciliation.
-
----
-
-# First Cross-Restaurant Finding
-
-## Photography Does Not Have One Universal Job
-
-The nine restaurants use photography to answer materially different guest questions.
-
-Photography may need to prove:
-
-- place
-- refinement
-- process
-- system
-- product
-- craft
-- atmosphere
-- use
-- culture
-- occasion
-- authority
-- experience difference
-
-The transferable rule is not:
-
-show more photography.
-
-It is:
-
-> **Use the evidence type that best resolves the guest’s relevant uncertainty.**
-
----
-
-# Photography Before Decoration
-
-## Current Status
-
-Emerging
-
-## Current Confidence
-
-High
-
-### Evidence Across Set
-
-Strongly supported across:
-
-all nine restaurants.
-
-The specific photographic role changes.
-
-The importance of authentic visual evidence remains.
-
-### Alinea Contribution
-
-Alinea reinforces that photography can be:
-
-selective
+Why is this product different
 
 and
 
-decision-oriented
-
-without becoming decorative.
-
-### Current Interpretation
-
-Photography Before Decoration does not mean:
-
-photography must dominate every interface.
-
-It means:
-
-where visual evidence matters,
-
-authentic photography should perform:
-
-real explanatory or emotional work.
-
-### Status Recommendation
-
-Retain:
-
-Emerging
-
-### Confidence
-
-High
+what does participation look like?
 
 ---
 
-# Photography as Proof
+## 9. Alinea
 
-## Current Status
+### Photography Model
 
-Emerging
+Product + Space + Experience Difference + Selective Proof
 
-## Current Confidence
+### Primary Evidence Jobs
 
-High
-
-### Evidence Across Set
-
-Strong and diverse.
-
-#### Ankole
-
-Place proof.
-
-#### Cultiva
-
-System proof.
-
-#### Talisman
-
-Character proof.
-
-#### Mawimbi
-
-Product + atmosphere proof.
-
-#### Bistro Lolo
-
-Use + lifestyle proof.
-
-#### FYN
-
-Craft + product proof.
-
-#### Dishoom
-
-Culture + social proof.
-
-#### Franklin
-
-Craft + participation proof.
-
-#### Alinea
-
-Experience difference + spatial proof.
-
-### Current Conclusion
-
-Photography as Proof remains one of the strongest KHDS photography patterns.
-
-### Important Refinement
-
-Photography is:
-
-one proof medium.
-
-Not:
-
-the entire proof system.
-
-### Status Recommendation
-
-Retain:
-
-Emerging
-
-### Confidence
-
-High
-
----
-
-# Photography Should Demonstrate Difference
-
-## Current Status
-
-Emerging
-
-## Current Confidence
-
-High
-
-### Current Definition
-
-> Hospitality photography should help reveal the source of meaningful difference rather than merely make the product or environment attractive.
-
-### Franklin Contribution
-
-Difference may live in:
-
-- process
-- craft
-- texture
-- tools
-- production
-
-### Alinea Contribution
-
-Difference may also be legible through:
-
-- finished result
+- culinary result
+- spatial differentiation
 - experience format
-- space
-- visual outcome
-
-### Core New Distinction
-
-## Source-Led Difference Proof
-
-Show:
-
-where the difference comes from.
-
-Examples:
-
-- Franklin
-- Cultiva
-
-versus
-
-## Result-Led Difference Proof
-
-Show:
-
-the distinctive result
-
-when the result itself visibly communicates enough difference.
-
-Potential example:
-
-- Alinea
-
-### Current Problem
-
-The phrase:
-
-“reveal the source”
-
-may now be:
-
-too narrow.
-
-Alinea creates legitimate evidence that:
-
-the source does not always need to be shown
-
-if another visual form already makes:
-
-meaningful difference
-
-sufficiently legible.
-
-### Provisional Definition Refinement
-
-> **Hospitality photography should provide enough relevant evidence for the guest to perceive meaningful difference rather than merely making the product or environment attractive.**
-
-Difference may be demonstrated through:
-
-- source
-- process
-- result
-- place
-- use
-- craft
-- context
-
-### Status Recommendation
-
-Retain:
-
-Emerging
-
-### Confidence
-
-High
-
-### Governance Recommendation
-
-Refine definition during final reconciliation.
-
-No maturity change.
-
----
-
-# Photography Through Layers of Experience
-
-## Current Status
-
-Emerging
-
-## Current Confidence
-
-High
-
-### Evidence Across Set
-
-Very strong.
-
-The relevant layers differ by restaurant.
-
-### Current Layers Observed
-
-- product
-- place
-- process
-- craft
-- people
-- social use
-- heritage
-- atmosphere
-- culture
-- occasion
-- experience format
-
-### Alinea Contribution
-
-Alinea makes the selective boundary especially clear.
-
-A high-surprise experience should not necessarily reveal:
-
-every layer.
-
-### Refined Interpretation
-
-> **Hospitality photography should use the layers of evidence relevant to the guest’s decision rather than attempting visual completeness.**
-
-### Status Recommendation
-
-Retain:
-
-Emerging
-
-### Confidence
-
-High
-
----
-
-# Photography as Use-Case Evidence
-
-## Current Status
-
-Candidate
-
-## Current Confidence
-
-High
-
-### Strong Positive Evidence
-
-#### Bistro Lolo
-
-Photography helps explain:
-
-everyday lifestyle use.
-
-#### Dishoom
-
-Photography helps explain:
-
-social café participation.
-
-#### Franklin
-
-Photography helps explain:
-
-physical participation and product access.
-
-### Alinea Outcome
-
-Strong boundary / contradiction pressure.
-
-The public participation model is already heavily explained through:
-
-- named experience formats
-- descriptive copy
-- booking structure
-- rules
-- timing
-
-Therefore:
-
-use-case imagery may have:
-
-less decision value.
-
-### Core Question
-
-> **Does the guest actually need to see people using the experience in order to make the relevant decision?**
-
-### Post-Alinea Interpretation
-
-The Candidate remains useful.
-
-But its current High confidence appears:
-
-too broad.
-
-### Proposed Refined Definition
-
-> **Hospitality photography may help the guest understand how people use and participate in an experience when that behaviour is materially relevant to the guest’s decision or expectations.**
-
-### Status Recommendation
-
-Retain:
-
-Candidate
-
-### Confidence Recommendation
-
-Reduce:
-
-High
-
-↓
-
-Medium-High
-
-### Reason
-
-Alinea supplies a strong materially different case where:
-
-participation is already legible
-
-without substantial dependence on:
-
-use photography.
-
----
-
-# Show the System Behind the Plate
-
-## Current Status
-
-Candidate
-
-## Current Confidence
-
-High
-
-### Strong Positive Evidence
-
-#### Cultiva
-
-System visibility materially supports:
-
-worldview and product difference.
-
-#### Franklin
-
-Craft process strongly explains:
-
-barbecue difference.
-
-### Supporting Evidence
-
-- FYN
-- Mawimbi as opportunity pressure
-
-### Alinea Outcome
-
-Strong boundary evidence.
-
-Alinea can communicate:
-
-- innovation
-- distinct product
 - authority
-- experience difference
+- selective reveal
 
-without making visible process or production system central.
+### Core Question Solved
 
-### Core Question
+What makes these experiences meaningfully different
 
-> **When does the guest actually need to see the system?**
-
-### Post-Alinea Conclusion
-
-The Candidate survives.
-
-But the evidence-gap boundary should become:
-
-stronger.
-
-### Current Definition
-
-> When meaningful product difference depends on a system the guest would not otherwise see, reveal enough of that relevant system to make the product more understandable and credible.
-
-### Proposed Refinement
-
-> **When a meaningful evidence gap remains because important product difference depends on a system the guest would not otherwise understand, reveal enough of that relevant system to close the gap.**
-
-### Important Rule
-
-Do not show process because:
-
-process exists.
-
-Show process because:
-
-the guest still needs it to understand or believe:
-
-meaningful difference.
-
-### Status Recommendation
-
-Retain:
-
-Candidate
-
-### Confidence Recommendation
-
-Retain:
-
-High
-
-### Reason
-
-Alinea does not invalidate the current Candidate.
-
-It proves why:
-
-the boundary matters.
+without explaining everything?
 
 ---
 
-# Process Need Depends on Evidence Gap
+## 10. NARISAWA
 
-## Current Status
+### Photography Model
 
-Observed Research Direction
+Seasonal Product + Philosophy Proof + Selective Reveal
 
-### Strong Evidence
+### Primary Evidence Jobs
 
-- Franklin
-- Alinea
+- finished culinary result
+- seasonality
+- visible natural / cultural reference
+- chef authority
+- philosophy translation
+- selective evidence
 
-### Working Logic
+### Core Question Solved
 
-If:
+How can a philosophy-led, seasonal restaurant make enough of its difference visible
 
-finished result
-
-already explains:
-
-meaningful difference,
-
-process proof may add:
-
-less decision value.
-
-If:
-
-finished result
-
-looks interchangeable,
-
-process may become:
-
-critical.
-
-### Working Definition
-
-> **Process or system evidence is most valuable when the remaining guest evidence gap cannot be adequately closed through the finished result, experience, place, authority, or another proof source.**
-
-### Governance Recommendation
-
-Retain:
-
-below Candidate.
-
-### Reason
-
-This likely belongs as:
-
-a decision rule inside
-
-Show the System Behind the Plate.
-
-Do not duplicate.
+without pretending that every claim can be photographed?
 
 ---
 
-# Result as Difference Proof
+# First Major Comparison Finding
 
-## Current Status
+## Photography Is Evidence Selection
 
-Observed Research Direction
+Across ten restaurants:
 
-### Strongest Evidence
+photography does different jobs.
 
-Alinea.
+The key task is not:
 
-### Supporting Logic
+How many good images should we use?
 
-FYN.
+It is:
 
-### Working Definition
+> **Which uncertainty does this image resolve?**
 
-> A finished product or experience may provide meaningful differentiation evidence when the difference is sufficiently visible in the result itself.
+This strengthens the current Proof Architecture:
 
-### Important Boundary
-
-Visible difference does not prove:
-
-- superiority
-- quality
-- taste
-- guest preference
-
-### Governance Recommendation
-
-Remain:
-
-below Candidate.
-
-Likely proof type rather than:
-
-standalone pattern.
-
----
-
-# Proof Can Be Multimodal
-
-## Current Status
-
-Observed Research Direction
-
-### Strongest Evidence
-
-Alinea.
-
-### Supporting Evidence
-
-All restaurants use:
-
-some combination
-
-of evidence media.
-
-### Alinea Proof Channels
-
-- photography
-- descriptive copy
-- awards / recognition
-- founder / team authority
-- booking structure
-- public policy
-
-### Current Interpretation
-
-Photography should not be asked to prove:
-
-claims that another evidence type can prove:
-
-more directly
-
-or
-
-more credibly.
-
-### Working Model
-
-What Must Be Believed?
+Guest Decision
 
 ↓
-
-What Evidence Is Required?
-
-↓
-
-Which Medium Is Best?
-
-↓
-
-Photography
-
-or
-
-Copy
-
-or
-
-Authority
-
-or
-
-Policy
-
-or
-
-Interaction
-
-↓
-
-Confidence
-
-### Governance Recommendation
-
-Retain:
-
-research direction.
-
-### Likely Destination
-
-Hospitality Proof System.
-
-Not:
-
-standalone pattern.
-
----
-
-# Evidence-Type Selection
-
-## Current Status
-
-Observed Research Direction
-
-### Strongest Evidence
-
-Alinea.
-
-### Current Question
-
-> **Which evidence medium is best suited to the belief the guest needs to form?**
-
-### Example
-
-Need to prove:
-
-physical atmosphere
-
-↓
-
-Photography
-
-Need to prove:
-
-cancellation rule
-
-↓
-
-Policy
-
-Need to prove:
-
-institutional recognition
-
-↓
-
-Credential / authority
-
-Need to prove:
-
-current availability
-
-↓
-
-Interaction / booking system
-
-### Current Interpretation
-
-This is:
-
-architectural.
-
-### Governance Recommendation
-
-Do not promote as:
-
-KHDS pattern.
-
-Track under:
-
-Hospitality Proof System.
-
----
-
-# Selective Reveal
-
-## Current Status
-
-Observed Research Direction
-
-### Strongest Evidence
-
-Alinea.
-
-### Supporting Logic
-
-FYN.
-
-### Core Problem
-
-Some hospitality experiences derive value from:
-
-- surprise
-- discovery
-- ceremony
-- unfolding sequence
-
-The guest still needs:
-
-enough evidence
-
-before:
-
-commitment.
-
-### Working Definition
-
-> **Hospitality communication may intentionally reveal only the evidence necessary for informed commitment while preserving details whose value depends on discovery.**
-
-### Current Tension
-
-Proof
-
-vs
-
-Mystery
-
-### Promotion Watch
-
-Medium-High
-
-### Governance Recommendation
-
-Remain:
-
-below Candidate.
-
-### Reason
-
-Need another independent hospitality model where:
-
-discovery
-
-materially constrains:
-
-pre-arrival disclosure.
-
----
-
-# Mystery Can Limit Proof
-
-## Current Status
-
-Observed Research Direction
-
-### Strongest Evidence
-
-Alinea.
-
-### Current Interpretation
-
-The proof system may need to ask:
-
-not only:
-
-What must be shown?
-
-but also:
-
-What should remain unrevealed?
-
-### Current Working Model
 
 What Must Be Believed?
 
 ↓
 
 What Must Be Proven?
-
-↓
-
-What Should Remain Unrevealed?
-
-↓
-
-Select Best Evidence
-
-### Governance Recommendation
-
-Treat as:
-
-proof-system variable.
-
-Not a pattern.
-
----
-
-# Experience-Specific Proof
-
-## Current Status
-
-Observed Research Direction
-
-### Strong Evidence
-
-Alinea.
-
-### Supporting Evidence
-
-- Mawimbi events
-- FYN experience structure
-- Dishoom location / route differentiation
-
-### Working Definition
-
-> When a hospitality business sells materially different experience formats, the proof system should help the guest understand the differences relevant to choosing between them.
-
-### Current Interpretation
-
-This can include:
-
-- photography
-- copy
-- spatial evidence
-- capacity
-- rules
-- timing
-
-### Governance Recommendation
-
-Consolidate into:
-
-Photography as Proof
-
-+
-
-Multi-Intent Hospitality.
-
-Do not promote separately.
-
----
-
-# Space as Participation Proof
-
-## Current Status
-
-Observed Research Direction / Proof Type
-
-### Strong Evidence
-
-Alinea private events
-
-and
-
-experience formats.
-
-### Supporting Evidence
-
-- FYN
-- Mawimbi
-- Talisman
-
-### Current Interpretation
-
-Spatial imagery may answer:
-
-Can this place support:
-
-my intended use?
-
-### Governance Recommendation
-
-Treat as:
-
-proof type.
-
-Not pattern.
-
----
-
-# Founder as Authority Proof
-
-## Current Status
-
-Below Candidate / Proof Type
-
-### Strong Evidence
-
-Franklin.
-
-### Alinea Contribution
-
-Founder authority remains relevant
-
-but
-
-does not need to dominate:
-
-photography
-
-or
-
-story.
-
-### Current Interpretation
-
-Founder proof should appear only where:
-
-the person materially explains:
-
-authority
-
-difference
-
-or
-
-experience.
-
-### Governance Recommendation
-
-Keep:
-
-proof type.
-
----
-
-# Craft Proof
-
-## Current Status
-
-Below Candidate / Proof Type
-
-### Strong Evidence
-
-- FYN
-- Franklin
-
-### Alinea Contribution
-
-Craft may remain:
-
-implicit
-
-if other evidence adequately establishes:
-
-authority and difference.
-
-### Current Interpretation
-
-Craft proof is:
-
-contextual.
-
----
-
-# Process as Difference Proof
-
-## Current Status
-
-Below Candidate / Proof Type
-
-### Strong Evidence
-
-- Cultiva
-- Franklin
-
-### Alinea Outcome
-
-Not central.
-
-### Current Conclusion
-
-Process is:
-
-one way
-
-to prove difference.
-
-Not:
-
-the default way.
-
----
-
-# Texture as Product Proof
-
-## Current Status
-
-Below Candidate / Proof Type
-
-### Strong Evidence
-
-Franklin.
-
-### Alinea Outcome
-
-Potentially relevant to finished product but not uniquely central.
-
-### Governance Recommendation
-
-Remain:
-
-proof type.
-
----
-
-# Daypart Photography
-
-## Current Status
-
-Below Candidate
-
-### Strongest Evidence
-
-Bistro Lolo.
-
-### Alinea Outcome
-
-Not Applicable.
-
-### Current Conclusion
-
-Contextual.
-
-No promotion.
-
----
-
-# Product Beauty vs Product Difference
-
-This tension survives strongly.
-
-### Beautiful Product
-
-Can create:
-
-appetite
-
-desire
-
-premium perception.
-
-### Distinctive Product
-
-Needs enough evidence to explain:
-
-why the product is:
-
-meaningfully non-interchangeable.
-
-### Current Evidence
-
-- Mawimbi
-- Bistro Lolo
-- FYN
-- Franklin
-- Alinea
-
-### Alinea Contribution
-
-A visually unusual result may itself communicate:
-
-difference.
-
-But:
-
-visual novelty
-
-does not prove:
-
-quality.
-
-### Current Rule
-
-Do not confuse:
-
-attractiveness
-
-with
-
-meaningful differentiation.
-
----
-
-# Visual Novelty as Difference Signal
-
-## Current Status
-
-Observed Research Direction
-
-### Strongest Evidence
-
-Alinea.
-
-### Current Interpretation
-
-Unusual visual form may signal:
-
-difference.
-
-It cannot alone prove:
-
-- value
-- quality
-- taste
-- craft
-
-### Governance Recommendation
-
-Keep:
-
-below Candidate.
-
-Likely proof signal.
-
----
-
-# Image Volume vs Evidence Precision
-
-This tension remains important.
-
-### Previous Cases
-
-Talisman
-
-Cultiva
-
-Mawimbi
-
-raised:
-
-image-volume questions.
-
-### Alinea
-
-adds:
-
-another variable.
-
-When surprise matters:
-
-each image may disclose:
-
-something.
-
-### Current Conclusion
-
-More photography
-
-does not automatically mean:
-
-more confidence.
-
-The question becomes:
-
-> **Which images does this guest need for this decision?**
-
-This remains:
-
-a core KHDS photography working rule.
-
----
-
-# Photography as Use-Case Evidence — Stronger Boundary
-
-The nine-case set now makes its scope clearer.
-
-Use-case photography appears particularly valuable where:
-
-the guest needs to understand:
-
-- social behaviour
-- spatial behaviour
-- physical participation
-- lifestyle fit
-- queue / access behaviour
-
-It may be less important where:
-
-participation is already:
-
-explicitly structured
-
-and
-
-predictable
-
-through other channels.
-
-### Positive Cases
-
-- Bistro Lolo
-- Dishoom
-- Franklin
-
-### Boundary Case
-
-- Alinea
-
-### Current Rule
-
-Use-case photography should solve:
-
-a real behavioural uncertainty.
-
-Not become:
-
-a generic requirement to show people.
-
----
-
-# Show the System Behind the Plate — Stronger Boundary
-
-The current comparison now produces a clearer decision rule.
-
-Ask:
-
-## Does the Guest Understand the Difference Already?
-
-If:
-
-yes,
-
-system exposure may be unnecessary.
-
-If:
-
-no,
-
-ask:
-
-## Does the Hidden System Explain the Difference?
-
-If:
-
-yes,
-
-reveal:
-
-enough of it.
-
-If:
-
-no,
-
-use:
-
-another evidence type.
-
-### Examples
-
-#### Cultiva
-
-System matters.
-
-Show it.
-
-#### Franklin
-
-Craft system matters.
-
-Show it.
-
-#### Alinea
-
-Result + authority + experience may already carry substantial difference proof.
-
-System exposure may be:
-
-less essential.
-
-This is a stronger Candidate after:
-
-boundary testing.
-
----
-
-# Photography Through Layers — Stronger Boundary
-
-The pattern should not become:
-
-show every part of the experience.
-
-The stronger model is:
-
-Guest Decision
-
-↓
-
-Relevant Uncertainty
-
-↓
-
-Relevant Evidence Layer
-
-↓
-
-Select Image
-
-### Possible Layers
-
-- product
-- space
-- craft
-- process
-- culture
-- heritage
-- people
-- social use
-- occasion
-- atmosphere
-- experience type
-
-### Alinea Contribution
-
-Some layers may deliberately remain:
-
-unseen.
-
----
-
-# Current Hospitality Proof Architecture
-
-The comparison now supports a broader proof model.
-
-## Previous Model
-
-Guest Decision
-
-↓
-
-What Must Be Believed?
 
 ↓
 
@@ -1671,392 +331,47 @@ Where Does Difference Live?
 
 ↓
 
-What Must Be Proven?
+What Evidence Gap Remains?
 
 ↓
 
-Which Evidence Type Can Prove It?
-
-↓
-
-Select Image
-
-↓
-
-Build Meaning + Confidence
-
-## Post-Alinea Comparison Model
-
-Guest Decision
-
-↓
-
-What Is the Relevant Uncertainty?
-
-↓
-
-What Must Be Believed?
-
-↓
-
-Where Does Meaningful Difference Live?
-
-↓
-
-What Must Be Proven?
-
-↓
-
-What Should Remain Unrevealed?
-
-↓
-
-Which Evidence Type Best Resolves the Remaining Gap?
-
-↓
-
-Photography / Copy / Authority / Policy / Interaction / Other Evidence
+Choose Relevant Evidence
 
 ↓
 
 Build Confidence
 
-This is:
-
-comparison-stage architecture.
-
-Do not yet replace the canonical model globally.
-
 ---
 
-# Photography Is Not a Gallery Problem
+# Pattern Stress Test — Photography Before Decoration
 
-Nine restaurants now strongly show that:
+## Current Status
 
-photography architecture
+Emerging
 
-should not begin with:
+## Current Confidence
 
-How do we build a gallery?
+High
 
-It should begin with:
+### Strong Evidence
 
-What evidence does the guest need?
+All ten cases materially support:
 
-A gallery may be:
+purposeful photography.
 
-one implementation.
+### NARISAWA Contribution
 
-Not:
+NARISAWA is especially useful because:
 
-the research principle.
+its restrained interface increases:
 
----
+the importance of each image performing:
 
-# Photography Is Not a Completeness Problem
+real evidentiary work.
 
-Alinea reinforces:
+### Comparison Outcome
 
-selective evidence
-
-over:
-
-complete visual documentation.
-
-The right photographic system may deliberately omit:
-
-some parts of:
-
-- process
-- people
-- sequence
-- surprise
-
-when those parts do not improve:
-
-decision quality.
-
----
-
-# Photography Is Not Always the Best Proof
-
-This is one of the largest Alinea corrections.
-
-Photography is excellent for:
-
-- visible product
-- space
-- place
-- atmosphere
-- use
-- craft result
-
-It is weaker for proving:
-
-- policy
-- availability
-- awards
-- operational rules
-- confirmation state
-- backend ownership
-
-Those require:
-
-different evidence.
-
-### Current Rule
-
-Do not make photography perform:
-
-a job another evidence type can do better.
-
----
-
-# Photography Is Not Always About People
-
-Bistro Lolo
-
-Dishoom
-
-Franklin
-
-made people and behaviour highly valuable.
-
-Alinea demonstrates:
-
-people imagery is:
-
-contextual.
-
-The relevant question is:
-
-Does seeing people help this guest understand:
-
-what participation means?
-
-If not:
-
-there may be no need to force:
-
-social imagery.
-
----
-
-# Photography Is Not Always About Process
-
-Cultiva and Franklin strongly support:
-
-process visibility.
-
-Alinea demonstrates:
-
-finished output
-
-or
-
-experience structure
-
-may sometimes explain enough.
-
-### Current Rule
-
-Process should close:
-
-an evidence gap.
-
-Not:
-
-demonstrate effort for its own sake.
-
----
-
-# Proof vs Mystery
-
-Alinea elevates this into a major photography tension.
-
-### Proof
-
-The guest must receive enough evidence for:
-
-informed commitment.
-
-### Mystery
-
-Some parts of the experience may gain value from:
-
-remaining undisclosed.
-
-### Current Question
-
-> **What is the minimum sufficient evidence for confidence without damaging meaningful discovery?**
-
-This is:
-
-not yet a pattern.
-
-But it should remain:
-
-a strong research question.
-
----
-
-# Cross-Restaurant Proof Types
-
-Current proof types now include:
-
-## Product Proof
-
-What is served?
-
-Strong:
-
-- Mawimbi
-- FYN
-- Franklin
-- Alinea
-
----
-
-## Place Proof
-
-Where am I going?
-
-Strong:
-
-- Ankole
-- Talisman
-- Bistro Lolo
-- Dishoom
-
----
-
-## Process Proof
-
-How is difference produced?
-
-Strong:
-
-- Cultiva
-- Franklin
-
----
-
-## Craft Proof
-
-What execution or expertise matters?
-
-Strong:
-
-- FYN
-- Franklin
-
----
-
-## Cultural Proof
-
-What cultural world is being referenced?
-
-Strong:
-
-- Dishoom
-
----
-
-## Use Proof
-
-How do people participate?
-
-Strong:
-
-- Bistro Lolo
-- Dishoom
-- Franklin
-
----
-
-## Authority Proof
-
-Why should the claim be credible?
-
-Can include:
-
-- founder
-- chef
-- awards
-- institution
-
-Strong:
-
-- FYN
-- Franklin
-- Alinea
-
----
-
-## Experience Proof
-
-What materially differs between offered experiences?
-
-Strong:
-
-- Alinea
-- Mawimbi supporting
-
----
-
-# Pattern Interaction
-
-Alinea’s photography system can be understood through:
-
-Photography Before Decoration
-
-+
-
-Photography as Proof
-
-+
-
-Photography Should Demonstrate Difference
-
-+
-
-Photography Through Layers of Experience
-
-+
-
-Multi-Intent Hospitality
-
-↓
-
-Experience-Specific Evidence
-
-↓
-
-Choice Confidence
-
-while:
-
-Selective Reveal
-
-protects:
-
-discovery.
-
-This is more useful than:
-
-creating an Alinea-specific photography pattern.
-
----
-
-# Alinea Effect on Official Photography Patterns
-
----
-
-## Photography Before Decoration
-
-### Outcome
-
-Strongly Supported
+Very Strongly Supported.
 
 ### Governance Recommendation
 
@@ -2064,547 +379,1168 @@ No change.
 
 ---
 
-## Photography as Proof
+# Pattern Stress Test — Photography as Proof
 
-### Outcome
+## Current Status
 
-Strongly Supported
+Emerging
 
-### Governance Recommendation
-
-No maturity change.
-
-Strengthen relationship to:
-
-multimodal proof system.
-
----
-
-## Photography Should Demonstrate Difference
-
-### Outcome
-
-Supported With Definition Pressure
-
-### Governance Recommendation
-
-Retain Emerging / High.
-
-Refine definition to allow:
-
-source-led
-
-or
-
-result-led difference proof.
-
----
-
-## Photography Through Layers of Experience
-
-### Outcome
-
-Strongly Supported
-
-### Governance Recommendation
-
-Retain Emerging / High.
-
-Strengthen selective-evidence boundary.
-
----
-
-## Photography as Use-Case Evidence
-
-### Outcome
-
-Strong Boundary / Contradiction Pressure
-
-### Governance Recommendation
-
-Retain Candidate.
-
-Provisional confidence:
+## Current Confidence
 
 High
 
-↓
+### Strong Evidence
 
-Medium-High.
+- Ankole
+- Cultiva
+- Talisman
+- Mawimbi
+- Bistro Lolo
+- FYN
+- Dishoom
+- Franklin
+- Alinea
+- NARISAWA
 
-Add decision-relevance boundary.
+### NARISAWA Contribution
 
----
+Photography can help prove:
 
-## Show the System Behind the Plate
+- product character
+- seasonal change
+- visible materiality
+- space
+- some visible philosophy translation
 
-### Outcome
+but cannot itself prove:
 
-Strong Boundary Evidence
+- sustainability performance
+- ecological impact
+- sourcing integrity
+- health benefit
+
+### Comparison Outcome
+
+Very Strongly Supported.
+
+### Important Boundary
+
+Photography proves:
+
+what is photographically observable.
+
+It should not be used to simulate:
+
+evidence it cannot provide.
 
 ### Governance Recommendation
 
-Retain Candidate / High.
-
-Strengthen evidence-gap wording.
+No change.
 
 ---
 
-# New Photography Directions — Governance Review
+# Pattern Stress Test — Photography Through Layers of Experience
 
----
+## Current Status
 
-## Process Need Depends on Evidence Gap
+Emerging
 
-Consolidate into:
-
-Show the System Behind the Plate.
-
-Do not promote separately.
-
----
-
-## Result as Difference Proof
-
-Treat as:
-
-proof type.
-
-Do not promote.
-
----
-
-## Proof Can Be Multimodal
-
-Retain:
-
-strong research direction.
-
-Likely belongs in:
-
-Hospitality Proof System.
-
----
-
-## Evidence-Type Selection
-
-Treat as:
-
-commercial / knowledge architecture rule.
-
-Not pattern.
-
----
-
-## Selective Reveal
-
-Retain:
-
-strong research direction.
-
-Promotion Watch:
-
-Medium-High.
-
-Need another independent high-discovery case.
-
----
-
-## Mystery Can Limit Proof
-
-Treat as:
-
-proof-system variable.
-
----
-
-## Experience-Specific Proof
-
-Consolidate into:
-
-Photography as Proof
-
-+
-
-Multi-Intent Hospitality.
-
----
-
-## Space as Participation Proof
-
-Treat as:
-
-proof type.
-
----
-
-## Visual Novelty as Difference Signal
-
-Treat as:
-
-proof signal.
-
-Not pattern.
-
----
-
-# Photography Promotion Review
-
-## Promote
-
-None.
-
----
-
-## Demote
-
-None.
-
----
-
-## Rename
-
-None.
-
----
-
-## Definition Refinement
-
-### Photography Should Demonstrate Difference
-
-Recommended.
-
----
-
-## Boundary Refinement
-
-### Photography as Use-Case Evidence
-
-Recommended.
-
----
-
-## Definition Refinement
-
-### Show the System Behind the Plate
-
-Recommended.
-
----
-
-## Confidence Review
-
-Photography as Use-Case Evidence:
+## Current Confidence
 
 High
 
-↓
+### Strong Evidence
+
+- Talisman
+- Mawimbi
+- Bistro Lolo
+- Dishoom
+- Franklin
+- Alinea
+- NARISAWA
+
+### Supporting
+
+- Ankole
+- Cultiva
+- FYN
+
+### NARISAWA Contribution
+
+Relevant layers may include:
+
+- product
+- season
+- nature
+- place
+- chef
+- space
+- process where necessary
+
+without requiring:
+
+visual completeness.
+
+### Comparison Outcome
+
+Very Strongly Supported.
+
+### Current Rule
+
+> Use the layers of evidence relevant to the guest’s decision rather than attempting visual completeness.
+
+### Governance Recommendation
+
+No change.
+
+---
+
+# Pattern Stress Test — Photography Should Demonstrate Difference
+
+## Current Status
+
+Emerging
+
+## Current Confidence
+
+High
+
+### Strong Evidence
+
+- Mawimbi
+- Bistro Lolo
+- FYN
+- Dishoom
+- Franklin
+- Alinea
+- NARISAWA
+
+### Supporting
+
+- Ankole
+- Cultiva
+- Talisman
+
+### NARISAWA Contribution
+
+NARISAWA adds a strong fine-dining test:
+
+beautiful food alone may become:
+
+generic premium imagery.
+
+The image should help reveal:
+
+what makes:
+
+this restaurant
+
+specifically different.
+
+### Potential Difference Types Across the Set
+
+- source
+- process
+- craft
+- place
+- result
+- culture
+- social use
+- founder authority
+- spatial experience
+- seasonal variation
+- experience format
+
+### Comparison Outcome
+
+Very Strongly Supported.
+
+### Governance Recommendation
+
+No change.
+
+---
+
+# Product Beauty vs Product Difference
+
+This tension is now:
+
+extremely stable.
+
+## Product Beauty
+
+Makes the product:
+
+attractive.
+
+## Product Difference
+
+Makes the product:
+
+meaningfully distinguishable.
+
+### Strong Cases
+
+- Mawimbi
+- FYN
+- Franklin
+- Alinea
+- NARISAWA
+
+### Current Rule
+
+Product Beauty
+
+≠
+
+Product Difference.
+
+No further promotion required.
+
+---
+
+# Pattern Stress Test — Photography as Use-Case Evidence
+
+## Current Status
+
+Candidate
+
+## Current Confidence
 
 Medium-High
 
-provisionally.
-
----
-
-# Why Photography as Use-Case Evidence Should Not Be Demoted
-
-Alinea does not prove:
-
-the Candidate is wrong.
-
-It proves:
-
-the Candidate is contextual.
-
-Strong evidence remains across:
+### Strong Positive Evidence
 
 - Bistro Lolo
 - Dishoom
 - Franklin
 
-The pattern still explains:
+### Supporting
 
-real guest decision needs.
+- Mawimbi
+- Talisman
 
-The problem was:
+### Strong Boundary Evidence
 
-confidence and scope.
+- Alinea
+- NARISAWA
 
-Alinea reveals:
+### NARISAWA Contribution
 
-use photography is valuable where:
+NARISAWA’s guest participation is already comparatively clear through:
 
-participation behaviour matters to:
+- omakase format
+- reservation
+- eligibility
+- compatibility
+- structured commitment
 
-understanding or choice.
+Social-use photography appears:
 
-That is a stronger Candidate than:
+less essential
 
-show people using the restaurant.
+to the guest’s decision.
 
----
+### Comparison Outcome
 
-# Why Show the System Behind the Plate Should Retain High Confidence
+Supported but clearly contextual.
 
-Because Alinea tests:
+### Governance Recommendation
 
-the Candidate’s boundary
+Reduce confidence:
 
-rather than:
+Medium-High
 
-its central claim.
+↓
 
-The Candidate already says:
+Medium
 
-show the system
-
-when meaningful difference depends on:
-
-a hidden system.
-
-Alinea demonstrates:
-
-sometimes meaningful difference does not require:
-
-hidden-system exposition.
-
-That does not weaken:
-
-the rule.
-
-It improves:
-
-when to apply it.
+after full NARISAWA reconciliation.
 
 ---
 
-# Why Photography Should Demonstrate Difference Needs Refinement
+# Why Reduce Photography as Use-Case Evidence Confidence?
 
-Franklin made the original wording strongly:
+Not because:
 
-source-oriented.
+the Candidate is weak.
 
-Alinea shows:
+Because:
 
-difference can be:
+its domain is narrower than earlier confidence implied.
 
-result-oriented.
+### Strong Cases
 
-The broader transferable behaviour is:
+Use behaviour is:
+
+material to understanding the experience.
+
+### Boundary Cases
+
+The experience is sufficiently explained through:
+
+- format
+- product
+- structure
+- space
+- authority
+
+without:
+
+people demonstrating use.
+
+### Proposed Post-NARISAWA Position
+
+Candidate
+
+Confidence:
+
+Medium
+
+### Definition
+
+Keep current definition:
+
+> **Hospitality photography may help the guest understand how people use and participate in an experience when that behaviour is materially relevant to the guest’s decision or expectations.**
+
+The definition already contains:
+
+the correct boundary.
+
+The confidence should reflect:
+
+context dependence.
+
+---
+
+# Pattern Stress Test — Show the System Behind the Plate
+
+## Current Status
+
+Candidate
+
+## Current Confidence
+
+High
+
+### Strong Evidence
+
+- Cultiva
+- Franklin
+- NARISAWA
+
+### Supporting / Boundary
+
+- FYN
+- Alinea
+
+### NARISAWA Contribution
+
+NARISAWA strengthens:
+
+the evidence-gap rule.
+
+The restaurant makes:
+
+philosophical and ecological claims.
+
+That may create:
+
+a system-proof need.
+
+But it does not mean:
+
+every hidden system should be shown.
+
+### Comparison Outcome
+
+Strongly Supported.
+
+### Governance Recommendation
+
+Retain:
+
+Candidate / High.
+
+---
+
+# Show the System Behind the Plate — Current Definition
+
+Current definition:
+
+> **When a meaningful evidence gap remains because important product difference depends on a system the guest would not otherwise understand, reveal enough of that relevant system to close the gap.**
+
+NARISAWA strongly supports:
+
+this exact logic.
+
+No definition change required.
+
+---
+
+# Process Need Depends on Evidence Gap
+
+## Current Status
+
+Consolidated Direction
+
+### Strong Evidence
+
+- Cultiva
+- Franklin
+- Alinea
+- NARISAWA
+
+### Current Model
+
+What Must Be Proven?
+
+↓
+
+What Evidence Already Exists?
+
+↓
+
+What Gap Remains?
+
+↓
+
+Does Hidden Process Explain the Gap?
+
+↓
+
+Yes → Reveal Relevant Process
+
+No → Use Another Evidence Type
+
+### Governance Recommendation
+
+Remain consolidated into:
+
+Show the System Behind the Plate.
+
+---
+
+# Result as Difference Proof
+
+## Current Status
+
+Proof Type
+
+### Strong Evidence
+
+- FYN
+- Alinea
+- NARISAWA
+
+### NARISAWA Contribution
+
+A finished dish may communicate:
+
+- seasonal material
+- technique
+- distinctive form
+- culinary restraint
+
+without:
+
+complete process disclosure.
+
+### Governance Recommendation
+
+Preserve as:
+
+proof type
 
 not:
 
-show the source.
+standalone pattern.
 
-It is:
+---
 
-make meaningful difference:
+# Pattern Stress Test — Story Through Place
 
-legible.
+## Current Status
 
-That may require:
+Emerging
 
-source
+## Current Confidence
 
-result
+High
 
-place
+### Photography Contribution
 
-process
+Photography can make place visible through:
 
-use
+- architecture
+- landscape
+- cultural environment
+- ecological context
+- ingredient geography
+
+### NARISAWA Contribution
+
+Ecological place may be:
+
+visually relevant
+
+when it actually explains:
+
+the cuisine.
+
+### Comparison Outcome
+
+Strong support.
+
+---
+
+# Ecological Place as Visual Proof
+
+## Current Status
+
+Observed Research Direction
+
+### Strongest Evidence
+
+NARISAWA.
+
+### Supporting Logic
+
+- Cultiva
+- FYN
+
+### Working Question
+
+> When ecological place materially explains the cuisine, should photography help make that relationship visible?
+
+### Governance Recommendation
+
+Remain below Candidate.
+
+Likely mechanism inside:
+
+Story Through Place
+
++
+
+Photography as Proof.
+
+---
+
+# Strong Direction — Selective Reveal
+
+## Current Status
+
+Observed Research Direction
+
+## Previous Promotion Watch
+
+Very Strong after Arrival comparison
+
+### Strong Evidence
+
+## Alinea
+
+Designed mystery / experience discovery.
+
+## NARISAWA
+
+Authentic variability / seasonal omakase.
+
+### Photography Importance
+
+Photography directly controls:
+
+how much of the future experience becomes:
+
+visible.
+
+### Current Comparison Outcome
+
+Very Strongly Supported.
+
+---
+
+# Designed Mystery vs Authentic Variability
+
+This distinction survives:
+
+photography comparison.
+
+## Designed Mystery
+
+Images deliberately avoid:
+
+fully disclosing:
+
+future experience.
+
+Strongest case:
+
+Alinea.
+
+## Authentic Variability
+
+Images cannot fully represent:
+
+future product
+
+because future product:
+
+genuinely changes.
+
+Strongest case:
+
+NARISAWA.
+
+### Current Interpretation
+
+Both justify:
+
+selective visual disclosure.
+
+But their reasons differ.
+
+---
+
+# Is Selective Reveal Ready for Candidate After Photography Comparison?
+
+Still:
+
+not yet.
+
+The evidence is:
+
+high quality
+
+and
+
+multi-dimensional.
+
+But it remains concentrated in:
+
+high-commitment experiential / tasting-menu hospitality.
+
+### Recommended State
+
+Observed Research Direction
+
+Promotion Watch:
+
+Very Strong
+
+Need:
+
+one materially different independent case
+
+outside:
+
+high-commitment tasting hospitality.
+
+---
+
+# Minimum Sufficient Proof
+
+## Current Status
+
+Observed Research Direction
+
+### Strong Evidence
+
+- Alinea
+- NARISAWA
+
+### Current Working Definition
+
+> **Hospitality communication should provide enough credible evidence for informed confidence without requiring every aspect of the future experience to be shown in advance.**
+
+### Photography Comparison Outcome
+
+Very Strongly Strengthened.
+
+### Governance Recommendation
+
+Do not promote separately.
+
+Likely:
+
+proof architecture mechanism
+
+inside:
+
+Selective Reveal.
+
+---
+
+# Proof Can Be Multimodal
+
+## Current Status
+
+Observed / Proof Architecture Direction
+
+### Strong Evidence
+
+- Cultiva
+- Franklin
+- Alinea
+- NARISAWA
+
+### NARISAWA Contribution
+
+Especially strong.
+
+Its claims require combinations of:
+
+- photography
+- philosophy copy
+- chef authority
+- menu structure
+- policy
+- potentially external evidence where separately relevant
+
+### Current Interpretation
+
+Photography is:
+
+one evidence medium.
+
+Not:
+
+the proof system.
+
+### Governance Recommendation
+
+Formalise as:
+
+Hospitality Proof Architecture knowledge
+
+after full reconciliation.
+
+Do not create:
+
+Candidate.
+
+---
+
+# Evidence-Type Selection
+
+## Current Status
+
+Proof Architecture Variable
+
+### NARISAWA Contribution
+
+Very Strong.
+
+### Current Question
+
+What is the claim?
+
+↓
+
+What type of claim is it?
+
+↓
+
+Which evidence medium can credibly support it?
+
+### Possible Claim Types
+
+- visual
+- conceptual
+- operational
+- ecological
+- cultural
+- behavioural
+
+### Governance Recommendation
+
+Preserve as:
+
+canonical Proof Architecture variable.
+
+---
+
+# Philosophy as Proof Burden
+
+## Current Status
+
+Observed Research Direction
+
+### Strongest Evidence
+
+NARISAWA.
+
+### Supporting
+
+- Cultiva
+- FYN
+
+### Current Comparison Outcome
+
+Strongly Strengthened.
+
+### Working Rule
+
+> **The stronger and more consequential a hospitality philosophy claim becomes, the more important it is to identify what evidence can credibly support it.**
+
+### Governance Recommendation
+
+Remain below Candidate.
+
+Likely:
+
+proof architecture guidance.
+
+---
+
+# Philosophy vs Evidence
+
+This becomes:
+
+one of the strongest photography distinctions in the entire set.
+
+### Philosophy
+
+Can explain:
+
+- meaning
+- intention
+- worldview
+- desired relationship
+
+### Evidence
+
+Must support:
+
+what is being claimed.
+
+### Current Rule
+
+Meaning
+
+≠
+
+Proof.
+
+NARISAWA makes:
+
+this boundary
+
+especially clear.
+
+---
+
+# Natural Imagery Does Not Prove Sustainability
+
+This should be preserved explicitly.
+
+Photography of:
+
+- forests
+- ingredients
+- farms
+- seas
+- natural materials
+
+may visually reinforce:
+
+an ecological story.
+
+It does not establish:
+
+- sourcing integrity
+- environmental impact
+- sustainable practice
+
+without:
+
+additional evidence.
+
+### Governance Importance
+
+High.
+
+---
+
+# Mystery Can Limit Proof
+
+## Current Status
+
+Proof Architecture Variable
+
+### Strong Evidence
+
+- Alinea
+- NARISAWA
+
+### Current Question
+
+How much proof is sufficient when:
+
+complete disclosure would:
+
+- reduce discovery
+- misrepresent a changing product
+- reveal experience details unnecessarily
+
+### NARISAWA Contribution
+
+Very Strong.
+
+### Governance Recommendation
+
+Retain as:
+
+Proof Architecture variable.
+
+---
+
+# Temporal Proof
+
+## Current Status
+
+Observed Research Direction
+
+### Strongest Evidence
+
+NARISAWA.
+
+### Supporting Logic
+
+- seasonal restaurants
+- daypart cases
+- changing tasting menus
+
+### Working Question
+
+> **When the hospitality product changes materially across time, how should digital evidence represent variability without implying a permanently fixed product?**
+
+### Current Comparison Outcome
+
+Meaningful but immature.
+
+### Governance Recommendation
+
+Remain:
+
+Observed
+
+Confidence:
+
+Low.
+
+---
+
+# Temporal Proof vs Daypart Photography
+
+Keep separate.
+
+## Daypart Photography
+
+Shows:
+
+different use
+
+atmosphere
+
+or occasion
+
+across:
+
+time of day.
+
+## Temporal Proof
+
+Shows:
+
+meaningful variation in:
+
+product
 
 or
 
-another relevant visual dimension.
+experience
+
+across:
+
+season
+
+date
+
+or time.
+
+### Governance
+
+Both remain below Candidate.
 
 ---
 
-# Major Photography Tensions After Alinea
+# Photography as Culinary Authority
+
+## Current Status
+
+Observed Direction
+
+### Strong Evidence
+
+- FYN
+- Alinea
+- NARISAWA
+
+### Current Interpretation
+
+Finished product can communicate:
+
+authority
+
+through:
+
+precision
+
+execution
+
+and
+
+distinctive result.
+
+### Governance Recommendation
+
+No separate promotion.
+
+Likely proof type.
 
 ---
 
-## Source vs Result
+# Founder / Chef as Authority Proof
 
-Central new tension.
+## Strong Evidence
 
----
+- Franklin
+- FYN
+- Alinea
+- NARISAWA
 
-## Process vs Experience
+### Current Interpretation
 
-What actually needs explanation?
+People imagery may act as:
 
----
+authority proof
 
-## Use vs Structured Participation
+when the person materially explains:
 
-Do guests need social / behavioural proof?
+- craft
+- authorship
+- worldview
+- product
 
----
+### Governance Recommendation
 
-## Proof vs Mystery
+Remain proof type
 
-Major Alinea tension.
-
----
-
-## Photography vs Other Evidence
-
-Alinea makes this unavoidable.
-
----
-
-## Beauty vs Difference
-
-Still active.
+and narrative mechanism.
 
 ---
 
-## Visual Novelty vs Quality
+# Space as Participation / Expectation Proof
 
-Difference signal
+## Strong Evidence
 
-does not equal:
+- Ankole
+- Mawimbi
+- Bistro Lolo
+- FYN
+- Dishoom
+- Alinea
 
-superiority.
+### NARISAWA Outcome
 
----
+Relevant but:
 
-## More Images vs Better Evidence
+not strong enough from current evidence
 
-High commitment does not justify:
+for additional claims.
 
-visual overload.
+### Governance
 
----
-
-## Transparency vs Discovery
-
-Selective reveal may matter.
-
----
-
-## Complete Story vs Decision-Critical Story
-
-Photography should serve:
-
-the decision
-
-not archive:
-
-the whole restaurant.
+Remain proof type.
 
 ---
 
-# Contradictions to Preserve
+# Hospitality Proof Cluster After NARISAWA
+
+The cluster now appears:
+
+highly stable.
 
 ---
 
-## Cultiva vs Alinea
+## Photography as Proof
 
-Cultiva:
-
-show the system.
-
-Alinea:
-
-system may remain largely hidden.
-
-Both can create:
-
-credible difference.
+What can the image establish?
 
 ---
 
-## Franklin vs Alinea
+## Photography Should Demonstrate Difference
 
-Franklin:
-
-craft process helps explain:
-
-product.
-
-Alinea:
-
-finished result + authority + experience may explain:
-
-enough.
+What makes this experience meaningfully distinct?
 
 ---
 
-## Bistro Lolo vs Alinea
+## Photography Through Layers of Experience
 
-Bistro Lolo:
-
-people and use help explain:
-
-belonging.
-
-Alinea:
-
-use may already be:
-
-structurally explicit.
+Which relevant evidence layers matter?
 
 ---
 
-## Dishoom vs Alinea
+## Photography as Use-Case Evidence
 
-Dishoom:
-
-cultural and social photography help communicate:
-
-world.
-
-Alinea:
-
-experience-specific space and product may carry:
-
-more decision value.
+Does behaviour need to be shown?
 
 ---
 
-# Evidence Discipline
+## Show the System Behind the Plate
 
-Website photography research can establish:
-
-- visible subjects
-- image placement
-- image-role relationships
-- repeated image types
-- connection between imagery and experience labels
-- visible proof categories
-- visible omissions
-
-It cannot establish:
-
-- what guests notice first
-- which images increase conversion
-- which images create trust
-- whether process images improve understanding
-- whether mystery increases anticipation
-- whether guests prefer more or fewer images
-- whether social photography improves participation confidence
-- whether photographs accurately reflect physical experience
-
-Those require:
-
-- analytics
-- interviews
-- testing
-- direct observation
+Does hidden system evidence close the remaining gap?
 
 ---
 
-# Current Photography Research Model
+## Selective Reveal
 
-After nine restaurants, the strongest current model is:
+What should remain undisclosed?
+
+---
+
+## Supporting Architecture Variables
+
+- Evidence-Type Selection
+- Proof Can Be Multimodal
+- Result as Difference Proof
+- Process Need Depends on Evidence Gap
+- Mystery Can Limit Proof
+- Minimum Sufficient Proof
+- Philosophy as Proof Burden
+- Temporal Proof
+
+The cluster itself is:
+
+not a new pattern.
+
+---
+
+# Current Hospitality Proof Architecture
+
+Post-NARISAWA, the stronger comparison model is:
 
 Guest Decision
 
 ↓
 
 What Is the Relevant Uncertainty?
+
+↓
+
+What Claim Is Being Made?
 
 ↓
 
@@ -2616,7 +1552,795 @@ Where Does Meaningful Difference Live?
 
 ↓
 
+What Is Actually Observable?
+
+↓
+
 What Must Be Proven?
+
+↓
+
+What Evidence Already Exists?
+
+↓
+
+What Evidence Gap Remains?
+
+↓
+
+What Should Remain Unrevealed or Authentically Variable?
+
+↓
+
+Which Evidence Type Best Resolves the Gap?
+
+↓
+
+Photography / Copy / Authority / Policy / Interaction / Process / Other Evidence
+
+↓
+
+Minimum Sufficient Confidence
+
+This is:
+
+comparison-level architecture.
+
+Not yet canonical governance.
+
+---
+
+# Key NARISAWA Proof Refinement
+
+The new question:
+
+> **What kind of claim is this?**
+
+matters.
+
+Different claims require:
+
+different proof.
+
+---
+
+## Visual Claim
+
+Example:
+
+The dish has:
+
+a distinctive presentation.
+
+Possible proof:
+
+Photography.
+
+---
+
+## Spatial Claim
+
+Example:
+
+The environment has:
+
+a particular character.
+
+Possible proof:
+
+Photography / video / spatial media.
+
+---
+
+## Process Claim
+
+Example:
+
+The product is made through:
+
+a specific technique.
+
+Possible proof:
+
+Process photography
+
+copy
+
+video
+
+craft evidence.
+
+---
+
+## Ecological Claim
+
+Example:
+
+The restaurant is:
+
+sustainable.
+
+Possible proof:
+
+Photography alone is insufficient.
+
+May require:
+
+source documentation
+
+system evidence
+
+policy
+
+certification
+
+producer information
+
+or other credible support.
+
+---
+
+## Cultural Claim
+
+Example:
+
+The cuisine translates:
+
+Satoyama knowledge.
+
+Possible proof:
+
+Narrative
+
+authorship
+
+culinary evidence
+
+historical / cultural context.
+
+---
+
+## Behavioural Claim
+
+Example:
+
+Guests use the restaurant:
+
+in a certain way.
+
+Possible proof:
+
+Use-case photography
+
+observation
+
+guest evidence.
+
+---
+
+# This Is a Major KHDS Proof Improvement
+
+Earlier research could ask:
+
+What should photography show?
+
+The stronger system now asks:
+
+> **What claim are we trying to support, and is photography even the right evidence medium?**
+
+That is a more mature framework.
+
+---
+
+# Photography Contradictions Preserved
+
+---
+
+## Product vs Process
+
+Franklin / Cultiva:
+
+process may be important.
+
+Alinea / NARISAWA:
+
+finished result may carry more of the proof.
+
+---
+
+## Use vs Structure
+
+Bistro Lolo / Dishoom / Franklin:
+
+use-case imagery matters.
+
+Alinea / NARISAWA:
+
+format and structure reduce that need.
+
+---
+
+## Completeness vs Selective Reveal
+
+Talisman / Dishoom:
+
+broad visual worlds.
+
+Alinea / NARISAWA:
+
+more selective future-product evidence.
+
+---
+
+## Place vs Product
+
+Ankole:
+
+place carries major proof.
+
+Franklin:
+
+product carries major proof.
+
+NARISAWA:
+
+philosophy
+
+product
+
+and
+
+ecological reference
+
+interact.
+
+---
+
+## Beauty vs Difference
+
+Strong across:
+
+Mawimbi
+
+FYN
+
+Franklin
+
+Alinea
+
+NARISAWA.
+
+---
+
+## Philosophy vs Evidence
+
+Strongest in:
+
+Cultiva
+
+NARISAWA.
+
+---
+
+## Static Proof vs Changing Product
+
+Strongest in:
+
+NARISAWA.
+
+---
+
+## Social Proof vs Experiential Structure
+
+Strong use-led cases
+
+versus:
+
+Alinea / NARISAWA.
+
+---
+
+# Current Photography Pattern Matrix
+
+| Restaurant | Primary Proof Job | Process Need | Use-Case Need | Selective Reveal | Main Difference Source |
+|---|---|---:|---:|---:|---|
+| Ankole | Place + Refinement | Low | Low | Low | Place |
+| Cultiva | Process + System | High | Low–Medium | Low | Source / System |
+| Talisman | Layered Character | Low | Medium | Low | Place / Heritage |
+| Mawimbi | Product + Atmosphere + Occasion | Medium | Medium | Low | Product / Atmosphere |
+| Bistro Lolo | Place + Lifestyle + Use | Low | High | Low | Social Use / Place |
+| FYN | Product + Craft + Space | Medium | Low | Medium | Craft / Result |
+| Dishoom | Cultural + Social + Product | Low–Medium | High | Low | Culture / World |
+| Franklin | Product + Craft + Participation | High | High | Low | Craft / Product |
+| Alinea | Product + Experience + Selective Proof | Variable | Low | High | Experience Format |
+| NARISAWA | Seasonal Product + Philosophy + Selective Proof | Variable | Low | High | Worldview / Season / Result |
+
+---
+
+# NARISAWA Photography Governance Pressure
+
+NARISAWA creates:
+
+one likely confidence reduction
+
+several architecture refinements
+
+and
+
+stronger promotion pressure for:
+
+Selective Reveal.
+
+---
+
+# Recommended Post-Comparison Change 1
+
+## Photography as Use-Case Evidence
+
+### Previous
+
+Candidate
+
+Confidence:
+
+Medium-High
+
+### Recommended
+
+Candidate
+
+Confidence:
+
+Medium
+
+### Reason
+
+Positive evidence remains:
+
+strong.
+
+But Alinea and NARISAWA now provide:
+
+two materially different high-quality boundary cases
+
+showing:
+
+use-case evidence is:
+
+decision-dependent
+
+not:
+
+generally necessary.
+
+### Maturity
+
+No change.
+
+---
+
+# Recommended Post-Comparison Change 2
+
+## Show the System Behind the Plate
+
+Retain:
+
+Candidate / High.
+
+### Reason
+
+NARISAWA strongly supports:
+
+the evidence-gap definition
+
+without requiring:
+
+universal process exposure.
+
+---
+
+# Recommended Post-Comparison Change 3
+
+## Photography Should Demonstrate Difference
+
+Retain:
+
+Emerging / High.
+
+NARISAWA provides:
+
+very strong additional support.
+
+No promotion.
+
+---
+
+# Recommended Post-Comparison Change 4
+
+## Selective Reveal
+
+Retain:
+
+Observed Research Direction.
+
+Promotion Watch:
+
+Very Strong.
+
+### Reason
+
+Now strongly supported across:
+
+- Alinea
+- NARISAWA
+
+with:
+
+different mechanisms.
+
+No Candidate promotion yet because:
+
+category diversity remains too narrow.
+
+---
+
+# Recommended Post-Comparison Change 5
+
+## Proof Can Be Multimodal
+
+Formalise after reconciliation as:
+
+Hospitality Proof Architecture knowledge.
+
+Do not promote:
+
+Candidate.
+
+---
+
+# Recommended Post-Comparison Change 6
+
+## Evidence-Type Selection
+
+Retain / formalise as:
+
+Proof Architecture variable.
+
+NARISAWA strongly justifies:
+
+its importance.
+
+---
+
+# Recommended Post-Comparison Change 7
+
+## Philosophy as Proof Burden
+
+Retain:
+
+Observed Research Direction.
+
+Confidence:
+
+Medium.
+
+### Reason
+
+Strongest in:
+
+NARISAWA
+
+with support from:
+
+Cultiva.
+
+Need:
+
+more cases.
+
+---
+
+# Recommended Post-Comparison Change 8
+
+## Minimum Sufficient Proof
+
+Retain:
+
+Observed Research Direction.
+
+Likely consolidate into:
+
+Selective Reveal
+
++
+
+Hospitality Proof Architecture.
+
+---
+
+# Recommended Post-Comparison Change 9
+
+## Temporal Proof
+
+Add to:
+
+below-Candidate directions
+
+if not already present.
+
+Confidence:
+
+Low.
+
+No promotion watch.
+
+---
+
+# Recommended Post-Comparison Change 10
+
+## Ecological Place as Visual Proof
+
+Preserve as:
+
+proof mechanism
+
+inside:
+
+Story Through Place
+
++
+
+Photography as Proof.
+
+No standalone Candidate.
+
+---
+
+# Photography Evidence Limitations
+
+This comparison can establish:
+
+- image subjects
+- image placement
+- visible photographic roles
+- visible process imagery
+- visible people / use
+- visible spatial proof
+- degree of visual selectivity
+- relationship between image and copy
+
+It cannot establish:
+
+- whether guests believe the images
+- which image drives conversion
+- whether images increase trust
+- whether imagery accurately represents every season
+- whether sustainability claims are true
+- whether sourcing claims are accurate
+- whether process imagery improves understanding
+- whether selective reveal increases anticipation
+- whether social-use images improve belonging
+- whether guests distinguish product difference correctly
+
+Those require:
+
+behavioural
+
+operational
+
+or
+
+direct evidence.
+
+---
+
+# Photography Comparison Conclusion
+
+The ten-case comparison now gives KHDS a much stronger answer to:
+
+what restaurant photography is for.
+
+The answer is not:
+
+to make the restaurant look beautiful.
+
+It is:
+
+to resolve:
+
+relevant uncertainty
+
+with:
+
+credible visual evidence
+
+when photography is:
+
+the correct medium.
+
+Ankole shows:
+
+place proof.
+
+Cultiva:
+
+system proof.
+
+Talisman:
+
+character proof.
+
+Mawimbi:
+
+product
+
+atmosphere
+
+and occasion proof.
+
+Bistro Lolo:
+
+use proof.
+
+FYN:
+
+craft and spatial proof.
+
+Dishoom:
+
+culture
+
+social use
+
+and memory proof.
+
+Franklin:
+
+craft
+
+founder
+
+and participation proof.
+
+Alinea:
+
+experience difference
+
+and selective proof.
+
+NARISAWA:
+
+seasonal product
+
+philosophy translation
+
+and selective proof.
+
+NARISAWA’s strongest contribution is:
+
+not another photography style.
+
+It is:
+
+a stricter evidence question.
+
+A restaurant may claim:
+
+sustainability
+
+culture
+
+ecology
+
+craft
+
+quality
+
+or
+
+difference.
+
+Photography should only be asked to prove:
+
+what photography can:
+
+credibly demonstrate.
+
+That makes:
+
+`Proof Can Be Multimodal`
+
+and
+
+`Evidence-Type Selection`
+
+increasingly important as:
+
+architecture knowledge.
+
+NARISAWA also gives:
+
+Selective Reveal
+
+a much stronger research foundation.
+
+Alinea preserves:
+
+designed discovery.
+
+NARISAWA preserves:
+
+authentic variability.
+
+The result is similar:
+
+complete disclosure is unnecessary.
+
+The mechanism is different.
+
+That distinction keeps:
+
+Selective Reveal
+
+from becoming:
+
+“hide things to feel premium.”
+
+It instead becomes:
+
+a question of:
+
+what the guest genuinely needs to know
+
+versus
+
+what can appropriately remain:
+
+unknown.
+
+The comparison also puts useful downward pressure on:
+
+Photography as Use-Case Evidence.
+
+The Candidate still matters.
+
+But it now has:
+
+a clearer domain.
+
+Use-case imagery should appear when:
+
+understanding guest behaviour
+
+materially helps the decision.
+
+It should not become:
+
+a requirement for every hospitality brand.
+
+The strongest current proof architecture can therefore be summarised:
+
+Claim
+
+↓
+
+Relevant Uncertainty
+
+↓
+
+Meaningful Difference
+
+↓
+
+Evidence Gap
+
+↓
+
+What Can Be Proven Visually?
+
+↓
+
+What Requires Another Medium?
 
 ↓
 
@@ -2624,134 +2348,37 @@ What Should Remain Unrevealed?
 
 ↓
 
-Which Evidence Type Best Resolves the Remaining Gap?
+Minimum Sufficient Evidence
 
 ↓
 
-If Photography:
+Confidence
 
-Which Image Role Is Needed?
+That is a much more mature system than:
 
-↓
+“use strong photography.”
 
-Product / Place / Process / Craft / Culture / Use / Authority / Experience
-
-↓
-
-Build Meaning + Confidence
-
-This is:
-
-comparison-stage knowledge.
-
-Do not yet make it:
-
-canonical governance.
+Evidence wins.
 
 ---
 
-# Photography Governance Recommendation
+## Comparison Status
 
-## Promote
+NARISAWA Photography Comparison Complete
 
-None.
+NARISAWA remains:
 
----
+Independent Restaurant #10 Candidate.
 
-## Demote
-
-None.
+Global governance remains frozen.
 
 ---
 
-## Rename
-
-None.
-
----
-
-## Retain Emerging
-
-- Photography Before Decoration
-- Photography as Proof
-- Photography Should Demonstrate Difference
-- Photography Through Layers of Experience
-
----
-
-## Retain Candidate
-
-- Photography as Use-Case Evidence
-- Show the System Behind the Plate
-
----
-
-## Provisional Confidence Change
-
-Photography as Use-Case Evidence:
-
-High
-
-↓
-
-Medium-High
-
----
-
-## Definition Refinements for Final Governance
-
-### Photography Should Demonstrate Difference
-
-Shift from:
-
-source of difference
-
-toward:
-
-enough evidence to make meaningful difference legible.
-
-### Show the System Behind the Plate
-
-Strengthen:
-
-evidence-gap requirement.
-
-### Photography as Use-Case Evidence
-
-Strengthen:
-
-decision-relevance boundary.
-
----
-
-## Strong Research Directions to Preserve
-
-- Proof Can Be Multimodal
-- Selective Reveal
-- Evidence-Type Selection
-- Mystery Can Limit Proof
-- Process Need Depends on Evidence Gap
-- Result as Difference Proof
-- Experience-Specific Proof
-- Space as Participation Proof
-
----
-
-# Official Governance Freeze
-
-Do not yet update:
-
-- `validation/candidate-patterns.md`
-- `patterns/registry.md`
-- `validation/dashboard.md`
-- `research/README.md`
-- `validation/README.md`
-
-The official global state remains:
+## Official Governance Still Unchanged
 
 Independent Restaurants:
 
-8
+9
 
 Kodawa Labs Validation Concepts:
 
@@ -2777,139 +2404,63 @@ Research-Derived KHDS Principles:
 
 0
 
-Existing Implementation Patterns Pending Validation:
+Existing Implementation Patterns Pending Formal Validation:
 
 1
 
-Alinea remains:
+Opportunity Themes:
 
-Independent Restaurant #9 Candidate.
-
----
-
-# Final Photography Comparison Statement
-
-Nine restaurants now make a stronger photography rule possible.
-
-The old question:
-
-> What should we photograph?
-
-is too shallow.
-
-The better question is:
-
-> **What does this guest still need evidence for?**
-
-Ankole needs:
-
-place proof.
-
-Cultiva:
-
-system proof.
-
-Talisman:
-
-character proof.
-
-Mawimbi:
-
-product and occasion proof.
-
-Bistro Lolo:
-
-lifestyle and use proof.
-
-FYN:
-
-craft and spatial proof.
-
-Dishoom:
-
-cultural and social proof.
-
-Franklin:
-
-craft and participation proof.
-
-Alinea:
-
-experience difference and selective proof.
-
-Alinea is especially important because it challenges two recent assumptions.
-
-First:
-
-`Show the System Behind the Plate`
-
-must not become:
-
-show process whenever process is interesting.
-
-The system matters only when:
-
-the guest needs it to understand:
-
-meaningful difference.
-
-Second:
-
-`Photography as Use-Case Evidence`
-
-must not become:
-
-always show people.
-
-Use-case photography is valuable where:
-
-guest behaviour itself answers:
-
-a meaningful decision question.
-
-Alinea demonstrates:
-
-a participation system can already be sufficiently explicit through:
-
-experience architecture
-
-copy
-
-policy
-
-and
-
-booking structure.
-
-The biggest Alinea contribution is broader:
-
-photography is not:
-
-the proof system.
-
-It is:
-
-one evidence medium inside the proof system.
-
-The emerging KHDS question therefore becomes:
-
-> **What must be believed, what remains unproven, what should remain unrevealed, and which evidence medium can best close the gap?**
-
-That is a stronger foundation for:
-
-hospitality photography
-
-than:
-
-more beautiful images.
-
-Evidence wins.
+36
 
 ---
 
-## Comparison Status
+## Provisional Governance Recommendation From Photography Comparison
 
-Photography Comparison Reconciled Through Alinea
+### Photography as Use-Case Evidence
+
+Candidate
+
+Confidence:
+
+Medium-High
+
+↓
+
+Recommended after full NARISAWA reconciliation:
+
+Candidate
+
+Confidence:
+
+Medium
+
+---
+
+### Selective Reveal
+
+Observed Research Direction
+
+Promotion Watch:
+
+Very Strong
+
+No promotion yet.
+
+---
+
+### Show the System Behind the Plate
+
+Candidate / High
+
+Retain.
+
+---
+
+### Photography Should Demonstrate Difference
+
+Emerging / High
+
+Retain.
 
 ---
 
@@ -2919,4 +2470,12 @@ Update:
 
 `khds/research/comparison/reservation.md`
 
-Do not update global governance yet.
+Do not update:
+
+- `khds/research/validation/candidate-patterns.md`
+- `khds/patterns/registry.md`
+- `khds/research/validation/dashboard.md`
+- `khds/research/README.md`
+- `khds/research/validation/README.md`
+
+until all five NARISAWA comparison files are complete.
