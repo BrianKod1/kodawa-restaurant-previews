@@ -1,76 +1,360 @@
-const loader = document.querySelector('#pageLoader');
-const header = document.querySelector('#siteHeader');
-const floatingReserve = document.querySelector('.floating-reserve');
-const sheet = document.querySelector('#bookingSheet');
-const triggers = document.querySelectorAll('.reserve-trigger');
-const steps = [...document.querySelectorAll('.booking-step')];
-const guestButtons = document.querySelectorAll('[data-guests]');
-const dateInput = document.querySelector('#bookingDate');
-const timeInput = document.querySelector('#bookingTime');
-const nameInput = document.querySelector('#bookingName');
-const phoneInput = document.querySelector('#bookingPhone');
-const summary = document.querySelector('#bookingSummary');
-const emailLink = document.querySelector('#emailReservation');
-let guests = '';
+/*
+=========================================
+Trunk & Tandoor
 
-const showStep = (number) => {
-  steps.forEach((step) => step.classList.toggle('is-active', Number(step.dataset.step) === number));
+Phase 2 interaction layer.
+
+Prototype reservation flow:
+this prepares a reservation request.
+It does not check live availability
+or confirm a table.
+=========================================
+*/
+
+
+/* =========================================
+   ELEMENTS
+   ========================================= */
+
+const header = document.querySelector("#siteHeader");
+const floatingReserve = document.querySelector(".floating-reserve");
+
+const reserveTriggers = document.querySelectorAll(".reserve-trigger");
+
+const bookingSheet = document.querySelector("#bookingSheet");
+const bookingForm = document.querySelector("#bookingForm");
+
+const bookingSteps = document.querySelectorAll(".booking-step");
+const guestButtons = document.querySelectorAll("[data-guests]");
+
+const bookingDate = document.querySelector("#bookingDate");
+const bookingTime = document.querySelector("#bookingTime");
+const bookingName = document.querySelector("#bookingName");
+const bookingPhone = document.querySelector("#bookingPhone");
+
+const toDetails = document.querySelector("#toDetails");
+const completeBooking = document.querySelector("#completeBooking");
+
+const bookingSummary = document.querySelector("#bookingSummary");
+const emailReservation = document.querySelector("#emailReservation");
+
+
+/* =========================================
+   RESERVATION STATE
+   ========================================= */
+
+const reservationState = {
+  guests: "",
+  date: "",
+  time: "",
+  name: "",
+  phone: ""
 };
 
-window.addEventListener('load', () => {
-  window.setTimeout(() => loader?.classList.add('is-hidden'), 1050);
-});
 
-window.addEventListener('scroll', () => {
-  const scrolled = window.scrollY > 24;
-  header?.classList.toggle('is-scrolled', scrolled);
-  floatingReserve?.classList.toggle('is-visible', window.scrollY > window.innerHeight * .65);
-}, { passive: true });
+/* =========================================
+   UTILITIES
+   ========================================= */
 
-triggers.forEach((trigger) => trigger.addEventListener('click', () => {
+function showStep(stepNumber) {
+  bookingSteps.forEach((step) => {
+    const isActive = step.dataset.step === String(stepNumber);
+
+    step.classList.toggle("is-active", isActive);
+  });
+}
+
+
+function resetReservation() {
+  reservationState.guests = "";
+  reservationState.date = "";
+  reservationState.time = "";
+  reservationState.name = "";
+  reservationState.phone = "";
+
+  bookingForm?.reset();
+
+  guestButtons.forEach((button) => {
+    button.classList.remove("is-selected");
+    button.setAttribute("aria-pressed", "false");
+  });
+
+  if (bookingSummary) {
+    bookingSummary.textContent = "";
+  }
+
+  if (emailReservation) {
+    emailReservation.href = "#";
+  }
+
   showStep(1);
-  if (typeof sheet.showModal === 'function') sheet.showModal();
-}));
+}
 
-guestButtons.forEach((button) => button.addEventListener('click', () => {
-  guests = button.dataset.guests;
-  guestButtons.forEach((item) => item.classList.toggle('is-selected', item === button));
-  window.setTimeout(() => showStep(2), 180);
-}));
 
-document.querySelector('#toDetails')?.addEventListener('click', () => {
-  if (!dateInput.value || !timeInput.value) {
-    dateInput.reportValidity();
-    timeInput.reportValidity();
-    return;
-  }
+function formatDate(dateValue) {
+  if (!dateValue) return "";
+
+  const [year, month, day] = dateValue.split("-").map(Number);
+
+  const date = new Date(year, month - 1, day);
+
+  return new Intl.DateTimeFormat("en-KE", {
+    weekday: "long",
+    day: "numeric",
+    month: "long",
+    year: "numeric"
+  }).format(date);
+}
+
+
+function formatTime(timeValue) {
+  if (!timeValue) return "";
+
+  const [hours, minutes] = timeValue.split(":").map(Number);
+
+  const date = new Date();
+  date.setHours(hours, minutes, 0, 0);
+
+  return new Intl.DateTimeFormat("en-KE", {
+    hour: "numeric",
+    minute: "2-digit"
+  }).format(date);
+}
+
+
+function buildReservationSummary() {
+  const formattedDate = formatDate(reservationState.date);
+  const formattedTime = formatTime(reservationState.time);
+
+  const guestLabel =
+    reservationState.guests === "1"
+      ? "1 guest"
+      : `${reservationState.guests} guests`;
+
+  return `${reservationState.name} · ${guestLabel} · ${formattedDate} · ${formattedTime}`;
+}
+
+
+function buildReservationEmail() {
+  const formattedDate = formatDate(reservationState.date);
+  const formattedTime = formatTime(reservationState.time);
+
+  const guestLabel =
+    reservationState.guests === "1"
+      ? "1 guest"
+      : `${reservationState.guests} guests`;
+
+  const subject =
+    `Reservation request — ${formattedDate} at ${formattedTime}`;
+
+  const body = [
+    "Hello Trunk & Tandoor,",
+    "",
+    "I would like to request a table.",
+    "",
+    `Name: ${reservationState.name}`,
+    `Phone: ${reservationState.phone}`,
+    `Guests: ${guestLabel}`,
+    `Preferred date: ${formattedDate}`,
+    `Preferred time: ${formattedTime}`,
+    "",
+    "I understand that this is a reservation request and that the table is not confirmed until the restaurant responds.",
+    "",
+    "Thank you."
+  ].join("\n");
+
+  /*
+  IMPORTANT:
+  This address remains a prototype assumption
+  until the restaurant confirms the real
+  reservation channel.
+  */
+  const recipient = "reservations@trunkandtandoor.com";
+
+  return `mailto:${recipient}?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`;
+}
+
+
+/* =========================================
+   HEADER STATE
+   ========================================= */
+
+function updateHeader() {
+  if (!header) return;
+
+  header.classList.toggle("is-scrolled", window.scrollY > 24);
+}
+
+
+/* =========================================
+   FLOATING MOBILE RESERVE
+   ========================================= */
+
+function updateFloatingReserve() {
+  if (!floatingReserve) return;
+
+  const shouldShow =
+    window.scrollY > window.innerHeight * 0.65;
+
+  floatingReserve.classList.toggle("is-visible", shouldShow);
+}
+
+
+/* =========================================
+   SCROLL EVENTS
+   ========================================= */
+
+function handleScroll() {
+  updateHeader();
+  updateFloatingReserve();
+}
+
+window.addEventListener("scroll", handleScroll, {
+  passive: true
+});
+
+handleScroll();
+
+
+/* =========================================
+   OPEN RESERVATION REQUEST
+   ========================================= */
+
+reserveTriggers.forEach((trigger) => {
+  trigger.addEventListener("click", () => {
+    if (!bookingSheet) return;
+
+    resetReservation();
+
+    bookingSheet.showModal();
+  });
+});
+
+
+/* =========================================
+   GUEST COUNT
+   ========================================= */
+
+guestButtons.forEach((button) => {
+  button.setAttribute("aria-pressed", "false");
+
+  button.addEventListener("click", () => {
+    reservationState.guests = button.dataset.guests || "";
+
+    guestButtons.forEach((candidate) => {
+      const selected = candidate === button;
+
+      candidate.classList.toggle("is-selected", selected);
+
+      candidate.setAttribute(
+        "aria-pressed",
+        selected ? "true" : "false"
+      );
+    });
+
+    /*
+    Small response delay only.
+    This is interaction feedback,
+    not cinematic pacing.
+    */
+    window.setTimeout(() => {
+      showStep(2);
+
+      bookingDate?.focus();
+    }, 120);
+  });
+});
+
+
+/* =========================================
+   DATE + TIME
+   ========================================= */
+
+toDetails?.addEventListener("click", () => {
+  if (!bookingDate || !bookingTime) return;
+
+  const dateValid = bookingDate.reportValidity();
+  const timeValid = bookingTime.reportValidity();
+
+  if (!dateValid || !timeValid) return;
+
+  reservationState.date = bookingDate.value;
+  reservationState.time = bookingTime.value;
+
   showStep(3);
+
+  bookingName?.focus();
 });
 
-document.querySelector('#completeBooking')?.addEventListener('click', () => {
-  if (!nameInput.value.trim() || !phoneInput.value.trim()) {
-    nameInput.reportValidity();
-    phoneInput.reportValidity();
+
+/* =========================================
+   GUEST DETAILS
+   ========================================= */
+
+completeBooking?.addEventListener("click", () => {
+  if (!bookingName || !bookingPhone) return;
+
+  const nameValid = bookingName.reportValidity();
+  const phoneValid = bookingPhone.reportValidity();
+
+  if (!nameValid || !phoneValid) return;
+
+  reservationState.name = bookingName.value.trim();
+  reservationState.phone = bookingPhone.value.trim();
+
+  if (!reservationState.guests) {
+    showStep(1);
     return;
   }
 
-  const selectedDate = new Date(`${dateInput.value}T12:00:00`);
-  const formattedDate = selectedDate.toLocaleDateString('en-KE', { weekday: 'long', month: 'long', day: 'numeric' });
-  const details = `${nameInput.value.trim()}, ${guests} guests · ${formattedDate} at ${timeInput.value}.`;
-  summary.textContent = details;
+  reservationState.date = bookingDate?.value || "";
+  reservationState.time = bookingTime?.value || "";
 
-  const subject = encodeURIComponent('Reservation request — Trunk & Tandoor');
-  const body = encodeURIComponent(`Hello Trunk & Tandoor,\n\nI would like to request a reservation.\n\nName: ${nameInput.value.trim()}\nGuests: ${guests}\nDate: ${formattedDate}\nTime: ${timeInput.value}\nPhone: ${phoneInput.value.trim()}\n\nThank you.`);
-  emailLink.href = `mailto:reservations@trunkandtandoor.com?subject=${subject}&body=${body}`;
+  if (bookingSummary) {
+    bookingSummary.textContent = buildReservationSummary();
+  }
+
+  if (emailReservation) {
+    emailReservation.href = buildReservationEmail();
+  }
+
   showStep(4);
+
+  emailReservation?.focus();
 });
 
-sheet?.addEventListener('click', (event) => {
-  const rect = sheet.getBoundingClientRect();
-  const inside = event.clientX >= rect.left && event.clientX <= rect.right && event.clientY >= rect.top && event.clientY <= rect.bottom;
-  if (!inside) sheet.close();
+
+/* =========================================
+   MINIMUM DATE
+   ========================================= */
+
+if (bookingDate) {
+  const today = new Date();
+
+  const localYear = today.getFullYear();
+  const localMonth = String(today.getMonth() + 1).padStart(2, "0");
+  const localDay = String(today.getDate()).padStart(2, "0");
+
+  bookingDate.min =
+    `${localYear}-${localMonth}-${localDay}`;
+}
+
+
+/* =========================================
+   DIALOG BACKDROP CLOSE
+   ========================================= */
+
+bookingSheet?.addEventListener("click", (event) => {
+  if (event.target === bookingSheet) {
+    bookingSheet.close();
+  }
 });
 
-const today = new Date();
-today.setMinutes(today.getMinutes() - today.getTimezoneOffset());
-dateInput.min = today.toISOString().split('T')[0];
+
+/* =========================================
+   CLEAN STATE AFTER CLOSE
+   ========================================= */
+
+bookingSheet?.addEventListener("close", () => {
+  resetReservation();
+});

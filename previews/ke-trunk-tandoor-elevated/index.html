@@ -2,136 +2,670 @@
 <html lang="en">
 <head>
   <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+
+  <meta
+    name="viewport"
+    content="width=device-width, initial-scale=1, viewport-fit=cover"
+  >
+
   <meta name="theme-color" content="#0c0d0f">
-  <meta name="description" content="Trunk & Tandoor — an Indian rooftop destination above Nairobi.">
+
+  <meta
+    name="description"
+    content="Trunk & Tandoor — Indian-inspired rooftop dining above Nairobi."
+  >
+
   <title>Trunk & Tandoor — Above Nairobi</title>
+
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=Manrope:wght@400;500;600&display=swap" rel="stylesheet">
+
+  <link
+    href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=Manrope:wght@400;500;600&display=swap"
+    rel="stylesheet"
+  >
+
   <link rel="stylesheet" href="./styles.css">
 </head>
-<body>
-  <a class="skip-link" href="#experience">Skip to experience</a>
 
-  <div class="page-loader" id="pageLoader" aria-hidden="true">
-    <div class="loader-wordmark">TRUNK <span>&</span> TANDOOR</div>
-    <div class="loader-line"><span></span></div>
-  </div>
+<body>
+
+  <a class="skip-link" href="#experience">
+    Skip to experience
+  </a>
+
+  <!-- =====================================
+       NAVIGATION
+       ===================================== -->
 
   <header class="site-header" id="siteHeader">
-    <a class="wordmark" href="#top" aria-label="Trunk and Tandoor home">
-      <span>TRUNK</span><i>&</i><span>TANDOOR</span>
+
+    <a
+      class="wordmark"
+      href="#top"
+      aria-label="Trunk and Tandoor home"
+    >
+      <span>TRUNK</span>
+      <i>&</i>
+      <span>TANDOOR</span>
     </a>
-    <button class="reserve-trigger header-reserve" type="button" aria-haspopup="dialog">Reserve</button>
+
+    <nav class="site-nav" aria-label="Primary navigation">
+
+      <a href="#experience">
+        Experience
+      </a>
+
+      <a href="#food">
+        Food
+      </a>
+
+      <a href="#location">
+        Location
+      </a>
+
+    </nav>
+
+    <button
+      class="reserve-trigger header-reserve"
+      type="button"
+      aria-haspopup="dialog"
+    >
+      Reserve
+    </button>
+
   </header>
 
+
   <main id="top">
-    <section class="hero scene" aria-labelledby="hero-title">
+
+    <!-- =====================================
+         ARRIVAL
+         ===================================== -->
+
+    <section
+      class="hero scene"
+      aria-labelledby="hero-title"
+    >
+
       <div class="hero-media" aria-hidden="true">
-        <img src="./assets/hero-ladies.jpeg" alt="" fetchpriority="high">
+        <img
+          src="./assets/hero-ladies.jpeg"
+          alt=""
+          fetchpriority="high"
+        >
       </div>
+
       <div class="hero-shade"></div>
+
       <div class="hero-content">
-        <p class="kicker">An Indian rooftop destination · Nairobi</p>
-        <h1 id="hero-title">Some evenings<br>deserve <em>a better view.</em></h1>
-        <button class="primary-action reserve-trigger" type="button" aria-haspopup="dialog">
-          <span>Reserve your evening</span><span aria-hidden="true">↗</span>
+
+        <p class="kicker">
+          Indian-inspired rooftop dining · Nairobi
+        </p>
+
+        <h1 id="hero-title">
+          Some evenings<br>
+          deserve <em>a better view.</em>
+        </h1>
+
+        <p class="hero-intro">
+          Food, cocktails, skyline and the city changing after dark.
+        </p>
+
+        <button
+          class="primary-action reserve-trigger"
+          type="button"
+          aria-haspopup="dialog"
+        >
+          <span>Reserve your evening</span>
+          <span aria-hidden="true">↗</span>
         </button>
+
       </div>
+
       <div class="hero-meta" aria-hidden="true">
         <span>Lower Kabete Road</span>
-        <span>Scroll to arrive</span>
+        <span>Nairobi</span>
       </div>
+
     </section>
 
-    <section class="pause" id="experience" aria-label="The invitation">
-      <p class="section-index">01 — The invitation</p>
-      <h2>You do not come here<br>only to dine.</h2>
-      <p class="pause-copy">You come for the moment Nairobi begins to glow.</p>
+
+    <!-- =====================================
+         INVITATION
+         ===================================== -->
+
+    <section
+      class="pause invitation"
+      id="experience"
+      aria-labelledby="invitation-title"
+    >
+
+      <p class="section-index">
+        01 — Above Nairobi
+      </p>
+
+      <h2 id="invitation-title">
+        You do not come here<br>
+        only to dine.
+      </h2>
+
+      <p class="pause-copy">
+        You come for the moment Nairobi begins to glow.
+      </p>
+
     </section>
 
-    <section class="image-scene scene scene-arrival">
-      <img src="./assets/portrait-cocktail.jpeg" alt="A guest enjoying a cocktail beside the Nairobi skyline" loading="lazy">
-      <div class="scene-gradient"></div>
-      <div class="scene-copy">
-        <p>Arrival</p>
-        <h2>The city joins<br>the table.</h2>
+
+    <!-- =====================================
+         PLACE + EVENING
+         ===================================== -->
+
+    <section
+      class="experience-stage place-evening"
+      aria-labelledby="place-title"
+    >
+
+      <div class="experience-copy">
+
+        <p class="section-index">
+          02 — Place
+        </p>
+
+        <h2 id="place-title">
+          The city joins<br>
+          the table.
+        </h2>
+
+        <p>
+          Trunk & Tandoor puts Nairobi inside the experience:
+          through elevation, skyline, food and the changing light
+          of the evening.
+        </p>
+
       </div>
-    </section>
 
-    <section class="quiet-beat" aria-label="A quiet pause">
-      <p>Take your time.</p>
-    </section>
+      <div class="place-grid">
 
-    <section class="image-scene scene scene-fire">
-      <img src="./assets/tandoor-platter.webp" alt="A tandoor platter prepared over fire" loading="lazy">
-      <div class="scene-gradient"></div>
-      <div class="scene-copy scene-copy-bottom">
-        <p>The fire kitchen</p>
-        <h2>Fire remembers<br>every spice.</h2>
+        <figure class="proof-image proof-image-primary">
+
+          <img
+            src="./assets/city-dining.webp"
+            alt="A dining table overlooking the Nairobi skyline"
+            loading="lazy"
+          >
+
+        </figure>
+
+        <figure class="proof-image proof-image-secondary">
+
+          <img
+            src="./assets/night-view.webp"
+            alt="The Nairobi city view after dark"
+            loading="lazy"
+          >
+
+          <figcaption>
+            When Nairobi begins to glow.
+          </figcaption>
+
+        </figure>
+
       </div>
+
     </section>
 
-    <section class="closing-invitation">
-      <p class="section-index">Tonight — Above Nairobi</p>
-      <h2>An evening worth<br>arriving for.</h2>
-      <button class="primary-action dark reserve-trigger" type="button" aria-haspopup="dialog">
-        <span>Choose your evening</span><span aria-hidden="true">↗</span>
+
+    <!-- =====================================
+         FOOD + TANDOOR
+         ===================================== -->
+
+    <section
+      class="experience-stage food-stage"
+      id="food"
+      aria-labelledby="food-title"
+    >
+
+      <div class="food-image">
+
+        <img
+          src="./assets/tandoor-platter.webp"
+          alt="A platter of Indian-inspired dishes at Trunk and Tandoor"
+          loading="lazy"
+        >
+
+      </div>
+
+      <div class="experience-copy food-copy">
+
+        <p class="section-index">
+          03 — Food
+        </p>
+
+        <h2 id="food-title">
+          From the tandoor<br>
+          to the table.
+        </h2>
+
+        <p>
+          Indian-inspired plates bring spice, generosity and
+          colour into an experience shaped as much by the table
+          as by the view around it.
+        </p>
+
+      </div>
+
+    </section>
+
+
+    <!-- =====================================
+         ATMOSPHERE + FIT
+         ===================================== -->
+
+    <section
+      class="experience-stage atmosphere-stage"
+      aria-labelledby="atmosphere-title"
+    >
+
+      <div class="experience-copy atmosphere-copy">
+
+        <p class="section-index">
+          04 — The evening
+        </p>
+
+        <h2 id="atmosphere-title">
+          Make a little more<br>
+          time for tonight.
+        </h2>
+
+        <p>
+          Dinner, drinks and an evening above the city.
+          The experience is social without needing to be rushed.
+        </p>
+
+      </div>
+
+      <div class="atmosphere-grid">
+
+        <figure class="proof-image atmosphere-people">
+
+          <img
+            src="./assets/couple-window.webp"
+            alt="Guests sharing drinks beside the rooftop windows"
+            loading="lazy"
+          >
+
+        </figure>
+
+        <figure class="proof-image atmosphere-space">
+
+          <img
+            src="./assets/wide-interior.webp"
+            alt="The rooftop dining room and city-facing seating"
+            loading="lazy"
+          >
+
+        </figure>
+
+      </div>
+
+    </section>
+
+
+    <!-- =====================================
+         RESERVATION TRANSITION
+         ===================================== -->
+
+    <section
+      class="closing-invitation reservation-stage"
+      id="reserve"
+      aria-labelledby="reserve-title"
+    >
+
+      <p class="section-index">
+        05 — Your evening
+      </p>
+
+      <h2 id="reserve-title">
+        An evening worth<br>
+        arriving for.
+      </h2>
+
+      <p class="reservation-intro">
+        Choose your preferred date and time and prepare
+        a reservation request.
+      </p>
+
+      <button
+        class="primary-action dark reserve-trigger"
+        type="button"
+        aria-haspopup="dialog"
+      >
+        <span>Request a table</span>
+        <span aria-hidden="true">↗</span>
       </button>
+
     </section>
+
+
+    <!-- =====================================
+         LOCATION
+         ===================================== -->
+
+    <section
+      class="location-stage"
+      id="location"
+      aria-labelledby="location-title"
+    >
+
+      <div class="location-copy">
+
+        <p class="section-index">
+          06 — Find us
+        </p>
+
+        <h2 id="location-title">
+          Above Nairobi.
+        </h2>
+
+        <p>
+          Lower Kabete Road<br>
+          Nairobi, Kenya
+        </p>
+
+      </div>
+
+      <div class="location-action">
+
+        <button
+          class="primary-action reserve-trigger"
+          type="button"
+          aria-haspopup="dialog"
+        >
+          <span>Reserve before you arrive</span>
+          <span aria-hidden="true">↗</span>
+        </button>
+
+      </div>
+
+    </section>
+
   </main>
 
-  <button class="floating-reserve reserve-trigger" type="button" aria-haspopup="dialog">Reserve</button>
 
-  <dialog class="booking-sheet" id="bookingSheet" aria-labelledby="bookingTitle">
-    <form method="dialog" class="booking-shell" id="bookingForm">
-      <div class="sheet-handle" aria-hidden="true"></div>
-      <button class="sheet-close" value="cancel" aria-label="Close reservation">×</button>
+  <!-- =====================================
+       MOBILE RESERVATION RECOVERY
+       ===================================== -->
 
-      <div class="booking-step is-active" data-step="1">
-        <p class="sheet-kicker">Reserve your evening</p>
-        <h2 id="bookingTitle">How many guests?</h2>
-        <div class="guest-options" role="group" aria-label="Number of guests">
+  <button
+    class="floating-reserve reserve-trigger"
+    type="button"
+    aria-haspopup="dialog"
+  >
+    Reserve
+  </button>
+
+
+  <!-- =====================================
+       FOOTER
+       ===================================== -->
+
+  <footer class="site-footer">
+
+    <a
+      class="wordmark footer-wordmark"
+      href="#top"
+      aria-label="Return to top"
+    >
+      <span>TRUNK</span>
+      <i>&</i>
+      <span>TANDOOR</span>
+    </a>
+
+    <nav class="footer-nav" aria-label="Footer navigation">
+
+      <a href="#experience">
+        Experience
+      </a>
+
+      <a href="#food">
+        Food
+      </a>
+
+      <a href="#location">
+        Location
+      </a>
+
+      <button
+        class="footer-reserve reserve-trigger"
+        type="button"
+        aria-haspopup="dialog"
+      >
+        Reserve
+      </button>
+
+    </nav>
+
+    <p class="footer-meta">
+      Indian-inspired rooftop dining · Nairobi
+    </p>
+
+  </footer>
+
+
+  <!-- =====================================
+       RESERVATION REQUEST
+       Prototype flow — not live availability
+       ===================================== -->
+
+  <dialog
+    class="booking-sheet"
+    id="bookingSheet"
+    aria-labelledby="bookingTitle"
+  >
+
+    <form
+      method="dialog"
+      class="booking-shell"
+      id="bookingForm"
+    >
+
+      <div
+        class="sheet-handle"
+        aria-hidden="true"
+      ></div>
+
+      <button
+        class="sheet-close"
+        value="cancel"
+        aria-label="Close reservation request"
+      >
+        ×
+      </button>
+
+
+      <!-- Step 1 -->
+
+      <div
+        class="booking-step is-active"
+        data-step="1"
+      >
+
+        <p class="sheet-kicker">
+          Reservation request
+        </p>
+
+        <h2 id="bookingTitle">
+          How many guests?
+        </h2>
+
+        <div
+          class="guest-options"
+          role="group"
+          aria-label="Number of guests"
+        >
+
+          <button type="button" data-guests="1">1</button>
+
           <button type="button" data-guests="2">2</button>
+
+          <button type="button" data-guests="3">3</button>
+
           <button type="button" data-guests="4">4</button>
+
+          <button type="button" data-guests="5">5</button>
+
           <button type="button" data-guests="6">6</button>
-          <button type="button" data-guests="Private event">Private event</button>
+
         </div>
+
       </div>
 
-      <div class="booking-step" data-step="2">
-        <p class="sheet-kicker">Your evening</p>
-        <h2>When should we expect you?</h2>
-        <label>Date<input id="bookingDate" name="date" type="date" required></label>
-        <label>Time
-          <select id="bookingTime" name="time" required>
-            <option value="">Choose a time</option>
-            <option>5:30 PM</option><option>6:30 PM</option><option>7:30 PM</option><option>8:30 PM</option><option>9:30 PM</option>
-          </select>
+
+      <!-- Step 2 -->
+
+      <div
+        class="booking-step"
+        data-step="2"
+      >
+
+        <p class="sheet-kicker">
+          Your preferred evening
+        </p>
+
+        <h2>
+          When would you like to visit?
+        </h2>
+
+        <label>
+          Preferred date
+
+          <input
+            id="bookingDate"
+            name="date"
+            type="date"
+            required
+          >
         </label>
-        <button type="button" class="sheet-next" id="toDetails">Continue</button>
+
+        <label>
+          Preferred time
+
+          <input
+            id="bookingTime"
+            name="time"
+            type="time"
+            required
+          >
+        </label>
+
+        <p class="booking-note">
+          Your preferred date and time are a request and
+          are not confirmed availability.
+        </p>
+
+        <button
+          type="button"
+          class="sheet-next"
+          id="toDetails"
+        >
+          Continue
+        </button>
+
       </div>
 
-      <div class="booking-step" data-step="3">
-        <p class="sheet-kicker">Almost there</p>
-        <h2>Who is the evening for?</h2>
-        <label>Name<input id="bookingName" name="name" autocomplete="name" required></label>
-        <label>Phone<input id="bookingPhone" name="phone" type="tel" autocomplete="tel" required></label>
-        <button type="button" class="sheet-next" id="completeBooking">Request reservation</button>
+
+      <!-- Step 3 -->
+
+      <div
+        class="booking-step"
+        data-step="3"
+      >
+
+        <p class="sheet-kicker">
+          Your details
+        </p>
+
+        <h2>
+          Who should the request be for?
+        </h2>
+
+        <label>
+          Name
+
+          <input
+            id="bookingName"
+            name="name"
+            autocomplete="name"
+            required
+          >
+        </label>
+
+        <label>
+          Phone
+
+          <input
+            id="bookingPhone"
+            name="phone"
+            type="tel"
+            autocomplete="tel"
+            required
+          >
+        </label>
+
+        <button
+          type="button"
+          class="sheet-next"
+          id="completeBooking"
+        >
+          Prepare request
+        </button>
+
       </div>
 
-      <div class="booking-step booking-success" data-step="4">
-        <span class="success-mark">✓</span>
-        <p class="sheet-kicker">Request prepared</p>
-        <h2>Your evening begins here.</h2>
+
+      <!-- Step 4 -->
+
+      <div
+        class="booking-step booking-success"
+        data-step="4"
+      >
+
+        <p class="sheet-kicker">
+          Request ready
+        </p>
+
+        <h2>
+          Review your reservation request.
+        </h2>
+
         <p id="bookingSummary"></p>
-        <a class="sheet-next" id="emailReservation" href="#">Send reservation request</a>
+
+        <p class="booking-note">
+          Your table is not confirmed yet.
+          The next step opens your email application so
+          you can send the request to the restaurant.
+        </p>
+
+        <a
+          class="sheet-next"
+          id="emailReservation"
+          href="#"
+        >
+          Open email to send request
+        </a>
+
       </div>
+
     </form>
+
   </dialog>
 
+
   <script src="./script.js"></script>
+
   <script src="khds-principles.js"></script>
+
 </body>
 </html>
