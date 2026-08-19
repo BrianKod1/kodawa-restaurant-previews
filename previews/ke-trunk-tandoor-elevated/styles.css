@@ -1,7 +1,19 @@
-@import url("./styles/tokens.css");
-@import url("./styles/typography.css");
-@import url("./styles/base.css");
-@import url("./styles/components.css");
-@import url("./styles/motion.css");
+/*
+=========================================
+Trunk & Tandoor
+
+KHDS Production Consumer
+=========================================
+*/
+
+/* Shared KHDS system */
+@import url("../../khds/khds.css");
+
+/* Restaurant identity */
+@import url("./theme/theme.css");
+
+/* Internal development tooling */
 @import url("./styles/principles.css");
+
+/* Restaurant-specific composition */
 @import url("./styles/trunk-tandoor.css");
