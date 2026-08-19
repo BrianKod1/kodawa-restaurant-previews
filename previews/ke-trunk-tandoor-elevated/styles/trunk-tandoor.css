@@ -746,7 +746,8 @@ button {
 }
 
 .guest-options button:hover,
-.guest-options button:focus-visible {
+.guest-options button:focus-visible,
+.guest-options button.is-selected {
   border-color: var(--accent-primary);
   background: var(--accent-primary);
   color: var(--text-inverse);
