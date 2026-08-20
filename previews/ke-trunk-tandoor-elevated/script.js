@@ -17,19 +17,13 @@ or confirm a table.
    ========================================= */
 
 const header = document.querySelector("#siteHeader");
-function updateFloatingReserve() {
-  if (!floatingReserve) return;
 
-  const shouldShow =
-    window.scrollY > window.innerHeight * 0.65;
-
-  floatingReserve.classList.toggle("is-visible", shouldShow);
-}
 const reserveTriggers = document.querySelectorAll(".reserve-trigger");
 
 const bookingSheet = document.querySelector("#bookingSheet");
 const bookingForm = document.querySelector("#bookingForm");
 const bookingClose = document.querySelector("#bookingClose");
+
 const bookingSteps = document.querySelectorAll(".booking-step");
 const guestButtons = document.querySelectorAll("[data-guests]");
 
@@ -57,19 +51,31 @@ const reservationState = {
   phone: ""
 };
 
+let lastReserveTrigger = null;
+
 
 /* =========================================
-   UTILITIES
+   STEP MANAGEMENT
    ========================================= */
 
 function showStep(stepNumber) {
   bookingSteps.forEach((step) => {
-    const isActive = step.dataset.step === String(stepNumber);
+    const isActive =
+      step.dataset.step === String(stepNumber);
 
     step.classList.toggle("is-active", isActive);
+
+    step.setAttribute(
+      "aria-hidden",
+      isActive ? "false" : "true"
+    );
   });
 }
 
+
+/* =========================================
+   RESET
+   ========================================= */
 
 function resetReservation() {
   reservationState.guests = "";
@@ -97,12 +103,21 @@ function resetReservation() {
 }
 
 
+/* =========================================
+   FORMATTING
+   ========================================= */
+
 function formatDate(dateValue) {
   if (!dateValue) return "";
 
-  const [year, month, day] = dateValue.split("-").map(Number);
+  const [year, month, day] =
+    dateValue.split("-").map(Number);
 
-  const date = new Date(year, month - 1, day);
+  const date = new Date(
+    year,
+    month - 1,
+    day
+  );
 
   return new Intl.DateTimeFormat("en-KE", {
     weekday: "long",
@@ -116,10 +131,17 @@ function formatDate(dateValue) {
 function formatTime(timeValue) {
   if (!timeValue) return "";
 
-  const [hours, minutes] = timeValue.split(":").map(Number);
+  const [hours, minutes] =
+    timeValue.split(":").map(Number);
 
   const date = new Date();
-  date.setHours(hours, minutes, 0, 0);
+
+  date.setHours(
+    hours,
+    minutes,
+    0,
+    0
+  );
 
   return new Intl.DateTimeFormat("en-KE", {
     hour: "numeric",
@@ -128,22 +150,41 @@ function formatTime(timeValue) {
 }
 
 
+/* =========================================
+   REQUEST SUMMARY
+   ========================================= */
+
 function buildReservationSummary() {
-  const formattedDate = formatDate(reservationState.date);
-  const formattedTime = formatTime(reservationState.time);
+  const formattedDate =
+    formatDate(reservationState.date);
+
+  const formattedTime =
+    formatTime(reservationState.time);
 
   const guestLabel =
     reservationState.guests === "1"
       ? "1 guest"
       : `${reservationState.guests} guests`;
 
-  return `${reservationState.name} · ${guestLabel} · ${formattedDate} · ${formattedTime}`;
+  return [
+    reservationState.name,
+    guestLabel,
+    formattedDate,
+    formattedTime
+  ].join(" · ");
 }
 
 
+/* =========================================
+   EMAIL REQUEST
+   ========================================= */
+
 function buildReservationEmail() {
-  const formattedDate = formatDate(reservationState.date);
-  const formattedTime = formatTime(reservationState.time);
+  const formattedDate =
+    formatDate(reservationState.date);
+
+  const formattedTime =
+    formatTime(reservationState.time);
 
   const guestLabel =
     reservationState.guests === "1"
@@ -175,9 +216,14 @@ function buildReservationEmail() {
   until the restaurant confirms the real
   reservation channel.
   */
-  const recipient = "reservations@trunkandtandoor.com";
+  const recipient =
+    "reservations@trunkandtandoor.com";
 
-  return `mailto:${recipient}?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`;
+  return (
+    `mailto:${recipient}` +
+    `?subject=${encodeURIComponent(subject)}` +
+    `&body=${encodeURIComponent(body)}`
+  );
 }
 
 
@@ -188,21 +234,10 @@ function buildReservationEmail() {
 function updateHeader() {
   if (!header) return;
 
-  header.classList.toggle("is-scrolled", window.scrollY > 24);
-}
-
-
-/* =========================================
-   FLOATING MOBILE RESERVE
-   ========================================= */
-
-function updateFloatingReserve() {
-  if (!floatingReserve) return;
-
-  const shouldShow =
-    window.scrollY > window.innerHeight * 0.65;
-
-  floatingReserve.classList.toggle("is-visible", shouldShow);
+  header.classList.toggle(
+    "is-scrolled",
+    window.scrollY > 24
+  );
 }
 
 
@@ -210,15 +245,15 @@ function updateFloatingReserve() {
    SCROLL EVENTS
    ========================================= */
 
-function handleScroll() {
-  updateHeader();
-}
+window.addEventListener(
+  "scroll",
+  updateHeader,
+  {
+    passive: true
+  }
+);
 
-window.addEventListener("scroll", handleScroll, {
-  passive: true
-});
-
-handleScroll();
+updateHeader();
 
 
 /* =========================================
@@ -229,9 +264,19 @@ reserveTriggers.forEach((trigger) => {
   trigger.addEventListener("click", () => {
     if (!bookingSheet) return;
 
+    lastReserveTrigger = trigger;
+
     resetReservation();
 
     bookingSheet.showModal();
+
+    /*
+    Allow the dialog to render first,
+    then place focus on the close control.
+    */
+    window.requestAnimationFrame(() => {
+      bookingClose?.focus();
+    });
   });
 });
 
@@ -241,15 +286,23 @@ reserveTriggers.forEach((trigger) => {
    ========================================= */
 
 guestButtons.forEach((button) => {
-  button.setAttribute("aria-pressed", "false");
+  button.setAttribute(
+    "aria-pressed",
+    "false"
+  );
 
   button.addEventListener("click", () => {
-    reservationState.guests = button.dataset.guests || "";
+    reservationState.guests =
+      button.dataset.guests || "";
 
     guestButtons.forEach((candidate) => {
-      const selected = candidate === button;
+      const selected =
+        candidate === button;
 
-      candidate.classList.toggle("is-selected", selected);
+      candidate.classList.toggle(
+        "is-selected",
+        selected
+      );
 
       candidate.setAttribute(
         "aria-pressed",
@@ -258,9 +311,7 @@ guestButtons.forEach((button) => {
     });
 
     /*
-    Small response delay only.
-    This is interaction feedback,
-    not cinematic pacing.
+    Brief interaction feedback only.
     */
     window.setTimeout(() => {
       showStep(2);
@@ -278,13 +329,27 @@ guestButtons.forEach((button) => {
 toDetails?.addEventListener("click", () => {
   if (!bookingDate || !bookingTime) return;
 
-  const dateValid = bookingDate.reportValidity();
-  const timeValid = bookingTime.reportValidity();
+  const dateValid =
+    bookingDate.reportValidity();
 
-  if (!dateValid || !timeValid) return;
+  if (!dateValid) {
+    bookingDate.focus();
+    return;
+  }
 
-  reservationState.date = bookingDate.value;
-  reservationState.time = bookingTime.value;
+  const timeValid =
+    bookingTime.reportValidity();
+
+  if (!timeValid) {
+    bookingTime.focus();
+    return;
+  }
+
+  reservationState.date =
+    bookingDate.value;
+
+  reservationState.time =
+    bookingTime.value;
 
   showStep(3);
 
@@ -296,37 +361,64 @@ toDetails?.addEventListener("click", () => {
    GUEST DETAILS
    ========================================= */
 
-completeBooking?.addEventListener("click", () => {
-  if (!bookingName || !bookingPhone) return;
+completeBooking?.addEventListener(
+  "click",
+  () => {
+    if (!bookingName || !bookingPhone) {
+      return;
+    }
 
-  const nameValid = bookingName.reportValidity();
-  const phoneValid = bookingPhone.reportValidity();
+    const nameValid =
+      bookingName.reportValidity();
 
-  if (!nameValid || !phoneValid) return;
+    if (!nameValid) {
+      bookingName.focus();
+      return;
+    }
 
-  reservationState.name = bookingName.value.trim();
-  reservationState.phone = bookingPhone.value.trim();
+    const phoneValid =
+      bookingPhone.reportValidity();
 
-  if (!reservationState.guests) {
-    showStep(1);
-    return;
+    if (!phoneValid) {
+      bookingPhone.focus();
+      return;
+    }
+
+    reservationState.name =
+      bookingName.value.trim();
+
+    reservationState.phone =
+      bookingPhone.value.trim();
+
+    if (!reservationState.guests) {
+      showStep(1);
+
+      guestButtons[0]?.focus();
+
+      return;
+    }
+
+    reservationState.date =
+      bookingDate?.value || "";
+
+    reservationState.time =
+      bookingTime?.value || "";
+
+    if (bookingSummary) {
+      bookingSummary.textContent =
+        buildReservationSummary();
+    }
+
+    if (emailReservation) {
+      emailReservation.href =
+        buildReservationEmail();
+    }
+
+    showStep(4);
+
+    emailReservation?.focus();
   }
-
-  reservationState.date = bookingDate?.value || "";
-  reservationState.time = bookingTime?.value || "";
-
-  if (bookingSummary) {
-    bookingSummary.textContent = buildReservationSummary();
-  }
-
-  if (emailReservation) {
-    emailReservation.href = buildReservationEmail();
-  }
-
-  showStep(4);
-
-  emailReservation?.focus();
-});
+);
 
 
 /* =========================================
@@ -336,38 +428,82 @@ completeBooking?.addEventListener("click", () => {
 if (bookingDate) {
   const today = new Date();
 
-  const localYear = today.getFullYear();
-  const localMonth = String(today.getMonth() + 1).padStart(2, "0");
-  const localDay = String(today.getDate()).padStart(2, "0");
+  const localYear =
+    today.getFullYear();
+
+  const localMonth =
+    String(
+      today.getMonth() + 1
+    ).padStart(2, "0");
+
+  const localDay =
+    String(
+      today.getDate()
+    ).padStart(2, "0");
 
   bookingDate.min =
     `${localYear}-${localMonth}-${localDay}`;
 }
 
+
 /* =========================================
    CLOSE RESERVATION REQUEST
    ========================================= */
 
-bookingClose?.addEventListener("click", () => {
-  bookingSheet?.close();
-});
+bookingClose?.addEventListener(
+  "click",
+  () => {
+    bookingSheet?.close();
+  }
+);
 
 
 /* =========================================
    DIALOG BACKDROP CLOSE
    ========================================= */
 
-bookingSheet?.addEventListener("click", (event) => {
-  if (event.target === bookingSheet) {
-    bookingSheet.close();
+bookingSheet?.addEventListener(
+  "click",
+  (event) => {
+    if (event.target === bookingSheet) {
+      bookingSheet.close();
+    }
   }
-});
+);
 
 
 /* =========================================
-   CLEAN STATE AFTER CLOSE
+   ESCAPE / CANCEL
    ========================================= */
 
-bookingSheet?.addEventListener("close", () => {
-  resetReservation();
-});
+bookingSheet?.addEventListener(
+  "cancel",
+  () => {
+    /*
+    Native dialog behaviour closes the
+    dialog when Escape is pressed.
+    The close event below handles reset
+    and focus restoration.
+    */
+  }
+);
+
+
+/* =========================================
+   CLEAN STATE + RESTORE FOCUS
+   ========================================= */
+
+bookingSheet?.addEventListener(
+  "close",
+  () => {
+    resetReservation();
+
+    /*
+    Return keyboard focus to the exact
+    Reserve control that opened the dialog.
+    */
+    window.requestAnimationFrame(() => {
+      lastReserveTrigger?.focus();
+    });
+  }
+);

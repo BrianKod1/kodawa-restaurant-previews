@@ -47,6 +47,16 @@ button {
   cursor: pointer;
 }
 
+:where(
+  a,
+  button,
+  input,
+  [tabindex]
+):focus-visible {
+  outline: 3px solid var(--accent-primary);
+  outline-offset: 4px;
+}
+
 ::selection {
   background: var(--accent-primary);
   color: var(--text-inverse);
@@ -73,7 +83,21 @@ button {
   transform: translateY(0);
 }
 
+/* =========================================
+   ACCESSIBILITY UTILITIES
+   ========================================= */
 
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
+}
 /* =========================================
    NAVIGATION
    ========================================= */
@@ -628,39 +652,6 @@ button {
 }
 
 
-/* =========================================
-   FLOATING MOBILE RESERVE
-   ========================================= */
-
-.floating-reserve {
-  position: fixed;
-  right: 1rem;
-  bottom: max(1rem, env(safe-area-inset-bottom));
-  z-index: 90;
-  display: none;
-  border: 0;
-  border-radius: 999px;
-  padding: 0.95rem 1.3rem;
-  background: var(--accent-primary);
-  color: var(--text-inverse);
-  box-shadow: 0 0.75rem 2.4rem rgba(0, 0, 0, 0.26);
-  font-size: 0.7rem;
-  font-weight: 600;
-  letter-spacing: 0.1em;
-  text-transform: uppercase;
-  opacity: 0;
-  transform: translateY(1rem);
-  pointer-events: none;
-  transition:
-    opacity 200ms ease,
-    transform 200ms ease;
-}
-
-.floating-reserve.is-visible {
-  opacity: 1;
-  transform: translateY(0);
-  pointer-events: auto;
-}
 
 
 /* =========================================
@@ -676,7 +667,8 @@ button {
   background: var(--surface-primary);
   color: var(--text-primary);
   box-shadow: 0 2rem 6rem rgba(0, 0, 0, 0.38);
-  overflow: hidden;
+  overflow-y: auto;
+overflow-x: hidden;
 }
 
 .booking-sheet::backdrop {
@@ -701,8 +693,8 @@ button {
   position: absolute;
   top: 1rem;
   right: 1rem;
-  width: 2.5rem;
-  height: 2.5rem;
+  width: 2.75rem;
+  height: 2.75rem;
   border: 1px solid var(--border-color);
   border-radius: 50%;
   background: transparent;
@@ -778,9 +770,10 @@ button {
   outline: none;
 }
 
-.booking-step input:focus {
+.booking-step input:focus-visible {
   border-color: var(--accent-primary);
 }
+
 
 .booking-note {
   margin: 1rem 0 0;
@@ -884,6 +877,10 @@ button {
     font-size: 0.62rem;
   }
 
+  .header-reserve,
+.footer-reserve {
+  min-height: 2.75rem;
+}
   .hero {
     min-height: 94svh;
   }
@@ -1017,9 +1014,7 @@ button {
     justify-content: flex-start;
   }
 
- .floating-reserve {
-  display: none;
-}
+ 
 
   .guest-options {
     grid-template-columns: repeat(2, 1fr);
@@ -1041,13 +1036,30 @@ button {
 
 @media (prefers-reduced-motion: reduce) {
 
-  .hero-media img,
-  .proof-image img,
-  .primary-action,
-  .floating-reserve,
-  .site-header,
-  .site-nav a::after {
-    transition: none;
+  html {
+    scroll-behavior: auto;
+  }
+
+  *,
+  *::before,
+  *::after {
+    scroll-behavior: auto !important;
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+
+  .hero-media img {
+    transform: none;
+  }
+
+  .proof-image:hover img {
+    transform: none;
+  }
+
+  .primary-action:hover,
+  .primary-action:focus-visible {
+    transform: none;
   }
 
 }
