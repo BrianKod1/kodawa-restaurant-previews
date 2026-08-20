@@ -1033,9 +1033,17 @@ overflow-x: hidden;
     padding-inline: 1.25rem;
   }
 
-  .footer-nav {
-    justify-content: flex-start;
-  }
+ .footer-nav {
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: flex-start;
+  align-items: center;
+  gap: 1.5rem;
+}
+
+.footer-reserve {
+  min-height: auto;
+}
 
   .guest-options {
     grid-template-columns: repeat(2, 1fr);
