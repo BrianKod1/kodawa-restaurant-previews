@@ -17,8 +17,14 @@ or confirm a table.
    ========================================= */
 
 const header = document.querySelector("#siteHeader");
-const floatingReserve = document.querySelector(".floating-reserve");
+function updateFloatingReserve() {
+  if (!floatingReserve) return;
 
+  const shouldShow =
+    window.scrollY > window.innerHeight * 0.65;
+
+  floatingReserve.classList.toggle("is-visible", shouldShow);
+}
 const reserveTriggers = document.querySelectorAll(".reserve-trigger");
 
 const bookingSheet = document.querySelector("#bookingSheet");
@@ -206,7 +212,6 @@ function updateFloatingReserve() {
 
 function handleScroll() {
   updateHeader();
-  updateFloatingReserve();
 }
 
 window.addEventListener("scroll", handleScroll, {
