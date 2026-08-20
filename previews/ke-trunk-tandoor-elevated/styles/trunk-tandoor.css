@@ -693,11 +693,15 @@ overflow-x: hidden;
   position: absolute;
   top: 1rem;
   right: 1rem;
+  z-index: 5;
+  display: grid;
+  place-items: center;
   width: 2.75rem;
   height: 2.75rem;
   border: 1px solid var(--border-color);
   border-radius: 50%;
-  background: transparent;
+  padding: 0;
+  background: var(--surface-primary);
   color: var(--text-primary);
   font-size: 1.35rem;
   line-height: 1;
@@ -1040,17 +1044,13 @@ overflow-x: hidden;
     scroll-behavior: auto;
   }
 
-  *,
-  *::before,
-  *::after {
-    scroll-behavior: auto !important;
-    animation-duration: 0.01ms !important;
-    animation-iteration-count: 1 !important;
-    transition-duration: 0.01ms !important;
-  }
-
-  .hero-media img {
-    transform: none;
+  .site-header,
+  .site-nav a::after,
+  .primary-action,
+  .proof-image img,
+  .guest-options button,
+  .skip-link {
+    transition: none;
   }
 
   .proof-image:hover img {

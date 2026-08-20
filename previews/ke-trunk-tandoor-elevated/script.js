@@ -450,13 +450,14 @@ if (bookingDate) {
    CLOSE RESERVATION REQUEST
    ========================================= */
 
-bookingClose?.addEventListener(
-  "click",
-  () => {
-    bookingSheet?.close();
-  }
-);
+bookingClose?.addEventListener("click", (event) => {
+  event.preventDefault();
+  event.stopPropagation();
 
+  if (bookingSheet?.open) {
+    bookingSheet.close();
+  }
+});
 
 /* =========================================
    DIALOG BACKDROP CLOSE
