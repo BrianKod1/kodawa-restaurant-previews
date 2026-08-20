@@ -548,11 +548,14 @@ button {
    ========================================= */
 
 .location-stage {
+  width: min(100%, 92rem);
+  box-sizing: border-box;
+  margin-inline: auto;
   display: grid;
-  grid-template-columns: 1fr auto;
-  gap: 4rem;
+  grid-template-columns: minmax(0, 1fr) minmax(15rem, 0.45fr);
+  gap: clamp(3rem, 8vw, 8rem);
   align-items: end;
-  padding: clamp(6rem, 10vw, 10rem) clamp(1.25rem, 5vw, 5rem);
+  padding: clamp(5rem, 8vw, 8rem) clamp(1.25rem, 5vw, 5rem);
   background: var(--surface-background);
 }
 
@@ -918,30 +921,35 @@ button {
   }
 
   .pause {
-    min-height: 62svh;
-    padding-inline: 1.25rem;
-  }
+  min-height: 50svh;
+  padding:
+    4.5rem
+    1.25rem;
+}
 
-  .pause h2 {
-    font-size: clamp(3.3rem, 15vw, 5rem);
-  }
+ .pause h2 {
+  max-width: 11ch;
+  font-size: clamp(3rem, 13vw, 4.5rem);
+  line-height: 0.96;
+}
 
-  .experience-stage {
-    padding:
-      5.5rem
-      1.25rem;
-  }
+ .experience-stage {
+  padding:
+    4.75rem
+    1.25rem;
+}
 
   .experience-copy h2,
-  .location-copy h2,
-  .closing-invitation h2 {
-    font-size: clamp(3.25rem, 14vw, 5rem);
-  }
+.location-copy h2,
+.closing-invitation h2 {
+  font-size: clamp(3rem, 12.5vw, 4.6rem);
+  line-height: 0.96;
+}
 
-  .place-grid {
-    grid-template-columns: 1fr;
-    margin-top: 3rem;
-  }
+ .place-grid {
+  grid-template-columns: 1fr;
+  margin-top: 2.5rem;
+}
 
   .proof-image-primary,
   .proof-image-secondary {
@@ -967,10 +975,11 @@ button {
       6rem;
   }
 
-  .atmosphere-grid {
-    grid-template-columns: 1fr;
-    margin-top: 3rem;
-  }
+ .atmosphere-grid {
+  grid-template-columns: 1fr;
+  margin-top: 2.5rem;
+}
+
 
   .atmosphere-people,
   .atmosphere-space {
@@ -981,18 +990,23 @@ button {
     margin-top: 0;
   }
 
-  .closing-invitation {
-    min-height: 68svh;
-    padding:
-      6rem
-      1.25rem;
-  }
+ .closing-invitation {
+  min-height: auto;
+  padding:
+    5.5rem
+    1.25rem;
+}
 
-  .location-stage {
-    padding:
-      5.5rem
-      1.25rem;
-  }
+ .location-stage {
+  gap: 2.5rem;
+  padding:
+    4.75rem
+    1.25rem;
+}
+
+.location-action {
+  width: 100%;
+}
 
   .site-footer {
     grid-template-columns: 1fr;
@@ -1003,9 +1017,9 @@ button {
     justify-content: flex-start;
   }
 
-  .floating-reserve {
-    display: block;
-  }
+ .floating-reserve {
+  display: none;
+}
 
   .guest-options {
     grid-template-columns: repeat(2, 1fr);
