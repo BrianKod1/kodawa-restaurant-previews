@@ -12,7 +12,15 @@ This file owns Trunk & Tandoor expression.
 /* =========================================
    GLOBAL RESTAURANT COMPOSITION
    ========================================= */
+/* =========================================
+   BOX SIZING
+   ========================================= */
 
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
 html {
   background: var(--surface-background);
 }
@@ -882,15 +890,16 @@ overflow-x: hidden;
   }
 
   .header-reserve,
-.footer-reserve {
-  min-height: 2.75rem;
-}
+  .footer-reserve {
+    min-height: 2.75rem;
+  }
+
   .hero {
     min-height: 94svh;
   }
 
   .hero-media img {
-    object-position: 54% center;
+    object-position: center center;
   }
 
   .hero-content {
@@ -922,35 +931,35 @@ overflow-x: hidden;
   }
 
   .pause {
-  min-height: 50svh;
-  padding:
-    4.5rem
-    1.25rem;
-}
+    min-height: 50svh;
+    padding:
+      4.5rem
+      1.25rem;
+  }
 
- .pause h2 {
-  max-width: 11ch;
-  font-size: clamp(3rem, 13vw, 4.5rem);
-  line-height: 0.96;
-}
+  .pause h2 {
+    max-width: 11ch;
+    font-size: clamp(3rem, 13vw, 4.5rem);
+    line-height: 0.96;
+  }
 
- .experience-stage {
-  padding:
-    4.75rem
-    1.25rem;
-}
+  .experience-stage {
+    padding:
+      4.75rem
+      1.25rem;
+  }
 
   .experience-copy h2,
-.location-copy h2,
-.closing-invitation h2 {
-  font-size: clamp(3rem, 12.5vw, 4.6rem);
-  line-height: 0.96;
-}
+  .location-copy h2,
+  .closing-invitation h2 {
+    font-size: clamp(3rem, 12.5vw, 4.6rem);
+    line-height: 0.96;
+  }
 
- .place-grid {
-  grid-template-columns: 1fr;
-  margin-top: 2.5rem;
-}
+  .place-grid {
+    grid-template-columns: 1fr;
+    margin-top: 2.5rem;
+  }
 
   .proof-image-primary,
   .proof-image-secondary {
@@ -966,7 +975,12 @@ overflow-x: hidden;
   }
 
   .food-image {
+    width: 100%;
     min-height: 65svh;
+  }
+
+  .food-image img {
+    object-position: center center;
   }
 
   .food-copy {
@@ -976,38 +990,43 @@ overflow-x: hidden;
       6rem;
   }
 
- .atmosphere-grid {
-  grid-template-columns: 1fr;
-  margin-top: 2.5rem;
-}
-
+  .atmosphere-grid {
+    grid-template-columns: 1fr;
+    margin-top: 2.5rem;
+  }
 
   .atmosphere-people,
   .atmosphere-space {
+    width: 100%;
     aspect-ratio: 4 / 5;
+  }
+
+  .atmosphere-people img,
+  .atmosphere-space img {
+    object-position: center center;
   }
 
   .atmosphere-space {
     margin-top: 0;
   }
 
- .closing-invitation {
-  min-height: auto;
-  padding:
-    5.5rem
-    1.25rem;
-}
+  .closing-invitation {
+    min-height: auto;
+    padding:
+      5.5rem
+      1.25rem;
+  }
 
- .location-stage {
-  gap: 2.5rem;
-  padding:
-    4.75rem
-    1.25rem;
-}
+  .location-stage {
+    gap: 2.5rem;
+    padding:
+      4.75rem
+      1.25rem;
+  }
 
-.location-action {
-  width: 100%;
-}
+  .location-action {
+    width: 100%;
+  }
 
   .site-footer {
     grid-template-columns: 1fr;
@@ -1017,8 +1036,6 @@ overflow-x: hidden;
   .footer-nav {
     justify-content: flex-start;
   }
-
- 
 
   .guest-options {
     grid-template-columns: repeat(2, 1fr);
