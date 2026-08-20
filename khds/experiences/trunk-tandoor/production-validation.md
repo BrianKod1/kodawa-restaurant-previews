@@ -30,11 +30,11 @@ Complete
 
 Production Build:
 
-Pending
+In Progress
 
 Production Validation:
 
-Initialized
+Active
 
 ---
 
@@ -1738,6 +1738,1015 @@ Status:
 Pending
 
 ---
+
+# Production Validation Checkpoint 1 — Phase 2 Rebuild
+
+## Date
+
+2026-08-20
+
+## Validation Scope
+
+This checkpoint evaluates the first deployed Phase 2 Trunk & Tandoor rebuild across:
+
+- desktop composition
+- mobile composition
+- KHDS translation
+- photography
+- pacing
+- reservation access
+- reservation-state clarity
+- mobile reservation interaction
+- internal KHDS tooling visibility
+
+This checkpoint does not evaluate:
+
+- real guest behaviour
+- conversion
+- reservation completion with the restaurant
+- restaurant operations
+- live availability
+- business performance
+
+---
+
+# Finding 1 — Phase 2 Information Architecture Translated Successfully
+
+## Category
+
+Experience
+
+Information Architecture
+
+## Outcome
+
+Successful Translation
+
+## Observable Evidence
+
+The deployed experience now follows:
+
+Arrival
+
+↓
+
+Place + Evening
+
+↓
+
+Food + Tandoor
+
+↓
+
+Atmosphere + Fit
+
+↓
+
+Reservation
+
+↓
+
+Location
+
+↓
+
+Footer
+
+The previous concept-led sequence has been replaced by a clearer hospitality journey.
+
+Each major section now has:
+
+a more explicit guest role.
+
+## Production Interpretation
+
+The Phase 2 architecture translated into production without requiring unnecessary additional sections.
+
+The compressed information architecture was sufficient for the currently available content and evidence.
+
+## Research Status Impact
+
+None.
+
+This is:
+
+Track B implementation evidence.
+
+It does not change:
+
+research maturity.
+
+---
+
+# Finding 2 — Designed Escape Translated With Adaptation
+
+## Pattern
+
+Designed Escape
+
+## Category
+
+Atmosphere
+
+Experience
+
+## Outcome
+
+Successful With Adaptation
+
+## Observable Evidence
+
+The production experience communicates:
+
+- elevation
+- Nairobi skyline
+- evening
+- social use
+- rooftop atmosphere
+
+Place remains visible beyond:
+
+the hero.
+
+The experience does not rely only on:
+
+dark surfaces
+
+and:
+
+gold styling.
+
+## Production Interpretation
+
+Escape works best here when it remains:
+
+specific to Nairobi.
+
+The strongest production expression is:
+
+escape through elevation and city perspective
+
+rather than:
+
+generic luxury.
+
+## Research Status Impact
+
+None.
+
+---
+
+# Finding 3 — Photography as Use-Case Evidence Translated Successfully
+
+## Pattern
+
+Photography as Use-Case Evidence
+
+## Category
+
+Proof
+
+Photography
+
+Atmosphere
+
+## Outcome
+
+Successful Translation
+
+## Observable Evidence
+
+Photography showing guests using the restaurant helps communicate:
+
+- social rhythm
+- occasion fit
+- drinks
+- dining
+- atmosphere
+- relationship with the skyline
+
+The evening section benefits from:
+
+people inhabiting the space
+
+rather than:
+
+empty-interior photography alone.
+
+## Production Interpretation
+
+Use-case photography contributes meaningful information about:
+
+how the restaurant may be experienced.
+
+It is not functioning only as:
+
+decoration.
+
+## Research Status Impact
+
+None.
+
+---
+
+# Finding 4 — Minimum Sufficient Proof Worked, With a Culinary Evidence Gap
+
+## Pattern
+
+Photography as Proof
+
+Photography Should Demonstrate Difference
+
+Show the System Behind the Plate
+
+## Category
+
+Proof
+
+Photography
+
+## Outcome
+
+Successful With Adaptation
+
+and
+
+Under-Specified
+
+## Observable Evidence
+
+A relatively small number of images successfully communicate:
+
+- Nairobi
+- rooftop dining
+- food
+- social use
+- atmosphere
+- evening
+
+A traditional generic gallery was not required.
+
+However:
+
+the current Food section uses the headline:
+
+> From the tandoor to the table.
+
+while the available photograph primarily proves:
+
+finished product.
+
+It does not directly prove:
+
+- tandoor process
+- fire
+- preparation
+- technique
+
+## Production Interpretation
+
+Minimum sufficient proof appears viable.
+
+However:
+
+culinary process claims require evidence that matches the claim.
+
+Finished-food photography should not automatically be treated as:
+
+process proof.
+
+## Production Direction
+
+Retain the current Food section structure.
+
+Flag:
+
+real tandoor / fire / process imagery
+
+as:
+
+a future proof requirement.
+
+Do not fabricate:
+
+process evidence.
+
+## Research Status Impact
+
+None.
+
+---
+
+# Finding 5 — Persistent Reserve Created Mobile CTA Conflict
+
+## Patterns
+
+Participation Throughout the Journey
+
+Commitment Without Pressure
+
+## Category
+
+Participation
+
+Mobile
+
+Information Architecture
+
+## Outcome
+
+Pattern Conflict
+
+## Observable Evidence
+
+The first mobile Phase 2 build could display:
+
+- header Reserve
+- floating Reserve
+- section reservation CTA
+
+within the same part of the journey.
+
+This created:
+
+unnecessary reservation repetition.
+
+## Production Response
+
+The floating mobile Reserve action was removed.
+
+The production experience now relies on:
+
+- persistent header Reserve
+- earned contextual reservation CTAs
+
+## Production Interpretation
+
+Persistent access does not require:
+
+persistent duplication.
+
+A permanently accessible navigation action may make:
+
+an additional floating conversion control
+
+unnecessary.
+
+## Return to Research
+
+Potential implementation question:
+
+> When is persistent functional access sufficient without an additional floating CTA?
+
+This may be useful for:
+
+future production cases.
+
+It is not yet:
+
+a research-derived pattern.
+
+---
+
+# Finding 6 — Mobile Pacing Required Compression
+
+## Pattern / Direction
+
+Pacing as Atmospheric Structure
+
+## Category
+
+Mobile
+
+Atmosphere
+
+Experience
+
+## Outcome
+
+Successful With Adaptation
+
+## Observable Evidence
+
+The first mobile translation preserved:
+
+desktop-scale spacing
+
+too literally in:
+
+the Invitation
+
+and several:
+
+editorial sections.
+
+This resulted in:
+
+excessive empty vertical space
+
+and:
+
+over-dominant display typography.
+
+## Production Response
+
+Mobile production was refined through:
+
+- reduced Invitation height
+- reduced section padding
+- modestly smaller editorial headings
+- tighter image transitions
+- tighter reservation-section spacing
+- tighter location composition
+
+## Production Interpretation
+
+Pacing does not equal:
+
+maximum whitespace.
+
+Mobile atmosphere can preserve:
+
+editorial rhythm
+
+while using:
+
+less space
+
+and:
+
+less visual volume.
+
+## New Implementation Learning
+
+> Preserve the pacing intention, not the desktop measurement.
+
+## Classification
+
+New Implementation Pattern
+
+## Research Status Impact
+
+None.
+
+---
+
+# Finding 7 — KHDS Internal Tooling Must Remain Invisible
+
+## Hypothesis
+
+KHDS Can Remain Invisible
+
+## Category
+
+System
+
+Brand
+
+Experience
+
+## Outcome
+
+Successful With Adaptation
+
+## Initial Failure
+
+The first deployed rebuild still exposed:
+
+the KODAWA FOUNDATION internal review interface.
+
+On mobile this interface:
+
+- overlapped content
+- competed with reservation controls
+- exposed internal system terminology
+- weakened the restaurant-specific experience
+
+## Production Response
+
+The internal KHDS review interface was removed from:
+
+the public guest experience.
+
+The underlying tooling remains:
+
+inside the project.
+
+## Production Interpretation
+
+KHDS can support production without becoming:
+
+guest-facing branding.
+
+Internal design intelligence and public hospitality experience must remain:
+
+separate layers.
+
+## Production Rule
+
+> KHDS may shape the experience. It should not announce itself inside the experience.
+
+## Research Status Impact
+
+None.
+
+---
+
+# Finding 8 — Reservation State Clarity Improved
+
+## Patterns / Directions
+
+Participation State Clarity
+
+Commitment Without Pressure
+
+## Category
+
+Participation
+
+Interaction
+
+Operations
+
+## Outcome
+
+Successful Translation
+
+## Observable Evidence
+
+The rebuilt reservation flow now distinguishes:
+
+a reservation request
+
+from:
+
+a confirmed reservation.
+
+The guest selects:
+
+- guest count
+- preferred date
+- preferred time
+- name
+- phone
+
+The final interaction prepares:
+
+an external email request.
+
+The interface explicitly communicates that:
+
+the table is not confirmed
+
+until:
+
+the restaurant responds.
+
+## Production Interpretation
+
+The flow now more accurately represents:
+
+the actual capability of the prototype.
+
+The website does not claim:
+
+- live availability
+- successful submission
+- confirmed reservation
+
+when those states cannot be known.
+
+## Current Prototype State Model
+
+Exploring
+
+↓
+
+Selecting
+
+↓
+
+Reviewing
+
+↓
+
+Request Prepared
+
+↓
+
+External Email Action
+
+↓
+
+Unknown / Awaiting Restaurant Response
+
+## Research Status Impact
+
+None.
+
+---
+
+# Finding 9 — Mobile Reservation Interaction Works End-to-End
+
+## Category
+
+Participation
+
+Mobile
+
+Interaction
+
+## Outcome
+
+Successful Translation
+
+## Test Environment
+
+Physical mobile device
+
+Mobile Safari
+
+## Observable Test
+
+The production reservation flow was manually tested through:
+
+Reserve
+
+↓
+
+Guest Count
+
+↓
+
+Preferred Date
+
+↓
+
+Preferred Time
+
+↓
+
+Guest Details
+
+↓
+
+Request Preparation
+
+↓
+
+Email Application
+
+The generated email correctly contained:
+
+- guest name
+- phone
+- guest count
+- preferred date
+- preferred time
+- explicit non-confirmation language
+
+The reservation dialog close control initially failed on mobile.
+
+It was corrected by:
+
+using an explicit JavaScript dialog close action.
+
+## Production Interpretation
+
+The prototype interaction now works through:
+
+the full intended request journey
+
+on:
+
+mobile Safari.
+
+## Important Boundary
+
+This does not prove:
+
+a reservation was received
+
+or:
+
+a table was booked.
+
+The website currently hands the request to:
+
+the guest's email application.
+
+---
+
+# Finding 10 — Reservation Infrastructure Remains Prototype-Only
+
+## Category
+
+Operations
+
+Participation
+
+Business
+
+## Outcome
+
+Not Yet Testable
+
+## Observable Evidence
+
+The current flow uses:
+
+`mailto:`
+
+rather than:
+
+- a reservation API
+- live availability
+- restaurant CRM
+- booking platform
+- automated confirmation service
+
+The current recipient address:
+
+`reservations@trunkandtandoor.com`
+
+remains:
+
+unverified.
+
+## Production Boundary
+
+Do not describe the current system as:
+
+live restaurant booking infrastructure.
+
+It is:
+
+a functioning reservation-request prototype.
+
+## Future Requirement
+
+Real production deployment requires verification of:
+
+- reservation destination
+- operational workflow
+- availability model
+- confirmation model
+- exception handling
+- guest-data handling
+
+---
+
+# Finding 11 — Location Remains Content-Limited
+
+## Category
+
+Information Architecture
+
+Proof
+
+## Outcome
+
+Under-Specified
+
+## Observable Evidence
+
+The current Location section provides:
+
+- Lower Kabete Road
+- Nairobi, Kenya
+- reservation access
+
+The layout was tightened during mobile QA.
+
+However:
+
+the section has less evidence and utility than:
+
+the rest of the experience.
+
+## Missing Verified Evidence
+
+Potentially useful information could include:
+
+- map
+- building identifier
+- verified directions
+- arrival photography
+- parking guidance
+- contact information
+
+but these should not be added:
+
+without verification.
+
+## Production Direction
+
+Keep the section restrained until:
+
+stronger verified arrival information exists.
+
+---
+
+# Current Hypothesis Status
+
+## Hypothesis 1 — Designed Escape Can Organise the Experience
+
+Status:
+
+Successful With Adaptation
+
+---
+
+## Hypothesis 2 — Photography as Use-Case Evidence Is Highly Relevant
+
+Status:
+
+Successful Translation
+
+---
+
+## Hypothesis 3 — Pacing Can Function as Atmospheric Structure
+
+Status:
+
+Successful With Adaptation
+
+Mobile required:
+
+compression.
+
+---
+
+## Hypothesis 4 — Minimum Sufficient Proof Is Better Than Gallery Volume
+
+Status:
+
+Successful With Adaptation
+
+Remaining gap:
+
+fire / tandoor process proof.
+
+---
+
+## Hypothesis 5 — Persistent Reserve + Earned Primary CTA Can Coexist
+
+Status:
+
+Successful With Adaptation
+
+Production finding:
+
+persistent access works better without:
+
+an additional floating mobile CTA.
+
+---
+
+## Hypothesis 6 — Narrative Language Can Coexist With Functional Clarity
+
+Status:
+
+Successful Translation
+
+---
+
+## Hypothesis 7 — Fire / Tandoor Process Only Needs Selective Exposure
+
+Status:
+
+Not Yet Fully Testable
+
+Reason:
+
+current assets do not provide sufficient:
+
+process evidence.
+
+---
+
+## Hypothesis 8 — The Architecture Supports Multiple Guest Speeds
+
+Status:
+
+Promising
+
+Not Yet Guest-Tested
+
+Ready guests can access:
+
+Reserve
+
+immediately.
+
+Exploratory guests can move through:
+
+meaning
+
+proof
+
+fit
+
+and then:
+
+Reserve.
+
+Actual guest preference has not been measured.
+
+---
+
+## Hypothesis 9 — Mobile Can Preserve Atmosphere Without Preserving Desktop Volume
+
+Status:
+
+Successful With Adaptation
+
+Production required:
+
+mobile-specific pacing
+
+rather than:
+
+desktop stacking alone.
+
+---
+
+## Hypothesis 10 — KHDS Can Remain Invisible
+
+Status:
+
+Successful With Adaptation
+
+Internal KHDS tooling had to be explicitly removed from:
+
+the guest-facing build.
+
+---
+
+# Production Checkpoint Conclusion
+
+The first Phase 2 production build demonstrates that:
+
+KHDS can materially structure:
+
+a restaurant-specific hospitality experience
+
+without requiring:
+
+all available patterns
+
+or:
+
+a generic component-first page.
+
+The most useful production lessons so far are:
+
+1. research architecture can be compressed successfully
+2. place-specific proof strengthens Designed Escape
+3. use-case photography carries meaningful hospitality information
+4. minimum sufficient proof can replace generic gallery volume
+5. persistent participation access can become duplication
+6. mobile pacing requires interpretation rather than desktop preservation
+7. internal KHDS tooling must remain invisible
+8. participation states must reflect actual system capability
+9. prototype interaction can be validated independently from real operations
+10. evidence gaps should remain visible rather than being solved through unsupported copy
+
+No finding in this checkpoint changes:
+
+research maturity.
+
+Trunk & Tandoor remains:
+
+Track B — Kodawa Labs Validation.
+
+---
+
+# Next Production Validation Stage
+
+Accessibility
+
+↓
+
+Performance
+
+↓
+
+Interaction Edge Cases
+
+↓
+
+Final Mobile Review
+
+↓
+
+Production Stabilisation
+
+After those checks:
+
+this Phase 2 implementation can be evaluated for:
+
+first stable production-translation status.
 
 # Information Architecture Validation
 
