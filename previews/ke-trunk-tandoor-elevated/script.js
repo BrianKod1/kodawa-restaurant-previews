@@ -29,7 +29,7 @@ const reserveTriggers = document.querySelectorAll(".reserve-trigger");
 
 const bookingSheet = document.querySelector("#bookingSheet");
 const bookingForm = document.querySelector("#bookingForm");
-
+const bookingClose = document.querySelector("#bookingClose");
 const bookingSteps = document.querySelectorAll(".booking-step");
 const guestButtons = document.querySelectorAll("[data-guests]");
 
@@ -343,6 +343,14 @@ if (bookingDate) {
   bookingDate.min =
     `${localYear}-${localMonth}-${localDay}`;
 }
+
+/* =========================================
+   CLOSE RESERVATION REQUEST
+   ========================================= */
+
+bookingClose?.addEventListener("click", () => {
+  bookingSheet?.close();
+});
 
 
 /* =========================================
