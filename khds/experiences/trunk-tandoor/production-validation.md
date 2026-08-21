@@ -2725,13 +2725,21 @@ Track B — Kodawa Labs Validation.
 # Next Production Validation Stage
 
 Accessibility ✅
+
 ↓
+
 Performance ✅
+
 ↓
-Interaction Edge Cases
+
+Interaction Edge Cases ✅
+
 ↓
+
 Final Mobile + Desktop Review
+
 ↓
+
 Production Stabilisation
 
 After those checks:
@@ -3002,3 +3010,160 @@ None.
 This remains:
 
 Track B production evidence.
+
+
+# Finding 14 — Final Responsive Visual Translation Is Stable
+
+## Category
+
+Experience
+
+Mobile
+
+Responsive Design
+
+Brand
+
+Information Architecture
+
+## Outcome
+
+Successful With Adaptation
+
+## Validation Scope
+
+The complete deployed Trunk & Tandoor experience was visually reviewed across:
+
+- desktop
+- physical mobile device
+
+The review covered:
+
+- Arrival
+- Invitation
+- Place
+- Food
+- Evening
+- Reservation
+- Location
+- Footer
+- navigation
+- responsive hierarchy
+- typography
+- photography
+- CTA density
+- spacing
+- image cropping
+- section transitions
+
+## Desktop Result
+
+The desktop implementation maintains:
+
+- clear visual hierarchy
+- restaurant-specific identity
+- coherent section pacing
+- strong relationship between photography and copy
+- consistent navigation
+- controlled reservation prominence
+- Nairobi as a continuing part of the experience
+
+No blocking desktop composition issue was identified.
+
+## Mobile Result
+
+The mobile implementation maintains:
+
+- the same core meaning as desktop
+- compressed rather than copied pacing
+- legible editorial typography
+- centred and intentional photography
+- clear reservation access
+- coherent section transitions
+- usable location and footer architecture
+
+Previous mobile issues involving:
+
+- excessive vertical spacing
+- oversized headings
+- duplicated reservation actions
+- image alignment
+- footer alignment
+
+were resolved during production QA.
+
+## Production Interpretation
+
+Responsive hospitality translation should preserve:
+
+meaning
+
+atmosphere
+
+proof
+
+and participation
+
+rather than:
+
+desktop measurements.
+
+The final implementation demonstrates that:
+
+mobile can express the same hospitality experience
+
+with:
+
+different spatial decisions.
+
+## Remaining Evidence Boundary
+
+The Food section continues to use:
+
+“From the tandoor to the table.”
+
+The current photography primarily demonstrates:
+
+finished product
+
+rather than:
+
+tandoor process.
+
+This remains:
+
+a documented proof gap.
+
+It does not prevent:
+
+technical production stabilisation.
+
+Future authentic fire / tandoor imagery would strengthen:
+
+claim-to-proof alignment.
+
+## Important Boundary
+
+This review establishes:
+
+visual and implementation stability.
+
+It does not establish:
+
+- guest preference
+- guest satisfaction
+- conversion improvement
+- reservation performance
+- business outcomes
+
+Those require:
+
+real-world evidence.
+
+## Research Status Impact
+
+None.
+
+Trunk & Tandoor remains:
+
+Track B — Kodawa Labs Validation.
