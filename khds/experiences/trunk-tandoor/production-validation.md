@@ -2912,3 +2912,93 @@ None.
 This remains:
 
 Track B production evidence.
+
+
+# Finding 13 — Reservation Interaction Edge Cases Passed
+
+## Category
+
+Participation
+
+Interaction
+
+Accessibility
+
+Mobile
+
+## Outcome
+
+Successful Translation
+
+## Validation Scope
+
+The deployed reservation prototype was manually tested against the following edge cases:
+
+1. Close immediately using the dialog close control
+2. Close using Escape on desktop
+3. Continue without selecting a date
+4. Continue without selecting a time
+5. Continue with guest name missing
+6. Continue with phone number missing
+7. Close and reopen after completing a request to verify state reset
+8. Open Reserve from a lower-page CTA and close it to verify focus and page-position behaviour
+9. Rotate a mobile device between portrait and landscape while the dialog is open
+10. Open the mobile keyboard for guest details and verify that fields and actions remain reachable
+
+## Result
+
+All 10 tests passed.
+
+## Observable Evidence
+
+The reservation experience:
+
+- blocks progression when required information is missing
+- directs the guest toward incomplete fields
+- closes correctly through both explicit controls and native desktop behaviour
+- restores interaction state after closing
+- clears previous reservation data before a new request
+- remains usable from multiple reservation entry points
+- remains usable during mobile orientation changes
+- remains navigable when the mobile keyboard reduces available viewport height
+
+## Production Interpretation
+
+The reservation prototype now demonstrates stable interaction behaviour across:
+
+- normal flow
+- invalid states
+- cancellation
+- repeated use
+- mobile viewport changes
+- keyboard-constrained layouts
+
+This increases confidence in:
+
+the implementation.
+
+It does not validate:
+
+the restaurant's real reservation operations.
+
+## Important Boundary
+
+The prototype still uses:
+
+an external email handoff.
+
+Therefore this test does not prove:
+
+- request delivery
+- restaurant receipt
+- live availability
+- confirmation
+- operational reliability
+
+## Research Status Impact
+
+None.
+
+This remains:
+
+Track B production evidence.
