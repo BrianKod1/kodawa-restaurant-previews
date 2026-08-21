@@ -2724,22 +2724,14 @@ Track B — Kodawa Labs Validation.
 
 # Next Production Validation Stage
 
-Accessibility
-
+Accessibility ✅
 ↓
-
-Performance
-
+Performance ✅
 ↓
-
 Interaction Edge Cases
-
 ↓
-
-Final Mobile Review
-
+Final Mobile + Desktop Review
 ↓
-
 Production Stabilisation
 
 After those checks:
@@ -2758,3 +2750,165 @@ Home / Experience
 ├── Menu
 ├── Reserve
 └── Location / Contact
+
+
+# Finding 12 — Performance Architecture Improved Through Parallel CSS Discovery
+
+## Category
+
+Performance
+
+System
+
+Architecture
+
+## Outcome
+
+Successful With Adaptation
+
+## Initial Production Measurement
+
+Mobile Lighthouse:
+
+- Performance: 90
+- First Contentful Paint: 2.7 s
+- Largest Contentful Paint: 3.1 s
+- Total Blocking Time: 0 ms
+- Cumulative Layout Shift: 0
+- Speed Index: 2.7 s
+
+## Initial Finding
+
+The production CSS payload was small.
+
+However:
+
+the browser discovered the stylesheets through nested `@import` relationships.
+
+The loading path was approximately:
+
+HTML
+
+↓
+
+Restaurant Entry Stylesheet
+
+↓
+
+KHDS Entry Point
+
+↓
+
+KHDS Tokens / Components / Utilities
+
+This created:
+
+sequential stylesheet discovery
+
+despite:
+
+low total CSS weight.
+
+Lighthouse identified:
+
+render-blocking stylesheet requests
+
+as:
+
+the primary performance opportunity.
+
+## Production Response
+
+The production HTML was changed to reference required stylesheets directly.
+
+The browser can now discover:
+
+- KHDS tokens
+- KHDS components
+- KHDS utilities
+- restaurant theme
+- restaurant composition
+
+in parallel.
+
+The architectural source separation remains intact.
+
+Only:
+
+the production delivery mechanism
+
+changed.
+
+Internal KHDS review styling was also removed from:
+
+the public loading chain.
+
+## Post-Change Measurement
+
+Mobile Lighthouse:
+
+- Performance: 98
+- First Contentful Paint: 1.6 s
+- Largest Contentful Paint: 2.3 s
+- Total Blocking Time: 0 ms
+- Cumulative Layout Shift: 0
+- Speed Index: 1.6 s
+
+## Observable Improvement
+
+First Contentful Paint improved by:
+
+1.1 seconds.
+
+Largest Contentful Paint improved by:
+
+0.8 seconds.
+
+Speed Index improved by:
+
+1.1 seconds.
+
+Total Blocking Time remained:
+
+0 ms.
+
+Cumulative Layout Shift remained:
+
+0.
+
+## Production Interpretation
+
+Small files are not automatically:
+
+fast files.
+
+Dependency structure can matter more than:
+
+raw stylesheet size.
+
+A clean source architecture and an efficient delivery architecture do not need to be identical.
+
+## New Implementation Learning
+
+> Preserve modular source architecture while allowing production resources to be discovered as early and in parallel as practical.
+
+## Important Boundary
+
+This result demonstrates:
+
+technical production performance.
+
+It does not demonstrate:
+
+- increased reservations
+- improved guest satisfaction
+- increased conversion
+- improved business performance
+
+## Research Status Impact
+
+None.
+
+This remains:
+
+Track B production evidence.
