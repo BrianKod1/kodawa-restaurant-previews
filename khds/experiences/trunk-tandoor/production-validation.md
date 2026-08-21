@@ -30,12 +30,11 @@ Complete
 
 Production Build:
 
-In Progress
+Stable
 
 Production Validation:
 
-Active
-
+Phase 2 Checkpoint Complete
 ---
 
 # Purpose
@@ -2736,18 +2735,245 @@ Interaction Edge Cases ✅
 
 ↓
 
-Final Mobile + Desktop Review
+Final Mobile + Desktop Review ✅
 
 ↓
 
-Production Stabilisation
+Production Stabilisation ✅
 
-After those checks:
 
-this Phase 2 implementation can be evaluated for:
 
-first stable production-translation status.
+# Production Stabilisation
 
+## Status
+
+Active
+
+## Stabilisation Objective
+
+Confirm that the current Trunk & Tandoor build is stable enough to preserve as the first complete KHDS production translation.
+
+This stage does not introduce:
+
+- new sections
+- new visual concepts
+- new interaction patterns
+- speculative content
+- additional KHDS patterns
+
+Changes should now be limited to:
+
+- confirmed defects
+- broken behaviour
+- accessibility regressions
+- performance regressions
+- incorrect content
+- verified operational updates
+
+---
+
+# Stabilisation Checklist
+
+## Responsive Layout
+
+Status:
+
+Passed
+
+Desktop and mobile layouts have completed final visual review.
+
+No blocking responsive issue remains.
+
+---
+
+## Accessibility
+
+Status:
+
+Passed
+
+Accessibility review has been completed.
+
+Current Lighthouse Accessibility score:
+
+95
+
+Known interaction issues identified during production were corrected.
+
+---
+
+## Performance
+
+Status:
+
+Passed
+
+Current Mobile Lighthouse results:
+
+- Performance: 98
+- First Contentful Paint: 1.6 s
+- Largest Contentful Paint: 2.3 s
+- Total Blocking Time: 0 ms
+- Cumulative Layout Shift: 0
+- Speed Index: 1.6 s
+
+No further performance optimisation is currently required.
+
+---
+
+## Interaction Edge Cases
+
+Status:
+
+Passed
+
+Ten reservation interaction edge cases were tested successfully across desktop and mobile.
+
+---
+
+## Final Visual Review
+
+Status:
+
+Passed
+
+The complete experience was reviewed across desktop and physical mobile devices.
+
+No blocking visual issue remains.
+
+---
+
+# Known Non-Blocking Limitations
+
+## Reservation Infrastructure
+
+The current reservation experience remains:
+
+a prototype request flow.
+
+It uses:
+
+`mailto:`
+
+rather than:
+
+live reservation infrastructure.
+
+The recipient:
+
+`reservations@trunkandtandoor.com`
+
+remains unverified.
+
+This must be replaced or verified before real restaurant deployment.
+
+---
+
+## Tandoor Process Proof
+
+The current Food section uses:
+
+> From the tandoor to the table.
+
+The available imagery primarily proves:
+
+finished food.
+
+It does not directly prove:
+
+- fire
+- tandoor process
+- preparation
+- technique
+
+This remains:
+
+a known proof gap.
+
+It does not block:
+
+production stabilisation.
+
+---
+
+## Location Evidence
+
+The current Location section contains:
+
+- Lower Kabete Road
+- Nairobi, Kenya
+- reservation access
+
+Additional verified arrival information may improve the section later.
+
+No unverified information should be added.
+
+---
+
+# Stabilisation Decision
+
+The current Trunk & Tandoor build is suitable to preserve as:
+
+## First Stable KHDS Production Translation
+
+This classification means:
+
+KHDS research has been successfully translated into:
+
+- a coherent restaurant-specific experience
+- a responsive production implementation
+- an accessible interaction system
+- a performant front-end
+- a stable reservation-request prototype
+
+It does not mean:
+
+KHDS research itself is Validated.
+
+Trunk & Tandoor remains:
+
+Track B — Kodawa Labs Validation.
+
+---
+
+# Change Control From This Point
+
+Do not continue polishing the experience without a specific reason.
+
+Future changes should require one of:
+
+1. confirmed defect
+2. verified restaurant information
+3. operational integration
+4. new authentic evidence
+5. accessibility requirement
+6. measurable production issue
+
+Aesthetic preference alone should not reopen:
+
+the production design.
+
+---
+
+# Next KHDS Step
+
+Extract the production lessons from:
+
+Trunk & Tandoor
+
+into:
+
+the broader KHDS implementation knowledge base.
+
+Then continue:
+
+independent contradiction research
+
+without using:
+
+Trunk & Tandoor production success
+
+to increase research maturity.
 # Information Architecture Validation
 
 The approved Phase 2 architecture currently recommends:
