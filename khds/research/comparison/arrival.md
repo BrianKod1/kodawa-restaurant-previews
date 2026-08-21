@@ -1,59 +1,34 @@
 # KHDS Cross-Restaurant Comparison — Arrival
 
-## Research Status
+## Purpose
 
-Post-NARISAWA Arrival Comparison Complete
+Compare how independent restaurants introduce the hospitality experience.
 
-Independent Restaurant #10 Candidate Included
+This document asks:
 
-Global Governance Still Frozen
+> **What does the guest need to encounter first in order to understand, trust, and enter the experience?**
 
----
+Arrival is not treated as:
 
-# Purpose
+a hero-section convention.
 
-This document compares how the current independent restaurant set introduces:
+It is treated as:
 
-- meaning
-- confidence
-- fit
-- expectations
-- participation
-- commitment
-
-at the beginning of the digital hospitality journey.
-
-The goal is not to determine:
-
-one correct homepage sequence.
+the beginning of the guest relationship.
 
 The goal is to identify:
 
-which arrival behaviours survive across materially different hospitality models
-
-and
-
-where current KHDS patterns require:
-
-- stronger support
-- narrower boundaries
+- recurring arrival mechanisms
+- legitimate variation
 - contradiction
-- refinement
-- consolidation
-
-NARISAWA is included here as:
-
-Independent Restaurant #10 Candidate.
-
-Its evidence should not change:
-
-global governance
-
-until all five comparison files are complete.
+- boundary conditions
+- confidence-building strategies
+- participation implications
+- patterns that survive different hospitality models
 
 ---
 
-# Current Comparison Set
+# Current Independent Research Set
 
 1. Ankole
 2. Cultiva
@@ -65,395 +40,611 @@ until all five comparison files are complete.
 8. Franklin Barbecue
 9. Alinea
 10. NARISAWA
+11. Haidilao Toronto Downtown
 
 ---
 
-# Core Arrival Question
+# Current Arrival Models
 
-Across ten materially different restaurants:
+## Ankole
 
-> **What does the guest need to understand before participation becomes clear and credible?**
-
-The evidence increasingly suggests:
-
-there is no universal sequence.
-
-Different hospitality models require:
-
-different arrival architectures.
-
-The transferable question is:
-
-not
-
-“What should appear first?”
-
-It is:
-
-> **What meaning, confidence, fit, and expectation clarity are required before this specific guest can participate appropriately?**
-
----
-
-# Ten Arrival Models
-
----
-
-## 1. Ankole
-
-### Arrival Model
+### Arrival Type
 
 Place + Refinement
 
-### Primary Signals
+### Primary Mechanism
 
-- visual atmosphere
+Ankole introduces the restaurant through:
+
 - physical environment
-- refined positioning
-- direct access to participation
+- visual refinement
+- atmosphere
+- place
 
-### Guest Problem Solved
+The guest understands:
 
-What kind of place is this?
+where they are entering
 
-### Arrival Character
+before:
 
-Place-led
+the restaurant is reduced to practical information.
 
-visual
+### Main Contribution
 
-refined
+Place can create:
 
-comparatively direct.
+meaning
+
+and:
+
+confidence
+
+without requiring:
+
+heavy explicit narrative.
 
 ---
 
-## 2. Cultiva
+# Cultiva
 
-### Arrival Model
+### Arrival Type
 
 Worldview + Meaning
 
-### Primary Signals
+### Primary Mechanism
 
-- philosophy
+Cultiva introduces:
+
+a point of view
+
+around:
+
 - cultivation
+- sourcing
 - sustainability
-- emotional promise
-- food and environment
+- food
+- community
 
-### Guest Problem Solved
+before:
 
-Why does this restaurant matter?
+the experience becomes primarily:
 
-### Arrival Character
+transactional.
 
-Worldview-led
+### Main Contribution
 
-meaning-led
+A restaurant can establish:
 
-conceptually expressive.
+meaning
+
+through:
+
+worldview
+
+before:
+
+the guest evaluates:
+
+features.
 
 ---
 
-## 3. Talisman
+# Talisman
 
-### Arrival Model
+### Arrival Type
 
 Food + Heritage + Place
 
-### Primary Signals
+### Primary Mechanism
 
-- product desire
-- restaurant history
-- Karen setting
-- atmosphere
-- reservation access
+Talisman builds understanding in layers:
 
-### Guest Problem Solved
+Food
 
-What is this place
+↓
 
-and
+Heritage
 
-why should I trust its depth?
+↓
 
-### Arrival Character
+Place
 
-Layered
+↓
 
-heritage-led
+Atmosphere
 
-place-supported.
+↓
+
+Reservation
+
+The arrival uses:
+
+culinary desire
+
+historical credibility
+
+and:
+
+physical setting.
+
+### Main Contribution
+
+Arrival does not require:
+
+one dominant opening mechanism.
+
+Confidence may accumulate through:
+
+multiple connected layers.
 
 ---
 
-## 4. Mawimbi
+# Mawimbi
 
-### Arrival Model
+### Arrival Type
 
 Promise + Product + Atmosphere
 
-### Primary Signals
+### Primary Mechanism
 
-- aspiration
+Mawimbi introduces:
+
+an aspirational hospitality world
+
+through:
+
 - seafood
 - luxury
-- coastal escape
-- events
-- reservation
+- coastal references
+- social connection
+- ambience
 
-### Guest Problem Solved
+before:
 
-What kind of emotional and social experience am I entering?
+the complete practical offer is explained.
 
-### Arrival Character
+### Main Contribution
 
-Concept-led
+A strong promise may:
 
-aspirational
+precede complete proof
 
-experience-forward.
+provided that:
+
+the experience later supports:
+
+the promise.
 
 ---
 
-## 5. Bistro Lolo
+# Bistro Lolo
 
-### Arrival Model
+### Arrival Type
 
 Familiarity + Social Rhythm + Belonging
 
-### Primary Signals
+### Primary Mechanism
 
-- neighbourhood character
-- daily rhythm
-- people
+Bistro Lolo presents:
+
+an approachable neighbourhood experience
+
+through:
+
 - place
-- social atmosphere
+- familiarity
+- day-to-night rhythm
+- food
+- social use
+- belonging
 
-### Guest Problem Solved
+### Main Contribution
 
-Can I imagine myself using this place?
+Premium hospitality does not require:
 
-### Arrival Character
+distance
 
-human
+mystery
 
-social
+or:
 
-familiar
+formality.
 
-low-pressure.
+Arrival can create confidence through:
+
+recognition
+
+and:
+
+ease.
 
 ---
 
-## 6. FYN
+# FYN
 
-### Arrival Model
+### Arrival Type
 
 Authority + Structure + Evidence + Commitment
 
-### Primary Signals
+### Primary Mechanism
+
+FYN introduces:
 
 - culinary authority
-- tasting-menu structure
-- philosophy
+- experience structure
 - expectation clarity
-- reservation conditions
+- high-commitment participation
 
-### Guest Problem Solved
+The guest needs:
 
-What level of commitment does this experience require
+more than emotional orientation.
 
-and
+They also need:
 
-why is it worth it?
+confidence about:
 
-### Arrival Character
+what they are committing to.
 
-high-commitment
+### Main Contribution
 
-structured
+Higher-consequence hospitality may require:
 
-authority-led.
+expectation clarity
 
----
+before:
 
-## 7. Dishoom Covent Garden
-
-### Arrival Model
-
-Cultural Identity + Social Possibility + Participation Route
-
-### Primary Signals
-
-- cultural world
-- location-specific story
-- social atmosphere
-- walk-in participation
-- reservation alternatives
-
-### Guest Problem Solved
-
-What world am I entering
-
-and
-
-how can I participate?
-
-### Arrival Character
-
-immersive
-
-cultural
-
-social
-
-multi-route.
+commitment.
 
 ---
 
-## 8. Franklin Barbecue
+# Dishoom Covent Garden
 
-### Arrival Model
+### Arrival Type
 
-Product Expectation + Access Clarity
+Narrative World + Social Hospitality
 
-### Primary Signals
+### Primary Mechanism
 
-- barbecue
-- founder / craft authority
-- queue expectation
-- product availability
-- physical participation
+Dishoom creates:
 
-### Guest Problem Solved
+a coherent world
 
-How do I get the product
+through:
 
-and
+- language
+- cultural references
+- place
+- history
+- social use
+- food
 
-what should I expect?
+while still preserving:
 
-### Arrival Character
+practical participation routes.
 
-product-led
+### Main Contribution
 
-craft-led
+Narrative world-building can:
 
-operationally clear
+increase meaning
 
-comparatively simple.
+without:
 
----
-
-## 9. Alinea
-
-### Arrival Model
-
-Experience Differentiation + Fit + Commitment
-
-### Primary Signals
-
-- distinct experiences
-- different levels of access
-- compatibility
-- prepayment
-- structured participation
-
-### Guest Problem Solved
-
-Which experience fits me
-
-and
-
-what am I committing to?
-
-### Arrival Character
-
-high-commitment
-
-choice-led
-
-structured
-
-experience-specific.
+requiring functional ambiguity.
 
 ---
 
-## 10. NARISAWA
+# Franklin Barbecue
 
-### Arrival Model
+### Arrival Type
 
-Worldview + Omakase Expectation + Compatibility + Structured Uncertainty
+Product Authority + Participation Reality
 
-### Primary Signals
+### Primary Mechanism
 
-- Satoyama worldview
+Franklin creates confidence through:
+
+- product reputation
+- barbecue craft
+- queue expectations
+- physical participation model
+- practical arrival knowledge
+
+The guest is not shielded from:
+
+the reality of:
+
+how the restaurant works.
+
+### Main Contribution
+
+Operational truth can strengthen:
+
+rather than weaken:
+
+hospitality confidence.
+
+---
+
+# Alinea
+
+### Arrival Type
+
+Authorship + Experience Structure + Commitment
+
+### Primary Mechanism
+
+Alinea requires the guest to understand:
+
+- authorship
+- experience format
+- commitment
+- participation conditions
+
+before:
+
+the reservation can be treated as:
+
+a simple transactional action.
+
+### Main Contribution
+
+High-commitment hospitality may require:
+
+fit
+
+compatibility
+
+and:
+
+expectation clarity
+
+before:
+
+participation.
+
+---
+
+# NARISAWA
+
+### Arrival Type
+
+Philosophy + Ecology + Culinary Authorship
+
+### Primary Mechanism
+
+NARISAWA introduces:
+
+meaning
+
+through:
+
+- ecology
 - culinary philosophy
-- omakase format
-- eligibility
-- dietary compatibility
-- reservation release structure
-- partial product uncertainty
+- nature
+- authorship
+- Japanese landscape and culture
 
-### Guest Problem Solved
+The restaurant is understood as:
 
-Do I understand the philosophy and format well enough
+more than:
 
-and
+a dining product.
 
-does this experience fit me?
+### Main Contribution
 
-### Arrival Character
+A deeply authored worldview can:
 
-worldview-led
+organise arrival
 
-single-primary-intent
+when:
 
-high-commitment
+that worldview materially explains:
 
-structured
-
-selectively revealing.
+the experience.
 
 ---
 
-# First Major Comparison Finding
+# Haidilao Toronto Downtown
 
-## There Is No Universal Arrival Sequence
+### Arrival Type
 
-The ten restaurants now produce:
+Service + Product Ritual + System + Participation
 
-ten meaningfully different arrival structures.
+### Primary Mechanism
 
-The sequence may begin with:
+Haidilao introduces:
+
+- the brand
+- hot pot
+- service philosophy
+- guest participation
+- locations
+- reservation
+- membership
+- practical access
+
+without requiring:
+
+a long editorial sequence
+
+before:
+
+utility becomes available.
+
+### Main Contribution
+
+Meaning
+
+and:
+
+utility
+
+can develop:
+
+in parallel.
+
+Haidilao creates confidence through:
+
+service clarity
+
+product understanding
+
+participation education
+
+and:
+
+operational access.
+
+---
+
+# Cross-Restaurant Comparison
+
+The eleven restaurants now demonstrate that:
+
+arrival
+
+does not have:
+
+one correct content order.
+
+The opening mechanism changes according to:
+
+- hospitality model
+- guest uncertainty
+- commitment level
+- brand meaning
+- product familiarity
+- participation complexity
+- operating model
+
+Observed mechanisms include:
 
 - place
 - worldview
+- heritage
 - food
 - promise
 - belonging
+- authorship
 - authority
-- culture
-- product
-- experience choice
-- philosophy
+- operational truth
+- service
+- ritual
+- participation
+- practical access
 
-This further rejects:
+The transferable behaviour is therefore not:
 
-a universal component order.
+one fixed sequence.
 
-The stronger transferable question is:
+It is:
 
-> **What does the guest need before the next meaningful decision?**
+the deliberate reduction of the uncertainty that matters most
+
+while establishing enough meaning
+
+for:
+
+the guest to continue.
 
 ---
 
-# Current Arrival Architecture
+# Working Arrival Architecture Before Haidilao
 
-The evidence now supports a more mature working model.
+The current comparison had moved toward:
 
-## General Model
+Meaning
+
+↓
+
+Confidence
+
+↓
+
+Participation
+
+For higher-commitment hospitality:
+
+Meaning
+
+↓
+
+Confidence
+
+↓
+
+Expectation Clarity
+
+↓
+
+Commitment
+
+↓
+
+Participation
+
+This remains useful.
+
+However:
+
+Haidilao shows that:
+
+the sequence may not always be:
+
+strictly linear.
+
+---
+
+# Haidilao Contradiction
+
+Haidilao makes:
+
+- location access
+- reservation
+- membership
+- product information
+- service information
+
+available:
+
+early.
+
+Yet:
+
+the hospitality proposition remains:
+
+understandable.
+
+This challenges any assumption that:
+
+meaning must always be:
+
+fully established
+
+before:
+
+utility appears.
+
+The stronger interpretation is:
+
+meaning
+
+confidence
+
+and:
+
+participation understanding
+
+may sometimes develop:
+
+simultaneously.
+
+---
+
+# Proposed Refined Arrival Architecture
+
+A more flexible working model is:
 
 Guest Intent
 
@@ -465,1735 +656,21 @@ Primary Uncertainty
 
 Relevant Meaning
 
-↓
++
+
+Relevant Utility
+
++
 
 Relevant Evidence
 
 ↓
 
-Fit / Expectation Clarity Where Needed
+Confidence
 
 ↓
 
 Participation Understanding
-
-↓
-
-Relevant Commitment
-
-↓
-
-Participation
-
----
-
-# Low-Commitment Version
-
-For lower-consequence hospitality:
-
-Meaning
-
-↓
-
-Confidence
-
-↓
-
-Participation
-
-Examples may include:
-
-- Bistro Lolo
-- Ankole
-- some Dishoom use cases
-- some Franklin use cases
-
----
-
-# Higher-Commitment Version
-
-For higher-consequence hospitality:
-
-Meaning
-
-↓
-
-Confidence
-
-↓
-
-Fit
-
-↓
-
-Expectation Clarity
-
-↓
-
-Relevant Commitment
-
-↓
-
-Participation
-
-Examples:
-
-- FYN
-- Alinea
-- NARISAWA
-
----
-
-# Important NARISAWA Refinement
-
-NARISAWA suggests:
-
-higher commitment does not require:
-
-maximum disclosure.
-
-It requires:
-
-decision-relevant clarity.
-
-This gives arrival architecture an important distinction:
-
-## Information Quantity
-
-How much information is shown?
-
-versus
-
-## Decision Quality
-
-Does the guest understand:
-
-- what kind of experience this is
-- whether it fits them
-- what they must commit to
-- what remains intentionally or authentically uncertain?
-
-This is one of the strongest post-NARISAWA refinements.
-
----
-
-# Pattern Stress Test — Emotion Before Interface
-
-## Current Status
-
-Emerging
-
-## Current Confidence
-
-High
-
-### Support Across Cases
-
-Strong or meaningful support:
-
-- Ankole
-- Cultiva
-- Talisman
-- Mawimbi
-- Bistro Lolo
-- FYN
-- Dishoom
-- Alinea
-- NARISAWA
-
-Franklin provides:
-
-a more product-direct boundary case.
-
-### NARISAWA Contribution
-
-NARISAWA shows:
-
-emotional orientation can come from:
-
-ecological
-
-cultural
-
-and
-
-philosophical meaning
-
-rather than:
-
-luxury language
-
-or
-
-visual spectacle.
-
-### Comparison Outcome
-
-Strongly Supported.
-
-### Governance Recommendation
-
-No change.
-
----
-
-# Pattern Stress Test — Story Before Features
-
-## Current Status
-
-Emerging
-
-## Current Confidence
-
-High
-
-### Strong Support
-
-- Cultiva
-- Talisman
-- Mawimbi
-- FYN
-- Dishoom
-- Alinea
-- NARISAWA
-
-### Supporting / Contextual
-
-- Ankole
-- Bistro Lolo
-
-### Boundary Pressure
-
-Franklin
-
-where product and access clarity carry more of the arrival burden.
-
-### NARISAWA Contribution
-
-NARISAWA gives:
-
-one of the strongest worldview-first cases.
-
-### Comparison Outcome
-
-Very Strongly Supported.
-
-### Governance Recommendation
-
-No maturity change.
-
----
-
-# Pattern Stress Test — Promise Before Proof
-
-## Current Status
-
-Emerging
-
-## Current Confidence
-
-Medium-High
-
-### Strong Evidence
-
-- Cultiva
-- Mawimbi
-- Alinea
-- NARISAWA
-
-### Partial / Supporting
-
-- Ankole
-- FYN
-
-### Boundary
-
-Franklin can lead more directly with:
-
-product expectation.
-
-### NARISAWA Contribution
-
-Philosophical promise precedes:
-
-complete product
-
-process
-
-or
-
-system proof.
-
-### Comparison Outcome
-
-Strongly Supported.
-
-### Governance Recommendation
-
-Retain:
-
-Emerging / Medium-High
-
-pending proof comparison.
-
----
-
-# Pattern Stress Test — Layered Arrival
-
-## Current Status
-
-Emerging
-
-## Current Confidence
-
-High
-
-### Strong Evidence
-
-- Talisman
-- Mawimbi
-- FYN
-- Alinea
-- NARISAWA
-
-### Supporting
-
-- Ankole
-- Cultiva
-- Dishoom
-
-### Boundary
-
-Franklin shows:
-
-arrival can remain comparatively simple.
-
-### NARISAWA Contribution
-
-Adds:
-
-Worldview
-
-↓
-
-Format
-
-↓
-
-Compatibility
-
-↓
-
-Commitment
-
-as another valid layered architecture.
-
-### Important Boundary
-
-Layered Arrival does not mean:
-
-every guest must consume every layer.
-
-Guests may enter:
-
-with different existing knowledge.
-
-### Comparison Outcome
-
-Very Strongly Supported.
-
-### Governance Recommendation
-
-No maturity change.
-
----
-
-# Pattern Stress Test — Multi-Intent Hospitality
-
-## Current Status
-
-Emerging
-
-## Current Confidence
-
-High
-
-### Strong Positive Evidence
-
-- Dishoom
-- Bistro Lolo
-- Mawimbi
-- Alinea
-
-### Supporting
-
-- Ankole
-- Talisman
-- Franklin
-
-### Strong Boundary Evidence
-
-- FYN
-- NARISAWA
-
-### NARISAWA Contribution
-
-NARISAWA has:
-
-one primary hospitality intent
-
-but
-
-meaningful participation conditions.
-
-### Current Conclusion
-
-Multi-Intent Hospitality remains:
-
-useful
-
-because its definition already states:
-
-materially different intents should receive proportionate routes
-
-without manufacturing complexity.
-
-### Important New Distinction
-
-Multi-Intent Hospitality
-
-≠
-
-Every Restaurant Needs Multiple Routes.
-
-### Comparison Outcome
-
-Strongly Supported Through Positive and Boundary Evidence.
-
-### Governance Recommendation
-
-No change.
-
----
-
-# Pattern Stress Test — Commitment Without Pressure
-
-## Current Status
-
-Emerging
-
-## Current Confidence
-
-High
-
-### Strong Evidence
-
-- FYN
-- Alinea
-- NARISAWA
-- Mawimbi
-- Talisman
-- Cultiva
-- Ankole
-
-### NARISAWA Contribution
-
-NARISAWA combines:
-
-- eligibility
-- reservation timing
-- format acceptance
-- financial commitment
-- incomplete product certainty
-
-without visible:
-
-manipulative urgency.
-
-### Comparison Outcome
-
-Very Strongly Supported.
-
-### Current Rule
-
-Relevant commitment can be:
-
-high
-
-provided it is:
-
-- visible
-- understandable
-- proportionate
-- non-manipulative
-
-### Governance Recommendation
-
-No change.
-
----
-
-# Pattern Stress Test — The Guest as Participant
-
-## Current Status
-
-Emerging
-
-## Current Confidence
-
-High
-
-### Participation Types Now Observed
-
-Across the research set:
-
-- spontaneous
-- social
-- physical
-- structured
-- choreographed
-- high-commitment
-- queue-based
-- experience-selected
-- format-trusting
-
-### NARISAWA Contribution
-
-The guest participates by:
-
-accepting:
-
-- omakase
-- eligibility
-- compatibility
-- structured uncertainty
-
-### Comparison Outcome
-
-Very Strongly Supported.
-
-### Important Boundary
-
-Participation does not require:
-
-maximum freedom.
-
-### Governance Recommendation
-
-No change.
-
----
-
-# Pattern Stress Test — Story Through Place
-
-## Current Status
-
-Emerging
-
-## Current Confidence
-
-High
-
-### Forms of Place Now Observed
-
-## Immediate Physical Place
-
-Ankole
-
-Talisman
-
-Bistro Lolo
-
-## Cultural / Remembered Place
-
-Dishoom
-
-## Ecological / Culinary Place
-
-FYN
-
-NARISAWA
-
-### NARISAWA Contribution
-
-NARISAWA strongly supports:
-
-ecological
-
-cultural
-
-and
-
-culinary place.
-
-### Current Conclusion
-
-Place remains useful when:
-
-it materially explains:
-
-the hospitality experience.
-
-### Comparison Outcome
-
-Very Strongly Supported.
-
-### Governance Recommendation
-
-No change.
-
----
-
-# Pattern Stress Test — Narrative Coherence Through Organising Logic
-
-## Current Status
-
-Emerging
-
-## Current Confidence
-
-High
-
-### Strong Evidence
-
-- Cultiva
-- Mawimbi
-- FYN
-- Dishoom
-- Franklin
-- Alinea
-- NARISAWA
-
-### NARISAWA Contribution
-
-Satoyama worldview connects:
-
-- ecological place
-- cultural memory
-- seasonality
-- chef authorship
-- cuisine
-- participation
-
-### Comparison Outcome
-
-Very Strongly Supported.
-
-### Governance Recommendation
-
-No change.
-
----
-
-# Pattern Stress Test — Biography When It Explains the Experience
-
-## Current Status
-
-Candidate
-
-## Current Confidence
-
-High
-
-### Strong Positive Evidence
-
-- Bistro Lolo
-- FYN
-- Franklin
-- Alinea
-- NARISAWA
-
-### Boundary / Supporting Evidence
-
-- Cultiva
-- Dishoom
-- Mawimbi
-
-### NARISAWA Contribution
-
-Chef Yoshihiro Narisawa matters because:
-
-he translates:
-
-worldview
-
-into:
-
-cuisine.
-
-But:
-
-biography does not need to dominate:
-
-arrival.
-
-### Comparison Outcome
-
-Very Strongly Supported.
-
-### Governance Recommendation
-
-Retain:
-
-Candidate / High.
-
-No promotion yet.
-
----
-
-# Pattern Stress Test — Narrative Language Within Clear Interface
-
-## Current Status
-
-Candidate
-
-## Current Confidence
-
-High
-
-### Strong Evidence
-
-- Dishoom
-- Alinea
-- NARISAWA
-
-### Supporting Evidence
-
-- Cultiva
-- Mawimbi
-- FYN
-
-### NARISAWA Contribution
-
-Highly specialised philosophical language coexists with:
-
-plain functional navigation.
-
-### Comparison Outcome
-
-Very Strongly Supported.
-
-### Governance Recommendation
-
-Retain:
-
-Candidate / High.
-
----
-
-# Arrival Pressure — Atmosphere Through Worldview
-
-## Current Status
-
-Candidate / Under Review
-
-## Current Confidence
-
-Medium
-
-Arrival cannot determine:
-
-atmosphere maturity
-
-by itself.
-
-But NARISAWA provides:
-
-strong story and arrival support
-
-for worldview as:
-
-organising logic.
-
-### Positive Arrival Evidence
-
-- Cultiva
-- FYN
-- Dishoom
-- NARISAWA
-
-### Boundary / Contradiction Cases
-
-- Franklin
-- Alinea
-
-### Current Interpretation
-
-NARISAWA does not prove:
-
-worldview is necessary.
-
-It strengthens the narrower claim:
-
-worldview can:
-
-materially organise:
-
-arrival meaning.
-
-### Governance Recommendation
-
-Reserve confidence decision for:
-
-atmosphere comparison.
-
----
-
-# Strong Below-Candidate Direction — Consequence-Proportionate Clarity
-
-## Current Status
-
-Observed Research Direction
-
-## Current Confidence
-
-Medium-High
-
-### Prior Strong Evidence
-
-- FYN
-- Alinea
-
-### NARISAWA Contribution
-
-Very Strong.
-
-NARISAWA provides:
-
-- age eligibility
-- party requirement
-- dietary compatibility
-- release timing
-- omakase format
-- price
-
-without:
-
-complete future menu disclosure.
-
-### Emerging Rule
-
-> **Higher-consequence hospitality requires greater decision-relevant clarity, not greater information volume.**
-
-### Comparison Significance
-
-Very High.
-
----
-
-# Is Consequence-Proportionate Clarity Ready for Candidate?
-
-Possibly.
-
-But promotion may create:
-
-duplication.
-
-The behaviour may already live inside:
-
-- Layered Arrival
-- Commitment Without Pressure
-- Participation Architecture
-
-### Current Governance Recommendation
-
-Do not promote yet.
-
-Classify after:
-
-reservation comparison.
-
----
-
-# Strong Architecture Variable — Compatibility Before Commitment
-
-## Current Status
-
-Participation Architecture Variable
-
-### Strong Evidence
-
-- Alinea
-- NARISAWA
-
-### Supporting Logic
-
-- FYN
-
-### NARISAWA Contribution
-
-Compatibility includes:
-
-- dietary needs
-- allergies
-- age
-- party structure
-- format fit
-
-### Comparison Outcome
-
-Very Strongly Strengthened.
-
-### Governance Recommendation
-
-Compatibility should likely become:
-
-explicit canonical Participation Architecture
-
-after full comparison.
-
-It should not become:
-
-a standalone Candidate pattern.
-
----
-
-# New Distinction — Eligibility vs Accommodation
-
-NARISAWA exposes:
-
-two different forms of fit.
-
-## Eligibility
-
-Can the guest:
-
-participate at all?
-
-Examples:
-
-- age
-- party structure
-
-## Accommodation
-
-Can the experience:
-
-adapt to the guest?
-
-Examples:
-
-- dietary restrictions
-- allergies
-
-### Current Status
-
-Architecture distinction.
-
-### Governance Recommendation
-
-Preserve.
-
-Do not promote.
-
----
-
-# Strong Direction — Selective Reveal
-
-## Current Status
-
-Observed Research Direction
-
-## Previous Promotion Watch
-
-Medium-High
-
-### Strong Evidence
-
-## Alinea
-
-Designed mystery / discovery.
-
-## NARISAWA
-
-Authentic variability / omakase seasonality.
-
-### NARISAWA Contribution
-
-Very Strong.
-
-This is the first comparison where:
-
-Selective Reveal
-
-survives through:
-
-two materially different reasons.
-
-### Emerging Distinction
-
-Designed Mystery
-
-versus
-
-Authentic Variability.
-
----
-
-# Designed Mystery vs Authentic Variability
-
-## Designed Mystery
-
-Information is intentionally preserved because:
-
-surprise
-
-discovery
-
-or
-
-experience sequence
-
-has value.
-
-Strongest example:
-
-Alinea.
-
-## Authentic Variability
-
-Exact details remain unresolved because:
-
-the product genuinely changes.
-
-Strongest example:
-
-NARISAWA.
-
-### Current Interpretation
-
-Both may justify:
-
-selective disclosure
-
-but they should not be:
-
-treated as identical mechanisms.
-
----
-
-# Is Selective Reveal Ready for Candidate?
-
-Not yet.
-
-The evidence is now:
-
-high quality
-
-but concentrated in:
-
-high-commitment fine dining.
-
-### Governance Recommendation
-
-Promotion Watch:
-
-increase from:
-
-Medium-High
-
-to:
-
-Very Strong
-
-after full NARISAWA reconciliation
-
-if:
-
-photography
-
-reservation
-
-and
-
-story comparisons remain aligned.
-
-Need at least:
-
-one discovery-dependent
-
-or
-
-genuinely variable case
-
-outside:
-
-high-commitment tasting-menu hospitality.
-
----
-
-# New Direction — Omakase as Structured Uncertainty
-
-## Current Status
-
-Observed Research Direction
-
-### NARISAWA Evidence
-
-Very Strong.
-
-### Working Logic
-
-Known Format
-
-+
-
-Known Commitment
-
-+
-
-Known Boundaries
-
-+
-
-Unknown Exact Product
-
-↓
-
-Structured Uncertainty
-
-### Current Interpretation
-
-This is likely:
-
-model-specific
-
-rather than:
-
-general pattern.
-
-### Governance Recommendation
-
-Keep below Candidate.
-
-Potentially consolidate into:
-
-Selective Reveal
-
-+
-
-Participation Architecture.
-
----
-
-# New Architecture Variable — Experience Certainty vs Product Certainty
-
-NARISAWA provides:
-
-a very useful distinction.
-
-## Experience Certainty
-
-The guest understands:
-
-what kind of hospitality format they are choosing.
-
-## Product Certainty
-
-The guest knows:
-
-the exact items they will receive.
-
-### NARISAWA
-
-High Experience Certainty
-
-Lower Exact Product Certainty
-
-### Franklin
-
-Can create:
-
-high product certainty
-
-through advance product selection.
-
-### Alinea
-
-High experience certainty
-
-with:
-
-discovery-dependent detail.
-
-### Current Status
-
-Participation Architecture Variable.
-
-### Governance Recommendation
-
-Preserve.
-
----
-
-# Arrival Implication — Information Quantity vs Decision Quality
-
-This comparison now suggests:
-
-a stronger arrival principle.
-
-A guest does not necessarily need:
-
-more information.
-
-The guest needs:
-
-the right information.
-
-### Weak Model
-
-High Commitment
-
-↓
-
-Add More Content
-
-### Stronger Model
-
-High Commitment
-
-↓
-
-Identify Decision Consequences
-
-↓
-
-Provide Relevant Clarity
-
-↓
-
-Preserve Legitimate Unknowns
-
-↓
-
-Commitment
-
-This is a major NARISAWA contribution.
-
----
-
-# Arrival Implication — Intent Complexity vs Participation Complexity
-
-NARISAWA gives:
-
-low intent complexity.
-
-The guest primarily wants:
-
-one thing.
-
-Dine at NARISAWA.
-
-But successful participation still depends on:
-
-- eligibility
-- compatibility
-- availability
-- format acceptance
-
-### Current Distinction
-
-Intent Complexity
-
-≠
-
-Participation Complexity.
-
-### Comparison Value
-
-High.
-
-This prevents:
-
-Multi-Intent Hospitality
-
-from becoming:
-
-the explanation for:
-
-all participation complexity.
-
----
-
-# Arrival Implication — Choice Complexity vs Condition Complexity
-
-## Alinea
-
-Complexity comes partly from:
-
-multiple experience choices.
-
-## NARISAWA
-
-Complexity comes largely from:
-
-conditions attached to:
-
-one primary experience.
-
-### Current Distinction
-
-## Choice Complexity
-
-Which hospitality product do I select?
-
-versus
-
-## Condition Complexity
-
-What conditions determine whether:
-
-I can participate?
-
-### Status
-
-Participation Architecture Distinction.
-
----
-
-# Arrival Implication — One Route Can Still Be Sophisticated
-
-NARISAWA provides:
-
-strong evidence that:
-
-hospitality sophistication
-
-does not require:
-
-multiple booking journeys.
-
-The better rule is:
-
-> **Create the number of participation routes required by materially different guest intents — no more.**
-
-This is fully aligned with:
-
-Multi-Intent Hospitality.
-
----
-
-# Arrival Implication — Worldview Can Lead Without Making Interface Complex
-
-NARISAWA strongly supports:
-
-a useful division:
-
-## Narrative Layer
-
-Can be:
-
-specialised
-
-cultural
-
-philosophical.
-
-## Functional Layer
-
-Can remain:
-
-plain
-
-clear
-
-predictable.
-
-This strengthens:
-
-Narrative Language Within Clear Interface.
-
----
-
-# Arrival Implication — Place Can Be Ecological
-
-Across the ten restaurants:
-
-place now includes:
-
-- physical setting
-- neighbourhood
-- history
-- cultural memory
-- ecology
-- ingredient geography
-
-NARISAWA strengthens:
-
-ecological / cultural place.
-
-### Current Boundary
-
-Place should only receive:
-
-narrative weight
-
-when it:
-
-materially explains:
-
-the experience.
-
----
-
-# Arrival Implication — Trust Is Potentially Important but Not Observable
-
-NARISAWA requires:
-
-acceptance of:
-
-chef-led uncertainty.
-
-Alinea requires:
-
-confidence in:
-
-a high-commitment experiential format.
-
-Franklin may require:
-
-confidence in:
-
-product reputation.
-
-### Research Question
-
-Does reputation
-
-authority
-
-or
-
-story
-
-reduce the amount of product certainty guests need?
-
-### Evidence Status
-
-Not Observable from website evidence alone.
-
-### Governance
-
-Do not create:
-
-Trust
-
-as pattern.
-
----
-
-# Arrival Contradictions Preserved
-
----
-
-## Meaning vs Speed
-
-Some restaurants:
-
-build meaning first.
-
-Others:
-
-move quickly toward product or access.
-
-No universal winner.
-
----
-
-## Single Route vs Multiple Routes
-
-Alinea / Dishoom:
-
-multiple meaningful routes.
-
-NARISAWA:
-
-one primary route.
-
-Both can be coherent.
-
----
-
-## Product Certainty vs Experience Certainty
-
-Franklin and NARISAWA create:
-
-opposite certainty profiles.
-
----
-
-## Story Density vs Functional Simplicity
-
-NARISAWA:
-
-deep concept
-
-simple interface.
-
-Dishoom:
-
-deep story
-
-richer world-building.
-
-Both can remain clear.
-
----
-
-## Worldview vs Product
-
-NARISAWA:
-
-worldview-led.
-
-Franklin:
-
-product/craft-led.
-
-Both can create:
-
-strong arrival.
-
----
-
-## Complete Disclosure vs Selective Reveal
-
-Franklin may benefit from:
-
-clear product expectation.
-
-Alinea and NARISAWA preserve:
-
-more unknown detail.
-
----
-
-## Low Friction vs Meaningful Constraint
-
-FYN
-
-Alinea
-
-NARISAWA
-
-all demonstrate:
-
-constraints may be legitimate when:
-
-relevant
-
-visible
-
-and
-
-understandable.
-
----
-
-# Current Arrival Pattern Matrix
-
-| Restaurant | Primary Arrival Logic | Commitment | Main Confidence Mechanism | Key Boundary |
-|---|---|---:|---|---|
-| Ankole | Place + Refinement | Low–Medium | Atmosphere + Place | Arrival need not be story-heavy |
-| Cultiva | Worldview + Meaning | Medium | Philosophy + System | Worldview needs translation |
-| Talisman | Food + Heritage + Place | Medium | Continuity + Place | Richness can challenge restraint |
-| Mawimbi | Promise + Product + Atmosphere | Medium | Aspiration + Atmosphere | Strong claims increase proof need |
-| Bistro Lolo | Familiarity + Belonging | Low–Medium | Social Use + Place | Premium need not mean ceremony |
-| FYN | Authority + Structure | High | Clarity + Authority | Constraint can be hospitable |
-| Dishoom | Cultural World + Participation | Variable | Cultural Meaning + Social Possibility | Walk-in can be primary |
-| Franklin | Product + Access | Variable | Craft + Product Expectation | Arrival can remain simple |
-| Alinea | Experience Choice + Fit | High | Experience Differentiation + Structure | Spontaneity may be intentionally limited |
-| NARISAWA | Worldview + Fit + Structured Uncertainty | High | Philosophy + Format + Compatibility | Complete product certainty is not required |
-
----
-
-# NARISAWA Arrival Governance Pressure
-
-NARISAWA creates:
-
-no immediate maturity promotion.
-
-It creates:
-
-strong pressure on:
-
-definitions
-
-architecture
-
-and
-
-promotion watches.
-
----
-
-# Recommended Post-Comparison Changes — Arrival Only
-
-These are:
-
-recommendations
-
-not yet official governance.
-
----
-
-## 1. Atmosphere Through Worldview
-
-No arrival-level maturity change.
-
-Carry strong positive pressure into:
-
-atmosphere comparison.
-
----
-
-## 2. Biography When It Explains the Experience
-
-Retain:
-
-Candidate / High.
-
-NARISAWA strengthens:
-
-the explanatory-value rule.
-
----
-
-## 3. Narrative Language Within Clear Interface
-
-Retain:
-
-Candidate / High.
-
-NARISAWA provides:
-
-very strong support.
-
----
-
-## 4. Selective Reveal
-
-Increase internal promotion pressure.
-
-Suggested future state if all comparisons agree:
-
-Observed Research Direction
-
-↓
-
-Very Strong Candidate Watch
-
-No Candidate promotion yet.
-
----
-
-## 5. Consequence-Proportionate Clarity
-
-Strong promotion pressure.
-
-But first determine:
-
-whether it is:
-
-a standalone Candidate
-
-or
-
-a mechanism inside:
-
-Layered Arrival
-
-and
-
-Commitment Without Pressure.
-
----
-
-## 6. Compatibility Before Commitment
-
-Move toward:
-
-explicit canonical Participation Architecture variable.
-
-Do not create:
-
-standalone Candidate.
-
----
-
-## 7. Experience Certainty vs Product Certainty
-
-Preserve as:
-
-Participation Architecture distinction.
-
----
-
-## 8. Omakase as Structured Uncertainty
-
-Preserve below Candidate.
-
-Likely:
-
-model-specific expression of:
-
-Selective Reveal
-
-+
-
-Commitment Architecture.
-
----
-
-## 9. Intent Complexity vs Participation Complexity
-
-Preserve as:
-
-Participation Architecture distinction.
-
----
-
-## 10. Choice Complexity vs Condition Complexity
-
-Preserve as:
-
-Participation Architecture distinction.
-
----
-
-# Updated Provisional Arrival Architecture
-
-NARISAWA suggests the following more precise model:
-
-Guest Intent
-
-↓
-
-What Is the Guest Trying to Do?
-
-↓
-
-What Must the Guest Understand?
-
-↓
-
-What Must the Guest Believe?
-
-↓
-
-Does the Experience Fit the Guest?
-
-↓
-
-What Conditions Affect Participation?
-
-↓
-
-What Information Is Decision-Relevant?
-
-↓
-
-What May Legitimately Remain Unknown?
 
 ↓
 
@@ -2203,410 +680,1271 @@ Appropriate Commitment
 
 Participation
 
-This is:
+This should not be interpreted as:
 
-comparison-level research architecture.
+every element appearing:
 
-Not canonical governance yet.
+at once.
 
----
-
-# Shorter Arrival Architecture
-
-A more usable short form is:
+The point is:
 
 Meaning
 
+and:
+
+Utility
+
+do not need:
+
+a fixed universal order.
+
+Their sequencing should depend on:
+
+the guest problem.
+
+---
+
+# Higher-Commitment Variant
+
+When participation has:
+
+financial
+
+temporal
+
+behavioural
+
+or:
+
+experiential consequence:
+
+Guest Intent
+
 ↓
 
-Fit
+Primary Uncertainty
 
 ↓
 
-Relevant Clarity
+Relevant Meaning
+
++
+
+Relevant Evidence
 
 ↓
 
-Commitment
+Fit / Compatibility
+
+↓
+
+Expectation Clarity
+
+↓
+
+Commitment Understanding
 
 ↓
 
 Participation
 
-For lower-consequence experiences:
+Examples include:
 
-Fit
+- FYN
+- Alinea
+- NARISAWA
 
-and
+Haidilao demonstrates:
 
-commitment
+a different model
 
-may remain:
+where:
 
-light.
+access clarity
 
-For higher-consequence experiences:
+and:
 
-they become:
+participation understanding
 
-more explicit.
-
----
-
-# Possible Refinement to Layered Arrival
-
-Current definition:
-
-> Arrival should progressively establish the meaning, confidence, fit, expectations, and participation clarity required for the specific level of guest commitment.
-
-NARISAWA strongly supports:
-
-this definition.
-
-No rewrite is currently necessary.
-
-Instead:
-
-Consequence-Proportionate Clarity
-
-may function as:
-
-a supporting mechanism
-
-inside:
-
-Layered Arrival.
+may deserve earlier prominence.
 
 ---
 
-# Possible Refinement to Commitment Without Pressure
+# Pattern Review — Emotion Before Interface
 
-Current definition:
+## Current Status
 
-> Hospitality may require different levels of commitment when those requirements are relevant to the experience or operational consequence, provided they are proportionate, visible, understandable, and non-manipulative.
+Emerging
 
-NARISAWA strongly supports:
+## Evidence Across Set
 
-this definition.
+Supported through materially different mechanisms by:
 
-No change required.
+- Ankole
+- Cultiva
+- Talisman
+- Mawimbi
+- Bistro Lolo
+- FYN
+- Dishoom
+- Alinea
+- NARISAWA
 
----
+Haidilao introduces:
 
-# Possible Refinement to Multi-Intent Hospitality
+important boundary pressure.
 
-Current definition:
+## Haidilao Contradiction
 
-> Hospitality systems should recognise materially different guest intents and provide proportionate participation routes without manufacturing unnecessary complexity.
+Haidilao does not delay:
 
-NARISAWA strongly supports:
+useful functional access
 
-the boundary clause.
+until:
 
-No change required.
+an emotional sequence is complete.
 
----
+## Current Interpretation
 
-# Possible Refinement to Selective Reveal
+The pattern survives if:
 
-Current working direction is:
+Emotion Before Interface
 
-not yet canonical.
+means:
 
-NARISAWA suggests future wording should distinguish:
+> the interface should serve the hospitality meaning rather than flatten the restaurant into functions.
 
-information intentionally preserved for discovery
+It should not mean:
 
-from
+> hide utility until emotion has been established.
 
-information genuinely unresolved because:
+## Recommended Boundary
 
-the product changes.
+### Emotion Before Interface ≠ Emotion Before Utility
 
-Possible future definition:
+Functional information may appear:
 
-> **Hospitality communication may reveal enough information for informed commitment while preserving details whose value depends on discovery or whose exact form legitimately remains variable.**
+immediately
 
-Do not make official yet.
+when:
 
----
+it meaningfully serves:
 
-# Arrival Evidence Limitations
+the guest.
 
-The comparison can establish:
+## Current Governance Recommendation
 
-- public sequence
-- visible navigation
-- story emphasis
-- participation information
-- stated rules
-- booking routes
-- visible commitment conditions
-- public product framing
+Retain:
 
-It cannot establish:
+Emerging.
 
-- what guests actually notice first
-- what guests remember
-- conversion performance
-- whether guests feel confident
-- whether guests feel pressured
-- whether philosophy increases willingness to book
-- whether selective reveal creates anticipation
-- whether guests understand compatibility correctly
-- whether release timing creates scarcity perception
-- whether a specific homepage order performs better
+Do not promote.
 
-Those require:
+Refine:
 
-behavioural evidence.
+definition / implementation boundary
+
+during governance reconciliation.
 
 ---
 
-# Arrival Comparison Conclusion
+# Pattern Review — Story Before Features
 
-The ten-case comparison now makes one thing increasingly clear:
+## Current Status
 
-arrival is not:
+Emerging
 
-a hero section.
+## Evidence Across Set
 
-Arrival is:
+Strongly supported through:
 
-the process by which a guest becomes:
+- Cultiva
+- Talisman
+- Dishoom
+- FYN
+- Alinea
+- NARISAWA
 
-oriented enough
+with alternative expressions in:
 
-to participate appropriately.
+- Ankole
+- Mawimbi
+- Bistro Lolo
+- Franklin
 
-Different restaurants solve that problem differently.
+Haidilao creates:
 
-Ankole uses:
+major definition pressure.
 
-place.
+## Haidilao Contradiction
 
-Cultiva uses:
+Practical features are:
 
-worldview.
+visible early.
 
-Talisman uses:
+But:
 
-food
+meaning still exists through:
 
-heritage
+- service
+- ritual
+- participation
+- product
+- operating model
 
-and
+## Current Interpretation
 
-place.
+Story should be understood as:
 
-Mawimbi uses:
+meaning architecture
 
-promise
+not:
 
-product
+mandatory editorial sequencing.
 
-and
+## Recommended Boundary
 
-atmosphere.
+### Story Before Features ≠ Story Section Before Functions
 
-Bistro Lolo uses:
+A practical feature can appear:
 
-familiarity
+early
 
-social rhythm
+when:
 
-and
+its role still makes sense inside:
 
-belonging.
+the broader hospitality meaning.
 
-FYN uses:
+## Current Governance Recommendation
 
-authority
+Retain:
 
-structure
+Emerging.
 
-and
+Definition refinement likely required.
 
-expectation clarity.
+---
 
-Dishoom uses:
+# Pattern Review — Layered Arrival
 
-cultural world-building
+## Current Status
 
-and
+Emerging
 
-participation possibility.
+## Evidence
 
-Franklin uses:
+Strong examples include:
 
-product expectation
+- Talisman
+- Mawimbi
 
-and
+with broader support across:
 
-access clarity.
+- Ankole
+- Cultiva
+- Bistro Lolo
+- FYN
+- Dishoom
+- Alinea
+- NARISAWA
 
-Alinea uses:
+## Haidilao Contribution
 
-experience differentiation
+Haidilao adds:
 
-fit
+another form of layering:
 
-and
+Brand
 
-commitment.
+↓
 
-NARISAWA uses:
+Product
 
-worldview
+↓
 
-format
+Service
 
-compatibility
+↓
 
-and
+Participation Understanding
 
-structured uncertainty.
+↓
 
-The transferable rule is therefore not:
+Operational Access
 
-lead with emotion
+But:
 
-story
+these layers may overlap
 
-photography
+rather than unfold:
 
-or
+cinematically.
 
-booking
+## Interpretation
 
-in one universal order.
+Layered Arrival remains useful if:
 
-The stronger research architecture is:
+layered
 
-> **Establish the meaning, confidence, fit, and expectation clarity required for this guest to understand the relevant participation route and commitment.**
+means:
 
-NARISAWA adds an especially important refinement:
+confidence accumulates through:
 
-> **Decision-relevant clarity matters more than information volume.**
+multiple connected forms of information.
 
-The guest does not need:
+It should not imply:
 
-the entire future menu.
+slow sequential reveal.
 
-The guest does need:
+## Governance Recommendation
 
-enough understanding to know:
+Retain:
 
-what kind of experience this is
+Emerging.
 
-whether it fits
+Potential definition refinement:
 
-what commitment it requires
+layers may be:
 
-and
+sequential
 
-what remains legitimately unknown.
+or:
 
-That makes:
+concurrent.
 
-Structured Uncertainty
+---
 
-Selective Reveal
+# Pattern Review — Multi-Intent Hospitality
 
-Compatibility
+## Current Status
 
-and
+Emerging
 
-Consequence-Proportionate Clarity
+## Haidilao Evidence
 
-important post-NARISAWA research directions.
+Very strong.
 
-But arrival comparison alone does not justify:
+Guest intents include:
 
-new mature patterns.
+- find location
+- reserve
+- inspect cuisine
+- understand hot pot
+- contact restaurant
+- access membership
+- understand service
 
-The remaining four comparison files must determine:
+## Interpretation
 
-whether these ideas survive across:
+Haidilao demonstrates:
 
-atmosphere
+why one arrival pathway
 
-photography
+cannot serve:
+
+every guest.
+
+## Governance Recommendation
+
+Potential confidence increase.
+
+Do not promote maturity yet.
+
+---
+
+# Pattern Review — Commitment Without Pressure
+
+## Current Status
+
+Emerging
+
+## Haidilao Contribution
+
+Haidilao does not require:
+
+aggressive persuasion
+
+before:
+
+functional participation.
+
+Utility is:
+
+available.
+
+The guest can:
+
+act
+
+or:
+
+continue understanding the brand.
+
+## Boundary
+
+Natural demand
+
+or:
+
+queueing
+
+should not be confused with:
+
+manufactured scarcity.
+
+## Governance Recommendation
+
+Retain:
+
+Emerging.
+
+---
+
+# Finding 1 — Utility Can Participate in Arrival Meaning
+
+## Cross-Restaurant Evidence
+
+Several restaurants already use:
+
+practical information
+
+without:
+
+destroying atmosphere.
+
+Examples include:
+
+- Franklin
+- FYN
+- Alinea
+- Dishoom
+
+Haidilao makes the behaviour:
+
+especially visible.
+
+## Interpretation
+
+Utility should not be classified as:
+
+the opposite of:
+
+emotion.
+
+A useful function may:
+
+increase trust
+
+reduce uncertainty
+
+and:
+
+help the guest imagine successful participation.
+
+## Research Direction
+
+### Utility as Hospitality
+
+Current status:
+
+Observed Research Direction
+
+Strongest Evidence:
+
+Haidilao
+
+Partial Support:
+
+- Franklin
+- FYN
+- Alinea
+- Dishoom
+
+## Recommendation
+
+Do not promote yet.
+
+Compare:
 
 reservation
 
-and
+and:
 
-story.
+story
 
-Evidence wins.
-
----
-
-## Comparison Status
-
-NARISAWA Arrival Comparison Complete
-
-NARISAWA remains:
-
-Independent Restaurant #10 Candidate.
-
-Global governance remains frozen.
+evidence first.
 
 ---
 
-## Official Governance Still Unchanged
+# Finding 2 — Product Education Can Be Arrival Content
 
-Independent Restaurants:
+## Haidilao Evidence
 
-9
+Hot pot requires:
 
-Kodawa Labs Validation Concepts:
+guest knowledge.
 
-1
+The digital experience can explain:
 
-Emerging:
+- broth
+- sauce
+- cooking
+- meal progression
 
-18
+before:
 
-Candidate:
+arrival.
 
-9
+## Comparison
 
-Partially Supported:
+### FYN / Alinea
 
-1
+Pre-visit clarity explains:
 
-Validated:
+commitment conditions.
 
-0
+### Franklin
 
-Research-Derived KHDS Principles:
+Operational clarity explains:
 
-0
+queue participation.
 
-Existing Implementation Patterns Pending Formal Validation:
+### Haidilao
 
-1
+Product education explains:
 
-Opportunity Themes:
+what the guest must actually do.
 
-36
+## Interpretation
+
+Educational content can:
+
+increase hospitality confidence
+
+when:
+
+participation depends on:
+
+unfamiliar knowledge.
+
+## Research Direction
+
+### Explain the Ritual When Participation Requires Knowledge
+
+Current status:
+
+Observed
+
+Potentially transferable.
+
+Needs further:
+
+ritual-heavy restaurant research.
 
 ---
 
-## Next Step
+# Finding 3 — Arrival May Explain Behaviour, Not Just Identity
 
-Update:
+Previous research often asked:
 
-`khds/research/comparison/atmosphere.md`
+> What is this restaurant?
 
-Do not update:
+Haidilao adds:
 
-- `khds/research/validation/candidate-patterns.md`
-- `khds/patterns/registry.md`
-- `khds/research/validation/dashboard.md`
-- `khds/research/README.md`
-- `khds/research/validation/README.md`
+> What am I expected to do here?
 
-until all five NARISAWA comparison files are complete.
+That question becomes important when:
+
+the guest role
+
+is materially different from:
+
+ordinary dining.
+
+## Possible Arrival Question Set
+
+A strong arrival may need to answer:
+
+1. What is this place?
+2. Why does it matter?
+3. Is it right for me?
+4. What will happen?
+5. What am I expected to do?
+6. How do I participate?
+
+The weighting changes:
+
+by restaurant.
+
+---
+
+# Finding 4 — Arrival Architecture Depends on Familiarity
+
+## Observation
+
+A familiar restaurant format may need:
+
+less explanation.
+
+An unfamiliar format may require:
+
+education.
+
+## Examples
+
+### Standard neighbourhood dining
+
+The guest may already understand:
+
+the participation model.
+
+### Hot pot
+
+A first-time guest may need:
+
+ritual education.
+
+### Tasting menu
+
+The guest may need:
+
+commitment and expectation clarity.
+
+### Queue-led barbecue
+
+The guest may need:
+
+operational arrival knowledge.
+
+## Interpretation
+
+The guest's:
+
+prior knowledge
+
+may be an important arrival variable.
+
+## Research Direction
+
+### Familiarity as Arrival Variable
+
+Status:
+
+Observed Research Direction
+
+Confidence:
+
+Low
+
+Potential future question:
+
+> How much explanation does this guest need because of the restaurant model itself?
+
+---
+
+# Finding 5 — Scale Changes Arrival Architecture
+
+## Observation
+
+Haidilao must introduce:
+
+the brand
+
+and:
+
+help the guest locate:
+
+the relevant restaurant.
+
+## Comparison
+
+Most earlier cases are:
+
+single
+
+or:
+
+more location-specific experiences.
+
+Haidilao requires:
+
+Brand
+
+↓
+
+Location
+
+↓
+
+Participation.
+
+## Research Tension
+
+### Brand System Versus Location Specificity
+
+Arrival for:
+
+multi-location hospitality
+
+may require:
+
+two levels of meaning:
+
+### Brand Meaning
+
+What does:
+
+Haidilao
+
+represent?
+
+### Location Meaning
+
+What is:
+
+Toronto Downtown
+
+specifically like?
+
+## Current Evidence
+
+The current public ecosystem is:
+
+stronger at:
+
+brand-level meaning.
+
+Toronto-specific distinction is:
+
+more limited.
+
+## Status
+
+Observed Tension
+
+---
+
+# Cross-Restaurant Arrival Mechanisms
+
+The research set now demonstrates:
+
+## Place
+
+Strong in:
+
+- Ankole
+- Talisman
+- Bistro Lolo
+
+## Worldview / Philosophy
+
+Strong in:
+
+- Cultiva
+- NARISAWA
+- FYN
+
+## Product
+
+Strong in:
+
+- Franklin
+- Talisman
+- Mawimbi
+- Haidilao
+
+## Promise
+
+Strong in:
+
+- Mawimbi
+
+## Belonging / Familiarity
+
+Strong in:
+
+- Bistro Lolo
+- Dishoom
+
+## Heritage / Cultural Memory
+
+Strong in:
+
+- Talisman
+- Dishoom
+
+## Authorship / Authority
+
+Strong in:
+
+- FYN
+- Alinea
+- NARISAWA
+- Franklin
+
+## Operational Reality
+
+Strong in:
+
+- Franklin
+- Alinea
+- Haidilao
+
+## Service
+
+Strongest currently in:
+
+- Haidilao
+
+## Ritual / Participation Education
+
+Strongest currently in:
+
+- Haidilao
+
+---
+
+# Updated Arrival Principle
+
+The evidence no longer supports:
+
+a simplistic rule such as:
+
+Emotion
+
+↓
+
+Story
+
+↓
+
+Features
+
+↓
+
+Reserve
+
+Instead:
+
+arrival appears to be:
+
+an uncertainty-resolution architecture.
+
+A stronger working rule is:
+
+> **Introduce the hospitality experience through the combination of meaning, evidence, utility, and participation understanding that best resolves the guest's most important uncertainty.**
+
+This is:
+
+a working comparison conclusion.
+
+It is not yet:
+
+a promoted KHDS Principle.
+
+---
+
+# Arrival Variables
+
+Future arrival research should consider:
+
+## Guest Intent
+
+Why is the guest here?
+
+## Primary Uncertainty
+
+What is stopping confident progression?
+
+## Familiarity
+
+Does the guest understand:
+
+the restaurant format?
+
+## Commitment
+
+What must the guest risk:
+
+financially
+
+temporally
+
+or:
+
+experientially?
+
+## Meaning
+
+What makes the restaurant worth:
+
+continuing to explore?
+
+## Evidence
+
+What must be believed?
+
+## Utility
+
+What does the guest need:
+
+immediately?
+
+## Participation Understanding
+
+Does the guest know:
+
+what they must do?
+
+## Fit
+
+Does the guest understand:
+
+whether the experience suits them?
+
+## Location Structure
+
+Is this:
+
+one destination
+
+or:
+
+one location inside:
+
+a larger brand system?
+
+---
+
+# Updated Working Arrival Model
+
+Guest Intent
+
+↓
+
+Primary Uncertainty
+
+↓
+
+Hospitality Meaning
++
+Relevant Utility
++
+Relevant Evidence
++
+Participation Understanding
+
+↓
+
+Confidence
+
+↓
+
+Fit / Compatibility
+where required
+
+↓
+
+Expectation Clarity
+where required
+
+↓
+
+Appropriate Commitment
+
+↓
+
+Participation
+
+This is intentionally:
+
+conditional.
+
+Not every restaurant needs:
+
+every layer.
+
+---
+
+# Important Boundary — Parallel Versus Sequential Arrival
+
+The research previously risked assuming:
+
+good arrival
+
+is:
+
+progressive disclosure
+
+through:
+
+a controlled sequence.
+
+Haidilao demonstrates:
+
+another valid model.
+
+Some information may work:
+
+in parallel.
+
+For example:
+
+Meaning
+
++
+
+Location
+
++
+
+Reservation
+
++
+
+Product Education
+
+may all be:
+
+available
+
+without:
+
+destroying coherence.
+
+## Working Rule
+
+Sequence should follow:
+
+guest need
+
+not:
+
+editorial preference.
+
+---
+
+# Current Contradiction Summary
+
+Haidilao does not invalidate:
+
+the current arrival architecture.
+
+It removes:
+
+three overly narrow interpretations.
+
+## Correction 1
+
+Emotion Before Interface
+
+does not mean:
+
+Emotion Before Utility.
+
+## Correction 2
+
+Story Before Features
+
+does not mean:
+
+Editorial Story Before Functions.
+
+## Correction 3
+
+Layered Arrival
+
+does not require:
+
+slow sequential reveal.
+
+Layers may be:
+
+concurrent
+
+when:
+
+guest intent requires:
+
+fast access.
+
+---
+
+# Governance Recommendation From Arrival Comparison
+
+Do not:
+
+promote
+
+or:
+
+demote
+
+any pattern yet.
+
+Recommend later reconciliation of:
+
+### Emotion Before Interface
+
+Retain Emerging.
+
+Refine definition boundary.
+
+### Story Before Features
+
+Retain Emerging.
+
+Major definition refinement required.
+
+### Layered Arrival
+
+Retain Emerging.
+
+Clarify:
+
+sequential or concurrent layering.
+
+### Multi-Intent Hospitality
+
+Retain Emerging.
+
+Potential confidence increase.
+
+### Commitment Without Pressure
+
+Retain Emerging.
+
+Clarify:
+
+real scarcity versus artificial urgency.
+
+---
+
+# New Directions Worth Carrying Forward
+
+## Utility as Hospitality
+
+Status:
+
+Observed Research Direction
+
+## Explain the Ritual When Participation Requires Knowledge
+
+Status:
+
+Observed Research Direction
+
+## Familiarity as Arrival Variable
+
+Status:
+
+Observed Research Direction
+
+## Brand System Versus Location Specificity
+
+Status:
+
+Research Tension
+
+None should enter:
+
+Candidate governance
+
+from:
+
+arrival evidence alone.
+
+---
+
+# Haidilao Contribution
+
+Haidilao's largest contribution to:
+
+arrival research
+
+is:
+
+not a new page pattern.
+
+It is:
+
+a correction to the model.
+
+The current evidence now suggests:
+
+> **Arrival should resolve the right uncertainty, not obey a preferred storytelling sequence.**
+
+For one restaurant:
+
+that may require:
+
+emotion.
+
+For another:
+
+place.
+
+For another:
+
+authority.
+
+For another:
+
+operational truth.
+
+For Haidilao:
+
+it includes:
+
+service
+
+utility
+
+product education
+
+and:
+
+participation understanding.
+
+That is a stronger architecture because:
+
+it explains:
+
+variation
+
+instead of:
+
+forcing uniformity.
+
+---
+
+# Research Status
+
+Independent Restaurants Compared:
+
+11
+
+Latest Restaurant:
+
+Haidilao Toronto Downtown
+
+Haidilao Arrival Reconciliation:
+
+Complete
+
+Governance Changes:
+
+Pending Full Five-Dimension Reconciliation
+
+Pattern Promotions:
+
+None
+
+Pattern Demotions:
+
+None
+
+Next Comparison:
+
+Atmosphere

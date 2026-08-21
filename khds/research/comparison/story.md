@@ -1,63 +1,64 @@
 # KHDS Cross-Restaurant Comparison — Story
 
-## Research Status
+## Purpose
 
-Post-NARISAWA Story Comparison Complete
+Compare how independent restaurants create:
 
-Independent Restaurant #10 Candidate Included
+meaning
 
-All Five NARISAWA Comparison Files Complete
+identity
 
-Global Governance Ready for Reconciliation
+and:
 
----
+guest understanding.
 
-# Purpose
+This document asks:
 
-This document compares how the current independent restaurant set uses story to explain:
+> **What actually carries the story of a hospitality experience?**
 
-- identity
+Story should not be treated as:
+
+an About section.
+
+The current research shows that meaning may be carried through:
+
 - place
 - worldview
 - heritage
 - people
-- culture
-- craft
-- experience
-- authority
-- participation
+- culinary philosophy
+- authorship
+- product
+- service
+- ritual
+- social behaviour
+- operating model
+- cultural memory
 
-The goal is not to determine:
+Haidilao adds important pressure because:
 
-one correct restaurant story structure.
+its story is embedded heavily in:
 
-The goal is to determine:
+service
 
-what deserves narrative weight
+participation
 
-and
+and:
 
-why.
+how the hospitality model works.
 
-The central KHDS question is:
+The objective is to determine:
 
-> **What most meaningfully explains this hospitality experience?**
-
-NARISAWA is included here as:
-
-Independent Restaurant #10 Candidate.
-
-With this file complete:
-
-all five NARISAWA comparison files are now complete.
-
-Global governance may now move into:
-
-formal reconciliation.
+- which narrative mechanisms are transferable
+- which are context-specific
+- whether story requires editorial sequencing
+- when biography matters
+- when service or ritual can carry meaning
+- where story becomes an operational promise
 
 ---
 
-# Current Comparison Set
+# Current Independent Research Set
 
 1. Ankole
 2. Cultiva
@@ -69,3300 +70,2349 @@ formal reconciliation.
 8. Franklin Barbecue
 9. Alinea
 10. NARISAWA
+11. Haidilao Toronto Downtown
 
 ---
 
-# Ten Story Models
+# Current Story Models
 
----
+## Ankole
 
-## 1. Ankole
+### Story Type
 
-### Story Model
+Place-Led Meaning
 
-Place-Led Story
+### Primary Mechanism
 
-### Primary Narrative Subjects
+Ankole communicates identity through:
 
-- place
-- refinement
 - environment
-- restaurant identity
+- refinement
+- architecture
+- physical place
+- visual atmosphere
 
-### What Best Explains the Experience?
+The place itself performs:
 
-Place.
+substantial narrative work.
 
-### Narrative Character
+### Main Contribution
 
-spatial
+A hospitality brand does not always need:
 
-refined
+heavy explicit storytelling
 
-comparatively restrained.
+when:
+
+the environment already carries:
+
+meaning.
 
 ---
 
-## 2. Cultiva
+# Cultiva
 
-### Story Model
+### Story Type
 
-Worldview-Led Story
+Worldview-Led Narrative
 
-### Primary Narrative Subjects
+### Primary Mechanism
+
+Cultiva communicates meaning through:
 
 - cultivation
 - sustainability
 - sourcing
-- environment
+- community
+- food systems
+- nature
 - philosophy
 
-### What Best Explains the Experience?
+### Main Contribution
 
-Worldview.
+A strong worldview can:
 
-### Narrative Character
+organise:
 
-philosophical
+the restaurant story
 
-system-aware
+when:
 
-ecological.
-
----
-
-## 3. Talisman
-
-### Story Model
-
-Heritage-Led Story
-
-### Primary Narrative Subjects
-
-- history
-- place
-- continuity
-- house
-- accumulated character
-
-### What Best Explains the Experience?
-
-Institutional continuity
-
-+
-
-place.
-
-### Narrative Character
-
-historical
-
-layered
-
-established.
-
----
-
-## 4. Mawimbi
-
-### Story Model
-
-Concept-Led Story
-
-### Primary Narrative Subjects
-
-- seafood
-- escape
-- coastal world
-- luxury
-- occasion
-
-### What Best Explains the Experience?
-
-Concept.
-
-### Narrative Character
-
-aspirational
-
-experience-forward
-
-environmental.
-
----
-
-## 5. Bistro Lolo
-
-### Story Model
-
-People + Place Story
-
-### Primary Narrative Subjects
-
-- founders / people
-- neighbourhood
-- social rhythm
-- belonging
-- everyday use
-
-### What Best Explains the Experience?
-
-People
-
-+
-
-place.
-
-### Narrative Character
-
-human
-
-social
-
-local.
-
----
-
-## 6. FYN
-
-### Story Model
-
-Culinary Philosophy + Authorship
-
-### Primary Narrative Subjects
-
-- chef authorship
-- culinary philosophy
-- cultural synthesis
-- precision
-- authority
-
-### What Best Explains the Experience?
-
-Culinary philosophy
-
-+
-
-authorship.
-
-### Narrative Character
-
-authorial
-
-philosophical
-
-high-commitment.
-
----
-
-## 7. Dishoom Covent Garden
-
-### Story Model
-
-Cultural Memory + Founding Myth + Location-Specific World-Building
-
-### Primary Narrative Subjects
-
-- cultural memory
-- fictionalised / designed historical framing
-- place
-- social life
-- founding story
-
-### What Best Explains the Experience?
-
-Cultural world.
-
-### Narrative Character
-
-immersive
-
-cultural
-
-story-rich.
-
----
-
-## 8. Franklin Barbecue
-
-### Story Model
-
-Founder + Craft-Led Story
-
-### Primary Narrative Subjects
-
-- founder
-- barbecue craft
-- product
-- method
-- authority
-
-### What Best Explains the Experience?
-
-Founder
-
-+
-
-craft.
-
-### Narrative Character
-
-direct
-
-craft-led
-
-personal.
-
----
-
-## 9. Alinea
-
-### Story Model
-
-Experience + Innovation + Authority Story
-
-### Primary Narrative Subjects
-
-- experience design
-- experimentation
-- creative method
-- authority
-- team authorship
-
-### What Best Explains the Experience?
-
-Experience architecture.
-
-### Narrative Character
-
-innovative
-
-experience-led
-
-authority-supported.
-
----
-
-## 10. NARISAWA
-
-### Story Model
-
-Worldview + Cultural Memory + Chef Translation
-
-### Primary Narrative Subjects
-
-- Satoyama worldview
-- ecological and cultural place
-- inherited culinary knowledge
-- seasonality
-- chef authorship
-- contemporary interpretation
-
-### What Best Explains the Experience?
-
-Worldview
-
-translated through:
-
-chef
-
-seasonality
-
-and
-
-cuisine.
-
-### Narrative Character
-
-philosophical
-
-ecological
-
-authorial
-
-culturally grounded.
-
----
-
-# First Major Comparison Finding
-
-## There Is No Universal Story Hero
-
-Across ten restaurants:
-
-the strongest explanatory subject may be:
-
-- place
-- worldview
-- heritage
-- concept
-- people
-- chef
-- culture
-- craft
-- experience architecture
-
-The research therefore strongly rejects:
-
-fixed narrative hierarchy.
-
-The transferable question is:
-
-> **What most meaningfully explains why this hospitality experience is what it is?**
-
----
-
-# Pattern Stress Test — Story Before Features
-
-## Current Status
-
-Emerging
-
-## Current Confidence
-
-High
-
-### Strong Evidence
-
-- Cultiva
-- Talisman
-- Mawimbi
-- FYN
-- Dishoom
-- Alinea
-- NARISAWA
-
-### Supporting
-
-- Ankole
-- Bistro Lolo
-
-### Boundary
-
-Franklin shows:
-
-product
-
-craft
-
-and access clarity
-
-can carry substantial narrative weight without:
-
-long-form meaning-first storytelling.
-
-### NARISAWA Contribution
-
-NARISAWA provides:
-
-one of the strongest worldview-first cases.
-
-The restaurant explains:
-
-why the cuisine exists
-
-through:
-
-Satoyama
-
-seasonality
-
-cultural knowledge
-
-and
-
-chef translation
-
-before reducing the experience to:
-
-transactional details.
-
-### Comparison Outcome
-
-Very Strongly Supported.
-
-### Governance Recommendation
-
-Retain:
-
-Emerging / High.
-
-No maturity change.
-
----
-
-# Pattern Stress Test — Narrative Coherence Through Organising Logic
-
-## Current Status
-
-Emerging
-
-## Current Confidence
-
-High
-
-### Strong Evidence
-
-- Cultiva
-- Mawimbi
-- FYN
-- Dishoom
-- Franklin
-- Alinea
-- NARISAWA
-
-### Supporting
-
-- Talisman
-- Bistro Lolo
-- Ankole
-
-### NARISAWA Contribution
-
-Satoyama coherently connects:
-
-- cultural place
-- ecological place
-- inherited knowledge
-- seasonality
-- chef authorship
-- product
-
-### Comparison Outcome
-
-Very Strongly Supported.
-
-### Governance Recommendation
-
-Retain:
-
-Emerging / High.
-
----
-
-# Narrative Coherence — Current Definition Check
-
-Current definition:
-
-> **Hospitality narrative becomes coherent when the experience is organised around the elements that most meaningfully explain it, with narrative weight distributed according to explanatory value rather than fixed storytelling hierarchy.**
-
-NARISAWA strongly supports:
-
-this definition.
-
-No rewrite is required.
-
----
-
-# Narrative Weight Follows Explanatory Value
-
-## Current Status
-
-Consolidated Narrative Architecture Guidance
-
-### Strong Evidence
-
-All ten cases.
-
-### NARISAWA Contribution
-
-Worldview receives:
-
-high narrative weight
-
-because it explains:
-
-why the cuisine exists.
-
-Chef receives:
-
-high supporting weight
-
-because:
-
-chef translates:
-
-that worldview.
-
-Seasonality receives:
-
-supporting weight
-
-because:
-
-it connects philosophy
-
-to product.
-
-### Comparison Outcome
-
-Extremely Strong.
-
-### Governance Recommendation
-
-Remain consolidated into:
-
-Narrative Coherence Through Organising Logic.
-
-Do not promote separately.
-
----
-
-# Pattern Stress Test — Biography When It Explains the Experience
-
-## Current Status
-
-Candidate
-
-## Current Confidence
-
-High
-
-### Strong Positive Evidence
-
-- Bistro Lolo
-- FYN
-- Franklin
-- Alinea
-- NARISAWA
-
-### Supporting / Boundary
-
-- Cultiva
-- Dishoom
-- Mawimbi
-- Talisman
-
-### NARISAWA Contribution
-
-Chef Yoshihiro Narisawa matters because:
-
-he acts as:
-
-translator
-
-author
-
-and
-
-authority
-
-inside:
-
-the culinary philosophy.
-
-But:
-
-the restaurant does not need:
-
-a long chronological biography
-
-to make that role clear.
-
-### Comparison Outcome
-
-Very Strongly Supported.
-
-### Governance Recommendation
-
-Retain:
-
-Candidate / High.
-
-No promotion.
-
----
-
-# Biography Candidate — Boundary Strengthens
-
-The comparison now supports:
-
-a stronger boundary.
-
-Biography should not lead because:
-
-the founder
-
-chef
-
-or team is:
-
-famous
-
-visible
-
-or
-
-available.
-
-Biography deserves narrative weight when:
-
-the people materially explain:
-
-- product
-- worldview
-- origin
-- authority
-- hospitality experience
-
-NARISAWA strongly supports:
-
-this current definition.
-
----
-
-# Chef as Philosophical Translator
-
-## Current Status
-
-Observed Research Direction
-
-### Strongest Evidence
-
-NARISAWA.
-
-### Supporting Logic
-
-- FYN
-- Cultiva
-
-### Working Definition
-
-> **A chef may become narratively important when the chef translates a broader cultural, ecological, or culinary worldview into the hospitality product.**
-
-### Comparison Interpretation
-
-Useful mechanism.
-
-### Governance Recommendation
-
-Consolidate into:
-
-Biography When It Explains the Experience.
-
-Do not promote separately.
-
----
-
-# Biography as Authority Infrastructure
-
-## Current Status
-
-Consolidated Narrative Direction
-
-### Strong Evidence
-
-- FYN
-- Franklin
-- Alinea
-- NARISAWA
-
-### Current Interpretation
-
-A person may provide:
-
-authority
-
-without:
-
-becoming the entire story.
-
-### Governance Recommendation
-
-Remain consolidated into:
-
-Biography When It Explains the Experience.
-
----
-
-# Pattern Stress Test — Story Through Place
-
-## Current Status
-
-Emerging
-
-## Current Confidence
-
-High
-
-### Strong Evidence
-
-- Ankole
-- Talisman
-- Bistro Lolo
-- Dishoom
-- FYN
-- NARISAWA
-
-### Supporting
-
-- Cultiva
-- Mawimbi
-
-### NARISAWA Contribution
-
-Place expands beyond:
-
-physical location.
-
-NARISAWA uses:
-
-- ecological place
-- cultural place
-- culinary place
-- referenced landscape
-
-as:
-
-meaningful story infrastructure.
-
-### Comparison Outcome
-
-Very Strongly Supported.
-
-### Governance Recommendation
-
-Retain:
-
-Emerging / High.
-
----
-
-# Place Types Across the Story Set
-
-The ten-case comparison now supports:
-
-multiple forms of place.
-
-## Immediate Place
-
-- Ankole
-- Talisman
-- Bistro Lolo
-
-## Cultural / Remembered Place
-
-- Dishoom
-
-## Ecological / Culinary Place
-
-- FYN
-- NARISAWA
-
-## Designed / Imagined Environmental Place
-
-- Mawimbi
-
-### Current Rule
-
-Place should receive:
-
-story weight
-
-only when it:
-
-materially explains:
+it materially explains:
 
 the hospitality experience.
 
 ---
 
-# Ecological Place as Narrative Infrastructure
+# Talisman
 
-## Current Status
+### Story Type
 
-Observed Research Direction
+Heritage + Place + Growth
 
-### Strongest Evidence
+### Primary Mechanism
 
-NARISAWA.
+Talisman communicates:
 
-### Supporting
+- origin
+- old-house history
+- Karen
+- continuity
+- growth
+- reputation
+- physical environment
 
-- Cultiva
-- FYN
+### Main Contribution
 
-### Current Interpretation
+Story can build:
 
-Useful mechanism inside:
+confidence
 
-Story Through Place.
+through:
 
-### Governance Recommendation
+history
 
-Do not promote separately.
+and:
 
----
-
-# Pattern Stress Test — Heritage Builds Confidence
-
-## Current Status
-
-Candidate
-
-## Current Confidence
-
-Medium
-
-### Strongest Evidence
-
-Talisman.
-
-### Supporting
-
-Dishoom
-
-through a culturally different mechanism.
-
-### NARISAWA Outcome
-
-Related / Strong Boundary Evidence.
-
-### NARISAWA Contribution
-
-The restaurant references:
-
-ancestral culinary knowledge
-
-and
-
-cultural inheritance.
-
-But:
-
-that is not the same as:
-
-institutional heritage.
-
-### Comparison Outcome
-
-Useful boundary strengthened.
-
-### Governance Recommendation
-
-Retain:
-
-Candidate / Medium.
-
-Do not increase confidence.
+continuity.
 
 ---
 
-# Cultural Inheritance vs Institutional Heritage
+# Mawimbi
 
-This distinction should now become:
+### Story Type
 
-explicit KHDS narrative knowledge.
+Concept + Experience World
 
----
+### Primary Mechanism
 
-## Cultural Inheritance
+Mawimbi organises meaning through:
 
-Knowledge
+- seafood
+- sea / voyage language
+- luxury
+- connection
+- escape
+- celebration
 
-practices
+### Main Contribution
 
-memory
+A central concept can:
 
-or references inherited through:
+organise:
 
-a broader culture.
+multiple parts
 
-Strong examples:
+of:
 
-- NARISAWA
-- Dishoom
-
----
-
-## Institutional Heritage
-
-Continuity belonging to:
-
-the restaurant
-
-family
-
-organisation
-
-or place itself.
-
-Strongest example:
-
-Talisman.
+the hospitality experience.
 
 ---
 
-# Governance Recommendation
+# Bistro Lolo
 
-Do not broaden:
+### Story Type
 
-Heritage Builds Confidence
+People + Place + Reinterpretation
 
-to include:
+### Primary Mechanism
 
-all cultural reference.
+Bistro Lolo communicates meaning through:
 
-This boundary is now:
+- neighbourhood life
+- social rhythm
+- architecture
+- people
+- reinterpretation of place
+- easy day-to-night use
 
-essential.
+### Main Contribution
 
----
+Story can be:
 
-# Pattern Stress Test — Narrative Language Within Clear Interface
+social
 
-## Current Status
+and:
 
-Candidate
+lived
 
-## Current Confidence
+rather than:
 
-High
+formal
 
-### Strong Evidence
+or:
 
-- Dishoom
-- Alinea
-- NARISAWA
-
-### Supporting
-
-- Cultiva
-- Mawimbi
-- FYN
-
-### NARISAWA Contribution
-
-Specialised narrative vocabulary such as:
-
-- Satoyama
-- Ji’nen
-- Innovative Satoyama Cuisine
-- Beneficial and Sustainable Gastronomy
-
-coexists with:
-
-plain functional navigation.
-
-### Comparison Outcome
-
-Very Strongly Supported.
-
-### Governance Recommendation
-
-Retain:
-
-Candidate / High.
+mythic.
 
 ---
 
-# Narrative Language Candidate — Boundary
+# FYN
 
-Narrative language may become:
+### Story Type
 
-distinctive.
+Ecology + Culinary Philosophy + Authorship
 
-Functional language must remain:
+### Primary Mechanism
 
-legible enough
+FYN communicates meaning through:
 
-for the guest to know:
+- chef authorship
+- culinary authority
+- cultural references
+- ecology
+- philosophy
+- structured dining
 
-what an action means.
+### Main Contribution
 
-This boundary survives:
+Authorship can become:
 
-all current cases.
+important
 
-No rewrite needed.
+when:
 
----
+the people
 
-# Show the System Behind the Plate — Story Contribution
+and:
 
-## Current Status
+their ideas
 
-Candidate
+materially explain:
 
-## Current Confidence
-
-High
-
-### Strong Evidence
-
-- Cultiva
-- Franklin
-- NARISAWA
-
-### Supporting / Boundary
-
-- FYN
-- Alinea
-
-### NARISAWA Contribution
-
-The philosophy creates:
-
-an explanation and proof burden.
-
-But:
-
-philosophy alone
-
-does not prove:
-
-practice.
-
-### Story Comparison Outcome
-
-Strongly Supported.
-
-### Governance Recommendation
-
-Retain:
-
-Candidate / High.
+the experience.
 
 ---
 
-# Meaning vs Evidence
+# Dishoom Covent Garden
 
-NARISAWA makes:
+### Story Type
 
-this distinction extremely clear.
+Narrative World + Cultural Memory
 
-## Meaning
+### Primary Mechanism
 
-Story explains:
+Dishoom builds meaning through:
 
-why something matters.
+- historical references
+- place
+- language
+- cultural memory
+- social hospitality
+- food
+- fictional / interpretive world-building
 
-## Evidence
+### Main Contribution
 
-Proof supports:
+A restaurant may construct:
 
-whether the claim should be believed.
+a rich narrative world
 
-### Current Rule
+without:
+
+sacrificing:
+
+functional clarity.
+
+---
+
+# Franklin Barbecue
+
+### Story Type
+
+People + Craft + Product Authority
+
+### Primary Mechanism
+
+Franklin communicates meaning through:
+
+- founder identity
+- barbecue craft
+- product reputation
+- growth
+- queue culture
+- direct operational reality
+
+### Main Contribution
+
+Biography can matter greatly when:
+
+the person
+
+helps explain:
+
+how the product
+
+and:
+
+the hospitality world
+
+came to exist.
+
+---
+
+# Alinea
+
+### Story Type
+
+Authorship + Transformation + Experience Architecture
+
+### Primary Mechanism
+
+Alinea communicates meaning through:
+
+- culinary authorship
+- innovation
+- transformation
+- high-commitment experience structure
+- controlled revelation
+
+### Main Contribution
+
+Story may be carried through:
+
+the designed experience itself
+
+rather than:
+
+a conventional origin narrative.
+
+---
+
+# NARISAWA
+
+### Story Type
+
+Ecology + Philosophy + Authorship
+
+### Primary Mechanism
+
+NARISAWA communicates:
+
+- Japanese landscape
+- ecology
+- seasonality
+- nature
+- culinary philosophy
+- chef authorship
+
+### Main Contribution
+
+Philosophy becomes:
+
+narrative
+
+when:
+
+it materially explains:
+
+the product
+
+and:
+
+the experience.
+
+---
+
+# Haidilao Toronto Downtown
+
+### Story Type
+
+Service + Hospitality Model + Ritual + Participation
+
+### Primary Mechanism
+
+Haidilao communicates meaning through:
+
+- customer-first service
+- personalized hospitality
+- hot pot culture
+- guest participation
+- social interaction
+- staff behaviour
+- operational structure
+
+### Main Contribution
+
+Story does not require:
+
+a heavily editorial storytelling interface.
+
+The hospitality model itself can:
+
+carry:
+
+the narrative.
+
+---
+
+# Cross-Restaurant Comparison
+
+The eleven restaurants now demonstrate:
+
+multiple legitimate narrative carriers.
+
+Observed mechanisms include:
+
+- place
+- worldview
+- heritage
+- growth
+- concept
+- belonging
+- people
+- authorship
+- ecology
+- cultural memory
+- craft
+- product
+- service
+- ritual
+- participation
+- operating model
+
+This makes one conclusion increasingly clear:
+
+> **Story is not a content format. Story is the system of meaning that helps the guest understand why the hospitality experience exists and what makes it distinct.**
+
+That meaning may be:
+
+written
+
+shown
+
+performed
+
+structured
+
+or:
+
+experienced.
+
+---
+
+# Previous Working Story Architecture
+
+The current research had moved toward:
 
 Meaning
 
-≠
+↓
 
-Proof.
+Identity
 
-### Governance Importance
+↓
 
-High.
+Evidence
 
-This should remain:
+↓
 
-proof architecture knowledge.
+Guest Understanding
+
+↓
+
+Participation
+
+This remains:
+
+useful.
+
+Haidilao adds:
+
+another important question:
+
+> **What carries the meaning?**
 
 ---
 
-# Philosophy as Proof Burden
+# Proposed Refined Story Architecture
+
+Hospitality Meaning
+
+↓
+
+Primary Narrative Carrier
+
+↓
+
+Place
+or
+Worldview
+or
+Heritage
+or
+Biography
+or
+Product
+or
+Craft
+or
+Cultural Memory
+or
+Service
+or
+Ritual
+or
+Participation
+or
+Operating Model
+
+↓
+
+Relevant Evidence
+
+↓
+
+Guest Understanding
+
+↓
+
+Participation
+
+This is:
+
+a more flexible architecture.
+
+It allows:
+
+meaning
+
+to exist:
+
+inside:
+
+how the experience works.
+
+---
+
+# Critical Correction — Story Is Not the Same Thing as Storytelling
+
+Before Haidilao:
+
+KHDS already had evidence that:
+
+story could be carried by:
+
+place
+
+worldview
+
+heritage
+
+authorship
+
+and:
+
+product.
+
+However:
+
+the research still risked privileging:
+
+editorial expression.
+
+Haidilao creates:
+
+a stronger correction.
+
+A restaurant may communicate:
+
+a coherent story
+
+through:
+
+- service
+- ritual
+- guest role
+- participation
+- operating behaviour
+
+without:
+
+turning the interface into:
+
+an editorial narrative sequence.
+
+Therefore:
+
+the relevant question is:
+
+> **What carries meaning?**
+
+not:
+
+> Where is the Story section?
+
+---
+
+# Pattern Review — Story Before Features
 
 ## Current Status
 
-Observed Research Direction
+Emerging
 
-### Strongest Evidence
+## Existing Evidence
 
-NARISAWA.
-
-### Supporting
+Strong support through:
 
 - Cultiva
+- Talisman
+- Dishoom
 - FYN
+- Alinea
+- NARISAWA
 
-### Story Comparison Outcome
+with alternative expressions in:
 
-Very Strongly Strengthened.
+- Ankole
+- Mawimbi
+- Bistro Lolo
+- Franklin
 
-### Working Rule
+## Haidilao Pressure
 
-> **The stronger and more consequential the philosophical claim, the more important it becomes to identify credible supporting evidence.**
+Haidilao exposes:
 
-### Governance Recommendation
+practical features
+
+early.
+
+Yet:
+
+the experience still communicates:
+
+meaning
+
+through:
+
+- service
+- product
+- ritual
+- guest participation
+- operating model
+
+## Interpretation
+
+Story Before Features should not mean:
+
+> editorial story must appear before functionality.
+
+A stronger interpretation is:
+
+> Practical features should remain connected to the hospitality meaning rather than appearing as disconnected interface functions.
+
+## Recommended Boundary
+
+### Story Before Features ≠ Story Page Before Utility
+
+## Governance Recommendation
 
 Retain:
 
-Observed Research Direction
+Emerging.
 
-Confidence:
+Major definition refinement:
 
-Medium.
-
-Do not create:
-
-Candidate.
-
----
-
-# Strong Direction — Cultural Memory as Atmospheric Material
-
-## Current Status
-
-Observed Research Direction
-
-### Strong Evidence
-
-- Dishoom
-- NARISAWA
-
-### Supporting
-
-FYN.
-
-### Dishoom
-
-Cultural memory becomes:
-
-designed world-building.
-
-### NARISAWA
-
-Cultural memory becomes:
-
-contemporary culinary translation.
-
-### Story Comparison Outcome
-
-Very Strongly Strengthened.
-
----
-
-# Recommended Status — Cultural Memory as Atmospheric Material
-
-After NARISAWA:
-
-Observed Research Direction
-
-Promotion Watch:
-
-Medium-High
-
-### Why Not Candidate Yet?
-
-Two strong cases
-
-are not enough
-
-for a broad atmosphere pattern.
-
-Need:
-
-another materially different independent restaurant.
-
----
-
-# Cultural Memory Through Contemporary Translation
-
-## Current Status
-
-Observed Research Direction
-
-### Strongest Evidence
-
-NARISAWA.
-
-### Current Interpretation
-
-Likely:
-
-mechanism inside:
-
-Cultural Memory as Atmospheric Material
-
-and
-
-Narrative Architecture.
-
-### Governance Recommendation
+recommended.
 
 Do not promote.
 
 ---
 
-# World-Building vs Worldview Translation
-
-This distinction survives:
-
-story comparison strongly.
-
----
-
-## World-Building
-
-Construct:
-
-a rich representational world
-
-through:
-
-- design
-- story
-- naming
-- cultural references
-- social use
-
-Strong example:
-
-Dishoom.
-
----
-
-## Worldview Translation
-
-Translate:
-
-a philosophy
-
-through:
-
-- product
-- method
-- seasonality
-- authorship
-- participation
-
-Strong example:
-
-NARISAWA.
-
----
-
-# Governance Recommendation
-
-Formalise as:
-
-Narrative / Atmosphere Architecture knowledge.
-
-Do not create:
-
-Candidate.
-
----
-
-# Strong Direction — Selective Reveal
+# Pattern Review — Narrative Coherence Through Organising Logic
 
 ## Current Status
 
-Observed Research Direction
+Emerging
 
-## Promotion Watch
+## Existing Strong Evidence
 
-Very Strong
-
-### Strong Evidence
-
-- Alinea
-- NARISAWA
-
-### Story Contribution
-
-Alinea:
-
-story preserves:
-
-designed discovery.
-
-NARISAWA:
-
-story explains:
-
-philosophy
-
-and
-
-format
-
-while exact product remains:
-
-authentically variable.
-
-### Comparison Outcome
-
-Very Strongly Supported.
-
----
-
-# Designed Mystery vs Authentic Variability
-
-The story comparison confirms:
-
-this distinction is:
-
-real
-
-and
-
-useful.
-
----
-
-## Designed Mystery
-
-Information is deliberately withheld because:
-
-discovery
-
-surprise
-
-or
-
-sequence
-
-is part of:
-
-experience design.
-
-Strongest example:
-
-Alinea.
-
----
-
-## Authentic Variability
-
-Exact future detail remains incomplete because:
-
-the product genuinely changes through:
-
-season
-
-availability
-
-or
-
-chef-led interpretation.
-
-Strongest example:
-
-NARISAWA.
-
----
-
-# Does Selective Reveal Become Candidate Now?
-
-No.
-
-All five NARISAWA comparisons now support:
-
-the direction.
-
-But the strongest evidence remains:
-
-two high-commitment tasting-menu restaurants.
-
-### Final NARISAWA Recommendation
-
-Retain:
-
-Observed Research Direction
-
-Promotion Watch:
-
-Very Strong
-
-### Next Validation Need
-
-Find:
-
-a materially different hospitality model
-
-where:
-
-selective disclosure
-
-or
-
-authentic variability
-
-meaningfully affects:
-
-guest decision.
-
-If that survives:
-
-Candidate promotion becomes:
-
-serious.
-
----
-
-# Possible Future Selective Reveal Definition
-
-The current evidence suggests:
-
-> **Hospitality communication may reveal enough information for informed commitment while preserving details whose value depends on discovery or whose exact form legitimately remains variable.**
-
-### Governance Recommendation
-
-Preserve as:
-
-working definition.
-
-Do not make canonical yet.
-
----
-
-# Reputation as Narrative Compression
-
-## Current Status
-
-Observed Research Direction
-
-## Current Confidence
-
-Medium
-
-### Strong / Supporting Evidence
-
-- Franklin
-- Alinea
-- NARISAWA
+- Cultiva
+- Mawimbi
+- Dishoom
 - FYN
-
-### NARISAWA Contribution
-
-Strong external reputation exists.
-
-But the restaurant still:
-
-explains:
-
-its philosophy.
-
-### Current Interpretation
-
-Reputation may:
-
-compress explanation
-
-but does not necessarily:
-
-replace it.
-
-### Evidence Limitation
-
-Guest reliance on reputation is:
-
-not observable.
-
-### Governance Recommendation
-
-Retain:
-
-Observed / Medium.
-
----
-
-# Authority vs Explanation
-
-This distinction becomes:
-
-stronger.
-
-## Authority
-
-Why should I believe:
-
-this restaurant has credibility?
-
-## Explanation
-
-What does:
-
-this restaurant actually mean?
-
-### Current Conclusion
-
-Authority can support:
-
-story.
-
-It cannot automatically:
-
-substitute for:
-
-story.
-
----
-
-# Distributed Authority
-
-## Current Status
-
-Narrative Architecture Knowledge
-
-### Evidence
-
-- Dishoom
-- Franklin
-- Alinea
 - NARISAWA
-
-Authority may come from:
-
-- founder
-- chef
-- cultural context
-- product
-- awards
-- history
-- team
-- institution
-
-### Governance Recommendation
-
-Remain architecture knowledge.
-
----
-
-# Distributed Authorship
-
-## Current Status
-
-Observed Research Direction
-
-### Strongest Evidence
-
-Alinea.
-
-### NARISAWA Outcome
-
-Weak / Not Central.
-
-Chef authorship remains:
-
-prominent.
-
-### Comparison Outcome
-
-No promotion pressure.
-
----
-
-# Growth as Narrative
-
-## Current Status
-
-Observed Research Direction
-
-## Current Confidence
-
-Low
-
-### NARISAWA Outcome
-
-No meaningful support.
-
-The restaurant has:
-
-history
-
-but current first-party narrative is not primarily:
-
-growth-led.
-
-### Governance Recommendation
-
-Retain:
-
-Observed / Low.
-
-No active promotion watch.
-
----
-
-# Seasonality as Narrative Bridge
-
-## Current Status
-
-Observed Research Direction
-
-### Strongest Evidence
-
-NARISAWA.
-
-### Supporting Logic
-
-FYN.
-
-### Working Definition
-
-> **Seasonal change may connect hospitality worldview to product when it explains why the experience changes over time.**
-
-### Story Comparison Outcome
-
-Strong NARISAWA-specific support.
-
-### Governance Recommendation
-
-Retain below Candidate.
-
-Likely:
-
-mechanism inside:
-
-worldview
-
-and
-
-product narrative.
-
----
-
-# Is Seasonality an Independent Story Organiser?
-
-Not yet.
-
-At NARISAWA:
-
-seasonality sits inside:
-
-Satoyama worldview.
-
-### Current Conclusion
-
-Seasonality currently looks like:
-
-a bridge
-
-not:
-
-the top-level organising logic.
-
-No promotion.
-
----
-
-# Narrative Architecture — Ten-Case Evidence
-
-Current canonical model:
-
-Hospitality Experience
-
-↓
-
-What Does the Guest Need to Understand?
-
-↓
-
-What Most Explains the Experience?
-
-↓
-
-Place / Worldview / Heritage / Concept / People / Culture / Craft / Experience
-
-↓
-
-Give Narrative Weight According to Explanatory Value
-
-↓
-
-Use Supporting Authority and Evidence
-
-↓
-
-Preserve Functional Clarity
-
-↓
-
-Preserve Appropriate Mystery
-
-↓
-
-Participation
-
-NARISAWA strongly supports:
-
-this architecture.
-
----
-
-# NARISAWA Translation Refinement
-
-NARISAWA adds:
-
-one useful internal question.
-
-After:
-
-What Most Explains the Experience?
-
-ask:
-
-> **How is that meaning translated into hospitality?**
-
-Possible model:
-
-Hospitality Experience
-
-↓
-
-What Does the Guest Need to Understand?
-
-↓
-
-What Most Explains the Experience?
-
-↓
-
-How Is That Meaning Translated?
-
-↓
-
-Who or What Performs the Translation?
-
-↓
-
-Give Narrative Weight According to Explanatory Value
-
-↓
-
-Use Supporting Authority and Evidence
-
-↓
-
-Preserve Functional Clarity
-
-↓
-
-Preserve Appropriate Mystery
-
-↓
-
-Participation
-
-This is:
-
-comparison-level architecture.
-
-Do not replace:
-
-canonical model
-
-until governance reconciliation.
-
----
-
-# Story Architecture — NARISAWA Example
-
-What explains:
-
-the experience?
-
-↓
-
-Satoyama worldview
-
-↓
-
-How is it translated?
-
-↓
-
-Seasonality
-
-+
-
-Chef interpretation
-
-+
-
-Cuisine
-
-↓
-
-Who provides authority?
-
-↓
-
-Chef Yoshihiro Narisawa
-
-+
-
-public culinary identity
-
-↓
-
-What remains unrevealed?
-
-↓
-
-Exact future product detail
-
-↓
-
-Participation
-
-This is:
-
-a strong example of:
-
-Narrative Weight Follows Explanatory Value.
-
----
-
-# Story Contradictions Preserved
-
----
-
-## Place vs Worldview
-
-Ankole versus NARISAWA.
-
----
-
-## Heritage vs Contemporary Interpretation
-
-Talisman versus NARISAWA.
-
----
-
-## Founder vs Worldview
-
-Franklin versus NARISAWA.
-
----
-
-## Experience vs Worldview
-
-Alinea versus NARISAWA.
-
----
-
-## World-Building vs Translation
-
-Dishoom versus NARISAWA.
-
----
-
-## Concept vs Cultural Meaning
-
-Mawimbi versus NARISAWA.
-
----
-
-## Biography-Forward vs Biography-Supporting
-
-Franklin versus NARISAWA.
-
----
-
-## Rich Narrative World vs Restrained Narrative System
-
-Dishoom versus NARISAWA.
-
----
-
-## Designed Mystery vs Authentic Variability
-
-Alinea versus NARISAWA.
-
----
-
-## Authority vs Explanation
-
-Strong across:
-
-FYN
-
-Alinea
-
-NARISAWA.
-
----
-
-# Current Story Pattern Matrix
-
-| Restaurant | Primary Story Organiser | Biography Weight | Place Weight | Worldview Weight | Main Narrative Boundary |
-|---|---|---:|---:|---:|---|
-| Ankole | Place | Low | High | Low | Story can remain restrained |
-| Cultiva | Worldview | Medium | Medium | High | Worldview needs proof / translation |
-| Talisman | Heritage + Place | Low | High | Low | Heritage must be institutional |
-| Mawimbi | Concept | Low | Medium | Medium | Concept claims require proof |
-| Bistro Lolo | People + Place | High | High | Low | Biography works through belonging |
-| FYN | Culinary Philosophy + Authorship | High | Medium | Medium–High | Authority supports explanation |
-| Dishoom | Cultural Memory + World-Building | Medium | High | High | Cultural memory is not institutional heritage |
-| Franklin | Founder + Craft | High | Low | Low | Founder matters because founder explains craft |
-| Alinea | Experience + Innovation | Medium–High | Medium | Low | Experience can be the story organiser |
-| NARISAWA | Worldview + Chef Translation | High Supporting | High Ecological | High | Worldview must become product / experience |
-
----
-
-# Candidate Pattern Review — Story Dimension
-
----
-
-## Atmosphere Through Worldview
-
-### Story Outcome
-
-Very Strong Positive Pressure
-
-### Reason
-
-NARISAWA’s story strongly demonstrates:
-
-worldview as:
-
-organising logic.
-
-### Governance Recommendation
-
-Supports atmosphere comparison recommendation:
-
-Medium
-
-↓
-
-Medium-High
-
-after full reconciliation.
-
----
-
-## Show the System Behind the Plate
-
-### Story Outcome
-
-Strongly Supported
 
 with:
 
-proof burden.
+different organising mechanisms.
 
-### Governance Recommendation
+## Haidilao Contribution
 
-Retain:
+Haidilao adds:
 
-Candidate / High.
+an operational organising logic.
 
----
+Possible logic:
 
-## Heritage Builds Confidence
+Customer-First Service
 
-### Story Outcome
++
 
-Boundary Strengthened.
+Hot Pot Ritual
 
-### Governance Recommendation
++
 
-Retain:
+Guest Participation
 
-Candidate / Medium.
++
 
-Do not broaden.
-
----
-
-## Atmosphere Through Continuity
-
-### Story Outcome
-
-NARISAWA not central.
-
-### Governance Recommendation
-
-Retain:
-
-Candidate / Medium.
-
----
-
-## Designed Escape
-
-### Story Outcome
-
-NARISAWA not central.
-
-### Governance Recommendation
-
-Retain:
-
-Candidate / Medium.
-
----
-
-## Biography When It Explains the Experience
-
-### Story Outcome
-
-Very Strongly Supported.
-
-### Governance Recommendation
-
-Retain:
-
-Candidate / High.
-
----
-
-## Narrative Language Within Clear Interface
-
-### Story Outcome
-
-Very Strongly Supported.
-
-### Governance Recommendation
-
-Retain:
-
-Candidate / High.
-
----
-
-## Photography as Use-Case Evidence
-
-### Story Outcome
-
-Not materially strengthened.
-
-### Governance Recommendation
-
-Follow photography comparison recommendation:
-
-Medium-High
+Social Connection
 
 ↓
 
-Medium.
+Happy Shared Experience
 
----
+## Interpretation
 
-## Walk-In as First-Class Participation
+An organising logic does not need to be:
 
-### Story Outcome
+visual
 
-Not Applicable / Boundary.
+or:
 
-### Governance Recommendation
+editorial.
 
-Retain:
-
-Candidate / High.
-
----
-
-# Final NARISAWA Story Governance Pressure
-
-Story comparison produces:
-
-no new Candidate promotion.
-
-It reinforces:
-
-bounded maturity.
-
-The main changes supported are:
-
-1. Atmosphere Through Worldview confidence increase
-2. Photography as Use-Case Evidence confidence decrease
-3. stronger Selective Reveal promotion watch
-4. stronger Consequence-Proportionate Clarity confidence
-5. explicit architecture knowledge around compatibility, certainty, translation, and proof
-6. stronger Cultural Memory promotion watch
-7. no inflation of Heritage Builds Confidence
-
----
-
-# Five-Comparison Reconciliation Summary
-
-All five NARISAWA comparison files now agree on several major findings.
-
----
-
-# Finding 1
-
-## Atmosphere Through Worldview Strengthens
-
-Arrival:
-
-strong positive pressure.
-
-Atmosphere:
-
-very strong positive pressure.
-
-Photography:
-
-worldview creates proof burden.
-
-Reservation:
-
-worldview survives structured participation.
-
-Story:
-
-worldview clearly organises meaning.
-
-### Final Recommended Change
-
-Candidate / Under Review
-
-Confidence:
-
-Medium
-
-↓
-
-Medium-High
-
-### Definition Refinement Recommended
-
-Current:
-
-> A restaurant may create atmospheric coherence through a broader worldview when that worldview materially shapes the environment, experience, story, or guest interpretation.
-
-Recommended:
-
-> **A restaurant may create atmospheric coherence through a broader worldview when that worldview is materially translated into the product, environment, experience, story, or participation rather than remaining only as declared philosophy.**
-
----
-
-# Finding 2
-
-## Photography as Use-Case Evidence Becomes More Contextual
-
-Arrival:
-
-not central.
-
-Atmosphere:
-
-use not required for strong atmosphere.
-
-Photography:
-
-strong boundary evidence.
-
-Reservation:
-
-format already explains participation.
-
-Story:
-
-not central.
-
-### Final Recommended Change
-
-Candidate
-
-Confidence:
-
-Medium-High
-
-↓
-
-Medium
-
-### Definition
-
-No rewrite required.
-
----
-
-# Finding 3
-
-## Selective Reveal Becomes a Very Strong Promotion Watch
-
-Supported through:
-
-- arrival
-- atmosphere
-- photography
-- reservation
-- story
-
-### Strong Cases
-
-Alinea:
-
-Designed Mystery.
-
-NARISAWA:
-
-Authentic Variability.
-
-### Final Recommended Status
-
-Observed Research Direction
-
-Promotion Watch:
-
-Very Strong
-
-No Candidate promotion yet.
-
----
-
-# Finding 4
-
-## Designed Mystery vs Authentic Variability Should Be Preserved
-
-### Alinea
-
-Designed Mystery.
-
-### NARISAWA
-
-Authentic Variability.
-
-### Final Recommendation
-
-Formalise as:
-
-Selective Reveal architecture distinction.
-
-Not:
-
-standalone pattern.
-
----
-
-# Finding 5
-
-## Consequence-Proportionate Clarity Strengthens
-
-Supported through:
-
-arrival
-
-reservation
-
-and
-
-proof logic.
-
-### Final Recommended State
-
-Observed Research Direction
-
-Confidence:
-
-High
-
-### No Candidate Promotion
-
-Reason:
-
-likely cross-system rule
-
-inside:
-
-Layered Arrival
-
-Commitment Without Pressure
-
-and
-
-Participation Architecture.
-
----
-
-# Finding 6
-
-## Compatibility Should Become Explicit Architecture Knowledge
-
-Strongly supported by:
-
-- Alinea
-- NARISAWA
-- FYN supporting logic
-
-### Final Recommendation
-
-Keep:
-
-Compatibility
-
-inside:
-
-canonical Participation Architecture.
-
-Add internal distinctions:
-
-- Eligibility
-- Need Compatibility
-
-Do not create:
-
-Candidate.
-
----
-
-# Finding 7
-
-## Hospitality Certainty Is Multidimensional
-
-Important forms now include:
-
-- access certainty
-- format certainty
-- product certainty
-- compatibility certainty
-- timing certainty
-- participation-state certainty
-
-### Final Recommendation
-
-Formalise as:
-
-Participation Architecture knowledge.
-
-Do not create:
-
-patterns.
-
----
-
-# Finding 8
-
-## Intent Complexity and Participation Complexity Are Different
-
-### Alinea
-
-High choice complexity.
-
-### NARISAWA
-
-Low intent complexity
-
-with:
-
-meaningful condition complexity.
-
-### Final Recommendation
-
-Formalise distinction inside:
-
-Participation Architecture.
-
----
-
-# Finding 9
-
-## Proof Can Be Multimodal
-
-NARISAWA makes this:
-
-especially clear.
-
-Photography cannot prove:
-
-every claim.
-
-### Final Recommendation
-
-Formalise as:
-
-Hospitality Proof Architecture knowledge.
-
-Do not create:
-
-Candidate.
-
----
-
-# Finding 10
-
-## Evidence-Type Selection Becomes Core Proof Architecture
-
-The correct question is:
-
-not:
-
-What should we photograph?
-
-It is:
-
-> **What claim are we supporting, and which evidence type can credibly support it?**
-
-### Final Recommendation
-
-Formalise:
-
-Evidence-Type Selection
-
-as:
-
-Proof Architecture variable.
-
----
-
-# Finding 11
-
-## Philosophy as Proof Burden Should Be Preserved
-
-Strongest evidence:
-
-NARISAWA.
-
-Supporting:
-
-Cultiva
-
-FYN.
-
-### Final Recommendation
-
-Observed Research Direction
-
-Confidence:
-
-Medium
-
-No promotion.
-
----
-
-# Finding 12
-
-## Cultural Memory Gains Stronger Watch
-
-Strong evidence:
-
-- Dishoom
-- NARISAWA
-
-through:
-
-different mechanisms.
-
-### Final Recommended State
-
-Cultural Memory as Atmospheric Material
-
-Observed Research Direction
-
-Promotion Watch:
-
-Medium-High
-
-No Candidate promotion.
-
----
-
-# Finding 13
-
-## Cultural Inheritance Must Remain Separate From Institutional Heritage
-
-### Final Recommendation
-
-Add as:
-
-Narrative Architecture boundary.
-
-Do not alter:
-
-Heritage Builds Confidence
-
-to include:
-
-all cultural reference.
-
----
-
-# Finding 14
-
-## Worldview Translation vs World-Building Is Useful Architecture Knowledge
-
-### Dishoom
-
-World-Building.
-
-### NARISAWA
-
-Worldview Translation.
-
-### Final Recommendation
-
-Formalise distinction inside:
-
-Narrative / Atmosphere Architecture.
-
-No pattern promotion.
-
----
-
-# Finding 15
-
-## Seasonality Remains Mechanism-Level
-
-Potential roles:
-
-- narrative bridge
-- atmospheric material
-- temporal proof
-
-But:
-
-evidence remains concentrated.
-
-### Final Recommendation
-
-Keep:
-
-below Candidate.
-
-No promotion.
-
----
-
-# Finding 16
-
-## Release-Based Availability Strengthens
-
-Strong evidence:
-
-- Alinea
-- NARISAWA
-
-### Final Recommended State
-
-Observed Research Direction
-
-Promotion Watch:
-
-Medium-High
-
-Need:
-
-another materially different case.
-
----
-
-# Finding 17
-
-## Human Assistance Remains Stable
-
-NARISAWA strongly supports:
-
-the post-Alinea pattern:
-
-Human Assistance Where Structured Self-Service Is Insufficient.
-
-### Final Recommendation
-
-Retain:
-
-Emerging / High.
-
-No rename
-
-no confidence change.
-
----
-
-# Finding 18
-
-## Multi-Intent Hospitality Remains Stable
-
-NARISAWA strengthens:
-
-the anti-complexity boundary.
-
-### Final Recommendation
-
-Retain:
-
-Emerging / High.
-
-No definition change.
-
----
-
-# Finding 19
-
-## Walk-In as First-Class Participation Remains Stable
-
-NARISAWA adds:
-
-boundary evidence
-
-not:
-
-contradiction.
-
-### Final Recommendation
-
-Retain:
-
-Candidate / High.
-
----
-
-# Finding 20
-
-## No Research-Derived KHDS Principle Is Ready
-
-Despite:
-
-ten independent restaurants
-
-the highest research-derived maturity remains:
-
-Candidate.
-
-### Final Recommendation
-
-Validated:
-
-0
-
-Research-Derived KHDS Principles:
-
-0
-
-Do not inflate maturity.
-
----
-
-# Post-NARISAWA Recommended Governance Snapshot
-
-These changes are now supported by:
-
-all five comparison files.
-
-They are still:
-
-recommendations
-
-until the governance files are reconciled.
-
----
-
-## Independent Restaurants
-
-9
-
-↓
-
-Recommended:
-
-10
-
----
-
-## Kodawa Labs Validation Concepts
-
-1
-
-No change.
-
----
-
-## Emerging
-
-18
-
-No change.
-
----
-
-## Candidate
-
-9
-
-No change.
-
----
-
-## Partially Supported
-
-1
-
-No change.
-
----
-
-## Validated
-
-0
-
-No change.
-
----
-
-## Research-Derived KHDS Principles
-
-0
-
-No change.
-
----
-
-## Existing Implementation Patterns Pending Formal Validation
-
-1
-
-No change.
-
----
-
-## Opportunity Themes
-
-36
-
-No automatic change.
-
-Commercial opportunity deduplication should remain:
-
-separate.
-
----
-
-# Recommended Candidate Confidence Changes
-
----
-
-## Atmosphere Through Worldview
-
-Medium
-
-↓
-
-Medium-High
-
----
-
-## Photography as Use-Case Evidence
-
-Medium-High
-
-↓
-
-Medium
-
----
-
-# Candidate Confidence Retained
-
-## Show the System Behind the Plate
-
-High
-
-## Heritage Builds Confidence
-
-Medium
-
-## Atmosphere Through Continuity
-
-Medium
-
-## Designed Escape
-
-Medium
-
-## Biography When It Explains the Experience
-
-High
-
-## Narrative Language Within Clear Interface
-
-High
-
-## Walk-In as First-Class Participation
-
-High
-
----
-
-# Recommended Below-Candidate Updates
-
----
-
-## Selective Reveal
-
-Observed Research Direction
-
-Promotion Watch:
-
-Very Strong
-
----
-
-## Consequence-Proportionate Clarity
-
-Observed Research Direction
-
-Confidence:
-
-High
-
----
-
-## Release-Based Availability
-
-Observed Research Direction
-
-Promotion Watch:
-
-Medium-High
-
----
-
-## Cultural Memory as Atmospheric Material
-
-Observed Research Direction
-
-Promotion Watch:
-
-Medium-High
-
----
-
-## Philosophy as Proof Burden
-
-Observed Research Direction
-
-Confidence:
-
-Medium
-
----
-
-## Participation State Clarity
-
-Observed Research Direction
-
-Promotion Watch:
-
-Medium
-
----
-
-## Atmosphere Through Use
-
-Observed Research Direction
-
-Confidence:
-
-Medium-High
-
-No promotion increase.
-
----
-
-# Recommended Architecture Knowledge to Formalise
-
-## Participation
-
-- Compatibility
-- Eligibility vs Accommodation
-- Intent Complexity vs Participation Complexity
-- Choice Complexity vs Condition Complexity
-- Experience Certainty vs Product Certainty
-- Multidimensional Certainty
-- Predictability as Automation Variable
-- Format Commitment
-
-## Proof
-
-- Proof Can Be Multimodal
-- Evidence-Type Selection
-- Minimum Sufficient Proof
-- Designed Mystery vs Authentic Variability
-- Process Need Depends on Evidence Gap
-- Result as Difference Proof
-- Temporal Proof
-
-## Narrative / Atmosphere
-
-- Worldview Requires Translation
-- Worldview Translation vs World-Building
-- Cultural Inheritance vs Institutional Heritage
-- Chef as Philosophical Translator
-- Seasonality as Narrative Bridge
-- Seasonality as Atmospheric Material
-
-Most of these should remain:
-
-variables
-
-mechanisms
-
-or
-
-distinctions
-
-rather than:
-
-patterns.
-
----
-
-# Story Evidence Limitations
-
-This comparison can establish:
-
-- public narrative subjects
-- story hierarchy
-- chef / founder prominence
-- place framing
-- philosophy
-- cultural references
-- public authority signals
-- narrative language
-- relationship between story and interface
-
-It cannot establish:
-
-- what guests remember
-- what guests believe
-- whether story affects conversion
-- whether philosophy creates trust
-- whether cultural references feel authentic
-- whether reputation reduces explanation needs
-- whether biography increases willingness to book
-- whether selective reveal improves anticipation
-- whether guests correctly interpret worldview
-
-Those require:
-
-guest
+It may be:
 
 behavioural
 
-or
+and:
 
-operational evidence.
+operational.
+
+## Governance Recommendation
+
+Retain:
+
+Emerging.
+
+Potential confidence increase.
+
+Definition should explicitly allow:
+
+operational logic.
 
 ---
 
-# Story Comparison Conclusion
+# Pattern Review — Biography When It Explains the Experience
 
-The ten-case comparison now makes the KHDS narrative position:
+## Current Status
 
-substantially clearer.
+Candidate
 
-The correct story hero is:
+## Existing Strong Evidence
 
-not always:
+- Franklin
+- FYN
+- Alinea
+- NARISAWA
+- Bistro Lolo
 
-the founder.
+through different roles.
 
-Not always:
+## Haidilao Contribution
 
-the place.
+Founder biography is:
 
-Not always:
-
-the worldview.
-
-Not always:
-
-the product.
-
-Not always:
-
-the restaurant history.
-
-The strongest rule remains:
-
-> **Narrative weight should follow explanatory value.**
-
-Ankole is explained by:
-
-place.
-
-Cultiva:
-
-worldview.
-
-Talisman:
-
-heritage and place.
-
-Mawimbi:
-
-concept.
-
-Bistro Lolo:
-
-people and place.
-
-FYN:
-
-culinary philosophy and authorship.
-
-Dishoom:
-
-cultural memory and world-building.
-
-Franklin:
-
-founder and craft.
-
-Alinea:
-
-experience architecture and innovation.
-
-NARISAWA:
-
-worldview translated through:
-
-chef
-
-seasonality
-
-and cuisine.
-
-NARISAWA therefore does not create:
-
-a new universal hierarchy.
-
-It strengthens:
-
-the architecture.
-
-Its strongest story contribution is:
-
-translation.
-
-The worldview deserves:
-
-narrative leadership
-
-because:
-
-it actually explains:
-
-the cuisine.
-
-The chef deserves:
-
-supporting prominence
-
-because:
-
-the chef translates:
-
-that worldview.
-
-The season deserves:
-
-supporting prominence
-
-because:
-
-it connects:
-
-worldview
-
-to:
-
-product.
-
-This is exactly what:
-
-Narrative Weight Follows Explanatory Value
-
-means.
-
-NARISAWA also forces:
-
-a crucial heritage boundary.
-
-Cultural inheritance
-
-is not:
-
-institutional heritage.
-
-That distinction protects:
-
-Heritage Builds Confidence
-
-from becoming:
-
-too broad to be useful.
-
-And the NARISAWA cycle confirms:
-
-Selective Reveal
-
-as:
-
-one of the strongest below-Candidate directions in the current system.
-
-Alinea and NARISAWA arrive at:
-
-incomplete disclosure
+not necessary
 
 for:
 
-different reasons.
+understanding:
 
-One through:
+the primary hospitality proposition.
 
-Designed Mystery.
+The experience can be explained through:
 
-The other through:
+service
 
-Authentic Variability.
+ritual
 
-That distinction prevents:
+product
 
-Selective Reveal
+and:
 
-from becoming:
+participation.
 
-a luxury-brand excuse to:
+## Interpretation
 
-hide information.
+Haidilao strengthens:
 
-The deeper requirement remains:
+the boundary
 
-> **Give the guest enough meaning, evidence, fit, and certainty to commit appropriately while preserving only what genuinely benefits from remaining unknown.**
+rather than:
 
-All five NARISAWA comparison files are now complete.
+the frequency.
 
-The research phase for:
+Biography should be:
 
-Independent Restaurant #10
+prominent
 
-has therefore reached:
+when:
 
-governance reconciliation.
+it materially explains:
 
-Evidence wins.
+the product
+
+worldview
+
+authority
+
+origin
+
+or:
+
+hospitality model.
+
+It should not be:
+
+included by convention.
+
+## Governance Recommendation
+
+Retain:
+
+Candidate.
+
+Potential confidence increase.
+
+No maturity promotion yet.
 
 ---
 
-## Comparison Status
+# Pattern Review — Narrative Language Within Clear Interface
 
-NARISAWA Story Comparison Complete
+## Current Status
 
-All Five NARISAWA Comparison Files Complete
+Candidate
+
+## Existing Evidence
+
+Strong evidence across:
+
+Dishoom
+
+Mawimbi
+
+Alinea
+
+and:
+
+other concept-led experiences.
+
+## Haidilao Contribution
+
+Haidilao demonstrates:
+
+another boundary.
+
+Functional labels can remain:
+
+plain
+
+while:
+
+the hospitality meaning remains:
+
+strong.
+
+## Interpretation
+
+Narrative language should:
+
+enrich
+
+not:
+
+replace:
+
+functional clarity.
+
+## Governance Recommendation
+
+Retain:
+
+Candidate.
+
+Potential confidence increase.
+
+No promotion yet.
 
 ---
 
-## NARISAWA Research Cycle Status
+# Pattern Review — Story Through Place
 
-Restaurant-Level Dossier:
+## Current Status
+
+Emerging
+
+## Strong Evidence
+
+- Ankole
+- Talisman
+- Bistro Lolo
+- Dishoom
+
+## Haidilao Contradiction
+
+Haidilao demonstrates:
+
+a strong hospitality identity
+
+without:
+
+Toronto Downtown-specific place
+
+being:
+
+the dominant narrative mechanism.
+
+## Interpretation
+
+Healthy boundary.
+
+Story Through Place remains:
+
+a legitimate mechanism
+
+not:
+
+a universal requirement.
+
+## Governance Recommendation
+
+Retain:
+
+Emerging.
+
+No confidence increase from:
+
+Haidilao.
+
+---
+
+# Pattern Review — Heritage Builds Confidence
+
+## Current Status
+
+Candidate
+
+## Strong Evidence
+
+- Talisman
+- Dishoom
+
+with:
+
+other contextual support.
+
+## Haidilao Contradiction
+
+Haidilao does not need:
+
+heritage
+
+to create:
+
+the primary hospitality story.
+
+## Interpretation
+
+Heritage remains:
+
+context-specific.
+
+Its usefulness depends on:
+
+whether:
+
+history
+
+actually explains:
+
+the experience
+
+or:
+
+strengthens:
+
+relevant confidence.
+
+## Governance Recommendation
+
+Retain:
+
+Candidate.
+
+Boundary strengthened.
+
+---
+
+# Finding 1 — The Hospitality Model Can Carry Story
+
+## Haidilao Evidence
+
+The restaurant communicates:
+
+what it believes hospitality should be
+
+through:
+
+- service
+- guest participation
+- social connection
+- hot pot ritual
+- team behaviour
+
+## Possible Existing Support
+
+### Franklin
+
+Craft
+
+queue
+
+and:
+
+operational reality
+
+carry:
+
+meaning.
+
+### FYN
+
+Experience structure
+
+and:
+
+authorship
+
+carry:
+
+meaning.
+
+### Dishoom
+
+Social hospitality
+
+and:
+
+cultural world
+
+carry:
+
+meaning.
+
+### Alinea
+
+Experience architecture
+
+carries:
+
+meaning.
+
+## Research Direction
+
+### Story Through Hospitality Model
+
+Possible definition:
+
+> A hospitality brand may communicate identity through the structure of its product, service, guest role, and participation system when those elements collectively express what the experience means.
+
+## Status
+
+Observed Research Direction
+
+## Confidence
+
+Low to Medium
+
+## Governance Recommendation
+
+Strong Candidate Watch.
+
+Do not promote yet.
+
+First determine whether:
+
+this is:
+
+distinct from:
+
+Narrative Coherence Through Organising Logic
+
+or:
+
+a mechanism within it.
+
+This deduplication is important.
+
+---
+
+# Finding 2 — Service Philosophy Can Carry Narrative Meaning
+
+## Strongest Evidence
+
+- Haidilao
+
+## Possible Partial Support
+
+- FYN
+- Talisman
+- Dishoom
+
+depending on:
+
+available service evidence.
+
+## Interpretation
+
+How guests should be treated
+
+can become:
+
+part of:
+
+brand meaning.
+
+However:
+
+service claims require:
+
+operational delivery
+
+to become:
+
+experienced truth.
+
+## Research Direction
+
+### Service Philosophy as Story
+
+Status:
+
+Observed
+
+Confidence:
+
+Low
+
+Do not promote.
+
+---
+
+# Finding 3 — Ritual Can Carry Story
+
+## Strongest Evidence
+
+- Haidilao
+
+## Potential Comparative Evidence
+
+- Alinea
+- NARISAWA
+- FYN
+- Franklin
+
+through:
+
+different forms of:
+
+ritual
+
+or:
+
+sequence.
+
+## Interpretation
+
+Repeated guest actions may:
+
+communicate:
+
+what the hospitality experience values.
+
+Examples may include:
+
+- communal cooking
+- sequencing
+- tableside preparation
+- tasting progression
+- queue ritual
+- service ceremony
+
+## Research Direction
+
+### Ritual as Story
+
+Status:
+
+Observed Research Direction
+
+Confidence:
+
+Low
+
+Potentially important.
+
+Do not promote.
+
+---
+
+# Finding 4 — Story Can Become Operational Promise
+
+## Haidilao Example
+
+If the story says:
+
+personalized service
+
+then:
+
+staff behaviour
+
+must:
+
+deliver.
+
+If the story says:
+
+social connection
+
+then:
+
+the experience
+
+must:
+
+support:
+
+interaction.
+
+If the story says:
+
+participation
+
+then:
+
+the product system
+
+must:
+
+allow:
+
+meaningful guest action.
+
+## Interpretation
+
+Some hospitality narratives are:
+
+operational claims.
+
+They cannot be:
+
+validated
+
+through:
+
+copy
+
+or:
+
+photography alone.
+
+## Research Direction
+
+### Operational Narrative
+
+Definition:
+
+> A hospitality story becomes an operational narrative when its meaning depends on the organization actually delivering specific service, product, participation, or behavioural conditions.
+
+Status:
+
+Observed Research Direction
+
+Confidence:
+
+Low
+
+This may be:
+
+better treated as:
+
+an evidence category
+
+rather than:
+
+a pattern.
+
+Hold.
+
+---
+
+# Finding 5 — The Guest Can Complete the Story
+
+Across the research:
+
+The Guest as Participant
+
+has appeared in:
+
+different forms.
+
+Haidilao creates:
+
+the strongest physical version.
+
+The narrative:
+
+Hot Pot
+
+↓
+
+Shared Preparation
+
+↓
+
+Conversation
+
+↓
+
+Service
+
+↓
+
+Shared Experience
+
+cannot fully exist:
+
+without:
+
+guest action.
+
+## Interpretation
+
+Some hospitality stories are:
+
+co-produced.
+
+The guest is:
+
+not only:
+
+the audience.
+
+They are:
+
+part of:
+
+the narrative mechanism.
+
+This strengthens:
+
+The Guest as Participant
+
+across:
+
+story
+
+atmosphere
+
+and:
+
+participation.
+
+---
+
+# Finding 6 — Biography and Team Behaviour Are Different Narrative Mechanisms
+
+The current research now supports:
+
+an important distinction.
+
+## Biography
+
+Explains:
+
+- origin
+- authority
+- worldview
+- expertise
+- authorship
+
+Examples:
+
+- Franklin
+- FYN
+- Alinea
+- NARISAWA
+
+## Team Behaviour
+
+Explains:
+
+how:
+
+the hospitality promise
+
+is enacted.
+
+Strongest current pressure:
+
+- Haidilao
+
+These should not be:
+
+collapsed.
+
+A brand can be:
+
+people-shaped
+
+without:
+
+being:
+
+biography-led.
+
+---
+
+# Finding 7 — Scale Creates Narrative Tension
+
+Haidilao adds:
+
+another important narrative variable.
+
+## Brand Story
+
+What:
+
+Haidilao
+
+means globally.
+
+## Location Story
+
+What:
+
+Toronto Downtown
+
+means specifically.
+
+The current digital ecosystem is:
+
+stronger at:
+
+brand-level meaning.
+
+This creates:
+
+a tension:
+
+### Brand Consistency
+
+versus:
+
+### Local Narrative Specificity
+
+This mirrors:
+
+the arrival
+
+photography
+
+and:
+
+atmosphere comparisons.
+
+## Status
+
+Research Tension
+
+Confidence:
+
+Medium
+
+---
+
+# Finding 8 — Meaning Can Be Embedded in Utility
+
+Haidilao helps clarify:
+
+that:
+
+functional features
+
+do not necessarily sit:
+
+outside:
+
+story.
+
+Example:
+
+a hot pot guide
+
+is:
+
+useful.
+
+But:
+
+it also communicates:
+
+participation
+
+sharing
+
+and:
+
+how the product works.
+
+A membership system is:
+
+functional.
+
+But:
+
+it may also signal:
+
+an ongoing relationship.
+
+Therefore:
+
+utility
+
+may carry:
+
+narrative meaning
+
+when:
+
+it expresses:
+
+something important
+
+about:
+
+the hospitality model.
+
+This supports:
+
+the broader correction from:
+
+Arrival.
+
+---
+
+# Finding 9 — Strong Story Does Not Require Maximum Explicitness
+
+The research now includes:
+
+two important directions.
+
+## Explicit Narrative
+
+Examples:
+
+- Cultiva
+- Talisman
+- Dishoom
+- NARISAWA
+
+## Embedded Narrative
+
+Examples:
+
+- Franklin
+- Haidilao
+- aspects of Alinea
+
+Both can:
+
+create meaning.
+
+Therefore:
+
+KHDS should ask:
+
+> How much story must be stated because the guest could not otherwise infer it?
+
+rather than:
+
+> How much story can we add?
+
+This reinforces:
+
+restraint
+
+without:
+
+turning studio philosophy into:
+
+research evidence.
+
+---
+
+# Finding 10 — Narrative Carrier Should Follow Explanatory Value
+
+The research increasingly supports:
+
+one broad logic:
+
+What most meaningfully explains:
+
+why this hospitality experience is:
+
+what it is?
+
+Possible answers:
+
+- place
+- worldview
+- heritage
+- biography
+- product
+- ecology
+- service
+- ritual
+- operating model
+- cultural memory
+- guest participation
+
+The correct narrative carrier is:
+
+the one with:
+
+explanatory value.
+
+This logic has already strengthened:
+
+Biography When It Explains the Experience.
+
+Haidilao expands:
+
+the same idea
+
+beyond:
+
+biography.
+
+---
+
+# Story Variables
+
+Future research should consider:
+
+## Hospitality Meaning
+
+What is the experience:
+
+ultimately about?
+
+## Primary Narrative Carrier
+
+What best explains:
+
+that meaning?
+
+## Explanatory Value
+
+Why does this information:
+
+matter to:
+
+the guest?
+
+## Explicitness
+
+Must the story be:
+
+said
+
+or:
+
+can it be:
+
+experienced?
+
+## Authorship
+
+Does a person materially explain:
+
+the experience?
+
+## Place
+
+Does the location:
+
+carry:
+
+identity?
+
+## Worldview
+
+Does philosophy:
+
+organise:
+
+the hospitality model?
+
+## Heritage
+
+Does history:
+
+create relevant confidence?
+
+## Service
+
+Does treatment of guests:
+
+carry:
+
+brand meaning?
+
+## Ritual
+
+Do repeated actions:
+
+express:
+
+the experience?
+
+## Guest Role
+
+Does the guest:
+
+complete:
+
+the story?
+
+## Operating Model
+
+Does:
+
+how the restaurant works
+
+explain:
+
+what the brand believes?
+
+## Evidence Requirement
+
+Can the narrative claim be:
+
+verified
+
+through:
+
+public digital evidence?
+
+---
+
+# Updated Working Story Model
+
+Hospitality Meaning
+
+↓
+
+What Best Explains It?
+
+↓
+
+Primary Narrative Carrier
+
+↓
+
+Place
+Worldview
+Heritage
+Biography
+Product
+Craft
+Cultural Memory
+Ecology
+Service
+Ritual
+Participation
+Operating Model
+
+↓
+
+Relevant Evidence
+
+↓
+
+Guest Understanding
+
+↓
+
+Fit
+
+↓
+
+Participation
+
+The sequence may be:
+
+editorial
+
+or:
+
+embedded.
+
+The key requirement is:
+
+coherence
+
+and:
+
+explanatory value.
+
+---
+
+# Critical Correction — Story Before Features
+
+The phrase should no longer be interpreted as:
+
+a literal page sequence.
+
+The strongest research-level interpretation now appears closer to:
+
+> **Hospitality functions should remain connected to the meaning of the experience rather than being presented as an unrelated collection of features.**
+
+This is:
+
+a proposed comparison conclusion.
+
+It is not yet:
+
+the canonical governance definition.
+
+---
+
+# Critical Correction — Narrative Coherence
+
+Narrative coherence should not require:
+
+one:
+
+tone
+
+section
+
+voice
+
+or:
+
+content format.
+
+It requires:
+
+the relevant narrative carriers
+
+to make sense:
+
+together.
+
+For Haidilao:
+
+Service
+
+Ritual
+
+Participation
+
+Social Connection
+
+and:
+
+Operating Model
+
+are:
+
+compatible carriers.
+
+For Talisman:
+
+Heritage
+
+Place
+
+Growth
+
+and:
+
+Reputation
+
+are:
+
+compatible carriers.
+
+For NARISAWA:
+
+Ecology
+
+Authorship
+
+Nature
+
+and:
+
+Culinary Philosophy
+
+are:
+
+compatible carriers.
+
+The carrier changes.
+
+The requirement for:
+
+coherence
+
+does not.
+
+---
+
+# Cross-Restaurant Narrative Carriers
+
+## Place
+
+Strong in:
+
+- Ankole
+- Talisman
+- Bistro Lolo
+- Dishoom
+
+## Worldview / Philosophy
+
+Strong in:
+
+- Cultiva
+- FYN
+- NARISAWA
+
+## Heritage / Cultural Memory
+
+Strong in:
+
+- Talisman
+- Dishoom
+
+## Biography / Authorship
+
+Strong in:
+
+- Franklin
+- FYN
+- Alinea
+- NARISAWA
+
+## Concept / Organising Idea
+
+Strong in:
+
+- Mawimbi
+- Dishoom
+- Cultiva
+
+## Product / Craft
+
+Strong in:
+
+- Franklin
+- FYN
+- NARISAWA
+
+## Service
+
+Strongest current example:
+
+- Haidilao
+
+## Ritual
+
+Strongest current example:
+
+- Haidilao
+
+Potential support:
+
+- Alinea
+- FYN
+- NARISAWA
+
+## Operating Model
+
+Strongest current examples:
+
+- Haidilao
+- Franklin
+
+with:
+
+different mechanisms.
+
+## Guest Participation
+
+Strongest current example:
+
+- Haidilao
+
+---
+
+# Current Contradiction Summary
+
+Haidilao creates five major narrative corrections.
+
+## Correction 1
+
+Story
+
+does not equal:
+
+editorial storytelling.
+
+---
+
+## Correction 2
+
+Story Before Features
+
+does not require:
+
+story content before:
+
+utility.
+
+---
+
+## Correction 3
+
+Biography
+
+is:
+
+one narrative carrier
+
+not:
+
+the default one.
+
+---
+
+## Correction 4
+
+Service
+
+ritual
+
+and:
+
+operations
+
+can carry:
+
+brand meaning.
+
+---
+
+## Correction 5
+
+Some stories are:
+
+operational promises
+
+that:
+
+website evidence cannot:
+
+validate.
+
+These corrections materially improve:
+
+the current KHDS story architecture.
+
+---
+
+# Governance Recommendation From Story Comparison
+
+Now that all five Haidilao comparison dimensions are complete:
+
+do not edit governance blindly.
+
+The five comparison files should be reconciled together.
+
+Preliminary story recommendations are:
+
+## Story Before Features
+
+Status:
+
+Emerging
+
+Action:
+
+Retain.
+
+Major definition refinement required.
+
+---
+
+## Narrative Coherence Through Organising Logic
+
+Status:
+
+Emerging
+
+Action:
+
+Retain.
+
+Potential confidence increase.
+
+Explicitly allow:
+
+behavioural
+
+and:
+
+operational organising logic.
+
+---
+
+## Story Through Place
+
+Status:
+
+Emerging
+
+Action:
+
+Retain.
+
+Haidilao strengthens:
+
+context boundary
+
+rather than:
+
+support.
+
+---
+
+## Biography When It Explains the Experience
+
+Status:
+
+Candidate
+
+Action:
+
+Retain.
+
+Potential confidence increase.
+
+Haidilao supports:
+
+explanatory-value boundary.
+
+---
+
+## Heritage Builds Confidence
+
+Status:
+
+Candidate
+
+Action:
+
+Retain.
+
+Context boundary strengthened.
+
+---
+
+## Narrative Language Within Clear Interface
+
+Status:
+
+Candidate
+
+Action:
+
+Retain.
+
+Potential confidence increase.
+
+---
+
+# New Directions Worth Carrying Forward
+
+## Story Through Hospitality Model
+
+Status:
+
+Strong Candidate Watch
+
+Need deduplication against:
+
+Narrative Coherence Through Organising Logic.
+
+---
+
+## Service Philosophy as Story
+
+Status:
+
+Observed Research Direction
+
+---
+
+## Ritual as Story
+
+Status:
+
+Observed Research Direction
+
+---
+
+## Operational Narrative
+
+Status:
+
+Observed Evidence / Architecture Direction
+
+---
+
+## Team Behaviour as Brand Story
+
+Status:
+
+Observed Research Direction
+
+None should:
+
+enter governance automatically.
+
+---
+
+# Haidilao Contribution
+
+Haidilao's largest contribution to:
+
+story research
+
+is:
+
+forcing a distinction between:
+
+having a story
+
+and:
+
+telling a story.
+
+A restaurant may communicate meaning through:
+
+a beautifully written narrative.
+
+Or:
+
+through:
+
+how service works
+
+what guests do
+
+how food is shared
+
+how participation is structured
+
+and:
+
+what kind of social experience the system creates.
+
+The better KHDS question is therefore:
+
+> **What carries the meaning of this hospitality experience?**
+
+not:
+
+> **Where should we put the story?**
+
+That is:
+
+a materially stronger foundation
+
+for:
+
+future hospitality design.
+
+---
+
+# Haidilao Five-Dimension Reconciliation Status
+
+Arrival:
 
 Complete
 
-Cross-Restaurant Comparison:
+Atmosphere:
 
 Complete
 
-Global Governance Reconciliation:
+Photography:
 
-Ready
+Complete
 
----
+Reservation / Participation:
 
-## Official Governance Before Reconciliation
+Complete
 
-Independent Restaurants:
+Story:
 
-9
+Complete
 
-Kodawa Labs Validation Concepts:
+Cross-Restaurant Reconciliation:
 
-1
+Complete
 
-Emerging:
+Governance Reconciliation:
 
-18
-
-Candidate:
-
-9
-
-Partially Supported:
-
-1
-
-Validated:
-
-0
-
-Research-Derived KHDS Principles:
-
-0
-
-Existing Implementation Patterns Pending Formal Validation:
-
-1
-
-Opportunity Themes:
-
-36
+Pending
 
 ---
 
-## Recommended Governance After Reconciliation
+# Research Status
 
-Independent Restaurants:
+Independent Restaurants Compared:
 
-10
+11
 
-Kodawa Labs Validation Concepts:
+Latest Restaurant:
 
-1
+Haidilao Toronto Downtown
 
-Emerging:
+Haidilao Story Reconciliation:
 
-18
+Complete
 
-Candidate:
+Governance Changes:
 
-9
+Pending
 
-Partially Supported:
+Pattern Promotions:
 
-1
+None
 
-Validated:
+Pattern Demotions:
 
-0
+None
 
-Research-Derived KHDS Principles:
+Next:
 
-0
-
-Existing Implementation Patterns Pending Formal Validation:
-
-1
-
-Opportunity Themes:
-
-36
-
----
-
-## Next Step
-
-Reconcile:
-
-`khds/research/validation/candidate-patterns.md`
-
-Then:
-
-1. `khds/patterns/registry.md`
-2. `khds/research/validation/dashboard.md`
-3. `khds/research/README.md`
-4. `khds/research/validation/README.md`
-
-The governance freeze may now end.
-
-Do not promote:
-
-any pattern
-
-to:
-
-Validated
-
-or
-
-KHDS Principle
-
-during this reconciliation.
+Five-Dimension Governance Reconciliation
