@@ -304,6 +304,59 @@ Track A independent evidence.
 
 ---
 
+# File 9 — implementation-learnings.md
+
+Purpose:
+
+extract:
+
+reusable production knowledge
+
+from:
+
+the completed Trunk & Tandoor case.
+
+This file answers:
+
+> **What should KHDS remember when building the next hospitality experience?**
+
+It should preserve:
+
+- reusable implementation behaviours
+- production architecture lessons
+- responsive lessons
+- accessibility lessons
+- performance lessons
+- participation-state lessons
+- change-control lessons
+- questions that should return to independent research
+
+This file must remain separate from:
+
+`production-validation.md`
+
+because:
+
+`production-validation.md`
+
+records:
+
+what happened.
+
+`implementation-learnings.md`
+
+records:
+
+what KHDS should carry forward.
+
+Production learnings may strengthen:
+
+implementation guidance.
+
+They must not:
+
+increase research maturity.
+
 # Primary Production Question
 
 > **What should Trunk & Tandoor become when the restaurant is designed from hospitality meaning, guest intent, evidence, atmosphere, and participation rather than from interface convention?**
@@ -382,4 +435,5 @@ khds/experiences/trunk-tandoor/
 ├── information-architecture.md
 ├── proof-plan.md
 ├── participation-plan.md
-└── production-validation.md
+├── production-validation.md
+└── implementation-learnings.md
