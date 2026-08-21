@@ -12,8 +12,5 @@ KHDS Production Consumer
 /* Restaurant identity */
 @import url("./theme/theme.css");
 
-/* Internal development tooling */
-@import url("./styles/principles.css");
-
 /* Restaurant-specific composition */
 @import url("./styles/trunk-tandoor.css");

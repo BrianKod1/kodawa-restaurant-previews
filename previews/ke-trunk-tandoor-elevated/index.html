@@ -25,7 +25,18 @@
     rel="stylesheet"
   >
 
-  <link rel="stylesheet" href="./styles.css">
+  <!-- KHDS shared system -->
+<link rel="stylesheet" href="../../khds/tokens/tokens.css">
+<link rel="stylesheet" href="../../khds/components/button.css">
+<link rel="stylesheet" href="../../khds/components/typography.css">
+<link rel="stylesheet" href="../../khds/utilities/layout.css">
+<link rel="stylesheet" href="../../khds/utilities/motion.css">
+
+<!-- Restaurant identity -->
+<link rel="stylesheet" href="./theme/theme.css">
+
+<!-- Restaurant-specific composition -->
+<link rel="stylesheet" href="./styles/trunk-tandoor.css">
 </head>
 
 <body>
@@ -91,10 +102,13 @@
 
       <div class="hero-media" aria-hidden="true">
         <img
-          src="./assets/hero-ladies.jpeg"
-          alt=""
-          fetchpriority="high"
-        >
+  src="./assets/hero-ladies.jpeg"
+  alt=""
+  width="1179"
+  height="700"
+  fetchpriority="high"
+  decoding="async"
+>
       </div>
 
       <div class="hero-shade"></div>
@@ -196,6 +210,7 @@
             src="./assets/city-dining.webp"
             alt="A dining table overlooking the Nairobi skyline"
             loading="lazy"
+            decoding="async"
           >
 
         </figure>
@@ -206,6 +221,7 @@
             src="./assets/night-view.webp"
             alt="The Nairobi city view after dark"
             loading="lazy"
+            decoding="async"
           >
 
           <figcaption>
@@ -235,6 +251,7 @@
           src="./assets/tandoor-platter.webp"
           alt="A platter of Indian-inspired dishes at Trunk and Tandoor"
           loading="lazy"
+          decoding="async"
         >
 
       </div>
@@ -296,6 +313,7 @@
             src="./assets/couple-window.webp"
             alt="Guests sharing drinks beside the rooftop windows"
             loading="lazy"
+            decoding="async"
           >
 
         </figure>
@@ -306,6 +324,7 @@
             src="./assets/wide-interior.webp"
             alt="The rooftop dining room and city-facing seating"
             loading="lazy"
+            decoding="async"
           >
 
         </figure>
