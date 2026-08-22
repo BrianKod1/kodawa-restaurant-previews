@@ -2,11 +2,15 @@
 
 ## Status
 
-Post-Haidilao Registry Reconciliation
+Post-ICHIRAN Registry Mirror
 
-Independent Restaurant Research:
+Canonical Governance Source:
 
-11 Complete
+`khds/research/validation/candidate-patterns.md`
+
+Independent Restaurants:
+
+12
 
 Kodawa Labs Validation Cases:
 
@@ -14,2736 +18,114 @@ Kodawa Labs Validation Cases:
 
 Highest Research-Derived Maturity:
 
-Emerging
-
-Validated Research-Derived Patterns:
-
-0
-
-Research-Derived KHDS Principles:
-
-0
+Candidate
 
 ---
 
 # Purpose
 
-The KHDS Pattern Registry is the official index of:
+This registry mirrors:
 
-research-tracked KHDS patterns.
+the current KHDS pattern state
 
-It provides:
+defined by:
 
-a concise system-level view of:
+`khds/research/validation/candidate-patterns.md`.
 
-- pattern name
+It exists to provide:
+
+a clear operational view
+
+of:
+
+- research-derived patterns
 - maturity
 - confidence
-- current definition
-- major boundaries
-- current evidence position
-- governance relationship
+- status
+- boundaries
+- implementation-pattern separation
 
-Detailed Candidate governance remains in:
+This file must not:
 
-`../research/validation/candidate-patterns.md`
+independently:
 
-The registry must:
-
-mirror governance.
-
-It must not:
-
-independently promote
-
-rename
+promote
 
 demote
 
+rename
+
+merge
+
 or:
 
-reinterpret:
+create:
 
-patterns.
+research patterns.
+
+Canonical research governance lives in:
+
+`khds/research/validation/candidate-patterns.md`.
+
+---
+
+# Governance Rule
+
+> **Research narrows the decision space. It does not make the decision for us.**
+
+Pattern maturity should reflect:
+
+independent evidence
+
+transferability
+
+contradiction resistance
+
+definition clarity
+
+falsifiability
+
+and:
+
+boundary precision.
+
+Production success
+
+must not:
+
+promote:
+
+research maturity.
 
 ---
 
 # Governance Hierarchy
 
-When governance files differ:
-
-use this order.
-
-1. `research/validation/candidate-patterns.md`
-2. `patterns/registry.md`
-3. `research/validation/dashboard.md`
-4. `research/README.md`
-5. `research/validation/README.md`
-
-The Candidate governance file is:
-
-canonical.
-
-The registry is:
-
-the official pattern index.
-
----
-
-# Pattern Lifecycle
-
-Observed
-
-↓
-
-Candidate
-
-↓
-
-Emerging
-
-↓
-
-Validated
-
-↓
-
-KHDS Principle
-
-↓
-
-Production Experience
-
-Pattern maturity describes:
-
-research confidence.
-
-It does not describe:
-
-implementation availability.
-
----
-
-# Evidence Tracks
-
-## Track A — Independent Hospitality Research
-
-Current independent research set:
-
-1. Ankole
-2. Cultiva
-3. Talisman
-4. Mawimbi
-5. Bistro Lolo
-6. FYN
-7. Dishoom Covent Garden
-8. Franklin Barbecue
-9. Alinea
-10. NARISAWA
-11. Haidilao Toronto Downtown
-
-Track A determines:
-
-research maturity.
-
----
-
-## Track B — Kodawa Labs Validation
-
-Current production / validation case:
-
-- Trunk & Tandoor
-
-Track B may inform:
-
-- implementation
-- production architecture
-- component behaviour
-- responsive strategy
-- technical feasibility
-- translation quality
-
-Track B must not independently change:
-
-research maturity.
-
----
-
-# Official Registry State
-
-## Emerging Patterns
-
-18
-
-## Candidate Patterns
-
-9
-
-## Partially Supported Findings
-
-1
-
-## Validated Patterns
-
-0
-
-## Research-Derived KHDS Principles
-
-0
-
-## Existing Implementation Patterns Pending Validation
-
-1
-
-## Independent Restaurants
-
-11
-
-## Opportunity Themes
-
-36
-
----
-
-# Registry Summary
-
-| # | Pattern | Status | Confidence | Post-Haidilao Position |
-|---|---|---|---|---|
-| 1 | Emotion Before Interface | Emerging | High | Definition boundary refined |
-| 2 | Story Before Features | Emerging | High | Major definition refinement |
-| 3 | Photography Before Decoration | Emerging | High | Evidence-medium boundary refined |
-| 4 | Participation Throughout the Journey | Emerging | High | Participation scope expanded |
-| 5 | Atmosphere Through Consistency | Emerging | High | Behavioural and operational coherence added |
-| 6 | Multi-Intent Hospitality | Emerging | High | Strongly supported |
-| 7 | Commitment Without Pressure | Emerging | High | Real constraint vs artificial pressure clarified |
-| 8 | Photography as Proof | Emerging | High | Claim-specific proof refined |
-| 9 | Story Through Place | Emerging | Medium-High | Context boundary strengthened |
-| 10 | Promise Before Proof | Emerging | Medium-High | Retained |
-| 11 | Layered Arrival | Emerging | High | Sequential or concurrent layering clarified |
-| 12 | Narrative Coherence Through Organising Logic | Emerging | High | Operational organising logic added |
-| 13 | The Guest as Participant | Emerging | High | Participation depth expanded |
-| 14 | Photography Through Layers of Experience | Emerging | High | Behavioural states added |
-| 15 | Human Assistance Where Structured Self-Service Is Insufficient | Emerging | Medium-High | Human assistance vs human service clarified |
-| 16 | Atmosphere as Product | Emerging | High | Experienced environment broadened beyond aesthetics |
-| 17 | Escalating Participation Complexity | Emerging | Medium-High | Complexity vs friction formally separated |
-| 18 | Photography Should Demonstrate Difference | Emerging | High | Difference mechanism refined |
-| 19 | Atmosphere Through Worldview | Candidate | Medium-High | Context boundary strengthened |
-| 20 | Show the System Behind the Plate | Candidate | High | Hospitality-system boundary exposed |
-| 21 | Heritage Builds Confidence | Candidate | Medium | Context boundary strengthened |
-| 22 | Atmosphere Through Continuity | Candidate | Medium | Retained |
-| 23 | Designed Escape | Candidate | Medium | Engagement contrast strengthened |
-| 24 | Biography When It Explains the Experience | Candidate | High | Explanatory-value boundary strengthened |
-| 25 | Narrative Language Within Clear Interface | Candidate | High | Functional clarity strengthened |
-| 26 | Photography as Use-Case Evidence | Candidate | Medium-High | Increased from Medium |
-| 27 | Walk-In as First-Class Participation | Candidate | High | Retained; Haidilao support remains provisional |
-| 28 | Own the Guest Relationship | Partially Supported | Medium | No maturity change |
-| 29 | Invitation | Existing Implementation Pattern | Pending Formal Validation | Track B implementation pattern |
-
----
-
-# Emerging Pattern 1
-
-# Emotion Before Interface
-
-## Status
-
-Emerging
-
-## Confidence
-
-High
-
-## Current Definition
-
-> **The interface should support the emotional and hospitality meaning of the experience rather than flattening the restaurant into disconnected functions.**
-
----
-
-## Important Boundary
-
-Emotion Before Interface
-
-does not mean:
-
-Emotion Before Utility.
-
-Useful functional access may appear:
-
-early
-
-when:
-
-it serves:
-
-guest intent
-
-and:
-
-does not erase:
-
-hospitality meaning.
-
----
-
-## Strong Evidence Across
-
-- Ankole
-- Cultiva
-- Talisman
-- Mawimbi
-- Bistro Lolo
-- FYN
-- Dishoom
-- Alinea
-- NARISAWA
-
-## Haidilao Contribution
-
-Haidilao provides:
-
-boundary evidence.
-
-Meaning
-
-and:
-
-utility
-
-can develop:
-
-in parallel.
-
----
-
-# Emerging Pattern 2
-
-# Story Before Features
-
-## Status
-
-Emerging
-
-## Confidence
-
-High
-
-## Current Definition
-
-> **Practical features should remain connected to the meaning of the hospitality experience rather than appearing as an unrelated collection of functions.**
-
----
-
-## Important Boundary
-
-Story Before Features
-
-does not mean:
-
-Story Page Before Functions.
-
-Story
-
-does not mean:
-
-editorial storytelling.
-
-Meaning may be carried through:
-
-- place
-- worldview
-- product
-- service
-- ritual
-- participation
-- operating model
-
----
-
-## Haidilao Contribution
-
-Haidilao demonstrates:
-
-that:
-
-story
-
-can live inside:
-
-how hospitality works.
-
----
-
-# Emerging Pattern 3
-
-# Photography Before Decoration
-
-## Status
-
-Emerging
-
-## Confidence
-
-High
-
-## Current Definition
-
-> **Authentic evidence should carry hospitality meaning before decorative representation is used to simulate that meaning.**
-
-Photography remains:
-
-a primary evidence medium.
-
-It is not:
-
-the only evidence medium.
-
----
-
-## Important Boundary
-
-Photography Before Decoration
-
-does not mean:
-
-Photography Before Everything.
-
-Other valid evidence may include:
-
-- motion
-- process
-- copy
-- interaction
-- service demonstration
-- functional interface evidence
-
-when:
-
-those media prove:
-
-the claim more truthfully.
-
----
-
-# Emerging Pattern 4
-
-# Participation Throughout the Journey
-
-## Status
-
-Emerging
-
-## Confidence
-
-High
-
-## Current Definition
-
-> **Hospitality participation should remain understandable and appropriately supported across the guest states that matter from intent through experience and, where relevant, continuing relationship.**
-
----
-
-## Participation May Include
-
-- discovery
-- selection
-- reservation
-- walk-in
-- waiting
-- arrival
-- table interaction
-- product participation
-- service
-- completion
-- membership
-- return relationship
-
----
-
-## Haidilao Contribution
-
-Haidilao expands:
-
-participation
-
-beyond:
-
-booking.
-
----
-
-# Emerging Pattern 5
-
-# Atmosphere Through Consistency
-
-## Status
-
-Emerging
-
-## Confidence
-
-High
-
-## Current Definition
-
-> **Atmospheric coherence strengthens when the meaningful systems of the hospitality experience reinforce compatible emotional expectations.**
-
----
-
-## Relevant Systems May Be
-
-- visual
-- spatial
-- narrative
-- behavioural
-- operational
-- social
-- ritual
-
----
-
-## Important Boundary
-
-Consistency does not mean:
-
-everything looks:
-
-the same.
-
-Consistency means:
-
-the relevant systems make sense:
-
-together.
-
----
-
-# Emerging Pattern 6
-
-# Multi-Intent Hospitality
-
-## Status
-
-Emerging
-
-## Confidence
-
-High
-
-## Current Definition
-
-> **Hospitality systems should recognise materially different guest intents and provide proportionate participation routes without manufacturing unnecessary complexity.**
-
----
-
-## Important Boundary
-
-Multi-Intent Hospitality
-
-must not become:
-
-Multi-Interface Hospitality.
-
-A naturally simple journey should remain:
-
-simple.
-
----
-
-## Haidilao Contribution
-
-Strong support through intents including:
-
-- location discovery
-- reservation
-- menu exploration
-- hot pot education
-- membership
-- contact
-- participation preparation
-
----
-
-# Emerging Pattern 7
-
-# Commitment Without Pressure
-
-## Status
-
-Emerging
-
-## Confidence
-
-High
-
-## Current Definition
-
-> **Hospitality experiences should make commitment understandable and proportionate without relying on manipulative urgency or unnecessary pressure.**
-
----
-
-## Important Boundary
-
-Real constraints include:
-
-- capacity
-- availability
-- waiting
-- genuine scarcity
-- cancellation policies
-
-These are not:
-
-artificial pressure.
-
----
-
-# Emerging Pattern 8
-
-# Photography as Proof
-
-## Status
-
-Emerging
-
-## Confidence
-
-High
-
-## Current Definition
-
-> **Photography functions as proof when what is visibly shown materially supports a meaningful hospitality claim or reduces a relevant guest uncertainty.**
-
----
-
-## Proof May Include
-
-- product
-- place
-- atmosphere
-- craft
-- process
-- people
-- use
-- participation
-- behaviour
-
----
-
-## Important Boundary
-
-An authentic image is not:
-
-automatically proof.
-
-The image must support:
-
-the claim.
-
----
-
-# Emerging Pattern 9
-
-# Story Through Place
-
-## Status
-
-Emerging
-
-## Confidence
-
-Medium-High
-
-## Current Definition
-
-> **Place can become a primary narrative carrier when location, environment, architecture, landscape, or physical context materially explains the hospitality experience.**
-
----
-
-## Strong Evidence
-
-- Ankole
-- Talisman
-- Bistro Lolo
-- Dishoom
-
----
-
-## Haidilao Boundary
-
-A restaurant may have:
-
-strong identity
-
-without:
-
-place
-
-being:
-
-the main story mechanism.
-
----
-
-# Emerging Pattern 10
-
-# Promise Before Proof
-
-## Status
-
-Emerging
-
-## Confidence
-
-Medium-High
-
-## Current Definition
-
-> **Hospitality may establish an emotional or experiential promise before presenting complete supporting evidence, provided the experience later supplies enough credible proof to justify that promise.**
-
----
-
-## Important Boundary
-
-A stronger promise creates:
-
-a stronger proof obligation.
-
----
-
-# Emerging Pattern 11
-
-# Layered Arrival
-
-## Status
-
-Emerging
-
-## Confidence
-
-High
-
-## Current Definition
-
-> **Arrival may build guest confidence through multiple connected forms of meaning, utility, evidence, and participation understanding rather than depending on one universal opening sequence.**
-
----
-
-## Important Boundary
-
-Layers may be:
-
-sequential
-
-or:
-
-concurrent.
-
-Layered Arrival does not require:
-
-slow reveal.
-
----
-
-## Post-Haidilao Working Rule
-
-> **Arrival should resolve the right uncertainty rather than obey a preferred storytelling sequence.**
-
----
-
-# Emerging Pattern 12
-
-# Narrative Coherence Through Organising Logic
-
-## Status
-
-Emerging
-
-## Confidence
-
-High
-
-## Current Definition
-
-> **A hospitality experience becomes narratively coherent when its important elements are organised around a meaningful underlying logic that explains why they belong together.**
-
----
-
-## Organising Logic May Be
-
-- worldview
-- concept
-- place
-- product
-- cultural memory
-- service
-- ritual
-- participation
-- operating model
-
----
-
-## Haidilao Contribution
-
-Operational
-
-and:
-
-behavioural
-
-logic
-
-can organise:
-
-story.
-
----
-
-# Emerging Pattern 13
-
-# The Guest as Participant
-
-## Status
-
-Emerging
-
-## Confidence
-
-High
-
-## Current Definition
-
-> **Hospitality may become more meaningful when the guest has an intentional role inside the experience rather than remaining only a passive recipient.**
-
----
-
-## Participation Depth
-
-### Level 1 — Narrative Participation
-
-The guest is:
-
-included in:
-
-meaning.
-
-### Level 2 — Choice Participation
-
-The guest selects:
-
-options.
-
-### Level 3 — Experience Participation
-
-The guest influences:
-
-how the experience unfolds.
-
-### Level 4 — Product Participation
-
-The guest directly helps:
-
-produce
-
-prepare
-
-or:
-
-complete:
-
-the hospitality product.
-
----
-
-## Haidilao Contribution
-
-Strong Level 4 evidence.
-
----
-
-# Emerging Pattern 14
-
-# Photography Through Layers of Experience
-
-## Status
-
-Emerging
-
-## Confidence
-
-High
-
-## Current Definition
-
-> **Photography may build a fuller understanding of hospitality by proving several distinct layers of the experience rather than repeating one visual subject.**
-
----
-
-## Possible Layers
-
-- food
-- place
-- people
-- atmosphere
-- process
-- heritage
-- craft
-- waiting
-- service
-- participation
-- social interaction
-
----
-
-## Important Boundary
-
-A layer should represent:
-
-new information.
+1. `khds/research/validation/candidate-patterns.md`
+2. `khds/patterns/registry.md`
+3. `khds/research/validation/dashboard.md`
+4. `khds/research/README.md`
+5. `khds/research/validation/README.md`
+
+This registry is:
+
+a mirror.
 
 Not:
 
-gallery volume.
+the decision source.
 
 ---
 
-# Emerging Pattern 15
+# Governance Layer Separation
 
-# Human Assistance Where Structured Self-Service Is Insufficient
+KHDS currently contains:
 
-## Status
+three distinct knowledge layers.
 
-Emerging
-
-## Confidence
-
-Medium-High
-
-## Current Definition
-
-> **Human assistance should remain available where structured self-service cannot adequately resolve the guest's functional participation needs.**
-
----
-
-## Typical Triggers
-
-- exception
-- uncertainty
-- unusual request
-- coordination
-- accessibility need
-- physical flow
-- incompatibility with the normal route
-
----
-
-## Haidilao Boundary
-
-Human assistance
-
-and:
-
-human service
-
-are:
-
-different.
-
-### Human Assistance
-
-The guest needs:
-
-help.
-
-### Experiential Human Service
-
-Human interaction itself creates:
-
-hospitality value.
-
-Experiential Human Service remains:
-
-below Candidate.
-
----
-
-# Emerging Pattern 16
-
-# Atmosphere as Product
-
-## Status
-
-Emerging
-
-## Confidence
-
-High
-
-## Current Definition
-
-> **Atmosphere becomes part of the product when the experienced emotional environment materially contributes to why the guest chooses or values the hospitality experience.**
-
----
-
-## Atmosphere May Be Produced Through
-
-- place
-- architecture
-- design
-- service
-- ritual
-- social interaction
-- cultural meaning
-- participation
-
----
-
-## Haidilao Contribution
-
-Atmosphere may be:
-
-behavioural
-
-and:
-
-service-generated.
-
-It does not need:
-
-architectural spectacle.
-
----
-
-# Emerging Pattern 17
-
-# Escalating Participation Complexity
-
-## Status
-
-Emerging
-
-## Confidence
-
-Medium-High
-
-## Current Definition
-
-> **Participation systems should respond proportionately to the kind of complexity involved, reducing unnecessary administrative burden while preserving complexity that materially creates hospitality value.**
-
----
-
-## Complexity Types
-
-### Administrative Complexity
-
-Usually:
-
-reduce
-
-structure
-
-or:
-
-escalate.
-
-### Commitment Complexity
-
-Clarify:
-
-before commitment.
-
-### Exception Complexity
-
-Provide:
-
-appropriate assistance.
-
-### Meaningful Participatory Complexity
-
-Potentially:
-
-preserve.
-
----
-
-## Haidilao Correction
-
-Complexity
-
-does not equal:
-
-friction.
-
----
-
-# Emerging Pattern 18
-
-# Photography Should Demonstrate Difference
-
-## Status
-
-Emerging
-
-## Confidence
-
-High
-
-## Current Definition
-
-> **Hospitality photography should reveal the meaningful mechanism of difference rather than merely reproduce attractive category imagery.**
-
----
-
-## Possible Difference Mechanisms
-
-- product
-- craft
-- process
-- place
-- sourcing
-- service
-- participation
-- ritual
-- social use
-- atmosphere
-
----
-
-## Haidilao Contribution
-
-Generic hot-pot imagery does not necessarily explain:
-
-Haidilao.
-
-Service
-
-participation
-
-and:
-
-ritual
-
-may carry:
-
-more differentiation.
-
----
-
-# Candidate Pattern 1
-
-# Atmosphere Through Worldview
-
-## Status
-
-Candidate / Under Review
-
-## Confidence
-
-Medium-High
-
-## Current Definition
-
-> **A restaurant may create atmospheric coherence through a broader worldview when that worldview is materially translated into the product, environment, experience, story, or participation rather than remaining only as declared philosophy.**
-
----
-
-## Strong Evidence
-
-- Cultiva
-- FYN
-- Dishoom
-- NARISAWA
-
----
-
-## Strong Contradiction / Boundary Evidence
-
-- Franklin
-- Alinea
-- Haidilao
-
----
-
-## Important Boundary
-
-Worldview is:
-
-one atmosphere mechanism.
-
-It is not:
-
-a synonym for:
-
-any coherent concept.
-
-Do not broaden:
-
-until:
-
-the Candidate becomes unfalsifiable.
-
----
-
-# Candidate Pattern 2
-
-# Show the System Behind the Plate
-
-## Status
-
-Candidate
-
-## Confidence
-
-High
-
-## Current Definition
-
-> **When a meaningful evidence gap remains because important product difference depends on a system the guest would not otherwise understand, reveal enough of that relevant system to close the gap.**
-
----
-
-## Strong Evidence
-
-- Cultiva
-- Franklin
-- NARISAWA
-
----
-
-## Important Boundary
-
-The pattern concerns:
-
-relevant product
-
-culinary
-
-craft
-
-source
-
-or:
-
-production systems.
-
-Do not expand it into:
-
-every invisible hospitality system.
-
----
-
-## Post-Haidilao Research Direction
-
-Hospitality System Proof
-
-remains:
-
-separate
-
-and:
-
-below Candidate.
-
----
-
-# Candidate Pattern 3
-
-# Heritage Builds Confidence
-
-## Status
-
-Candidate
-
-## Confidence
-
-Medium
-
-## Current Definition
-
-> **Heritage may contribute to guest confidence when real institutional continuity materially explains the restaurant, its authority, identity, or relationship with place.**
-
----
-
-## Strongest Evidence
-
-- Talisman
-
-## Related / Supporting Evidence
-
-- Dishoom
-
----
-
-## Important Boundary
-
-Cultural inheritance
-
-does not automatically equal:
-
-institutional heritage.
-
-History
-
-does not automatically:
-
-build confidence.
-
----
-
-# Candidate Pattern 4
-
-# Atmosphere Through Continuity
-
-## Status
-
-Candidate
-
-## Confidence
-
-Medium
-
-## Current Definition
-
-> **A hospitality experience may build emotional depth when its atmosphere communicates continuity across time, place, environment, identity, or repeated cultural use.**
-
----
-
-## Strongest Evidence
-
-- Talisman
-
-## Supporting Evidence
-
-- Dishoom
-
----
-
-## Haidilao Position
-
-No material support.
-
-Retained as:
-
-context-specific.
-
----
-
-# Candidate Pattern 5
-
-# Designed Escape
-
-## Status
-
-Candidate
-
-## Confidence
-
-Medium
-
-## Current Definition
-
-> **A hospitality experience may create value by deliberately transporting the guest into an emotional environment that feels meaningfully different from the surrounding everyday context.**
-
----
-
-## Strongest Evidence
-
-- Mawimbi
-
----
-
-## Track B Translation
-
-Trunk & Tandoor:
-
-Successful With Adaptation.
-
-Track B does not increase:
-
-research maturity.
-
----
-
-## Haidilao Boundary
-
-Haidilao introduces:
-
-Engagement
-
-as:
-
-a contrasting atmospheric mechanism.
-
-Working architecture axis:
-
-Escape
-
-↔
-
-Engagement
-
-This axis is:
-
-not:
-
-a new pattern.
-
----
-
-# Candidate Pattern 6
-
-# Biography When It Explains the Experience
-
-## Status
-
-Candidate
-
-## Confidence
-
-High
-
-## Current Definition
-
-> **Biography becomes meaningful hospitality content when the person materially explains the product, worldview, authority, origin, craft, or experience rather than appearing only because the restaurant has a notable founder or chef.**
-
----
-
-## Strong Evidence
-
-- Bistro Lolo
-- FYN
-- Franklin
-- Alinea
-- NARISAWA
-
----
-
-## Haidilao Boundary
-
-A hospitality identity can remain:
-
-strong
-
-without:
-
-biography
-
-being:
-
-central.
-
-Narrative weight follows:
-
-explanatory value.
-
----
-
-# Candidate Pattern 7
-
-# Narrative Language Within Clear Interface
-
-## Status
-
-Candidate
-
-## Confidence
-
-High
-
-## Current Definition
-
-> **Narrative language can deepen hospitality meaning when it enriches rather than obscures the guest's ability to understand and use the interface.**
-
----
-
-## Strong Evidence
-
-- Mawimbi
-- Dishoom
-- Alinea
-- NARISAWA
-
----
-
-## Haidilao Contribution
-
-Plain functional language
-
-can coexist with:
-
-strong hospitality meaning.
-
----
-
-## Important Boundary
-
-Narrative language should:
-
-enrich.
-
-It should not:
-
-replace:
-
-functional comprehension.
-
----
-
-# Candidate Pattern 8
-
-# Photography as Use-Case Evidence
-
-## Status
-
-Candidate
-
-## Confidence
-
-Medium-High
-
-## Previous Confidence
-
-Medium
-
-## Post-Haidilao Change
-
-Medium
-
-↓
-
-Medium-High
-
----
-
-## Current Definition
-
-> **Photography may improve guest understanding when it demonstrates who the hospitality experience is for, how it is used, what guests do, or how participation changes the experience rather than merely showing people as lifestyle decoration.**
-
----
-
-## Strong Evidence
-
-- Bistro Lolo
-- Dishoom
-- Franklin
-- Haidilao
-
----
-
-## Major Contradiction
-
-### Alinea
-
-Strong high-commitment hospitality can remain:
-
-understandable
-
-without:
-
-heavy use-case photography.
-
-This prevents:
-
-universalisation.
-
----
-
-## Use-Case Depth
-
-### Level 1 — Presence
-
-People appear.
-
-### Level 2 — Occasion
-
-The image communicates:
-
-social fit.
-
-### Level 3 — Behaviour
-
-The image shows:
-
-what guests do.
-
-### Level 4 — Product Participation
-
-The image demonstrates:
-
-how guest action contributes to:
-
-the hospitality product.
-
----
-
-## Haidilao Contribution
-
-Haidilao creates:
-
-the strongest current Level 4 pressure.
-
----
-
-# Candidate Pattern 9
-
-# Walk-In as First-Class Participation
-
-## Status
-
-Candidate
-
-## Confidence
-
-High
-
-## Current Definition
-
-> **When spontaneous arrival materially belongs to the hospitality model, walk-in participation should be treated as a legitimate guest route with its own expectations, information, waiting states, and hospitality rather than as failed reservation behaviour.**
-
----
-
-## Strong Evidence
-
-- Dishoom
-- Franklin
-
-## Supporting Evidence
-
-- Bistro Lolo
-
-## Potential Support
-
-- Haidilao
-
----
-
-## Important Haidilao Limitation
-
-Toronto-specific public evidence does not establish:
-
-- exact walk-in policy
-- walk-in capacity
-- reservation priority
-- queue allocation
-
-Therefore:
-
-no confidence change.
-
----
-
-# Partially Supported Finding
-
-# Own the Guest Relationship
-
-## Status
-
-Partially Supported
-
-## Confidence
-
-Medium
-
-## Current Definition
-
-The restaurant should:
-
-maintain as much direct control over:
-
-the guest relationship
-
-as:
-
-the actual operating model
-
-and:
-
-technology
-
-allow.
-
-However:
-
-current public website evidence is insufficient to establish:
-
-true operational ownership.
-
----
-
-## Publicly Observable
-
-Research may establish:
-
-- owned-domain journeys
-- branded booking entrypoints
-- direct email
-- direct phone
-- direct WhatsApp
-- visible membership
-- first-party communication surfaces
-
----
-
-## Publicly Unobservable Without Additional Evidence
-
-- CRM ownership
-- guest-data ownership
-- payment-data ownership
-- remarketing rights
-- booking economics
-- customer portability
-- backend architecture
-- integration structure
-
----
-
-## Haidilao Contribution
-
-Visible membership
-
-and:
-
-branded participation
-
-support:
-
-relationship continuity.
-
-They do not prove:
-
-ownership.
-
----
-
-## Governance Position
-
-Remain:
-
-Partially Supported / Medium.
-
----
-
-# Existing Implementation Pattern
-
-# Invitation
-
-## Classification
-
-Existing KHDS Implementation Pattern
-
-## Research Status
-
-Pending Formal Validation
-
-## Kodawa Labs Validation
-
-Trunk & Tandoor
-
-## Research-Derived?
-
-No.
-
-## Candidate?
-
-No.
-
-## Emerging?
-
-No.
-
-## Validated?
-
-No.
-
----
-
-## Related Research
-
-- Emotion Before Interface
-- Story Before Features
-- Promise Before Proof
-- Layered Arrival
-- Atmosphere Through Consistency
-
----
-
-## Important Rule
-
-Production usefulness
-
-does not create:
-
-research maturity.
-
----
-
-# Below-Candidate Directions — Post-Haidilao
-
-The following remain:
-
-outside:
-
-the formal registry count.
-
-They are preserved as:
-
-research directions
-
-architecture knowledge
-
-or:
-
-promotion watches.
-
----
-
-## Service as Atmosphere
-
-Status:
-
-Observed Research Direction
-
-Confidence:
-
-Low to Medium
-
-Likely relationship:
-
-Atmosphere Through Consistency mechanism.
-
----
-
-## Atmosphere Through Ritual
-
-Status:
-
-Observed Research Direction
-
-Confidence:
-
-Low
-
----
-
-## Hospitality During Waiting
-
-Status:
-
-Strong Candidate Watch
-
-Confidence:
-
-Medium
-
-Potential evidence:
-
-- Franklin
-- Dishoom
-- Haidilao
-
-Deduplication still required against:
-
-- Walk-In as First-Class Participation
-- Participation Throughout the Journey
-- Atmosphere
-- human service
-
----
-
-## Experiential Human Service
-
-Status:
-
-Observed Research Direction
-
-Confidence:
-
-Low to Medium
-
-Definition under test:
-
-> Human interaction may be part of the hospitality product itself rather than only a solution for exceptions.
-
----
-
-## Utility as Hospitality
-
-Status:
-
-Observed Research Direction
-
-Confidence:
-
-Low
-
-Likely:
-
-architecture-level knowledge.
-
----
-
-## Story Through Hospitality Model
-
-Status:
-
-Strong Candidate Watch
-
-Confidence:
-
-Low to Medium
-
-Likely overlap:
-
-Narrative Coherence Through Organising Logic.
-
-Do not duplicate yet.
-
----
-
-## Service Philosophy as Story
-
-Status:
-
-Observed Research Direction
-
-Likely:
-
-narrative carrier.
-
----
-
-## Ritual as Story
-
-Status:
-
-Observed Research Direction
-
-Likely:
-
-narrative mechanism.
-
----
-
-## Operational Narrative
-
-Status:
-
-Observed Evidence / Architecture Direction
-
-Likely relevance:
-
-proof obligations.
-
----
-
-## Team Behaviour as Brand Story
-
-Status:
-
-Observed Research Direction
-
-Keep separate from:
-
-biography.
-
----
-
-## Social Interaction as Designed Hospitality
-
-Status:
-
-Observed Research Direction
-
-Confidence:
-
-Low
-
----
-
-## Photography as Participation Proof
-
-Status:
-
-Consolidated Direction
-
-Current home:
-
-- Photography as Use-Case Evidence
-- Photography as Proof
-
----
-
-## Photography as Service Proof
-
-Status:
-
-Observed Research Direction
-
-Confidence:
-
-Low
-
----
-
-## Photography as Participation Reassurance
-
-Status:
-
-Observed Research Direction
-
-Confidence:
-
-Low
-
-Likely:
-
-use-case evidence mechanism.
-
----
-
-## Motion as Evidence
-
-Status:
-
-Observed Research Direction
-
-Confidence:
-
-Low
-
-Current home:
-
-Hospitality Proof Architecture.
-
----
-
-## Hospitality System Proof
-
-Status:
-
-Open Research Direction
-
-Confidence:
-
-Low
-
-Do not broaden:
-
-Show the System Behind the Plate
-
-to absorb it.
-
----
-
-## Meaningful Participation Complexity
-
-Status:
-
-Architecture Refinement
-
-Current home:
-
-Escalating Participation Complexity.
-
----
-
-## Relationship Participation
-
-Status:
-
-Participation Architecture Direction
-
-Confidence:
-
-Low
-
----
-
-## Ritual as Hospitality Structure
-
-Status:
-
-Observed Cross-System Direction
-
-Confidence:
-
-Low
-
-Potential influence:
-
-- story
-- atmosphere
-- participation
-- pacing
-- social interaction
-- product
-
----
-
-# Current Architecture Clusters
-
-These clusters organize:
-
-related knowledge.
-
-They are not:
-
-additional patterns.
-
----
-
-# Arrival Architecture
-
-Current working model:
-
-Guest Intent
-
-↓
-
-Primary Uncertainty
-
-↓
-
-Relevant Meaning
-+
-Relevant Utility
-+
-Relevant Evidence
-+
-Participation Understanding
-
-↓
-
-Confidence
-
-↓
-
-Fit / Compatibility
-where required
-
-↓
-
-Expectation Clarity
-where required
-
-↓
-
-Appropriate Commitment
-
-↓
-
-Participation
-
----
-
-## Arrival Variables
-
-- Guest Intent
-- Primary Uncertainty
-- Familiarity
-- Commitment
-- Meaning
-- Evidence
-- Utility
-- Participation Understanding
-- Fit
-- Location Structure
-
----
-
-# Atmosphere Architecture
-
-Current working model:
-
-Hospitality Model
-
-↓
-
-Primary Atmospheric Mechanism
-
-+
-
-Supporting Mechanisms
-
-↓
-
-Place
-Worldview
-Continuity
-Escape
-Belonging
-Craft
-Cultural Memory
-Experience Architecture
-Service
-Ritual
-Participation
-Social Interaction
-
-↓
-
-Relevant Signals
-
-+
-
-Relevant Behaviours
-
-+
-
-Relevant Guest Actions
-
-↓
-
-Emotional Coherence
-
-↓
-
-Atmospheric Experience
-
----
-
-## Atmosphere Variables
-
-- Primary Mechanism
-- Supporting Mechanisms
-- Place
-- Behaviour
-- Ritual
-- Social Intensity
-- Participation Depth
-- Temporal Structure
-- Service Role
-- Emotional Range
-- Operating Model
-
----
-
-# Hospitality Proof Architecture
-
-Current working model:
-
-Guest Decision
-
-↓
-
-Relevant Uncertainty
-
-↓
-
-Claim
-
-↓
-
-What Must Be Proven?
-
-↓
-
-What Must Be Explained?
-
-↓
-
-What Should Remain Mysterious?
-
-↓
-
-Evidence Gap
-
-↓
-
-Best Evidence Medium
-
-↓
-
-Minimum Sufficient Evidence
-
-↓
-
-Confidence
-
----
-
-## Evidence Types
-
-- photography
-- motion
-- copy
-- process
-- product
-- service demonstration
-- interface
-- external authority
-
----
-
-## Proof Variables
-
-- Claim
-- Evidence Obligation
-- Relevant Uncertainty
-- Evidence Gap
-- Best Evidence Medium
-- Use-Case Depth
-- Behaviour
-- Selective Reveal
-- Minimum Sufficient Proof
-
----
-
-# Participation Architecture
-
-Current working model:
-
-Guest Intent
-
-↓
-
-Desired Outcome
-
-↓
-
-Relevant Resource / Location
-
-↓
-
-Participation Route
-
-↓
-
-Reservation
-or
-Walk-In
-or
-Queue
-or
-Inquiry
-or
-Other
-
-↓
-
-Relevant Certainty
-
-+
-
-Relevant Commitment
-
-↓
-
-Arrival State
-
-↓
-
-Possible Waiting State
-
-↓
-
-Hospitality Support
-
-↓
-
-Experience Entry
-
-↓
-
-Meaningful Guest Participation
-
-+
-
-Appropriate Human Service
-
-↓
-
-Completion State
-
-↓
-
-Relationship Continuation
-
----
-
-## Participation Variables
-
-- Guest Intent
-- Access Model
-- Commitment
-- Desired Certainty
-- Compatibility
-- Predictability
-- Waiting
-- Human Role
-- Participation Depth
-- Complexity Type
-- Relationship Continuation
-
----
-
-# Narrative Architecture
-
-Current working model:
-
-Hospitality Meaning
-
-↓
-
-What Best Explains It?
-
-↓
-
-Primary Narrative Carrier
-
-↓
-
-Place
-Worldview
-Heritage
-Biography
-Product
-Craft
-Cultural Memory
-Ecology
-Service
-Ritual
-Participation
-Operating Model
-
-↓
-
-Relevant Evidence
-
-↓
-
-Guest Understanding
-
-↓
-
-Fit
-
-↓
-
-Participation
-
----
-
-## Narrative Variables
-
-- Hospitality Meaning
-- Primary Narrative Carrier
-- Explanatory Value
-- Explicitness
-- Authorship
-- Place
-- Worldview
-- Heritage
-- Service
-- Ritual
-- Guest Role
-- Operating Model
-- Evidence Requirement
-
----
-
-# Major Post-Haidilao Corrections
-
-## Correction 1
-
-Emotion Before Interface
-
-≠
-
-Emotion Before Utility.
-
----
-
-## Correction 2
-
-Story Before Features
-
-≠
-
-Editorial Story Before Functions.
-
-Story
-
-≠
-
-Storytelling.
-
----
-
-## Correction 3
-
-Atmosphere
-
-≠
-
-Aesthetics.
-
----
-
-## Correction 4
-
-Complexity
-
-≠
-
-Friction.
-
----
-
-## Correction 5
-
-Human Assistance
-
-≠
-
-Human Service.
-
----
-
-# Multi-Location Evidence Boundary
-
-Haidilao introduces:
-
-an important methodology distinction.
-
----
-
-## Brand-Level Evidence
-
-Evidence about:
-
-the broader hospitality company
-
-including:
-
-- brand philosophy
-- brand service claims
-- published operating models
-- general participation systems
-- brand-level photography
-
----
-
-## Location-Level Evidence
-
-Evidence about:
-
-the specific restaurant
-
-including:
-
-- location-specific access
-- local contact information
-- location-specific imagery
-- published local policies
-- verified local services
-
----
-
-## Rule
-
-Do not attribute:
-
-brand-level claims
-
-to:
-
-a specific location
-
-without:
-
-location-level support.
-
-This rule should apply to:
-
-future multi-location research.
-
----
-
-# Promotion History
-
-## Research Cycles
-
-### Early Research
-
-Patterns began as:
-
-observations
-
-and:
-
-Candidates.
-
----
-
-### Mawimbi
-
-Key changes included:
-
-- Promise Before Proof strengthened
-- Layered Arrival strengthened
-- Narrative Coherence direction expanded
-- Designed Escape introduced
-- Atmosphere as Product introduced
-
----
-
-### FYN
-
-Key changes included:
-
-- Escalating Participation Complexity promoted
-- Photography Should Demonstrate Difference strengthened
-- Narrative Coherence Through Organising Logic refined
-- Atmosphere as Product strengthened
-
----
-
-### Franklin Barbecue
-
-Key changes included:
-
-- Photography as Use-Case Evidence promoted to Candidate
-- Walk-In as First-Class Participation promoted to Candidate
-- Biography pattern reframed around explanatory value
-- participation architecture materially refined
-
----
-
-### Alinea
-
-Key changes included:
-
-- Human Assistance renamed to:
-  Human Assistance Where Structured Self-Service Is Insufficient
-- participation architecture refined around:
-  predictability
-  compatibility
-  certainty
-  structured self-service
-- photography architecture refined around:
-  evidence gaps
-  multimodal proof
-  selective reveal
-- Atmosphere Through Worldview confidence reduced
-- Photography as Use-Case Evidence confidence reduced
-- several other confidence levels strengthened
-
-Official maturity counts remained:
-
-18 Emerging
-
-9 Candidate
-
-1 Partially Supported
-
-0 Validated.
-
----
-
-### NARISAWA
-
-Key changes included:
-
-- Atmosphere Through Worldview confidence increased
-- Show the System Behind the Plate remained strong
-- ecological and worldview translation clarified
-- no Candidate promotion
-- no pattern inflation
-
-Official maturity counts remained:
-
-18 Emerging
-
-9 Candidate
-
-1 Partially Supported
-
-0 Validated.
-
----
-
-### Haidilao Toronto Downtown
-
-Key changes include:
-
-- Independent restaurant count:
-  10 → 11
-- no Candidate promotions
-- no Emerging promotions
-- no Validated promotions
-- no research-derived Principle promotions
-- Photography as Use-Case Evidence:
-  Medium → Medium-High
-- Emotion Before Interface boundary refined
-- Story Before Features definition materially refined
-- Atmosphere Through Consistency broadened beyond visual consistency
-- The Guest as Participant expanded through participation depth
-- Participation Throughout the Journey expanded beyond booking
-- Escalating Participation Complexity refined around meaningful complexity
-- Human Assistance separated conceptually from Experiential Human Service
-- Photography as Proof refined around claim-specific evidence
-- Photography Before Decoration pressured toward evidence-medium neutrality
-- Narrative Coherence Through Organising Logic expanded to behavioural and operational logic
-- Layered Arrival clarified as sequential or concurrent
-- Hospitality During Waiting placed on strong Candidate watch
-- Story Through Hospitality Model placed on strong Candidate watch
-- multi-location brand-level vs location-level evidence distinction added
-
----
-
-# Current Promotion Watches
-
-## Strong Candidate Watch
-
-### Hospitality During Waiting
-
-Reason:
-
-multiple potentially distinct independent cases
-
-but:
-
-deduplication unresolved.
-
----
-
-### Story Through Hospitality Model
-
-Reason:
-
-strong conceptual value
-
-but:
-
-likely overlap with:
-
-Narrative Coherence Through Organising Logic.
-
----
-
-## Medium Promotion Watch
-
-### Motion as Evidence
-
-Needs:
-
-broader independent examples.
-
-### Experiential Human Service
-
-Needs:
-
-independent service evidence.
-
-### Hospitality System Proof
-
-Needs:
-
-more than one strong system-led case.
-
 ---
 
-# Relationship to the Twelve Foundations
+## 1. Pre-Research Studio Foundations
 
 The Twelve Foundations are:
 
@@ -2751,83 +133,77 @@ studio beliefs.
 
 They are not:
 
-research-derived KHDS Principles.
+research-derived patterns.
 
-They remain:
+They must not be counted as:
 
-a separate layer.
+- Emerging
+- Candidate
+- Validated
+- Research-Derived Principles
 
-The Twelve Foundations include:
+Even where:
 
-1. Emotion Before Interface
-2. Story Before Features
-3. Photography Before Decoration
-4. Restraint Before Complexity
-5. Motion With Purpose
-6. Mobile Is the Primary Experience
-7. Pacing Is Our Signature
-8. Respect the Brand
-9. Create Emotion or Business Value
-10. Own the Guest Relationship
-11. Build for Legacy
-12. Craft Over Convenience
+a Foundation name
 
-Some names overlap with:
+resembles:
 
-research patterns.
+a research pattern
 
-That overlap does not:
+the governance layers remain:
+
+separate.
+
+---
+
+## 2. Track A — Research-Derived Knowledge
+
+Independent restaurant research.
+
+Current independent restaurant count:
+
+12
+
+This layer produces:
+
+- Emerging patterns
+- Candidate patterns
+- Partially Supported ideas
+- future Validated patterns
+- research architecture
+- research questions
+- opportunity themes
+
+---
+
+## 3. Track B — Implementation Knowledge
+
+Kodawa Labs production validation.
+
+Current stable case:
+
+Trunk & Tandoor
+
+This layer produces:
+
+- implementation learnings
+- production outcomes
+- translation knowledge
+- implementation patterns
+
+Track B does not:
 
 promote:
 
-research maturity.
-
-Current Research-Derived KHDS Principles:
-
-0.
+Track A research maturity.
 
 ---
 
-# Current Research Integrity Position
-
-The research registry should become:
-
-more precise
-
-before:
-
-it becomes:
-
-larger.
-
-Haidilao demonstrates:
-
-why.
-
-Several apparent new patterns were better treated as:
-
-- mechanisms
-- architecture variables
-- evidence categories
-- definition refinements
-- promotion watches
-- research questions
-
-rather than:
-
-new formal patterns.
-
-This is:
-
-healthy governance.
-
----
-
-# Official Post-Haidilao Registry Count
+# Current Registry State
 
 Independent Restaurants:
 
-11
+12
 
 Kodawa Labs Validation Cases:
 
@@ -2839,7 +215,7 @@ Emerging:
 
 Candidate:
 
-9
+11
 
 Partially Supported:
 
@@ -2853,39 +229,1680 @@ Research-Derived KHDS Principles:
 
 0
 
-Existing Implementation Patterns Pending Formal Validation:
+Existing Implementation Pattern Pending Formal Validation:
 
 1
 
-Opportunity Themes:
-
-36
-
 Highest Research-Derived Maturity:
 
-Emerging
+Candidate
 
 ---
 
-# Registry Rule
+# Candidate Patterns
 
-If a pattern is:
+Current Candidate count:
 
-not represented in:
+11
 
-this registry
+---
+
+## C-01 — Atmosphere Through Worldview
+
+### Maturity
+
+Candidate
+
+### Status
+
+Under Review
+
+### Confidence
+
+Medium-High
+
+### Definition
+
+> **A restaurant's worldview can become an atmospheric mechanism when philosophy, environment, product, behaviour, and hospitality choices coherently express the same underlying way of seeing the world.**
+
+### Strong Evidence
+
+- Cultiva
+- NARISAWA
+
+### Boundary
+
+Values
+
+mission language
 
 or:
 
-the canonical Candidate governance record,
+philosophy alone
 
-it is not:
+are not enough.
 
-an official KHDS research pattern.
+The worldview must:
 
-Below-Candidate research directions may still be:
+materially shape:
 
-valuable.
+the hospitality experience.
+
+### Post-ICHIRAN Note
+
+ICHIRAN reinforces:
+
+that:
+
+worldview is:
+
+one atmospheric mechanism
+
+rather than:
+
+the universal atmosphere model.
+
+### Registry Decision
+
+Retain.
+
+---
+
+## C-02 — Show the System Behind the Plate
+
+### Maturity
+
+Candidate
+
+### Confidence
+
+High
+
+### Definition
+
+> **When production, sourcing, craft, preparation, or culinary process materially explains why the product is different, the restaurant should expose enough of that system to make the difference credible.**
+
+### Boundary
+
+This pattern concerns:
+
+the system behind:
+
+the food
+
+drink
+
+or:
+
+culinary product.
+
+It does not include:
+
+all guest-facing hospitality systems.
+
+### Post-ICHIRAN Note
+
+ICHIRAN strongly reinforces:
+
+this boundary.
+
+Its major system difference sits:
+
+around:
+
+the guest
+
+rather than:
+
+behind:
+
+the plate.
+
+### Registry Decision
+
+Retain.
+
+---
+
+## C-03 — Heritage Builds Confidence
+
+### Maturity
+
+Candidate
+
+### Confidence
+
+Medium
+
+### Definition
+
+> **Heritage can build guest confidence when continuity, history, provenance, or longevity materially explains why the restaurant deserves trust or why the current experience exists in its present form.**
+
+### Strong Evidence
+
+- Talisman
+
+### Boundary
+
+History alone:
+
+is insufficient.
+
+Heritage must:
+
+help explain:
+
+the present hospitality experience.
+
+### Post-ICHIRAN Note
+
+ICHIRAN shows:
+
+that:
+
+narrative depth
+
+does not require:
+
+heritage.
+
+### Registry Decision
+
+Retain.
+
+---
+
+## C-04 — Atmosphere Through Continuity
+
+### Maturity
+
+Candidate
+
+### Confidence
+
+Medium
+
+### Definition
+
+> **Atmosphere may gain strength from continuity when accumulated history, place, material character, repeated use, or cultural memory remain visibly connected to the present hospitality experience.**
+
+### Boundary
+
+Age
+
+or:
+
+legacy
+
+alone
+
+does not create:
+
+continuity.
+
+Continuity must:
+
+remain experientially relevant.
+
+### Registry Decision
+
+Retain.
+
+---
+
+## C-05 — Designed Escape
+
+### Maturity
+
+Candidate
+
+### Confidence
+
+Medium
+
+### Definition
+
+> **A hospitality environment can create destination value by intentionally separating the guest from ordinary context and constructing a coherent alternative experiential world.**
+
+### Boundary
+
+Privacy
+
+novelty
+
+separation
+
+or:
+
+reduced distraction
+
+do not automatically equal:
+
+Designed Escape.
+
+### Post-ICHIRAN Note
+
+ICHIRAN creates:
+
+concentration
+
+rather than:
+
+clear destination escape.
+
+### Registry Decision
+
+Retain.
+
+---
+
+## C-06 — Biography When It Explains the Experience
+
+### Maturity
+
+Candidate
+
+### Confidence
+
+High
+
+### Definition
+
+> **Biography becomes valuable hospitality content when the person, chef, founder, family, or creative authority materially explains why the experience exists in its current form.**
+
+### Strong Evidence
+
+- FYN
+- Franklin Barbecue
+- Alinea
+- NARISAWA
+
+### Boundary
+
+Biography should not be:
+
+included by default.
+
+It matters:
+
+when:
+
+it explains:
+
+the hospitality experience.
+
+### Post-ICHIRAN Note
+
+ICHIRAN provides:
+
+strong boundary support
+
+because:
+
+its operating model
+
+carries more narrative weight
+
+than:
+
+biography.
+
+### Registry Decision
+
+Retain.
+
+---
+
+## C-07 — Narrative Language Within Clear Interface
+
+### Maturity
+
+Candidate
+
+### Confidence
+
+High
+
+### Definition
+
+> **Narrative language can deepen hospitality meaning without sacrificing interface clarity when expressive language and practical information remain structurally legible.**
+
+### Boundary
+
+Narrative language does not require:
+
+poetic
+
+ornamental
+
+or:
+
+long-form copy.
+
+Functional language can:
+
+carry:
+
+meaning.
+
+### Post-ICHIRAN Note
+
+ICHIRAN strengthens:
+
+this boundary.
+
+### Registry Decision
+
+Retain.
+
+---
+
+## C-08 — Photography as Use-Case Evidence
+
+### Maturity
+
+Candidate
+
+### Confidence
+
+Medium-High
+
+### Definition
+
+> **Hospitality visual evidence may help the guest understand how the experience is actually used, whether that use is social, individual, behavioural, procedural, or product-participatory.**
+
+### Strong Evidence
+
+- Bistro Lolo
+- Franklin Barbecue
+- Haidilao
+- ICHIRAN
+
+### Use-Case Orientation
+
+Social
+
+Individual
+
+Mixed
+
+### Use-Case Depth
+
+#### Level 1 — Presence
+
+A person is visible.
+
+#### Level 2 — Occasion
+
+The image helps explain:
+
+who
+
+or:
+
+what kind of visit
+
+the experience may suit.
+
+#### Level 3 — Behaviour
+
+The image helps explain:
+
+what:
+
+the guest actually does.
+
+#### Level 4 — Product Participation
+
+The image explains:
+
+how guest behaviour
+
+changes
+
+or:
+
+creates:
+
+part of:
+
+the hospitality experience.
+
+### Boundary
+
+People appearing:
+
+does not automatically create:
+
+use-case evidence.
+
+The evidence must:
+
+teach:
+
+something about:
+
+actual use.
+
+### Contradiction
+
+Alinea remains:
+
+important boundary evidence.
+
+Selective reveal may matter.
+
+### Post-ICHIRAN Decision
+
+Confidence remains:
+
+Medium-High.
+
+No increase.
+
+### Registry Decision
+
+Retain.
+
+---
+
+## C-09 — Walk-In as First-Class Participation
+
+### Maturity
+
+Candidate
+
+### Confidence
+
+High
+
+### Definition
+
+> **Walk-in participation should be treated as a legitimate primary hospitality route when the operating model is designed around spontaneous arrival, queue-based access, or flexible physical participation rather than advance reservation.**
+
+### Strong Evidence
+
+- Franklin Barbecue
+- Dishoom
+- Haidilao
+- ICHIRAN
+
+### Boundary
+
+Walk-in is:
+
+not:
+
+reservation failure.
+
+But:
+
+not every restaurant
+
+should prioritize:
+
+walk-in.
+
+Commitment level
+
+capacity
+
+and:
+
+operating model
+
+matter.
+
+### Registry Decision
+
+Retain.
+
+---
+
+## C-10 — Story Through Hospitality Model
+
+### Maturity
+
+Candidate
+
+### Confidence
+
+Medium-High
+
+### Promotion
+
+Promoted Post-ICHIRAN
+
+### Definition
+
+> **A restaurant's operating model can function as a primary narrative carrier when the way it organizes service, participation, product, space, or guest behaviour materially explains the meaning of the hospitality experience.**
+
+### Strong Independent Evidence
+
+- Haidilao
+- ICHIRAN
+
+### Supporting Pressure
+
+- Alinea
+- Franklin Barbecue
+- Dishoom
+
+### Haidilao Expression
+
+Meaning carried through:
+
+- visible human service
+- social participation
+- personalization
+- ritual
+- active interaction
+
+### ICHIRAN Expression
+
+Meaning carried through:
+
+- privacy
+- reduced interaction
+- structured participation
+- product concentration
+- system personalization
+- low-visibility service
+
+### Why The Contrast Matters
+
+The hospitality mechanics are:
+
+almost opposite.
+
+The deeper narrative behaviour is:
+
+shared.
+
+This increases:
+
+transferability.
+
+---
+
+### Distinction From Narrative Coherence Through Organising Logic
+
+Narrative Coherence Through Organising Logic asks:
+
+> **Are the restaurant's narrative elements meaningfully connected?**
+
+Story Through Hospitality Model asks:
+
+> **Is the operating model itself one of the primary narrative carriers?**
+
+Coherence
+
+versus:
+
+carrier.
+
+Do not merge.
+
+---
+
+### Distinction From Hospitality System Proof
+
+Story Through Hospitality Model asks:
+
+> **What does the way the system works mean?**
+
+Hospitality System Proof asks:
+
+> **What evidence helps the guest understand how the system works?**
+
+Meaning
+
+versus:
+
+proof.
+
+Do not merge.
+
+---
+
+### Submechanisms
+
+The following remain:
+
+below Candidate
+
+and:
+
+should not become:
+
+separate formal patterns
+
+without additional evidence:
+
+- Service Philosophy as Story
+- Operational Narrative
+- Constraint as Narrative
+- Product Focus as Narrative
+
+---
+
+### Falsification Boundary
+
+Ask:
+
+> **If the guest understood how the restaurant operates, would they learn something material about what the restaurant means?**
+
+If:
+
+No
+
+then:
+
+the pattern does not apply.
+
+### Registry Decision
+
+Candidate / Medium-High.
+
+---
+
+## C-11 — Hospitality System Proof
+
+### Maturity
+
+Candidate
+
+### Confidence
+
+Medium
+
+### Promotion
+
+Promoted Post-ICHIRAN
+
+### Definition
+
+> **When the guest-facing operating system materially explains how the experience works or what makes it different, the restaurant should provide sufficient evidence for the guest to understand that system.**
+
+### Core Question
+
+> **Does the guest need evidence of how the hospitality system works in order to understand the experience, difference, fit, or participation model?**
+
+### Strong Independent Evidence
+
+- Haidilao
+- ICHIRAN
+
+### Supporting Evidence
+
+- Franklin Barbecue
+- Alinea
+
+### Cross-Dimensional Support
+
+#### Arrival
+
+System explanation may create:
+
+pre-arrival confidence.
+
+#### Photography / Evidence
+
+The system itself may require:
+
+visual
+
+procedural
+
+diagrammatic
+
+or:
+
+motion-based proof.
+
+#### Participation
+
+Successful participation may depend on:
+
+understanding:
+
+the system.
+
+#### Story
+
+The concept remains:
+
+distinct from:
+
+Story Through Hospitality Model.
+
+---
+
+### Distinction From Photography as Proof
+
+Photography as Proof asks:
+
+> **Can photography prove the claim?**
+
+Hospitality System Proof asks:
+
+> **Is the hospitality system itself something the guest needs evidence of?**
+
+Photography may be:
+
+one medium.
+
+---
+
+### Distinction From Show the System Behind the Plate
+
+Show the System Behind the Plate concerns:
+
+culinary
+
+production
+
+craft
+
+sourcing
+
+or:
+
+preparation.
+
+Hospitality System Proof concerns:
+
+guest-facing operating mechanics.
+
+Do not merge.
+
+---
+
+### Distinction From Story Through Hospitality Model
+
+Hospitality System Proof asks:
+
+> **How does it work?**
+
+Story Through Hospitality Model asks:
+
+> **What does the way it works mean?**
+
+Proof
+
+versus:
+
+meaning.
+
+---
+
+### Possible Evidence Media
+
+- photography
+- motion
+- diagrams
+- copy
+- interface guidance
+- process explanation
+- interaction demonstrations
+
+### Boundary
+
+Do not require:
+
+system proof
+
+when:
+
+the operating system:
+
+does not materially affect:
+
+understanding
+
+difference
+
+fit
+
+expectation
+
+or:
+
+participation.
+
+### Falsification Boundary
+
+If:
+
+a guest can successfully understand:
+
+and:
+
+participate
+
+without:
+
+knowing:
+
+how:
+
+the guest-facing system works
+
+then:
+
+explicit Hospitality System Proof may be:
+
+unnecessary.
+
+### Registry Decision
+
+Candidate / Medium.
+
+---
+
+# Candidate Registry Summary
+
+| ID | Pattern | Maturity | Confidence |
+|---|---|---|---|
+| C-01 | Atmosphere Through Worldview | Candidate / Under Review | Medium-High |
+| C-02 | Show the System Behind the Plate | Candidate | High |
+| C-03 | Heritage Builds Confidence | Candidate | Medium |
+| C-04 | Atmosphere Through Continuity | Candidate | Medium |
+| C-05 | Designed Escape | Candidate | Medium |
+| C-06 | Biography When It Explains the Experience | Candidate | High |
+| C-07 | Narrative Language Within Clear Interface | Candidate | High |
+| C-08 | Photography as Use-Case Evidence | Candidate | Medium-High |
+| C-09 | Walk-In as First-Class Participation | Candidate | High |
+| C-10 | Story Through Hospitality Model | Candidate | Medium-High |
+| C-11 | Hospitality System Proof | Candidate | Medium |
+
+---
+
+# Emerging Patterns
+
+Current Emerging count:
+
+18
+
+---
+
+## E-01 — Emotion Before Interface
+
+### Maturity
+
+Emerging
+
+### Boundary
+
+> **Emotion Before Interface does not mean Emotion Before Utility.**
+
+Functional information may:
+
+carry:
+
+meaning.
+
+### Post-ICHIRAN State
+
+Retain.
+
+---
+
+## E-02 — Story Before Features
+
+### Maturity
+
+Emerging
+
+### Boundary
+
+> **Story Before Features does not mean Storytelling Before Functions or Story Page Before Utility.**
+
+Features may:
+
+carry:
+
+story
+
+when:
+
+their purpose explains:
+
+hospitality meaning.
+
+### Post-ICHIRAN State
+
+Retain.
+
+---
+
+## E-03 — Photography Before Decoration
+
+### Maturity
+
+Emerging
+
+### Boundary
+
+Photography Before Decoration
+
+does not mean:
+
+Photography Before Everything.
+
+### Definition Pressure
+
+Current research increasingly suggests:
+
+Evidence Before Decoration
+
+as:
+
+a deeper abstraction.
+
+Do not rename:
+
+yet.
+
+### Post-ICHIRAN State
+
+Retain.
+
+---
+
+## E-04 — Participation Throughout the Journey
+
+### Maturity
+
+Emerging
+
+### Definition
+
+Participation extends:
+
+beyond:
+
+reservation
+
+into:
+
+the full guest journey.
+
+### Post-ICHIRAN State
+
+Strongly supported.
+
+Retain.
+
+---
+
+## E-05 — Atmosphere Through Consistency
+
+### Maturity
+
+Emerging
+
+### Current Interpretation
+
+Consistency means:
+
+relational coherence
+
+across:
+
+- space
+- meaning
+- service
+- behaviour
+- participation
+- constraint
+- meaningful absence
+
+### Post-ICHIRAN State
+
+Strongly supported.
+
+Retain.
+
+---
+
+## E-06 — Multi-Intent Hospitality
+
+### Maturity
+
+Emerging
+
+### Current Interpretation
+
+A hospitality system may support:
+
+multiple guest intents
+
+without:
+
+forcing:
+
+interface complexity.
+
+### Post-ICHIRAN State
+
+Retain.
+
+---
+
+## E-07 — Commitment Without Pressure
+
+### Maturity
+
+Emerging
+
+### Post-ICHIRAN Refinement
+
+Commitment Level
+
+should influence:
+
+Desired Certainty.
+
+The objective is:
+
+appropriate commitment
+
+and:
+
+appropriate certainty.
+
+### Post-ICHIRAN State
+
+Retain.
+
+---
+
+## E-08 — Photography as Proof
+
+### Maturity
+
+Emerging
+
+### Current Interpretation
+
+Photography can:
+
+support:
+
+credible claims
+
+about:
+
+visible:
+
+product
+
+place
+
+structure
+
+people
+
+behaviour
+
+or:
+
+system.
+
+### Boundary
+
+Visible structure
+
+does not:
+
+prove:
+
+emotional outcome.
+
+### Post-ICHIRAN State
+
+Retain.
+
+---
+
+## E-09 — Story Through Place
+
+### Maturity
+
+Emerging
+
+### Boundary
+
+Place is:
+
+one narrative carrier.
+
+Not:
+
+the universal one.
+
+### Post-ICHIRAN State
+
+Retain.
+
+---
+
+## E-10 — Promise Before Proof
+
+### Maturity
+
+Emerging
+
+### Current Interpretation
+
+An emotional
+
+or:
+
+experience promise
+
+may:
+
+precede:
+
+complete proof
+
+when:
+
+relevant evidence follows.
+
+### Post-ICHIRAN State
+
+Retain.
+
+---
+
+## E-11 — Layered Arrival
+
+### Maturity
+
+Emerging
+
+### Current Interpretation
+
+Arrival may combine:
+
+- meaning
+- utility
+- evidence
+- system explanation
+- participation understanding
+- operational information
+
+The layers may be:
+
+sequential
+
+or:
+
+concurrent.
+
+### Post-ICHIRAN State
+
+Retain.
+
+---
+
+## E-12 — Narrative Coherence Through Organising Logic
+
+### Maturity
+
+Emerging
+
+### Current Interpretation
+
+Narrative coherence emerges when:
+
+story elements
+
+remain connected by:
+
+a meaningful organizing logic.
+
+The organising logic may be:
+
+- place
+- worldview
+- product
+- heritage
+- hospitality model
+- operating system
+
+### Important Boundary
+
+This remains:
+
+distinct from:
+
+Story Through Hospitality Model.
+
+### Post-ICHIRAN State
+
+Retain.
+
+---
+
+## E-13 — The Guest as Participant
+
+### Maturity
+
+Emerging
+
+### Post-ICHIRAN Refinement
+
+Participation Orientation:
+
+- Social
+- Individual
+- Mixed
+
+Participation depth
+
+and:
+
+social intensity
+
+are:
+
+separate variables.
+
+### Post-ICHIRAN State
+
+Strongly supported.
+
+Retain.
+
+---
+
+## E-14 — Photography Through Layers of Experience
+
+### Maturity
+
+Emerging
+
+### Current Layers May Include
+
+- product
+- place
+- people
+- atmosphere
+- system
+- service
+- behaviour
+- customization
+- participation
+
+### Post-ICHIRAN State
+
+Retain.
+
+---
+
+## E-15 — Human Assistance Where Structured Self-Service Is Insufficient
+
+### Maturity
+
+Emerging
+
+### Current Interpretation
+
+Predictable Need
+
+↓
+
+Structured Route
+
+Uncertain / Exceptional Need
+
+↓
+
+Human Assistance
+
+### Important Boundary
+
+Human Assistance
+
+is not:
+
+Experiential Human Service.
+
+### Post-ICHIRAN State
+
+Strongly supported.
+
+Retain.
+
+---
+
+## E-16 — Atmosphere as Product
+
+### Maturity
+
+Emerging
+
+### Post-ICHIRAN Subtypes
+
+#### Destination Value
+
+Atmosphere itself:
+
+helps drive:
+
+the visit.
+
+#### Product Amplifier
+
+Atmosphere improves:
+
+attention to
+
+or:
+
+experience of:
+
+another primary product.
+
+### Post-ICHIRAN State
+
+Retain.
+
+---
+
+## E-17 — Escalating Participation Complexity
+
+### Maturity
+
+Emerging
+
+### Complexity Types
+
+- Administrative
+- Social
+- Product
+- Participatory
+
+### Governing Boundary
+
+> **Complexity is not the same thing as friction.**
+
+and:
+
+> **KHDS should remove friction, not participation.**
+
+### Post-ICHIRAN State
+
+Retain.
+
+---
+
+## E-18 — Photography Should Demonstrate Difference
+
+### Maturity
+
+Emerging
+
+### Current Interpretation
+
+Photography should:
+
+prove:
+
+what materially differentiates:
+
+the restaurant.
+
+Difference may be:
+
+- product
+- place
+- behaviour
+- system
+- participation
+- social use
+- process
+- culture
+
+### Post-ICHIRAN State
+
+Strongly supported.
+
+Retain.
+
+---
+
+# Emerging Registry Summary
+
+| ID | Pattern | Maturity |
+|---|---|---|
+| E-01 | Emotion Before Interface | Emerging |
+| E-02 | Story Before Features | Emerging |
+| E-03 | Photography Before Decoration | Emerging |
+| E-04 | Participation Throughout the Journey | Emerging |
+| E-05 | Atmosphere Through Consistency | Emerging |
+| E-06 | Multi-Intent Hospitality | Emerging |
+| E-07 | Commitment Without Pressure | Emerging |
+| E-08 | Photography as Proof | Emerging |
+| E-09 | Story Through Place | Emerging |
+| E-10 | Promise Before Proof | Emerging |
+| E-11 | Layered Arrival | Emerging |
+| E-12 | Narrative Coherence Through Organising Logic | Emerging |
+| E-13 | The Guest as Participant | Emerging |
+| E-14 | Photography Through Layers of Experience | Emerging |
+| E-15 | Human Assistance Where Structured Self-Service Is Insufficient | Emerging |
+| E-16 | Atmosphere as Product | Emerging |
+| E-17 | Escalating Participation Complexity | Emerging |
+| E-18 | Photography Should Demonstrate Difference | Emerging |
+
+---
+
+# Partially Supported
+
+## PS-01 — Own the Guest Relationship
+
+### Maturity
+
+Partially Supported
+
+### Confidence
+
+Medium
+
+### Current Evidence May Show
+
+- direct booking
+- direct contact
+- membership interfaces
+- direct digital participation
+- loyalty pathways
+
+### Evidence Cannot Establish
+
+- CRM ownership
+- customer-data ownership
+- backend architecture
+- relationship economics
+- direct-channel profitability
+- repeat behaviour
+
+### Post-ICHIRAN State
+
+No change.
+
+---
+
+# Validated Patterns
+
+Current count:
+
+0
+
+No research pattern has:
+
+reached:
+
+Validated maturity.
+
+---
+
+# Research-Derived KHDS Principles
+
+Current count:
+
+0
+
+No research pattern has:
+
+reached:
+
+Principle status.
+
+The Twelve Foundations remain:
+
+studio beliefs.
+
+They are:
+
+not:
+
+research-derived principles.
+
+---
+
+# Existing Implementation Pattern Pending Formal Validation
+
+## IP-01 — Invitation
+
+### Classification
+
+Existing KHDS Implementation Pattern
+
+Pending Formal Validation
+
+### Important Boundary
+
+Invitation is:
+
+not:
+
+Emerging.
+
+Not:
+
+Candidate.
+
+Not:
+
+Validated.
+
+It belongs to:
+
+implementation knowledge
+
+pending:
+
+formal research validation.
+
+Current count:
+
+1
+
+---
+
+# Below-Candidate Research Directions
+
+These are:
+
+not:
+
+formal registry patterns.
+
+They should remain:
+
+available for:
+
+future contradiction research
+
+without:
+
+inflating:
+
+maturity counts.
+
+---
+
+## Atmosphere / Service
+
+- Privacy as Hospitality
+- Concentration as Atmosphere
+- Service as Atmosphere
+- Atmosphere Through Ritual
+- Experiential Human Service
+- Social Interaction as Designed Hospitality
+- Background Service
+- Service Availability Without Service Presence
+
+---
+
+## Participation
+
+- Hospitality During Waiting
+- Waiting as Participation
+- Meaningful Participation Complexity
+- Relationship Participation
+- System Explanation Obligation
+- Individual Participatory Hospitality
+- Low Interaction / High Agency
+
+---
+
+## Proof / Photography
+
+- Photography as Participation Proof
+- Photography as Service Proof
+- Photography as Participation Reassurance
+- Motion as Evidence
+- System Photography
+- Absence as Visual Evidence
+- Service Availability Proof
+- Depth Proof
+
+---
+
+## Story
+
+- Service Philosophy as Story
+- Ritual as Story
+- Team Behaviour as Brand Story
+- Operational Narrative
+- Constraint as Narrative
+- Product Focus as Narrative
+- Explain the Ritual
+
+---
+
+## Arrival / Experience
+
+- Utility as Hospitality
+- Familiarity as Arrival Variable
+- Brand System vs Location Specificity
+
+---
+
+# Architecture Registry
+
+The following are:
+
+architecture variables
+
+or:
+
+mechanisms.
 
 They are not:
 
@@ -2893,60 +1910,596 @@ formal patterns.
 
 ---
 
-# Final Registry Position
+# Arrival Architecture Variables
 
-Haidilao does not make:
-
-KHDS larger.
-
-It makes:
-
-KHDS more precise.
-
-The current registry now recognises that:
-
-hospitality meaning can be carried through:
-
-- place
-- worldview
-- heritage
-- product
-- authorship
-- service
-- ritual
-- participation
-- social interaction
-- operational structure
-
-without:
-
-forcing those mechanisms into:
-
-one universal formula.
-
-The registry should continue to reward:
-
-patterns that survive:
-
-variation
-
-contradiction
-
-and:
-
-boundary pressure.
-
-Evidence wins.
+- Guest Intent
+- Experience Familiarity
+- Participation Familiarity
+- Primary Uncertainty
+- Explanation Need
+- Meaning
+- Utility
+- Evidence
+- System Explanation
+- Participation Understanding
+- Commitment Level
+- Desired Certainty
+- Fit
+- Compatibility
+- Expectation Clarity
+- Congestion / Access Risk
+- Operational Transparency
 
 ---
 
-## Registry Status
+# Atmosphere Architecture Variables
 
-Post-Haidilao Registry Reconciliation Complete
+- Desired Guest State
+- Primary Atmospheric Mechanism
+- Supporting Mechanisms
+- Place
+- Worldview
+- Continuity
+- Escape
+- Belonging
+- Craft
+- Cultural Memory
+- Experience Architecture
+- Service
+- Ritual
+- Participation
+- Social Interaction
+- Privacy
+- Concentration
+- Constraint
+- Service Presence
+- Service Availability
+- Social Exposure
+- Environmental Stimulation
+- Participation Orientation
+- Atmospheric Duration
+- Additive vs Reductive Atmosphere
+- Destination Value vs Product Amplifier
+- Relevant Absence
+- Relational Coherence
 
-Independent Restaurant #11:
+---
+
+# Proof Architecture Variables
+
+- Guest Decision
+- Relevant Uncertainty
+- Claim
+- Evidence Obligation
+- Evidence Gap
+- Product Proof
+- Place Proof
+- Atmosphere Proof
+- Process Proof
+- System Proof
+- Participation Proof
+- Behavioural Proof
+- Service Presence Proof
+- Service Availability Proof
+- Use-Case Orientation
+- Use-Case Depth
+- Product Breadth
+- Product Depth
+- Sequence Need
+- Motion Need
+- Evidence of Absence
+- Selective Reveal
+- Minimum Sufficient Evidence
+- Best Evidence Medium
+
+---
+
+# Participation Architecture Variables
+
+- Guest Intent
+- Desired Outcome
+- Experience Familiarity
+- Participation Familiarity
+- Location
+- Commitment Level
+- Desired Certainty
+- Participation Route
+- Reservation Dependence
+- Walk-In Dependence
+- Queue Risk
+- Waiting Type
+- Participation Orientation
+- Choice Breadth
+- Choice Depth
+- Administrative Complexity
+- Social Complexity
+- Product Complexity
+- Participatory Complexity
+- Structured Self-Service Depth
+- Human Assistance Trigger
+- Experiential Human Service Role
+- Service Presence
+- Service Availability
+- Personalization Mechanism
+- Guest Agency
+- Interaction Touch
+- Design Touch
+- System Explanation Obligation
+- Completion State
+- Relationship Continuation
+
+---
+
+# Narrative Architecture Variables
+
+- Hospitality Meaning
+- Primary Narrative Carrier
+- Supporting Narrative Carriers
+- Place
+- Worldview
+- Heritage
+- Biography
+- Product
+- Craft
+- Cultural Memory
+- Ecology
+- Service
+- Ritual
+- Participation
+- Operating Model
+- Constraint
+- Organising Logic
+- Narrative Volume
+- Narrative Depth
+- What Must Be Explained
+- What Must Be Proven
+- What Can Remain Experiential
+- Experienced Meaning
+
+---
+
+# Primary Narrative Carrier Registry
+
+Current recognized narrative carriers:
+
+- Place
+- Worldview
+- Heritage
+- Biography
+- Product
+- Craft
+- Cultural Memory
+- Ecology
+- Service
+- Ritual
+- Participation
+- Operating Model
+
+The presence of:
+
+a carrier
+
+does not:
+
+create:
+
+a pattern.
+
+The question is:
+
+whether:
+
+that carrier:
+
+materially explains:
+
+the hospitality meaning.
+
+---
+
+# Atmosphere Mechanism Registry
+
+Current recognized atmosphere mechanisms:
+
+- Place
+- Worldview
+- Continuity
+- Escape
+- Belonging
+- Craft
+- Cultural Memory
+- Experience Architecture
+- Service
+- Ritual
+- Participation
+- Social Interaction
+- Privacy
+- Concentration
+- Constraint
+
+Privacy
+
+Concentration
+
+and:
+
+Constraint
+
+currently exist at:
+
+architecture level.
+
+Not:
+
+Candidate maturity.
+
+---
+
+# Participation Orientation Registry
+
+## Social
+
+Guest participation depends partly on:
+
+interaction with:
+
+others.
+
+## Individual
+
+Guest participation is primarily:
+
+self-directed.
+
+## Mixed
+
+Both matter.
+
+This is:
+
+architecture.
+
+Not:
+
+pattern maturity.
+
+---
+
+# Service Architecture Registry
+
+Service should now distinguish:
+
+## Service Presence
+
+How visible
+
+continuous
+
+or:
+
+socially active:
+
+human service is.
+
+## Service Availability
+
+Whether:
+
+human support
+
+can:
+
+be accessed
+
+when needed.
+
+## Human Assistance
+
+Human involvement required because:
+
+the structured route
+
+cannot:
+
+resolve:
+
+the need.
+
+## Experiential Human Service
+
+Human interaction itself:
+
+creates:
+
+hospitality value.
+
+These are:
+
+not interchangeable.
+
+---
+
+# Personalization Architecture Registry
+
+## Human Personalization
+
+Delivered through:
+
+staff recognition
+
+adaptation
+
+conversation
+
+or:
+
+memory.
+
+## System Personalization
+
+Delivered through:
+
+structured guest configuration.
+
+## Mixed Personalization
+
+Both.
+
+This is:
+
+architecture.
+
+Not:
+
+pattern maturity.
+
+---
+
+# Waiting Architecture Registry
+
+Waiting should distinguish:
+
+- Access Waiting
+- Resource Waiting
+- Product Waiting
+- Service Waiting
+- Exception Waiting
+
+Waiting:
+
+does not automatically equal:
+
+Hospitality During Waiting.
+
+---
+
+# Complexity Architecture Registry
+
+Complexity should distinguish:
+
+## Administrative Complexity
+
+Usually:
+
+reduce.
+
+## Social Complexity
+
+Preserve only where:
+
+it creates:
+
+hospitality value.
+
+## Product Complexity
+
+Preserve where:
+
+it creates:
+
+meaningful product depth.
+
+## Participatory Complexity
+
+Preserve where:
+
+guest action:
+
+creates:
+
+meaning
+
+agency
+
+or:
+
+experience value.
+
+Governing rule:
+
+> **KHDS should remove friction, not participation.**
+
+---
+
+# Post-ICHIRAN Research Corrections
+
+The registry now recognizes:
+
+the following major corrections.
+
+1. Human Interaction ≠ Hospitality.
+
+2. Participation ≠ Social Participation.
+
+3. Self-Service ≠ Low Agency.
+
+4. Atmosphere ≠ Social Energy.
+
+5. Use-Case Evidence ≠ Lifestyle Photography.
+
+6. Service Presence ≠ Service Availability.
+
+7. Story ≠ Storytelling.
+
+8. System Proof ≠ System Story.
+
+9. Waiting Exists ≠ Hospitality During Waiting.
+
+10. Structure ≠ Loss of Hospitality.
+
+These are:
+
+research corrections.
+
+Not:
+
+formal principles.
+
+---
+
+# Haidilao / ICHIRAN Contradiction Pair
+
+The strongest current contradiction pair is:
+
+Restaurant #11:
 
 Haidilao Toronto Downtown
+
+and:
+
+Restaurant #12:
+
+ICHIRAN Shibuya.
+
+---
+
+## Haidilao
+
+Desired Guest State:
+
+Socially Engaged
+
+Supported
+
+Active
+
+### Mechanisms
+
+Visible Human Service
+
++
+
+Social Interaction
+
++
+
+Ritual
+
++
+
+Participation
+
++
+
+Human Personalization
+
+---
+
+## ICHIRAN
+
+Desired Guest State:
+
+Private
+
+Focused
+
+Self-Directed
+
+### Mechanisms
+
+Low-Visibility Service
+
++
+
+Reduced Social Interaction
+
++
+
+Structured Participation
+
++
+
+Privacy
+
++
+
+System Personalization
+
++
+
+Concentration
+
+---
+
+# Shared Deep Structure
+
+Both:
+
+align:
+
+service
+
+space
+
+participation
+
+product
+
+and:
+
+operating structure
+
+around:
+
+a deliberate guest state.
+
+Both also support:
+
+the distinction between:
+
+## Story Through Hospitality Model
+
+Meaning carried by:
+
+how the system works.
+
+and:
+
+## Hospitality System Proof
+
+Evidence explaining:
+
+how the system works.
+
+This contradiction pair directly supports:
+
+C-10
+
+and:
+
+C-11.
+
+---
+
+# Current Registry Counts
+
+Independent Restaurants:
+
+12
+
+Kodawa Labs Validation Cases:
+
+1
 
 Emerging:
 
@@ -2954,7 +2507,7 @@ Emerging:
 
 Candidate:
 
-9
+11
 
 Partially Supported:
 
@@ -2968,45 +2521,268 @@ Research-Derived KHDS Principles:
 
 0
 
-Candidate Confidence Changes:
+Existing Implementation Pattern Pending Formal Validation:
 
 1
 
-- Photography as Use-Case Evidence:
-  Medium → Medium-High
+Highest Research-Derived Maturity:
 
-Pattern Promotions:
+Candidate
 
-0
+# Opportunity Themes
 
-Pattern Demotions:
+Current Official Count:
 
-0
+36
 
-Pattern Renames:
+ICHIRAN introduced:
 
-0
+multiple new research directions.
+
+These directions do not:
+
+automatically become:
+
+Opportunity Themes.
+
+Because KHDS does not currently maintain:
+
+a separate canonical Opportunity Theme registry
+
+Restaurant #12 does not:
+
+change:
+
+the official count.
+
+Current Official Opportunity Themes:
+
+36
+
+Any future change to:
+
+the Opportunity Theme system
+
+should begin with:
+
+defining:
+
+where those themes are canonically governed
+
+before:
+
+changing the count.
 
 ---
 
-## Next Governance File
+# Registry Change Log — Post-ICHIRAN
 
-Reconcile:
+## Added To Candidate Registry
 
-`khds/research/validation/dashboard.md`
+C-10
 
-The dashboard should:
+Story Through Hospitality Model
 
-mirror:
+Confidence:
+
+Medium-High
+
+---
+
+C-11
+
+Hospitality System Proof
+
+Confidence:
+
+Medium
+
+---
+
+## Existing Candidate Confidence Changes
+
+None.
+
+Photography as Use-Case Evidence remains:
+
+Medium-High.
+
+---
+
+## Candidate Demotions
+
+None.
+
+---
+
+## Candidate Renames
+
+None.
+
+---
+
+## Emerging Promotions
+
+None.
+
+---
+
+## Validated Promotions
+
+None.
+
+---
+
+## Research-Derived Principle Promotions
+
+None.
+
+---
+
+# Mirror Integrity Requirement
+
+The following files must mirror:
 
 this registry
 
 and:
 
-`research/validation/candidate-patterns.md`
+the canonical governance file:
 
-without:
+- `khds/research/validation/dashboard.md`
+- `khds/research/README.md`
+- `khds/research/validation/README.md`
 
-creating:
+They must show:
+
+12 Independent Restaurants
+
+18 Emerging
+
+11 Candidate
+
+1 Partially Supported
+
+0 Validated
+
+0 Research-Derived Principles
+
+1 Existing Implementation Pattern Pending Formal Validation
+
+They must include:
+
+- Story Through Hospitality Model — Candidate / Medium-High
+- Hospitality System Proof — Candidate / Medium
+
+They must not:
+
+create:
 
 new governance decisions.
+
+---
+
+# Implementation Knowledge Integrity
+
+Trunk & Tandoor remains:
+
+Track B.
+
+Stable Production Translation.
+
+The canonical implementation-learning count is:
+
+17.
+
+When:
+
+`khds/research/validation/README.md`
+
+is reconciled
+
+ensure:
+
+the implementation knowledge list
+
+matches:
+
+those 17 canonical learnings.
+
+Do not:
+
+split:
+
+one canonical learning
+
+into:
+
+two
+
+and accidentally report:
+
+18.
+
+This is:
+
+documentation integrity.
+
+Not:
+
+production redesign.
+
+---
+
+# Registry Validation
+
+Registry:
+
+`khds/patterns/registry.md`
+
+Status:
+
+Post-ICHIRAN Mirror Complete
+
+Canonical Source:
+
+`khds/research/validation/candidate-patterns.md`
+
+Independent Restaurants:
+
+12
+
+Emerging:
+
+18
+
+Candidate:
+
+11
+
+Partially Supported:
+
+1
+
+Validated:
+
+0
+
+Research-Derived KHDS Principles:
+
+0
+
+Existing Implementation Pattern Pending Formal Validation:
+
+1
+
+New Candidates Mirrored:
+
+- Story Through Hospitality Model — Medium-High
+- Hospitality System Proof — Medium
+
+Highest Research-Derived Maturity:
+
+Candidate
+
+Next Governance Mirror:
+
+`khds/research/validation/dashboard.md`

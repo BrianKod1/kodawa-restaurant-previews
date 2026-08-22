@@ -1,65 +1,102 @@
 # KHDS Cross-Restaurant Comparison — Photography
 
-## Purpose
+## Status
+
+Post-ICHIRAN Photography Reconciliation
+
+Independent Restaurants:
+
+12
+
+Latest Research Case:
+
+ICHIRAN Shibuya
+
+Research Dimension:
+
+Photography / Evidence
+
+Formal Governance Changes:
+
+Deferred
+
+---
+
+# Purpose
 
 Compare how independent restaurants use:
 
 photography
 
-and other visual evidence
-
-to help guests:
-
-understand
-
-trust
-
 and:
 
-anticipate
+other visual evidence
 
-the hospitality experience.
+to help guests understand:
+
+- product
+- place
+- atmosphere
+- people
+- service
+- participation
+- behaviour
+- system
+- difference
+- expected use
 
 This document asks:
 
-> **What should visual evidence actually prove?**
+> **What uncertainty does the visual evidence reduce?**
 
-Photography should not be evaluated only by:
+Photography should not be treated as:
 
-- beauty
-- polish
-- composition
-- consistency
-- volume
+- decoration
+- mood filler
+- mandatory gallery content
+- proof simply because an image exists
+- social proof merely because people appear
+- the only available evidence medium
 
-The stronger research question is:
+The current research increasingly shows that:
 
-> **What uncertainty does this image reduce?**
+visual strategy should begin with:
 
-The current research now shows that photography may function as:
+the claim
 
-- product proof
-- place proof
-- atmosphere proof
-- process proof
-- craft proof
-- authorship proof
-- use-case proof
-- participation proof
-- social proof
-- service proof
-- cultural proof
-- behavioural proof
+or:
 
-Haidilao adds important pressure because:
-
-some of its most meaningful differentiators are:
-
-behavioural
+uncertainty
 
 rather than:
 
-static.
+the image category.
+
+ICHIRAN adds:
+
+important pressure
+
+because:
+
+its hospitality difference is:
+
+systemic
+
+behavioural
+
+and:
+
+individual.
+
+Generic ramen photography
+
+or:
+
+conventional social lifestyle imagery
+
+cannot fully explain:
+
+how the experience works.
 
 ---
 
@@ -76,2070 +113,399 @@ static.
 9. Alinea
 10. NARISAWA
 11. Haidilao Toronto Downtown
+12. ICHIRAN Shibuya
 
 ---
 
-# Current Photography Models
+# Current Photography / Evidence Models
 
 ## Ankole
 
-### Photography Type
+### Primary Evidence Roles
 
-Place + Refinement Proof
-
-### Primary Jobs
-
-Photography communicates:
-
-- architecture
-- environment
-- dining spaces
+- place
+- refinement
+- interior environment
 - food
-- physical refinement
 - atmosphere
 
 ### Main Contribution
 
-The physical place can:
+Photography can:
 
-carry significant brand meaning.
+establish:
 
-Photography helps the guest understand:
-
-where the experience happens
+place
 
 and:
 
-why that environment matters.
+environmental quality
+
+without:
+
+decorative explanation.
 
 ---
 
 # Cultiva
 
-### Photography Type
+### Primary Evidence Roles
 
-Process + System Proof
-
-### Primary Jobs
-
-Photography communicates:
-
-- ingredients
-- cultivation
 - food
+- ingredients
 - sourcing
+- cultivation
+- worldview
 - process
-- environment
-- people
 
 ### Main Contribution
 
-Photography can reveal:
+Photography may help:
 
-systems
+prove:
 
-behind:
+a restaurant's philosophy
 
-the product.
+when:
 
-It does not need to stop at:
+the philosophy is:
 
-finished dishes.
+materially connected to:
+
+food
+
+and:
+
+production.
 
 ---
 
 # Talisman
 
-### Photography Type
-
-Layered Character Proof
-
-### Primary Jobs
-
-Photography communicates:
+### Primary Evidence Roles
 
 - food
-- interiors
+- interior
+- heritage
 - garden
 - art
-- history
-- ambience
-- accumulated character
+- physical character
 
 ### Main Contribution
 
-A restaurant may require:
+Photography can reveal:
 
-multiple visual layers
+multiple layers
 
-to explain:
+of:
 
-what kind of place it is.
+an established hospitality experience.
 
 ---
 
 # Mawimbi
 
-### Photography Type
-
-Product + Atmosphere + Occasion Proof
-
-### Primary Jobs
-
-Photography communicates:
+### Primary Evidence Roles
 
 - seafood
-- interiors
-- social use
-- occasion
-- luxury
 - atmosphere
+- social use
 - events
+- luxury
+- destination environment
 
 ### Main Contribution
 
-Photography can help prove:
+Photography can:
 
-both:
+carry:
 
-what the restaurant serves
+product proof
 
 and:
 
-why the environment itself may be desirable.
+occasion proof
+
+simultaneously.
 
 ---
 
 # Bistro Lolo
 
-### Photography Type
-
-Place + Lifestyle + Use Proof
-
-### Primary Jobs
-
-Photography communicates:
+### Primary Evidence Roles
 
 - social rhythm
+- neighbourhood use
 - people
 - food
+- occasion
 - architecture
-- pool / estate context
-- day-to-night use
-- neighbourhood character
 
 ### Main Contribution
 
-Photography can show:
+Use-case photography can help:
 
-how a hospitality place is:
+the guest imagine:
 
-lived in
+how:
 
-rather than:
+the restaurant fits:
 
-merely how it looks.
+real life.
 
 ---
 
 # FYN
 
-### Photography Type
+### Primary Evidence Roles
 
-Product + Craft + Spatial Proof
-
-### Primary Jobs
-
-Photography communicates:
-
-- culinary precision
-- plating
-- craft
-- interiors
+- culinary authority
+- presentation
+- precision
+- experience structure
+- restraint
 - authorship
-- high-commitment dining
 
 ### Main Contribution
 
-Photography can support:
+Photography should prove:
 
-culinary authority
+the kind of difference
 
-and:
+that matters
 
-experience confidence
+rather than:
 
-without:
+simply:
 
-revealing every part of:
+showing:
 
-the meal.
+more.
 
 ---
 
 # Dishoom Covent Garden
 
-### Photography Type
+### Primary Evidence Roles
 
-Narrative World + Social Use Proof
-
-### Primary Jobs
-
-Photography communicates:
-
-- interiors
-- cultural references
-- people
-- food
 - social use
-- atmosphere
-- spatial character
+- cultural world
+- interiors
+- food
+- occasion
+- narrative atmosphere
 
 ### Main Contribution
 
-Photography can support:
+Photography can:
+
+help:
+
+build:
 
 a narrative world
 
-while also showing:
+while:
 
-how guests inhabit:
+also explaining:
 
-the place.
+how:
+
+people inhabit:
+
+the restaurant.
 
 ---
 
 # Franklin Barbecue
 
-### Photography Type
+### Primary Evidence Roles
 
-Product Authority + Participation Proof
-
-### Primary Jobs
-
-Photography communicates:
-
-- barbecue
+- product
 - craft
 - queue
-- demand
-- physical participation
-- informal social use
-- production reality
+- people
+- use
+- operational reality
 
 ### Main Contribution
 
-Photography can prove:
+Photography can:
 
-both:
-
-product credibility
-
-and:
-
-the reality of:
-
-how guests participate.
-
----
-
-# Alinea
-
-### Photography Type
-
-Craft + Transformation + Selective Proof
-
-### Primary Jobs
-
-Photography communicates:
-
-- culinary authorship
-- transformation
-- precision
-- spatial character
-- selected moments of the experience
-
-while:
-
-deliberately withholding:
-
-some information.
-
-### Main Contribution
-
-More photography is not always:
-
-better proof.
-
-Selective reveal may protect:
-
-anticipation
-
-and:
-
-experience value.
-
----
-
-# NARISAWA
-
-### Photography Type
-
-Ecology + Craft + Authorship Proof
-
-### Primary Jobs
-
-Photography communicates:
-
-- ingredients
-- nature
-- Japanese ecology
-- culinary craft
-- authorship
-- environmental meaning
-
-### Main Contribution
-
-Photography can connect:
-
-product
-
-to:
-
-the larger system
-
-that gives:
-
-the product meaning.
-
----
-
-# Haidilao Toronto Downtown
-
-### Photography Type
-
-Participation + Service + Behavioural Proof
-
-### Primary Jobs
-
-The most meaningful visual evidence may communicate:
-
-- guests cooking
-- broth selection
-- sauce preparation
-- shared tables
-- staff interaction
-- personalized service
-- social activity
-- waiting hospitality
-- product customization
-
-### Main Contribution
-
-Photography may need to show:
-
-what people do
-
-rather than:
-
-only:
-
-what the restaurant looks like.
-
-Haidilao therefore creates:
-
-a stronger test for:
-
-behavioural evidence.
-
----
-
-# Cross-Restaurant Comparison
-
-Across the eleven restaurants:
-
-photography performs:
-
-materially different jobs.
-
-The evidence set now includes:
-
-## Product Proof
-
-- Franklin
-- FYN
-- Mawimbi
-- Haidilao
-- NARISAWA
-
-## Place Proof
-
-- Ankole
-- Talisman
-- Bistro Lolo
-- Dishoom
-
-## Process Proof
-
-- Cultiva
-- Franklin
-- NARISAWA
-
-## Craft Proof
-
-- FYN
-- Alinea
-- Franklin
-- NARISAWA
-
-## Atmosphere Proof
-
-- Ankole
-- Mawimbi
-- Talisman
-- Bistro Lolo
-- Dishoom
-
-## Use-Case Proof
-
-- Bistro Lolo
-- Dishoom
-- Franklin
-- Haidilao
-
-## Participation Proof
-
-Strongest current examples:
-
-- Franklin
-- Haidilao
-
-## Service Proof
-
-Strongest current conceptual example:
-
-- Haidilao
-
-## Cultural / Narrative Proof
-
-- Dishoom
-- NARISAWA
-- Cultiva
-
-## Authorship Proof
-
-- FYN
-- Alinea
-- NARISAWA
-- Franklin
-
-This demonstrates that:
-
-photography should be selected by:
-
-evidence requirement
-
-rather than:
-
-restaurant-category convention.
-
----
-
-# Previous Working Photography Model
-
-The comparison had moved toward:
-
-What Must Be Proven?
-
-↓
-
-What Must Be Explained?
-
-↓
-
-What Should Remain Mysterious?
-
-↓
-
-Select Evidence
-
-↓
-
-Build Confidence
-
-This remains:
-
-strong.
-
-Haidilao adds:
-
-another important question:
-
-> **Is photography actually the best medium for this proof?**
-
----
-
-# Proposed Refined Evidence Architecture
-
-Guest Decision
-
-↓
-
-Relevant Uncertainty
-
-↓
-
-Claim
-
-↓
-
-What Must Be Proven?
-
-↓
-
-Best Evidence Type
-
-↓
-
-Photography
-or
-Motion
-or
-Copy
-or
-Process
-or
-Service Demonstration
-or
-Interface
-or
-External Authority
-
-↓
-
-Minimum Sufficient Confidence
-
-This is broader than:
-
-photography architecture.
-
-That is intentional.
-
-The evidence should choose:
-
-the medium.
-
-The medium should not dictate:
-
-the evidence.
-
----
-
-# Critical Correction — Photography Is Not the Goal
-
-The research originally gave photography:
-
-strong importance because:
-
-real hospitality imagery
-
-often carries more truth than:
-
-decorative design.
-
-That remains valuable.
-
-However:
-
-Haidilao exposes:
-
-a boundary.
-
-If the meaningful difference depends on:
-
-- motion
-- behaviour
-- sequence
-- service
-- ritual
-- interaction
-
-then:
-
-a static image
-
-may not be:
-
-the strongest evidence.
-
-Therefore:
-
-KHDS should avoid turning:
-
-Photography Before Decoration
-
-into:
-
-Photography Before Everything.
-
----
-
-# Pattern Review — Photography Before Decoration
-
-## Current Status
-
-Emerging
-
-## Strong Evidence
-
-Supported across:
-
-the entire research set
-
-through different visual mechanisms.
-
-## Haidilao Pressure
-
-The strongest Haidilao proof may require:
-
-- motion
-- service demonstration
-- behavioural sequence
-- instructional evidence
-
-rather than:
-
-a still photograph alone.
-
-## Interpretation
-
-The pattern survives if:
-
-the core principle remains:
-
-authentic experience evidence
-
-before:
-
-decorative representation.
-
-## Potential Boundary Refinement
-
-Photography Before Decoration
-
-should not mean:
-
-> photography is always the preferred medium.
-
-A stronger implementation boundary is:
-
-> Use authentic evidence before decorative substitutes.
-
-## Governance Recommendation
-
-Retain:
-
-Emerging.
-
-Do not rename yet.
-
-Definition pressure:
-
-High.
-
----
-
-# Pattern Review — Photography as Proof
-
-## Current Status
-
-Emerging
-
-## Evidence
-
-Strong across:
-
-- Ankole
-- Cultiva
-- Talisman
-- Mawimbi
-- FYN
-- Dishoom
-- Franklin
-- Alinea
-- NARISAWA
-- Haidilao
-
-through different:
-
-proof obligations.
-
-## Haidilao Contribution
-
-Photography may prove:
-
-- participation
-- service
-- behaviour
-- social use
-
-rather than:
-
-only:
-
-food
-
-or:
-
-space.
-
-## Interpretation
-
-The pattern becomes stronger when:
-
-proof
-
-is:
-
-claim-specific.
-
-## Recommended Boundary
-
-An image should not be considered:
-
-proof
-
-merely because:
-
-it is authentic.
-
-It must:
-
-materially support:
-
-the claim being made.
-
-## Governance Recommendation
-
-Retain:
-
-Emerging.
-
-Potential confidence increase.
-
-No maturity promotion.
-
----
-
-# Pattern Review — Photography Through Layers of Experience
-
-## Current Status
-
-Emerging
-
-## Previous Strong Evidence
-
-- Talisman
-- Mawimbi
-- Bistro Lolo
-- Dishoom
-
-with support across:
-
-other cases.
-
-## Haidilao Contribution
-
-Haidilao introduces:
-
-behavioural layers:
-
-- participation
-- service
-- waiting
-- social activity
-- customization
-
-## Interpretation
-
-A layer does not need to be:
-
-a visual subject category
-
-such as:
-
-food
-
-interior
-
-or:
-
-people.
-
-It may represent:
-
-a hospitality state.
-
-Examples:
-
-- waiting
-- participation
-- service
-- celebration
-- preparation
-
-## Governance Recommendation
-
-Retain:
-
-Emerging.
-
-Potential definition refinement.
-
----
-
-# Pattern Review — Photography Should Demonstrate Difference
-
-## Current Status
-
-Emerging
-
-## Existing Logic
-
-Attractive imagery is:
-
-insufficient
-
-when:
-
-it does not explain:
-
-why:
-
-this restaurant
-
-is different.
-
-## Haidilao Contribution
-
-This distinction becomes:
-
-especially clear.
-
-Generic hot pot imagery could show:
-
-- meat
-- broth
-- steam
-- ingredients
-
-without explaining:
-
-Haidilao.
-
-Its differentiation may instead lie in:
-
-- service
-- participation
-- customization
-- social energy
-- waiting hospitality
-
-## Interpretation
-
-Photography should demonstrate:
-
-the mechanism of difference
-
-not:
-
-the category stereotype.
-
-## Governance Recommendation
-
-Retain:
-
-Emerging.
-
-Confidence increase:
-
-potentially justified.
-
-Hold until:
-
-full reconciliation.
-
----
-
-# Pattern Review — Photography as Use-Case Evidence
-
-## Current Status
-
-Candidate
-
-## Existing Strong Evidence
-
-- Bistro Lolo
-- Dishoom
-- Franklin
-
-## Haidilao Contribution
-
-Very strong conceptual support.
-
-Haidilao requires:
-
-the guest to:
-
-use
-
-the hospitality product
-
-in a specific way.
-
-Images can potentially show:
-
-- cooking
-- mixing
-- sharing
-- group interaction
-- service
-- participation
-
-## Important Refinement
-
-Use-case evidence may exist at:
-
-different depths.
-
-### Level 1 — Presence
-
-People are visible.
-
-### Level 2 — Occasion
-
-The image explains:
-
-who the restaurant may suit.
-
-### Level 3 — Behaviour
-
-The image explains:
-
-what people actually do.
-
-### Level 4 — Product Participation
-
-The image demonstrates:
-
-how guest action helps create:
-
-the product itself.
-
-Haidilao may provide:
-
-Level 4 evidence.
-
-## Governance Recommendation
-
-Strong promotion watch.
-
-Do not promote yet.
-
-Full comparison reconciliation required.
-
----
-
-# Pattern Review — Show the System Behind the Plate
-
-## Current Status
-
-Candidate
-
-## Existing Strong Evidence
-
-- Cultiva
-- Franklin
-- NARISAWA
-
-through:
-
-different product systems.
-
-## Haidilao Pressure
-
-The meaningful system may include:
-
-- staff training
-- service structure
-- waiting hospitality
-- customization
-- participation support
-- interaction design
-
-This is not:
-
-behind the plate.
-
-## Interpretation
-
-The Candidate remains useful for:
-
-culinary systems.
-
-But:
-
-Haidilao reveals:
-
-a broader evidence problem.
-
-The restaurant may need to prove:
-
-the system behind:
-
-hospitality.
-
-## Governance Recommendation
-
-Do not broaden:
-
-Show the System Behind the Plate
-
-until:
-
-it becomes:
-
-unfalsifiable.
-
-Instead:
-
-track:
-
-Hospitality System Proof
-
-as:
-
-a separate research question.
-
----
-
-# Finding 1 — Use-Case Photography Has Different Depths
-
-The current set now gives:
-
-enough variation
-
-to distinguish:
-
-different use-case functions.
-
-## Presence
-
-People appear in:
-
-the image.
-
-This alone does not prove:
-
-use.
-
-## Occasion
-
-Photography communicates:
-
-who the experience may suit.
-
-Examples:
-
-- date night
-- groups
-- casual social use
-
-## Behaviour
-
-Photography explains:
-
-what guests do.
-
-Examples:
-
-- queue
-- cook
-- mix
-- share
-- interact
-
-## Participation
-
-Photography demonstrates:
-
-how guest action
-
-changes:
-
-the experience
-
-or:
-
-product.
-
-This distinction improves:
-
-the falsifiability
-
-of:
-
-Photography as Use-Case Evidence.
-
----
-
-# Finding 2 — Empty Space Has Context-Dependent Proof Value
-
-Empty interior photography is:
-
-high-value
-
-when:
-
-space itself
-
-creates:
-
-meaning.
-
-Examples:
-
-- Ankole
-- Talisman
-- Alinea
-
-It may be:
-
-lower-value
-
-when:
-
-the core differentiation comes from:
-
-behaviour.
-
-Example:
-
-- Haidilao
-
-Therefore:
-
-the question should not be:
-
-> Should we show empty spaces?
-
-It should be:
-
-> Does the empty space prove something important?
-
-This reinforces:
-
-role-based image selection.
-
----
-
-# Finding 3 — Product Beauty Is Not Product Difference
-
-This appears consistently across:
-
-the research set.
-
-Attractive food imagery can:
-
-create appetite.
-
-But:
-
-appetite alone may not prove:
-
-difference.
-
-Examples:
-
-### Cultiva
-
-Difference may depend on:
-
-cultivation
-
-and:
-
-system.
-
-### Franklin
-
-Difference may depend on:
-
-craft
-
-and:
-
-process.
-
-### NARISAWA
-
-Difference may depend on:
-
-ecology
-
-and:
-
-authorship.
-
-### Haidilao
-
-Difference may depend on:
+help explain:
 
 participation
 
 and:
 
-service.
-
-Therefore:
-
-product photography should ask:
-
-> What specifically makes this product meaningful here?
-
----
-
-# Finding 4 — Behaviour Can Be Proof
-
-Haidilao makes this:
-
-especially clear.
-
-An image may prove:
-
-- the guest role
-- the service role
-- social interaction
-- ritual
-- participation
-- waiting
-- customization
-
-This expands:
-
-proof architecture
-
-beyond:
-
-objects.
-
-The subject of proof may be:
-
-an action.
-
----
-
-# Finding 5 — Static Photography Has a Limit
-
-Some hospitality claims are:
-
-temporal.
-
-Examples:
-
-- preparation
-- service interaction
-- transformation
-- performance
-- ritual
-- movement
-- table progression
-
-Photography can:
-
-freeze
-
-one moment.
-
-It may not:
-
-explain:
-
-the sequence.
-
-## Research Direction
-
-### Motion as Evidence
-
-Potential evidence across:
-
-- Haidilao
-- Alinea
-- NARISAWA
-- Franklin
-- FYN
-
-depending on:
-
-what requires:
-
-temporal proof.
-
-Status:
-
-Observed Research Direction
-
-Confidence:
-
-Low
-
-Do not promote.
-
----
-
-# Finding 6 — Selective Reveal Still Matters
-
-Haidilao does not invalidate:
-
-Selective Reveal.
-
-Instead:
-
-it helps clarify:
-
-where reveal is appropriate.
-
-## Alinea
-
-Mystery may protect:
-
-experience value.
-
-## Haidilao
-
-Participation education may reduce:
-
-unnecessary uncertainty.
-
-This demonstrates:
-
-two valid directions.
-
-### Reveal
-
-when:
-
-knowledge improves:
-
-fit
-
-confidence
-
-or:
-
-successful participation.
-
-### Withhold
-
-when:
-
-disclosure would reduce:
-
-meaningful anticipation
-
-without:
-
-improving:
-
-guest readiness.
-
-This is important for:
-
-future contradiction research.
-
----
-
-# Finding 7 — Proof Volume Should Follow Proof Need
-
-The research continues to support:
-
-minimum sufficient proof.
-
-A large gallery is not automatically:
-
-stronger evidence.
-
-A useful image set should cover:
-
-distinct proof obligations.
-
-Possible framework:
-
-Image 1
-
-↓
-
-Place
-
-Image 2
-
-↓
-
-Product
-
-Image 3
-
-↓
-
-Participation
-
-Image 4
-
-↓
-
-Atmosphere
-
-Image 5
-
-↓
-
-Service
-
-only when:
-
-those are:
-
-actual uncertainties.
-
-The proof plan changes:
-
-by restaurant.
-
----
-
-# Finding 8 — Different Claims Need Different Evidence
-
-Example:
-
-## Claim
-
-We serve excellent hot pot.
-
-Possible evidence:
-
-- broth
-- ingredients
-- product quality
-
-## Claim
-
-We provide personalized service.
-
-Possible evidence:
-
-- service interaction
-- staff support
-- operational evidence
-
-## Claim
-
-This is participatory dining.
-
-Possible evidence:
-
-- guests cooking
-- sauce mixing
-- table action
-
-## Claim
-
-This is socially connecting.
-
-Possible evidence:
-
-- group interaction
-- shared table behaviour
-
-One image should not be asked to:
-
-prove everything.
-
----
-
-# Evidence Medium Selection
-
-The comparison now suggests:
-
-a useful evidence hierarchy.
-
-Start with:
-
-## Claim
-
-What are we saying?
-
-↓
-
-## Proof Obligation
-
-What would make that believable?
-
-↓
-
-## Best Evidence Medium
-
-What can prove it most truthfully?
-
-Possible options:
-
-### Photography
-
-Useful for:
-
-- place
-- product
-- people
-- action
-- atmosphere
-- craft
-
-### Motion
-
-Useful for:
-
-- sequence
-- transformation
-- ritual
-- performance
-- interaction
-
-### Copy
-
-Useful for:
-
-- policy
-- explanation
-- philosophy
-- expectation
-
-### Process Evidence
-
-Useful for:
-
-- sourcing
-- preparation
-- craft
-- systems
-
-### Service Evidence
-
-Useful for:
-
-- hospitality model
-- staff interaction
-- support
-
-### Interface Evidence
-
-Useful for:
-
-- participation state
-- availability
-- confirmation
-- access
-
-### External Authority
-
-Useful where:
-
-credible third-party evidence
-
-matters.
-
-This is:
-
-a working evidence architecture.
-
-Not:
-
-a formal principle yet.
-
----
-
-# Important Boundary — Photography Before Decoration
-
-The research now provides:
-
-enough pressure
-
-to state:
-
-what this pattern should not become.
-
-It should not mean:
-
-- every section needs photography
-- video is inferior
-- photography automatically proves authenticity
-- decorative graphics are always wrong
-- empty interiors are always weak
-- people must always appear
-
-The stronger rule remains:
-
-authentic evidence
-
-should carry:
-
-meaning
-
-before:
-
-decorative representation is asked to:
-
-simulate meaning.
-
----
-
-# Important Boundary — Photography as Proof
-
-Photography proves:
-
-only what:
-
-the visible image
-
-can reasonably support.
-
-A photograph of:
-
-finished food
-
-does not prove:
-
-sourcing.
-
-A photograph of:
-
-a smiling employee
-
-does not prove:
-
-service consistency.
-
-A photograph of:
-
-guests
-
-does not prove:
-
-guest satisfaction.
-
-A photograph of:
-
-a busy restaurant
-
-does not prove:
-
-commercial success.
-
-Evidence discipline must remain:
-
-strict.
-
----
-
-# Important Boundary — Photography as Use-Case Evidence
-
-People in an image:
-
-are not enough.
-
-Use-case evidence requires:
-
-the image to help explain:
-
-- who
-- why
-- how
-- when
-- or what behaviour
-
-is relevant to:
-
-participation.
-
-This distinction should remain:
-
-explicit
-
-if the Candidate is ever promoted.
-
----
-
-# Evidence Gap Architecture
-
-Haidilao reinforces:
-
-another important KHDS behaviour.
-
-When:
-
-a meaningful claim
-
-cannot be:
-
-credibly proven
-
-with:
-
-the available assets
-
-the correct response is not:
-
-add more decorative imagery.
-
-The correct sequence is:
-
-Claim
-
-↓
-
-Evidence Obligation
-
-↓
-
-Available Evidence
-
-↓
-
-Gap
-
-↓
-
-Acquire Better Evidence
-or
-Adjust Claim
-or
-Use Better Medium
-or
-Preserve Uncertainty
-
-This aligns with:
-
-production lessons
-
-without using:
-
-Track B
-
-to increase:
-
-Track A maturity.
-
----
-
-# Cross-Restaurant Photography Mechanisms
-
-## Place
-
-Strong in:
-
-- Ankole
-- Talisman
-- Bistro Lolo
-- Dishoom
-
-## Product
-
-Strong in:
-
-- Franklin
-- FYN
-- Mawimbi
-- NARISAWA
-
-## Process
-
-Strong in:
-
-- Cultiva
-- Franklin
-- NARISAWA
-
-## Craft / Authorship
-
-Strong in:
-
-- FYN
-- Alinea
-- NARISAWA
-- Franklin
-
-## Social Use
-
-Strong in:
-
-- Bistro Lolo
-- Dishoom
-- Franklin
-- Haidilao
-
-## Participation
-
-Strongest in:
-
-- Haidilao
-- Franklin
-
-## Service
-
-Strongest current pressure:
-
-- Haidilao
-
-## Cultural / Narrative World
-
-Strong in:
-
-- Dishoom
-- NARISAWA
-- Cultiva
-
-## Selective Reveal
-
-Strongest in:
-
-- Alinea
-- NARISAWA
-
----
-
-# Current Contradiction Summary
-
-Haidilao creates four major photography corrections.
-
-## Correction 1
-
-Photography
-
-does not equal:
-
-proof automatically.
-
----
-
-## Correction 2
-
-People
-
-do not equal:
-
-use-case evidence automatically.
-
----
-
-## Correction 3
-
-The best visual proof may be:
-
-behaviour
-
-not:
-
-beauty.
-
----
-
-## Correction 4
-
-Photography may not be:
-
-the best evidence medium
-
-for:
-
-every hospitality claim.
-
-These strengthen:
-
-the evidence architecture.
-
----
-
-# Governance Recommendation From Photography Comparison
-
-Do not make:
-
-final governance changes yet.
-
-Recommend:
-
-## Photography Before Decoration
-
-Status:
-
-Emerging
-
-Action:
-
-Retain.
-
-Definition pressure:
-
-move toward:
-
-authentic evidence before decorative representation
-
-without renaming yet.
-
----
-
-## Photography as Proof
-
-Status:
-
-Emerging
-
-Action:
-
-Retain.
-
-Potential confidence increase.
-
-Clarify:
-
-claim-specific proof.
-
----
-
-## Photography Through Layers of Experience
-
-Status:
-
-Emerging
-
-Action:
-
-Retain.
-
-Expand:
-
-layers
-
-to include:
-
-behavioural states.
-
----
-
-## Photography Should Demonstrate Difference
-
-Status:
-
-Emerging
-
-Action:
-
-Retain.
-
-Potential confidence increase.
-
-Clarify:
-
-difference mechanism
+use-case reality
 
 rather than:
 
-category imagery.
+only:
+
+product beauty.
 
 ---
 
-## Photography as Use-Case Evidence
+# Alinea
 
-Status:
+### Primary Evidence Roles
 
-Candidate
+- selective product reveal
+- authority
+- transformation
+- experience evidence
+- controlled mystery
 
-Action:
+### Main Contribution
 
-Strong promotion watch.
+More visual evidence
 
-Haidilao adds:
+is not always:
 
-meaningful behavioural participation evidence.
+better.
 
-Do not promote until:
+Photography must respect:
 
-all five comparison dimensions
+selective reveal
 
-are reconciled.
+and:
 
----
-
-## Show the System Behind the Plate
-
-Status:
-
-Candidate
-
-Action:
-
-Retain.
-
-Do not broaden artificially.
-
-Track:
-
-Hospitality System Proof
-
-separately.
+evidence need.
 
 ---
 
-# New Directions Worth Carrying Forward
+# NARISAWA
 
-## Photography as Participation Proof
+### Primary Evidence Roles
 
-Status:
+- ecology
+- ingredients
+- product
+- nature
+- authorship
+- philosophy
 
-Observed Research Direction
+### Main Contribution
 
-## Photography as Service Proof
+Photography can support:
 
-Status:
+the relationship between:
 
-Observed Research Direction
+environment
 
-## Motion as Evidence
+philosophy
 
-Status:
+and:
 
-Observed Research Direction
-
-## Hospitality System Proof
-
-Status:
-
-Open Research Direction
-
-## Evidence Before Decoration
-
-Status:
-
-Potential Deeper Abstraction
-
-None should enter:
-
-formal governance
-
-yet.
+culinary output.
 
 ---
 
-# Updated Working Photography Model
+# Haidilao Toronto Downtown
 
-The strongest current model is:
+### Primary Evidence Roles
+
+- product
+- participation
+- service
+- social behaviour
+- hot-pot use
+- operating system
+
+### Main Contribution
+
+Haidilao strengthened:
+
+the idea that:
+
+behaviour
+
+can itself become:
+
+proof.
+
+It also strengthened:
+
+Photography as Use-Case Evidence
+
+where:
+
+the guest needs to understand:
+
+what:
+
+people actually do.
+
+---
+
+# ICHIRAN Shibuya
+
+### Primary Evidence Roles
+
+- product
+- booth
+- system
+- individual participation
+- customization
+- service mechanisms
+- constraint
+- privacy structure
+
+### Main Contribution
+
+ICHIRAN creates:
+
+a major correction:
+
+> **Use-case evidence does not require social lifestyle photography.**
+
+The booth
+
+system
+
+or:
+
+one guest performing:
+
+a meaningful action
+
+may explain:
+
+the experience
+
+better than:
+
+a group of people
+
+socializing.
+
+---
+
+# Cross-Restaurant Finding 1 — Photography Is Evidence Architecture
+
+Across:
+
+the twelve restaurants
+
+the strongest transferable model is:
+
+not:
+
+food photography
+
+interior photography
+
+or:
+
+lifestyle photography.
+
+It is:
+
+evidence architecture.
+
+The sequence is:
 
 Guest Decision
 
@@ -2154,14 +520,6 @@ Claim
 ↓
 
 What Must Be Proven?
-
-↓
-
-What Must Be Explained?
-
-↓
-
-What Should Remain Mysterious?
 
 ↓
 
@@ -2175,90 +533,2006 @@ Minimum Sufficient Evidence
 
 Confidence
 
-Photography remains:
+This remains:
 
-one of:
-
-the strongest evidence tools.
-
-It is no longer:
-
-the assumed answer.
+the strongest current model.
 
 ---
 
-# Haidilao Contribution
+# Cross-Restaurant Finding 2 — The First Question Should Be What Must Be Proven
 
-Haidilao's largest contribution to:
+Before selecting:
 
-photography research
+an image
 
-is:
+ask:
 
-forcing KHDS to distinguish:
+> **What uncertainty should this evidence reduce?**
 
-showing
+Possible proof jobs include:
 
-from:
+- product quality
+- place
+- atmosphere
+- social use
+- individual use
+- process
+- service
+- participation
+- operating system
+- heritage
+- craft
+- difference
+- fit
+- occasion
+- customization
+- physical constraint
+- access
 
-proving.
+This is:
 
-The better question is no longer:
+more durable
 
-> **Do we have good photography?**
+than:
 
-It is:
+starting with:
 
-> **Does the evidence help the guest understand the specific hospitality difference that matters?**
+a gallery.
 
-For Haidilao:
+---
 
-that difference may be:
+# Cross-Restaurant Finding 3 — Photography Should Demonstrate Difference
+
+The current research increasingly supports:
+
+a strong principle:
+
+generic category imagery
+
+often proves:
+
+only:
+
+the category.
+
+---
+
+## ICHIRAN Example
+
+A bowl of:
+
+tonkotsu ramen
+
+proves:
+
+ramen.
+
+It does not necessarily prove:
+
+why:
+
+ICHIRAN
+
+is different.
+
+The stronger evidence may include:
+
+- booth structure
+- individual orientation
+- customization
+- service controls
+- participation system
+
+---
+
+## Franklin Example
+
+A brisket photograph
+
+proves:
+
+barbecue.
+
+Queue
+
+craft
+
+and:
+
+use-case evidence
+
+may explain:
+
+more of:
+
+Franklin's difference.
+
+---
+
+## Bistro Lolo Example
+
+A food photograph
+
+proves:
+
+food.
+
+Social-use imagery
+
+may better explain:
+
+the day-to-night neighbourhood experience.
+
+---
+
+# Pressure Test — Photography Should Demonstrate Difference
+
+## Current Status
+
+Emerging
+
+## ICHIRAN Result
+
+Very strong support.
+
+## Definition Refinement
+
+Difference may be:
+
+- product-specific
+- spatial
+- behavioural
+- social
+- operational
+- participatory
+- systemic
+- cultural
+- procedural
+
+## Governance Recommendation
+
+Retain:
+
+Emerging.
+
+No maturity change.
+
+---
+
+# Cross-Restaurant Finding 4 — Use-Case Evidence Is About Use, Not People
+
+Previous research could be misread as:
+
+Use-Case Evidence
+
+=
+
+people in photographs.
+
+ICHIRAN makes:
+
+that interpretation:
+
+untenable.
+
+Use-case evidence should answer:
+
+> **How is this hospitality experience actually used?**
+
+That may require:
+
+people.
+
+But:
+
+it may also require:
+
+- empty booth architecture
+- a service control
+- a customization form
+- a queue configuration
+- a communal table
+- a dining ritual
+- a participation sequence
+
+---
+
+# Pressure Test — Photography as Use-Case Evidence
+
+## Current Status
+
+Candidate
+
+## Confidence Before Restaurant #12
+
+Medium-High
+
+## ICHIRAN Result
+
+Strong support
+
+plus:
+
+major definition refinement.
+
+## Proposed Definition
+
+> **Hospitality visual evidence may help the guest understand how the experience is actually used, whether the use is social, individual, behavioural, procedural, or product-participatory.**
+
+## Important Boundary
+
+A person appearing:
+
+does not automatically create:
+
+use-case evidence.
+
+The evidence must:
+
+teach:
+
+something about:
+
+actual participation.
+
+## Confidence Recommendation
+
+Keep:
+
+Medium-High
+
+for now.
+
+Do not increase to:
+
+High
+
+during:
+
+photography comparison alone.
+
+Alinea's contradiction still matters:
+
+use-case imagery is:
+
+not universally necessary
+
+or:
+
+desirable.
+
+Formal confidence decision:
+
+defer to:
+
+canonical governance.
+
+---
+
+# Cross-Restaurant Finding 5 — Use-Case Depth Needs A More Precise Model
+
+The current evidence supports:
+
+a useful hierarchy.
+
+---
+
+## Level 1 — Presence
+
+A person is visible.
+
+This provides:
+
+weak participation information.
+
+---
+
+## Level 2 — Occasion
+
+The image helps explain:
+
+who
+
+or:
+
+what kind of visit
+
+the experience may suit.
+
+---
+
+## Level 3 — Behaviour
+
+The image helps explain:
+
+what:
+
+the guest actually does.
+
+---
+
+## Level 4 — Product Participation
+
+The image helps explain:
+
+how:
+
+guest behaviour
+
+changes
+
+or:
+
+creates:
+
+part of:
+
+the product
+
+or:
+
+hospitality experience.
+
+---
+
+## Haidilao
+
+Strong:
+
+Level 4.
+
+Guests:
+
+participate directly
+
+in:
+
+hot-pot consumption
+
+and:
+
+service interaction.
+
+---
+
+## ICHIRAN
+
+Potentially strong:
+
+Level 3
+
+and:
+
+Level 4.
+
+The guest:
+
+uses:
+
+the booth
+
+configures:
+
+the ramen
+
+accesses:
+
+service mechanisms
+
+and:
+
+participates individually.
+
+---
+
+# Governance Position
+
+Use-Case Depth
+
+should become:
+
+a permanent:
+
+proof architecture variable.
+
+Not:
+
+a separate pattern.
+
+---
+
+# Cross-Restaurant Finding 6 — Individual Use-Case Evidence Is Distinct From Social Use-Case Evidence
+
+The research now supports:
+
+at least:
+
+two major use-case orientations.
+
+---
+
+## Social Use-Case Evidence
+
+Shows:
+
+how:
+
+people interact
+
+with:
+
+other people
+
+inside:
+
+the hospitality experience.
+
+Strong examples may include:
+
+- Bistro Lolo
+- Dishoom
+- Haidilao
+- Mawimbi
+
+---
+
+## Individual Use-Case Evidence
+
+Shows:
+
+how:
+
+one guest
+
+uses:
+
+the environment
+
+system
+
+or:
+
+product.
+
+Strongest current example:
+
+ICHIRAN.
+
+---
+
+## Mixed Use-Case Evidence
+
+Shows:
+
+both:
+
+individual action
+
+and:
+
+social participation.
+
+Potential examples:
+
+Franklin
+
+Haidilao.
+
+---
+
+# Governance Position
+
+Add:
+
+Use-Case Orientation
+
+as:
+
+proof architecture:
+
+Social
+
+Individual
+
+Mixed.
+
+Not:
+
+pattern.
+
+---
+
+# Cross-Restaurant Finding 7 — The Hospitality System Itself Can Require Proof
+
+ICHIRAN creates:
+
+one of the strongest examples
+
+in:
+
+the research set.
+
+Its differentiation depends partly on:
+
+how:
+
+the hospitality system works.
+
+This creates:
+
+a proof need beyond:
+
+food
+
+interior
+
+and:
+
+atmosphere.
+
+---
+
+## Hospitality System Proof
+
+Question:
+
+> **What evidence helps the guest understand how the hospitality system itself creates or supports the experience?**
+
+Potential evidence includes:
+
+- booth structure
+- ordering mechanism
+- guest controls
+- queue structure
+- service access
+- participation rules
+- interaction states
+- refill mechanism
+- seating architecture
+
+---
+
+# Cross-Case Support
+
+## Haidilao
+
+Strong:
 
 service
 
 participation
 
-ritual
+and:
+
+operating-model evidence.
+
+## ICHIRAN
+
+Strong:
+
+privacy
+
+system
+
+individual-participation
 
 and:
 
-behaviour.
+service-availability evidence.
 
-That is materially different from:
+## Franklin
 
-another polished photograph of:
+Partial:
 
-hot pot.
+queue
+
+craft
+
+and:
+
+participation-system evidence.
+
+## Alinea
+
+Partial:
+
+experience architecture
+
+and:
+
+high-commitment structure.
 
 ---
 
-# Research Status
+# Pressure Test — Hospitality System Proof
 
-Independent Restaurants Compared:
+## Pre-ICHIRAN Status
 
-11
+Open Research Direction / Strong Candidate Watch
 
-Latest Restaurant:
+## ICHIRAN Result
 
-Haidilao Toronto Downtown
+Very strong support.
 
-Haidilao Photography Reconciliation:
+## Promotion Pressure
 
-Complete
+High.
 
-Governance Changes:
+## Main Governance Question
 
-Pending Full Five-Dimension Reconciliation
+Is:
 
-Pattern Promotions:
+Hospitality System Proof
 
-None
+distinct enough
 
-Pattern Demotions:
+from:
 
-None
+Photography as Proof
 
-Next Comparison:
+and:
 
-Reservation / Participation
+Show the System Behind the Plate
+
+to become:
+
+Candidate?
+
+## Current Comparison View
+
+Yes:
+
+potentially.
+
+Because:
+
+### Photography as Proof
+
+is:
+
+medium-level.
+
+It describes:
+
+what photography can do.
+
+### Show the System Behind the Plate
+
+is:
+
+culinary / production-system specific.
+
+### Hospitality System Proof
+
+describes:
+
+proof of:
+
+the guest-facing operating system.
+
+That is:
+
+a distinct evidence object.
+
+## Governance Recommendation
+
+Candidate promotion:
+
+plausible.
+
+Do not formally promote until:
+
+all comparison files
+
+are complete.
+
+---
+
+# Cross-Restaurant Finding 8 — Show The System Behind The Plate Must Stay Narrow
+
+ICHIRAN provides:
+
+important boundary evidence.
+
+Its strongest system is:
+
+not:
+
+behind:
+
+the plate.
+
+It is:
+
+around:
+
+the guest.
+
+Therefore:
+
+Show the System Behind the Plate
+
+should remain:
+
+focused on:
+
+culinary
+
+production
+
+craft
+
+or:
+
+sourcing systems
+
+that materially explain:
+
+the product.
+
+Do not stretch:
+
+the Candidate
+
+to absorb:
+
+all hospitality systems.
+
+---
+
+# Pressure Test — Show The System Behind The Plate
+
+## Current Status
+
+Candidate / High
+
+## ICHIRAN Result
+
+Boundary support.
+
+## Governance Recommendation
+
+Retain:
+
+Candidate / High.
+
+Definition should remain:
+
+culinary / product-system specific.
+
+No maturity change.
+
+---
+
+# Cross-Restaurant Finding 9 — Photography As Proof Remains Strong
+
+Across:
+
+the research set
+
+photography repeatedly supports:
+
+claims about:
+
+- place
+- food
+- atmosphere
+- people
+- process
+- use
+- participation
+- system
+- heritage
+- craft
+
+ICHIRAN adds:
+
+system structure
+
+and:
+
+individual use.
+
+---
+
+# Pressure Test — Photography As Proof
+
+## Current Status
+
+Emerging
+
+## ICHIRAN Result
+
+Strong support.
+
+## Important Boundary
+
+Photography proves:
+
+what:
+
+is visible.
+
+It does not:
+
+automatically prove:
+
+emotional outcome
+
+operational effectiveness
+
+or:
+
+guest response.
+
+## Governance Recommendation
+
+Retain:
+
+Emerging.
+
+No maturity change.
+
+---
+
+# Cross-Restaurant Finding 10 — Photography Can Prove Structure Without Proving Experience Outcome
+
+ICHIRAN gives:
+
+especially clean evidence
+
+for:
+
+this boundary.
+
+A photograph may show:
+
+- partition
+- booth
+- seat orientation
+- individual separation
+- call control
+
+This can support:
+
+structural claims.
+
+It cannot establish:
+
+that:
+
+the guest:
+
+- feels calmer
+- concentrates more
+- experiences less anxiety
+- prefers privacy
+- enjoys the meal more
+
+This strengthens:
+
+KHDS evidence discipline.
+
+---
+
+# Research Rule
+
+> **Visual evidence should stop where the visible claim stops.**
+
+This should remain:
+
+a proof discipline rule.
+
+Not:
+
+a formal pattern.
+
+---
+
+# Cross-Restaurant Finding 11 — Photography Through Layers Of Experience Remains Strong
+
+The current research shows:
+
+that:
+
+different restaurants require:
+
+different layers.
+
+---
+
+## Common Layers
+
+- product
+- place
+- people
+- atmosphere
+- process
+- heritage
+- craft
+- participation
+- occasion
+
+---
+
+## ICHIRAN Adds
+
+- system
+- service mechanism
+- constraint
+- individual behaviour
+- customization
+
+---
+
+# Pressure Test — Photography Through Layers Of Experience
+
+## Current Status
+
+Emerging
+
+## ICHIRAN Result
+
+Strong support.
+
+## Definition Refinement
+
+Layers should not be:
+
+predefined categories.
+
+They should reflect:
+
+the actual hospitality experience
+
+and:
+
+its proof requirements.
+
+## Governance Recommendation
+
+Retain:
+
+Emerging.
+
+No maturity change.
+
+---
+
+# Cross-Restaurant Finding 12 — Photography Before Decoration Survives, But Is Under Increasing Abstraction Pressure
+
+The research began with:
+
+Photography Before Decoration.
+
+The growing evidence suggests:
+
+the deeper transferable behaviour may be:
+
+Evidence Before Decoration.
+
+ICHIRAN strengthens:
+
+that pressure
+
+because:
+
+some of:
+
+the best evidence
+
+may not be:
+
+photography.
+
+It may be:
+
+- motion
+- diagram
+- interface explanation
+- sequence
+- written participation guidance
+
+However:
+
+the governance rule remains:
+
+do not rename:
+
+Photography Before Decoration
+
+merely because:
+
+a deeper abstraction appears possible.
+
+The current Emerging pattern should remain:
+
+stable
+
+until:
+
+evidence supports:
+
+a careful replacement
+
+rather than:
+
+conceptual enthusiasm.
+
+---
+
+# Pressure Test — Photography Before Decoration
+
+## Current Status
+
+Emerging
+
+## ICHIRAN Result
+
+Survives.
+
+## Definition Pressure
+
+High.
+
+## Current Boundary
+
+Photography Before Decoration
+
+≠
+
+Photography Before Everything.
+
+The deeper logic is:
+
+authentic evidence
+
+before:
+
+decorative representation.
+
+## Governance Recommendation
+
+Retain:
+
+name
+
+and:
+
+Emerging status.
+
+No maturity change.
+
+---
+
+# Cross-Restaurant Finding 13 — Photography Is Not Always The Best Evidence Medium
+
+Alinea
+
+already created:
+
+pressure around:
+
+selective reveal
+
+and:
+
+the limits of:
+
+photographic proof.
+
+ICHIRAN adds:
+
+a different limitation:
+
+sequence.
+
+Some hospitality systems are:
+
+dynamic.
+
+A still image may fail to explain:
+
+- interaction
+- timing
+- state changes
+- delivery
+- ordering
+- participation sequence
+
+Therefore:
+
+the evidence architecture must choose:
+
+the medium
+
+based on:
+
+the job.
+
+---
+
+# Best Evidence Medium
+
+Possible options include:
+
+- photography
+- motion
+- copy
+- diagram
+- interface demonstration
+- spatial plan
+- process explanation
+- social proof
+- external authority
+- policy
+- interaction itself
+
+Photography remains:
+
+important.
+
+It is not:
+
+mandatory.
+
+---
+
+# Cross-Restaurant Finding 14 — Motion As Evidence Gains Stronger Support
+
+ICHIRAN provides:
+
+a strong case
+
+where:
+
+motion may explain:
+
+- ordering sequence
+- service interaction
+- refill mechanics
+- guest-system behaviour
+
+better than:
+
+one static photograph.
+
+---
+
+# Pressure Test — Motion As Evidence
+
+## Current Status
+
+Observed Research Direction
+
+## ICHIRAN Result
+
+Strong support.
+
+## Cross-Case Support
+
+Potential evidence also exists in:
+
+- Haidilao
+- Alinea
+- process-led hospitality
+- ritual-led hospitality
+
+## Governance Recommendation
+
+Do not promote:
+
+as:
+
+a hospitality pattern.
+
+Prefer:
+
+classifying:
+
+Motion
+
+as:
+
+a legitimate proof medium
+
+inside:
+
+KHDS Proof Architecture.
+
+This is:
+
+more precise.
+
+---
+
+# Cross-Restaurant Finding 15 — Service Proof Has Multiple Forms
+
+The research now suggests:
+
+service can require:
+
+different proof strategies.
+
+---
+
+## Service Presence Proof
+
+Shows:
+
+staff visibly:
+
+performing
+
+or:
+
+interacting.
+
+Strongest fit:
+
+high-service-presence models.
+
+Example:
+
+Haidilao.
+
+---
+
+## Service Availability Proof
+
+Shows:
+
+how:
+
+the guest can access:
+
+reliable assistance
+
+without:
+
+constant visible presence.
+
+Strongest current case:
+
+ICHIRAN.
+
+---
+
+## Service Behaviour Proof
+
+Shows:
+
+what:
+
+staff actually do
+
+when:
+
+service itself
+
+is:
+
+part of:
+
+the experience.
+
+---
+
+# Governance Position
+
+These are:
+
+proof subtypes.
+
+Do not create:
+
+separate Candidate patterns.
+
+---
+
+# Cross-Restaurant Finding 16 — Photography As Service Proof Should Remain A Mechanism
+
+## Current Status
+
+Observed Research Direction
+
+## ICHIRAN Result
+
+Support
+
+with:
+
+major refinement.
+
+Service proof does not:
+
+always require:
+
+employees smiling
+
+or:
+
+interacting visibly.
+
+In:
+
+low-service-visibility models
+
+the stronger evidence may be:
+
+the mechanism
+
+that preserves:
+
+service availability.
+
+## Governance Recommendation
+
+Keep:
+
+below Candidate.
+
+Treat as:
+
+proof subtype.
+
+---
+
+# Cross-Restaurant Finding 17 — Participation Reassurance Is A Real Visual Job
+
+Across:
+
+Haidilao
+
+Franklin
+
+ICHIRAN
+
+and:
+
+other unfamiliar participation models
+
+the guest may need:
+
+visual reassurance
+
+about:
+
+what:
+
+they are expected to do.
+
+This is:
+
+different from:
+
+pure participation proof.
+
+---
+
+## Participation Proof
+
+Shows:
+
+that:
+
+a behaviour occurs.
+
+---
+
+## Participation Reassurance
+
+Helps:
+
+the guest understand:
+
+that:
+
+the behaviour is:
+
+manageable
+
+legible
+
+or:
+
+expected.
+
+---
+
+# Pressure Test — Photography As Participation Reassurance
+
+## Current Status
+
+Observed Research Direction
+
+## ICHIRAN Result
+
+Strong conceptual support.
+
+## Governance Recommendation
+
+Do not create:
+
+a separate Candidate.
+
+Likely:
+
+a purpose
+
+inside:
+
+Photography as Use-Case Evidence
+
+and:
+
+Participation Throughout the Journey.
+
+---
+
+# Cross-Restaurant Finding 18 — Evidence Of Absence Is Possible
+
+ICHIRAN introduces:
+
+an unusual proof problem.
+
+The hospitality difference partly depends on:
+
+what:
+
+the system removes.
+
+Examples:
+
+- opposing diners
+- table sharing
+- continuous staff presence
+- social exposure
+- visual interruption
+
+A photograph may communicate:
+
+absence
+
+through:
+
+spatial evidence.
+
+---
+
+# New Direction — Absence As Visual Evidence
+
+## Status
+
+Open Proof Architecture Question
+
+## Confidence
+
+Low
+
+## Definition Under Test
+
+> **Visual evidence may communicate meaningful hospitality difference by showing what the environment deliberately prevents or removes.**
+
+## Governance Recommendation
+
+Do not promote.
+
+Likely:
+
+proof architecture.
+
+---
+
+# Cross-Restaurant Finding 19 — Narrow Product Models May Need Depth Proof
+
+ICHIRAN introduces:
+
+strong pressure around:
+
+product breadth.
+
+A narrow menu
+
+does not require:
+
+dozens of:
+
+different product images.
+
+Instead:
+
+the evidence may need:
+
+depth.
+
+---
+
+## Breadth Proof
+
+Shows:
+
+variety.
+
+---
+
+## Depth Proof
+
+Shows:
+
+specialization
+
+detail
+
+configuration
+
+craft
+
+or:
+
+difference
+
+inside:
+
+a focused product.
+
+---
+
+## Examples For ICHIRAN
+
+- broth
+- noodle texture
+- customization
+- core bowl
+- refill
+- product interaction
+
+## Governance Position
+
+Breadth Proof
+
+and:
+
+Depth Proof
+
+should become:
+
+proof architecture variables.
+
+Not:
+
+patterns.
+
+---
+
+# Cross-Restaurant Finding 20 — Lifestyle Photography Can Be Wrong
+
+The industry convention:
+
+groups of people
+
+laughing
+
+sharing food
+
+may work for:
+
+many hospitality models.
+
+But:
+
+ICHIRAN demonstrates:
+
+that:
+
+this convention
+
+can actively misrepresent:
+
+the experience.
+
+This yields:
+
+an important conclusion:
+
+> **Photography strategy must follow the hospitality model rather than restaurant-marketing convention.**
+
+This is:
+
+strong evidence
+
+for:
+
+Respect the Brand
+
+as:
+
+a studio belief
+
+but:
+
+not:
+
+research validation of:
+
+the Foundation.
+
+Keep those:
+
+governance layers separate.
+
+---
+
+# Cross-Restaurant Finding 21 — Evidence Mix Must Be Restaurant-Specific
+
+Different restaurants require:
+
+different:
+
+proof mixes.
+
+---
+
+## Haidilao
+
+Service
+
++
+
+people
+
++
+
+participation
+
++
+
+product.
+
+---
+
+## ICHIRAN
+
+System
+
++
+
+individual participation
+
++
+
+product
+
++
+
+constraint.
+
+---
+
+## FYN
+
+Authority
+
++
+
+product
+
++
+
+experience structure.
+
+---
+
+## Talisman
+
+Place
+
++
+
+heritage
+
++
+
+food.
+
+---
+
+## Bistro Lolo
+
+Social rhythm
+
++
+
+place
+
++
+
+food.
+
+---
+
+# Conclusion
+
+There is:
+
+no universal:
+
+restaurant photography formula.
+
+The correct evidence mix depends on:
+
+the hospitality claim
+
+the guest uncertainty
+
+and:
+
+the intended participation model.
+
+---
+
+# Cross-Restaurant Finding 22 — Selective Reveal Remains Important
+
+Alinea strongly demonstrated:
+
+that:
+
+not every experience should be:
+
+fully revealed.
+
+ICHIRAN requires:
+
+more explanation
+
+because:
+
+its participation system
+
+is unusual.
+
+This creates:
+
+a useful evidence tension:
+
+---
+
+## Expectation Clarity
+
+Show enough:
+
+for:
+
+confident participation.
+
+---
+
+## Selective Reveal
+
+Preserve enough:
+
+for:
+
+discovery.
+
+---
+
+# Working Rule
+
+> **Prove what the guest must believe and explain what the guest must understand, while preserving what does not need to be revealed before participation.**
+
+This remains:
+
+proof architecture.
+
+---
+
+# Cross-Restaurant Finding 23 — Evidence Need Should Determine Volume
+
+More images
+
+do not automatically create:
+
+more confidence.
+
+The current research increasingly supports:
+
+Minimum Sufficient Evidence.
+
+The question is:
+
+not:
+
+How many photographs?
+
+It is:
+
+What claims remain:
+
+unproven?
+
+Possible model:
+
+Required Claim
+
+↓
+
+Evidence Gap
+
+↓
+
+Minimum Evidence Needed
+
+↓
+
+Stop
+
+This aligns with:
+
+Track B implementation learning
+
+from:
+
+Trunk & Tandoor
+
+but:
+
+Track B remains:
+
+separate from:
+
+Track A research maturity.
+
+---
+
+# Pressure Test — Photography As Use-Case Evidence Confidence
+
+## Current Confidence
+
+Medium-High
+
+## Restaurant #12 Contribution
+
+Strong.
+
+## Why Not High Immediately?
+
+Because:
+
+ICHIRAN strengthens:
+
+the pattern's definition
+
+and:
+
+cross-model relevance.
+
+But:
+
+Alinea remains:
+
+important contradiction evidence
+
+showing:
+
+that:
+
+use-case evidence is not:
+
+universally:
+
+necessary
+
+or:
+
+appropriate.
+
+## Comparison Recommendation
+
+Retain:
+
+Medium-High.
+
+Do not increase:
+
+yet.
+
+The Candidate becomes:
+
+better defined
+
+rather than:
+
+simply more certain.
+
+---
+
+# Pressure Test — Hospitality System Proof Candidate Promotion
+
+## Current Status
+
+Below Candidate / Strong Candidate Watch
+
+## Evidence Now Includes
+
+Strong:
+
+- Haidilao
+- ICHIRAN
+
+Partial / Relevant:
+
+- Franklin
+- Alinea
+
+## Distinct Question
+
+Hospitality System Proof asks:
+
+> **Does the guest need evidence of how the guest-facing operating system works in order to understand the hospitality difference or participate confidently?**
+
+This question is:
+
+distinct from:
+
+Photography as Proof
+
+and:
+
+Show the System Behind the Plate.
+
+## Comparison Recommendation
+
+Candidate promotion:
+
+supported.
+
+However:
+
+formal governance should wait until:
+
+reservation
+
+and:
+
+story comparisons
+
+confirm:
+
+the same distinction.
+
+---
+
+# Proposed Post-ICHIRAN Proof Architecture
+
+```text
+Guest Decision
+↓
+Relevant Uncertainty
+↓
+Claim
+↓
+What Must Be Proven?
+↓
+What Must Be Explained?
+↓
+What Should Remain Unrevealed?
+↓
+Evidence Gap
+↓
+Best Evidence Medium
+↓
+Product Proof
+Place Proof
+Atmosphere Proof
+Use-Case Proof
+Participation Proof
+Service Proof
+System Proof
+Process Proof
+Authority Proof
+where relevant
+↓
+Minimum Sufficient Evidence
+↓
+Confidence

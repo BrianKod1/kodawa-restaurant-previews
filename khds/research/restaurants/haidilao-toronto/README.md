@@ -14,7 +14,7 @@ Track A — Independent Hospitality Research
 
 ## Status
 
-Research In Progress
+Research Complete
 
 ---
 

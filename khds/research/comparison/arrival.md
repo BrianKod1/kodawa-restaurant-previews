@@ -1,30 +1,95 @@
 # KHDS Cross-Restaurant Comparison — Arrival
 
-## Purpose
+## Status
 
-Compare how independent restaurants introduce the hospitality experience.
+Post-ICHIRAN Arrival Reconciliation
+
+Independent Restaurants:
+
+12
+
+Latest Research Case:
+
+ICHIRAN Shibuya
+
+Research Dimension:
+
+Arrival
+
+Formal Governance Changes:
+
+Deferred
+
+---
+
+# Purpose
+
+Compare how independent restaurants introduce:
+
+the hospitality experience
+
+and:
+
+prepare the guest for:
+
+successful participation.
 
 This document asks:
 
-> **What does the guest need to encounter first in order to understand, trust, and enter the experience?**
+> **What does the guest need to understand, feel, trust, or know before entering the hospitality experience?**
 
-Arrival is not treated as:
+Arrival should not be reduced to:
 
-a hero-section convention.
+- hero design
+- first-screen aesthetics
+- storytelling order
+- reservation placement
+- emotional imagery
 
-It is treated as:
+The current research now shows that:
 
-the beginning of the guest relationship.
+different hospitality models require:
 
-The goal is to identify:
+different arrival jobs.
 
-- recurring arrival mechanisms
-- legitimate variation
-- contradiction
-- boundary conditions
-- confidence-building strategies
-- participation implications
-- patterns that survive different hospitality models
+The objective is to determine:
+
+- what uncertainty exists
+- what meaning matters
+- what utility matters
+- what evidence is required
+- how unfamiliar the hospitality model is
+- how much explanation is necessary
+- what level of commitment exists
+- what kind of participation follows
+
+ICHIRAN adds:
+
+important pressure
+
+because:
+
+its arrival may depend more on:
+
+system clarity
+
+product focus
+
+privacy meaning
+
+and:
+
+participation explanation
+
+than:
+
+social atmosphere
+
+editorial storytelling
+
+or:
+
+high emotional spectacle.
 
 ---
 
@@ -41,6 +106,7 @@ The goal is to identify:
 9. Alinea
 10. NARISAWA
 11. Haidilao Toronto Downtown
+12. ICHIRAN Shibuya
 
 ---
 
@@ -52,36 +118,35 @@ The goal is to identify:
 
 Place + Refinement
 
-### Primary Mechanism
+### Primary Arrival Mechanisms
 
-Ankole introduces the restaurant through:
+- environment
+- architecture
+- visual atmosphere
+- food
+- direct utility
 
-- physical environment
-- visual refinement
-- atmosphere
-- place
+### Main Guest Job
 
-The guest understands:
+Understand:
 
-where they are entering
-
-before:
-
-the restaurant is reduced to practical information.
-
-### Main Contribution
-
-Place can create:
-
-meaning
+what kind of place this is
 
 and:
 
-confidence
+whether:
 
-without requiring:
+the atmosphere fits:
 
-heavy explicit narrative.
+the intended visit.
+
+### Main Contribution
+
+Place can:
+
+carry:
+
+substantial arrival meaning.
 
 ---
 
@@ -91,41 +156,46 @@ heavy explicit narrative.
 
 Worldview + Meaning
 
-### Primary Mechanism
+### Primary Arrival Mechanisms
 
-Cultiva introduces:
-
-a point of view
-
-around:
-
+- philosophy
 - cultivation
 - sourcing
-- sustainability
+- ecology
 - food
-- community
+- visual evidence
 
-before:
+### Main Guest Job
 
-the experience becomes primarily:
+Understand:
 
-transactional.
+what:
+
+the restaurant believes
+
+and:
+
+why:
+
+that belief
+
+matters to:
+
+the experience.
 
 ### Main Contribution
 
-A restaurant can establish:
+Worldview can:
 
-meaning
+organise:
 
-through:
+arrival
 
-worldview
+when:
 
-before:
+it materially explains:
 
-the guest evaluates:
-
-features.
+the hospitality product.
 
 ---
 
@@ -135,47 +205,38 @@ features.
 
 Food + Heritage + Place
 
-### Primary Mechanism
+### Primary Arrival Mechanisms
 
-Talisman builds understanding in layers:
+- food
+- history
+- old-house identity
+- Karen
+- atmosphere
+- reservation access
 
-Food
+### Main Guest Job
 
-↓
+Move from:
 
-Heritage
+desire
 
-↓
+into:
 
-Place
-
-↓
-
-Atmosphere
-
-↓
-
-Reservation
-
-The arrival uses:
-
-culinary desire
-
-historical credibility
+historical confidence
 
 and:
 
-physical setting.
+place understanding.
 
 ### Main Contribution
 
-Arrival does not require:
+Arrival can be:
 
-one dominant opening mechanism.
+layered
 
-Confidence may accumulate through:
+across:
 
-multiple connected layers.
+multiple evidence types.
 
 ---
 
@@ -185,35 +246,46 @@ multiple connected layers.
 
 Promise + Product + Atmosphere
 
-### Primary Mechanism
+### Primary Arrival Mechanisms
 
-Mawimbi introduces:
-
-an aspirational hospitality world
-
-through:
-
+- emotional promise
 - seafood
 - luxury
-- coastal references
-- social connection
-- ambience
+- coastal escape
+- social experience
+- reservation
 
-before:
+### Main Guest Job
 
-the complete practical offer is explained.
+Understand:
+
+the aspirational experience
+
+then:
+
+receive enough:
+
+product
+
+and:
+
+atmospheric evidence
+
+to:
+
+support the promise.
 
 ### Main Contribution
 
-A strong promise may:
+Promise may:
 
-precede complete proof
+precede:
 
-provided that:
+complete proof
 
-the experience later supports:
+when:
 
-the promise.
+proof follows.
 
 ---
 
@@ -223,40 +295,46 @@ the promise.
 
 Familiarity + Social Rhythm + Belonging
 
-### Primary Mechanism
+### Primary Arrival Mechanisms
 
-Bistro Lolo presents:
-
-an approachable neighbourhood experience
-
-through:
-
-- place
-- familiarity
-- day-to-night rhythm
+- neighbourhood character
+- everyday rhythm
 - food
-- social use
-- belonging
+- people
+- place
+- day-to-night use
 
-### Main Contribution
+### Main Guest Job
 
-Premium hospitality does not require:
+Understand:
 
-distance
+how:
 
-mystery
+the restaurant fits:
 
-or:
-
-formality.
-
-Arrival can create confidence through:
-
-recognition
+ordinary life
 
 and:
 
-ease.
+what kinds of visits:
+
+belong there.
+
+### Main Contribution
+
+Familiarity
+
+and:
+
+belonging
+
+can create:
+
+arrival confidence
+
+without:
+
+ceremony.
 
 ---
 
@@ -266,30 +344,44 @@ ease.
 
 Authority + Structure + Evidence + Commitment
 
-### Primary Mechanism
-
-FYN introduces:
+### Primary Arrival Mechanisms
 
 - culinary authority
+- philosophy
 - experience structure
 - expectation clarity
-- high-commitment participation
+- high commitment
+- proof
 
-The guest needs:
+### Main Guest Job
 
-more than emotional orientation.
+Understand:
 
-They also need:
+what:
 
-confidence about:
+the experience is
 
-what they are committing to.
+whether:
+
+it fits
+
+and:
+
+what commitment:
+
+it requires.
 
 ### Main Contribution
 
-Higher-consequence hospitality may require:
+High-commitment hospitality may require:
+
+fit
 
 expectation clarity
+
+and:
+
+structure
 
 before:
 
@@ -303,34 +395,36 @@ commitment.
 
 Narrative World + Social Hospitality
 
-### Primary Mechanism
+### Primary Arrival Mechanisms
 
-Dishoom creates:
-
-a coherent world
-
-through:
-
-- language
-- cultural references
+- cultural memory
+- narrative world
 - place
-- history
-- social use
 - food
+- social atmosphere
+- practical access
 
-while still preserving:
+### Main Guest Job
 
-practical participation routes.
+Understand:
+
+the hospitality world
+
+while:
+
+remaining able to:
+
+act clearly.
 
 ### Main Contribution
 
-Narrative world-building can:
+Narrative richness
 
-increase meaning
+and:
 
-without:
+functional clarity
 
-requiring functional ambiguity.
+can coexist.
 
 ---
 
@@ -340,29 +434,41 @@ requiring functional ambiguity.
 
 Product Authority + Participation Reality
 
-### Primary Mechanism
-
-Franklin creates confidence through:
+### Primary Arrival Mechanisms
 
 - product reputation
-- barbecue craft
-- queue expectations
-- physical participation model
-- practical arrival knowledge
+- founder / craft authority
+- queue reality
+- operational transparency
+- walk-in participation
 
-The guest is not shielded from:
+### Main Guest Job
 
-the reality of:
+Understand:
 
-how the restaurant works.
+what is worth:
+
+waiting for
+
+and:
+
+how:
+
+participation actually works.
 
 ### Main Contribution
 
-Operational truth can strengthen:
+Operational reality
 
-rather than weaken:
+may need to:
 
-hospitality confidence.
+appear early
+
+when:
+
+it materially affects:
+
+participation.
 
 ---
 
@@ -372,36 +478,47 @@ hospitality confidence.
 
 Authorship + Experience Structure + Commitment
 
-### Primary Mechanism
-
-Alinea requires the guest to understand:
+### Primary Arrival Mechanisms
 
 - authorship
-- experience format
-- commitment
-- participation conditions
+- transformation
+- experience architecture
+- reservation structure
+- expectation control
 
-before:
+### Main Guest Job
 
-the reservation can be treated as:
+Understand:
 
-a simple transactional action.
+the level of:
 
-### Main Contribution
-
-High-commitment hospitality may require:
-
-fit
-
-compatibility
+commitment
 
 and:
 
-expectation clarity
+the unusual nature
 
-before:
+of:
 
-participation.
+the experience
+
+without:
+
+requiring:
+
+complete revelation.
+
+### Main Contribution
+
+Arrival may need to:
+
+balance:
+
+clarity
+
+with:
+
+selective mystery.
 
 ---
 
@@ -411,37 +528,48 @@ participation.
 
 Philosophy + Ecology + Culinary Authorship
 
-### Primary Mechanism
-
-NARISAWA introduces:
-
-meaning
-
-through:
+### Primary Arrival Mechanisms
 
 - ecology
-- culinary philosophy
-- nature
-- authorship
-- Japanese landscape and culture
+- landscape
+- philosophy
+- chef authorship
+- product
+- high-commitment access
 
-The restaurant is understood as:
+### Main Guest Job
 
-more than:
+Understand:
 
-a dining product.
+the worldview
+
+and:
+
+authority
+
+that:
+
+explain:
+
+the dining experience.
 
 ### Main Contribution
 
-A deeply authored worldview can:
+Meaning
 
-organise arrival
+and:
+
+authority
+
+may be:
+
+strong arrival confidence mechanisms
 
 when:
 
-that worldview materially explains:
+they directly explain:
 
-the experience.
+the hospitality product.
 
 ---
 
@@ -449,1067 +577,139 @@ the experience.
 
 ### Arrival Type
 
-Service + Product Ritual + System + Participation
+System-Led Participatory Arrival
 
-### Primary Mechanism
+### Primary Arrival Mechanisms
 
-Haidilao introduces:
-
-- the brand
 - hot pot
-- service philosophy
-- guest participation
-- locations
-- reservation
-- membership
-- practical access
-
-without requiring:
-
-a long editorial sequence
-
-before:
-
-utility becomes available.
-
-### Main Contribution
-
-Meaning
-
-and:
-
-utility
-
-can develop:
-
-in parallel.
-
-Haidilao creates confidence through:
-
-service clarity
-
-product understanding
-
-participation education
-
-and:
-
-operational access.
-
----
-
-# Cross-Restaurant Comparison
-
-The eleven restaurants now demonstrate that:
-
-arrival
-
-does not have:
-
-one correct content order.
-
-The opening mechanism changes according to:
-
-- hospitality model
-- guest uncertainty
-- commitment level
-- brand meaning
-- product familiarity
-- participation complexity
-- operating model
-
-Observed mechanisms include:
-
-- place
-- worldview
-- heritage
-- food
-- promise
-- belonging
-- authorship
-- authority
-- operational truth
-- service
-- ritual
+- service model
 - participation
-- practical access
-
-The transferable behaviour is therefore not:
-
-one fixed sequence.
-
-It is:
-
-the deliberate reduction of the uncertainty that matters most
-
-while establishing enough meaning
-
-for:
-
-the guest to continue.
-
----
-
-# Working Arrival Architecture Before Haidilao
-
-The current comparison had moved toward:
-
-Meaning
-
-↓
-
-Confidence
-
-↓
-
-Participation
-
-For higher-commitment hospitality:
-
-Meaning
-
-↓
-
-Confidence
-
-↓
-
-Expectation Clarity
-
-↓
-
-Commitment
-
-↓
-
-Participation
-
-This remains useful.
-
-However:
-
-Haidilao shows that:
-
-the sequence may not always be:
-
-strictly linear.
-
----
-
-# Haidilao Contradiction
-
-Haidilao makes:
-
-- location access
-- reservation
+- utility
+- location
 - membership
-- product information
-- service information
+- operational information
 
-available:
+### Main Guest Job
 
-early.
+Understand:
 
-Yet:
-
-the hospitality proposition remains:
-
-understandable.
-
-This challenges any assumption that:
-
-meaning must always be:
-
-fully established
-
-before:
-
-utility appears.
-
-The stronger interpretation is:
-
-meaning
-
-confidence
+the restaurant
 
 and:
 
-participation understanding
+how:
 
-may sometimes develop:
-
-simultaneously.
-
----
-
-# Proposed Refined Arrival Architecture
-
-A more flexible working model is:
-
-Guest Intent
-
-↓
-
-Primary Uncertainty
-
-↓
-
-Relevant Meaning
-
-+
-
-Relevant Utility
-
-+
-
-Relevant Evidence
-
-↓
-
-Confidence
-
-↓
-
-Participation Understanding
-
-↓
-
-Appropriate Commitment
-
-↓
-
-Participation
-
-This should not be interpreted as:
-
-every element appearing:
-
-at once.
-
-The point is:
-
-Meaning
-
-and:
-
-Utility
-
-do not need:
-
-a fixed universal order.
-
-Their sequencing should depend on:
-
-the guest problem.
-
----
-
-# Higher-Commitment Variant
-
-When participation has:
-
-financial
-
-temporal
-
-behavioural
-
-or:
-
-experiential consequence:
-
-Guest Intent
-
-↓
-
-Primary Uncertainty
-
-↓
-
-Relevant Meaning
-
-+
-
-Relevant Evidence
-
-↓
-
-Fit / Compatibility
-
-↓
-
-Expectation Clarity
-
-↓
-
-Commitment Understanding
-
-↓
-
-Participation
-
-Examples include:
-
-- FYN
-- Alinea
-- NARISAWA
-
-Haidilao demonstrates:
-
-a different model
-
-where:
-
-access clarity
-
-and:
-
-participation understanding
-
-may deserve earlier prominence.
-
----
-
-# Pattern Review — Emotion Before Interface
-
-## Current Status
-
-Emerging
-
-## Evidence Across Set
-
-Supported through materially different mechanisms by:
-
-- Ankole
-- Cultiva
-- Talisman
-- Mawimbi
-- Bistro Lolo
-- FYN
-- Dishoom
-- Alinea
-- NARISAWA
-
-Haidilao introduces:
-
-important boundary pressure.
-
-## Haidilao Contradiction
-
-Haidilao does not delay:
-
-useful functional access
-
-until:
-
-an emotional sequence is complete.
-
-## Current Interpretation
-
-The pattern survives if:
-
-Emotion Before Interface
-
-means:
-
-> the interface should serve the hospitality meaning rather than flatten the restaurant into functions.
-
-It should not mean:
-
-> hide utility until emotion has been established.
-
-## Recommended Boundary
-
-### Emotion Before Interface ≠ Emotion Before Utility
-
-Functional information may appear:
-
-immediately
-
-when:
-
-it meaningfully serves:
-
-the guest.
-
-## Current Governance Recommendation
-
-Retain:
-
-Emerging.
-
-Do not promote.
-
-Refine:
-
-definition / implementation boundary
-
-during governance reconciliation.
-
----
-
-# Pattern Review — Story Before Features
-
-## Current Status
-
-Emerging
-
-## Evidence Across Set
-
-Strongly supported through:
-
-- Cultiva
-- Talisman
-- Dishoom
-- FYN
-- Alinea
-- NARISAWA
-
-with alternative expressions in:
-
-- Ankole
-- Mawimbi
-- Bistro Lolo
-- Franklin
-
-Haidilao creates:
-
-major definition pressure.
-
-## Haidilao Contradiction
-
-Practical features are:
-
-visible early.
-
-But:
-
-meaning still exists through:
-
-- service
-- ritual
-- participation
-- product
-- operating model
-
-## Current Interpretation
-
-Story should be understood as:
-
-meaning architecture
-
-not:
-
-mandatory editorial sequencing.
-
-## Recommended Boundary
-
-### Story Before Features ≠ Story Section Before Functions
-
-A practical feature can appear:
-
-early
-
-when:
-
-its role still makes sense inside:
-
-the broader hospitality meaning.
-
-## Current Governance Recommendation
-
-Retain:
-
-Emerging.
-
-Definition refinement likely required.
-
----
-
-# Pattern Review — Layered Arrival
-
-## Current Status
-
-Emerging
-
-## Evidence
-
-Strong examples include:
-
-- Talisman
-- Mawimbi
-
-with broader support across:
-
-- Ankole
-- Cultiva
-- Bistro Lolo
-- FYN
-- Dishoom
-- Alinea
-- NARISAWA
-
-## Haidilao Contribution
-
-Haidilao adds:
-
-another form of layering:
-
-Brand
-
-↓
-
-Product
-
-↓
-
-Service
-
-↓
-
-Participation Understanding
-
-↓
-
-Operational Access
-
-But:
-
-these layers may overlap
-
-rather than unfold:
-
-cinematically.
-
-## Interpretation
-
-Layered Arrival remains useful if:
-
-layered
-
-means:
-
-confidence accumulates through:
-
-multiple connected forms of information.
-
-It should not imply:
-
-slow sequential reveal.
-
-## Governance Recommendation
-
-Retain:
-
-Emerging.
-
-Potential definition refinement:
-
-layers may be:
-
-sequential
-
-or:
-
-concurrent.
-
----
-
-# Pattern Review — Multi-Intent Hospitality
-
-## Current Status
-
-Emerging
-
-## Haidilao Evidence
-
-Very strong.
-
-Guest intents include:
-
-- find location
-- reserve
-- inspect cuisine
-- understand hot pot
-- contact restaurant
-- access membership
-- understand service
-
-## Interpretation
-
-Haidilao demonstrates:
-
-why one arrival pathway
-
-cannot serve:
-
-every guest.
-
-## Governance Recommendation
-
-Potential confidence increase.
-
-Do not promote maturity yet.
-
----
-
-# Pattern Review — Commitment Without Pressure
-
-## Current Status
-
-Emerging
-
-## Haidilao Contribution
-
-Haidilao does not require:
-
-aggressive persuasion
-
-before:
-
-functional participation.
-
-Utility is:
-
-available.
-
-The guest can:
-
-act
-
-or:
-
-continue understanding the brand.
-
-## Boundary
-
-Natural demand
-
-or:
-
-queueing
-
-should not be confused with:
-
-manufactured scarcity.
-
-## Governance Recommendation
-
-Retain:
-
-Emerging.
-
----
-
-# Finding 1 — Utility Can Participate in Arrival Meaning
-
-## Cross-Restaurant Evidence
-
-Several restaurants already use:
-
-practical information
+the guest participates
 
 without:
 
-destroying atmosphere.
+requiring:
 
-Examples include:
+a long editorial sequence.
 
-- Franklin
-- FYN
-- Alinea
-- Dishoom
+### Main Contribution
 
-Haidilao makes the behaviour:
+Haidilao produced:
 
-especially visible.
+a major arrival correction:
 
-## Interpretation
+> **Emotion Before Interface does not mean Emotion Before Utility.**
 
-Utility should not be classified as:
+Utility may itself:
 
-the opposite of:
+carry:
 
-emotion.
-
-A useful function may:
-
-increase trust
-
-reduce uncertainty
-
-and:
-
-help the guest imagine successful participation.
-
-## Research Direction
-
-### Utility as Hospitality
-
-Current status:
-
-Observed Research Direction
-
-Strongest Evidence:
-
-Haidilao
-
-Partial Support:
-
-- Franklin
-- FYN
-- Alinea
-- Dishoom
-
-## Recommendation
-
-Do not promote yet.
-
-Compare:
-
-reservation
-
-and:
-
-story
-
-evidence first.
+hospitality meaning.
 
 ---
 
-# Finding 2 — Product Education Can Be Arrival Content
+# ICHIRAN Shibuya
 
-## Haidilao Evidence
+### Arrival Type
 
-Hot pot requires:
+System-Led Expectation Arrival
 
-guest knowledge.
+### Primary Arrival Mechanisms
 
-The digital experience can explain:
+- product focus
+- hospitality-system explanation
+- privacy meaning
+- structured participation
+- customization
+- location utility
+- congestion transparency
 
-- broth
-- sauce
-- cooking
-- meal progression
+### Main Guest Job
 
-before:
+Understand:
 
-arrival.
+what:
 
-## Comparison
+the restaurant is
 
-### FYN / Alinea
+how:
 
-Pre-visit clarity explains:
+the unusual experience works
 
-commitment conditions.
+and:
 
-### Franklin
+what:
 
-Operational clarity explains:
+the guest needs to do.
 
-queue participation.
+### Main Contribution
 
-### Haidilao
+ICHIRAN strengthens:
 
-Product education explains:
-
-what the guest must actually do.
-
-## Interpretation
-
-Educational content can:
-
-increase hospitality confidence
+the idea that:
 
 when:
 
-participation depends on:
+the hospitality model is unfamiliar
 
-unfamiliar knowledge.
+system explanation may become:
 
-## Research Direction
+part of:
 
-### Explain the Ritual When Participation Requires Knowledge
-
-Current status:
-
-Observed
-
-Potentially transferable.
-
-Needs further:
-
-ritual-heavy restaurant research.
+arrival hospitality.
 
 ---
 
-# Finding 3 — Arrival May Explain Behaviour, Not Just Identity
+# Cross-Restaurant Finding 1 — There Is No Universal Arrival Sequence
 
-Previous research often asked:
+The twelve restaurants now demonstrate:
 
-> What is this restaurant?
+multiple successful arrival logics.
 
-Haidilao adds:
+Examples include:
 
-> What am I expected to do here?
+Place
 
-That question becomes important when:
+Worldview
 
-the guest role
+Heritage
 
-is materially different from:
+Promise
 
-ordinary dining.
+Familiarity
 
-## Possible Arrival Question Set
+Authority
 
-A strong arrival may need to answer:
+Narrative World
 
-1. What is this place?
-2. Why does it matter?
-3. Is it right for me?
-4. What will happen?
-5. What am I expected to do?
-6. How do I participate?
+Product Authority
 
-The weighting changes:
+Experience Structure
 
-by restaurant.
+Service
 
----
+Participation
 
-# Finding 4 — Arrival Architecture Depends on Familiarity
+System Explanation
 
-## Observation
+No evidence supports:
 
-A familiar restaurant format may need:
-
-less explanation.
-
-An unfamiliar format may require:
-
-education.
-
-## Examples
-
-### Standard neighbourhood dining
-
-The guest may already understand:
-
-the participation model.
-
-### Hot pot
-
-A first-time guest may need:
-
-ritual education.
-
-### Tasting menu
-
-The guest may need:
-
-commitment and expectation clarity.
-
-### Queue-led barbecue
-
-The guest may need:
-
-operational arrival knowledge.
-
-## Interpretation
-
-The guest's:
-
-prior knowledge
-
-may be an important arrival variable.
-
-## Research Direction
-
-### Familiarity as Arrival Variable
-
-Status:
-
-Observed Research Direction
-
-Confidence:
-
-Low
-
-Potential future question:
-
-> How much explanation does this guest need because of the restaurant model itself?
-
----
-
-# Finding 5 — Scale Changes Arrival Architecture
-
-## Observation
-
-Haidilao must introduce:
-
-the brand
-
-and:
-
-help the guest locate:
-
-the relevant restaurant.
-
-## Comparison
-
-Most earlier cases are:
-
-single
-
-or:
-
-more location-specific experiences.
-
-Haidilao requires:
-
-Brand
-
-↓
-
-Location
-
-↓
-
-Participation.
-
-## Research Tension
-
-### Brand System Versus Location Specificity
-
-Arrival for:
-
-multi-location hospitality
-
-may require:
-
-two levels of meaning:
-
-### Brand Meaning
-
-What does:
-
-Haidilao
-
-represent?
-
-### Location Meaning
-
-What is:
-
-Toronto Downtown
-
-specifically like?
-
-## Current Evidence
-
-The current public ecosystem is:
-
-stronger at:
-
-brand-level meaning.
-
-Toronto-specific distinction is:
-
-more limited.
-
-## Status
-
-Observed Tension
-
----
-
-# Cross-Restaurant Arrival Mechanisms
-
-The research set now demonstrates:
-
-## Place
-
-Strong in:
-
-- Ankole
-- Talisman
-- Bistro Lolo
-
-## Worldview / Philosophy
-
-Strong in:
-
-- Cultiva
-- NARISAWA
-- FYN
-
-## Product
-
-Strong in:
-
-- Franklin
-- Talisman
-- Mawimbi
-- Haidilao
-
-## Promise
-
-Strong in:
-
-- Mawimbi
-
-## Belonging / Familiarity
-
-Strong in:
-
-- Bistro Lolo
-- Dishoom
-
-## Heritage / Cultural Memory
-
-Strong in:
-
-- Talisman
-- Dishoom
-
-## Authorship / Authority
-
-Strong in:
-
-- FYN
-- Alinea
-- NARISAWA
-- Franklin
-
-## Operational Reality
-
-Strong in:
-
-- Franklin
-- Alinea
-- Haidilao
-
-## Service
-
-Strongest currently in:
-
-- Haidilao
-
-## Ritual / Participation Education
-
-Strongest currently in:
-
-- Haidilao
-
----
-
-# Updated Arrival Principle
-
-The evidence no longer supports:
-
-a simplistic rule such as:
+one universal sequence such as:
 
 Emotion
 
@@ -1523,117 +723,1991 @@ Features
 
 ↓
 
-Reserve
+Reservation.
+
+The stronger rule remains:
+
+> **Arrival should resolve the right uncertainty rather than obey a preferred storytelling sequence.**
+
+ICHIRAN strengthens:
+
+this conclusion.
+
+---
+
+# Cross-Restaurant Finding 2 — Arrival Is Uncertainty-Resolution Architecture
+
+Across:
+
+the research set
+
+the strongest shared behaviour is:
+
+not:
+
+one visual style.
+
+It is:
+
+the progressive reduction of:
+
+relevant uncertainty.
+
+Different restaurants create:
+
+different uncertainties.
+
+---
+
+## Ankole
+
+Primary uncertainty:
+
+What kind of place is this?
+
+---
+
+## Cultiva
+
+Primary uncertainty:
+
+What does this restaurant believe?
+
+---
+
+## Talisman
+
+Primary uncertainty:
+
+Why does this established place matter?
+
+---
+
+## Mawimbi
+
+Primary uncertainty:
+
+Does the premium promise have credible substance?
+
+---
+
+## Bistro Lolo
+
+Primary uncertainty:
+
+How does this restaurant fit into my social life?
+
+---
+
+## FYN
+
+Primary uncertainty:
+
+What am I committing to?
+
+---
+
+## Dishoom
+
+Primary uncertainty:
+
+What world am I entering
+
+and:
+
+how do I participate?
+
+---
+
+## Franklin
+
+Primary uncertainty:
+
+How does this queue-led experience actually work?
+
+---
+
+## Alinea
+
+Primary uncertainty:
+
+What kind of high-commitment experience is this?
+
+---
+
+## NARISAWA
+
+Primary uncertainty:
+
+What philosophy
+
+and:
+
+authority
+
+explain:
+
+the experience?
+
+---
+
+## Haidilao
+
+Primary uncertainty:
+
+How does this service-led participatory experience work?
+
+---
+
+## ICHIRAN
+
+Primary uncertainty:
+
+How does this low-interaction
+
+privacy-led
+
+structured experience work?
+
+---
+
+# Cross-Restaurant Finding 3 — Familiarity Determines Explanation Need
+
+ICHIRAN makes:
+
+Familiarity
+
+more important.
+
+The amount of:
+
+arrival explanation
+
+required
+
+depends partly on:
+
+whether:
+
+the guest already understands:
+
+the hospitality model.
+
+---
+
+## Familiar Experience
+
+Examples may include:
+
+a conventional neighbourhood restaurant.
+
+The guest may require:
+
+less:
+
+participation explanation.
+
+---
+
+## Unfamiliar Experience
+
+Examples include:
+
+- high-commitment tasting structures
+- queue-led hospitality
+- participatory hot pot
+- low-interaction booth dining
+
+The guest may require:
+
+more:
+
+expectation clarity
+
+before:
+
+participating confidently.
+
+---
+
+## Proposed Arrival Variable
+
+### Experience Familiarity
+
+High
+
+↔
+
+Low
+
+and:
+
+### Participation Familiarity
+
+High
+
+↔
+
+Low
+
+These should become:
+
+explicit arrival variables.
+
+Not:
+
+patterns.
+
+---
+
+# Cross-Restaurant Finding 4 — Meaning And Utility May Be Sequential Or Concurrent
+
+Earlier KHDS thinking risked:
+
+separating:
+
+emotion
+
+story
+
+and:
+
+utility
+
+too rigidly.
+
+Haidilao challenged:
+
+that separation.
+
+ICHIRAN strengthens:
+
+the correction.
+
+At ICHIRAN:
+
+system information may simultaneously be:
+
+### Utility
+
+How do I:
+
+participate?
+
+and:
+
+### Meaning
+
+Why:
+
+does the restaurant work:
+
+this way?
+
+Therefore:
+
+Meaning
+
+and:
+
+Utility
+
+may develop:
+
+in parallel.
+
+---
+
+# Refined Arrival Principle
+
+Not:
+
+Meaning
+
+then:
+
+Utility.
 
 Instead:
 
-arrival appears to be:
-
-an uncertainty-resolution architecture.
-
-A stronger working rule is:
-
-> **Introduce the hospitality experience through the combination of meaning, evidence, utility, and participation understanding that best resolves the guest's most important uncertainty.**
-
-This is:
-
-a working comparison conclusion.
-
-It is not yet:
-
-a promoted KHDS Principle.
+> **Provide the combination of meaning, utility, evidence, and participation understanding required by the guest's current uncertainty.**
 
 ---
 
-# Arrival Variables
+# Cross-Restaurant Finding 5 — System Explanation Can Be Arrival Hospitality
 
-Future arrival research should consider:
+ICHIRAN adds:
 
-## Guest Intent
+strong new pressure.
 
-Why is the guest here?
+Some hospitality models are:
 
-## Primary Uncertainty
+unusual enough
 
-What is stopping confident progression?
+that:
 
-## Familiarity
+the system itself
 
-Does the guest understand:
+must become:
 
-the restaurant format?
+legible.
 
-## Commitment
+Examples from:
 
-What must the guest risk:
+the wider set include:
 
-financially
+### Franklin
 
-temporally
+Queue / walk-in reality.
 
-or:
+### Alinea
 
-experientially?
+High-commitment experience structure.
 
-## Meaning
+### Haidilao
 
-What makes the restaurant worth:
+Participatory hot pot
 
-continuing to explore?
+and:
 
-## Evidence
+service model.
 
-What must be believed?
+### ICHIRAN
 
-## Utility
+Booth
 
-What does the guest need:
+ordering
 
-immediately?
+customization
 
-## Participation Understanding
+interaction boundaries
 
-Does the guest know:
+and:
 
-what they must do?
+individual participation.
 
-## Fit
+This suggests:
 
-Does the guest understand:
+a broader research direction:
 
-whether the experience suits them?
+## System as Arrival Proof
 
-## Location Structure
+Definition under test:
 
-Is this:
+> **When successful participation depends on an unfamiliar hospitality system, explaining enough of that system may build pre-arrival confidence.**
 
-one destination
+Status:
 
-or:
+Observed Research Direction
 
-one location inside:
+Confidence:
 
-a larger brand system?
+Low to Medium
+
+Do not promote.
+
+Potential relationships:
+
+- Layered Arrival
+- Participation Throughout the Journey
+- Hospitality System Proof
 
 ---
 
-# Updated Working Arrival Model
+# Cross-Restaurant Finding 6 — Explain The Guest Role When Participation Is Unfamiliar
 
-Guest Intent
+Haidilao
+
+and:
+
+ICHIRAN
+
+have:
+
+almost opposite:
+
+social structures.
+
+Yet:
+
+both require:
+
+the guest
+
+to understand:
+
+their role.
+
+---
+
+## Haidilao
+
+The guest may need to understand:
+
+- hot pot participation
+- shared preparation
+- service
+- location / booking
+- membership
+
+---
+
+## ICHIRAN
+
+The guest may need to understand:
+
+- booth behaviour
+- customization
+- low-interaction service
+- individual participation
+- possible congestion
+
+---
+
+## Shared Deep Structure
+
+The transferable question is:
+
+not:
+
+> Is the experience social?
+
+or:
+
+> Is the experience private?
+
+It is:
+
+> **Does successful participation depend on behaviour the guest may not already understand?**
+
+If yes:
+
+arrival may need:
+
+participation education.
+
+---
+
+# New Research Direction — Explain The Guest Role
+
+## Status
+
+Observed Architecture Direction
+
+## Confidence
+
+Medium
+
+## Definition Under Test
+
+> **When hospitality depends on unfamiliar guest behaviour, arrival should provide enough participation understanding for the guest to enter confidently.**
+
+## Governance Position
+
+Likely:
+
+architecture
+
+rather than:
+
+formal pattern.
+
+Potential home:
+
+Participation Throughout the Journey
+
++
+
+Layered Arrival.
+
+---
+
+# Cross-Restaurant Finding 7 — Product Focus Can Simplify Arrival
+
+ICHIRAN adds:
+
+a useful distinction between:
+
+Choice Breadth
+
+and:
+
+Choice Depth.
+
+The core proposition is:
+
+narrow.
+
+Yet:
+
+the guest retains:
+
+substantial customization.
+
+This means:
+
+arrival complexity
+
+does not necessarily increase with:
+
+participation depth.
+
+Possible model:
+
+Low Choice Breadth
+
++
+
+High Choice Depth
 
 ↓
 
-Primary Uncertainty
+Simple Initial Orientation
+
++
+
+Rich Later Participation
+
+This should be:
+
+tracked.
+
+Not:
+
+promoted.
+
+---
+
+# Cross-Restaurant Finding 8 — Operational Transparency Can Be Arrival Value
+
+Franklin
+
+and:
+
+ICHIRAN
+
+both show:
+
+the importance of:
+
+real operational information.
+
+Examples:
+
+- queue reality
+- congestion
+- access
+- participation model
+- seating
+- commitment structure
+
+This information may not:
+
+feel:
+
+emotionally rich.
+
+But:
+
+it can reduce:
+
+real guest uncertainty.
+
+Therefore:
+
+operational transparency
+
+should be considered:
+
+part of:
+
+arrival architecture
+
+when:
+
+it materially affects:
+
+participation.
+
+---
+
+# Important Boundary
+
+Operational transparency
+
+≠
+
+hospitality atmosphere.
+
+Operational transparency
+
+≠
+
+waiting hospitality.
+
+Operational transparency
+
+may simply be:
+
+truthful utility.
+
+That is:
+
+valuable enough.
+
+---
+
+# Cross-Restaurant Finding 9 — Low Commitment And High Commitment Require Different Arrival Logic
+
+The research now includes:
+
+very different commitment models.
+
+---
+
+## High Commitment
+
+Examples:
+
+- FYN
+- Alinea
+- NARISAWA
+
+Typical arrival requirements:
+
+- expectation clarity
+- fit
+- compatibility
+- reservation understanding
+- stronger proof
+- stronger commitment framing
+
+---
+
+## Lower Commitment / Spontaneous Access
+
+Examples:
+
+- Franklin
+- Dishoom in part
+- ICHIRAN
+
+Typical arrival requirements may include:
+
+- location
+- access
+- queue reality
+- product clarity
+- walk-in understanding
+- lower pre-visit certainty
+
+---
+
+## Conclusion
+
+Arrival architecture should track:
+
+### Commitment Level
+
+because:
+
+the level of:
+
+commitment
+
+changes:
+
+what must be:
+
+understood
+
+before:
+
+action.
+
+---
+
+# Cross-Restaurant Finding 10 — Desired Certainty Should Be Appropriate, Not Maximum
+
+ICHIRAN strengthens:
+
+a useful participation insight.
+
+Alinea
+
+and:
+
+NARISAWA
+
+may require:
+
+high certainty
+
+because:
+
+the commitment is:
+
+high.
+
+ICHIRAN may allow:
+
+more:
+
+arrival uncertainty
+
+because:
+
+the commitment is:
+
+lower
+
+and:
+
+walk-in participation
+
+is more central.
+
+Therefore:
+
+the goal is not:
+
+maximum certainty.
+
+It is:
+
+appropriate certainty.
+
+Possible model:
+
+Commitment Level
+
+↓
+
+Desired Certainty
+
+↓
+
+Required Arrival Information
+
+This should become:
+
+explicit.
+
+---
+
+# Cross-Restaurant Finding 11 — Privacy Can Require Meaning Translation
+
+ICHIRAN introduces:
+
+a special arrival problem.
+
+Physical separation
+
+and:
+
+reduced interaction
+
+could be interpreted as:
+
+- coldness
+- isolation
+- absence of service
+
+unless:
+
+the intended purpose
+
+is:
+
+understood.
+
+The brand instead frames:
+
+these structures around:
+
+focus
+
+and:
+
+privacy.
+
+This suggests:
+
+that:
+
+some hospitality mechanisms
+
+require:
+
+interpretive framing.
+
+---
+
+# Working Model
+
+Visible Feature
+
+↓
+
+Possible Misinterpretation
+
+↓
+
+Purpose Explanation
 
 ↓
 
 Hospitality Meaning
+
+This may apply:
+
+beyond:
+
+ICHIRAN.
+
+Potential examples:
+
+- queue
+- deposit
+- tasting-menu constraint
+- communal seating
+- individual booth
+- no substitutions
+- limited menu
+
+A constraint
+
+or:
+
+unusual mechanism
+
+may need:
+
+meaning
+
+before:
+
+the guest can:
+
+interpret it fairly.
+
+---
+
+# New Architecture Direction — Constraint Interpretation
+
+## Status
+
+Architecture Direction
+
+## Confidence
+
+Low
+
+## Definition
+
+> **When a visible hospitality constraint can be easily misread, arrival may need to explain the purpose that makes the constraint meaningful.**
+
+Do not promote.
+
+Potential relationships:
+
+- Story
+- Participation
+- Commitment
+- Expectation Clarity
+
+---
+
+# Cross-Restaurant Finding 12 — Arrival Should Not Romanticize Operational Friction
+
+Franklin
+
+and:
+
+ICHIRAN
+
+both include:
+
+potential waiting.
+
+But:
+
+waiting should not automatically become:
+
+part of:
+
+the brand mythology.
+
+ICHIRAN currently establishes:
+
+congestion.
+
+It does not establish:
+
+Hospitality During Waiting.
+
+This is:
+
+important discipline.
+
+Arrival should:
+
+tell the truth
+
+about:
+
+operational reality
+
+without:
+
+pretending:
+
+all friction
+
+is:
+
+meaningful hospitality.
+
+---
+
+# Pressure Test — Emotion Before Interface
+
+## Current Status
+
+Emerging
+
+## Pre-ICHIRAN Boundary
+
+Emotion Before Interface
+
+≠
+
+Emotion Before Utility.
+
+## ICHIRAN Result
+
+Survives
+
+with:
+
+strong reinforcement.
+
+## Reason
+
+ICHIRAN's:
+
+functional system explanation
+
+may itself communicate:
+
+the emotional proposition:
+
+privacy
+
+focus
+
+control.
+
+## Interpretation
+
+The pattern should not be read as:
+
+delay:
+
+useful information
+
+until:
+
+emotion is established.
+
+A stronger interpretation remains:
+
+> **Interface decisions should serve the hospitality meaning rather than flatten the experience into disconnected functions.**
+
+## Governance Recommendation
+
+Retain:
+
+Emerging.
+
+No maturity change.
+
+---
+
+# Pressure Test — Story Before Features
+
+## Current Status
+
+Emerging
+
+## ICHIRAN Result
+
+Survives:
+
+with strong boundary support.
+
+## Reason
+
+Product
+
+and:
+
+system information
+
+may appear early
+
+without:
+
+destroying:
+
+story.
+
+The functions themselves may:
+
+carry:
+
+meaning.
+
+## Current Boundary
+
+Story Before Features
+
+≠
+
+Storytelling Before Utility.
+
+## Governance Recommendation
+
+Retain:
+
+Emerging.
+
+No maturity change.
+
+---
+
+# Pressure Test — Layered Arrival
+
+## Current Status
+
+Emerging
+
+## ICHIRAN Result
+
+Strong support.
+
+## ICHIRAN Layers
+
+Product
+
++
+
+System Meaning
+
++
+
+Participation Explanation
+
++
+
+Location Utility
+
++
+
+Congestion Reality
+
+These may appear:
+
+sequentially
+
+or:
+
+concurrently.
+
+## Important Refinement
+
+Layered Arrival should not mean:
+
+more sections.
+
+It should mean:
+
+multiple relevant forms of:
+
+arrival understanding
+
+can work:
+
+together.
+
+## Governance Recommendation
+
+Retain:
+
+Emerging.
+
+No maturity change.
+
+---
+
+# Pressure Test — Multi-Intent Hospitality
+
+## Current Status
+
+Emerging
+
+## ICHIRAN Result
+
+Support.
+
+Possible intents include:
+
+- understand the restaurant
+- inspect the menu
+- understand the booth system
+- learn customization
+- find Shibuya
+- visit immediately
+- understand congestion
+- prepare for a first visit
+
+## Important Boundary
+
+Multiple intents
+
+do not require:
+
+multiple interfaces
+
+or:
+
+a large information architecture.
+
+The experience can remain:
+
+simple.
+
+## Governance Recommendation
+
+Retain:
+
+Emerging.
+
+No maturity change.
+
+---
+
+# Pressure Test — Promise Before Proof
+
+## Current Status
+
+Emerging
+
+## ICHIRAN Result
+
+Limited direct relevance.
+
+ICHIRAN's arrival appears:
+
+more:
+
+system-led
+
+than:
+
+promise-led.
+
+## Interpretation
+
+This is:
+
+healthy context evidence.
+
+Promise Before Proof is:
+
+one arrival mechanism.
+
+Not:
+
+a universal requirement.
+
+## Governance Recommendation
+
+Retain:
+
+Emerging.
+
+No change.
+
+---
+
+# Pressure Test — Narrative Coherence Through Organising Logic
+
+## Current Status
+
+Emerging
+
+## ICHIRAN Result
+
+Very strong support.
+
+## ICHIRAN Organising Logic
+
+Ramen Focus
+
+↓
+
+Reduce Distraction
+
+↓
+
+Structure Interaction
+
+↓
+
+Preserve Guest Control
+
+↓
+
+Concentrated Product Experience
+
+## Contribution
+
+Organising logic may be:
+
+operational
+
+and:
+
+functional.
+
+This strengthens:
+
+the post-Haidilao definition.
+
+## Governance Recommendation
+
+Retain:
+
+Emerging.
+
+No maturity change.
+
+---
+
+# Pressure Test — Participation Throughout The Journey
+
+## Current Status
+
+Emerging
+
+## ICHIRAN Result
+
+Strong support.
+
+Arrival itself begins:
+
+preparing:
+
+participation.
+
+The guest may need to understand:
+
+- access
+- seating
+- ordering
+- customization
+- service
+- congestion
+
+before:
+
+physical entry.
+
+## Governance Recommendation
+
+Retain:
+
+Emerging.
+
+No maturity change.
+
+---
+
+# Pressure Test — Commitment Without Pressure
+
+## Current Status
+
+Emerging
+
+## ICHIRAN Result
+
+Contextual support.
+
+ICHIRAN adds:
+
+lower-commitment pressure.
+
+The relevant goal is:
+
+not:
+
+maximum certainty
+
+or:
+
+maximum commitment.
+
+It is:
+
+appropriate commitment.
+
+## Governance Recommendation
+
+Retain:
+
+Emerging.
+
+No maturity change.
+
+---
+
+# Pressure Test — Walk-In As First-Class Participation
+
+## Current Status
+
+Candidate / High
+
+## ICHIRAN Arrival Contribution
+
+Strong support.
+
+The location experience appears:
+
+oriented toward:
+
+physical arrival
+
+rather than:
+
+advance reservation.
+
+## Important Boundary
+
+Exact Shibuya queue rules
+
+and:
+
+operating priorities
+
+remain:
+
+partially unverified.
+
+## Governance Recommendation
+
+Retain:
+
+Candidate / High.
+
+No automatic promotion.
+
+---
+
+# Pressure Test — Hospitality System Proof
+
+## Current Status
+
+Open Research Direction
+
+## ICHIRAN Arrival Result
+
+Strong support.
+
+The system itself may need:
+
+to become:
+
+arrival evidence
+
+because:
+
+successful participation depends on:
+
+understanding it.
+
+## Cross-Case Evidence
+
+### Haidilao
+
+System explanation supports:
+
+participatory social hospitality.
+
+### ICHIRAN
+
+System explanation supports:
+
+private individual hospitality.
+
+## Governance Pressure
+
+Strong Candidate Watch.
+
+Formal decision:
+
+defer until:
+
+photography
+
+reservation
+
+story
+
+and:
+
+full governance reconciliation.
+
+---
+
+# Pressure Test — Hospitality During Waiting
+
+## Current Status
+
+Strong Candidate Watch
+
+## ICHIRAN Arrival Result
+
+Important non-support.
+
+Shibuya communicates:
+
+congestion risk.
+
+Current public evidence does not establish:
+
+hospitality value:
+
+during:
+
+waiting.
+
+## Governance Interpretation
+
+This strengthens:
+
+the necessary boundary:
+
+> **Waiting exists does not mean Hospitality During Waiting exists.**
+
+## Governance Recommendation
+
+Do not promote from:
+
+arrival evidence.
+
+---
+
+# New Cross-Restaurant Direction — System-Led Arrival
+
+## Status
+
+Architecture Classification
+
+## Confidence
+
+Medium
+
+## Definition
+
+An arrival may be:
+
+system-led
+
+when:
+
+understanding:
+
+how:
+
+the hospitality model works
+
+is necessary for:
+
+guest confidence
+
+or:
+
+successful participation.
+
+## Strong Examples
+
+- Franklin
+- Alinea
+- Haidilao
+- ICHIRAN
+
+through:
+
+materially different systems.
+
+## Governance Position
+
+Do not create:
+
+a formal pattern.
+
+Likely:
+
+arrival architecture classification.
+
+---
+
+# New Cross-Restaurant Direction — Experience Familiarity
+
+## Status
+
+Arrival Architecture Variable
+
+## Confidence
+
+Medium
+
+## Definition
+
+The amount and type of:
+
+pre-arrival explanation
+
+required
+
+depends partly on:
+
+how familiar:
+
+the guest is
+
+with:
+
+the hospitality model.
+
+Potential states:
+
+High Familiarity
+
+Medium Familiarity
+
+Low Familiarity
+
+## Relationship
+
+May influence:
+
+- explanation need
+- proof need
+- participation education
+- commitment confidence
+- utility priority
+
+Not:
+
+pattern.
+
+---
+
+# New Cross-Restaurant Direction — Participation Familiarity
+
+## Status
+
+Arrival Architecture Variable
+
+## Confidence
+
+Medium
+
+## Definition
+
+A guest may understand:
+
+the restaurant category
+
+while:
+
+not understanding:
+
+what:
+
+they are expected to do.
+
+Examples:
+
+hot pot
+
+queue-led barbecue
+
+tasting-menu commitment
+
+individual concentration booth.
+
+Therefore:
+
+Experience Familiarity
+
+and:
+
+Participation Familiarity
+
+should remain:
+
+separate variables.
+
+---
+
+# New Cross-Restaurant Direction — System Explanation Obligation
+
+## Status
+
+Architecture Direction
+
+## Confidence
+
+Low to Medium
+
+## Definition Under Test
+
+> **The less successful participation can rely on routine human explanation, the more responsibility the system carries for making the guest's role understandable.**
+
+## Strongest Pressure
+
+ICHIRAN.
+
+## Related Evidence
+
+- Alinea
+- Franklin
+- Haidilao
+
+## Governance Position
+
+Hold.
+
+Likely:
+
+architecture.
+
+---
+
+# Arrival Variables — Post-ICHIRAN
+
+The current arrival architecture should now explicitly track:
+
+- Guest Intent
+- Primary Uncertainty
+- Experience Familiarity
+- Participation Familiarity
+- Meaning
+- Utility
+- Evidence
+- Explanation Need
+- Participation Understanding
+- Product Breadth
+- Choice Depth
+- Privacy Need
+- System Complexity
+- Predictability
+- Commitment Level
+- Desired Certainty
+- Fit
+- Compatibility
+- Expectation Clarity
+- Location Urgency
+- Congestion / Access Risk
+- Operational Transparency
+
+These are:
+
+variables.
+
+Not:
+
+formal patterns.
+
+---
+
+# Previous Arrival Architecture
+
+Post-Haidilao working architecture:
+
+```text
+Guest Intent
+↓
+Primary Uncertainty
+↓
+Relevant Meaning
 +
 Relevant Utility
 +
 Relevant Evidence
 +
 Participation Understanding
+↓
+Confidence
+↓
+Fit / Compatibility
+where required
+↓
+Expectation Clarity
+where required
+↓
+Appropriate Commitment
+↓
+Participation
+```
+
+This remains:
+
+valid.
+
+ICHIRAN does not:
+
+replace it.
+
+It reveals:
+
+two missing variables:
+
+Familiarity
+
+and:
+
+Explanation Need.
+
+---
+
+# Proposed Post-ICHIRAN Arrival Architecture
+
+```text
+Guest Intent
+↓
+Experience Familiarity
++
+Participation Familiarity
+↓
+Primary Uncertainty
+↓
+What Must Be Understood?
+↓
+Relevant Meaning
++
+Relevant Utility
++
+Relevant Evidence
++
+Relevant System Explanation
++
+Participation Understanding
+↓
+Confidence
+↓
+Fit / Compatibility
+where required
+↓
+Expectation Clarity
+where required
+↓
+Desired Certainty
+relative to commitment
+↓
+Appropriate Commitment
+↓
+Participation
+```
+
+This should be treated as:
+
+the current comparison-level architecture.
+
+It is not:
+
+a formal research pattern.
+
+---
+
+# Simplified Arrival Decision Model
+
+For practical future use:
+
+```text
+Who is the guest?
+↓
+What do they already understand?
+↓
+What are they uncertain about?
+↓
+What must they know before acting?
+↓
+Which combination of meaning, utility, evidence, and explanation resolves that uncertainty?
+↓
+How much certainty is appropriate for the commitment?
+↓
+Participation
+```
+
+This is:
+
+more flexible
+
+than:
+
+story-first
+
+food-first
+
+or:
+
+reservation-first.
+
+---
+
+# Major Post-ICHIRAN Arrival Corrections
+
+## Correction 1
+
+Emotion Before Interface
+
+≠
+
+Emotion Before Utility.
+
+Reinforced.
+
+---
+
+## Correction 2
+
+Story Before Features
+
+≠
+
+Storytelling Before Functions.
+
+Reinforced.
+
+---
+
+## Correction 3
+
+Arrival
+
+≠
+
+Editorial Sequence.
+
+Arrival is:
+
+uncertainty-resolution architecture.
+
+---
+
+## Correction 4
+
+Explanation
+
+≠
+
+Loss of Hospitality.
+
+For unfamiliar experiences:
+
+explanation may itself:
+
+be hospitality.
+
+---
+
+## Correction 5
+
+Operational Information
+
+≠
+
+Low-Value Content.
+
+When:
+
+operations materially affect:
+
+participation
+
+operational information may be:
+
+critical arrival utility.
+
+---
+
+## Correction 6
+
+Waiting Exists
+
+≠
+
+Hospitality During Waiting.
+
+ICHIRAN reinforces:
+
+the distinction.
+
+---
+
+## Correction 7
+
+Multiple Guest Intents
+
+≠
+
+Multiple Interface Systems.
+
+A simple architecture may still:
+
+serve:
+
+multiple intents.
+
+---
+
+# Haidilao / ICHIRAN Arrival Pair
+
+The strongest new comparison is:
+
+---
+
+## Haidilao
+
+### Desired Arrival Understanding
+
+This is:
+
+a participatory
+
+service-rich
+
+social hot-pot experience.
+
+### Arrival Mechanisms
+
+Service
+
++
+
+Product
+
++
+
+Participation
+
++
+
+Utility
 
 ↓
 
@@ -1641,310 +2715,490 @@ Confidence
 
 ↓
 
-Fit / Compatibility
-where required
+Social / Shared Participation
+
+---
+
+## ICHIRAN
+
+### Desired Arrival Understanding
+
+This is:
+
+a focused
+
+private
+
+system-led ramen experience.
+
+### Arrival Mechanisms
+
+Product
+
++
+
+System
+
++
+
+Privacy Meaning
+
++
+
+Participation Explanation
+
++
+
+Utility
 
 ↓
 
 Expectation Clarity
-where required
 
 ↓
 
-Appropriate Commitment
+Individual Participation
+
+---
+
+# Surface Contradiction
+
+Haidilao:
+
+more visible service.
+
+ICHIRAN:
+
+less visible service.
+
+Haidilao:
+
+social participation.
+
+ICHIRAN:
+
+individual participation.
+
+---
+
+# Shared Deep Structure
+
+Both require:
+
+the guest to understand:
+
+their role
+
+inside:
+
+a distinctive hospitality system.
+
+This suggests:
+
+a potentially important cross-dimensional architecture:
+
+Hospitality Model
+
+↓
+
+Desired Guest State
+
+↓
+
+Participation Requirement
+
+↓
+
+Arrival Explanation
+
+↓
+
+Confidence
 
 ↓
 
 Participation
 
-This is intentionally:
+This should be:
 
-conditional.
+tested:
 
-Not every restaurant needs:
+across:
 
-every layer.
-
----
-
-# Important Boundary — Parallel Versus Sequential Arrival
-
-The research previously risked assuming:
-
-good arrival
-
-is:
-
-progressive disclosure
-
-through:
-
-a controlled sequence.
-
-Haidilao demonstrates:
-
-another valid model.
-
-Some information may work:
-
-in parallel.
-
-For example:
-
-Meaning
-
-+
-
-Location
-
-+
-
-Reservation
-
-+
-
-Product Education
-
-may all be:
-
-available
-
-without:
-
-destroying coherence.
-
-## Working Rule
-
-Sequence should follow:
-
-guest need
-
-not:
-
-editorial preference.
-
----
-
-# Current Contradiction Summary
-
-Haidilao does not invalidate:
-
-the current arrival architecture.
-
-It removes:
-
-three overly narrow interpretations.
-
-## Correction 1
-
-Emotion Before Interface
-
-does not mean:
-
-Emotion Before Utility.
-
-## Correction 2
-
-Story Before Features
-
-does not mean:
-
-Editorial Story Before Functions.
-
-## Correction 3
-
-Layered Arrival
-
-does not require:
-
-slow sequential reveal.
-
-Layers may be:
-
-concurrent
-
-when:
-
-guest intent requires:
-
-fast access.
-
----
-
-# Governance Recommendation From Arrival Comparison
+the other ten restaurants.
 
 Do not:
 
-promote
-
-or:
-
-demote
-
-any pattern yet.
-
-Recommend later reconciliation of:
-
-### Emotion Before Interface
-
-Retain Emerging.
-
-Refine definition boundary.
-
-### Story Before Features
-
-Retain Emerging.
-
-Major definition refinement required.
-
-### Layered Arrival
-
-Retain Emerging.
-
-Clarify:
-
-sequential or concurrent layering.
-
-### Multi-Intent Hospitality
-
-Retain Emerging.
-
-Potential confidence increase.
-
-### Commitment Without Pressure
-
-Retain Emerging.
-
-Clarify:
-
-real scarcity versus artificial urgency.
+formalize yet.
 
 ---
 
-# New Directions Worth Carrying Forward
+# Governance Recommendations From Arrival Comparison
 
-## Utility as Hospitality
+These are:
 
-Status:
+comparison recommendations.
 
-Observed Research Direction
+They are not yet:
 
-## Explain the Ritual When Participation Requires Knowledge
-
-Status:
-
-Observed Research Direction
-
-## Familiarity as Arrival Variable
-
-Status:
-
-Observed Research Direction
-
-## Brand System Versus Location Specificity
-
-Status:
-
-Research Tension
-
-None should enter:
-
-Candidate governance
-
-from:
-
-arrival evidence alone.
+canonical governance decisions.
 
 ---
 
-# Haidilao Contribution
+## Emotion Before Interface
 
-Haidilao's largest contribution to:
+Retain:
 
-arrival research
+Emerging.
 
-is:
+Boundary reinforced.
 
-not a new page pattern.
+---
 
-It is:
+## Story Before Features
 
-a correction to the model.
+Retain:
 
-The current evidence now suggests:
+Emerging.
 
-> **Arrival should resolve the right uncertainty, not obey a preferred storytelling sequence.**
+Boundary reinforced.
 
-For one restaurant:
+---
 
-that may require:
+## Layered Arrival
 
-emotion.
+Retain:
 
-For another:
+Emerging.
 
-place.
+Definition should continue to:
 
-For another:
+allow:
 
-authority.
+functional
 
-For another:
+participatory
 
-operational truth.
-
-For Haidilao:
-
-it includes:
-
-service
-
-utility
-
-product education
+system
 
 and:
 
-participation understanding.
-
-That is a stronger architecture because:
-
-it explains:
-
-variation
-
-instead of:
-
-forcing uniformity.
+operational layers.
 
 ---
 
-# Research Status
+## Multi-Intent Hospitality
+
+Retain:
+
+Emerging.
+
+No maturity change.
+
+---
+
+## Promise Before Proof
+
+Retain:
+
+Emerging.
+
+No change.
+
+---
+
+## Narrative Coherence Through Organising Logic
+
+Retain:
+
+Emerging.
+
+ICHIRAN provides:
+
+strong operational-system support.
+
+---
+
+## Participation Throughout the Journey
+
+Retain:
+
+Emerging.
+
+Strong support.
+
+---
+
+## Walk-In as First-Class Participation
+
+Retain:
+
+Candidate / High.
+
+Strong support.
+
+---
+
+## Hospitality System Proof
+
+Raise:
+
+governance attention
+
+to:
+
+Strong Candidate Watch.
+
+Do not promote yet.
+
+---
+
+## Hospitality During Waiting
+
+Retain:
+
+Strong Candidate Watch
+
+but:
+
+add:
+
+meaningful contradiction / boundary evidence
+
+from:
+
+ICHIRAN.
+
+No promotion.
+
+---
+
+# Pattern Count Impact
+
+From:
+
+arrival comparison alone:
+
+New Candidates:
+
+0
+
+Candidate Promotions:
+
+0
+
+Emerging Promotions:
+
+0
+
+Validated Promotions:
+
+0
+
+Research-Derived KHDS Principles:
+
+0
+
+Formal maturity counts remain:
+
+unchanged
+
+until:
+
+all five comparison files
+
+are reconciled.
+
+---
+
+# Evidence Discipline
+
+The current comparison may establish:
+
+- published arrival structures
+- visible utility
+- visible system explanation
+- published operating information
+- visible access models
+- published commitment structures
+- visible participation guidance
+- location-specific access information
+
+It cannot establish:
+
+- guest comprehension
+- guest confidence
+- emotional response
+- preference
+- conversion
+- satisfaction
+- whether explanation actually reduces anxiety
+- whether privacy feels welcoming
+- whether queue transparency improves the wait
+- whether one arrival strategy performs better commercially
+
+Those require:
+
+guest
+
+or:
+
+business evidence.
+
+---
+
+# Cross-Restaurant Arrival Conclusion
+
+After:
+
+twelve independent restaurants
+
+the evidence no longer supports:
+
+any universal:
+
+story-first
+
+image-first
+
+product-first
+
+or:
+
+reservation-first:
+
+arrival formula.
+
+The stronger abstraction is:
+
+guest uncertainty.
+
+Arrival works when:
+
+the restaurant identifies:
+
+what:
+
+the guest needs
+
+to:
+
+understand
+
+believe
+
+or:
+
+know
+
+before:
+
+successful participation.
+
+ICHIRAN strengthens:
+
+the system
+
+by demonstrating that:
+
+functional explanation
+
+can itself become:
+
+hospitality meaning.
+
+It also introduces:
+
+two variables that should now become:
+
+explicit:
+
+Experience Familiarity
+
+and:
+
+Participation Familiarity.
+
+The most important post-ICHIRAN conclusion is:
+
+> **The more unfamiliar the hospitality model, the greater the obligation to make the guest's role understandable before participation.**
+
+A second conclusion is:
+
+> **Arrival should provide only the meaning, utility, evidence, and explanation required to resolve the guest's relevant uncertainty.**
+
+And a third:
+
+> **An operational constraint should be explained truthfully without being romanticized into hospitality value.**
+
+The arrival model becomes:
+
+more precise
+
+without:
+
+requiring:
+
+a new formal pattern.
+
+Evidence wins.
+
+---
+
+# Validation
+
+Dimension:
+
+Arrival
 
 Independent Restaurants Compared:
 
-11
+12
 
-Latest Restaurant:
+Latest Case:
 
-Haidilao Toronto Downtown
+ICHIRAN Shibuya
 
-Haidilao Arrival Reconciliation:
+Status:
 
-Complete
+Post-ICHIRAN Comparison Complete
 
-Governance Changes:
+Strongest ICHIRAN Contribution:
 
-Pending Full Five-Dimension Reconciliation
+System-led expectation clarity
+
+Strongest Architecture Additions:
+
+- Experience Familiarity
+- Participation Familiarity
+- Explanation Need
+- System Explanation Obligation
+
+Strongest Existing Pattern Support:
+
+- Layered Arrival
+- Participation Throughout the Journey
+- Narrative Coherence Through Organising Logic
+- Walk-In as First-Class Participation
+
+Strongest Boundary Reinforcement:
+
+- Emotion Before Interface
+- Story Before Features
+- Hospitality During Waiting
+
+Promotion Pressure:
+
+Hospitality System Proof
 
 Pattern Promotions:
 
-None
+0
 
-Pattern Demotions:
+Maturity Changes:
 
-None
+0
 
 Next Comparison:
 
-Atmosphere
+`atmosphere.md`

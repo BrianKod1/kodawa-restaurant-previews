@@ -1,60 +1,84 @@
 # KHDS Cross-Restaurant Comparison — Story
 
-## Purpose
+## Status
 
-Compare how independent restaurants create:
+Post-ICHIRAN Story Reconciliation
+
+Independent Restaurants:
+
+12
+
+Latest Research Case:
+
+ICHIRAN Shibuya
+
+Research Dimension:
+
+Story / Narrative
+
+Formal Governance Changes:
+
+Deferred
+
+---
+
+# Purpose
+
+Compare how independent restaurants communicate:
 
 meaning
 
 identity
 
+hospitality philosophy
+
 and:
 
-guest understanding.
+experience logic
+
+through:
+
+different narrative carriers.
 
 This document asks:
 
-> **What actually carries the story of a hospitality experience?**
+> **What actually carries the restaurant's story?**
 
-Story should not be treated as:
+The current research shows that:
 
-an About section.
-
-The current research shows that meaning may be carried through:
+story may be carried by:
 
 - place
 - worldview
 - heritage
-- people
-- culinary philosophy
-- authorship
+- biography
 - product
+- craft
+- cultural memory
+- ecology
 - service
 - ritual
-- social behaviour
+- participation
 - operating model
-- cultural memory
 
-Haidilao adds important pressure because:
+ICHIRAN adds:
 
-its story is embedded heavily in:
+major pressure
 
-service
+because:
 
-participation
+its strongest narrative carrier appears to be:
 
-and:
+the hospitality system itself.
 
-how the hospitality model works.
+This comparison must determine:
 
-The objective is to determine:
-
-- which narrative mechanisms are transferable
-- which are context-specific
-- whether story requires editorial sequencing
-- when biography matters
-- when service or ritual can carry meaning
-- where story becomes an operational promise
+- whether Story Through Hospitality Model is genuinely transferable
+- whether it is distinct from Narrative Coherence Through Organising Logic
+- whether Service Philosophy as Story should remain separate
+- whether Operational Narrative should remain separate
+- whether story can be carried by constraint and system behaviour
+- whether editorial storytelling is required at all
 
 ---
 
@@ -71,6 +95,7 @@ The objective is to determine:
 9. Alinea
 10. NARISAWA
 11. Haidilao Toronto Downtown
+12. ICHIRAN Shibuya
 
 ---
 
@@ -78,206 +103,200 @@ The objective is to determine:
 
 ## Ankole
 
-### Story Type
+### Primary Narrative Carrier
 
-Place-Led Meaning
+Place
 
-### Primary Mechanism
++
 
-Ankole communicates identity through:
+Environment
 
-- environment
-- refinement
+### Narrative Characteristics
+
 - architecture
-- physical place
-- visual atmosphere
-
-The place itself performs:
-
-substantial narrative work.
+- setting
+- refinement
+- physical atmosphere
+- food
 
 ### Main Contribution
 
-A hospitality brand does not always need:
+A restaurant's physical world can:
 
-heavy explicit storytelling
+carry:
 
-when:
+meaning
 
-the environment already carries:
+without:
 
-meaning.
+requiring:
+
+heavy editorial storytelling.
 
 ---
 
 # Cultiva
 
-### Story Type
+### Primary Narrative Carrier
 
-Worldview-Led Narrative
+Worldview
 
-### Primary Mechanism
-
-Cultiva communicates meaning through:
+### Narrative Characteristics
 
 - cultivation
-- sustainability
+- ecology
 - sourcing
-- community
-- food systems
-- nature
 - philosophy
+- food system
 
 ### Main Contribution
 
-A strong worldview can:
+A worldview can become:
 
-organise:
-
-the restaurant story
+story
 
 when:
 
 it materially explains:
 
-the hospitality experience.
+the hospitality product.
 
 ---
 
 # Talisman
 
-### Story Type
+### Primary Narrative Carrier
 
-Heritage + Place + Growth
+Heritage
 
-### Primary Mechanism
++
 
-Talisman communicates:
+Place
 
-- origin
-- old-house history
-- Karen
+### Narrative Characteristics
+
+- old-house identity
+- history
 - continuity
-- growth
-- reputation
-- physical environment
+- art
+- Karen
+- food
 
 ### Main Contribution
 
-Story can build:
+Heritage can:
 
-confidence
+build confidence
 
-through:
+when:
 
-history
+it explains:
 
-and:
+why:
 
-continuity.
+the experience exists
+
+in its current form.
 
 ---
 
 # Mawimbi
 
-### Story Type
+### Primary Narrative Carrier
 
-Concept + Experience World
+Designed World
 
-### Primary Mechanism
++
 
-Mawimbi organises meaning through:
+Product
 
+### Narrative Characteristics
+
+- coast
 - seafood
-- sea / voyage language
-- luxury
-- connection
 - escape
-- celebration
+- luxury
+- social occasion
 
 ### Main Contribution
 
-A central concept can:
+Story may be:
 
-organise:
+atmospheric
 
-multiple parts
+and:
 
-of:
+aspirational
 
-the hospitality experience.
+rather than:
+
+historical.
 
 ---
 
 # Bistro Lolo
 
-### Story Type
+### Primary Narrative Carrier
 
-People + Place + Reinterpretation
+Place
 
-### Primary Mechanism
++
 
-Bistro Lolo communicates meaning through:
+Social Use
 
-- neighbourhood life
-- social rhythm
-- architecture
+### Narrative Characteristics
+
+- neighbourhood
+- familiarity
 - people
-- reinterpretation of place
-- easy day-to-night use
+- day-to-night rhythm
+- occasion
 
 ### Main Contribution
 
 Story can be:
 
-social
-
-and:
-
 lived
 
 rather than:
 
-formal
+declared.
 
-or:
+Repeated social use
 
-mythic.
+may itself communicate:
+
+identity.
 
 ---
 
 # FYN
 
-### Story Type
+### Primary Narrative Carrier
 
-Ecology + Culinary Philosophy + Authorship
+Authorship
 
-### Primary Mechanism
++
 
-FYN communicates meaning through:
+Culinary Philosophy
 
-- chef authorship
-- culinary authority
-- cultural references
-- ecology
+### Narrative Characteristics
+
+- chef authority
 - philosophy
-- structured dining
+- culinary structure
+- precision
+- experience design
 
 ### Main Contribution
 
-Authorship can become:
+Biography becomes:
 
-important
+valuable
 
 when:
 
-the people
-
-and:
-
-their ideas
-
-materially explain:
+it materially explains:
 
 the experience.
 
@@ -285,159 +304,944 @@ the experience.
 
 # Dishoom Covent Garden
 
-### Story Type
+### Primary Narrative Carrier
 
-Narrative World + Cultural Memory
+Cultural Memory
 
-### Primary Mechanism
++
 
-Dishoom builds meaning through:
+Narrative World
 
-- historical references
-- place
+### Narrative Characteristics
+
 - language
-- cultural memory
+- imagined history
+- Bombay references
 - social hospitality
+- place
 - food
-- fictional / interpretive world-building
 
 ### Main Contribution
 
-A restaurant may construct:
+Narrative richness
 
-a rich narrative world
+can coexist with:
 
-without:
+clear participation.
 
-sacrificing:
+Story can become:
 
-functional clarity.
+a world
+
+the guest enters.
 
 ---
 
 # Franklin Barbecue
 
-### Story Type
+### Primary Narrative Carrier
 
-People + Craft + Product Authority
+Product
 
-### Primary Mechanism
++
 
-Franklin communicates meaning through:
+Craft
 
-- founder identity
-- barbecue craft
-- product reputation
-- growth
-- queue culture
-- direct operational reality
++
+
+Biography
+
+### Narrative Characteristics
+
+- brisket
+- founder
+- process
+- queue
+- reputation
+- operational reality
 
 ### Main Contribution
 
-Biography can matter greatly when:
+Product
 
-the person
-
-helps explain:
-
-how the product
+craft
 
 and:
 
-the hospitality world
+participation reality
 
-came to exist.
+can carry:
+
+story
+
+without:
+
+a large editorial framework.
 
 ---
 
 # Alinea
 
-### Story Type
+### Primary Narrative Carrier
 
-Authorship + Transformation + Experience Architecture
+Authorship
 
-### Primary Mechanism
++
 
-Alinea communicates meaning through:
+Transformation
 
-- culinary authorship
-- innovation
-- transformation
-- high-commitment experience structure
-- controlled revelation
++
+
+Experience Architecture
+
+### Narrative Characteristics
+
+- chef
+- experimentation
+- surprise
+- controlled reveal
+- sequence
+- high commitment
 
 ### Main Contribution
 
-Story may be carried through:
+Story can be:
 
-the designed experience itself
+structured through:
+
+experience architecture
 
 rather than:
 
-a conventional origin narrative.
+fully explained:
+
+before arrival.
 
 ---
 
 # NARISAWA
 
-### Story Type
+### Primary Narrative Carrier
 
-Ecology + Philosophy + Authorship
+Worldview
 
-### Primary Mechanism
++
 
-NARISAWA communicates:
+Ecology
 
-- Japanese landscape
-- ecology
-- seasonality
++
+
+Authorship
+
+### Narrative Characteristics
+
 - nature
+- landscape
+- sustainability
 - culinary philosophy
-- chef authorship
+- chef authority
+- product
 
 ### Main Contribution
 
-Philosophy becomes:
+Story can emerge from:
 
-narrative
+the relationship between:
 
-when:
+worldview
 
-it materially explains:
-
-the product
+place
 
 and:
 
-the experience.
+culinary practice.
 
 ---
 
 # Haidilao Toronto Downtown
 
-### Story Type
+### Primary Narrative Carrier
 
-Service + Hospitality Model + Ritual + Participation
+Hospitality Model
 
-### Primary Mechanism
+### Narrative Characteristics
 
-Haidilao communicates meaning through:
-
-- customer-first service
-- personalized hospitality
-- hot pot culture
-- guest participation
-- social interaction
-- staff behaviour
-- operational structure
+- human service
+- social participation
+- personalization
+- ritual
+- operational behaviour
+- hot-pot participation
 
 ### Main Contribution
 
-Story does not require:
+Haidilao produced:
 
-a heavily editorial storytelling interface.
+a major correction:
 
-The hospitality model itself can:
+> **Story is not the same thing as storytelling.**
+
+The restaurant's meaning may live in:
+
+how:
+
+hospitality is delivered.
+
+---
+
+# ICHIRAN Shibuya
+
+### Primary Narrative Carrier
+
+Hospitality System
+
+### Narrative Characteristics
+
+- product concentration
+- privacy
+- reduced interaction
+- individual participation
+- system personalization
+- constraint
+- structured service
+
+### Main Contribution
+
+ICHIRAN creates:
+
+strong independent support
+
+for:
+
+the idea that:
+
+the way:
+
+a restaurant works
+
+can itself:
+
+become:
+
+the story.
+
+---
+
+# Cross-Restaurant Finding 1 — Story Has Multiple Narrative Carriers
+
+After:
+
+twelve independent restaurants
+
+there is no evidence for:
+
+one universal:
+
+restaurant story format.
+
+Story may be carried by:
+
+- place
+- worldview
+- heritage
+- biography
+- product
+- craft
+- cultural memory
+- ecology
+- service
+- ritual
+- participation
+- operating model
+
+The correct question is:
+
+not:
+
+> Where is the Story section?
+
+It is:
+
+> **What best explains why this hospitality experience exists in this form?**
+
+---
+
+# Cross-Restaurant Finding 2 — Story Is Not The Same Thing As Storytelling
+
+Haidilao introduced:
+
+this correction.
+
+ICHIRAN strengthens it:
+
+substantially.
+
+A restaurant may communicate:
+
+deep meaning
+
+without:
+
+relying on:
+
+- long-form editorial copy
+- founder biography
+- heritage chronology
+- poetic language
+- dedicated story pages
+
+Meaning may be embedded in:
+
+- how guests participate
+- how service operates
+- what is constrained
+- what is repeated
+- what the restaurant specializes in
+- what the system allows
+- what the system deliberately removes
+
+Therefore:
+
+> **Story is a system of meaning. Storytelling is one possible delivery method.**
+
+---
+
+# Cross-Restaurant Finding 3 — Story Through Hospitality Model Is Now Independently Supported
+
+Before:
+
+ICHIRAN
+
+the strongest evidence for:
+
+Story Through Hospitality Model
+
+came from:
+
+Haidilao.
+
+That created:
+
+a legitimate risk:
+
+the concept might only apply to:
+
+high-service
+
+social
+
+participatory restaurants.
+
+ICHIRAN removes:
+
+much of that risk.
+
+---
+
+## Haidilao
+
+Hospitality meaning expressed through:
+
+- visible human service
+- social participation
+- active interaction
+- personalization
+- ritual
+
+---
+
+## ICHIRAN
+
+Hospitality meaning expressed through:
+
+- privacy
+- reduced interaction
+- structured participation
+- product concentration
+- background service
+- system personalization
+
+---
+
+## Surface Contradiction
+
+High interaction
+
+versus:
+
+low interaction.
+
+Social
+
+versus:
+
+individual.
+
+Visible service
+
+versus:
+
+low-visibility service.
+
+---
+
+## Shared Deep Structure
+
+In both cases:
+
+the operating model itself
+
+helps explain:
+
+what the restaurant believes:
+
+good hospitality
+
+should be.
+
+This is:
+
+strong independent transferability evidence.
+
+---
+
+# Pressure Test — Story Through Hospitality Model
+
+## Previous Status
+
+Strong Candidate Watch
+
+## Post-ICHIRAN Result
+
+Very strong support.
+
+## Proposed Definition
+
+> **A restaurant's operating model can function as a primary narrative carrier when the way it organizes service, participation, product, space, or guest behaviour materially explains the meaning of the hospitality experience.**
+
+## Independent Diversity
+
+High.
+
+The current strongest cases use:
+
+almost opposite:
+
+service
+
+and:
+
+participation models.
+
+## Governance Recommendation
+
+Promote to:
+
+Candidate
+
+during:
+
+canonical governance reconciliation.
+
+Recommended Confidence:
+
+Medium-High.
+
+Do not mark:
+
+Validated.
+
+---
+
+# Why Candidate / Medium-High
+
+The concept now has:
+
+- more than one independent restaurant
+- materially different hospitality models
+- clear cross-dimensional evidence
+- strong narrative distinctness
+
+But:
+
+it still requires:
+
+additional contradiction research
+
+before:
+
+High confidence
+
+or:
+
+Validated maturity.
+
+Potential future contradictions include:
+
+restaurants where:
+
+the operating model is:
+
+generic
+
+while:
+
+meaning is carried almost entirely by:
+
+place
+
+heritage
+
+biography
+
+or:
+
+product.
+
+---
+
+# Cross-Restaurant Finding 4 — Story Through Hospitality Model Is Distinct From Narrative Coherence Through Organising Logic
+
+This distinction must remain:
+
+clear.
+
+---
+
+## Narrative Coherence Through Organising Logic
+
+Question:
+
+> **Do the restaurant's narrative elements feel connected by a meaningful logic?**
+
+The concept addresses:
+
+coherence.
+
+Possible organising logics include:
+
+- place
+- worldview
+- product
+- heritage
+- operating system
+- occasion
+
+---
+
+## Story Through Hospitality Model
+
+Question:
+
+> **Is the operating model itself one of the primary things carrying the story?**
+
+The concept addresses:
+
+narrative carrier.
+
+---
+
+# Example
+
+ICHIRAN's organising logic may be:
+
+Ramen Focus
+
+↓
+
+Reduced Distraction
+
+↓
+
+Privacy
+
+↓
+
+Structured Interaction
+
+↓
+
+Concentration
+
+This supports:
+
+Narrative Coherence Through Organising Logic.
+
+But:
+
+the booth
+
+service boundaries
+
+customization
+
+and:
+
+participation system
+
+also actively carry:
+
+the brand meaning.
+
+That supports:
+
+Story Through Hospitality Model.
+
+The concepts overlap.
+
+They are not:
+
+duplicates.
+
+---
+
+# Governance Recommendation
+
+Retain:
+
+Narrative Coherence Through Organising Logic
+
+as:
+
+Emerging.
+
+Promote:
+
+Story Through Hospitality Model
+
+to:
+
+Candidate / Medium-High.
+
+---
+
+# Cross-Restaurant Finding 5 — Service Philosophy As Story Is A Submechanism
+
+Haidilao
+
+and:
+
+ICHIRAN
+
+both show:
+
+service philosophy
+
+carrying:
+
+meaning.
+
+But:
+
+Story Through Hospitality Model
+
+is:
+
+broader.
+
+It includes:
+
+- service
+- participation
+- product
+- space
+- constraint
+- system behaviour
+- guest role
+
+Therefore:
+
+Service Philosophy as Story
+
+should not become:
+
+a separate formal pattern
+
+unless:
+
+future evidence demonstrates:
+
+independent value.
+
+---
+
+# Governance Recommendation — Service Philosophy As Story
+
+Current Status:
+
+Observed Research Direction
+
+Recommended:
+
+Retain below Candidate
+
+and:
+
+treat as:
+
+mechanism inside:
+
+Story Through Hospitality Model.
+
+Do not promote separately.
+
+---
+
+# Cross-Restaurant Finding 6 — Operational Narrative Should Also Remain Subordinate
+
+Operational Narrative
+
+describes:
+
+meaning carried through:
+
+how:
+
+operations work.
+
+But:
+
+this is closely contained within:
+
+Story Through Hospitality Model.
+
+ICHIRAN makes:
+
+this overlap:
+
+especially clear.
+
+---
+
+# Governance Recommendation — Operational Narrative
+
+Current Status:
+
+Observed Research Direction
+
+Recommended:
+
+Do not promote separately.
+
+Treat as:
+
+implementation / narrative mechanism
+
+inside:
+
+Story Through Hospitality Model.
+
+This reduces:
+
+pattern inflation.
+
+---
+
+# Cross-Restaurant Finding 7 — Story Before Features Survives With A Stronger Boundary
+
+Across:
+
+the research set
+
+features
+
+and:
+
+story
+
+often coexist.
+
+ICHIRAN makes:
+
+the relationship:
+
+especially clear.
+
+A feature may itself:
+
+carry:
+
+story
+
+when:
+
+its purpose
+
+explains:
+
+the hospitality meaning.
+
+Examples:
+
+- booth
+- order sheet
+- service curtain
+- customization
+- refill mechanism
+
+Therefore:
+
+Story Before Features
+
+should never be interpreted as:
+
+editorial story
+
+must appear:
+
+before:
+
+functional content.
+
+---
+
+# Pressure Test — Story Before Features
+
+## Current Status
+
+Emerging
+
+## Post-ICHIRAN Result
+
+Strong support
+
+with:
+
+definition refinement.
+
+## Refined Interpretation
+
+> **Features should remain connected to hospitality meaning rather than appearing as disconnected functionality.**
+
+## Important Boundary
+
+Story Before Features
+
+≠
+
+Story Page Before Utility.
+
+## Governance Recommendation
+
+Retain:
+
+Emerging.
+
+No maturity change.
+
+---
+
+# Cross-Restaurant Finding 8 — Functional Language Can Carry Narrative Meaning
+
+ICHIRAN strongly supports:
+
+this.
+
+If:
+
+the function itself:
+
+is distinctive
+
+then:
+
+plain explanation
+
+may communicate:
+
+brand meaning.
+
+This strengthens:
+
+Narrative Language Within Clear Interface.
+
+---
+
+# Pressure Test — Narrative Language Within Clear Interface
+
+## Current Status
+
+Candidate / High
+
+## ICHIRAN Result
+
+Strong support
+
+plus:
+
+boundary refinement.
+
+## Contribution
+
+Narrative meaning does not require:
+
+ornamental
+
+or:
+
+poetic:
+
+language.
+
+Clear functional language
+
+can:
+
+carry:
+
+story
+
+when:
+
+the function explains:
+
+the experience.
+
+## Governance Recommendation
+
+Retain:
+
+Candidate / High.
+
+No maturity change.
+
+---
+
+# Cross-Restaurant Finding 9 — Biography Remains Conditional
+
+FYN
+
+Franklin
+
+Alinea
+
+NARISAWA
+
+and:
+
+other authorship-led restaurants
+
+show:
+
+strong biography value.
+
+ICHIRAN provides:
+
+useful boundary evidence.
+
+The restaurant's operating model
+
+may explain:
+
+the experience
+
+without:
+
+requiring:
+
+a person
+
+to:
 
 carry:
 
@@ -445,539 +1249,139 @@ the narrative.
 
 ---
 
-# Cross-Restaurant Comparison
-
-The eleven restaurants now demonstrate:
-
-multiple legitimate narrative carriers.
-
-Observed mechanisms include:
-
-- place
-- worldview
-- heritage
-- growth
-- concept
-- belonging
-- people
-- authorship
-- ecology
-- cultural memory
-- craft
-- product
-- service
-- ritual
-- participation
-- operating model
-
-This makes one conclusion increasingly clear:
-
-> **Story is not a content format. Story is the system of meaning that helps the guest understand why the hospitality experience exists and what makes it distinct.**
-
-That meaning may be:
-
-written
-
-shown
-
-performed
-
-structured
-
-or:
-
-experienced.
-
----
-
-# Previous Working Story Architecture
-
-The current research had moved toward:
-
-Meaning
-
-↓
-
-Identity
-
-↓
-
-Evidence
-
-↓
-
-Guest Understanding
-
-↓
-
-Participation
-
-This remains:
-
-useful.
-
-Haidilao adds:
-
-another important question:
-
-> **What carries the meaning?**
-
----
-
-# Proposed Refined Story Architecture
-
-Hospitality Meaning
-
-↓
-
-Primary Narrative Carrier
-
-↓
-
-Place
-or
-Worldview
-or
-Heritage
-or
-Biography
-or
-Product
-or
-Craft
-or
-Cultural Memory
-or
-Service
-or
-Ritual
-or
-Participation
-or
-Operating Model
-
-↓
-
-Relevant Evidence
-
-↓
-
-Guest Understanding
-
-↓
-
-Participation
-
-This is:
-
-a more flexible architecture.
-
-It allows:
-
-meaning
-
-to exist:
-
-inside:
-
-how the experience works.
-
----
-
-# Critical Correction — Story Is Not the Same Thing as Storytelling
-
-Before Haidilao:
-
-KHDS already had evidence that:
-
-story could be carried by:
-
-place
-
-worldview
-
-heritage
-
-authorship
-
-and:
-
-product.
-
-However:
-
-the research still risked privileging:
-
-editorial expression.
-
-Haidilao creates:
-
-a stronger correction.
-
-A restaurant may communicate:
-
-a coherent story
-
-through:
-
-- service
-- ritual
-- guest role
-- participation
-- operating behaviour
-
-without:
-
-turning the interface into:
-
-an editorial narrative sequence.
-
-Therefore:
-
-the relevant question is:
-
-> **What carries meaning?**
-
-not:
-
-> Where is the Story section?
-
----
-
-# Pattern Review — Story Before Features
+# Pressure Test — Biography When It Explains The Experience
 
 ## Current Status
 
-Emerging
+Candidate / High
 
-## Existing Evidence
+## ICHIRAN Result
 
-Strong support through:
-
-- Cultiva
-- Talisman
-- Dishoom
-- FYN
-- Alinea
-- NARISAWA
-
-with alternative expressions in:
-
-- Ankole
-- Mawimbi
-- Bistro Lolo
-- Franklin
-
-## Haidilao Pressure
-
-Haidilao exposes:
-
-practical features
-
-early.
-
-Yet:
-
-the experience still communicates:
-
-meaning
-
-through:
-
-- service
-- product
-- ritual
-- guest participation
-- operating model
+Strong boundary support.
 
 ## Interpretation
 
-Story Before Features should not mean:
+The conditional phrase:
 
-> editorial story must appear before functionality.
+When It Explains The Experience
 
-A stronger interpretation is:
+remains:
 
-> Practical features should remain connected to the hospitality meaning rather than appearing as disconnected interface functions.
-
-## Recommended Boundary
-
-### Story Before Features ≠ Story Page Before Utility
+essential.
 
 ## Governance Recommendation
 
 Retain:
 
-Emerging.
+Candidate / High.
 
-Major definition refinement:
-
-recommended.
-
-Do not promote.
+No change.
 
 ---
 
-# Pattern Review — Narrative Coherence Through Organising Logic
+# Cross-Restaurant Finding 10 — Heritage Remains One Confidence Mechanism
 
-## Current Status
-
-Emerging
-
-## Existing Strong Evidence
-
-- Cultiva
-- Mawimbi
-- Dishoom
-- FYN
-- NARISAWA
-
-with:
-
-different organising mechanisms.
-
-## Haidilao Contribution
-
-Haidilao adds:
-
-an operational organising logic.
-
-Possible logic:
-
-Customer-First Service
-
-+
-
-Hot Pot Ritual
-
-+
-
-Guest Participation
-
-+
-
-Social Connection
-
-↓
-
-Happy Shared Experience
-
-## Interpretation
-
-An organising logic does not need to be:
-
-visual
-
-or:
-
-editorial.
-
-It may be:
-
-behavioural
+Talisman
 
 and:
 
-operational.
+other established restaurants
 
-## Governance Recommendation
+demonstrate:
 
-Retain:
+heritage value.
 
-Emerging.
+ICHIRAN demonstrates:
 
-Potential confidence increase.
+that:
 
-Definition should explicitly allow:
+heritage is not:
 
-operational logic.
-
----
-
-# Pattern Review — Biography When It Explains the Experience
-
-## Current Status
-
-Candidate
-
-## Existing Strong Evidence
-
-- Franklin
-- FYN
-- Alinea
-- NARISAWA
-- Bistro Lolo
-
-through different roles.
-
-## Haidilao Contribution
-
-Founder biography is:
-
-not necessary
+required
 
 for:
 
-understanding:
+narrative depth.
 
-the primary hospitality proposition.
+This is:
 
-The experience can be explained through:
-
-service
-
-ritual
-
-product
-
-and:
-
-participation.
-
-## Interpretation
-
-Haidilao strengthens:
-
-the boundary
-
-rather than:
-
-the frequency.
-
-Biography should be:
-
-prominent
-
-when:
-
-it materially explains:
-
-the product
-
-worldview
-
-authority
-
-origin
-
-or:
-
-hospitality model.
-
-It should not be:
-
-included by convention.
-
-## Governance Recommendation
-
-Retain:
-
-Candidate.
-
-Potential confidence increase.
-
-No maturity promotion yet.
+healthy boundary evidence.
 
 ---
 
-# Pattern Review — Narrative Language Within Clear Interface
+# Pressure Test — Heritage Builds Confidence
 
 ## Current Status
 
-Candidate
+Candidate / Medium
 
-## Existing Evidence
+## ICHIRAN Result
 
-Strong evidence across:
+Not central.
 
-Dishoom
-
-Mawimbi
-
-Alinea
-
-and:
-
-other concept-led experiences.
-
-## Haidilao Contribution
-
-Haidilao demonstrates:
-
-another boundary.
-
-Functional labels can remain:
-
-plain
-
-while:
-
-the hospitality meaning remains:
-
-strong.
-
-## Interpretation
-
-Narrative language should:
-
-enrich
-
-not:
-
-replace:
-
-functional clarity.
+No contradiction.
 
 ## Governance Recommendation
 
 Retain:
 
-Candidate.
+Candidate / Medium.
 
-Potential confidence increase.
-
-No promotion yet.
+No change.
 
 ---
 
-# Pattern Review — Story Through Place
+# Cross-Restaurant Finding 11 — Story Through Place Remains Contextual
+
+Ankole
+
+Talisman
+
+Bistro Lolo
+
+Dishoom
+
+and:
+
+NARISAWA
+
+show:
+
+different forms of:
+
+place-led meaning.
+
+ICHIRAN's core meaning
+
+does not appear:
+
+dependent on:
+
+Shibuya.
+
+Therefore:
+
+place
+
+remains:
+
+one narrative carrier.
+
+Not:
+
+the governing story model.
+
+---
+
+# Pressure Test — Story Through Place
 
 ## Current Status
 
 Emerging
 
-## Strong Evidence
+## ICHIRAN Result
 
-- Ankole
-- Talisman
-- Bistro Lolo
-- Dishoom
-
-## Haidilao Contradiction
-
-Haidilao demonstrates:
-
-a strong hospitality identity
-
-without:
-
-Toronto Downtown-specific place
-
-being:
-
-the dominant narrative mechanism.
-
-## Interpretation
-
-Healthy boundary.
-
-Story Through Place remains:
-
-a legitimate mechanism
-
-not:
-
-a universal requirement.
+Boundary evidence.
 
 ## Governance Recommendation
 
@@ -985,140 +1389,143 @@ Retain:
 
 Emerging.
 
-No confidence increase from:
-
-Haidilao.
+No maturity change.
 
 ---
 
-# Pattern Review — Heritage Builds Confidence
+# Cross-Restaurant Finding 12 — Product Can Be A Narrative Carrier
 
-## Current Status
+Franklin
 
-Candidate
+FYN
 
-## Strong Evidence
+NARISAWA
 
-- Talisman
-- Dishoom
+ICHIRAN
 
-with:
+and:
 
-other contextual support.
+others
 
-## Haidilao Contradiction
+show:
 
-Haidilao does not need:
+different forms of:
 
-heritage
+product-led meaning.
 
-to create:
+ICHIRAN adds:
 
-the primary hospitality story.
+a particularly focused example.
 
-## Interpretation
+Its narrow product strategy
 
-Heritage remains:
+may itself communicate:
 
-context-specific.
+specialization
 
-Its usefulness depends on:
+and:
 
-whether:
-
-history
-
-actually explains:
-
-the experience
-
-or:
-
-strengthens:
-
-relevant confidence.
-
-## Governance Recommendation
-
-Retain:
-
-Candidate.
-
-Boundary strengthened.
+conviction.
 
 ---
 
-# Finding 1 — The Hospitality Model Can Carry Story
+# New Architecture Direction — Product Focus As Narrative
 
-## Haidilao Evidence
+## Status
 
-The restaurant communicates:
+Narrative Architecture Direction
 
-what it believes hospitality should be
+## Confidence
 
-through:
+Low to Medium
 
-- service
-- guest participation
-- social connection
-- hot pot ritual
-- team behaviour
+## Definition
 
-## Possible Existing Support
-
-### Franklin
-
-Craft
-
-queue
-
-and:
-
-operational reality
+A deliberately concentrated product strategy may:
 
 carry:
 
+meaning
+
+when:
+
+the narrowness itself
+
+helps explain:
+
+what:
+
+the restaurant stands for.
+
+## Governance Position
+
+Do not promote.
+
+Likely:
+
+one narrative mechanism
+
+inside:
+
+the wider Story Architecture.
+
+---
+
+# Cross-Restaurant Finding 13 — Constraint Can Carry Story
+
+ICHIRAN introduces:
+
+strong evidence
+
+for:
+
+constraint
+
+as:
+
 meaning.
 
-### FYN
+Examples:
 
-Experience structure
+- reduced interaction
+- individual booth
+- narrow menu
+- controlled sightlines
+- structured participation
 
-and:
+A constraint may appear:
 
-authorship
+negative
 
-carry:
+without:
 
-meaning.
+context.
 
-### Dishoom
+Story can:
 
-Social hospitality
+explain:
 
-and:
+why:
 
-cultural world
+the constraint exists.
 
-carry:
+---
 
-meaning.
+# Working Model
 
-### Alinea
+Constraint
 
-Experience architecture
+↓
 
-carries:
+Purpose
 
-meaning.
+↓
 
-## Research Direction
+Hospitality Meaning
 
-### Story Through Hospitality Model
+---
 
-Possible definition:
-
-> A hospitality brand may communicate identity through the structure of its product, service, guest role, and participation system when those elements collectively express what the experience means.
+# New Direction — Constraint As Narrative
 
 ## Status
 
@@ -1126,706 +1533,1004 @@ Observed Research Direction
 
 ## Confidence
 
-Low to Medium
+Low
 
 ## Governance Recommendation
 
-Strong Candidate Watch.
-
-Do not promote yet.
-
-First determine whether:
-
-this is:
-
-distinct from:
-
-Narrative Coherence Through Organising Logic
-
-or:
-
-a mechanism within it.
-
-This deduplication is important.
-
----
-
-# Finding 2 — Service Philosophy Can Carry Narrative Meaning
-
-## Strongest Evidence
-
-- Haidilao
-
-## Possible Partial Support
-
-- FYN
-- Talisman
-- Dishoom
-
-depending on:
-
-available service evidence.
-
-## Interpretation
-
-How guests should be treated
-
-can become:
-
-part of:
-
-brand meaning.
-
-However:
-
-service claims require:
-
-operational delivery
-
-to become:
-
-experienced truth.
-
-## Research Direction
-
-### Service Philosophy as Story
-
-Status:
-
-Observed
-
-Confidence:
-
-Low
-
 Do not promote.
 
----
+Likely:
 
-# Finding 3 — Ritual Can Carry Story
+mechanism within:
 
-## Strongest Evidence
-
-- Haidilao
-
-## Potential Comparative Evidence
-
-- Alinea
-- NARISAWA
-- FYN
-- Franklin
-
-through:
-
-different forms of:
-
-ritual
-
-or:
-
-sequence.
-
-## Interpretation
-
-Repeated guest actions may:
-
-communicate:
-
-what the hospitality experience values.
-
-Examples may include:
-
-- communal cooking
-- sequencing
-- tableside preparation
-- tasting progression
-- queue ritual
-- service ceremony
-
-## Research Direction
-
-### Ritual as Story
-
-Status:
-
-Observed Research Direction
-
-Confidence:
-
-Low
-
-Potentially important.
-
-Do not promote.
+Story Through Hospitality Model.
 
 ---
 
-# Finding 4 — Story Can Become Operational Promise
+# Cross-Restaurant Finding 14 — Story Can Change The Interpretation Of A Feature
 
-## Haidilao Example
+This is:
 
-If the story says:
-
-personalized service
-
-then:
-
-staff behaviour
-
-must:
-
-deliver.
-
-If the story says:
-
-social connection
-
-then:
-
-the experience
-
-must:
-
-support:
-
-interaction.
-
-If the story says:
-
-participation
-
-then:
-
-the product system
-
-must:
-
-allow:
-
-meaningful guest action.
-
-## Interpretation
-
-Some hospitality narratives are:
-
-operational claims.
-
-They cannot be:
-
-validated
-
-through:
-
-copy
-
-or:
-
-photography alone.
-
-## Research Direction
-
-### Operational Narrative
-
-Definition:
-
-> A hospitality story becomes an operational narrative when its meaning depends on the organization actually delivering specific service, product, participation, or behavioural conditions.
-
-Status:
-
-Observed Research Direction
-
-Confidence:
-
-Low
-
-This may be:
-
-better treated as:
-
-an evidence category
-
-rather than:
-
-a pattern.
-
-Hold.
+one of ICHIRAN's strongest narrative contributions.
 
 ---
 
-# Finding 5 — The Guest Can Complete the Story
+## Partition
 
-Across the research:
+Without:
 
-The Guest as Participant
+meaning:
 
-has appeared in:
+Barrier.
 
-different forms.
+With:
 
-Haidilao creates:
+hospitality logic:
 
-the strongest physical version.
+Focus mechanism.
 
-The narrative:
+---
 
-Hot Pot
+## Reduced Interaction
 
-↓
+Without:
 
-Shared Preparation
+meaning:
 
-↓
+Absence of service.
 
-Conversation
+With:
 
-↓
+hospitality logic:
 
-Service
+Reduced distraction.
 
-↓
+---
 
-Shared Experience
+## Narrow Product Range
 
-cannot fully exist:
+Without:
+
+meaning:
+
+Limited choice.
+
+With:
+
+hospitality logic:
+
+Specialization.
+
+---
+
+## High Commitment
+
+In Alinea or FYN:
 
 without:
 
-guest action.
+meaning:
 
-## Interpretation
+friction.
 
-Some hospitality stories are:
+With:
 
-co-produced.
+experience structure:
 
-The guest is:
-
-not only:
-
-the audience.
-
-They are:
-
-part of:
-
-the narrative mechanism.
-
-This strengthens:
-
-The Guest as Participant
-
-across:
-
-story
-
-atmosphere
-
-and:
-
-participation.
+intentional commitment.
 
 ---
 
-# Finding 6 — Biography and Team Behaviour Are Different Narrative Mechanisms
+# Interpretation
 
-The current research now supports:
+Story does not only:
 
-an important distinction.
+add:
 
-## Biography
+content.
 
-Explains:
+It can:
 
-- origin
-- authority
-- worldview
-- expertise
-- authorship
-
-Examples:
-
-- Franklin
-- FYN
-- Alinea
-- NARISAWA
-
-## Team Behaviour
-
-Explains:
+change:
 
 how:
 
-the hospitality promise
+the guest interprets:
 
-is enacted.
-
-Strongest current pressure:
-
-- Haidilao
-
-These should not be:
-
-collapsed.
-
-A brand can be:
-
-people-shaped
-
-without:
-
-being:
-
-biography-led.
-
----
-
-# Finding 7 — Scale Creates Narrative Tension
-
-Haidilao adds:
-
-another important narrative variable.
-
-## Brand Story
-
-What:
-
-Haidilao
-
-means globally.
-
-## Location Story
-
-What:
-
-Toronto Downtown
-
-means specifically.
-
-The current digital ecosystem is:
-
-stronger at:
-
-brand-level meaning.
-
-This creates:
-
-a tension:
-
-### Brand Consistency
-
-versus:
-
-### Local Narrative Specificity
-
-This mirrors:
-
-the arrival
-
-photography
-
-and:
-
-atmosphere comparisons.
-
-## Status
-
-Research Tension
-
-Confidence:
-
-Medium
-
----
-
-# Finding 8 — Meaning Can Be Embedded in Utility
-
-Haidilao helps clarify:
-
-that:
-
-functional features
-
-do not necessarily sit:
-
-outside:
-
-story.
-
-Example:
-
-a hot pot guide
-
-is:
-
-useful.
-
-But:
-
-it also communicates:
-
-participation
-
-sharing
-
-and:
-
-how the product works.
-
-A membership system is:
-
-functional.
-
-But:
-
-it may also signal:
-
-an ongoing relationship.
-
-Therefore:
-
-utility
-
-may carry:
-
-narrative meaning
-
-when:
-
-it expresses:
-
-something important
-
-about:
-
-the hospitality model.
-
-This supports:
-
-the broader correction from:
-
-Arrival.
-
----
-
-# Finding 9 — Strong Story Does Not Require Maximum Explicitness
-
-The research now includes:
-
-two important directions.
-
-## Explicit Narrative
-
-Examples:
-
-- Cultiva
-- Talisman
-- Dishoom
-- NARISAWA
-
-## Embedded Narrative
-
-Examples:
-
-- Franklin
-- Haidilao
-- aspects of Alinea
-
-Both can:
-
-create meaning.
-
-Therefore:
-
-KHDS should ask:
-
-> How much story must be stated because the guest could not otherwise infer it?
-
-rather than:
-
-> How much story can we add?
-
-This reinforces:
-
-restraint
-
-without:
-
-turning studio philosophy into:
-
-research evidence.
-
----
-
-# Finding 10 — Narrative Carrier Should Follow Explanatory Value
-
-The research increasingly supports:
-
-one broad logic:
-
-What most meaningfully explains:
-
-why this hospitality experience is:
-
-what it is?
-
-Possible answers:
-
-- place
-- worldview
-- heritage
-- biography
-- product
-- ecology
-- service
-- ritual
-- operating model
-- cultural memory
-- guest participation
-
-The correct narrative carrier is:
-
-the one with:
-
-explanatory value.
-
-This logic has already strengthened:
-
-Biography When It Explains the Experience.
-
-Haidilao expands:
-
-the same idea
-
-beyond:
-
-biography.
-
----
-
-# Story Variables
-
-Future research should consider:
-
-## Hospitality Meaning
-
-What is the experience:
-
-ultimately about?
-
-## Primary Narrative Carrier
-
-What best explains:
-
-that meaning?
-
-## Explanatory Value
-
-Why does this information:
-
-matter to:
-
-the guest?
-
-## Explicitness
-
-Must the story be:
-
-said
+an existing constraint
 
 or:
 
-can it be:
+feature.
 
-experienced?
+This is:
 
-## Authorship
-
-Does a person materially explain:
-
-the experience?
-
-## Place
-
-Does the location:
-
-carry:
-
-identity?
-
-## Worldview
-
-Does philosophy:
-
-organise:
-
-the hospitality model?
-
-## Heritage
-
-Does history:
-
-create relevant confidence?
-
-## Service
-
-Does treatment of guests:
-
-carry:
-
-brand meaning?
-
-## Ritual
-
-Do repeated actions:
-
-express:
-
-the experience?
-
-## Guest Role
-
-Does the guest:
-
-complete:
-
-the story?
-
-## Operating Model
-
-Does:
-
-how the restaurant works
-
-explain:
-
-what the brand believes?
-
-## Evidence Requirement
-
-Can the narrative claim be:
-
-verified
-
-through:
-
-public digital evidence?
+a major narrative function.
 
 ---
 
-# Updated Working Story Model
+# Cross-Restaurant Finding 15 — Meaning Can Make Constraint Legible
+
+The research now includes:
+
+multiple examples where:
+
+constraints
+
+require:
+
+interpretation.
+
+Potential examples:
+
+- queue
+- tasting-menu structure
+- advance booking
+- individual booth
+- communal seating
+- limited product range
+- selective reveal
+
+The stronger question is:
+
+> **What meaning makes this constraint understandable?**
+
+This links:
+
+story
+
+arrival
+
+participation
+
+and:
+
+commitment.
+
+---
+
+# Cross-Restaurant Finding 16 — Story Can Be Performed
+
+Haidilao
+
+and:
+
+ICHIRAN
+
+both create:
+
+strong evidence
+
+that:
+
+story can be:
+
+experienced through:
+
+guest behaviour.
+
+---
+
+## Haidilao
+
+The guest participates through:
+
+social hot-pot behaviour.
+
+---
+
+## ICHIRAN
+
+The guest participates through:
+
+individual customization
+
+booth use
+
+and:
+
+structured interaction.
+
+---
+
+## Interpretation
+
+Meaning may become:
+
+experiential
+
+when:
+
+the guest performs:
+
+the operating model.
+
+Possible sequence:
 
 Hospitality Meaning
 
 ↓
 
-What Best Explains It?
+Participation Structure
 
 ↓
+
+Guest Action
+
+↓
+
+Experienced Meaning
+
+This strengthens:
+
+The Guest as Participant
+
+without:
+
+creating:
+
+another narrative pattern.
+
+---
+
+# Cross-Restaurant Finding 17 — Ritual As Story Needs A Strict Boundary
+
+Several restaurants contain:
+
+repeated behaviours.
+
+But:
+
+procedure
+
+is not:
+
+automatically:
+
+ritual.
+
+The distinction remains:
+
+---
+
+## Procedure
+
+A repeated action required to:
+
+complete:
+
+a task.
+
+---
+
+## Ritual
+
+A repeated action that:
+
+carries:
+
+meaning
+
+identity
+
+or:
+
+experiential significance.
+
+ICHIRAN's:
+
+ordering
+
+refill
+
+and:
+
+booth behaviours
+
+may be:
+
+procedural
+
+or:
+
+ritualized.
+
+The website evidence is:
+
+insufficient
+
+to:
+
+automatically classify them:
+
+as ritual.
+
+---
+
+# Pressure Test — Ritual As Story
+
+## Current Status
+
+Observed Research Direction
+
+## ICHIRAN Result
+
+Possible support.
+
+Insufficient for:
+
+promotion.
+
+## Governance Recommendation
+
+Hold below Candidate.
+
+---
+
+# Cross-Restaurant Finding 18 — Explain The Ritual Is Better Understood As Participation Clarity
+
+Where:
+
+the guest must perform:
+
+unfamiliar behaviour
+
+the restaurant may need to:
+
+explain:
+
+the sequence.
+
+But:
+
+the deeper transferable job may be:
+
+participation understanding
+
+rather than:
+
+ritual explanation.
+
+---
+
+# Governance Recommendation — Explain The Ritual
+
+Current Status:
+
+Below Candidate.
+
+Recommended:
+
+Do not promote.
+
+Consider:
+
+subsuming conceptually into:
+
+- Participation Throughout the Journey
+- System Explanation Obligation
+- Story Through Hospitality Model
+
+during:
+
+future cleanup.
+
+Do not delete:
+
+historical research record.
+
+---
+
+# Cross-Restaurant Finding 19 — Narrative Volume And Narrative Depth Are Different
+
+Dishoom may use:
+
+rich narrative language.
+
+ICHIRAN may communicate:
+
+substantial meaning
+
+through:
+
+comparatively functional system explanation.
+
+Both can:
+
+create:
+
+narrative depth.
+
+Therefore:
+
+copy volume
+
+is not:
+
+a reliable proxy
+
+for:
+
+story quality.
+
+---
+
+# Architecture Variable
+
+### Narrative Volume
+
+Low
+
+↔
+
+High
+
+### Narrative Depth
+
+Low
+
+↔
+
+High
+
+These should remain:
+
+separate.
+
+---
+
+# Cross-Restaurant Finding 20 — Operating Logic Can Organise Story Without Becoming The Story
+
+This is:
+
+an important distinction.
+
+Every coherent restaurant may have:
+
+an organizing logic.
+
+But:
+
+not every restaurant's:
+
+operating model
+
+is:
+
+the primary narrative carrier.
+
+---
+
+## Example — Cultiva
+
+Operating logic exists.
+
+But:
+
+worldview
+
+may be:
+
+the stronger narrative carrier.
+
+---
+
+## Example — Talisman
+
+Operations exist.
+
+But:
+
+heritage
+
+and:
+
+place
+
+may carry:
+
+more narrative weight.
+
+---
+
+## Example — ICHIRAN
+
+The operating system itself
+
+appears:
+
+central.
+
+---
+
+# Conclusion
+
+This is why:
+
+Narrative Coherence Through Organising Logic
+
+and:
+
+Story Through Hospitality Model
+
+should remain:
+
+distinct.
+
+---
+
+# Cross-Restaurant Finding 21 — Story Through Hospitality Model Has A Clear Falsification Boundary
+
+A formal pattern becomes:
+
+useful
+
+only if:
+
+it can fail.
+
+Story Through Hospitality Model should not:
+
+apply
+
+simply because:
+
+every restaurant:
+
+has operations.
+
+The pattern should require:
+
+the operating model itself
+
+to materially explain:
+
+the restaurant's meaning.
+
+---
+
+# Proposed Falsification Question
+
+> **If the guest understood how the restaurant operates but learned little about what the restaurant means, is the operating model really carrying the story?**
+
+If:
+
+No
+
+then:
+
+Story Through Hospitality Model
+
+should not apply.
+
+This preserves:
+
+precision.
+
+---
+
+# Cross-Restaurant Finding 22 — Story Through Hospitality Model Is Not Hospitality System Proof
+
+These concepts are:
+
+closely related
+
+but:
+
+must remain:
+
+separate.
+
+---
+
+## Hospitality System Proof
+
+Question:
+
+> **Does the guest need evidence that explains how the hospitality system works?**
+
+This is:
+
+proof architecture.
+
+---
+
+## Story Through Hospitality Model
+
+Question:
+
+> **Does how the hospitality system works explain what the restaurant means?**
+
+This is:
+
+narrative architecture.
+
+---
+
+# ICHIRAN
+
+Supports:
+
+both.
+
+The booth
+
+ordering system
+
+service controls
+
+and:
+
+customization
+
+may need:
+
+proof.
+
+But:
+
+those same systems
+
+also communicate:
+
+focus
+
+privacy
+
+control
+
+and:
+
+product concentration.
+
+---
+
+# Haidilao
+
+Also supports:
+
+both.
+
+Service systems
+
+participation
+
+and:
+
+ritual
+
+may need:
+
+proof.
+
+They also communicate:
+
+a service-led hospitality philosophy.
+
+---
+
+# Conclusion
+
+Do not merge:
+
+Hospitality System Proof
+
+and:
+
+Story Through Hospitality Model.
+
+Their relationship is:
+
+Evidence
+
+versus:
+
+Meaning.
+
+---
+
+# Cross-Restaurant Finding 23 — Hospitality System Proof Now Has Three-Dimension Support
+
+Photography comparison:
+
+supported:
+
+Candidate promotion review.
+
+Participation comparison:
+
+independently supported:
+
+Candidate promotion review.
+
+Story comparison:
+
+confirms:
+
+the concept is distinct from:
+
+Story Through Hospitality Model.
+
+Therefore:
+
+Hospitality System Proof
+
+now has:
+
+strong enough:
+
+cross-dimensional support
+
+to justify:
+
+formal Candidate consideration.
+
+---
+
+# Pressure Test — Hospitality System Proof
+
+## Current Status
+
+Strong Candidate Watch
+
+## Post-ICHIRAN Cross-Dimension Result
+
+Very strong.
+
+## Recommended Definition
+
+> **When the guest-facing operating system materially explains how the experience works or what makes it different, the restaurant should provide sufficient evidence for the guest to understand that system.**
+
+## Distinction
+
+Not:
+
+culinary production system.
+
+Not:
+
+generic photography.
+
+Not:
+
+story itself.
+
+This is:
+
+proof of:
+
+guest-facing hospitality mechanics.
+
+## Governance Recommendation
+
+Promote to:
+
+Candidate
+
+during:
+
+canonical governance reconciliation.
+
+Recommended Confidence:
+
+Medium.
+
+---
+
+# Why Medium Rather Than High
+
+Strong evidence exists from:
+
+- Haidilao
+- ICHIRAN
+
+with:
+
+partial support from:
+
+- Franklin
+- Alinea
+
+But:
+
+the pattern still needs:
+
+more independent testing
+
+across:
+
+restaurants where:
+
+the operating system is:
+
+less unusual
+
+or:
+
+less visible.
+
+---
+
+# Cross-Restaurant Finding 24 — Story Through Hospitality Model And Hospitality System Proof Can Coexist
+
+A restaurant may:
+
+need to prove:
+
+the system
+
+without:
+
+using:
+
+the system
+
+as:
+
+story.
+
+Or:
+
+the system may:
+
+carry:
+
+story
+
+without requiring:
+
+extensive explanation
+
+before:
+
+participation.
+
+Therefore:
+
+they should remain:
+
+independent variables.
+
+Possible matrix:
+
+---
+
+## High System Proof Need + High System Story Role
+
+Examples:
+
+ICHIRAN
+
+Haidilao.
+
+---
+
+## High System Proof Need + Low System Story Role
+
+Possible:
+
+complex operational hospitality
+
+where:
+
+system explanation is necessary
+
+but:
+
+identity comes from:
+
+another carrier.
+
+---
+
+## Low System Proof Need + High System Story Role
+
+Possible:
+
+operating philosophy
+
+that:
+
+becomes obvious:
+
+through:
+
+experience
+
+without:
+
+substantial pre-arrival explanation.
+
+---
+
+## Low System Proof Need + Low System Story Role
+
+Conventional hospitality
+
+where:
+
+product
+
+place
+
+or:
+
+heritage
+
+carry:
+
+the narrative.
+
+---
+
+# Governance Position
+
+Keep:
+
+both concepts.
+
+---
+
+# Cross-Restaurant Finding 25 — Primary Narrative Carrier Should Become Explicit
+
+The twelve restaurants now provide:
+
+enough diversity
+
+to treat:
 
 Primary Narrative Carrier
 
-↓
+as:
 
+a core:
+
+Story Architecture variable.
+
+Possible carriers:
+
+- Place
+- Worldview
+- Heritage
+- Biography
+- Product
+- Craft
+- Cultural Memory
+- Ecology
+- Service
+- Ritual
+- Participation
+- Operating Model
+
+A restaurant may have:
+
+one primary carrier
+
+and:
+
+several supporting carriers.
+
+This is:
+
+architecture.
+
+Not:
+
+pattern.
+
+---
+
+# Proposed Post-ICHIRAN Narrative Architecture
+
+Previous post-Haidilao architecture:
+
+```text
+Hospitality Meaning
+↓
+What Best Explains It?
+↓
+Primary Narrative Carrier
+↓
 Place
 Worldview
 Heritage
@@ -1838,581 +2543,11 @@ Service
 Ritual
 Participation
 Operating Model
-
 ↓
-
 Relevant Evidence
-
 ↓
-
 Guest Understanding
-
 ↓
-
 Fit
-
 ↓
-
 Participation
-
-The sequence may be:
-
-editorial
-
-or:
-
-embedded.
-
-The key requirement is:
-
-coherence
-
-and:
-
-explanatory value.
-
----
-
-# Critical Correction — Story Before Features
-
-The phrase should no longer be interpreted as:
-
-a literal page sequence.
-
-The strongest research-level interpretation now appears closer to:
-
-> **Hospitality functions should remain connected to the meaning of the experience rather than being presented as an unrelated collection of features.**
-
-This is:
-
-a proposed comparison conclusion.
-
-It is not yet:
-
-the canonical governance definition.
-
----
-
-# Critical Correction — Narrative Coherence
-
-Narrative coherence should not require:
-
-one:
-
-tone
-
-section
-
-voice
-
-or:
-
-content format.
-
-It requires:
-
-the relevant narrative carriers
-
-to make sense:
-
-together.
-
-For Haidilao:
-
-Service
-
-Ritual
-
-Participation
-
-Social Connection
-
-and:
-
-Operating Model
-
-are:
-
-compatible carriers.
-
-For Talisman:
-
-Heritage
-
-Place
-
-Growth
-
-and:
-
-Reputation
-
-are:
-
-compatible carriers.
-
-For NARISAWA:
-
-Ecology
-
-Authorship
-
-Nature
-
-and:
-
-Culinary Philosophy
-
-are:
-
-compatible carriers.
-
-The carrier changes.
-
-The requirement for:
-
-coherence
-
-does not.
-
----
-
-# Cross-Restaurant Narrative Carriers
-
-## Place
-
-Strong in:
-
-- Ankole
-- Talisman
-- Bistro Lolo
-- Dishoom
-
-## Worldview / Philosophy
-
-Strong in:
-
-- Cultiva
-- FYN
-- NARISAWA
-
-## Heritage / Cultural Memory
-
-Strong in:
-
-- Talisman
-- Dishoom
-
-## Biography / Authorship
-
-Strong in:
-
-- Franklin
-- FYN
-- Alinea
-- NARISAWA
-
-## Concept / Organising Idea
-
-Strong in:
-
-- Mawimbi
-- Dishoom
-- Cultiva
-
-## Product / Craft
-
-Strong in:
-
-- Franklin
-- FYN
-- NARISAWA
-
-## Service
-
-Strongest current example:
-
-- Haidilao
-
-## Ritual
-
-Strongest current example:
-
-- Haidilao
-
-Potential support:
-
-- Alinea
-- FYN
-- NARISAWA
-
-## Operating Model
-
-Strongest current examples:
-
-- Haidilao
-- Franklin
-
-with:
-
-different mechanisms.
-
-## Guest Participation
-
-Strongest current example:
-
-- Haidilao
-
----
-
-# Current Contradiction Summary
-
-Haidilao creates five major narrative corrections.
-
-## Correction 1
-
-Story
-
-does not equal:
-
-editorial storytelling.
-
----
-
-## Correction 2
-
-Story Before Features
-
-does not require:
-
-story content before:
-
-utility.
-
----
-
-## Correction 3
-
-Biography
-
-is:
-
-one narrative carrier
-
-not:
-
-the default one.
-
----
-
-## Correction 4
-
-Service
-
-ritual
-
-and:
-
-operations
-
-can carry:
-
-brand meaning.
-
----
-
-## Correction 5
-
-Some stories are:
-
-operational promises
-
-that:
-
-website evidence cannot:
-
-validate.
-
-These corrections materially improve:
-
-the current KHDS story architecture.
-
----
-
-# Governance Recommendation From Story Comparison
-
-Now that all five Haidilao comparison dimensions are complete:
-
-do not edit governance blindly.
-
-The five comparison files should be reconciled together.
-
-Preliminary story recommendations are:
-
-## Story Before Features
-
-Status:
-
-Emerging
-
-Action:
-
-Retain.
-
-Major definition refinement required.
-
----
-
-## Narrative Coherence Through Organising Logic
-
-Status:
-
-Emerging
-
-Action:
-
-Retain.
-
-Potential confidence increase.
-
-Explicitly allow:
-
-behavioural
-
-and:
-
-operational organising logic.
-
----
-
-## Story Through Place
-
-Status:
-
-Emerging
-
-Action:
-
-Retain.
-
-Haidilao strengthens:
-
-context boundary
-
-rather than:
-
-support.
-
----
-
-## Biography When It Explains the Experience
-
-Status:
-
-Candidate
-
-Action:
-
-Retain.
-
-Potential confidence increase.
-
-Haidilao supports:
-
-explanatory-value boundary.
-
----
-
-## Heritage Builds Confidence
-
-Status:
-
-Candidate
-
-Action:
-
-Retain.
-
-Context boundary strengthened.
-
----
-
-## Narrative Language Within Clear Interface
-
-Status:
-
-Candidate
-
-Action:
-
-Retain.
-
-Potential confidence increase.
-
----
-
-# New Directions Worth Carrying Forward
-
-## Story Through Hospitality Model
-
-Status:
-
-Strong Candidate Watch
-
-Need deduplication against:
-
-Narrative Coherence Through Organising Logic.
-
----
-
-## Service Philosophy as Story
-
-Status:
-
-Observed Research Direction
-
----
-
-## Ritual as Story
-
-Status:
-
-Observed Research Direction
-
----
-
-## Operational Narrative
-
-Status:
-
-Observed Evidence / Architecture Direction
-
----
-
-## Team Behaviour as Brand Story
-
-Status:
-
-Observed Research Direction
-
-None should:
-
-enter governance automatically.
-
----
-
-# Haidilao Contribution
-
-Haidilao's largest contribution to:
-
-story research
-
-is:
-
-forcing a distinction between:
-
-having a story
-
-and:
-
-telling a story.
-
-A restaurant may communicate meaning through:
-
-a beautifully written narrative.
-
-Or:
-
-through:
-
-how service works
-
-what guests do
-
-how food is shared
-
-how participation is structured
-
-and:
-
-what kind of social experience the system creates.
-
-The better KHDS question is therefore:
-
-> **What carries the meaning of this hospitality experience?**
-
-not:
-
-> **Where should we put the story?**
-
-That is:
-
-a materially stronger foundation
-
-for:
-
-future hospitality design.
-
----
-
-# Haidilao Five-Dimension Reconciliation Status
-
-Arrival:
-
-Complete
-
-Atmosphere:
-
-Complete
-
-Photography:
-
-Complete
-
-Reservation / Participation:
-
-Complete
-
-Story:
-
-Complete
-
-Cross-Restaurant Reconciliation:
-
-Complete
-
-Governance Reconciliation:
-
-Pending
-
----
-
-# Research Status
-
-Independent Restaurants Compared:
-
-11
-
-Latest Restaurant:
-
-Haidilao Toronto Downtown
-
-Haidilao Story Reconciliation:
-
-Complete
-
-Governance Changes:
-
-Pending
-
-Pattern Promotions:
-
-None
-
-Pattern Demotions:
-
-None
-
-Next:
-
-Five-Dimension Governance Reconciliation

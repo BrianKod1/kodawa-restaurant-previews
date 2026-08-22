@@ -1,6 +1,28 @@
 # KHDS Cross-Restaurant Comparison — Reservation / Participation
 
-## Purpose
+## Status
+
+Post-ICHIRAN Reservation / Participation Reconciliation
+
+Independent Restaurants:
+
+12
+
+Latest Research Case:
+
+ICHIRAN Shibuya
+
+Research Dimension:
+
+Reservation / Participation
+
+Formal Governance Changes:
+
+Deferred
+
+---
+
+# Purpose
 
 Compare how independent restaurants move guests from:
 
@@ -8,46 +30,46 @@ interest
 
 to:
 
-successful participation.
+participation.
 
 This document asks:
 
-> **What participation system does the guest actually need?**
+> **How should KHDS model guest participation when reservation is only one possible route into hospitality?**
 
-Reservation should not be treated as:
+The research now includes:
 
-the universal centre
+- reservation-led hospitality
+- walk-in-led hospitality
+- queue-led hospitality
+- mixed reservation / walk-in models
+- high-commitment dining
+- low-commitment dining
+- social participation
+- individual participation
+- structured self-service
+- visible human service
+- low-visibility human service
+- waiting states
+- membership or return pathways
+- product participation
 
-of:
+ICHIRAN adds:
 
-hospitality participation.
+major pressure
 
-The current research now includes:
+because:
 
-- reservation-first models
-- human-confirmed models
-- walk-in-first models
-- high-commitment prepaid models
-- multi-intent models
-- queue-based participation
-- participatory dining
-- membership and relationship systems
+its participation model appears:
 
-The objective is to determine:
+deeply structured
 
-- what should be structured
-- what should remain human
-- where certainty matters
-- where complexity is meaningful
-- how access models differ
-- where waiting becomes part of hospitality
-- how participation extends beyond booking
+highly individualized
 
-Haidilao creates an important pressure test because:
+low-interaction
 
-the guest participates materially in:
+and:
 
-the meal itself.
+walk-in oriented.
 
 ---
 
@@ -64,6 +86,7 @@ the meal itself.
 9. Alinea
 10. NARISAWA
 11. Haidilao Toronto Downtown
+12. ICHIRAN Shibuya
 
 ---
 
@@ -73,27 +96,27 @@ the meal itself.
 
 ### Participation Type
 
-Persistent Structured Access
+Direct Reservation + Dining
 
-### Primary Mechanism
+### Primary Participation Characteristics
 
-Reservation remains:
-
-easy to find
-
-and:
-
-available throughout:
-
-the digital journey.
+- restaurant discovery
+- menu review
+- reservation
+- visit
+- dining
 
 ### Main Contribution
 
-Guests who are ready to act should not need to:
+Reservation can be:
 
-search for:
+a straightforward participation route
 
-the participation route.
+when:
+
+the hospitality model itself
+
+requires little procedural explanation.
 
 ---
 
@@ -101,155 +124,20 @@ the participation route.
 
 ### Participation Type
 
-Story-Integrated Booking
+Meaning-Led Reservation
 
-### Primary Mechanism
+### Primary Participation Characteristics
 
-Reservation access exists within:
-
-a broader meaning-led journey.
-
-### Main Contribution
-
-Participation can remain:
-
-accessible
-
-without:
-
-turning the entire experience into:
-
-a booking funnel.
-
----
-
-# Talisman
-
-### Participation Type
-
-Human Confirmation
-
-### Primary Mechanism
-
-The guest submits:
-
-a request
-
-and:
-
-the restaurant later confirms:
-
-availability.
+- worldview understanding
+- product understanding
+- reservation
+- dining
 
 ### Main Contribution
 
-Human service can remain:
+Meaning may help establish:
 
-inside:
-
-the booking process.
-
-But:
-
-manual confirmation creates:
-
-a trade-off with:
-
-immediate certainty.
-
----
-
-# Mawimbi
-
-### Participation Type
-
-Multi-Channel Participation
-
-### Primary Mechanism
-
-Guests may encounter:
-
-multiple access and communication routes.
-
-### Main Contribution
-
-More channels do not automatically create:
-
-better participation.
-
-Multiple routes can increase:
-
-flexibility
-
-and:
-
-complexity
-
-at the same time.
-
----
-
-# Bistro Lolo
-
-### Participation Type
-
-Flexible Intent-Sensitive Access
-
-### Primary Mechanism
-
-The broader digital ecosystem supports:
-
-different guest intents
-
-through:
-
-direct communication
-
-and:
-
-structured booking routes.
-
-### Main Contribution
-
-Different guests may require:
-
-different participation paths.
-
-One route does not need to serve:
-
-every intent.
-
----
-
-# FYN
-
-### Participation Type
-
-High-Commitment Structured Booking + Exception Handling
-
-### Primary Mechanism
-
-The booking model communicates:
-
-- commitment
-- policies
-- expectations
-- availability
-- experience structure
-
-before:
-
-participation.
-
-### Main Contribution
-
-Higher-consequence hospitality needs:
-
-more certainty
-
-and:
-
-more explicit expectations
+fit
 
 before:
 
@@ -257,33 +145,161 @@ commitment.
 
 ---
 
+# Talisman
+
+### Participation Type
+
+Flexible Restaurant Participation
+
+### Primary Participation Characteristics
+
+- discovery
+- place understanding
+- menu
+- reservation
+- visit
+- social dining
+
+### Main Contribution
+
+Participation may remain:
+
+simple
+
+even where:
+
+story
+
+and:
+
+place
+
+are rich.
+
+---
+
+# Mawimbi
+
+### Participation Type
+
+Occasion-Led Reservation
+
+### Primary Participation Characteristics
+
+- atmosphere
+- social use
+- occasion
+- reservation
+- dining
+- possible event participation
+
+### Main Contribution
+
+Reservation can support:
+
+occasion certainty
+
+rather than:
+
+only:
+
+table access.
+
+---
+
+# Bistro Lolo
+
+### Participation Type
+
+Neighbourhood / Multi-Occasion Participation
+
+### Primary Participation Characteristics
+
+- spontaneous visit
+- social occasion
+- menu
+- reservation where useful
+- repeated neighbourhood use
+
+### Main Contribution
+
+Hospitality participation may include:
+
+repeat
+
+informal
+
+and:
+
+low-commitment visits
+
+rather than:
+
+single reservation events.
+
+---
+
+# FYN
+
+### Participation Type
+
+High-Commitment Structured Reservation
+
+### Primary Participation Characteristics
+
+- experience understanding
+- fit
+- reservation
+- high commitment
+- structured meal
+- expectation clarity
+
+### Main Contribution
+
+High commitment increases:
+
+the importance of:
+
+certainty
+
+fit
+
+and:
+
+pre-visit understanding.
+
+---
+
 # Dishoom Covent Garden
 
 ### Participation Type
 
-Reservation + Walk-In Social Hospitality
+Mixed Social Participation
 
-### Primary Mechanism
+### Primary Participation Characteristics
 
-Participation includes:
-
-both:
-
-advance access
-
-and:
-
-spontaneous arrival.
+- walk-in possibility
+- reservation where applicable
+- queue
+- social dining
+- multiple visit intents
+- location choice
 
 ### Main Contribution
 
-Walk-in does not need to be treated as:
+Walk-in
 
-reservation failure.
+reservation
 
-It may be:
+and:
 
-a legitimate first-class participation model.
+queue
+
+may coexist
+
+inside:
+
+one hospitality system.
 
 ---
 
@@ -291,33 +307,33 @@ a legitimate first-class participation model.
 
 ### Participation Type
 
-Walk-In / Queue-Led Participation
+Queue-Led Walk-In Participation
 
-### Primary Mechanism
+### Primary Participation Characteristics
 
-The guest participation model includes:
-
-- physical arrival
-- queueing
+- travel
+- arrival
+- queue
 - waiting
-- product anticipation
-- operational expectations
+- ordering
+- product
+- completion
 
 ### Main Contribution
 
-Operational truth can become:
-
-part of:
-
-participation design.
-
-Waiting itself may be:
-
-a known
+Waiting
 
 and:
 
-expected state.
+walk-in participation
+
+can be:
+
+central
+
+rather than:
+
+exceptions.
 
 ---
 
@@ -325,42 +341,30 @@ expected state.
 
 ### Participation Type
 
-High-Commitment Structured Participation
+High-Commitment Experience Reservation
 
-### Primary Mechanism
-
-Participation requires:
+### Primary Participation Characteristics
 
 - experience selection
-- availability
-- financial commitment
-- clear expectations
-- compatibility
-- defined policies
+- advance booking
+- commitment
+- controlled reveal
+- structured participation
+- dining sequence
 
 ### Main Contribution
 
-The guest needs:
+Reservation may be:
 
-fit
+part of:
 
-certainty
+the product architecture
 
-and:
+when:
 
-expectation clarity
+the experience requires:
 
-before:
-
-committing.
-
-Structured self-service may handle:
-
-much of the normal path.
-
-Human assistance remains useful for:
-
-exceptions.
+advance commitment.
 
 ---
 
@@ -368,39 +372,30 @@ exceptions.
 
 ### Participation Type
 
-High-Commitment Experience Access
+High-Commitment Reservation + Fit
 
-### Primary Mechanism
+### Primary Participation Characteristics
 
-The guest enters:
-
-a highly authored dining experience
-
-with:
-
-strong expectations
-
-and:
-
-defined participation conditions.
+- philosophy
+- culinary authority
+- expectation
+- reservation
+- experience
+- completion
 
 ### Main Contribution
 
-The reservation system is not:
+Commitment may require:
 
-only logistics.
-
-It helps communicate:
-
-the seriousness
+strong meaning
 
 and:
 
-structure
+fit
 
-of:
+before:
 
-the experience.
+participation.
 
 ---
 
@@ -410,1015 +405,119 @@ the experience.
 
 Multi-State Participatory Hospitality
 
-### Primary Mechanism
+### Primary Participation Characteristics
 
-The guest may move through:
-
-- restaurant discovery
-- reservation
-- walk-in
+- location choice
+- reservation / walk-in
 - waiting
 - seating
-- broth choice
-- sauce preparation
-- cooking
-- sharing
-- staff interaction
-- membership
-- repeat engagement
+- hot-pot participation
+- human service
+- social interaction
+- membership / return
 
 ### Main Contribution
 
-Reservation is:
+Haidilao produced:
 
-one participation state
+major corrections:
 
-inside:
-
-a much larger hospitality system.
-
-Haidilao also introduces:
-
-deep product participation.
-
-The guest helps:
-
-create:
-
-the meal
+> **Complexity is not the same thing as friction.**
 
 and:
 
-the social experience.
+> **Human Assistance is not the same thing as Human Service.**
 
----
-
-# Cross-Restaurant Comparison
-
-The eleven restaurants now demonstrate:
-
-multiple participation architectures.
-
-Observed models include:
-
-- persistent reservation access
-- story-integrated booking
-- manual confirmation
-- multi-channel access
-- high-commitment structured booking
-- exception handling
-- walk-in access
-- physical queueing
-- waiting
-- active product participation
-- ongoing membership
-
-The transferable question is therefore not:
-
-> What should the reservation form look like?
-
-It is:
-
-> **What participation states does this hospitality model actually contain?**
-
----
-
-# Previous Working Participation Architecture
-
-The current KHDS model had moved toward:
-
-Guest Intent
-
-↓
-
-Desired Certainty
-
-↓
-
-Resource Needed
-
-↓
-
-Compatibility
-
-↓
-
-Predictability
-
-↓
-
-Appropriate Route
-
-↓
-
-Relevant Commitment
-
-↓
-
-Structured Self-Service Where Sufficient
-
-↓
-
-Human Assistance Where Structure Is Insufficient
-
-↓
-
-Participation State
-
-↓
-
-Confirmed / Ongoing Participation
-
-This remains:
-
-useful.
-
-Haidilao reveals:
-
-two important limitations.
-
----
-
-# Haidilao Correction 1 — Participation Extends Beyond Access
-
-The previous model is strongest at:
-
-moving the guest into:
-
-the experience.
-
-Haidilao demonstrates that:
-
-participation continues:
-
-after:
-
-access.
-
-Examples:
-
-- waiting
-- selecting
-- mixing
-- cooking
-- sharing
-- interacting
-- returning
-
-Therefore:
-
-participation architecture should not terminate at:
-
-confirmation
-
-or:
-
-entry.
-
----
-
-# Haidilao Correction 2 — Human Service Is Not Only an Exception Layer
-
-The current model positions:
-
-human assistance
-
-primarily where:
-
-structured self-service
-
-becomes insufficient.
-
-That remains useful for:
-
-functional exceptions.
-
-But:
-
-Haidilao shows another role.
-
-Human presence can be:
-
-part of:
-
-the hospitality product itself.
-
-This creates two different forms:
-
-## Functional Human Assistance
-
-Used when:
-
-the system cannot resolve:
-
-a guest need.
-
-## Experiential Human Service
-
-Used because:
-
-human interaction itself creates:
-
-value.
-
-These should not be:
-
-confused.
-
----
-
-# Proposed Refined Participation Architecture
-
-A broader working model is:
-
-Guest Intent
-
-↓
-
-Desired Outcome
-
-↓
-
-Relevant Location / Resource
-
-↓
-
-Access Route
-
-↓
-
-Reservation
-or
-Walk-In
-or
-Queue
-or
-Other Appropriate Entry
-
-↓
-
-Relevant Commitment
-
-↓
-
-Arrival State
-
-↓
-
-Possible Waiting State
-
-↓
-
-Hospitality During Waiting
-where relevant
-
-↓
-
-Experience Entry
-
-↓
-
-Structured Guest Choices
-
-↓
-
-Meaningful Participation
-
-↓
-
-Human Service
-where functional or experiential
-
-↓
-
-Completion State
-
-↓
-
-Relationship Continuation
-where relevant
-
-This model is:
-
-intentionally broader than:
-
-booking.
-
----
-
-# Participation States
-
-The research now supports:
-
-a richer state model.
-
-## Exploring
-
-The guest is:
-
-learning.
-
-## Selecting
-
-The guest is:
-
-choosing:
-
-restaurant
-
-time
-
-experience
-
-or:
-
-participation route.
-
-## Committing
-
-The guest accepts:
-
-financial
-
-temporal
-
-or:
-
-behavioural conditions.
-
-## Reserved / Scheduled
-
-A structured future participation state exists.
-
-## Walk-In
-
-The guest participates without:
-
-advance reservation.
-
-## Waiting
-
-The guest has:
-
-arrived
-
-but:
-
-has not yet entered:
-
-the primary experience.
-
-## Entered
-
-The guest begins:
-
-the hospitality experience.
-
-## Participating
-
-The guest actively engages:
-
-with:
-
-the product
-
-service
-
-or:
-
-ritual.
-
-## Needs Assistance
-
-The structured path is:
-
-insufficient.
-
-## Completed
-
-The primary experience has:
-
-ended.
-
-## Relationship Continuation
-
-The guest may remain connected through:
-
-membership
-
-loyalty
-
-communication
-
-or:
-
-return behaviour.
-
-This is:
-
-working architecture.
-
-Not:
-
-formal governance yet.
-
----
-
-# Pattern Review — Participation Throughout the Journey
-
-## Current Status
-
-Emerging
-
-## Existing Evidence
-
-Strong across:
-
-the research set
-
-through:
-
-different access models.
-
-## Haidilao Contribution
-
-Very strong.
-
-Participation exists:
-
-- before arrival
-- during arrival
-- during waiting
-- at the table
-- during service
-- after the visit
-
-## Interpretation
-
-The pattern becomes:
-
-broader
-
-than:
-
-persistent reservation access.
-
-A stronger definition may be:
-
-> Hospitality participation should remain understandable and appropriately supported across the states that matter from guest intent through experience and relationship continuation.
-
-## Governance Recommendation
-
-Retain:
-
-Emerging.
-
-Definition refinement:
-
-strongly recommended.
-
-Potential confidence increase.
-
-Do not promote.
-
----
-
-# Pattern Review — Multi-Intent Hospitality
-
-## Current Status
-
-Emerging
-
-## Haidilao Evidence
-
-Very strong.
-
-Guest intents may include:
-
-- find nearest restaurant
-- reserve
-- walk in
-- inspect menu
-- understand hot pot
-- contact restaurant
-- join membership
-- prepare for participation
-
-## Interpretation
-
-A single linear funnel:
-
-cannot efficiently serve:
-
-all intents.
-
-## Governance Recommendation
-
-Retain:
-
-Emerging.
-
-Potential confidence increase.
-
-No maturity promotion.
-
----
-
-# Pattern Review — Commitment Without Pressure
-
-## Current Status
-
-Emerging
-
-## Existing Meaning
-
-Participation should be:
-
-clear
-
-without:
-
-artificial urgency
-
-or:
-
-aggressive persuasion.
-
-## Haidilao Pressure
-
-High demand
-
-waiting
-
-or:
-
-queueing
-
-may create:
-
-real scarcity.
-
-That is:
-
-not the same as:
-
-manufactured urgency.
-
-## Boundary Refinement
-
-KHDS should distinguish:
-
-### Real Constraint
-
-Examples:
-
-- actual availability
-- seating capacity
-- queue length
-- cancellation policy
-
-from:
-
-### Artificial Pressure
-
-Examples:
-
-- fake scarcity
-- misleading countdowns
-- invented urgency
-
-## Governance Recommendation
-
-Retain:
-
-Emerging.
-
-Clarify:
-
-real constraint versus artificial persuasion.
-
----
-
-# Pattern Review — Escalating Participation Complexity
-
-## Current Status
-
-Emerging
-
-## Previous Logic
-
-As participation becomes:
-
-more complex
-
-the system may require:
-
-more structure
-
-or:
-
-human assistance.
-
-## Haidilao Contradiction
-
-Some complexity is:
-
-the hospitality product.
-
-Examples:
-
-- broth choice
-- sauce creation
-- cooking
-- sharing
-- pacing
-
-Reducing those actions could:
-
-weaken:
-
-the experience.
-
-## Critical Refinement
-
-KHDS should distinguish:
-
-## Administrative Complexity
-
-Complexity required to:
-
-access
-
-book
-
-understand
-
-or:
-
-correct:
-
-the experience.
-
-Usually:
-
-reduce or structure.
-
-## Meaningful Participatory Complexity
-
-Complexity that:
-
-creates:
-
-choice
-
-agency
-
-ritual
-
-social interaction
-
-or:
-
-product involvement.
-
-Potentially:
-
-preserve.
-
-## Governance Recommendation
-
-Retain:
-
-Emerging.
-
-Major definition refinement required.
-
-Do not interpret:
-
-complexity
-
-as:
-
-friction automatically.
-
----
-
-# Pattern Review — Human Assistance Where Structured Self-Service Is Insufficient
-
-## Current Status
-
-Emerging
-
-## Strong Evidence
-
-The current research supports:
-
-human assistance for:
-
-exceptions
-
-complexity
-
-and:
-
-uncertain states.
-
-## Haidilao Pressure
-
-Haidilao demonstrates:
-
-human service
-
-inside:
-
-the normal path.
-
-The staff member is not always:
-
-repairing a failed structure.
-
-They may:
-
-create:
-
-hospitality value.
-
-## Interpretation
-
-The existing pattern remains valid for:
-
-functional assistance.
-
-But:
-
-it does not explain:
-
-Experiential Human Service.
-
-## Governance Recommendation
-
-Retain:
-
-Emerging.
-
-Do not rename immediately.
-
-Create:
-
-a research distinction between:
-
-functional assistance
-
-and:
-
-experiential service.
-
-Determine later whether:
-
-Experiential Human Service
-
-deserves:
-
-a separate Candidate
-
-or:
-
-remains:
-
-an architecture variable.
-
----
-
-# Pattern Review — Walk-In as First-Class Participation
-
-## Current Status
-
-Candidate
-
-## Strong Existing Evidence
-
-- Dishoom
-- Franklin
-
-Supporting:
-
-- Bistro Lolo
-
-## Haidilao Contribution
-
-Potentially important.
-
-Haidilao appears compatible with:
-
-walk-in
-
-queueing
-
-and:
-
-waiting
-
-as:
-
-legitimate participation states.
-
-## Limitation
-
-Current evidence does not establish:
-
-Toronto Downtown's:
-
-- exact walk-in policy
-- capacity allocation
-- queue rules
-- operational priority
-
-## Governance Recommendation
-
-Retain:
-
-Candidate.
-
-Potentially strengthened.
-
-Do not promote from:
-
-brand-level evidence alone.
-
----
-
-# Pattern Review — The Guest as Participant
-
-## Current Status
-
-Emerging
-
-## Haidilao Contribution
-
-Extremely strong.
-
-The guest does not only:
-
-choose:
-
-whether to participate.
-
-The guest:
-
-actively helps:
-
-produce:
-
-the meal.
-
-## Proposed Participation Depth
-
-### Level 1 — Narrative Participation
-
-The guest is:
-
-included in:
-
-meaning.
-
-### Level 2 — Choice Participation
-
-The guest selects:
-
-options.
-
-### Level 3 — Experience Participation
-
-The guest influences:
-
-how:
-
-the experience unfolds.
-
-### Level 4 — Product Participation
-
-The guest directly helps:
-
-produce
-
-prepare
-
-or:
-
-complete:
-
-the core product.
-
-Haidilao provides:
-
-strong Level 4 evidence.
-
-## Governance Recommendation
-
-Retain:
-
-Emerging.
-
-Potential confidence increase.
-
-No maturity promotion yet.
-
----
-
-# Own the Guest Relationship — Pressure Test
-
-## Current Status
-
-Partially Supported
-
-## Haidilao Evidence
-
-Visible participation includes:
-
-membership
-
-and:
-
-direct branded digital access.
-
-## What Can Be Established
-
-The public system visibly supports:
-
-a continuing direct relationship mechanism.
-
-## What Cannot Be Established
-
-Website evidence cannot prove:
-
-- CRM ownership
-- customer data ownership
-- payment data ownership
-- backend integration
-- economic benefit
-- retention performance
-
-## Governance Recommendation
-
-No change.
-
-Remain:
-
-Partially Supported.
-
-Operational evidence is still required.
-
----
-
-# Finding 1 — Reservation Is One Participation Route
-
-The current evidence now clearly shows:
+It also expanded:
 
 reservation
 
-should not be:
+into:
 
-the universal abstraction.
+Participation Architecture.
 
-Examples:
+---
 
-### FYN / Alinea
+# ICHIRAN Shibuya
 
-Reservation is:
+### Participation Type
 
-highly central.
+Walk-In + Queue + Structured Individual Participation
 
-### Franklin
+### Primary Participation Characteristics
 
-Walk-in and queue:
+- travel
+- possible congestion
+- walk-in entry
+- seat guidance
+- individual booth
+- structured customization
+- ordering
+- product waiting
+- eating
+- service access
+- refill
+- completion
 
-dominate.
+### Main Contribution
 
-### Dishoom
+ICHIRAN creates:
 
-Reservation and walk-in:
+a major correction:
 
-coexist.
+> **Participation is not the same thing as social participation.**
 
-### Haidilao
+It also demonstrates:
 
-Reservation
+that:
 
-walk-in
+deep guest agency
 
-waiting
+may exist inside:
 
-and:
+highly structured self-service.
 
-table participation
+---
 
-all matter.
+# Cross-Restaurant Finding 1 — Reservation Is One Participation Route
+
+Across:
+
+the twelve restaurants
+
+reservation ranges from:
+
+central
+
+to:
+
+optional
+
+to:
+
+irrelevant
+
+to:
+
+potentially absent.
 
 Therefore:
 
-KHDS should increasingly frame:
+KHDS should not use:
 
-Reservation
+reservation
+
+as:
+
+the universal participation abstraction.
+
+The stronger abstraction remains:
+
+### Participation
+
+Reservation is:
+
+one route
 
 inside:
 
@@ -1426,738 +525,39 @@ Participation Architecture.
 
 ---
 
-# Finding 2 — Waiting Is a Real Participation State
+# Cross-Restaurant Finding 2 — Participation Should Be Modeled As States
 
-## Evidence
+The research increasingly supports:
 
-Strongest cases:
-
-- Franklin
-- Dishoom
-- Haidilao
-
-## Interpretation
-
-Waiting can have:
-
-different meanings.
-
-### Franklin
-
-Waiting may create:
-
-anticipation
-
-and:
-
-participation culture.
-
-### Dishoom
-
-Waiting may coexist with:
-
-social hospitality.
-
-### Haidilao
-
-Waiting may receive:
-
-active service.
-
-## Research Direction
-
-### Hospitality During Waiting
-
-The comparison now provides:
-
-multiple independent cases
-
-with:
-
-materially different waiting models.
-
-## Status Recommendation
-
-Promotion Watch.
-
-Potential Candidate.
-
-But:
-
-complete story reconciliation first
-
-and:
-
-verify whether this is distinct from:
-
-Walk-In as First-Class Participation
-
-or:
-
-a supporting mechanism.
-
----
-
-# Finding 3 — Waiting Should Not Automatically Be Optimised Away
-
-This is important.
-
-A purely conversion-driven model might treat:
-
-waiting
-
-as:
-
-failure.
-
-The research shows:
-
-more nuance.
-
-Waiting may be:
-
-## Unnecessary Friction
-
-When caused by:
-
-poor systems.
-
-## Structural Constraint
-
-When:
-
-demand exceeds:
-
-instant capacity.
-
-## Social Participation
-
-When:
-
-the queue becomes:
-
-part of:
-
-the experience.
-
-## Serviced Waiting
-
-When:
-
-hospitality continues:
-
-before seating.
-
-Therefore:
-
-the correct question is:
-
-> **What kind of waiting is this?**
-
-not:
-
-> How do we remove all waiting?
-
----
-
-# Finding 4 — Meaningful Complexity Must Be Protected
-
-Across:
-
-Alinea
-
-FYN
-
-NARISAWA
-
-Franklin
-
-and:
-
-Haidilao
-
-the guest may encounter:
-
-complexity
-
-for:
-
-different reasons.
-
-Some complexity communicates:
-
-commitment.
-
-Some communicates:
-
-expectations.
-
-Some is:
-
-operational.
-
-Some is:
-
-participatory.
-
-## Working Classification
-
-### Access Complexity
-
-How hard is it to:
-
-enter?
-
-### Commitment Complexity
-
-What must the guest:
-
-understand
-
-or:
-
-accept?
-
-### Experience Complexity
-
-How layered is:
-
-the hospitality experience?
-
-### Participatory Complexity
-
-How much must the guest:
-
-do?
-
-### Exception Complexity
-
-What happens when:
-
-the normal path fails?
-
-This is:
-
-more useful than:
-
-one generic complexity measure.
-
----
-
-# Finding 5 — Human Hospitality Has Multiple Jobs
-
-Across the set:
-
-human involvement can:
-
-## Confirm
-
-Example:
-
-Talisman.
-
-## Resolve Exceptions
-
-Examples:
-
-FYN
-
-Alinea.
-
-## Support Walk-In / Waiting
-
-Examples:
-
-Dishoom
-
-Haidilao.
-
-## Explain
-
-Example:
-
-interactive or unfamiliar participation models.
-
-## Perform Service
-
-Strongest current example:
-
-Haidilao.
-
-## Create Atmosphere
-
-Strongest current pressure:
-
-Haidilao.
-
-This suggests:
-
-human service
-
-should become:
-
-a first-class participation variable
+state architecture
 
 rather than:
 
-only:
+page architecture.
 
-an escalation mechanism.
+A guest may move through:
 
----
-
-# Finding 6 — Certainty Needs Are Contextual
-
-The research set demonstrates:
-
-different desired certainty levels.
-
-## High Pre-Commitment Certainty
-
-Examples:
-
-- Alinea
-- FYN
-- NARISAWA
-
-because:
-
-commitment is:
-
-high.
-
-## Operational Certainty
-
-Franklin guests need to understand:
-
-how:
-
-arrival
-
-queue
-
-and:
-
-participation work.
-
-## Participation Certainty
-
-Haidilao guests may need:
-
-enough clarity
-
-to understand:
-
-hot pot
-
-while still retaining:
-
-choice
-
-during:
-
-the meal.
-
-Therefore:
-
-maximum certainty
-
-is not:
-
-universally optimal.
-
-The system should provide:
-
-the certainty required:
-
-for the current decision.
-
----
-
-# Finding 7 — Participation Can Be the Product
-
-Haidilao creates:
-
-the strongest current evidence.
-
-At:
-
-Level 4 Product Participation
-
-the guest's actions are:
-
-not:
-
-a side interaction.
-
-They are:
-
-part of:
-
-the thing being purchased.
-
-This should affect:
-
-- digital education
-- photography
-- story
-- atmosphere
-- booking
-- service
-
-The architecture should ask:
-
-> **What role must the guest perform for the experience to exist?**
-
----
-
-# Finding 8 — Relationship Participation Extends Beyond the Meal
-
-Membership
-
-loyalty
-
-return communication
-
-and:
-
-guest recognition
-
-can extend:
-
-participation
-
-beyond:
-
-one reservation.
-
-Current website research remains:
-
-weak for:
-
-proving operational ownership.
-
-But:
-
-the visible relationship layer
-
-is:
-
-real.
-
-This suggests:
-
-future participation research should include:
-
-post-visit states
-
-rather than:
-
-ending at:
-
-booking confirmation.
-
----
-
-# Participation Variables
-
-Future restaurant research should explicitly consider:
-
-## Guest Intent
-
-What is the guest trying to do?
-
-## Access Model
-
-- reservation
-- walk-in
-- queue
-- inquiry
-- mixed
-
-## Commitment
-
-What is required:
-
-before:
-
-entry?
-
-## Desired Certainty
-
-What must the guest know:
-
-now?
-
-## Compatibility
-
-Is the guest:
-
-eligible
-
-or:
-
-appropriate for:
-
-the experience?
-
-## Predictability
-
-Can the system:
-
-structure:
-
-the normal path?
-
-## Waiting
-
-Does waiting exist?
-
-What type?
-
-## Human Role
-
-Is human involvement:
-
-functional
-
-experiential
-
-or:
-
-both?
-
-## Participation Depth
-
-How much does:
-
-the guest
-
-help create:
-
-the experience?
-
-## Complexity Type
-
-Is complexity:
-
-administrative
-
-meaningful
-
-commitment-related
-
-or:
-
-exception-related?
-
-## Relationship Continuation
-
-Does participation extend:
-
-after:
-
-the visit?
-
----
-
-# Updated Working Participation Model
-
-Guest Intent
+Exploring
 
 ↓
 
-Desired Outcome
+Choosing
 
 ↓
 
-Relevant Resource / Location
+Assessing Fit
 
 ↓
 
-Participation Route
+Selecting Location
 
 ↓
 
-Reservation
-Walk-In
-Queue
-Inquiry
-Other
+Choosing Participation Route
 
 ↓
 
-Relevant Certainty
-
-+
-
-Relevant Commitment
-
-↓
-
-Arrival State
-
-↓
-
-Possible Waiting State
-
-↓
-
-Hospitality Support
-
-↓
-
-Experience Entry
-
-↓
-
-Meaningful Guest Participation
-
-+
-
-Appropriate Human Service
-
-↓
-
-Completion State
-
-↓
-
-Relationship Continuation
-
-This is:
-
-the strongest working model
-
-after:
-
-Haidilao.
-
-It is:
-
-research architecture
-
-not:
-
-a promoted principle.
-
----
-
-# Critical Correction — Friction Versus Participation
-
-The most important Haidilao correction is:
-
-> **KHDS should remove friction, not participation.**
-
-This distinction should now inform:
-
-all future participation research.
-
-## Friction
-
-Unnecessary work that:
-
-does not create:
-
-meaningful hospitality value.
-
-## Participation
-
-Guest action that:
-
-creates:
-
-agency
-
-understanding
-
-ritual
-
-social connection
-
-or:
-
-product value.
-
-The same number of steps may be:
-
-bad
-
-in one restaurant
-
-and:
-
-essential
-
-in another.
-
----
-
-# Critical Correction — Human Assistance Versus Human Service
-
-The current system needs:
-
-a firm vocabulary distinction.
-
-## Human Assistance
-
-The guest needs:
-
-help.
-
-## Human Service
-
-The guest receives:
-
-hospitality value
-
-through:
-
-human interaction.
-
-Sometimes:
-
-both occur.
-
-They should not be:
-
-treated as:
-
-identical.
-
----
-
-# Critical Correction — Confirmation Is Not the End State
-
-For many digital systems:
-
-booking confirmation
-
-appears to be:
-
-the objective.
-
-Hospitality continues:
-
-after:
-
-confirmation.
-
-The research now supports:
-
-Participation
-
-as:
-
-a lifecycle.
-
-Possible broader sequence:
-
-Intent
-
-↓
-
-Access
+Reservation / Walk-In / Queue / Inquiry / Other
 
 ↓
 
@@ -2169,11 +569,19 @@ Arrival
 
 ↓
 
-Waiting
+Possible Waiting
 
 ↓
 
-Experience
+Seating / Entry
+
+↓
+
+Experience Participation
+
+↓
+
+Service Interaction
 
 ↓
 
@@ -2181,365 +589,1675 @@ Completion
 
 ↓
 
-Relationship
+Relationship Continuation
 
-This better represents:
+Not every restaurant uses:
 
-the actual hospitality journey.
+every state.
+
+The architecture should adapt.
 
 ---
 
-# New Research Direction — Hospitality During Waiting
+# Cross-Restaurant Finding 3 — Walk-In Is A First-Class Participation Route
 
-## Independent Evidence
+Franklin
 
-- Franklin
-- Dishoom
-- Haidilao
+Dishoom
 
-## Current Mechanisms
-
-### Franklin
-
-collective anticipation.
-
-### Dishoom
-
-social hospitality.
-
-### Haidilao
-
-serviced waiting.
-
-## Proposed Definition
-
-> When waiting forms a meaningful or unavoidable part of participation, hospitality can begin before primary service by intentionally shaping the guest's waiting state.
-
-## Recommendation
-
-Strong Candidate Watch.
-
-Do not promote yet.
-
-Need:
-
-final story reconciliation
+Haidilao
 
 and:
 
-governance deduplication.
+ICHIRAN
+
+all add:
+
+different forms
+
+of:
+
+walk-in evidence.
+
+This now represents:
+
+meaningful independent support.
+
+Walk-in should not be:
+
+modeled as:
+
+reservation failure.
+
+It may be:
+
+the intended:
+
+primary route.
 
 ---
 
-# New Research Direction — Experiential Human Service
+# Pressure Test — Walk-In As First-Class Participation
 
-## Strong Evidence
+## Current Status
 
-- Haidilao
+Candidate / High
 
-Possible support:
+## ICHIRAN Result
 
-- Talisman
-- FYN
-- Alinea
-- Dishoom
+Strong support.
+
+## Cross-Case Diversity
+
+### Franklin
+
+Queue-led product demand.
+
+### Dishoom
+
+Mixed social access.
+
+### Haidilao
+
+Reservation / walk-in flexibility.
+
+### ICHIRAN
+
+Structured individual walk-in participation.
+
+## Governance Recommendation
+
+Retain:
+
+Candidate / High.
+
+No maturity change.
+
+The pattern is:
+
+well-supported
 
 but:
 
-operational evidence varies.
+not automatically:
 
-## Proposed Definition
-
-> Human interaction may be part of the hospitality product itself rather than only a solution for exceptions or complexity.
-
-## Recommendation
-
-Observed Research Direction.
-
-Potentially important.
-
-Do not promote until:
-
-stronger independent operational evidence exists.
+Validated.
 
 ---
 
-# New Research Direction — Meaningful Participation Complexity
+# Cross-Restaurant Finding 4 — Commitment Level Changes Participation Design
 
-## Strongest Evidence
+The research contains:
 
-- Haidilao
+very different commitment levels.
 
-Potential comparison:
+---
+
+## High Commitment
+
+Examples:
 
 - Alinea
 - FYN
 - NARISAWA
 
-through different mechanisms.
+Participation may require:
 
-## Proposed Definition
+- more expectation clarity
+- stronger fit
+- greater certainty
+- reservation
+- advance planning
+- controlled commitment
 
-> Some guest complexity should be preserved when the actions themselves create agency, ritual, anticipation, social connection, or product value.
+---
 
-## Recommendation
+## Lower Commitment
 
-Likely:
+Examples:
 
-architecture refinement
+- Franklin
+- Bistro Lolo
+- ICHIRAN
+- parts of Dishoom
 
-rather than:
+Participation may support:
 
-standalone pattern.
+- spontaneity
+- walk-in
+- queue tolerance
+- lower advance certainty
+- faster decision cycles
+
+---
+
+# Architecture Variable
+
+### Commitment Level
+
+Low
+
+↔
+
+High
+
+Commitment should influence:
+
+### Desired Certainty
+
+not:
+
+the other way around.
+
+---
+
+# Cross-Restaurant Finding 5 — Desired Certainty Should Be Appropriate
+
+The goal should not be:
+
+maximum certainty.
+
+Alinea
+
+may require:
+
+high certainty
+
+before:
+
+commitment.
+
+ICHIRAN
+
+may allow:
+
+more:
+
+arrival uncertainty
+
+because:
+
+the visit appears:
+
+lower commitment
+
+and:
+
+walk-in oriented.
+
+Therefore:
+
+the stronger model is:
+
+Commitment Level
+
+↓
+
+Required Certainty
+
+↓
+
+Required Information
+
+↓
+
+Participation
+
+---
+
+# Pressure Test — Commitment Without Pressure
+
+## Current Status
+
+Emerging
+
+## ICHIRAN Result
+
+Strong contextual support.
+
+## Contribution
+
+Commitment should fit:
+
+the experience.
+
+Do not:
+
+force:
+
+reservation
+
+account creation
+
+deposit
+
+or:
+
+advance certainty
+
+where:
+
+the hospitality model
+
+does not require:
+
+them.
+
+## Governance Recommendation
+
+Retain:
+
+Emerging.
+
+No maturity change.
+
+---
+
+# Cross-Restaurant Finding 6 — Waiting Is A Real Participation State
+
+Franklin
+
+Dishoom
+
+Haidilao
+
+and:
+
+ICHIRAN
+
+all demonstrate:
+
+waiting
+
+as:
+
+a meaningful operational state.
+
+But:
+
+the evidence also shows:
+
+that:
+
+waiting is:
+
+not one thing.
+
+---
+
+# Proposed Waiting Taxonomy
+
+## Access Waiting
+
+Waiting to:
+
+enter.
+
+---
+
+## Resource Waiting
+
+Waiting for:
+
+a table
+
+seat
+
+or:
+
+space.
+
+---
+
+## Product Waiting
+
+Waiting for:
+
+food
+
+or:
+
+service output.
+
+---
+
+## Service Waiting
+
+Waiting for:
+
+assistance.
+
+---
+
+## Exception Waiting
+
+Waiting because:
+
+something:
+
+unexpected
+
+requires resolution.
+
+---
+
+# Governance Position
+
+Waiting taxonomy:
+
+Participation Architecture.
+
+Not:
+
+pattern.
+
+---
+
+# Cross-Restaurant Finding 7 — Waiting Is Not Automatically Hospitality
+
+This is:
+
+one of the strongest post-ICHIRAN corrections.
+
+Franklin
+
+and:
+
+other cases
+
+may make:
+
+waiting
+
+highly visible.
+
+Haidilao creates:
+
+research pressure
+
+around:
+
+hospitality during:
+
+waiting.
+
+ICHIRAN provides:
+
+important non-support.
+
+Its Shibuya page establishes:
+
+congestion.
+
+That does not establish:
+
+designed guest value
+
+during:
+
+the wait.
+
+Therefore:
+
+> **Waiting exists does not mean Hospitality During Waiting exists.**
+
+---
+
+# Pressure Test — Hospitality During Waiting
+
+## Current Status
+
+Strong Candidate Watch
+
+## Post-ICHIRAN Result
+
+Boundary pressure increases.
+
+## Required Future Definition
+
+A future formal pattern should require:
+
+the restaurant to intentionally create:
+
+guest value
+
+during:
+
+the waiting state.
+
+Possible forms may include:
+
+- comfort
+- entertainment
+- food / drink
+- communication
+- reassurance
+- service
+- useful participation
+
+Queue existence alone:
+
+is insufficient.
+
+## Governance Recommendation
+
+Do not promote yet.
+
+More independent evidence required.
+
+---
+
+# Cross-Restaurant Finding 8 — Queue Management And Waiting Hospitality Are Distinct
+
+The research should distinguish:
+
+### Queue Management
+
+Organises:
+
+waiting.
+
+Examples:
+
+- estimated sequence
+- line structure
+- congestion warning
+- seat-status visibility
+
+from:
+
+### Hospitality During Waiting
+
+Creates:
+
+meaningful guest value
+
+during:
+
+the wait.
+
+The first may be:
+
+utility.
+
+The second may be:
+
+hospitality.
+
+Both can:
+
+matter.
+
+They are not:
+
+the same.
+
+---
+
+# Cross-Restaurant Finding 9 — Complexity Should Be Classified
+
+Haidilao introduced:
+
+a major correction:
+
+Complexity
+
+≠
+
+Friction.
+
+ICHIRAN strengthens:
+
+that correction.
+
+The current research supports:
+
+at least:
+
+four complexity types.
+
+---
+
+## Administrative Complexity
+
+Work required to:
+
+access
+
+book
+
+correct
+
+or:
+
+navigate:
+
+the experience.
+
+Usually:
+
+reduce.
+
+---
+
+## Social Complexity
+
+Conversation
+
+coordination
+
+or:
+
+interpersonal negotiation
+
+required to:
+
+participate.
+
+May be:
+
+valuable
+
+or:
+
+unnecessary
+
+depending on:
+
+the hospitality model.
+
+---
+
+## Product Complexity
+
+Meaningful depth:
+
+inside:
+
+the food
+
+drink
+
+or:
+
+core offering.
+
+May be:
+
+valuable.
+
+---
+
+## Participatory Complexity
+
+Guest actions
+
+that:
+
+materially create:
+
+the experience.
+
+May be:
+
+valuable.
+
+---
+
+# Cross-Restaurant Finding 10 — Friction Depends On Value
+
+A step should not be:
+
+removed
+
+simply because:
+
+it is:
+
+an extra step.
+
+The relevant question is:
+
+> **Does this step create meaningful guest value or merely administrative burden?**
+
+This reinforces:
+
+the post-Haidilao rule:
+
+> **KHDS should remove friction, not participation.**
+
+ICHIRAN strengthens:
+
+this substantially.
+
+Its customization adds:
+
+steps.
+
+But:
+
+those steps
+
+may be:
+
+the guest's meaningful agency.
+
+---
+
+# Pressure Test — Escalating Participation Complexity
+
+## Current Status
+
+Emerging
+
+## ICHIRAN Result
+
+Very strong support.
+
+## Definition Refinement
+
+Participation complexity should be:
+
+preserved
+
+when:
+
+it creates:
+
+agency
+
+meaning
+
+or:
+
+product value.
+
+Administrative complexity should be:
+
+reduced
+
+where:
+
+possible.
+
+## Governance Recommendation
+
+Retain:
+
+Emerging.
+
+No maturity change.
+
+---
+
+# Cross-Restaurant Finding 11 — Structured Self-Service Can Be Deep
+
+ICHIRAN significantly expands:
+
+the known range
+
+of:
+
+structured self-service.
+
+Structured systems may support:
+
+- seat guidance
+- ordering
+- customization
+- service requests
+- refill
+- payment or completion
+
+depending on:
+
+the model.
+
+This is:
+
+far deeper
+
+than:
+
+booking automation.
+
+---
+
+# Pressure Test — Human Assistance Where Structured Self-Service Is Insufficient
+
+## Current Status
+
+Emerging
+
+## ICHIRAN Result
+
+Very strong support.
+
+## Contribution
+
+ICHIRAN expands:
+
+the structured side:
+
+of:
+
+the architecture.
+
+The pattern becomes:
+
+less about:
+
+automation versus human.
+
+It becomes:
+
+about:
+
+predictability.
+
+---
+
+# Proposed Interaction Model
+
+Predictable Need
+
+↓
+
+Structured Route
+
+↓
+
+Successful Participation
+
+Uncertain / Exceptional Need
+
+↓
+
+Human Assistance
+
+This is:
+
+the strongest current interpretation.
+
+## Governance Recommendation
+
+Retain:
+
+Emerging.
+
+No maturity change.
+
+---
+
+# Cross-Restaurant Finding 12 — Human Assistance And Human Service Are Different
+
+Haidilao made:
+
+this distinction:
+
+necessary.
+
+ICHIRAN makes:
+
+it:
+
+clearer.
+
+---
+
+## Human Assistance
+
+Human involvement required because:
+
+the structured system
+
+cannot:
+
+resolve:
+
+the guest's need.
+
+---
+
+## Human Service
+
+Human interaction itself
+
+creates:
+
+hospitality value.
+
+---
+
+# Comparison
+
+### Haidilao
+
+Both may be:
+
+important.
+
+### ICHIRAN
+
+Assistance remains:
+
+available.
+
+But:
+
+visible human service
+
+is:
+
+intentionally reduced.
+
+Therefore:
+
+the concepts must remain:
+
+separate.
+
+---
+
+# Cross-Restaurant Finding 13 — Service Presence And Service Availability Are Separate
+
+The current evidence now strongly supports:
+
+this distinction.
+
+---
+
+## Service Presence
+
+How much:
+
+human service
+
+is:
+
+visible
+
+continuous
+
+or:
+
+socially active.
+
+---
+
+## Service Availability
+
+Whether:
+
+human help
+
+can:
+
+be accessed
+
+when needed.
+
+---
+
+# Haidilao
+
+Potential state:
+
+High Presence
+
++
+
+High Availability.
+
+---
+
+# ICHIRAN
+
+Potential state:
+
+Low Presence
+
++
+
+High Availability.
+
+---
+
+# Governance Position
+
+Service Presence
+
+and:
+
+Service Availability
+
+should become:
+
+permanent participation variables.
+
+Not:
+
+formal patterns.
+
+---
+
+# Cross-Restaurant Finding 14 — Human Interaction Is Contextual
+
+Haidilao creates:
+
+strong support
+
+for:
+
+human interaction
+
+as:
+
+hospitality value.
+
+ICHIRAN creates:
+
+direct contradiction.
+
+Therefore:
+
+human interaction should not be:
+
+maximized.
+
+It should be:
+
+matched
+
+to:
+
+the intended experience.
+
+---
+
+# Pressure Test — Experiential Human Service
+
+## Current Status
+
+Below Candidate
+
+## Post-ICHIRAN Result
+
+Strong contradiction.
+
+## Proposed Future Definition
+
+> **Human interaction becomes experiential service when the interaction itself materially contributes to the intended hospitality experience.**
+
+This keeps:
+
+the concept:
+
+useful
+
+and:
+
+falsifiable.
+
+## Governance Recommendation
 
 Hold below Candidate.
 
 ---
 
-# Research Tensions
+# Cross-Restaurant Finding 15 — Participation Orientation Must Be Explicit
 
-## Automation Versus Hospitality
+The current research now contains:
 
-When does automation:
+clear:
 
-remove friction
-
-and when does it remove:
-
-valuable human service?
-
-## Certainty Versus Discovery
-
-How much should:
-
-the guest know
-
-before:
-
-participating?
-
-## Walk-In Versus Reservation
-
-Which model best fits:
-
-the hospitality experience?
-
-## Waiting Versus Immediate Access
-
-When is waiting:
-
-failure
-
-constraint
-
-or:
-
-experience?
-
-## Structure Versus Agency
-
-How much should:
-
-the system prescribe?
-
-## Standardisation Versus Personalisation
-
-Can:
-
-structured operations
-
-enable:
-
-more personal service?
-
-These tensions should remain:
-
-open.
-
----
-
-# Governance Recommendation From Reservation Comparison
-
-Do not finalize:
-
-pattern changes
-
-until:
-
-Story reconciliation.
-
-Preliminary recommendations:
-
-## Participation Throughout the Journey
-
-Retain:
-
-Emerging.
-
-Definition refinement:
-
-major.
-
-Potential confidence increase.
-
----
-
-## Multi-Intent Hospitality
-
-Retain:
-
-Emerging.
-
-Potential confidence increase.
-
----
-
-## Commitment Without Pressure
-
-Retain:
-
-Emerging.
-
-Clarify:
-
-real constraint versus:
-
-artificial urgency.
-
----
-
-## Escalating Participation Complexity
-
-Retain:
-
-Emerging.
-
-Major definition refinement:
-
-complexity ≠ friction.
-
----
-
-## Human Assistance Where Structured Self-Service Is Insufficient
-
-Retain:
-
-Emerging.
-
-Clarify:
-
-functional assistance.
-
-Track:
-
-experiential human service
-
-separately.
-
----
-
-## The Guest as Participant
-
-Retain:
-
-Emerging.
-
-Potential confidence increase.
-
-Participation-depth framework:
-
-worth preserving.
-
----
-
-## Walk-In as First-Class Participation
-
-Retain:
-
-Candidate.
-
-Potential support from:
-
-Haidilao.
-
-Do not promote yet.
-
----
-
-## Own the Guest Relationship
-
-Remain:
-
-Partially Supported.
-
-No change.
-
----
-
-# Haidilao Contribution
-
-Haidilao's largest contribution to:
-
-participation research
-
-is:
-
-expanding the unit of analysis.
-
-Reservation asks:
-
-> How does the guest book?
-
-Participation asks:
-
-> **How does the guest enter, experience, influence, complete, and continue the hospitality relationship?**
-
-That second question now appears:
-
-far more transferable.
-
-Haidilao also forces:
-
-two critical distinctions:
-
-> **Friction is not the same thing as participation.**
+social
 
 and:
 
-> **Human assistance is not the same thing as human service.**
+individual:
 
-Both should materially improve:
-
-KHDS participation architecture.
+participation models.
 
 ---
 
-# Research Status
+## Social Participation
 
-Independent Restaurants Compared:
+The guest participates partly through:
 
-11
+interaction with:
 
-Latest Restaurant:
+others.
 
-Haidilao Toronto Downtown
+Strong examples:
 
-Haidilao Reservation / Participation Reconciliation:
+- Haidilao
+- Dishoom
+- Bistro Lolo
 
-Complete
+---
 
-Governance Changes:
+## Individual Participation
 
-Pending Full Five-Dimension Reconciliation
+The guest participates primarily through:
 
-Pattern Promotions:
+self-directed:
 
-None
+actions
 
-Pattern Demotions:
+choices
 
-None
+or:
 
-Next Comparison:
+system use.
 
-Story
+Strongest example:
+
+ICHIRAN.
+
+---
+
+## Mixed Participation
+
+Both matter.
+
+Potential examples:
+
+Franklin
+
+Haidilao
+
+depending on:
+
+state.
+
+---
+
+# Architecture Variable
+
+### Participation Orientation
+
+Social
+
+Individual
+
+Mixed
+
+This should become:
+
+permanent.
+
+---
+
+# Pressure Test — The Guest As Participant
+
+## Current Status
+
+Emerging
+
+## ICHIRAN Result
+
+Very strong support.
+
+## Contribution
+
+Participation depth
+
+and:
+
+social intensity
+
+must remain:
+
+separate variables.
+
+## Governance Recommendation
+
+Retain:
+
+Emerging.
+
+No maturity change.
+
+---
+
+# Cross-Restaurant Finding 16 — Guest Agency Does Not Require Low Structure
+
+ICHIRAN is:
+
+highly structured.
+
+Yet:
+
+the guest retains:
+
+meaningful control.
+
+This creates:
+
+an important correction:
+
+> **Structure and agency are not opposites.**
+
+Possible model:
+
+Strong Structure
+
++
+
+Meaningful Choice
+
+↓
+
+Guest Agency
+
+This should remain:
+
+participation architecture.
+
+---
+
+# Cross-Restaurant Finding 17 — Personalization Has Multiple Mechanisms
+
+The research now supports:
+
+at least:
+
+two distinct forms.
+
+---
+
+## Human Personalization
+
+Staff:
+
+remember
+
+adapt
+
+recommend
+
+or:
+
+respond.
+
+Strongest current pressure:
+
+Haidilao.
+
+---
+
+## System Personalization
+
+The guest:
+
+configures:
+
+preferences
+
+inside:
+
+a structured system.
+
+Strongest current pressure:
+
+ICHIRAN.
+
+---
+
+# Interpretation
+
+Personalization should not be:
+
+defined by:
+
+whether:
+
+a person
+
+delivers it.
+
+The deeper variable is:
+
+### Personalization Mechanism
+
+Human
+
+System
+
+Mixed.
+
+Architecture only.
+
+---
+
+# Cross-Restaurant Finding 18 — Standardization And Personalization Can Coexist
+
+ICHIRAN demonstrates:
+
+strong pressure
+
+against:
+
+a false binary.
+
+A standardized system
+
+can:
+
+enable:
+
+individual output.
+
+Possible model:
+
+Standardized Participation Structure
+
++
+
+Personalized Configuration
+
+↓
+
+Predictability
+
++
+
+Agency
+
+Operational performance:
+
+cannot be inferred.
+
+But:
+
+the structural coexistence:
+
+is observable.
+
+---
+
+# Cross-Restaurant Finding 19 — Choice Breadth And Choice Depth Are Separate
+
+ICHIRAN is:
+
+especially useful here.
+
+### Choice Breadth
+
+How many:
+
+different routes
+
+products
+
+or:
+
+options
+
+exist.
+
+### Choice Depth
+
+How much:
+
+a selected route
+
+can be:
+
+configured.
+
+ICHIRAN appears:
+
+Low Breadth
+
++
+
+High Depth.
+
+This is:
+
+a useful participation variable.
+
+---
+
+# Cross-Restaurant Finding 20 — Low Interaction Can Still Mean High Design Attention
+
+ICHIRAN creates:
+
+a useful distinction:
+
+### Interaction Touch
+
+How much:
+
+direct human interaction
+
+occurs.
+
+### Design Touch
+
+How much:
+
+intentional support
+
+is:
+
+embedded:
+
+inside:
+
+the system.
+
+Low Interaction Touch
+
+does not imply:
+
+Low Design Touch.
+
+This may become:
+
+important
+
+for:
+
+future automation
+
+and:
+
+AI-assisted hospitality research.
+
+---
+
+# Cross-Restaurant Finding 21 — Reduced Human Explanation Increases System Obligation
+
+When:
+
+a guest is expected to:
+
+ask fewer questions
+
+the system must:
+
+do more:
+
+explanatory work.
+
+This produces:
+
+an important architecture direction.
+
+---
+
+# System Explanation Obligation
+
+## Definition
+
+> **As routine human explanation decreases, the hospitality system carries greater responsibility for making successful participation understandable.**
+
+## Strongest Current Evidence
+
+ICHIRAN.
+
+## Supporting Pressure
+
+- Alinea
+- Franklin
+- Haidilao
+
+## Governance Position
+
+Architecture.
+
+Not:
+
+formal pattern.
+
+---
+
+# Cross-Restaurant Finding 22 — Participation Clarity Is A Hospitality Requirement In Unfamiliar Systems
+
+Some restaurants rely on:
+
+familiar behaviours.
+
+Others require:
+
+unusual:
+
+guest actions.
+
+Examples:
+
+- tasting-menu commitment
+- queue-led participation
+- hot-pot cooking
+- booth dining
+- structured customization
+
+The less familiar:
+
+the participation model
+
+the greater:
+
+the need for:
+
+clear role explanation.
+
+This links:
+
+reservation
+
+arrival
+
+and:
+
+story.
+
+---
+
+# Cross-Restaurant Finding 23 — Multi-Intent Hospitality Does Not Require Participation Complexity
+
+A restaurant may support:
+
+many guest intents
+
+while:
+
+keeping:
+
+the core route:
+
+simple.
+
+Possible intents include:
+
+- reserve
+- walk in
+- inspect menu
+- understand location
+- learn system
+- inquire
+- return
+- join membership
+
+The architecture should support:
+
+intent
+
+without:
+
+forcing:
+
+all guests through:
+
+the same path.
+
+---
+
+# Pressure Test — Multi-Intent Hospitality
+
+## Current Status
+
+Emerging
+
+## ICHIRAN Result
+
+Support.
+
+## Governance Recommendation
+
+Retain:
+
+Emerging.
+
+No maturity change.
+
+---
+
+# Cross-Restaurant Finding 24 — Relationship Continuation Must Remain Evidence-Bounded
+
+Some restaurants expose:
+
+membership
+
+loyalty
+
+or:
+
+return pathways.
+
+But:
+
+the website cannot:
+
+establish:
+
+customer-data ownership
+
+CRM
+
+or:
+
+relationship economics.
+
+---
+
+# Pressure Test — Own The Guest Relationship
+
+## Current Status
+
+Partially Supported / Medium
+
+## ICHIRAN Result
+
+Insufficient evidence.
+
+## Governance Recommendation
+
+No change.
+
+Do not infer:
+
+relationship ownership
+
+from:
+
+direct participation
+
+or:
+
+membership visibility.
+
+---
+
+# Cross-Restaurant Finding 25 — Participation Architecture Should Include Completion
+
+Reservation-focused models often stop:
+
+at:
+
+arrival.
+
+The current research increasingly shows:
+
+the journey continues through:
+
+- dining
+- service
+- refill
+- payment
+- leaving
+- return
+- membership
+
+ICHIRAN reinforces:
+
+the importance of:
+
+completion
+
+and:
+
+continuation states.
+
+---
+
+# Proposed Post-ICHIRAN Participation Architecture
+
+```text
+Guest Intent
+↓
+Experience Familiarity
++
+Participation Familiarity
+↓
+Desired Outcome
+↓
+Relevant Location / Resource
+↓
+Commitment Level
+↓
+Required Certainty
+↓
+Participation Route
+↓
+Reservation
+or
+Walk-In
+or
+Queue
+or
+Inquiry
+or
+Other
+↓
+Arrival
+↓
+Possible Waiting State
+↓
+Entry / Seating / Resource Access
+↓
+Participation Orientation
+Social
+Individual
+Mixed
+↓
+Structured Self-Service
+where predictable
+↓
+Human Assistance
+where structure is insufficient
+↓
+Experiential Human Service
+where interaction itself creates value
+↓
+Meaningful Guest Participation
+↓
+Product / Hospitality Experience
+↓
+Completion
+↓
+Relationship Continuation
+where relevant
