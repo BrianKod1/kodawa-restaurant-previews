@@ -1,95 +1,118 @@
-# KHDS Cross-Restaurant Comparison — Story
+# KHDS Story Comparison
 
 ## Status
 
-Post–Din Tai Fung Cross-Restaurant Reconciliation
+Post–Noma Cross-Restaurant Comparison
 
 Independent Restaurants Compared:
 
-13
+14
 
-Latest Restaurant:
+Current Comparison Stage:
 
-Din Tai Fung Covent Garden
+Story Complete
 
-Governance Changes:
-
-Pending Final Governance Reconciliation
-
-Pattern Promotions:
+Governance Impact:
 
 None in this file
 
-Pattern Demotions:
+Formal Promotions:
 
-None in this file
+0
+
+Formal Demotions:
+
+0
+
+Confidence Changes:
+
+0
 
 ---
 
 # Purpose
 
-Compare how:
-
-independent hospitality experiences
-
-create:
-
-meaning
-
-identity
-
-confidence
-
-and:
-
-guest understanding
-
-through:
-
-different narrative carriers.
-
-This comparison asks:
-
-> **What actually carries the story of a hospitality experience?**
-
-The research no longer supports:
+Compare:
 
 story
 
-as:
+narrative
 
-a page type
+heritage
 
-or:
+biography
 
-a chronological brand history.
+place
 
-Story may be carried through:
+product
 
-- place
-- worldview
-- heritage
-- biography
-- product
-- craft
-- cultural memory
-- ecology
-- service
-- ritual
-- participation
-- operating model
-- constraint
-- architecture
-- location
-- evidence
+operating model
 
-The stronger KHDS question is:
+institution
 
-> **What best explains why this hospitality experience exists, what it means, and why its structure is distinct?**
+research
+
+time
+
+and:
+
+organising logic
+
+across:
+
+fourteen:
+
+independent hospitality cases.
+
+The objective is not:
+
+to identify:
+
+one:
+
+ideal:
+
+brand story.
+
+It is to understand:
+
+what:
+
+actually carries:
+
+hospitality meaning
+
+and:
+
+how:
+
+that meaning
+
+remains:
+
+coherent
+
+across:
+
+different:
+
+operating models.
+
+The central comparison question remains:
+
+> **What best explains what this hospitality experience means?**
+
+Post–Noma:
+
+a second:
+
+question becomes:
+
+> **What remains narratively stable when product, leadership, operating rhythm, and guest-facing expression are allowed to change?**
 
 ---
 
-# Current Independent Research Set
+# Restaurants Compared
 
 1. Ankole
 2. Cultiva
@@ -104,10 +127,111 @@ The stronger KHDS question is:
 11. Haidilao Toronto Downtown
 12. ICHIRAN Shibuya
 13. Din Tai Fung Covent Garden
+14. Noma Copenhagen 2026
 
 ---
 
-# Current Story Models
+# Current Governance State Entering Comparison
+
+Emerging:
+
+23
+
+Candidate:
+
+6
+
+Partially Supported:
+
+1
+
+Validated:
+
+0
+
+Research-Derived KHDS Principles:
+
+0
+
+Implementation Pattern Pending Formal Validation:
+
+1
+
+Opportunity Themes:
+
+36
+
+Track B Implementation Learnings:
+
+17
+
+Highest Research-Derived Maturity:
+
+Emerging
+
+No:
+
+formal governance changes
+
+occur:
+
+inside:
+
+this comparison file.
+
+---
+
+# Core Story Position
+
+The strongest current conclusion remains:
+
+> **Story is not a page. Story is the organising system through which hospitality meaning becomes understandable.**
+
+Story may be carried through:
+
+- place
+- worldview
+- heritage
+- biography
+- product
+- craft
+- service
+- ritual
+- participation
+- operating model
+- ecology
+- constraint
+- research
+- institution
+- time
+
+Therefore:
+
+```text
+Story
+≠
+About Page
+```
+
+and:
+
+```text
+Story
+≠
+Biography Only
+```
+
+and:
+
+```text
+Story
+≠
+Brand Copy Alone
+```
+
+---
+
+# Cross-Restaurant Story Types
 
 ---
 
@@ -117,29 +241,38 @@ The stronger KHDS question is:
 
 Place-Led Meaning
 
-## Primary Narrative Carriers
+## Strongest Narrative Carriers
 
-- environment
-- refinement
-- architecture
 - place
-- visual atmosphere
+- hospitality identity
+- food
+- refinement
 
-## Main Contribution
+## Primary Story Question
 
-Place itself can:
+What:
 
-carry:
+does:
 
-substantial:
+this:
 
-hospitality meaning.
+restaurant
 
-Story does not always require:
+mean:
 
-extensive:
+in:
 
-editorial explanation.
+relation:
+
+to:
+
+place
+
+and:
+
+its:
+
+hospitality identity?
 
 ---
 
@@ -149,35 +282,27 @@ editorial explanation.
 
 Worldview-Led Narrative
 
-## Primary Narrative Carriers
+## Strongest Narrative Carriers
 
-- cultivation
-- sustainability
-- sourcing
-- community
-- food systems
-- nature
 - philosophy
+- sourcing
+- food
+- worldview
+- craft
 
-## Main Contribution
+## Primary Story Question
 
-Worldview can:
+Why:
 
-organise:
+does:
 
-the restaurant story
+the:
 
-when:
+restaurant
 
-it materially explains:
+operate:
 
-what:
-
-the restaurant does
-
-and:
-
-why.
+this way?
 
 ---
 
@@ -187,34 +312,29 @@ why.
 
 Heritage + Place + Growth
 
-## Primary Narrative Carriers
+## Strongest Narrative Carriers
 
-- origin
-- old-house history
-- Karen
+- heritage
+- place
 - continuity
-- reputation
-- physical setting
+- growth
+- history
 
-## Main Contribution
+## Primary Story Question
 
-History can:
+How:
 
-build:
+does:
 
-confidence
+history
 
-when:
+help:
 
-it demonstrates:
+explain:
 
-continuity
+present:
 
-and:
-
-an established:
-
-relationship with place.
+hospitality?
 
 ---
 
@@ -224,30 +344,34 @@ relationship with place.
 
 Concept + Experience World
 
-## Primary Narrative Carriers
+## Strongest Narrative Carriers
 
-- seafood
-- sea / voyage language
-- luxury
-- connection
-- celebration
-- escape
+- concept
+- atmosphere
+- destination promise
+- experience world
 
-## Main Contribution
+## Primary Story Question
 
-A central concept can:
+What:
 
-organise:
+kind:
 
-language
+of:
 
-atmosphere
+world
 
-product
+is:
 
-and:
+the:
 
-guest participation.
+guest
+
+being:
+
+invited:
+
+into?
 
 ---
 
@@ -257,36 +381,32 @@ guest participation.
 
 People + Place + Reinterpretation
 
-## Primary Narrative Carriers
+## Strongest Narrative Carriers
 
-- neighbourhood life
 - people
-- architecture
-- day-to-night rhythm
-- social use
-- reinterpretation of place
+- neighbourhood
+- cultural reinterpretation
+- belonging
 
-## Main Contribution
+## Primary Story Question
 
-Story can:
+How:
 
-feel:
+does:
 
-lived
+a:
 
-social
+restaurant
 
-and:
+reinterpret:
 
-informal
+identity
 
-rather than:
+without:
 
-historical
+losing:
 
-or:
-
-mythic.
+approachability?
 
 ---
 
@@ -296,33 +416,31 @@ mythic.
 
 Ecology + Culinary Philosophy + Authorship
 
-## Primary Narrative Carriers
+## Strongest Narrative Carriers
 
-- chef authorship
-- culinary philosophy
+- chef
 - ecology
-- cultural reference
-- structured dining
+- culinary philosophy
+- craft
+- authority
 
-## Main Contribution
+## Primary Story Question
 
-Biography
+When:
 
-and:
+does:
 
-authorship
+biography
 
-become:
+materially:
 
-important
+help:
 
-when:
+explain:
 
-the people:
+the:
 
-materially explain:
-
-the experience.
+hospitality experience?
 
 ---
 
@@ -332,37 +450,43 @@ the experience.
 
 Narrative World + Cultural Memory
 
-## Primary Narrative Carriers
+## Strongest Narrative Carriers
 
-- historical references
-- language
+- narrative world
 - place
 - cultural memory
-- food
-- social hospitality
-- interpretive world-building
+- social use
+- architecture
 
-## Main Contribution
+## Primary Story Question
 
-A restaurant can:
+How:
 
-construct:
+can:
 
-a rich narrative world
+a:
 
-while:
+restaurant
 
-preserving:
+build:
 
-functional clarity.
+a:
 
-Narrative language
+coherent:
 
-does not need:
+world
 
-to make:
+without:
 
-the interface obscure.
+turning:
+
+story
+
+into:
+
+surface:
+
+theme?
 
 ---
 
@@ -372,36 +496,35 @@ the interface obscure.
 
 People + Craft + Product Authority
 
-## Primary Narrative Carriers
+## Strongest Narrative Carriers
 
-- founder
-- barbecue craft
+- people
+- craft
 - product
-- growth
-- queue culture
-- operational reality
+- process
+- authority
 
-## Main Contribution
+## Primary Story Question
 
-Biography can:
+Can:
 
-matter:
-
-when:
-
-the person:
-
-materially explains:
-
-how:
-
-the product
+craft
 
 and:
 
-hospitality model
+product
 
-came to exist.
+carry:
+
+story
+
+without:
+
+heavy:
+
+narrative:
+
+framing?
 
 ---
 
@@ -411,34 +534,38 @@ came to exist.
 
 Authorship + Transformation + Experience Architecture
 
-## Primary Narrative Carriers
+## Strongest Narrative Carriers
 
-- chef authorship
-- innovation
+- authorship
 - transformation
-- controlled reveal
-- experience structure
-- high commitment
+- controlled experience
+- selective reveal
 
-## Main Contribution
+## Primary Story Question
 
-The designed:
+How:
 
-hospitality experience
+does:
 
-itself
+the:
 
-can:
+restaurant
 
-carry:
+explain:
 
-story.
+an:
 
-Narrative does not require:
+experience
 
-a conventional:
+whose:
 
-origin sequence.
+meaning
+
+partly depends:
+
+on:
+
+discovery?
 
 ---
 
@@ -448,30 +575,29 @@ origin sequence.
 
 Ecology + Philosophy + Authorship
 
-## Primary Narrative Carriers
+## Strongest Narrative Carriers
 
-- Japanese landscape
 - ecology
+- worldview
 - nature
-- seasonality
-- culinary philosophy
 - chef authorship
+- place
 
-## Main Contribution
+## Primary Story Question
 
-Philosophy becomes:
+How:
 
-narrative
+does:
 
-when:
+an:
 
-it materially explains:
+ecological:
 
-the product
+worldview
 
-and:
+become:
 
-the guest experience.
+hospitality meaning?
 
 ---
 
@@ -481,31 +607,35 @@ the guest experience.
 
 Service + Hospitality Model + Ritual + Participation
 
-## Primary Narrative Carriers
+## Strongest Narrative Carriers
 
-- customer-first service
-- personalization
-- hot pot
-- guest participation
-- staff behaviour
-- social interaction
-- operating structure
+- service
+- ritual
+- hospitality model
+- participation
+- human interaction
 
-## Main Contribution
+## Primary Story Question
 
-The hospitality model itself
+Can:
 
-can:
+the:
 
-carry:
+way:
 
-story.
+the:
 
-Story does not require:
+restaurant
 
-a heavily:
+serves:
 
-editorial storytelling interface.
+guests
+
+become:
+
+the:
+
+story?
 
 ---
 
@@ -515,52 +645,41 @@ editorial storytelling interface.
 
 Hospitality System + Product Focus + Constraint
 
-## Primary Narrative Carriers
+## Strongest Narrative Carriers
 
+- operating system
 - concentration
 - privacy
 - product focus
-- reduced interaction
-- structured participation
-- Flavor Concentration Booths
-- operating model
 - constraint
 
-## Main Contribution
+## Primary Story Question
 
-ICHIRAN demonstrated:
+Can:
 
-that:
+an:
 
-an operating system
+operating model
 
-can function as:
+carry:
 
-narrative.
+story
 
-It also showed:
+even:
 
-that:
+when:
 
-constraint
+social:
 
-product focus
+interaction
 
 and:
 
-functional explanation
+biography
 
-may carry:
+are:
 
-meaning.
-
-This provided:
-
-very strong support
-
-for:
-
-Story Through Hospitality Model.
+reduced?
 
 ---
 
@@ -570,131 +689,104 @@ Story Through Hospitality Model.
 
 Heritage + Product + Craft System Narrative
 
-## Primary Narrative Carriers
+## Strongest Narrative Carriers
 
-- founder history
-- business adaptation
 - Xiao Long Bao
-- craft
-- precision
-- repeatable standards
+- published craft standard
 - heritage
-- global continuity
-- Covent Garden expression
+- adaptation
+- location
+- operating model
 
-## Main Contribution
+## Primary Story Question
 
-Din Tai Fung shows:
+Can:
 
-that:
+a:
 
-standardisation
+highly:
 
-can become:
-
-part of:
-
-the story
-
-when:
-
-the standard itself:
-
-expresses:
+standardised:
 
 craft
 
-discipline
+system
 
-continuity
+carry:
 
-and:
+meaning
 
-brand meaning.
+without:
 
-It also strengthens:
+becoming:
 
-the distinction between:
-
-brand-level narrative
-
-and:
-
-location-level narrative.
+generic?
 
 ---
 
-# Cross-Restaurant Story Comparison
+# Noma Copenhagen 2026
+
+## Story Type
+
+Evolving Institutional Narrative
+
+## Strongest Narrative Carriers
+
+- institution
+- place
+- season
+- research
+- operating model
+- leadership transition
+- creative change
+
+## Primary Story Question
+
+What:
+
+remains:
+
+the:
+
+story
+
+when:
+
+product
+
+leadership
+
+and:
+
+operating rhythm
+
+are:
+
+all:
+
+allowed:
+
+to:
+
+change?
+
+---
+
+# Cross-Case Finding 1 — Story Has Multiple Legitimate Carriers
 
 Across:
 
-thirteen:
+fourteen:
 
-independent restaurants
+restaurants
 
-story is carried through:
+hospitality meaning
 
-many:
+can be:
 
-different mechanisms.
-
-These include:
-
-- place
-- worldview
-- heritage
-- biography
-- growth
-- concept
-- belonging
-- ecology
-- cultural memory
-- product
-- craft
-- service
-- ritual
-- participation
-- operating model
-- constraint
-- location expression
-
-This makes:
-
-one conclusion:
-
-increasingly strong.
-
-> **Story is not a content format. Story is the system of meaning that helps the guest understand what the hospitality experience is, why it exists, and what makes it distinct.**
-
-Story may be:
-
-written
-
-shown
-
-performed
-
-structured
-
-or:
-
-experienced.
-
----
-
-# Previous Story Architecture
-
-Post-ICHIRAN architecture:
+carried through:
 
 ```text
-Hospitality Meaning
-↓
-What Best Explains It?
-↓
-Primary Narrative Carrier
-+
-Supporting Narrative Carriers
-↓
 Place
 Worldview
 Heritage
@@ -702,670 +794,201 @@ Biography
 Product
 Craft
 Cultural Memory
-Ecology
 Service
 Ritual
 Participation
 Operating Model
-Constraint where relevant
-↓
-Organising Logic
-↓
-What Must Be Explained?
-+
-What Must Be Proven?
-+
-What Can Remain Experiential?
-↓
-Relevant Narrative
-+
-Relevant Evidence
-↓
-Guest Understanding
-↓
-Fit
-↓
-Participation
-↓
-Experienced Meaning
+Ecology
+Constraint
+Research
+Institution
+Time
 ```
 
-This architecture remains:
+No:
 
-strong.
+single:
 
-Din Tai Fung does not:
-
-replace:
-
-the model.
-
-It sharpens:
-
-three areas:
-
-1. Narrative Scale
-2. Narrative Anchor
-3. Standardisation as a potential narrative carrier
-
----
-
-# Finding 1 — Story Through Hospitality Model Receives Major Cross-Case Support
-
-## Current Status
-
-Candidate / Medium-High
-
-ICHIRAN provided:
-
-very strong support.
-
-Din Tai Fung provides:
-
-another:
-
-materially different:
-
-strong case.
-
-### Haidilao
-
-Hospitality model carries:
-
-meaning through:
-
-human-visible service
-
-social participation
-
-and:
-
-ritual.
-
-### ICHIRAN
-
-Hospitality model carries:
-
-meaning through:
-
-privacy
-
-concentration
-
-reduced interaction
-
-and:
-
-structured participation.
-
-### Din Tai Fung
-
-Hospitality model carries:
-
-meaning through:
-
-craft discipline
-
-repeatable standards
-
-structured participation
-
-and:
-
-operating consistency.
-
-These are:
-
-three:
-
-very different:
-
-operating models.
-
----
-
-# Cross-Case Interpretation
-
-The transferability question is no longer:
-
-whether:
-
-an operating model
-
-can:
-
-carry story.
-
-It clearly:
-
-can.
-
-The remaining governance question is:
-
-how broadly:
-
-the Candidate should be:
-
-defined
-
-and:
-
-whether:
-
-the current evidence
-
-is sufficient:
-
-for:
-
-any confidence
-
-or:
-
-maturity change.
-
----
-
-# Refined Definition — Story Through Hospitality Model
-
-> **A restaurant's operating model can function as a primary narrative carrier when the way it organizes service, participation, product, space, craft, or guest behaviour materially explains the meaning of the hospitality experience.**
-
-This definition survives:
-
-Haidilao
-
-ICHIRAN
-
-and:
-
-Din Tai Fung
-
-despite:
-
-their:
-
-contrasting:
-
-hospitality models.
-
----
-
-# Falsification Boundary
-
-Story Through Hospitality Model
-
-does not apply merely because:
-
-a restaurant:
-
-has:
-
-an operating model.
-
-Ask:
-
-> **If the guest understood how this restaurant operates, would they understand something materially important about what the hospitality experience means?**
-
-If:
-
-no
-
-then:
-
-the operating model
+carrier
 
 is:
 
-utility
+universal.
+
+Therefore:
+
+```text
+Strong Hospitality Story
+≠
+One Story Formula
+```
+
+---
+
+# Cross-Case Finding 2 — Narrative Weight Should Follow Explanatory Value
+
+This remains:
+
+one of:
+
+the:
+
+strongest:
+
+story:
+
+architecture rules.
+
+```text
+Narrative Weight
+∝
+Explanatory Value
+```
+
+The:
+
+carrier
+
+that:
+
+best explains:
+
+the:
+
+experience
+
+should receive:
+
+more:
+
+narrative:
+
+weight.
+
+Not:
+
+the:
+
+carrier
+
+with:
+
+the:
+
+most:
+
+history
+
+prestige
 
 or:
 
-operations
-
-not:
-
-story.
+content.
 
 ---
 
-# Governance Position
+# Cross-Case Finding 3 — Historically Important Does Not Mean Currently Most Explanatory
 
-Strong:
+Noma makes:
 
-confidence / maturity review pressure.
+this:
 
-Do not:
+especially:
 
-change governance
+important.
 
-inside:
+A:
 
-this file.
+restaurant:
 
-Final decision belongs to:
-
-canonical reconciliation.
-
----
-
-# Finding 2 — Story Through Hospitality Model and Narrative Coherence Remain Distinct
-
-## Narrative Coherence Through Organising Logic
-
-asks:
-
-> **Are the relevant parts of the experience connected through a coherent organising idea?**
-
-## Story Through Hospitality Model
-
-asks:
-
-> **Does the way the restaurant operates materially carry the story?**
-
-A restaurant may have:
-
-strong:
-
-narrative coherence
-
-without:
-
-its operating model
-
-being:
-
-the main story carrier.
-
-Likewise:
-
-an operating model
-
-may:
-
-carry:
-
-story
-
-through:
-
-functional:
-
-structure.
-
-## Correction
-
-```text
-Narrative Coherence
-≠
-Story Through Hospitality Model
-```
-
-Keep:
-
-separate.
-
----
-
-# Finding 3 — Story and Utility Can Occupy the Same Content
-
-ICHIRAN established:
-
-this strongly.
-
-Din Tai Fung:
-
-reinforces it.
-
-Examples include:
-
-- craft standards
-- participation guidance
-- operating explanation
-- product detail
-
-These may be:
-
-functional
-
-and:
-
-meaningful:
-
-simultaneously.
-
-## Correction
-
-```text
-Utility
-≠
-Narrative Absence
-```
-
-and:
-
-```text
-Narrative
-≠
-Editorial Prose
-```
-
----
-
-# Finding 4 — Story Before Features Requires Continued Definition Discipline
-
-## Current Status
-
-Emerging
-
-Across:
-
-the research set
-
-the original:
-
-literal interpretation
-
-is increasingly:
-
-too narrow.
-
-Story Before Features
-
-should not mean:
+may have:
 
 a:
 
-story section
+powerful:
 
-must appear:
+historical:
 
-before:
+story
 
-menus
+while:
 
-booking
+its:
 
-product
+current:
 
-or:
+operating model
 
-utility.
+has:
 
-Din Tai Fung
+materially:
 
-and:
-
-ICHIRAN
-
-especially show:
-
-that:
-
-meaning
-
-can be:
-
-embedded:
-
-inside:
-
-product
-
-craft
-
-system explanation
-
-and:
-
-functional information.
-
----
-
-# Refined Interpretation — Story Before Features
-
-> **The guest should encounter enough meaning to understand why the hospitality experience matters before the experience is reduced to disconnected features or functions.**
-
-This meaning may be carried through:
-
-- narrative
-- product
-- place
-- craft
-- worldview
-- service
-- system
-- evidence
+changed.
 
 ## Correction
 
 ```text
-Story Before Features
+Historically Important
 ≠
-Storytelling Before Functions
+Currently Most Explanatory
 ```
 
-and:
+Current:
 
-```text
-Story Before Features
-≠
-About Section Before Menu
-```
+narrative
 
----
+should:
 
-# Governance Recommendation
+match:
 
-Retain:
+current:
 
-Emerging.
-
-No rename:
-
-during:
-
-this comparison.
+hospitality reality.
 
 ---
 
-# Finding 5 — Product Can Be a Primary Narrative Carrier
+# Cross-Case Finding 4 — Narrative Freshness Is a Useful Variable
 
-Franklin
+Photography introduced:
 
-ICHIRAN
+Evidence Freshness.
 
-and:
+Reservation introduced:
 
-Din Tai Fung
+Policy Freshness.
 
-all:
+Noma adds:
 
-demonstrate:
-
-different forms of:
-
-product-led meaning.
-
-### Franklin
-
-Product
-
-+
-
-craft
-
-+
-
-founder
-
-+
-
-operational reality.
-
-### ICHIRAN
-
-Product focus
-
-+
-
-concentration
-
-+
-
-constraint.
-
-### Din Tai Fung
-
-Signature product
-
-+
-
-craft standard
-
-+
-
-heritage
-
-+
-
-repeatability.
-
-## Interpretation
-
-A signature product may:
-
-carry:
-
-significant:
-
-narrative weight
-
-when:
-
-it materially explains:
-
-the identity.
-
----
-
-# Research Direction — Product Focus as Narrative
-
-Current Treatment:
-
-Architecture Direction
-
-## Refined Working Definition
-
-> **A sufficiently distinctive product may function as a primary narrative anchor when its craft, history, meaning, or operating implications materially explain the hospitality brand.**
-
-## Governance Position
-
-Do not:
-
-promote:
-
-as a separate Candidate yet.
-
-It may be:
-
-a mechanism:
-
-inside:
-
-the broader:
-
-story architecture.
-
----
-
-# Finding 6 — Narrative Anchor Is a Useful Cross-Restaurant Variable
-
-Din Tai Fung introduces:
-
-Narrative Anchor
-
-as:
-
-a useful:
-
-architecture variable.
-
-Different restaurants:
-
-stabilize:
-
-meaning
-
-through:
-
-different anchors.
-
-Examples:
-
-### Cultiva
-
-Worldview.
-
-### Talisman
-
-Place + heritage.
-
-### Franklin
-
-Product + founder + craft.
-
-### NARISAWA
-
-Ecology + authorship.
-
-### Haidilao
-
-Service model.
-
-### ICHIRAN
-
-Operating model + product focus.
-
-### Din Tai Fung
-
-Xiao Long Bao + craft.
-
----
-
-# Architecture Variable — Narrative Anchor
+Narrative Freshness.
 
 ## Definition
 
-The element:
+How closely:
 
-or:
+the:
 
-small set of elements
+story
 
-that:
+matches:
 
-most consistently:
+the:
 
-stabilizes:
+current:
 
-hospitality meaning
-
-across:
-
-the guest experience.
-
-Possible anchors:
-
-- place
-- worldview
-- heritage
-- person
-- product
-- craft
-- service model
-- ritual
+- leadership
 - operating model
-- cultural memory
+- location
+- era
+- guest experience
+
+Possible states:
+
+- Current
+- Recent
+- Historical
+- Legacy
+- Superseded
+- Unknown
 
 ## Status
 
@@ -1377,2382 +1000,308 @@ formal pattern.
 
 ---
 
-# Finding 7 — Biography When It Explains the Experience Receives Very Strong Support
+# Cross-Case Finding 5 — Story Through Hospitality Model Receives Extremely Strong Cross-Case Support
 
 ## Current Status
 
-Candidate / High
+Emerging
 
-Din Tai Fung adds:
+Materially different:
 
-another:
+strong cases now include:
 
-strong:
+### Haidilao
 
-causal:
-
-biography case.
-
-Founder history:
-
-materially explains:
-
-how:
-
-the business
-
-became:
-
-a restaurant
-
-and:
-
-how:
-
-Xiao Long Bao
-
-became:
-
-central.
-
-This joins:
-
-strong:
-
-authorship / biography cases
-
-such as:
-
-Franklin
-
-FYN
-
-Alinea
-
-NARISAWA
-
-through:
-
-different:
-
-mechanisms.
-
----
-
-# Definition Refinement — Biography When It Explains the Experience
-
-> **Biography becomes hospitality-relevant when understanding the person materially explains the product, worldview, craft, operating model, cultural perspective, or experience the guest encounters.**
-
-## Boundary
-
-Biography should not be:
-
-included
-
-simply because:
-
-a founder
-
-or:
-
-chef exists.
-
-## Correction
-
-```text
-Person Exists
-≠
-Biography Is Relevant
-```
-
----
-
-# Governance Position
-
-Retain:
-
-Candidate / High.
-
-Strong cross-case support.
-
-Final maturity decision:
-
-defer to:
-
-canonical reconciliation.
-
----
-
-# Finding 8 — Heritage Builds Confidence Receives Stronger Definition Pressure
-
-## Current Status
-
-Candidate / Medium
-
-Talisman
-
-and:
-
-Din Tai Fung
-
-represent:
-
-different:
-
-heritage mechanisms.
-
-### Talisman
-
-Place continuity
+Human service
 
 +
 
-long-established:
-
-physical identity.
-
-### Din Tai Fung
-
-Brand continuity
+social participation
 
 +
 
-founder history
-
-+
-
-product practice
-
-+
-
-current standards.
-
-## Interpretation
-
-Heritage becomes:
-
-strongest
-
-when:
-
-the past
-
-remains:
-
-connected:
-
-to:
-
-the present.
-
----
-
-# Research Direction — Living Heritage
-
-## Working Definition
-
-> **Heritage gains explanatory and confidence value when historical identity remains materially connected to present-day product, place, craft, service, or practice.**
-
-## Relationship
-
-Likely:
-
-definition refinement
-
-or:
-
-mechanism
-
-inside:
-
-Heritage Builds Confidence.
-
-Do not create:
-
-a separate Candidate yet.
-
----
-
-# Correction
-
-```text
-Heritage
-≠
-Age Alone
-```
-
-and:
-
-```text
-History Mentioned
-≠
-Living Heritage
-```
-
----
-
-# Finding 9 — Brand Continuity and Place Continuity Are Different
-
-Din Tai Fung
-
-and:
-
-Talisman
-
-make:
-
-this distinction:
-
-especially useful.
-
-## Brand Continuity
-
-A practice
-
-product
-
-or:
-
-identity
-
-persists:
-
-across:
-
-time
-
-and:
-
-locations.
-
-## Place Continuity
-
-A particular:
-
-physical:
-
-location
-
-accumulates:
-
-meaning
-
-over:
-
-time.
-
-These:
-
-may overlap.
-
-They should not:
-
-be:
-
-collapsed.
-
----
-
-# Finding 10 — Growth Is Not Automatically Narrative
-
-Din Tai Fung:
-
-has:
-
-significant:
-
-international scale.
-
-But:
-
-growth itself
-
-does not:
-
-appear:
-
-to be:
-
-the main:
-
-meaning carrier.
-
-This adds:
-
-boundary pressure
-
-to:
-
-Growth as Narrative.
-
-## Correction
-
-```text
-Business Growth
-≠
-Hospitality Story
-```
-
-Growth matters:
-
-when:
-
-the:
-
-change
-
-or:
-
-development
-
-materially explains:
-
-identity.
-
----
-
-# Governance Position — Growth as Narrative
-
-Remain:
-
-below:
-
-formal Candidate governance.
-
-Do not:
-
-revive:
-
-as:
-
-a separate:
-
-formal pattern
-
-from:
-
-Din Tai Fung.
-
----
-
-# Finding 11 — Adaptation Can Be Narratively Important Without Becoming a Formal Pattern
-
-Din Tai Fung's:
-
-origin story
-
-contains:
-
-a meaningful:
-
-business adaptation.
-
-The original:
-
-oil business
-
-changed
-
-and:
-
-the hospitality business
-
-emerged.
-
-## Interpretation
-
-Adaptation
-
-can:
-
-carry:
-
-story
-
-when:
-
-it explains:
-
-why:
-
-the restaurant:
-
-came to exist
-
-or:
-
-how:
-
-its identity:
-
-changed.
-
-## Research Direction
-
-Adaptation as Narrative
-
-Status:
-
-Observed Research Direction
-
-## Governance Position
-
-Below Candidate.
-
-Need:
-
-additional:
-
-independent evidence.
-
----
-
-# Finding 12 — Standardisation Can Carry Narrative Meaning
-
-Din Tai Fung adds:
-
-a:
-
-new:
-
-story pressure.
-
-The brand's:
-
-repeatable:
-
-craft
-
-and:
-
-service:
-
-standards
-
-are:
-
-not:
-
-described only:
-
-as:
-
-efficiency.
-
-They communicate:
-
-- precision
-- discipline
-- continuity
-- reliability
-- brand values
-
-## Research Direction
-
-Standardisation as Narrative
-
-Status:
-
-Observed Research Direction
-
----
-
-# Working Definition
-
-> **A repeated hospitality, service, or culinary standard may function as narrative when the standard itself materially communicates what the brand values and why the experience is structured as it is.**
-
----
-
-# Important Boundary
-
-```text
-Standardisation
-≠
-Story
-```
-
-by default.
-
-The standard needs:
-
-guest-relevant:
-
-meaning.
-
----
-
-# Governance Position
-
-Below Candidate.
-
-Do not:
-
-promote:
-
-from:
-
-one restaurant.
-
----
-
-# Finding 13 — Constraint as Narrative Remains an Architecture Mechanism
-
-Alinea
-
-ICHIRAN
-
-and:
-
-Din Tai Fung
-
-all:
-
-show:
-
-meaningful:
-
-constraint
-
-through:
-
-different:
-
-mechanisms.
-
-### Alinea
-
-Controlled reveal
-
-and:
-
-experience structure.
+ritual.
 
 ### ICHIRAN
 
-Reduced social exposure
+Privacy
 
-privacy
++
 
-and:
+individual participation
 
-concentration.
++
+
+structured system.
 
 ### Din Tai Fung
 
-Craft precision
+Craft standards
 
-and:
-
-repeatable standards.
-
-## Interpretation
-
-Constraint may:
-
-communicate:
-
-what:
-
-the restaurant values.
-
-But:
-
-constraint itself
-
-is:
-
-too broad
-
-for:
-
-formal pattern status.
-
----
-
-# Current Treatment
-
-Constraint as Narrative
-
-Architecture Direction
-
-Not:
-
-formal Candidate.
-
----
-
-# Finding 14 — A Rule Is Narrative Only When It Carries Meaning
-
-Din Tai Fung's:
-
-18-fold:
-
-standard
-
-is:
-
-useful:
-
-because:
-
-it relates:
-
-directly
-
-to:
-
-the:
-
-signature product
-
-and:
-
-craft identity.
-
-A random:
-
-operational rule
-
-would not:
-
-carry:
-
-the same:
-
-narrative value.
-
-## Correction
-
-```text
-Any Rule
-≠
-Story
-```
-
-Stronger relationship:
-
-```text
-Constraint
 +
-Guest-Relevant Meaning
-=
-Narrative Potential
-```
 
----
+product system
 
-# Finding 15 — Story and Proof Can Share Evidence
++
 
-Din Tai Fung's:
+structured participation.
 
-18-fold:
+### Noma
 
-detail
+Seasonal evolution
 
-performs:
++
 
-two:
+research
 
-legitimate:
++
 
-roles.
+creative change
 
-### Proof Role
++
 
-It provides:
-
-specific:
-
-craft evidence.
-
-### Story Role
-
-It communicates:
-
-precision
-
-discipline
-
-continuity
-
-and:
-
-identity.
-
-## Interpretation
-
-Narrative architecture
-
-and:
-
-proof architecture
-
-may overlap:
-
-at:
-
-the asset level
-
-without:
-
-becoming:
-
-the same:
-
-system.
-
----
-
-# Correction
-
-```text
-Same Evidence
-≠
-Same Function
-```
-
----
-
-# Finding 16 — Story Through Hospitality Model and Hospitality System Proof Remain Distinct
-
-This distinction is:
-
-critical.
-
----
-
-# Story Through Hospitality Model
-
-asks:
-
-> **Does the way this restaurant operates materially explain what the hospitality experience means?**
-
----
-
-# Hospitality System Proof
-
-asks:
-
-> **Does the guest have enough evidence to understand how the relevant participation or operating system works?**
-
----
-
-# Example
-
-A walk-in policy
-
-may need:
-
-Hospitality System Proof
-
-because:
-
-the guest needs:
-
-access clarity.
-
-That policy may:
-
-or:
-
-may not:
-
-carry:
-
-brand meaning.
-
-## Correction
-
-```text
-System Explanation
-≠
-System Story
-```
-
----
-
-# Finding 17 — Story Through Hospitality Model and Show the System Behind the Plate Remain Distinct
-
-## Show the System Behind the Plate
-
-concerns:
-
-culinary:
-
-production
-
-craft
-
-technique
-
-and:
-
-product process.
-
-## Story Through Hospitality Model
-
-concerns:
-
-whether:
-
-operating structure
-
-carries:
-
-meaning.
-
-Din Tai Fung:
-
-strongly supports:
-
-both.
-
-That is:
-
-evidence:
-
-for:
-
-separation
-
-not:
-
-merger.
-
----
-
-# Correction
-
-```text
-Culinary Process Proof
-≠
-Hospitality Narrative
-```
-
-even when:
-
-culinary process
-
-contributes:
-
-to:
-
-the narrative.
-
----
-
-# Finding 18 — Narrative Coherence Through Organising Logic Remains Strong
-
-## Current Status
-
-Emerging
-
-Din Tai Fung:
-
-strongly supports:
-
-coherence
-
-at:
-
-two scales.
-
-### Brand Scale
-
-- Xiao Long Bao
-- craft
-- precision
-- heritage
-- standards
-
-### Covent Garden Scale
-
-- East-meets-West
-- local architecture
-- Chinese cultural objects
-- London context
-
-## Interpretation
-
-A restaurant may:
-
-have:
-
-multiple:
-
-organising logics
-
-at:
-
-different:
-
-scales
-
-without:
-
-becoming:
-
-incoherent.
-
----
-
-# Definition Refinement
-
-Narrative Coherence Through Organising Logic
-
-should allow:
-
-nested:
-
-organising logics.
-
-Example:
-
-```text
-Global Brand Logic
-↓
-Location Interpretation
-↓
-Specific Expression
-```
-
----
-
-# Finding 19 — Narrative Scale Is Now Necessary
-
-Din Tai Fung:
-
-makes:
-
-story-scale:
-
-discipline
-
-especially important.
-
-A founder story
-
-may apply:
-
-to:
-
-the brand.
-
-An:
-
-East-meets-West:
-
-architectural story
-
-may apply:
-
-specifically:
-
-to:
-
-Covent Garden.
+institutional transition.
 
 These:
 
-cannot:
-
-be:
-
-silently exchanged.
-
----
-
-# Architecture Variable — Narrative Scale
-
-Possible levels:
-
-- Brand
-- Location
-- Product
-- Person
-- Hospitality System
-
-## Rule
-
-Narrative evidence
-
-should:
-
-match:
-
-the scale:
-
-of:
-
-the claim.
-
----
-
-# Correction
-
-```text
-Brand Story
-≠
-Location Story
-```
-
----
-
-# Finding 20 — Narrative Scale and Proof Scale Should Align
-
-The photography comparison introduced:
-
-Proof Scale.
-
-Story introduces:
-
-Narrative Scale.
-
-These:
-
-should:
-
-interoperate.
-
----
-
-# Example
-
-Brand claim
-
-↓
-
-Brand evidence.
-
-Location claim
-
-↓
-
-Location evidence.
-
-Product claim
-
-↓
-
-Product evidence.
-
-Participation-system claim
-
-↓
-
-Participation evidence.
-
----
-
-# Architecture Relationship
-
-```text
-Narrative Scale
-↔
-Proof Scale
-```
-
-Mismatch creates:
-
-overclaiming.
-
----
-
-# Finding 21 — Multi-Location Brands May Need Narrative Layering
-
-Din Tai Fung:
-
-has:
-
-a:
-
-stable:
-
-global story
-
-and:
-
-a:
-
-Covent Garden:
-
-location story.
-
-Neither:
-
-fully replaces:
-
-the other.
-
-## Proposed Model
-
-```text
-Stable Core Narrative
-+
-Location Narrative Layer
-=
-Specific Multi-Location Story
-```
-
----
-
-# Research Direction — Narrative Layering Across Scale
-
-## Status
-
-Architecture Direction
-
-## Working Definition
-
-A multi-location hospitality brand may:
-
-preserve:
-
-a stable:
-
-global:
-
-narrative anchor
-
-while:
-
-allowing:
-
-location-specific:
-
-place
-
-architecture
-
-culture
-
-or:
-
-participation
-
-to add:
-
-meaning.
-
-## Governance Position
-
-Architecture-level.
-
-Do not:
-
-create:
-
-new Candidate.
-
----
-
-# Finding 22 — Cultural Translation Is More Precise Than Generic Localisation
-
-Din Tai Fung Covent Garden:
-
-combines:
-
-a:
-
-Taiwanese-origin:
-
-brand
-
-with:
-
-a:
-
-London:
-
-location
-
-and:
-
-an:
-
-East-meets-West:
-
-architectural framing.
-
-## Interpretation
-
-The deeper narrative question is:
-
-not:
-
-simply:
-
-how:
-
-the brand is:
-
-localized.
-
-It is:
-
-how:
-
-the origin:
-
-is:
-
-translated
-
-without:
-
-being:
-
-erased.
-
----
-
-# Research Direction — Cultural Translation as Narrative
-
-## Working Definition
-
-> **A hospitality brand may preserve its cultural origin while adapting narrative expression to a different geographic, architectural, or social context.**
-
-## Status
-
-Observed Research Direction
-
-## Governance Position
-
-Below Candidate.
-
-Requires:
-
-additional:
-
-multi-location:
-
-and:
-
-cross-cultural:
-
-research.
-
----
-
-# Finding 23 — Local Expression Does Not Require a New Brand Story
-
-Din Tai Fung:
-
-reinforces:
-
-the distinction between:
-
-translation
-
-and:
-
-reinvention.
-
-Covent Garden:
-
-adds:
-
-location meaning.
-
-It does not:
-
-need:
-
-a completely:
-
-independent:
-
-hospitality identity.
-
-## Correction
-
-```text
-Local Expression
-≠
-New Brand Story
-```
-
----
-
-# Finding 24 — Story Through Place Remains Contextual
-
-## Current Status
-
-Emerging
-
-Din Tai Fung:
-
-provides:
-
-moderate:
-
-support.
-
-Covent Garden:
-
-contributes:
-
-architecture
-
-context
-
-art
-
-and:
-
-cultural reference.
-
-But:
-
-place
-
-is:
-
-not:
-
-the strongest:
-
-global:
-
-narrative carrier.
-
-## Interpretation
-
-Story Through Place
-
-remains:
-
-important
-
-but:
-
-not:
-
-universal.
-
----
-
-# Governance Recommendation
-
-Retain:
-
-Emerging.
-
-No maturity change.
-
----
-
-# Finding 25 — Place Can Be a Primary or Supporting Narrative Carrier
-
-Across:
-
-the research set:
-
-### Primary
-
-Ankole
-
-Talisman
-
-Bistro Lolo
-
-Dishoom
-
-in:
-
-different ways.
-
-### Supporting
-
-Din Tai Fung.
-
-## Architecture Implication
-
-Narrative carriers should:
-
-not:
-
-be ranked:
-
-universally.
-
-Their:
-
-importance depends on:
-
-explanatory value.
-
----
-
-# Finding 26 — Narrative Weight Should Follow Explanatory Value
-
-This is:
-
-one of:
-
-the strongest:
-
-cross-story conclusions.
-
-A founder
-
-place
-
-heritage
-
-worldview
-
-product
-
-or:
-
-service model
-
-should receive:
-
-narrative emphasis
-
-only:
-
-to the degree:
-
-it helps:
-
-the guest:
-
-understand:
-
-the hospitality experience.
-
-## Stronger Rule
-
-```text
-Narrative Weight
-∝
-Explanatory Value
-```
-
-Not:
-
-formal:
-
-mathematical relationship.
-
-Architecture principle only.
-
----
-
-# Finding 27 — Biography and Worldview Are Conditional Narrative Carriers
-
-The research set rejects:
-
-universal:
-
-About-page assumptions.
-
-Some:
-
-restaurants:
-
-require:
-
-biography.
-
-Others:
-
-do not.
-
-Some:
-
-require:
-
-worldview.
-
-Others:
-
-do not.
-
-## Correction
-
-```text
-Premium Restaurant
-≠
-Founder Story Required
-```
-
-and:
-
-```text
-Premium Restaurant
-≠
-Philosophy Statement Required
-```
-
----
-
-# Finding 28 — Functional Language Can Carry Narrative
-
-ICHIRAN:
-
-made:
-
-this:
-
-especially clear.
-
-Din Tai Fung:
-
-reinforces:
-
-the principle.
-
-Specific:
-
-functional:
-
-information
-
-around:
-
-craft
-
-standards
-
-and:
-
-participation
-
-can:
-
-carry:
-
-brand meaning.
-
-## Correction
-
-```text
-Functional Language
-≠
-Narrative Weakness
-```
-
----
-
-# Finding 29 — Narrative Language Within Clear Interface Remains a Distinct Candidate
-
-## Current Status
-
-Candidate / High
-
-Din Tai Fung:
-
-is not:
-
-the strongest:
-
-pressure case.
-
-Dishoom
-
-and:
-
-other:
-
-narrative-heavy:
-
-restaurants
-
-remain:
-
-more central.
-
-## Din Tai Fung Contribution
-
-Boundary support.
-
-Narrative meaning
-
-does not need:
-
-high:
-
-linguistic stylization.
-
-## Governance Recommendation
-
-No change.
-
----
-
-# Finding 30 — Product Specificity Can Reduce Storytelling Volume
-
-Din Tai Fung:
-
-and:
-
-Franklin
-
-show:
-
-that:
-
-specific:
-
-product meaning
-
-can:
-
-reduce:
-
-the need:
-
-for:
-
-generic:
-
-brand storytelling.
-
-## Interpretation
-
-A clear:
-
-product:
-
-story
-
-may be:
-
-more:
-
-powerful
-
-than:
-
-large quantities:
-
-of:
-
-brand prose.
-
----
-
-# Finding 31 — Specificity Strengthens Narrative Credibility
-
-Compare:
-
-```text
-Decades of Culinary Excellence
-```
-
-with:
-
-a:
-
-specific:
-
-founder
-
-product
-
-or:
-
-craft:
-
-history.
-
-The latter:
-
-provides:
-
-greater:
-
-explanatory value.
-
-## Architecture Variable
-
-Narrative Specificity
-
-Possible states:
-
-Low
-
-Medium
-
-High
-
----
-
-# Finding 32 — Narrative Specificity and Narrative Length Are Different
-
-A narrative may be:
-
-brief
-
-and:
+are:
 
 highly:
 
-specific.
+different:
 
-Or:
+operating models.
 
-long
+Yet:
 
-and:
+in:
 
-generic.
+each:
 
-## Correction
+the:
 
-```text
-More Story Copy
-≠
-More Narrative Value
-```
+way:
 
----
+the:
 
-# Finding 33 — Heritage Builds Confidence Needs Specificity
+restaurant
 
-A:
+operates
 
-generic:
+materially:
 
-heritage statement
-
-provides:
-
-weak:
-
-evidence.
-
-Specific:
-
-continuity
-
-people
-
-practices
-
-and:
-
-objects
-
-provide:
-
-stronger:
-
-explanatory value.
-
-## Possible Refinement
-
-Heritage Builds Confidence
-
-is strongest when:
-
-heritage is:
-
-- specific
-- relevant
-- continuous
-- evidenced
-- connected to current experience
-
----
-
-# Finding 34 — Recognition Supports Narrative but Rarely Creates It
-
-Awards
-
-reviews
-
-press
-
-and:
-
-international scale
-
-can:
-
-increase:
-
-authority.
-
-But:
-
-they rarely:
+helps:
 
 explain:
 
 what:
 
-the restaurant:
-
-means.
-
-## Correction
-
-```text
-Recognition
-≠
-Primary Story
-```
-
-Recognition is:
-
-supporting proof.
-
----
-
-# Finding 35 — Authority and Meaning Must Remain Separate
-
-A restaurant may:
-
-be:
-
-highly acclaimed
-
-without:
-
-the acclaim:
-
-explaining:
-
-the hospitality identity.
-
-## Architecture Distinction
-
-### Authority
-
-Why:
-
-should I trust:
-
-this restaurant?
-
-### Meaning
-
-Why:
-
-does this experience:
-
-matter?
-
-These:
-
-may interact
-
-but:
-
-are:
-
-not:
-
-the same.
-
----
-
-# Finding 36 — Story Can Be Embodied Rather Than Explained
-
-Haidilao
-
-ICHIRAN
-
-Alinea
-
-and:
-
-Din Tai Fung
-
-show:
-
-different:
-
-ways
-
 the:
-
-hospitality structure
-
-may:
-
-embody:
-
-meaning.
-
-The guest may:
-
-understand:
-
-the:
-
-story
-
-through:
-
-participation
-
-service
-
-constraint
-
-craft
-
-or:
-
-experience architecture.
-
-## Correction
-
-```text
-Story
-≠
-Explanation Only
-```
-
-Story can be:
-
-performed.
-
----
-
-# Finding 37 — Experienced Meaning Is the End State, Not Story Exposure
-
-The story architecture should not:
-
-end:
-
-with:
-
-content consumption.
-
-The stronger model is:
-
-```text
-Narrative Understanding
-↓
-Participation
-↓
-Experienced Meaning
-```
-
-The website can:
-
-prepare:
-
-the guest.
-
-It cannot:
-
-prove:
-
-that:
-
-the guest:
-
-actually experiences:
-
-the intended meaning.
-
----
-
-# Evidence Boundary
-
-Public website research can establish:
-
-- published narrative
-- narrative carriers
-- product story
-- founder story
-- heritage claims
-- location story
-- operating-model explanation
-- participation language
-- cultural reference
-- craft explanation
-- structure of narrative presentation
-
-It cannot establish:
-
-- actual guest understanding
-- emotional connection
-- story recall
-- perceived authenticity
-- cultural interpretation
-- guest agreement with brand meaning
-- real operational consistency
-- actual craft quality
-- experienced meaning
-- commercial effect of storytelling
-
-These boundaries remain:
-
-mandatory.
-
----
-
-# Finding 38 — Story Is Increasingly a Selection Problem
-
-After:
-
-thirteen:
-
-restaurants
-
-the challenge is:
-
-not:
-
-finding:
-
-something:
-
-to tell.
-
-Every restaurant contains:
-
-many:
-
-possible:
-
-stories.
-
-The challenge is:
-
-selecting:
-
-the:
-
-narrative carrier
-
-with:
-
-the highest:
 
 hospitality:
 
-explanatory value.
+means.
 
 ---
 
-# Proposed Narrative-Carrier Selection
+# Current Best Definition — Story Through Hospitality Model
 
-```text
-Hospitality Meaning
-↓
-What Best Explains It?
-↓
-Place?
-Worldview?
-Heritage?
-Biography?
-Product?
-Craft?
-Cultural Memory?
-Ecology?
-Service?
-Ritual?
-Participation?
-Operating Model?
-Constraint?
-↓
-Primary Narrative Carrier
-↓
-Supporting Carriers
-↓
-Narrative Weight Based on Explanatory Value
-```
+> **A restaurant's operating model can function as a primary narrative carrier when the way it organizes service, participation, product, space, time, or guest behaviour materially explains the meaning of the hospitality experience.**
 
----
+Noma adds:
 
-# Finding 39 — Story Architecture and Proof Architecture Are Converging but Must Not Merge
-
-The post–Din Tai Fung:
-
-story
-
-and:
-
-photography:
-
-research
-
-now share:
-
-several:
-
-variables:
-
-- claim
-- scale
-- evidence
-- specificity
-- explanation
-- meaning
-
-However:
-
-the systems:
-
-answer:
-
-different:
-
-questions.
-
----
-
-# Story Architecture
-
-asks:
-
-> **What does this mean?**
-
----
-
-# Proof Architecture
-
-asks:
-
-> **Why should I believe it?**
-
----
-
-# Correction
-
-```text
-Meaning
-≠
-Proof
-```
-
-and:
-
-```text
-Proof
-≠
-Meaning
-```
-
-The two:
-
-should:
-
-work together.
-
----
-
-# Finding 40 — Story Architecture and Participation Architecture Also Interact
-
-Haidilao
-
-ICHIRAN
-
-and:
-
-Din Tai Fung
-
-show:
-
-that:
-
-how:
-
-the guest participates
-
-may:
-
-help explain:
-
-what:
-
-the restaurant means.
-
-But:
-
-not every:
-
-participation rule:
-
-is:
-
-story.
-
-## Rule
-
-Participation becomes:
-
-narrative
-
-when:
-
-the guest role
-
-materially expresses:
-
-the hospitality identity.
-
----
-
-# Finding 41 — Service Philosophy as Story Remains a Mechanism
-
-Haidilao:
-
-strongly:
-
-supports:
-
-service philosophy
+Time
 
 as:
-
-narrative.
-
-Din Tai Fung:
-
-provides:
-
-some:
-
-service-standard:
-
-support.
-
-But:
-
-Service Philosophy as Story
-
-should remain:
 
 a:
 
-mechanism
-
-inside:
-
-Story Through Hospitality Model.
-
-## Governance Decision
-
-Do not:
-
-create:
-
-separate Candidate.
-
----
-
-# Finding 42 — Operational Narrative Remains a Mechanism
-
-ICHIRAN
-
-Haidilao
-
-and:
-
-Din Tai Fung
-
-all:
-
-support:
-
-operations
-
-as:
-
 possible:
 
-narrative carriers.
+operating-model:
 
-But:
-
-Operational Narrative
-
-should remain:
-
-inside:
-
-Story Through Hospitality Model.
-
-## Governance Decision
-
-Do not:
-
-create:
-
-duplicate Candidate.
+carrier.
 
 ---
 
-# Finding 43 — Explain the Ritual Remains Participation Clarity
+# Falsification
 
-Ritual:
+The pattern should:
 
-may:
+not:
 
-carry:
+apply
 
-meaning.
+when:
 
-But:
+understanding:
 
-explaining:
+how:
+
+the:
+
+restaurant
+
+operates
+
+tells:
+
+the:
+
+guest
+
+little:
+
+material:
+
+about:
 
 what:
 
-the guest must do
+the:
 
-belongs primarily to:
+experience
 
-participation clarity
-
-or:
-
-Hospitality System Proof.
-
-## Governance Decision
-
-Do not:
-
-create:
-
-a separate:
-
-story pattern.
+means.
 
 ---
 
-# Finding 44 — Product Focus as Narrative Remains a Mechanism
+# Governance Watch — Story Through Hospitality Model
 
-Din Tai Fung
+Current:
+
+Emerging
+
+Post-Noma Position:
+
+Extremely Strong
+
+The pattern now has:
+
+four:
+
+materially:
+
+different:
+
+operating-model:
+
+supports.
+
+This is:
+
+a:
+
+major:
+
+governance:
+
+strengthening.
+
+No:
+
+maturity:
+
+change
+
+inside:
+
+comparison file.
+
+---
+
+# Cross-Case Finding 6 — Operating Model Story Is Not the Same as System Proof
+
+This remains:
+
+mandatory.
+
+### Story Through Hospitality Model
+
+Question:
+
+> **Does how the restaurant operates explain what the experience means?**
+
+### Hospitality System Proof
+
+Question:
+
+> **Can the guest understand how the relevant guest-facing system works?**
+
+## Correction
+
+```text
+System Story
+≠
+System Proof
+```
 
 and:
 
-ICHIRAN:
+```text
+Story Through Hospitality Model
+≠
+Hospitality System Proof
+```
 
-strengthen:
+Noma strongly:
 
-this:
+supports:
 
-direction.
+both
+
+without:
+
+merging:
+
+them.
+
+---
+
+# Cross-Case Finding 7 — Story Through Hospitality Model Is Broader Than Process-Led Narrative
+
+Noma adds:
+
+Process-Led Narrative.
 
 But:
 
-it can:
+the:
 
-sit inside:
+formal:
 
-the broader:
+pattern
 
-story architecture
+is:
 
-and:
+broader.
 
+Operating models may carry:
+
+story through:
+
+- service
+- participation
+- product structure
+- spatial organization
+- constraint
+- time
+- process
+- leadership
+- guest behaviour
+
+## Deduplication
+
+```text
+Process-Led Narrative
+→
+Mechanism inside
 Story Through Hospitality Model
+```
 
 where:
 
-the product system
+process
 
 materially:
 
@@ -3760,23 +1309,1482 @@ carries:
 
 meaning.
 
-## Governance Decision
+---
 
-No separate:
+# Cross-Case Finding 8 — Research as Narrative Carrier Is Also a Mechanism, Not Yet a Separate Pattern
 
-Candidate yet.
+Noma:
+
+provides:
+
+extremely strong:
+
+research:
+
+story:
+
+pressure.
+
+But:
+
+Research as Narrative Carrier
+
+currently:
+
+remains:
+
+too:
+
+Noma-specific
+
+to:
+
+stand:
+
+as:
+
+a:
+
+separate:
+
+formal:
+
+pattern.
+
+## Deduplication Recommendation
+
+```text
+Research as Narrative Carrier
+→
+Potential mechanism inside
+Story Through Hospitality Model
+```
+
+when:
+
+research
+
+materially:
+
+shapes:
+
+the:
+
+operating model
+
+or:
+
+hospitality meaning.
 
 ---
 
-# Finding 45 — Standardisation Is a Cross-Dimensional Family, Not Yet a Formal Story Pattern
+# Cross-Case Finding 9 — Narrative Coherence Through Organising Logic Receives Extremely Strong Support
 
-Din Tai Fung:
+## Current Status
 
-introduces:
+Emerging
 
-standardisation
+Strong cases include:
+
+- Dishoom
+- Haidilao
+- ICHIRAN
+- Din Tai Fung
+- Noma
+
+with:
+
+different:
+
+organising:
+
+logics.
+
+The:
+
+pattern asks:
+
+not:
+
+whether:
+
+many:
+
+story elements
+
+exist.
+
+It asks:
+
+whether:
+
+they:
+
+are:
+
+connected
+
+through:
+
+a:
+
+meaningful:
+
+logic.
+
+---
+
+# Current Best Definition — Narrative Coherence Through Organising Logic
+
+> **Narrative becomes coherent when relevant story carriers are connected through a clear organising logic rather than appearing as disconnected claims, themes, histories, or features.**
+
+Noma adds:
+
+a:
+
+temporal:
+
+dimension.
+
+---
+
+# Cross-Case Finding 10 — Narrative Coherence Can Operate Across Time
+
+Noma:
+
+extends:
+
+the:
+
+pattern.
+
+A:
+
+story
+
+may need:
+
+to remain:
+
+coherent
 
 across:
+
+different:
+
+time-based:
+
+states.
+
+## New Architecture Variable — Narrative Temporal Coherence
+
+## Definition
+
+The degree:
+
+to which:
+
+different:
+
+time-based:
+
+narrative:
+
+states
+
+remain:
+
+meaningfully:
+
+connected
+
+to:
+
+the:
+
+same:
+
+underlying:
+
+hospitality:
+
+logic.
+
+## Correction
+
+```text
+Narrative Coherence
+≠
+Narrative Repetition
+```
+
+---
+
+# Cross-Case Finding 11 — Temporal Coherence Is a Mechanism Inside Narrative Coherence
+
+Do not create:
+
+a:
+
+separate:
+
+Temporal Narrative Coherence:
+
+formal pattern.
+
+## Deduplication
+
+```text
+Narrative Temporal Coherence
+→
+Narrative Coherence Through Organising Logic
+```
+
+as:
+
+a:
+
+temporal:
+
+mechanism.
+
+---
+
+# Cross-Case Finding 12 — Story Through Place Receives Extremely Strong Cross-Case Support
+
+## Current Status
+
+Emerging
+
+Strong:
+
+place-led:
+
+cases include:
+
+- Ankole
+- Talisman
+- Dishoom
+- NARISAWA
+- Din Tai Fung
+- Noma
+
+But:
+
+place
+
+works:
+
+differently:
+
+across:
+
+them.
+
+---
+
+# Place as Hospitality Identity
+
+Ankole.
+
+---
+
+# Place as Heritage Continuity
+
+Talisman.
+
+---
+
+# Place as Cultural Memory
+
+Dishoom.
+
+---
+
+# Place as Ecological Relationship
+
+NARISAWA.
+
+---
+
+# Place as Localized Brand Expression
+
+Din Tai Fung.
+
+---
+
+# Place as Seasonal / Landscape Relationship
+
+Noma.
+
+---
+
+# Cross-Case Finding 13 — Story Through Place Is Not Story Through Address
+
+This is:
+
+now:
+
+very strongly:
+
+supported.
+
+```text
+Story Through Place
+≠
+Story Through Address
+```
+
+Place can mean:
+
+relationship to:
+
+- landscape
+- culture
+- ecology
+- neighbourhood
+- history
+- architecture
+- ingredients
+- season
+
+---
+
+# New Architecture Direction — Relational Place Narrative
+
+## Working Definition
+
+Place may:
+
+carry:
+
+story
+
+through:
+
+the:
+
+restaurant's:
+
+ongoing:
+
+relationship
+
+to:
+
+landscape
+
+season
+
+culture
+
+ingredients
+
+history
+
+or:
+
+local conditions
+
+rather than:
+
+through:
+
+geographic:
+
+name alone.
+
+## Proposed Home
+
+Story Through Place
+
+## Status
+
+Mechanism / Definition Refinement
+
+---
+
+# Governance Watch — Story Through Place
+
+Current:
+
+Emerging
+
+Post-Noma Position:
+
+Very Strong
+
+Noma gives:
+
+extremely strong:
+
+relational:
+
+place:
+
+support.
+
+No maturity change:
+
+inside:
+
+comparison.
+
+---
+
+# Cross-Case Finding 14 — Heritage Builds Confidence Receives Stronger Definition Pressure
+
+## Current Status
+
+Candidate / Medium-High
+
+Strong:
+
+heritage:
+
+cases include:
+
+- Talisman
+- Din Tai Fung
+- Noma
+
+with:
+
+different:
+
+heritage:
+
+mechanisms.
+
+---
+
+# Talisman
+
+Heritage through:
+
+place
+
+continuity
+
+and:
+
+history.
+
+---
+
+# Din Tai Fung
+
+Heritage through:
+
+brand
+
+product
+
+craft
+
+and:
+
+founder:
+
+continuity.
+
+---
+
+# Noma
+
+Heritage through:
+
+institutional:
+
+history
+
+and:
+
+credible:
+
+adaptation.
+
+---
+
+# Cross-Case Finding 15 — Heritage Does Not Require Sameness
+
+Noma makes:
+
+this:
+
+boundary:
+
+clear.
+
+```text
+Heritage
+≠
+Promise of Sameness
+```
+
+A:
+
+restaurant
+
+may preserve:
+
+heritage
+
+while:
+
+changing:
+
+- leadership
+- product
+- operating rhythm
+- expression
+
+provided:
+
+the:
+
+relationship:
+
+to:
+
+identity
+
+remains:
+
+credible.
+
+---
+
+# New Mechanism — Living Heritage
+
+Post–Din Tai Fung:
+
+Living Heritage
+
+connected:
+
+past:
+
+to:
+
+present.
+
+Noma adds:
+
+future:
+
+adaptation.
+
+## Proposed Relationship
+
+```text
+Historical Identity
++
+Current Practice
++
+Future Adaptation
+=
+Potential Living Heritage
+```
+
+## Status
+
+Mechanism / Definition Refinement
+
+Home:
+
+Heritage Builds Confidence
+
+---
+
+# New Mechanism — Future-Facing Heritage
+
+Noma suggests:
+
+heritage:
+
+can:
+
+create:
+
+confidence
+
+while:
+
+the:
+
+narrative:
+
+looks:
+
+forward
+
+rather than:
+
+backward.
+
+## Deduplication
+
+```text
+Future-Facing Heritage
+→
+Living Heritage
+→
+Heritage Builds Confidence
+```
+
+Do not create:
+
+new:
+
+formal pattern.
+
+---
+
+# Governance Watch — Heritage Builds Confidence
+
+Current:
+
+Candidate / Medium-High
+
+Post-Noma Position:
+
+Very Strong
+
+Potential:
+
+confidence:
+
+review
+
+after:
+
+full:
+
+reconciliation.
+
+No:
+
+maturity
+
+or:
+
+confidence change:
+
+inside:
+
+comparison.
+
+---
+
+# Cross-Case Finding 16 — Biography Remains Conditional
+
+## Current Pattern
+
+Biography When It Explains the Experience
+
+Status:
+
+Emerging
+
+Strong:
+
+biography:
+
+cases include:
+
+- FYN
+- Alinea
+- NARISAWA
+- Franklin
+- Din Tai Fung
+- Noma
+
+But:
+
+ICHIRAN
+
+provides:
+
+strong:
+
+evidence
+
+that:
+
+biography
+
+is:
+
+not:
+
+required
+
+for:
+
+strong:
+
+hospitality meaning.
+
+---
+
+# Correction
+
+```text
+Strong Hospitality Story
+≠
+Biography Required
+```
+
+Biography matters:
+
+only:
+
+when:
+
+it materially:
+
+explains:
+
+the:
+
+experience.
+
+---
+
+# Cross-Case Finding 17 — Biography Can Be Distributed
+
+Noma:
+
+adds:
+
+a:
+
+new:
+
+biography:
+
+form.
+
+### Founder Biography
+
+Origin
+
+history
+
+creative direction.
+
+### Chef Biography
+
+Authorship
+
+craft
+
+philosophy.
+
+### Distributed Leadership Biography
+
+Current:
+
+institutional:
+
+responsibility
+
+shared:
+
+across:
+
+multiple:
+
+leaders.
+
+## Correction
+
+```text
+Relevant Biography
+≠
+Single Hero Founder
+```
+
+---
+
+# Deduplication — Distributed Biography
+
+```text
+Distributed Biography
+→
+Biography When It Explains the Experience
+```
+
+Classification:
+
+Mechanism / Architecture Direction
+
+Not:
+
+separate:
+
+formal pattern.
+
+---
+
+# Cross-Case Finding 18 — Biography and Institutional Narrative Are Different
+
+A:
+
+restaurant's:
+
+story
+
+may:
+
+move:
+
+from:
+
+one:
+
+person
+
+toward:
+
+the:
+
+institution.
+
+Noma:
+
+is:
+
+the:
+
+strongest:
+
+current:
+
+case.
+
+## Correction
+
+```text
+Institutional Narrative
+≠
+Biography
+```
+
+They may:
+
+interact.
+
+But:
+
+the:
+
+institution:
+
+can become:
+
+the:
+
+narrative:
+
+subject
+
+without:
+
+erasing:
+
+individual:
+
+biography.
+
+---
+
+# New Architecture Variable — Narrative Subject
+
+Possible:
+
+subjects include:
+
+- Founder
+- Chef
+- Team
+- Institution
+- Place
+- Product
+- Guest
+- Mixed
+
+Noma:
+
+adds:
+
+strong:
+
+Institution / Mixed:
+
+pressure.
+
+## Status
+
+Architecture Variable
+
+---
+
+# Cross-Case Finding 19 — Narrative Subject and Narrative Anchor Are Different
+
+This:
+
+is:
+
+a:
+
+useful:
+
+Noma:
+
+refinement.
+
+### Narrative Subject
+
+Who
+
+or:
+
+what:
+
+is:
+
+centered?
+
+### Narrative Anchor
+
+What:
+
+most strongly:
+
+stabilizes:
+
+meaning?
+
+For:
+
+Noma:
+
+the:
+
+subject
+
+may be:
+
+the:
+
+institution.
+
+The:
+
+anchor
+
+may be:
+
+season
+
+place
+
+and:
+
+exploration.
+
+## Correction
+
+```text
+Narrative Subject
+≠
+Narrative Anchor
+```
+
+---
+
+# Cross-Case Finding 20 — Product Is Not a Required Narrative Anchor
+
+Franklin
+
+ICHIRAN
+
+and:
+
+Din Tai Fung
+
+show:
+
+strong:
+
+product-led:
+
+meaning.
+
+Noma:
+
+provides:
+
+a:
+
+strong:
+
+counterexample.
+
+Its:
+
+published:
+
+identity:
+
+can:
+
+remain:
+
+strong
+
+without:
+
+one:
+
+stable:
+
+signature:
+
+product.
+
+## Correction
+
+```text
+Signature Product
+≠
+Required Narrative Anchor
+```
+
+---
+
+# Cross-Case Finding 21 — Product Focus as Narrative Remains Context-Specific
+
+Current:
+
+Architecture Direction
+
+Strong:
+
+support:
+
+- ICHIRAN
+- Din Tai Fung
+- Franklin
+
+Strong:
+
+boundary:
+
+- Noma
+
+## Governance Position
+
+Remain:
+
+architecture-level.
+
+Do not:
+
+promote.
+
+---
+
+# Cross-Case Finding 22 — Method Can Become Narrative Anchor
+
+Noma:
+
+creates:
+
+the:
+
+strongest:
+
+current:
+
+pressure.
+
+A:
+
+method:
+
+may:
+
+stabilize:
+
+story
+
+when:
+
+products:
+
+change.
+
+Potential:
+
+method:
+
+anchors:
+
+- research
+- seasonal observation
+- fermentation
+- preservation
+- craft standard
+- service philosophy
+
+## Architecture Variable — Method as Narrative Anchor
+
+Status:
+
+Architecture Variable
+
+Not:
+
+formal pattern.
+
+---
+
+# Cross-Case Finding 23 — Research as Narrative Is Materially Different From Research as Atmosphere
+
+Noma gives:
+
+strong:
+
+published:
+
+support
+
+for:
+
+Research as Narrative Carrier.
+
+It gives:
+
+weaker:
+
+physical:
+
+support
+
+for:
+
+Research as Atmospheric Mechanism.
+
+## Correction
+
+```text
+Research as Narrative
+≠
+Research as Atmosphere
+```
+
+This:
+
+cross-dimensional:
+
+boundary
+
+should:
+
+remain:
+
+canonical:
+
+architecture.
+
+---
+
+# Cross-Case Finding 24 — Research Narrative and Research Proof Are Different
+
+Noma's:
+
+historical:
+
+creative-methodology:
+
+evidence
+
+supports:
+
+research:
+
+history.
+
+But:
+
+a:
+
+research:
+
+claim
+
+still:
+
+needs:
+
+evidence.
+
+## Correction
+
+```text
+Research Narrative
+≠
+Research Evidence
+```
+
+and:
+
+```text
+Research Claim
+≠
+Research Proof
+```
+
+---
+
+# Cross-Case Finding 25 — Adaptation as Narrative Receives Strong Independent Support
+
+## Current Status
+
+Observed Research Direction
+
+Strong cases:
+
+### Din Tai Fung
+
+Adaptation:
+
+from:
+
+Taiwanese:
+
+heritage
+
+into:
+
+global
+
+and:
+
+local:
+
+expression.
+
+### Noma
+
+Adaptation:
+
+through:
+
+new:
+
+leadership
+
+new:
+
+seasonal:
+
+rhythm
+
+and:
+
+new:
+
+institutional:
+
+direction.
+
+Potential:
+
+partial:
+
+support:
+
+Talisman
+
+Dishoom
+
+other:
+
+legacy:
+
+brands.
+
+---
+
+# Working Definition — Adaptation as Narrative
+
+> **Material change can become a hospitality narrative carrier when the way a restaurant adapts across time, place, leadership, product, or operating model helps explain its present identity rather than merely documenting change.**
+
+---
+
+# Falsification
+
+The direction should:
+
+not:
+
+apply
+
+when:
+
+- change has little hospitality meaning
+- change is purely administrative
+- adaptation is not guest-relevant
+- the relationship between old and new is not legible
+- evolution is claimed but not evidenced
+
+---
+
+# Governance Watch — Adaptation as Narrative
+
+Current:
+
+Observed Research Direction
+
+Post-Noma Position:
+
+Strong Candidate Watch
+
+Evidence now:
+
+includes:
+
+at least:
+
+two:
+
+materially different:
+
+strong:
+
+cases.
+
+Risk:
+
+still:
+
+overlap with:
+
+Heritage Builds Confidence
+
+and:
+
+Coherence Through Change.
+
+## Comparison Decision
+
+Do not promote:
+
+inside:
+
+this file.
+
+Carry:
+
+to:
+
+governance reconciliation.
+
+---
+
+# Cross-Case Finding 26 — Adaptation as Narrative Is Distinct From Heritage Builds Confidence
+
+### Adaptation as Narrative
+
+Question:
+
+> **Does the story of change materially explain current identity?**
+
+### Heritage Builds Confidence
+
+Question:
+
+> **Does relevant history materially increase present confidence?**
+
+## Correction
+
+```text
+Adaptation as Narrative
+≠
+Heritage Builds Confidence
+```
+
+They can:
+
+interact
+
+without:
+
+merging.
+
+---
+
+# Cross-Case Finding 27 — Adaptation as Narrative Is Distinct From Coherence Through Change
+
+### Adaptation as Narrative
+
+Explains:
+
+change.
+
+### Coherence Through Change
+
+Tests:
+
+whether:
+
+identity
+
+and:
+
+experience:
+
+remain:
+
+coherent
+
+across:
+
+change.
+
+## Correction
+
+```text
+Story of Change
+≠
+Coherence Across Change
+```
+
+This distinction:
+
+is:
+
+strong enough
+
+to:
+
+retain.
+
+---
+
+# Cross-Case Finding 28 — Coherence Through Change Is Cross-Dimensional, Not Story-Only
+
+Noma:
+
+pressures:
+
+Coherence Through Change
+
+through:
 
 arrival
 
@@ -3790,70 +2798,3133 @@ and:
 
 story.
 
-Within:
+Therefore:
 
-story
+do not:
 
-it may communicate:
+place:
 
-discipline
+the:
 
-continuity
+direction
 
-and:
+inside:
 
-craft.
+Story
 
-However:
+alone.
 
-promoting:
+## Current Status
 
-Standardisation as Narrative
-
-now
-
-would risk:
-
-overfitting:
-
-Restaurant #13.
+Observed Cross-Dimensional Research Direction
 
 ## Governance Position
 
-Keep:
+Below Candidate
 
-below Candidate.
+until:
 
-Return to:
+more:
 
-future:
+independent:
 
-chain
+high-change:
 
-franchise
+cases
 
 and:
 
-multi-location research.
+contradictions
+
+exist.
 
 ---
 
-# Refined Story Architecture — Post–Din Tai Fung
+# Cross-Case Finding 29 — Narrative Coherence and Coherence Through Change Are Different
+
+### Narrative Coherence Through Organising Logic
+
+Concerns:
+
+story:
+
+alignment.
+
+### Coherence Through Change
+
+Concerns:
+
+broader:
+
+hospitality:
+
+identity
+
+and:
+
+system:
+
+continuity
+
+across:
+
+change.
+
+## Correction
+
+```text
+Narrative Coherence
+≠
+Coherence Through Change
+```
+
+---
+
+# Cross-Case Finding 30 — Coherence Through Change Needs Stable Invariants
+
+Noma:
+
+introduces:
+
+Identity Invariant
+
+and:
+
+Narrative Invariant.
+
+Potential:
+
+stable:
+
+elements:
+
+- worldview
+- method
+- place relationship
+- institutional purpose
+- craft standard
+- research culture
+- hospitality philosophy
+
+## Working Question
+
+> **What must remain stable for changing expressions to still belong to the same hospitality identity?**
+
+---
+
+# New Architecture Family — Invariants
+
+Potential:
+
+components:
+
+- Identity Invariant
+- Narrative Invariant
+- Atmospheric Invariant
+- Method Continuity
+
+## Governance Position
+
+Architecture Family
+
+Not:
+
+formal pattern.
+
+---
+
+# Cross-Case Finding 31 — Narrative Invariant and Identity Invariant Are Related but Distinct
+
+### Identity Invariant
+
+What:
+
+remains:
+
+stable
+
+in:
+
+the:
+
+hospitality institution.
+
+### Narrative Invariant
+
+What:
+
+remains:
+
+stable
+
+in:
+
+how:
+
+that identity
+
+is:
+
+explained.
+
+## Correction
+
+```text
+Identity Invariant
+≠
+Narrative Invariant
+```
+
+They may:
+
+overlap.
+
+---
+
+# Cross-Case Finding 32 — Narrative Adaptation Does Not Require Narrative Reinvention
+
+Noma:
+
+strongly:
+
+supports:
+
+this:
+
+boundary.
+
+```text
+Narrative Adaptation
+≠
+Narrative Reinvention
+```
+
+A:
+
+story
+
+can:
+
+change
+
+while:
+
+retaining:
+
+relevant:
+
+identity:
+
+anchors.
+
+---
+
+# Cross-Case Finding 33 — Adaptive Narrative Is an Architecture Mechanism
+
+## Working Definition
+
+A:
+
+hospitality narrative
+
+updates:
+
+when:
+
+leadership
+
+operating model
+
+place relationship
+
+or:
+
+guest experience
+
+materially changes
+
+while:
+
+preserving:
+
+relevant:
+
+identity invariants.
+
+## Proposed Home
+
+Narrative Coherence
+
++
+
+Adaptation as Narrative
+
+## Status
+
+Architecture Direction
+
+Not:
+
+separate:
+
+formal pattern.
+
+---
+
+# Cross-Case Finding 34 — Fixed / Open Narrative Is Useful Under Future Uncertainty
+
+Noma:
+
+provides:
+
+strong:
+
+pressure.
+
+The:
+
+restaurant
+
+may:
+
+need:
+
+to:
+
+explain:
+
+what:
+
+remains:
+
+stable
+
+and:
+
+what:
+
+remains:
+
+open.
+
+## Structure
+
+```text
+What Is Fixed?
++
+What May Change?
+↓
+Narrative Logic
+↓
+Bounded Expectation
+```
+
+## Status
+
+Architecture Direction
+
+---
+
+# Cross-Case Finding 35 — Story Can Explain Uncertainty Without Eliminating It
+
+This is:
+
+important.
+
+Story:
+
+can:
+
+explain:
+
+why:
+
+the:
+
+future:
+
+experience
+
+is:
+
+open.
+
+It cannot:
+
+replace:
+
+proof
+
+or:
+
+system clarity.
+
+## Correction
+
+```text
+Narrative Logic
+≠
+Outcome Certainty
+```
+
+and:
+
+```text
+Narrative Promise
+≠
+Evidence
+```
+
+---
+
+# Cross-Case Finding 36 — Promise Before Proof and Story Through Hospitality Model Can Interact
+
+Noma:
+
+asks:
+
+the:
+
+guest
+
+to:
+
+commit
+
+before:
+
+the:
+
+future:
+
+product
+
+is:
+
+fully:
+
+known.
+
+The:
+
+operating model:
+
+helps:
+
+explain:
+
+why:
+
+that:
+
+uncertainty:
+
+exists.
+
+## Relationship
+
+```text
+Story Through Hospitality Model
+→
+Explains Why
+```
+
+```text
+Promise Before Proof
+→
+Frames Anticipation
+```
+
+```text
+Relevant Evidence
+→
+Supports Credibility
+```
+
+```text
+Hospitality System Proof
+→
+Explains Participation
+```
+
+These:
+
+remain:
+
+separate:
+
+functions.
+
+---
+
+# Cross-Case Finding 37 — Story Before Features Continues to Need a Boundary
+
+## Current Status
+
+Emerging
+
+Noma:
+
+strongly:
+
+supports:
+
+meaning
+
+before:
+
+feature accumulation.
+
+But:
+
+participation:
+
+utility
+
+still:
+
+matters.
+
+## Correction
+
+```text
+Story Before Features
+≠
+Story Instead of Utility
+```
+
+and:
+
+```text
+Story Before Features
+≠
+Story Before All Functional Information
+```
+
+---
+
+# Cross-Case Finding 38 — Functional Information Can Carry Story
+
+Noma:
+
+makes:
+
+reservation date
+
+meaningful
+
+because:
+
+time
+
+changes:
+
+the:
+
+hospitality:
+
+state.
+
+ICHIRAN:
+
+makes:
+
+system explanation
+
+meaningful
+
+because:
+
+the:
+
+system
+
+expresses:
+
+privacy
+
+and:
+
+concentration.
+
+Therefore:
+
+```text
+Utility
+≠
+Narrative Absence
+```
+
+Functional:
+
+information
+
+can:
+
+also:
+
+carry:
+
+meaning
+
+when:
+
+the:
+
+operating model
+
+is:
+
+story-relevant.
+
+---
+
+# Cross-Case Finding 39 — Temporal Story Is a Real Architecture Direction
+
+Noma:
+
+provides:
+
+the:
+
+strongest:
+
+case.
+
+## Working Definition
+
+> **Time becomes a narrative carrier when seasonal, cyclical, developmental, or operating change materially alters the hospitality experience and helps explain what the restaurant means.**
+
+## Status
+
+Observed Research Direction
+
+Not:
+
+formal Candidate.
+
+---
+
+# Cross-Case Finding 40 — Temporal Story Is Not Timeline
+
+```text
+Temporal Story
+≠
+Chronological History
+```
+
+A:
+
+timeline:
+
+describes:
+
+what:
+
+happened.
+
+Temporal Story:
+
+explains:
+
+how:
+
+time
+
+materially:
+
+shapes:
+
+meaning
+
+now.
+
+---
+
+# Cross-Case Finding 41 — Cyclical Narrative Is a Temporal Story Mechanism
+
+Noma's:
+
+twelve:
+
+seasonal:
+
+rhythms
+
+create:
+
+cyclical:
+
+pressure.
+
+But:
+
+Cyclical Narrative
+
+is:
+
+better:
+
+treated:
+
+as:
+
+a:
+
+subdirection
+
+inside:
+
+Temporal Story.
+
+## Deduplication
+
+```text
+Cyclical Narrative
+→
+Temporal Story
+```
+
+---
+
+# Cross-Case Finding 42 — Impermanence as Narrative Remains Context-Specific
+
+Noma:
+
+provides:
+
+strong:
+
+pressure.
+
+Temporary:
+
+states
+
+may:
+
+carry:
+
+meaning
+
+through:
+
+season
+
+resource conditions
+
+or:
+
+creative:
+
+change.
+
+But:
+
+temporary:
+
+does not:
+
+automatically:
+
+mean:
+
+meaningful.
+
+## Corrections
+
+```text
+Temporary
+≠
+Meaningful
+```
+
+```text
+Impermanence
+≠
+Artificial Scarcity
+```
+
+## Governance Position
+
+Remain:
+
+architecture-level.
+
+---
+
+# Cross-Case Finding 43 — Constraint as Narrative Receives Stronger Support
+
+## Current Status
+
+Architecture Direction
+
+Strong:
+
+cases:
+
+- ICHIRAN
+- Noma
+- possibly:
+  Franklin
+  through:
+  product / access:
+  constraint
+
+Constraint may:
+
+carry:
+
+story
+
+when:
+
+it:
+
+materially:
+
+explains:
+
+hospitality meaning.
+
+Examples:
+
+- privacy constraints
+- product narrowness
+- seasonal limits
+- ingredient availability
+- access conditions
+
+---
+
+# Falsification
+
+```text
+Operational Constraint
+≠
+Narrative
+```
+
+unless:
+
+the:
+
+constraint
+
+is:
+
+guest-relevant
+
+and:
+
+meaningful.
+
+---
+
+# Cross-Case Finding 44 — Product Focus as Narrative and Constraint as Narrative Can Interact
+
+ICHIRAN:
+
+uses:
+
+product focus
+
+and:
+
+operating:
+
+constraint.
+
+Din Tai Fung:
+
+uses:
+
+strong:
+
+product:
+
+focus
+
+inside:
+
+broader:
+
+hospitality.
+
+Noma:
+
+provides:
+
+a:
+
+counterexample
+
+where:
+
+product:
+
+focus
+
+is:
+
+less:
+
+stable.
+
+These:
+
+should remain:
+
+architecture-level:
+
+directions.
+
+---
+
+# Cross-Case Finding 45 — Leadership Transition Can Carry Story
+
+Noma:
+
+provides:
+
+strong:
+
+evidence
+
+that:
+
+leadership:
+
+change
+
+can:
+
+be:
+
+guest-relevant:
+
+narrative
+
+when:
+
+it:
+
+helps:
+
+explain:
+
+a:
+
+new:
+
+operating:
+
+chapter.
+
+## Research Direction — Leadership Transition as Narrative
+
+Status:
+
+Observed
+
+Potential Home:
+
+Adaptation as Narrative
+
+---
+
+# Deduplication
+
+```text
+Leadership Transition as Narrative
+→
+Adaptation as Narrative
+```
+
+as:
+
+a:
+
+mechanism
+
+when:
+
+leadership:
+
+change
+
+materially:
+
+explains:
+
+current:
+
+hospitality identity.
+
+---
+
+# Cross-Case Finding 46 — Leadership Change Does Not Mean Leadership Conflict
+
+## Correction
+
+```text
+Leadership Change
+≠
+Leadership Conflict
+```
+
+Narrative:
+
+should not:
+
+invent:
+
+drama
+
+that:
+
+evidence
+
+does not:
+
+support.
+
+---
+
+# Cross-Case Finding 47 — Institutional Narrative Is a Real Architecture Direction
+
+Noma:
+
+adds:
+
+strong:
+
+pressure
+
+for:
+
+hospitality brands
+
+that:
+
+outlive:
+
+one:
+
+founder
+
+product
+
+or:
+
+operating era.
+
+## Working Definition
+
+> **The institution itself may become a narrative subject when team, history, method, leadership, research, or operating continuity materially explains the hospitality experience beyond any single person or product.**
+
+## Status
+
+Architecture Direction
+
+Not:
+
+formal pattern.
+
+---
+
+# Cross-Case Finding 48 — Institutional Story and Restaurant Story Must Stay Separate
+
+Noma:
+
+has:
+
+restaurant
+
+group
+
+projects
+
+research
+
+products
+
+and:
+
+archives.
+
+These:
+
+may:
+
+interact.
+
+But:
+
+they:
+
+are not:
+
+identical.
+
+## Correction
+
+```text
+Institution Story
+≠
+Restaurant Story
+```
+
+unless:
+
+the:
+
+relationship
+
+is:
+
+explicit.
+
+---
+
+# Cross-Case Finding 49 — Narrative Expansion Does Not Equal Narrative Strength
+
+A:
+
+brand:
+
+may have:
+
+books
+
+projects
+
+products
+
+research
+
+and:
+
+events.
+
+That:
+
+does not:
+
+automatically:
+
+make:
+
+the:
+
+restaurant's:
+
+story
+
+stronger.
+
+## Correction
+
+```text
+Narrative Expansion
+≠
+Narrative Strength
+```
+
+---
+
+# Cross-Case Finding 50 — Knowledge Sharing Is Not Hospitality by Itself
+
+Noma:
+
+extends:
+
+its:
+
+knowledge:
+
+outside:
+
+the:
+
+restaurant.
+
+That:
+
+may:
+
+carry:
+
+institutional:
+
+meaning.
+
+It does not:
+
+prove:
+
+restaurant:
+
+hospitality quality.
+
+## Correction
+
+```text
+Knowledge Sharing
+≠
+Hospitality Experience
+```
+
+---
+
+# Cross-Case Finding 51 — Knowledge as Hospitality Narrative Is Too Noma-Heavy
+
+Current:
+
+Observed Research Direction
+
+Potential:
+
+support:
+
+may:
+
+eventually:
+
+come from:
+
+restaurants
+
+with:
+
+schools
+
+research:
+
+programs
+
+publishing
+
+or:
+
+knowledge:
+
+products.
+
+## Comparison Decision
+
+Remain:
+
+below Candidate.
+
+---
+
+# Cross-Case Finding 52 — Authority and Openness Can Coexist
+
+Noma:
+
+shows:
+
+a:
+
+high-authority:
+
+institution
+
+that:
+
+publicly:
+
+frames:
+
+itself:
+
+as:
+
+still:
+
+learning
+
+exploring
+
+and:
+
+changing.
+
+## Correction
+
+```text
+Authority
+≠
+Claim of Completion
+```
+
+This is:
+
+a:
+
+useful:
+
+narrative:
+
+boundary.
+
+---
+
+# Cross-Case Finding 53 — Productive Narrative Tension Is Possible
+
+Noma:
+
+holds:
+
+apparently:
+
+opposing:
+
+conditions:
+
+```text
+Heritage
++
+Change
+```
+
+```text
+Authority
++
+Experimentation
+```
+
+```text
+Institution
++
+Leadership Transition
+```
+
+```text
+Place Rootedness
++
+Creative Evolution
+```
+
+These:
+
+can:
+
+coexist
+
+if:
+
+their:
+
+relationship
+
+is:
+
+coherent.
+
+---
+
+# Research Direction — Productive Narrative Tension
+
+## Working Definition
+
+A:
+
+hospitality story
+
+may gain:
+
+explanatory:
+
+strength
+
+from:
+
+holding:
+
+apparently:
+
+opposing:
+
+conditions
+
+when:
+
+the:
+
+relationship
+
+between:
+
+them
+
+is:
+
+meaningful
+
+and:
+
+coherent.
+
+## Status
+
+Observed Research Direction
+
+---
+
+# Falsification
+
+```text
+Narrative Tension
+≠
+Narrative Contradiction
+```
+
+If:
+
+claims
+
+cannot:
+
+coexist
+
+logically
+
+or:
+
+evidentially
+
+the:
+
+story
+
+is:
+
+contradictory
+
+rather than:
+
+productively:
+
+tense.
+
+---
+
+# Comparison Decision — Productive Narrative Tension
+
+Interesting
+
+but:
+
+too:
+
+broad
+
+and:
+
+Noma-heavy.
+
+Remain:
+
+below Candidate.
+
+---
+
+# Cross-Case Finding 54 — Story Through Hospitality Model and Narrative Coherence Are Distinct
+
+This remains:
+
+important.
+
+### Story Through Hospitality Model
+
+What:
+
+carries:
+
+story?
+
+Answer:
+
+the:
+
+operating model.
+
+### Narrative Coherence Through Organising Logic
+
+How:
+
+do:
+
+multiple:
+
+story carriers
+
+remain:
+
+connected?
+
+Answer:
+
+through:
+
+organising logic.
+
+## Correction
+
+```text
+Narrative Carrier
+≠
+Narrative Coherence
+```
+
+A:
+
+strong:
+
+carrier
+
+can still:
+
+sit:
+
+inside:
+
+an:
+
+incoherent:
+
+story system.
+
+---
+
+# Cross-Case Finding 55 — Story Through Place and Story Through Hospitality Model Can Interact
+
+Noma:
+
+makes:
+
+this:
+
+especially:
+
+clear.
+
+```text
+Place
+↓
+Season
+↓
+Operating Model
+↓
+Changing Hospitality Expression
+```
+
+The:
+
+place:
+
+story
+
+and:
+
+operating-model:
+
+story
+
+are:
+
+different:
+
+but:
+
+interdependent.
+
+## Correction
+
+```text
+Pattern Interaction
+≠
+Pattern Duplication
+```
+
+---
+
+# Cross-Case Finding 56 — Shared Evidence Does Not Merge Story Patterns
+
+The same:
+
+asset
+
+or:
+
+fact
+
+may support:
+
+- heritage
+- place
+- biography
+- operating-model story
+- narrative coherence
+- capacity proof
+
+That:
+
+does not:
+
+make:
+
+those:
+
+patterns:
+
+duplicates.
+
+## Correction
+
+```text
+Shared Evidence
+≠
+Shared Pattern
+```
+
+---
+
+# Cross-Case Finding 57 — The Guest as Participant Needs a Stronger Story Boundary
+
+## Current Status
+
+Emerging
+
+Noma:
+
+positions:
+
+the:
+
+guest
+
+inside:
+
+the:
+
+creative:
+
+story.
+
+But:
+
+material:
+
+co-creation
+
+is:
+
+not:
+
+proven.
+
+This creates:
+
+a:
+
+three-part:
+
+distinction.
+
+---
+
+# Narrative Participation
+
+The:
+
+guest
+
+is:
+
+included:
+
+inside:
+
+the:
+
+story.
+
+---
+
+# Operational Participation
+
+The:
+
+guest
+
+performs:
+
+meaningful:
+
+actions
+
+inside:
+
+the:
+
+hospitality:
+
+system.
+
+---
+
+# Creative Participation
+
+The:
+
+guest:
+
+materially:
+
+influences:
+
+creative:
+
+output.
+
+---
+
+# Correction
+
+```text
+Narrative Participation
+≠
+Operational Participation
+≠
+Creative Participation
+```
+
+This should:
+
+remain:
+
+a:
+
+core:
+
+The Guest as Participant:
+
+boundary.
+
+---
+
+# Cross-Case Finding 58 — Guest Inclusion Does Not Equal Co-Authorship
+
+```text
+Guest Included in Narrative
+≠
+Guest Co-Author
+```
+
+This:
+
+protects:
+
+the:
+
+pattern
+
+from:
+
+becoming:
+
+meaningless.
+
+---
+
+# Cross-Case Finding 59 — The Guest as Participant Remains Strong but Contextual
+
+Strong:
+
+participation:
+
+cases:
+
+- Haidilao
+- ICHIRAN
+- Din Tai Fung
+
+Noma:
+
+adds:
+
+narrative:
+
+participation
+
+but:
+
+uncertain:
+
+creative:
+
+participation.
+
+## Governance Position
+
+No:
+
+promotion:
+
+pressure
+
+from:
+
+Noma.
+
+Definition:
+
+gets:
+
+stronger.
+
+---
+
+# Cross-Case Finding 60 — Story Before Features Remains Useful but Must Stay Narrow
+
+The pattern:
+
+is:
+
+strongest
+
+when:
+
+meaning
+
+helps:
+
+the:
+
+guest
+
+understand:
+
+why:
+
+the:
+
+experience
+
+matters.
+
+It should not:
+
+become:
+
+a:
+
+rule
+
+that:
+
+functional:
+
+information
+
+must:
+
+always:
+
+come:
+
+later.
+
+## Correction
+
+```text
+Story Before Features
+≠
+Meaning Before Every Utility
+```
+
+---
+
+# Cross-Case Finding 61 — Narrative Language Within Clear Interface Remains Distinct
+
+## Current Status
+
+Candidate / High
+
+This pattern:
+
+concerns:
+
+how:
+
+narrative:
+
+language
+
+coexists:
+
+with:
+
+clear:
+
+interface:
+
+function.
+
+Noma:
+
+does not:
+
+materially:
+
+change:
+
+its:
+
+definition.
+
+## Boundary
+
+```text
+Narrative Language
+≠
+Narrative Architecture
+```
+
+The:
+
+pattern
+
+is:
+
+interface-level.
+
+Story Through Hospitality Model
+
+and:
+
+Narrative Coherence
+
+are:
+
+deeper:
+
+architecture.
+
+---
+
+# Cross-Case Finding 62 — Temporal Story Is Not a Formal Pattern Yet
+
+Noma:
+
+provides:
+
+strong:
+
+support.
+
+But:
+
+current:
+
+direct:
+
+evidence
+
+remains:
+
+too:
+
+concentrated.
+
+Potential:
+
+partial:
+
+support:
+
+- seasonal:
+  NARISAWA
+- adaptation:
+  Din Tai Fung
+- heritage:
+  Talisman
+
+Need:
+
+stronger:
+
+independent:
+
+temporal:
+
+cases.
+
+## Governance Position
+
+Remain:
+
+Observed Research Direction.
+
+---
+
+# Cross-Case Finding 63 — Time Should Only Carry Story When It Changes Meaning
+
+## Correction
+
+```text
+Time Exists
+≠
+Time Is Narrative
+```
+
+A:
+
+reservation date
+
+or:
+
+opening hour
+
+does not:
+
+automatically:
+
+carry:
+
+story.
+
+Time becomes:
+
+narrative
+
+when:
+
+it:
+
+materially:
+
+changes:
+
+what:
+
+the:
+
+experience:
+
+means.
+
+---
+
+# Cross-Case Finding 64 — Narrative Era Is Useful for Long-Lived Hospitality Brands
+
+Noma:
+
+makes:
+
+operating-era:
+
+distinction:
+
+important.
+
+Potential:
+
+eras:
+
+- Origin
+- Previous Operating Era
+- Transitional Era
+- Current Era
+- Future Direction
+
+## Architecture Variable — Narrative Era
+
+Status:
+
+Architecture Variable
+
+---
+
+# Cross-Case Finding 65 — Era Labeling Protects Narrative Accuracy
+
+A:
+
+historical:
+
+story
+
+can:
+
+remain:
+
+relevant.
+
+But:
+
+it should:
+
+not:
+
+be:
+
+silently:
+
+presented:
+
+as:
+
+current:
+
+operating reality.
+
+## Correction
+
+```text
+Hospitality History
+≠
+Current Hospitality State
+```
+
+---
+
+# Cross-Case Finding 66 — Narrative Freshness and Evidence Freshness Should Interoperate
+
+A:
+
+current:
+
+story
+
+may:
+
+use:
+
+historical:
+
+evidence.
+
+That can:
+
+be:
+
+valid
+
+when:
+
+historical:
+
+status
+
+is:
+
+clear
+
+and:
+
+the:
+
+evidence
+
+actually:
+
+supports:
+
+the:
+
+current:
+
+continuity:
+
+claim.
+
+## Proposed Relationship
+
+```text
+Current Narrative Claim
++
+Historical Evidence
++
+Explicit Historical Context
+=
+Potentially Valid Continuity Proof
+```
+
+---
+
+# Cross-Case Finding 67 — Strong Historical Story Can Become a Liability if It Overwrites Current Reality
+
+Noma:
+
+avoids:
+
+this:
+
+by:
+
+explicitly:
+
+updating:
+
+its:
+
+2026:
+
+story.
+
+The:
+
+general:
+
+boundary is:
+
+```text
+Strong Historical Story
+≠
+Current Narrative Fit
+```
+
+This is:
+
+especially:
+
+important
+
+for:
+
+legacy:
+
+hospitality:
+
+brands.
+
+---
+
+# Cross-Case Finding 68 — Institutional Continuity Is Distinct From Narrative Continuity
+
+### Institutional Continuity
+
+The:
+
+hospitality institution
+
+persists:
+
+across:
+
+change.
+
+### Narrative Continuity
+
+The:
+
+story
+
+remains:
+
+coherent:
+
+across:
+
+change.
+
+One:
+
+does not:
+
+guarantee:
+
+the:
+
+other.
+
+## Correction
+
+```text
+Institutional Continuity
+≠
+Narrative Continuity
+```
+
+---
+
+# Cross-Case Finding 69 — Institutional Continuity Is a Useful Architecture Variable
+
+Strongest:
+
+case:
+
+Noma.
+
+Potential:
+
+future:
+
+relevance:
+
+- founder transitions
+- multigenerational restaurants
+- restaurant groups
+- institutional reinvention
+- chef succession
+
+## Status
+
+Architecture Variable
+
+Not:
+
+formal pattern.
+
+---
+
+# Cross-Case Finding 70 — Story Can Be Distributed Across Multiple Surfaces
+
+Across:
+
+restaurants
+
+meaning:
+
+may be:
+
+distributed across:
+
+- homepage
+- menu
+- reservations
+- people
+- history
+- photography
+- location pages
+- process pages
+- projects
+
+Therefore:
+
+```text
+Story
+≠
+One Story Page
+```
+
+This remains:
+
+strongly:
+
+supported.
+
+---
+
+# Cross-Case Finding 71 — Narrative Distribution Is a Useful Variable
+
+## Definition
+
+How:
+
+concentrated
+
+or:
+
+distributed
+
+the:
+
+hospitality story
+
+is:
+
+across:
+
+different:
+
+carriers
+
+and:
+
+surfaces.
+
+Possible states:
+
+- Highly Concentrated
+- Moderately Concentrated
+- Distributed
+- Highly Distributed
+
+## Status
+
+Architecture Variable
+
+---
+
+# Cross-Case Finding 72 — Distributed Story Needs Organising Logic More, Not Less
+
+The:
+
+more:
+
+story:
+
+carriers
+
+a:
+
+restaurant
+
+uses
+
+the:
+
+greater:
+
+the:
+
+risk
+
+of:
+
+fragmentation.
+
+Therefore:
+
+Narrative Coherence Through Organising Logic
+
+becomes:
+
+more:
+
+important
+
+as:
+
+Narrative Distribution
+
+increases.
+
+## Proposed Relationship
+
+```text
+Higher Narrative Distribution
+→
+Greater Coherence Requirement
+```
+
+Architecture hypothesis.
+
+---
+
+# Cross-Case Finding 73 — Narrative Boundary Is Useful for Expanded Institutions
+
+Noma:
+
+extends:
+
+beyond:
+
+the:
+
+restaurant
+
+through:
+
+projects
+
+research
+
+products
+
+and:
+
+publishing.
+
+Other:
+
+hospitality brands
+
+may:
+
+do:
+
+the:
+
+same.
+
+## Architecture Variable — Narrative Boundary
+
+Possible states:
+
+- Restaurant Only
+- Restaurant + Brand
+- Restaurant + Institution
+- Restaurant + Products
+- Restaurant + Research
+- Expanded Ecosystem
+
+## Status
+
+Architecture Variable
+
+---
+
+# Cross-Case Finding 74 — Expanded Narrative Boundary Needs Relevance Discipline
+
+More:
+
+institutional:
+
+content
+
+does not:
+
+automatically:
+
+belong:
+
+inside:
+
+the:
+
+restaurant:
+
+story.
+
+The:
+
+relevant:
+
+question is:
+
+> **Does this external activity materially help explain the restaurant's current hospitality meaning?**
+
+If not:
+
+it may:
+
+remain:
+
+institutional:
+
+context
+
+rather than:
+
+restaurant:
+
+story.
+
+---
+
+# Cross-Case Finding 75 — Narrative Horizon Can Extend Beyond the Visit
+
+Noma:
+
+provides:
+
+strong:
+
+multi-stage:
+
+narrative:
+
+pressure.
+
+Potential:
+
+story:
+
+horizons:
+
+- Pre-Visit
+- Visit
+- Post-Visit
+- Long-Term Institutional
+- Multi-Stage
+
+## Architecture Variable — Narrative Horizon
+
+Status:
+
+Architecture Variable
+
+---
+
+# Cross-Case Finding 76 — Narrative Horizon and Participation Journey Are Different
+
+A:
+
+story
+
+can:
+
+extend:
+
+before
+
+or:
+
+after:
+
+the:
+
+visit
+
+without:
+
+creating:
+
+meaningful:
+
+participation.
+
+## Correction
+
+```text
+Narrative Continuity
+≠
+Participation Continuity
+```
+
+---
+
+# Cross-Case Finding 77 — Recognition Remains Supporting Proof, Not Story by Default
+
+Across:
+
+high-authority:
+
+restaurants
+
+awards
+
+rankings
+
+and:
+
+recognition
+
+may:
+
+support:
+
+credibility.
+
+But:
+
+they:
+
+do not:
+
+automatically:
+
+explain:
+
+what:
+
+the:
+
+experience:
+
+means.
+
+## Correction
+
+```text
+Recognition
+≠
+Primary Story
+```
+
+---
+
+# Cross-Case Finding 78 — Authority Does Not Require Narrative Closure
+
+Noma:
+
+shows:
+
+authority
+
+and:
+
+experimentation
+
+can:
+
+coexist.
+
+## Correction
+
+```text
+Authority
+≠
+Claim of Completion
+```
+
+This is:
+
+useful:
+
+for:
+
+research-led
+
+or:
+
+adaptive:
+
+hospitality:
+
+brands.
+
+---
+
+# Cross-Case Finding 79 — Productive Narrative Tension Is Not the Same as Contradiction
+
+Potential:
+
+tensions:
+
+- heritage + change
+- authority + experimentation
+- consistency + evolution
+- local rootedness + global institution
+- standardisation + adaptation
+
+These:
+
+may:
+
+strengthen:
+
+meaning
+
+when:
+
+their:
+
+relationship
+
+is:
+
+legible.
+
+## Correction
+
+```text
+Narrative Tension
+≠
+Narrative Contradiction
+```
+
+---
+
+# Cross-Case Finding 80 — Narrative Contradiction Is a Failure State
+
+If:
+
+a:
+
+restaurant
+
+simultaneously:
+
+claims:
+
+incompatible:
+
+things
+
+without:
+
+a:
+
+coherent:
+
+relationship
+
+that is:
+
+not:
+
+productive:
+
+tension.
+
+It is:
+
+narrative:
+
+conflict.
+
+This gives:
+
+Productive Narrative Tension:
+
+a:
+
+needed:
+
+falsification:
+
+boundary.
+
+---
+
+# Cross-Case Finding 81 — Story Architecture Is Increasingly About Invariants and Carriers
+
+The:
+
+post-Noma:
+
+story model
+
+can be:
+
+simplified:
+
+into:
+
+two:
+
+questions.
+
+### What carries meaning?
+
+Narrative Carriers.
+
+### What stabilizes meaning across change?
+
+Narrative Invariants.
+
+This is:
+
+especially:
+
+useful
+
+for:
+
+hospitality:
+
+brands
+
+with:
+
+changing:
+
+products
+
+leaders
+
+or:
+
+locations.
+
+---
+
+# Cross-Case Finding 82 — Carrier and Invariant Are Different
+
+A:
+
+narrative:
+
+carrier
+
+may change.
+
+An:
+
+invariant
+
+may remain:
+
+stable.
+
+Example:
+
+Noma's:
+
+specific:
+
+seasonal:
+
+expression
+
+may change
+
+while:
+
+relationship:
+
+to:
+
+season
+
+and:
+
+research
+
+remains:
+
+more:
+
+stable.
+
+## Correction
+
+```text
+Narrative Carrier
+≠
+Narrative Invariant
+```
+
+---
+
+# Cross-Case Finding 83 — Narrative Anchor Is Not Necessarily the Invariant
+
+A:
+
+Narrative Anchor
+
+is:
+
+the:
+
+strongest:
+
+current:
+
+stabilizing:
+
+story:
+
+element.
+
+A:
+
+Narrative Invariant
+
+is:
+
+what:
+
+persists:
+
+across:
+
+change.
+
+They may:
+
+be:
+
+the same.
+
+They may:
+
+not.
+
+## Correction
+
+```text
+Narrative Anchor
+≠
+Narrative Invariant
+```
+
+---
+
+# Cross-Case Finding 84 — Coherence Through Change Requires Better Independent Falsification
+
+Noma:
+
+provides:
+
+extremely strong:
+
+support.
+
+Partial:
+
+support
+
+may exist:
+
+through:
+
+- Din Tai Fung localization
+- Talisman continuity
+- Dishoom multi-location narrative
+- Alinea transformation
+- NARISAWA seasonal ecology
+
+But:
+
+Noma remains:
+
+the:
+
+dominant:
+
+high-change:
+
+case.
+
+## Governance Position
+
+Remain:
+
+below Candidate.
+
+Need:
+
+another:
+
+restaurant
+
+where:
+
+the:
+
+guest-facing:
+
+hospitality expression
+
+changes:
+
+materially
+
+across:
+
+time
+
+while:
+
+identity:
+
+claims:
+
+continuity.
+
+---
+
+# Cross-Case Finding 85 — Story Through Hospitality Model Has Better Transferability Than Coherence Through Change
+
+This is:
+
+important.
+
+Story Through Hospitality Model
+
+now survives:
+
+very different:
+
+operating systems.
+
+Coherence Through Change
+
+currently:
+
+depends:
+
+more:
+
+heavily:
+
+on:
+
+temporal:
+
+change.
+
+Therefore:
+
+the:
+
+former
+
+has:
+
+much:
+
+stronger:
+
+formal:
+
+maturity:
+
+support.
+
+---
+
+# Cross-Case Finding 86 — Narrative Coherence Through Organising Logic Also Has Stronger Transferability
+
+The pattern:
+
+applies:
+
+to:
+
+multiple:
+
+story:
+
+structures
+
+whether:
+
+stable
+
+or:
+
+changing.
+
+Noma:
+
+adds:
+
+temporal:
+
+depth
+
+rather than:
+
+creating:
+
+the:
+
+pattern.
+
+This makes:
+
+Narrative Coherence
+
+more:
+
+transferable
+
+than:
+
+Coherence Through Change
+
+at:
+
+present.
+
+---
+
+# Current Post-Noma Story Architecture
 
 ```text
 Hospitality Meaning
 ↓
 What Best Explains It?
 ↓
-Narrative Scale
-↓
-Brand?
-Location?
-Product?
-Person?
-Hospitality System?
-↓
-Primary Narrative Anchor
+Primary Narrative Carrier
 +
 Supporting Narrative Carriers
 ↓
@@ -3870,21 +5941,38 @@ Ritual
 Participation
 Operating Model
 Constraint
-Local Expression
+Research
+Institution
+Time
+where relevant
+↓
+Narrative Subject
++
+Narrative Scale
++
+Narrative Era
++
+Narrative Boundary
++
+Narrative Horizon
+↓
+What Remains Stable?
+↓
+Narrative Anchor
++
+Narrative Invariant where relevant
 ↓
 Organising Logic
-↓
-Narrative Weight Based on Explanatory Value
-↓
-Narrative Specificity
 ↓
 What Must Be Explained?
 +
 What Must Be Proven?
 +
-What Can Remain Experiential?
+What May Remain Experiential?
++
+What May Remain Open?
 ↓
-Relevant Narrative
+Narrative Freshness
 +
 Relevant Evidence
 ↓
@@ -3899,35 +5987,499 @@ Experienced Meaning
 
 ---
 
-# Simplified Story Architecture
+# Simplified Post-Noma Story Architecture
 
 ```text
-Hospitality Meaning
+What Does This Hospitality Mean?
 ↓
 What Best Explains It?
 ↓
-Primary Narrative Carrier
+Which Narrative Carriers Matter?
 ↓
+What Organising Logic Connects Them?
+↓
+What Must Remain Stable?
++
+What May Change?
+↓
+Relevant Narrative
++
 Relevant Evidence
 ↓
 Guest Understanding
-↓
-Participation
-↓
-Experienced Meaning
 ```
 
-This remains:
+This is:
 
-the strongest:
+the:
 
-cross-restaurant:
+strongest:
 
-story abstraction.
+current:
+
+story:
+
+abstraction.
 
 ---
 
-# Story Corrections After Thirteen Restaurants
+# Post-Noma Story Variables
+
+---
+
+## Carrier
+
+- Place
+- Worldview
+- Heritage
+- Biography
+- Product
+- Craft
+- Cultural Memory
+- Ecology
+- Service
+- Ritual
+- Participation
+- Operating Model
+- Constraint
+- Research
+- Institution
+- Time
+
+---
+
+## Structure
+
+- Narrative Anchor
+- Narrative Invariant
+- Narrative Distribution
+- Organising Logic
+- Narrative Subject
+
+---
+
+## Context
+
+- Narrative Scale
+- Narrative Entity
+- Narrative Era
+- Narrative Boundary
+- Narrative Horizon
+- Narrative Freshness
+
+---
+
+## Change
+
+- Institutional Continuity
+- Method as Narrative Anchor
+- Narrative Temporal Coherence
+- Adaptive Narrative
+- Fixed / Open Narrative
+- Adaptation as Narrative
+
+These are:
+
+architecture variables
+
+or:
+
+research directions.
+
+Not:
+
+formal patterns
+
+unless:
+
+already:
+
+governed.
+
+---
+
+# Pattern Pressure — Story Through Hospitality Model
+
+Current:
+
+Emerging
+
+Noma:
+
+Extremely Strong
+
+Cross-Case Position:
+
+Major Strengthening
+
+Independent:
+
+materially:
+
+different:
+
+strong cases:
+
+- Haidilao
+- ICHIRAN
+- Din Tai Fung
+- Noma
+
+Governance Watch:
+
+Strong maturity review.
+
+---
+
+# Pattern Pressure — Narrative Coherence Through Organising Logic
+
+Current:
+
+Emerging
+
+Noma:
+
+Extremely Strong
+
+Cross-Case Position:
+
+Major Strengthening
+
+Primary refinement:
+
+coherence may:
+
+operate:
+
+across:
+
+time.
+
+Governance Watch:
+
+Strong maturity review.
+
+---
+
+# Pattern Pressure — Story Through Place
+
+Current:
+
+Emerging
+
+Noma:
+
+Extremely Strong
+
+Cross-Case Position:
+
+Major Strengthening
+
+Primary refinement:
+
+place may:
+
+be:
+
+relational
+
+rather than:
+
+geographic only.
+
+Governance Watch:
+
+Strong maturity review.
+
+---
+
+# Pattern Pressure — Heritage Builds Confidence
+
+Current:
+
+Candidate / Medium-High
+
+Noma:
+
+Very Strong
+
+Cross-Case Position:
+
+Definition / Confidence Review
+
+Primary refinement:
+
+Living Heritage
+
++
+
+Adaptation
+
++
+
+Future-Facing Heritage.
+
+---
+
+# Pattern Pressure — Biography When It Explains the Experience
+
+Current:
+
+Emerging
+
+Noma:
+
+Very Strong
+
+Cross-Case Position:
+
+Strengthened
+
+Primary refinement:
+
+Distributed Biography.
+
+---
+
+# Pattern Pressure — Story Before Features
+
+Current:
+
+Emerging
+
+Noma:
+
+Very Strong
+
+Cross-Case Position:
+
+Strengthened
+
+Boundary:
+
+Story
+
+does not:
+
+replace:
+
+utility.
+
+---
+
+# Pattern Pressure — The Guest as Participant
+
+Current:
+
+Emerging
+
+Noma:
+
+Mixed / Boundary
+
+Cross-Case Position:
+
+Definition strengthened
+
+through:
+
+participation-type:
+
+separation.
+
+---
+
+# Pattern Pressure — Narrative Language Within Clear Interface
+
+Current:
+
+Candidate / High
+
+Noma:
+
+Limited direct pressure
+
+Cross-Case Position:
+
+No major change.
+
+---
+
+# New Direction — Adaptation as Narrative
+
+Current:
+
+Observed Research Direction
+
+Post-Noma Position:
+
+Strong Candidate Watch
+
+Strong cases:
+
+Din Tai Fung
+
+Noma
+
+Possible:
+
+support:
+
+Talisman
+
+Dishoom.
+
+Need:
+
+final:
+
+governance:
+
+deduplication.
+
+---
+
+# New Direction — Coherence Through Change
+
+Current:
+
+Observed Cross-Dimensional Research Direction
+
+Post-Noma Story Position:
+
+Extremely Strong
+
+Cross-Case Decision:
+
+Remain below Candidate
+
+because:
+
+Noma remains:
+
+dominant:
+
+high-change:
+
+case
+
+and:
+
+definition:
+
+still:
+
+broad.
+
+---
+
+# New Direction — Research as Narrative Carrier
+
+Current:
+
+Observed
+
+Post-Noma Position:
+
+Strong but Noma-heavy
+
+Likely:
+
+mechanism inside:
+
+Story Through Hospitality Model.
+
+No Candidate promotion.
+
+---
+
+# New Direction — Temporal Story
+
+Current:
+
+Observed
+
+Post-Noma Position:
+
+Strong but Noma-heavy
+
+Remain:
+
+below Candidate.
+
+---
+
+# New Direction — Productive Narrative Tension
+
+Current:
+
+Observed
+
+Post-Noma Position:
+
+Interesting
+
+but:
+
+broad
+
+and:
+
+Noma-heavy.
+
+Remain:
+
+below Candidate.
+
+---
+
+# New Direction — Institutional Narrative
+
+Current:
+
+Architecture Direction
+
+Post-Noma Position:
+
+Important
+
+for:
+
+legacy:
+
+hospitality brands
+
+but:
+
+not:
+
+formal pattern.
+
+---
+
+# New Direction — Fixed / Open Narrative
+
+Current:
+
+Architecture Direction
+
+Post-Noma Position:
+
+Useful under:
+
+future:
+
+uncertainty
+
+but:
+
+not:
+
+formal pattern.
+
+---
+
+# Story Corrections — Post-Noma
 
 ---
 
@@ -3947,171 +6499,41 @@ Story
 
 ≠
 
-Long-Form Copy.
+Biography Only.
 
 ---
 
 ## Correction 3
 
-Story Before Features
+Strong Hospitality Story
 
 ≠
 
-Storytelling Before Functions.
+One Story Formula.
 
 ---
 
 ## Correction 4
 
-Biography
+Historically Important
 
 ≠
 
-Required Narrative.
+Currently Most Explanatory.
 
 ---
 
 ## Correction 5
 
-Founder Exists
+Strong Historical Story
 
 ≠
 
-Founder Story Is Relevant.
+Current Narrative Fit.
 
 ---
 
 ## Correction 6
-
-Heritage
-
-≠
-
-Age Alone.
-
----
-
-## Correction 7
-
-Growth
-
-≠
-
-Story.
-
----
-
-## Correction 8
-
-Recognition
-
-≠
-
-Primary Narrative.
-
----
-
-## Correction 9
-
-Functional Language
-
-≠
-
-Narrative Weakness.
-
----
-
-## Correction 10
-
-Product
-
-≠
-
-Only Commercial Offering.
-
----
-
-## Correction 11
-
-Craft Detail
-
-≠
-
-Supporting Trivia.
-
----
-
-## Correction 12
-
-Operating Model
-
-≠
-
-Automatically Story.
-
----
-
-## Correction 13
-
-Any Rule
-
-≠
-
-Narrative.
-
----
-
-## Correction 14
-
-Standardisation
-
-≠
-
-Narrative Absence.
-
----
-
-## Correction 15
-
-Global Brand
-
-≠
-
-Location-Neutral Story.
-
----
-
-## Correction 16
-
-Local Expression
-
-≠
-
-New Brand Story.
-
----
-
-## Correction 17
-
-Brand Story
-
-≠
-
-Location Story.
-
----
-
-## Correction 18
-
-Narrative Coherence
-
-≠
-
-Story Through Hospitality Model.
-
----
-
-## Correction 19
 
 Story Through Hospitality Model
 
@@ -4121,353 +6543,731 @@ Hospitality System Proof.
 
 ---
 
-## Correction 20
+## Correction 7
 
-Story Through Hospitality Model
+System Story
 
 ≠
 
-Show the System Behind the Plate.
+System Proof.
+
+---
+
+## Correction 8
+
+Process-Led Narrative
+
+≠
+
+Story Through Hospitality Model.
+
+---
+
+## Correction 9
+
+Narrative Coherence
+
+≠
+
+Narrative Repetition.
+
+---
+
+## Correction 10
+
+Story Through Place
+
+≠
+
+Story Through Address.
+
+---
+
+## Correction 11
+
+Heritage
+
+≠
+
+Promise of Sameness.
+
+---
+
+## Correction 12
+
+Strong Hospitality Story
+
+≠
+
+Biography Required.
+
+---
+
+## Correction 13
+
+Relevant Biography
+
+≠
+
+Single Hero Founder.
+
+---
+
+## Correction 14
+
+Institutional Narrative
+
+≠
+
+Biography.
+
+---
+
+## Correction 15
+
+Narrative Subject
+
+≠
+
+Narrative Anchor.
+
+---
+
+## Correction 16
+
+Signature Product
+
+≠
+
+Required Narrative Anchor.
+
+---
+
+## Correction 17
+
+Research as Narrative
+
+≠
+
+Research as Atmosphere.
+
+---
+
+## Correction 18
+
+Research Narrative
+
+≠
+
+Research Evidence.
+
+---
+
+## Correction 19
+
+Adaptation as Narrative
+
+≠
+
+Heritage Builds Confidence.
+
+---
+
+## Correction 20
+
+Story of Change
+
+≠
+
+Coherence Across Change.
 
 ---
 
 ## Correction 21
 
-Same Evidence
+Narrative Coherence
 
 ≠
 
-Same Function.
+Coherence Through Change.
 
 ---
 
 ## Correction 22
 
-More Story Copy
+Narrative Adaptation
 
 ≠
 
-More Narrative Value.
+Narrative Reinvention.
 
 ---
 
 ## Correction 23
 
-Story Exposure
+Narrative Logic
 
 ≠
 
-Experienced Meaning.
+Outcome Certainty.
 
 ---
 
-# Current Story Tensions
+## Correction 24
+
+Narrative Promise
+
+≠
+
+Evidence.
 
 ---
 
-# Tension 1 — Explicit Story vs Embodied Story
+## Correction 25
+
+Utility
+
+≠
+
+Narrative Absence.
+
+---
+
+## Correction 26
+
+Temporal Story
+
+≠
+
+Timeline.
+
+---
+
+## Correction 27
+
+Time Exists
+
+≠
+
+Time Is Narrative.
+
+---
+
+## Correction 28
+
+Temporary
+
+≠
+
+Meaningful.
+
+---
+
+## Correction 29
+
+Impermanence
+
+≠
+
+Artificial Scarcity.
+
+---
+
+## Correction 30
+
+Operational Constraint
+
+≠
+
+Narrative.
+
+---
+
+## Correction 31
+
+Leadership Change
+
+≠
+
+Leadership Conflict.
+
+---
+
+## Correction 32
+
+Institution Story
+
+≠
+
+Restaurant Story.
+
+---
+
+## Correction 33
+
+Narrative Expansion
+
+≠
+
+Narrative Strength.
+
+---
+
+## Correction 34
+
+Knowledge Sharing
+
+≠
+
+Hospitality Experience.
+
+---
+
+## Correction 35
+
+Authority
+
+≠
+
+Claim of Completion.
+
+---
+
+## Correction 36
+
+Narrative Tension
+
+≠
+
+Narrative Contradiction.
+
+---
+
+## Correction 37
+
+Narrative Carrier
+
+≠
+
+Narrative Coherence.
+
+---
+
+## Correction 38
+
+Pattern Interaction
+
+≠
+
+Pattern Duplication.
+
+---
+
+## Correction 39
+
+Shared Evidence
+
+≠
+
+Shared Pattern.
+
+---
+
+## Correction 40
+
+Narrative Participation
+
+≠
+
+Operational Participation
+
+≠
+
+Creative Participation.
+
+---
+
+## Correction 41
+
+Guest Included in Narrative
+
+≠
+
+Guest Co-Author.
+
+---
+
+## Correction 42
+
+Narrative Language
+
+≠
+
+Narrative Architecture.
+
+---
+
+## Correction 43
+
+Hospitality History
+
+≠
+
+Current Hospitality State.
+
+---
+
+## Correction 44
+
+Institutional Continuity
+
+≠
+
+Narrative Continuity.
+
+---
+
+## Correction 45
+
+Narrative Continuity
+
+≠
+
+Participation Continuity.
+
+---
+
+## Correction 46
+
+Narrative Carrier
+
+≠
+
+Narrative Invariant.
+
+---
+
+## Correction 47
+
+Narrative Anchor
+
+≠
+
+Narrative Invariant.
+
+---
+
+# Story Tension 1 — Stability vs Coherence
 
 Question:
 
-> **How much meaning should be explained directly, and how much should be allowed to emerge through product, place, service, participation, or experience?**
+> **What must remain stable when product, people, and operating model change?**
 
-Relevant cases:
+Post-Noma:
 
-Alinea
-
-Haidilao
-
-ICHIRAN
-
-Din Tai Fung.
-
-Status:
-
-Active.
+Primary.
 
 ---
 
-# Tension 2 — Biography vs Experience
+# Story Tension 2 — Founder vs Institution
 
 Question:
 
-> **When does the founder or chef materially explain the hospitality experience, and when does biography become self-focused brand content?**
+> **When should hospitality identity remain founder-led, and when should the institution become the stronger narrative subject?**
 
-Status:
-
-Strong architecture tension.
-
----
-
-# Tension 3 — Heritage vs Present Relevance
-
-Question:
-
-> **When does history create present-day meaning rather than functioning as decorative age?**
-
-Living Heritage
-
-may:
-
-help:
-
-clarify:
-
-this.
-
-Status:
-
-Active.
-
----
-
-# Tension 4 — Product Story vs Broader Hospitality Story
-
-Question:
-
-> **When can one signature product carry enough meaning to anchor the brand, and when does that become too narrow?**
-
-Relevant cases:
-
-Franklin
-
-ICHIRAN
-
-Din Tai Fung.
-
-Status:
-
-Active.
-
----
-
-# Tension 5 — Operating Model vs Utility
-
-Question:
-
-> **When does explaining how the restaurant works become narrative rather than merely functional information?**
-
-Central to:
-
-Story Through Hospitality Model.
-
-Status:
-
-Active.
-
----
-
-# Tension 6 — Global Consistency vs Local Narrative
-
-Question:
-
-> **Which parts of a multi-location story should remain invariant, and which should be allowed to adapt to location?**
-
-Din Tai Fung:
-
-creates:
-
-strong:
-
-new pressure.
-
-Status:
-
-Active.
-
----
-
-# Tension 7 — Standardisation vs Individuality
-
-Question:
-
-> **Can a repeatable system communicate character and meaning without making the hospitality experience feel generic?**
-
-Website research:
-
-cannot resolve:
-
-guest perception.
-
-Status:
-
-Active.
-
----
-
-# Tension 8 — Narrative Specificity vs Narrative Volume
-
-Question:
-
-> **How little content can communicate a strong story when the details are sufficiently specific?**
-
-Status:
-
-Active.
-
----
-
-# Tension 9 — Cultural Origin vs Cultural Translation
-
-Question:
-
-> **How should a hospitality brand preserve its cultural origin while making sense inside another geographic context?**
-
-Status:
-
-New post–Din Tai Fung tension.
-
----
-
-# Pattern Pressure Summary
-
----
-
-# Story Before Features
-
-Current Status:
-
-Emerging
-
-Din Tai Fung Pressure:
-
-Strong boundary support.
-
-Definition:
-
-requires:
-
-meaning before:
-
-feature reduction
-
-not:
-
-storytelling before utility.
-
-Recommendation:
-
-Retain.
-
----
-
-# Story Through Place
-
-Current Status:
-
-Emerging
-
-Din Tai Fung Pressure:
-
-Moderate.
-
-Recommendation:
-
-Retain.
-
----
-
-# Narrative Coherence Through Organising Logic
-
-Current Status:
-
-Emerging
-
-Din Tai Fung Pressure:
-
-Strong.
-
-New refinement:
-
-nested:
-
-brand-level
-
-and:
-
-location-level:
-
-organising logics.
-
-Recommendation:
-
-Retain.
-
----
-
-# Heritage Builds Confidence
-
-Current Status:
-
-Candidate / Medium
-
-Din Tai Fung Pressure:
-
-Strong.
-
-Definition pressure:
-
-specificity
-
-continuity
-
-and:
-
-present practice.
-
-Recommendation:
-
-Strong review during:
-
-governance reconciliation.
-
----
-
-# Biography When It Explains the Experience
-
-Current Status:
-
-Candidate / High
-
-Din Tai Fung Pressure:
+Post-Noma:
 
 Very Strong.
 
-Recommendation:
+---
 
-Retain.
+# Story Tension 3 — Heritage vs Adaptation
 
-Strong cross-case support.
+Question:
+
+> **When does change strengthen heritage, and when does it break continuity?**
+
+Active.
 
 ---
 
-# Narrative Language Within Clear Interface
+# Story Tension 4 — Product vs Method
 
-Current Status:
+Question:
 
-Candidate / High
+> **When can method carry identity more effectively than one signature product?**
 
-Din Tai Fung Pressure:
+Post-Noma:
 
-Boundary evidence.
+Very Strong.
 
-Recommendation:
+---
 
-No change.
+# Story Tension 5 — Worldview vs Operating Model
+
+Question:
+
+> **Does the restaurant merely describe a worldview, or does the hospitality system materially enact it?**
+
+Active.
+
+---
+
+# Story Tension 6 — Story vs Proof
+
+Question:
+
+> **How much narrative can create confidence before evidence becomes necessary?**
+
+Active.
+
+---
+
+# Story Tension 7 — Narrative Adaptation vs Narrative Drift
+
+Question:
+
+> **How much can the story evolve before it no longer explains the same hospitality identity?**
+
+Post-Noma:
+
+Major.
+
+---
+
+# Story Tension 8 — Place Rootedness vs Global Institution
+
+Question:
+
+> **How does place remain meaningful when the hospitality brand becomes internationally recognized or institutionally distributed?**
+
+Active.
+
+---
+
+# Story Tension 9 — Research vs Finished Hospitality
+
+Question:
+
+> **Can research and experimentation carry story without making the experience feel unfinished?**
+
+Guest perception:
+
+not:
+
+resolvable:
+
+from:
+
+website evidence alone.
+
+---
+
+# Story Tension 10 — Narrative Inclusion vs Creative Participation
+
+Question:
+
+> **When does telling the guest they are part of the story become actual co-creation?**
+
+Active.
+
+---
+
+# Story Tension 11 — Current Story vs Legacy Story
+
+Question:
+
+> **How should legacy hospitality brands preserve meaningful history without allowing it to overwrite current operating reality?**
+
+Post-Noma:
+
+Major.
+
+---
+
+# Story Tension 12 — Fixed Meaning vs Open Outcomes
+
+Question:
+
+> **Which narrative commitments need to remain fixed for changing product outcomes to remain credible?**
+
+Major:
+
+post-Noma:
+
+tension.
+
+---
+
+# Story Tension 13 — Narrative Distribution vs Coherence
+
+Question:
+
+> **How distributed can a hospitality story become before the guest loses the organising logic?**
+
+Active.
+
+---
+
+# Story Tension 14 — Authority vs Openness
+
+Question:
+
+> **Can a highly authoritative hospitality institution remain credible while publicly framing itself as still learning and experimenting?**
+
+Active.
+
+---
+
+# Strongest Falsification Questions
 
 ---
 
 # Story Through Hospitality Model
 
-Current Status:
+> **When does understanding the operating model add little meaningful understanding of the hospitality experience?**
+
+---
+
+# Narrative Coherence Through Organising Logic
+
+> **When do multiple story carriers remain individually strong but fail to form one coherent narrative?**
+
+---
+
+# Story Through Place
+
+> **When is place merely location rather than a material narrative carrier?**
+
+---
+
+# Heritage Builds Confidence
+
+> **When does history fail to improve present-day confidence or become disconnected from current practice?**
+
+---
+
+# Biography When It Explains the Experience
+
+> **When does biography add fame or personality without materially explaining the guest experience?**
+
+---
+
+# Adaptation as Narrative
+
+> **When is change merely operational rather than narratively meaningful?**
+
+---
+
+# Coherence Through Change
+
+> **When does continuing change break rather than preserve identity?**
+
+---
+
+# Research as Narrative Carrier
+
+> **When does research language become generic brand positioning rather than material hospitality meaning?**
+
+---
+
+# Temporal Story
+
+> **When does time merely organize operations instead of carrying narrative meaning?**
+
+---
+
+# Productive Narrative Tension
+
+> **When do apparently opposing claims become actual contradiction rather than productive tension?**
+
+---
+
+# Institutional Narrative
+
+> **When does broader institutional activity become irrelevant to the restaurant's current hospitality meaning?**
+
+---
+
+# Governance Watch After Story Comparison
+
+The five:
+
+post-Noma:
+
+comparison dimensions
+
+are now:
+
+complete.
+
+No:
+
+formal:
+
+governance changes
+
+are made:
+
+inside:
+
+this file.
+
+But:
+
+the:
+
+full:
+
+post-Noma:
+
+governance:
+
+watchlist
+
+is now:
+
+ready.
+
+---
+
+# Strong Promotion Watch — Hospitality System Proof
+
+Current:
 
 Candidate / Medium-High
 
-Din Tai Fung Pressure:
+Evidence:
+
+ICHIRAN
+
+Din Tai Fung
+
+Noma
+
+through:
+
+materially:
+
+different:
+
+guest-facing:
+
+systems.
+
+Post-comparison position:
 
 Very Strong.
 
-Cross-model support now includes:
+---
+
+# Strong Maturity Review — Story Through Hospitality Model
+
+Current:
+
+Emerging
+
+Evidence:
 
 Haidilao
 
@@ -4475,569 +7275,599 @@ ICHIRAN
 
 Din Tai Fung
 
+Noma
+
 through:
 
-materially different:
+four:
 
-operating systems.
+materially:
 
-Recommendation:
+different:
 
-Highest story-dimension governance review priority.
+operating models.
 
----
-
-# Hospitality System Proof
-
-Current Status:
-
-Candidate / Medium
-
-Din Tai Fung Story Pressure:
-
-Moderate to Strong.
-
-Recommendation:
-
-Keep distinct:
-
-from:
-
-Story Through Hospitality Model.
-
----
-
-# Show the System Behind the Plate
-
-Current Status:
-
-Candidate / High
-
-Din Tai Fung Story Pressure:
+Post-comparison position:
 
 Very Strong.
 
-Recommendation:
-
-Keep distinct:
-
-and:
-
-culinary-specific.
-
 ---
 
-# Growth as Narrative
+# Strong Maturity Review — Narrative Coherence Through Organising Logic
 
-Current Treatment:
+Current:
 
-Below Candidate / retired formal direction
+Emerging
 
-Din Tai Fung Pressure:
+Evidence:
 
-Boundary support only.
-
-Recommendation:
-
-Do not restore:
-
-as:
-
-formal Candidate.
-
----
-
-# Service Philosophy as Story
-
-Current Treatment:
-
-Mechanism under:
-
-Story Through Hospitality Model.
-
-Recommendation:
-
-Keep nested.
-
----
-
-# Operational Narrative
-
-Current Treatment:
-
-Mechanism under:
-
-Story Through Hospitality Model.
-
-Recommendation:
-
-Keep nested.
-
----
-
-# Product Focus as Narrative
-
-Current Treatment:
-
-Architecture Direction / mechanism.
-
-Recommendation:
-
-Do not create:
-
-separate Candidate.
-
----
-
-# Constraint as Narrative
-
-Current Treatment:
-
-Architecture Direction.
-
-Recommendation:
-
-Do not create:
-
-separate Candidate.
-
----
-
-# New Research Direction — Standardisation as Narrative
-
-## Status
-
-Observed Research Direction
-
-## Din Tai Fung Contribution
-
-Very Strong initial support.
-
-## Promotion Position
-
-Below Candidate.
-
-Requires:
-
-additional:
-
-multi-location
-
-and:
-
-standardised-model:
-
-evidence.
-
----
-
-# New Research Direction — Living Heritage
-
-## Status
-
-Observed Research Direction
-
-## Relationship
-
-Likely:
-
-mechanism / refinement
-
-under:
-
-Heritage Builds Confidence.
-
-## Promotion Position
-
-Do not create:
-
-duplicate Candidate.
-
----
-
-# New Research Direction — Cultural Translation as Narrative
-
-## Status
-
-Observed Research Direction
-
-## Promotion Position
-
-Below Candidate.
-
-Requires:
-
-more:
-
-cross-cultural:
-
-and:
-
-multi-location:
-
-evidence.
-
----
-
-# New Research Direction — Adaptation as Narrative
-
-## Status
-
-Observed Research Direction
-
-## Promotion Position
-
-Below Candidate.
-
----
-
-# Architecture Direction — Narrative Layering Across Scale
-
-Status:
-
-Architecture Direction.
-
----
-
-# Architecture Variable — Narrative Anchor
-
-Possible values:
-
-- Place
-- Worldview
-- Heritage
-- Person
-- Product
-- Craft
-- Service Model
-- Ritual
-- Operating Model
-- Cultural Memory
-- Mixed
-
----
-
-# Architecture Variable — Narrative Scale
-
-Possible values:
-
-- Brand
-- Location
-- Product
-- Person
-- Hospitality System
-
----
-
-# Architecture Variable — Narrative Specificity
-
-Possible values:
-
-Low
-
-Medium
-
-High
-
----
-
-# Architecture Variable — Narrative Weight
-
-Definition:
-
-How much:
-
-attention:
-
-a narrative carrier
-
-deserves
-
-relative to:
-
-its:
-
-explanatory value.
-
-Not:
-
-formal:
-
-quantitative score.
-
----
-
-# Evidence Boundaries
-
-Cross-restaurant story research can establish:
-
-- published brand stories
-- founder history
-- chef authorship
-- product narratives
-- craft explanations
-- heritage claims
-- place narratives
-- worldview
-- operating-model descriptions
-- participation language
-- cultural references
-- narrative structure
-- public evidence supporting the story
-
-It cannot establish:
-
-- actual guest understanding
-- emotional connection
-- perceived authenticity
-- cultural interpretation
-- narrative recall
-- whether guests believe the story
-- whether story changes behaviour
-- actual service consistency
-- actual craft consistency
-- experienced meaning
-- conversion
-- profitability
-- commercial impact
-
-These boundaries remain:
-
-mandatory.
-
----
-
-# Cross-Restaurant Story Conclusion
-
-After:
-
-thirteen:
-
-independent restaurants
-
-KHDS should no longer:
-
-treat:
-
-storytelling
-
-as:
-
-a content layer
-
-placed:
-
-on top of:
-
-hospitality.
-
-The stronger model is:
-
-> **Hospitality story is the system of meaning through which the guest can understand why the experience exists, what makes it distinct, and how its product, place, people, operating model, or participation express that meaning.**
-
-Different:
+multiple:
 
 restaurants
 
-carry:
+with:
 
-that story:
+distinct:
 
-differently.
+narrative:
 
-Ankole:
+structures
 
-Place.
+plus:
 
-Cultiva:
+Noma's:
 
-Worldview.
+temporal:
 
-Talisman:
+extension.
 
-Heritage + Place.
+Post-comparison position:
 
-Mawimbi:
-
-Concept.
-
-Bistro Lolo:
-
-People + Social Place.
-
-FYN:
-
-Ecology + Authorship.
-
-Dishoom:
-
-Narrative World + Cultural Memory.
-
-Franklin:
-
-Founder + Craft + Product.
-
-Alinea:
-
-Authorship + Experience Architecture.
-
-NARISAWA:
-
-Ecology + Philosophy.
-
-Haidilao:
-
-Service + Participation.
-
-ICHIRAN:
-
-Operating Model + Constraint.
-
-Din Tai Fung:
-
-Heritage + Product + Craft System + Standardisation.
-
-The durable KHDS question is:
-
-> **What best explains this hospitality experience, how much narrative weight does that explanation deserve, and what evidence allows the guest to understand it without inventing meaning that the restaurant cannot support?**
+Very Strong.
 
 ---
 
-# Din Tai Fung Reconciliation Result
+# Strong Maturity Review — Story Through Place
 
-## Story Dimension
+Current:
+
+Emerging
+
+Evidence:
+
+multiple:
+
+distinct:
+
+place:
+
+mechanisms
+
+including:
+
+relational:
+
+place.
+
+Post-comparison position:
+
+Very Strong.
+
+---
+
+# Strong Review — Heritage Builds Confidence
+
+Current:
+
+Candidate / Medium-High
+
+Noma adds:
+
+adaptation
+
+Living Heritage
+
+and:
+
+future-facing:
+
+heritage.
+
+Post-comparison position:
+
+Confidence / Maturity Review.
+
+---
+
+# Strong Review — Atmosphere Through Worldview
+
+Current:
+
+Candidate / Under Review / Medium-High
+
+Noma adds:
+
+very strong:
+
+positive:
+
+worldview:
+
+evidence.
+
+Post-comparison position:
+
+Review whether:
+
+Under Review:
+
+should remain.
+
+---
+
+# Definition / Confidence Review — Atmosphere Through Continuity
+
+Current:
+
+Candidate / Medium
+
+Noma adds:
+
+Method Continuity
+
+and:
+
+Continuity ≠ Sameness.
+
+Post-comparison position:
+
+Definition / Confidence Review.
+
+---
+
+# New Candidate Watch — Manageable Commitment
+
+Current:
+
+Observed Research Direction
+
+Evidence:
+
+Din Tai Fung
+
+Noma
+
+with:
+
+high-commitment:
+
+post-booking:
+
+agency.
+
+Post-comparison position:
+
+Promising.
+
+---
+
+# New Candidate Watch — Participation Rule Consistency
+
+Current:
+
+Observed Research Direction
+
+Evidence:
+
+Din Tai Fung
+
+Noma
+
+with:
+
+route
+
+surface
+
+state
+
+and:
+
+time:
+
+pressure.
+
+Post-comparison position:
+
+Promising.
+
+---
+
+# New Candidate Watch — Adaptation as Narrative
+
+Current:
+
+Observed Research Direction
+
+Evidence:
+
+Din Tai Fung
+
+Noma
+
+with:
+
+different:
+
+adaptation:
+
+models.
+
+Post-comparison position:
+
+Promising.
+
+---
+
+# New Candidate Watch — Capacity Proof
+
+Current:
+
+Observed Research Direction
+
+Evidence:
+
+Noma strongest
+
+with:
+
+partial:
+
+support:
+
+from:
+
+other:
+
+high-authority
+
+or:
+
+process-led:
+
+cases.
+
+Post-comparison position:
+
+Promising
+
+but:
+
+needs:
+
+stronger:
+
+independent:
+
+definition support.
+
+---
+
+# Remain Below Candidate — Coherence Through Change
+
+Current:
+
+Observed Cross-Dimensional Research Direction
+
+Noma:
+
+Extremely Strong
+
+Cross-case transferability:
+
+Still Limited
+
+Post-comparison decision:
+
+Do not promote yet.
+
+Need:
+
+another:
+
+independent:
+
+high-change:
+
+case
+
+and:
+
+strong:
+
+contradiction:
+
+testing.
+
+---
+
+# Remain Below Candidate — Research as Narrative Carrier
+
+Strong:
+
+Noma:
+
+support.
+
+Likely:
+
+mechanism inside:
+
+Story Through Hospitality Model.
+
+Do not:
+
+inflate:
+
+formal:
+
+pattern count.
+
+---
+
+# Remain Below Candidate — Temporal Story
+
+Strong:
+
+Noma:
+
+support.
+
+Still:
+
+too:
+
+Noma-heavy.
+
+Remain:
+
+architecture-level.
+
+---
+
+# Remain Below Candidate — Productive Narrative Tension
+
+Interesting:
+
+but:
+
+broad
+
+and:
+
+Noma-heavy.
+
+Remain:
+
+below Candidate.
+
+---
+
+# Story Comparison Conclusion
+
+After:
+
+fourteen:
+
+independent restaurants
+
+the strongest:
+
+story conclusion is:
+
+> **Hospitality story is the system through which meaning becomes legible, and the strongest narrative carrier depends on what actually explains the experience.**
+
+Noma makes:
+
+that:
+
+architecture
+
+more:
+
+dynamic.
+
+The strongest:
+
+post-Noma:
+
+finding is:
+
+> **Stable hospitality meaning does not require a stable product, founder, or operating format when deeper narrative and identity invariants remain coherent.**
+
+A second major finding is:
+
+> **Story Through Hospitality Model now has strong support across radically different operating models, making it one of the strongest post-Noma maturity-review patterns.**
+
+A third is:
+
+> **Narrative Coherence Through Organising Logic can operate across time as well as across different story elements.**
+
+A fourth is:
+
+> **Story Through Place is strongest when place describes a material relationship to landscape, culture, ecology, history, season, or local conditions rather than an address alone.**
+
+A fifth is:
+
+> **Heritage can build confidence through adaptation and future continuity rather than through sameness.**
+
+A sixth is:
+
+> **Biography can remain highly explanatory while becoming distributed across founder, chef, leadership team, and institution.**
+
+A seventh is:
+
+> **Method can become a narrative anchor when the product itself is too variable to stabilize identity.**
+
+An eighth is:
+
+> **Adaptation as Narrative now has meaningful independent support and deserves formal Candidate review.**
+
+A ninth is:
+
+> **Research can carry narrative meaning without automatically becoming atmosphere, proof, or a separate formal pattern.**
+
+A tenth is:
+
+> **Coherence Through Change remains important but should stay below Candidate until another independent high-change hospitality case tests it.**
+
+An eleventh is:
+
+> **A current hospitality story must remain fresh enough to explain the present operating reality rather than relying on historical prestige alone.**
+
+A twelfth is:
+
+> **The strongest hospitality stories make clear what carries meaning, what connects the carriers, what remains stable, and what may legitimately change.**
+
+---
+
+# Post-Noma Story Architecture
+
+```text
+Hospitality Meaning
+↓
+What Best Explains It?
+↓
+Primary Narrative Carrier
++
+Supporting Narrative Carriers
+↓
+Narrative Subject
++
+Narrative Scale
++
+Narrative Era
++
+Narrative Boundary
+↓
+What Remains Stable?
+↓
+Narrative Anchor
++
+Narrative Invariant where relevant
+↓
+Organising Logic
+↓
+What Has Changed?
++
+What May Change?
+↓
+Relevant Narrative
++
+Relevant Evidence
+↓
+Narrative Freshness
+↓
+Guest Understanding
+↓
+Fit
+↓
+Participation
+↓
+Experienced Meaning
+```
+
+---
+
+# Validation
+
+Comparison Dimension:
+
+Story
+
+Restaurants Compared:
+
+14
+
+Latest Restaurant Added:
+
+Noma Copenhagen 2026
+
+Comparison Status:
 
 Complete
 
-## Independent Restaurants Compared
-
-13
-
-## Formal Pattern Promotions
+Formal Pattern Promotions:
 
 0
 
-## Formal Demotions
+Formal Demotions:
 
 0
 
-## Formal Renames
+Confidence Changes:
 
 0
 
-## Confidence Changes
-
-None assigned:
-
-inside:
-
-story comparison.
-
-## Highest Governance Review Pressure
+Strongest Existing Emerging Pressure:
 
 Story Through Hospitality Model
-
-## Strong Candidate Support
-
-Biography When It Explains the Experience
-
-Heritage Builds Confidence
-
-Show the System Behind the Plate
-
-Hospitality System Proof
-
-## Strong Emerging Support
-
-Story Before Features
 
 Narrative Coherence Through Organising Logic
 
 Story Through Place
 
-## Strongest New Research Direction
+Strongest Existing Candidate Review:
 
-Standardisation as Narrative
+Heritage Builds Confidence
 
-## Strongest Heritage Refinement
+Strongest Biography Refinement:
 
-Living Heritage
+Distributed Biography
 
-## Strongest Multi-Location Direction
+Strongest New Candidate Watch:
 
-Cultural Translation as Narrative
+Adaptation as Narrative
 
-## Strongest Architecture Additions
+Strongest Cross-Dimensional New Direction:
 
-Narrative Anchor
+Coherence Through Change
 
-Narrative Scale
+Strongest New Institutional Variable:
 
-Narrative Specificity
+Institutional Continuity
 
-Narrative Weight
+Strongest New Story Variable:
 
-## Strongest Boundary
+Narrative Freshness
 
-Story Through Hospitality Model
+Strongest Temporal Story Finding:
 
-≠
-
-Hospitality System Proof
+Narrative Coherence
 
 ≠
 
-Show the System Behind the Plate
+Narrative Repetition
 
-## Strongest Deep Principle
+Strongest Place Finding:
 
-Narrative Weight
+Story Through Place
 
-should follow:
+≠
 
-Explanatory Value.
+Story Through Address
 
-## Governance Changes
+Strongest Heritage Finding:
 
-Pending:
+Heritage
 
-final post–Din Tai Fung governance reconciliation.
+≠
 
-Do not update:
+Promise of Sameness
 
-`candidate-patterns.md`
+Governance Status:
 
-from:
-
-story alone.
-
----
-
-# Post–Din Tai Fung Comparison Status
-
-Arrival Comparison:
-
-Complete
-
-Atmosphere Comparison:
-
-Complete
-
-Photography Comparison:
-
-Complete
-
-Reservation / Participation Comparison:
-
-Complete
-
-Story Comparison:
-
-Complete
-
-Governance Reconciliation:
-
-Ready
+All Five Post-Noma Comparison Dimensions Complete
 
 ---
 

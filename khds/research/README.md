@@ -2,344 +2,39 @@
 
 ## Status
 
-Post–Din Tai Fung Research Overview Reconciliation
+Post–Noma Research Governance Mirror
 
-Independent Restaurant Research:
+Latest Reconciled Restaurant:
 
-13 Complete
+Noma Copenhagen 2026
 
-Kodawa Labs Validation Cases:
+Independent Restaurants Reconciled:
 
-1
+14
 
-Emerging Patterns:
-
-23
-
-Candidate Patterns:
-
-6
-
-Partially Supported Findings:
+Track B Validation Cases:
 
 1
 
-Validated Patterns:
+Canonical Governance Source:
 
-0
+`khds/research/validation/candidate-patterns.md`
 
-Research-Derived KHDS Principles:
+This file is:
 
-0
+a:
 
-Existing Implementation Patterns Pending Formal Validation:
+research-system:
 
-1
-
-Opportunity Themes:
-
-36
-
-Track B Implementation Learnings:
-
-17
-
-Highest Research-Derived Maturity:
-
-Emerging
-
----
-
-# Purpose
-
-The KHDS research system exists to build:
-
-hospitality knowledge
-
-from:
-
-evidence
-
-rather than:
-
-intuition alone.
-
-Its role is to:
-
-study:
-
-real hospitality experiences
-
-identify:
-
-recurring behaviours
-
-preserve:
-
-contradictions
-
-test:
-
-abstractions
-
-discover:
-
-business opportunities
+overview
 
 and:
 
-determine:
+governance:
 
-which ideas are strong enough
+mirror.
 
-to become:
-
-reusable KHDS knowledge.
-
-Research does not exist to:
-
-prove:
-
-one design style
-
-one interface structure
-
-one reservation model
-
-or:
-
-one hospitality philosophy
-
-correct.
-
-It exists to ask:
-
-- What repeatedly survives across different hospitality models?
-- Which behaviours are context-specific?
-- What fails under contradiction?
-- Which assumptions require narrower definitions?
-- What can public digital evidence genuinely establish?
-- Which claims require operational, behavioural, guest, or commercial evidence?
-- Which implementation questions should return to independent research?
-- Which business opportunities emerge without becoming research patterns?
-
-The research process must remain:
-
-stricter
-
-than:
-
-the implementation process.
-
-Evidence wins.
-
----
-
-# Core Research Position
-
-> **Research narrows the decision space. It does not make the decision for us.**
-
-KHDS should improve:
-
-judgment.
-
-It should not:
-
-replace:
-
-judgment.
-
----
-
-# Core Research Rules
-
-## Rule 1
-
-Observe before:
-
-generalising.
-
----
-
-## Rule 2
-
-Compare before:
-
-promoting.
-
----
-
-## Rule 3
-
-Contradiction is:
-
-evidence.
-
-Not:
-
-research failure.
-
----
-
-## Rule 4
-
-Independent evidence determines:
-
-research maturity.
-
----
-
-## Rule 5
-
-Production success determines:
-
-implementation knowledge.
-
-Not:
-
-research maturity.
-
----
-
-## Rule 6
-
-A useful:
-
-mechanism
-
-variable
-
-direction
-
-medium
-
-or:
-
-tension
-
-is not automatically:
-
-a formal pattern.
-
----
-
-## Rule 7
-
-Public website evidence must not:
-
-be extended:
-
-into claims
-
-it cannot support.
-
----
-
-## Rule 8
-
-Pattern count is:
-
-not:
-
-a success metric.
-
-Better:
-
-definitions
-
-boundaries
-
-and:
-
-falsification
-
-are valid:
-
-research outcomes.
-
----
-
-# Two Evidence Tracks
-
-KHDS maintains:
-
-two:
-
-strictly separated:
-
-evidence tracks.
-
----
-
-# Track A — Independent Hospitality Research
-
-Track A studies:
-
-hospitality businesses
-
-not designed by:
-
-Kodawa Labs.
-
-Track A controls:
-
-research maturity.
-
-Current completed independent research set:
-
-1. Ankole
-2. Cultiva
-3. Talisman
-4. Mawimbi
-5. Bistro Lolo
-6. FYN
-7. Dishoom Covent Garden
-8. Franklin Barbecue
-9. Alinea
-10. NARISAWA
-11. Haidilao Toronto Downtown
-12. ICHIRAN Shibuya
-13. Din Tai Fung Covent Garden
-
-Current Track A Status:
-
-13 complete.
-
----
-
-# Track B — Kodawa Labs Validation
-
-Track B studies:
-
-Kodawa Labs concepts
-
-and:
-
-production experiences.
-
-Current stable validation case:
-
-Trunk & Tandoor
-
-Production Status:
-
-Stable
-
-Production Classification:
-
-First Stable KHDS Production Translation
-
-Track B may contribute:
-
-- implementation knowledge
-- production contradictions
-- technical lessons
-- component behaviour
-- responsive lessons
-- implementation patterns
-- return-to-research questions
-
-Track B does not:
+It does not:
 
 independently:
 
@@ -347,481 +42,796 @@ promote
 
 demote
 
+rename
+
+merge
+
 validate
 
 or:
 
-increase confidence
+change:
 
-for:
-
-Track A patterns.
-
----
-
-# Track Separation
-
-```text
-Track A
-Independent Evidence
-↓
-Research Maturity
-
-
-Track B
-Kodawa Labs Production
-↓
-Implementation Knowledge
-```
-
-The two tracks:
-
-inform:
-
-each other
-
-without:
-
-being confused.
-
----
-
-# Research Architecture
-
-```text
-khds/
-├── research/
-│   ├── comparison/
-│   ├── methodology/
-│   ├── observations/
-│   ├── restaurants/
-│   ├── validation/
-│   │   ├── README.md
-│   │   ├── candidate-patterns.md
-│   │   ├── dashboard.md
-│   │   └── promotion-process.md
-│   └── README.md
-│
-├── patterns/
-│   └── registry.md
-│
-└── experiences/
-    └── trunk-tandoor/
-        ├── production-validation.md
-        └── implementation-learnings.md
-```
-
----
-
-# Folder Responsibilities
-
----
-
-# `restaurants/`
-
-Contains:
-
-independent restaurant research dossiers.
-
-A full dossier normally contains:
-
-- `README.md`
-- `arrival.md`
-- `atmosphere.md`
-- `photography.md`
-- `reservation.md`
-- `story.md`
-- `knowledge-extraction.md`
-
-Primary Question:
-
-> **What is this restaurant forcing KHDS to understand, question, narrow, or expand?**
-
----
-
-# `comparison/`
-
-Contains:
-
-cross-restaurant comparison
-
-by:
-
-hospitality dimension.
-
-Current comparison areas:
-
-- arrival
-- atmosphere
-- photography
-- reservation / participation
-- story
-
-Primary Question:
-
-> **What survives when materially different hospitality models are compared?**
-
----
-
-# `methodology/`
-
-Defines:
-
-how:
-
-hospitality research
-
-should be:
-
-conducted.
-
-Primary Question:
-
-> **How do we study hospitality consistently without pretending the evidence is stronger than it is?**
-
----
-
-# `observations/`
-
-Contains:
-
-raw
-
-or:
-
-early:
-
-research findings
-
-that have not yet matured into:
-
-formal patterns
-
-or:
-
-architecture knowledge.
-
-Primary Question:
-
-> **What did we observe before governance interpretation?**
-
----
-
-# `validation/`
-
-Contains:
-
-research governance.
-
-Primary Question:
-
-> **What does the current evidence justify?**
-
-Key files:
-
-- `candidate-patterns.md`
-- `dashboard.md`
-- `promotion-process.md`
-- `README.md`
-
----
-
-# `../patterns/registry.md`
-
-Provides:
-
-a readable:
-
-system-level view
-
-of:
-
-the formal research pattern set.
-
-It mirrors:
-
-canonical governance.
-
-It does not:
-
-create:
-
-governance decisions.
-
----
-
-# `../experiences/`
-
-Contains:
-
-Kodawa Labs production translation
-
-and:
-
-implementation evidence.
-
-Current stable case:
-
-Trunk & Tandoor
-
-Primary Question:
-
-> **What happens when KHDS knowledge meets production reality?**
-
----
-
-# Canonical Governance Hierarchy
-
-Use this order:
-
-1. `validation/candidate-patterns.md`
-2. `../patterns/registry.md`
-3. `validation/dashboard.md`
-4. `README.md`
-5. `validation/README.md`
+pattern confidence.
 
 If:
 
 this README
 
-conflicts with:
+and:
 
-`validation/candidate-patterns.md`
+the canonical governance file
 
-the canonical file:
+ever disagree:
+
+`khds/research/validation/candidate-patterns.md`
 
 wins.
 
-This README is:
+---
 
-an overview mirror.
+# What KHDS Research Is
 
-Not:
+KHDS research exists to:
 
-an independent:
+study:
 
-governance authority.
+hospitality systems
+
+before:
+
+making:
+
+design decisions.
+
+The objective is not:
+
+to collect:
+
+beautiful:
+
+restaurant websites.
+
+It is to:
+
+understand:
+
+how:
+
+different:
+
+hospitality businesses
+
+create:
+
+meaning
+
+confidence
+
+participation
+
+proof
+
+atmosphere
+
+and:
+
+guest relationships
+
+through:
+
+different:
+
+operating models.
+
+The research system asks:
+
+what:
+
+survives
+
+across:
+
+different:
+
+restaurants
+
+and:
+
+what:
+
+only works:
+
+inside:
+
+specific:
+
+contexts.
 
 ---
 
-# Pattern Lifecycle
+# Core Research Rule
 
-Research-derived patterns move through:
+> **Research narrows the decision space. It does not make the decision for us.**
+
+---
+
+# Production Rule
+
+> **Do not force KHDS into the restaurant. Use KHDS to understand what the restaurant needs.**
+
+---
+
+# Research Tracks
+
+KHDS currently has:
+
+two:
+
+distinct:
+
+tracks.
+
+---
+
+# Track A — Independent Hospitality Research
+
+Purpose:
+
+study:
+
+real:
+
+hospitality businesses
+
+independently
+
+of:
+
+Kodawa production:
+
+outcomes.
+
+Track A is responsible for:
+
+- observations
+- comparisons
+- contradictions
+- research directions
+- Emerging patterns
+- Candidate patterns
+- confidence
+- maturity
+- evidence boundaries
+- falsification
+
+Track A currently contains:
+
+14:
+
+independent:
+
+restaurants.
+
+---
+
+# Track B — Production Validation
+
+Purpose:
+
+test:
+
+how:
+
+KHDS knowledge
+
+translates:
+
+into:
+
+actual:
+
+Kodawa:
+
+hospitality:
+
+production.
+
+Track B currently contains:
+
+1:
+
+validation case.
+
+---
+
+# Track Separation Rule
 
 ```text
-Observed
-↓
-Candidate
-↓
-Emerging
-↓
-Validated
-↓
-Research-Derived KHDS Principle
+Production Success
+≠
+Research Validation
+```
+
+A:
+
+successful:
+
+production:
+
+translation
+
+cannot:
+
+promote:
+
+a:
+
+research pattern
+
+by itself.
+
+Likewise:
+
+research:
+
+maturity
+
+does not:
+
+force:
+
+a:
+
+specific:
+
+production:
+
+solution.
+
+---
+
+# Current Research Cases
+
+---
+
+# Restaurant #1 — Ankole
+
+Track:
+
+Track A
+
+Primary pressure:
+
+- place
+- refinement
+- hospitality identity
+
+---
+
+# Restaurant #2 — Cultiva
+
+Track:
+
+Track A
+
+Primary pressure:
+
+- worldview
+- sourcing
+- food system
+- culinary philosophy
+
+---
+
+# Restaurant #3 — Talisman
+
+Track:
+
+Track A
+
+Primary pressure:
+
+- heritage
+- place
+- continuity
+- established identity
+
+---
+
+# Restaurant #4 — Mawimbi
+
+Track:
+
+Track A
+
+Primary pressure:
+
+- atmosphere
+- destination value
+- designed escape
+- experiential promise
+
+---
+
+# Restaurant #5 — Bistro Lolo
+
+Track:
+
+Track A
+
+Primary pressure:
+
+- belonging
+- social rhythm
+- neighbourhood use
+- hospitality familiarity
+
+---
+
+# Restaurant #6 — FYN
+
+Track:
+
+Track A
+
+Primary pressure:
+
+- authority
+- biography
+- ecology
+- high-commitment hospitality
+- restraint
+
+---
+
+# Restaurant #7 — Dishoom Covent Garden
+
+Track:
+
+Track A
+
+Primary pressure:
+
+- narrative world
+- cultural memory
+- place
+- reservation + walk-in participation
+
+---
+
+# Restaurant #8 — Franklin Barbecue
+
+Track:
+
+Track A
+
+Primary pressure:
+
+- product authority
+- process
+- queue
+- walk-in participation
+- operational reality
+
+---
+
+# Restaurant #9 — Alinea
+
+Track:
+
+Track A
+
+Primary pressure:
+
+- selective reveal
+- transformation
+- high commitment
+- anticipation
+- controlled experience
+
+---
+
+# Restaurant #10 — NARISAWA
+
+Track:
+
+Track A
+
+Primary pressure:
+
+- ecology
+- philosophy
+- place relationship
+- craft
+- culinary authority
+
+---
+
+# Restaurant #11 — Haidilao Toronto Downtown
+
+Track:
+
+Track A
+
+Primary pressure:
+
+- human service
+- social participation
+- ritual
+- service visibility
+- high-interaction hospitality
+
+---
+
+# Restaurant #12 — ICHIRAN Shibuya
+
+Track:
+
+Track A
+
+Primary pressure:
+
+- privacy
+- individual participation
+- concentration
+- low social exposure
+- structured self-service
+- hospitality system proof
+
+---
+
+# Restaurant #13 — Din Tai Fung Covent Garden
+
+Track:
+
+Track A
+
+Primary pressure:
+
+- standardized craft
+- product proof
+- multi-route participation
+- walk-in
+- local expression inside global brand
+- story through hospitality model
+
+---
+
+# Restaurant #14 — Noma Copenhagen 2026
+
+Track:
+
+Track A
+
+Primary pressure:
+
+- time
+- change
+- seasonal operating logic
+- research identity
+- future-product uncertainty
+- institutional continuity
+- post-commitment agency
+- evidence freshness
+- adaptation
+
+---
+
+# Track B Validation Case — Trunk & Tandoor
+
+Track:
+
+Track B
+
+Status:
+
+Stable Production Translation
+
+Production Validation:
+
+Phase 2 Checkpoint Complete
+
+Canonical Track B Implementation Learnings:
+
+17
+
+Important boundary:
+
+Trunk & Tandoor
+
+does not:
+
+change:
+
+Track A maturity
+
+by:
+
+production success alone.
+
+---
+
+# Current Canonical Research State
+
+```text
+Independent Restaurants: 14
+Track B Validation Cases: 1
+
+Emerging Patterns: 16
+Candidate Patterns: 16
+Partially Supported Patterns: 1
+Validated Patterns: 0
+
+Research-Derived KHDS Principles: 0
+Implementation Patterns Pending Formal Validation: 1
+
+Opportunity Themes: 36
+Track B Implementation Learnings: 17
+
+Highest Research-Derived Maturity: Candidate
 ```
 
 ---
 
-# Observed
+# Research Maturity Ladder
 
-A behaviour
-
-or:
-
-direction
-
-has been:
-
-noticed.
-
-It may be:
-
-interesting
-
-or:
-
-useful.
-
-It is not yet:
+Current:
 
 formal:
 
-research maturity.
+maturity:
 
----
+sequence:
 
-# Candidate
+```text
+Observed Research Direction
+↓
+Emerging
+↓
+Candidate
+↓
+Validated
+↓
+Research-Derived Principle
+```
 
-The behaviour has:
+Additional status:
 
-credible:
+```text
+Partially Supported
+```
 
-independent support
+is used when:
 
-and:
+research:
 
-a sufficiently clear:
+supports:
 
-working definition
+part:
 
-to justify:
-
-active:
-
-cross-case testing.
-
-Candidate means:
-
-promising.
-
-Not:
-
-proven.
-
----
-
-# Emerging
-
-The pattern has:
-
-survived:
-
-broader:
-
-independent support
-
-contradiction
-
-definition pressure
-
-and:
-
-boundary clarification.
-
-Emerging is:
-
-currently:
-
-the highest:
-
-research-derived maturity
-
-inside KHDS.
-
----
-
-# Validated
-
-A future:
-
-Validated pattern
-
-should require:
-
-broad:
-
-independent support
-
-material:
-
-operating-model diversity
-
-meaningful:
-
-geographic
-
-and:
-
-category diversity
-
-contradiction survival
-
-clear:
-
-falsification boundaries
-
-and:
-
-operational
-
-behavioural
-
-or:
-
-guest evidence
-
-where:
-
-the claim requires it.
-
-Current Validated count:
-
-0
-
----
-
-# Research-Derived KHDS Principle
-
-A:
-
-Research-Derived KHDS Principle
-
-should represent:
+of:
 
 a:
 
-high-confidence:
+claim
 
-research-derived:
+but:
 
-hospitality rule
+available:
 
-that has:
+evidence
 
-survived:
+cannot:
 
-broad testing
+establish:
+
+the:
+
+full:
+
+pattern.
+
+---
+
+# Important Maturity Boundary
+
+```text
+Strong Support
+≠
+Validated
+```
 
 and:
 
-practical translation.
+```text
+Repeated Observation
+≠
+Principle
+```
 
-Current count:
+KHDS currently has:
 
-0
+0:
 
----
+Validated:
 
-# Current Official Research State
+patterns
 
-| Measure | Current State |
-|---|---:|
-| Independent Restaurants | 13 |
-| Kodawa Labs Validation Cases | 1 |
-| Emerging Patterns | 23 |
-| Candidate Patterns | 6 |
-| Partially Supported Findings | 1 |
-| Validated Patterns | 0 |
-| Research-Derived KHDS Principles | 0 |
-| Existing Implementation Patterns Pending Formal Validation | 1 |
-| Opportunity Themes | 36 |
-| Track B Implementation Learnings | 17 |
+and:
 
-Highest Research-Derived Maturity:
+0:
 
-**Emerging**
+Research-Derived Principles.
 
 ---
 
-# Current Emerging Pattern Set
+# Canonical Candidate Patterns
 
-There are:
+Current Candidate Count:
 
-23
+16
 
-formal:
+1. Atmosphere Through Worldview — Candidate / Medium-High
+2. Show the System Behind the Plate — Candidate / High
+3. Heritage Builds Confidence — Candidate / Medium-High
+4. Atmosphere Through Continuity — Candidate / Medium-High
+5. Designed Escape — Candidate / Medium
+6. Biography When It Explains the Experience — Candidate / High
+7. Narrative Language Within Clear Interface — Candidate / High
+8. Photography as Use-Case Evidence — Candidate / Medium-High
+9. Walk-In as First-Class Participation — Candidate / High
+10. Story Through Hospitality Model — Candidate / High
+11. Hospitality System Proof — Candidate / Medium-High
+12. Story Through Place — Candidate / Medium-High
+13. Narrative Coherence Through Organising Logic — Candidate / Medium-High
+14. Manageable Commitment — Candidate / Medium
+15. Participation Rule Consistency — Candidate / Medium
+16. Adaptation as Narrative — Candidate / Medium
 
-Emerging patterns.
+---
+
+# Post–Noma Candidate Promotions
+
+The following:
+
+were:
+
+formally:
+
+promoted:
+
+after:
+
+Restaurant #14
+
+and:
+
+cross-restaurant:
+
+reconciliation.
+
+---
+
+# Story Through Place
+
+```text
+Emerging
+→
+Candidate / Medium-High
+```
+
+---
+
+# Narrative Coherence Through Organising Logic
+
+```text
+Emerging
+→
+Candidate / Medium-High
+```
+
+---
+
+# Manageable Commitment
+
+```text
+Observed Research Direction
+→
+Candidate / Medium
+```
+
+---
+
+# Participation Rule Consistency
+
+```text
+Observed Research Direction
+→
+Candidate / Medium
+```
+
+---
+
+# Adaptation as Narrative
+
+```text
+Observed Research Direction
+→
+Candidate / Medium
+```
+
+---
+
+# Post–Noma Confidence Changes
+
+---
+
+# Heritage Builds Confidence
+
+```text
+Candidate / Medium
+→
+Candidate / Medium-High
+```
+
+---
+
+# Atmosphere Through Continuity
+
+```text
+Candidate / Medium
+→
+Candidate / Medium-High
+```
+
+---
+
+# Story Through Hospitality Model
+
+```text
+Candidate / Medium-High
+→
+Candidate / High
+```
+
+---
+
+# Hospitality System Proof
+
+```text
+Candidate / Medium
+→
+Candidate / Medium-High
+```
+
+---
+
+# Post–Noma Review-State Change
+
+Atmosphere Through Worldview:
+
+```text
+Candidate / Under Review / Medium-High
+→
+Candidate / Medium-High
+```
+
+Under Review:
+
+Resolved
+
+No maturity:
+
+change.
+
+---
+
+# Canonical Emerging Patterns
+
+Current Emerging Count:
+
+16
 
 1. Emotion Before Interface
 2. Story Before Features
@@ -831,58 +841,20 @@ Emerging patterns.
 6. Multi-Intent Hospitality
 7. Commitment Without Pressure
 8. Photography as Proof
-9. Story Through Place
-10. Promise Before Proof
-11. Layered Arrival
-12. Narrative Coherence Through Organising Logic
-13. The Guest as Participant
-14. Photography Through Layers of Experience
-15. Human Assistance Where Structured Self-Service Is Insufficient
-16. Atmosphere as Product
-17. Escalating Participation Complexity
-18. Photography Should Demonstrate Difference
-19. Show the System Behind the Plate
-20. Biography When It Explains the Experience
-21. Photography as Use-Case Evidence
-22. Walk-In as First-Class Participation
-23. Story Through Hospitality Model
-
-Canonical definitions live in:
-
-`validation/candidate-patterns.md`
-
-Readable registry definitions live in:
-
-`../patterns/registry.md`
+9. Promise Before Proof
+10. Layered Arrival
+11. The Guest as Participant
+12. Photography Through Layers of Experience
+13. Human Assistance Where Structured Self-Service Is Insufficient
+14. Atmosphere as Product
+15. Escalating Participation Complexity
+16. Photography Should Demonstrate Difference
 
 ---
 
-# Current Candidate Pattern Set
+# Canonical Partially Supported Pattern
 
-There are:
-
-6
-
-formal Candidate patterns.
-
-| Candidate | Confidence | Status |
-|---|---|---|
-| Atmosphere Through Worldview | Medium-High | Under Review |
-| Heritage Builds Confidence | Medium-High | Candidate |
-| Atmosphere Through Continuity | Medium | Candidate |
-| Designed Escape | Medium | Candidate |
-| Narrative Language Within Clear Interface | High | Candidate |
-| Hospitality System Proof | Medium-High | Candidate |
-
-Candidate governance lives in:
-
-`validation/candidate-patterns.md`
-
----
-
-# Current Partially Supported Finding
-
-There remains:
+Current Count:
 
 1
 
@@ -892,55 +864,54 @@ There remains:
 
 Status:
 
-Partially Supported
+Partially Supported / Medium
 
-Confidence:
+Research can:
 
-Medium
+observe:
 
-Public website evidence can establish:
+- direct booking
+- direct contact
+- newsletter routes
+- branded participation
+- third-party booking
+- privacy-policy statements
+- some intermediary restrictions
 
-- direct websites
-- branded reservation entrypoints
-- phone
-- email
-- WhatsApp
-- third-party booking routes
-- direct participation interfaces
+Research cannot:
 
-It cannot establish:
+reliably:
 
-- CRM ownership
-- guest-data ownership
+establish:
+
+- full CRM ownership
+- full reservation-data ownership
 - payment-data ownership
-- booking-data ownership
 - remarketing rights
-- backend architecture
-- platform contracts
-- intermediary economics
-- customer-history ownership
+- platform economics
+- contract structure
+- complete customer-history architecture
+- complete guest relationship ownership
 
-Operational
+Key boundaries:
 
-technical
+```text
+Data Controller Status
+≠
+Complete Guest Relationship Ownership
+```
 
-or:
-
-contractual:
-
-evidence
-
-is required
-
-before:
-
-promotion.
+```text
+Third-Party Booking Surface
+≠
+Guest Relationship Lost
+```
 
 ---
 
-# Existing KHDS Implementation Pattern Pending Formal Validation
+# Existing Implementation Pattern Pending Formal Validation
 
-Current count:
+Current Count:
 
 1
 
@@ -948,250 +919,703 @@ Current count:
 
 # Invitation
 
-Classification:
+Status:
 
-Existing KHDS Implementation Pattern
+Existing KHDS Implementation Pattern Pending Formal Validation
 
-Research Status:
+Invitation:
 
-Pending Formal Validation
+originated:
 
-Track B Evidence:
+inside:
 
-Trunk & Tandoor
-
-Invitation is not:
-
-- Candidate
-- Emerging
-- Validated
-- Research-Derived KHDS Principle
-
-Production use:
-
-does not:
-
-change:
-
-its:
-
-Track A maturity.
-
----
-
-# Post–Din Tai Fung Governance Result
-
-Restaurant #13:
-
-Din Tai Fung Covent Garden
-
-produced:
-
-five:
-
-Candidate → Emerging promotions.
-
----
-
-## Show the System Behind the Plate
-
-Candidate / High
-
-↓
-
-Emerging
-
----
-
-## Biography When It Explains the Experience
-
-Candidate / High
-
-↓
-
-Emerging
-
----
-
-## Photography as Use-Case Evidence
-
-Candidate / Medium-High
-
-↓
-
-Emerging
-
----
-
-## Walk-In as First-Class Participation
-
-Candidate / High
-
-↓
-
-Emerging
-
----
-
-## Story Through Hospitality Model
-
-Candidate / Medium-High
-
-↓
-
-Emerging
-
----
-
-# Candidate Confidence Changes
-
-Two:
-
-remaining Candidates
-
-received:
-
-confidence increases.
-
----
-
-## Heritage Builds Confidence
-
-Medium
-
-↓
-
-Medium-High
-
----
-
-## Hospitality System Proof
-
-Medium
-
-↓
-
-Medium-High
-
----
-
-# Formal Changes Not Made
-
-New Formal Candidates:
-
-0
-
-Demotions:
-
-0
-
-Renames:
-
-0
-
-Validated Promotions:
-
-0
-
-Research-Derived Principle Promotions:
-
-0
-
-Partially Supported Changes:
-
-0
-
-Opportunity Theme Changes:
-
-0
-
-Track B Learning Changes:
-
-0
-
----
-
-# Why Din Tai Fung Mattered
-
-Din Tai Fung entered:
-
-Track A
-
-to pressure-test:
-
-standardisation
-
-craft
-
-structured participation
-
-global scale
+KHDS implementation
 
 and:
 
-location specificity.
+remains:
 
-Its strongest contribution was:
+separate:
 
-not:
+from:
 
-a new:
+research maturity.
 
-formal pattern.
+```text
+Implementation Pattern
+≠
+Research-Derived Pattern
+```
 
-Instead:
+unless:
 
-it clarified:
+formal:
 
-how:
+research validation
 
-structure
-
-can interact with:
-
-hospitality meaning.
-
-The dossier demonstrated:
-
-important research pressure around:
-
-- product confidence
-- participation confidence
-- production presence
-- proof depth
-- proof scale
-- rule consistency
-- structured participation
-- local expression
-- narrative scale
-- standardisation
-
-The strongest:
-
-Restaurant #13:
-
-research correction is:
-
-> **Structure does not automatically reduce hospitality. The question is whether the structure is meaningful, legible, proportionate, and flexible at the correct layer.**
+occurs.
 
 ---
 
-# Current Arrival Architecture
+# Current High-Priority Below-Candidate Directions
 
-The strongest current:
+These:
 
-arrival abstraction is:
+matter
+
+but:
+
+are not:
+
+formal:
+
+Emerging
+
+Candidate
+
+Validated
+
+or:
+
+Research-Derived Principles.
+
+---
+
+# Coherence Through Change
+
+Status:
+
+Observed Cross-Dimensional Research Direction
+
+Strongest case:
+
+Noma
+
+Current decision:
+
+Remain below Candidate
+
+Core correction:
+
+```text
+Coherence
+≠
+Sameness
+```
+
+Need:
+
+another:
+
+independent:
+
+high-change:
+
+hospitality case.
+
+---
+
+# Capacity Proof
+
+Status:
+
+Observed Research Direction
+
+Strongest case:
+
+Noma
+
+Partial support:
+
+- FYN
+- Alinea
+- NARISAWA
+- Franklin
+- Din Tai Fung
+
+Core corrections:
+
+```text
+Capacity Proof
+≠
+Authority
+```
+
+```text
+Capacity Proof
+≠
+Future Outcome Proof
+```
+
+Current decision:
+
+Remain below Candidate.
+
+---
+
+# Research as Operating Identity
+
+Status:
+
+Observed Research Direction
+
+Strongest case:
+
+Noma
+
+Current decision:
+
+Remain below Candidate.
+
+---
+
+# Temporal Story
+
+Status:
+
+Observed Research Direction
+
+Strongest case:
+
+Noma
+
+Core boundary:
+
+```text
+Time Exists
+≠
+Time Is Narrative
+```
+
+Current decision:
+
+Remain below Candidate.
+
+---
+
+# Process-Led Atmosphere
+
+Status:
+
+Observed Research Direction
+
+Core boundary:
+
+```text
+Process Exists
+≠
+Process Shapes Atmosphere
+```
+
+Current decision:
+
+Remain below Candidate.
+
+---
+
+# Research as Atmospheric Mechanism
+
+Status:
+
+Observed Research Direction
+
+Strongest case:
+
+Noma
+
+Core boundary:
+
+```text
+Research Identity
+≠
+Research Atmosphere
+```
+
+Current decision:
+
+Remain below Candidate.
+
+---
+
+# Controlled Transferability
+
+Status:
+
+Observed Research Direction
+
+Strongest case:
+
+Noma
+
+Core boundary:
+
+```text
+Transferability
+≠
+Unrestricted Resale Right
+```
+
+Current decision:
+
+Remain below Candidate.
+
+---
+
+# Stable Participation / Variable Product
+
+Status:
+
+Observed Research Direction
+
+Strongest case:
+
+Noma
+
+Partial support:
+
+- Alinea
+- NARISAWA
+
+Current decision:
+
+Remain below Candidate.
+
+---
+
+# Access Utility
+
+Status:
+
+Architecture Direction
+
+Core boundary:
+
+```text
+Access Utility
+≠
+Hospitality During Waiting
+```
+
+---
+
+# Hospitality During Waiting
+
+Status:
+
+Below Candidate
+
+Core boundary:
+
+```text
+Waiting Exists
+≠
+Hospitality During Waiting
+```
+
+Current decision:
+
+Remain below Candidate.
+
+---
+
+# Experiential Human Service
+
+Status:
+
+Below Candidate
+
+Strong support:
+
+Haidilao
+
+Strong boundary:
+
+ICHIRAN
+
+Current decision:
+
+Remain below Candidate.
+
+---
+
+# Social Interaction as Designed Hospitality
+
+Status:
+
+Below Candidate
+
+Strong support:
+
+- Haidilao
+- Bistro Lolo
+
+Strong contradiction:
+
+ICHIRAN
+
+Current decision:
+
+Remain below Candidate.
+
+---
+
+# Product Focus as Narrative
+
+Status:
+
+Architecture Direction
+
+Strong support:
+
+- Franklin
+- ICHIRAN
+- Din Tai Fung
+
+Strong boundary:
+
+Noma
+
+Core correction:
+
+```text
+Signature Product
+≠
+Required Narrative Anchor
+```
+
+---
+
+# Constraint as Narrative
+
+Status:
+
+Architecture Direction
+
+Strong pressure:
+
+- ICHIRAN
+- Noma
+
+Core boundary:
+
+```text
+Operational Constraint
+≠
+Narrative
+```
+
+---
+
+# Productive Narrative Tension
+
+Status:
+
+Observed Research Direction
+
+Strongest case:
+
+Noma
+
+Core boundary:
+
+```text
+Narrative Tension
+≠
+Narrative Contradiction
+```
+
+Current decision:
+
+Remain below Candidate.
+
+---
+
+# Supporting Architecture Mechanisms
+
+The following:
+
+should:
+
+not:
+
+be counted:
+
+as:
+
+separate:
+
+formal:
+
+patterns.
+
+---
+
+# Distributed Biography
+
+Home:
+
+Biography When It Explains the Experience
+
+---
+
+# Living Heritage
+
+Home:
+
+Heritage Builds Confidence
+
+---
+
+# Future-Facing Heritage
+
+Home:
+
+Living Heritage
+
+→
+
+Heritage Builds Confidence
+
+---
+
+# Method Continuity
+
+Home:
+
+Atmosphere Through Continuity
+
+---
+
+# Cross-Surface Participation Consistency
+
+Home:
+
+Participation Rule Consistency
+
+---
+
+# Process-Led Narrative
+
+Home:
+
+Story Through Hospitality Model
+
+---
+
+# Research as Narrative Carrier
+
+Likely Home:
+
+Story Through Hospitality Model
+
+when:
+
+research
+
+materially:
+
+shapes:
+
+hospitality meaning.
+
+---
+
+# Leadership Transition as Narrative
+
+Home:
+
+Adaptation as Narrative
+
+---
+
+# Adaptive Narrative
+
+Home:
+
+Adaptation as Narrative
+
++
+
+Narrative Coherence architecture.
+
+---
+
+# Transition Narrative
+
+Home:
+
+Adaptation as Narrative
+
+---
+
+# Narrative Temporal Coherence
+
+Home:
+
+Narrative Coherence Through Organising Logic
+
+---
+
+# Relational Place Narrative
+
+Home:
+
+Story Through Place
+
+---
+
+# Access-Release Waiting
+
+Home:
+
+Access Waiting
+
+---
+
+# Archive as Proof
+
+Home:
+
+Proof Architecture
+
+with:
+
+possible:
+
+relationship to:
+
+- Photography as Proof
+- Heritage Builds Confidence
+- Capacity Proof
+
+---
+
+# Temporal Proof Sequencing
+
+Home:
+
+Proof Architecture
+
+---
+
+# Difference Through Sequence
+
+Home:
+
+Photography Should Demonstrate Difference
+
+---
+
+# Absence as Evidence Integrity
+
+Home:
+
+Proof Architecture
+
+---
+
+# Versioned Evidence
+
+Home:
+
+Implementation / Evidence Architecture
+
+---
+
+# Temporal Arrival
+
+Home:
+
+Arrival Architecture
+
+---
+
+# Temporal State Proof
+
+Home:
+
+Participation Architecture
+
+---
+
+# Deadline as Participation Infrastructure
+
+Home:
+
+Participation Architecture
+
+---
+
+# Deadline Hierarchy
+
+Home:
+
+Participation Architecture
+
+---
+
+# Fixed / Open Narrative
+
+Home:
+
+Story Architecture
+
+---
+
+# Institutional Narrative
+
+Home:
+
+Story Architecture
+
+---
+
+# Research Dimensions
+
+Track A research currently compares:
+
+five:
+
+core:
+
+dimensions.
+
+---
+
+# 1. Arrival
+
+Core question:
+
+> **What must the guest understand before making an appropriate hospitality commitment?**
+
+Current strongest abstraction:
 
 ```text
 Guest Intent
 ↓
+Familiarity
+↓
 Relevant Uncertainty
+↓
+Uncertainty Type
+↓
+What Is Known?
++
+What Is Variable?
++
+What Is Not Yet Fixed?
+↓
+What Confidence Is Missing?
 ↓
 Relevant Meaning
 +
+Relevant Utility
++
 Relevant Evidence
 +
-Relevant Utility
+Relevant Explanation
+↓
+Expectation Range where relevant
 ↓
 Appropriate Confidence
 ↓
@@ -1202,381 +1626,922 @@ Appropriate Participation
 
 ---
 
-# Current Arrival Variables
+# Arrival — Current Important Variables
 
-Current important variables include:
-
+- Brand Familiarity
 - Experience Familiarity
 - Participation Familiarity
-- Brand Familiarity
-- Product Confidence
+- Product Familiarity
+- Product Specificity Confidence
+- Product Creation Confidence
 - Place Confidence
 - Experience Confidence
 - Participation Confidence
 - Compatibility Confidence
 - Commitment Confidence
-- Explanation Type
-- Standardisation Visibility
+- Institutional Confidence
+- Operating Logic Confidence
+- Expectation Range
+- Uncertainty Type
+- Future Outcome Uncertainty
+- Access Window
+- Temporal State
+- Evidence Freshness
+- Identity Invariant
 
 ---
 
-# Major Arrival Corrections
+# Arrival — Current Uncertainty Types
+
+### Known and Published
+
+Information:
+
+exists
+
+and:
+
+is:
+
+available.
+
+### Known but Intentionally Unrevealed
+
+Information:
+
+exists
+
+but:
+
+is:
+
+partly:
+
+withheld.
+
+Strong pressure:
+
+Alinea.
+
+### Operationally Variable
+
+State:
+
+changes:
+
+through:
+
+availability
+
+capacity
+
+queue
+
+resource
+
+or:
+
+operations.
+
+Strong pressure:
+
+Franklin
+
+Haidilao
+
+ICHIRAN
+
+Din Tai Fung.
+
+### Not Yet Fixed
+
+Future:
+
+outcome
+
+does:
+
+not:
+
+yet:
+
+fully:
+
+exist.
+
+Strong pressure:
+
+Noma.
+
+Key correction:
 
 ```text
-Emotion Before Interface
+Unknown
 ≠
-Emotion Before Product
-```
-
-```text
-Emotion Before Interface
-≠
-Emotion Before Utility
-```
-
-```text
-Story Before Features
-≠
-Storytelling Before Functions
-```
-
-```text
-Layered Arrival
-≠
-More Sections
-```
-
-```text
-Product Confidence
-≠
-Participation Confidence
-```
-
-```text
-No Online Reservation
-≠
-No Participation
+Hidden
 ```
 
 ---
 
-# Current Atmosphere Architecture
+# 2. Atmosphere
 
-The strongest current:
+Core question:
 
-atmosphere abstraction is:
+> **What actually creates the guest-facing atmospheric condition?**
+
+Current strongest abstraction:
 
 ```text
 Hospitality Model
 ↓
 Desired Guest State
 ↓
-Relevant Atmospheric Mechanisms
+Primary Atmospheric Mechanism
++
+Supporting Mechanisms
 ↓
-Relevant Presence
+Relevant Environment
 +
-Relevant Absence
+Presence
 +
-Relevant Guest Participation
+Absence
++
+Participation
++
+Operating Structure
 ↓
 Relational Coherence
++
+Temporal Coherence where relevant
 ↓
 Atmospheric Experience
 ```
 
 ---
 
-# Current Atmosphere Variables
-
-Important variables now include:
+# Atmosphere — Current Important Variables
 
 - Desired Guest State
 - Compatible Guest-State Cluster
-- Production Presence
+- Primary Atmospheric Mechanism
+- Supporting Atmospheric Mechanisms
+- Place Relationship
 - Service Presence
 - Service Availability
-- Social Exposure
-- Participation Orientation
-- Atmospheric Invariants
-- Atmospheric Variables
-- Spatial Zone
+- Production Presence
+- Relevant Absence
+- Relational Coherence
+- Temporal Coherence
+- Method Continuity
+- Atmospheric Invariant
+- Atmospheric Promise
+- Atmospheric Experience
 
----
-
-# Major Atmosphere Corrections
-
-```text
-Atmosphere
-≠
-Decoration
-```
+Key boundary:
 
 ```text
-Atmosphere
+Atmospheric Promise
 ≠
-Social Energy
-```
-
-```text
-Production Presence
-≠
-Service Presence
-```
-
-```text
-Service Presence
-≠
-Service Availability
-```
-
-```text
-Standardisation
-≠
-Atmospheric Sameness
-```
-
-```text
-Distinct Atmosphere
-≠
-Designed Escape
+Atmospheric Experience
 ```
 
 ---
 
-# Current Proof Architecture
+# 3. Photography / Proof
 
-The strongest current:
+Core question:
 
-proof abstraction is:
+> **What must be proven, how deeply, at what scale, and through which medium?**
+
+Current strongest abstraction:
 
 ```text
+Guest Decision
+↓
+Relevant Uncertainty
+↓
 Claim
 ↓
 What Must Be Proven?
 ↓
-How Deeply?
+Proof Depth
 ↓
-At What Scale?
+Claim Fit
++
+Location Fit
++
+Temporal Fit
++
+State Fit
 ↓
-Which Medium Makes It Legible?
+Best Evidence Medium
 ↓
 Minimum Sufficient Evidence
 ↓
-Confidence
+Appropriate Confidence
 ```
 
 ---
 
-# Current Proof Variables
+# Proof — Current Important Variables
 
-## Proof Scale
-
-- Brand
-- Location
-- Product
-- Participation
-
-## Proof Depth
-
-- Presence
-- Environment
-- Activity
-- Technique
-- Standard
-- Outcome
-
-## Evidence Medium
-
-- Still Photography
-- Motion
-- Sequential Evidence
-- Interface
-- Diagram
-- Text
-- Other
-
-## Additional Variables
-
+- Claim
+- Claim Scale
+- Proof Depth
+- Evidence Medium
+- Claim Fit
+- Location Fit
+- Temporal Fit
+- State Fit
+- Evidence Freshness
+- Evidence Durability
 - Evidence Legibility
-- Evidence Multiplicity
-- Breadth / Depth Orientation
+- Evidence Time Scale
+- Minimum Sufficient Evidence
+
+Current relationship:
+
+```text
+Evidence Fit
+=
+Claim Fit
++
+Location Fit
++
+Temporal Fit
++
+State Fit
+```
+
+Architecture hypothesis.
 
 ---
 
-# Major Proof Corrections
+# 4. Reservation / Participation
 
-```text
-Photography
-≠
-Decoration
-```
+Core question:
 
-```text
-Finished Product Proof
-≠
-Process Proof
-```
+> **How should the hospitality system help the guest enter, understand, manage, and complete participation?**
 
-```text
-Production Presence
-≠
-Technique Proof
-```
-
-```text
-Use-Case Evidence
-≠
-Visible People
-```
-
-```text
-Brand Proof
-≠
-Location Proof
-```
-
-```text
-One Image
-≠
-One Proof Role
-```
-
-```text
-One Image
-≠
-Unlimited Meaning
-```
-
-```text
-Maximum Reveal
-≠
-Maximum Confidence
-```
-
----
-
-# Current Participation Architecture
-
-The strongest current:
-
-participation abstraction is:
+Current strongest abstraction:
 
 ```text
 Guest Intent
 ↓
-Commitment
+Relevant Route
+↓
+Relevant State
+↓
+Relevant Rules
 +
-Complexity
+Relevant Time
 +
-Required Certainty
+Relevant Consequence
 ↓
-Appropriate Route
+Structured Self-Service where sufficient
++
+Human Assistance where required
 ↓
-Appropriate Structure
-↓
-Appropriate Human Support
+Bounded Agency
 ↓
 Participation
+↓
+Completion
 ```
-
-Reservation is:
-
-one state
-
-inside:
-
-Participation Architecture.
 
 ---
 
-# Current Participation Variables
+# Participation — Current Important Variables
 
-Important variables include:
-
-- Commitment Level
-- Participation Complexity
+- Guest Intent
+- Participation Route
+- Participation State
 - Participation Breadth
 - Participation Depth
+- Participation Orientation
+- Availability Layer
+- Availability Phase
+- Access Window
+- Commitment Level
+- Financial Commitment State
+- Commitment Reversibility
+- Reversibility Window
+- Participation Complexity
+- Consequence Complexity
+- Resource Coupling
 - Exception Load
 - Escalation Level
-- Availability Layer
-- Participation Context
-- Participation Orientation
-- Participation State
+- Constraint Legibility
+- Policy Freshness
+- Access Transfer Rule
+- Time-Driven State Transition
+- Time Sensitivity
+- Deadline Hierarchy
+- Outcome Variability Disclosure
+- Flexibility Layer
 
 ---
 
-# Current Waiting Taxonomy
+# Waiting Taxonomy
 
-Waiting remains:
+Canonical waiting types remain:
 
-architecture knowledge.
+1. Access Waiting
+2. Resource Waiting
+3. Product Waiting
+4. Service Waiting
+5. Exception Waiting
 
-Current types:
+Noma adds:
 
-- Access Waiting
-- Resource Waiting
-- Product Waiting
-- Service Waiting
-- Exception Waiting
+Access-Release Waiting
+
+as:
+
+a:
+
+subtype
+
+of:
+
+Access Waiting.
+
+```text
+Access-Release Waiting
+→
+Access Waiting
+```
+
+No:
+
+sixth:
+
+formal:
+
+waiting category.
 
 ---
 
-# Major Participation Corrections
+# 5. Story / Narrative
+
+Core question:
+
+> **What best explains what this hospitality experience means?**
+
+Current strongest abstraction:
 
 ```text
-Reservation
-≠
-Participation
+Hospitality Meaning
+↓
+What Best Explains It?
+↓
+Primary Narrative Carrier
++
+Supporting Narrative Carriers
+↓
+What Remains Stable?
+↓
+Narrative Anchor
++
+Narrative Invariant where relevant
+↓
+Organising Logic
+↓
+What Has Changed?
++
+What May Change?
+↓
+Relevant Narrative
++
+Relevant Evidence
+↓
+Guest Understanding
 ```
 
-```text
-Walk-In
-≠
-Failed Reservation
-```
+---
+
+# Story — Current Important Variables
+
+- Narrative Carrier
+- Narrative Subject
+- Narrative Anchor
+- Narrative Invariant
+- Narrative Distribution
+- Narrative Scale
+- Narrative Entity
+- Narrative Era
+- Narrative Boundary
+- Narrative Horizon
+- Narrative Freshness
+- Institutional Continuity
+- Method as Narrative Anchor
+- Organising Logic
+
+---
+
+# Architecture Families
+
+KHDS now contains:
+
+several:
+
+useful:
+
+cross-dimensional:
+
+families.
+
+These are:
+
+not:
+
+formal:
+
+patterns.
+
+---
+
+# Temporal Hospitality Family
+
+Includes:
+
+- Temporal State
+- Atmospheric Temporal State
+- Temporal Coherence
+- Temporal Evidence Fit
+- Temporal Proof Context
+- Evidence Time Scale
+- Temporal Participation Layer
+- Time-Driven State Transition
+- Temporal State Proof
+- Temporal Story
+- Narrative Temporal Coherence
+- Deadline Hierarchy
+- Policy Freshness
+- Narrative Freshness
+
+Canonical decision:
+
+Do not create:
+
+a:
+
+formal:
+
+Temporal Hospitality:
+
+pattern.
+
+Core boundary:
 
 ```text
-No Online Availability
+Time Exists
 ≠
-No Physical Access
+Temporal Hospitality
 ```
 
-```text
-Waiting Exists
-≠
-Hospitality During Waiting
-```
+---
+
+# Change Architecture Family
+
+Includes:
+
+- Coherence Through Change
+- Identity Invariant
+- Narrative Invariant
+- Atmospheric Invariant
+- Method Continuity
+- Adaptive Narrative
+- Fixed / Open Narrative
+- Adaptation as Narrative
+- Stable Participation / Variable Product
+- Future-Facing Heritage
+
+Canonical decision:
+
+Do not create:
+
+one:
+
+broad:
+
+Change:
+
+pattern.
+
+---
+
+# Institutional Hospitality Family
+
+Includes:
+
+- Institutional Confidence
+- Institutional Continuity
+- Distributed Biography
+- Institutional Narrative
+- Narrative Subject
+- Narrative Entity
+- Narrative Boundary
+- Narrative Era
+- Narrative Authority Source
+
+Status:
+
+Architecture Family
+
+---
+
+# Freshness Governance Family
+
+Includes:
+
+- Evidence Freshness
+- Policy Freshness
+- Narrative Freshness
+- Temporal Evidence Fit
+- Versioned Evidence
+
+Status:
+
+Evidence Governance Family
+
+No:
+
+formal:
+
+Freshness:
+
+pattern.
+
+---
+
+# Capacity Proof Family
+
+Includes:
+
+- Capacity Proof
+- Institutional Capability Proof
+- Atmospheric Capacity Proof
+- Historical Process Proof
+- Archive as Proof
+
+Capacity Proof remains:
+
+the:
+
+broader:
+
+research direction.
+
+---
+
+# Invariant Family
+
+Includes:
+
+- Identity Invariant
+- Narrative Invariant
+- Atmospheric Invariant
+
+Current decision:
+
+Do not:
+
+collapse:
+
+yet.
+
+---
+
+# Flexibility Distribution Family
+
+Includes:
+
+- product flexibility
+- booking flexibility
+- cancellation flexibility
+- transfer flexibility
+- service flexibility
+- guest-choice flexibility
+- creative flexibility
+
+Core variable:
+
+Flexibility Layer
+
+Status:
+
+Architecture Family
+
+---
+
+# Post–Noma Cross-Dimensional Corrections
+
+The following:
+
+are:
+
+canonical:
+
+research:
+
+boundaries.
+
+---
+
+# 1
 
 ```text
-Self-Service
+Coherence
 ≠
-Low Hospitality
+Sameness
 ```
 
-```text
-Structured Participation
-≠
-Low Agency
-```
+---
+
+# 2
 
 ```text
-Human Assistance
+Continuity
 ≠
-Experiential Human Service
+Sameness
 ```
 
+---
+
+# 3
+
 ```text
-Commitment
+Expectation Clarity
 ≠
-Participation Complexity
+Outcome Specificity
 ```
+
+---
+
+# 4
+
+```text
+Unknown
+≠
+Hidden
+```
+
+---
+
+# 5
+
+```text
+Uncertainty
+≠
+Ambiguity
+```
+
+---
+
+# 6
+
+```text
+Historical Evidence
+≠
+Current Product Proof
+```
+
+---
+
+# 7
+
+```text
+Official
+≠
+Current
+```
+
+---
+
+# 8
+
+```text
+Evidence Freshness
+≠
+Evidence Durability
+```
+
+---
+
+# 9
+
+```text
+Visual Variety
+≠
+Proof of Evolution
+```
+
+---
+
+# 10
+
+```text
+Research Identity
+≠
+Visible Research Activity
+```
+
+---
+
+# 11
+
+```text
+Research as Narrative
+≠
+Research as Atmosphere
+```
+
+---
+
+# 12
+
+```text
+Process Exists
+≠
+Process Shapes Atmosphere
+```
+
+---
+
+# 13
+
+```text
+Stable Narrative Identity
+≠
+Stable Narrative Object
+```
+
+---
+
+# 14
+
+```text
+Signature Product
+≠
+Required Narrative Anchor
+```
+
+---
+
+# 15
+
+```text
+Relevant Biography
+≠
+Single Hero Founder
+```
+
+---
+
+# 16
+
+```text
+Heritage
+≠
+Promise of Sameness
+```
+
+---
+
+# 17
+
+```text
+Story Through Place
+≠
+Story Through Address
+```
+
+---
+
+# 18
+
+```text
+Temporal Narrative
+≠
+Timeline
+```
+
+---
+
+# 19
+
+```text
+Reservation Commitment
+≠
+Complete Outcome Knowledge
+```
+
+---
+
+# 20
+
+```text
+Outcome Uncertainty
+≠
+Participation State Uncertainty
+```
+
+---
+
+# 21
+
+```text
+Participation State Change
+≠
+Always User Action
+```
+
+---
+
+# 22
+
+```text
+One Primary Route
+≠
+Simple Participation
+```
+
+---
+
+# 23
+
+```text
+Participation Breadth
+≠
+Participation Depth
+```
+
+---
+
+# 24
+
+```text
+Guest Agency
+≠
+Unlimited Control
+```
+
+---
+
+# 25
+
+```text
+System Participation
+≠
+Creative Product Participation
+```
+
+---
+
+# 26
+
+```text
+Narrative Participation
+≠
+Operational Participation
+≠
+Creative Participation
+```
+
+---
+
+# 27
+
+```text
+Structural Scarcity
+≠
+Manipulative Pressure
+```
+
+---
+
+# 28
+
+```text
+Pre-Commitment Pressure
+≠
+Post-Commitment Agency
+```
+
+---
+
+# 29
 
 ```text
 System Visibility
 ≠
 System Clarity
 ```
+
+---
+
+# 30
 
 ```text
 Route Visibility
@@ -1586,661 +2551,415 @@ State Clarity
 
 ---
 
-# Current Story Architecture
-
-The strongest current:
-
-story abstraction is:
+# 31
 
 ```text
-Hospitality Meaning
-↓
-What Best Explains It?
-↓
-Primary Narrative Carrier
-↓
-Relevant Evidence
-↓
-Guest Understanding
-↓
-Participation
-↓
-Experienced Meaning
+Consistency
+≠
+Currency
 ```
 
 ---
 
-# Current Story Variables
+# 32
 
-Important variables now include:
-
-- Narrative Anchor
-- Narrative Scale
-- Narrative Specificity
-- Narrative Weight
+```text
+Data Controller Status
+≠
+Complete Guest Relationship Ownership
+```
 
 ---
 
-# Major Story Corrections
+# 33
 
 ```text
-Story
+Story of Change
 ≠
-About Page
+Coherence Across Change
 ```
 
-```text
-Story
-≠
-Long-Form Copy
-```
+---
+
+# 34
 
 ```text
-Biography
+Narrative Adaptation
 ≠
-Required Narrative
+Narrative Reinvention
 ```
 
-```text
-Heritage
-≠
-Age Alone
-```
+---
+
+# 35
 
 ```text
-Recognition
+Narrative Subject
 ≠
-Primary Narrative
+Narrative Anchor
 ```
 
+---
+
+# 36
+
 ```text
-Brand Story
+Narrative Carrier
 ≠
-Location Story
+Narrative Invariant
 ```
+
+---
+
+# 37
 
 ```text
 Narrative Coherence
 ≠
-Story Through Hospitality Model
+Coherence Through Change
 ```
 
+---
+
+# 38
+
 ```text
-Story Through Hospitality Model
+Shared Evidence
 ≠
-Hospitality System Proof
+Shared Pattern
 ```
 
+---
+
+# 39
+
 ```text
-Story Through Hospitality Model
+Time Exists
 ≠
-Show the System Behind the Plate
+Temporal Hospitality
 ```
 
 ---
 
-# Standardisation Research Family
-
-Restaurant #13 introduced:
-
-standardisation
-
-as:
-
-a major:
-
-cross-dimensional:
-
-research family.
-
-Current directions include:
-
-- Standardisation as Confidence
-- Standardisation as Narrative
-- Standardisation as Visual Proof
-- Standardisation as Participation Confidence
-- Standardised Core / Local Atmosphere
-
-These are:
-
-not:
-
-formal patterns.
-
----
-
-# Current Standardisation Position
-
-Do not create:
-
-a broad:
-
-Standardisation pattern.
-
-The current evidence suggests:
-
-different effects
-
-depending on:
-
-- what is standardized
-- why it is standardized
-- whether the standard is visible
-- whether the guest understands it
-- where flexibility remains
-- whether the standard affects product, participation, atmosphere, proof, or story
-
-Current provisional architecture:
+# 40
 
 ```text
-Structure
-+
-Meaning
-+
-Legibility
-+
-Appropriate Flexibility
-=
-Potential Hospitality Value
-```
-
-Status:
-
-Research Hypothesis
-
-Not:
-
-formal governance.
-
----
-
-# Multi-Location Research Family
-
-Din Tai Fung also strengthens:
-
-multi-location:
-
-research.
-
-Current directions include:
-
-- Global Promise / Local Expression
-- Standardised Core / Local Atmosphere
-- Atmospheric Invariants
-- Atmospheric Variables
-- Brand Proof / Location Proof
-- Brand Story / Location Story
-- Narrative Layering Across Scale
-- Cultural Translation as Narrative
-
-These remain:
-
-architecture
-
-and:
-
-research directions.
-
-No:
-
-formal:
-
-multi-location pattern
-
-currently exists.
-
----
-
-# Current Below-Candidate Research Directions
-
-The following remain:
-
-below:
-
-formal Candidate maturity.
-
----
-
-## Atmosphere / Service
-
-- Social Interaction as Designed Hospitality
-- Experiential Human Service
-- Hospitality During Waiting
-- Concentration as Atmosphere
-- Privacy as Hospitality
-- Operational Atmosphere
-- Precision as Atmosphere
-- Contemporary Heritage Atmosphere
-
----
-
-## Standardisation
-
-- Standardisation as Confidence
-- Standardisation as Narrative
-- Standardisation as Visual Proof
-- Standardisation as Participation Confidence
-- Standardised Core / Local Atmosphere
-
----
-
-## Multi-Location
-
-- Global Promise / Local Expression
-- Cultural Translation as Narrative
-- Narrative Layering Across Scale
-
----
-
-## Participation
-
-- Participation Rule Consistency
-- Manageable Commitment
-- Structured Human Handoff
-- Intent-Based Complexity Reduction
-- Pre-Visit Operational Preparation
-
----
-
-## Story
-
-- Product Focus as Narrative
-- Constraint as Narrative
-- Adaptation as Narrative
-- Living Heritage
-
----
-
-## Proof
-
-- Motion as Evidence
-- Layered Proof
-- Evidence Efficiency
-- Configuration as Use-Case Evidence
-
----
-
-# Deduplication Discipline
-
-KHDS should:
-
-avoid:
-
-creating:
-
-formal patterns
-
-when:
-
-a finding is better understood as:
-
-a mechanism
-
-inside:
-
-an existing pattern.
-
-Current canonical examples:
-
-| Direction | Current Home |
-|---|---|
-| Service Philosophy as Story | Story Through Hospitality Model |
-| Operational Narrative | Story Through Hospitality Model |
-| Ritual as Story | Story Through Hospitality Model / The Guest as Participant |
-| Explain the Ritual | Hospitality System Proof / Participation Clarity |
-| Product Focus as Narrative | Story Architecture |
-| Constraint as Narrative | Story Architecture |
-| Configuration as Use-Case Evidence | Photography as Use-Case Evidence |
-| Structured Human Handoff | Human Assistance Where Structured Self-Service Is Insufficient |
-| Living Heritage | Heritage Builds Confidence |
-| Motion as Evidence | Evidence Medium |
-| Photography as Service Proof | Proof Architecture |
-| Photography as Participation Reassurance | Use-Case / Participation Proof |
-
----
-
-# Current Research Tensions
-
-A tension is:
-
-not:
-
-a pattern.
-
-It is:
-
-an unresolved:
-
-research question.
-
----
-
-# Arrival Tensions
-
-- Meaning vs Utility
-- Explanation vs Discovery
-- Standardisation vs Individuality
-- Global Promise vs Local Meaning
-- Reservation Certainty vs Walk-In Flexibility
-- Product Focus vs Experience Breadth
-- System Visibility vs System Clarity
-
----
-
-# Atmosphere Tensions
-
-- Standardisation vs Local Specificity
-- Precision vs Warmth
-- Operating Proof vs Atmosphere
-- Brand Atmosphere vs Zone Atmosphere
-- Cultural Reference vs Decorative Tokenism
-- Addition vs Reduction
-- Social vs Individual Atmosphere
-
----
-
-# Proof Tensions
-
-- Breadth vs Depth
-- Stillness vs Motion
-- Proof vs Anticipation
-- Brand Consistency vs Location Specificity
-- Proof vs Atmosphere
-- Evidence Efficiency vs Evidence Compression
-- Visual Specificity vs Explanation Need
-
----
-
-# Participation Tensions
-
-- Reservation Certainty vs Walk-In Flexibility
-- Structured Self-Service vs Human Assistance
-- Simplicity vs Operational Reality
-- Participation Breadth vs Interface Clarity
-- Standardisation vs Agency
-- Digital Availability vs Physical Availability
-- Local Variation vs System Consistency
-- Service Presence vs Service Availability
-- Human Assistance vs Human Hospitality
-
----
-
-# Story Tensions
-
-- Explicit Story vs Embodied Story
-- Biography vs Experience
-- Heritage vs Present Relevance
-- Product Story vs Broader Hospitality Story
-- Operating Model vs Utility
-- Global Consistency vs Local Narrative
-- Standardisation vs Individuality
-- Narrative Specificity vs Narrative Volume
-- Cultural Origin vs Cultural Translation
-
----
-
-# Business Opportunity Layer
-
-Research may expose:
-
-commercial:
-
-or:
-
-operational:
-
-opportunities.
-
-These remain:
-
-separate from:
-
-research maturity.
-
-Current Opportunity Theme count:
-
-36
-
-There is:
-
-no canonical:
-
-Opportunity Theme registry.
-
-Do not:
-
-invent:
-
-one
-
-solely to:
-
-reconcile:
-
-the count.
-
----
-
-# Opportunity Lifecycle
-
-```text
-Observed Gap
-↓
-Potential Opportunity
-↓
-Validated Business Gap
-↓
-Kodawa Labs Solution Opportunity
-↓
-Prototype
-↓
-Client Validation
-↓
-Production Offering
-```
-
-A:
-
-commercial opportunity
-
-does not:
-
-automatically become:
-
-a KHDS pattern.
-
----
-
-# Current Commercial Architecture Hypotheses
-
-These are:
-
-not:
-
-formal research patterns.
-
----
-
-# Adaptive Participation Infrastructure
-
-Route guests through:
-
-- walk-in
-- reservation
-- preorder
-- groups
-- events
-- human coordination
-
-based on:
-
-intent
-
-certainty
-
-resource
-
-and:
-
-complexity.
-
----
-
-# Hospitality Proof System
-
-Determine:
-
-```text
-What must be believed?
-↓
-What must be proven?
-↓
-How deeply?
-↓
-At what scale?
-↓
-Which evidence can prove it?
+Strong Historical Story
+≠
+Current Narrative Fit
 ```
 
 ---
 
-# Hospitality Narrative Architecture
+# Evidence Discipline
 
-Determine:
+Public:
+
+website:
+
+research
+
+can establish:
+
+published:
+
+- hospitality positioning
+- process
+- participation structure
+- policies
+- visual evidence
+- location facts
+- operating claims
+- story
+- system explanation
+- booking routes
+- published timing
+- published constraints
+
+It does not:
+
+automatically:
+
+establish:
+
+- guest satisfaction
+- actual emotional outcome
+- actual atmosphere
+- actual service quality
+- actual booking conversion
+- profitability
+- repeat behaviour
+- complete CRM ownership
+- complete data ownership
+- employee autonomy
+- operational consistency
+- actual guest preference
+- actual guest confidence
+- actual creative co-creation
+
+These:
+
+boundaries
+
+are:
+
+mandatory.
+
+---
+
+# Brand / Location / Era Boundary
+
+Research must:
+
+distinguish:
+
+between:
+
+- brand-level evidence
+- location-level evidence
+- current evidence
+- historical evidence
+- current operating era
+- previous operating era
+
+Key corrections:
 
 ```text
-What creates meaning?
-↓
-What best explains it?
-↓
-Which carrier deserves narrative weight?
-↓
-What evidence supports it?
+Brand Evidence
+≠
+Location Evidence
+```
+
+```text
+Historical Evidence
+≠
+Current Evidence
+```
+
+```text
+Official
+≠
+Current
 ```
 
 ---
 
-# Digital Atmosphere Translation System
+# Current Research Workflow
 
-Translate:
+Each:
 
-- physical atmosphere
-- social behaviour
-- cultural context
-- material signals
-- operating activity
-- use
-- craft
-- presence
-- absence
+restaurant:
 
-into:
+should normally:
 
-digital experience.
+contain:
 
----
+the following:
 
-# Production Feedback Loop
-
-The intended KHDS learning loop is:
+files.
 
 ```text
-Independent Research
-↓
-KHDS Knowledge
-↓
-Experience Definition
-↓
-Production Decision
-↓
-Implementation
-↓
-Observed Outcome
-↓
-Production Validation
-↓
-Implementation Knowledge
+README.md
+arrival.md
+atmosphere.md
+photography.md
+reservation.md
+story.md
+knowledge-extraction.md
+```
+
+The sequence is:
+
+```text
+Restaurant Selection
 ↓
 Research Question
 ↓
-Future Independent Research
+Arrival
+↓
+Atmosphere
+↓
+Photography / Proof
+↓
+Reservation / Participation
+↓
+Story / Narrative
+↓
+Knowledge Extraction
+↓
+Cross-Restaurant Comparison
+↓
+Governance Reconciliation
 ```
-
-The loop:
-
-continues.
-
-It should not:
-
-collapse:
-
-Track A
-
-and:
-
-Track B.
 
 ---
 
-# Track B Implementation Knowledge
+# Research Folder Structure
 
-Current canonical implementation-learning count:
+```text
+khds/
+└── research/
+    ├── restaurants/
+    │   ├── ...
+    │   ├── ichiran-shibuya/
+    │   ├── din-tai-fung-covent-garden/
+    │   └── noma-copenhagen-2026/
+    │
+    ├── comparison/
+    │   ├── arrival.md
+    │   ├── atmosphere.md
+    │   ├── photography.md
+    │   ├── reservation.md
+    │   └── story.md
+    │
+    ├── validation/
+    │   ├── candidate-patterns.md
+    │   ├── dashboard.md
+    │   └── README.md
+    │
+    └── README.md
+```
+
+---
+
+# Governance Hierarchy
+
+Canonical order:
+
+1. `khds/research/validation/candidate-patterns.md`
+2. `khds/patterns/registry.md`
+3. `khds/research/validation/dashboard.md`
+4. `khds/research/README.md`
+5. `khds/research/validation/README.md`
+
+The first file:
+
+is:
+
+canonical.
+
+The remaining:
+
+four:
+
+are:
+
+mirrors.
+
+---
+
+# Mirror Rule
+
+Mirror files:
+
+may:
+
+summarize
+
+reorganize
+
+or:
+
+clarify:
+
+canonical:
+
+governance.
+
+They must not:
+
+independently:
+
+create:
+
+- promotions
+- demotions
+- renames
+- merges
+- confidence changes
+- maturity changes
+
+---
+
+# Opportunity Themes
+
+Current count:
+
+36
+
+No:
+
+post-Noma:
+
+change.
+
+There is:
+
+no:
+
+canonical:
+
+Opportunity Theme:
+
+registry file.
+
+Do not:
+
+create:
+
+one:
+
+solely:
+
+to:
+
+reconcile:
+
+the:
+
+count.
+
+---
+
+# Track B Implementation Learnings
+
+Canonical count:
 
 17
 
-Source:
+These:
 
-`../experiences/trunk-tandoor/implementation-learnings.md`
+come from:
 
-These learnings answer:
+production validation.
 
-> **What should KHDS remember when we build the next hospitality experience?**
+They remain:
 
-They do not answer:
+separate:
 
-> **What does independent research prove?**
+from:
 
----
+Track A:
 
-# Current Track B Position
+research pattern:
 
-Trunk & Tandoor:
-
-Production Build:
-
-Stable
-
-Production Validation:
-
-Phase 2 Checkpoint Complete
-
-Production Classification:
-
-First Stable KHDS Production Translation
-
-This classification establishes:
-
-implementation stability.
-
-It does not establish:
-
-research validation.
+maturity.
 
 ---
 
-# Relationship to the Twelve Foundations
+# Twelve Foundations
 
-The Twelve Foundations are:
+The Twelve Foundations remain:
+
+studio beliefs
+
+and:
 
 Pre-Research Studio Foundations.
 
-They are:
+They are not:
 
-not:
-
-research-derived KHDS Principles.
-
-The Foundations are:
+Research-Derived KHDS Principles.
 
 1. Emotion before Interface
 2. Story before Features
@@ -2255,6 +2974,18 @@ The Foundations are:
 11. Build for Legacy
 12. Craft Over Convenience
 
+Core boundary:
+
+```text
+Studio Foundation
+≠
+Research-Derived Principle
+```
+
+---
+
+# Relationship Between Foundations and Research
+
 Research may:
 
 support
@@ -2265,387 +2996,745 @@ refine
 
 or:
 
-narrow:
+create:
 
-these studio beliefs.
+boundaries around:
 
-Overlap in:
+studio:
 
-names
+Foundations.
 
-does not:
+That does not:
 
-change:
+turn:
 
-governance status.
+a:
 
-Research-Derived KHDS Principles remain:
+Foundation
 
-0
+into:
 
----
+a:
 
-# Website Evidence Boundaries
+research-derived:
 
-Public digital research may establish:
+Principle.
 
-- published content
-- visible interface structure
-- published reservation routes
-- published walk-in policies
-- published operating rules
-- visible photography
-- public brand story
-- location claims
-- visible participation options
-- published system explanations
-- evidence provided by the restaurant
-
-Public digital research cannot establish:
-
-- actual guest satisfaction
-- actual guest emotion
-- actual conversion
-- profitability
-- actual service quality
-- actual waiting quality
-- actual reservation success
-- actual operational consistency
-- CRM ownership
-- data ownership
-- payment ownership
-- backend architecture
-- repeat visitation
-- actual perceived authenticity
-
-unless:
-
-additional:
-
-independent evidence
-
-supports:
-
-those claims.
-
----
-
-# Research Workflow
-
-The current:
-
-Track A:
-
-workflow is:
+Example:
 
 ```text
-Independent Restaurant
-↓
-Evidence Collection
-↓
-Dimension Research
-↓
-Knowledge Extraction
-↓
-Cross-Restaurant Comparison
-↓
-Governance Reconciliation
-↓
-Registry Mirror
-↓
-Dashboard Mirror
-↓
-Research Overview
-↓
-Validation Overview
+Photography Before Decoration
 ```
 
----
+exists as:
 
-# Restaurant Dossier Workflow
+a:
 
-Each:
+studio Foundation
 
-independent restaurant
+and:
 
-normally follows:
+also:
 
-```text
-README
-↓
-Arrival
-↓
-Atmosphere
-↓
-Photography
-↓
-Reservation / Participation
-↓
-Story
-↓
-Knowledge Extraction
-```
+as:
 
-Then:
+a:
 
-the findings return to:
+research-derived:
 
-the comparison layer.
+Emerging pattern
 
----
+with:
 
-# Promotion Workflow
+similar:
 
-```text
-Observed
-↓
-Independent Support
-↓
-Candidate
-↓
-Contradiction Research
-↓
-Definition Pressure
-↓
-Boundary Clarification
-↓
-Emerging
-↓
-Broader Research
-↓
-Validated
-↓
-Research-Derived KHDS Principle
-```
+language.
 
-Restaurant count:
+These:
 
-alone
+are:
 
-never:
+related
 
-authorizes:
+but:
 
-promotion.
+governed:
 
----
-
-# Research Selection Rule
-
-Future restaurant selection should:
-
-prioritize:
-
-contradiction value.
-
-For every:
-
-important:
-
-pattern
-
-or:
-
-architecture hypothesis
-
-ask:
-
-> **What restaurant would make this fail?**
-
-The purpose of:
-
-future research
-
-is not:
-
-to make KHDS look:
-
-correct.
-
-It is:
-
-to make KHDS:
-
-harder to fool.
+separately.
 
 ---
 
 # Current Research Priorities
 
-Following:
-
-Din Tai Fung
+Post–Noma:
 
 future:
 
-Track A:
+restaurant selection
 
-research should target:
+should:
 
-under-tested
+target:
+
+weak:
 
 or:
 
-contradictory:
+concentrated:
 
-hospitality models.
+areas
 
-Priority questions include:
+rather than:
 
-1. When does standardisation become impersonal rather than confidence-building?
-2. When does local variation meaningfully overpower global brand consistency?
-3. When does heritage fail to create present-day meaning?
-4. When does a founder or chef add little explanatory value?
-5. When does system explanation create unnecessary cognitive load?
-6. When does walk-in participation become operational friction rather than hospitality value?
-7. When does human interaction itself become indispensable?
-8. When does visible production fail to create useful proof?
-9. When does narrative language actively damage interface clarity?
-10. When does atmosphere emerge without worldview, continuity, escape, or obvious consistency?
-11. When does structured self-service materially reduce agency?
-12. When does a highly local restaurant resist multi-location abstractions entirely?
+simply:
+
+finding:
+
+more:
+
+restaurants
+
+that:
+
+agree:
+
+with:
+
+KHDS.
 
 ---
 
-# Suggested Restaurant #14 Research Bias
+# Priority 1 — Coherence Through Change
 
-Restaurant #14 should not:
-
-simply repeat:
+Need:
 
 another:
 
-craft-led
+restaurant
 
-standardised
+with:
 
-globally recognizable:
+material:
 
-restaurant.
+guest-facing:
 
-High-value contradiction characteristics include:
+change
 
-- low standardisation
-- highly local identity
-- founder-light brand
-- little explicit heritage
-- weak signature-product focus
-- minimal digital participation
-- heavy human service without ritual
-- decentralized operation
-- community-led hospitality
-- location identity stronger than brand identity
-- deliberately plain visual evidence
-- minimal narrative language
-- unusual accessibility complexity
-- low-tech participation
-- hospitality where atmosphere emerges through everyday use rather than destination framing
+across:
 
-Selection should happen:
+time.
 
-after:
+Research question:
 
-governance mirror reconciliation
-
-is complete.
+> **Can identity remain coherent when expression changes materially?**
 
 ---
 
-# Post–Din Tai Fung Research Cycle Status
+# Priority 2 — Capacity Proof
 
-## Restaurant Dossier
+Need:
 
-Complete
+a:
 
-Restaurant:
+restaurant
 
-Din Tai Fung Covent Garden
+asking:
 
-Independent Restaurant Number:
+for:
 
-13
+meaningful:
 
----
+commitment
 
-## Five-Dimension Comparison
+before:
 
-Complete
+the:
 
-Files:
+future:
 
-- `comparison/arrival.md`
-- `comparison/atmosphere.md`
-- `comparison/photography.md`
-- `comparison/reservation.md`
-- `comparison/story.md`
+outcome
 
----
+can:
 
-## Canonical Candidate Governance
+be:
 
-Complete
+fully:
 
-File:
+shown
 
-`validation/candidate-patterns.md`
+without:
 
----
+Noma-level:
 
-## Pattern Registry
+prestige.
 
-Complete
+Research question:
 
-File:
-
-`../patterns/registry.md`
+> **Can method and capability create confidence when reputation is weaker?**
 
 ---
 
-## Validation Dashboard
+# Priority 3 — Manageable Commitment
 
-Complete
+Need:
 
-File:
+another:
 
-`validation/dashboard.md`
+high-consequence:
 
----
+hospitality system
 
-## Research Overview
+with:
 
-Complete
+meaningful:
 
-Current File
+post-booking:
 
----
+agency.
 
-## Validation Overview
+Research question:
 
-Pending Reconciliation
-
-File:
-
-`validation/README.md`
+> **When is post-commitment flexibility proportionate and operationally realistic?**
 
 ---
 
-# Official Post–Din Tai Fung State
+# Priority 4 — Participation Rule Consistency
+
+Need:
+
+a:
+
+restaurant
+
+with:
+
+multiple:
+
+booking:
+
+surfaces
+
+routes
+
+states
+
+or:
+
+time-sensitive:
+
+rules.
+
+Research question:
+
+> **When do rule differences create confusion, and when are they legitimately different?**
+
+---
+
+# Priority 5 — Adaptation as Narrative
+
+Need:
+
+another:
+
+restaurant
+
+whose:
+
+current:
+
+identity
+
+is:
+
+materially:
+
+explained:
+
+through:
+
+change
+
+in:
+
+leadership
+
+location
+
+product
+
+or:
+
+operating model.
+
+Research question:
+
+> **Does adaptation itself explain the hospitality meaning?**
+
+---
+
+# Priority 6 — Atmosphere Through Worldview
+
+Seek:
+
+a:
+
+restaurant
+
+with:
+
+strong:
+
+published:
+
+worldview
+
+but:
+
+weak:
+
+guest-facing:
+
+translation.
+
+Research question:
+
+> **Does worldview still deserve Candidate status when the physical translation is weak?**
+
+---
+
+# Priority 7 — Hospitality System Proof
+
+Seek:
+
+a:
+
+complex:
+
+guest-facing:
+
+system
+
+where:
+
+minimal:
+
+explanation
+
+still:
+
+creates:
+
+clear:
+
+participation.
+
+Research question:
+
+> **How little system proof can still produce sufficient understanding?**
+
+---
+
+# Pattern Inflation Rule
+
+KHDS should:
+
+resist:
+
+creating:
+
+new:
+
+formal:
+
+patterns
+
+for:
+
+every:
+
+new:
+
+observation.
+
+Use:
+
+the:
+
+following:
+
+distinctions.
+
+```text
+Observation
+≠
+Pattern
+```
+
+```text
+Architecture Variable
+≠
+Pattern
+```
+
+```text
+Mechanism
+≠
+Pattern
+```
+
+```text
+Architecture Family
+≠
+Pattern
+```
+
+```text
+Strong Single-Case Evidence
+≠
+Candidate
+```
+
+```text
+Repeated Support
+≠
+Validated
+```
+
+---
+
+# Research Selection Rule
+
+The best:
+
+next:
+
+restaurant
+
+is not:
+
+necessarily:
+
+the:
+
+most:
+
+famous
+
+or:
+
+most:
+
+beautiful.
+
+The best:
+
+next:
+
+restaurant
+
+is:
+
+the one:
+
+that:
+
+creates:
+
+the:
+
+highest:
+
+research:
+
+value.
+
+That may mean:
+
+a:
+
+restaurant
+
+that:
+
+contradicts:
+
+current:
+
+patterns
+
+rather than:
+
+supports:
+
+them.
+
+---
+
+# Research Contradiction Rule
+
+A:
+
+strong:
+
+contradiction
+
+is:
+
+valuable.
+
+It can:
+
+help:
+
+- narrow a definition
+- identify context
+- prevent false universality
+- reduce pattern inflation
+- improve falsification
+- expose hidden assumptions
+
+Therefore:
+
+```text
+Contradiction
+≠
+Research Failure
+```
+
+---
+
+# Post–Noma Research Conclusion
+
+After:
+
+fourteen:
+
+independent:
+
+restaurants
+
+KHDS has:
+
+moved:
+
+further away:
+
+from:
+
+a:
+
+restaurant website:
+
+style guide
+
+and:
+
+further toward:
+
+a:
+
+hospitality:
+
+knowledge:
+
+system.
+
+The research now:
+
+contains:
+
+strong:
+
+architecture around:
+
+- arrival uncertainty
+- atmosphere mechanisms
+- evidence
+- participation states
+- narrative carriers
+- operating models
+- confidence
+- commitment
+- location
+- time
+- change
+- institutional continuity
+
+Noma's:
+
+main:
+
+contribution
+
+was not:
+
+a:
+
+large:
+
+new:
+
+formal:
+
+pattern set.
+
+It was:
+
+a:
+
+set:
+
+of:
+
+important:
+
+corrections.
+
+Most importantly:
+
+```text
+Coherence
+≠
+Sameness
+```
+
+It also established:
+
+that:
+
+```text
+Expectation Clarity
+≠
+Outcome Specificity
+```
+
+```text
+Unknown
+≠
+Hidden
+```
+
+```text
+Historical Evidence
+≠
+Current Product Proof
+```
+
+```text
+Pre-Commitment Pressure
+≠
+Post-Commitment Agency
+```
+
+```text
+Story of Change
+≠
+Coherence Across Change
+```
+
+and:
+
+```text
+Time Exists
+≠
+Temporal Hospitality
+```
+
+The strongest:
+
+post-Noma:
+
+formal:
+
+governance:
+
+state is:
+
+```text
+14 Independent Restaurants
+16 Emerging Patterns
+16 Candidate Patterns
+1 Partially Supported Pattern
+0 Validated Patterns
+0 Research-Derived Principles
+1 Implementation Pattern Pending Formal Validation
+36 Opportunity Themes
+17 Track B Implementation Learnings
+```
+
+The next:
+
+research cycle
+
+should:
+
+focus:
+
+less:
+
+on:
+
+confirming:
+
+what KHDS already believes
+
+and:
+
+more:
+
+on:
+
+finding:
+
+restaurants
+
+capable:
+
+of:
+
+breaking
+
+or:
+
+narrowing:
+
+the:
+
+new:
+
+Candidates.
+
+---
+
+# Validation
+
+Research README:
+
+`khds/research/README.md`
+
+Status:
+
+Post–Noma Reconciled Mirror
+
+Canonical Source:
+
+`khds/research/validation/candidate-patterns.md`
 
 Independent Restaurants:
 
-13
+14
 
-Kodawa Labs Validation Cases:
+Track B Validation Cases:
 
 1
 
 Emerging:
 
-23
+16
 
 Candidate:
 
-6
+16
 
 Partially Supported:
 
@@ -2655,11 +3744,11 @@ Validated:
 
 0
 
-Research-Derived KHDS Principles:
+Research-Derived Principles:
 
 0
 
-Existing Implementation Patterns Pending Formal Validation:
+Implementation Pattern Pending Formal Validation:
 
 1
 
@@ -2671,231 +3760,22 @@ Track B Implementation Learnings:
 
 17
 
+Post-Noma Promotions:
+
+5
+
+Confidence Changes:
+
+4
+
+Review-State Changes:
+
+1
+
 Highest Research-Derived Maturity:
 
-Emerging
+Candidate
 
----
+Next Governance Mirror:
 
-# Post–Din Tai Fung Governance Changes
-
-## Candidate → Emerging
-
-1. Show the System Behind the Plate
-2. Biography When It Explains the Experience
-3. Photography as Use-Case Evidence
-4. Walk-In as First-Class Participation
-5. Story Through Hospitality Model
-
----
-
-# Confidence Increases
-
-Heritage Builds Confidence:
-
-Medium
-
-↓
-
-Medium-High
-
-Hospitality System Proof:
-
-Medium
-
-↓
-
-Medium-High
-
----
-
-# New Formal Candidates
-
-0
-
----
-
-# Demotions
-
-0
-
----
-
-# Renames
-
-0
-
----
-
-# Validated Promotions
-
-0
-
----
-
-# Research-Derived Principle Promotions
-
-0
-
----
-
-# Final Research Position
-
-After:
-
-thirteen:
-
-independent restaurant studies
-
-KHDS has become:
-
-less:
-
-formulaic
-
-rather than:
-
-more.
-
-That is:
-
-the intended outcome.
-
-The evidence now demonstrates:
-
-that:
-
-strong hospitality may emerge through:
-
-- place
-- worldview
-- heritage
-- escape
-- belonging
-- craft
-- social participation
-- individual participation
-- human service
-- reduced interaction
-- structured systems
-- walk-in access
-- high commitment
-- low commitment
-- visible production
-- selective reveal
-- global consistency
-- local specificity
-
-These:
-
-differences
-
-should remain:
-
-visible.
-
-KHDS should not:
-
-flatten:
-
-them
-
-into:
-
-one:
-
-restaurant experience template.
-
-The strongest current architecture is therefore becoming:
-
-less about:
-
-what every restaurant should contain
-
-and more about:
-
-what this guest
-
-needs to:
-
-understand
-
-believe
-
-feel
-
-and:
-
-do
-
-inside:
-
-this hospitality model.
-
-Restaurant #13 strengthens:
-
-that direction.
-
-It did not:
-
-create:
-
-a new:
-
-formal:
-
-standardisation pattern.
-
-Instead:
-
-it made:
-
-existing patterns
-
-stronger
-
-and:
-
-the framework:
-
-more precise.
-
-That is:
-
-good research governance.
-
-Evidence wins.
-
----
-
-# Research Overview Status
-
-Post–Din Tai Fung Research Overview Reconciliation:
-
-Complete
-
-Canonical Governance:
-
-Complete
-
-Pattern Registry:
-
-Complete
-
-Validation Dashboard:
-
-Complete
-
-Research Overview:
-
-Complete
-
-Validation Overview:
-
-Pending
-
----
-
-# Next Mirror
-
-`validation/README.md`
+`khds/research/validation/README.md`
