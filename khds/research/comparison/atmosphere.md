@@ -2,35 +2,55 @@
 
 ## Status
 
-Post-ICHIRAN Atmosphere Reconciliation
+Post–Din Tai Fung Cross-Restaurant Reconciliation
 
-Independent Restaurants:
+Independent Restaurants Compared:
 
-12
+13
 
-Latest Research Case:
+Latest Restaurant:
 
-ICHIRAN Shibuya
+Din Tai Fung Covent Garden
 
-Research Dimension:
+Governance Changes:
 
-Atmosphere
+Pending Five-Dimension Reconciliation
 
-Formal Governance Changes:
+Pattern Promotions:
 
-Deferred
+None in this file
+
+Pattern Demotions:
+
+None in this file
 
 ---
 
 # Purpose
 
-Compare how independent restaurants create:
+Compare how:
 
-atmospheric character
+independent hospitality experiences
+
+create:
+
+atmosphere
 
 through:
 
-space
+place
+
+worldview
+
+continuity
+
+escape
+
+belonging
+
+craft
+
+cultural memory
 
 service
 
@@ -38,65 +58,43 @@ ritual
 
 participation
 
-social interaction
-
 privacy
 
+concentration
+
 constraint
+
+precision
 
 and:
 
 operating structure.
 
-This document asks:
+This comparison asks:
 
-> **What actually produces the feeling of a hospitality experience?**
+> **What actually creates atmosphere, and how much of that atmosphere comes from environment versus hospitality behaviour?**
 
-Atmosphere should not be reduced to:
+The current research no longer supports:
 
-- interior aesthetics
-- colour
-- lighting
-- photography
-- luxury styling
-- social energy
+atmosphere
 
-The current research shows that:
+as:
 
-atmosphere may emerge from:
+visual mood
 
-- place
-- worldview
-- continuity
-- escape
-- belonging
-- craft
-- cultural memory
-- experience architecture
-- service
-- ritual
-- participation
-- social interaction
-- privacy
-- concentration
-- constraint
-- operating logic
+or:
 
-ICHIRAN adds:
+social energy alone.
 
-important contradiction pressure
+The stronger architecture is:
 
-because:
+Atmosphere as:
 
-its atmospheric proposition appears to depend on:
+a mechanism
 
-less interaction
+that helps produce:
 
-less social exposure
-
-and:
-
-less competing stimulation.
+a desired guest state.
 
 ---
 
@@ -114,332 +112,404 @@ less competing stimulation.
 10. NARISAWA
 11. Haidilao Toronto Downtown
 12. ICHIRAN Shibuya
+13. Din Tai Fung Covent Garden
 
 ---
 
 # Current Atmosphere Models
 
-## Ankole
+---
 
-### Atmosphere Type
+# Ankole
+
+## Atmosphere Type
 
 Refinement Through Place
 
-### Primary Mechanisms
+## Primary Mechanisms
 
 - architecture
-- materiality
+- visual refinement
 - environment
-- visual restraint
-- spatial calm
+- physical place
+- material consistency
 
-### Main Contribution
+## Main Contribution
 
-Place can:
+Atmosphere can:
 
-carry:
+emerge:
 
-atmosphere directly.
+from:
+
+coherent physical character
+
+without:
+
+requiring:
+
+heavy narrative explanation.
 
 ---
 
 # Cultiva
 
-### Atmosphere Type
+## Atmosphere Type
 
 Worldview-Led Atmosphere
 
-### Primary Mechanisms
+## Primary Mechanisms
 
 - cultivation
-- ecology
 - sustainability
-- natural systems
-- philosophy
-- food
+- sourcing
+- community
+- nature
+- food-system philosophy
 
-### Main Contribution
+## Main Contribution
 
-Worldview can:
+Atmosphere can:
 
-organise:
+be organized:
 
-atmospheric coherence
+through:
+
+worldview
 
 when:
 
-it is visible in:
+that worldview:
 
-the hospitality experience.
+materially shapes:
+
+the guest experience.
 
 ---
 
 # Talisman
 
-### Atmosphere Type
+## Atmosphere Type
 
-Continuity + Place
+Continuity-Led Atmosphere
 
-### Primary Mechanisms
+## Primary Mechanisms
 
-- old-house setting
+- old-house character
 - garden
+- Karen
 - history
 - art
-- food
-- accumulated character
+- accumulated identity
 
-### Main Contribution
+## Main Contribution
 
-Atmosphere may emerge from:
+Atmosphere can:
 
-continuity over time
+gain:
 
-rather than:
+depth
 
-a newly invented concept.
+through:
+
+continuity
+
+and:
+
+a sense that:
+
+the place:
+
+has developed:
+
+over time.
 
 ---
 
 # Mawimbi
 
-### Atmosphere Type
+## Atmosphere Type
 
 Designed Escape
 
-### Primary Mechanisms
+## Primary Mechanisms
 
-- coastal references
-- luxury
+- coastal imagery
 - tropical environment
 - seafood
-- social occasion
+- luxury
+- social connection
 - celebration
 
-### Main Contribution
+## Main Contribution
 
-Atmosphere can become:
+Atmosphere can:
 
-a destination proposition
+become:
 
-that:
+part of:
 
-transports the guest
+the product
 
-into:
+when:
 
-a different emotional world.
+the environment itself:
+
+is:
+
+a reason:
+
+to visit.
 
 ---
 
 # Bistro Lolo
 
-### Atmosphere Type
+## Atmosphere Type
 
 Belonging + Social Rhythm
 
-### Primary Mechanisms
+## Primary Mechanisms
 
-- neighbourhood use
-- architecture
-- day-to-night rhythm
+- neighbourhood identity
 - people
-- familiarity
-- casual social energy
+- easy day-to-night use
+- social familiarity
+- architecture
+- lived-in rhythm
 
-### Main Contribution
+## Main Contribution
 
-Atmosphere can be:
+Atmosphere can:
 
-lived
+be:
 
-familiar
+casual
+
+social
 
 and:
 
-socially embedded
+familiar
 
-rather than:
+without:
 
-ceremonial.
+being:
+
+generic.
 
 ---
 
 # FYN
 
-### Atmosphere Type
+## Atmosphere Type
 
 Restraint + Controlled Contrast
 
-### Primary Mechanisms
+## Primary Mechanisms
 
-- culinary structure
-- design restraint
-- authority
-- tension between precision and warmth
-- controlled sensory experience
+- culinary authorship
+- spatial restraint
+- cultural reference
+- selective reveal
+- controlled experience
 
-### Main Contribution
+## Main Contribution
 
-Atmospheric coherence does not require:
+Atmosphere can:
 
-one emotional mood.
+be:
 
-Complementary contrasts may remain:
+carefully controlled
 
-coherent.
+without:
+
+requiring:
+
+visual excess.
 
 ---
 
 # Dishoom Covent Garden
 
-### Atmosphere Type
+## Atmosphere Type
 
-Cultural Memory + Social Hospitality
+Narrative World + Cultural Memory
 
-### Primary Mechanisms
+## Primary Mechanisms
 
-- narrative world
+- architecture
 - cultural references
-- communal energy
-- place
 - language
-- food
-- social ritual
+- social hospitality
+- fictional / interpretive narrative
+- place
 
-### Main Contribution
+## Main Contribution
 
-Atmosphere can be:
+Atmosphere can:
 
-socially
+be:
 
-and:
+constructed:
 
-narratively produced.
+through:
+
+a coherent narrative world
+
+without:
+
+sacrificing:
+
+functional clarity.
 
 ---
 
 # Franklin Barbecue
 
-### Atmosphere Type
+## Atmosphere Type
 
-Product Authority + Collective Anticipation
+Product + Queue Culture + Informality
 
-### Primary Mechanisms
+## Primary Mechanisms
 
-- queue
-- product reputation
-- craft
-- informal social energy
+- barbecue authority
 - operational reality
-- scarcity through demand rather than manufactured urgency
+- queue culture
+- founder identity
+- directness
+- product anticipation
 
-### Main Contribution
+## Main Contribution
 
-Atmosphere may emerge partly from:
+Atmosphere may emerge:
 
-collective anticipation
+from:
+
+operational reality
 
 and:
 
-participation around:
+social behaviour
 
-the product.
+rather than:
+
+decorative design.
 
 ---
 
 # Alinea
 
-### Atmosphere Type
+## Atmosphere Type
 
-Experience Architecture + Controlled Revelation
+Transformation + Controlled Experience
 
-### Primary Mechanisms
+## Primary Mechanisms
 
-- transformation
+- controlled reveal
+- high commitment
+- experience architecture
 - authorship
 - surprise
-- sequencing
-- high commitment
-- controlled sensory experience
+- transformation
 
-### Main Contribution
+## Main Contribution
 
-Atmosphere can be:
+Atmosphere can:
 
-constructed through:
+be:
 
-experience architecture
+managed:
 
-rather than:
+through:
 
-static visual identity.
+sequence
+
+constraint
+
+and:
+
+controlled revelation.
 
 ---
 
 # NARISAWA
 
-### Atmosphere Type
+## Atmosphere Type
 
-Ecology + Philosophy + Restraint
+Ecology + Philosophy
 
-### Primary Mechanisms
+## Primary Mechanisms
 
-- nature
+- Japanese landscape
+- ecology
 - seasonality
-- landscape
 - culinary philosophy
-- authorship
 - restraint
+- nature
 
-### Main Contribution
+## Main Contribution
 
-Philosophy
+Atmosphere can:
+
+be:
+
+philosophical
+
+when:
+
+the worldview:
+
+is translated:
+
+into:
+
+material
+
+culinary
 
 and:
 
-ecological meaning
+spatial:
 
-can become:
-
-atmospheric structure.
+experience.
 
 ---
 
 # Haidilao Toronto Downtown
 
-### Atmosphere Type
+## Atmosphere Type
 
-Participatory Social Atmosphere
+Human Service + Social Participation + Ritual
 
-### Primary Mechanisms
+## Primary Mechanisms
 
 - visible service
-- guest participation
-- hot pot ritual
-- social interaction
 - personalization
-- operational behaviour
+- hot pot participation
+- social activity
+- staff behaviour
+- guest interaction
 
-### Main Contribution
+## Main Contribution
 
-Haidilao produced:
-
-a major correction:
-
-> **Atmosphere is not the same thing as aesthetics.**
-
-Service
-
-ritual
-
-participation
+Human service
 
 and:
 
-social interaction
+social participation
 
-can help produce:
+can:
+
+be:
+
+atmospheric mechanisms.
+
+They are not:
+
+the universal definition:
+
+of:
 
 atmosphere.
 
@@ -447,1355 +517,136 @@ atmosphere.
 
 # ICHIRAN Shibuya
 
-### Atmosphere Type
+## Atmosphere Type
 
 Concentrated Individual Atmosphere
 
-### Primary Mechanisms
+## Primary Mechanisms
 
 - privacy
-- reduced social exposure
-- low-visibility service
-- structured participation
-- product focus
-- environmental reduction
-- guest control
 - concentration
+- reduced social exposure
+- structured service visibility
+- individual control
+- reduced distraction
 
-### Main Contribution
+## Main Contribution
 
-ICHIRAN creates:
+Atmosphere can:
 
-another major correction:
-
-> **Atmosphere is not the same thing as social energy.**
-
-Atmosphere may be created through:
-
-reduction
-
-constraint
-
-privacy
-
-and:
-
-concentration.
-
----
-
-# Cross-Restaurant Finding 1 — Atmosphere Is Mechanism, Not Appearance
-
-Across:
-
-the twelve restaurants
-
-the strongest shared conclusion is:
-
-atmosphere should be analysed through:
-
-what produces:
-
-the guest-facing emotional environment.
-
-Not simply:
-
-what:
-
-the restaurant looks like.
-
-The mechanism may be:
-
-- spatial
-- narrative
-- behavioural
-- operational
-- social
-- ritual
-- participatory
-- ecological
-- service-led
-- constraint-led
-
-Therefore:
-
-the core question remains:
-
-> **What produces the feeling?**
-
----
-
-# Cross-Restaurant Finding 2 — Atmosphere Can Be Produced Through Addition Or Reduction
-
-Earlier cases often demonstrated:
-
-atmosphere through:
-
-adding:
-
-meaningful signals.
-
-Examples:
-
-- world-building
-- social energy
-- service
-- narrative
-- environmental richness
-- ritual
-- place
-
-ICHIRAN adds:
-
-the opposite direction.
-
-Atmosphere may also emerge from:
-
-deliberately removing:
-
-- social exposure
-- competing stimulation
-- unnecessary conversation
-- menu breadth
-- visual interruption
-
-This creates:
-
-a new architecture distinction.
-
----
-
-## Additive Atmosphere
-
-Atmosphere created through:
-
-more:
-
-meaningful environmental
-
-social
-
-or:
-
-experiential input.
-
-Examples may include:
-
-- Dishoom
-- Mawimbi
-- Haidilao
-
----
-
-## Reductive Atmosphere
-
-Atmosphere created through:
-
-intentional removal
-
-or:
-
-constraint.
-
-Strongest current example:
-
-ICHIRAN.
-
----
-
-## Governance Position
-
-Additive / Reductive Atmosphere
-
-should remain:
-
-architecture.
-
-Not:
-
-formal patterns.
-
----
-
-# Cross-Restaurant Finding 3 — Social Energy Is One Mechanism, Not The Definition Of Atmosphere
-
-Haidilao
-
-Dishoom
-
-Bistro Lolo
-
-Franklin
-
-and:
-
-Mawimbi
-
-all provide:
-
-different forms of:
-
-social atmospheric value.
-
-ICHIRAN provides:
-
-direct contradiction.
-
-Its atmosphere appears:
-
-deliberately individual.
-
-Therefore:
-
-social interaction
-
-cannot become:
-
-a universal atmospheric rule.
-
-The stronger statement is:
-
-> **Social interaction may create atmosphere when it supports the intended guest state.**
-
----
-
-# Cross-Restaurant Finding 4 — Desired Guest State May Be The Deeper Variable
-
-The strongest Haidilao / ICHIRAN comparison is:
-
-not:
-
-service style.
-
-It is:
-
-the guest state each model appears designed to support.
-
----
-
-## Haidilao
-
-Desired guest state may be:
-
-- socially engaged
-- supported
-- active
-- participatory
-
----
-
-## ICHIRAN
-
-Desired guest state may be:
-
-- private
-- focused
-- self-directed
-- concentrated
-
----
-
-## Interpretation
-
-Atmosphere mechanisms may be selected because:
-
-they support:
-
-a desired guest state.
-
-Possible architecture:
-
-Hospitality Model
-
-↓
-
-Desired Guest State
-
-↓
-
-Atmosphere Mechanisms
-
-↓
-
-Environmental Signals
-+
-Service Behaviour
-+
-Participation Structure
-+
-Interaction Level
-
-↓
-
-Emotional Coherence
-
-↓
-
-Atmospheric Experience
-
-This should be:
-
-tested:
-
-against:
-
-the full independent set.
-
-Do not formalize yet.
-
----
-
-# Cross-Restaurant Finding 5 — Service Presence And Service Availability Must Be Separated
-
-Haidilao
-
-and:
-
-ICHIRAN
-
-provide:
-
-strong contrast.
-
-### Haidilao
-
-High service presence.
-
-Human interaction is:
-
-visible
-
-and:
-
-potentially atmospheric.
-
-### ICHIRAN
-
-Low service presence.
-
-Service remains:
-
-available
+be produced:
 
 through:
 
-structured mechanisms.
+reduction
 
-This demonstrates:
+rather than:
 
-two different variables.
+addition.
 
----
+ICHIRAN directly corrected:
 
-## Service Presence
+the assumption that:
 
-How visible
-
-continuous
+more social energy
 
 or:
 
-socially active
+more visible service
 
-human service is.
+automatically creates:
 
----
-
-## Service Availability
-
-Whether:
-
-support can:
-
-reliably be accessed.
+stronger hospitality atmosphere.
 
 ---
 
-## Governance Position
+# Din Tai Fung Covent Garden
 
-These should become:
+## Atmosphere Type
 
-permanent atmosphere
+Structured Craft Atmosphere
 
-and:
+## Primary Mechanisms
 
-participation architecture variables.
+- visible craft
+- precision
+- cultural reference
+- local architecture
+- social flexibility
+- production presence
+- global consistency
+- location expression
 
-Not:
+## Main Contribution
 
-patterns.
+Din Tai Fung adds:
 
----
+a new:
 
-# Cross-Restaurant Finding 6 — Privacy Can Be An Atmosphere Mechanism
+atmospheric question:
 
-ICHIRAN provides:
+> **Can a highly standardised hospitality system create a specific atmosphere when craft, production, cultural reference, and local architecture remain visible?**
 
-the strongest current evidence
+It also introduces:
 
-for:
-
-privacy
+Production Presence
 
 as:
 
-intentional hospitality structure.
+distinct from:
 
-But:
-
-website evidence supports:
-
-physical separation
-
-and:
-
-published intent.
-
-It does not prove:
-
-the emotional outcome.
-
-Therefore:
-
-Privacy as Hospitality
-
-should remain:
-
-below Candidate.
-
-A safer architecture position is:
-
-### Privacy
-
-as:
-
-an atmosphere mechanism
-
-that may:
-
-support:
-
-a desired guest state.
+Service Presence.
 
 ---
 
-# Cross-Restaurant Finding 7 — Concentration May Be A Distinct Atmosphere Mechanism
+# Cross-Restaurant Atmosphere Comparison
 
-Current atmosphere mechanisms include:
-
-- Place
-- Worldview
-- Continuity
-- Escape
-- Belonging
-- Craft
-- Cultural Memory
-- Experience Architecture
-- Service
-- Ritual
-- Participation
-- Social Interaction
-
-ICHIRAN creates:
-
-substantial pressure
-
-to add:
-
-### Concentration
-
-The working definition is:
-
-> **Atmospheric character created by intentionally reducing competing stimuli and directing attention toward a primary product or experience.**
-
-## Governance Recommendation
-
-Add:
-
-Concentration
-
-to:
-
-Atmosphere Architecture.
-
-Do not create:
-
-a Candidate pattern.
-
----
-
-# Cross-Restaurant Finding 8 — Constraint Can Help Produce Atmosphere
-
-ICHIRAN demonstrates:
+The thirteen restaurants now demonstrate:
 
 that:
 
-constraints may be:
+atmosphere
 
-atmospheric.
+can be carried by:
 
-Examples include:
-
-- individual seating
-- limited sightlines
-- constrained interaction
-- concentrated product range
-- structured behaviour
-
-But:
-
-constraint itself
-
-is not:
-
-automatically hospitality.
-
-The constraint must:
-
-fit:
-
-the intended experience.
-
-Possible model:
-
-Intentional Constraint
-
-↓
-
-Reduced Competing Behaviour
-
-↓
-
-Greater Coherence
-
-↓
-
-Atmospheric Effect
-
-Hold as:
-
-architecture.
-
----
-
-# Cross-Restaurant Finding 9 — Atmosphere Through Consistency Is Becoming More Systemic
-
-Across:
-
-the research set
-
-consistency now includes:
-
-far more than:
-
-visual identity.
-
-Potential dimensions include:
-
-- spatial
-- visual
-- narrative
-- behavioural
-- operational
-- social
-- ritual
+- place
+- worldview
+- continuity
+- escape
+- belonging
+- restraint
+- cultural memory
+- product
+- operational reality
 - service
-- participation
-- constraint
-
-ICHIRAN adds:
-
-absence
-
-and:
-
-restriction
-
-to:
-
-the consistency model.
-
-The relevant concept remains:
-
-relational coherence.
-
-Not:
-
-surface sameness.
-
----
-
-# Pressure Test — Atmosphere Through Consistency
-
-## Current Status
-
-Emerging
-
-## ICHIRAN Result
-
-Very strong support.
-
-## Contribution
-
-ICHIRAN shows:
-
-that:
-
-space
-
-service boundaries
-
-participation rules
-
-product focus
-
-and:
-
-interaction level
-
-can all:
-
-align around:
-
-concentration.
-
-## Recommended Definition Refinement
-
-Atmosphere Through Consistency should continue to mean:
-
-> **Atmosphere strengthens when the restaurant's meaningful signals, behaviours, environments, service model, and participation structure coherently support the same hospitality intention.**
-
-Coherence may include:
-
-intentional absence
-
-or:
-
-constraint.
-
-## Governance Recommendation
-
-Retain:
-
-Emerging.
-
-No maturity change.
-
----
-
-# Cross-Restaurant Finding 10 — Atmosphere As Product Needs A Two-Part Model
-
-Previous research showed:
-
-atmosphere itself:
-
-may influence:
-
-why:
-
-the guest chooses:
-
-the restaurant.
-
-ICHIRAN adds:
-
-a second mechanism.
-
----
-
-## Type 1 — Atmosphere As Destination Value
-
-The atmosphere itself is:
-
-part of:
-
-the primary purchase motivation.
-
-Strong examples may include:
-
-- Mawimbi
-- destination-led hospitality
-- rooftop or immersive concepts
-
----
-
-## Type 2 — Atmosphere As Product Amplifier
-
-The atmosphere is designed to:
-
-improve:
-
-attention to
-
-or:
-
-experience of:
-
-another core product.
-
-Strongest current example:
-
-ICHIRAN.
-
----
-
-# Pressure Test — Atmosphere As Product
-
-## Current Status
-
-Emerging
-
-## ICHIRAN Result
-
-Strong support
-
-with:
-
-major definition refinement.
-
-## Governance Recommendation
-
-Retain:
-
-Emerging.
-
-Add:
-
-Destination Value
-
-and:
-
-Product Amplifier
-
-as:
-
-architecture subtypes.
-
-No maturity change.
-
----
-
-# Cross-Restaurant Finding 11 — Atmosphere Through Worldview Remains Contextual
-
-Cultiva
-
-and:
-
-NARISAWA
-
-provide:
-
-strong worldview-led evidence.
-
-ICHIRAN has:
-
-an experience philosophy.
-
-But:
-
-its atmospheric logic is:
-
-more directly:
-
-operational
-
-and:
-
-product-centered.
-
-This reinforces:
-
-the boundary:
-
-Worldview
-
-is:
-
-one atmosphere mechanism.
-
-Not:
-
-the master abstraction.
-
----
-
-# Pressure Test — Atmosphere Through Worldview
-
-## Current Status
-
-Candidate / Under Review
-
-## Confidence
-
-Medium-High
-
-## ICHIRAN Result
-
-Limited direct support.
-
-Useful boundary evidence.
-
-## Governance Recommendation
-
-Retain:
-
-Candidate / Medium-High.
-
-Do not broaden.
-
-No confidence change from:
-
-atmosphere comparison alone.
-
----
-
-# Cross-Restaurant Finding 12 — Designed Escape Must Remain Narrow
-
-Mawimbi provides:
-
-strong Designed Escape evidence.
-
-ICHIRAN creates:
-
-a different form of:
-
-separation from:
-
-ordinary stimulation.
-
-But:
-
-that should not automatically become:
-
-escape.
-
-If:
-
-every experience that:
-
-removes:
-
-ordinary distraction
-
-becomes:
-
-Designed Escape
-
-the pattern becomes:
-
-too broad.
-
-Therefore:
-
-ICHIRAN is:
-
-boundary evidence.
-
----
-
-# Pressure Test — Designed Escape
-
-## Current Status
-
-Candidate / Medium
-
-## ICHIRAN Result
-
-Not direct support.
-
-## Governance Recommendation
-
-Retain:
-
-Candidate / Medium.
-
-No change.
-
----
-
-# Cross-Restaurant Finding 13 — Service As Atmosphere Must Remain A Mechanism
-
-Haidilao created:
-
-strong evidence that:
-
-service behaviour
-
-can:
-
-shape:
-
-atmosphere.
-
-ICHIRAN creates:
-
-direct inverse pressure.
-
-Low-visibility service
-
-may also:
-
-support:
-
-atmosphere.
-
-Therefore:
-
-Service as Atmosphere
-
-should not become:
-
-a universal rule.
-
-The stronger architecture is:
-
-### Service Contribution To Atmosphere
-
-which may operate through:
-
-- visible presence
-- responsiveness
 - ritual
-- low visibility
-- controlled access
-- absence of interruption
+- social interaction
+- privacy
+- concentration
+- craft
+- precision
+- production presence
+- constraint
+- local expression
 
-depending on:
+This makes:
 
-the hospitality model.
+one conclusion:
 
----
+increasingly strong.
 
-# Pressure Test — Service As Atmosphere
-
-## Current Status
-
-Below Candidate
-
-## ICHIRAN Result
-
-Strong contradiction.
-
-## Governance Recommendation
-
-Do not promote.
-
-Reclassify conceptually as:
-
-Atmosphere Architecture mechanism.
-
-Formal canonical wording:
-
-defer until governance reconciliation.
+> **Atmosphere is not a visual style. It is a hospitality mechanism that helps produce a desired guest state.**
 
 ---
 
-# Cross-Restaurant Finding 14 — Experiential Human Service Requires A Narrow Definition
+# Previous Atmosphere Architecture
 
-Haidilao suggests:
-
-human interaction itself
-
-can:
-
-create hospitality value.
-
-ICHIRAN demonstrates:
-
-that:
-
-human interaction is not:
-
-universally:
-
-part of:
-
-the value.
-
-Therefore:
-
-the strongest future definition would be:
-
-> **Human interaction becomes experiential service when the interaction itself materially contributes to the intended hospitality experience.**
-
-This preserves:
-
-Haidilao
-
-without:
-
-being contradicted by:
-
-ICHIRAN.
-
----
-
-# Pressure Test — Experiential Human Service
-
-## Current Status
-
-Below Candidate
-
-## ICHIRAN Result
-
-Major boundary pressure.
-
-## Governance Recommendation
-
-Retain below Candidate.
-
-Do not promote.
-
-More independent diversity required.
-
----
-
-# Cross-Restaurant Finding 15 — Social Interaction As Designed Hospitality Is Too Broad
-
-Haidilao
-
-Dishoom
-
-Bistro Lolo
-
-and:
-
-other socially oriented cases
-
-show:
-
-that:
-
-social interaction may be:
-
-designed hospitality value.
-
-ICHIRAN shows:
-
-the opposite.
-
-Therefore:
-
-the broad direction:
-
-Social Interaction as Designed Hospitality
-
-cannot currently justify:
-
-formal pattern maturity.
-
-The better interpretation is:
-
-Social Interaction
-
-as:
-
-one optional atmosphere mechanism.
-
----
-
-# Pressure Test — Social Interaction As Designed Hospitality
-
-## Current Status
-
-Observed Research Direction
-
-## ICHIRAN Result
-
-Direct contradiction.
-
-## Governance Recommendation
-
-Do not promote.
-
-Potentially consolidate into:
-
-Atmosphere Architecture
-
-during:
-
-canonical reconciliation.
-
----
-
-# Cross-Restaurant Finding 16 — Ritual Must Remain Distinct From Procedure
-
-ICHIRAN contains:
-
-repeated:
-
-structured behaviours.
-
-But:
-
-repetition alone
-
-does not prove:
-
-ritual.
-
-The research must distinguish:
-
-### Procedure
-
-Repeated behaviour required to:
-
-complete a task.
-
-from:
-
-### Ritual
-
-Repeated behaviour that:
-
-carries:
-
-meaning
-
-identity
-
-or:
-
-experiential significance.
-
-This boundary should remain:
-
-strict.
-
----
-
-# Pressure Test — Atmosphere Through Ritual
-
-## Current Status
-
-Below Candidate
-
-## ICHIRAN Result
-
-Possible support.
-
-Not sufficient.
-
-## Governance Recommendation
-
-Hold.
-
-Do not promote.
-
----
-
-# Cross-Restaurant Finding 17 — Guest Participation Can Produce Opposite Atmospheres
-
-Participation may contribute to:
-
-atmosphere
-
-in:
-
-different ways.
-
-### Haidilao
-
-Guest participation:
-
-increases:
-
-social activity
-
-and:
-
-shared energy.
-
-### ICHIRAN
-
-Guest participation:
-
-supports:
-
-individual control
-
-and:
-
-concentration.
-
-This creates:
-
-a strong conclusion:
-
-> **Participation is not atmospheric because it is active. It is atmospheric when the form of participation reinforces the intended guest state.**
-
----
-
-# Pressure Test — The Guest As Participant
-
-## Current Status
-
-Emerging
-
-## ICHIRAN Result
-
-Very strong support.
-
-## Definition Pressure
-
-Participation orientation should become:
-
-explicit.
-
-### Social
-
-### Individual
-
-### Mixed
-
-## Governance Recommendation
-
-Retain:
-
-Emerging.
-
-No maturity change.
-
----
-
-# Cross-Restaurant Finding 18 — Atmosphere Can Be Short And Concentrated
-
-Many hospitality concepts implicitly associate:
-
-atmosphere
-
-with:
-
-long dwell time.
-
-ICHIRAN creates:
-
-pressure against:
-
-that assumption.
-
-A highly specific atmosphere may exist:
-
-during:
-
-a shorter
-
-more concentrated:
-
-experience.
-
-## New Variable
-
-Atmospheric Duration:
-
-Extended
-
-↔
-
-Concentrated
-
-## Governance Position
-
-Architecture only.
-
----
-
-# Cross-Restaurant Finding 19 — Restraint Can Be Functional
-
-ICHIRAN's reduction is:
-
-not simply:
-
-minimalist styling.
-
-It appears:
-
-functionally connected to:
-
-product attention.
-
-This suggests:
-
-a distinction between:
-
-### Aesthetic Restraint
-
-Visual reduction.
-
-and:
-
-### Functional Restraint
-
-Removing:
-
-signals
-
-interaction
-
-or:
-
-choices
-
-that:
-
-compete with:
-
-the intended experience.
-
-This may be:
-
-useful:
-
-architecture.
-
-Not:
-
-pattern.
-
----
-
-# Cross-Restaurant Finding 20 — Atmosphere Should Be Evaluated Through Fit
-
-The twelve restaurants demonstrate:
-
-very different:
-
-successful atmosphere hypotheses.
-
-The useful question is:
-
-not:
-
-> Is this atmosphere social?
-
-or:
-
-> Is this atmosphere quiet?
-
-or:
-
-> Is this atmosphere luxurious?
-
-It is:
-
-> **Does the atmosphere support what this hospitality model is actually trying to make the guest experience?**
-
-This suggests:
-
-fit
-
-should become:
-
-central.
-
----
-
-# Proposed Post-ICHIRAN Atmosphere Architecture
-
-Previous post-Haidilao architecture:
+Post-ICHIRAN atmosphere architecture:
 
 ```text
 Hospitality Model
+↓
+Desired Guest State
 ↓
 Primary Atmospheric Mechanism
 +
@@ -1813,13 +664,24 @@ Service
 Ritual
 Participation
 Social Interaction
+Privacy
+Concentration
+Constraint
 ↓
-Relevant Signals
+Relevant Environment
 +
-Relevant Behaviours
+Service Presence
 +
-Relevant Guest Actions
+Service Availability
++
+Signals
++
+Behaviours
++
+Guest Actions
++
+Absences
 ↓
-Emotional Coherence
+Relational Coherence
 ↓
 Atmospheric Experience
