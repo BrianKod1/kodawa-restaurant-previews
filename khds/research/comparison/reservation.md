@@ -1,114 +1,164 @@
-# KHDS Reservation / Participation Comparison
+# KHDS Cross-Restaurant Comparison — Reservation / Participation
 
 ## Status
 
-Post–Noma Cross-Restaurant Comparison
+Post–Pearl Morissette Comparison
 
-Independent Restaurants Compared:
+Restaurants Compared:
 
-14
+15
 
-Current Comparison Stage:
+Track:
 
-Reservation / Participation Complete
+Track A — Independent Hospitality Research
 
-Governance Impact:
+Latest Added Case:
 
-None in this file
+Restaurant Pearl Morissette — Jordan Station
 
-Formal Promotions:
+Comparison Status:
 
-0
+Complete
 
-Formal Demotions:
+Canonical Governance Changes:
 
-0
+None
 
-Confidence Changes:
+This file:
 
-0
+compares:
+
+reservation
+
+participation
+
+commitment
+
+access
+
+guest agency
+
+and:
+
+state architecture
+
+across:
+
+all:
+
+independent:
+
+restaurant:
+
+research cases.
+
+It does not:
+
+independently:
+
+promote
+
+demote
+
+rename
+
+merge
+
+validate
+
+or:
+
+change:
+
+pattern confidence.
+
+Formal:
+
+governance:
+
+decisions
+
+belong:
+
+to:
+
+`khds/research/validation/candidate-patterns.md`
+
+after:
+
+all:
+
+five:
+
+post–Restaurant #15:
+
+comparison files
+
+are:
+
+complete.
 
 ---
 
 # Purpose
 
-Compare:
+Reservation / Participation research asks:
 
-reservation
+> **How does the guest enter, commit to, manage, prepare for, and move through the hospitality experience?**
 
-walk-in
+KHDS does not:
 
-queue
+reduce:
 
-inquiry
+participation
 
-access
+to:
 
-commitment
+booking.
 
-self-service
+The:
 
-human assistance
+guest:
 
-transferability
+may:
 
-waiting
+participate:
 
-and:
+through:
 
-participation architecture
+- reservation
+- walk-in
+- queue
+- waiting
+- ordering
+- customization
+- preparation
+- travel
+- arrival
+- self-service
+- service interaction
+- dietary communication
+- add-ons
+- completion
+- post-visit continuation
 
-across:
+Different:
 
-fourteen:
+hospitality:
 
-independent hospitality cases.
+models
 
-The objective is not:
+create:
 
-to identify:
+different:
 
-one:
+participation:
 
-ideal:
-
-booking system.
-
-It is to understand:
-
-how:
-
-different restaurants
-
-structure:
-
-guest participation
-
-before
-
-during
-
-and:
-
-after:
-
-commitment.
-
-The central comparison question remains:
-
-> **How should the hospitality system help the guest enter, understand, manage, and complete participation?**
-
-Post–Noma:
-
-a second:
-
-question becomes:
-
-> **How should participation architecture behave when time itself changes access, financial consequence, and the state of the future hospitality experience?**
+architectures.
 
 ---
 
-# Restaurants Compared
+# Restaurants Included
 
 1. Ankole
 2. Cultiva
@@ -124,1342 +174,1940 @@ question becomes:
 12. ICHIRAN Shibuya
 13. Din Tai Fung Covent Garden
 14. Noma Copenhagen 2026
+15. Restaurant Pearl Morissette
 
 ---
 
-# Current Governance State Entering Comparison
+# Current Participation Thesis
 
-Emerging:
+The strongest:
 
-23
+cross-restaurant:
 
-Candidate:
+finding remains:
 
-6
+> **Participation is a state system, not a booking button.**
 
-Partially Supported:
+A:
 
-1
+reservation
 
-Validated:
+may:
 
-0
+be:
 
-Research-Derived KHDS Principles:
+one:
 
-0
-
-Implementation Pattern Pending Formal Validation:
-
-1
-
-Opportunity Themes:
-
-36
-
-Track B Implementation Learnings:
-
-17
-
-Highest Research-Derived Maturity:
-
-Emerging
-
-No:
-
-formal governance:
-
-changes
-
-occur:
+state
 
 inside:
 
-this comparison file.
+a:
 
----
+larger:
 
-# Core Participation Position
+journey.
 
-The strongest current conclusion remains:
+Likewise:
 
-> **Reservation is only one participation state.**
+walk-in
 
-Across:
+queue
 
-fourteen:
+self-service
 
-restaurants
+dietary communication
 
-participation may include:
+travel
 
-- reserve
-- walk in
-- queue
-- wait
-- inquire
-- order
-- collect
-- select
-- configure
-- modify
-- cancel
-- transfer
-- request assistance
-- arrive
-- participate
-- complete
+or:
+
+post-booking preparation
+
+may:
+
+all:
+
+be:
+
+material:
+
+participation:
+
+states.
 
 Therefore:
 
 ```text
-Reservation
-≠
 Participation
+≠
+Reservation
 ```
 
-The deeper abstraction is:
+and:
 
-Participation Architecture.
+```text
+Reservation Complete
+≠
+Hospitality Participation Complete
+```
 
 ---
 
-# Cross-Restaurant Participation Types
+# Post–Pearl Morissette Participation Architecture
+
+```text
+Guest Intent
+↓
+Relevant Participation Route
+↓
+Reservation?
+Walk-In?
+Queue?
+Inquiry?
+Private Dining?
+Other Route?
+↓
+Access State
+↓
+Commitment State
+↓
+Post-Commitment Agency
+↓
+Visit Preparation where relevant
+↓
+Travel / Arrival where relevant
+↓
+Operational Participation
+↓
+Service / Self-Service / Interaction
+↓
+Completion
+↓
+Relationship Continuation where relevant
+```
+
+Different:
+
+restaurants
+
+use:
+
+different:
+
+subsets
+
+of:
+
+this:
+
+architecture.
 
 ---
 
-# Ankole
+# Major Post–Pearl Morissette Refinement
 
-## Participation Type
+Restaurant #15 adds:
 
-Direct Reservation + Contact
+four:
 
-## Strongest Participation Features
+high-value:
 
-- direct reservation
-- contact
-- relatively simple route structure
+participation:
 
-## Primary Participation Question
+ideas:
 
-How:
+```text
+Visit Preparation
+```
 
-does:
+```text
+Pre-Arrival Clarity
+```
+
+```text
+Guest Preparation Load
+```
+
+and:
+
+```text
+Digital-to-Physical Participation Handoff
+```
+
+It also:
+
+strongly:
+
+reinforces:
 
 the:
 
-guest
+difference:
 
-secure:
+between:
 
-access?
+```text
+Product Variability
+```
+
+and:
+
+```text
+Participation Variability
+```
 
 ---
 
-# Cultiva
+# Comparison 1 — Participation Routes Differ Materially
 
-## Participation Type
+---
 
-Reservation + Experience Exploration
+## Ankole
 
-## Strongest Participation Features
+Participation pressure:
+
+- reservations
+- direct contact
+- standard dining access
+
+Primary question:
+
+```text
+How simply can the guest
+enter the experience?
+```
+
+---
+
+## Cultiva
+
+Participation pressure:
+
+- booking
+- product familiarity
+- culinary fit
+
+Primary question:
+
+```text
+How much commitment
+does the guest need
+before experiencing the concept?
+```
+
+---
+
+## Talisman
+
+Participation pressure:
+
+- established reservation journey
+- conventional access
+- continuity
+
+Primary question:
+
+```text
+Does a mature hospitality model
+need complex participation architecture?
+```
+
+---
+
+## Mawimbi
+
+Participation pressure:
+
+- destination booking
+- occasion-led participation
+- experience commitment
+
+Primary question:
+
+```text
+How does a high-atmosphere
+destination structure access?
+```
+
+---
+
+## Bistro Lolo
+
+Participation pressure:
+
+- neighbourhood use
+- casual access
+- flexible social participation
+
+Primary question:
+
+```text
+How much structure
+is necessary for a lower-friction
+hospitality experience?
+```
+
+---
+
+## FYN
+
+Participation pressure:
 
 - reservation
-- experience discovery
-- culinary-context exploration
+- high commitment
+- compatibility
+- experience expectation
 
-## Primary Participation Question
+Primary question:
 
-How:
-
-does:
-
-the:
-
-guest
-
-move:
-
-from:
-
-interest
-
-to:
-
-commitment?
+```text
+How much clarity is needed
+before a high-consequence
+reservation?
+```
 
 ---
 
-# Talisman
+## Dishoom Covent Garden
 
-## Participation Type
+Participation pressure:
 
-Request-Based Reservation + Human Confirmation
+- reservations
+- walk-ins
+- waiting
+- multiple guest intents
 
-## Strongest Participation Features
+Primary question:
 
-- reservation request
-- contact
-- human confirmation
+```text
+Can walk-in and reservation
+remain equally legitimate routes?
+```
 
-## Primary Participation Question
+---
 
-How:
+## Franklin Barbecue
 
-does:
+Participation pressure:
 
-the:
+- queue
+- waiting
+- product scarcity
+- operational access
 
-guest
+Primary question:
 
-move:
+```text
+Can queueing itself become
+a first-class participation route?
+```
 
-through:
+---
+
+## Alinea
+
+Participation pressure:
+
+- high commitment
+- controlled reservation
+- limited reveal
+- consequence
+
+Primary question:
+
+```text
+How much agency remains
+after a high-commitment reservation?
+```
+
+---
+
+## NARISAWA
+
+Participation pressure:
+
+- reservation
+- compatibility
+- high-commitment dining
+
+Primary question:
+
+```text
+How should compatibility
+and expectation
+be managed before arrival?
+```
+
+---
+
+## Haidilao Toronto Downtown
+
+Participation pressure:
+
+- reservation
+- waiting
+- social service
+- customization
+- human assistance
+
+Primary question:
+
+```text
+How much hospitality
+can occur before the table?
+```
+
+---
+
+## ICHIRAN Shibuya
+
+Participation pressure:
+
+- self-seating
+- structured ordering
+- privacy
+- customization
+- reduced interaction
+- refill system
+
+Primary question:
+
+```text
+Can deeply structured self-service
+increase guest agency
+while reducing social interaction?
+```
+
+---
+
+## Din Tai Fung Covent Garden
+
+Participation pressure:
+
+- reservations
+- walk-ins
+- multiple offers
+- standardization
+- participation consistency
+
+Primary question:
+
+```text
+Can multiple routes
+remain operationally clear
+inside a standardized system?
+```
+
+---
+
+## Noma Copenhagen 2026
+
+Participation pressure:
+
+- access windows
+- future states
+- commitment
+- time
+- rules
+- post-commitment agency
+
+Primary question:
+
+```text
+How should participation
+remain clear when future outcomes
+and access states change over time?
+```
+
+---
+
+## Restaurant Pearl Morissette
+
+Participation pressure:
+
+- reservation
+- destination travel
+- visit preparation
+- compatibility
+- private dining
+- conditional add-ons
+- physical arrival
+
+Primary question:
+
+```text
+What happens after booking
+but before the guest
+physically reaches the restaurant?
+```
+
+---
+
+# Comparison 2 — Participation Is State-Based
+
+The:
+
+cross-case:
+
+record
+
+strongly:
+
+supports:
 
 a:
 
-human-supported:
+state-based:
 
-commitment process?
+model.
+
+Potential:
+
+states include:
+
+```text
+Interested
+↓
+Eligible / Compatible
+↓
+Searching
+↓
+Available / Unavailable
+↓
+Reserved
+↓
+Committed
+↓
+Preparing
+↓
+Waiting
+↓
+Traveling
+↓
+Arrived
+↓
+Participating
+↓
+Completed
+↓
+Continuing Relationship
+```
+
+Not every:
+
+restaurant
+
+uses:
+
+every:
+
+state.
 
 ---
 
-# Mawimbi
+# Correction
 
-## Participation Type
+```text
+Participation State
+≠
+Page or Screen
+```
 
-Reservation + Social / Event Participation
+A:
 
-## Strongest Participation Features
+state
 
-- reservation
-- social occasions
-- events
-- group use
-
-## Primary Participation Question
-
-Which:
-
-hospitality:
-
-route
-
-fits:
+describes:
 
 the:
 
 guest's:
 
-occasion?
-
----
-
-# Bistro Lolo
-
-## Participation Type
-
-Reservation + Direct Contact + Third-Party Convenience
-
-## Strongest Participation Features
-
-- booking
-- direct contact
-- convenience routing
-
-## Primary Participation Question
-
-How:
-
-does:
-
-the:
-
-guest
-
-choose:
-
-between:
-
-available:
-
-access routes?
-
----
-
-# FYN
-
-## Participation Type
-
-High-Commitment Structured Booking
-
-## Strongest Participation Features
-
-- structured booking
-- high commitment
-- advance decision
-- strong experience expectations
-
-## Primary Participation Question
-
-How:
-
-much:
-
-certainty
-
-must:
-
-the:
-
-guest
-
-have
-
-before:
-
-making:
-
-a:
-
-high-consequence:
-
-commitment?
-
----
-
-# Dishoom Covent Garden
-
-## Participation Type
-
-Reservation + Walk-In + Queue Participation
-
-## Strongest Participation Features
-
-- reservation
-- walk-in
-- queue
-- social use
-- multiple access conditions
-
-## Primary Participation Question
-
-How:
-
-does:
-
-the:
-
-guest
-
-understand:
-
-that:
-
-reservation
-
-and:
-
-walk-in
-
-are:
-
-different:
-
-valid:
-
-participation routes?
-
----
-
-# Franklin Barbecue
-
-## Participation Type
-
-Walk-In-Led Participation + Queue Reality
-
-## Strongest Participation Features
-
-- walk-in
-- queue
-- waiting
-- access timing
-- product scarcity
-
-## Primary Participation Question
-
-How:
-
-does:
-
-the:
-
-guest
-
-participate
-
-when:
-
-waiting
-
-is:
-
-structural
+relationship
 
 to:
 
-access?
-
----
-
-# Alinea
-
-## Participation Type
-
-High-Commitment Structured Participation
-
-## Strongest Participation Features
-
-- advance reservation
-- high financial commitment
-- limited reveal
-- controlled participation
-
-## Primary Participation Question
-
-How:
-
-does:
-
 the:
 
-guest
+hospitality:
 
-commit:
-
-to:
-
-a:
-
-high-value:
-
-experience
-
-without:
-
-full:
-
-future:
-
-outcome:
-
-visibility?
-
----
-
-# NARISAWA
-
-## Participation Type
-
-Controlled High-Commitment Reservation
-
-## Strongest Participation Features
-
-- advance reservation
-- controlled access
-- high expectation
-- structured commitment
-
-## Primary Participation Question
-
-How:
-
-does:
-
-the:
-
-guest
-
-move:
-
-through:
-
-a:
-
-high-control:
-
-participation system?
-
----
-
-# Haidilao Toronto Downtown
-
-## Participation Type
-
-Structured Booking + Human Service + Social Participation
-
-## Strongest Participation Features
-
-- booking
-- high human service
-- social participation
-- guest assistance
-- ritual
-
-## Primary Participation Question
-
-How:
-
-does:
-
-the:
-
-participation:
-
-system
-
-combine:
-
-structure
-
-with:
-
-high:
-
-human:
-
-service?
-
----
-
-# ICHIRAN Shibuya
-
-## Participation Type
-
-Walk-In + Queue + Structured Individual Participation
-
-## Strongest Participation Features
-
-- walk-in
-- possible queue
-- self-seating structure
-- written product configuration
-- structured service access
-- low social interaction
-
-## Primary Participation Question
-
-How:
-
-far:
-
-can:
-
-structured:
-
-self-service
-
-extend
-
-while:
-
-human assistance
-
-remains:
-
-available?
-
----
-
-# Din Tai Fung Covent Garden
-
-## Participation Type
-
-Structured Multi-Route Participation
-
-## Strongest Participation Features
-
-- reservation
-- walk-in
-- group reservation
-- private / semi-private route
-- click & collect
-- possible waiting
-- route-specific complexity
-
-## Primary Participation Question
-
-How:
-
-does:
-
-the:
-
-system
-
-route:
-
-different:
-
-guest intents
-
-without:
-
-making:
-
-every:
-
-guest
-
-understand:
-
-every:
-
-route?
-
----
-
-# Noma Copenhagen 2026
-
-## Participation Type
-
-Temporal High-Commitment Structured Participation
-
-## Strongest Participation Features
-
-- future release windows
-- time-gated access
-- high financial consequence
-- prepayment
-- cancellation deadline
-- transferability
-- anti-resale restrictions
-- future product variability
-- time-driven state transitions
-
-## Primary Participation Question
-
-How:
-
-does:
-
-the:
-
-guest
-
-understand:
-
-and:
-
-manage:
-
-a:
-
-high-consequence:
-
-reservation
-
-when:
-
-access
-
-rules
-
-and:
-
-future experience
-
-both:
-
-change:
-
-through:
-
-time?
-
----
-
-# Cross-Case Finding 1 — Participation Architecture Is Broader Than Reservation
-
-Across:
-
-fourteen:
-
-restaurants
-
-the guest journey:
-
-cannot:
-
-be:
-
-reduced:
-
-to:
-
-booking.
-
-The deeper:
-
-model remains:
-
-```text
-Guest Intent
-↓
-Participation Route
-↓
-Participation State
-↓
-Relevant Rules
-↓
-Relevant Assistance
-↓
-Hospitality Experience
-↓
-Completion
-```
-
-Noma adds:
-
-time:
-
-as:
-
-a:
-
-state-changing:
-
-factor.
-
----
-
-# Cross-Case Finding 2 — Participation States Are More Useful Than Pages
-
-Post–ICHIRAN:
-
-KHDS shifted:
-
-from:
-
-page-based:
-
-thinking
-
-toward:
-
-state-based:
-
-participation.
-
-That remains:
-
-strongly:
-
-supported.
-
-Possible states include:
-
-- Exploring
-- Selecting
-- Awaiting Release
-- Available
-- Requesting
-- Pending
-- Reserved
-- Confirmed
-- Waiting
-- Refundable
-- Non-Refundable
-- Transferred
-- Cancelled
-- Arriving
-- Participating
-- Completed
-
-## Correction
-
-```text
-Participation Architecture
-≠
-Booking Page Architecture
-```
-
----
-
-# Cross-Case Finding 3 — Noma Adds Time-Driven State Transition
-
-Most:
-
-participation systems
-
-change:
-
-state
-
-because:
-
-someone:
-
-does:
-
-something.
-
-Examples:
-
-- reserve
-- cancel
-- transfer
-- modify
-
-Noma adds:
-
-a:
-
-different:
-
-state mechanism.
-
-```text
-Refundable Reservation
-↓
-Time Passes
-↓
-Non-Refundable Reservation
-```
-
-and:
-
-```text
-Future Release
-↓
-Time Passes
-↓
-Booking Window Opens
-```
-
-## Correction
-
-```text
-Participation State Change
-≠
-Always User Action
-```
-
-This is:
-
-one:
-
-of:
-
-Restaurant #14's:
-
-strongest:
-
-participation contributions.
-
----
-
-# New Architecture Variable — Time-Driven State Transition
-
-## Definition
-
-A:
-
-participation-state:
-
-change
-
-triggered:
-
-by:
-
-time
-
-rather than:
-
-a:
-
-new:
-
-guest:
-
-or:
-
-restaurant:
-
-action.
-
-## Status
-
-Architecture Variable
+system.
 
 Not:
 
-formal pattern.
+the:
+
+interface.
 
 ---
 
-# Cross-Case Finding 4 — Participation Can Begin Before Inventory Exists
+# Comparison 3 — Participation Throughout the Journey Has Very Broad Support
 
-Noma:
+Current Status:
 
-adds:
+Emerging
 
-a:
+Strong:
 
-pre-release:
+cases include:
+
+- Dishoom
+- Franklin
+- Haidilao
+- ICHIRAN
+- Din Tai Fung
+- Noma
+- Pearl Morissette
+
+Different:
+
+cases
+
+show:
+
+different:
 
 participation:
 
+stages.
+
+### Dishoom
+
+Reservation
+
+walk-in
+
+waiting.
+
+### Franklin
+
+Queue
+
+scarcity
+
+access.
+
+### Haidilao
+
+Waiting
+
+service
+
+social:
+
+participation.
+
+### ICHIRAN
+
+Self-service
+
+customization
+
+seat
+
+refill.
+
+### Din Tai Fung
+
+Reservation
+
+walk-in
+
+multiple:
+
+participation:
+
+routes.
+
+### Noma
+
+Access windows
+
+commitment
+
+post-booking:
+
+states.
+
+### Pearl Morissette
+
+Visit Preparation
+
+travel
+
+physical:
+
+handoff.
+
+---
+
+# Refined Definition — Participation Throughout the Journey
+
+> **Hospitality participation may begin before physical arrival, continue through operational guest states, and extend beyond the core transaction when those states materially affect the guest's ability to take part.**
+
+## Core Boundary
+
+```text
+Participation Throughout the Journey
+≠
+Everything the Guest Does
+```
+
+The:
+
+state
+
+must:
+
+materially:
+
+relate:
+
+to:
+
+hospitality:
+
+participation.
+
+---
+
+# Participation Throughout the Journey Governance Pressure
+
+Entering Status:
+
+Emerging
+
+Post–Pearl Morissette:
+
+Very Strong Cross-Case Support
+
+Candidate Review:
+
+Strongly Warranted
+
+Potential:
+
+Candidate / Medium
+
+Primary risk:
+
+definition becoming:
+
+too broad
+
+or:
+
+absorbing:
+
+ordinary:
+
+travel
+
+marketing
+
+or:
+
+general:
+
+customer journey:
+
+activity.
+
+Formal decision:
+
+deferred.
+
+---
+
+# Comparison 4 — Pearl Morissette Adds Visit Preparation
+
+Restaurant #15:
+
+provides:
+
+the:
+
+clearest:
+
+case
+
+for:
+
+a:
+
+post-booking:
+
+pre-arrival:
+
 state.
 
-The guest may:
+## Definition
+
+> **Visit Preparation is a post-commitment participation state in which the guest prepares material logistical, dietary, temporal, or social conditions required to complete a secured hospitality visit.**
+
+Potential:
+
+actions:
+
+- route planning
+- transport
+- parking
+- timing
+- overnight stay
+- dietary communication
+- party coordination
+- optional experience planning
+
+## Status
+
+Participation State
+
+Potential Home:
+
+Participation Throughout the Journey.
+
+---
+
+# Comparison 5 — Visit Preparation Is Not Access Waiting
+
+Franklin
+
+Dishoom
+
+Haidilao
+
+and:
+
+Noma
+
+provide:
+
+waiting:
+
+states.
+
+Pearl Morissette:
+
+is:
+
+different.
+
+The:
+
+guest
+
+may:
 
 already:
 
 have:
 
-intent
+confirmed:
 
-but:
+access
 
-cannot:
+and:
 
-yet:
+still:
 
-book.
+need:
 
-## Proposed Sequence
+to:
 
-```text
-Intent
-↓
-Future Experience Awareness
-↓
-Release Awareness
-↓
-Access Waiting
-↓
-Booking Window
-↓
-Reservation
-```
+prepare.
 
 ## Correction
 
 ```text
-No Booking Inventory Yet
+Visit Preparation
 ≠
-No Future Participation Opportunity
+Access Waiting
 ```
 
----
+This:
 
-# Cross-Case Finding 5 — Access Window Is a Useful Participation Variable
+preserves:
 
-## Definition
+the:
 
-The period:
+five-part:
 
-during which:
+waiting:
 
-a:
-
-specific:
-
-participation route
-
-is:
-
-available.
-
-Possible states:
-
-- Future Release Announced
-- Not Yet Open
-- Open
-- Closed
-- Unknown
-
-Strongest current case:
-
-Noma.
-
-Potential:
-
-other:
-
-applications:
-
-- ticketed experiences
-- seasonal events
-- limited releases
-- private dining windows
-
-## Status
-
-Architecture Variable
+taxonomy.
 
 ---
 
-# Cross-Case Finding 6 — Availability Has More Than One Layer
-
-Din Tai Fung:
-
-strengthened:
-
-availability:
-
-as:
-
-route-dependent.
-
-Noma adds:
-
-time-gated:
-
-availability.
+# Waiting Taxonomy — Preserved
 
 Current:
 
-availability architecture may include:
+canonical:
 
-### Route Availability
+waiting:
 
-Which:
+taxonomy remains:
 
-participation route
+1. Access Waiting
+2. Resource Waiting
+3. Product Waiting
+4. Service Waiting
+5. Exception Waiting
 
-exists?
+Pearl Morissette:
 
-### Resource Availability
+does:
 
-Is:
+not:
+
+add:
 
 a:
 
-seat
+sixth:
 
-table
+waiting:
 
-or:
+type.
 
-space
+Visit Preparation:
 
-available?
+is:
 
-### Temporal Availability
+not:
 
-Has:
+waiting.
+
+---
+
+# Comparison 6 — Visit Preparation Is Not Arrival
+
+Physical:
+
+arrival
+
+begins:
+
+when:
 
 the:
 
-access window
+guest
 
-opened?
+transitions:
 
-### Operational Availability
-
-Is:
+into:
 
 the:
 
-restaurant
+hospitality:
 
-accepting:
+location.
 
-participation
+Visit Preparation:
 
-under:
+happens:
 
-current:
+before:
 
-conditions?
+that.
 
-## Interpretation
+## Correction
 
 ```text
-Availability
+Visit Preparation
 ≠
-One Boolean State
+Physical Arrival
 ```
 
 ---
 
-# Cross-Case Finding 7 — No Online Availability Does Not Mean No Access
+# Comparison 7 — Pre-Arrival Clarity Is Distinct From Booking Clarity
+
+Pearl Morissette:
+
+adds:
+
+a:
+
+useful:
+
+post-booking:
+
+question:
+
+> **Do I understand what I need to do before I can successfully complete this visit?**
+
+## Definition
+
+> **Pre-Arrival Clarity is the degree to which the guest understands the practical conditions required to complete a hospitality visit after booking and before physical arrival.**
+
+Potential:
+
+inputs:
+
+- directions
+- transport
+- parking
+- timing
+- compatibility communication
+- property recognition
+- party coordination
+
+## Correction
+
+```text
+Reservation Confirmation
+≠
+Complete Pre-Arrival Clarity
+```
+
+---
+
+# Comparison 8 — Pre-Arrival Clarity Is Context-Specific
+
+A:
+
+restaurant
+
+located:
+
+inside:
+
+a:
+
+dense:
+
+urban:
+
+commercial:
+
+district
+
+may:
+
+need:
+
+very:
+
+little:
+
+special:
+
+pre-arrival:
+
+support.
+
+A:
+
+destination:
+
+restaurant
+
+may:
+
+need:
+
+more.
+
+## Correction
+
+```text
+Every Reservation
+≠
+Complex Pre-Arrival State
+```
+
+Do not:
+
+universalize:
+
+Pearl Morissette.
+
+---
+
+# Comparison 9 — Guest Preparation Load Is a Useful Participation Variable
+
+## Definition
+
+> **Guest Preparation Load is the amount of practical work the guest must complete before successfully participating in the hospitality experience.**
+
+Potential:
+
+drivers:
+
+- transport
+- navigation
+- time
+- coordination
+- compatibility
+- special requirements
+- optional experiences
+
+Strongest case:
+
+Pearl Morissette.
+
+---
+
+# Correction
+
+```text
+Guest Preparation
+≠
+Poor Hospitality
+```
+
+and:
+
+```text
+Guest Preparation
+≠
+Hospitality Value
+```
+
+The:
+
+relevant:
+
+question:
+
+is:
+
+whether:
+
+the:
+
+load
+
+is:
+
+appropriate
+
+and:
+
+supported.
+
+---
+
+# Comparison 10 — System Support Should Rise With Guest Preparation Load
+
+Pearl Morissette:
+
+suggests:
+
+a:
+
+useful:
+
+relationship:
+
+```text
+Higher Guest Preparation Load
+↓
+Greater Need for:
+Pre-Arrival Clarity
++
+Access Utility
++
+Exception Support
+```
+
+where:
+
+material.
+
+This:
+
+is:
+
+architecture.
+
+Not:
+
+a:
+
+formal:
+
+pattern.
+
+---
+
+# Comparison 11 — Digital-to-Physical Participation Handoff Is a Real State Transition
+
+ICHIRAN:
+
+provides:
+
+strong:
+
+digital / physical:
+
+system:
+
+explanation.
+
+Noma:
+
+has:
+
+digital:
+
+state:
+
+and:
+
+time:
+
+architecture.
+
+Pearl Morissette:
+
+makes:
+
+physical:
+
+wayfinding:
+
+especially:
+
+important.
+
+## Definition
+
+> **Digital-to-Physical Participation Handoff is the transition through which digital guidance leads the guest into the correct physical hospitality state.**
+
+Potential:
+
+sequence:
+
+```text
+Reservation
+↓
+Directions
+↓
+Route
+↓
+Landmark
+↓
+Parking
+↓
+Entrance
+↓
+Arrival
+```
+
+---
+
+# Correction
+
+```text
+Digital Reservation Complete
+≠
+Physical Participation Ready
+```
+
+---
+
+# Comparison 12 — Hospitality System Proof Extends to Physical Handoff
+
+Current Status:
+
+Candidate / Medium-High
+
+Strong:
+
+system:
+
+cases:
+
+- ICHIRAN
+- Din Tai Fung
+- Noma
+- Pearl Morissette
+
+Different:
+
+system:
+
+types:
+
+### ICHIRAN
+
+Service
+
+seat
+
+order
+
+refill
+
+privacy.
+
+### Din Tai Fung
+
+Participation
+
+craft
+
+route
+
+consistency.
+
+### Noma
+
+Time
+
+state
+
+commitment
+
+future:
+
+uncertainty.
+
+### Pearl Morissette
+
+Destination
+
+preparation
+
+physical:
+
+handoff.
+
+## Post–Pearl Refinement
+
+Hospitality System Proof:
+
+can:
+
+include:
+
+physical-world:
+
+handoff
+
+when:
+
+that:
+
+handoff
+
+materially:
+
+affects:
+
+participation.
+
+---
+
+# Hospitality System Proof Governance Pressure
+
+Entering Status:
+
+Candidate / Medium-High
+
+Post–Pearl Morissette:
+
+Strong Additional Transferability Support
+
+Confidence Review:
+
+Possible
+
+but:
+
+not:
+
+automatically:
+
+warranted
+
+from:
+
+this:
+
+dimension alone.
+
+Primary:
+
+formal:
+
+question:
+
+whether:
+
+cross-case:
+
+breadth
+
+now:
+
+justifies:
+
+High.
+
+Defer:
+
+to:
+
+final:
+
+reconciliation.
+
+---
+
+# Comparison 13 — System Explanation Need Depends on System Novelty
+
+ICHIRAN:
+
+requires:
+
+more:
+
+explanation
+
+because:
+
+the:
+
+guest:
+
+participates:
+
+in:
+
+an:
+
+unusual:
+
+system.
 
 Din Tai Fung:
+
+requires:
+
+less:
+
+where:
+
+product
+
+and:
+
+participation:
+
+are:
+
+more:
+
+familiar.
+
+Noma:
+
+requires:
+
+state
+
+and:
+
+time:
+
+explanation.
+
+Pearl Morissette:
+
+requires:
+
+more:
+
+destination:
+
+and:
+
+preparation:
+
+clarity.
+
+## Refined Relationship
+
+```text
+System Novelty
++
+Participation Novelty
++
+Consequence
++
+Destination Friction
++
+Exception Complexity
+-
+Guest Familiarity
+↓
+System Explanation Obligation
+```
+
+---
+
+# Comparison 14 — Self-Service Does Not Mean Low Agency
+
+ICHIRAN:
 
 strongly:
 
 established:
 
-this:
+this.
 
-boundary
+The:
 
-through:
-
-walk-in:
-
-participation.
-
-```text
-No Online Reservation
-≠
-No Restaurant Access
-```
-
-Noma adds:
-
-a:
-
-different:
-
-boundary.
-
-```text
-No Booking Inventory Yet
-≠
-No Future Participation Opportunity
-```
-
-Both:
-
-show:
-
-why:
-
-availability:
-
-must:
-
-be:
-
-state-aware.
-
----
-
-# Cross-Case Finding 8 — Walk-In Is a First-Class Participation Route
-
-## Current Pattern
-
-Walk-In as First-Class Participation
-
-Status:
-
-Emerging
-
-Strong cases:
-
-- Dishoom
-- Franklin
-- ICHIRAN
-- Din Tai Fung
-
-Noma:
-
-provides:
-
-no:
-
-current:
-
-walk-in:
-
-evidence.
-
-## Important Boundary
-
-```text
-No Walk-In Evidence
-≠
-Walk-In Contradiction
-```
-
-and:
-
-```text
-No Published Walk-In Evidence
-≠
-Reservation-Only Proven
-```
-
-The pattern remains:
-
-strong
-
-without:
-
-universal:
-
-applicability.
-
----
-
-# Cross-Case Finding 9 — Walk-In and Reservation Need Different Certainty
-
-Reservation:
-
-often:
-
-creates:
-
-higher:
-
-advance:
-
-certainty.
-
-Walk-in:
-
-may:
-
-preserve:
-
-lower:
-
-commitment
-
-but:
-
-higher:
-
-access:
-
-uncertainty.
-
-Therefore:
-
-```text
-Reservation Certainty
-≠
-Walk-In Possibility
-```
-
-Both:
+guest
 
 can:
 
-be:
-
-valid:
-
-participation states.
-
----
-
-# Cross-Case Finding 10 — Commitment Level and Participation Complexity Are Different
-
-Post–Din Tai Fung:
-
-this became:
-
-important.
-
-Noma:
-
-strengthens:
-
-the:
-
-distinction.
-
-A:
-
-guest:
-
-may have:
-
-one:
-
-primary:
-
-route
-
-and still face:
+have:
 
 high:
 
-commitment:
+structured:
 
-consequence.
+agency
+
+inside:
+
+self-service.
+
+## Canonical Correction
+
+```text
+Self-Service
+≠
+Low Agency
+```
+
+Pearl Morissette:
+
+does:
+
+not:
+
+change:
+
+this.
+
+---
+
+# Comparison 15 — Participation Does Not Require Social Participation
+
+ICHIRAN:
+
+also:
+
+made:
+
+this:
+
+mandatory.
 
 ## Correction
 
 ```text
-Commitment
+Participation
 ≠
-Participation Complexity
+Social Participation
+```
+
+A:
+
+guest
+
+can:
+
+participate:
+
+deeply
+
+through:
+
+structured:
+
+individual:
+
+actions.
+
+---
+
+# Comparison 16 — Human Assistance Remains Contextual
+
+Current Status:
+
+Human Assistance Where Structured Self-Service Is Insufficient
+
+Emerging
+
+Strong:
+
+pressure:
+
+- Haidilao
+- ICHIRAN exceptions
+- Din Tai Fung
+- Pearl Morissette compatibility / private experience needs
+
+Pearl Morissette:
+
+adds:
+
+moderate:
+
+support
+
+because:
+
+special:
+
+dietary:
+
+and:
+
+conditional:
+
+experience:
+
+needs
+
+may:
+
+require:
+
+human:
+
+handling.
+
+But:
+
+exact:
+
+workflow
+
+is:
+
+not:
+
+fully:
+
+public.
+
+---
+
+# Human Assistance Governance Pressure
+
+Entering Status:
+
+Emerging
+
+Post–Pearl Morissette:
+
+Moderate Additional Support
+
+Current Recommendation:
+
+Remain Emerging
+
+Reason:
+
+need:
+
+clearer:
+
+cross-case:
+
+boundary
+
+for:
+
+when:
+
+human:
+
+assistance
+
+becomes:
+
+material
+
+rather:
+
+than:
+
+ordinary:
+
+service.
+
+---
+
+# Comparison 17 — Compatibility Adaptation Is Bounded Agency
+
+Pearl Morissette:
+
+adds:
+
+a:
+
+strong:
+
+architecture:
+
+variable.
+
+## Definition
+
+> **Compatibility Adaptation is the degree to which a hospitality system can respond to material guest needs while preserving the intended experience structure.**
+
+Potential:
+
+contexts:
+
+- dietary
+- accessibility
+- seating
+- participation constraints
+
+## Boundary
+
+```text
+Accommodation
+≠
+Unlimited Customization
+```
+
+---
+
+# Comparison 18 — Guest Agency Exists at Multiple Layers
+
+Across:
+
+restaurants
+
+agency may:
+
+exist:
+
+through:
+
+- booking
+- walk-in
+- seat
+- ordering
+- customization
+- dietary communication
+- timing
+- add-ons
+- cancellation
+- transfer
+- travel planning
+
+## Correction
+
+```text
+Guest Agency
+≠
+Unlimited Control
+```
+
+This remains:
+
+canonical.
+
+---
+
+# Comparison 19 — Operational Participation and Creative Participation Are Different
+
+ICHIRAN:
+
+customization
+
+and:
+
+Pearl Morissette:
+
+dietary communication
+
+show:
+
+different:
+
+participation:
+
+types.
+
+Potential:
+
+categories:
+
+- Operational Participation
+- Narrative Participation
+- Creative Participation
+
+## Correction
+
+```text
+Operational Participation
+≠
+Creative Participation
 ```
 
 and:
 
 ```text
-One Primary Route
+Narrative Participation
 ≠
-Simple Participation
+Operational Participation
 ```
+
+These:
+
+should:
+
+remain:
+
+distinct.
 
 ---
 
-# Cross-Case Finding 11 — Participation Breadth and Participation Depth Remain Distinct
+# Comparison 20 — The Guest as Participant Has Broad but Uneven Support
 
-### Participation Breadth
+Current Status:
 
-How many:
+Emerging
 
-materially different:
+Strong:
 
-routes
+cases include:
 
-or:
+- Dishoom
+- Franklin
+- Haidilao
+- ICHIRAN
+- Din Tai Fung
+- Noma
+- Pearl Morissette
 
-participation:
+But:
 
-modes
+the:
 
-exist?
+form
 
-### Participation Depth
+of:
 
-How many:
+participation
 
-meaningful:
+varies:
 
-states
+dramatically.
 
-decisions
+Pearl Morissette:
 
-rules
+adds:
 
-or:
+preparation
 
-steps
+and:
 
-exist:
+compatibility:
 
-inside:
+participation
 
-one:
+rather:
 
-route?
+than:
+
+creative:
+
+co-production.
+
+## Current Recommendation
+
+Remain Emerging
+
+Reason:
+
+definition:
+
+still:
+
+risks:
+
+becoming:
+
+too:
+
+broad.
+
+---
+
+# Comparison 21 — Participation Breadth and Participation Depth Remain Distinct
 
 Din Tai Fung:
 
-high breadth.
+made:
 
-Noma:
+this:
 
-relatively:
+especially:
 
-lower visible breadth
+clear.
 
-but:
+Pearl Morissette:
 
-high:
+reinforces:
 
-depth.
+it.
+
+### Breadth
+
+How many:
+
+primary:
+
+participation:
+
+routes?
+
+Examples:
+
+- Dining Room
+- Chef's Table
+- Private Dining
+- Walk-In
+- Reservation
+
+### Depth
+
+How many:
+
+material:
+
+states
+
+inside:
+
+a:
+
+route?
+
+Examples:
+
+- preparation
+- dietary adaptation
+- queue
+- travel
+- add-ons
+- refill
+- waiting
 
 ## Correction
 
@@ -1471,418 +2119,47 @@ Participation Depth
 
 ---
 
-# Cross-Case Finding 12 — Complexity Can Come From Consequence, Not Choice Volume
+# Comparison 22 — More Steps Do Not Mean More Routes
 
-Noma adds:
-
-Consequence Complexity.
-
-A:
-
-journey
-
-can:
-
-have:
-
-few:
-
-choices
-
-while:
-
-those:
-
-choices
-
-carry:
-
-large:
-
-financial
-
-temporal
-
-or:
-
-operational:
-
-consequences.
-
-Potential sources:
-
-- prepayment
-- cancellation deadline
-- table allocation
-- transfer rules
-- future uncertainty
-
-## Architecture Refinement — Consequence Complexity
-
-Potential home:
-
-Escalating Participation Complexity
-
-## Status
-
-Mechanism / Architecture Refinement
-
-Not:
-
-formal pattern.
-
----
-
-# Pattern Pressure — Escalating Participation Complexity
-
-Current:
-
-Emerging
-
-Noma:
-
-Strong Support
-
-Primary refinement:
-
-complexity may:
-
-increase through:
-
-- route breadth
-- state depth
-- consequence
-- resource coupling
-- exception load
-- time sensitivity
-
-No maturity change.
-
----
-
-# Cross-Case Finding 13 — High Commitment Does Not Require Human-Managed Booking
-
-Noma
-
-Alinea
-
-NARISAWA
-
-and:
-
-other:
-
-high-commitment:
-
-cases
-
-show:
-
-that:
-
-structured:
-
-digital:
-
-self-service
-
-can:
-
-carry:
-
-substantial:
-
-financial:
-
-and:
-
-temporal:
-
-consequence.
-
-## Correction
-
-```text
-High Commitment
-≠
-Human-Managed Booking Required
-```
-
----
-
-# Cross-Case Finding 14 — Structured Self-Service Can Carry Deep Participation
-
-ICHIRAN:
-
-demonstrated:
-
-deep:
-
-structured:
-
-product:
-
-participation.
-
-Noma:
-
-demonstrates:
-
-deep:
-
-structured:
-
-commitment:
-
-participation.
-
-Therefore:
-
-```text
-Self-Service
-≠
-Low Agency
-```
-
-and:
-
-```text
-Structured Participation
-≠
-Low Agency
-```
-
-These remain:
-
-strong:
-
-cross-case:
-
-corrections.
-
----
-
-# Cross-Case Finding 15 — Human Assistance and Experiential Human Service Must Stay Separate
-
-### Human Assistance
-
-Supports:
-
-exceptions
-
-uncertainty
-
-complexity
-
-or:
-
-needs
-
-that:
-
-structure
-
-cannot:
-
-resolve.
-
-### Experiential Human Service
-
-Human interaction:
-
-itself
-
-creates:
-
-hospitality value.
-
-Strongest contrast:
-
-Haidilao
-
-vs:
-
-ICHIRAN.
-
-Noma:
-
-currently:
+Pearl Morissette:
 
 adds:
 
-little:
+many:
 
-direct:
+states
 
-human-assistance:
+to:
 
-evidence.
+one:
+
+destination:
+
+visit.
 
 ## Correction
 
 ```text
-Human Assistance
+More Participation Steps
 ≠
-Experiential Human Service
+More Participation Routes
 ```
 
----
-
-# Pattern Pressure — Human Assistance Where Structured Self-Service Is Insufficient
-
-Current:
-
-Emerging
-
-Noma:
-
-Limited
-
-Cross-Case Position:
-
-No major change.
-
-The pattern remains:
-
-strong
-
-because:
-
-its:
-
-value
+This:
 
 is:
 
-conditional
+important:
 
-rather than:
+for:
 
-universal.
-
----
-
-# Cross-Case Finding 16 — More Human Interaction Does Not Guarantee More Clarity
-
-Haidilao:
-
-shows:
-
-high:
-
-human:
-
-service.
-
-ICHIRAN:
-
-shows:
-
-low:
-
-visible:
-
-interaction
-
-with:
-
-strong:
-
-system:
-
-structure.
-
-Noma:
-
-uses:
-
-structured:
-
-digital:
-
-participation.
-
-Therefore:
-
-```text
-More Human Interaction
-≠
-More Participation Clarity
-```
-
-Clarity depends:
-
-on:
-
-appropriate:
-
-system design.
+Multi-Intent Hospitality.
 
 ---
 
-# Cross-Case Finding 17 — Participation Route Should Match Guest Intent
+# Comparison 23 — Multi-Intent Hospitality Has Strong but Contextual Support
 
-Din Tai Fung:
-
-was:
-
-especially:
-
-strong:
-
-here.
-
-Guest intents:
-
-may include:
-
-- small-group dining
-- walk-in
-- large group
-- private dining
-- collection
-- event
-- inquiry
-
-Noma:
-
-provides:
-
-a:
-
-narrower:
-
-route:
-
-case.
-
-## Interpretation
-
-The correct:
-
-goal
-
-is not:
-
-maximum:
-
-participation breadth.
-
-It is:
-
-appropriate:
-
-routing.
-
----
-
-# Cross-Case Finding 18 — Multi-Intent Hospitality Is Not Universal
-
-## Current Pattern
-
-Multi-Intent Hospitality
-
-Status:
+Current Status:
 
 Emerging
 
@@ -1890,416 +2167,265 @@ Strong:
 
 cases:
 
-- Mawimbi
 - Dishoom
-- Haidilao
 - Din Tai Fung
+- Pearl Morissette
+- Haidilao in broader form
 
-Noma:
+Pearl Morissette:
 
-provides:
-
-boundary:
-
-evidence
-
-through:
-
-a:
-
-more:
-
-focused:
-
-published:
-
-participation:
-
-system.
-
-## Correction
-
-```text
-Strong Hospitality
-≠
-Many Guest Intent Routes
-```
-
-The pattern remains:
-
-context-dependent.
-
----
-
-# Cross-Case Finding 19 — Stable Meaning and Multiple Routes Can Coexist
-
-Din Tai Fung:
-
-showed:
-
-focused:
-
-product:
-
-meaning
-
-with:
+offers:
 
 multiple:
 
 participation:
 
-routes.
+routes
 
-Noma:
+but:
 
-shows:
+its:
 
-a:
+primary:
 
-variable:
+research:
 
-product:
-
-with:
-
-more:
-
-structured:
-
-single-route:
-
-participation.
-
-Therefore:
-
-product:
-
-identity
-
-and:
-
-participation:
-
-breadth
-
-must:
-
-remain:
-
-separate:
-
-dimensions.
-
----
-
-# Cross-Case Finding 20 — Participation Can Be Social, Individual, or Mixed
-
-Post–ICHIRAN:
-
-Participation Orientation
-
-became:
-
-a:
-
-useful:
-
-variable.
-
-### Social
-
-Strong:
-
-Haidilao
-
-Dishoom
-
-Bistro Lolo.
-
-### Individual
-
-Strong:
-
-ICHIRAN.
-
-### Mixed
-
-Strong:
-
-Din Tai Fung
-
-and:
-
-many:
-
-general:
-
-hospitality models.
-
-Noma's:
-
-current:
-
-2026:
-
-orientation
+value
 
 is:
 
 not:
 
-sufficiently:
+route breadth.
 
-established
-
-from:
-
-public:
-
-reservation:
-
-evidence.
-
-## Governance Position
-
-Retain:
-
-Participation Orientation
-
-as:
-
-architecture variable.
-
----
-
-# Cross-Case Finding 21 — Participation Orientation Is Not the Same as Route
-
-A:
-
-reservation:
-
-route
-
-can lead:
-
-to:
-
-social
-
-individual
-
-or:
-
-mixed:
-
-participation.
-
-Therefore:
+## Boundary
 
 ```text
-Participation Route
+Multiple Offers
 ≠
-Participation Orientation
+Multi-Intent Hospitality Dominates
 ```
 
 ---
 
-# Cross-Case Finding 22 — Waiting Has Multiple Types
+# Multi-Intent Hospitality Governance Pressure
 
-Current canonical:
+Entering Status:
 
-waiting taxonomy remains:
+Emerging
 
-- Access Waiting
-- Resource Waiting
-- Product Waiting
-- Service Waiting
-- Exception Waiting
+Post–Pearl Morissette:
 
-Noma adds:
+Moderate Additional Support
 
-Access-Release Waiting
+Current Recommendation:
 
-as:
+Remain Emerging
 
-a:
+Reason:
 
-subtype
+need:
 
-of:
+clearer:
 
-Access Waiting.
+distinction
 
-## Deduplication
+between:
+
+multiple:
+
+offers
+
+and:
+
+materially:
+
+different:
+
+guest:
+
+intent:
+
+architecture.
+
+---
+
+# Comparison 24 — Walk-In as First-Class Participation Remains Strong and Specific
+
+Current Status:
+
+Candidate / High
+
+Strong:
+
+cases:
+
+- Dishoom
+- Franklin
+- ICHIRAN
+- Din Tai Fung
+
+Pearl Morissette:
+
+provides:
+
+no:
+
+confirmed:
+
+walk-in:
+
+support.
+
+## Correction
 
 ```text
-Access-Release Waiting
-→
-Access Waiting
+No Published Walk-In Evidence
+≠
+Walk-In Impossible
 ```
 
-Do not:
+No:
 
-create:
-
-a sixth:
-
-formal:
-
-waiting type.
+change.
 
 ---
 
-# Cross-Case Finding 23 — Waiting Can Exist Before Booking
+# Comparison 25 — Queue Is a First-Class Participation State in Some Models
 
-Noma:
+Franklin:
 
-extends:
-
-the:
-
-timing:
-
-of:
-
-waiting.
-
-```text
-Guest Intent
-↓
-Future Release
-↓
-Access Waiting
-↓
-Booking Opportunity
-```
-
-Waiting:
-
-therefore:
-
-is not:
-
-only:
-
-physical
-
-or:
-
-post-reservation.
-
----
-
-# Cross-Case Finding 24 — Waiting Existence Does Not Prove Waiting Hospitality
-
-This remains:
-
-one:
-
-of:
+provides:
 
 the:
 
 strongest:
 
-boundaries.
+queue-led:
+
+case.
+
+Dishoom
+
+and:
+
+Haidilao:
+
+also:
+
+provide:
+
+waiting:
+
+pressure.
+
+ICHIRAN:
+
+may:
+
+include:
+
+access:
+
+and:
+
+seat:
+
+availability:
+
+states.
+
+Pearl Morissette:
+
+does:
+
+not:
+
+add:
+
+meaningful:
+
+queue:
+
+evidence.
+
+## Current Rule
+
+Queue:
+
+is:
+
+contextual
+
+not:
+
+universal.
+
+---
+
+# Comparison 26 — Hospitality During Waiting Remains Below Candidate
+
+Strong:
+
+pressure:
+
+- Franklin
+- Haidilao
+- Dishoom
+
+But:
+
+the:
+
+cross-case:
+
+record
+
+still:
+
+does:
+
+not:
+
+support:
+
+a:
+
+universal:
+
+direction
+
+where:
+
+waiting
+
+must:
+
+itself:
+
+become:
+
+hospitality.
+
+## Correction
 
 ```text
 Waiting Exists
 ≠
-Hospitality During Waiting
+Waiting Must Become Hospitality
 ```
 
-and:
+Current Recommendation:
 
-```text
-Access Utility
-≠
-Hospitality During Waiting
-```
-
-Providing:
-
-release information
-
-or:
-
-queue:
-
-information
-
-may:
-
-reduce:
-
-uncertainty.
-
-It does not:
-
-prove:
-
-hospitality:
-
-inside:
-
-the:
-
-waiting state.
+Remain below Candidate.
 
 ---
 
-# Governance Position — Hospitality During Waiting
+# Comparison 27 — Access Utility and Hospitality During Waiting Remain Different
 
-Current:
+### Access Utility
 
-Below Candidate
-
-Post-Noma:
-
-No promotion pressure.
-
-Remain:
-
-below Candidate.
-
----
-
-# Cross-Case Finding 25 — Access Utility Is Broader Than Queue Utility
-
-Earlier:
-
-Queue Utility
-
-applied:
-
-to:
-
-physical:
-
-or:
-
-operational:
-
-waiting.
-
-Noma adds:
-
-pre-release:
-
-access:
-
-information.
-
-## Working Definition — Access Utility
-
-Information:
-
-or:
-
-tools
-
-that help:
+Helps:
 
 the:
 
@@ -2307,262 +2433,358 @@ guest
 
 understand:
 
-whether
-
-when
-
-or:
-
 how:
 
-participation becomes:
+to:
 
-possible.
+participate.
 
-Examples:
+### Hospitality During Waiting
 
-- release date
-- availability state
-- queue information
-- future booking window
-- access route explanation
+Adds:
 
-## Status
+hospitality:
 
-Architecture Direction
+value
 
-Not:
+during:
 
-formal pattern.
+the:
+
+wait.
+
+## Correction
+
+```text
+Access Utility
+≠
+Hospitality During Waiting
+```
+
+Pearl Morissette:
+
+strengthens:
+
+Access Utility
+
+without:
+
+adding:
+
+waiting:
+
+hospitality.
 
 ---
 
-# Cross-Case Finding 26 — Commitment Is Not One State
+# Comparison 28 — Commitment Has Multiple Dimensions
 
 Noma:
+
+made:
+
+commitment:
+
+architecture
+
+especially:
+
+important.
+
+Pearl Morissette:
+
+adds:
+
+logistical:
+
+commitment.
+
+Potential:
+
+commitment:
+
+dimensions:
+
+- financial
+- temporal
+- logistical
+- social
+- compatibility
+- participation
+
+## New Architecture Variable
+
+Total Visit Commitment
+
+---
+
+# Total Visit Commitment — Refined Definition
+
+> **The combined burden of commitment required to complete the hospitality visit rather than merely secure the booking.**
+
+Potential:
+
+components:
+
+```text
+Financial
++
+Temporal
++
+Logistical
++
+Social
++
+Compatibility
++
+Participation
+```
+
+where:
+
+material.
+
+---
+
+# Comparison 29 — Commitment Level Is Not Financial Commitment Only
+
+## Correction
+
+```text
+Commitment Level
+≠
+Financial Commitment Only
+```
+
+A:
+
+destination:
+
+visit
+
+may:
+
+be:
+
+high:
+
+commitment
+
+even:
+
+if:
+
+financial:
+
+penalty:
+
+is:
+
+unknown.
+
+---
+
+# Comparison 30 — High Total Visit Commitment Does Not Prove High Cancellation Penalty
+
+Pearl Morissette:
 
 makes:
 
 this:
 
-especially:
+boundary:
 
-clear.
-
-A:
-
-reservation:
-
-may:
-
-be:
-
-- booked
-- refundable
-- partly constrained
-- non-refundable
-- transferred
-- cancelled
-
-The:
-
-same:
-
-reservation
-
-may:
-
-move:
-
-through:
-
-several:
-
-commitment:
-
-states.
+necessary.
 
 ## Correction
 
 ```text
-Committed
+High Total Visit Commitment
 ≠
-One Fixed State
+High Cancellation Penalty Proven
 ```
+
+Do not:
+
+infer:
+
+financial:
+
+terms
+
+from:
+
+travel:
+
+effort.
 
 ---
 
-# Cross-Case Finding 27 — Commitment Reversibility Is a Core Variable
+# Comparison 31 — Manageable Commitment Requires Evidence of Post-Commitment Agency
 
-## Definition
+Current Status:
 
-The degree:
+Candidate / Medium
 
-to which:
+Strongest:
 
-a:
+case:
+
+Noma.
+
+Supporting:
+
+pressure:
+
+Alinea
+
+Din Tai Fung
+
+depending on:
+
+current:
+
+policies.
+
+Pearl Morissette:
+
+does:
+
+not:
+
+provide:
+
+enough:
+
+current:
+
+public:
+
+policy:
+
+evidence.
+
+## Core Requirement
+
+Manageable Commitment:
+
+should:
+
+require:
+
+evidence
+
+about:
+
+what:
+
+the:
 
 guest
 
 can:
 
-change
+actually:
 
-cancel
-
-transfer
-
-or:
-
-exit:
-
-a:
-
-commitment
+do
 
 after:
 
-booking.
+commitment.
 
-Possible states:
+Potential:
 
-- Low
-- Moderate
-- High
-- Variable
+actions:
 
-Strong:
-
-cases:
-
-- Noma transferability
-- Din Tai Fung modification / cancellation
-- other booking systems with explicit flexibility
-
-## Status
-
-Architecture Variable
+- cancel
+- modify
+- transfer
+- contact
+- resolve exception
 
 ---
 
-# Cross-Case Finding 28 — Reversibility Can Change Over Time
-
-Noma adds:
-
-a:
-
-Reversibility Window.
-
-A:
-
-booking:
-
-may:
-
-be:
-
-more:
-
-reversible
-
-earlier
-
-and:
-
-less:
-
-reversible
-
-later.
-
-## Correction
+# Correction
 
 ```text
-Commitment Reversibility
+Booking Exists
 ≠
-Static
+Manageable Commitment Proven
 ```
 
 ---
 
-# New Architecture Variable — Reversibility Window
+# Manageable Commitment Governance Pressure
 
-## Definition
+Entering Status:
 
-The time period:
+Candidate / Medium
 
-during which:
+Post–Pearl Morissette:
 
-defined:
+Insufficient / Neutral
 
-commitment:
+No:
 
-changes
+confidence:
 
-remain:
+change.
 
-possible
+Pearl Morissette:
 
-under:
+should:
 
-specific:
+not:
 
-conditions.
+be:
 
-## Status
+counted:
 
-Architecture Variable
+as:
 
----
-
-# Cross-Case Finding 29 — Manageable Commitment Is Increasingly Distinct
-
-## Current Direction
-
-Manageable Commitment
-
-Status:
-
-Observed Research Direction
-
-Strong support:
-
-- Din Tai Fung
-- Noma
-
-Potential:
-
-partial support:
-
-from:
-
-other:
-
-high-commitment:
-
-booking systems.
+support.
 
 ---
 
-# Working Definition
+# Comparison 32 — Pre-Commitment Pressure and Post-Commitment Agency Remain Distinct
 
-> **A hospitality commitment remains manageable when the guest retains clear, bounded routes for cancellation, modification, transfer, or assistance after the initial commitment.**
+Post-Noma:
 
----
+this:
 
-# Important Distinction
+became:
 
-### Commitment Without Pressure
+canonical.
 
-Pre-commitment:
+### Pre-Commitment Pressure
 
-question.
+What:
 
-### Manageable Commitment
+pushes:
 
-Post-commitment:
+the:
 
-question.
+guest
+
+toward:
+
+commitment?
+
+### Post-Commitment Agency
+
+What:
+
+can:
+
+the:
+
+guest
+
+do
+
+after:
+
+committing?
 
 ## Correction
 
@@ -2572,2486 +2794,107 @@ Pre-Commitment Pressure
 Post-Commitment Agency
 ```
 
-This distinction:
+Pearl Morissette:
 
-now has:
-
-strong:
-
-cross-case:
-
-support.
-
----
-
-# Governance Watch — Manageable Commitment
-
-Current:
-
-Observed Research Direction
-
-Post-Noma Position:
-
-New Candidate Watch
-
-Strengths:
-
-- clear definition
-- strong Noma support
-- Din Tai Fung support
-- important high-commitment boundary
-
-Weaknesses:
-
-- cross-case evidence still limited
-- modification mechanisms vary substantially
-- need stronger falsification
-
-## Comparison Decision
-
-Do not promote:
-
-inside:
-
-this file.
-
-Carry:
-
-to:
-
-governance reconciliation.
-
----
-
-# Cross-Case Finding 30 — Transferability Is a Distinct Form of Agency
-
-Noma:
-
-provides:
-
-the:
-
-strongest:
-
-case.
-
-Transferability:
-
-can:
-
-preserve:
-
-participation:
-
-value
-
-without:
-
-requiring:
-
-cancellation.
-
-## Correction
-
-```text
-Transfer
-≠
-Cancellation
-```
-
----
-
-# Cross-Case Finding 31 — Transferability Does Not Equal Unrestricted Resale
-
-Noma:
-
-adds:
-
-a:
-
-strong:
-
-access-control:
-
-boundary.
-
-```text
-Transferability
-≠
-Unrestricted Resale Right
-```
-
-Guest-to-guest:
-
-transfer
-
-and:
-
-commercial:
-
-resale
-
-are:
-
-different:
-
-participation:
-
-states.
-
----
-
-# New Direction — Controlled Transferability
-
-## Working Definition
-
-A:
-
-hospitality system
-
-allows:
-
-bounded:
-
-person-to-person:
-
-transfer
-
-while:
-
-restricting:
-
-commercial:
-
-resale
-
-or:
-
-intermediation.
-
-## Status
-
-Observed Research Direction
-
-## Comparison Decision
-
-Remain:
-
-below Candidate.
-
-Current direct:
-
-evidence
-
-is:
-
-too:
-
-Noma-specific.
-
----
-
-# Cross-Case Finding 32 — Guest Agency Is Bounded, Not Unlimited
-
-Across:
-
-different:
-
-models
-
-guest agency:
-
-may include:
-
-- route choice
-- timing
-- product configuration
-- cancellation
-- modification
-- transfer
-- assistance request
-
-while:
-
-remaining:
-
-bounded by:
-
-- capacity
-- policy
-- resource allocation
-- operating model
-- product limitations
-
-## Correction
-
-```text
-Guest Agency
-≠
-Unlimited Control
-```
-
-The stronger:
-
-model is:
-
-```text
-Meaningful Choice
-+
-Clear Constraints
-=
-Bounded Agency
-```
-
----
-
-# Cross-Case Finding 33 — Constraint Legibility Matters
-
-A:
-
-rule
-
-or:
-
-constraint
-
-can:
-
-be:
-
-legitimate
-
-and still:
-
-create:
-
-friction
-
-if:
-
-the:
-
-guest
-
-does not:
-
-understand:
-
-it.
-
-## New Architecture Variable — Constraint Legibility
-
-## Definition
-
-How clearly:
-
-the:
-
-guest
-
-can:
-
-understand:
-
-a:
-
-participation:
-
-constraint
-
-and:
-
-its:
-
-consequence.
-
-Possible states:
-
-- Low
-- Moderate
-- High
-- Unknown
-
----
-
-# Cross-Case Finding 34 — Clear Constraints Can Support Agency
-
-This seems:
-
-counterintuitive
-
-but:
-
-is:
-
-important.
-
-```text
-Constraint
-+
-Legibility
-+
-Meaningful Options
-=
-Potential Bounded Agency
-```
-
-The:
-
-guest
-
-does not need:
-
-unlimited:
-
-freedom.
-
-They need:
-
-understandable:
-
-freedom.
-
----
-
-# Cross-Case Finding 35 — Resource Coupling Can Make Simple Edits Complex
-
-Noma's:
-
-party-size:
-
-policy
-
-shows:
-
-that:
-
-a:
-
-simple:
-
-guest-facing:
-
-change
-
-may:
-
-affect:
-
-a:
-
-physical:
-
-resource.
-
-Examples:
-
-- table size
-- seat allocation
-- room allocation
-- event capacity
-- time slot
-
-## Correction
-
-```text
-Booking Edit
-≠
-Operationally Neutral Change
-```
-
----
-
-# New Architecture Variable — Resource Coupling
-
-## Definition
-
-How strongly:
-
-a:
-
-guest:
-
-choice
-
-or:
-
-booking:
-
-state
-
-is:
-
-tied:
-
-to:
-
-a:
-
-physical
-
-or:
-
-operational:
-
-resource.
-
-## Status
-
-Architecture Variable
-
----
-
-# Cross-Case Finding 36 — Participation Complexity Can Come From Resource Coupling
-
-A:
-
-small:
-
-interface:
-
-action
-
-may:
-
-require:
-
-substantial:
-
-operational:
-
-change.
-
-Therefore:
-
-Participation Complexity:
-
-should:
+does:
 
 not:
 
-be:
-
-measured:
-
-only:
-
-by:
-
-guest-visible:
-
-step count.
-
----
-
-# Cross-Case Finding 37 — Structured Self-Service Should Handle Predictable Needs
-
-Post–ICHIRAN:
-
-the strongest:
-
-participation:
-
-rule became:
-
-```text
-Predictable Need
-→
-Structured Self-Service
-```
-
-where:
-
-reliable:
-
-structure
-
-can:
-
-resolve:
-
-the:
-
-guest:
-
-need.
-
-Noma:
-
-supports:
-
-this
-
-through:
-
-online:
-
-reservation
-
-and:
-
-transfer:
-
-management.
-
----
-
-# Cross-Case Finding 38 — Human Assistance Should Handle Uncertain or Exceptional Needs
-
-Current:
-
-architecture remains:
-
-```text
-Uncertain / Exceptional Need
-→
-Human Assistance
-```
-
-where:
-
-structure:
-
-becomes:
-
-insufficient.
-
-## Correction
-
-```text
-Human Assistance
-≠
-Human Service Everywhere
-```
-
----
-
-# Cross-Case Finding 39 — Structured Human Handoff Remains a Mechanism
-
-Current Home:
-
-Human Assistance Where Structured Self-Service Is Insufficient
-
-## Status
-
-Mechanism
-
-Not:
-
-separate:
-
-formal pattern.
-
-Noma:
-
-does not:
-
-add enough:
-
-specific:
-
-handoff:
-
-evidence
-
-to:
-
-change:
+alter:
 
 this.
 
 ---
 
-# Cross-Case Finding 40 — High Consequence Increases Explanation Obligation
+# Comparison 33 — Commitment Without Pressure Remains Emerging
 
-Across:
+Current Status:
+
+Emerging
+
+Strong:
+
+pressure:
+
+comes:
+
+from:
 
 high-commitment:
 
-cases:
-
-- FYN
-- Alinea
-- NARISAWA
-- Noma
-
-the:
-
-guest:
-
-needs:
-
-stronger:
-
-decision-relevant:
-
-clarity.
-
-Current:
-
-Explanation Obligation:
-
-architecture becomes:
-
-```text
-Participation Novelty
-+
-Operational Complexity
-+
-Guest Familiarity
-+
-Consequence of Misunderstanding
-+
-Future Outcome Uncertainty
-+
-Time Sensitivity
-↓
-System Explanation Obligation
-```
-
-## Status
-
-Architecture Refinement
-
-Not:
-
-formal pattern.
-
----
-
-# Cross-Case Finding 41 — High Price Is Not the Same as High Interface Complexity
-
-Noma:
-
-reinforces:
-
-this:
-
-boundary.
-
-```text
-High Price
-≠
-Longer Interface
-```
-
-The:
-
-more useful:
-
-relationship:
-
-is:
-
-```text
-Higher Consequence
-→
-Greater Decision-Relevant Clarity
-```
-
----
-
-# Cross-Case Finding 42 — System Visibility Does Not Equal System Clarity
-
-Din Tai Fung:
-
-made:
-
-this:
-
-correction:
-
-central.
-
-Noma:
-
-strengthens:
-
-it.
-
-A:
-
-guest-facing:
-
-system
-
-may be:
-
-visible
-
-while:
-
-the:
-
-rules
-
-states
-
-deadlines
-
-or:
-
-consequences
-
-remain:
-
-unclear.
-
-## Correction
-
-```text
-System Visibility
-≠
-System Clarity
-```
-
----
-
-# Cross-Case Finding 43 — Route Visibility Does Not Equal State Clarity
-
-Showing:
-
-a:
-
-Reserve:
-
-button
-
-does not:
-
-explain:
-
-- release state
-- financial state
-- cancellation state
-- transfer state
-- waiting state
-
-## Correction
-
-```text
-Route Visibility
-≠
-State Clarity
-```
-
-Noma makes:
-
-this:
-
-especially:
-
-important.
-
----
-
-# Cross-Case Finding 44 — Hospitality System Proof Receives Extremely Strong Cross-Case Support
-
-## Current Status
-
-Candidate / Medium-High
-
-Strong materially different cases now include:
-
-### ICHIRAN
-
-Unusual:
-
-individual:
-
-guest-facing:
-
-participation system.
-
-### Din Tai Fung
-
-Multi-route:
-
-participation
-
-with:
-
-reservation
-
-walk-in
-
-group
-
-event
-
-and:
-
-collection:
-
-paths.
-
-### Noma
-
-Time-gated:
-
-high-consequence:
-
-reservation
-
-with:
-
-deadlines
-
-transferability
-
-and:
-
-future:
-
-outcome variability.
-
-These are:
-
-three:
-
-very different:
-
-hospitality:
-
-systems.
-
----
-
-# Proposed Definition Refinement — Hospitality System Proof
-
-Current strongest:
-
-cross-case:
-
-interpretation:
-
-> **When the guest-facing operating system materially affects participation or differentiation, the restaurant should provide sufficient evidence for the guest to understand the relevant routes, states, rules, timing, consequences, and assistance paths.**
-
-Where:
-
-future:
-
-hospitality output
-
-is:
-
-materially:
-
-variable
-
-Outcome-Range Clarity
-
-may also:
-
-be:
-
-required.
-
----
-
-# Proposed System Proof Components
-
-```text
-Route
-+
-State
-+
-Rule
-+
-Time
-+
-Consequence
-+
-Assistance
-+
-Outcome Range where relevant
-```
-
-Not every:
-
-restaurant
-
-needs:
-
-every:
-
-component.
-
-The:
-
-relevant:
-
-components
-
-follow:
-
-the:
-
-actual:
-
-system.
-
----
-
-# Governance Watch — Hospitality System Proof
-
-Current:
-
-Candidate / Medium-High
-
-Post-Noma Reservation Position:
-
-Strongest Promotion Watch
-
-Evidence now:
-
-spans:
-
-materially:
-
-different:
-
-operating models.
-
-Potential:
-
-promotion:
-
-to:
-
-Emerging
-
-should:
-
-be reviewed:
-
-after:
-
-story comparison
-
-and:
-
-full:
-
-governance reconciliation.
-
-No promotion:
-
-inside:
-
-this file.
-
----
-
-# Cross-Case Finding 45 — Hospitality System Proof Is Not the Same as Story Through Hospitality Model
-
-This remains:
-
-mandatory.
-
-### Hospitality System Proof
-
-Question:
-
-> **Can the guest understand how the system works?**
-
-### Story Through Hospitality Model
-
-Question:
-
-> **Does how the restaurant operates materially explain what the hospitality means?**
-
-## Correction
-
-```text
-System Explanation
-≠
-System Story
-```
-
-and:
-
-```text
-Hospitality System Proof
-≠
-Story Through Hospitality Model
-```
-
----
-
-# Cross-Case Finding 46 — Hospitality System Proof Is Not a Photography Pattern
-
-Noma:
-
-makes:
-
-this:
-
-clear.
-
-Some:
-
-system:
-
-claims
-
-are best:
-
-proved:
-
-through:
-
-- interface
-- dates
-- policy
-- state
-- text
-
-not:
-
-photography.
-
-## Correction
-
-```text
-Hospitality System Proof
-≠
-Photography as Proof
-```
-
----
-
-# Cross-Case Finding 47 — Outcome Variability Disclosure Is a Useful Participation Variable
-
-Noma:
-
-adds:
-
-a:
-
-new:
-
-need.
-
-The guest may need:
-
-to:
-
-understand:
-
-what:
-
-about:
-
-the:
-
-future:
-
-hospitality:
-
-is:
-
-fixed
-
-variable
-
-or:
-
-unknown.
-
-## New Architecture Variable — Outcome Variability Disclosure
-
-## Definition
-
-The degree:
-
-to which:
-
-the:
-
-participation system
-
-makes:
-
-future:
-
-outcome:
-
-variability:
-
-legible.
-
-## Status
-
-Architecture Variable
-
----
-
-# Cross-Case Finding 48 — Outcome Uncertainty and Participation State Uncertainty Are Different
-
-This is:
-
-one:
-
-of:
-
-Noma's:
-
-strongest:
-
-participation:
-
-corrections.
-
-```text
-Outcome Uncertainty
-≠
-Participation State Uncertainty
-```
-
-The guest may:
-
-know:
-
-exactly:
-
-what:
-
-their:
-
-reservation:
-
-state
-
-is
-
-while:
-
-still:
-
-not:
-
-knowing:
-
-the:
-
-future:
-
-menu.
-
-These:
-
-must:
-
-be:
-
-designed:
-
-separately.
-
----
-
-# Cross-Case Finding 49 — More Outcome Uncertainty May Increase the Need for State Clarity
-
-A:
-
-guest
-
-may accept:
-
-creative:
-
-uncertainty
-
-more:
-
-readily
-
-when:
-
-the:
-
-booking:
-
-state
-
-is:
-
-clear.
-
-## Proposed Relationship
-
-```text
-Higher Outcome Uncertainty
-↓
-Greater Need for
-Participation State Clarity
-```
-
-## Status
-
-Architecture Hypothesis
-
----
-
-# Cross-Case Finding 50 — Time Sensitivity Is a Real System Variable
-
-Some:
-
-participation:
-
-systems
-
-are:
-
-less:
-
-time-sensitive.
-
-Noma:
-
-is:
-
-highly:
-
-time-sensitive.
-
-Important:
-
-times include:
-
-- release
-- cancellation cutoff
-- reservation date
-
-## New Architecture Variable — Time Sensitivity
-
-## Definition
-
-How much:
-
-correct:
-
-guest:
-
-participation
-
-depends:
-
-on:
-
-understanding:
-
-time.
-
-## Status
-
-Architecture Variable
-
----
-
-# Cross-Case Finding 51 — Deadline Becomes Participation Infrastructure
-
-When:
-
-time:
-
-changes:
-
-access
-
-state
-
-or:
-
-consequence
-
-the:
-
-deadline:
-
-is not:
-
-fine print.
-
-It is:
-
-part:
-
-of:
-
-the:
-
-participation:
-
-system.
-
-## Research Direction — Deadline as Participation Infrastructure
-
-Status:
-
-Architecture Direction
-
----
-
-# Cross-Case Finding 52 — Multiple Deadlines May Need Hierarchy
-
-Noma:
-
-introduces:
-
-a:
-
-stacked:
-
-time:
-
-system.
-
-```text
-Release Time
-↓
-Booking Time
-↓
-Cancellation Deadline
-↓
-Visit Time
-```
-
-These:
-
-do not:
-
-carry:
-
-equal:
-
-meaning.
-
-## Research Direction — Deadline Hierarchy
-
-Status:
-
-Architecture Direction
-
----
-
-# Cross-Case Finding 53 — Cancellation Policy Can Be Pre-Commitment Information
-
-For:
-
-low:
-
-consequence:
-
-hospitality
-
-cancellation:
-
-details
-
-may:
-
-be:
-
-secondary.
-
-For:
-
-high:
-
-consequence:
-
-hospitality
-
-cancellation:
-
-may:
-
-materially:
-
-affect:
-
-the:
-
-decision:
-
-to:
-
-book.
-
-## Correction
-
-```text
-Cancellation Policy
-≠
-Post-Purchase Fine Print Only
-```
-
----
-
-# Cross-Case Finding 54 — Transferability Can Reduce Commitment Risk
-
-Noma:
-
-shows:
-
-that:
-
-transfer
-
-can:
-
-preserve:
-
-some:
-
-agency
-
-without:
-
-eliminating:
-
-commitment.
-
-## Correction
-
-```text
-Transferability
-≠
-Low Commitment
-```
-
-It modifies:
-
-the:
-
-risk
-
-and:
-
-reversibility:
-
-structure.
-
----
-
-# Cross-Case Finding 55 — Stable Participation / Variable Product Is a Useful Direction
-
-Noma:
-
-provides:
-
-the:
-
-strongest:
-
-example.
-
-```text
-Variable Product
-+
-Structured Access
-+
-Structured Commitment
-```
-
-This may:
-
-allow:
-
-creative:
-
-variability
-
-inside:
-
-a:
-
-stable:
-
-participation:
-
-boundary.
-
-## Current Status
-
-Observed Research Direction
-
----
-
-# Comparison Decision — Stable Participation / Variable Product
-
-Promising
-
-but:
-
-not:
-
-ready:
-
-for:
-
-Candidate.
-
-Reason:
-
-current:
-
-direct:
-
-evidence
-
-is:
-
-Noma-heavy.
-
-Potential:
-
-cross-case:
-
-partial support:
-
-Alinea
-
-NARISAWA
-
-seasonal:
-
-experiences.
-
-Need:
-
-better:
-
-independent:
-
-contrast.
-
----
-
-# Cross-Case Finding 56 — Flexibility Is Layer-Specific
-
-Din Tai Fung:
-
-and:
-
-Noma
-
-strongly:
-
-support:
-
-this:
-
-architecture.
-
-Potential:
-
-layers:
-
-- product
-- service
-- booking
-- cancellation
-- transfer
-- guest choice
-- resource allocation
-
-## New Architecture Variable — Flexibility Layer
-
-## Correction
-
-```text
-Flexible Restaurant
-≠
-Flexible Everywhere
-```
-
-Structure
-
-and:
-
-flexibility
-
-may:
-
-exist:
-
-at:
-
-different:
-
-layers.
-
----
-
-# Cross-Case Finding 57 — Creative Flexibility and Participation Flexibility Are Separate
-
-Noma:
-
-makes:
-
-this:
-
-explicit.
-
-```text
-Creative Flexibility
-≠
-Participation Flexibility Everywhere
-```
-
-A:
-
-restaurant:
-
-may:
-
-be:
-
-highly:
-
-creative:
-
-in:
-
-product
-
-and:
-
-strict:
-
-in:
-
-booking.
-
----
-
-# Cross-Case Finding 58 — Structure Can Potentially Support Creativity
-
-Noma:
-
-creates:
-
-this:
-
-architecture:
-
-hypothesis.
-
-```text
-Stable Participation Structure
-↓
-Operational Predictability
-↓
-Potential Creative Freedom
-```
-
-Website evidence:
-
-cannot:
-
-prove:
-
-the:
-
-operational:
-
-effect.
-
-## Status
-
-Architecture Hypothesis
-
-Not:
-
-formal pattern.
-
----
-
-# Cross-Case Finding 59 — Participation Rule Consistency Receives Stronger Support
-
-Din Tai Fung:
-
-introduced:
-
-strong:
-
-rule-consistency:
-
-pressure.
-
-Noma:
-
-adds:
-
-a:
-
-cross-surface:
-
-system
-
-between:
-
-Noma's:
-
-site
-
-and:
-
-Tock.
-
-## Current Direction
-
-Participation Rule Consistency
-
-Status:
-
-Observed Research Direction
-
----
-
-# Working Definition — Participation Rule Consistency
-
-> **Guest-facing participation rules should remain consistent across relevant surfaces, routes, states, and time periods, or explicitly explain why they differ.**
-
-Potential dimensions:
-
-- route consistency
-- state consistency
-- price consistency
-- policy consistency
-- temporal consistency
-- cross-surface consistency
-
----
-
-# Cross-Surface Participation Consistency
-
-Current Home:
-
-Participation Rule Consistency
-
-Classification:
-
-Mechanism
-
-Do not:
-
-create:
-
-separate:
-
-formal pattern.
-
----
-
-# Governance Watch — Participation Rule Consistency
-
-Current:
-
-Observed Research Direction
-
-Strongest evidence:
-
-- Din Tai Fung
-- Noma
-
-Potential:
-
-partial support:
-
-from:
-
-multi-platform:
-
-reservation:
-
-cases.
-
-Strengths:
-
-- clear:
-  operational:
-  problem
-- strong:
-  cross-surface:
-  relevance
-- falsifiable
-
-Weakness:
-
-- still:
-  limited:
-  independent:
-  explicit:
-  contradiction:
-  evidence
-
-## Comparison Decision
-
-Candidate Watch
-
-but:
-
-do not promote:
-
-inside:
-
-this file.
-
----
-
-# Cross-Case Finding 60 — Policy Freshness Matters
-
-A:
-
-participation:
-
-rule
-
-may:
-
-have:
-
-been:
-
-correct:
-
-historically
-
-and:
-
-wrong:
-
-today.
-
-Noma:
-
-makes:
-
-this:
-
-especially:
-
-important.
-
-## New Architecture Variable — Policy Freshness
-
-Possible states:
-
-- Current
-- Recent
-- Historical
-- Superseded
-- Unknown
-
-## Correction
-
-```text
-Brand Policy
-≠
-One Timeless Global Policy
-```
-
----
-
-# Cross-Case Finding 61 — Participation Rule Fit Requires Context
-
-A:
-
-rule
-
-should:
-
-match:
-
-the:
-
-relevant:
-
-- location
-- time
-- route
-- operating era
-
-## Proposed Relationship
-
-```text
-Participation Rule Fit
-=
-Location Fit
-+
-Temporal Fit
-+
-Route Fit
-+
-State Fit
-```
-
-## Status
-
-Architecture Hypothesis
-
----
-
-# Cross-Case Finding 62 — Cross-Surface Consistency Needs Freshness
-
-Two:
-
-surfaces:
-
-may be:
-
-consistent
-
-because:
-
-both:
-
-are:
-
-outdated.
-
-Therefore:
-
-consistency:
-
-alone
-
-is:
-
-not enough.
-
-## Proposed Relationship
-
-```text
-Rule Consistency
-+
-Policy Freshness
-=
-Current Participation Clarity
-```
-
-This is:
-
-a:
-
-strong:
-
-Noma:
-
-refinement.
-
----
-
-# Cross-Case Finding 63 — Own the Guest Relationship Receives Stronger But Still Limited Evidence
-
-## Current Status
-
-Partially Supported / Medium
-
-Across:
-
 restaurants
 
-website research:
-
-can:
-
-observe:
-
-- direct booking links
-- newsletter routes
-- direct contact
-- branded participation
-- third-party platforms
-- privacy-policy statements
-
-Noma adds:
-
-public:
-
-data-controller:
-
-evidence
-
-and:
-
-restrictions:
-
-on:
-
-certain:
-
-commercial:
-
-reservation:
-
-intermediation.
-
-But:
-
-this still:
-
-does not:
-
-prove:
-
-complete:
-
-relationship:
-
-ownership.
-
----
-
-# Required Boundary — Own the Guest Relationship
-
-Public evidence cannot establish:
-
-- complete CRM ownership
-- full reservation-data ownership
-- payment-data ownership
-- remarketing rights
-- contractual platform control
-- customer-history architecture
-- intermediary economics
-
-## Correction
-
-```text
-Data Controller Status
-≠
-Complete Guest Relationship Ownership
-```
-
-## Governance Position
-
-Remain:
-
-Partially Supported / Medium.
-
-No promotion.
-
----
-
-# Cross-Case Finding 64 — Brand Surface and Transaction Surface Can Be Different
-
-Noma:
-
-provides:
-
-a:
-
-clear:
-
-case.
-
-### Brand Surface
-
-Restaurant's:
-
-own:
-
-site.
-
-### Transaction Surface
-
-Tock.
-
-Other:
-
-restaurants
-
-also:
-
-use:
-
-third-party:
-
-booking:
-
-systems.
-
-## Interpretation
-
-Participation architecture:
-
-may:
-
-span:
-
-multiple:
-
-official:
-
-surfaces.
-
-This increases:
-
-the importance:
-
-of:
-
-rule
-
-state
-
-and:
-
-policy:
-
-consistency.
-
----
-
-# Cross-Case Finding 65 — Third-Party Platform Use Does Not Automatically Mean Lost Guest Relationship
-
-Likewise:
-
-using:
-
-a:
-
-third-party:
-
-transaction:
-
-surface
-
-does not:
-
-by itself:
-
-establish:
-
-lost:
-
-relationship:
-
-ownership.
-
-## Correction
-
-```text
-Third-Party Booking Surface
-≠
-Guest Relationship Lost
-```
-
-The:
-
-actual:
-
-data
-
-contract
-
-and:
-
-commercial:
-
-architecture
-
-requires:
-
-stronger:
-
-evidence.
-
----
-
-# Cross-Case Finding 66 — Reservation Transfer and Data Ownership Are Separate Problems
-
-Noma:
-
-allows:
-
-transfer
-
-through:
-
-Tock.
-
-That:
-
-does not:
-
-tell:
-
-KHDS
-
-who:
-
-owns:
-
-or:
-
-controls:
-
-every:
-
-data:
-
-layer.
-
-## Correction
-
-```text
-Reservation Transferability
-≠
-Data Ownership Proof
-```
-
----
-
-# Cross-Case Finding 67 — System Participation and Creative Participation Must Stay Separate
-
-Noma:
-
-strongly:
-
-supports:
-
-system:
-
-participation.
-
-It does:
-
-not:
-
-yet:
-
-prove:
-
-creative:
-
-co-creation.
-
-## Corrections
-
-```text
-System Participation
-≠
-Creative Product Participation
-```
-
-```text
-Tasting During Experimentation
-≠
-Proven Co-Creation
-```
-
----
-
-# Cross-Case Finding 68 — Narrative Participation, Operational Participation, and Creative Participation Are Distinct
-
-This:
-
-three-part:
-
-distinction
-
-is:
-
-now:
-
-useful.
-
-### Narrative Participation
-
-The:
-
-guest
-
-is:
-
-described:
-
-as:
-
-part:
-
-of:
-
-the:
-
-story.
-
-### Operational Participation
-
-The:
-
-guest
-
-performs:
-
-meaningful:
-
-actions
-
-inside:
-
-the:
-
-hospitality:
-
-system.
-
-### Creative Participation
-
-The:
-
-guest:
-
-materially:
-
-affects:
-
-creative:
-
-output.
-
-## Correction
-
-```text
-Narrative Participation
-≠
-Operational Participation
-≠
-Creative Participation
-```
-
----
-
-# Pattern Pressure — The Guest as Participant
-
-Current:
-
-Emerging
-
-Noma:
-
-Mixed / Boundary
-
-Cross-Case Position:
-
-Strengthened through:
-
-definition discipline
-
-rather than:
-
-maturity pressure.
-
-The pattern should:
-
-not:
-
-expand:
-
-to:
-
-mean:
-
-mere:
-
-presence
-
-or:
-
-consumption.
-
----
-
-# Cross-Case Finding 69 — Participation Throughout the Journey Receives Very Strong Support
-
-## Current Status
-
-Emerging
-
-Strong cases:
-
-- Dishoom
-- Franklin
-- ICHIRAN
-- Din Tai Fung
-- Noma
-
-Noma adds:
-
-pre-release:
-
-participation
-
-and:
-
-post-booking:
-
-state:
-
-management.
-
-## Proposed Scope
-
-Participation may begin:
-
-before:
-
-reservation
-
-and:
-
-continue:
-
-after:
-
-commitment.
-
-No maturity change.
-
----
-
-# Cross-Case Finding 70 — Commitment Without Pressure Receives Strong Structural-Scarcity Refinement
-
-## Current Status
-
-Emerging
-
-Noma adds:
-
-real:
-
-time
-
-capacity
-
-and:
-
-financial:
-
-constraints.
-
-The pattern:
-
-must:
-
-distinguish:
-
-real:
+where:
 
 scarcity
 
+deadline
+
+or:
+
+financial:
+
+terms
+
+are:
+
+visible.
+
+Pearl Morissette:
+
+does:
+
+not:
+
+provide:
+
+enough:
+
+current:
+
+public:
+
+payment:
+
+or:
+
+cancellation:
+
+evidence.
+
+## Current Recommendation
+
+Remain Emerging.
+
+Do not:
+
+infer:
+
+pressure
+
 from:
 
-manufactured:
+destination:
 
-urgency.
+prestige
 
-## Correction
+or:
+
+travel:
+
+effort.
+
+---
+
+# Correction
+
+```text
+High Prestige
+≠
+Manipulative Pressure
+```
+
+and:
 
 ```text
 Structural Scarcity
@@ -5059,859 +2902,346 @@ Structural Scarcity
 Manipulative Pressure
 ```
 
----
-
-# Cross-Case Finding 71 — Commitment Without Pressure Does Not Mean Hiding Real Constraints
-
-A:
-
-restaurant
-
-should:
-
-be able:
-
-to:
-
-communicate:
-
-real:
-
-limits
-
-such as:
-
-- availability
-- release windows
-- cancellation cutoff
-- capacity
-
-without:
-
-violating:
-
-the pattern.
-
-The:
-
-issue
-
-is:
-
-truthfulness
-
-and:
-
-pressure:
-
-design.
-
----
-
-# Cross-Case Finding 72 — System Explanation Obligation Is Increasingly Central
-
-Current:
-
-participation:
-
-architecture strongly:
-
-supports:
-
-this:
-
-variable.
-
-Potential drivers:
-
-- participation novelty
-- operational complexity
-- unfamiliarity
-- consequence
-- time sensitivity
-- future outcome uncertainty
-- exception risk
-
-The:
-
-goal:
-
-is not:
-
-more:
-
-instruction.
-
-The goal:
-
-is:
-
-enough:
-
-instruction
-
-for:
-
-correct:
-
-participation.
-
----
-
-# Cross-Case Finding 73 — More Explanation Is Not Always Better
-
-## Correction
-
-```text
-System Explanation Obligation
-≠
-Maximum Explanation
-```
-
-A:
-
-familiar:
-
-simple:
-
-route
-
-may need:
-
-very little.
-
-An:
-
-unusual:
-
-high-consequence:
-
-route
-
-may need:
-
-more.
-
----
-
-# Cross-Case Finding 74 — Human Explanation and System Explanation Can Substitute Partially
-
-ICHIRAN:
-
-reduces:
-
-human:
-
-interaction
-
-and therefore:
-
-needs:
-
-strong:
-
-structured:
-
-explanation.
-
-Haidilao:
-
-uses:
-
-more:
-
-visible:
-
-human:
-
-service.
-
-Noma:
-
-uses:
-
-structured:
-
-digital:
-
-rules.
-
-## Interpretation
-
-Different:
-
-hospitality:
-
-systems
-
-can:
-
-distribute:
-
-explanation
-
-differently.
-
-But:
-
-the:
-
-guest
-
-still:
-
-needs:
-
-sufficient:
-
-understanding.
-
----
-
-# Cross-Case Finding 75 — Service Presence and Participation Clarity Are Different
-
-High:
-
-service:
-
-presence
-
-can:
-
-help:
-
-participation.
-
-It does not:
-
-automatically:
-
-create:
-
-clear:
-
-system:
-
-rules.
-
-Likewise:
-
-low:
-
-service:
-
-presence
-
-can coexist:
-
-with:
-
-high:
-
-participation:
-
-clarity.
-
-## Correction
-
-```text
-Service Presence
-≠
-Participation Clarity
-```
-
----
-
-# Cross-Case Finding 76 — Participation State Proof Is Emerging as a Core System Requirement
-
-Din Tai Fung:
-
-introduced:
-
-State Proof.
-
-Noma:
-
-adds:
-
-Temporal State Proof.
-
-Potential:
-
-state-proof:
-
-questions:
-
-- Am I booked?
-- Is booking open?
-- Is my reservation refundable?
-- Can I transfer?
-- Am I waiting?
-- Is my request pending?
-- Is my table confirmed?
-
-## Interpretation
-
-The:
-
-system
-
-must:
-
-not:
-
-only:
-
-show:
-
-routes.
-
-It should:
-
-make:
-
-important:
-
-states:
-
-legible.
-
----
-
-# New Architecture Direction — Temporal State Proof
-
-## Working Definition
-
-When:
-
-participation:
-
-rules
-
-or:
-
-consequences:
-
-change:
-
-through:
-
-time
-
-the:
-
-system
-
-should:
-
-make:
-
-those:
-
-state:
-
-transitions
-
-sufficiently:
-
-legible.
-
-## Status
-
-Architecture Direction
-
----
-
-# Cross-Case Finding 77 — State Clarity and Outcome Clarity Should Not Be Collapsed
-
-This is:
-
-especially:
-
-important:
-
-post-Noma.
-
-### State Clarity
-
-What:
-
-is:
-
-happening:
-
-with:
-
-my:
-
-participation?
-
-### Outcome Clarity
-
-What:
-
-will:
-
-the:
-
-experience:
-
-contain?
-
-## Correction
-
-```text
-State Clarity
-≠
-Outcome Clarity
-```
-
----
-
-# Cross-Case Finding 78 — Participation Architecture Needs Only Relevant Complexity
-
-Din Tai Fung:
-
-demonstrated:
-
-intent-based:
-
-routing.
-
-Noma:
-
-demonstrates:
-
-high:
-
-depth:
-
-inside:
-
-one:
-
-route.
-
-Therefore:
-
-the:
-
-goal
-
-is not:
-
-to:
-
-simplify:
-
-everything.
-
-It is:
-
-to:
-
-surface:
-
-the:
-
-right:
-
-complexity
-
-for:
-
-the:
-
-right:
-
-guest.
-
----
-
-# Research Direction — Intent-Based Complexity Reduction
-
-Current:
-
-Architecture Direction
-
-## Working Principle
-
-```text
-Guest Intent
-↓
-Relevant Route
-↓
-Only Relevant Rules
-+
-Only Relevant States
-+
-Only Relevant Exceptions
-```
-
 This remains:
 
-architecture
-
-not:
-
-formal pattern.
+canonical.
 
 ---
 
-# Cross-Case Finding 79 — Meaningful Complexity Should Not Be Removed
+# Comparison 34 — Platform Capability Is Not Restaurant Policy
 
-Some:
+Pearl Morissette:
 
-complexity
-
-reflects:
-
-real:
-
-hospitality:
-
-conditions.
-
-Examples:
-
-- table allocation
-- season
-- transfer
-- cancellation
-- queue
-- group size
-- dietary needs
-- event requirements
-
-## Correction
-
-```text
-Simplification
-≠
-Removing Real Operational Meaning
-```
-
----
-
-# Cross-Case Finding 80 — Participation Complexity Can Be Shifted Rather Than Removed
-
-ICHIRAN:
-
-showed:
-
-complexity:
-
-moved:
-
-from:
-
-human:
-
-conversation
-
-into:
-
-structured:
-
-configuration.
-
-Din Tai Fung:
-
-moves:
-
-complexity
-
-into:
-
-intent:
-
-routing.
-
-Noma:
-
-moves:
-
-complexity
-
-into:
-
-time
-
-state
-
-and:
-
-commitment:
-
-rules.
-
-## Correction
-
-```text
-Structured System
-≠
-No Complexity
-```
-
----
-
-# Cross-Case Finding 81 — Availability Layer and Participation State Should Interoperate
-
-A:
-
-guest's:
-
-participation:
-
-route
-
-may depend on:
-
-availability.
-
-Examples:
-
-- table available
-- walk-in possible
-- queue active
-- release not open
-- resource full
-- event route available
-
-## Architecture Relationship
-
-```text
-Availability State
-↓
-Available Participation Routes
-↓
-Guest Decision
-```
-
----
-
-# Cross-Case Finding 82 — Deadline Hierarchy Is Useful but Should Stay Architecture-Level
-
-Noma:
-
-has:
-
-multiple:
-
-important:
-
-times.
-
-Other:
-
-hospitality:
-
-systems
-
-may have:
-
-- deposit deadlines
-- pre-order deadlines
-- event cutoffs
-- cancellation cutoffs
-- arrival grace periods
-
-## Comparison Decision
-
-Deadline Hierarchy:
-
-Architecture Direction
-
-Not:
-
-formal pattern.
-
----
-
-# Cross-Case Finding 83 — Temporal Participation Is a Family, Not a Pattern
-
-Noma adds:
-
-multiple:
-
-time-based:
-
-variables.
-
-Components include:
-
-- Access Window
-- Availability Phase
-- Reversibility Window
-- Time-Driven State Transition
-- Temporal State Proof
-- Deadline Hierarchy
-- Policy Freshness
-- Time Sensitivity
-
-## Governance Position
-
-Treat as:
-
-Temporal Participation Architecture
-
-not:
+creates:
 
 a:
 
-formal:
+high-value:
 
-Temporal Participation:
+evidence:
 
-pattern.
+discipline
 
----
+for:
 
-# Cross-Case Finding 84 — Time Is Context Unless It Materially Changes Participation
+reservation:
+
+research.
 
 A:
 
+booking:
+
+platform
+
+may:
+
+support:
+
+features
+
+that:
+
+a:
+
+restaurant
+
+does:
+
+not:
+
+use.
+
+## Correction
+
+```text
+Platform Capability
+≠
+Restaurant Policy
+```
+
+Examples:
+
+- deposits
+- prepayment
+- holds
+- cancellation
+- add-ons
+- transfer
+
+must:
+
+be:
+
+proved:
+
+at:
+
 restaurant:
 
-having:
+level.
 
-opening hours
+---
 
-does not:
+# Comparison 35 — Public Policy Gap Does Not Prove Guest Confusion
 
-create:
+A:
 
-Temporal Participation.
+policy
 
-Time becomes:
+may:
 
-material
+be:
+
+visible:
+
+only:
+
+inside:
+
+the:
+
+booking:
+
+flow
+
+or:
+
+confirmation.
+
+## Correction
+
+```text
+Public Policy Gap
+≠
+Guest Confusion Proven
+```
+
+This:
+
+is:
+
+important:
+
+for:
+
+Participation Rule Consistency.
+
+---
+
+# Comparison 36 — Participation Rule Consistency Has Broader Cross-Case Support
+
+Current Status:
+
+Candidate / Medium
+
+Strong:
+
+cases:
+
+- Din Tai Fung
+- Noma
+- Pearl Morissette
+
+Additional:
+
+pressure
+
+from:
+
+restaurants
+
+with:
+
+multiple:
+
+participation:
+
+surfaces.
+
+Pearl Morissette:
+
+adds:
+
+a:
+
+new:
+
+question:
+
+do:
+
+booking
+
+travel
+
+parking
+
+and:
+
+physical:
+
+arrival:
+
+instructions
+
+remain:
+
+consistent?
+
+---
+
+# Comparison 37 — Rule Consistency and Instruction Consistency Are Different
+
+### Rule Consistency
+
+Policies:
+
+agree.
+
+Examples:
+
+- cancellation
+- walk-in
+- reservation
+- timing
+- eligibility
+
+### Instruction Consistency
+
+Practical:
+
+actions:
+
+agree.
+
+Examples:
+
+- address
+- parking
+- arrival
+- entrance
+- check-in
+
+## Correction
+
+```text
+Rule Consistency
+≠
+Instruction Consistency
+```
+
+---
+
+# Comparison 38 — Instruction Consistency Should Stay Narrow
+
+If:
+
+the:
+
+concept
+
+absorbs:
+
+every:
+
+typo
+
+content mismatch
+
+or:
+
+generic:
+
+accuracy:
+
+issue
+
+it:
+
+becomes:
+
+too:
+
+broad.
+
+## Boundary
+
+```text
+Any Content Inconsistency
+≠
+Participation Consistency Failure
+```
+
+Instruction:
+
+conflict
+
+should:
+
+matter:
+
+only:
 
 when:
 
 it:
 
-changes:
+materially:
 
-- access
-- state
-- consequence
-- route
-- experience meaning
+affects:
 
-## Correction
-
-```text
-Time Exists
-≠
-Temporal Participation
-```
+participation.
 
 ---
 
-# Cross-Case Finding 85 — Stable Participation / Variable Product Is Distinct From Coherence Through Change
+# Participation Rule Consistency Governance Pressure
 
-### Stable Participation / Variable Product
+Entering Status:
 
-Participation-specific:
+Candidate / Medium
 
-relationship.
+Post–Pearl Morissette:
 
-### Coherence Through Change
+Moderate Additional Support
 
-Broader:
+Confidence Review:
+
+Possible
+
+but:
+
+not:
+
+strongly:
+
+warranted
+
+from:
+
+Restaurant #15.
+
+Current Recommendation:
+
+Remain Candidate / Medium
+
+unless:
+
+final:
 
 cross-dimensional:
 
-research direction.
+comparison
 
-## Correction
+shows:
 
-```text
-Stable Participation / Variable Product
-≠
-Coherence Through Change
-```
+stronger:
 
-Keep:
-
-separate.
+repetition.
 
 ---
 
-# Cross-Case Finding 86 — Manageable Commitment Is Distinct From Hospitality System Proof
-
-### Hospitality System Proof
-
-Does:
-
-the:
-
-guest
-
-understand:
-
-the:
-
-system?
-
-### Manageable Commitment
-
-Does:
-
-the:
-
-guest
-
-retain:
-
-bounded:
-
-agency:
-
-after:
-
-commitment?
-
-## Correction
-
-```text
-System Clarity
-≠
-Post-Commitment Agency
-```
-
-Both:
-
-may:
-
-work:
-
-together.
-
----
-
-# Cross-Case Finding 87 — Participation Rule Consistency Is Distinct From Hospitality System Proof
-
-### Participation Rule Consistency
-
-Are:
-
-rules:
-
-aligned:
-
-across:
-
-surfaces
-
-states
-
-routes
-
-and:
-
-time?
+# Comparison 39 — System Clarity and Rule Consistency Remain Distinct
 
 ### Hospitality System Proof
 
@@ -5927,55 +3257,1314 @@ the:
 
 system?
 
-## Correction
+### Participation Rule Consistency
 
-```text
-Rule Consistency
-≠
-System Proof
-```
+Do:
 
-Consistent:
+the:
+
+relevant:
 
 rules
 
-can still:
+agree?
+
+## Correction
+
+```text
+System Clarity
+≠
+Rule Consistency
+```
+
+A:
+
+system
+
+can:
 
 be:
+
+clear
+
+but:
+
+inconsistent
+
+or:
+
+consistent
+
+but:
 
 poorly:
 
 explained.
 
-Clear:
+---
 
-rules
+# Comparison 40 — Stable Participation / Variable Product Now Has Strong Cross-Case Support
 
-can still:
+Current Status:
 
-be:
+Observed Research Direction
 
-inconsistent:
+Strongest:
 
-across:
+cases:
 
-surfaces.
+- Noma
+- Pearl Morissette
+
+Partial:
+
+support:
+
+- Alinea
+- NARISAWA
+
+The:
+
+mechanisms
+
+differ.
+
+### Noma
+
+```text
+Future / Variable Creative Product
++
+Structured High-Commitment Participation
+```
+
+### Pearl Morissette
+
+```text
+Seasonally / Operationally Variable Product
++
+Structured Reservation Route
+```
+
+This:
+
+is:
+
+a:
+
+meaningfully:
+
+different:
+
+second:
+
+strong:
+
+case.
 
 ---
 
-# Cross-Case Finding 88 — Policy Freshness Is Distinct From Rule Consistency
+# Stable Participation / Variable Product — Refined Definition
+
+> **A hospitality system may maintain stable participation rules or access structure while the product itself remains materially variable, allowing participation certainty and product variability to coexist.**
+
+## Core Boundary
+
+```text
+Product Variability
+≠
+Participation Variability
+```
+
+---
+
+# Stable Participation / Variable Product Governance Pressure
+
+Entering Status:
+
+Observed Research Direction
+
+Post–Pearl Morissette:
+
+Strong Candidate Review Pressure
+
+Candidate Review:
+
+Strongly Warranted
+
+Potential:
+
+Candidate / Medium
+
+Primary risk:
+
+the:
+
+direction
+
+may:
+
+simply:
+
+describe:
+
+normal:
+
+reservation:
+
+systems
+
+around:
+
+seasonal:
+
+menus.
+
+Therefore:
+
+material:
+
+product:
+
+variability
+
+must:
+
+be:
+
+meaningful
+
+to:
+
+the:
+
+guest's:
+
+expectation
+
+or:
+
+commitment.
+
+Formal decision:
+
+deferred.
+
+---
+
+# Comparison 41 — Stable Participation Does Not Mean Timeless Policy
 
 A:
 
+reservation:
+
+route
+
+may:
+
+remain:
+
+stable
+
+while:
+
+rules:
+
+change.
+
+## Correction
+
+```text
+Stable Participation
+≠
+Timeless Policy
+```
+
+Policy Freshness:
+
+remains:
+
+important.
+
+---
+
+# Comparison 42 — Policy Freshness Is Distinct From Evidence Freshness
+
+Noma:
+
+made:
+
+Policy Freshness:
+
+important.
+
+A:
+
+rule
+
+can:
+
+be:
+
+accurate
+
+at:
+
+one:
+
+time
+
+and:
+
+wrong:
+
+later.
+
+Photography:
+
+has:
+
+Evidence Freshness.
+
+Reservation:
+
+has:
+
+Policy Freshness.
+
+## Correction
+
+```text
+Policy Freshness
+≠
+Evidence Freshness
+```
+
+They:
+
+belong:
+
+to:
+
+the:
+
+same:
+
+broader:
+
+Freshness Governance:
+
+family
+
+but:
+
+are:
+
+different:
+
+variables.
+
+---
+
+# Comparison 43 — Official Does Not Mean Current for Policy Either
+
+## Correction
+
+```text
+Official Policy
+≠
+Current Policy
+```
+
+This:
+
+matches:
+
+the:
+
+broader:
+
+post-Noma:
+
 rule:
+
+```text
+Official
+≠
+Current
+```
+
+---
+
+# Comparison 44 — Availability Is Multi-Layered
+
+Across:
+
+research
+
+availability
+
+can:
+
+mean:
+
+different:
+
+things.
+
+Potential:
+
+types:
+
+- route availability
+- seat / table availability
+- resource availability
+- operational availability
+- temporal availability
+- product availability
+- experience availability
+
+Pearl Morissette:
+
+adds:
+
+Experience Availability
+
+for:
+
+conditional:
+
+tour
+
+or:
+
+enhancement:
+
+options.
+
+---
+
+# Experience Availability
+
+## Definition
+
+Whether:
+
+an:
+
+optional:
+
+experience
+
+is:
+
+available:
+
+under:
+
+current:
+
+season
+
+capacity
+
+and:
+
+operating:
+
+conditions.
+
+## Status
+
+Availability Subtype
+
+Not:
+
+new:
+
+formal:
+
+family.
+
+---
+
+# Comparison 45 — Add-On Listed Is Not Add-On Available
+
+## Correction
+
+```text
+Add-On Listed
+≠
+Add-On Available
+```
+
+This:
+
+is:
+
+especially:
+
+important:
+
+for:
+
+seasonal:
+
+or:
+
+capacity-limited:
+
+experiences.
+
+---
+
+# Comparison 46 — Seasonal Add-On Does Not Mean Seasonal Restaurant Access
+
+## Correction
+
+```text
+Seasonal Add-On
+≠
+Seasonally Gated Restaurant Access
+```
+
+This:
+
+prevents:
+
+over-application:
+
+of:
+
+Noma's:
+
+temporal:
+
+participation:
+
+architecture.
+
+---
+
+# Comparison 47 — Time Is Important but Not Always Dominant
+
+Noma:
+
+remains:
+
+the:
+
+strongest:
+
+Temporal Participation:
+
+case.
+
+Pearl Morissette:
+
+has:
+
+service:
+
+times
+
+travel:
+
+timing
+
+and:
+
+seasonal:
+
+add-ons
+
+but:
+
+time:
+
+does:
+
+not:
+
+organize:
+
+the:
+
+whole:
+
+participation:
+
+system.
+
+## Correction
+
+```text
+Time-Sensitive Participation
+≠
+Temporal Participation Dominates
+```
+
+---
+
+# Comparison 48 — Access Window Remains a Useful Variable
+
+Noma:
+
+made:
+
+Access Window:
+
+important.
+
+Other:
+
+cases:
+
+use:
+
+different:
+
+forms:
+
+- reservations
+- queue
+- walk-in
+- opening hours
+- resource state
+
+Pearl Morissette:
+
+does:
+
+not:
+
+change:
+
+the:
+
+variable.
+
+It:
+
+adds:
+
+Visit Preparation:
+
+after:
+
+access:
+
+is:
+
+secured.
+
+---
+
+# Comparison 49 — State Transitions Can Be Time-Driven or Action-Driven
+
+Noma:
+
+made:
+
+time-driven:
+
+state:
+
+change
+
+especially:
+
+important.
+
+ICHIRAN:
+
+uses:
+
+guest:
+
+action.
+
+Pearl Morissette:
+
+uses:
+
+guest:
+
+preparation
+
+and:
+
+physical:
+
+movement.
+
+## Correction
+
+```text
+Participation State Change
+≠
+Always User Action
+```
+
+This remains:
+
+canonical.
+
+---
+
+# Comparison 50 — One Primary Route Does Not Mean Simple Participation
+
+ICHIRAN:
+
+may:
+
+have:
+
+a:
+
+clear:
+
+primary:
+
+route
+
+but:
+
+deep:
+
+participation:
+
+states.
+
+Pearl Morissette:
+
+may:
+
+have:
+
+a:
+
+straightforward:
+
+reservation:
+
+route
+
+but:
+
+meaningful:
+
+destination:
+
+preparation.
+
+## Correction
+
+```text
+One Primary Route
+≠
+Simple Participation
+```
+
+---
+
+# Comparison 51 — Participation Complexity Has Multiple Sources
+
+Current:
+
+sources:
+
+include:
+
+- route breadth
+- state depth
+- resource coupling
+- consequence
+- exception handling
+- time sensitivity
+- geographic complexity
+
+Pearl Morissette:
+
+adds:
+
+Geographic Complexity.
+
+---
+
+# Geographic Complexity
+
+## Definition
+
+Participation:
+
+complexity
+
+created:
+
+by:
+
+physical:
+
+location
+
+travel
+
+navigation
+
+or:
+
+destination:
+
+conditions.
+
+Potential:
+
+drivers:
+
+- remote access
+- final-mile transport
+- parking
+- entrance recognition
+- travel time
+- local stay
+
+## Status
+
+Architecture Variable
+
+Potential Home:
+
+Escalating Participation Complexity.
+
+---
+
+# Comparison 52 — Geographic Complexity Is Not Operational Complexity
+
+## Correction
+
+```text
+Geographic Complexity
+≠
+Operational Complexity
+```
+
+A:
+
+restaurant
+
+can:
+
+be:
+
+operationally:
+
+simple
+
+but:
+
+geographically:
+
+difficult.
+
+---
+
+# Comparison 53 — Escalating Participation Complexity Has Broad Support
+
+Current Status:
+
+Emerging
+
+Strong:
+
+pressure:
+
+- Dishoom
+- Franklin
+- Haidilao
+- ICHIRAN
+- Din Tai Fung
+- Noma
+- Pearl Morissette
+
+Different:
+
+cases
+
+increase:
+
+complexity
+
+through:
+
+different:
+
+mechanisms.
+
+Pearl Morissette:
+
+adds:
+
+- destination logistics
+- private-dining route
+- dietary adaptation
+- conditional add-ons
+
+---
+
+# Escalating Participation Complexity — Refined Definition
+
+> **Participation complexity increases when materially different routes, states, consequences, resources, exceptions, time conditions, or geographic requirements must be understood or managed by the guest or hospitality system.**
+
+## Core Boundary
+
+```text
+More Interface Steps
+≠
+Escalating Participation Complexity
+```
+
+Complexity:
+
+must:
+
+be:
+
+material.
+
+---
+
+# Escalating Participation Complexity Governance Pressure
+
+Entering Status:
+
+Emerging
+
+Post–Pearl Morissette:
+
+Strong Cross-Case Support
+
+Candidate Review:
+
+Warranted
+
+Potential:
+
+Candidate / Medium
+
+Primary risk:
+
+becoming:
+
+a:
+
+descriptive:
+
+complexity:
+
+label
+
+instead:
+
+of:
+
+a:
+
+useful:
+
+hospitality:
+
+pattern.
+
+Formal decision:
+
+deferred.
+
+---
+
+# Comparison 54 — Intent-Based Complexity Reduction Remains Useful
+
+Different:
+
+guests
+
+need:
+
+different:
+
+routes
+
+and:
+
+depth.
+
+Examples:
+
+- standard diner
+- walk-in
+- private group
+- dietary exception
+- destination traveler
+- first-time ICHIRAN guest
+- high-commitment Noma guest
+
+## Architecture Relationship
+
+```text
+Guest Intent
+↓
+Relevant Route
+↓
+Only Relevant Complexity
+```
+
+This:
+
+helps:
+
+prevent:
+
+every:
+
+guest
+
+from:
+
+encountering:
+
+the:
+
+full:
+
+system.
+
+---
+
+# Comparison 55 — Complex Hospitality Does Not Require Complex Interface
+
+## Correction
+
+```text
+Complex Hospitality System
+≠
+Complex Interface Required
+```
+
+The:
+
+interface
+
+may:
+
+simplify:
+
+or:
+
+sequence:
+
+complexity.
+
+---
+
+# Comparison 56 — Multi-Intent Hospitality and Escalating Participation Complexity Are Different
+
+### Multi-Intent Hospitality
+
+Multiple:
+
+guest:
+
+goals
+
+or:
+
+primary:
+
+routes.
+
+### Escalating Participation Complexity
+
+Increasing:
+
+state
+
+rule
+
+resource
+
+or:
+
+exception:
+
+complexity.
+
+## Correction
+
+```text
+Multi-Intent
+≠
+High Participation Complexity
+```
+
+A:
+
+restaurant:
+
+may:
+
+support:
+
+many:
+
+simple:
+
+routes
+
+or:
+
+one:
+
+very:
+
+complex:
+
+route.
+
+---
+
+# Comparison 57 — Flexibility Is Layered
+
+Post-Noma:
+
+Flexibility Layer:
+
+became:
+
+important.
+
+Pearl Morissette:
+
+reinforces:
+
+the:
+
+need:
+
+to:
+
+separate:
+
+flexibility:
+
+types.
+
+Potential:
+
+layers:
+
+- product
+- booking
+- cancellation
+- transfer
+- service
+- dietary
+- guest choice
+- creative
+- travel
+- add-on
+
+## Correction
+
+```text
+Flexible Hospitality
+≠
+Everything Is Flexible
+```
+
+---
+
+# Comparison 58 — Product Flexibility and Participation Flexibility Can Move Independently
+
+Pearl Morissette:
+
+appears:
+
+to:
+
+have:
+
+high:
+
+product:
+
+variation
+
+while:
+
+participation:
+
+remains:
+
+structured.
+
+ICHIRAN:
+
+has:
+
+high:
+
+customization
+
+inside:
+
+a:
+
+very:
+
+structured:
+
+system.
+
+## Correction
+
+```text
+Product Flexibility
+≠
+Participation Flexibility
+```
+
+This:
+
+supports:
+
+Flexibility Layer:
+
+architecture.
+
+---
+
+# Comparison 59 — Participation Rule Consistency Is Not Flexibility
+
+A:
+
+system
 
 may:
 
 be:
 
-consistent
+flexible
 
-but:
+and:
+
+consistent.
+
+Or:
+
+rigid
+
+and:
+
+inconsistent.
+
+## Correction
+
+```text
+Consistency
+≠
+Rigidity
+```
+
+and:
+
+```text
+Flexibility
+≠
+Inconsistency
+```
+
+---
+
+# Comparison 60 — Compatibility and Choice Are Different
+
+Pearl Morissette:
+
+and:
+
+NARISAWA:
+
+pressure:
+
+compatibility.
+
+ICHIRAN:
+
+pressures:
+
+choice
+
+through:
+
+customization.
+
+These:
+
+are:
+
+different.
+
+## Correction
+
+```text
+Compatibility Adaptation
+≠
+Choice Architecture
+```
+
+A:
+
+restaurant
+
+may:
+
+adapt:
+
+for:
+
+material:
+
+needs
+
+without:
+
+offering:
+
+broad:
+
+choice.
+
+---
+
+# Comparison 61 — Participation Rule Consistency Needs Policy Freshness
+
+A:
+
+rule:
+
+can:
+
+be:
+
+consistent:
+
+across:
+
+surfaces
+
+and:
+
+still:
+
+be:
 
 outdated.
 
@@ -5987,1736 +4576,2384 @@ Consistency
 Currency
 ```
 
-This is:
+This:
 
-an:
+remains:
 
-important:
+canonical.
 
-governance:
+Participation Rule Consistency:
 
-boundary.
+must:
+
+be:
+
+evaluated:
+
+alongside:
+
+Policy Freshness.
 
 ---
 
-# Cross-Case Finding 89 — Participation Rule Consistency May Be Approaching Candidate Review
+# Comparison 62 — Hospitality System Proof and Participation Rule Consistency Interact
 
-Evidence now:
+A:
 
-includes:
+guest
 
-two:
+needs:
 
-strong:
+both:
 
-cases:
+system:
 
-### Din Tai Fung
-
-Different:
-
-participation routes
-
-with:
-
-location:
+understanding
 
 and:
 
-availability:
+reliable:
 
-implications.
+rules
 
-### Noma
+where:
 
-Cross-surface
+material.
 
-time-sensitive:
+## Relationship
 
-policy:
+```text
+System Legibility
++
+Relevant Rule Consistency
++
+Policy Freshness
+↓
+Potential Participation Confidence
+```
 
-and:
+These:
 
-state:
+remain:
 
-requirements.
+separate:
 
-Potential:
+patterns / variables.
 
-support
+---
 
-also exists:
+# Comparison 63 — Manageable Commitment and Participation Rule Consistency Are Different
 
-in:
+### Manageable Commitment
 
-other:
+Can:
 
-restaurants
+the:
 
-using:
+guest
 
-multiple:
+manage:
+
+the:
+
+commitment
+
+after:
+
+booking?
+
+### Participation Rule Consistency
+
+Are:
+
+the:
+
+rules
+
+coherent:
+
+across:
+
+surfaces?
+
+## Correction
+
+```text
+Post-Commitment Agency
+≠
+Rule Consistency
+```
+
+A:
+
+strict:
+
+policy
+
+can:
+
+be:
+
+consistent
+
+without:
+
+being:
+
+manageable.
+
+---
+
+# Comparison 64 — Commitment Without Pressure and Manageable Commitment Are Different
+
+### Commitment Without Pressure
+
+Concerns:
+
+how:
+
+the:
+
+guest
+
+is:
+
+asked:
+
+to:
+
+commit.
+
+### Manageable Commitment
+
+Concerns:
+
+what:
+
+happens:
+
+after:
+
+commitment.
+
+## Correction
+
+```text
+Commitment Without Pressure
+≠
+Manageable Commitment
+```
+
+---
+
+# Comparison 65 — Stable Participation / Variable Product and Manageable Commitment Are Different
+
+A:
+
+stable:
 
 booking:
 
-or:
-
-contact:
-
-surfaces.
-
-## Candidate Risk
-
-The:
-
-direction
+structure
 
 may:
 
-become:
+exist
 
-too:
+without:
 
-obvious
-
-or:
-
-generic
-
-if:
-
-defined:
-
-as:
-
-"rules should be consistent."
-
-To become:
-
-useful:
-
-it needs:
-
-a:
-
-hospitality-specific:
-
-falsifiable:
-
-definition.
-
----
-
-# Proposed Candidate-Review Definition — Participation Rule Consistency
-
-> **When a hospitality journey spans multiple participation routes, states, surfaces, or time periods, decision-relevant rules should remain consistent or explicitly explain why they differ so the guest can correctly understand their current participation state and options.**
-
-## Falsification
-
-Pattern should:
-
-fail
-
-when:
-
-- different rules apply legitimately to different routes and the difference is clearly explained
-- no material multi-route / multi-state complexity exists
-- rule difference does not affect guest understanding or action
-
-## Status
-
-Candidate Watch
-
-No promotion:
-
-inside:
-
-comparison file.
-
----
-
-# Cross-Case Finding 90 — Manageable Commitment May Also Be Approaching Candidate Review
-
-Strong:
-
-support:
-
-from:
-
-Noma
-
-and:
-
-Din Tai Fung.
-
-Potential:
-
-support:
-
-from:
-
-other:
-
-high-commitment:
-
-restaurants
-
-through:
-
-modification
-
-cancellation
-
-or:
-
-guest assistance.
-
-## Candidate Risk
-
-If:
-
-defined:
-
-too broadly
-
-it becomes:
-
-"good cancellation policy."
-
-That is:
-
-not enough.
-
----
-
-# Proposed Candidate-Review Definition — Manageable Commitment
-
-> **After a guest makes a meaningful hospitality commitment, the participation system should preserve clear and proportionate routes for managing foreseeable change where the operating model can reasonably support them.**
-
-Potential:
-
-mechanisms:
-
-- cancel
-- modify
-- transfer
-- request assistance
-
-## Falsification
-
-Pattern does not:
-
-apply
-
-when:
-
-- commitment is low-consequence
-- no meaningful post-commitment state exists
-- operational constraints legitimately prevent flexibility
-- flexibility would materially undermine the hospitality model
-
-## Status
-
-Candidate Watch
-
-No promotion:
-
-inside:
-
-comparison.
-
----
-
-# Cross-Case Finding 91 — Hospitality System Proof Has the Strongest Promotion Case
-
-This comparison:
-
-makes:
-
-the:
-
-case:
-
-clearer.
-
-The pattern:
-
-now has:
-
-multiple:
-
-materially different:
-
-supports
-
-and:
-
-strong:
-
-boundaries.
-
-It also:
-
-has:
-
-a:
-
-clear:
-
-falsification:
-
-question:
-
-> **If misunderstanding the system would not materially affect guest participation or differentiation, is explicit system proof actually needed?**
-
-## Comparison Position
-
-Strong Promotion Watch
-
-Potential:
-
-Candidate → Emerging
-
-No formal:
-
-change:
-
-until:
-
-canonical:
-
-reconciliation.
-
----
-
-# Current Post-Noma Participation Architecture
-
-```text
-Guest Intent
-↓
-Experience Familiarity
-+
-Participation Familiarity
-↓
-Desired Outcome
-↓
-Relevant Location
-+
-Relevant Resource
-+
-Temporal Context where relevant
-↓
-Commitment Level
-↓
-Consequence of Misunderstanding
-↓
-Required Certainty
-↓
-Participation Route
-↓
-Reservation
-Walk-In
-Queue
-Inquiry
-Order
-Collection
-Other
-↓
-Availability State
-+
-Access Window where relevant
-↓
-Participation State
-↓
-Relevant Rules
-+
-Relevant Deadlines
-+
-Relevant Consequences
-↓
-Structured Self-Service
-where predictable
-↓
-Human Assistance
-where structure is insufficient
-↓
-Possible Waiting State
-↓
-Possible Commitment Management
-↓
-Cancel
-Modify
-Transfer
-Assist
-Retain
-↓
-Participation Orientation
-↓
-Social
-Individual
-Mixed
-↓
-Meaningful Guest Participation
-↓
-Hospitality Experience
-↓
-Completion
-↓
-Relationship Continuation where relevant
-```
-
----
-
-# Simplified Post-Noma Participation Architecture
-
-```text
-Guest Intent
-↓
-Relevant Route
-↓
-Relevant State
-↓
-Relevant Rules
-+
-Relevant Time
-+
-Relevant Consequence
-↓
-Structured Self-Service where sufficient
-+
-Human Assistance where needed
-↓
-Bounded Agency
-↓
-Participation
-↓
-Completion
-```
-
-This is:
-
-the:
-
-strongest:
-
-current:
-
-participation:
-
-abstraction.
-
----
-
-# Post-Noma Participation Variables
-
----
-
-## Intent / Route
-
-- Guest Intent
-- Participation Route
-- Participation Breadth
-- Participation Depth
-- Participation Orientation
-
----
-
-## Availability
-
-- Availability Layer
-- Availability Phase
-- Access Window
-- Resource Availability
-
----
-
-## State
-
-- Participation State
-- Time-Driven State Transition
-- Temporal State Proof
-
----
-
-## Commitment
-
-- Commitment Level
-- Financial Commitment State
-- Commitment Reversibility
-- Reversibility Window
-- Manageable Commitment
-
----
-
-## Complexity
-
-- Participation Complexity
-- Consequence Complexity
-- Resource Coupling
-- Exception Load
-- Escalation Level
-
----
-
-## Rules
-
-- Participation Rule Consistency
-- Constraint Legibility
-- Policy Freshness
-- Access Transfer Rule
-
----
-
-## Time
-
-- Time Sensitivity
-- Deadline Hierarchy
-- Temporal Participation Layer
-
----
-
-## Outcome
-
-- Outcome Variability Disclosure
-- Outcome Uncertainty
-
-These are:
-
-architecture variables
-
-or:
-
-research directions.
-
-Not:
-
-formal patterns
-
-unless:
-
-already:
-
-governed.
-
----
-
-# Pattern Pressure — Hospitality System Proof
-
-Current:
-
-Candidate / Medium-High
-
-Noma:
-
-Extremely Strong
-
-Cross-Case Position:
-
-Strongest Promotion Watch
-
-Potential:
-
-Candidate → Emerging
-
-Decision:
-
-Pending full reconciliation.
-
----
-
-# Pattern Pressure — Participation Throughout the Journey
-
-Current:
-
-Emerging
-
-Noma:
-
-Very Strong
-
-Cross-Case Position:
-
-Strengthened
-
-Primary contribution:
-
-pre-release
-
-and:
+good:
 
 post-booking:
 
-participation.
+agency.
 
----
+## Correction
 
-# Pattern Pressure — Commitment Without Pressure
-
-Current:
-
-Emerging
-
-Noma:
-
-Very Strong
-
-Cross-Case Position:
-
-Strengthened
-
-Primary refinement:
-
-Structural Scarcity
-
+```text
+Stable Participation
 ≠
+Manageable Commitment
+```
 
-Manipulative Pressure.
+Pearl Morissette:
 
----
+makes:
 
-# Pattern Pressure — Escalating Participation Complexity
+this:
 
-Current:
+especially:
 
-Emerging
+clear
 
-Noma:
+because:
 
-Strong
+reservation:
 
-Cross-Case Position:
+structure
 
-Strengthened
+is:
 
-Primary refinement:
+visible
 
-complexity can:
+while:
 
-come from:
+current:
 
-consequence
+post-booking:
 
-time
+policy:
 
-resource coupling
+evidence
 
-and:
-
-state depth.
-
----
-
-# Pattern Pressure — The Guest as Participant
-
-Current:
-
-Emerging
-
-Noma:
-
-Mixed / Boundary
-
-Cross-Case Position:
-
-Definition strengthened
-
-through:
-
-participation-type:
-
-separation.
-
----
-
-# Pattern Pressure — Human Assistance Where Structured Self-Service Is Insufficient
-
-Current:
-
-Emerging
-
-Noma:
-
-Limited
-
-Cross-Case Position:
-
-No major change.
-
----
-
-# Pattern Pressure — Multi-Intent Hospitality
-
-Current:
-
-Emerging
-
-Noma:
-
-Limited
-
-Cross-Case Position:
-
-Healthy boundary.
-
----
-
-# Pattern Pressure — Walk-In as First-Class Participation
-
-Current:
-
-Emerging
-
-Noma:
-
-No current evidence
-
-Cross-Case Position:
-
-No support
-
-No contradiction.
-
----
-
-# Pattern Pressure — Own the Guest Relationship
-
-Current:
-
-Partially Supported / Medium
-
-Noma:
-
-Stronger public data / direct-channel evidence
-
-but:
-
-still:
+is:
 
 insufficient.
 
-Cross-Case Position:
-
-Remain Partially Supported / Medium.
-
 ---
 
-# New Direction — Manageable Commitment
+# Comparison 66 — Pre-Visit Relationship Continuation Extends Participation
 
-Current:
+Pearl Morissette:
 
-Observed Research Direction
+introduces:
 
-Post-Noma Position:
+a:
 
-Strong Candidate Watch
+useful:
 
-Decision:
+relationship:
 
-Pending governance.
+state
 
----
+between:
 
-# New Direction — Participation Rule Consistency
+booking
 
-Current:
+and:
 
-Observed Research Direction
+arrival.
 
-Post-Noma Position:
+## Definition
 
-Strong Candidate Watch
+> **Pre-Visit Relationship Continuation is useful hospitality communication or assistance that continues after booking but before arrival.**
 
-Decision:
+Potential:
 
-Pending governance.
+functions:
 
----
+- directions
+- reminders
+- dietary clarification
+- transport guidance
+- timing
+- exception support
 
-# New Direction — Controlled Transferability
-
-Current:
-
-Observed Research Direction
-
-Post-Noma Position:
-
-Too narrow / Noma-heavy
-
-Remain below Candidate.
-
----
-
-# New Direction — Stable Participation / Variable Product
-
-Current:
-
-Observed Research Direction
-
-Post-Noma Position:
-
-Promising but Noma-heavy
-
-Remain below Candidate.
-
----
-
-# New Direction — Access Utility
-
-Current:
+## Status
 
 Architecture Direction
 
-Post-Noma Position:
+Potential Home:
 
-Useful
+Participation Throughout the Journey.
 
-but:
+---
+
+# Correction
+
+```text
+Pre-Visit Communication
+≠
+Marketing by Default
+```
+
+Service:
+
+communication
+
+can:
+
+be:
+
+relationship:
+
+continuation.
+
+---
+
+# Comparison 67 — Relationship Continuation Can Occur Before and After the Visit
+
+Existing:
+
+hospitality:
+
+models
+
+often:
+
+focus:
+
+on:
+
+post-visit:
+
+follow-up.
+
+Pearl Morissette:
+
+adds:
+
+pre-visit:
+
+continuation.
+
+## Architecture
+
+```text
+Booking
+↓
+Pre-Visit Relationship Continuation
+↓
+Visit
+↓
+Post-Visit Relationship Continuation
+```
+
+where:
+
+material.
+
+---
+
+# Comparison 68 — Own the Guest Relationship Remains Partially Supported
+
+Current Status:
+
+Partially Supported / Medium
+
+Across:
+
+restaurants
+
+public:
+
+web:
+
+evidence
+
+can:
+
+sometimes:
+
+show:
+
+direct:
+
+reservation
+
+communication
+
+or:
+
+brand-owned:
+
+participation:
+
+surfaces.
+
+But:
+
+it:
+
+cannot:
+
+prove:
+
+full:
+
+CRM
+
+customer-history
+
+or:
+
+data:
+
+ownership.
+
+Pearl Morissette's:
+
+use:
+
+of:
+
+Tock
+
+does:
 
 not:
 
-formal pattern.
+change:
 
----
+this.
 
-# New Direction — Temporal State Proof
+## Canonical Correction
 
-Current:
-
-Architecture Direction
-
-Post-Noma Position:
-
-Useful system mechanism
-
-not:
-
-formal pattern.
-
----
-
-# Reservation / Participation Corrections — Post-Noma
-
----
-
-## Correction 1
-
-Reservation
-
-≠
-
-Participation.
-
----
-
-## Correction 2
-
-Participation Architecture
-
-≠
-
-Booking Page Architecture.
-
----
-
-## Correction 3
-
-Participation State Change
-
-≠
-
-Always User Action.
-
----
-
-## Correction 4
-
-No Booking Inventory Yet
-
-≠
-
-No Future Participation Opportunity.
-
----
-
-## Correction 5
-
-Availability
-
-≠
-
-One Boolean State.
-
----
-
-## Correction 6
-
-No Online Reservation
-
-≠
-
-No Restaurant Access.
-
----
-
-## Correction 7
-
-No Published Walk-In Evidence
-
-≠
-
-Reservation-Only Proven.
-
----
-
-## Correction 8
-
-Commitment
-
-≠
-
-Participation Complexity.
-
----
-
-## Correction 9
-
-One Primary Route
-
-≠
-
-Simple Participation.
-
----
-
-## Correction 10
-
-Participation Breadth
-
-≠
-
-Participation Depth.
-
----
-
-## Correction 11
-
-High Commitment
-
-≠
-
-Human-Managed Booking Required.
-
----
-
-## Correction 12
-
-Self-Service
-
-≠
-
-Low Agency.
-
----
-
-## Correction 13
-
-Structured Participation
-
-≠
-
-Low Agency.
-
----
-
-## Correction 14
-
-Human Assistance
-
-≠
-
-Experiential Human Service.
-
----
-
-## Correction 15
-
-More Human Interaction
-
-≠
-
-More Participation Clarity.
-
----
-
-## Correction 16
-
-Participation Route
-
-≠
-
-Participation Orientation.
-
----
-
-## Correction 17
-
-Waiting Exists
-
-≠
-
-Hospitality During Waiting.
-
----
-
-## Correction 18
-
-Access Utility
-
-≠
-
-Hospitality During Waiting.
-
----
-
-## Correction 19
-
-Committed
-
-≠
-
-One Fixed State.
-
----
-
-## Correction 20
-
-Commitment Reversibility
-
-≠
-
-Static.
-
----
-
-## Correction 21
-
-Pre-Commitment Pressure
-
-≠
-
-Post-Commitment Agency.
-
----
-
-## Correction 22
-
-Transfer
-
-≠
-
-Cancellation.
-
----
-
-## Correction 23
-
-Transferability
-
-≠
-
-Unrestricted Resale Right.
-
----
-
-## Correction 24
-
-Guest Agency
-
-≠
-
-Unlimited Control.
-
----
-
-## Correction 25
-
-Booking Edit
-
-≠
-
-Operationally Neutral Change.
-
----
-
-## Correction 26
-
-System Visibility
-
-≠
-
-System Clarity.
-
----
-
-## Correction 27
-
-Route Visibility
-
-≠
-
-State Clarity.
-
----
-
-## Correction 28
-
-Outcome Uncertainty
-
-≠
-
-Participation State Uncertainty.
-
----
-
-## Correction 29
-
-Cancellation Policy
-
-≠
-
-Post-Purchase Fine Print Only.
-
----
-
-## Correction 30
-
-Transferability
-
-≠
-
-Low Commitment.
-
----
-
-## Correction 31
-
-Creative Flexibility
-
-≠
-
-Participation Flexibility Everywhere.
-
----
-
-## Correction 32
-
-Participation Rule Consistency
-
-≠
-
-Hospitality System Proof.
-
----
-
-## Correction 33
-
-Consistency
-
-≠
-
-Currency.
-
----
-
-## Correction 34
-
-Data Controller Status
-
-≠
-
-Complete Guest Relationship Ownership.
-
----
-
-## Correction 35
-
+```text
 Third-Party Booking Surface
-
 ≠
+Guest Relationship Lost
+```
 
-Guest Relationship Lost.
+and:
 
----
-
-## Correction 36
-
-Reservation Transferability
-
+```text
+Data Controller Status
 ≠
-
-Data Ownership Proof.
+Complete Guest Relationship Ownership
+```
 
 ---
 
-## Correction 37
+# Own the Guest Relationship Governance Pressure
 
-System Participation
+Current Status:
 
+Partially Supported / Medium
+
+Post–Pearl Morissette:
+
+No material:
+
+change.
+
+Remain:
+
+Partially Supported / Medium.
+
+---
+
+# Comparison 69 — Third-Party Booking and Brand Relationship Are Different Layers
+
+A:
+
+restaurant
+
+may:
+
+use:
+
+a:
+
+third-party:
+
+transaction:
+
+surface
+
+while:
+
+the:
+
+guest
+
+still:
+
+understands:
+
+the:
+
+restaurant
+
+as:
+
+the:
+
+hospitality:
+
+brand.
+
+## Correction
+
+```text
+Transaction Surface
 ≠
+Brand Relationship
+```
 
-Creative Product Participation.
+But:
+
+full:
+
+data:
+
+ownership
+
+cannot:
+
+be:
+
+inferred.
 
 ---
 
-## Correction 38
+# Comparison 70 — Platform Features Should Never Be Projected Onto Restaurant Policy
 
-Tasting During Experimentation
+This:
 
+should:
+
+become:
+
+a:
+
+standard:
+
+research:
+
+discipline.
+
+If:
+
+a:
+
+restaurant
+
+uses:
+
+Tock
+
+Resy
+
+SevenRooms
+
+or:
+
+another:
+
+platform
+
+KHDS must:
+
+separate:
+
+### Platform Capability
+
+from:
+
+### Restaurant Configuration
+
+## Correction
+
+```text
+Platform Capability
 ≠
-
-Proven Co-Creation.
-
----
-
-## Correction 39
-
-Narrative Participation
-
-≠
-
-Operational Participation
-
-≠
-
-Creative Participation.
+Restaurant Configuration
+```
 
 ---
 
-## Correction 40
-
-Structural Scarcity
-
-≠
-
-Manipulative Pressure.
-
----
-
-## Correction 41
-
-System Explanation Obligation
-
-≠
-
-Maximum Explanation.
-
----
-
-## Correction 42
-
-Service Presence
-
-≠
-
-Participation Clarity.
-
----
-
-## Correction 43
-
-State Clarity
-
-≠
-
-Outcome Clarity.
-
----
-
-## Correction 44
-
-Simplification
-
-≠
-
-Removing Real Operational Meaning.
-
----
-
-## Correction 45
-
-Structured System
-
-≠
-
-No Complexity.
-
----
-
-## Correction 46
-
-Time Exists
-
-≠
-
-Temporal Participation.
-
----
-
-## Correction 47
-
-Stable Participation / Variable Product
-
-≠
-
-Coherence Through Change.
-
----
-
-## Correction 48
-
-System Clarity
-
-≠
-
-Post-Commitment Agency.
-
----
-
-## Correction 49
-
-Rule Consistency
-
-≠
-
-System Proof.
-
----
-
-# Participation Tension 1 — Commitment vs Future Uncertainty
-
-Question:
-
-> **How much future outcome uncertainty can remain when financial commitment is high?**
-
-Post-Noma Status:
-
-Primary.
-
----
-
-# Participation Tension 2 — Pre-Commitment Pressure vs Post-Commitment Agency
-
-Question:
-
-> **Can a system request significant commitment while still preserving proportionate agency after booking?**
-
-Post-Noma:
-
-Very Strong.
-
----
-
-# Participation Tension 3 — Structured Self-Service vs Human Assistance
-
-Question:
-
-> **How much predictable complexity can structure carry before human assistance becomes necessary?**
-
-Status:
-
-Active.
-
----
-
-# Participation Tension 4 — Route Breadth vs Route Depth
-
-Question:
-
-> **Is complexity coming from many routes or from deep consequence inside one route?**
-
-Post-Noma:
-
-Major.
-
----
-
-# Participation Tension 5 — Structural Scarcity vs Manipulative Pressure
-
-Question:
-
-> **When do real capacity or time constraints become excessive guest pressure?**
-
-Public website research cannot:
-
-fully resolve:
-
-guest perception.
-
----
-
-# Participation Tension 6 — Agency vs Constraint
-
-Question:
-
-> **How much meaningful agency can exist inside a highly constrained hospitality system?**
-
-Active.
-
----
-
-# Participation Tension 7 — Flexibility vs Operational Reality
-
-Question:
-
-> **When should the guest be able to modify a commitment, and when do real resource constraints make modification unreasonable?**
-
-Active.
-
----
-
-# Participation Tension 8 — Stable Participation vs Variable Product
-
-Question:
-
-> **Can strict access and commitment rules create enough operational certainty to support creative product variability?**
-
-Post-Noma:
-
-Major.
-
----
-
-# Participation Tension 9 — Cross-Surface Clarity
-
-Question:
-
-> **How should rules remain coherent when explanation, booking, payment, and reservation management happen across different digital surfaces?**
-
-Active.
-
----
-
-# Participation Tension 10 — Rule Consistency vs Legitimate Route Difference
-
-Question:
-
-> **When should rules be identical, and when should different participation routes legitimately have different rules?**
-
-Important for:
-
-Participation Rule Consistency.
-
----
-
-# Participation Tension 11 — State Clarity vs Outcome Uncertainty
-
-Question:
-
-> **Can the system be highly clear about participation state while remaining intentionally open about the future experience?**
-
-Noma suggests:
-
-yes.
-
----
-
-# Participation Tension 12 — Time-Gated Access vs Continuous Guest Intent
-
-Question:
-
-> **How should the hospitality system support intent before participation becomes available?**
-
-Post-Noma:
-
-Active.
-
----
-
-# Strongest Falsification Questions
-
----
-
-# Hospitality System Proof
-
-> **When does explicit system explanation add little because the participation model is already obvious, low-consequence, and familiar?**
+# Current Reservation / Participation Pattern Pressure
 
 ---
 
 # Participation Throughout the Journey
 
-> **When does pre- or post-booking activity become too trivial to count as meaningful participation?**
+Status:
 
----
+Emerging
 
-# Commitment Without Pressure
+Post–Pearl Morissette Pressure:
 
-> **When does real scarcity or high consequence become unreasonable pressure even without deceptive design?**
+Extremely Strong
 
----
+Governance Review:
 
-# Escalating Participation Complexity
+Candidate Review Strongly Warranted
 
-> **When does added structure reduce rather than increase guest understanding?**
+Potential:
 
----
+Candidate / Medium
 
-# Walk-In as First-Class Participation
+Strongest new contribution:
 
-> **When is walk-in genuinely unavailable or operationally inappropriate rather than simply underrepresented?**
+Visit Preparation
 
----
+Primary risk:
 
-# Human Assistance Where Structured Self-Service Is Insufficient
-
-> **When can structured self-service reliably resolve even exceptional needs without human handoff?**
-
----
-
-# Manageable Commitment
-
-> **When would post-commitment flexibility materially undermine the restaurant's operating model or resource allocation?**
-
----
-
-# Participation Rule Consistency
-
-> **When are different rules legitimate because different routes, states, resources, or time periods materially require them?**
+overbreadth.
 
 ---
 
 # Stable Participation / Variable Product
 
-> **When does strict participation structure constrain creative flexibility rather than support it?**
+Status:
+
+Observed Research Direction
+
+Post–Pearl Morissette Pressure:
+
+Very Strong
+
+Governance Review:
+
+Candidate Review Strongly Warranted
+
+Potential:
+
+Candidate / Medium
+
+Strongest cases:
+
+- Noma
+- Pearl Morissette
+
+Partial:
+
+- Alinea
+- NARISAWA
+
+Primary boundary:
+
+product variability
+
+must:
+
+be:
+
+material.
 
 ---
 
-# Controlled Transferability
+# Escalating Participation Complexity
 
-> **When does transfer create operational, fraud, or resource problems that make transferability inappropriate?**
+Status:
+
+Emerging
+
+Post–Pearl Morissette Pressure:
+
+Strong
+
+Governance Review:
+
+Candidate Review Warranted
+
+Potential:
+
+Candidate / Medium
+
+Strongest new variable:
+
+Geographic Complexity.
 
 ---
 
-# Governance Watch After Reservation Comparison
+# Hospitality System Proof
 
-No:
+Status:
+
+Candidate / Medium-High
+
+Post–Pearl Morissette Pressure:
+
+Strong
+
+Governance Review:
+
+Confidence Review Possible
+
+Strongest new mechanism:
+
+Digital-to-Physical Participation Handoff.
+
+---
+
+# Participation Rule Consistency
+
+Status:
+
+Candidate / Medium
+
+Post–Pearl Morissette Pressure:
+
+Moderate
+
+Governance Review:
+
+No strong:
+
+confidence:
+
+change
+
+from:
+
+Restaurant #15.
+
+Strongest refinement:
+
+Rule Consistency
+
+vs:
+
+Instruction Consistency.
+
+---
+
+# Manageable Commitment
+
+Status:
+
+Candidate / Medium
+
+Post–Pearl Morissette Pressure:
+
+Insufficient / Neutral
+
+Governance Review:
+
+No change.
+
+---
+
+# Multi-Intent Hospitality
+
+Status:
+
+Emerging
+
+Post–Pearl Morissette Pressure:
+
+Moderate
+
+Governance Review:
+
+Remain Emerging.
+
+---
+
+# The Guest as Participant
+
+Status:
+
+Emerging
+
+Post–Pearl Morissette Pressure:
+
+Moderate
+
+Governance Review:
+
+Remain Emerging.
+
+---
+
+# Human Assistance Where Structured Self-Service Is Insufficient
+
+Status:
+
+Emerging
+
+Post–Pearl Morissette Pressure:
+
+Moderate
+
+Governance Review:
+
+Remain Emerging.
+
+---
+
+# Commitment Without Pressure
+
+Status:
+
+Emerging
+
+Post–Pearl Morissette Pressure:
+
+Insufficient
+
+Governance Review:
+
+Remain Emerging.
+
+---
+
+# Walk-In as First-Class Participation
+
+Status:
+
+Candidate / High
+
+Post–Pearl Morissette Pressure:
+
+Neutral / Unproven
+
+Governance Review:
+
+No change.
+
+---
+
+# Own the Guest Relationship
+
+Status:
+
+Partially Supported / Medium
+
+Post–Pearl Morissette Pressure:
+
+Limited / Neutral
+
+Governance Review:
+
+No change.
+
+---
+
+# New Participation Architecture After Restaurant #15
+
+---
+
+# Visit Preparation
+
+Status:
+
+Participation State
+
+Definition:
+
+> **A post-commitment state in which the guest prepares material logistical, dietary, temporal, or social conditions required to complete a secured hospitality visit.**
+
+---
+
+# Pre-Arrival Clarity
+
+Status:
+
+Architecture Direction
+
+Definition:
+
+> **The degree to which the guest understands the practical conditions required to complete the visit after booking but before arrival.**
+
+---
+
+# Guest Preparation Load
+
+Status:
+
+Participation Variable
+
+Definition:
+
+> **The amount of practical work the guest must complete before successfully participating.**
+
+---
+
+# Geographic Complexity
+
+Status:
+
+Participation Complexity Variable
+
+Potential Home:
+
+Escalating Participation Complexity.
+
+---
+
+# Total Visit Commitment
+
+Status:
+
+Commitment Variable
+
+Potential dimensions:
+
+- financial
+- temporal
+- logistical
+- social
+- compatibility
+- participation
+
+---
+
+# Compatibility Adaptation
+
+Status:
+
+Participation Variable
+
+Definition:
+
+> **The degree to which the system can respond to material guest needs while preserving the intended experience structure.**
+
+---
+
+# Digital-to-Physical Participation Handoff
+
+Status:
+
+Architecture Mechanism
+
+Potential Home:
+
+Hospitality System Proof
+
++
+
+Arrival.
+
+---
+
+# Pre-Visit Relationship Continuation
+
+Status:
+
+Architecture Direction
+
+Potential Home:
+
+Participation Throughout the Journey.
+
+---
+
+# Experience Availability
+
+Status:
+
+Availability Subtype
+
+---
+
+# Instruction Consistency
+
+Status:
+
+Participation Architecture Distinction
+
+Relationship:
+
+```text
+Rule Consistency
+≠
+Instruction Consistency
+```
+
+---
+
+# Current Participation Architecture Variables
+
+Post–Pearl Morissette:
+
+research now includes:
+
+- Guest Intent
+- Participation Route
+- Participation Breadth
+- Participation Depth
+- Participation State
+- Access Window
+- Availability Type
+- Resource Coupling
+- Consequence Complexity
+- Commitment Level
+- Total Visit Commitment
+- Commitment Reversibility
+- Reversibility Window
+- Post-Commitment Agency
+- Policy Freshness
+- Participation Rule Consistency
+- Instruction Consistency
+- Guest Preparation Load
+- Geographic Complexity
+- Visit Preparation
+- Pre-Arrival Clarity
+- Compatibility Adaptation
+- Digital-to-Physical Handoff
+- Pre-Visit Relationship Continuation
+- Flexibility Layer
+- Experience Availability
+- Waiting Type
+- Assistance Escalation
+
+These:
+
+are:
 
 formal:
 
-governance changes
+patterns
 
-occur:
+architecture
 
-here.
+variables
 
-Carry forward:
+or:
 
-the following.
+states
+
+at:
+
+different:
+
+maturity:
+
+levels.
+
+Do not:
+
+flatten:
+
+them.
 
 ---
 
-# Strongest Promotion Watch — Hospitality System Proof
+# Participation Deduplication Decisions
+
+---
+
+# Visit Preparation
+
+```text
+Visit Preparation
+→
+Participation Throughout the Journey
+```
+
+State.
+
+Do not:
+
+formalize:
+
+separately.
+
+---
+
+# Pre-Arrival Clarity
+
+```text
+Pre-Arrival Clarity
+→
+Participation Throughout the Journey
++
+Hospitality System Proof
+```
+
+Architecture direction.
+
+---
+
+# Guest Preparation Load
+
+Remain:
+
+participation:
+
+variable.
+
+Do not:
+
+create:
+
+Guest Effort:
+
+pattern.
+
+---
+
+# Geographic Complexity
+
+```text
+Geographic Complexity
+→
+Escalating Participation Complexity
+```
+
+Variable.
+
+---
+
+# Digital-to-Physical Participation Handoff
+
+```text
+Digital-to-Physical Participation Handoff
+→
+Hospitality System Proof
++
+Arrival
+```
+
+Mechanism.
+
+---
+
+# Compatibility Adaptation
+
+Remain:
+
+agency / compatibility:
+
+variable.
+
+Do not:
+
+create:
+
+Accommodation Hospitality:
+
+pattern.
+
+---
+
+# Pre-Visit Relationship Continuation
+
+```text
+Pre-Visit Relationship Continuation
+→
+Participation Throughout the Journey
+```
+
+Architecture direction.
+
+---
+
+# Instruction Consistency
+
+Potential:
+
+home:
+
+Participation Rule Consistency
+
+only:
+
+when:
+
+material:
+
+to:
+
+participation.
+
+Do not:
+
+formalize:
+
+separately.
+
+---
+
+# Stable Participation / Variable Product
+
+Do not:
+
+merge:
+
+with:
+
+Manageable Commitment.
+
+```text
+Stable Participation
+≠
+Post-Commitment Agency
+```
+
+---
+
+# Participation Throughout the Journey
+
+Do not:
+
+merge:
+
+with:
+
+The Guest as Participant.
+
+### Participation Throughout the Journey
+
+Concerns:
+
+where:
+
+participation
+
+occurs.
+
+### The Guest as Participant
+
+Concerns:
+
+the:
+
+guest's:
+
+active:
+
+role.
+
+## Correction
+
+```text
+Participation Stage
+≠
+Participation Role
+```
+
+---
+
+# Reservation / Participation Corrections — Post Restaurant #15
+
+---
+
+## Correction 1
+
+```text
+Participation
+≠
+Reservation
+```
+
+---
+
+## Correction 2
+
+```text
+Reservation Complete
+≠
+Hospitality Participation Complete
+```
+
+---
+
+## Correction 3
+
+```text
+Participation State
+≠
+Page or Screen
+```
+
+---
+
+## Correction 4
+
+```text
+Participation Throughout the Journey
+≠
+Everything the Guest Does
+```
+
+---
+
+## Correction 5
+
+```text
+Visit Preparation
+≠
+Access Waiting
+```
+
+---
+
+## Correction 6
+
+```text
+Visit Preparation
+≠
+Physical Arrival
+```
+
+---
+
+## Correction 7
+
+```text
+Reservation Confirmation
+≠
+Complete Pre-Arrival Clarity
+```
+
+---
+
+## Correction 8
+
+```text
+Every Reservation
+≠
+Complex Pre-Arrival State
+```
+
+---
+
+## Correction 9
+
+```text
+Guest Preparation
+≠
+Poor Hospitality
+```
+
+---
+
+## Correction 10
+
+```text
+Guest Preparation
+≠
+Hospitality Value
+```
+
+---
+
+## Correction 11
+
+```text
+Digital Reservation Complete
+≠
+Physical Participation Ready
+```
+
+---
+
+## Correction 12
+
+```text
+Self-Service
+≠
+Low Agency
+```
+
+---
+
+## Correction 13
+
+```text
+Participation
+≠
+Social Participation
+```
+
+---
+
+## Correction 14
+
+```text
+Accommodation
+≠
+Unlimited Customization
+```
+
+---
+
+## Correction 15
+
+```text
+Guest Agency
+≠
+Unlimited Control
+```
+
+---
+
+## Correction 16
+
+```text
+Operational Participation
+≠
+Creative Participation
+```
+
+---
+
+## Correction 17
+
+```text
+Participation Breadth
+≠
+Participation Depth
+```
+
+---
+
+## Correction 18
+
+```text
+More Participation Steps
+≠
+More Participation Routes
+```
+
+---
+
+## Correction 19
+
+```text
+Multiple Offers
+≠
+Multi-Intent Hospitality Dominates
+```
+
+---
+
+## Correction 20
+
+```text
+No Published Walk-In Evidence
+≠
+Walk-In Impossible
+```
+
+---
+
+## Correction 21
+
+```text
+Waiting Exists
+≠
+Waiting Must Become Hospitality
+```
+
+---
+
+## Correction 22
+
+```text
+Access Utility
+≠
+Hospitality During Waiting
+```
+
+---
+
+## Correction 23
+
+```text
+Commitment Level
+≠
+Financial Commitment Only
+```
+
+---
+
+## Correction 24
+
+```text
+High Total Visit Commitment
+≠
+High Cancellation Penalty Proven
+```
+
+---
+
+## Correction 25
+
+```text
+Booking Exists
+≠
+Manageable Commitment Proven
+```
+
+---
+
+## Correction 26
+
+```text
+Pre-Commitment Pressure
+≠
+Post-Commitment Agency
+```
+
+---
+
+## Correction 27
+
+```text
+High Prestige
+≠
+Manipulative Pressure
+```
+
+---
+
+## Correction 28
+
+```text
+Structural Scarcity
+≠
+Manipulative Pressure
+```
+
+---
+
+## Correction 29
+
+```text
+Platform Capability
+≠
+Restaurant Policy
+```
+
+---
+
+## Correction 30
+
+```text
+Public Policy Gap
+≠
+Guest Confusion Proven
+```
+
+---
+
+## Correction 31
+
+```text
+Rule Consistency
+≠
+Instruction Consistency
+```
+
+---
+
+## Correction 32
+
+```text
+Any Content Inconsistency
+≠
+Participation Consistency Failure
+```
+
+---
+
+## Correction 33
+
+```text
+System Clarity
+≠
+Rule Consistency
+```
+
+---
+
+## Correction 34
+
+```text
+Product Variability
+≠
+Participation Variability
+```
+
+---
+
+## Correction 35
+
+```text
+Stable Participation
+≠
+Timeless Policy
+```
+
+---
+
+## Correction 36
+
+```text
+Policy Freshness
+≠
+Evidence Freshness
+```
+
+---
+
+## Correction 37
+
+```text
+Official Policy
+≠
+Current Policy
+```
+
+---
+
+## Correction 38
+
+```text
+Add-On Listed
+≠
+Add-On Available
+```
+
+---
+
+## Correction 39
+
+```text
+Seasonal Add-On
+≠
+Seasonally Gated Restaurant Access
+```
+
+---
+
+## Correction 40
+
+```text
+Time-Sensitive Participation
+≠
+Temporal Participation Dominates
+```
+
+---
+
+## Correction 41
+
+```text
+Participation State Change
+≠
+Always User Action
+```
+
+---
+
+## Correction 42
+
+```text
+One Primary Route
+≠
+Simple Participation
+```
+
+---
+
+## Correction 43
+
+```text
+Geographic Complexity
+≠
+Operational Complexity
+```
+
+---
+
+## Correction 44
+
+```text
+More Interface Steps
+≠
+Escalating Participation Complexity
+```
+
+---
+
+## Correction 45
+
+```text
+Complex Hospitality System
+≠
+Complex Interface Required
+```
+
+---
+
+## Correction 46
+
+```text
+Multi-Intent
+≠
+High Participation Complexity
+```
+
+---
+
+## Correction 47
+
+```text
+Flexible Hospitality
+≠
+Everything Is Flexible
+```
+
+---
+
+## Correction 48
+
+```text
+Product Flexibility
+≠
+Participation Flexibility
+```
+
+---
+
+## Correction 49
+
+```text
+Consistency
+≠
+Rigidity
+```
+
+---
+
+## Correction 50
+
+```text
+Flexibility
+≠
+Inconsistency
+```
+
+---
+
+## Correction 51
+
+```text
+Compatibility Adaptation
+≠
+Choice Architecture
+```
+
+---
+
+## Correction 52
+
+```text
+Consistency
+≠
+Currency
+```
+
+---
+
+## Correction 53
+
+```text
+Post-Commitment Agency
+≠
+Rule Consistency
+```
+
+---
+
+## Correction 54
+
+```text
+Commitment Without Pressure
+≠
+Manageable Commitment
+```
+
+---
+
+## Correction 55
+
+```text
+Stable Participation
+≠
+Manageable Commitment
+```
+
+---
+
+## Correction 56
+
+```text
+Pre-Visit Communication
+≠
+Marketing by Default
+```
+
+---
+
+## Correction 57
+
+```text
+Third-Party Booking Surface
+≠
+Guest Relationship Lost
+```
+
+---
+
+## Correction 58
+
+```text
+Data Controller Status
+≠
+Complete Guest Relationship Ownership
+```
+
+---
+
+## Correction 59
+
+```text
+Transaction Surface
+≠
+Brand Relationship
+```
+
+---
+
+## Correction 60
+
+```text
+Platform Capability
+≠
+Restaurant Configuration
+```
+
+---
+
+## Correction 61
+
+```text
+Participation Stage
+≠
+Participation Role
+```
+
+---
+
+# Strongest Reservation / Participation Tensions After Restaurant #15
+
+---
+
+# Tension 1 — Reservation vs Participation Journey
+
+Question:
+
+> **When does the reservation stop being the central participation event and become only one state inside a larger journey?**
+
+Strong cases:
+
+- ICHIRAN
+- Noma
+- Pearl Morissette
+
+---
+
+# Tension 2 — Booking vs Visit Preparation
+
+Question:
+
+> **Is post-booking preparation genuinely part of hospitality participation or merely ordinary logistics?**
+
+Strongest case:
+
+Pearl Morissette.
+
+---
+
+# Tension 3 — Financial Commitment vs Total Visit Commitment
+
+Question:
+
+> **When should travel, time, coordination, and compatibility materially affect how commitment is evaluated?**
+
+Strongest case:
+
+Pearl Morissette.
+
+---
+
+# Tension 4 — Stable Participation vs Variable Product
+
+Question:
+
+> **Can stable access architecture provide useful certainty while the product itself remains materially variable?**
+
+Strongest cases:
+
+- Noma
+- Pearl Morissette
+
+---
+
+# Tension 5 — Rule Consistency vs Instruction Consistency
+
+Question:
+
+> **Should participation governance distinguish policy conflict from practical action conflict?**
+
+Strongest new case:
+
+Pearl Morissette.
+
+---
+
+# Tension 6 — System Clarity vs Rule Consistency
+
+Question:
+
+> **Can the guest understand the system while still encountering contradictory rules, or vice versa?**
+
+Strong cases:
+
+- ICHIRAN
+- Din Tai Fung
+- Noma
+- Pearl Morissette
+
+---
+
+# Tension 7 — Self-Service vs Human Assistance
+
+Question:
+
+> **Where should structured self-service stop and human assistance begin?**
+
+Strongest contrast:
+
+- ICHIRAN
+- Haidilao
+
+with:
+
+Pearl Morissette:
+
+adding:
+
+compatibility:
+
+exceptions.
+
+---
+
+# Tension 8 — Guest Agency vs System Structure
+
+Question:
+
+> **How much agency can a tightly structured hospitality system provide without becoming unrestricted choice?**
+
+Strong cases:
+
+- ICHIRAN
+- Noma
+- Pearl Morissette
+
+---
+
+# Tension 9 — Participation Breadth vs Depth
+
+Question:
+
+> **Is complexity caused by many routes or by many states inside one route?**
+
+Strong cases:
+
+- Din Tai Fung
+- Pearl Morissette
+- ICHIRAN
+
+---
+
+# Tension 10 — Geographic Complexity vs Hospitality Complexity
+
+Question:
+
+> **When is participation difficult because of the restaurant's operating system, and when is it difficult because of physical geography?**
+
+Strongest case:
+
+Pearl Morissette.
+
+---
+
+# Tension 11 — Availability vs Listed Offer
+
+Question:
+
+> **How should conditional experiences be represented when their current availability depends on season, resource, or operational state?**
+
+Strong cases:
+
+- Noma
+- Pearl Morissette
+
+---
+
+# Tension 12 — Policy Stability vs Policy Freshness
+
+Question:
+
+> **Can a stable participation route remain trustworthy when individual rules change over time?**
+
+Strongest case:
+
+Noma
+
+with:
+
+Pearl Morissette:
+
+reinforcing:
+
+policy:
+
+evidence:
+
+discipline.
+
+---
+
+# Strongest Reservation Falsification Questions
+
+---
+
+# Participation Throughout the Journey
+
+> **Does each identified participation state materially affect the guest's ability to take part, or are we simply labeling ordinary customer-journey steps as hospitality participation?**
+
+---
+
+# Visit Preparation
+
+> **Would the visit still succeed without explicit hospitality support during preparation, making this state ordinary travel planning rather than participation architecture?**
+
+---
+
+# Stable Participation / Variable Product
+
+> **Is the product sufficiently variable that stable participation meaningfully resolves uncertainty, or is this simply a normal reservation system around a seasonal menu?**
+
+---
+
+# Hospitality System Proof
+
+> **Does the system require explanation because participation is materially unusual, or are standard interface conventions already sufficient?**
+
+---
+
+# Escalating Participation Complexity
+
+> **Does complexity materially increase for the guest, or is the backend simply complex while the guest journey remains simple?**
+
+---
+
+# Participation Rule Consistency
+
+> **Which cross-surface inconsistencies would actually alter guest action, eligibility, commitment, or arrival?**
+
+---
+
+# Manageable Commitment
+
+> **What concrete post-booking options exist, and are they proportionate to the commitment?**
+
+---
+
+# Compatibility Adaptation
+
+> **Can material guest needs be accommodated without dissolving the intended experience structure?**
+
+---
+
+# Guest Preparation Load
+
+> **At what point does practical preparation become burdensome enough to require stronger hospitality support?**
+
+---
+
+# Total Visit Commitment
+
+> **Which forms of time, travel, coordination, or compatibility are material enough to belong inside the commitment model?**
+
+---
+
+# Multi-Intent Hospitality
+
+> **Are the routes genuinely driven by different guest intents, or are they merely different booking products?**
+
+---
+
+# Human Assistance
+
+> **Can the system resolve exceptions through structured self-service without human intervention, or does the edge case materially require a person?**
+
+---
+
+# Candidate Review Queue — Reservation / Participation Dimension
+
+The following:
+
+should:
+
+move:
+
+into:
+
+formal:
+
+review
+
+after:
+
+Story:
+
+comparison
+
+is:
+
+complete.
+
+---
+
+# 1. Participation Throughout the Journey
+
+Current:
+
+Emerging
+
+Reservation Recommendation:
+
+Candidate Review Strongly Warranted
+
+Potential:
+
+Candidate / Medium
+
+Strongest cross-case support:
+
+- Dishoom
+- Franklin
+- Haidilao
+- ICHIRAN
+- Din Tai Fung
+- Noma
+- Pearl Morissette
+
+Strongest new mechanism:
+
+Visit Preparation
+
+Primary risk:
+
+overbreadth.
+
+---
+
+# 2. Stable Participation / Variable Product
+
+Current:
+
+Observed Research Direction
+
+Reservation Recommendation:
+
+Candidate Review Strongly Warranted
+
+Potential:
+
+Candidate / Medium
+
+Strongest:
+
+cases:
+
+- Noma
+- Pearl Morissette
+
+Partial:
+
+- Alinea
+- NARISAWA
+
+Primary boundary:
+
+product variability must:
+
+be:
+
+material.
+
+---
+
+# 3. Escalating Participation Complexity
+
+Current:
+
+Emerging
+
+Reservation Recommendation:
+
+Candidate Review Warranted
+
+Potential:
+
+Candidate / Medium
+
+Strongest new variable:
+
+Geographic Complexity
+
+Primary risk:
+
+descriptive rather than explanatory.
+
+---
+
+# Existing Candidate Confidence Watch
+
+---
+
+# Hospitality System Proof
 
 Current:
 
 Candidate / Medium-High
 
-Post-Noma Reservation Position:
+Restaurant #15:
 
-Very Strong
+Strong Support
 
-Independent:
+Confidence Review:
 
-materially different:
+Possible
 
-support now includes:
+but:
 
-- ICHIRAN
-- Din Tai Fung
-- Noma
+not:
 
-Potential:
+yet:
 
-Candidate → Emerging
-
-Review after:
-
-Story Comparison
-
-and:
-
-full:
-
-canonical:
-
-reconciliation.
-
----
-
-# New Candidate Watch — Manageable Commitment
-
-Current:
-
-Observed Research Direction
-
-Post-Noma Position:
-
-Strong
-
-Evidence:
-
-Din Tai Fung
-
-+
-
-Noma
-
-with:
-
-possible:
-
-support:
+compelling enough
 
 from:
 
-other:
-
-high-commitment:
-
-cases.
-
-Need:
-
-final:
-
-cross-case:
-
-definition:
-
-review.
+Reservation alone.
 
 ---
 
-# New Candidate Watch — Participation Rule Consistency
+# Participation Rule Consistency
 
 Current:
 
-Observed Research Direction
+Candidate / Medium
 
-Post-Noma Position:
+Restaurant #15:
 
-Strong
+Moderate Support
 
-Evidence:
+Current Recommendation:
 
-Din Tai Fung
+No confidence:
 
-+
-
-Noma
-
-with:
-
-cross-surface:
-
-and:
-
-route-specific:
-
-pressure.
-
-Need:
-
-final:
-
-cross-case:
-
-definition:
-
-review.
+change.
 
 ---
 
-# Retain Below Candidate — Controlled Transferability
+# Manageable Commitment
 
 Current:
 
-Observed
+Candidate / Medium
 
-Post-Noma Position:
+Restaurant #15:
 
-Useful
+Insufficient
+
+No change.
+
+---
+
+# Patterns That Should Not Move From Restaurant #15 Reservation Evidence
+
+---
+
+# Commitment Without Pressure
+
+Insufficient:
+
+current:
+
+financial:
+
+policy:
+
+evidence.
+
+Remain Emerging.
+
+---
+
+# Multi-Intent Hospitality
+
+Moderate:
+
+support
+
+only.
+
+Remain Emerging.
+
+---
+
+# The Guest as Participant
+
+Broad:
+
+support
 
 but:
 
-too:
+definition:
 
-narrow
+still:
 
-for:
+needs:
 
-formal:
+discipline.
 
-promotion.
-
----
-
-# Retain Below Candidate — Stable Participation / Variable Product
-
-Current:
-
-Observed
-
-Post-Noma Position:
-
-Important
-
-but:
-
-Noma-heavy.
-
-Need:
-
-additional:
-
-independent:
-
-case.
+Remain Emerging.
 
 ---
 
-# Retain Partially Supported — Own the Guest Relationship
+# Human Assistance Where Structured Self-Service Is Insufficient
 
-Current:
+Moderate:
 
-Partially Supported / Medium
+support.
 
-Post-Noma Position:
+Remain Emerging.
 
-No promotion.
+---
 
-Public:
+# Walk-In as First-Class Participation
 
-data
+No:
 
-and:
+new:
 
-platform:
+Pearl Morissette:
 
-evidence
+evidence.
 
-remain:
+Remain Candidate / High.
 
-insufficient
+---
 
-for:
+# Own the Guest Relationship
 
-full:
+No:
 
-relationship:
+new:
+
+data:
 
 ownership:
 
-claims.
+evidence.
+
+Remain Partially Supported / Medium.
 
 ---
 
@@ -7724,151 +6961,453 @@ claims.
 
 After:
 
-fourteen:
+15:
 
-independent restaurants
+independent:
 
-the strongest:
+restaurants
 
-participation conclusion remains:
+KHDS participation research:
 
-> **Hospitality participation is a state-and-route system, not merely a reservation form.**
+now:
 
-Noma makes:
+supports:
 
-that:
+a:
 
-architecture
+much:
 
-more:
+broader:
 
-precise
+model
 
-by adding:
+than:
 
-time
+reservation:
 
-reversibility
-
-and:
-
-future:
-
-outcome:
-
-uncertainty.
+alone.
 
 The strongest:
 
-post-Noma:
+cross-case:
 
-finding is:
+finding remains:
 
-> **Participation states can change because time passes, not only because the guest takes action.**
+> **Participation is a state system.**
 
-A second major finding is:
+Restaurant Pearl Morissette:
 
-> **One primary participation route can still contain high depth, high consequence, and significant complexity.**
+adds:
 
-A third is:
+a:
 
-> **Commitment should be studied as a sequence of states with changing reversibility rather than as one binary booking event.**
+particularly:
 
-A fourth is:
+important:
 
-> **Post-commitment agency is distinct from pre-commitment pressure.**
-
-A fifth is:
-
-> **Outcome uncertainty and participation-state uncertainty are different problems.**
-
-A sixth is:
-
-> **Hospitality System Proof now has strong independent support across materially different operating models and should receive formal promotion review.**
-
-A seventh is:
-
-> **Rule consistency, policy freshness, and system proof are related but distinct.**
-
-An eighth is:
-
-> **Structured self-service can support high-consequence hospitality when states, rules, timing, and exceptions remain legible.**
-
-A ninth is:
-
-> **Flexibility should be understood by layer rather than as a property of the whole restaurant.**
-
-A tenth is:
-
-> **The best participation architecture surfaces only the real complexity relevant to the guest's current intent, state, resource, and commitment.**
-
----
-
-# Post-Noma Participation Architecture
+state:
 
 ```text
-Guest Intent
+Visit Preparation
+```
+
+which:
+
+sits:
+
+between:
+
+secured:
+
+access
+
+and:
+
+physical:
+
+arrival.
+
+That:
+
+forces:
+
+KHDS
+
+to:
+
+recognize:
+
+that:
+
+a:
+
+guest
+
+may:
+
+already:
+
+have:
+
+a:
+
+reservation
+
+while:
+
+still:
+
+needing:
+
+meaningful:
+
+hospitality:
+
+support
+
+to:
+
+successfully:
+
+complete:
+
+the:
+
+visit.
+
+The:
+
+strongest:
+
+post–Pearl:
+
+participation:
+
+sequence is:
+
+```text
+Intent
 ↓
-Relevant Participation Route
+Access
 ↓
-Availability State
-+
-Temporal Access where relevant
+Commitment
 ↓
-Commitment Level
+Preparation
 ↓
-Relevant Participation State
+Travel
 ↓
-Relevant Rules
-+
-Relevant Time
-+
-Relevant Consequence
-↓
-System Explanation Obligation
-↓
-Structured Self-Service where sufficient
-+
-Human Assistance where required
-↓
-Bounded Agency
-↓
-Possible Commitment Management
-↓
-Retain
-Modify
-Cancel
-Transfer
-Assist
+Arrival
 ↓
 Participation
 ↓
 Completion
 ↓
-Relationship Continuation where relevant
+Relationship Continuation
 ```
+
+when:
+
+those:
+
+states
+
+are:
+
+material.
+
+Pearl Morissette:
+
+also:
+
+adds:
+
+a:
+
+more:
+
+complete:
+
+commitment:
+
+model.
+
+```text
+Commitment
+≠
+Money Alone
+```
+
+A:
+
+destination:
+
+visit
+
+may:
+
+also:
+
+require:
+
+time
+
+travel
+
+coordination
+
+and:
+
+compatibility:
+
+work.
+
+This:
+
+does:
+
+not:
+
+mean:
+
+that:
+
+destination:
+
+friction
+
+is:
+
+hospitality:
+
+value.
+
+It means:
+
+the:
+
+system:
+
+may:
+
+need:
+
+to:
+
+support:
+
+the:
+
+guest's:
+
+preparation:
+
+load.
+
+Restaurant #15:
+
+also:
+
+strengthens:
+
+Stable Participation / Variable Product.
+
+Noma:
+
+showed:
+
+future creative:
+
+uncertainty
+
+inside:
+
+structured:
+
+participation.
+
+Pearl Morissette:
+
+shows:
+
+seasonal / operational:
+
+product:
+
+variation
+
+inside:
+
+structured:
+
+reservation:
+
+participation.
+
+That:
+
+gives:
+
+the:
+
+direction
+
+much:
+
+better:
+
+cross-case:
+
+breadth.
+
+The strongest:
+
+formal:
+
+governance:
+
+questions leaving:
+
+Reservation comparison are:
+
+> **Has Participation Throughout the Journey become sufficiently repeated, bounded, and materially tied to hospitality participation to become Candidate / Medium?**
+
+> **Has Stable Participation / Variable Product accumulated enough independent support to become Candidate / Medium?**
+
+> **Has Escalating Participation Complexity become sufficiently explanatory and falsifiable to enter Candidate maturity?**
+
+A secondary:
+
+question is:
+
+> **Has Hospitality System Proof accumulated enough mechanistic breadth across ICHIRAN, Din Tai Fung, Noma, and Pearl Morissette to justify a confidence increase?**
+
+Those:
+
+decisions
+
+should:
+
+wait:
+
+until:
+
+the:
+
+Story:
+
+comparison
+
+is:
+
+complete
+
+and:
+
+the:
+
+full:
+
+post–Restaurant #15:
+
+canonical:
+
+reconciliation
+
+can:
+
+be:
+
+performed.
 
 ---
 
 # Validation
 
-Comparison Dimension:
+Comparison File:
 
-Reservation / Participation
+`khds/research/comparison/reservation.md`
 
-Restaurants Compared:
+Status:
 
-14
+Post–Pearl Morissette Complete
 
-Latest Restaurant Added:
+Independent Restaurants Compared:
 
-Noma Copenhagen 2026
+15
 
-Comparison Status:
+Latest Case:
 
-Complete
+Restaurant Pearl Morissette
 
-Formal Pattern Promotions:
+Primary Governance Watch:
+
+Participation Throughout the Journey
+
+Secondary Governance Watch:
+
+Stable Participation / Variable Product
+
+Third Governance Watch:
+
+Escalating Participation Complexity
+
+Existing Candidate Confidence Watch:
+
+Hospitality System Proof
+
+Strongest New Participation State:
+
+Visit Preparation
+
+Strongest New Pre-Arrival Direction:
+
+Pre-Arrival Clarity
+
+Strongest New Guest-Work Variable:
+
+Guest Preparation Load
+
+Strongest New Complexity Variable:
+
+Geographic Complexity
+
+Strongest Commitment Refinement:
+
+Total Visit Commitment
+
+Strongest Compatibility Variable:
+
+Compatibility Adaptation
+
+Strongest Physical Handoff Mechanism:
+
+Digital-to-Physical Participation Handoff
+
+Strongest Cross-Surface Distinction:
+
+Rule Consistency
+
+≠
+
+Instruction Consistency
+
+Strongest Evidence Boundary:
+
+Platform Capability
+
+≠
+
+Restaurant Policy
+
+Strongest Variable-Product Boundary:
+
+Product Variability
+
+≠
+
+Participation Variability
+
+Formal Promotions:
 
 0
 
@@ -7880,58 +7419,10 @@ Confidence Changes:
 
 0
 
-Strongest Existing Candidate Pressure:
+Governance Changes:
 
-Hospitality System Proof
+0
 
-Strongest New Candidate Watch:
-
-Manageable Commitment
-
-Participation Rule Consistency
-
-Strongest New State Finding:
-
-Time-Driven State Transition
-
-Strongest New Commitment Finding:
-
-Commitment Reversibility
-
-Strongest New Rule Finding:
-
-Rule Consistency
-
-+
-
-Policy Freshness
-
-Strongest New Temporal Finding:
-
-Deadline as Participation Infrastructure
-
-Strongest Participation Correction:
-
-Outcome Uncertainty
-
-≠
-
-Participation State Uncertainty
-
-Strongest System Correction:
-
-System Visibility
-
-≠
-
-System Clarity
-
-Governance Status:
-
-Pending Completion of Post-Noma Story Comparison
-
----
-
-# Next Comparison File
+Next Comparison File:
 
 `khds/research/comparison/story.md`

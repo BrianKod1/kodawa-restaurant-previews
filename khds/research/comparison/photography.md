@@ -1,102 +1,166 @@
-# KHDS Photography Comparison
+# KHDS Cross-Restaurant Comparison — Photography / Proof
 
 ## Status
 
-Post–Noma Cross-Restaurant Comparison
+Post–Pearl Morissette Comparison
 
-Independent Restaurants Compared:
+Restaurants Compared:
 
-14
+15
 
-Current Comparison Stage:
+Track:
 
-Photography Complete
+Track A — Independent Hospitality Research
 
-Governance Impact:
+Latest Added Case:
 
-None in this file
+Restaurant Pearl Morissette — Jordan Station
 
-Formal Promotions:
+Comparison Status:
 
-0
+Complete
 
-Formal Demotions:
+Canonical Governance Changes:
 
-0
+None
 
-Confidence Changes:
+This file:
 
-0
-
----
-
-# Purpose
-
-Compare:
+compares:
 
 photography
 
 visual evidence
 
-motion
-
-process proof
-
-use-case proof
-
-historical evidence
-
 and:
 
-temporal evidence
+proof architecture
 
 across:
 
-fourteen:
+all:
 
-independent hospitality cases.
+independent:
 
-The objective is not:
+restaurant:
 
-to identify:
+research cases.
 
-one:
+It does not:
 
-ideal:
+independently:
 
-visual style.
+promote
 
-It is to determine:
+demote
 
-what:
+rename
 
-hospitality photography
+merge
 
-must actually:
+validate
 
-prove
+or:
 
-for:
+change:
 
-different:
+pattern confidence.
 
-guest decisions.
+Formal:
 
-The central comparison question remains:
+governance:
 
-> **What must be proven visually, how deeply must it be proven, and which medium is best suited to that proof?**
+decisions
 
-Post–Noma:
+belong:
 
-a second:
+to:
 
-question becomes:
+`khds/research/validation/candidate-patterns.md`
 
-> **What happens when the evidence is accurate but belongs to a different time, location, or hospitality state?**
+after:
+
+all:
+
+five:
+
+post–Restaurant #15:
+
+comparison files
+
+are:
+
+complete.
 
 ---
 
-# Restaurants Compared
+# Purpose
+
+Photography / Proof research asks:
+
+> **What must the guest be shown, and through which evidence medium, to understand or trust a material hospitality claim?**
+
+KHDS does not:
+
+treat:
+
+photography
+
+as:
+
+decoration
+
+or:
+
+a:
+
+generic:
+
+requirement.
+
+Photography:
+
+can:
+
+perform:
+
+specific:
+
+proof:
+
+work.
+
+But:
+
+different:
+
+claims
+
+require:
+
+different:
+
+evidence.
+
+Therefore:
+
+```text
+Photography
+≠
+Proof by Default
+```
+
+and:
+
+```text
+More Photography
+≠
+More Confidence
+```
+
+---
+
+# Restaurants Included
 
 1. Ankole
 2. Cultiva
@@ -112,996 +176,71 @@ question becomes:
 12. ICHIRAN Shibuya
 13. Din Tai Fung Covent Garden
 14. Noma Copenhagen 2026
+15. Restaurant Pearl Morissette
 
 ---
 
-# Current Governance State Entering Comparison
+# Current Photography / Proof Thesis
 
-Emerging:
+The strongest:
 
-23
+cross-restaurant:
 
-Candidate:
+finding remains:
 
-6
+> **Evidence quality depends on claim fit, not visual beauty.**
 
-Partially Supported:
+The:
 
-1
+proof:
 
-Validated:
-
-0
-
-Research-Derived KHDS Principles:
-
-0
-
-Implementation Pattern Pending Formal Validation:
-
-1
-
-Opportunity Themes:
-
-36
-
-Track B Implementation Learnings:
-
-17
-
-Highest Research-Derived Maturity:
-
-Emerging
-
-No:
-
-formal governance:
-
-changes
-
-occur:
-
-inside:
-
-this comparison file.
-
----
-
-# Core Photography Position
-
-The strongest current conclusion remains:
-
-> **Photography is evidence architecture, not decoration.**
-
-The guest does not need:
-
-beautiful images
-
-in the abstract.
-
-The guest needs:
-
-relevant evidence
-
-for:
-
-relevant claims.
-
-Therefore:
-
-```text
-Photography
-≠
-Decoration
-```
-
-and:
-
-```text
-Beautiful Image
-≠
-Useful Proof
-```
-
-and:
-
-```text
-One Image
-≠
-Unlimited Meaning
-```
-
----
-
-# Cross-Restaurant Photography Types
-
----
-
-# Ankole
-
-## Photography Type
-
-Place + Refinement Proof
-
-## Strongest Proof Roles
-
-- food
-- environment
-- refinement
-- place
-
-## Primary Visual Question
-
-Does:
-
-the:
-
-restaurant
-
-look:
-
-credible
-
-refined
-
-and:
-
-specific?
-
----
-
-# Cultiva
-
-## Photography Type
-
-Product + Worldview + Sourcing Proof
-
-## Strongest Proof Roles
-
-- product
-- sourcing
-- worldview
-- ingredient relationship
-- craft
-
-## Primary Visual Question
-
-Can:
-
-the:
-
-visual system
-
-prove:
-
-the:
-
-restaurant's:
-
-philosophy
-
-through:
-
-real:
-
-food
-
-ingredients
-
-and:
-
-production?
-
----
-
-# Talisman
-
-## Photography Type
-
-Food + Place + Heritage Proof
-
-## Strongest Proof Roles
-
-- food
-- location
-- history
-- continuity
-- physical identity
-
-## Primary Visual Question
-
-Can:
-
-photography
-
-show:
-
-why:
-
-the:
-
-place
-
-feels:
-
-established
-
-and:
-
-specific?
-
----
-
-# Mawimbi
-
-## Photography Type
-
-Product + Atmosphere + Social Use Proof
-
-## Strongest Proof Roles
-
-- food
-- atmosphere
-- destination value
-- social use
-
-## Primary Visual Question
-
-Can:
-
-photography
-
-support:
-
-the:
-
-promise
-
-of:
-
-a:
-
-distinctive:
-
-hospitality destination?
-
----
-
-# Bistro Lolo
-
-## Photography Type
-
-Place + Social Rhythm + Everyday Use Proof
-
-## Strongest Proof Roles
-
-- neighbourhood use
-- atmosphere
-- food
-- social participation
-
-## Primary Visual Question
-
-Can:
-
-the:
-
-guest
-
-understand:
-
-how:
-
-the:
-
-restaurant
-
-is:
-
-actually:
-
-used?
-
----
-
-# FYN
-
-## Photography Type
-
-Craft + Authority + Controlled Reveal
-
-## Strongest Proof Roles
-
-- craft
-- chef authority
-- product
-- selective reveal
-- experience quality
-
-## Primary Visual Question
-
-How:
-
-much:
+architecture
 
 should:
 
-be:
+begin:
 
-shown
-
-before:
-
-proof
-
-starts:
-
-to:
-
-reduce:
-
-discovery?
-
----
-
-# Dishoom Covent Garden
-
-## Photography Type
-
-Narrative World + Place + Cultural Memory Proof
-
-## Strongest Proof Roles
-
-- environment
-- narrative world
-- social use
-- cultural memory
-- place
-
-## Primary Visual Question
-
-Can:
-
-visuals
-
-prove:
-
-a:
-
-coherent:
-
-narrative world
-
-without:
-
-reducing:
+with:
 
 the:
 
-restaurant
-
-to:
-
-themed:
-
-decoration?
-
----
-
-# Franklin Barbecue
-
-## Photography Type
-
-Product + Process + Operational Reality Proof
-
-## Strongest Proof Roles
-
-- product
-- process
-- queue
-- service reality
-- production
-
-## Primary Visual Question
-
-Can:
-
-photography
-
-prove:
-
-why:
-
-the:
-
-product
-
-is:
-
-different
-
-and:
-
-how:
-
-the:
-
-guest:
-
-actually:
-
-accesses it?
-
----
-
-# Alinea
-
-## Photography Type
-
-Controlled Reveal + Experience Proof
-
-## Strongest Proof Roles
-
-- authority
-- experience difference
-- product
-- anticipation
-- selective reveal
-
-## Primary Visual Question
-
-How:
-
-much:
-
-experience proof
-
-is:
-
-enough
-
-without:
-
-spoiling:
-
-the:
-
-experience?
-
----
-
-# NARISAWA
-
-## Photography Type
-
-Product + Ecology + Craft Proof
-
-## Strongest Proof Roles
-
-- ecology
-- ingredients
-- craft
-- product
-- worldview
-
-## Primary Visual Question
-
-Can:
-
-the:
-
-visual system
-
-prove:
-
-the:
-
-connection
-
-between:
-
-culinary:
-
-output
-
-and:
-
-ecological:
-
-meaning?
-
----
-
-# Haidilao Toronto Downtown
-
-## Photography Type
-
-Participation + Service + Social Use Proof
-
-## Strongest Proof Roles
-
-- service
-- guest participation
-- social use
-- ritual
-- configuration
-
-## Primary Visual Question
-
-Can:
-
-photography
-
-show:
-
-what:
-
-it:
-
-is like:
-
-to:
-
-participate
-
-in:
-
-the:
-
-hospitality system?
-
----
-
-# ICHIRAN Shibuya
-
-## Photography Type
-
-System + Product + Individual Participation Proof
-
-## Strongest Proof Roles
-
-- booth
-- privacy
-- product
-- individual participation
-- system configuration
-
-## Primary Visual Question
-
-Can:
-
-visual evidence
-
-prove:
-
-an:
-
-unusual:
-
-guest-facing:
-
-hospitality system
-
-without:
-
-requiring:
-
-visible:
-
-social interaction?
-
----
-
-# Din Tai Fung Covent Garden
-
-## Photography Type
-
-Craft + Product + Place Proof
-
-## Strongest Proof Roles
-
-- product
-- published craft system
-- location
-- architecture
-- participation
-
-## Primary Visual Question
-
-What:
-
-must:
-
-be:
-
-shown
-
-to:
-
-prove:
-
-product difference
-
-craft
-
-location
-
-and:
-
-hospitality use
-
-without:
-
-confusing:
-
-brand-level
-
-and:
-
-location-level:
-
-evidence?
-
----
-
-# Noma Copenhagen 2026
-
-## Photography Type
-
-Temporal Capacity + Process Proof
-
-## Strongest Proof Roles
-
-- current state
-- historical capacity
-- process
-- research
-- place
-- season
-- temporal change
-
-## Primary Visual Question
-
-What:
-
-can:
-
-visual evidence
-
-truthfully:
-
-prove
-
-when:
-
-the:
-
-future:
-
-product
-
-may:
-
-not yet:
-
-exist?
-
----
-
-# Cross-Case Finding 1 — Photography Is Claim-Dependent
-
-Across:
-
-fourteen:
-
-cases
-
-the same:
-
-image:
-
-type
-
-can be:
-
-strong:
-
-proof
-
-for:
-
-one:
-
-claim
-
-and:
-
-weak:
-
-proof
-
-for:
-
-another.
-
-A:
-
-dish image
-
-may:
-
-prove:
-
-product:
-
-appearance.
-
-It may not:
-
-prove:
-
-- process
-- atmosphere
-- use
-- service
-- participation
-- location specificity
-- future availability
-
-Therefore:
+claim.
 
 ```text
-Evidence Strength
-depends on
-Claim Fit
-```
-
-not:
-
-visual:
-
-quality
-
-alone.
-
----
-
-# Cross-Case Finding 2 — The First Question Is Still: What Must Be Proven?
-
-Post–Din Tai Fung:
-
-the strongest:
-
-proof architecture
-
-became:
-
-```text
-Guest Decision
-↓
-Relevant Uncertainty
-↓
 Claim
 ↓
 What Must Be Proven?
 ↓
-What Must Be Explained?
+What Evidence Depth Is Required?
 ↓
-What Should Remain Unrevealed?
+What Medium Fits?
 ↓
-Evidence Gap
-↓
-Best Evidence Medium
+Does the Evidence Match:
+Claim
+Location
+Time
+State
 ↓
 Minimum Sufficient Evidence
-↓
-Confidence
 ```
-
-Noma:
-
-does not:
-
-replace:
-
-this.
-
-It adds:
-
-time
-
-location
-
-and:
-
-state:
-
-fit.
-
----
-
-# Cross-Case Finding 3 — Proof Scale Must Be Explicit
-
-Current:
-
-Proof Scale
-
-includes:
-
-- Brand
-- Location
-- Product
-- Participation
-
-Noma adds:
-
-strong:
-
-pressure
-
-for:
-
-temporal:
-
-qualification.
-
-The real:
-
-evidence context
-
-may therefore be:
-
-```text
-Claim Scale
-+
-Location
-+
-Temporal State
-+
-Operating Era
-```
-
----
-
-# Proposed Proof Context
-
-Examples:
-
-- Brand / Current
-- Brand / Historical
-- Location / Current
-- Location / Historical
-- Product / Current
-- Product / Historical
-- Process / Current
-- Process / Historical
-- Participation / Current
-- Participation / Historical
-
-## Governance Position
-
-Architecture refinement.
-
-Not:
-
-formal pattern.
-
----
-
-# Cross-Case Finding 4 — Brand Proof and Location Proof Must Stay Separate
-
-Din Tai Fung:
-
-made:
-
-this:
-
-boundary:
-
-explicit.
-
-Noma:
-
-strengthens:
-
-it.
-
-```text
-Brand Proof
-≠
-Location Proof
-```
-
-and:
-
-```text
-Official Brand Image
-≠
-Current Location Proof
-```
-
-A:
-
-Noma:
-
-asset
-
-may belong to:
-
-- another location
-- another season
-- another operating era
-- another project
-
-and still be:
-
-official.
-
----
-
-# Cross-Case Finding 5 — Official Does Not Mean Current
-
-This is:
-
-one:
-
-of:
-
-Noma's:
-
-strongest:
-
-evidence-governance:
-
-contributions.
-
-```text
-Official
-≠
-Current
-```
-
-An:
-
-official:
-
-historical:
-
-image
-
-may be:
-
-accurate
-
-and:
-
-valuable.
-
-It may still:
-
-be:
-
-wrong:
-
-for:
-
-a:
-
-current:
-
-product:
-
-claim.
-
----
-
-# Cross-Case Finding 6 — Evidence Fit Requires More Than Claim Fit
 
 Post-Noma:
 
-a stronger:
+KHDS:
 
-proof relationship becomes:
+formalized:
+
+Evidence Fit
+
+as:
+
+a:
+
+four-part:
+
+architecture:
+
+hypothesis:
 
 ```text
 Evidence Fit
@@ -1115,17 +254,1605 @@ Temporal Fit
 State Fit
 ```
 
-Where relevant:
+Pearl Morissette:
 
-Operating Era Fit
+does:
 
-may also:
+not:
 
-matter.
+replace:
+
+this.
+
+It:
+
+adds:
+
+a:
+
+new:
+
+critical:
+
+dimension:
+
+```text
+Thing Proof
+vs
+Relationship Proof
+```
+
+---
+
+# Post–Pearl Morissette Proof Architecture
+
+```text
+Guest Uncertainty
+↓
+What Claim Needs Proof?
+↓
+Product?
+Place?
+Process?
+System?
+Use Case?
+Atmosphere?
+Capacity?
+Participation?
+Difference?
+Current State?
+↓
+What Proof Type Is Required?
+↓
+Thing Proof?
+Relationship Proof?
+Process Proof?
+System Proof?
+Capacity Proof?
+Use-Case Proof?
+Authority Proof?
+↓
+What Proof Depth Is Required?
+↓
+Presence
+Source
+Relationship
+Transformation
+Outcome
+Capacity
+↓
+What Medium Fits?
+↓
+Photography
+Text
+Diagram
+Map
+Motion
+Archive
+Structured Data
+Other
+↓
+Evidence Fit
+=
+Claim Fit
++
+Location Fit
++
+Temporal Fit
++
+State Fit
+↓
+Minimum Sufficient Evidence
+↓
+Appropriate Confidence
+```
+
+Not every:
+
+claim
+
+requires:
+
+every:
+
+step.
+
+---
+
+# Major Post–Pearl Morissette Refinement
+
+Restaurant #15 adds:
+
+four:
+
+high-value:
+
+proof:
+
+ideas:
+
+```text
+Thing Proof
+≠
+Relationship Proof
+```
+
+```text
+Relational Proof Sequencing
+```
+
+```text
+Distributed Culinary System Proof
+```
+
+and:
+
+```text
+Capacity Evidence Bundle
+```
+
+These:
+
+do:
+
+not:
+
+create:
+
+four:
+
+new:
+
+formal:
+
+patterns.
+
+They:
+
+refine:
+
+existing:
+
+proof:
+
+architecture.
+
+---
+
+# Comparison 1 — Photography Performs Different Jobs Across Restaurants
+
+---
+
+## Ankole
+
+Photography pressure:
+
+- place
+- atmosphere
+- hospitality identity
+- dining context
+
+Primary question:
+
+```text
+What does the place feel like
+and how is it used?
+```
+
+---
+
+## Cultiva
+
+Photography pressure:
+
+- food
+- philosophy
+- craft
+- environment
+- worldview
+
+Primary question:
+
+```text
+Does visual evidence support
+the restaurant's culinary worldview?
+```
+
+---
+
+## Talisman
+
+Photography pressure:
+
+- continuity
+- place
+- heritage
+- atmosphere
+- present-day relevance
+
+Primary question:
+
+```text
+Can photography show
+that heritage is still alive now?
+```
+
+---
+
+## Mawimbi
+
+Photography pressure:
+
+- designed environment
+- atmosphere
+- destination quality
+- experience world
+
+Primary question:
+
+```text
+Does photography prove
+the designed escape?
+```
+
+---
+
+## Bistro Lolo
+
+Photography pressure:
+
+- guest use
+- social context
+- neighbourhood fit
+- atmosphere
+
+Primary question:
+
+```text
+Can guests see
+how the restaurant is actually used?
+```
+
+---
+
+## FYN
+
+Photography pressure:
+
+- food
+- craft
+- authority
+- worldview
+- experience
+
+Primary question:
+
+```text
+Can visual proof support
+a high-commitment conceptual experience?
+```
+
+---
+
+## Dishoom Covent Garden
+
+Photography pressure:
+
+- narrative environment
+- guest use
+- place
+- atmosphere
+- social energy
+
+Primary question:
+
+```text
+Can visual evidence
+make the hospitality world legible
+without replacing the story?
+```
+
+---
+
+## Franklin Barbecue
+
+Photography pressure:
+
+- product
+- process
+- queue
+- operational reality
+- craft
+
+Primary question:
+
+```text
+Can the product and process
+be shown as credible proof?
+```
+
+---
+
+## Alinea
+
+Photography pressure:
+
+- selective reveal
+- anticipation
+- product evidence
+- spoiler control
+
+Primary question:
+
+```text
+How much proof can be shown
+without destroying the reveal?
+```
+
+---
+
+## NARISAWA
+
+Photography pressure:
+
+- ecology
+- ingredients
+- process
+- worldview
+- food
+
+Primary question:
+
+```text
+Can visual evidence support
+ecological and culinary claims
+without overclaiming outcomes?
+```
+
+---
+
+## Haidilao Toronto Downtown
+
+Photography pressure:
+
+- service
+- participation
+- social use
+- guest experience
+- system
+
+Primary question:
+
+```text
+Can photography show
+how hospitality is actually delivered?
+```
+
+---
+
+## ICHIRAN Shibuya
+
+Photography pressure:
+
+- system
+- privacy
+- participation
+- booth structure
+- ordering
+- use-case explanation
+
+Primary question:
+
+```text
+Can the unusual participation system
+be made understandable visually?
+```
+
+---
+
+## Din Tai Fung Covent Garden
+
+Photography pressure:
+
+- craft
+- product
+- location
+- hospitality use
+- standardization
+
+Primary question:
+
+```text
+Can photography prove
+repeatable craft and local experience
+without implying unsupported production details?
+```
+
+---
+
+## Noma Copenhagen 2026
+
+Photography pressure:
+
+- research
+- process
+- history
+- archive
+- current / future distinction
+- change
+- capacity
+
+Primary question:
+
+```text
+How can historical and current evidence
+support a future experience
+that may not yet be fixed?
+```
+
+---
+
+## Restaurant Pearl Morissette
+
+Photography pressure:
+
+- food
+- productive place
+- farm
+- producer network
+- kitchen
+- wine
+- dining environment
+- capacity
+- relationships
+
+Primary question:
+
+```text
+Can the system be proved
+through relationships
+rather than isolated beautiful subjects?
+```
+
+---
+
+# Comparison 2 — Photography Is Not One Evidence Type
+
+Across:
+
+15:
+
+restaurants
+
+photography:
+
+has:
+
+served:
+
+different:
+
+proof:
+
+functions.
+
+These include:
+
+- product proof
+- place proof
+- atmosphere proof
+- process proof
+- use-case proof
+- system proof
+- authority support
+- capacity support
+- historical proof
+- current-state proof
+- relationship proof
+- difference proof
+
+## Correction
+
+```text
+Photography as Proof
+≠
+One Type of Proof
+```
+
+The:
+
+pattern
+
+must:
+
+remain:
+
+medium-level.
+
+---
+
+# Comparison 3 — Photography as Proof Has Strong Cross-Case Support
+
+Current Status:
+
+Emerging
+
+Strong cases:
+
+- Franklin
+- ICHIRAN
+- Din Tai Fung
+- Noma
+- Pearl Morissette
+
+Additional support:
+
+- Talisman
+- FYN
+- Dishoom
+- NARISAWA
+- Haidilao
+
+The repeated:
+
+finding is:
+
+that:
+
+photography:
+
+can:
+
+reduce:
+
+material:
+
+uncertainty
+
+when:
+
+the:
+
+visual:
+
+subject
+
+matches:
+
+the:
+
+claim.
+
+## Refined Definition
+
+> **Photography as Proof applies when visual evidence materially reduces uncertainty about a decision-relevant hospitality claim rather than functioning primarily as decoration.**
+
+---
+
+# Core Boundary
+
+```text
+Beautiful Image
+≠
+Proof
+```
+
+and:
+
+```text
+Relevant Subject
+≠
+Relevant Claim Proven
+```
+
+---
+
+# Photography as Proof Governance Pressure
+
+Entering Status:
+
+Emerging
+
+Post–Pearl Morissette:
+
+Very Strong Cross-Case Support
+
+Candidate Review:
+
+Strongly Warranted
+
+Potential:
+
+Candidate / Medium
+
+Primary governance risk:
+
+the:
+
+pattern:
+
+could:
+
+become:
+
+too:
+
+broad
+
+because:
+
+nearly:
+
+every:
+
+restaurant
+
+uses:
+
+photography.
+
+Therefore:
+
+the:
+
+Candidate:
+
+threshold
+
+must:
+
+require:
+
+decision-relevant:
+
+uncertainty reduction.
+
+Formal decision:
+
+deferred.
+
+---
+
+# Comparison 4 — Thing Proof vs Relationship Proof Is a Major New Distinction
+
+Pearl Morissette:
+
+provides:
+
+the:
+
+clearest:
+
+case.
+
+### Thing Proof
+
+Shows:
+
+that:
+
+something:
+
+exists.
+
+Examples:
+
+- farm
+- kitchen
+- dish
+- booth
+- dining room
+- queue
+- chef counter
+
+### Relationship Proof
+
+Shows:
+
+how:
+
+multiple:
+
+relevant:
+
+things
+
+connect.
+
+Examples:
+
+```text
+Farm
+→
+Ingredient
+```
+
+```text
+Producer
+→
+Restaurant
+```
+
+```text
+Kitchen
+→
+Dish
+```
+
+```text
+Space
+→
+Guest Use
+```
+
+```text
+System State
+→
+Guest Action
+```
+
+## Correction
+
+```text
+Thing Proof
+≠
+Relationship Proof
+```
+
+---
+
+# Comparison 5 — Relationship Proof Is Especially Important for System Claims
+
+A:
+
+system
+
+is:
+
+not:
+
+merely:
+
+a:
+
+collection
+
+of:
+
+visible:
+
+objects.
+
+Therefore:
+
+```text
+System Proof
+requires
+Relationship Legibility
+```
+
+where:
+
+the:
+
+relationships
+
+are:
+
+material
+
+to:
+
+the:
+
+claim.
+
+ICHIRAN:
+
+shows:
+
+relationships
+
+between:
+
+seat
+
+partition
+
+order
+
+staff
+
+and:
+
+guest.
+
+Din Tai Fung:
+
+pressures:
+
+relationships
+
+between:
+
+craft
+
+product
+
+and:
+
+hospitality.
+
+Pearl Morissette:
+
+pressures:
+
+relationships
+
+among:
+
+land
+
+producers
+
+ingredients
+
+kitchen
+
+food
+
+and:
+
+wine.
+
+---
+
+# Comparison 6 — System Photography Is Broader Than Process Photography
+
+ICHIRAN:
+
+made:
+
+System Photography:
+
+especially:
+
+important.
+
+Pearl Morissette:
+
+expands:
+
+its:
+
+boundary.
+
+### Process Photography
+
+Shows:
+
+transformation
+
+or:
+
+activity.
+
+### System Photography
+
+May show:
+
+- components
+- states
+- relationships
+- spatial logic
+- interaction
+- process
+- network
+
+## Correction
+
+```text
+System Photography
+≠
+Process Photography
+```
+
+This:
+
+should:
+
+remain:
+
+architecture-level.
+
+---
+
+# Comparison 7 — Show the System Behind the Plate Has Strongly Expanded Beyond Kitchen Process
+
+Current Status:
+
+Candidate / High
+
+Earlier:
+
+strong:
+
+cases:
+
+Franklin
+
+NARISAWA
+
+Din Tai Fung.
+
+Pearl Morissette:
+
+adds:
+
+a:
+
+distributed:
+
+version.
+
+## Post–Pearl Refinement
+
+```text
+System Behind the Plate
+can be:
+Centralized
+or
+Distributed
+```
+
+A:
+
+culinary:
+
+system
+
+may:
+
+include:
+
+- producer network
+- farm
+- sourcing
+- ingredient relationships
+- kitchen
+- method
+- finished food
+
+without:
+
+being:
+
+vertically:
+
+integrated.
+
+---
+
+# Correction
+
+```text
+Culinary System
+≠
+Single Production Location
+```
+
+and:
+
+```text
+Proof Chain
+≠
+Ownership Chain
+```
+
+---
+
+# Show the System Behind the Plate Governance Pressure
+
+Current:
+
+Candidate / High
+
+Post–Pearl Morissette:
+
+Extremely Strong Support
+
+Formal recommendation:
+
+No:
+
+confidence:
+
+change.
+
+Focus:
+
+definition / architecture:
+
+refinement.
+
+---
+
+# Comparison 8 — Distributed Culinary System Is a Useful Architecture Direction
+
+## Definition
+
+> **A culinary system may span multiple producers, locations, resources, and stages while remaining coherent if the material relationships among them support one product logic.**
+
+Strongest case:
+
+Pearl Morissette.
+
+Partial:
+
+support:
+
+- NARISAWA
+- FYN
+- Franklin
 
 ## Status
 
-Architecture Hypothesis
+Architecture Direction
+
+Potential Home:
+
+Show the System Behind the Plate.
+
+Do not:
+
+formalize:
+
+as:
+
+new:
+
+pattern.
+
+---
+
+# Comparison 9 — Distributed System Proof Cannot Rely on One Photograph
+
+When:
+
+the:
+
+system
+
+spans:
+
+multiple:
+
+locations
+
+stages
+
+or:
+
+contributors
+
+no:
+
+single:
+
+image
+
+can:
+
+capture:
+
+the:
+
+whole:
+
+system.
+
+## Correction
+
+```text
+One Image
+≠
+Whole System Proof
+```
+
+This:
+
+is:
+
+especially:
+
+strong
+
+for:
+
+Pearl Morissette.
+
+---
+
+# Comparison 10 — Relational Proof Sequencing Is Useful
+
+Pearl Morissette:
+
+introduces:
+
+a:
+
+clear:
+
+proof:
+
+architecture:
+
+direction.
+
+## Definition
+
+> **Separate evidence assets may be sequenced so that relationships among inputs, contexts, processes, and outcomes become understandable.**
+
+Potential:
+
+sequence:
+
+```text
+Place
+↓
+Producer
+↓
+Ingredient
+↓
+Process
+↓
+Finished Product
+```
+
+or:
+
+```text
+System State
+↓
+Guest Action
+↓
+Service Response
+```
+
+depending on:
+
+the:
+
+claim.
+
+---
+
+# Comparison 11 — Relational Proof Sequencing Is Different From Temporal Proof Sequencing
+
+Noma:
+
+introduced:
+
+Temporal Proof Sequencing.
+
+### Temporal Proof Sequencing
+
+Shows:
+
+change:
+
+through:
+
+time.
+
+### Relational Proof Sequencing
+
+Shows:
+
+connection:
+
+across:
+
+system:
+
+components.
+
+## Correction
+
+```text
+Relational Sequence
+≠
+Temporal Sequence
+```
+
+Both:
+
+may:
+
+be:
+
+used:
+
+together.
+
+---
+
+# Comparison 12 — Difference Through Relationship Adds a New Photography Mechanism
+
+Photography Should Demonstrate Difference:
+
+Current Status:
+
+Emerging
+
+Noma:
+
+strengthened:
+
+Difference Through Sequence.
+
+Pearl Morissette:
+
+adds:
+
+Difference Through Relationship.
+
+A:
+
+restaurant's:
+
+difference
+
+may:
+
+not:
+
+be:
+
+contained
+
+inside:
+
+one:
+
+dramatic:
+
+object.
+
+It may:
+
+exist:
+
+in:
+
+a:
+
+relationship.
+
+Example:
+
+```text
+Land
++
+Producer Network
++
+Kitchen
++
+Food
++
+Wine
+```
+
+## Correction
+
+```text
+Restaurant Difference
+≠
+Always Visible in One Image
+```
+
+---
+
+# Photography Should Demonstrate Difference Governance Pressure
+
+Entering Status:
+
+Emerging
+
+Post–Pearl Morissette:
+
+Very Strong
+
+Candidate Review:
+
+Warranted
+
+Primary risk:
+
+becoming:
+
+obvious
+
+or:
+
+non-falsifiable.
+
+A:
+
+useful:
+
+Candidate:
+
+would need:
+
+to:
+
+mean:
+
+more than:
+
+"show what makes you different."
+
+It should:
+
+require:
+
+proof:
+
+of:
+
+the:
+
+material:
+
+difference
+
+relevant:
+
+to:
+
+guest:
+
+decision.
+
+Formal decision:
+
+deferred.
+
+---
+
+# Comparison 13 — Photography Through Layers of Experience Has Strong Cross-Case Support
+
+Current Status:
+
+Emerging
+
+Strong cases:
+
+- Dishoom
+- Haidilao
+- ICHIRAN
+- Din Tai Fung
+- Noma
+- Pearl Morissette
+
+Pearl Morissette:
+
+provides:
+
+one:
+
+of:
+
+the:
+
+strongest:
+
+examples
+
+because:
+
+different:
+
+layers:
+
+prove:
+
+different:
+
+parts
+
+of:
+
+one:
+
+hospitality:
+
+system.
+
+Potential:
+
+layers include:
+
+- place
+- product
+- environment
+- process
+- system
+- guest use
+- people
+- historical state
+- current state
+- productive context
+
+---
+
+# Refined Definition — Photography Through Layers of Experience
+
+> **A visual proof system may require multiple evidence layers when different decision-relevant uncertainties cannot be resolved by one photographic subject or perspective.**
+
+## Core Boundary
+
+```text
+Photography Through Layers
+≠
+More Image Variety
+```
+
+and:
+
+```text
+More Layers
+≠
+Better Proof
+```
+
+---
+
+# Photography Through Layers Governance Pressure
+
+Entering Status:
+
+Emerging
+
+Post–Pearl Morissette:
+
+Very Strong
+
+Candidate Review:
+
+Warranted
+
+Primary risk:
+
+content inflation.
+
+Must:
+
+remain:
+
+linked:
+
+to:
+
+distinct:
+
+uncertainties.
+
+Formal decision:
+
+deferred.
+
+---
+
+# Comparison 14 — Minimum Sufficient Evidence Becomes More Important as Proof Layers Increase
+
+More:
+
+proof:
+
+options
+
+create:
+
+more:
+
+risk
+
+of:
+
+over-explanation.
+
+Therefore:
+
+KHDS:
+
+should:
+
+preserve:
+
+Minimum Sufficient Evidence.
+
+## Relationship
+
+```text
+Claim
+↓
+Required Evidence Depth
+↓
+Smallest Evidence Set
+that resolves the uncertainty
+```
+
+## Correction
+
+```text
+Maximum Evidence
+≠
+Maximum Understanding
+```
+
+Pearl Morissette:
+
+strongly:
+
+reinforces:
+
+this.
+
+---
+
+# Comparison 15 — Representative Proof Can Reduce Evidence Overload
+
+Distributed:
+
+systems
+
+may:
+
+contain:
+
+too:
+
+many:
+
+producers
+
+ingredients
+
+processes
+
+or:
+
+states
+
+to:
+
+show:
+
+completely.
+
+Pearl Morissette:
+
+introduces:
+
+Representative Proof.
+
+## Definition
+
+> **A limited set of representative evidence may communicate the structure of a larger system when the representation is accurate and does not imply totality.**
+
+## Boundary
+
+```text
+Representative Evidence
+≠
+Evidence of Every Case
+```
+
+## Status
+
+Evidence Architecture Direction
 
 Not:
 
@@ -1133,145 +1860,660 @@ formal pattern.
 
 ---
 
-# Cross-Case Finding 7 — Evidence Freshness Is Now a Core Proof Variable
+# Comparison 16 — Representative Proof Requires Disclosure Discipline
 
-## Definition
+If:
 
-How current:
+one:
 
-an:
-
-evidence asset
-
-is:
-
-relative to:
-
-the:
-
-hospitality state
+producer
 
 or:
 
-claim.
-
-Possible states:
-
-- Current
-- Recent
-- Historical
-- Illustrative
-- Unknown
-
-## Strongest Case
-
-Noma Copenhagen 2026
-
-because:
-
-the:
-
-product:
-
-can:
-
-change:
-
-month by month.
-
----
-
-# Cross-Case Finding 8 — Evidence Freshness and Evidence Durability Are Different
-
-This distinction:
+dish
 
 is:
 
-important.
+shown
 
-### Evidence Freshness
+as:
 
-How current:
-
-is:
+representative
 
 the:
 
-asset?
+visual:
 
-### Evidence Durability
+system
 
-How long:
+must:
 
-does:
+not:
 
-the:
+silently:
 
-asset
+imply:
 
-remain:
+that:
 
-relevant
+all:
 
-to:
+producers
 
-the:
+or:
 
-claim?
+dishes
+
+operate:
+
+identically.
 
 ## Correction
 
 ```text
-Evidence Freshness
+Example
 ≠
-Evidence Durability
+Universal Rule
 ```
 
-A:
+This:
 
-current:
+applies:
 
-dish image
+beyond:
 
-may:
-
-have:
-
-short:
-
-durability.
-
-A:
-
-historical:
-
-process image
-
-may still:
-
-remain:
-
-relevant
-
-to:
-
-a:
-
-historical:
-
-capacity:
-
-claim.
+Pearl Morissette.
 
 ---
 
-# Cross-Case Finding 9 — Historical Evidence Can Be Strong Proof
+# Comparison 17 — Product Photography Can Have Different Proof Depths
 
-Historical:
+Pearl Morissette:
+
+clarifies:
+
+a:
+
+multi-depth:
+
+ingredient:
+
+proof:
+
+model.
+
+Potential:
+
+depths:
+
+### Presence
+
+The:
+
+ingredient:
+
+exists.
+
+### Source
+
+Origin:
+
+is:
+
+identified.
+
+### Relationship
+
+Restaurant-producer:
+
+relationship:
+
+is:
+
+shown.
+
+### Transformation
+
+Culinary:
+
+process:
+
+is:
+
+shown.
+
+### Outcome
+
+Finished:
+
+product:
+
+is:
+
+connected.
+
+## Status
+
+Proof Depth Architecture
+
+---
+
+# Correction
+
+```text
+Ingredient Visible
+≠
+Ingredient Origin Proven
+```
+
+```text
+Ingredient Origin
+≠
+Ingredient Role Proven
+```
+
+```text
+Finished Dish
+≠
+Food System Proof
+```
+
+---
+
+# Comparison 18 — Productive Landscape Is Strong Context Proof but Weak Traceability Proof
+
+Pearl Morissette:
+
+makes:
+
+this:
+
+especially:
+
+clear.
+
+A:
+
+farm
+
+garden
+
+or:
+
+orchard:
+
+image
+
+can:
+
+strongly:
+
+prove:
+
+productive:
+
+context.
+
+It cannot:
+
+by:
+
+itself:
+
+prove:
+
+that:
+
+a:
+
+specific:
+
+ingredient
+
+came:
+
+from:
+
+that:
+
+place.
+
+## Correction
+
+```text
+Farm Image
+≠
+Specific Ingredient Traceability
+```
+
+and:
+
+```text
+Productive Landscape Proof
+≠
+Culinary Process Proof
+```
+
+---
+
+# Comparison 19 — Place Proof and Product Proof Must Stay Separate
+
+Story Through Place:
+
+may:
+
+use:
+
+the:
+
+same:
+
+image
+
+as:
+
+Photography as Proof.
+
+But:
+
+the:
+
+claims
+
+differ.
+
+### Place Proof
+
+```text
+This restaurant materially belongs here.
+```
+
+### Product Proof
+
+```text
+This product came from or was shaped by this place.
+```
+
+The:
+
+second:
+
+claim
+
+requires:
+
+more:
+
+causal:
+
+evidence.
+
+## Correction
+
+```text
+Place Proof
+≠
+Product Proof
+```
+
+---
+
+# Comparison 20 — Use-Case Evidence Remains a Distinct Candidate
+
+Photography as Use-Case Evidence:
+
+Current Status:
+
+Candidate / Medium-High
+
+Strong cases:
+
+- Bistro Lolo
+- Dishoom
+- Haidilao
+- ICHIRAN
+- Din Tai Fung
+
+Pearl Morissette:
+
+adds:
+
+limited:
+
+new:
+
+use-case:
+
+evidence.
+
+That:
+
+is:
+
+useful:
+
+because:
+
+it:
+
+clarifies:
+
+that:
+
+not:
+
+all:
+
+strong:
+
+proof:
+
+systems
+
+depend:
+
+on:
+
+people:
+
+using:
+
+the:
+
+space.
+
+## Correction
+
+```text
+Strong Photography as Proof
+≠
+Strong Use-Case Photography Required
+```
+
+---
+
+# Comparison 21 — Use-Case Evidence Does Not Require Lifestyle Photography
+
+ICHIRAN:
+
+strongly:
+
+established:
+
+this.
+
+A:
+
+booth
+
+seat
+
+order form
+
+or:
+
+participation:
+
+structure
+
+can:
+
+show:
+
+use
+
+without:
+
+a:
+
+posed:
+
+guest.
+
+## Canonical Correction
+
+```text
+Use-Case Evidence
+≠
+Lifestyle Photography
+```
+
+Pearl Morissette:
+
+does:
+
+not:
+
+change:
+
+this.
+
+---
+
+# Comparison 22 — Hospitality Photography Does Not Require People
+
+Across:
+
+multiple:
+
+cases:
+
+- ICHIRAN
+- Franklin
+- Noma
+- Pearl Morissette
+
+decision-relevant:
+
+evidence
+
+can:
+
+come from:
+
+spaces
+
+products
+
+systems
+
+processes
+
+and:
+
+places.
+
+## Correction
+
+```text
+Hospitality Photography
+≠
+People Required
+```
+
+But:
+
+people-free:
 
 imagery
 
-should not:
+does:
+
+not:
+
+automatically:
+
+prove:
+
+guest use.
+
+---
+
+# Comparison 23 — Photography Before Decoration Has Broad Support
+
+Current Status:
+
+Emerging
+
+Strong:
+
+cases:
+
+where:
+
+visual:
+
+evidence
+
+must:
+
+perform:
+
+clear:
+
+work include:
+
+- Franklin
+- ICHIRAN
+- Din Tai Fung
+- Noma
+- Pearl Morissette
+
+Pearl Morissette:
+
+adds:
+
+a:
+
+specific:
+
+failure:
+
+mode:
+
+decorative:
+
+rural:
+
+imagery
+
+that:
+
+does:
+
+not:
+
+prove:
+
+productive:
+
+relationships.
+
+## Correction
+
+```text
+Rural Aesthetic
+≠
+Agricultural System Proof
+```
+
+---
+
+# Photography Before Decoration Governance Pressure
+
+Entering Status:
+
+Emerging
+
+Post–Pearl Morissette:
+
+Strong Additional Support
+
+Current Recommendation:
+
+Review
+
+but:
+
+do not:
+
+automatically:
+
+promote.
+
+Reason:
+
+it:
+
+may:
+
+remain:
+
+a:
+
+studio:
+
+orientation:
+
+more:
+
+than:
+
+a:
+
+research-derived:
+
+cross-case:
+
+pattern
+
+unless:
+
+carefully:
+
+bounded.
+
+Formal decision:
+
+deferred.
+
+---
+
+# Comparison 24 — Photography Before Decoration Must Stay Separate From the Studio Foundation
+
+Important governance distinction:
+
+`Photography before Decoration`
+
+exists:
+
+as:
+
+one:
+
+of:
+
+the:
+
+Twelve Foundations.
+
+The:
+
+research:
+
+pattern:
+
+with:
+
+the:
+
+same:
+
+wording
+
+must:
+
+not:
 
 be:
 
@@ -1279,91 +2521,74 @@ treated:
 
 as:
 
-weak
+validated:
 
-by:
+because:
 
-default.
+the:
 
-It can:
+studio
 
-strongly:
+already:
 
-prove:
+believes:
 
-- prior practice
-- heritage
-- method
-- institutional history
-- process
-- capacity
-- evolution
-
-when:
-
-properly:
-
-qualified.
+it.
 
 ## Correction
 
 ```text
-Historical
+Studio Foundation
 ≠
-Irrelevant
+Research Validation
 ```
 
----
-
-# Cross-Case Finding 10 — Historical Evidence Is Not Current Product Proof
-
-The inverse:
-
-also:
-
-must remain:
-
-clear.
-
-```text
-Historical Evidence
-≠
-Current Product Proof
-```
-
-This is:
+If:
 
 the:
 
-strongest:
+research-derived:
 
-Noma:
+direction
 
-photography:
+remains:
 
-boundary.
+Emerging
+
+that:
+
+does:
+
+not:
+
+weaken:
+
+the:
+
+studio:
+
+Foundation.
 
 ---
 
-# Cross-Case Finding 11 — Capacity Proof Is a Real Proof Direction
+# Comparison 25 — Capacity Proof Receives Very Strong Photography Support
 
-Noma:
+Capacity Proof:
 
-introduces:
+Current Status:
 
-Capacity Proof
+Observed Research Direction
 
-strongly.
+Strongest:
 
-Potential:
+cases:
 
-partial:
+- Noma
+- Pearl Morissette
 
-support
+Supporting:
 
-also exists:
-
-from:
+pressure:
 
 - FYN
 - Alinea
@@ -1371,97 +2596,184 @@ from:
 - Franklin
 - Din Tai Fung
 
-through:
+Photography:
 
-authority
+matters
 
-craft
-
-process
-
-or:
-
-historical:
-
-systems.
-
----
-
-# Working Definition — Capacity Proof
-
-> **Evidence that supports confidence in a restaurant's ability to produce a credible future hospitality outcome when that future outcome cannot yet be shown directly.**
-
-Potential:
-
-evidence subjects:
-
-- method
-- previous work
-- research
-- process
-- leadership
-- craft
-- institutional history
-
-## Current Status
-
-Observed Research Direction
-
-Not:
-
-formal Candidate.
-
----
-
-# Cross-Case Finding 12 — Capacity Proof Is Different From Authority
-
-Authority:
-
-asks:
-
-why:
-
-the:
-
-restaurant
-
-deserves:
-
-credibility.
-
-Capacity Proof:
-
-asks:
-
-what:
-
-evidence:
-
-demonstrates:
-
-the:
-
-ability
-
-to:
-
-produce:
-
-the:
-
-claimed:
+because:
 
 future:
 
-outcome.
+product:
 
-They may:
+specificity
 
-work:
+may:
 
-together.
+be:
 
-But:
+limited.
+
+Alternative:
+
+proof:
+
+may:
+
+include:
+
+- previous output
+- method
+- people
+- resources
+- process
+- productive context
+- institutional history
+- relevant recognition
+
+---
+
+# Comparison 26 — Capacity Proof Is Not Historical Proof Alone
+
+Noma:
+
+made:
+
+archive:
+
+and:
+
+historical:
+
+evidence
+
+important.
+
+Pearl Morissette:
+
+adds:
+
+current:
+
+productive:
+
+context
+
+and:
+
+network:
+
+evidence.
+
+## Correction
+
+```text
+Capacity Proof
+≠
+Historical Proof Alone
+```
+
+The:
+
+proof:
+
+bundle
+
+can:
+
+contain:
+
+current
+
+and:
+
+historical:
+
+evidence.
+
+---
+
+# Comparison 27 — Capacity Evidence Bundle Is a Useful Architecture Direction
+
+## Definition
+
+> **Capacity confidence may require a proportionate bundle of evidence about prior output, process, people, productive resources, relationships, method, or authority when the future hospitality outcome cannot be shown directly.**
+
+Possible:
+
+components:
+
+- historical output
+- current output
+- kitchen
+- productive landscape
+- people
+- process
+- supplier network
+- research
+- institution
+- recognition
+- method
+
+Not:
+
+every:
+
+case
+
+requires:
+
+all.
+
+## Status
+
+Proof Architecture Direction
+
+Potential Home:
+
+Capacity Proof.
+
+---
+
+# Correction
+
+```text
+Capacity Proof
+≠
+Single Hero Image
+```
+
+---
+
+# Comparison 28 — Capacity Proof and Authority Remain Distinct
+
+Noma:
+
+and:
+
+Pearl Morissette
+
+both:
+
+have:
+
+strong:
+
+authority.
+
+This:
+
+creates:
+
+a:
+
+continuing:
+
+research:
+
+problem.
+
+## Correction
 
 ```text
 Authority
@@ -1469,82 +2781,155 @@ Authority
 Capacity Proof
 ```
 
----
-
-# Cross-Case Finding 13 — Capacity Proof Is Different From Photography as Proof
-
-Photography as Proof:
-
-is:
-
-medium-level.
-
-Capacity Proof:
-
-is:
-
-claim-level.
-
-Capacity:
-
-may be:
-
-proved through:
-
-- photography
-- motion
-- text
-- documentation
-- process evidence
-- archive
-
-Therefore:
-
-```text
-Capacity Proof
-≠
-Photography as Proof
-```
-
-This reduces:
-
-deduplication risk.
-
----
-
-# Cross-Case Finding 14 — Capacity Proof Is Different From Promise Before Proof
-
-Promise Before Proof:
-
-concerns:
-
-sequencing:
-
-of:
-
-meaning
-
 and:
 
-evidence.
+```text
+Recognition
+≠
+Future Outcome Evidence
+```
 
-Capacity Proof:
-
-concerns:
-
-what:
-
-kind:
-
-of:
-
-evidence
-
-may support:
+A:
 
 future:
 
-confidence.
+lower-authority:
+
+case
+
+remains:
+
+necessary.
+
+---
+
+# Comparison 29 — Capacity Evidence Must Be Proportionate to Commitment and Uncertainty
+
+A:
+
+low:
+
+commitment:
+
+experience
+
+may:
+
+not:
+
+need:
+
+deep:
+
+capacity:
+
+proof.
+
+A:
+
+high:
+
+commitment
+
+variable:
+
+product:
+
+experience
+
+may:
+
+need:
+
+more.
+
+## Architecture Relationship
+
+```text
+Future Outcome Uncertainty
++
+Commitment Consequence
+↓
+Required Capacity Proof Depth
+```
+
+This:
+
+is:
+
+strongly:
+
+supported
+
+post-Noma
+
+and:
+
+post-Pearl.
+
+---
+
+# Comparison 30 — Promise Before Proof and Capacity Proof Interact Without Merging
+
+Promise Before Proof:
+
+Current Status:
+
+Emerging
+
+Capacity Proof:
+
+Observed Research Direction
+
+### Promise Before Proof
+
+The:
+
+restaurant:
+
+asks:
+
+the:
+
+guest
+
+to:
+
+accept:
+
+a:
+
+future:
+
+hospitality:
+
+promise.
+
+### Capacity Proof
+
+The:
+
+restaurant:
+
+provides:
+
+evidence
+
+that:
+
+it:
+
+can:
+
+credibly:
+
+create:
+
+that:
+
+future:
+
+outcome.
 
 ## Correction
 
@@ -1554,176 +2939,37 @@ Promise Before Proof
 Capacity Proof
 ```
 
----
-
-# Governance Watch — Capacity Proof
-
-Current:
-
-Observed Research Direction
-
-Post-Noma Photography Position:
-
-Promising
-
-but:
-
-not ready.
-
-Needs:
-
-cross-case:
-
-definition
-
-and:
-
-falsification
-
-before:
-
-Candidate review.
-
----
-
-# Cross-Case Finding 15 — Archive Can Function as Proof
-
-Noma:
-
-makes:
-
-the:
-
-archive:
-
-especially:
-
-important.
-
-But:
-
-other:
-
-heritage
-
-and:
-
-long-running:
-
-restaurants
-
-also:
-
-have:
-
-historical:
-
-visual evidence.
-
-## Working Definition
-
-> **An archive becomes decision-relevant proof when its historical status is clear and it materially demonstrates prior practice, capability, continuity, evolution, or heritage relevant to the current claim.**
-
-## Correction
-
-```text
-Archive
-≠
-Nostalgia
-```
-
----
-
-# Cross-Case Finding 16 — Archive as Proof Is a Mechanism, Not Yet a Pattern
-
-Potential homes:
-
-- Photography as Proof
-- Heritage Builds Confidence
-- Capacity Proof
-- Photography Through Layers of Experience
-
-depending on:
-
-the:
-
-claim.
-
-## Governance Position
-
-Do not create:
-
-a separate:
-
-formal pattern.
-
----
-
-# Cross-Case Finding 17 — Visual Variety Does Not Prove Evolution
-
-Noma:
-
-makes:
-
-this:
-
-especially clear.
-
-Different:
-
-images
+They:
 
 may:
 
-show:
+operate:
 
-different:
-
-things
-
-without:
-
-showing:
-
-change:
-
-through:
-
-time.
-
-## Correction
-
-```text
-Visual Variety
-≠
-Proof of Evolution
-```
-
-Evolution proof:
-
-requires:
-
-relationship
-
-between:
-
-states.
+together.
 
 ---
 
-# Cross-Case Finding 18 — Sequence Can Become Evidence
+# Comparison 31 — Evidence Freshness and Evidence Durability Remain Distinct
 
-When:
+Noma:
 
-difference:
+made:
 
-exists:
+this:
 
-through:
+critical.
 
-time
+Pearl Morissette:
 
-one:
+strongly:
+
+reinforces:
+
+it.
+
+A:
+
+dish:
 
 image
 
@@ -1731,67 +2977,247 @@ may:
 
 be:
 
-insufficient.
+fresh
 
-Potential:
+today
 
-sequence:
+but:
 
-```text
-Earlier State
-↓
-Transition
-↓
-Current State
-```
+have:
 
-or:
+low:
 
-```text
-Season A
-↓
-Season B
-↓
-Season C
-```
+future:
 
-when:
-
-properly:
-
-contextualized.
-
----
-
-# New Direction — Temporal Proof Sequencing
-
-## Working Definition
+durability.
 
 A:
 
-proof system
+farm
+
+or:
+
+kitchen:
+
+image
 
 may:
 
-organize:
+be:
 
-visuals:
+older
 
-across:
+but:
 
-time
+still:
 
-when:
+appropriate
 
-change itself
+for:
+
+a:
+
+durable:
+
+claim.
+
+## Canonical Correction
+
+```text
+Evidence Freshness
+≠
+Evidence Durability
+```
+
+---
+
+# Comparison 32 — Current Does Not Mean Durable
+
+## Correction
+
+```text
+Current
+≠
+Durable
+```
+
+The:
+
+relevance:
+
+window
+
+depends:
+
+on:
+
+the:
+
+claim.
+
+---
+
+# Comparison 33 — Historical Evidence Is Useful Only When Properly Scoped
+
+Alinea
+
+Noma
+
+Talisman
+
+and:
+
+Pearl Morissette
+
+all:
+
+create:
+
+historical:
+
+proof:
+
+questions.
+
+## Correction
+
+```text
+Historical Evidence
+≠
+Current Product Proof
+```
+
+Historical:
+
+evidence
+
+can:
+
+prove:
+
+- prior capability
+- heritage
+- process history
+- continuity
+- previous output
+
+without:
+
+becoming:
+
+current:
+
+inventory.
+
+---
+
+# Comparison 34 — Claim-Specific Freshness Is Better Than One Global Freshness Rule
+
+Potential:
+
+claim:
+
+types:
+
+### Stable Place Claim
+
+Older:
+
+photo
+
+may:
+
+remain:
+
+appropriate.
+
+### Current Menu Claim
+
+Fresh:
+
+evidence
+
+may:
+
+be:
+
+required.
+
+### Current Operational State
+
+Very:
+
+fresh:
+
+evidence
+
+may:
+
+be:
+
+required.
+
+### Historical Capability Claim
+
+Older:
+
+evidence
 
 is:
 
-decision-relevant.
+expected.
+
+## Architecture Rule
+
+```text
+Required Freshness
+depends on
+Claim
+```
+
+---
+
+# Comparison 35 — Versioned Evidence Is Transferable
+
+Noma:
+
+introduced:
+
+Versioned Evidence.
+
+Pearl Morissette:
+
+provides:
+
+a:
+
+second:
+
+strong:
+
+case.
+
+Useful:
+
+metadata:
+
+may:
+
+include:
+
+- date
+- season
+- location
+- current / historical
+- evidence subject
+- relevant claim
+- operational state
+- service period
+- producer
 
 ## Status
 
-Proof Architecture Direction
+Implementation / Evidence Architecture
 
 Not:
 
@@ -1799,648 +3225,626 @@ formal pattern.
 
 ---
 
-# Cross-Case Finding 19 — Difference Through Sequence Extends Photography Should Demonstrate Difference
-
-## Current Pattern
-
-Photography Should Demonstrate Difference
-
-Status:
-
-Emerging
-
-Earlier:
-
-difference:
-
-was often:
-
-visible:
-
-within:
-
-one:
-
-image
-
-or:
-
-one:
-
-set:
-
-of:
-
-assets.
-
-Noma adds:
-
-difference:
-
-across:
-
-time.
-
-## Mechanism
-
-Difference Through Sequence
-
-## Proposed Home
-
-Photography Should Demonstrate Difference
-
-## Status
-
-Evidence Mechanism
-
-Not:
-
-separate pattern.
-
----
-
-# Correction
-
-```text
-Difference Proof
-≠
-Always Single-State Proof
-```
-
----
-
-# Cross-Case Finding 20 — Use-Case Evidence Does Not Require Visible People
-
-ICHIRAN:
-
-was:
-
-the:
-
-strongest:
-
-correction.
-
-Din Tai Fung:
-
-expanded:
-
-use-case:
-
-proof
-
-through:
-
-configuration
-
-and:
-
-participation:
-
-objects.
-
-Noma:
-
-does not:
-
-materially:
-
-extend:
-
-the:
-
-pattern.
-
-That itself:
-
-is:
-
-useful.
-
-## Correction
-
-```text
-Use-Case Evidence
-≠
-Visible People
-```
-
-and:
-
-```text
-Visible Guest
-≠
-Participation Proven
-```
-
----
-
-# Cross-Case Finding 21 — Photography as Use-Case Evidence Remains Strong but Contextual
-
-## Current Status
-
-Emerging
-
-Strong:
-
-cases:
-
-- Haidilao
-- ICHIRAN
-- Din Tai Fung
-- Dishoom
-- Bistro Lolo
-
-Noma:
-
-provides:
-
-limited:
-
-current:
-
-participation-visual:
-
-pressure.
-
-## Interpretation
-
-The pattern:
-
-remains:
-
-strong
-
-without:
-
-needing:
-
-universal:
-
-applicability.
-
----
-
-# Cross-Case Finding 22 — Configuration Can Be Use-Case Evidence
-
-Din Tai Fung:
-
-and:
-
-ICHIRAN
-
-remain:
-
-important.
-
-Objects
-
-layouts
-
-booths
-
-table configuration
-
-or:
-
-interaction structures
-
-may:
-
-show:
-
-how:
-
-the:
-
-guest
-
-participates.
-
-## Deduplication
-
-```text
-Configuration as Use-Case Evidence
-→
-Photography as Use-Case Evidence
-```
-
----
-
-# Cross-Case Finding 23 — Guest Visibility Does Not Prove Creative Participation
-
-Noma:
-
-strengthens:
-
-this:
-
-boundary.
-
-A:
-
-guest:
-
-appearing:
-
-in:
-
-a:
-
-photo
-
-may prove:
-
-presence.
-
-It does not:
-
-prove:
-
-creative influence.
-
-## Correction
-
-```text
-Guest Visible
-≠
-Creative Participation Proven
-```
-
-This protects:
-
-The Guest as Participant
-
-from:
-
-visual:
-
-overreach.
-
----
-
-# Cross-Case Finding 24 — Process Proof and Outcome Proof Remain Distinct
-
-Franklin:
-
-Din Tai Fung
-
-Noma
-
-and:
-
-NARISAWA
-
-all:
-
-pressure:
-
-process:
-
-evidence
-
-differently.
-
-## Correction
-
-```text
-Finished Product Proof
-≠
-Process Proof
-```
+# Comparison 36 — Official Does Not Mean Current
 
 This remains:
 
-one:
+post-Noma:
 
-of:
+canonical.
 
-the:
+An:
 
-strongest:
+official:
 
-cross-case:
-
-proof:
-
-boundaries.
-
----
-
-# Cross-Case Finding 25 — Production Presence Does Not Equal Technique Proof
-
-Din Tai Fung:
-
-made:
-
-Production Presence:
-
-useful.
-
-Noma:
-
-reinforces:
-
-the:
-
-boundary.
-
-Seeing:
-
-a:
-
-production:
-
-environment
-
-does not:
-
-prove:
-
-- exact technique
-- quality
-- consistency
-- process standard
-- current method
-
-## Correction
-
-```text
-Production Presence
-≠
-Technique Proof
-```
-
----
-
-# Cross-Case Finding 26 — Show the System Behind the Plate Receives Extremely Strong Cross-Case Support
-
-## Current Status
-
-Emerging
-
-Strong cases:
-
-- Cultiva
-- Franklin Barbecue
-- NARISAWA
-- Din Tai Fung
-- Noma
-
-with:
-
-different:
-
-culinary:
-
-systems.
-
-Noma adds:
-
-historical:
-
-research
-
-foraging
-
-fermentation
-
-preservation
-
-and:
-
-test-kitchen:
-
-depth.
-
----
-
-# Current Pattern Boundary
-
-Show the System Behind the Plate
-
-remains:
-
-specifically:
-
-about:
-
-culinary
+page
 
 or:
 
-production:
-
-systems
-
-that:
-
-materially explain:
-
-product difference.
-
-It does not:
-
-absorb:
-
-guest-facing:
-
-Hospitality System Proof.
-
-## Correction
-
-```text
-Show the System Behind the Plate
-≠
-Hospitality System Proof
-```
-
----
-
-# Cross-Case Finding 27 — Noma Strengthens Process Durability
-
-A:
-
-specific:
-
-dish
+asset
 
 may:
 
-disappear.
+be:
 
-A:
-
-method
-
-or:
-
-process:
-
-may remain:
-
-relevant:
-
-longer.
+outdated.
 
 ## Correction
 
 ```text
-Temporary Outcome
+Official
 ≠
-Temporary Method
+Current
 ```
 
-Evidence durability:
+Evidence:
 
 must:
 
 be:
 
-claim-specific.
+evaluated:
+
+for:
+
+freshness
+
+not:
+
+just:
+
+source:
+
+authority.
 
 ---
 
-# Cross-Case Finding 28 — Proof Depth Should Remain Explicit
+# Comparison 37 — State Fit Is Especially Important for Variable Hospitality
 
-Post–Din Tai Fung:
+A:
 
-Proof Depth
+photo
 
-included:
+can:
 
-- Presence
-- Environment
-- Activity
-- Technique
-- Standard
-- Outcome
+show:
 
-Noma:
+a:
 
-supports:
+real:
 
-the:
+state.
 
-model
+But:
 
-and:
+that:
 
-adds:
+state
 
-pressure
+may:
 
-around:
+not:
 
-history
-
-and:
-
-capacity.
-
----
-
-# Proposed Proof Depth Expansion
-
-Potential:
-
-additional:
-
-depth:
-
-### Capacity
-
-Can:
+be:
 
 the:
 
-restaurant:
+state
 
-credibly:
-
-produce:
-
-the:
-
-future:
-
-outcome?
-
-## Governance Position
-
-Do not:
-
-change:
-
-canonical:
-
-taxonomy
-
-inside:
-
-comparison.
-
-Carry:
+relevant:
 
 to:
 
-proof:
+the:
 
-reconciliation.
+guest's:
+
+decision.
+
+Examples:
+
+- old menu
+- previous season
+- historical dining room
+- optional event format
+- different location
+- private dining
+- temporary state
+
+## Correction
+
+```text
+Real Evidence
+≠
+Relevant State Evidence
+```
+
+This:
+
+reinforces:
+
+State Fit.
 
 ---
 
-# Cross-Case Finding 29 — Proof Depth Is Claim-Specific
+# Comparison 38 — Location Fit Remains Critical
 
-A:
+Din Tai Fung:
 
-product:
+made:
 
-claim
+brand-level:
 
-may need:
+vs:
 
-Outcome Proof.
+Covent Garden:
 
-A:
+evidence
 
-craft:
+especially:
 
-claim
+important.
 
-may need:
+Pearl Morissette:
 
-Technique
+adds:
+
+restaurant
+
+vs:
+
+winery
+
+vs:
+
+private dining
+
+vs:
+
+farm:
+
+scope.
+
+## Correction
+
+```text
+Brand-Level Evidence
+≠
+Location-Level Proof
+```
+
+and:
+
+```text
+Same Ecosystem
+≠
+Same Guest Experience
+```
+
+---
+
+# Comparison 39 — Entity Fit Should Be Considered Inside Claim Fit
+
+Pearl Morissette:
+
+raises:
+
+an:
+
+important:
+
+proof:
+
+question:
+
+which:
+
+entity
+
+does:
+
+the:
+
+evidence
+
+actually:
+
+belong:
+
+to?
+
+Potential:
+
+entities:
+
+- restaurant
+- winery
+- garden
+- property
+- private dining
+- producer
+
+## Architecture Refinement
+
+Entity scope:
+
+should:
+
+be:
+
+checked:
+
+inside:
+
+Claim Fit
+
+and:
+
+Location Fit
+
+rather:
+
+than:
+
+creating:
+
+a:
+
+fifth:
+
+formal:
+
+Evidence Fit:
+
+dimension
+
+without:
+
+need.
+
+---
+
+# Comparison 40 — Evidence Fit Remains Four-Part
+
+Current:
+
+architecture:
+
+should:
+
+remain:
+
+```text
+Evidence Fit
+=
+Claim Fit
++
+Location Fit
++
+Temporal Fit
++
+State Fit
+```
+
+Pearl Morissette:
+
+does:
+
+not:
+
+justify:
+
+inflating:
+
+the:
+
+model.
+
+Entity:
+
+scope
+
+belongs:
+
+inside:
+
+Claim
+
+and:
+
+Location:
+
+analysis.
+
+---
+
+# Comparison 41 — Archive as Proof Remains a Mechanism
+
+Noma:
+
+provided:
+
+the:
+
+strongest:
+
+case.
+
+Other:
+
+restaurants:
+
+with:
+
+heritage
 
 or:
 
-Standard Proof.
+long:
 
-A:
+operating:
 
-future:
+history
 
-creative:
+also:
+
+use:
+
+historical:
+
+evidence.
+
+## Status
+
+Proof Mechanism
+
+Potential relationships:
+
+- Heritage Builds Confidence
+- Photography as Proof
+- Capacity Proof
+- Coherence Through Change
+
+Do not:
+
+formalize:
+
+as:
+
+pattern.
+
+---
+
+# Comparison 42 — Absence Can Preserve Evidence Integrity
+
+Noma:
+
+introduced:
+
+Absence as Evidence Integrity.
+
+If:
+
+current:
+
+evidence
+
+does:
+
+not:
+
+exist
+
+it may:
+
+be:
+
+better:
+
+to:
+
+show:
+
+less
+
+than:
+
+to:
+
+mislabel:
+
+historical:
+
+material.
+
+Pearl Morissette:
+
+reinforces:
+
+this:
+
+through:
+
+ever-changing:
+
+product.
+
+## Correction
+
+```text
+No Current Image
+can be better than
+Misleading Historical Image
+```
+
+when:
+
+the:
 
 claim
 
-may need:
+requires:
 
-Capacity Proof.
+current:
 
-Therefore:
+proof.
+
+---
+
+# Comparison 43 — Temporal Proof Sequencing Remains Useful but Contextual
+
+Strongest:
+
+case:
+
+Noma.
+
+Potential:
+
+support:
+
+from:
+
+Pearl Morissette:
+
+seasonal:
+
+change.
+
+But:
+
+Restaurant #15:
+
+does:
+
+not:
+
+establish:
+
+an:
+
+actual:
+
+current:
+
+seasonal:
+
+visual:
+
+sequence.
+
+## Current Recommendation
+
+Remain:
+
+proof:
+
+architecture.
+
+No:
+
+pattern:
+
+promotion.
+
+---
+
+# Comparison 44 — Difference Through Sequence and Difference Through Relationship Are Distinct
+
+### Difference Through Sequence
+
+The:
+
+restaurant's:
+
+difference
+
+becomes:
+
+visible
+
+across:
+
+a:
+
+series:
+
+or:
+
+progression.
+
+Strongest:
+
+Noma.
+
+### Difference Through Relationship
+
+The:
+
+restaurant's:
+
+difference
+
+becomes:
+
+visible:
+
+through:
+
+connections
+
+between:
+
+subjects.
+
+Strongest:
+
+Pearl Morissette.
+
+## Correction
 
 ```text
-More Proof Depth
+Difference Through Sequence
 ≠
-Better Proof
+Difference Through Relationship
 ```
 
-The correct:
+Both:
 
-depth
+can:
 
-depends on:
+live:
+
+inside:
+
+Photography Should Demonstrate Difference.
+
+---
+
+# Comparison 45 — Motion Is an Evidence Medium, Not a Pattern
+
+Strong:
+
+potential:
+
+uses:
+
+- craft
+- transformation
+- behaviour
+- queue
+- system
+- service
+- harvest
+- kitchen process
+
+But:
+
+motion:
+
+is:
+
+not:
+
+always:
+
+better.
+
+## Correction
+
+```text
+Motion
+≠
+Better Proof by Default
+```
+
+The:
+
+medium:
+
+must:
+
+fit:
 
 the:
 
@@ -2448,694 +3852,34 @@ claim.
 
 ---
 
-# Cross-Case Finding 30 — Minimum Sufficient Evidence Remains the Strongest Proof Discipline
+# Comparison 46 — Best Evidence Medium Depends on Claim
 
 Across:
 
-all:
+15:
 
-cases
+restaurants
 
-maximum:
+strong:
 
-reveal
-
-is not:
-
-the:
-
-goal.
-
-The stronger:
-
-question is:
-
-> **What is the minimum evidence required for the guest to form appropriate confidence?**
-
----
-
-# Correction
-
-```text
-Maximum Reveal
-≠
-Maximum Confidence
-```
-
-Alinea:
-
-shows:
-
-selective reveal.
-
-ICHIRAN:
-
-shows:
-
-system evidence.
-
-Noma:
-
-shows:
-
-future uncertainty.
-
-Different:
-
-models
-
-need:
-
-different:
-
-proof:
-
-sets.
-
----
-
-# Cross-Case Finding 31 — Unknown and Hidden Need Different Proof Strategies
-
-Alinea:
-
-and:
-
-Noma
-
-create:
-
-a:
-
-critical:
-
-contrast.
-
-### Hidden
-
-Outcome:
-
-exists
-
-but:
-
-is:
-
-intentionally:
-
-unrevealed.
-
-### Unknown
-
-Future outcome:
-
-is:
-
-not yet:
-
-fixed.
-
----
-
-# Hidden Outcome Proof Question
-
-> **How much should we reveal?**
-
----
-
-# Unknown Outcome Proof Question
-
-> **What can we truthfully prove instead?**
-
-Potential:
-
-proof:
-
-substitutes:
-
-- method
-- capacity
-- process
-- place
-- institution
-- history
-
----
-
-# Correction
-
-```text
-Not Shown
-≠
-Intentionally Hidden
-```
-
-and:
-
-```text
-Unknown
-≠
-Hidden
-```
-
----
-
-# Cross-Case Finding 32 — Absence Can Protect Evidence Integrity
-
-Noma:
-
-introduces:
-
-a:
-
-valuable:
-
-proof:
-
-direction.
-
-If:
-
-no:
-
-current:
-
-image
-
-can:
-
-truthfully:
-
-support:
-
-the:
-
-claim
-
-not:
-
-showing:
-
-one
-
-may be:
-
-better
-
-than:
-
-misusing:
-
-historical:
-
-imagery.
-
-## Working Direction
-
-Absence as Evidence Integrity
-
-## Current Status
-
-Proof Architecture Direction
-
-Not:
-
-formal pattern.
-
----
-
-# Relationship to ICHIRAN
-
-ICHIRAN:
-
-showed:
-
-that:
-
-absence:
-
-can itself:
-
-help:
-
-communicate:
-
-privacy
-
-or:
-
-individual:
-
-experience.
-
-Noma:
-
-adds:
-
-a:
-
-different:
-
-use.
-
-### ICHIRAN
-
-Absence may:
-
-support:
-
-meaning.
-
-### Noma
-
-Absence may:
-
-protect:
-
-truthfulness.
-
-These:
-
-should not:
-
-be:
-
-collapsed.
-
----
-
-# Cross-Case Finding 33 — Motion Remains an Evidence Medium, Not a Pattern
-
-Strong:
-
-potential:
-
-cases include:
-
-- Franklin process
-- Haidilao service / participation
-- ICHIRAN system use
-- Noma process / temporal change
-
-Motion may:
-
-show:
-
-what:
-
-still photography
-
-cannot:
-
-fully:
-
-explain.
-
-## Governance Position
-
-Motion as Evidence:
-
-Evidence Medium
-
-Not:
-
-formal pattern.
-
----
-
-# Cross-Case Finding 34 — Motion Has Multiple Evidence Roles
-
-Motion may prove:
-
-### Process
-
-How:
-
-something:
-
-is:
-
-done.
-
-### Participation
-
-How:
-
-the:
-
-guest
-
-acts.
-
-### Service
-
-How:
-
-staff
-
-respond.
-
-### Temporal Change
-
-How:
-
-the:
-
-experience:
-
-evolves
-
-across:
-
-time.
-
-Noma:
-
-strengthens:
-
-the:
-
-last:
-
-role.
-
----
-
-# Cross-Case Finding 35 — Photography Through Layers of Experience Gains a Temporal Layer
-
-## Current Status
-
-Emerging
-
-Existing layers:
-
-- product
-- place
-- atmosphere
-- use
-- participation
-- service
-- process
-
-Noma adds:
-
-- historical layer
-- temporal layer
-- research layer
-
-where:
-
-relevant.
-
-## Governance Position
-
-Pattern strengthened.
-
-No maturity change.
-
----
-
-# Cross-Case Finding 36 — Layering Should Still Follow Evidence Need
-
-Adding:
-
-more:
-
-layers
-
-is not:
-
-automatically:
-
-better.
-
-## Correction
-
-```text
-Photography Through Layers
-≠
-Maximum Image Variety
-```
-
-The:
-
-relevant:
-
-layers
-
-depend on:
-
-the:
-
-decision.
-
----
-
-# Cross-Case Finding 37 — Photography Should Demonstrate Difference Receives Temporal Refinement
-
-## Current Status
-
-Emerging
-
-Noma:
-
-very strongly:
-
-supports:
-
-the pattern.
-
-But:
-
-difference:
+evidence
 
 may:
 
-be:
-
-- product difference
-- process difference
-- use difference
-- system difference
-- place difference
-- temporal difference
-
-## Proposed Refinement
-
-Photography should:
-
-demonstrate:
-
-the:
-
-difference
-
-that:
-
-actually matters:
-
-to:
-
-the:
-
-hospitality promise.
-
----
-
-# Correction
-
-```text
-Beautiful Difference
-≠
-Decision-Relevant Difference
-```
-
----
-
-# Cross-Case Finding 38 — Photography Before Decoration Remains Strong
-
-## Current Status
-
-Emerging
-
-Across:
-
-fourteen:
-
-cases
-
-the:
-
-strongest:
-
-visual:
-
-systems
-
-are:
-
-those:
-
-where:
-
-images
-
-perform:
-
-real:
-
-evidence:
-
-work.
-
-Noma:
-
-strengthens:
-
-the:
-
-need
-
-for:
-
-evidence:
-
-discipline
-
-because:
-
-beautiful:
-
-historical:
-
-imagery
-
-can:
-
-easily:
-
-be:
-
-misapplied.
-
----
-
-# Cross-Case Finding 39 — Photography as Proof Is Broader Than Product Proof
-
-## Current Status
-
-Emerging
-
-Current proof roles include:
-
-- Product
-- Place
-- Atmosphere
-- Use
-- Participation
-- Service
-- Process
-- System
-- Heritage
-- Capacity
-- Temporal State
-
-This remains:
-
-a:
-
-broad:
-
-medium-level:
-
-pattern.
-
----
-
-# Cross-Case Finding 40 — Photography as Proof Must Not Absorb System Proof
-
-Hospitality System Proof:
-
-may use:
-
-photography.
-
-But:
-
-often:
-
-text
-
-interface
-
-diagram
-
-or:
-
-state:
-
-information
-
-is:
-
-better.
-
-## Correction
-
-```text
-Photography as Proof
-≠
-All Proof
-```
-
----
-
-# Cross-Case Finding 41 — Evidence Medium Must Follow Claim
-
-Examples:
-
-### Still Photography
-
-Strong for:
-
-- place
-- product
-- configuration
-- environment
-
-### Motion
-
-Strong for:
-
-- process
-- behaviour
-- service
-- transformation
-
-### Text
-
-Strong for:
-
+come from:
+
+- photography
+- text
+- menu
 - policy
-- technical rules
-- explanation
+- diagram
+- map
+- video
+- archive
+- structured interface
+- location details
 
-### Interface
-
-Strong for:
-
-- participation
-- state
-- booking
-
-### Archive
-
-Strong for:
-
-- history
-- evolution
-- capacity
-
-Therefore:
+## Core Rule
 
 ```text
 Best Evidence Medium
@@ -3143,1605 +3887,1802 @@ depends on
 Claim
 ```
 
----
+This:
 
-# Cross-Case Finding 42 — Visual Coherence Across Time Is Different From Visual Sameness
+is:
 
-Noma:
-
-adds:
-
-strong:
-
-temporal:
-
-pressure.
-
-A:
-
-summer:
-
-dish
-
-and:
-
-winter:
-
-dish
-
-may:
-
-look:
-
-different
-
-while:
-
-still:
-
-belonging:
-
-to:
-
-the:
-
-same:
-
-creative:
-
-system.
-
-## Correction
-
-```text
-Visual Temporal Coherence
-≠
-Visual Repetition
-```
-
----
-
-# New Architecture Variable — Visual Temporal Coherence
-
-## Definition
-
-The degree:
-
-to which:
-
-different:
-
-time-based:
-
-visual:
-
-states
-
-remain:
-
-meaningfully:
-
-connected
-
-without:
-
-requiring:
-
-surface:
-
-sameness.
-
-## Current Status
-
-Architecture Variable
-
-Not:
-
-formal pattern.
-
----
-
-# Cross-Case Finding 43 — Visual Coherence Is Not Atmospheric Coherence
-
-A:
-
-set:
+one:
 
 of:
 
-images
+the:
+
+strongest:
+
+cross-case:
+
+proof:
+
+principles
+
+at:
+
+architecture:
+
+level.
+
+---
+
+# Comparison 47 — Photography Alone Is Often Insufficient for Distributed Systems
+
+Pearl Morissette:
+
+makes:
+
+this:
+
+especially:
+
+clear.
+
+A:
+
+producer:
+
+network
 
 may:
 
-look:
+be:
 
-consistent.
+better:
 
-That does:
+explained:
 
-not:
+through:
 
-prove:
+- maps
+- text
+- lists
+- diagrams
+- captions
 
-the:
+combined:
 
-physical:
+with:
 
-experience
+selected:
 
-is:
-
-atmospherically:
-
-coherent.
+photography.
 
 ## Correction
 
 ```text
-Visual Coherence
+Distributed System
 ≠
-Atmospheric Coherence
+Photography-Only Proof Problem
 ```
 
-This keeps:
-
-photography
-
-and:
-
-atmosphere:
-
-separate.
-
 ---
 
-# Cross-Case Finding 44 — Temporal Evidence Needs Context
+# Comparison 48 — Text and Photography Can Divide Proof Work
 
-A:
+Pearl Morissette:
 
-temporal:
-
-asset
-
-is:
-
-strongest
-
-when:
-
-the:
-
-guest:
-
-can:
-
-understand:
-
-when:
-
-it:
-
-applied.
-
-Possible:
-
-labels:
-
-- month
-- season
-- year
-- historical era
-- current / historical
-- project / location
-
-## Interpretation
-
-Captioning
-
-and:
-
-metadata
-
-can:
-
-become:
-
-evidence infrastructure.
-
----
-
-# New Direction — Contextual Captioning as Proof Integrity
-
-Current:
-
-Implementation / Proof Direction
-
-## Comparison Decision
-
-Do not:
-
-formalize.
-
-This is:
+provides:
 
 a:
 
-mechanism
+useful:
 
-supporting:
+example:
 
-Evidence Integrity.
+### Photography
+
+Broad:
+
+context
+
+place
+
+food
+
+wine
+
+environment.
+
+### Text
+
+Producer:
+
+specificity
+
+relationship:
+
+claims
+
+method
+
+and:
+
+scope.
+
+## Cross-Case Principle
+
+```text
+Evidence System
+>
+Photography Alone
+```
 
 ---
 
-# Cross-Case Finding 45 — Versioned Evidence Is a Serious Implementation Question
+# Comparison 49 — Proof Depth Should Match Claim Consequence
 
-Temporal:
+A:
 
-hospitality
+minor:
+
+decorative:
+
+claim
 
 may:
 
 need:
 
-asset:
+little:
 
-metadata
+proof.
 
-including:
+A:
 
-- date
-- season
-- location
-- operating era
-- claim supported
-- evidence type
-- current / historical
+high:
 
-## Status
+commitment:
 
-Implementation / Evidence Architecture
+claim
 
-Not:
+about:
 
-formal research pattern.
+future:
 
----
+experience
 
-# Cross-Case Finding 46 — Version Awareness Protects Against Evidence Drift
+process
 
-Without:
-
-metadata
-
-current:
-
-and:
-
-historical:
-
-assets
-
-can:
-
-become:
-
-mixed.
-
-That is:
-
-especially:
-
-dangerous
-
-for:
-
-brands
-
-with:
-
-multiple:
-
-locations
-
-eras
+sustainability
 
 or:
 
-seasonal:
+system
 
-states.
+may:
+
+need:
+
+more.
+
+## Architecture Relationship
+
+```text
+Claim Consequence
++
+Uncertainty
+↓
+Required Proof Depth
+```
+
+This:
+
+works:
+
+alongside:
+
+Minimum Sufficient Evidence.
+
+---
+
+# Comparison 50 — More Proof Can Reduce Clarity
+
+This:
+
+is:
+
+especially:
+
+important:
+
+for:
+
+high-concept:
+
+or:
+
+distributed:
+
+restaurants.
 
 ## Correction
 
 ```text
-Large Asset Library
+More Proof
 ≠
-Reliable Evidence System
+More Understanding
 ```
 
----
+A:
 
-# Cross-Case Finding 47 — Evidence Legibility Has Multiple Dimensions
+proof:
 
-Post–Din Tai Fung:
+system
 
-Evidence Legibility
+should:
 
-was:
+not:
 
-a:
+become:
 
-core:
+an:
 
-proof variable.
+archive:
 
-Noma expands:
-
-its:
-
-meaning.
-
-Evidence may need:
-
-to be:
-
-- visually legible
-- temporally legible
-- geographically legible
-- claim-legible
-- state-legible
-
-## Architecture Refinement
-
-Evidence Legibility
-
-should not:
-
-mean:
-
-visual clarity
-
-alone.
+dump.
 
 ---
 
-# Cross-Case Finding 48 — Evidence Multiplicity Remains Useful
+# Comparison 51 — Photography as Proof and Photography Through Layers Must Stay Separate
+
+### Photography as Proof
+
+Question:
+
+> **Does visual evidence materially reduce uncertainty?**
+
+### Photography Through Layers of Experience
+
+Question:
+
+> **Are multiple distinct visual layers needed because different uncertainties require different evidence?**
+
+## Correction
+
+```text
+Photography as Proof
+≠
+Photography Through Layers
+```
 
 One:
 
-image
+can:
+
+exist:
+
+without:
+
+the:
+
+other.
+
+---
+
+# Comparison 52 — Photography as Proof and Photography Should Demonstrate Difference Must Stay Separate
+
+### Photography as Proof
+
+Can:
+
+the:
+
+claim
+
+be:
+
+supported?
+
+### Photography Should Demonstrate Difference
+
+Does:
+
+the:
+
+visual:
+
+evidence
+
+show:
+
+what:
+
+materially:
+
+distinguishes:
+
+this:
+
+restaurant?
+
+## Correction
+
+```text
+Proof
+≠
+Difference
+```
+
+A:
+
+photo
+
+may:
+
+prove:
+
+something
+
+ordinary.
+
+---
+
+# Comparison 53 — Photography Before Decoration and Photography as Proof Are Related but Distinct
+
+### Photography Before Decoration
+
+Prioritizes:
+
+decision-relevant:
+
+visual:
+
+work.
+
+### Photography as Proof
+
+Evaluates:
+
+whether:
+
+visual:
+
+evidence
+
+supports:
+
+a:
+
+specific:
+
+claim.
+
+## Correction
+
+```text
+Evidence Priority
+≠
+Proof Function
+```
+
+Do not:
+
+merge.
+
+---
+
+# Comparison 54 — Photography as Use-Case Evidence and System Photography Are Distinct
+
+### Use-Case Evidence
+
+Shows:
+
+how:
+
+the:
+
+guest
+
+uses:
+
+the:
+
+experience.
+
+### System Photography
+
+Shows:
+
+how:
+
+the:
+
+hospitality:
+
+system
+
+is:
+
+structured.
+
+ICHIRAN:
 
 may:
 
 support:
 
-multiple:
+both.
 
-claims.
+Pearl Morissette:
 
-For example:
+supports:
 
-a:
+system:
 
-Noma:
+proof
 
-landscape:
+more:
 
-image
+than:
 
-could:
-
-support:
-
-place
-
-season
-
-and:
-
-story.
-
-But:
-
-each:
-
-claim
-
-still:
-
-needs:
-
-adequate:
-
-fit.
-
-## Correction
-
-```text
-One Image
-≠
-One Proof Role
-```
-
-while:
-
-also:
-
-```text
-One Image
-≠
-Unlimited Meaning
-```
-
-Both:
-
-remain:
-
-true.
-
----
-
-# Cross-Case Finding 49 — Shared Evidence Does Not Merge Patterns
-
-The same:
-
-asset
-
-may support:
-
-- Photography as Proof
-- Story Through Place
-- Heritage Builds Confidence
-- Show the System Behind the Plate
-- Capacity Proof
-
-That does not:
-
-mean:
-
-the:
-
-patterns
-
-are:
-
-duplicates.
-
-## Correction
-
-```text
-Shared Evidence
-≠
-Shared Pattern
-```
-
----
-
-# Cross-Case Finding 50 — Research Claims Need Research Evidence
-
-Noma:
-
-publishes:
-
-research
-
-as:
-
-identity.
-
-Historical:
-
-Noma:
-
-also:
-
-provides:
-
-substantial:
-
-research:
-
-documentation.
-
-This allows:
-
-KHDS
-
-to:
-
-separate:
-
-claim
-
-and:
+use-case:
 
 proof.
 
 ## Correction
 
 ```text
-Research Claim
+System Use
 ≠
-Research Proof
+Guest Use
 ```
 
 ---
 
-# Cross-Case Finding 51 — Research Activity Proof Does Not Prove Research Outcome Quality
+# Comparison 55 — Photography as Proof Must Not Become Outcome Proof
 
-Images:
+A:
 
-of:
+beautiful:
 
-test kitchens
-
-experiments
+dish
 
 or:
 
-process
+busy:
 
-can:
+room
 
-prove:
-
-activity.
-
-They cannot:
+cannot:
 
 prove:
 
-quality
-
-or:
-
-guest value.
+- satisfaction
+- quality
+- profitability
+- operational consistency
+- sustainability outcome
+- emotional result
 
 ## Correction
 
 ```text
-Research Activity Proof
+Visual Evidence
 ≠
-Research Outcome Quality
+Outcome Evidence
+```
+
+This:
+
+is:
+
+mandatory.
+
+---
+
+# Comparison 56 — System Legibility Is Not System Performance
+
+Pearl Morissette:
+
+and:
+
+ICHIRAN:
+
+make:
+
+this:
+
+especially:
+
+important.
+
+A:
+
+system
+
+can:
+
+be:
+
+very:
+
+clear
+
+without:
+
+public:
+
+proof
+
+that:
+
+it:
+
+performs:
+
+well.
+
+## Correction
+
+```text
+System Legibility
+≠
+System Performance
 ```
 
 ---
 
-# Cross-Case Finding 52 — Ingredient Proof Can Bridge Place and Product
-
-Cultiva
+# Comparison 57 — Regenerative and Ecological Claims Need Outcome Discipline
 
 NARISAWA
 
 Noma
 
+Pearl Morissette
+
+all:
+
+create:
+
+ecological:
+
+claim:
+
+pressure.
+
+Story
+
 and:
 
-other:
-
-ingredient-led:
-
-cases
-
-show:
-
-that:
-
-ingredient:
-
-photography
+worldview
 
 can:
 
-connect:
+legitimately:
 
-place
+use:
 
-season
+environmental:
+
+language.
+
+Proof:
+
+must:
+
+not:
+
+convert:
+
+that:
+
+into:
+
+measured:
+
+performance
+
+without:
+
+evidence.
+
+## Corrections
+
+```text
+Ecological Narrative
+≠
+Environmental Performance Proof
+```
+
+```text
+Regenerative Narrative
+≠
+Regenerative Performance Proof
+```
+
+```text
+Farm Photography
+≠
+Sustainability Outcome Proven
+```
+
+---
+
+# Comparison 58 — Authority Proof Is Not Capacity Proof
+
+Awards
+
+press
+
+rankings
+
+stars
 
 and:
 
-product.
+recognition
 
-But:
+can:
+
+reduce:
+
+one:
+
+type:
+
+of:
+
+uncertainty.
+
+They:
+
+do:
+
+not:
+
+explain:
+
+the:
+
+production:
+
+system
+
+or:
+
+future:
+
+capability
+
+by:
+
+themselves.
+
+## Correction
+
+```text
+Authority Proof
+≠
+Capacity Proof
+```
+
+---
+
+# Comparison 59 — Capacity Proof and Process Proof Are Different
+
+A:
+
+restaurant
+
+may:
+
+show:
+
+process
+
+without:
+
+proving:
+
+broad:
+
+capacity.
+
+Likewise:
+
+it:
+
+may:
+
+show:
+
+institutional:
+
+capacity
+
+without:
+
+revealing:
+
+detailed:
+
+process.
+
+## Correction
+
+```text
+Process Proof
+≠
+Capacity Proof
+```
+
+---
+
+# Comparison 60 — Capacity Proof and Product Proof Are Different
+
+Product:
+
+proof
+
+may:
+
+show:
+
+a:
 
 specific:
 
-sourcing:
+existing:
 
-claims
+dish.
+
+Capacity:
+
+proof
+
+supports:
+
+a:
+
+future:
+
+ability.
+
+## Correction
+
+```text
+Existing Product Proof
+≠
+Future Capacity Proof
+```
+
+This:
+
+is:
+
+especially:
+
+important:
+
+for:
+
+Noma
+
+and:
+
+Pearl Morissette.
+
+---
+
+# Comparison 61 — Photography Can Demonstrate Current Difference Without Predicting Future Product
+
+A:
+
+restaurant
+
+with:
+
+variable:
+
+future:
+
+product
+
+can:
 
 still:
 
-require:
+show:
 
-specific:
+its:
+
+current:
+
+or:
+
+historical:
+
+difference.
+
+But:
+
+scope:
+
+must:
+
+be:
+
+clear.
+
+## Correction
+
+```text
+Current Difference
+≠
+Future Product Promise
+```
+
+---
+
+# Comparison 62 — Productive Relationship Legibility Is Strong Proof Architecture
+
+Pearl Morissette:
+
+introduces:
+
+this:
+
+variable:
+
+most:
+
+clearly.
+
+## Definition
+
+> **The degree to which the guest can understand how productive context relates to hospitality output.**
+
+This:
+
+requires:
+
+more:
+
+than:
+
+visibility.
+
+Potential:
+
+support:
+
+- captions
+- sequence
+- producer stories
+- maps
+- ingredient links
+- process
+- visual adjacency
+
+## Boundary
+
+```text
+Visible Productive Context
+≠
+Legible Productive Relationship
+```
+
+---
+
+# Comparison 63 — Relationship Narrative Depth and Relationship Proof Depth Must Stay Separate
+
+Story:
+
+may:
+
+explain:
+
+why:
+
+a:
+
+relationship
+
+matters.
+
+Proof:
+
+may:
+
+show:
+
+whether:
+
+the:
+
+relationship
+
+exists.
+
+## Correction
+
+```text
+Narrative Relationship Depth
+≠
+Relationship Proof Depth
+```
+
+This:
+
+will:
+
+matter:
+
+in:
+
+Story:
+
+comparison.
+
+---
+
+# Comparison 64 — Photography Should Demonstrate Difference Is Stronger When Difference Is Material
+
+A:
+
+restaurant's:
+
+visual:
+
+difference
+
+should:
+
+not:
+
+be:
+
+reduced:
+
+to:
+
+aesthetic:
+
+novelty.
+
+The:
+
+difference:
+
+should:
+
+matter:
+
+to:
+
+hospitality.
+
+Examples:
+
+- ICHIRAN booth system
+- Franklin process
+- Din Tai Fung craft
+- Noma research / change context
+- Pearl Morissette productive relationships
+
+## Correction
+
+```text
+Visual Novelty
+≠
+Hospitality Difference
+```
+
+---
+
+# Comparison 65 — Difference Through Relationship May Be More Important Than Visual Novelty
+
+Pearl Morissette:
+
+is:
+
+a:
+
+good:
+
+case.
+
+None:
+
+of:
+
+the:
+
+individual:
+
+subjects:
+
+farm
+
+kitchen
+
+wine
+
+food
+
+is:
+
+necessarily:
+
+unique.
+
+The:
+
+distinctive:
+
+hospitality:
+
+meaning
+
+may:
+
+come:
+
+from:
+
+their:
+
+relationship.
+
+## Architecture Mechanism
+
+Difference Through Relationship
+
+Strongly:
+
+supported.
+
+---
+
+# Comparison 66 — Proof Architecture Benefits From Claim Decomposition
+
+Complex:
+
+claims
+
+should:
+
+often:
+
+be:
+
+split.
+
+Example:
+
+```text
+"We are a regenerative farm-driven restaurant."
+```
+
+contains:
+
+several:
+
+possible:
+
+claims:
+
+- farm exists
+- restaurant is on property
+- farm supplies restaurant
+- regenerative practices exist
+- environmental outcomes occur
+- product reflects farm
+- guest experience reflects farm
+
+Each:
+
+requires:
+
+different:
+
+evidence.
+
+## Cross-Case Rule
+
+```text
+Complex Claim
+↓
+Decompose
+↓
+Evidence Each Material Component
+```
+
+Architecture-level.
+
+---
+
+# Comparison 67 — Claim Decomposition Prevents Proof Inflation
+
+A:
+
+single:
+
+image
+
+often:
+
+gets:
+
+asked:
+
+to:
+
+prove:
+
+too:
+
+much.
+
+Pearl Morissette:
+
+makes:
+
+this:
+
+risk:
+
+clear.
+
+## Correction
+
+```text
+One Evidence Asset
+≠
+Every Implied Claim
+```
+
+---
+
+# Comparison 68 — Proof Scope Must Match Entity Scope
+
+Pearl Morissette:
+
+restaurant
+
+winery
+
+farm
+
+private dining
+
+and:
+
+producer:
+
+network
+
+create:
+
+scope:
+
+risk.
+
+Din Tai Fung:
+
+brand
+
+vs:
+
+location
+
+creates:
+
+another:
+
+scope:
+
+risk.
+
+## Cross-Case Correction
+
+```text
+Related Entity Evidence
+≠
+Target Entity Proof by Default
+```
+
+---
+
+# Comparison 69 — Evidence Integrity Can Require Saying Less
+
+Alinea:
+
+requires:
+
+restraint
+
+to:
+
+protect:
+
+reveal.
+
+Noma:
+
+requires:
+
+restraint
+
+when:
+
+future:
+
+evidence
+
+does:
+
+not:
+
+exist.
+
+Pearl Morissette:
+
+requires:
+
+restraint
+
+when:
+
+causal:
+
+relationships
+
+cannot:
+
+be:
+
+proved.
+
+## Cross-Case Principle
+
+```text
+Evidence Integrity
+may require
+less content
+```
+
+rather:
+
+than:
+
+more.
+
+---
+
+# Comparison 70 — Proof Architecture Is Not Marketing Volume
+
+The:
+
+goal:
+
+is:
+
+not:
+
+to:
+
+show:
+
+everything:
+
+that:
+
+makes:
+
+a:
+
+restaurant:
+
+look:
+
+impressive.
+
+The:
+
+goal:
+
+is:
+
+to:
+
+resolve:
+
+the:
+
+right:
+
+uncertainty
+
+with:
+
+the:
+
+right:
 
 evidence.
 
 ## Correction
 
 ```text
-Ingredient Image
+Marketing Volume
 ≠
-Specific Sourcing Proof
+Proof Quality
 ```
 
 ---
 
-# Cross-Case Finding 53 — Seasonal Does Not Mean Only Freshly Harvested Now
-
-Noma's:
-
-preservation:
-
-logic
-
-makes:
-
-this:
-
-important.
-
-A:
-
-winter:
-
-dish
-
-may:
-
-contain:
-
-ingredients:
-
-gathered:
-
-earlier.
-
-## Correction
-
-```text
-Seasonal
-≠
-Only Harvested Now
-```
-
-Seasonality:
-
-can include:
-
-preservation
-
-storage
-
-and:
-
-later:
-
-transformation.
+# Current Photography Pattern Pressure
 
 ---
 
-# Cross-Case Finding 54 — Process Chains May Need Multi-Stage Proof
-
-For:
-
-preservation
-
-fermentation
-
-or:
-
-long:
-
-production:
-
-systems
-
-one:
-
-image
-
-may not:
-
-be:
-
-sufficient.
-
-Potential:
-
-sequence:
-
-```text
-Gathered
-↓
-Prepared
-↓
-Preserved
-↓
-Transformed
-↓
-Served
-```
-
-where:
-
-evidence:
-
-exists.
-
-## Direction
-
-Temporal Ingredient Chain
+# Photography as Proof
 
 Status:
 
-Proof / Process Architecture
+Emerging
 
-Not:
+Post–Pearl Morissette Pressure:
 
-formal pattern.
+Extremely Strong
 
----
+Governance Review:
 
-# Cross-Case Finding 55 — Evidence Time Scale Is Useful
-
-Noma:
-
-introduces:
-
-multiple:
-
-proof:
-
-time scales.
-
-### Immediate
-
-One:
-
-dish
-
-one:
-
-service
-
-one:
-
-process.
-
-### Seasonal
-
-Weeks
-
-or:
-
-months.
-
-### Annual
-
-Longer:
-
-seasonal:
-
-cycle.
-
-### Institutional
-
-Years
-
-or:
-
-decades.
-
-## Architecture Variable
-
-Evidence Time Scale
-
----
-
-# Cross-Case Finding 56 — Time Scale and Proof Scale Intersect
-
-A:
-
-product:
-
-claim
-
-may:
-
-operate:
-
-at:
-
-Immediate:
-
-scale.
-
-A:
-
-heritage:
-
-claim
-
-may:
-
-require:
-
-Institutional:
-
-scale.
-
-A:
-
-seasonality:
-
-claim
-
-may need:
-
-Seasonal:
-
-scale.
-
-## Proposed Relationship
-
-```text
-Claim Scale
-×
-Evidence Time Scale
-×
-Proof Depth
-=
-Evidence Requirement
-```
-
-## Status
-
-Architecture Hypothesis
-
----
-
-# Cross-Case Finding 57 — Proof Architecture Is Becoming Multidimensional
-
-Current:
-
-proof decisions
-
-may depend on:
-
-- claim
-- scale
-- depth
-- medium
-- location
-- time
-- freshness
-- durability
-- uncertainty type
-- desired confidence
-
-This is:
-
-useful.
-
-But:
-
-KHDS should:
-
-avoid:
-
-turning:
-
-proof architecture
-
-into:
-
-an:
-
-over-engineered:
-
-matrix
-
-for:
-
-every:
-
-restaurant.
-
-## Research Rule
-
-Use:
-
-only:
-
-the:
-
-variables
-
-that:
-
-materially:
-
-affect:
-
-the:
-
-decision.
-
----
-
-# Cross-Case Finding 58 — Photography Should Demonstrate Difference Is Stronger When Difference Is Defined First
-
-A:
-
-common:
-
-risk
-
-is:
-
-choosing:
-
-dramatic:
-
-images
-
-before:
-
-defining:
-
-what:
-
-makes:
-
-the:
-
-restaurant:
-
-different.
-
-The stronger:
-
-sequence is:
-
-```text
-What Makes This Restaurant Different?
-↓
-What Evidence Would Demonstrate That Difference?
-↓
-Which Visual Medium Can Prove It?
-```
-
-Not:
-
-```text
-What Are Our Best Images?
-↓
-What Story Can We Make Them Tell?
-```
-
----
-
-# Cross-Case Finding 59 — Photography Through Layers of Experience Should Follow Proof Architecture
-
-The pattern:
-
-works best
-
-when:
-
-layers
-
-map:
-
-to:
-
-real:
-
-guest:
-
-uncertainties.
+Candidate Review Strongly Warranted
 
 Potential:
 
-layers:
+Candidate / Medium
 
-- product
-- place
-- process
-- atmosphere
-- use
-- participation
-- service
-- system
-- heritage
-- research
-- time
+Primary boundary:
 
-Not every:
+decision-relevant:
 
-restaurant
-
-needs:
-
-every:
-
-layer.
+uncertainty reduction.
 
 ---
 
-# Cross-Case Finding 60 — Evidence Efficiency Is Still Useful
+# Photography Through Layers of Experience
 
-Current direction:
+Status:
 
-Evidence Efficiency
+Emerging
 
-remains:
+Post–Pearl Morissette Pressure:
 
-below Candidate.
+Very Strong
 
-The idea:
+Governance Review:
 
-is:
+Candidate Review Warranted
 
-valuable:
+Potential:
 
-when:
+Candidate / Medium
 
-one:
-
-asset
-
-can:
-
-perform:
-
-multiple:
-
-legitimate:
-
-proof roles
-
-without:
-
-becoming:
-
-ambiguous.
-
-## Correction
-
-```text
-Evidence Efficiency
-≠
-Evidence Compression
-```
-
-Too much:
-
-meaning
-
-inside:
-
-one:
-
-asset
-
-can:
-
-reduce:
-
-clarity.
-
----
-
-# Cross-Case Finding 61 — Proof and Anticipation Remain in Tension
-
-FYN
-
-Alinea
-
-Noma
-
-all:
-
-create:
+Primary boundary:
 
 different:
 
-versions
+layers
 
-of:
+must:
 
-this:
+resolve:
 
-problem.
+different:
 
-Too little:
-
-proof
-
-can:
-
-reduce:
-
-confidence.
-
-Too much:
-
-reveal
-
-can:
-
-reduce:
-
-discovery.
-
-## Current Rule
-
-```text
-Minimum Sufficient Evidence
-```
-
-remains:
-
-the:
-
-best:
-
-resolution.
+uncertainties.
 
 ---
 
-# Cross-Case Finding 62 — Future Uncertainty Is Different From Selective Reveal
+# Photography Should Demonstrate Difference
 
-This deserves:
+Status:
 
-formal:
+Emerging
 
-comparison emphasis.
+Post–Pearl Morissette Pressure:
 
-### Selective Reveal
+Very Strong
 
-The:
+Governance Review:
 
-restaurant:
+Candidate Review Warranted
 
-knows:
+Potential:
 
-more:
+Candidate / Medium
 
-than:
+Primary boundary:
 
-it:
+difference
 
-shows.
+must:
 
-### Future Uncertainty
+be:
 
-The:
+material
 
-restaurant:
+to:
 
-itself
+hospitality
 
-may:
+not:
 
-not yet:
+mere:
 
-know:
-
-the:
-
-exact:
-
-future:
-
-outcome.
-
-## Correction
-
-```text
-Selective Reveal
-≠
-Future Uncertainty
-```
-
-Noma:
-
-adds:
-
-the:
-
-second.
-
-Alinea:
-
-remains:
-
-the:
-
-strongest:
-
-first:
-
-case.
+visual novelty.
 
 ---
 
-# Cross-Case Finding 63 — Proof Strategy Should Respond to Uncertainty Type
+# Photography Before Decoration
 
-### Known and Published
+Status:
 
-Show:
+Emerging
 
-direct:
+Post–Pearl Morissette Pressure:
 
-proof.
+Strong
 
-### Known but Hidden
+Governance Review:
 
-Show:
+Review
 
-minimum:
+but:
 
-reassurance
+exercise:
 
-without:
+extra:
 
-overrevealing.
+governance:
 
-### Operationally Variable
+discipline
 
-Show:
-
-system
-
-states
-
-ranges
-
-or:
-
-real-time:
-
-utility.
-
-### Not Yet Fixed
-
-Show:
-
-method
-
-capacity
-
-history
-
-and:
-
-bounded:
-
-expectation.
-
-## Status
-
-Strong:
-
-cross-dimensional:
-
-proof:
-
-architecture.
-
----
-
-# Cross-Case Finding 64 — Capacity Proof May Be the Correct Response to Not-Yet-Fixed Outcomes
-
-This is:
+because:
 
 the:
 
-strongest:
+same:
 
-post-Noma:
+phrase
 
-proof:
+exists:
 
-hypothesis.
+as:
 
-```text
-Not Yet Fixed Outcome
-↓
-Method Proof
-+
-Capacity Proof
-+
-Relevant Historical Evidence
-+
-Current Context
-↓
-Appropriate Confidence
-```
+a:
 
-This should:
+studio:
 
-carry:
+Foundation.
 
-into:
+No:
 
-governance
-
-without:
-
-premature:
+automatic:
 
 promotion.
 
 ---
 
-# Cross-Case Finding 65 — Coherence Through Change Needs Visual Falsification
+# Photography as Use-Case Evidence
 
-If:
+Status:
 
-Coherence Through Change
+Candidate / Medium-High
 
-is:
+Post–Pearl Morissette Pressure:
 
-to:
+Limited / Neutral
 
-mature
+Governance Review:
 
-future:
+No change.
 
-visual:
+---
 
-evidence
+# Show the System Behind the Plate
 
-will matter.
+Status:
 
-KHDS should:
+Candidate / High
 
-be able to:
+Post–Pearl Morissette Pressure:
 
-compare:
+Extremely Strong
 
-different:
+Governance Review:
 
-states
+No confidence change.
 
-and:
+Definition:
 
-ask:
+refinement:
 
-> **Can we identify a stable, meaningful relationship across them without relying only on the brand's own explanation?**
+toward:
 
-Photography
+distributed:
 
-and:
+systems.
 
-motion
+---
 
-could:
+# Capacity Proof
 
-become:
+Status:
 
-important:
+Observed Research Direction
+
+Post–Pearl Morissette Photography Pressure:
+
+Extremely Strong
+
+Governance Review:
+
+Candidate Review Strongly Warranted
+
+Potential:
+
+Candidate / Medium
+
+Primary remaining:
 
 falsification:
 
-tools.
+authority dependence.
 
 ---
 
-# Cross-Case Finding 66 — Visual Temporal Coherence Is Evidence, Not the Pattern Itself
+# Promise Before Proof
 
-Even if:
+Status:
 
-visual:
+Emerging
+
+Post–Pearl Morissette Pressure:
+
+Strong
+
+Governance Review:
+
+Remain:
+
+under:
+
+review
+
+alongside:
+
+Capacity Proof.
+
+---
+
+# Story Through Place
+
+Status:
+
+Candidate / Medium-High
+
+Post–Pearl Morissette Photography Pressure:
+
+Extremely Strong
+
+Governance Review:
+
+Confidence review belongs:
+
+primarily:
+
+to:
+
+Story:
+
+comparison.
+
+---
+
+# Atmosphere Through Worldview
+
+Status:
+
+Candidate / Medium-High
+
+Photography Contribution:
+
+Supporting
+
+No:
+
+photography-only:
+
+confidence change.
+
+---
+
+# Coherence Through Change
+
+Status:
+
+Observed Cross-Dimensional Research Direction
+
+Photography Pressure:
+
+Boundary / Preliminary
+
+No:
+
+promotion.
+
+---
+
+# New Proof Architecture After Restaurant #15
+
+---
+
+# Thing Proof
+
+Status:
+
+Proof Type
+
+Definition:
+
+shows:
+
+that:
+
+a:
+
+relevant:
+
+thing
+
+state
+
+place
+
+or:
+
+object:
+
+exists.
+
+---
+
+# Relationship Proof
+
+Status:
+
+Proof Type
+
+Definition:
+
+shows:
+
+how:
+
+material:
+
+entities
 
 states
 
-appear:
+or:
 
-coherent
+objects
 
-the:
-
-broader:
-
-hospitality:
-
-system
-
-may:
-
-not:
-
-be.
-
-Therefore:
-
-```text
-Visual Temporal Coherence
-≠
-Coherence Through Change
-```
-
-It may:
-
-support:
-
-the:
-
-direction.
+relate.
 
 ---
 
-# Cross-Case Finding 67 — Photography Alone Cannot Prove Hospitality Quality
+# Relational Proof Sequencing
 
-This remains:
+Status:
 
-mandatory.
+Proof Architecture Direction
 
-Visuals cannot:
+---
 
-establish:
+# Distributed Culinary System
 
-- taste
-- service quality
-- guest satisfaction
-- emotional impact
-- profitability
-- operational consistency
-- conversion
+Status:
 
-## Correction
+Architecture Direction
+
+Potential Home:
+
+Show the System Behind the Plate.
+
+---
+
+# Upstream / Culinary Proof Chain
+
+Status:
+
+Proof Architecture Direction
 
 ```text
-Strong Visual Proof
-≠
-Strong Hospitality Outcome
+Upstream Production
+↓
+Ingredient / Sourcing
+↓
+Culinary Production
+↓
+Finished Product
 ```
 
 ---
 
-# Current Post-Noma Proof Architecture
+# Capacity Evidence Bundle
 
-```text
-Guest Decision
-↓
-Relevant Uncertainty
-↓
-Claim
-↓
-Claim Scale
-+
-Location
-+
-Temporal State where relevant
-+
-Operating Era where relevant
-↓
-What Must Be Proven?
-↓
-What Must Be Explained?
-↓
-What Is Known?
-+
-What Is Hidden?
-+
-What Is Variable?
-+
-What Is Not Yet Fixed?
-↓
-Required Proof Depth
-↓
-Outcome?
-Process?
-Technique?
-Standard?
-Use?
-Participation?
-System?
-Capacity?
-Place?
-Heritage?
-Research?
-↓
-Evidence Freshness
-+
-Evidence Durability
-+
-Claim Fit
-+
-Location Fit
-+
-Temporal Fit
-+
-State Fit
-↓
-Best Evidence Medium
-↓
-Still Photography
-Motion
-Archive
-Sequential Evidence
-Text
-Interface
-Other
-↓
-What Should Remain Unrevealed?
-↓
-Minimum Sufficient Evidence
-↓
-Appropriate Confidence
-```
+Status:
+
+Proof Architecture Direction
+
+Potential Home:
+
+Capacity Proof.
 
 ---
 
-# Simplified Post-Noma Proof Architecture
+# Difference Through Relationship
 
-```text
-Claim
-↓
-What Must Be Proven?
-↓
-How Deeply?
-↓
-At What Scale?
-↓
-For Which Time and Place?
-↓
-Which Medium Makes It Legible?
-↓
-Minimum Sufficient Evidence
-↓
-Confidence
-```
+Status:
 
-This remains:
+Evidence Mechanism
 
-the:
+Potential Home:
 
-strongest:
-
-current:
-
-proof:
-
-abstraction.
+Photography Should Demonstrate Difference.
 
 ---
 
-# Post-Noma Proof Variables
+# Representative Proof
+
+Status:
+
+Evidence Architecture Direction
 
 ---
 
-## Claim Context
+# Productive Relationship Legibility
 
-- Claim
-- Claim Scale
-- Location
-- Operating Era
-- Temporal State
+Status:
+
+Cross-Dimensional Proof Variable
 
 ---
 
-## Proof Depth
+# Claim-Specific Freshness
 
-- Presence
-- Environment
-- Activity
-- Technique
-- Standard
-- Outcome
-- Capacity — under review
+Status:
+
+Evidence Architecture Rule
 
 ---
 
-## Evidence Quality
+# Versioned Evidence
+
+Status:
+
+Implementation / Evidence Architecture
+
+---
+
+# Current Proof Architecture Variables
+
+Post–Pearl Morissette:
+
+proof research now includes:
 
 - Claim Fit
 - Location Fit
@@ -4749,1151 +5690,1379 @@ abstraction.
 - State Fit
 - Evidence Freshness
 - Evidence Durability
-- Evidence Legibility
+- Proof Depth
+- Thing Proof
+- Relationship Proof
+- Process Proof
+- System Proof
+- Use-Case Proof
+- Authority Proof
+- Capacity Proof
+- Product Proof
+- Place Proof
+- Historical Proof
+- Current-State Proof
+- Minimum Sufficient Evidence
+- Representative Proof
+- Relational Proof Sequencing
+- Temporal Proof Sequencing
+- Difference Through Sequence
+- Difference Through Relationship
+- Productive Relationship Legibility
+- Versioned Evidence
+- Archive as Proof
+- Absence as Evidence Integrity
 
----
+These:
 
-## Evidence Structure
+are:
 
-- Evidence Multiplicity
-- Breadth
-- Depth
-- Evidence Time Scale
-- Visual Temporal Coherence
+patterns
 
----
+architecture
 
-## Medium
-
-- Still Photography
-- Motion
-- Archive
-- Sequential Evidence
-- Interface
-- Text
-
-These are:
-
-architecture variables
+mechanisms
 
 or:
 
-evidence media.
+variables
 
-Not:
+at:
 
-formal patterns
+different:
 
-unless:
+maturity:
 
-already:
+levels.
 
-governed.
+Do not:
 
----
+flatten:
 
-# Pattern Pressure — Photography as Proof
-
-Current:
-
-Emerging
-
-Noma:
-
-Extremely Strong
-
-Cross-Case Position:
-
-Strengthened
-
-Primary refinement:
-
-proof must:
-
-account for:
-
-claim
-
-location
-
-time
-
-and:
-
-state.
-
-No maturity change.
+them.
 
 ---
 
-# Pattern Pressure — Photography Through Layers of Experience
-
-Current:
-
-Emerging
-
-Noma:
-
-Very Strong
-
-Cross-Case Position:
-
-Strengthened
-
-Primary refinement:
-
-temporal
-
-historical
-
-and:
-
-research:
-
-layers
-
-where:
-
-relevant.
-
-No maturity change.
+# Photography Deduplication Decisions
 
 ---
 
-# Pattern Pressure — Photography Should Demonstrate Difference
+# Thing Proof / Relationship Proof
 
-Current:
+Remain:
 
-Emerging
+proof:
 
-Noma:
+types.
 
-Very Strong
+Do not:
 
-Cross-Case Position:
-
-Strengthened
-
-Primary refinement:
-
-difference
-
-may:
-
-require:
-
-sequence
-
-when:
-
-difference:
-
-exists:
-
-across:
-
-time.
-
-No maturity change.
-
----
-
-# Pattern Pressure — Photography Before Decoration
-
-Current:
-
-Emerging
-
-Noma:
-
-Strong
-
-Cross-Case Position:
-
-Strengthened
-
-No maturity change.
-
----
-
-# Pattern Pressure — Show the System Behind the Plate
-
-Current:
-
-Emerging
-
-Noma:
-
-Extremely Strong
-
-Cross-Case Position:
-
-Strengthened
-
-Noma adds:
-
-deep:
-
-historical:
-
-culinary-system:
-
-evidence.
-
-No maturity change.
-
----
-
-# Pattern Pressure — Photography as Use-Case Evidence
-
-Current:
-
-Emerging
-
-Noma:
-
-Limited
-
-Cross-Case Position:
-
-Healthy boundary.
-
-No change.
-
----
-
-# Pattern Pressure — Story Through Place
-
-Current:
-
-Emerging
-
-Noma:
-
-Strong visual support potential
-
-Cross-Case Position:
-
-Strengthened
-
-provided:
-
-location:
-
-fit
-
-is:
-
-established.
-
----
-
-# New Direction — Capacity Proof
-
-Current:
-
-Observed Research Direction
-
-Post-Noma Photography Support:
-
-Very Strong
-
-Cross-Case Decision:
-
-Promising
-
-but:
-
-remain:
-
-below Candidate.
-
-Need:
-
-more:
-
-independent:
-
-cases
-
-and:
-
-clear:
-
-falsification.
-
----
-
-# New Direction — Archive as Proof
-
-Current:
-
-Observed Research Direction
-
-Cross-Case Decision:
-
-Treat:
+formalize:
 
 as:
 
-mechanism
+patterns.
 
-inside:
+---
 
-proof architecture.
+# Relational Proof Sequencing
+
+Remain:
+
+proof:
+
+architecture.
 
 Do not:
 
 create:
 
-formal Candidate.
+a:
 
----
-
-# New Direction — Temporal Proof Sequencing
-
-Current:
-
-Proof Architecture Direction
-
-Cross-Case Decision:
-
-Mechanism
-
-not:
+Relational Proof:
 
 pattern.
 
 ---
 
-# New Direction — Absence as Evidence Integrity
+# Distributed Culinary System
 
-Current:
+```text
+Distributed Culinary System
+→
+Show the System Behind the Plate
+```
 
-Proof Direction
-
-Cross-Case Decision:
-
-Interesting
-
-but:
-
-too:
-
-context-specific
-
-for:
-
-Candidate review.
+Architecture direction.
 
 ---
 
-# New Direction — Distributed Identity Proof
+# Upstream / Culinary Proof Chain
 
-Current:
+```text
+Upstream / Culinary Proof Chain
+→
+Show the System Behind the Plate
+```
 
-Proof Architecture Direction
+Mechanism / architecture.
 
-Cross-Case Decision:
+---
+
+# Capacity Evidence Bundle
+
+```text
+Capacity Evidence Bundle
+→
+Capacity Proof
+```
+
+Proof architecture.
+
+---
+
+# Difference Through Relationship
+
+```text
+Difference Through Relationship
+→
+Photography Should Demonstrate Difference
+```
+
+Evidence mechanism.
+
+---
+
+# Representative Proof
 
 Remain:
 
-architecture-only.
+evidence architecture.
 
-Potentially:
+Do not:
 
-useful
-
-for:
-
-institutions
-
-without:
-
-one:
-
-stable:
-
-visual:
-
-anchor.
+formalize.
 
 ---
 
-# New Direction — Versioned Evidence
+# Versioned Evidence
 
-Current:
+Remain:
 
-Implementation / Evidence Architecture
+implementation / evidence architecture.
 
-Cross-Case Decision:
+Do not:
 
-Implementation direction
-
-not:
-
-research pattern.
-
----
-
-# Photography Corrections — Post-Noma
-
----
-
-## Correction 1
-
-Photography
-
-≠
-
-Decoration.
-
----
-
-## Correction 2
-
-Beautiful Image
-
-≠
-
-Useful Proof.
-
----
-
-## Correction 3
-
-Evidence Strength
-
-depends on:
-
-Claim Fit.
-
----
-
-## Correction 4
-
-Brand Proof
-
-≠
-
-Location Proof.
-
----
-
-## Correction 5
-
-Official
-
-≠
-
-Current.
-
----
-
-## Correction 6
-
-Historical Evidence
-
-≠
-
-Current Product Proof.
-
----
-
-## Correction 7
-
-Historical
-
-≠
-
-Irrelevant.
-
----
-
-## Correction 8
-
-Capacity Proof
-
-≠
-
-Future Outcome Proof.
-
----
-
-## Correction 9
-
-Capacity Proof
-
-≠
-
-Authority.
-
----
-
-## Correction 10
-
-Capacity Proof
-
-≠
-
-Photography as Proof.
-
----
-
-## Correction 11
-
-Capacity Proof
-
-≠
-
-Promise Before Proof.
-
----
-
-## Correction 12
-
-Archive
-
-≠
-
-Nostalgia.
-
----
-
-## Correction 13
-
-Visual Variety
-
-≠
-
-Proof of Evolution.
-
----
-
-## Correction 14
-
-Difference Proof
-
-≠
-
-Always Single-State Proof.
-
----
-
-## Correction 15
-
-Use-Case Evidence
-
-≠
-
-Visible People.
-
----
-
-## Correction 16
-
-Guest Visible
-
-≠
-
-Creative Participation Proven.
-
----
-
-## Correction 17
-
-Finished Product Proof
-
-≠
-
-Process Proof.
-
----
-
-## Correction 18
-
-Production Presence
-
-≠
-
-Technique Proof.
-
----
-
-## Correction 19
-
-Show the System Behind the Plate
-
-≠
-
-Hospitality System Proof.
-
----
-
-## Correction 20
-
-Maximum Reveal
-
-≠
-
-Maximum Confidence.
-
----
-
-## Correction 21
-
-Unknown
-
-≠
-
-Hidden.
-
----
-
-## Correction 22
-
-Not Shown
-
-≠
-
-Intentionally Hidden.
-
----
-
-## Correction 23
-
-Selective Reveal
-
-≠
-
-Future Uncertainty.
-
----
-
-## Correction 24
-
-Evidence Freshness
-
-≠
-
-Evidence Durability.
-
----
-
-## Correction 25
-
-Visual Temporal Coherence
-
-≠
-
-Visual Repetition.
-
----
-
-## Correction 26
-
-Visual Coherence
-
-≠
-
-Atmospheric Coherence.
-
----
-
-## Correction 27
-
-One Image
-
-≠
-
-One Proof Role.
-
----
-
-## Correction 28
-
-One Image
-
-≠
-
-Unlimited Meaning.
-
----
-
-## Correction 29
-
-Shared Evidence
-
-≠
-
-Shared Pattern.
-
----
-
-## Correction 30
-
-Research Claim
-
-≠
-
-Research Proof.
-
----
-
-## Correction 31
-
-Research Activity Proof
-
-≠
-
-Research Outcome Quality.
-
----
-
-## Correction 32
-
-Ingredient Image
-
-≠
-
-Specific Sourcing Proof.
-
----
-
-## Correction 33
-
-Seasonal
-
-≠
-
-Only Harvested Now.
-
----
-
-## Correction 34
-
-Large Asset Library
-
-≠
-
-Reliable Evidence System.
-
----
-
-## Correction 35
-
-Strong Visual Proof
-
-≠
-
-Strong Hospitality Outcome.
-
----
-
-# Photography Tension 1 — Current Proof vs Historical Capacity
-
-Question:
-
-> **How much historical evidence can legitimately support a current or future claim?**
-
-Post-Noma Status:
-
-Primary.
-
----
-
-# Photography Tension 2 — Outcome Proof vs Capacity Proof
-
-Question:
-
-> **When the future product cannot yet be shown, what evidence is sufficient to prove the ability to create it?**
-
-Status:
-
-Very Strong.
-
----
-
-# Photography Tension 3 — Freshness vs Durability
-
-Question:
-
-> **Which evidence becomes outdated quickly, and which remains useful because its claim is more durable?**
-
-Status:
-
-Active.
-
----
-
-# Photography Tension 4 — Still Image vs Sequence
-
-Question:
-
-> **When difference exists across time, can one still image provide enough evidence?**
-
-Post-Noma:
-
-major:
-
-tension.
-
----
-
-# Photography Tension 5 — Proof vs Anticipation
-
-Question:
-
-> **How much should be shown before evidence begins to reduce discovery?**
-
-Strong:
-
-FYN
-
-Alinea
-
-Noma:
-
-pressure.
-
----
-
-# Photography Tension 6 — Brand Archive vs Current Location
-
-Question:
-
-> **How should multi-era or multi-location brands prevent historical material from being misread as current local proof?**
-
-Post-Noma:
-
-major.
-
----
-
-# Photography Tension 7 — Visual Abundance vs Evidence Integrity
-
-Question:
-
-> **When is fewer, better-contextualized evidence stronger than a large but ambiguous gallery?**
-
-Active.
-
----
-
-# Photography Tension 8 — Process Visibility vs Process Meaning
-
-Question:
-
-> **When does showing process materially improve guest understanding rather than simply create behind-the-scenes content?**
-
-Active.
-
----
-
-# Photography Tension 9 — Research Identity vs Research Proof
-
-Question:
-
-> **How much actual research evidence is required before a research-led claim becomes credible?**
-
-Active.
-
----
-
-# Photography Tension 10 — Current Outcome vs Future Uncertainty
-
-Question:
-
-> **How should photography behave when the thing the guest is committing to does not yet fully exist?**
-
-Primary:
-
-Noma:
-
-tension.
-
----
-
-# Photography Tension 11 — Evidence Precision vs Visual Simplicity
-
-Question:
-
-> **How much temporal, geographic, and claim context can be added before the visual system becomes cumbersome?**
-
-Important:
-
-future:
-
-implementation:
-
-tension.
-
----
-
-# Strongest Falsification Questions
-
----
-
-# Photography as Proof
-
-> **When does an image fail to reduce a decision-relevant uncertainty?**
-
----
-
-# Photography Through Layers of Experience
-
-> **When do additional evidence layers add noise rather than useful confidence?**
-
----
-
-# Photography Should Demonstrate Difference
-
-> **When does a visually distinctive asset fail to demonstrate a meaningful hospitality difference?**
-
----
-
-# Photography as Use-Case Evidence
-
-> **When does a use image fail to explain actual participation?**
-
----
-
-# Show the System Behind the Plate
-
-> **When does showing culinary process add little understanding of why the product is different?**
-
----
-
-# Capacity Proof
-
-> **When is historical or methodological evidence too weakly connected to the future claim to support confidence?**
+formalize.
 
 ---
 
 # Archive as Proof
 
-> **When does archive material become nostalgia rather than decision-relevant evidence?**
+Remain:
+
+proof mechanism.
+
+Do not:
+
+formalize.
 
 ---
 
-# Temporal Proof Sequencing
-
-> **When does a sequence show variety without proving meaningful evolution?**
+# Photography Corrections — Post Restaurant #15
 
 ---
 
-# Absence as Evidence Integrity
+## Correction 1
 
-> **When does withholding imagery reduce useful confidence rather than protect truthfulness?**
-
----
-
-# Evidence Integrity
-
-> **How much temporal, geographic, or state mismatch makes the evidence misleading?**
+```text
+Photography
+≠
+Proof by Default
+```
 
 ---
 
-# Governance Watch After Photography Comparison
+## Correction 2
 
-No:
-
-formal:
-
-governance changes
-
-occur:
-
-here.
-
-Carry forward:
-
-the following.
+```text
+More Photography
+≠
+More Confidence
+```
 
 ---
 
-# Promotion Watch — Hospitality System Proof
+## Correction 3
 
-Photography contribution:
+```text
+Photography as Proof
+≠
+One Type of Proof
+```
 
-Indirect.
+---
 
-Noma's:
+## Correction 4
 
-proof architecture
+```text
+Beautiful Image
+≠
+Proof
+```
 
-shows:
+---
 
-why:
+## Correction 5
 
-photography
+```text
+Relevant Subject
+≠
+Relevant Claim Proven
+```
 
-alone
+---
 
-is often:
+## Correction 6
 
-insufficient:
+```text
+Thing Proof
+≠
+Relationship Proof
+```
 
-for:
+---
 
-system:
+## Correction 7
 
-clarity.
+```text
+System Photography
+≠
+Process Photography
+```
 
-Primary:
+---
 
-promotion pressure
+## Correction 8
 
-still belongs:
+```text
+Culinary System
+≠
+Single Production Location
+```
+
+---
+
+## Correction 9
+
+```text
+Proof Chain
+≠
+Ownership Chain
+```
+
+---
+
+## Correction 10
+
+```text
+One Image
+≠
+Whole System Proof
+```
+
+---
+
+## Correction 11
+
+```text
+Relational Sequence
+≠
+Temporal Sequence
+```
+
+---
+
+## Correction 12
+
+```text
+Restaurant Difference
+≠
+Always Visible in One Image
+```
+
+---
+
+## Correction 13
+
+```text
+Photography Through Layers
+≠
+More Image Variety
+```
+
+---
+
+## Correction 14
+
+```text
+More Layers
+≠
+Better Proof
+```
+
+---
+
+## Correction 15
+
+```text
+Maximum Evidence
+≠
+Maximum Understanding
+```
+
+---
+
+## Correction 16
+
+```text
+Representative Evidence
+≠
+Evidence of Every Case
+```
+
+---
+
+## Correction 17
+
+```text
+Example
+≠
+Universal Rule
+```
+
+---
+
+## Correction 18
+
+```text
+Ingredient Visible
+≠
+Ingredient Origin Proven
+```
+
+---
+
+## Correction 19
+
+```text
+Ingredient Origin
+≠
+Ingredient Role Proven
+```
+
+---
+
+## Correction 20
+
+```text
+Finished Dish
+≠
+Food System Proof
+```
+
+---
+
+## Correction 21
+
+```text
+Farm Image
+≠
+Specific Ingredient Traceability
+```
+
+---
+
+## Correction 22
+
+```text
+Productive Landscape Proof
+≠
+Culinary Process Proof
+```
+
+---
+
+## Correction 23
+
+```text
+Place Proof
+≠
+Product Proof
+```
+
+---
+
+## Correction 24
+
+```text
+Strong Photography as Proof
+≠
+Strong Use-Case Photography Required
+```
+
+---
+
+## Correction 25
+
+```text
+Use-Case Evidence
+≠
+Lifestyle Photography
+```
+
+---
+
+## Correction 26
+
+```text
+Hospitality Photography
+≠
+People Required
+```
+
+---
+
+## Correction 27
+
+```text
+Rural Aesthetic
+≠
+Agricultural System Proof
+```
+
+---
+
+## Correction 28
+
+```text
+Studio Foundation
+≠
+Research Validation
+```
+
+---
+
+## Correction 29
+
+```text
+Capacity Proof
+≠
+Historical Proof Alone
+```
+
+---
+
+## Correction 30
+
+```text
+Capacity Proof
+≠
+Single Hero Image
+```
+
+---
+
+## Correction 31
+
+```text
+Authority
+≠
+Capacity Proof
+```
+
+---
+
+## Correction 32
+
+```text
+Recognition
+≠
+Future Outcome Evidence
+```
+
+---
+
+## Correction 33
+
+```text
+Promise Before Proof
+≠
+Capacity Proof
+```
+
+---
+
+## Correction 34
+
+```text
+Evidence Freshness
+≠
+Evidence Durability
+```
+
+---
+
+## Correction 35
+
+```text
+Current
+≠
+Durable
+```
+
+---
+
+## Correction 36
+
+```text
+Historical Evidence
+≠
+Current Product Proof
+```
+
+---
+
+## Correction 37
+
+```text
+Official
+≠
+Current
+```
+
+---
+
+## Correction 38
+
+```text
+Real Evidence
+≠
+Relevant State Evidence
+```
+
+---
+
+## Correction 39
+
+```text
+Brand-Level Evidence
+≠
+Location-Level Proof
+```
+
+---
+
+## Correction 40
+
+```text
+Same Ecosystem
+≠
+Same Guest Experience
+```
+
+---
+
+## Correction 41
+
+```text
+Difference Through Sequence
+≠
+Difference Through Relationship
+```
+
+---
+
+## Correction 42
+
+```text
+Motion
+≠
+Better Proof by Default
+```
+
+---
+
+## Correction 43
+
+```text
+Distributed System
+≠
+Photography-Only Proof Problem
+```
+
+---
+
+## Correction 44
+
+```text
+Evidence System
+>
+Photography Alone
+```
+
+---
+
+## Correction 45
+
+```text
+More Proof
+≠
+More Understanding
+```
+
+---
+
+## Correction 46
+
+```text
+Photography as Proof
+≠
+Photography Through Layers
+```
+
+---
+
+## Correction 47
+
+```text
+Proof
+≠
+Difference
+```
+
+---
+
+## Correction 48
+
+```text
+Evidence Priority
+≠
+Proof Function
+```
+
+---
+
+## Correction 49
+
+```text
+System Use
+≠
+Guest Use
+```
+
+---
+
+## Correction 50
+
+```text
+Visual Evidence
+≠
+Outcome Evidence
+```
+
+---
+
+## Correction 51
+
+```text
+System Legibility
+≠
+System Performance
+```
+
+---
+
+## Correction 52
+
+```text
+Ecological Narrative
+≠
+Environmental Performance Proof
+```
+
+---
+
+## Correction 53
+
+```text
+Regenerative Narrative
+≠
+Regenerative Performance Proof
+```
+
+---
+
+## Correction 54
+
+```text
+Farm Photography
+≠
+Sustainability Outcome Proven
+```
+
+---
+
+## Correction 55
+
+```text
+Authority Proof
+≠
+Capacity Proof
+```
+
+---
+
+## Correction 56
+
+```text
+Process Proof
+≠
+Capacity Proof
+```
+
+---
+
+## Correction 57
+
+```text
+Existing Product Proof
+≠
+Future Capacity Proof
+```
+
+---
+
+## Correction 58
+
+```text
+Current Difference
+≠
+Future Product Promise
+```
+
+---
+
+## Correction 59
+
+```text
+Visible Productive Context
+≠
+Legible Productive Relationship
+```
+
+---
+
+## Correction 60
+
+```text
+Narrative Relationship Depth
+≠
+Relationship Proof Depth
+```
+
+---
+
+## Correction 61
+
+```text
+Visual Novelty
+≠
+Hospitality Difference
+```
+
+---
+
+## Correction 62
+
+```text
+One Evidence Asset
+≠
+Every Implied Claim
+```
+
+---
+
+## Correction 63
+
+```text
+Related Entity Evidence
+≠
+Target Entity Proof by Default
+```
+
+---
+
+## Correction 64
+
+```text
+Marketing Volume
+≠
+Proof Quality
+```
+
+---
+
+# Strongest Photography / Proof Tensions After Restaurant #15
+
+---
+
+# Tension 1 — Thing Proof vs Relationship Proof
+
+Question:
+
+> **When is proving that individual components exist insufficient because the hospitality claim depends on the relationship among them?**
+
+Strongest case:
+
+Pearl Morissette.
+
+---
+
+# Tension 2 — System Proof vs Process Proof
+
+Question:
+
+> **Does the guest need to understand transformation, structure, or both?**
+
+Strong cases:
+
+- ICHIRAN
+- Din Tai Fung
+- Pearl Morissette
+
+---
+
+# Tension 3 — Distributed System vs Evidence Simplicity
+
+Question:
+
+> **How can a geographically or operationally distributed system be made legible without overwhelming the guest?**
+
+Strongest case:
+
+Pearl Morissette.
+
+---
+
+# Tension 4 — Current Product vs Future Promise
+
+Question:
+
+> **How should current or historical product photography support a variable future experience without becoming a false promise?**
+
+Strong cases:
+
+- Alinea
+- Noma
+- Pearl Morissette
+
+---
+
+# Tension 5 — Capacity Proof vs Authority
+
+Question:
+
+> **Would productive, process, and historical evidence still create confidence if reputation were materially weaker?**
+
+Strongest:
+
+governance:
+
+tension.
+
+---
+
+# Tension 6 — Evidence Freshness vs Evidence Durability
+
+Question:
+
+> **Which claims require fresh evidence and which can rely on older but still durable evidence?**
+
+Strong cases:
+
+- Noma
+- Pearl Morissette
+
+---
+
+# Tension 7 — Photography vs Other Evidence Media
+
+Question:
+
+> **When is a map, diagram, caption, menu, archive, or structured interface stronger than another photograph?**
+
+Strong:
+
+cross-case:
+
+question.
+
+---
+
+# Tension 8 — Difference vs Visual Novelty
+
+Question:
+
+> **Is the image proving a material hospitality difference or merely showing something visually distinctive?**
+
+Relevant:
 
 to:
 
-arrival
-
-and:
-
-participation.
+Photography Should Demonstrate Difference.
 
 ---
 
-# Emerging Strength — Photography as Proof
+# Tension 9 — Proof Layers vs Evidence Overload
 
-Current:
+Question:
 
-Emerging
+> **How many evidence layers materially reduce uncertainty before additional layers become noise?**
 
-Post-Noma Position:
+Relevant:
 
-Strongly strengthened
+to:
 
-No:
-
-current:
-
-promotion:
-
-beyond:
-
-Emerging.
+Photography Through Layers of Experience.
 
 ---
 
-# Emerging Strength — Photography Through Layers of Experience
+# Tension 10 — Productive Context vs Product Traceability
 
-Current:
+Question:
 
-Emerging
+> **When does showing land, growers, or kitchens establish context, and when does a stronger causal chain become necessary?**
 
-Post-Noma Position:
+Strongest case:
 
-Strengthened
-
-Temporal
-
-historical
-
-and:
-
-research:
-
-layers:
-
-now:
-
-clarified.
+Pearl Morissette.
 
 ---
 
-# Emerging Strength — Photography Should Demonstrate Difference
+# Tension 11 — Narrative Claim vs Proof Claim
 
-Current:
+Question:
 
-Emerging
+> **When does a story about values, place, ecology, or craft require stronger evidence before it can be treated as more than narrative?**
 
-Post-Noma Position:
+Strong cases:
 
-Strengthened
+- NARISAWA
+- Noma
+- Pearl Morissette
 
-Difference Through Sequence
+---
+
+# Tension 12 — Evidence Integrity vs Content Abundance
+
+Question:
+
+> **When should the restaurant deliberately show less because the available evidence does not fit the current claim?**
+
+Strong cases:
+
+- Alinea
+- Noma
+- Pearl Morissette
+
+---
+
+# Strongest Photography Falsification Questions
+
+---
+
+# Photography as Proof
+
+> **If the image were removed, would the guest lose decision-relevant understanding, or only visual richness?**
+
+---
+
+# Photography Through Layers of Experience
+
+> **Does each layer resolve a different material uncertainty, or are multiple layers repeating the same proof function?**
+
+---
+
+# Photography Should Demonstrate Difference
+
+> **Does the visual evidence show a material hospitality distinction, or merely a visually attractive subject?**
+
+---
+
+# Show the System Behind the Plate
+
+> **Can the guest understand the relevant culinary system rather than simply see isolated process fragments?**
+
+---
+
+# Thing Proof / Relationship Proof
+
+> **Which claims require proof of connection rather than proof of existence?**
+
+---
+
+# Capacity Proof
+
+> **Would the evidence still support future capability if the restaurant's authority signals were removed?**
+
+---
+
+# Evidence Freshness
+
+> **At what point does a once-valid image become misleading for the current claim?**
+
+---
+
+# Evidence Durability
+
+> **Which evidence remains appropriate even after the specific product, menu, or season changes?**
+
+---
+
+# Representative Proof
+
+> **Can a small sample represent a larger system accurately without implying totality?**
+
+---
+
+# Distributed Culinary System
+
+> **Does the proof explain relationships across the network, or simply present a list of suppliers and attractive farm images?**
+
+---
+
+# Productive Relationship Legibility
+
+> **Can the guest understand how productive context connects to hospitality output without filling in unsupported causal gaps?**
+
+---
+
+# Candidate Review Queue — Photography / Proof Dimension
+
+The following:
 
 should:
 
-remain:
+move:
 
-a:
+into:
 
-mechanism.
+formal:
+
+review
+
+after:
+
+Reservation
+
+and:
+
+Story:
+
+comparisons
+
+are:
+
+also:
+
+complete.
 
 ---
 
-# Emerging Strength — Show the System Behind the Plate
+# 1. Photography as Proof
 
 Current:
 
 Emerging
 
-Post-Noma Position:
+Photography Recommendation:
 
-Very Strong
+Candidate Review Strongly Warranted
 
-Noma adds:
+Potential:
 
-deep:
+Candidate / Medium
 
-culinary-system:
+Strongest support:
 
-support
+- Franklin
+- ICHIRAN
+- Din Tai Fung
+- Noma
+- Pearl Morissette
 
-without:
+Primary boundary:
 
-changing:
+decision-relevant:
 
-the:
-
-pattern's:
-
-boundary.
+uncertainty reduction.
 
 ---
 
-# New Candidate Watch — Capacity Proof
+# 2. Photography Through Layers of Experience
+
+Current:
+
+Emerging
+
+Photography Recommendation:
+
+Candidate Review Warranted
+
+Potential:
+
+Candidate / Medium
+
+Strongest support:
+
+- Dishoom
+- Haidilao
+- ICHIRAN
+- Din Tai Fung
+- Noma
+- Pearl Morissette
+
+Primary boundary:
+
+each:
+
+layer
+
+must:
+
+perform:
+
+distinct:
+
+evidence:
+
+work.
+
+---
+
+# 3. Photography Should Demonstrate Difference
+
+Current:
+
+Emerging
+
+Photography Recommendation:
+
+Candidate Review Warranted
+
+Potential:
+
+Candidate / Medium
+
+Strongest mechanisms:
+
+- Difference Through Sequence
+- Difference Through Relationship
+
+Primary risk:
+
+generic:
+
+"show your difference"
+
+language.
+
+---
+
+# 4. Capacity Proof
 
 Current:
 
 Observed Research Direction
 
-Post-Noma Photography Position:
+Photography Recommendation:
 
-Strongest New Proof Watch
+Candidate Review Strongly Warranted
 
-Reasons:
+Potential:
 
-- future-outcome uncertainty
-- historical capacity evidence
-- method evidence
-- process evidence
-- high-commitment decisions
+Candidate / Medium
 
-Risks:
+Strongest:
 
-- overlap with authority
-- overlap with Promise Before Proof
-- overlap with Photography as Proof
-- current evidence still Noma-heavy
+cases:
 
-Decision:
+Noma
 
-Remain:
+Pearl Morissette
 
-below Candidate
+Primary remaining:
 
-until:
+falsification:
 
-broader:
+authority dependence.
 
-cross-case:
+---
+
+# Patterns / Directions That Should Not Move From Photography Evidence Alone
+
+---
+
+# Photography Before Decoration
+
+Strong:
+
+support
+
+but:
+
+governance:
+
+must:
+
+remain:
+
+separate
+
+from:
+
+the:
+
+studio:
+
+Foundation.
+
+---
+
+# Photography as Use-Case Evidence
+
+Already:
+
+Candidate / Medium-High.
+
+Pearl Morissette:
+
+adds:
+
+little:
+
+new:
+
+pressure.
+
+No change.
+
+---
+
+# Coherence Through Change
+
+Photography:
+
+adds:
+
+proof:
+
+architecture
+
+but:
+
+Restaurant #15:
+
+does:
+
+not:
+
+provide:
+
+enough:
+
+system:
+
+transformation:
+
+evidence.
+
+Remain below Candidate.
+
+---
+
+# Atmosphere Through Worldview
+
+Photography:
+
+supports:
+
+physical:
+
+translation.
+
+Confidence:
+
+decision
+
+belongs:
+
+to:
+
+cross-dimensional:
 
 reconciliation.
+
+---
+
+# Existing Candidate Stability
+
+---
+
+# Show the System Behind the Plate
+
+Candidate / High
+
+Extremely:
+
+strong:
+
+Pearl Morissette:
+
+support.
+
+No:
+
+confidence:
+
+change.
+
+---
+
+# Story Through Place
+
+Candidate / Medium-High
+
+Extremely:
+
+strong:
+
+visual:
+
+support.
+
+Confidence:
+
+review
+
+belongs:
+
+primarily:
+
+to:
+
+Story.
 
 ---
 
@@ -5901,151 +7070,429 @@ reconciliation.
 
 After:
 
-fourteen:
+15:
 
-independent restaurants
+independent:
 
-the strongest:
+restaurants
 
-proof conclusion remains:
+KHDS proof research:
 
-> **Photography is useful when it proves something the guest actually needs to believe, understand, or anticipate.**
+now:
 
-Noma makes:
+has:
 
-that:
-
-architecture
+a:
 
 more:
 
-demanding.
+precise:
+
+model
+
+for:
+
+visual:
+
+evidence.
 
 The strongest:
 
-post-Noma:
+cross-case:
 
-finding is:
+finding remains:
 
-> **Evidence must fit not only the claim, but also the relevant location, time, and hospitality state.**
+> **Evidence quality depends on claim fit, not visual beauty.**
 
-A second major finding is:
+Restaurant Pearl Morissette:
 
-> **Historical evidence can be strong proof without being current product proof.**
+adds:
 
-A third is:
+one:
 
-> **Capacity proof becomes relevant when the future hospitality outcome cannot yet be shown directly.**
+of:
 
-A fourth is:
+the:
 
-> **Visual variety does not prove evolution; relationships between states must be legible.**
+most:
 
-A fifth is:
+important:
 
-> **Temporal difference may require sequence rather than a single hero image.**
+proof:
 
-A sixth is:
+distinctions
 
-> **Evidence freshness and evidence durability are different.**
+in:
 
-A seventh is:
+the:
 
-> **Unknown and intentionally hidden outcomes require different visual strategies.**
+research:
 
-An eighth is:
-
-> **An archive can function as proof when its historical status and current relevance are explicit.**
-
-A ninth is:
-
-> **The absence of a current image may preserve evidence integrity when no current asset can truthfully support the claim.**
-
-A tenth is:
-
-> **Proof depth, scale, time, location, and medium should remain proportional to the uncertainty being resolved rather than becoming a checklist applied to every restaurant.**
-
----
-
-# Post-Noma Proof Architecture
+so far:
 
 ```text
-Guest Decision
-↓
-Relevant Uncertainty
-↓
-Claim
-↓
-Claim Scale
-+
-Location
-+
-Temporal State where relevant
-+
-Operating Era where relevant
-↓
-What Must Be Proven?
-↓
-What Is Known?
-+
-What Is Hidden?
-+
-What Is Variable?
-+
-What Is Not Yet Fixed?
-↓
-Required Proof Depth
-↓
-Evidence Freshness
-+
-Evidence Durability
-+
-Claim Fit
-+
-Location Fit
-+
-Temporal Fit
-+
-State Fit
-↓
-Best Evidence Medium
-↓
-Still Photography
-Motion
-Archive
-Sequence
-Text
-Interface
-Other
-↓
-What Should Remain Unrevealed?
-↓
-Minimum Sufficient Evidence
-↓
-Appropriate Confidence
+Thing Proof
+≠
+Relationship Proof
 ```
+
+A:
+
+farm
+
+can:
+
+exist.
+
+A:
+
+kitchen
+
+can:
+
+exist.
+
+A:
+
+dish
+
+can:
+
+exist.
+
+Those:
+
+facts
+
+do:
+
+not:
+
+automatically:
+
+prove:
+
+how:
+
+the:
+
+three:
+
+relate.
+
+Restaurant #15:
+
+therefore:
+
+strengthens:
+
+the:
+
+idea:
+
+that:
+
+system-level:
+
+hospitality:
+
+claims
+
+often:
+
+require:
+
+relationship:
+
+legibility
+
+rather:
+
+than:
+
+more:
+
+isolated:
+
+images.
+
+It also:
+
+extends:
+
+Show the System Behind the Plate:
+
+beyond:
+
+one:
+
+kitchen
+
+or:
+
+one:
+
+production:
+
+location.
+
+The:
+
+system
+
+can:
+
+be:
+
+distributed.
+
+```text
+Producer Network
++
+Place
++
+Ingredient
++
+Kitchen
++
+Finished Product
+```
+
+can:
+
+still:
+
+form:
+
+one:
+
+culinary:
+
+system
+
+without:
+
+requiring:
+
+vertical:
+
+integration.
+
+Pearl Morissette:
+
+also:
+
+strongly:
+
+reinforces:
+
+Capacity Proof.
+
+When:
+
+future:
+
+product:
+
+specificity
+
+is:
+
+limited
+
+the:
+
+restaurant
+
+may:
+
+need:
+
+a:
+
+bundle:
+
+of:
+
+evidence:
+
+about:
+
+method
+
+people
+
+process
+
+resources
+
+relationships
+
+and:
+
+previous:
+
+capability.
+
+But:
+
+the:
+
+current:
+
+strongest:
+
+Capacity Proof:
+
+cases:
+
+still:
+
+contain:
+
+high:
+
+authority.
+
+That:
+
+problem
+
+remains:
+
+unresolved.
+
+The strongest:
+
+formal:
+
+governance:
+
+questions leaving:
+
+Photography comparison are:
+
+> **Has Photography as Proof become sufficiently repeated, bounded, and decision-relevant to enter Candidate maturity?**
+
+> **Has Photography Through Layers of Experience become sufficiently distinct from simple content variety to enter Candidate maturity?**
+
+> **Has Photography Should Demonstrate Difference become sufficiently falsifiable now that Difference Through Sequence and Difference Through Relationship provide clearer mechanisms?**
+
+> **Has Capacity Proof now accumulated enough mechanistically distinct cross-case evidence to become Candidate / Medium despite the remaining authority-dependence problem?**
+
+Those:
+
+decisions
+
+should:
+
+wait:
+
+until:
+
+Reservation
+
+and:
+
+Story:
+
+comparisons
+
+are:
+
+also:
+
+complete.
 
 ---
 
 # Validation
 
-Comparison Dimension:
+Comparison File:
 
-Photography
+`khds/research/comparison/photography.md`
 
-Restaurants Compared:
+Status:
 
-14
+Post–Pearl Morissette Complete
 
-Latest Restaurant Added:
+Independent Restaurants Compared:
 
-Noma Copenhagen 2026
+15
 
-Comparison Status:
+Latest Case:
 
-Complete
+Restaurant Pearl Morissette
 
-Formal Pattern Promotions:
+Primary New Governance Watch:
+
+Photography as Proof
+
+Secondary Governance Watches:
+
+Photography Through Layers of Experience
+
+Photography Should Demonstrate Difference
+
+Capacity Proof
+
+Strongest New Proof Distinction:
+
+Thing Proof
+
+≠
+
+Relationship Proof
+
+Strongest New Sequencing Direction:
+
+Relational Proof Sequencing
+
+Strongest New System Refinement:
+
+Distributed Culinary System
+
+Strongest New Capacity Refinement:
+
+Capacity Evidence Bundle
+
+Strongest New Difference Mechanism:
+
+Difference Through Relationship
+
+Strongest New Evidence-Efficiency Direction:
+
+Representative Proof
+
+Strongest Reinforced Evidence Rule:
+
+Minimum Sufficient Evidence
+
+Strongest Freshness Rule:
+
+Evidence Freshness
+
+≠
+
+Evidence Durability
+
+Strongest System Boundary:
+
+System Legibility
+
+≠
+
+System Performance
+
+Strongest Sustainability Boundary:
+
+Regenerative Narrative
+
+≠
+
+Regenerative Performance Proof
+
+Formal Promotions:
 
 0
 
@@ -6057,74 +7504,10 @@ Confidence Changes:
 
 0
 
-Strongest Existing Pattern Pressure:
+Governance Changes:
 
-Photography as Proof
+0
 
-Show the System Behind the Plate
-
-Photography Through Layers of Experience
-
-Photography Should Demonstrate Difference
-
-Strongest New Proof Direction:
-
-Capacity Proof
-
-Strongest New Evidence Refinement:
-
-Evidence Fit
-
-=
-
-Claim Fit
-
-+
-
-Location Fit
-
-+
-
-Temporal Fit
-
-+
-
-State Fit
-
-Strongest New Temporal Variable:
-
-Evidence Freshness
-
-Strongest New Proof Distinction:
-
-Evidence Freshness
-
-≠
-
-Evidence Durability
-
-Strongest New Historical Boundary:
-
-Historical Evidence
-
-≠
-
-Current Product Proof
-
-Strongest New Uncertainty Boundary:
-
-Unknown
-
-≠
-
-Hidden
-
-Governance Status:
-
-Pending Completion of All Post-Noma Comparison Dimensions
-
----
-
-# Next Comparison File
+Next Comparison File:
 
 `khds/research/comparison/reservation.md`

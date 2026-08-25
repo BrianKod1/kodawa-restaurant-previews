@@ -1,130 +1,146 @@
-# KHDS Atmosphere Comparison
+# KHDS Cross-Restaurant Comparison — Atmosphere
 
 ## Status
 
-Post–Noma Cross-Restaurant Comparison
+Post–Pearl Morissette Comparison
 
-Independent Restaurants Compared:
+Restaurants Compared:
 
-14
+15
 
-Current Comparison Stage:
+Track:
 
-Atmosphere Complete
+Track A — Independent Hospitality Research
 
-Governance Impact:
+Latest Added Case:
 
-None in this file
+Restaurant Pearl Morissette — Jordan Station
 
-Formal Promotions:
+Comparison Status:
 
-0
+Complete
 
-Formal Demotions:
+Canonical Governance Changes:
 
-0
+None
 
-Confidence Changes:
+This file:
 
-0
+compares:
+
+atmosphere findings
+
+across:
+
+all:
+
+independent:
+
+restaurant:
+
+research cases.
+
+It does not:
+
+independently:
+
+promote
+
+demote
+
+rename
+
+merge
+
+validate
+
+or:
+
+change:
+
+pattern confidence.
+
+Formal:
+
+governance:
+
+decisions
+
+belong:
+
+to:
+
+`khds/research/validation/candidate-patterns.md`
+
+after:
+
+all:
+
+five:
+
+post–Restaurant #15:
+
+comparison files
+
+are:
+
+complete.
 
 ---
 
 # Purpose
 
-Compare:
+Atmosphere research asks:
 
-atmosphere architecture
+> **What materially shapes the guest-facing environmental state of a hospitality experience, and how does that atmosphere connect to the restaurant's broader hospitality logic?**
 
-across:
+KHDS does not:
 
-fourteen:
+treat:
 
-independent hospitality cases
+atmosphere
 
-to determine:
+as:
 
-what survives:
+visual style
 
-across:
+alone.
 
-materially different:
+Atmosphere may be shaped through:
 
-hospitality models.
+- spatial structure
+- materiality
+- social interaction
+- privacy
+- service presence
+- sound
+- light
+- worldview
+- place
+- continuity
+- ritual
+- participation
+- productive context
+- environmental thresholds
+- time
 
-The objective is not:
+Different:
 
-to identify:
+hospitality:
 
-one:
+models
 
-universal:
-
-visual atmosphere.
-
-It is to understand:
-
-how:
-
-different restaurants
-
-create:
-
-coherent:
-
-guest conditions
-
-through:
+produce:
 
 different:
 
-combinations
+atmospheric:
 
-of:
-
-place
-
-worldview
-
-continuity
-
-escape
-
-social interaction
-
-individual focus
-
-service
-
-ritual
-
-participation
-
-craft
-
-constraint
-
-process
-
-and:
-
-time.
-
-The central comparison question remains:
-
-> **What actually creates atmosphere?**
-
-Post–Noma:
-
-a second:
-
-question becomes:
-
-> **Can atmosphere remain coherent when its expression changes through time?**
+mechanisms.
 
 ---
 
-# Restaurants Compared
+# Restaurants Included
 
 1. Ankole
 2. Cultiva
@@ -140,1304 +156,763 @@ question becomes:
 12. ICHIRAN Shibuya
 13. Din Tai Fung Covent Garden
 14. Noma Copenhagen 2026
+15. Restaurant Pearl Morissette
 
 ---
 
-# Current Governance State Entering Comparison
+# Current Atmosphere Thesis
 
-Emerging:
+The strongest:
 
-23
+cross-restaurant:
 
-Candidate:
+atmosphere:
 
-6
+finding remains:
 
-Partially Supported:
+> **Atmosphere is a hospitality mechanism, not a visual style category.**
 
-1
+A:
 
-Validated:
+restaurant:
 
-0
+can:
 
-Research-Derived KHDS Principles:
+create:
 
-0
-
-Implementation Pattern Pending Formal Validation:
-
-1
-
-Opportunity Themes:
-
-36
-
-Track B Implementation Learnings:
-
-17
-
-Highest Research-Derived Maturity:
-
-Emerging
-
-No:
-
-formal governance changes
-
-occur:
-
-inside:
-
-this comparison file.
-
----
-
-# Core Atmosphere Position
-
-The strongest current conclusion remains:
-
-> **Atmosphere is a mechanism of hospitality, not a visual style.**
-
-Atmosphere may be created through:
-
-- worldview
-- place
-- continuity
-- escape
-- social energy
-- privacy
-- concentration
-- ritual
-- service
-- guest behaviour
-- production
-- craft
-- material environment
-- constraint
-- process
-- time
-- absence
-- presence
-
-Therefore:
-
-```text
-Atmosphere
-≠
-Decoration
-```
-
-and:
-
-```text
-Atmosphere
-≠
-Social Energy
-```
-
-and:
-
-```text
-Atmosphere
-≠
-One Universal Mechanism
-```
-
----
-
-# Cross-Restaurant Atmosphere Types
-
----
-
-# Ankole
-
-## Atmosphere Type
-
-Refinement Through Place
-
-## Strongest Mechanisms
-
-- place
-- visual refinement
-- environment
-- social hospitality
-
-## Primary Atmosphere Logic
-
-A polished:
-
-hospitality environment
-
-rooted in:
-
-local place
-
-and:
-
-contemporary refinement.
-
----
-
-# Cultiva
-
-## Atmosphere Type
-
-Worldview-Led Atmosphere
-
-## Strongest Mechanisms
-
-- culinary worldview
-- sourcing
-- philosophy
-- product
-- place
-
-## Primary Atmosphere Logic
-
-The restaurant's:
-
-belief system
-
-helps organize:
-
-how:
-
-the environment
-
-and:
-
-hospitality:
-
-are interpreted.
-
----
-
-# Talisman
-
-## Atmosphere Type
-
-Continuity-Led Atmosphere
-
-## Strongest Mechanisms
-
-- place history
-- material continuity
-- heritage
-- spatial accumulation
-
-## Primary Atmosphere Logic
-
-Atmospheric meaning:
-
-is strengthened:
+atmosphere
 
 through:
 
-continuity
-
-across:
-
-time
-
-place
-
-and:
-
-material identity.
-
----
-
-# Mawimbi
-
-## Atmosphere Type
-
-Designed Escape
-
-## Strongest Mechanisms
-
-- theatrical environment
-- destination framing
-- spatial separation
-- sensory world-building
-
-## Primary Atmosphere Logic
-
-The guest is:
-
-transported:
-
-into:
-
-a distinct:
-
-hospitality world.
-
----
-
-# Bistro Lolo
-
-## Atmosphere Type
-
-Belonging + Social Rhythm
-
-## Strongest Mechanisms
-
-- social familiarity
-- neighbourhood identity
-- everyday use
-- human presence
-
-## Primary Atmosphere Logic
-
-Atmosphere grows through:
-
-belonging
-
-familiarity
-
-and:
-
-social participation.
-
----
-
-# FYN
-
-## Atmosphere Type
-
-Restraint + Controlled Contrast
-
-## Strongest Mechanisms
-
-- restraint
-- controlled environment
-- culinary focus
-- authority
-- contrast
-
-## Primary Atmosphere Logic
-
-Atmosphere emerges:
-
-through:
-
-careful:
-
-control
-
-rather than:
-
-visual excess.
-
----
-
-# Dishoom Covent Garden
-
-## Atmosphere Type
-
-Narrative World + Cultural Memory
-
-## Strongest Mechanisms
-
-- story
-- cultural reference
-- architecture
-- place
-- social use
-
-## Primary Atmosphere Logic
-
-Atmosphere is:
-
-constructed:
-
-through:
-
-a coherent:
-
-narrative world
-
-connected to:
-
-cultural memory.
-
----
-
-# Franklin Barbecue
-
-## Atmosphere Type
-
-Product + Queue Culture + Informality
-
-## Strongest Mechanisms
-
-- product
-- waiting
-- social rhythm
-- informality
-- operational reality
-
-## Primary Atmosphere Logic
-
-Atmosphere emerges:
-
-from:
-
-the:
-
-product
-
-access process
-
-and:
-
-communal:
-
-informality
-
-around:
-
-the visit.
-
----
-
-# Alinea
-
-## Atmosphere Type
-
-Transformation + Controlled Experience
-
-## Strongest Mechanisms
-
-- experience architecture
-- surprise
-- controlled reveal
-- pacing
-- transformation
-
-## Primary Atmosphere Logic
-
-Atmosphere is:
-
-part:
-
-of:
-
-a:
-
-deliberately:
-
-constructed:
-
-experiential system.
-
----
-
-# NARISAWA
-
-## Atmosphere Type
-
-Ecology + Philosophy
-
-## Strongest Mechanisms
-
-- ecology
-- worldview
-- place
-- craft
-- natural systems
-
-## Primary Atmosphere Logic
-
-Atmosphere:
-
-is:
-
-connected:
-
-to:
-
-an:
-
-ecological:
-
-worldview
-
-and:
-
-relationship to:
-
-nature.
-
----
-
-# Haidilao Toronto Downtown
-
-## Atmosphere Type
-
-Human Service + Social Participation + Ritual
-
-## Strongest Mechanisms
-
-- visible service
-- social interaction
-- ritual
-- participation
-- human presence
-
-## Primary Atmosphere Logic
-
-Atmosphere emerges:
-
-through:
-
-high:
-
-service visibility
-
-human interaction
-
-and:
-
-social:
-
-participation.
-
----
-
-# ICHIRAN Shibuya
-
-## Atmosphere Type
-
-Concentrated Individual Atmosphere
-
-## Strongest Mechanisms
-
-- privacy
-- reduced distraction
-- individual participation
-- low service visibility
-- structured system
-
-## Primary Atmosphere Logic
-
-Atmosphere is:
-
-created:
-
-through:
-
-reduction
-
-privacy
-
-focus
-
-and:
-
-controlled:
-
-social exposure.
-
----
-
-# Din Tai Fung Covent Garden
-
-## Atmosphere Type
-
-Structured Craft Atmosphere
-
-## Strongest Mechanisms
-
-- craft
-- architecture
-- place
-- brand continuity
-- structured participation
-
-## Primary Atmosphere Logic
-
-Atmosphere is:
-
-supported:
-
-through:
-
-craft precision
-
-localized:
-
-architectural identity
-
-and:
-
-structured:
-
-hospitality.
-
----
-
-# Noma Copenhagen 2026
-
-## Atmosphere Type
-
-Temporally Evolving Place-Led Atmosphere
-
-## Strongest Published Mechanisms
-
-- place
-- season
-- worldview
-- research
-- creative change
-- method continuity
-
-## Primary Atmosphere Logic
-
-Atmosphere is:
-
-published:
-
-as:
-
-connected:
-
-to:
-
-season
-
-place
-
-landscape
-
-research
-
-and:
-
-changing:
-
-creative expression.
-
-## Evidence Boundary
-
-Current public evidence:
-
-does not:
-
-fully establish:
-
-the:
-
-actual:
-
-2026:
-
-in-service:
-
-atmosphere.
-
-This classification describes:
-
-published:
-
-atmospheric architecture.
-
----
-
-# Cross-Case Finding 1 — Atmosphere Has No Single Universal Mechanism
-
-Across:
-
-fourteen:
-
-restaurants
-
-strong:
-
-hospitality atmosphere
-
-appears through:
-
-very different:
-
-mechanisms.
-
-Examples:
-
-```text
-Cultiva
-=
-Worldview
-```
-
-```text
-Talisman
-=
-Continuity
-```
-
-```text
-Mawimbi
-=
-Escape
-```
-
-```text
-Haidilao
-=
-Human Service
-+
-Social Participation
-```
-
-```text
-ICHIRAN
-=
-Privacy
-+
-Concentration
-```
-
-```text
-Din Tai Fung
-=
-Craft
-+
-Place
-```
-
-```text
-Noma
-=
-Season
-+
-Place
-+
-Worldview
-+
-Change
-```
-
-Therefore:
-
-```text
-Atmosphere
-≠
-One Mechanism
-```
-
----
-
-# Cross-Case Finding 2 — Desired Guest State Remains the Deeper Variable
-
-Post–ICHIRAN:
-
-KHDS introduced:
-
-Desired Guest State
-
-as:
-
-a deeper:
-
-atmospheric:
-
-variable.
-
-The current comparison:
-
-continues:
-
-to support:
-
-that:
-
-architecture.
-
-A restaurant may:
-
-seek:
+very:
 
 different:
 
-guest states.
+means.
 
-Potential examples:
+Examples include:
 
-- belonging
-- focus
-- excitement
-- escape
-- intimacy
 - social energy
-- contemplation
-- curiosity
-- attention
-- comfort
+- privacy
+- spectacle
+- restraint
+- narrative world
+- continuity
+- worldview
+- productive place
+- human service
+- designed separation
+- material coherence
+- light
+- ritual
+- participation
 
-## Important Boundary
+Therefore:
 
-Website evidence cannot:
+```text
+Atmosphere
+≠
+Décor Style
+```
 
-always:
+and:
 
-establish:
+```text
+Atmosphere
+≠
+Visual Mood Alone
+```
+
+---
+
+# Post–Pearl Morissette Atmosphere Architecture
+
+```text
+Hospitality Worldview
++
+Desired Guest State
++
+Place Relationship
++
+Participation Model
+↓
+What Mechanisms Shape the Environment?
+↓
+Space
+Light
+Material
+Sound
+Privacy
+Social Energy
+Service Presence
+Production Presence
+Narrative
+Productive Context
+Threshold
+Time
+↓
+Relational Coherence
++
+Temporal Coherence where relevant
+↓
+Guest-Facing Atmospheric State
+```
+
+Website research:
+
+can:
+
+observe:
+
+the:
+
+published:
+
+mechanisms
+
+and:
+
+relationships.
+
+It cannot:
+
+prove:
 
 the:
 
 actual:
 
-desired emotional state.
+guest:
 
-Therefore:
+emotional:
 
-this variable
+outcome.
 
-should be used:
+---
 
-only:
+# Major Post–Pearl Morissette Refinement
 
-where:
+Restaurant #15 adds:
 
-published:
+three:
 
-or:
+important:
+
+atmosphere:
+
+directions:
+
+```text
+Atmospheric Threshold
+```
+
+```text
+Productive Relationship Legibility
+```
+
+and:
+
+```text
+Rooted Destination Atmosphere
+```
+
+It also:
 
 strongly:
 
-supported.
-
----
-
-# Proposed Core Atmosphere Model
-
-```text
-Hospitality Model
-↓
-Desired Guest State
-or
-Compatible Guest-State Cluster
-↓
-Primary Atmospheric Mechanism
-+
-Supporting Mechanisms
-↓
-Relevant Environment
-+
-Relevant Presence
-+
-Relevant Absence
-+
-Relevant Guest Participation
-+
-Relevant Operating Structure
-↓
-Relational Coherence
-↓
-Atmospheric Experience
-```
-
-Noma does not:
-
-replace:
-
-this architecture.
-
-It:
-
-adds:
-
-time.
-
----
-
-# Cross-Case Finding 3 — Noma Adds Temporal Coherence
-
-Din Tai Fung:
-
-strengthened:
-
-Relational Coherence
-
-across:
-
-different:
-
-elements.
-
-Noma adds:
-
-coherence:
-
-across:
-
-different:
-
-time states.
-
-## New Architecture Variable — Temporal Coherence
-
-## Definition
-
-The degree:
-
-to which:
-
-different:
-
-time-based:
-
-atmospheric:
-
-expressions
-
-remain:
-
-meaningfully:
-
-connected
-
-to:
-
-the same:
-
-hospitality logic.
-
-Possible states:
-
-- Low
-- Moderate
-- High
-- Unknown
-
-## Correction
-
-```text
-Temporal Coherence
-≠
-Temporal Repetition
-```
-
-This is:
+reinforces:
 
 the:
 
-strongest:
+existing:
 
-post-Noma:
-
-atmosphere contribution.
-
----
-
-# Cross-Case Finding 4 — Consistency Does Not Require Surface Sameness
-
-## Current Pattern
-
-Atmosphere Through Consistency
-
-Status:
-
-Emerging
-
-Previous comparison:
-
-already moved:
-
-consistency
-
-away from:
-
-visual sameness
-
-toward:
-
-relational coherence.
-
-Noma now:
-
-extends:
-
-that:
-
-across:
-
-time.
-
-## Proposed Definition Pressure
-
-Atmospheric consistency may mean:
-
-> **Changing or stable experience elements remain relationally aligned with the same hospitality logic or intended guest condition.**
-
-## Correction
-
-```text
-Consistency
-≠
-Sameness
-```
-
-and:
+distinction:
 
 ```text
 Atmospheric Consistency
 ≠
-Repeated Surface Expression
+Visual Sameness
 ```
 
 ---
 
-# Cross-Case Finding 5 — Atmosphere Through Consistency Is Now Temporal as Well as Relational
-
-Earlier:
-
-consistency:
-
-asked:
-
-Do:
-
-different:
-
-elements
-
-support:
-
-the:
-
-same:
-
-atmospheric:
-
-intention?
-
-Noma adds:
-
-Do:
-
-different:
-
-seasonal:
-
-states
-
-remain:
-
-connected:
-
-to:
-
-the:
-
-same:
-
-hospitality:
-
-logic?
-
-## Proposed Relationship
-
-```text
-Relational Coherence
-+
-Temporal Coherence
-=
-Stronger Atmosphere Through Consistency Architecture
-```
-
-## Governance Position
-
-No maturity change:
-
-inside:
-
-comparison file.
+# Comparison 1 — Atmosphere Operates Through Different Mechanisms
 
 ---
 
-# Cross-Case Finding 6 — Coherence Through Change Is Broader Than Atmosphere Through Consistency
+## Ankole
 
-Noma introduces:
-
-Coherence Through Change
-
-across:
-
-all:
-
-five:
-
-dimensions.
-
-Atmosphere Through Consistency
-
-is:
-
-only:
-
-one:
-
-dimension-specific:
-
-expression.
-
-## Correction
-
-```text
-Coherence Through Change
-≠
-Atmosphere Through Consistency
-```
-
-### Atmosphere Through Consistency
-
-asks:
-
-whether:
-
-atmospheric:
-
-elements
-
-remain:
-
-coherent.
-
-### Coherence Through Change
-
-asks:
-
-whether:
-
-the broader:
-
-hospitality system
-
-remains:
-
-recognisable
-
-across:
-
-change.
-
-Keep:
-
-separate.
-
----
-
-# Cross-Case Finding 7 — Continuity Does Not Require Sameness
-
-## Current Pattern
-
-Atmosphere Through Continuity
-
-Status:
-
-Candidate / Medium
-
-Noma adds:
-
-strong:
-
-definition pressure.
-
-Talisman:
-
-shows:
-
-continuity through:
+Strong:
 
 place
 
-material
+identity
 
 and:
 
-history.
-
-Din Tai Fung:
-
-shows:
-
-brand / practice:
+environmental:
 
 continuity.
 
-Noma:
+Atmospheric pressure:
 
-adds:
+```text
+How does the environment
+support a recognizable
+hospitality identity?
+```
 
-method:
+---
 
-continuity
+## Cultiva
 
-through:
+Worldview
 
-seasonal:
+culinary:
+
+philosophy
 
 and:
 
-creative:
+environmental:
 
-logic.
+coherence
 
----
+matter.
 
-# Proposed Continuity Mechanisms
-
-### Place Continuity
-
-Talisman.
-
-### Brand / Practice Continuity
-
-Din Tai Fung.
-
-### Method Continuity
-
-Noma.
-
----
-
-# Correction
+Atmospheric pressure:
 
 ```text
+Can worldview
+become physically legible?
+```
+
+---
+
+## Talisman
+
 Continuity
-≠
-Sameness
-```
-
-and:
-
-```text
-Method Continuity
-≠
-Stable Sensory Output
-```
-
----
-
-# New Mechanism — Method Continuity
-
-## Working Definition
-
-A hospitality experience may preserve:
-
-continuity
-
-through:
-
-a:
-
-stable:
-
-method
-
-relationship
-
-or:
-
-operating logic
-
-even when:
-
-guest-facing:
-
-expression
-
-changes.
-
-## Proposed Home
-
-Atmosphere Through Continuity
-
-## Status
-
-Mechanism / Definition Refinement
-
-Not:
-
-new Candidate.
-
----
-
-# Cross-Case Finding 8 — Atmosphere Through Continuity Gains Transferability
-
-Before:
-
-Noma
-
-continuity evidence
-
-was:
-
-stronger:
-
-around:
-
-place
 
 heritage
 
 and:
 
-brand.
+place:
 
-Noma:
+identity
 
-adds:
+are:
 
-a:
+important.
 
-different:
+Atmospheric pressure:
 
-continuity:
-
-form.
-
-This makes:
-
-the:
-
-pattern:
-
-broader
-
-but:
-
-also:
-
-requires:
-
-clear:
-
-falsification.
-
-## Falsification Question
-
-> **When does change become so disconnected from previous hospitality logic that continuity no longer meaningfully exists?**
-
-Carry:
-
-to:
-
-governance review.
+```text
+How does a place remain
+recognizable through time?
+```
 
 ---
 
-# Cross-Case Finding 9 — Atmosphere Through Worldview Receives Very Strong Positive Pressure
+## Mawimbi
 
-## Current Status
+Designed Escape
 
-Candidate / Under Review / Medium-High
+and:
+
+immersive:
+
+environment
+
+are:
+
+especially:
+
+important.
+
+Atmospheric pressure:
+
+```text
+Can the environment
+transport the guest
+into a distinct world?
+```
+
+---
+
+## Bistro Lolo
+
+Social:
+
+energy
+
+belonging
+
+and:
+
+neighbourhood:
+
+use
+
+matter.
+
+Atmospheric pressure:
+
+```text
+Can atmosphere emerge
+through social life
+and familiarity?
+```
+
+---
+
+## FYN
+
+Worldview
+
+cultural:
+
+translation
+
+and:
+
+refined:
+
+environmental:
+
+coherence
+
+matter.
+
+Atmospheric pressure:
+
+```text
+Can conceptual worldview
+shape the environmental experience?
+```
+
+---
+
+## Dishoom Covent Garden
+
+Narrative
+
+place
+
+materiality
+
+and:
+
+social:
+
+energy
+
+interact.
+
+Atmospheric pressure:
+
+```text
+Can a narrative world
+remain coherent
+inside an active restaurant?
+```
+
+---
+
+## Franklin Barbecue
+
+Product
+
+process
+
+queue
+
+and:
+
+operational:
+
+reality
+
+create:
+
+a:
+
+more:
+
+functional:
+
+atmospheric:
+
+model.
+
+Atmospheric pressure:
+
+```text
+Can atmosphere emerge
+from product ritual
+and operational reality?
+```
+
+---
+
+## Alinea
+
+Designed experience
+
+surprise
+
+controlled reveal
+
+and:
+
+highly:
+
+intentional:
+
+environment
+
+matter.
+
+Atmospheric pressure:
+
+```text
+How much should the environment
+support anticipation
+without over-revealing?
+```
+
+---
+
+## NARISAWA
+
+Ecology
+
+worldview
+
+craft
+
+and:
+
+place:
+
+meaning
+
+are:
+
+central.
+
+Atmospheric pressure:
+
+```text
+Can worldview
+become atmosphere
+without literal theming?
+```
+
+---
+
+## Haidilao Toronto Downtown
+
+Human service
+
+social:
+
+interaction
+
+activity
+
+and:
+
+personalization
+
+are:
+
+important.
+
+Atmospheric pressure:
+
+```text
+Can social interaction itself
+be a primary hospitality mechanism?
+```
+
+---
+
+## ICHIRAN Shibuya
+
+Privacy
+
+reduced:
+
+interaction
+
+focus
+
+and:
+
+designed:
+
+separation
+
+dominate.
+
+Atmospheric pressure:
+
+```text
+Can hospitality become stronger
+through reduced social exposure?
+```
+
+---
+
+## Din Tai Fung Covent Garden
+
+Craft
+
+consistency
+
+place:
+
+adaptation
+
+and:
+
+structured:
+
+environmental:
+
+identity
+
+matter.
+
+Atmospheric pressure:
+
+```text
+Can standardization
+remain locally coherent?
+```
+
+---
+
+## Noma Copenhagen 2026
+
+Research identity
+
+change
+
+season
+
+institution
+
+and:
+
+time
+
+matter.
+
+Atmospheric pressure:
+
+```text
+How can atmosphere remain coherent
+through material change?
+```
+
+---
+
+## Restaurant Pearl Morissette
+
+Productive place
+
+landscape
+
+light
+
+worldview
+
+and:
+
+architectural:
+
+framing
+
+matter.
+
+Atmospheric pressure:
+
+```text
+Can the guest-facing environment
+be shaped by the productive place
+it physically frames?
+```
+
+---
+
+# Comparison 2 — Atmosphere Is Mechanism-Specific
+
+Across:
+
+15:
+
+restaurants
+
+no:
+
+single:
+
+atmosphere:
+
+mechanism
+
+is:
+
+universal.
 
 Strong:
 
-worldview-led:
+mechanism:
+
+families include:
+
+- Worldview
+- Continuity
+- Escape
+- Social Interaction
+- Privacy
+- Narrative
+- Product Ritual
+- Service
+- Place
+- Material Relationship
+- Productive Context
+- Time
+- Threshold
+- Production Presence
+
+## Correction
+
+```text
+Strong Atmosphere
+≠
+One Preferred Mechanism
+```
+
+---
+
+# Comparison 3 — Desired Guest State Remains Useful but Often Unproven
+
+ICHIRAN:
+
+made:
+
+Desired Guest State
+
+especially:
+
+important.
+
+The:
+
+system
+
+is:
+
+designed:
+
+around:
+
+reduced:
+
+interaction
+
+privacy
+
+and:
+
+concentration.
+
+Haidilao:
+
+provides:
+
+an:
+
+opposite:
+
+social:
+
+mechanism.
+
+Pearl Morissette:
+
+provides:
+
+strong:
+
+environmental:
+
+evidence
+
+but:
+
+does:
+
+not:
+
+give:
+
+enough:
+
+official:
+
+evidence
+
+to:
+
+state:
+
+one:
+
+specific:
+
+desired:
+
+guest:
+
+emotion.
+
+## Cross-Case Rule
+
+Desired Guest State:
+
+should:
+
+only:
+
+be:
+
+asserted
+
+where:
+
+supported.
+
+## Correction
+
+```text
+Published Atmosphere Language
+≠
+Guest State Proven
+```
+
+---
+
+# Comparison 4 — Atmosphere Through Worldview Has Broad Support
+
+Current Status:
+
+Candidate / Medium-High
+
+Strong:
 
 cases include:
 
@@ -1445,257 +920,1356 @@ cases include:
 - FYN
 - NARISAWA
 - Noma
+- Pearl Morissette
 
-Boundary pressure:
+Additional:
 
-includes:
+support
 
-- Franklin Barbecue
-- ICHIRAN
-- Din Tai Fung
+appears:
 
-This is:
+in:
 
-valuable.
-
-The Candidate:
-
-now has:
-
-both:
-
-strong:
-
-positive:
+other:
 
 cases
 
-and:
+where:
+
+philosophy
+
+or:
+
+identity
+
+materially:
+
+shapes:
+
+environment.
+
+Pearl Morissette:
+
+adds:
+
+especially:
 
 strong:
 
-non-worldview:
+physical:
 
-boundary:
+translation:
 
-cases.
+evidence:
 
----
+because:
 
-# Cross-Case Finding 10 — Worldview Is a Mechanism, Not the Deepest Atmosphere Abstraction
+its:
 
-Noma strengthens:
+published:
 
-the:
+regional
 
-mechanism.
+regenerative
 
-It does not:
+and:
 
-make:
+place-led:
 
 worldview
 
-universal.
+is:
+
+paired:
+
+with:
+
+a:
+
+dining environment
+
+that:
+
+visually:
+
+frames:
+
+productive:
+
+landscape.
+
+---
+
+# Atmosphere Through Worldview — Post–Pearl Refinement
+
+```text
+Published Worldview
+↓
+Material / Spatial Translation
+↓
+Environmental Relationship
+↓
+Potential Atmospheric Expression
+```
+
+## Core Boundary
+
+```text
+Strong Published Worldview
+≠
+Atmosphere Through Worldview Proven
+```
+
+and:
+
+```text
+Physical Worldview Translation
+≠
+Emotional Outcome Proven
+```
+
+---
+
+# Atmosphere Through Worldview Governance Pressure
+
+Entering Status:
+
+Candidate / Medium-High
+
+Post–Pearl Morissette:
+
+Very Strong Additional Support
+
+Confidence Review:
+
+Warranted
+
+Potential:
+
+```text
+Medium-High
+→
+High?
+```
+
+Do not:
+
+change:
+
+inside:
+
+comparison.
+
+Need:
+
+full:
+
+five-dimension:
+
+reconciliation.
+
+---
+
+# Comparison 5 — Worldview Translation Does Not Require Literal Theming
+
+Pearl Morissette:
+
+strongly:
+
+reinforces:
+
+NARISAWA
+
+and:
+
+Noma
+
+on:
+
+this:
+
+boundary.
+
+The:
+
+restaurant:
+
+does:
+
+not:
+
+need:
+
+literal:
+
+farm:
+
+decoration
+
+for:
+
+place
+
+and:
+
+productive:
+
+context
+
+to:
+
+shape:
+
+the:
+
+environment.
 
 ## Correction
 
 ```text
-Atmosphere Through Worldview
+Worldview Translation
 ≠
-Atmosphere Itself
+Literal Theming
 ```
 
-The deeper:
-
-architecture remains:
-
-```text
-Hospitality Model
-↓
-Desired Guest State
-↓
-Relevant Atmospheric Mechanism
-```
-
-Worldview:
+This:
 
 is:
 
-one:
+a:
 
-possible:
+strong:
 
-mechanism.
+Atmosphere Through Worldview:
+
+boundary.
 
 ---
 
-# Governance Watch — Atmosphere Through Worldview
+# Comparison 6 — Atmosphere Through Consistency Has Strong Cross-Case Support
 
-Current:
+Current Status:
 
-Candidate / Under Review / Medium-High
+Emerging
 
-Post-Noma Position:
+Strong:
 
-Strong Review Watch
+cases include:
 
-Noma provides:
+- Ankole
+- Cultiva
+- Talisman
+- Mawimbi
+- Dishoom
+- NARISAWA
+- Din Tai Fung
+- Noma
+- Pearl Morissette
 
-one of:
+Pearl Morissette:
+
+adds:
+
+a:
+
+particularly:
+
+useful:
+
+case
+
+because:
+
+its:
+
+published:
+
+elements
+
+are:
+
+not:
+
+visually:
+
+identical.
+
+They include:
+
+- modern interior
+- rustic material signals
+- agricultural landscape
+- food
+- wine
+- productive context
+
+Yet:
+
+they:
+
+may:
+
+still:
+
+be:
+
+organized:
+
+through:
+
+one:
+
+hospitality:
+
+logic.
+
+---
+
+# Atmosphere Through Consistency — Refined Definition
+
+> **Atmospheric consistency is relational coherence among guest-facing environmental elements, not visual sameness across every surface.**
+
+## Core Boundary
+
+```text
+Atmospheric Consistency
+≠
+Visual Sameness
+```
+
+---
+
+# Atmosphere Through Consistency Governance Pressure
+
+Entering Status:
+
+Emerging
+
+Post–Pearl Morissette:
+
+Very Strong Cross-Case Support
+
+Candidate Review:
+
+Warranted
+
+Potential:
+
+Candidate / Medium
+
+Primary:
+
+falsification:
+
+risk:
+
+the:
+
+pattern
+
+may:
+
+become:
+
+too:
+
+close:
+
+to:
+
+generic:
+
+coherence.
+
+Formal decision:
+
+deferred.
+
+---
+
+# Comparison 7 — Relational Coherence Is More Useful Than Style Matching
+
+Pearl Morissette:
+
+makes:
+
+this:
+
+especially:
+
+clear.
+
+Modern:
+
+minimal:
+
+interior
+
+and:
+
+agricultural:
+
+landscape
+
+do:
+
+not:
+
+match:
+
+visually.
+
+But:
+
+they:
+
+may:
+
+still:
+
+support:
+
+one:
+
+hospitality:
+
+logic.
+
+## Cross-Case Relationship
+
+```text
+Different Surface Languages
++
+Material Hospitality Relationship
+→
+Potential Relational Coherence
+```
+
+## Correction
+
+```text
+Visual Difference
+≠
+Atmospheric Incoherence
+```
+
+---
+
+# Comparison 8 — Atmosphere Through Continuity Remains Distinct From Atmosphere Through Consistency
+
+Current Status:
+
+Candidate / Medium-High
+
+This:
+
+distinction
+
+remains:
+
+important.
+
+### Atmosphere Through Consistency
+
+Question:
+
+> **Do current environmental elements work together?**
+
+### Atmosphere Through Continuity
+
+Question:
+
+> **Does the atmospheric identity remain materially coherent through time or across meaningful states?**
+
+Talisman:
+
+and:
+
+Noma
+
+provide:
+
+strong:
+
+continuity:
+
+pressure.
+
+Pearl Morissette:
+
+provides:
+
+only:
+
+moderate:
+
+continuity:
+
+support.
+
+## Correction
+
+```text
+Current Coherence
+≠
+Temporal Continuity
+```
+
+---
+
+# Comparison 9 — Continuity Does Not Mean Sameness
+
+Post-Noma:
+
+this:
+
+became:
+
+canonical.
+
+Pearl Morissette:
+
+reinforces:
+
+it:
+
+indirectly.
+
+A:
+
+restaurant's:
+
+environment
+
+may:
+
+change
+
+with:
+
+light
+
+season
+
+or:
+
+product
+
+while:
+
+retaining:
+
+a:
+
+stable:
+
+relational:
+
+logic.
+
+## Correction
+
+```text
+Continuity
+≠
+Sameness
+```
+
+---
+
+# Comparison 10 — Coherence Through Change Requires More Than Ordinary Variation
+
+Pearl Morissette:
+
+provides:
+
+important:
+
+boundary:
+
+pressure.
+
+Its:
+
+menu
+
+changes.
+
+Its:
+
+landscape
+
+may:
+
+change:
+
+seasonally.
+
+That:
+
+does:
+
+not:
+
+establish:
+
+major:
+
+hospitality:
+
+transformation.
+
+## Strong Correction
+
+```text
+Variation Within System
+≠
+System Transformation
+```
+
+and:
+
+```text
+Changing Menu
++
+Changing Landscape
+≠
+Coherence Through Change Proven
+```
+
+---
+
+# Coherence Through Change Governance Pressure
+
+Current Status:
+
+Observed Cross-Dimensional Research Direction
+
+Post–Pearl Morissette:
+
+Boundary Refined
+
+Promotion Pressure:
+
+Low to Moderate
+
+Primary strong case:
+
+Noma
+
+Pearl Morissette:
+
+helps:
+
+define:
+
+what:
+
+should:
+
+not:
+
+qualify.
+
+## Current Recommendation
+
+Remain below Candidate.
+
+Need:
+
+another:
+
+materially:
+
+high-change:
+
+independent:
+
+case.
+
+---
+
+# Comparison 11 — Designed Escape Remains Context-Specific
+
+Current Status:
+
+Candidate / Medium
+
+Strongest:
+
+case:
+
+Mawimbi.
+
+Alinea:
+
+also:
+
+provides:
+
+some:
+
+pressure
+
+through:
+
+designed:
+
+world:
+
+and:
+
+controlled:
+
+experience.
+
+Pearl Morissette:
+
+provides:
+
+a:
+
+useful:
+
+boundary.
+
+Its:
+
+destination:
+
+identity
+
+appears:
+
+rooted:
+
+in:
+
+actual:
+
+place
+
+rather:
+
+than:
+
+transporting:
+
+the:
+
+guest
+
+away:
+
+from:
+
+that:
+
+place.
+
+## Correction
+
+```text
+Destination Restaurant
+≠
+Designed Escape
+```
+
+---
+
+# Comparison 12 — Rooted Destination Atmosphere Is a Distinct Architecture Direction
+
+Pearl Morissette:
+
+adds:
+
+a:
+
+strong:
+
+alternative:
+
+destination:
+
+mechanism.
+
+## Definition
+
+> **A destination restaurant may derive atmospheric distinctiveness by intensifying the guest's relationship to its actual place rather than transporting the guest away from it.**
+
+## Contrast
+
+```text
+Mawimbi
+=
+Destination Through Escape
+```
+
+```text
+Pearl Morissette
+=
+Destination Through Rootedness
+```
+
+## Status
+
+Architecture Direction
+
+Do not:
+
+formalize:
+
+as:
+
+a:
+
+new:
+
+pattern.
+
+Potential Homes:
+
+- Story Through Place
+- Atmosphere Through Worldview
+- Atmosphere as Product
+
+---
+
+# Comparison 13 — Destination Value Has Multiple Atmospheric Mechanisms
+
+Cross-case:
+
+destination:
+
+value
+
+may:
+
+emerge through:
+
+- escape
+- rootedness
+- authority
+- place
+- ritual
+- product
+- rarity
+- experience structure
+
+## Correction
+
+```text
+Destination Value
+≠
+One Atmosphere Type
+```
+
+---
+
+# Comparison 14 — Atmosphere as Product Has Strong but Uneven Support
+
+Current Status:
+
+Emerging
+
+Strong:
+
+pressure:
+
+- Mawimbi
+- Alinea
+- Dishoom
+- Noma
+- Pearl Morissette
+
+But:
+
+website:
+
+evidence
+
+usually:
+
+cannot:
+
+prove:
+
+that:
+
+atmosphere
+
+is:
+
+a:
+
+material:
+
+reason:
+
+guests:
+
+choose:
+
+the:
+
+restaurant.
+
+## Core Boundary
+
+```text
+Prominent Environment
+≠
+Atmosphere as Product Proven
+```
+
+---
+
+# Atmosphere as Product Governance Pressure
+
+Entering Status:
+
+Emerging
+
+Post–Pearl Morissette:
+
+Strong Additional Support
+
+Current Recommendation:
+
+Remain Emerging
+
+Reason:
+
+guest-choice:
+
+causality
+
+remains:
+
+weakly:
+
+observable.
+
+---
+
+# Comparison 15 — Social Interaction Is Not a Universal Atmosphere Mechanism
+
+Haidilao:
+
+strongly:
+
+supports:
+
+social:
+
+interaction
+
+and:
+
+human:
+
+service.
+
+Bistro Lolo:
+
+supports:
+
+social:
+
+energy.
+
+ICHIRAN:
+
+directly:
+
+contradicts:
+
+the:
+
+idea
+
+that:
+
+more:
+
+social:
+
+interaction
+
+is:
+
+always:
+
+better.
+
+Pearl Morissette:
+
+does:
+
+not:
+
+make:
+
+social:
+
+interaction
+
+a:
+
+primary:
+
+published:
+
+mechanism.
+
+## Current Direction
+
+Social Interaction as Designed Hospitality:
+
+Remain below Candidate.
+
+## Cross-Case Correction
+
+```text
+Human Interaction
+≠
+Hospitality
+```
+
+and:
+
+```text
+Social Energy
+≠
+Required Atmosphere
+```
+
+---
+
+# Comparison 16 — Privacy Is Also Context-Specific
+
+ICHIRAN:
+
+provides:
 
 the:
 
 strongest:
 
-positive:
-
-cases.
-
-But:
-
-the existing:
-
-boundary:
-
-evidence
-
-still matters.
-
-No:
-
-maturity
-
-or:
-
-confidence:
-
-change
-
-inside:
-
-comparison file.
-
----
-
-# Cross-Case Finding 11 — Place Can Be an Atmospheric Mechanism
-
-Strong:
-
-place-related:
+privacy-led:
 
 atmosphere:
 
-cases include:
+case.
 
-- Ankole
-- Talisman
-- Dishoom
-- NARISAWA
-- Din Tai Fung
-- Noma
+Other:
 
-But:
+restaurants:
 
-place:
+do:
 
-operates:
+not:
 
-differently.
+require:
+
+privacy
+
+as:
+
+primary:
+
+mechanism.
+
+Pearl Morissette:
+
+provides:
+
+no:
+
+meaningful:
+
+new:
+
+privacy:
+
+pressure.
+
+## Correction
+
+```text
+Privacy
+≠
+Universal Hospitality Improvement
+```
 
 ---
 
-# Place as Material Continuity
+# Comparison 17 — Service Presence Is a Distinct Atmosphere Variable
 
-Talisman.
+Haidilao:
 
----
+strong:
 
-# Place as Cultural World
+high:
 
-Dishoom.
+human-service:
 
----
+presence.
 
-# Place as Ecological Relationship
+ICHIRAN:
 
-NARISAWA.
+controlled:
 
----
+reduced:
 
-# Place as Localized Brand Expression
+interaction.
 
-Din Tai Fung.
+Pearl Morissette:
 
----
+current:
 
-# Place as Seasonal / Landscape Relationship
+public:
 
-Noma.
+evidence
+
+does:
+
+not:
+
+strongly:
+
+establish:
+
+service:
+
+presence
+
+as:
+
+an:
+
+atmosphere:
+
+mechanism.
+
+## Current Rule
+
+Do not:
+
+infer:
+
+service:
+
+atmosphere
+
+from:
+
+space
+
+or:
+
+brand:
+
+language.
 
 ---
 
 # Correction
 
 ```text
-Place Atmosphere
+Environmental Atmosphere
 ≠
-Address
+Service Atmosphere
 ```
-
-This parallels:
-
-Story Through Place.
 
 ---
 
-# Cross-Case Finding 12 — Noma Strengthens Relational Place
+# Comparison 18 — Production Presence and Productive Landscape Visibility Are Different
 
-Noma's:
+Din Tai Fung:
 
-place identity
+introduced:
 
-is:
+strong:
 
-not:
+production:
 
-simply:
+visibility:
 
-Copenhagen.
-
-It is:
-
-the relationship between:
-
-restaurant
-
-season
-
-landscape
-
-ingredients
-
-and:
-
-natural conditions.
-
-## Architecture Direction — Relational Place
-
-Place may:
-
-operate:
+pressure
 
 through:
 
-ongoing:
+craft
 
-relationship
+and:
 
-rather than:
+system:
 
-static:
+evidence.
 
-geography.
+Pearl Morissette:
+
+adds:
+
+a:
+
+different:
+
+condition.
+
+The:
+
+guest
+
+may:
+
+see:
+
+the:
+
+landscape
+
+where:
+
+some:
+
+inputs
+
+originate
+
+without:
+
+watching:
+
+culinary:
+
+production.
+
+## Correction
+
+```text
+Productive Landscape Visibility
+≠
+Production Presence
+```
+
+and:
+
+```text
+Production Presence
+≠
+Technique Proof
+```
+
+---
+
+# Comparison 19 — Atmosphere Can Include Productive Context Without Becoming Process Proof
+
+Pearl Morissette:
+
+provides:
+
+strong:
+
+evidence
+
+that:
+
+productive:
+
+landscape
+
+can:
+
+shape:
+
+the:
+
+environment.
+
+But:
+
+that:
+
+does:
+
+not:
+
+mean:
+
+the:
+
+guest
+
+can:
+
+observe:
+
+the:
+
+production:
+
+process.
+
+## Correction
+
+```text
+Productive-Place Atmosphere
+≠
+Process Visibility
+```
+
+---
+
+# Comparison 20 — Atmospheric Threshold Is a Useful New Direction
+
+Pearl Morissette:
+
+introduces:
+
+a:
+
+strong:
+
+architectural:
+
+relationship:
+
+between:
+
+guest:
+
+space
+
+and:
+
+another:
+
+material:
+
+hospitality:
+
+condition.
+
+## Definition
+
+> **An Atmospheric Threshold is a boundary between hospitality space and surrounding context that becomes meaningful when it actively relates the guest-facing environment to another material hospitality condition.**
+
+Potential:
+
+threshold:
+
+types:
+
+- kitchen
+- garden
+- street
+- water
+- vineyard
+- workshop
+- productive landscape
+- market
 
 ## Status
 
@@ -1707,259 +2281,817 @@ formal pattern.
 
 ---
 
-# Cross-Case Finding 13 — Designed Escape Remains Context-Specific
+# Comparison 21 — Productive Threshold Is a Subtype
 
-## Current Status
+Pearl Morissette's:
 
-Candidate / Medium
+specific:
 
-Strongest:
-
-Designed Escape:
-
-pressure
-
-remains:
-
-Mawimbi
-
-and:
-
-some:
-
-other:
-
-destination-oriented:
-
-cases.
-
-Noma:
-
-provides:
-
-boundary:
-
-evidence.
-
-Its:
-
-published:
-
-identity
-
-emphasizes:
-
-coming home
-
-Copenhagen
-
-landscape
-
-and:
-
-season
-
-rather than:
-
-escape.
-
-## Correction
+case:
 
 ```text
-Distinct Atmosphere
-≠
-Designed Escape
+Dining Room
+↔
+Glazing
+↔
+Farm / Garden / Vineyard
 ```
 
-This Candidate:
+can:
 
-remains:
+be:
 
-context-specific.
+classified:
 
-No:
+as:
 
-maturity change.
+Productive Threshold.
+
+## Deduplication
+
+```text
+Productive Threshold
+→
+Atmospheric Threshold
+```
+
+Do not:
+
+formalize:
+
+separately.
 
 ---
 
-# Cross-Case Finding 14 — Connection to Place Can Be the Opposite of Escape
-
-Noma:
-
-and:
-
-Talisman
-
-provide:
-
-useful:
-
-counterpoints
-
-to:
-
-Designed Escape.
+# Comparison 22 — Threshold Is Not Coherence
 
 A:
 
-restaurant
+window
+
+or:
+
+opening
 
 may:
 
 create:
 
-strong:
+visual:
 
-atmosphere
+connection.
 
-by:
+That:
 
-deepening:
+does:
 
-the guest's:
+not:
 
-relationship to:
+prove:
 
-where:
+the:
 
-they are
+relationship
 
-rather than:
+is:
 
-transporting:
+meaningful.
 
-them:
-
-elsewhere.
-
----
-
-# Cross-Case Finding 15 — Social Energy Remains One Atmospheric Mechanism
-
-Haidilao:
-
-and:
-
-Bistro Lolo
-
-show:
-
-strong:
-
-social:
-
-atmospheric:
-
-mechanisms.
-
-ICHIRAN:
-
-provides:
-
-a:
-
-direct:
-
-counterexample.
-
-Noma:
-
-currently:
-
-adds:
-
-little:
-
-reliable:
-
-2026:
-
-social-interaction:
-
-evidence.
-
-Therefore:
+## Correction
 
 ```text
-Atmosphere
+Visual Connection
 ≠
-Social Energy
+Relational Coherence
 ```
 
-remains:
+Atmospheric Threshold:
 
-strongly:
+is:
 
-supported.
+mechanism.
+
+Relational Coherence:
+
+is:
+
+relationship quality.
 
 ---
 
-# Cross-Case Finding 16 — Social Interaction as Designed Hospitality Remains Below Candidate
+# Comparison 23 — Productive Relationship Legibility Matters
 
-## Current Status
+Pearl Morissette:
 
-Below Candidate
+shows:
 
-Strongest support:
+that:
 
-Haidilao
+seeing:
 
-Bistro Lolo
+productive:
 
-possibly:
+landscape
 
-other:
+does:
 
-social:
+not:
 
-cases.
+guarantee:
 
-Strongest contradiction:
+understanding:
 
-ICHIRAN.
+its:
 
-Noma:
+relationship
 
-adds:
+to:
 
-no:
+hospitality:
 
-meaningful:
+output.
 
-current:
+## Definition
 
-support
+> **Productive Relationship Legibility is the degree to which the guest can understand the relationship between a visible productive environment and the hospitality output associated with it.**
 
-or:
+## Relationship
 
-contradiction
+```text
+Visibility
++
+Explanation
++
+Context
+↓
+Potential Productive Meaning
+```
 
-because:
+## Boundary
 
-service
+```text
+Visible Landscape
+≠
+Legible Productive Relationship
+```
 
-and:
+---
 
-guest interaction:
+# Comparison 24 — Productive Relationship Legibility Is Cross-Dimensional
+
+It affects:
+
+### Atmosphere
+
+Does:
+
+the:
+
+environment
+
+carry:
+
+productive:
+
+meaning?
+
+### Photography
+
+Does:
+
+visual:
 
 evidence
 
-are:
+show:
 
-limited.
+the:
 
-## Governance Position
+relationship?
 
-Remain:
+### Story
 
-below Candidate.
+Does:
+
+the:
+
+narrative
+
+explain:
+
+why:
+
+the:
+
+relationship
+
+matters?
+
+### Arrival
+
+Does:
+
+productive:
+
+context
+
+help:
+
+build:
+
+product-creation:
+
+confidence?
+
+## Status
+
+Architecture Variable
+
+Do not:
+
+formalize.
 
 ---
 
-# Cross-Case Finding 17 — Privacy and Concentration Remain Context-Specific Mechanisms
+# Comparison 25 — Atmosphere and Proof Can Share Evidence Without Merging
 
-ICHIRAN:
+Pearl Morissette:
+
+makes:
+
+this:
+
+especially:
+
+clear.
+
+A:
+
+farm:
+
+view
+
+may:
+
+serve:
+
+as:
+
+### Atmosphere Evidence
+
+The:
+
+room
+
+visually:
+
+relates:
+
+to:
+
+landscape.
+
+### Place Proof
+
+The:
+
+restaurant
+
+exists:
+
+inside:
+
+agricultural:
+
+context.
+
+### Story Evidence
+
+Place:
+
+is:
+
+material:
+
+to:
+
+the:
+
+restaurant's:
+
+meaning.
+
+## Correction
+
+```text
+Shared Environmental Evidence
+≠
+Shared Pattern
+```
+
+This:
+
+reinforces:
+
+post-Noma:
+
+governance:
+
+discipline.
+
+---
+
+# Comparison 26 — Atmosphere Through Worldview and Story Through Place Interact Without Duplicating
+
+### Atmosphere Through Worldview
+
+Question:
+
+> **Does worldview materially shape the guest-facing environment?**
+
+### Story Through Place
+
+Question:
+
+> **Does place materially explain hospitality meaning?**
+
+Pearl Morissette:
+
+supports:
+
+both:
+
+through:
+
+productive:
+
+landscape.
+
+## Correction
+
+```text
+Worldview Expression
+≠
+Place Story
+```
+
+even:
+
+when:
+
+the:
+
+same:
+
+evidence
+
+supports:
+
+both.
+
+---
+
+# Comparison 27 — Material Contrast Can Still Be Coherent
+
+Pearl Morissette:
+
+adds:
+
+modern
+
+minimal
+
+rustic
+
+agricultural:
+
+elements.
+
+Dishoom:
+
+also:
+
+uses:
+
+multiple:
+
+material:
+
+signals
+
+inside:
+
+one:
+
+narrative:
+
+world.
+
+Din Tai Fung:
+
+combines:
+
+global:
+
+brand:
+
+continuity
+
+with:
+
+local:
+
+expression.
+
+## New Architecture Direction — Material Contrast
+
+Definition:
+
+> **Different material languages can remain atmospherically coherent when they are connected through one hospitality logic.**
+
+## Status
+
+Architecture Direction
+
+Potential Home:
+
+Atmosphere Through Consistency.
+
+---
+
+# Correction
+
+```text
+Material Contrast
+≠
+Atmospheric Contradiction
+```
+
+---
+
+# Comparison 28 — Consistency Should Be Evaluated Relationally
+
+A:
+
+restaurant:
+
+can:
+
+use:
+
+different:
+
+materials
+
+spaces
+
+or:
+
+visual:
+
+languages.
+
+The:
+
+correct:
+
+question:
+
+is:
+
+whether:
+
+they:
+
+relate:
+
+meaningfully
+
+to:
+
+the:
+
+hospitality:
+
+model.
+
+## Proposed Relationship
+
+```text
+Elements
++
+Relationships
++
+Hospitality Logic
+↓
+Relational Coherence
+```
+
+Not:
+
+```text
+Everything Looks the Same
+```
+
+---
+
+# Comparison 29 — Natural Light Can Be an Atmospheric Mechanism
+
+Pearl Morissette:
+
+adds:
+
+strong:
+
+natural-light:
+
+pressure.
+
+Other:
+
+cases:
+
+also:
+
+use:
+
+light
+
+but:
+
+not:
+
+always:
+
+as:
+
+a:
+
+primary:
+
+published:
+
+mechanism.
+
+## Architecture Variable
+
+Natural Light
+
+remains:
+
+atmosphere-level
+
+not:
+
+formal pattern.
+
+---
+
+# Comparison 30 — Diurnal Atmosphere Is Distinct From Seasonal Atmosphere
+
+Pearl Morissette:
+
+introduces:
+
+a:
+
+potential:
+
+time-of-day:
+
+atmosphere:
+
+condition.
+
+### Diurnal Atmosphere
+
+Changes:
+
+with:
+
+daylight
+
+sunset
+
+darkness
+
+activity
+
+or:
+
+view.
+
+### Seasonal Atmosphere
+
+Changes:
+
+through:
+
+larger:
+
+seasonal:
+
+environmental:
+
+states.
+
+## Correction
+
+```text
+Diurnal Atmosphere
+≠
+Seasonal Atmosphere
+```
+
+---
+
+# Comparison 31 — Different Service Time Does Not Prove Different Atmosphere
+
+A:
+
+lunch
+
+and:
+
+dinner:
+
+service
+
+may:
+
+look:
+
+different.
+
+But:
+
+the:
+
+difference
+
+must:
+
+be:
+
+material
+
+to:
+
+hospitality:
+
+expression.
+
+## Correction
+
+```text
+Different Service Time
+≠
+Different Atmosphere Proven
+```
+
+---
+
+# Comparison 32 — Time Should Not Be Over-Generalized After Noma
+
+Noma:
+
+made:
+
+time
+
+a:
+
+major:
+
+hospitality:
+
+variable.
+
+Pearl Morissette:
+
+provides:
+
+healthy:
+
+falsification.
+
+Seasonality
+
+natural:
+
+light
+
+and:
+
+changing:
+
+product
+
+do:
+
+not:
+
+automatically:
+
+make:
+
+time:
+
+the:
+
+primary:
+
+atmosphere:
+
+organizer.
+
+## Correction
+
+```text
+Seasonal Restaurant
+≠
+Temporal Atmosphere Dominates
+```
+
+and:
+
+```text
+Time Exists
+≠
+Temporal Hospitality
+```
+
+---
+
+# Comparison 33 — Process-Led Atmosphere Remains Below Candidate
+
+Noma:
+
+provided:
+
+the:
+
+strongest:
+
+pressure
+
+for:
+
+Process-Led Atmosphere.
+
+Din Tai Fung:
+
+adds:
+
+craft:
+
+visibility:
+
+pressure.
+
+Pearl Morissette:
+
+adds:
+
+productive:
+
+context
+
+but:
+
+does:
+
+not:
+
+show:
+
+enough:
+
+guest-facing:
+
+production:
+
+process
+
+to:
+
+meaningfully:
+
+strengthen:
+
+the:
+
+direction.
+
+## Current Recommendation
+
+Remain below Candidate.
+
+---
+
+# Comparison 34 — Research as Atmospheric Mechanism Remains Noma-Dominant
+
+Noma:
 
 remains:
 
@@ -1969,3277 +3101,2982 @@ strongest:
 
 case
 
-for:
+where:
 
-- privacy
-- concentration
-- reduced distraction
-- low social exposure
+research:
 
-Noma:
-
-does not:
-
-meaningfully:
-
-extend:
-
-these:
-
-directions.
-
-## Governance Position
-
-Privacy as Hospitality:
-
-Architecture Variable / Direction
-
-Concentration as Atmosphere:
-
-Architecture Mechanism
-
-No maturity change.
-
----
-
-# Cross-Case Finding 18 — Addition and Reduction Are Both Valid Atmosphere Strategies
-
-Mawimbi
-
-Dishoom
-
-Haidilao
-
-often:
-
-use:
-
-additive:
-
-mechanisms.
-
-ICHIRAN:
-
-uses:
-
-reductive:
-
-mechanisms.
-
-FYN:
-
-uses:
-
-restraint.
-
-Noma:
-
-adds:
-
-a:
-
-different:
-
-dimension:
-
-change.
-
-## Correction
-
-```text
-Atmosphere
-≠
-More Stimulus
-```
-
-Atmosphere may be:
-
-created through:
-
-- addition
-- reduction
-- continuity
-- transformation
-- sociality
-- privacy
-- change
-
----
-
-# Cross-Case Finding 19 — Process May Become an Atmospheric Mechanism
-
-Noma introduces:
-
-strong:
-
-Process-Led Atmosphere:
-
-pressure
-
-at:
-
-the:
-
-architecture level.
-
-But:
-
-the evidence:
-
-is:
-
-not:
-
-yet:
-
-strong enough
-
-to:
-
-treat:
-
-process:
-
-as:
-
-a:
-
-formal:
-
-atmosphere pattern.
-
-## Working Question
-
-> **Can an ongoing process become atmospherically meaningful when the guest can perceive its effects?**
-
----
-
-# Critical Boundary
-
-```text
-Process Exists
-≠
-Process Shapes Atmosphere
-```
-
-A:
-
-kitchen:
+identity
 
 may:
 
-have:
-
-complex:
-
-research
-
-or:
-
-production
-
-without:
-
-that:
-
-activity:
-
-materially:
-
-shaping:
+shape:
 
 the:
 
-guest's:
+environment.
 
-atmosphere.
+Pearl Morissette:
+
+has:
+
+worldview
+
+and:
+
+productive:
+
+context
+
+but:
+
+not:
+
+research:
+
+as:
+
+primary:
+
+atmospheric:
+
+mechanism.
+
+## Current Recommendation
+
+Remain below Candidate.
 
 ---
 
-# New Direction — Process-Led Atmosphere
+# Comparison 35 — Atmosphere Through Worldview Is More Transferable Than Research as Atmosphere
 
-Current:
+Cultiva
 
-Observed Research Direction
+FYN
 
-Strongest:
-
-direct:
-
-pressure:
+NARISAWA
 
 Noma
 
-with:
-
-potential:
-
-partial:
-
-support
-
-from:
-
-Franklin
-
-Haidilao
-
 and:
 
-possibly:
+Pearl Morissette:
 
-Din Tai Fung
-
-through:
-
-different:
-
-operating:
-
-mechanisms.
-
-## Comparison Decision
-
-Remain:
-
-below Candidate.
-
-Definition:
-
-still:
-
-too broad
-
-and:
-
-evidence:
-
-needs:
-
-more:
-
-guest-legible:
-
-process:
-
-cases.
-
----
-
-# Cross-Case Finding 20 — Operational Atmosphere Needs Better Definition
-
-Current:
-
-Operational Atmosphere
-
-remains:
-
-below Candidate.
-
-Potential:
-
-support:
-
-exists across:
-
-- Franklin
-- Haidilao
-- ICHIRAN
-- Din Tai Fung
-- Noma
-
-But:
-
-the mechanisms differ:
-
-substantially.
-
----
-
-# Potential Definition Problem
-
-If:
-
-Operational Atmosphere
-
-means:
-
-"operations affect atmosphere"
-
-then:
-
-it may:
-
-apply:
-
-to:
-
-almost:
-
-every:
-
-restaurant
-
-and become:
-
-too broad.
-
-## Falsification Need
-
-The direction should:
-
-require:
-
-guest-legible:
-
-operating:
-
-behaviour
+show:
 
 that:
 
-materially:
+worldview
+
+can:
+
+operate:
+
+through:
+
+multiple:
+
+physical:
+
+mechanisms.
+
+This:
+
+supports:
+
+the:
+
+existing:
+
+Candidate
+
+rather:
+
+than:
+
+requiring:
+
+a:
+
+separate:
+
+Research as Atmosphere:
+
+pattern.
+
+---
+
+# Comparison 36 — Atmosphere as Product and Atmosphere Through Worldview Are Different
+
+### Atmosphere Through Worldview
+
+Asks:
+
+whether:
+
+philosophy
+
+or:
+
+worldview
 
 shapes:
 
 the:
 
-experienced:
+environment.
 
-atmosphere.
+### Atmosphere as Product
 
-## Governance Position
+Asks:
 
-Remain:
+whether:
 
-below Candidate.
+the:
 
----
+atmospheric:
 
-# Cross-Case Finding 21 — Research as Atmosphere Is Not Yet Established
+experience
 
-Noma:
+itself
 
-strongly:
+becomes:
 
-publishes:
+a:
 
-research
+material:
 
-as:
+hospitality:
 
-identity.
-
-But:
-
-current:
-
-2026:
-
-evidence
-
-does not:
-
-clearly establish:
-
-that:
-
-research:
-
-activity
-
-is:
-
-physically:
-
-visible
-
-or:
-
-atmospherically:
-
-felt.
+offering.
 
 ## Correction
 
 ```text
-Research Identity
+Worldview-Led Environment
 ≠
-Research Atmosphere
+Atmosphere as Product
+```
+
+Pearl Morissette:
+
+supports:
+
+the:
+
+first
+
+more:
+
+strongly
+
+than:
+
+the:
+
+second.
+
+---
+
+# Comparison 37 — Designed Escape and Rooted Destination Atmosphere Are Different
+
+### Designed Escape
+
+```text
+Guest
+→
+Distinct Experience World
+```
+
+### Rooted Destination
+
+```text
+Guest
+→
+Deeper Relationship
+with Actual Place
+```
+
+Mawimbi:
+
+strongest:
+
+escape:
+
+case.
+
+Pearl Morissette:
+
+strongest:
+
+rooted:
+
+case.
+
+## Correction
+
+```text
+Rootedness
+≠
+Escape
 ```
 
 ---
 
-# New Direction — Research as Atmospheric Mechanism
+# Comparison 38 — Atmosphere Can Be Place-Led Without Being Rural
 
-Current:
+Pearl Morissette:
 
-Observed Research Direction
+uses:
 
-## Comparison Decision
+agricultural:
 
-Remain:
+place.
 
-below Candidate.
+Dishoom:
 
-Current direct:
+uses:
 
-evidence:
+cultural:
 
-too:
+place.
 
-Noma-specific
+Talisman:
+
+uses:
+
+heritage:
+
+place.
+
+Din Tai Fung:
+
+uses:
+
+localized:
+
+brand:
+
+place.
+
+Therefore:
+
+## Correction
+
+```text
+Place-Led Atmosphere
+≠
+Natural Landscape Required
+```
+
+This protects:
+
+Story Through Place
 
 and:
 
-physical translation:
+Atmosphere Through Worldview
 
-insufficiently:
+from:
 
-established.
+becoming:
+
+rural:
+
+patterns.
 
 ---
 
-# Cross-Case Finding 22 — Story and Atmosphere Must Remain Separate
+# Comparison 39 — Agriculture Is Not Atmosphere by Default
 
-Several:
+Pearl Morissette:
 
-restaurants
-
-have:
-
-strong:
-
-published:
-
-story.
-
-That:
-
-does not:
-
-automatically:
-
-prove:
-
-physical:
-
-atmosphere.
-
-Noma makes:
+makes:
 
 this:
 
-especially:
+boundary:
 
 important.
 
 ## Correction
 
 ```text
-Published Atmospheric Logic
+Agricultural Setting
 ≠
-Observed Atmospheric Outcome
+Agricultural Atmosphere
 ```
 
-and:
+The:
 
-```text
-Strong Story
-≠
-Strong Atmosphere Proof
-```
+guest-facing:
+
+environment
+
+must:
+
+materially:
+
+relate:
+
+to:
+
+the:
+
+agricultural:
+
+context.
 
 ---
 
-# Cross-Case Finding 23 — Atmospheric Promise and Atmospheric Experience Are Different
+# Comparison 40 — Beautiful Landscape Is Not Productive Meaning
 
-Digital:
+The:
 
-content
+view
 
 can:
 
-create:
+be:
 
-an:
+beautiful.
 
-Atmospheric Promise.
+That:
 
-The guest:
+does:
 
-later:
+not:
 
-encounters:
+automatically:
 
-the:
+make:
 
-Atmospheric Experience.
+it:
 
-These:
+hospitality:
 
-may:
-
-align
-
-or:
-
-diverge.
-
-## Architecture Distinction
-
-### Atmospheric Promise
-
-What:
-
-the:
-
-digital:
-
-system
-
-suggests.
-
-### Atmospheric Experience
-
-What:
-
-the:
-
-guest:
-
-physically:
-
-encounters.
+meaning.
 
 ## Correction
 
 ```text
-Atmospheric Promise
+Beautiful Landscape
 ≠
-Atmospheric Experience
+Productive Landscape Meaning
 ```
 
-Noma:
+Meaning:
 
-makes:
+depends:
+
+on:
+
+relationship.
+
+---
+
+# Comparison 41 — Productive Landscape Is Not the Whole Atmosphere
+
+Pearl Morissette:
+
+also:
+
+depends:
+
+on:
+
+- room
+- materiality
+- architecture
+- light
+- furniture
+- service context
+- dining format
+
+## Correction
+
+```text
+Productive Landscape
+≠
+Complete Atmosphere
+```
+
+This:
+
+supports:
+
+relational:
+
+rather:
+
+than:
+
+single-mechanism:
+
+analysis.
+
+---
+
+# Comparison 42 — Atmosphere Can Be Multi-Mechanism Without Becoming Complex
+
+A:
+
+restaurant
+
+may:
+
+use:
+
+several:
+
+mechanisms:
+
+simultaneously.
+
+Pearl Morissette:
+
+uses:
+
+place
+
+light
+
+material
+
+threshold
+
+worldview.
+
+ICHIRAN:
+
+uses:
+
+privacy
+
+separation
+
+system.
+
+Haidilao:
+
+uses:
+
+service
+
+activity
+
+social:
+
+interaction.
+
+## Correction
+
+```text
+Multiple Atmosphere Mechanisms
+≠
+Atmospheric Complexity by Default
+```
+
+The:
+
+guest:
+
+may:
+
+experience:
+
+one:
+
+coherent:
+
+state.
+
+---
+
+# Comparison 43 — Atmosphere Through Consistency Should Not Become Generic Brand Consistency
+
+This:
+
+is:
+
+the:
+
+largest:
+
+governance:
+
+risk.
+
+If:
+
+the:
+
+pattern
+
+means:
+
+"everything should feel consistent"
+
+it:
+
+becomes:
+
+non-falsifiable.
+
+Therefore:
+
+the:
+
+pattern:
+
+should:
+
+remain:
+
+specific:
+
+to:
+
+guest-facing:
+
+environmental:
+
+coherence.
+
+## Proposed Candidate Boundary
+
+> **Atmosphere Through Consistency applies when multiple material environmental mechanisms reinforce a recognizable hospitality state through relational coherence.**
+
+Not:
+
+generic:
+
+branding.
+
+---
+
+# Comparison 44 — Atmosphere Through Consistency Candidate Review Is Now Serious
+
+Cross-case:
+
+support
+
+is:
+
+broad.
+
+Strong:
+
+examples:
+
+- Talisman
+- Mawimbi
+- Dishoom
+- NARISAWA
+- Din Tai Fung
+- Noma
+- Pearl Morissette
+
+Different:
+
+mechanisms
+
+still:
+
+produce:
+
+coherent:
+
+environments.
+
+## Candidate Review Recommendation
+
+Potential:
+
+Candidate / Medium
+
+Primary:
+
+remaining:
+
+question:
+
+Is:
+
+the:
+
+pattern
+
+sufficiently:
+
+distinct
+
+from:
+
+general:
+
+coherence?
+
+Formal decision:
+
+deferred.
+
+---
+
+# Comparison 45 — Relational Coherence and Temporal Coherence Must Stay Separate
+
+Post-Noma:
 
 this:
 
 distinction:
 
-especially:
+became:
 
-important
+important.
 
-because:
+### Relational Coherence
 
-current:
+Do:
 
-physical:
+different:
 
-2026:
+elements
 
-evidence
+work:
 
-is:
+together
 
-limited.
+now?
 
----
+### Temporal Coherence
 
-# Cross-Case Finding 24 — Digital Atmosphere Translation Is a Separate Problem
+Does:
 
-A website:
+the:
 
-may:
+hospitality:
 
-translate:
+expression
 
-physical:
+remain:
 
-atmosphere
+meaningfully:
+
+coherent
 
 through:
 
-- photography
-- sound
-- motion
-- language
-- pacing
-- typography
-- interaction
+time
+
+or:
+
+change?
+
+Pearl Morissette:
+
+strong:
+
+relational:
+
+case.
+
+Moderate:
+
+temporal:
+
+case.
+
+## Correction
+
+```text
+Relational Coherence
+≠
+Temporal Coherence
+```
+
+---
+
+# Comparison 46 — Worldview Can Organize Atmosphere Without Being the Atmosphere
+
+A:
+
+restaurant's:
+
+worldview
+
+may:
+
+guide:
+
+space
+
+materials
+
+service
+
+or:
+
+place:
+
+relationships.
 
 But:
 
-digital:
+worldview
 
-atmospheric:
+is:
 
-translation
+not:
 
-does not:
+itself:
 
-prove:
+the:
+
+guest-facing:
+
+environment.
+
+## Correction
+
+```text
+Worldview
+≠
+Atmosphere
+```
+
+The:
+
+translation:
+
+mechanisms
+
+matter.
+
+---
+
+# Comparison 47 — Atmosphere Through Worldview Needs Translation Evidence
+
+Potential:
+
+translation:
+
+channels:
+
+- architecture
+- materials
+- lighting
+- spatial structure
+- service behaviour
+- production visibility
+- landscape relationship
+- participation
+- ritual
+
+## Architecture Relationship
+
+```text
+Worldview
++
+Translation Mechanism
+↓
+Potential Atmospheric Expression
+```
+
+This:
+
+is:
+
+stronger
+
+than:
+
+```text
+Worldview Copy
+=
+Atmosphere
+```
+
+---
+
+# Comparison 48 — Pearl Morissette Strengthens Physical Translation
+
+Its:
+
+strongest:
+
+contribution
+
+to:
+
+Atmosphere Through Worldview
+
+is:
+
+that:
+
+published:
+
+worldview
+
+and:
+
+published:
 
 physical:
 
-atmosphere.
-
-## Correction
-
-```text
-Digital Atmosphere
-≠
-Physical Atmosphere
-```
-
-This remains:
-
-important:
-
-for:
-
-KHDS implementation.
-
----
-
-# Cross-Case Finding 25 — Production Presence and Service Presence Must Stay Separate
-
-Din Tai Fung:
-
-strengthened:
-
-Production Presence.
-
-ICHIRAN:
-
-strengthened:
-
-Service Presence
-
-vs:
-
-Service Availability.
-
-Noma:
-
-shows:
-
-why:
-
-we need:
-
-discipline
-
-because:
-
-both:
+environment
 
 are:
 
-currently:
+not:
 
-uncertain.
+fully:
+
+separate.
+
+The:
+
+room
+
+faces:
+
+the:
+
+productive:
+
+place
+
+associated:
+
+with:
+
+the:
+
+restaurant's:
+
+regional:
+
+and:
+
+regenerative:
+
+story.
+
+## Current Pressure
+
+Very Strong.
+
+---
+
+# Comparison 49 — Physical Translation Still Does Not Prove Emotion
+
+Website:
+
+research
+
+may:
+
+support:
+
+```text
+Worldview
+→
+Environment
+```
+
+It cannot:
+
+prove:
+
+```text
+Environment
+→
+Specific Guest Emotion
+```
 
 ## Correction
 
 ```text
-Production Presence
+Physical Translation
 ≠
-Service Presence
+Emotional Outcome
 ```
 
 ---
 
-# Cross-Case Finding 26 — Service Presence and Service Availability Remain Separate
+# Comparison 50 — Desired Guest State Should Remain Optional
+
+Some:
+
+restaurants:
+
+clearly:
+
+design:
+
+for:
+
+a:
+
+specific:
+
+guest:
+
+state.
 
 ICHIRAN:
 
-gave:
+is:
 
 the:
 
 strongest:
 
-evidence.
+example.
 
-Haidilao:
+Other:
 
-gives:
-
-high:
-
-service presence.
-
-ICHIRAN:
-
-gives:
-
-lower:
-
-service visibility
-
-with:
-
-continued:
-
-availability.
-
-Noma:
-
-does not:
-
-materially:
-
-change:
-
-this:
-
-architecture.
-
-## Correction
-
-```text
-Service Presence
-≠
-Service Availability
-```
-
----
-
-# Cross-Case Finding 27 — Human Service Is Not Required for Atmosphere
-
-Haidilao:
-
-shows:
-
-human:
-
-service
-
-can:
-
-create:
-
-atmosphere.
-
-ICHIRAN:
-
-shows:
-
-strong:
-
-atmosphere
-
-can:
-
-exist:
-
-without:
-
-high:
-
-visible:
-
-human:
-
-service.
-
-Noma:
-
-currently:
-
-does not:
-
-resolve:
-
-this:
-
-further.
-
-## Governance Position
-
-Experiential Human Service remains:
-
-below Candidate.
-
----
-
-# Cross-Case Finding 28 — Atmosphere as Product Remains Context-Dependent
-
-## Current Status
-
-Emerging
-
-The pattern remains:
-
-useful
-
-when:
-
-atmosphere:
-
-materially:
-
-contributes:
-
-to:
-
-why:
-
-the guest:
-
-chooses:
-
-the:
-
-restaurant.
-
-Current:
-
-roles:
-
-### Destination Value
-
-Atmosphere:
-
-is:
-
-a:
-
-major:
-
-reason:
-
-to visit.
-
-### Product Amplifier
-
-Atmosphere:
-
-strengthens:
-
-another:
-
-primary:
-
-hospitality:
-
-value.
-
-Noma:
-
-is:
-
-currently:
-
-inconclusive:
-
-because:
-
-public:
-
-evidence
-
-does not:
-
-establish:
-
-whether:
-
-atmosphere itself
-
-is:
-
-the:
-
-primary:
-
-destination:
-
-value.
-
----
-
-# Cross-Case Finding 29 — Atmosphere as Product Should Not Absorb Every Strong Atmosphere
-
-A:
-
-restaurant:
+restaurants:
 
 may:
 
-have:
+construct:
 
-distinct:
+environmental:
 
-atmosphere
+coherence
 
 without:
 
-atmosphere:
+publishing:
 
-being:
+one:
 
-a:
+explicit:
 
-major:
+desired:
 
-reason:
-
-to visit.
+state.
 
 ## Correction
 
 ```text
 Strong Atmosphere
 ≠
-Atmosphere as Product
+Explicit Desired Guest State Required
 ```
 
----
-
-# Cross-Case Finding 30 — Noma Adds Time to Atmosphere Architecture
-
-Noma's:
-
-strongest:
-
-atmosphere:
-
-contribution
+Desired Guest State:
 
 is:
 
+an:
+
+analysis:
+
+variable
+
 not:
 
 a:
 
-new:
+universal:
 
-mechanism
+design:
 
-alone.
-
-It is:
-
-time.
-
-Potential:
-
-time-related:
-
-atmosphere variables:
-
-- season
-- month
-- ingredient state
-- creative state
-- material state
-- historical era
+requirement.
 
 ---
 
-# New Architecture Family — Temporal Atmosphere
+# Comparison 51 — Atmosphere Is Not Always Guest-Controlled
 
-Components:
+ICHIRAN:
 
-- Atmospheric Temporal State
-- Temporal Coherence
-- Desired State Stability
-- Evidence Freshness
-- Historical Atmosphere vs Current Atmosphere
-
-## Comparison Decision
-
-Architecture Family
-
-Not:
-
-formal pattern.
-
----
-
-# Cross-Case Finding 31 — Time Is Not Automatically Atmospheric
-
-A:
-
-restaurant:
-
-has:
-
-opening hours.
-
-That does not:
-
-make:
-
-time:
-
-an:
-
-atmospheric:
-
-mechanism.
-
-Time becomes:
-
-atmospherically:
-
-relevant
-
-only:
-
-when:
-
-it:
-
-materially:
-
-changes:
+gives:
 
 the:
 
-hospitality expression
-
-or:
-
-guest condition.
-
-## Correction
-
-```text
-Time Exists
-≠
-Temporal Atmosphere
-```
-
----
-
-# Cross-Case Finding 32 — Seasonal Atmosphere Is Not Seasonal Decoration
-
-Noma adds:
-
-strong:
-
-pressure:
-
-to:
-
-this:
-
-boundary.
-
-## Correction
-
-```text
-Seasonal Atmosphere
-≠
-Seasonal Decoration
-```
-
-Season:
-
-may:
-
-operate:
-
-through:
-
-- ingredients
-- landscape
-- material changes
-- operating rhythm
-- creative direction
-- guest expectation
-
-not:
-
-only:
-
-decor.
-
----
-
-# Cross-Case Finding 33 — Evidence of Seasonal Logic Does Not Prove Seasonal Atmospheric Difference
-
-Noma:
-
-publishes:
-
-strong:
-
-seasonal:
-
-logic.
-
-Current:
-
-public:
-
-evidence
-
-does not:
-
-establish:
-
-that:
-
-every:
-
-monthly:
-
-atmosphere
-
-materially:
-
-differs.
-
-## Correction
-
-```text
-Seasonal Operating Logic
-≠
-Proven Seasonal Atmosphere Difference
-```
-
-This is:
-
-mandatory:
-
-evidence discipline.
-
----
-
-# Cross-Case Finding 34 — Historical Atmosphere Evidence Can Prove Capacity
-
-Noma's:
-
-historical:
-
-materials
-
-show:
-
-past:
-
-intent
-
-to:
-
-translate:
-
-seasonal:
-
-logic
-
-into:
-
-aesthetic:
-
-expression.
-
-This may:
-
-support:
-
-Atmospheric Capacity Proof.
-
-## Correction
-
-```text
-Historical Atmospheric Evidence
-≠
-Current Atmosphere Proof
-```
-
-But:
-
-it may support:
-
-```text
-Historical Atmospheric Evidence
-→
-Institutional Capacity Proof
-```
-
-when:
-
-properly:
-
-qualified.
-
----
-
-# New Direction — Atmospheric Capacity Proof
-
-Current:
-
-Proof / Atmosphere Direction
-
-## Comparison Decision
-
-Keep:
-
-below Candidate.
-
-It may:
-
-be:
-
-better understood:
-
-inside:
-
-Capacity Proof
-
-rather than:
-
-as:
-
-a:
-
-separate:
-
-formal:
-
-direction.
-
----
-
-# Deduplication Recommendation
-
-```text
-Atmospheric Capacity Proof
-→
-Capacity Proof
-```
-
-as:
-
-an:
-
-atmosphere-specific:
-
-application.
-
-Do not:
-
-create:
-
-separate:
-
-formal pattern.
-
----
-
-# Cross-Case Finding 35 — Coherence Across Time Needs Observable Connection
-
-Noma introduces:
-
-the:
-
-idea:
-
-of:
-
-Temporal Coherence.
-
-But:
-
-KHDS should not:
-
-declare:
-
-coherence
-
-because:
-
-a:
-
-brand:
-
-says:
-
-its:
-
-seasons
-
-are:
-
-connected.
-
-The:
-
-relationship
-
-between:
-
-states
-
-must:
-
-be:
-
-observable
-
-through:
+guest
 
 some:
 
-combination
+structured:
 
-of:
+control.
 
-- repeated logic
-- place
-- method
-- material relationship
-- story
-- visual evidence
-- participation structure
+Haidilao:
 
-## Correction
+relies:
 
-```text
-Claimed Continuity
-≠
-Observed Coherence
-```
+more:
 
----
-
-# Cross-Case Finding 36 — Identity Invariants May Support Atmosphere Across Change
-
-Noma:
-
-introduces:
-
-Identity Invariant.
-
-Potential:
-
-atmosphere-specific:
-
-invariants include:
-
-- place relationship
-- worldview
-- method
-- research culture
-- service philosophy
-- craft standard
-
-## Architecture Question
-
-> **What remains stable enough for different atmospheric states to still feel related?**
-
-## Status
-
-Architecture Variable
-
-Not:
-
-formal pattern.
-
----
-
-# Cross-Case Finding 37 — Atmospheric Invariant and Identity Invariant Are Related but Different
-
-### Identity Invariant
-
-What:
-
-remains:
-
-stable
-
-in:
-
-the:
-
-restaurant's:
-
-identity.
-
-### Atmospheric Invariant
-
-What:
-
-remains:
-
-stable
-
-inside:
-
-the:
-
-atmospheric:
-
-experience.
-
-They may:
-
-overlap.
-
-But:
-
-they should not:
-
-be:
-
-automatically:
-
-collapsed.
-
----
-
-# Cross-Case Finding 38 — Same Institution Does Not Guarantee Same Atmosphere
-
-Noma makes:
-
-this:
-
-boundary:
-
-especially:
-
-important.
-
-```text
-Same Institution
-≠
-Same Atmosphere
-```
-
-A:
-
-restaurant:
-
-can:
-
-change:
-
-materials
+on:
 
 service
-
-guest:
-
-behaviour
-
-or:
-
-spatial:
-
-conditions
-
-while:
-
-remaining:
-
-the:
-
-same:
-
-institution.
-
----
-
-# Cross-Case Finding 39 — Stable Method Does Not Guarantee Stable Sensory Output
-
-A:
-
-restaurant:
-
-may:
-
-retain:
-
-one:
-
-method
-
-while:
-
-the:
-
-guest-facing:
-
-sensory:
-
-experience
-
-changes.
-
-## Correction
-
-```text
-Stable Method
-≠
-Stable Sensory Output
-```
-
-This supports:
-
-Method Continuity
-
-without:
-
-overclaiming:
-
-atmospheric sameness.
-
----
-
-# Cross-Case Finding 40 — Visual Coherence and Atmospheric Coherence Are Different
-
-Photography:
-
-may:
-
-show:
-
-visual:
-
-connection
-
-across:
-
-states.
-
-Atmosphere:
-
-may:
-
-include:
-
-service
-
-sound
-
-behaviour
-
-pacing
-
-social exposure
 
 and:
 
-other:
+social:
 
-nonvisual:
+interaction.
+
+Pearl Morissette:
+
+relies:
+
+more:
+
+on:
+
+place
+
+and:
+
+environmental:
 
 conditions.
 
 ## Correction
 
 ```text
-Visual Coherence
+Guest Agency
 ≠
-Atmospheric Coherence
+Atmospheric Control
 ```
 
-This is:
+The:
 
-important:
+guest
 
-for:
+may:
 
-future:
+participate
 
-digital:
+without:
 
-translation.
+controlling:
+
+the:
+
+environment.
 
 ---
 
-# Cross-Case Finding 41 — Atmosphere Through Consistency Has Strong Evidence but Needs Definition Discipline
+# Comparison 52 — Atmosphere and Participation Interact Without Merging
 
-Current:
+ICHIRAN:
 
-Emerging
+shows:
 
-Strong support:
+participation:
 
-across:
+architecture
 
-multiple:
+directly:
 
-cases
+shaping:
 
-because:
+atmosphere.
 
-atmospheric:
+Haidilao:
 
-coherence
+social:
 
-appears:
+participation
 
-strongest
+also:
 
-when:
+shapes:
 
-relevant:
+atmosphere.
 
-elements:
+Pearl Morissette:
+
+participation
+
+is:
+
+less:
+
+central
+
+to:
+
+the:
+
+environment.
+
+## Correction
+
+```text
+Participation Shapes Atmosphere
+≠
+Atmosphere Is Participation
+```
+
+---
+
+# Comparison 53 — Atmosphere and Story Interact Without Merging
+
+Dishoom
+
+NARISAWA
+
+Noma
+
+Pearl Morissette
+
+all:
+
+show:
+
+strong:
+
+story-atmosphere:
+
+interaction.
+
+But:
+
+the:
+
+dimensions
+
+remain:
+
+distinct.
+
+### Story
+
+What:
+
+does:
+
+the:
+
+hospitality
+
+mean?
+
+### Atmosphere
+
+What:
+
+guest-facing:
+
+environmental:
+
+mechanisms
+
+express:
+
+or:
 
 support:
+
+that:
+
+meaning?
+
+## Correction
+
+```text
+Narrative Meaning
+≠
+Atmospheric Mechanism
+```
+
+---
+
+# Comparison 54 — Atmosphere and Product Can Interact Without Merging
+
+Franklin:
+
+product:
+
+ritual
+
+shapes:
+
+environment.
+
+Din Tai Fung:
+
+craft:
+
+visibility
+
+can:
+
+shape:
+
+environment.
+
+Pearl Morissette:
+
+productive:
+
+context
+
+supports:
+
+food:
+
+meaning.
+
+## Correction
+
+```text
+Product Meaning
+≠
+Atmosphere
+```
+
+The:
+
+product:
+
+may:
+
+influence:
+
+atmosphere
+
+without:
+
+becoming:
+
+the:
+
+whole:
+
+atmosphere.
+
+---
+
+# Comparison 55 — Atmosphere Can Carry Proof
+
+Pearl Morissette:
+
+provides:
+
+a:
+
+strong:
+
+example.
+
+The:
+
+physical:
+
+environment:
+
+can:
+
+help:
+
+support:
+
+claims
+
+about:
+
+place
+
+productive:
+
+context
+
+or:
+
+system.
+
+But:
+
+this:
+
+is:
+
+not:
 
 the:
 
 same:
 
-hospitality:
+as:
 
-intention.
+proof:
 
-Noma:
+architecture.
 
-strengthens:
+## Correction
 
-the pattern:
+```text
+Atmosphere Evidence
+≠
+Atmosphere Pattern
+```
 
-without:
+and:
 
-requiring:
-
-surface repetition.
-
-## Current Best Definition Pressure
-
-> **Atmosphere becomes coherent when relevant physical, visual, behavioural, service, participation, operating, and temporal elements remain relationally aligned with the hospitality logic or intended guest condition.**
-
-## Governance Position
-
-No:
-
-maturity change:
-
-inside:
-
-comparison.
+```text
+Atmosphere
+≠
+Proof
+```
 
 ---
 
-# Cross-Case Finding 42 — Atmosphere Through Continuity May Be Approaching Stronger Confidence
+# Comparison 56 — Rooted Destination Atmosphere Should Remain Nested
 
-Current:
+The:
 
-Candidate / Medium
+direction
 
-Evidence now includes:
+is:
 
-materially:
-
-different:
-
-continuity:
-
-mechanisms.
-
-### Talisman
-
-Place / history continuity.
-
-### Din Tai Fung
-
-Brand / practice continuity.
-
-### Noma
-
-Method / adaptive continuity.
-
-This is:
-
-significant.
-
-## Governance Watch
-
-Definition / Confidence Review
-
-Do not:
-
-change:
-
-confidence:
-
-inside:
-
-comparison.
-
----
-
-# Cross-Case Finding 43 — Atmosphere Through Worldview May Be Ready for Under-Review Reassessment
-
-Current:
-
-Candidate / Under Review / Medium-High
-
-Positive:
-
-worldview:
-
-cases:
-
-are now:
-
-substantial.
-
-Boundary:
-
-cases:
-
-are also:
-
-clear.
-
-This is:
-
-exactly:
-
-what:
-
-a:
-
-healthy:
-
-Candidate
-
-should:
-
-need.
-
-## Governance Question
-
-> **Has the pattern survived enough positive and negative evidence to leave Under Review while remaining Candidate?**
-
-This belongs:
-
-after:
-
-all five:
-
-post-Noma:
-
-comparison files.
-
----
-
-# Cross-Case Finding 44 — Designed Escape Remains Legitimate but Narrow
-
-The pattern:
-
-still:
-
-has:
-
-clear:
-
-cases.
+useful.
 
 But:
 
-strong:
+it:
 
-atmosphere:
+is:
 
-can:
+best:
 
-also:
+treated:
 
-come from:
+as:
 
-rootedness
+a:
 
-continuity
+mechanism
 
-privacy
+inside:
 
-sociality
+existing:
 
-craft
+patterns.
 
-or:
+Potential Homes:
 
-change.
+- Story Through Place
+- Atmosphere Through Worldview
+- Atmosphere as Product
 
-## Governance Position
+## Decision
 
-Retain:
+Do not:
 
-Candidate / Medium.
+create:
 
-No:
+a:
 
 new:
 
-pressure:
+formal:
+
+pattern.
+
+---
+
+# Comparison 57 — Atmospheric Threshold Should Remain Architecture
+
+The:
+
+concept
+
+is:
+
+useful:
 
 for:
-
-promotion.
-
----
-
-# Cross-Case Finding 45 — Social Interaction as Designed Hospitality Remains Too Contextual
-
-Haidilao:
-
-strong:
-
-positive.
-
-ICHIRAN:
-
-strong:
-
-negative / contradiction.
-
-Noma:
-
-limited evidence.
-
-Therefore:
-
-the direction:
-
-remains:
-
-valuable:
-
-but:
-
-context-specific.
-
-## Governance Position
-
-Remain:
-
-below Candidate.
-
----
-
-# Cross-Case Finding 46 — Experiential Human Service Remains Below Candidate
-
-Haidilao:
-
-strong:
-
-support.
-
-ICHIRAN:
-
-strong:
-
-boundary.
-
-Din Tai Fung:
-
-less:
-
-human-service-led.
-
-Noma:
-
-current:
-
-evidence:
-
-insufficient.
-
-## Governance Position
-
-No change.
-
----
-
-# Cross-Case Finding 47 — Research as Atmospheric Mechanism Is Not Ready
-
-Current evidence:
-
-too:
-
-Noma-heavy.
-
-Need:
-
-additional:
 
 restaurants
 
 where:
 
-research
+guest:
 
-experimentation
-
-or:
-
-making
-
-is:
+space
 
 materially:
 
-guest-visible:
+relates:
 
-and:
-
-atmospherically:
-
-important.
-
-## Governance Position
-
-Remain:
-
-Observed.
-
----
-
-# Cross-Case Finding 48 — Process-Led Atmosphere Is Not Ready
-
-Potential:
-
-support:
-
-from:
-
-Franklin
-
-Haidilao
-
-Din Tai Fung
-
-Noma
-
-but:
-
-the:
-
-operating:
-
-mechanisms
-
-are:
-
-too:
-
-different
-
-and:
-
-guest-visible:
-
-process:
-
-proof
-
-is:
-
-inconsistent.
-
-## Governance Position
-
-Remain:
-
-below Candidate.
-
----
-
-# Cross-Case Finding 49 — Coherence Through Change Is Strong but Still Noma-Dominant
-
-Noma:
-
-provides:
-
-extremely strong:
-
-evidence.
-
-Other:
-
-cases:
-
-offer:
-
-partial:
-
-support.
-
-### Din Tai Fung
-
-Global promise
-
-+
-
-local expression.
-
-### Talisman
-
-continuity:
-
-across:
-
-time.
-
-### Alinea
-
-transformative:
-
-experience architecture.
-
-But:
-
-none:
-
-directly:
-
-match:
-
-Noma's:
-
-continuous:
-
-temporal:
-
-change.
-
-## Governance Position
-
-Remain:
-
-below Candidate.
-
-Need:
+to:
 
 another:
 
-independent:
-
-high-change:
-
-hospitality:
-
-case.
-
----
-
-# Cross-Case Finding 50 — Coherence Through Change Needs Falsification Before Maturity
+environment.
 
 Potential:
 
-falsification:
+future:
 
-conditions:
+cases:
 
-- atmospheric states feel unrelated
-- change lacks organising logic
-- guest expectation becomes misleading
-- identity invariants disappear
-- variation becomes arbitrary
-- atmosphere is too different to remain recognisable
+- chef counter facing kitchen
+- dining room facing garden
+- restaurant opening onto street
+- waterfront dining
+- market adjacency
+- vineyard
+- workshop
 
-Until:
+## Decision
 
-these:
-
-can:
-
-be:
-
-tested:
-
-across:
-
-more:
-
-independent:
-
-cases
-
-do not:
-
-promote.
+Architecture only.
 
 ---
 
-# Current Post-Noma Atmosphere Architecture
+# Comparison 58 — Productive Relationship Legibility Should Remain Architecture
 
-```text
-Hospitality Model
-↓
-Temporal Context where relevant
-+
-Place Relationship
-+
-Worldview
-+
-Operating Logic
-↓
-Desired Guest State
-or
-Compatible Guest-State Cluster
-↓
-Primary Atmospheric Mechanism
-+
-Supporting Mechanisms
-↓
-Place
-Worldview
-Continuity
-Escape
-Belonging
-Craft
-Cultural Memory
-Service
-Ritual
-Participation
-Social Interaction
-Privacy
-Concentration
-Constraint
-Process
-Time
-where relevant
-↓
-Relevant Environment
-+
-Service Presence
-+
-Service Availability
-+
-Production Presence
-+
-Guest Behaviour
-+
-Relevant Absence
-+
-Relevant Signals
-↓
-Relational Coherence
-+
-Temporal Coherence where relevant
-↓
-Atmospheric Experience
-```
+This:
 
----
-
-# Simplified Post-Noma Atmosphere Architecture
-
-```text
-Hospitality Model
-↓
-What Guest Condition Matters?
-↓
-Which Mechanisms Can Produce It?
-↓
-What Must Be Present?
-+
-What Can Be Absent?
-+
-What Can Change?
-+
-What Must Remain Coherent?
-↓
-Relational Coherence
-+
-Temporal Coherence where relevant
-↓
-Atmospheric Experience
-```
-
-This is:
-
-the:
-
-strongest:
-
-current:
-
-atmosphere:
-
-abstraction.
-
----
-
-# Post-Noma Atmosphere Variables
-
----
-
-## Guest State
-
-- Desired Guest State
-- Compatible Guest-State Cluster
-- Desired State Stability
-
----
-
-## Presence
-
-- Service Presence
-- Service Availability
-- Production Presence
-- Social Exposure
-
----
-
-## Place / Identity
-
-- Place Relationship
-- Atmospheric Invariant
-- Identity Invariant
-- Method Continuity
-
----
-
-## Temporal
-
-- Atmospheric Temporal State
-- Temporal Coherence
-- Evidence Freshness
-
----
-
-## Environment
-
-- Spatial Zone
-- Material Environment
-- Relevant Absence
-- Relevant Presence
-
----
-
-## Mechanism
-
-- Worldview
-- Continuity
-- Escape
-- Belonging
-- Craft
-- Cultural Memory
-- Service
-- Ritual
-- Participation
-- Social Interaction
-- Privacy
-- Concentration
-- Constraint
-- Process
-- Time
-
-These are:
-
-architecture variables
-
-or:
-
-mechanisms.
-
-Not:
-
-formal patterns
-
-unless:
-
-already:
-
-governed.
-
----
-
-# Pattern Pressure — Atmosphere Through Consistency
-
-Current:
-
-Emerging
-
-Noma:
-
-Very Strong Support
-
-Cross-Case Position:
-
-Strengthened
-
-Primary refinement:
-
-consistency may:
-
-include:
-
-relational:
-
-and:
-
-temporal:
-
-coherence.
-
-No maturity change.
-
----
-
-# Pattern Pressure — Atmosphere Through Worldview
-
-Current:
-
-Candidate / Under Review / Medium-High
-
-Noma:
-
-Very Strong Support
-
-Cross-Case Position:
-
-Major Review Watch
-
-Positive:
-
-and:
-
-boundary:
-
-evidence:
-
-both:
-
-strong.
-
-No decision:
-
-inside:
-
-comparison.
-
----
-
-# Pattern Pressure — Atmosphere Through Continuity
-
-Current:
-
-Candidate / Medium
-
-Noma:
-
-Strong Support
-
-Cross-Case Position:
-
-Definition / Confidence Review Watch
-
-Primary refinement:
-
-Method Continuity
-
-+
-
-Continuity ≠ Sameness.
-
-No decision.
-
----
-
-# Pattern Pressure — Designed Escape
-
-Current:
-
-Candidate / Medium
-
-Noma:
-
-Boundary Evidence
-
-Cross-Case Position:
-
-Retain
-
-No promotion pressure.
-
----
-
-# Pattern Pressure — Atmosphere as Product
-
-Current:
-
-Emerging
-
-Noma:
-
-Inconclusive
-
-Cross-Case Position:
-
-No significant change.
-
----
-
-# Pattern Pressure — Story Through Place
-
-Current:
-
-Emerging
-
-Noma:
-
-Strong Atmosphere-Related Support
-
-Cross-Case Position:
-
-Strengthened
-
-Primary refinement:
-
-place can be:
-
-relational
-
-rather than:
-
-geographic only.
-
----
-
-# Pattern Pressure — Story Through Hospitality Model
-
-Current:
-
-Emerging
-
-Noma:
-
-Strong Atmosphere-Related Support
-
-Cross-Case Position:
-
-Strengthened
-
-Operating logic:
-
-may:
-
-shape:
-
-atmosphere
-
-where:
-
-guest-legible.
-
----
-
-# Pattern Pressure — Social Interaction as Designed Hospitality
-
-Current:
-
-Below Candidate
-
-Noma:
-
-Limited
-
-Cross-Case Position:
-
-Remain below Candidate.
-
----
-
-# Pattern Pressure — Experiential Human Service
-
-Current:
-
-Below Candidate
-
-Noma:
-
-Insufficient evidence
-
-Cross-Case Position:
-
-Remain below Candidate.
-
----
-
-# New Direction — Coherence Through Change
-
-Current:
-
-Observed Cross-Dimensional Direction
-
-Noma Atmosphere Support:
-
-Extremely Strong
-
-Cross-Case Decision:
-
-Remain below Candidate.
-
-Need:
-
-more:
-
-independent:
-
-temporal-change:
-
-cases.
-
----
-
-# New Direction — Process-Led Atmosphere
-
-Current:
-
-Observed
-
-Noma:
-
-Strong conceptual pressure
-
-but:
-
-weak:
-
-current:
-
-physical:
-
-proof.
-
-Cross-Case Decision:
-
-Remain below Candidate.
-
----
-
-# New Direction — Research as Atmospheric Mechanism
-
-Current:
-
-Observed
-
-Noma:
-
-Strong narrative pressure
-
-but:
-
-insufficient:
-
-physical:
-
-atmosphere proof.
-
-Cross-Case Decision:
-
-Remain below Candidate.
-
----
-
-# New Direction — Temporal Atmosphere
-
-Current:
-
-Architecture Family
-
-Cross-Case Decision:
-
-Do not formalize.
-
-Time:
+variable
 
 is:
 
-context
+strong:
+
+but:
+
+specific.
+
+It:
+
+helps:
+
+evaluate:
+
+whether:
+
+productive:
+
+environment
+
+actually:
+
+means:
+
+something.
+
+It:
+
+does:
 
 not:
 
-automatically:
+need:
 
-a:
+formal:
+
+pattern:
+
+maturity.
+
+---
+
+# Comparison 59 — Material Contrast Should Remain Architecture
+
+Different:
+
+materials:
+
+can:
+
+work:
+
+together.
+
+This:
+
+belongs:
+
+inside:
+
+Atmosphere Through Consistency
+
+rather:
+
+than:
+
+becoming:
+
+its:
+
+own:
 
 pattern.
 
 ---
 
-# Atmosphere Corrections — Post-Noma
-
----
-
-## Correction 1
-
-Atmosphere
-
-≠
-
-Decoration.
-
----
-
-## Correction 2
-
-Atmosphere
-
-≠
-
-Social Energy.
-
----
-
-## Correction 3
-
-Atmosphere
-
-≠
-
-One Universal Mechanism.
-
----
-
-## Correction 4
-
-Consistency
-
-≠
-
-Sameness.
-
----
-
-## Correction 5
-
-Atmospheric Consistency
-
-≠
-
-Repeated Surface Expression.
-
----
-
-## Correction 6
-
-Temporal Coherence
-
-≠
-
-Temporal Repetition.
-
----
-
-## Correction 7
-
-Continuity
-
-≠
-
-Sameness.
-
----
-
-## Correction 8
-
-Method Continuity
-
-≠
-
-Stable Sensory Output.
-
----
-
-## Correction 9
-
-Worldview
-
-≠
-
-Universal Atmosphere Architecture.
-
----
-
-## Correction 10
-
-Distinct Atmosphere
-
-≠
-
-Designed Escape.
-
----
-
-## Correction 11
-
-Place Atmosphere
-
-≠
-
-Address.
-
----
-
-## Correction 12
-
-Seasonal Atmosphere
-
-≠
-
-Seasonal Decoration.
-
----
-
-## Correction 13
-
-Seasonal Operating Logic
-
-≠
-
-Proven Seasonal Atmosphere Difference.
-
----
-
-## Correction 14
-
-Published Atmospheric Logic
-
-≠
-
-Observed Atmospheric Outcome.
-
----
-
-## Correction 15
-
-Atmospheric Promise
-
-≠
-
-Atmospheric Experience.
-
----
-
-## Correction 16
-
-Digital Atmosphere
-
-≠
-
-Physical Atmosphere.
-
----
-
-## Correction 17
-
-Research Identity
-
-≠
-
-Research Atmosphere.
-
----
-
-## Correction 18
-
-Process Exists
-
-≠
-
-Process Shapes Atmosphere.
-
----
-
-## Correction 19
-
-Production Presence
-
-≠
-
-Service Presence.
-
----
-
-## Correction 20
-
-Service Presence
-
-≠
-
-Service Availability.
-
----
-
-## Correction 21
-
-Same Institution
-
-≠
-
-Same Atmosphere.
-
----
-
-## Correction 22
-
-Visual Coherence
-
-≠
-
-Atmospheric Coherence.
-
----
-
-## Correction 23
-
-Historical Atmospheric Evidence
-
-≠
-
-Current Atmosphere Proof.
-
----
-
-## Correction 24
-
-Time Exists
-
-≠
-
-Temporal Atmosphere.
-
----
-
-## Correction 25
-
-Claimed Continuity
-
-≠
-
-Observed Coherence.
-
----
-
-## Correction 26
-
-Coherence Through Change
-
-≠
-
-Atmosphere Through Consistency.
-
----
-
-# Atmosphere Tension 1 — Consistency vs Evolution
-
-Question:
-
-> **Can atmosphere remain coherent when its expression changes materially through time?**
-
-Post-Noma Status:
-
-Primary.
-
----
-
-# Atmosphere Tension 2 — Continuity vs Sameness
-
-Question:
-
-> **Can method, worldview, and place relationship preserve continuity without repeated surface expression?**
-
-Post-Noma Status:
-
-Very Strong.
-
----
-
-# Atmosphere Tension 3 — Worldview vs Physical Translation
-
-Question:
-
-> **When does a strong hospitality worldview become actual atmosphere rather than story alone?**
-
-Status:
-
-Active.
-
----
-
-# Atmosphere Tension 4 — Place vs Escape
-
-Question:
-
-> **Does strong atmosphere come from leaving the surrounding context or deepening the guest's relationship to it?**
-
-Status:
-
-Context-dependent.
-
----
-
-# Atmosphere Tension 5 — Research Identity vs Research Visibility
-
-Question:
-
-> **How visible must research or experimentation become before it materially affects atmosphere?**
-
-Status:
-
-Active.
-
----
-
-# Atmosphere Tension 6 — Process vs Guest Perception
-
-Question:
-
-> **When does an internal operating process become atmospherically legible to the guest?**
-
-Status:
-
-Active.
-
----
-
-# Atmosphere Tension 7 — Social Energy vs Individual Focus
-
-Question:
-
-> **Which guest condition is appropriate to the hospitality model?**
-
-Still:
-
-strongly:
-
-context-dependent.
-
----
-
-# Atmosphere Tension 8 — Service Presence vs Service Availability
-
-Question:
-
-> **How visible must human service be for the guest to feel supported?**
+# Comparison 60 — Diurnal Atmosphere Should Remain Below Pattern Level
 
 Current:
 
-strongest:
+support:
 
-contrast:
+is:
 
-Haidilao
+limited.
 
-vs:
+Pearl Morissette:
 
-ICHIRAN.
+creates:
+
+a:
+
+useful:
+
+case
+
+because:
+
+natural:
+
+light
+
+and:
+
+landscape:
+
+visibility
+
+could:
+
+change:
+
+between:
+
+lunch
+
+and:
+
+dinner.
+
+But:
+
+current:
+
+evidence
+
+does:
+
+not:
+
+establish:
+
+enough:
+
+cross-case:
+
+repetition.
+
+## Decision
+
+Architecture Direction
+
+No promotion.
 
 ---
 
-# Atmosphere Tension 9 — Historical Capacity vs Current State
-
-Question:
-
-> **When can historical atmosphere evidence support confidence without becoming false current-state proof?**
-
-Post-Noma:
-
-active.
-
----
-
-# Atmosphere Tension 10 — Digital Promise vs Physical Reality
-
-Question:
-
-> **How should a digital experience represent atmosphere without overstating what the physical guest will actually encounter?**
-
-Status:
-
-Active.
-
----
-
-# Atmosphere Tension 11 — Stable Identity vs Variable Atmosphere
-
-Question:
-
-> **How much can atmosphere change before the restaurant no longer feels recognisably like the same hospitality institution?**
-
-Post-Noma:
-
-major:
-
-new:
-
-tension.
-
----
-
-# Strongest Falsification Questions
-
----
-
-# Atmosphere Through Consistency
-
-> **When do multiple atmospheric elements remain individually strong but fail to support one coherent hospitality condition?**
+# Current Atmosphere Pattern Pressure
 
 ---
 
 # Atmosphere Through Worldview
 
-> **When does a strong worldview fail to materially shape the guest-facing environment or experience?**
+Status:
+
+Candidate / Medium-High
+
+Post–Pearl Morissette Pressure:
+
+Very Strong
+
+Governance Review:
+
+Confidence Review Warranted
+
+Potential:
+
+Candidate / High
+
+Formal change:
+
+Deferred.
+
+---
+
+# Atmosphere Through Consistency
+
+Status:
+
+Emerging
+
+Post–Pearl Morissette Pressure:
+
+Very Strong
+
+Governance Review:
+
+Candidate Review Warranted
+
+Potential:
+
+Candidate / Medium
+
+Primary risk:
+
+generic coherence.
+
+Formal change:
+
+Deferred.
 
 ---
 
 # Atmosphere Through Continuity
 
-> **When does continuity become too weak or abstract to influence atmosphere?**
+Status:
+
+Candidate / Medium-High
+
+Post–Pearl Morissette Pressure:
+
+Moderate
+
+Governance Review:
+
+No immediate change.
 
 ---
 
 # Designed Escape
 
-> **When is a distinctive environment still too connected to its context to qualify as escape?**
+Status:
+
+Candidate / Medium
+
+Post–Pearl Morissette Pressure:
+
+Boundary
+
+Contribution:
+
+destination:
+
+rootedness
+
+as:
+
+alternative:
+
+mechanism.
+
+Governance Review:
+
+No change.
 
 ---
 
 # Atmosphere as Product
 
-> **When is atmosphere memorable but not materially part of why the guest chooses the restaurant?**
+Status:
 
----
+Emerging
 
-# Process-Led Atmosphere
+Post–Pearl Morissette Pressure:
 
-> **When does a meaningful internal process remain invisible and therefore fail to shape guest atmosphere?**
+Strong but Incomplete
+
+Governance Review:
+
+Remain Emerging.
+
+Primary limitation:
+
+guest-choice:
+
+causality.
 
 ---
 
 # Coherence Through Change
 
-> **When do changing atmospheric states lose enough common logic that they no longer feel related?**
+Status:
+
+Observed Cross-Dimensional Research Direction
+
+Post–Pearl Morissette Pressure:
+
+Boundary Refinement
+
+Governance Review:
+
+Remain below Candidate.
 
 ---
 
-# Temporal Atmosphere
+# Research as Atmospheric Mechanism
 
-> **When does season or time alter operations without materially changing atmosphere?**
+Status:
+
+Observed Research Direction
+
+Post–Pearl Morissette Pressure:
+
+Low / Neutral
+
+Governance Review:
+
+Remain below Candidate.
 
 ---
 
-# Governance Watch After Atmosphere Comparison
+# Process-Led Atmosphere
 
-No:
+Status:
+
+Observed Research Direction
+
+Post–Pearl Morissette Pressure:
+
+Low to Moderate
+
+Governance Review:
+
+Remain below Candidate.
+
+---
+
+# Social Interaction as Designed Hospitality
+
+Status:
+
+Below Candidate
+
+Post–Pearl Morissette Pressure:
+
+Neutral
+
+Governance Review:
+
+Remain below Candidate.
+
+---
+
+# New Atmosphere Architecture After Restaurant #15
+
+---
+
+# Atmospheric Threshold
+
+Status:
+
+Architecture Direction
+
+Definition:
+
+> **A boundary between hospitality space and surrounding context can become atmospherically meaningful when it actively relates the guest-facing environment to another material hospitality condition.**
+
+---
+
+# Productive Threshold
+
+Status:
+
+Subtype of Atmospheric Threshold
+
+Do not:
+
+formalize.
+
+---
+
+# Productive Relationship Legibility
+
+Status:
+
+Architecture Variable
+
+Definition:
+
+> **The degree to which the relationship between a visible productive environment and hospitality output becomes understandable.**
+
+---
+
+# Rooted Destination Atmosphere
+
+Status:
+
+Architecture Direction
+
+Definition:
+
+> **Atmospheric distinctiveness created through intensified relationship to the actual place rather than designed escape from it.**
+
+---
+
+# Material Contrast
+
+Status:
+
+Architecture Direction
+
+Potential Home:
+
+Atmosphere Through Consistency.
+
+---
+
+# Diurnal Atmosphere
+
+Status:
+
+Architecture Direction
+
+Definition:
+
+> **Time-of-day variation in atmospheric expression caused by changes in light, visibility, activity, or environmental relationship.**
+
+---
+
+# Current Atmosphere Architecture Variables
+
+Post–Pearl Morissette:
+
+atmosphere research now includes:
+
+- Desired Guest State
+- Social Energy
+- Privacy
+- Service Presence
+- Production Presence
+- Productive Landscape Visibility
+- Productive Relationship Legibility
+- Narrative Density
+- Material Relationship
+- Material Contrast
+- Natural Light
+- Atmospheric Threshold
+- Productive Threshold
+- Worldview Translation
+- Relational Coherence
+- Temporal Coherence
+- Rooted Destination Atmosphere
+- Designed Escape
+- Diurnal Atmosphere
+- Seasonal Atmosphere
+- Place Relationship
+- Participation Effect
+
+These:
+
+are:
+
+architecture:
+
+variables
+
+or:
+
+directions.
+
+Not:
 
 formal:
 
-governance changes
-
-occur:
-
-here.
-
-Carry forward:
-
-the following.
+patterns.
 
 ---
 
-# Review Watch — Atmosphere Through Worldview
-
-Current:
-
-Candidate / Under Review / Medium-High
-
-Post-Noma Atmosphere Position:
-
-Strongest Review Watch
-
-Reason:
-
-Noma adds:
-
-very strong:
-
-positive:
-
-worldview:
-
-support
-
-while:
-
-existing:
-
-counterexamples
-
-remain:
-
-healthy:
-
-boundaries.
-
-Potential governance question:
-
-remove:
-
-Under Review
-
-while:
-
-retaining:
-
-Candidate?
-
-Decision belongs:
-
-after:
-
-all:
-
-comparison dimensions.
+# Atmosphere Deduplication Decisions
 
 ---
 
-# Definition / Confidence Watch — Atmosphere Through Continuity
+# Productive Threshold
 
-Current:
+```text
+Productive Threshold
+→
+Atmospheric Threshold
+```
 
-Candidate / Medium
+Subtype only.
 
-Post-Noma Position:
+---
 
-Stronger
-
-Reason:
-
-continuity:
-
-now includes:
-
-materially:
-
-different:
-
-mechanisms:
-
-- place
-- practice
-- method
+# Rooted Destination Atmosphere
 
 Potential:
 
-confidence:
+home:
+
+```text
+Story Through Place
++
+Atmosphere Through Worldview
++
+Atmosphere as Product
+```
+
+Do not:
+
+formalize.
+
+---
+
+# Material Contrast
+
+Potential:
+
+home:
+
+```text
+Atmosphere Through Consistency
+```
+
+Do not:
+
+formalize.
+
+---
+
+# Productive Relationship Legibility
+
+Cross-dimensional:
+
+architecture
+
+shared with:
+
+Photography
+
+Story
+
+Arrival.
+
+Do not:
+
+formalize.
+
+---
+
+# Diurnal Atmosphere
+
+Remain:
+
+architecture-level
+
+until:
+
+stronger:
+
+cross-case:
+
+evidence.
+
+---
+
+# Atmosphere Through Consistency
+
+Do not:
+
+merge:
+
+with:
+
+Atmosphere Through Continuity.
+
+```text
+Current Relational Coherence
+≠
+Temporal Continuity
+```
+
+---
+
+# Atmosphere Through Worldview
+
+Do not:
+
+merge:
+
+with:
+
+Story Through Place.
+
+```text
+Worldview Translation
+≠
+Place Meaning
+```
+
+---
+
+# Atmosphere Corrections — Post Restaurant #15
+
+---
+
+## Correction 1
+
+```text
+Atmosphere
+≠
+Décor Style
+```
+
+---
+
+## Correction 2
+
+```text
+Atmosphere
+≠
+Visual Mood Alone
+```
+
+---
+
+## Correction 3
+
+```text
+Strong Atmosphere
+≠
+One Preferred Mechanism
+```
+
+---
+
+## Correction 4
+
+```text
+Published Atmosphere Language
+≠
+Guest State Proven
+```
+
+---
+
+## Correction 5
+
+```text
+Strong Published Worldview
+≠
+Atmosphere Through Worldview Proven
+```
+
+---
+
+## Correction 6
+
+```text
+Physical Worldview Translation
+≠
+Emotional Outcome Proven
+```
+
+---
+
+## Correction 7
+
+```text
+Worldview Translation
+≠
+Literal Theming
+```
+
+---
+
+## Correction 8
+
+```text
+Atmospheric Consistency
+≠
+Visual Sameness
+```
+
+---
+
+## Correction 9
+
+```text
+Visual Difference
+≠
+Atmospheric Incoherence
+```
+
+---
+
+## Correction 10
+
+```text
+Current Coherence
+≠
+Temporal Continuity
+```
+
+---
+
+## Correction 11
+
+```text
+Continuity
+≠
+Sameness
+```
+
+---
+
+## Correction 12
+
+```text
+Variation Within System
+≠
+System Transformation
+```
+
+---
+
+## Correction 13
+
+```text
+Changing Menu
++
+Changing Landscape
+≠
+Coherence Through Change Proven
+```
+
+---
+
+## Correction 14
+
+```text
+Destination Restaurant
+≠
+Designed Escape
+```
+
+---
+
+## Correction 15
+
+```text
+Prominent Environment
+≠
+Atmosphere as Product Proven
+```
+
+---
+
+## Correction 16
+
+```text
+Human Interaction
+≠
+Hospitality
+```
+
+---
+
+## Correction 17
+
+```text
+Social Energy
+≠
+Required Atmosphere
+```
+
+---
+
+## Correction 18
+
+```text
+Privacy
+≠
+Universal Hospitality Improvement
+```
+
+---
+
+## Correction 19
+
+```text
+Environmental Atmosphere
+≠
+Service Atmosphere
+```
+
+---
+
+## Correction 20
+
+```text
+Productive Landscape Visibility
+≠
+Production Presence
+```
+
+---
+
+## Correction 21
+
+```text
+Production Presence
+≠
+Technique Proof
+```
+
+---
+
+## Correction 22
+
+```text
+Productive-Place Atmosphere
+≠
+Process Visibility
+```
+
+---
+
+## Correction 23
+
+```text
+Visual Connection
+≠
+Relational Coherence
+```
+
+---
+
+## Correction 24
+
+```text
+Visible Landscape
+≠
+Legible Productive Relationship
+```
+
+---
+
+## Correction 25
+
+```text
+Shared Environmental Evidence
+≠
+Shared Pattern
+```
+
+---
+
+## Correction 26
+
+```text
+Worldview Expression
+≠
+Place Story
+```
+
+---
+
+## Correction 27
+
+```text
+Material Contrast
+≠
+Atmospheric Contradiction
+```
+
+---
+
+## Correction 28
+
+```text
+Diurnal Atmosphere
+≠
+Seasonal Atmosphere
+```
+
+---
+
+## Correction 29
+
+```text
+Different Service Time
+≠
+Different Atmosphere Proven
+```
+
+---
+
+## Correction 30
+
+```text
+Seasonal Restaurant
+≠
+Temporal Atmosphere Dominates
+```
+
+---
+
+## Correction 31
+
+```text
+Time Exists
+≠
+Temporal Hospitality
+```
+
+---
+
+## Correction 32
+
+```text
+Worldview-Led Environment
+≠
+Atmosphere as Product
+```
+
+---
+
+## Correction 33
+
+```text
+Rootedness
+≠
+Escape
+```
+
+---
+
+## Correction 34
+
+```text
+Place-Led Atmosphere
+≠
+Natural Landscape Required
+```
+
+---
+
+## Correction 35
+
+```text
+Agricultural Setting
+≠
+Agricultural Atmosphere
+```
+
+---
+
+## Correction 36
+
+```text
+Beautiful Landscape
+≠
+Productive Landscape Meaning
+```
+
+---
+
+## Correction 37
+
+```text
+Productive Landscape
+≠
+Complete Atmosphere
+```
+
+---
+
+## Correction 38
+
+```text
+Multiple Atmosphere Mechanisms
+≠
+Atmospheric Complexity by Default
+```
+
+---
+
+## Correction 39
+
+```text
+Relational Coherence
+≠
+Temporal Coherence
+```
+
+---
+
+## Correction 40
+
+```text
+Worldview
+≠
+Atmosphere
+```
+
+---
+
+## Correction 41
+
+```text
+Physical Translation
+≠
+Emotional Outcome
+```
+
+---
+
+## Correction 42
+
+```text
+Strong Atmosphere
+≠
+Explicit Desired Guest State Required
+```
+
+---
+
+## Correction 43
+
+```text
+Guest Agency
+≠
+Atmospheric Control
+```
+
+---
+
+## Correction 44
+
+```text
+Participation Shapes Atmosphere
+≠
+Atmosphere Is Participation
+```
+
+---
+
+## Correction 45
+
+```text
+Narrative Meaning
+≠
+Atmospheric Mechanism
+```
+
+---
+
+## Correction 46
+
+```text
+Product Meaning
+≠
+Atmosphere
+```
+
+---
+
+## Correction 47
+
+```text
+Atmosphere
+≠
+Proof
+```
+
+---
+
+# Strongest Atmosphere Tensions After Restaurant #15
+
+---
+
+# Tension 1 — Worldview vs Physical Translation
+
+Question:
+
+> **When does a published worldview materially shape the environment rather than remain a narrative layer?**
+
+Strong cases:
+
+- Cultiva
+- NARISAWA
+- Noma
+- Pearl Morissette
+
+---
+
+# Tension 2 — Relational Coherence vs Visual Sameness
+
+Question:
+
+> **Can materially different environmental elements remain coherent when they support one hospitality logic?**
+
+Strong cases:
+
+- Dishoom
+- Din Tai Fung
+- Pearl Morissette
+
+---
+
+# Tension 3 — Continuity vs Consistency
+
+Question:
+
+> **Does current environmental coherence also survive meaningfully through time or change?**
+
+Strong cases:
+
+- Talisman
+- Noma
+
+Pearl Morissette:
+
+moderate:
+
+support.
+
+---
+
+# Tension 4 — Rootedness vs Escape
+
+Question:
+
+> **Can destination atmosphere become stronger through deeper connection to actual place rather than designed transportation away from it?**
+
+Strongest contrast:
+
+```text
+Mawimbi
+vs
+Pearl Morissette
+```
+
+---
+
+# Tension 5 — Productive Context vs Decoration
+
+Question:
+
+> **When does visible agriculture become hospitality meaning rather than attractive scenery?**
+
+Strongest case:
+
+Pearl Morissette.
+
+---
+
+# Tension 6 — Visibility vs Legibility
+
+Question:
+
+> **Can the guest understand the productive meaning of what they see, or does the relationship require additional explanation?**
+
+Strongest case:
+
+Pearl Morissette.
+
+---
+
+# Tension 7 — Threshold vs Coherence
+
+Question:
+
+> **Does physical connection between two spaces materially create hospitality meaning, or only visual adjacency?**
+
+Strongest case:
+
+Pearl Morissette.
+
+---
+
+# Tension 8 — Time of Day vs Stable Atmosphere
+
+Question:
+
+> **When do light and visibility changes create meaningfully different atmospheric states rather than ordinary environmental variation?**
+
+Strongest case:
+
+Pearl Morissette.
+
+---
+
+# Tension 9 — Social Energy vs Reduced Interaction
+
+Question:
+
+> **Can opposite levels of human interaction both produce strong hospitality depending on desired guest state?**
+
+Strongest contrast:
+
+```text
+Haidilao
+vs
+ICHIRAN
+```
+
+---
+
+# Tension 10 — Atmosphere as Product vs Supporting Environment
+
+Question:
+
+> **When does the environment itself become a meaningful hospitality offering rather than support for food, service, or story?**
+
+Strong cases:
+
+- Mawimbi
+- Alinea
+- Noma
+- Pearl Morissette
+
+---
+
+# Strongest Atmosphere Falsification Questions
+
+---
+
+# Atmosphere Through Worldview
+
+> **If the worldview language disappeared, would the environment still materially communicate the same hospitality logic?**
+
+and:
+
+> **If the physical translation disappeared, would the worldview remain only narrative rather than atmospheric?**
+
+---
+
+# Atmosphere Through Consistency
+
+> **Are the environmental elements genuinely connected through one hospitality logic, or are we using “coherence” as a vague approval label?**
+
+---
+
+# Atmosphere Through Continuity
+
+> **What evidence shows that the atmospheric identity remains coherent through material time or state change rather than only looking coherent now?**
+
+---
+
+# Designed Escape
+
+> **Is the guest being transported away from actual context, or becoming more deeply aware of the place they are already in?**
+
+---
+
+# Atmosphere as Product
+
+> **Would guests materially value or choose the experience differently if the same food and service were delivered in a neutral environment?**
+
+Public:
+
+website:
+
+research
+
+often:
+
+cannot:
+
+answer:
+
+this.
+
+---
+
+# Productive Relationship Legibility
+
+> **Does the guest understand how visible land relates to hospitality production, or is the relationship being inferred by the researcher?**
+
+---
+
+# Atmospheric Threshold
+
+> **Does the boundary materially connect two hospitality conditions, or is it simply architectural openness?**
+
+---
+
+# Rooted Destination Atmosphere
+
+> **Would the restaurant retain the same atmospheric distinctiveness if physically removed from its actual place?**
+
+---
+
+# Diurnal Atmosphere
+
+> **Does lunch-to-dinner change hospitality meaning, or only light level?**
+
+---
+
+# Coherence Through Change
+
+> **Is the restaurant materially transforming, or simply varying within an already stable atmospheric system?**
+
+---
+
+# Candidate Review Queue — Atmosphere Dimension
+
+The following:
+
+should:
+
+move:
+
+into:
+
+formal:
 
 review
 
 after:
 
-full:
+Photography
 
-reconciliation.
-
----
-
-# Retain Watch — Designed Escape
-
-Current:
-
-Candidate / Medium
-
-Post-Noma Position:
-
-Retain
-
-Noma strengthens:
-
-the:
-
-boundary:
-
-rather than:
-
-the:
-
-pattern.
-
----
-
-# Emerging Strength — Atmosphere Through Consistency
-
-Current:
-
-Emerging
-
-Post-Noma Position:
-
-Strengthened
-
-No:
-
-promotion pressure:
-
-beyond:
-
-Emerging
-
-at:
-
-current:
-
-governance maturity.
-
----
-
-# New Direction Watch — Coherence Through Change
-
-Current:
-
-Below Candidate
-
-Post-Noma Atmosphere Position:
-
-Very Strong but Noma-Dominant
-
-Need:
-
-another:
-
-independent:
-
-high-change:
-
-case
-
-before:
-
-formal:
-
-Candidate review.
-
----
-
-# New Direction Watch — Process-Led Atmosphere
-
-Current:
-
-Below Candidate
-
-Post-Noma Position:
-
-Interesting
-
-but:
-
-definition
+Reservation
 
 and:
 
-guest-legibility:
+Story:
 
-evidence:
+comparisons
+
+are:
+
+also:
+
+complete.
+
+---
+
+# 1. Atmosphere Through Consistency
+
+Current:
+
+Emerging
+
+Atmosphere Recommendation:
+
+Candidate Review Strongly Warranted
+
+Potential:
+
+Candidate / Medium
+
+Strongest support:
+
+- Talisman
+- Mawimbi
+- Dishoom
+- NARISAWA
+- Din Tai Fung
+- Noma
+- Pearl Morissette
+
+Primary risk:
+
+generic coherence.
+
+---
+
+# 2. Atmosphere Through Worldview
+
+Current:
+
+Candidate / Medium-High
+
+Atmosphere Recommendation:
+
+Confidence Review Warranted
+
+Potential:
+
+Candidate / High
+
+Strongest support:
+
+- Cultiva
+- FYN
+- NARISAWA
+- Noma
+- Pearl Morissette
+
+Primary boundary:
+
+worldview must:
+
+translate:
+
+materially
+
+into:
+
+the:
+
+guest-facing:
+
+environment.
+
+---
+
+# Patterns That Should Not Move From Atmosphere Evidence Alone
+
+---
+
+# Atmosphere as Product
+
+Strong but:
+
+guest-choice:
+
+causality
 
 insufficient.
+
+Remain Emerging.
+
+---
+
+# Coherence Through Change
+
+Pearl Morissette:
+
+narrows:
+
+the:
+
+boundary
+
+more:
+
+than:
+
+it:
+
+supports:
+
+promotion.
+
+Remain below Candidate.
+
+---
+
+# Research as Atmospheric Mechanism
+
+Still:
+
+Noma-dominant.
+
+Remain below Candidate.
+
+---
+
+# Process-Led Atmosphere
+
+Still:
+
+insufficiently:
+
+repeated.
+
+Remain below Candidate.
+
+---
+
+# Social Interaction as Designed Hospitality
+
+Context-specific
+
+and:
+
+contradicted
+
+by:
+
+ICHIRAN.
+
+Remain below Candidate.
+
+---
+
+# Existing Candidate Stability
+
+---
+
+# Designed Escape
+
+Candidate / Medium
+
+Pearl Morissette:
+
+provides:
+
+healthy:
+
+boundary:
+
+pressure.
+
+No change.
+
+---
+
+# Atmosphere Through Continuity
+
+Candidate / Medium-High
+
+Pearl Morissette:
+
+moderate:
+
+support.
+
+No immediate:
+
+confidence:
+
+change.
+
+---
+
+# Story Through Place
+
+Candidate / Medium-High
+
+Atmosphere:
+
+extremely:
+
+strong:
+
+Pearl Morissette:
+
+support.
+
+Primary:
+
+formal:
+
+confidence:
+
+review
+
+belongs:
+
+to:
+
+Story:
+
+comparison.
 
 ---
 
@@ -5247,137 +6084,305 @@ insufficient.
 
 After:
 
-fourteen:
+15:
 
-independent restaurants
+independent:
 
-the strongest:
+restaurants
 
-atmosphere conclusion is:
+KHDS atmosphere research:
 
-> **Atmosphere is produced through mechanisms that create an appropriate guest condition, not through one universal visual formula.**
+now:
 
-Noma strengthens:
+supports:
 
-that:
+a:
 
-architecture
+more:
 
-by adding:
+precise:
 
-time.
+model.
 
 The strongest:
 
-post-Noma:
+cross-case:
 
-finding is:
+finding remains:
 
-> **Atmospheric consistency does not require repeated surface expression. It may exist through relational and temporal coherence.**
+> **Atmosphere is a mechanism, not a style.**
 
-A second major finding is:
+Restaurant Pearl Morissette:
 
-> **Continuity can survive through method, place relationship, or worldview even when sensory expression changes.**
+adds:
 
-A third is:
+an:
 
-> **Temporal coherence and temporal repetition are different.**
+important:
 
-A fourth is:
+new:
 
-> **A strong worldview can organize atmosphere, but worldview remains one mechanism rather than the universal atmosphere abstraction.**
+mechanism:
 
-A fifth is:
+the:
 
-> **Place can create atmosphere through an active relationship to landscape, culture, season, or material continuity rather than geography alone.**
+guest-facing:
 
-A sixth is:
+environment
 
-> **Published atmospheric logic must remain separate from observed atmospheric outcome.**
+can:
 
-A seventh is:
+be:
 
-> **Research, process, and operating systems only become atmospheric mechanisms when their effects are guest-legible.**
+shaped
 
-An eighth is:
+by:
 
-> **The same institution can remain continuous while its atmospheric expression changes.**
+the:
 
-A ninth is:
+relationship
 
-> **Historical atmosphere evidence may support capacity but cannot substitute for current atmosphere proof.**
+between:
 
-A tenth is:
+hospitality space
 
-> **Coherence Through Change is important, but Noma alone is not enough to promote it into formal pattern maturity.**
+and:
 
----
+productive place.
 
-# Post-Noma Atmosphere Architecture
+Its:
+
+most:
+
+important:
+
+new:
+
+atmosphere:
+
+contribution is:
 
 ```text
-Hospitality Model
+Inside
+↔
+Atmospheric Threshold
+↔
+Outside
+```
+
+where:
+
+the:
+
+outside:
+
+condition
+
+is:
+
+materially:
+
+relevant
+
+to:
+
+the:
+
+hospitality:
+
+model.
+
+This:
+
+creates:
+
+strong:
+
+support
+
+for:
+
+```text
+Worldview
 ↓
-Temporal Context where relevant
-↓
-Desired Guest State
-or
-Compatible Guest-State Cluster
-↓
-Primary Atmospheric Mechanism
-+
-Supporting Mechanisms
-↓
-What Must Be Present?
-+
-What May Be Absent?
-+
-What May Change?
-+
-What Must Remain Coherent?
-↓
-Environment
-+
-Service Presence
-+
-Service Availability
-+
-Production Presence
-+
-Guest Behaviour
-+
-Signals
-+
-Absences
+Physical Translation
 ↓
 Relational Coherence
-+
-Temporal Coherence where relevant
 ↓
-Atmospheric Experience
+Potential Atmosphere
 ```
+
+without:
+
+claiming:
+
+that:
+
+guest:
+
+emotion
+
+has:
+
+been:
+
+proved.
+
+Pearl Morissette:
+
+also:
+
+makes:
+
+three:
+
+important:
+
+boundaries:
+
+clear.
+
+First:
+
+```text
+Atmospheric Consistency
+≠
+Visual Sameness
+```
+
+Second:
+
+```text
+Destination Restaurant
+≠
+Designed Escape
+```
+
+Third:
+
+```text
+Variation Within System
+≠
+System Transformation
+```
+
+The:
+
+strongest:
+
+formal:
+
+governance:
+
+question leaving:
+
+Atmosphere comparison is:
+
+> **Has Atmosphere Through Consistency now become sufficiently repeated, bounded, and distinct from generic coherence to enter Candidate maturity?**
+
+The second is:
+
+> **Has Atmosphere Through Worldview accumulated enough independent physical-translation evidence to move from Candidate / Medium-High to Candidate / High?**
+
+Those:
+
+decisions
+
+should:
+
+wait:
+
+until:
+
+Photography
+
+Reservation
+
+and:
+
+Story:
+
+comparisons
+
+are:
+
+also:
+
+complete.
 
 ---
 
 # Validation
 
-Comparison Dimension:
+Comparison File:
 
-Atmosphere
+`khds/research/comparison/atmosphere.md`
 
-Restaurants Compared:
+Status:
 
-14
+Post–Pearl Morissette Complete
 
-Latest Restaurant Added:
+Independent Restaurants Compared:
 
-Noma Copenhagen 2026
+15
 
-Comparison Status:
+Latest Case:
 
-Complete
+Restaurant Pearl Morissette
 
-Formal Pattern Promotions:
+Primary New Governance Watch:
+
+Atmosphere Through Consistency
+
+Primary Confidence Watch:
+
+Atmosphere Through Worldview
+
+Strongest New Atmosphere Direction:
+
+Atmospheric Threshold
+
+Strongest New Place Direction:
+
+Rooted Destination Atmosphere
+
+Strongest New Relationship Variable:
+
+Productive Relationship Legibility
+
+Strongest Material Refinement:
+
+Material Contrast
+
+Strongest Temporal Direction:
+
+Diurnal Atmosphere
+
+Strongest Consistency Correction:
+
+Atmospheric Consistency
+
+≠
+
+Visual Sameness
+
+Strongest Change Correction:
+
+Variation Within System
+
+≠
+
+System Transformation
+
+Strongest Destination Correction:
+
+Destination Restaurant
+
+≠
+
+Designed Escape
+
+Formal Promotions:
 
 0
 
@@ -5389,56 +6394,10 @@ Confidence Changes:
 
 0
 
-Strongest Existing Emerging Pressure:
+Governance Changes:
 
-Atmosphere Through Consistency
+0
 
-Strongest Candidate Review Pressure:
-
-Atmosphere Through Worldview
-
-Strongest Candidate Definition Pressure:
-
-Atmosphere Through Continuity
-
-Strongest Candidate Boundary Pressure:
-
-Designed Escape
-
-Strongest Cross-Dimensional New Direction:
-
-Coherence Through Change
-
-Strongest New Atmosphere Variable:
-
-Temporal Coherence
-
-Strongest New Mechanism Refinement:
-
-Method Continuity
-
-Strongest Evidence Boundary:
-
-Published Atmospheric Logic
-
-≠
-
-Observed Atmospheric Outcome
-
-Strongest Atmosphere Correction:
-
-Consistency
-
-≠
-
-Sameness
-
-Governance Status:
-
-Pending Completion of All Post-Noma Comparison Dimensions
-
----
-
-# Next Comparison File
+Next Comparison File:
 
 `khds/research/comparison/photography.md`
