@@ -2,15 +2,15 @@ KHDS Candidate Pattern Governance
 
 Status
 
-Post–Dans le Noir? London Canonical Governance Reconciliation
+Post–Avatar Robot Café DAWN, Tokyo Canonical Governance Reconciliation
 
 Restaurant Cycle:
 
-Restaurant #16
+Restaurant #17
 
 Latest Independent Restaurant:
 
-Dans le Noir? London — Clerkenwell, London, United Kingdom
+Avatar Robot Café DAWN — Nihonbashi, Tokyo, Japan
 
 Track:
 
@@ -232,6 +232,8 @@ Restaurant Pearl Morissette
 
 Dans le Noir? London
 
+Avatar Robot Café DAWN, Tokyo
+
 Track B — Kodawa Labs Validation
 
 Current production validation case:
@@ -294,7 +296,7 @@ Current Canonical Governance State
 
 Independent Restaurants
 
-16
+17
 
 Track B Validation Cases
 
@@ -302,11 +304,11 @@ Track B Validation Cases
 
 Emerging Patterns
 
-9
+8
 
 Candidate Patterns
 
-25
+26
 
 Partially Supported Patterns
 
@@ -336,27 +338,21 @@ Highest Research-Derived Maturity
 
 Candidate
 
-Current Post–Dans le Noir? London Governance Changes
+Current Post–Avatar Robot Café DAWN Governance Changes
 
-Restaurant #16 produces:
+Restaurant #17 produces:
 
 Formal Promotions to Candidate
 
-2
+1
 
-Photography Should Demonstrate Difference
-
-Human Assistance Where Structured Self-Service Is Insufficient
+Multi-Intent Hospitality
 
 Confidence Changes
 
-2
+1
 
-Photography as Proof
-Candidate / Medium
-→ Candidate / Medium-High
-
-Capacity Proof
+Photography Should Demonstrate Difference
 Candidate / Medium
 → Candidate / Medium-High
 
@@ -383,12 +379,22 @@ Research-Derived Principle Promotions
 Canonical Count Movement
 
 Candidate:
-23 + 2 = 25
+25 + 1 = 26
 
 Emerging:
-11 - 2 = 9
+9 - 1 = 8
 
-The complete decision record appears in the Post–Dans le Noir? London canonical section below.
+The complete decision record appears in the Post–Avatar Robot Café DAWN canonical section below.
+
+Previous Canonical Cycle — Post–Dans le Noir? London Governance Changes
+
+Restaurant #16 produced:
+
+two formal Candidate promotions: Photography Should Demonstrate Difference and Human Assistance Where Structured Self-Service Is Insufficient
+
+two confidence increases: Photography as Proof and Capacity Proof, both from Medium to Medium-High
+
+no demotions, renames, merges, Validated promotions, or Principle promotions
 
 Previous Canonical Cycle — Post–Pearl Morissette Governance Changes
 
@@ -8153,5 +8159,1968 @@ Evidence must fit the claim
 even when
 
 the defining experience cannot be seen
+
+Evidence wins.
+
+Post–Avatar Robot Café DAWN, Tokyo Canonical Reconciliation
+
+Restaurant #17 was selected as a deliberate human-agency, participation and proof contradiction case.
+
+Its most visible infrastructure resembles automation.
+
+Its actual hospitality model depends on:
+
+remote human pilots
+
+technological embodiment
+
+local staff
+
+robot bodies
+
+network and technical continuity
+
+route-specific guest participation
+
+relationship capacity
+
+cross-surface human attribution
+
+The governance question is not whether DAWN appears innovative.
+
+It is:
+
+Which KHDS patterns survive when the most visible object is not the hospitality agent, one venue contains multiple capacity models, and a social mission is enacted through paid human-mediated service without independently verified outcome evidence?
+
+Canonical Evidence Inputs — Restaurant #17
+
+The decision uses the completed Track A dossier:
+
+khds/research/restaurants/avatar-robot-cafe-dawn-tokyo/README.md
+
+khds/research/restaurants/avatar-robot-cafe-dawn-tokyo/arrival.md
+
+khds/research/restaurants/avatar-robot-cafe-dawn-tokyo/atmosphere.md
+
+khds/research/restaurants/avatar-robot-cafe-dawn-tokyo/photography.md
+
+khds/research/restaurants/avatar-robot-cafe-dawn-tokyo/reservation.md
+
+khds/research/restaurants/avatar-robot-cafe-dawn-tokyo/story.md
+
+khds/research/restaurants/avatar-robot-cafe-dawn-tokyo/knowledge-extraction.md
+
+and the five completed cross-restaurant comparisons:
+
+khds/research/comparison/arrival.md
+
+khds/research/comparison/atmosphere.md
+
+khds/research/comparison/photography.md
+
+khds/research/comparison/reservation.md
+
+khds/research/comparison/story.md
+
+All five comparison dimensions are complete.
+
+Restaurant #17 counts as:
+
+one independent restaurant case.
+
+It does not count as:
+
+five independent dimension cases
+
+one technology case plus one social-enterprise case
+
+multiple cases because it contains several routes
+
+Restaurant #17 Evidence Boundary
+
+Official public evidence can establish:
+
+published remote-pilot operating model
+
+stated non-AI distinction
+
+visible robot and café configuration
+
+public service-route architecture
+
+published schedules and reservation rules
+
+stated admission and route inclusions
+
+published pilot roles and selected biographies
+
+stated experimental identity
+
+public accessibility request mechanisms
+
+published route eligibility
+
+stated interaction duration
+
+cross-surface rule consistency or conflict
+
+public story, mission and mechanism claims
+
+It cannot automatically establish:
+
+actual pilot recognition by guests
+
+quality of live human connection
+
+atmospheric success
+
+technical continuity
+
+pilot autonomy or employment quality
+
+fair compensation
+
+route fulfilment
+
+accessibility outcome
+
+guest satisfaction
+
+reduced loneliness
+
+lasting friendship
+
+increased independence
+
+scalable social impact
+
+durable institutional change
+
+The canonical decisions preserve:
+
+Published Mechanism
+
+≠
+
+Verified Performance
+
+Visible Machine
+
+≠
+
+Visible Human Agency
+
+Commercial Value
+
+≠
+
+Fair Labour Outcome Proven
+
+Social Participation Mechanism
+
+≠
+
+Durable Social Outcome
+
+Formal Promotion 1 — Multi-Intent Hospitality
+
+Previous State
+
+Emerging
+
+New State
+
+Candidate / Medium
+
+Canonical Definition
+
+A hospitality system may support multiple materially different guest intents when each intent maps to a distinct participation route, commitment structure, capacity object, service relationship, or operating condition while remaining coherent through a shared hospitality logic.
+
+Why Promotion Is Justified
+
+Before Restaurant #17, Multi-Intent Hospitality had repeated but insufficiently bounded evidence.
+
+The principal problem was:
+
+Multiple Offers
+
+≠
+
+Multiple Material Guest Intents
+
+Many restaurants publish:
+
+menus
+
+events
+
+private dining
+
+retail
+
+group enquiries
+
+That alone does not create a meaningful multi-intent system.
+
+DAWN closes the definition gap because its public routes are not cosmetic variants of one restaurant booking.
+
+They differ in:
+
+desired guest outcome
+
+advance commitment
+
+reservation state
+
+human-service object
+
+robot body
+
+duration
+
+eligibility
+
+payment
+
+party architecture
+
+place relationship
+
+experimental uncertainty
+
+DAWN Route Evidence
+
+General Admission
+
+Guest intent:
+
+low-commitment public access and general OriHime interaction.
+
+Primary capacity:
+
+admission and seat flow.
+
+Reservation state:
+
+door only.
+
+OriHime Diner
+
+Guest intent:
+
+dedicated table-level human-mediated dining.
+
+Primary capacity:
+
+table, timed pilot attention, robot, food and service block.
+
+Reservation state:
+
+advance booking and payment.
+
+Tele-Barista
+
+Guest intent:
+
+observe or participate in a bounded experimental craft interaction.
+
+Primary capacity:
+
+scheduled pilot collaboration and operating readiness.
+
+Reservation state:
+
+scheduled but non-reservable.
+
+Nihonbashi Guide Tour
+
+Guest intent:
+
+remote-human-guided local place exploration.
+
+Primary capacity:
+
+pilot, portable robot, group, route and time.
+
+Reservation state:
+
+full advance reservation.
+
+OrySNACK
+
+Guest intent:
+
+age-qualified hosted drinking and cultural conversation.
+
+Primary capacity:
+
+pilot-host, bar configuration, product, session and eligible group.
+
+Reservation state:
+
+full advance reservation.
+
+Strong Evidence
+
+Primary:
+
+Avatar Robot Café DAWN — five materially distinct participation routes inside one coherent hospitality system
+
+Dishoom Covent Garden — materially different dining, walk-in, group and event pathways
+
+Haidilao Toronto Downtown — dining, waiting, service and occasion-related participation
+
+Supporting:
+
+Dans le Noir? London — standard dining, groups, events and workshops with differentiated support
+
+Din Tai Fung Covent Garden — reservation, walk-in and group-routing distinctions
+
+Restaurant Pearl Morissette — destination dining and compatibility-related preparation states
+
+Strongest New Mechanism
+
+Route Allocation
+
+Mandatory Boundaries
+
+Multiple Offers
+
+≠
+
+Multi-Intent Hospitality
+
+One Venue
+
+≠
+
+One Reservation Object
+
+Intent Difference
+
+must produce
+
+Material Participation Difference
+
+Route Variety
+
+≠
+
+Universal Interface Complexity
+
+Narrative Coherence
+
+≠
+
+Uniform Service Mechanics
+
+Why Confidence Is Medium
+
+The pattern now has:
+
+multiple independent restaurants
+
+a clear transfer mechanism
+
+a direct definition test
+
+strong contradiction boundaries
+
+measurable route variables
+
+It remains Medium because:
+
+many hospitality websites confuse products with intents
+
+DAWN is the clearest multi-route case and may carry disproportionate evidence weight
+
+actual guest route comprehension is unobserved
+
+internal capacity orchestration is not independently verified
+
+the pattern can still be over-applied to ordinary menus and event pages
+
+Remaining Falsification
+
+Test:
+
+a venue with many products but one material guest intent
+
+a venue with several guest intents but one operational route
+
+whether route branching improves comprehension or creates choice burden
+
+whether guests can identify the correct route without human repair
+
+whether separate routes remain coherent during operational change
+
+Confidence Increase 1 — Photography Should Demonstrate Difference
+
+Previous State
+
+Candidate / Medium
+
+New State
+
+Candidate / Medium-High
+
+Why Confidence Increases
+
+Restaurant #16 promoted the pattern after it survived a non-visual contradiction:
+
+Dans le Noir?'s defining experience cannot be directly photographed from the guest's operating perspective.
+
+The remaining falsification asked for a distinction that was:
+
+service-dependent
+
+difficult to attribute visually
+
+materially important but not reducible to spectacle
+
+DAWN supplies that case.
+
+Its robot is:
+
+highly visible
+
+unusual
+
+photographable
+
+immediately differentiated from ordinary restaurant imagery
+
+But the robot is not the most meaningful difference.
+
+The meaningful difference is:
+
+the remote human relationship carried through the robot.
+
+The photography therefore must do more than show novelty.
+
+It must help the guest understand:
+
+that the robot is human-operated
+
+who the pilot is
+
+which action belongs to the pilot
+
+how remote human agency reaches the local guest
+
+which claims require temporal or procedural evidence
+
+Strong Evidence
+
+Noma — Difference Through Sequence
+
+Restaurant Pearl Morissette — Difference Through Relationship
+
+Dans le Noir? London — Non-Visual Difference
+
+Avatar Robot Café DAWN — Visible Device / Human-Dependent Difference
+
+Supporting:
+
+Franklin Barbecue
+
+ICHIRAN Shibuya
+
+Din Tai Fung Covent Garden
+
+Alinea
+
+Strongest New Mechanism
+
+Human-Agency Attribution
+
+New Boundaries
+
+Most Photographable Subject
+
+≠
+
+Most Meaningful Difference
+
+Visible Machine
+
+≠
+
+Visible Human Agency
+
+Visual Novelty
+
+≠
+
+Material Difference
+
+Still Action State
+
+≠
+
+Live Agency Proof
+
+Demonstrating Difference
+
+may require
+
+Photography + Explanation + Temporal Evidence
+
+Why Confidence Becomes Medium-High
+
+The pattern now survives four materially different evidence conditions:
+
+temporal sequence
+
+productive relationship
+
+non-visual experiential difference
+
+visible technology with invisible human agency
+
+Its definition no longer depends on:
+
+visual spectacle
+
+literal depiction
+
+one evidence medium
+
+product imagery alone
+
+Why Confidence Does Not Become High
+
+the visible robot remains visually novel, so the ordinary-looking transfer test remains incomplete
+
+direct decision effect is not observed
+
+culturally encoded difference remains under-tested
+
+photography may contribute less than language or video in some cases
+
+the boundary between material and merely interesting difference still requires judgment
+
+Remaining Falsification
+
+Seek a restaurant whose meaningful difference is:
+
+visually ordinary
+
+culturally encoded
+
+subtle
+
+ethically important
+
+service-dependent without a novel device
+
+and test whether photography performs a distinct proof job.
+
+Candidate Decisions With No Confidence Change — Restaurant #17
+
+Capacity Proof — Candidate / Medium-High
+
+DAWN adds very strong architecture through:
+
+relationship capacity
+
+multi-resource inventory
+
+route schedules
+
+party limits
+
+booking horizons
+
+pilot-time disclosure
+
+late-arrival protection
+
+experimental-suspension transparency
+
+No increase to High occurs because:
+
+pilot allocation remains opaque
+
+actual fulfilment is unverified
+
+technical continuity is unverified
+
+available inventory does not reveal the complete capacity model
+
+DAWN carries institutional authority and a distinctive mission
+
+Layered Arrival — Candidate / Medium
+
+DAWN adds:
+
+concept recognition
+
+human attribution
+
+pilot recognition
+
+route selection
+
+transaction
+
+physical arrival
+
+technical encounter
+
+The Candidate remains Medium because:
+
+the number of layers is contextual
+
+recognition quality is unobserved
+
+one-carrier arrival falsification remains open
+
+more stages do not automatically create better arrival
+
+Participation Throughout the Journey — Candidate / Medium
+
+DAWN adds strong evidence across:
+
+route selection
+
+eligibility
+
+disclosure
+
+payment
+
+punctuality
+
+physical participation
+
+interaction
+
+feedback
+
+The Candidate remains Medium because:
+
+guest responsibility can be excessive
+
+journey breadth can become a generic customer-journey description
+
+actual participation quality is unobserved
+
+some excellent models may require very little guest work
+
+Human Assistance Where Structured Self-Service Is Insufficient — Candidate / Medium
+
+DAWN provides strong transfer support after the Restaurant #16 promotion.
+
+Human assistance operates through:
+
+exception handling
+
+local staff
+
+pilot service
+
+access preparation
+
+late-arrival communication
+
+technical recovery
+
+No confidence increase occurs because:
+
+response quality is unverified
+
+request acknowledgement is unverified
+
+ordinary party-rule drift should not require human repair
+
+human assistance may compensate for weak structure
+
+Adaptation as Narrative — Candidate / Medium
+
+DAWN adds developmental continuity from:
+
+early experimentation
+
+temporary café activity
+
+pandemic-era development
+
+permanent venue
+
+expanding pilot roles
+
+new service routes
+
+No confidence increase occurs because:
+
+Documented Evolution
+
+≠
+
+Validated Improvement
+
+Photography as Proof — Candidate / Medium-High
+
+DAWN strongly reinforces the Candidate's boundary.
+
+Still images prove:
+
+device
+
+place
+
+configuration
+
+use case
+
+They do not independently prove:
+
+human agency
+
+live control
+
+relationship
+
+outcome
+
+No increase to High occurs because cross-media dependence, freshness and decision effect remain unresolved.
+
+Photography Through Layers of Experience — Candidate / Medium
+
+DAWN reinforces:
+
+Layered Experience
+
+requires
+
+Layered Evidence
+
+not necessarily
+
+Photography at Every Layer
+
+No confidence change occurs while the photography-specific scope remains under review.
+
+Stable Participation / Variable Product — Candidate / Medium
+
+DAWN supplies mixed-positive evidence.
+
+Route mechanics vary materially.
+
+Stable principles may still include:
+
+identify the route
+
+know the consequence
+
+identify the human service
+
+disclose material needs
+
+arrive on time
+
+The Candidate remains Medium because stability may live at a higher rule level rather than inside one participation mechanic.
+
+Participation Rule Consistency — Candidate / Medium
+
+DAWN provides support plus direct contradiction:
+
+Homepage Diner Minimum:
+2 Guests
+
+Transaction Description:
+1–5 Guests
+
+The conflict prevents confidence increase.
+
+Story Through Hospitality Model — Candidate / High
+
+DAWN supplies exceptionally strong evidence.
+
+The story is enacted through:
+
+who works
+
+how work occurs
+
+what the guest purchases
+
+how human presence reaches the café
+
+High is retained.
+
+Mechanism evidence remains separate from social outcome proof.
+
+Narrative Coherence Through Organising Logic — Candidate / High
+
+Human presence through technological embodiment coherently connects:
+
+arrival
+
+atmosphere
+
+photography
+
+reservation
+
+story
+
+High is retained.
+
+No maturity change occurs because narrative coherence does not validate operating or social outcomes.
+
+Hospitality System Proof — Candidate / High
+
+DAWN makes the relationship among pilot, robot, local staff, guest, product, place and technology legible.
+
+High is retained.
+
+Visible system architecture does not prove system performance.
+
+Biography When It Explains the Experience — Candidate / High
+
+The Tele-Barista story strongly connects biography, retained craft and service meaning.
+
+High is retained with mandatory authorship, consent and currentness boundaries.
+
+Narrative Language Within Clear Interface — Candidate / High
+
+The non-AI corrective premise performs essential interpretive work.
+
+High is retained.
+
+The external transaction handoff remains a fragmentation risk.
+
+Atmosphere Through Worldview — Candidate / High
+
+DAWN's mission changes how the guest interprets machines, pilots and hospitality.
+
+High is retained.
+
+Published worldview does not establish experienced atmosphere.
+
+Story Through Place — Candidate / High
+
+The Nihonbashi Guide Tour provides strong route-specific place evidence.
+
+High is retained.
+
+Remote place meaning must remain attributable to the pilot.
+
+Heritage Builds Confidence — Candidate / Medium-High
+
+DAWN builds confidence through documented experimentation rather than inherited hospitality heritage.
+
+This is useful boundary evidence.
+
+No confidence change occurs.
+
+Atmosphere Through Consistency — Candidate / Medium
+
+DAWN adds relational consistency:
+
+different pilot personalities can preserve:
+
+attribution
+
+responsiveness
+
+role clarity
+
+human presence
+
+The Candidate remains Medium because actual continuity across pilots, shifts and technical conditions is unverified.
+
+Atmosphere Through Continuity — Candidate / Medium-High
+
+DAWN adds a distributed-continuity pressure case.
+
+The atmosphere depends on:
+
+network
+
+device
+
+local team
+
+remote pilot
+
+handoff
+
+No confidence change occurs because continuity performance is not independently observed.
+
+Walk-In as First-Class Participation — Candidate / High
+
+General admission is intentionally door-only and includes OriHime service.
+
+High is retained.
+
+Door admission does not prove immediate capacity or equivalent relational depth.
+
+Manageable Commitment — Candidate / Medium
+
+Named routes, inclusions, durations, prices and eligibility support bounded commitment.
+
+The Diner party-size conflict and unobserved modification/refund experience prevent confidence increase.
+
+Designed Escape — Candidate / Medium
+
+DAWN is not strong evidence for escape as the primary product mechanism.
+
+No change.
+
+Show the System Behind the Plate — Candidate / High
+
+DAWN's strongest system is not culinary.
+
+The case is neutral for this Candidate and strengthens the rule that system visibility should follow material relevance.
+
+No change.
+
+Explicit Non-Promotion Decisions — Restaurant #17
+
+The Guest as Participant
+
+Remains:
+
+Emerging
+
+DAWN supplies very strong evidence through:
+
+route choice
+
+interaction
+
+carrying OriHime
+
+disclosure
+
+punctuality
+
+questionnaires
+
+feedback
+
+Non-promotion reason:
+
+the pattern remains too broad unless it predicts a material operating dependency.
+
+Guest Activity
+
+≠
+
+Guest as Operating Infrastructure
+
+Atmosphere as Product
+
+Remains:
+
+Emerging
+
+DAWN shows that human-mediated interaction is included in admission and materially shapes the proposition.
+
+Non-promotion reason:
+
+atmosphere-choice causality remains unobserved
+
+robot novelty may carry demand
+
+pilot interaction is also service and story
+
+paid admission does not isolate atmosphere as the purchased object
+
+Story Before Features
+
+Remains:
+
+Emerging
+
+The non-AI corrective premise is powerful evidence.
+
+Non-promotion reason:
+
+the pattern can still collapse into generic content advice
+
+story must not replace mechanism or utility
+
+Narrative Language Within Clear Interface already governs part of the same problem
+
+the distinct transfer mechanism remains insufficiently bounded
+
+Escalating Participation Complexity
+
+Remains:
+
+Emerging
+
+DAWN supplies a strong definition refinement:
+
+Participation Complexity
+
+should predict
+
+Route-Relevant Branching
+
++
+
+Support Precision
+
+not
+
+Universal Interface Depth
+
+Non-promotion reason:
+
+the name still risks implying linear escalation
+
+backend complexity may not become guest complexity
+
+not every route escalates
+
+a clearer formal definition or rename may be required
+
+Emotion Before Interface
+
+Remains:
+
+Emerging
+
+Human possibility and social purpose may precede operational explanation.
+
+Non-promotion reason:
+
+emotion can become inspiration reduction
+
+photographed expression does not prove outcome
+
+emotional orientation is not yet sufficiently distinct from Story Before Features
+
+Photography Before Decoration
+
+Remains:
+
+Emerging
+
+DAWN strongly supports proof-first image selection.
+
+Non-promotion reason:
+
+the direction remains close to Photography as Proof
+
+the distinct maturity claim is not yet sufficiently separate
+
+informative imagery still depends on sequence, caption and accessible description
+
+Commitment Without Pressure
+
+Remains:
+
+Emerging
+
+DAWN publishes calendars, schedules, booking horizons and uncertainty without obvious manufactured urgency.
+
+Non-promotion reason:
+
+live persuasion behaviour is not fully audited
+
+booking scarcity can be operationally real
+
+guest pressure outcomes are unobserved
+
+Promise Before Proof
+
+Remains:
+
+Emerging
+
+DAWN's future proposition is supported by present mechanism.
+
+Non-promotion reason:
+
+the direction remains close to Capacity Proof and bounded narrative
+
+future claims can be useful without constituting a reusable interface pattern
+
+durable outcomes remain unverified
+
+Below-Candidate Decisions — Restaurant #17
+
+The following remain:
+
+architecture
+
+mechanisms
+
+variables
+
+evidence directions
+
+taxonomies
+
+They are not promoted as formal patterns:
+
+Mediated Human Hospitality Architecture
+
+Human Agency Through Technological Embodiment
+
+Corrective Human Attribution
+
+Pilot Recognition State
+
+Human Presence Without Co-Presence
+
+Machine-Visible / Human-Dependent Proof
+
+Temporal Agency Proof
+
+Relationship Capacity
+
+Human Protagonist / Machine Carrier
+
+Bidirectional Accessibility
+
+Distributed Operating Continuity
+
+Route-Specific Participation
+
+Experimental Transparency
+
+Relationship Trace
+
+Social Claim Boundary
+
+Remote Human Proof
+
+Pilot-Centred Transaction Meaning
+
+Accessibility Preparation Field
+
+Retained Craft
+
+Pilot Authorship
+
+Architecture significance does not require pattern inflation.
+
+Post–Avatar Robot Café DAWN Architecture Family
+
+Mediated Human Hospitality Family
+
+This family describes hospitality in which a person becomes locally active through a technological carrier while remaining the service agent.
+
+It includes:
+
+Human Agency Through Technological Embodiment
+
+Corrective Human Attribution
+
+Pilot Recognition State
+
+Human Presence Without Co-Presence
+
+Machine-Visible / Human-Dependent Proof
+
+Temporal Agency Proof
+
+Relationship Capacity
+
+Human Protagonist / Machine Carrier
+
+Bidirectional Accessibility
+
+Distributed Operating Continuity
+
+Route-Specific Participation
+
+Experimental Transparency
+
+Relationship Trace
+
+Social Claim Boundary
+
+Family Rule
+
+Human Person
+↓
+Attribution
+↓
+Recognised Role
+↓
+Technological Embodiment
+↓
+Local Hospitality Action
+↓
+Relationship Capacity
+↓
+Bounded Outcome Claim
+
+Mandatory Boundaries
+
+Technology Carrier
+
+≠
+
+Human Replacement
+
+Remote Presence
+
+≠
+
+Reduced Personhood
+
+Accessibility Infrastructure
+
+≠
+
+Accessibility Outcome Proven
+
+Social Mission
+
+≠
+
+Social Impact Evidence
+
+The family is:
+
+canonical architecture.
+
+It is not:
+
+a formal pattern
+
+a Validated pattern
+
+a research-derived Principle
+
+Post–Avatar Robot Café DAWN Canonical Corrections
+
+Arrival / Recognition Corrections
+
+Robot Encounter ≠ Pilot Recognition
+
+Concept Recognition ≠ Human Recognition
+
+Physical Arrival ≠ Relational Arrival
+
+Visible Device ≠ Visible Operator
+
+Technical Readiness ≠ Guest Readiness
+
+Atmosphere Corrections
+
+Most Visible Object ≠ Primary Atmospheric Mechanism
+
+Human Presence ≠ Physical Co-Presence
+
+Voice Source ≠ Voice Meaning
+
+Personality Variation ≠ Atmospheric Inconsistency
+
+Technical Continuity ≠ Atmospheric Outcome Proven
+
+Photography / Proof Corrections
+
+Visible Machine ≠ Visible Human Agency
+
+Most Photographable Subject ≠ Most Meaningful Difference
+
+Still Action State ≠ Live Agency Proof
+
+Human Face ≠ Human-Agency Attribution
+
+Relationship Gesture ≠ Relationship Outcome
+
+Visual Inclusion ≠ Evidence Accessibility
+
+Wheelchair in Frame ≠ Accessibility Proven
+
+Photographed Smile ≠ Guest Satisfaction Proof
+
+Reservation / Capacity Corrections
+
+Available Seat ≠ Available Human Relationship
+
+One Venue ≠ One Reservation Object
+
+Robot Inventory ≠ Pilot Capacity
+
+Scheduled Experience ≠ Reservable Experience
+
+Seat Time ≠ Pilot Time
+
+Advance Payment ≠ Fulfilment Proof
+
+Accessible Request Field ≠ Accessible Outcome
+
+Door Admission ≠ Failed Reservation
+
+Story / Outcome Corrections
+
+Robot Carries the Story ≠ Robot Is the Story
+
+Visible Hero Object ≠ Narrative Protagonist
+
+Remote Human Presence ≠ Autonomous AI
+
+Published Social Purpose ≠ Verified Social Outcome
+
+Employment Opportunity ≠ Employment Outcome Proven
+
+Opportunity for Connection ≠ Loneliness Alleviated
+
+Audience Inspiration ≠ Pilot Agency
+
+Technology Enables a Mechanism ≠ Technology Solves the Social Problem
+
+Commercial Value ≠ Fair Labour Outcome Proven
+
+Post–Avatar Robot Café DAWN Canonical Pattern Snapshot
+
+Candidate / High
+
+Atmosphere Through Worldview
+
+Show the System Behind the Plate
+
+Biography When It Explains the Experience
+
+Narrative Language Within Clear Interface
+
+Walk-In as First-Class Participation
+
+Story Through Hospitality Model
+
+Hospitality System Proof
+
+Story Through Place
+
+Narrative Coherence Through Organising Logic
+
+Total:
+
+9
+
+Candidate / Medium-High
+
+Heritage Builds Confidence
+
+Atmosphere Through Continuity
+
+Photography as Use-Case Evidence
+
+Photography as Proof
+
+Capacity Proof
+
+Photography Should Demonstrate Difference
+
+Total:
+
+6
+
+Candidate / Medium
+
+Designed Escape
+
+Manageable Commitment
+
+Participation Rule Consistency
+
+Adaptation as Narrative
+
+Layered Arrival
+
+Atmosphere Through Consistency
+
+Photography Through Layers of Experience
+
+Participation Throughout the Journey
+
+Stable Participation / Variable Product
+
+Human Assistance Where Structured Self-Service Is Insufficient
+
+Multi-Intent Hospitality
+
+Total:
+
+11
+
+Total Candidate Patterns — Post Restaurant #17
+
+26
+
+Emerging Snapshot — Post Restaurant #17
+
+Emotion Before Interface
+
+Story Before Features
+
+Photography Before Decoration
+
+Commitment Without Pressure
+
+Promise Before Proof
+
+The Guest as Participant
+
+Atmosphere as Product
+
+Escalating Participation Complexity
+
+Total:
+
+8
+
+Partially Supported — Post Restaurant #17
+
+Own the Guest Relationship — Medium
+
+Total:
+
+1
+
+Validated — Post Restaurant #17
+
+0
+
+Research-Derived KHDS Principles — Post Restaurant #17
+
+0
+
+Existing Implementation Pattern Pending Formal Validation
+
+Invitation
+
+Total:
+
+1
+
+Official Counts — Post Restaurant #17
+
+Independent Restaurants:
+17
+
+Track B Validation Cases:
+1
+
+Emerging:
+8
+
+Candidate:
+26
+
+Partially Supported:
+1
+
+Validated:
+0
+
+Research-Derived KHDS Principles:
+0
+
+Existing Implementation Patterns Pending Formal Validation:
+1
+
+Opportunity Themes:
+36
+
+Track B Implementation Learnings:
+17
+
+Highest Research-Derived Maturity:
+Candidate
+
+Restaurant #17 Promotion Integrity Check
+
+Starting Post–Dans le Noir? London:
+
+Emerging:
+9
+
+Candidate:
+25
+
+Restaurant #17 formal promotion:
+
+1 Emerging
+→
+Candidate / Medium
+
+That pattern is:
+
+Multi-Intent Hospitality
+
+Therefore:
+
+9 Emerging
+-
+1 Promotion
+=
+8 Emerging
+
+and:
+
+25 Candidates
++
+1 Promotion
+=
+26 Candidates
+
+Photography Should Demonstrate Difference changes confidence inside the Candidate layer.
+
+It does not alter the Candidate count.
+
+Canonical count:
+
+consistent.
+
+Restaurant #17 Governance Integrity Check
+
+Formal Promotions
+
+1
+
+Confidence Changes
+
+1
+
+Demotions
+
+0
+
+Renames
+
+0
+
+Merges
+
+0
+
+Validated Promotions
+
+0
+
+Research-Derived Principle Promotions
+
+0
+
+Partially Supported Changes
+
+0
+
+Invitation Changes
+
+0
+
+Opportunity Theme Changes
+
+0
+
+Track B Learning Changes
+
+0
+
+Why No Other Candidate Confidence Increase Occurred
+
+DAWN supplies strong evidence.
+
+Strong evidence does not require:
+
+multiple simultaneous confidence changes.
+
+The watched Candidates remain bounded by:
+
+unobserved performance
+
+unresolved cross-surface rules
+
+unclear direct decision effect
+
+dependence on one especially distinctive restaurant
+
+incomplete transfer to ordinary hospitality contexts
+
+outcome evidence gaps
+
+Evidence Strength
+
+≠
+
+Automatic Confidence Increase
+
+Why No Validated Promotion Occurred — Restaurant #17
+
+No Candidate reaches Validated because:
+
+the cycle adds one independent restaurant
+
+evidence remains primarily official and public
+
+no new Track B implementation validation occurred
+
+no longitudinal test was completed
+
+human-agency recognition is unobserved
+
+operational continuity is unverified
+
+accessibility outcomes are unverified
+
+employment outcomes are unverified
+
+social outcomes are unverified
+
+several high-confidence Candidates remain vulnerable to transfer tests
+
+Coherent Mechanism
+
+≠
+
+Validated Outcome
+
+Why No Research-Derived Principle Promotion Occurred — Restaurant #17
+
+Mediated Human Hospitality Architecture is:
+
+coherent
+
+transferable in concept
+
+cross-dimensional
+
+evidence-rich
+
+It remains architecture.
+
+The new family is not yet general enough to govern KHDS universally.
+
+It also depends on a specialised operating condition:
+
+remote human service through technological embodiment.
+
+Powerful Architecture Family
+
+≠
+
+Universal KHDS Principle
+
+Post–Avatar Robot Café DAWN Research Priorities
+
+Priority 1 — Multi-Intent Hospitality Falsification
+
+Seek a venue with many products but one material guest intent.
+
+Primary question:
+
+When does offer variety fail to justify separate participation architecture?
+
+Priority 2 — Escalating Participation Complexity Definition
+
+Test whether the pattern should predict:
+
+route branching
+
+support precision
+
+consequence
+
+eligibility
+
+handoff depth
+
+Primary question:
+
+Can the direction become explanatory without implying linear interface escalation?
+
+Priority 3 — Human Assistance Failure Case
+
+Seek a model where human support creates:
+
+delay
+
+ambiguity
+
+dependency
+
+inconsistent resolution
+
+Primary question:
+
+When does human assistance compensate for weak structure rather than safely resolve an exception?
+
+Priority 4 — Ordinary-Looking Difference
+
+Seek a restaurant whose meaningful distinction is service-dependent or culturally encoded without a visually novel device.
+
+Primary question:
+
+Can Photography Should Demonstrate Difference survive when the visible system appears ordinary?
+
+Priority 5 — Relationship Capacity Verification
+
+Seek operational evidence connecting:
+
+seat
+
+staff
+
+human attention
+
+time
+
+technology
+
+fulfilment
+
+Primary question:
+
+Can published relationship capacity be verified without exposing sensitive workforce allocation?
+
+Priority 6 — Pilot Recognition Outcome
+
+Seek participant evidence.
+
+Primary question:
+
+Do guests recognise the remote person as the hospitality agent before, during and after the encounter?
+
+Priority 7 — Bidirectional Accessibility
+
+Seek cases where accessibility shapes both:
+
+guest participation
+
+worker participation
+
+Primary question:
+
+When does accessibility become operating infrastructure rather than an accommodation layer?
+
+Priority 8 — Social Outcome Evidence
+
+Seek independent or longitudinal evidence concerning:
+
+employment
+
+loneliness
+
+belonging
+
+independence
+
+continued participation
+
+Primary question:
+
+Which social claims survive beyond mechanism evidence and curated testimony?
+
+Priority 9 — Stable Participation Under Route Change
+
+Seek a venue whose products and participation rules both change materially.
+
+Primary question:
+
+Is stability best located in interface mechanics, consequence rules, or higher governing principles?
+
+Priority 10 — Minimal Participation Countercase
+
+Seek high-quality hospitality with almost no guest preparation, branching or post-booking work.
+
+Primary question:
+
+How little participation can remain while the journey is still meaningfully designed?
+
+Restaurant #17 Governance Outcome
+
+Avatar Robot Café DAWN produced:
+
+one formal Candidate promotion:
+
+Multi-Intent Hospitality
+Emerging
+→
+Candidate / Medium
+
+and one confidence increase:
+
+Photography Should Demonstrate Difference
+Candidate / Medium
+→
+Candidate / Medium-High
+
+Its strongest architecture result is:
+
+Mediated Human Hospitality Architecture.
+
+Its strongest arrival correction is:
+
+Robot Encounter
+≠
+Pilot Recognition
+
+Its strongest atmosphere correction is:
+
+Most Visible Object
+≠
+Primary Atmospheric Mechanism
+
+Its strongest photography correction is:
+
+Visible Machine
+≠
+Visible Human Agency
+
+Its strongest reservation correction is:
+
+Available Seat
+≠
+Available Human Relationship
+
+Its strongest story correction is:
+
+Robot Carries the Story
+≠
+Robot Is the Story
+
+Its strongest governance boundary is:
+
+Mechanism Evidence
+≠
+Outcome Evidence
+
+Canonical Rule Going Forward — Restaurant #17
+
+When technology carries hospitality, preserve the human agent across story, interface, proof, capacity and participation. Do not let device visibility substitute for human attribution, relationship evidence, accessibility outcome, labour outcome, or social impact proof.
+
+The next Track A case should pressure:
+
+ordinary-looking difference
+
+multi-intent overreach
+
+human-assistance failure
+
+relationship-capacity verification
+
+social outcome evidence
+
+Reconciliation Status — Restaurant #17
+
+Restaurant #17 Dossier:
+
+Complete
+
+Knowledge Extraction:
+
+Complete
+
+Arrival Comparison:
+
+Complete
+
+Atmosphere Comparison:
+
+Complete
+
+Photography Comparison:
+
+Complete
+
+Reservation / Participation Comparison:
+
+Complete
+
+Story Comparison:
+
+Complete
+
+Canonical Governance:
+
+Complete
+
+Registry Mirror:
+
+Pending
+
+Dashboard Mirror:
+
+Pending
+
+Research README Mirror:
+
+Pending
+
+Validation README Mirror:
+
+Pending
+
+Next Governance File — Restaurant #17
+
+khds/patterns/registry.md
+
+Final Governance Statement — Post Restaurant #17
+
+After 17 independent restaurants, KHDS contains:
+
+26 Candidate patterns
+8 Emerging patterns
+1 Partially Supported pattern
+0 Validated patterns
+0 research-derived KHDS Principles
+
+Restaurant #17 produced:
+
+one Candidate promotion: Multi-Intent Hospitality
+
+one confidence increase: Photography Should Demonstrate Difference, Medium to Medium-High
+
+no demotions
+
+no renames
+
+no merges
+
+no Validated promotions
+
+no Principle promotions
+
+The governance result is intentionally narrower than the volume of DAWN architecture.
+
+DAWN contributes a powerful system:
+
+Human Attribution
+↓
+Pilot Recognition
+↓
+Mediated Presence
+↓
+Agency Proof
+↓
+Relationship Capacity
+↓
+Human Protagonism
+↓
+Bounded Social Claim
+
+Most of that system remains:
+
+architecture
+
+mechanism
+
+evidence rule
+
+falsification direction
+
+Only Multi-Intent Hospitality crosses the maturity threshold because DAWN resolves its prior definition problem with five materially distinct participation routes.
+
+Only Photography Should Demonstrate Difference changes confidence because DAWN adds a new contradiction:
+
+the visible subject can be obvious while the meaningful human difference remains difficult to see.
+
+The Candidate layer becomes larger by one and more confident by one.
+
+It is not validated truth.
 
 Evidence wins.

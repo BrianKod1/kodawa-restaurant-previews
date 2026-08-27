@@ -2,11 +2,11 @@ KHDS Cross-Restaurant Comparison — Story / Narrative
 
 Status
 
-Post–Dans le Noir? London Comparison
+Post–Avatar Robot Café DAWN, Tokyo Comparison
 
 Restaurants Compared:
 
-16
+17
 
 Track:
 
@@ -14,7 +14,7 @@ Track A — Independent Hospitality Research
 
 Latest Added Case:
 
-Dans le Noir? London — Clerkenwell
+Avatar Robot Café DAWN — Tokyo
 
 Comparison Status:
 
@@ -98,7 +98,7 @@ all:
 
 five:
 
-post–Restaurant #16:
+post–Restaurant #17:
 
 comparison files
 
@@ -233,6 +233,8 @@ Noma Copenhagen 2026
 Restaurant Pearl Morissette
 
 Dans le Noir? London
+
+Avatar Robot Café DAWN, Tokyo
 
 Current Story Thesis
 
@@ -8749,6 +8751,1240 @@ Restaurant #16 produces no governance change in this file.
 
 It completes the five comparison dimensions and opens the Post–Dans le Noir? London canonical reconciliation.
 
+Post–Avatar Robot Café DAWN, Tokyo Story Reconciliation
+
+Restaurant #17 introduces a story architecture in which:
+
+the most visible character is not the protagonist
+
+the most technical clarification performs the most important human narrative work
+
+physical absence does not prevent local agency
+
+a social mission gains credibility through paid hospitality
+
+one organising story supports several radically different products
+
+The strongest Restaurant #17 story boundary is:
+
+Robot Carries the Story
+
+≠
+
+Robot Is the Story
+
+The strongest protagonist boundary is:
+
+Visible Hero Object
+
+≠
+
+Narrative Protagonist
+
+The strongest agency correction is:
+
+Remote Human Presence
+
+≠
+
+Autonomous AI
+
+The strongest social-claim boundary is:
+
+Published Social Purpose
+
+≠
+
+Verified Social Outcome
+
+Current Canonical Entry State — Restaurant #17
+
+This comparison begins from the reconciled post–Restaurant #16 governance state.
+
+Pattern
+
+Entry state
+
+DAWN pressure
+
+Decision in this file
+
+Story Through Hospitality Model
+
+Candidate / High
+
+Exceptionally strong operating-model support
+
+Retain
+
+Narrative Coherence Through Organising Logic
+
+Candidate / High
+
+Strong five-dimension support
+
+Retain
+
+Hospitality System Proof
+
+Candidate / High
+
+Strong system-story support
+
+Retain
+
+Biography When It Explains the Experience
+
+Candidate / High
+
+Strong Tele-Barista support with authorship boundary
+
+Retain
+
+Narrative Language Within Clear Interface
+
+Candidate / High
+
+Strong corrective-premise support
+
+Retain
+
+Atmosphere Through Worldview
+
+Candidate / High
+
+Strong interpretive support; outcome unproven
+
+Retain
+
+Adaptation as Narrative
+
+Candidate / Medium
+
+Developmental continuity support
+
+Retain
+
+Story Through Place
+
+Candidate / High
+
+Route-specific place support
+
+Retain
+
+Heritage Builds Confidence
+
+Candidate / Medium-High
+
+Useful contradiction through documented experimentation
+
+Retain
+
+Story Before Features
+
+Emerging
+
+Strong support
+
+Remain Emerging
+
+Emotion Before Interface
+
+Emerging
+
+Support with inspiration-risk boundary
+
+Remain Emerging
+
+Promise Before Proof
+
+Emerging
+
+Strong mechanism/proposition boundary
+
+Remain Emerging
+
+The Guest as Participant
+
+Emerging
+
+Strong co-participation support
+
+Remain Emerging
+
+Multi-Intent Hospitality
+
+Emerging
+
+Strong route-story support
+
+Remain Emerging
+
+No maturity or confidence change is authorized by this story comparison alone.
+
+Comparison 106 — The Most Visible Character Is Not Necessarily the Protagonist
+
+DAWN's robots dominate:
+
+visual recognition
+
+photography
+
+interface novelty
+
+public curiosity
+
+product naming
+
+The remote pilot supplies:
+
+intention
+
+biography
+
+hospitality judgment
+
+conversation
+
+craft
+
+work
+
+social aspiration
+
+The robot is visually central while the person remains narratively central.
+
+Correction 85
+
+Narrative prominence must follow human agency rather than object visibility.
+
+Comparison 107 — A Technical Disclaimer Can Be the Primary Human Story
+
+DAWN's statement that its robots are not AI performs more than technical clarification.
+
+It:
+
+attributes movement and speech to a person
+
+protects human labour from automation misrepresentation
+
+changes machine novelty into human encounter
+
+explains why personality and variation matter
+
+Without that premise, the same visible service can tell the wrong story.
+
+Correction 86
+
+A corrective premise belongs before features when it changes who the audience understands to be acting.
+
+Comparison 108 — Physical Absence Can Produce Local Protagonism
+
+The pilot may not be physically present in the café.
+
+The pilot can still:
+
+greet
+
+guide
+
+converse
+
+prepare
+
+carry
+
+host
+
+interpret place
+
+Remote location does not remove local narrative agency.
+
+Correction 87
+
+Story analysis must distinguish physical presence from attributable action.
+
+Comparison 109 — The Machine Is a Carrier When the Story Is Working
+
+The robot can carry:
+
+voice
+
+movement
+
+gesture
+
+tools
+
+product
+
+conversation
+
+local presence
+
+It is not the independent source of hospitality.
+
+Paradoxically, the machine becomes less narratively important when attribution works well because attention moves from novelty to the person acting through it.
+
+Correction 88
+
+Technology should become legible as enabling infrastructure, not remain the permanent narrative hero.
+
+Comparison 110 — A Social Mission Is Most Credible as Paid Hospitality
+
+DAWN charges for:
+
+admission
+
+OriHime service
+
+dedicated pilot time
+
+food and beverage
+
+guided movement
+
+hosted cultural experience
+
+The guest purchases human-mediated hospitality rather than symbolic awareness alone.
+
+Commercial payment establishes public product value.
+
+It does not prove:
+
+fair pay
+
+secure work
+
+schedule control
+
+career development
+
+equal institutional power
+
+Correction 89
+
+Paid inclusion strengthens mechanism credibility while remaining separate from labour-outcome proof.
+
+Comparison 111 — Disability Is Material Context but Insufficient Identity
+
+Mobility constraint and difficulty leaving home materially explain why remote embodiment matters.
+
+They do not explain the whole person.
+
+Pilots may also be:
+
+hosts
+
+guides
+
+craft practitioners
+
+collaborators
+
+workers
+
+authors
+
+individuals with preferences and histories
+
+Correction 90
+
+Evidence-responsible biography should lead with role, expertise and authorship before using constraint as explanatory context.
+
+Comparison 112 — Biography Can Humanise and Instrumentalise Simultaneously
+
+Pilot biography can:
+
+identify the person behind the robot
+
+explain retained expertise
+
+make agency recognisable
+
+connect a service action to a life history
+
+It can also:
+
+convert adversity into brand evidence
+
+reduce a person to diagnosis
+
+transfer authorship to the institution
+
+prioritise audience emotion over worker agency
+
+Correction 91
+
+Biography When It Explains the Experience requires visible consent, currentness, agency and relevance—not merely emotional power.
+
+Comparison 113 — Retained Craft Changes Method Without Removing Human Meaning
+
+Tele-Barista presents a person whose prior coffee expertise continues through:
+
+remote operation
+
+robotic embodiment
+
+local tools
+
+collaborative technical design
+
+The making method changes.
+
+The intention of one person preparing something for another remains.
+
+New Architecture Direction
+
+Retained Craft describes expertise continuing through adapted embodiment without pretending that method remains unchanged.
+
+Comparison 114 — Experimental Identity Creates Credibility and Responsibility
+
+DAWN presents itself as a permanent experimental café.
+
+The frame permits:
+
+testing
+
+iteration
+
+disclosure of limitation
+
+guest feedback
+
+developmental continuity
+
+It can also create doubt when permanent experimentation becomes an excuse for:
+
+unstable service
+
+unclear responsibility
+
+weak labour conditions
+
+unsupported claims
+
+Correction 92
+
+Experimental identity authorizes learning, not unbounded failure or reduced hospitality responsibility.
+
+Comparison 115 — A Future Story Requires Present Mechanism
+
+DAWN invites the guest to encounter a possible future.
+
+The future proposition becomes credible through:
+
+a named pilot
+
+a responsive interaction
+
+a delivered product
+
+a defined route
+
+a disclosed limitation
+
+a visible operating relationship
+
+Future language becomes weak when it floats above current mechanism.
+
+Correction 93
+
+Promise Before Proof requires enough present-tense mechanism evidence to bound the future claim.
+
+Comparison 116 — One Organising Story Can Support Radically Different Products
+
+DAWN's routes differ materially:
+
+general admission
+
+dedicated Diner service
+
+Tele-Barista
+
+city guide tour
+
+OrySNACK
+
+Their common organising logic is:
+
+Human Presence
+
+Through
+
+Technological Embodiment
+
+The story is coherent without forcing every product into one interface or one service format.
+
+Correction 94
+
+Narrative coherence requires a stable causal logic, not uniform products.
+
+Comparison 117 — Story Through Place Can Be Remotely Authored
+
+The Nihonbashi Guide Tour creates a distinctive place relationship.
+
+A remote pilot interprets:
+
+streets
+
+shrines
+
+food places
+
+movement
+
+cultural context
+
+The guest carries OriHime through local territory while the pilot supplies guidance.
+
+Correction 95
+
+Story Through Place can be mediated across distance, but place knowledge must remain attributable to the guide rather than the device or institution alone.
+
+Comparison 118 — Food and Drink Can Carry Relationship Trace
+
+At DAWN, food and drink perform different story roles.
+
+Product
+
+Narrative contribution
+
+Diner meal
+
+sustains table-level relationship
+
+Delivered drink
+
+makes remote action locally consequential
+
+Tele-Barista coffee
+
+carries retained craft
+
+Tour drink
+
+completes the return from mobile place experience
+
+OrySNACK sake
+
+gives the pilot a culturally specific host role
+
+The product is not always the primary narrative subject.
+
+It can be the material trace of one person's action for another.
+
+Correction 96
+
+Product narrative should identify the relationship carried by the product rather than relying on product beauty alone.
+
+Comparison 119 — The Guest Co-Completes but Must Not Appropriate the Story
+
+Guests:
+
+converse
+
+order
+
+receive service
+
+carry OriHime
+
+try devices
+
+respond to pilots
+
+provide feedback
+
+Their recognition helps complete a worker-centred story.
+
+The guest must not become the moral protagonist through:
+
+inspiration
+
+transformation
+
+empathy claims
+
+public praise
+
+Correction 97
+
+The Guest as Participant should preserve the pilot as agent and the guest as relational counterpart.
+
+Comparison 120 — Mechanism Evidence Does Not Automatically Climb to Social Outcome
+
+The official story strongly supports:
+
+remote human operation
+
+paid hospitality roles
+
+public interaction
+
+route variety
+
+continued experimentation
+
+It does not independently prove:
+
+alleviated loneliness
+
+lasting friendship
+
+equitable employment
+
+sustained independence
+
+changed social norms
+
+Cross-Case Refinement
+
+Published Fact
+↓
+Published Mechanism
+↓
+Intended Immediate Outcome
+↓
+Experienced Outcome
+↓
+Durable Social Outcome
+
+Evidence at one level does not automatically authorize the next.
+
+DAWN Story Architecture Directions
+
+The following are story architecture variables, mechanisms or research directions. They are not formal KHDS patterns.
+
+Human Agency Through Technological Embodiment — a person acts locally through a remote technological body.
+
+Human Protagonist / Machine Carrier — the pilot remains the narrative agent while the robot carries action.
+
+Corrective Premise — a concise statement repairs the audience's default interpretation.
+
+Pilot Identity Proof — the system identifies the person behind the device.
+
+Mediated Biography — biography explains why and how a person acts through technology.
+
+Retained Craft — prior expertise continues through adapted embodiment.
+
+Relationship Trace — a product or action carries evidence of one person's contribution to another.
+
+Experimental Continuity — repeated testing forms a developmental story.
+
+Mission / Mechanism Alignment — institutional purpose is enacted through the operating system.
+
+Social Claim Boundary — mechanism evidence remains separate from durable outcome evidence.
+
+Pilot Authorship — represented people retain voice, identity and contribution.
+
+Collaborative Innovation Story — individual expertise and institutional capability combine.
+
+Remote Place Relationship — a remote guide creates attributable local place meaning.
+
+Commercialised Human Attention — pilot service becomes a paid hospitality inclusion.
+
+Guest as Co-Participant — the guest responds to pilot, interface and experiment without becoming the narrative owner.
+
+No architecture direction is promoted, assigned confidence, or treated as a KHDS Principle here.
+
+Current Story Pattern Pressure — Post Restaurant #17
+
+Story Through Hospitality Model
+
+Canonical state: Candidate / High
+
+DAWN contribution:
+
+Exceptionally strong support. The mission is enacted through who works, how work occurs, what the guest purchases and how service is delivered.
+
+Boundary:
+
+operating coherence does not prove social outcome.
+
+Decision:
+
+Retain Candidate / High. No confidence change.
+
+Narrative Coherence Through Organising Logic
+
+Canonical state: Candidate / High
+
+DAWN contribution:
+
+Strong support. Human presence through technological embodiment organises arrival, atmosphere, photography, reservation, story and every service route.
+
+Boundary:
+
+coherence weakens when machine imagery outruns human attribution.
+
+Decision:
+
+Retain Candidate / High. No confidence change.
+
+Hospitality System Proof
+
+Canonical state: Candidate / High
+
+DAWN contribution:
+
+Strong support through pilots, robots, local staff, guests, partners, infrastructure and transaction.
+
+Boundary:
+
+story evidence is not complete operating-performance proof.
+
+Decision:
+
+Retain Candidate / High. No confidence change.
+
+Biography When It Explains the Experience
+
+Canonical state: Candidate / High
+
+DAWN contribution:
+
+Strong support through the Tele-Barista account and retained craft.
+
+Boundary:
+
+biography must preserve consent, agency, currentness and authorship.
+
+Decision:
+
+Retain Candidate / High. No confidence change.
+
+Narrative Language Within Clear Interface
+
+Canonical state: Candidate / High
+
+DAWN contribution:
+
+Strong support. The non-AI correction and route explanations connect meaning to participation.
+
+Pressure:
+
+the external transaction layer may weaken human attribution.
+
+Decision:
+
+Retain Candidate / High. No confidence change.
+
+Atmosphere Through Worldview
+
+Canonical state: Candidate / High
+
+DAWN contribution:
+
+Strong interpretive support. Mission language changes how the guest understands robots, pilots and the café.
+
+Boundary:
+
+worldview does not prove experienced atmosphere or durable emotion.
+
+Decision:
+
+Retain Candidate / High. No confidence change.
+
+Adaptation as Narrative
+
+Canonical state: Candidate / Medium
+
+DAWN contribution:
+
+Support through movement from earlier experiments to a permanent venue and expanded roles.
+
+Boundary:
+
+development chronology does not prove continuous improvement.
+
+Decision:
+
+Retain Candidate / Medium. No confidence change.
+
+Story Through Place
+
+Canonical state: Candidate / High
+
+DAWN contribution:
+
+Strong route-specific support through the Nihonbashi Guide Tour.
+
+Boundary:
+
+place is not the primary carrier of the complete café story, and the guide must retain authorship.
+
+Decision:
+
+Retain Candidate / High. No confidence change.
+
+Heritage Builds Confidence
+
+Canonical state: Candidate / Medium-High
+
+DAWN contribution:
+
+Useful contradiction evidence. Confidence is built through documented experimentation and continuity rather than inherited hospitality heritage.
+
+Decision:
+
+Retain Candidate / Medium-High. No confidence change.
+
+Story Before Features
+
+Canonical state: Emerging
+
+DAWN contribution:
+
+Strong support. The non-AI correction and human-participation premise establish meaning before route mechanics.
+
+Decision:
+
+Remain Emerging.
+
+Emotion Before Interface
+
+Canonical state: Emerging
+
+DAWN contribution:
+
+Support with serious inspiration and overclaim risks.
+
+Decision:
+
+Remain Emerging.
+
+Promise Before Proof
+
+Canonical state: Emerging
+
+DAWN contribution:
+
+Strong support and boundary pressure. The future proposition is supported by present mechanism but not durable outcome.
+
+Decision:
+
+Remain Emerging.
+
+The Guest as Participant
+
+Canonical state: Emerging
+
+DAWN contribution:
+
+Strong support. Guests converse, carry, operate, respond and provide feedback.
+
+Boundary:
+
+the guest must not displace pilot authorship.
+
+Decision:
+
+Remain Emerging.
+
+Multi-Intent Hospitality
+
+Canonical state: Emerging
+
+DAWN contribution:
+
+Strong support. Multiple routes express one human-embodiment story through different products.
+
+Decision:
+
+Remain Emerging.
+
+Strongest Story Tensions After Restaurant #17
+
+Visible robot vs human protagonist — object visibility can outrun agency attribution.
+
+Technical disclaimer vs human story — a non-AI statement performs ethical and narrative work.
+
+Physical absence vs local agency — remote location does not remove protagonism.
+
+Machine carrier vs machine hero — technology enables action without becoming its source.
+
+Social mission vs paid hospitality — commercial value strengthens mechanism credibility without proving labour justice.
+
+Employment opportunity vs employment outcome — visible roles do not establish conditions or security.
+
+Connection opportunity vs loneliness alleviation — encounter does not prove durable social effect.
+
+Disability context vs total identity — constraint explains architecture but not the whole person.
+
+Biography recognition vs biography extraction — humanisation can become instrumentalisation.
+
+Audience inspiration vs pilot agency — guest emotion must not replace worker authorship.
+
+Technology mechanism vs technology saviour — the device participates in a wider human system.
+
+Experimental continuity vs permanent provisionality — learning cannot erase responsibility.
+
+Future proposition vs present proof — possibility needs current operating detail.
+
+One organising logic vs many service routes — coherence does not require uniform products.
+
+Remote guide vs place authorship — mediated knowledge must remain attributable.
+
+Product beauty vs relationship trace — food and drink can carry human contribution.
+
+Guest co-participation vs guest appropriation — interaction should not recentre the moral narrative.
+
+Founder vision vs pilot proof — the founder story is strongest when worker agency becomes visible.
+
+Story Falsification Programme After Restaurant #17
+
+Do guests understand before arrival that the robots are human-operated?
+
+Does the non-AI correction remain visible across every service route?
+
+Does the external booking surface preserve human attribution?
+
+Do local staff consistently identify pilot action?
+
+Are pilots introduced by name and role?
+
+Can guests connect a voice and action to a specific person?
+
+Do guests remember pilots more strongly than robot novelty?
+
+Are pilot biographies current?
+
+Are biography publication and reuse consent-governed?
+
+Do biographies foreground role and expertise before diagnosis?
+
+Do pilots recognise themselves in the public narrative?
+
+Do different pilots have meaningful authorship opportunities?
+
+Does the founder voice remain subordinate to worker agency?
+
+Does the institution avoid treating more than 80 pilots as one abstract collective?
+
+Does Tele-Barista preserve Mika's craft authorship?
+
+Are collaboration partners proportionately represented?
+
+Is retained craft visible in the delivered product?
+
+Do guests interpret the robot as embodiment rather than autonomous replacement?
+
+Does machine imagery maintain human attribution on mobile layouts?
+
+Does the social-purpose story name the mechanism before the outcome?
+
+Are employment claims supported by evidence about work conditions?
+
+Do pilots experience agency rather than symbolic inclusion?
+
+Does remote work expand sustained participation over time?
+
+Are loneliness claims supported by longitudinal evidence?
+
+Are friendship claims supported by participant evidence?
+
+Does disability storytelling avoid pity and inspiration reduction?
+
+Does pandemic framing avoid lived-experience equivalence?
+
+Does technology-saviour language disappear from operating explanations?
+
+Does the permanent-experiment identity produce documented learning?
+
+Are technical failures narrated without reducing pilot capability?
+
+Do experimental limits remain compatible with commercial responsibility?
+
+Are guest questionnaires consented and methodologically governed?
+
+Is customer feedback kept separate from research validation?
+
+Does commercial growth preserve pilot-centred meaning?
+
+Do new service routes retain the same human organising logic?
+
+Is Nihonbashi place knowledge attributable to the pilot?
+
+Are OrySNACK pilots presented as hosts rather than machine operators?
+
+Does translated English content preserve dignity and precision?
+
+Can non-visual users recover who acts, who carries and who benefits?
+
+Does independent evidence support any claimed durable social outcome?
+
+Story Deduplication Decisions — Restaurant #17
+
+Proposed direction
+
+Closest existing concept
+
+Decision
+
+Human Agency Through Technological Embodiment
+
+Story Through Hospitality Model
+
+Retain as primary architecture model
+
+Human Protagonist / Machine Carrier
+
+narrative authority; relationship proof
+
+Retain as story-role model
+
+Corrective Premise
+
+Story Before Features; Narrative Language Within Clear Interface
+
+Retain as narrative mechanism
+
+Pilot Identity Proof
+
+Biography When It Explains the Experience
+
+Retain as attribution requirement
+
+Mediated Biography
+
+Biography When It Explains the Experience
+
+Treat as DAWN application
+
+Retained Craft
+
+Adaptation as Narrative; biography
+
+Retain as architecture variable
+
+Relationship Trace
+
+relationship proof; product narrative
+
+Retain as cross-dimensional mechanism
+
+Experimental Continuity
+
+Adaptation as Narrative
+
+Retain as developmental mechanism
+
+Mission / Mechanism Alignment
+
+Story Through Hospitality Model
+
+Merge into existing Candidate logic
+
+Social Claim Boundary
+
+Narrative Claim Ladder
+
+Retain as governance rule
+
+Pilot Authorship
+
+guide authority; biography agency
+
+Retain as evidence requirement
+
+Collaborative Innovation Story
+
+ecosystem and distributed contribution
+
+Retain as bounded architecture direction
+
+Remote Place Relationship
+
+Story Through Place
+
+Treat as mediated place mechanism
+
+Commercialised Human Attention
+
+Relationship Capacity; hospitality model
+
+Retain as cross-dimensional direction
+
+Guest as Co-Participant
+
+The Guest as Participant
+
+Treat as role refinement
+
+No duplicate canonical pattern is created.
+
+Restaurant #17 Story Decision Ledger
+
+The comparison now includes 17 independent restaurants.
+
+The complete post–Dans le Noir? story record remains intact as historical state.
+
+Human Protagonist / Machine Carrier is the strongest DAWN story model.
+
+Robot Carries the Story is separated from Robot Is the Story.
+
+Visible Hero Object is separated from Narrative Protagonist.
+
+The non-AI statement is classified as a Corrective Premise.
+
+Remote human presence is explicitly separated from autonomous AI.
+
+The pilot is the narrative protagonist; the robot is embodiment and carrier.
+
+Story Through Hospitality Model receives exceptionally strong support without confidence change.
+
+Narrative Coherence Through Organising Logic receives strong five-dimension support.
+
+Biography When It Explains the Experience receives strong Tele-Barista support with consent and agency boundaries.
+
+Retained Craft is classified as architecture, not a formal pattern.
+
+Disability is treated as material operating context, not complete identity.
+
+Audience inspiration is separated from pilot agency.
+
+Technology mechanism is separated from technology-saviour claims.
+
+Published mission and mechanism remain separate from verified social outcomes.
+
+Employment opportunity is separated from employment outcome proof.
+
+Commercial payment establishes public value, not fair labour outcome.
+
+Experimental identity is treated as developmental context, not reduced responsibility.
+
+Pandemic confinement remains a shared reference point, not equivalent lived experience.
+
+Guest feedback establishes participation in inquiry, not research validation.
+
+Story Through Place receives route-specific remote-guide support.
+
+One organising logic is shown to support several different hospitality products.
+
+Pilot authorship remains a required evidence boundary.
+
+All reviewed Emerging patterns remain Emerging.
+
+No pattern is promoted, demoted, renamed, merged or validated.
+
+Canonical totals remain 25 Candidate, 9 Emerging, 1 Partially Supported, 0 Validated and 0 research-derived Principles.
+
+Why No Maturity Change Is Justified
+
+Story completes the five-dimensional Restaurant #17 comparison set.
+
+This file does not own canonical governance.
+
+Its evidence must now be reconciled with:
+
+arrival
+
+atmosphere
+
+photography
+
+reservation
+
+the Restaurant #17 knowledge extraction
+
+the existing cross-case maturity rules
+
+The five comparison files supply evidence.
+
+Formal maturity and confidence decisions remain reserved for khds/research/validation/candidate-patterns.md.
+
+Story Comparison Conclusion — Post Avatar Robot Café DAWN, Tokyo
+
+After 17 independent restaurants, the strongest story finding remains:
+
+Story is an organizing system, not a biography section.
+
+DAWN gives that thesis a new ethical and technological test.
+
+The most visible object is not the person whose agency gives the system meaning.
+
+The story must therefore perform continuous attribution:
+
+Human Person
+↓
+Recognisable Role and Expertise
+↓
+Material Constraint
+↓
+Technological Embodiment
+↓
+Paid Hospitality Action
+↓
+Guest Relationship Opportunity
+↓
+Bounded Social Proposition
+
+Dans le Noir? established that an operating relationship can reassign authority and make the guide's expertise essential.
+
+DAWN extends that finding across physical distance:
+
+the pilot can remain the protagonist even when the robot occupies the room.
+
+The combined relationship rule is:
+
+Human Authority
+
+does not require
+
+Conventional Physical Presence
+
+but it does require
+
+Clear Attribution
+
++
+
+Role Legibility
+
++
+
+Agency Proof
+
++
+
+Authorship
+
+DAWN also strengthens the narrative claim ladder.
+
+The public system can strongly prove:
+
+human-operated robots
+
+paid service roles
+
+multiple service routes
+
+remote participation mechanisms
+
+experimental continuity
+
+It cannot automatically prove:
+
+equality
+
+belonging
+
+friendship
+
+reduced loneliness
+
+fair labour
+
+durable social change
+
+The story is strongest when the robot becomes less of a spectacle and more of a readable human body.
+
+Restaurant #17 produces no governance change in this file.
+
+It completes the five comparison dimensions and opens the Post–Avatar Robot Café DAWN canonical governance reconciliation.
+
 Validation
 
 Comparison File:
@@ -8757,83 +9993,83 @@ khds/research/comparison/story.md
 
 Status:
 
-Post–Dans le Noir? London Complete
+Post–Avatar Robot Café DAWN, Tokyo Complete
 
 Independent Restaurants Compared:
 
-16
+17
 
 Latest Case:
 
-Dans le Noir? London
+Avatar Robot Café DAWN, Tokyo
 
 Primary Confidence Watch:
 
-Story Through Hospitality Model
+Story Through Hospitality Model — Human Protagonist / Machine Carrier
 
 Secondary Confidence Watch:
 
-Narrative Coherence Through Organising Logic
+Narrative Coherence Through Organising Logic — Technological Embodiment
 
 Primary Existing Candidate Support:
 
-Story Through Place — Method-Dependent Boundary
+Biography When It Explains the Experience — Pilot Authorship Boundary
 
 Primary Emerging Review:
 
-Story Before Features
+Story Before Features — Corrective Premise
 
 Strongest New Narrative Mechanism:
 
-Operationalised Role Reversal
+Human Agency Through Technological Embodiment
 
 Strongest New Operating-Model Direction:
 
-Narrative Through Reassigned Expertise
+Human Protagonist / Machine Carrier
 
 Strongest New Contribution Variable:
 
-Guide as Narrative Authority
+Pilot Authorship
 
 Strongest New Narrative-Scope Variable:
 
-Narrative Claim Ladder
+Social Claim Boundary
 
 Strongest New Relationship Variable:
 
-Pre-Experience Human Trust
+Commercialised Human Attention
 
 Strongest New Product-Narrative Direction:
 
-Mystery / Reveal Narrative
+Retained Craft
 
 Strongest New Place Mechanism:
 
-Story Through Designed Condition
+Remote Place Relationship
 
 Strongest Change Boundary:
 
-Temporary Darkness
+Robot Carries the Story
 
 ≠
 
-Lived Visual Impairment
+Robot Is the Story
 
 Strongest Coherence Boundary:
 
-Narrative Coherence
+Visible Hero Object
 
 ≠
 
-Outcome Proof
+Narrative Protagonist
 
 Strongest Scope Boundary:
 
-Awareness Opportunity
+Published Social Purpose
 
 ≠
 
-Transformation
+Verified Social Outcome
 
 Formal Promotions:
 
@@ -8851,13 +10087,13 @@ Governance Changes:
 
 0
 
-Post–Dans le Noir? London Comparison Set:
+Post–Avatar Robot Café DAWN Comparison Set:
 
 5 / 5 Complete
 
 Next Stage:
 
-Post–Dans le Noir? London Canonical Governance Reconciliation
+Post–Avatar Robot Café DAWN Canonical Governance Reconciliation
 
 Next File:
 

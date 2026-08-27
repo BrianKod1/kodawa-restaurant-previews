@@ -2,11 +2,11 @@ KHDS Cross-Restaurant Comparison — Photography / Proof
 
 Status
 
-Post–Dans le Noir? London Comparison
+Post–Avatar Robot Café DAWN, Tokyo Comparison
 
 Restaurants Compared:
 
-16
+17
 
 Track:
 
@@ -14,7 +14,7 @@ Track A — Independent Hospitality Research
 
 Latest Added Case:
 
-Dans le Noir? London — Clerkenwell
+Avatar Robot Café DAWN — Tokyo
 
 Comparison Status:
 
@@ -84,7 +84,7 @@ all:
 
 five:
 
-post–Restaurant #16:
+post–Restaurant #17:
 
 comparison files
 
@@ -185,6 +185,8 @@ Noma Copenhagen 2026
 Restaurant Pearl Morissette
 
 Dans le Noir? London
+
+Avatar Robot Café DAWN, Tokyo
 
 Current Photography / Proof Thesis
 
@@ -8112,6 +8114,932 @@ What must the guest understand, which parts can truthfully be shown, and which e
 
 Restaurant #16 produces no governance change. It produces a more rigorous boundary around visual proof.
 
+Post–Avatar Robot Café DAWN, Tokyo Photography Reconciliation
+
+Restaurant #17 introduces a photography problem that is almost the inverse of Dans le Noir? London.
+
+Dans le Noir? made the defining experience unavailable to direct sight.
+
+DAWN makes its most conspicuous object highly visible while leaving the defining human agency comparatively difficult to see.
+
+The cross-case relationship is:
+
+Dans le Noir?
+
+Defining Experience
+↓
+Intentionally Invisible
+
+DAWN
+
+Defining Machine
+↓
+Immediately Visible
+
+Defining Human Agency
+↓
+Distributed and Partly Invisible
+
+The DAWN case therefore tests whether visual clarity can coexist with operating-model ambiguity.
+
+The strongest Restaurant #17 boundary is:
+
+Visible Machine
+
+≠
+
+Visible Human Agency
+
+The strongest difference boundary is:
+
+Most Photographable Subject
+
+≠
+
+Most Meaningful Difference
+
+The strongest temporal boundary is:
+
+Still Action State
+
+≠
+
+Live Agency Proof
+
+The strongest accessibility boundary is:
+
+Visual Inclusion
+
+≠
+
+Evidence Accessibility
+
+Current Canonical Entry State — Restaurant #17
+
+This comparison begins from the reconciled post–Restaurant #16 governance state.
+
+Pattern
+
+Entry state
+
+DAWN pressure
+
+Decision in this file
+
+Photography as Proof
+
+Candidate / Medium-High
+
+Strong support with agency boundary
+
+Retain
+
+Photography Should Demonstrate Difference
+
+Candidate / Medium
+
+Strong support with subject/difference correction
+
+Retain
+
+Photography as Use-Case Evidence
+
+Candidate / Medium-High
+
+Strong direct support
+
+Retain
+
+Photography Through Layers of Experience
+
+Candidate / Medium
+
+Support for layered evidence, not exhaustive imagery
+
+Retain
+
+Capacity Proof
+
+Candidate / Medium-High
+
+Visible infrastructure support; performance unproven
+
+Retain
+
+Hospitality System Proof
+
+Candidate / High
+
+Strong system-configuration support
+
+Retain
+
+Story Through Hospitality Model
+
+Candidate / High
+
+Strong operating-model support
+
+Retain
+
+Narrative Coherence Through Organising Logic
+
+Candidate / High
+
+Strong visual/textual coherence support
+
+Retain
+
+Photography Before Decoration
+
+Emerging
+
+Strong proof-first support
+
+Remain Emerging
+
+Emotion Before Interface
+
+Emerging
+
+Guest-expression pressure with outcome boundary
+
+Remain Emerging
+
+Promise Before Proof
+
+Emerging
+
+Social promise requires operating and outcome proof
+
+Remain Emerging
+
+The Guest as Participant
+
+Emerging
+
+Strong visible participation support
+
+Remain Emerging
+
+No state in this table is changed by the photography comparison alone.
+
+Comparison 93 — The Most Photographable Subject May Not Be the Most Meaningful Difference
+
+DAWN's robots are unusual, immediately legible as objects, visually repeatable and easy to place at the centre of a composition.
+
+The more meaningful difference is not the robot body by itself.
+
+It is the relationship between:
+
+a remote human pilot
+
+a local robotic embodiment
+
+a guest
+
+a hospitality task
+
+an enabling operating system
+
+The comparison extends Visual Novelty ≠ Material Difference into:
+
+Device Visibility
+
+≠
+
+Relationship Legibility
+
+Cross-Case Correction
+
+Photography Should Demonstrate Difference must identify the operative difference before choosing the subject.
+
+The most visually distinctive object may be evidence of the system without being the system's principal meaning.
+
+Comparison 94 — A Visible Machine Can Hide a Human Operator
+
+DAWN creates a distinctive proof asymmetry.
+
+The local robot can be photographed directly.
+
+The remote pilot may be elsewhere, off-frame, represented on a screen, named only in copy, visible in a separate portrait, or connected to the robot only by explanation.
+
+The image can prove robot form, robot location, service configuration and physical proximity to the guest without proving:
+
+who is operating
+
+whether operation is live
+
+whether the operator shown is the operator acting
+
+how control is transferred
+
+how continuity is maintained
+
+Correction 81
+
+Object proof must not be treated as agency proof.
+
+Comparison 95 — A Clear Photograph Can Produce an Incorrect Operating Interpretation
+
+High visual clarity normally reduces uncertainty about subject, place, use and form.
+
+At DAWN, clarity about the robot can increase ambiguity about whether it is autonomous, AI-controlled, pre-programmed, locally controlled or remotely piloted.
+
+The photograph may be technically clear while the operating interpretation remains wrong.
+
+Correction 82
+
+Photography as Proof must evaluate interpretive accuracy, not only image quality or subject visibility.
+
+Comparison 96 — Still Photography Proves Configuration More Easily Than Live Agency
+
+A still image can show a robot beside a table, a tray in position, a guest facing a robot, a drink being prepared or a pilot portrait.
+
+It cannot independently establish live response, conversational continuity, temporal control, synchronous human presence or recovery from interruption.
+
+The proof object is temporal.
+
+The evidence medium must therefore become temporal when the claim concerns agency over time.
+
+Correction 83
+
+Still photography is sufficient for configuration proof and insufficient for live-agency proof.
+
+Comparison 97 — Montage Can Be More Truthful Than a Single Literal Frame
+
+DAWN's operating relationship is distributed.
+
+The pilot, robot, tools, guest and service action may not occupy one physical location.
+
+A single literal photograph may omit the causal connection.
+
+A clearly bounded montage can show the remote pilot, local robotic body, working tool and resulting hospitality action.
+
+The Tele-Barista montage is therefore the strongest reviewed still-image relationship architecture in the DAWN case.
+
+It provides relational association, role context and distributed-system legibility.
+
+It does not independently provide proof of simultaneity, live control or reliable performance.
+
+Correction 84
+
+Composited evidence can be more informative than one literal frame when its constructed relationship is disclosed and its temporal limits remain explicit.
+
+Comparison 98 — A Human Face Does Not Automatically Establish Human Agency
+
+A portrait may prove a person exists, is associated with the organisation, and has an available identity or biography.
+
+It does not automatically prove that the person controls the pictured robot, that control is live, that the person performs the stated role, or that the pictured action belongs to the pictured person.
+
+DAWN therefore deepens the Pearl Morissette and Dans le Noir? relationship-proof correction:
+
+Person Visible
+
+≠
+
+Role Proven
+
+≠
+
+Agency Attributed
+
+≠
+
+Relationship Proven
+
+Correction 85
+
+Human visibility must be connected to action, role and system through attributable evidence.
+
+Comparison 99 — Technology Photography Requires Operating Explanation
+
+Technology images can prove hardware, interface form, physical scale, environment and possible use.
+
+They cannot always explain what the technology is for.
+
+At DAWN, the machine's human function is essential: the robot is an embodiment channel through which a remote person can participate in hospitality work.
+
+Without operating explanation, the visual system risks converting an inclusion model into a spectacle of automation.
+
+Correction 86
+
+The more a device invites autonomous or AI interpretation, the more explicitly the evidence system must attribute human agency.
+
+Comparison 100 — Use-Case Proof Can Be Strong While Outcome Proof Remains Weak
+
+DAWN supplies strong visible use-case evidence.
+
+Official images show configurations involving table service, café counter interaction, drink preparation, touring, carrying, guest conversation and accessible participation.
+
+These images support the proposition that the system has been designed for identifiable hospitality uses.
+
+They do not establish service quality, guest satisfaction, pilot satisfaction, employment quality, reliability or social inclusion outcome.
+
+Correction 87
+
+Photography as Use-Case Evidence must remain separated from outcome proof.
+
+Comparison 101 — The Robot Is Embodiment Evidence, Not Automatically the Protagonist
+
+In ordinary technology storytelling, the device can become the narrative hero.
+
+DAWN requires a different visual hierarchy.
+
+The robot matters because it carries presence, voice, gesture, work, service and social connection.
+
+The human pilot remains the agent.
+
+The robot is the local embodiment.
+
+The guest is the participating counterpart.
+
+Correction 88
+
+Visual prominence should follow narrative agency, not merely object novelty.
+
+Comparison 102 — Distributed Human Agency Requires Temporal Evidence
+
+DAWN extends the distributed-system findings from Pearl Morissette.
+
+Pearl Morissette required relationship evidence across land, producer, ingredient, kitchen and plate.
+
+DAWN requires relationship evidence across remote person, network, control system, robot body, hospitality action and guest response.
+
+The difference is that DAWN's essential relationship is not only spatially distributed. It is temporally active.
+
+New Architecture Direction
+
+Temporal Agency Proof is evidence that shows attributable human control, response and continuity across time.
+
+It remains an architecture direction, not a canonical pattern.
+
+Comparison 103 — Accessibility Representation Can Still Be Evidentially Inaccessible
+
+DAWN's photography visibly includes wheelchair users, remote participation, adaptive working arrangements and embodied service alternatives.
+
+This is meaningful representation.
+
+Direct inspection of reviewed official pages also found important images with empty or missing alternative text.
+
+The result is a contradiction: the image may communicate inclusion visually while withholding its evidence meaning from a person who cannot access the image.
+
+Correction 89
+
+Accessible proof requires the informational function of the image to survive without sight.
+
+Comparison 104 — A Wheelchair in Frame Does Not Prove Accessibility
+
+The presence of a wheelchair user can establish representation, a possible use context and physical participation in the photographed moment.
+
+It cannot independently establish route accessibility, toilet accessibility, booking accommodation, working-condition quality, support availability, current policy or universal suitability.
+
+Correction 90
+
+Accessibility possibility proof must remain bounded by specific, current operational information.
+
+Comparison 105 — Guest Smiles Do Not Prove Satisfaction
+
+DAWN's social images can orient the viewer toward warmth, curiosity, welcome, participation and celebration.
+
+Those expressions are useful emotional communication.
+
+They are not independent evidence of representative guest experience, sustained satisfaction, service outcome, relationship quality or social impact.
+
+Correction 91
+
+Emotion before interface must not become emotion as outcome evidence.
+
+Comparison 106 — Layered Evidence Does Not Require Every Layer to Be Photographed
+
+DAWN strengthens the correction introduced by Dans le Noir?.
+
+The evidence system needs to cover place, robot form, pilot identity, operating connection, guest use case, route difference, accessibility possibility and capability boundary.
+
+Photography is strongest for place, machine form, product, visible interaction and physical use case.
+
+Copy, diagrams, video and procedure are stronger for remote human control, live agency, role attribution, limitation, sequence and policy.
+
+Correction 92
+
+Photography Through Layers of Experience means photography should contribute where visual evidence is claim-fit, not that every evidence layer must become an image.
+
+Comparison 107 — More Visible Difference Can Require More Language
+
+DAWN appears highly photographable.
+
+That does not reduce the need for explanation.
+
+The unusual image creates questions about autonomy, AI, pilot identity, control, role, route, capability and participation.
+
+The stronger the visual novelty, the greater the risk that the viewer supplies an incorrect operating model.
+
+Correction 93
+
+Photography Should Demonstrate Difference may require more explanatory language when the visible subject is not self-explanatory.
+
+DAWN Photography Architecture Directions
+
+The following are architecture variables, mechanisms or research directions. They are not formal patterns.
+
+Machine-Visible / Human-Dependent Proof — the device is directly visible while essential human agency depends on contextual evidence.
+
+Remote Human Proof — evidence that makes the remote service person visible, named and attributable.
+
+Human-Agency Attribution — the explicit connection of person, robot and action.
+
+Robot as Embodiment Proof — evidence presenting the robot as a channel for human presence rather than an autonomous replacement.
+
+Montage as Relationship Architecture — disclosed composition connecting separated human, machine and process components.
+
+Temporal Agency Proof — evidence of live response, movement and continuity.
+
+Pilot Portrait / Robot Action Pairing — sequenced evidence connecting a named pilot with a local action.
+
+Relationship Gesture Proof — visible configuration showing possible interaction without claiming its outcome.
+
+Use-Case Proof — imagery demonstrating how a system is physically used.
+
+Accessibility Possibility Proof — visible access context bounded by current operating detail.
+
+Operating-Model Evidence Substitution — copy, diagram, video or procedure carrying claims photography cannot establish.
+
+Human / AI Visual Ambiguity — robot photography alone cannot establish whether operation is autonomous or human.
+
+Guest Expression Risk — the risk of treating photographed emotion as outcome evidence.
+
+Evidence Accessibility — preservation of image-specific meaning for people who cannot access the image visually.
+
+Machine / Person Visual Balance — the relative prominence of device and human across the evidence sequence.
+
+No architecture direction is promoted, assigned confidence, or treated as a KHDS Principle here.
+
+Current Photography Pattern Pressure — Post Restaurant #17
+
+Photography as Proof
+
+Canonical state: Candidate / Medium-High
+
+DAWN contribution: strong support and strong boundary pressure.
+
+The images prove robot form, café place, service configuration, product, guest use cases and route variety.
+
+They do not independently prove live remote agency, operating continuity, relationship quality or outcome.
+
+Decision: Retain Candidate / Medium-High. No confidence change.
+
+Photography Should Demonstrate Difference
+
+Canonical state: Candidate / Medium
+
+DAWN contribution: strong support with a subject-selection correction.
+
+The visible robot demonstrates difference only partially. The material difference is the human relationship enabled through the robot.
+
+Decision: Retain Candidate / Medium. No confidence change.
+
+Photography as Use-Case Evidence
+
+Canonical state: Candidate / Medium-High
+
+DAWN contribution: strong direct support.
+
+The photography shows multiple concrete service and participation configurations.
+
+Boundary: Visible use does not prove successful use.
+
+Decision: Retain Candidate / Medium-High. No confidence change.
+
+Photography Through Layers of Experience
+
+Canonical state: Candidate / Medium
+
+DAWN contribution: support for evidence layering and medium fit.
+
+Boundary: the essential agency layer requires more than still photography.
+
+Decision: Retain Candidate / Medium. No confidence change.
+
+Capacity Proof
+
+Canonical state: Candidate / Medium-High
+
+DAWN contribution: photography establishes equipment, environment, service configuration and some accessible infrastructure.
+
+Boundary: it does not establish training, staffing, technical continuity, reliability or social outcome.
+
+Decision: Retain Candidate / Medium-High. No confidence change.
+
+Hospitality System Proof
+
+Canonical state: Candidate / High
+
+DAWN contribution: strong system support.
+
+Images make components visible while copy and procedure explain roles.
+
+Boundary: visible components do not prove system performance.
+
+Decision: Retain Candidate / High. No confidence change.
+
+Story Through Hospitality Model
+
+Canonical state: Candidate / High
+
+DAWN contribution: strong support.
+
+The service relationship between people, technology, place and hospitality action carries the story.
+
+Boundary: published evidence does not independently prove social impact.
+
+Decision: Retain Candidate / High. No confidence change.
+
+Narrative Coherence Through Organising Logic
+
+Canonical state: Candidate / High
+
+DAWN contribution: strong support.
+
+Remote work, robots, accessibility, service and experimentation repeat across the visual and textual system.
+
+Boundary: narrative coherence does not prove operational coherence.
+
+Decision: Retain Candidate / High. No confidence change.
+
+Photography Before Decoration
+
+Canonical state: Emerging
+
+DAWN contribution: strong support. The strongest imagery carries use, place, technology and participation information.
+
+Decision: Remain Emerging.
+
+Emotion Before Interface
+
+Canonical state: Emerging
+
+DAWN contribution: support with a strong outcome boundary.
+
+Smiles and social compositions may orient emotion before operating explanation.
+
+Decision: Remain Emerging.
+
+Promise Before Proof
+
+Canonical state: Emerging
+
+DAWN contribution: strong boundary pressure.
+
+The social-purpose promise requires operating and outcome evidence beyond imagery.
+
+Decision: Remain Emerging.
+
+The Guest as Participant
+
+Canonical state: Emerging
+
+DAWN contribution: strong visible support.
+
+Guests are shown facing, carrying, operating, receiving service from and interacting with robots.
+
+Boundary: visible participation does not prove meaningful agency or outcome.
+
+Decision: Remain Emerging.
+
+Strongest Photography / Proof Tensions After Restaurant #17
+
+Machine visibility vs human-agency visibility — the clearest subject can conceal the defining operator.
+
+Device proof vs operating-model proof — hardware presence does not establish how it acts.
+
+Still configuration vs temporal agency — a captured action state cannot prove live control.
+
+Literal frame vs distributed relationship — one photograph may omit the causal connection.
+
+Montage clarity vs simultaneity proof — composition can explain structure without proving live operation.
+
+Human face vs agency attribution — a portrait does not connect the person to the pictured action by itself.
+
+Visual novelty vs material difference — the robot attracts attention while the human relationship carries meaning.
+
+Use-case proof vs outcome proof — visible participation does not establish the quality of its result.
+
+Accessibility representation vs accessibility proof — inclusion in frame does not establish provision.
+
+Visual inclusion vs evidence accessibility — inclusive content can remain unavailable through missing description.
+
+Guest expression vs satisfaction evidence — photographed warmth is not representative outcome proof.
+
+Technology protagonist vs human agency — composition can accidentally reverse the operating hierarchy.
+
+Layered photography vs layered evidence — the proof system needs medium fit, not image completeness.
+
+Visual clarity vs interpretive accuracy — an attractive, legible image can support an incorrect AI assumption.
+
+Social promise vs social-impact proof — visual purpose cues do not verify employment or inclusion outcomes.
+
+Photography Falsification Programme After Restaurant #17
+
+Does the first visual encounter make remote human operation understandable?
+
+Do viewers initially interpret the robots as autonomous AI?
+
+Is the human pilot visible or named before reservation?
+
+Can a viewer connect a specific pilot to a specific robot action?
+
+Does the Tele-Barista montage remain understandable without adjacent marketing copy?
+
+Is the constructed nature of montage sufficiently clear?
+
+Does any evidence establish that pictured operation is synchronous?
+
+Does video provide attributable temporal agency rather than generic motion?
+
+Are current photographs matched to current service routes?
+
+Can viewers distinguish OriHime, OriHime-D and Tele-Barista roles?
+
+Does the photography explain why different robot forms exist?
+
+Are service images ordinary operation, staged demonstration or campaign imagery?
+
+Are dates or scope signals available where operating states may change?
+
+Does route-specific imagery improve selection accuracy?
+
+Does use-case imagery reduce uncertainty without implying outcome?
+
+Do guest smiles create unsupported satisfaction claims?
+
+Is social-impact language separated from visual association?
+
+Are pilot portraits connected to current roles rather than inspirational biography alone?
+
+Does human prominence survive mobile cropping?
+
+Does machine prominence overwhelm human attribution?
+
+Are photographs of wheelchair users paired with specific current provisions?
+
+Can image evidence distinguish access possibility from universal accessibility?
+
+Do important images have meaningful alternative text?
+
+Can non-visual users recover the same evidence claim?
+
+Does alternative text describe the operating relationship rather than only the robot object?
+
+Can a non-visual user understand which person controls which device?
+
+Does the site disclose where photography cannot prove live agency?
+
+Does operating copy identify limits of automation?
+
+Does photography prove café place without implying all experiences occur identically?
+
+Does product photography establish actual current capability?
+
+Are food and beverage images bounded away from guaranteed availability?
+
+Does the evidence system distinguish relationship gesture from relationship outcome?
+
+Can a guest identify what is human, automated and assisted?
+
+Is proof depth proportionate to the consequence of the claim?
+
+Does the visual sequence move from machine curiosity to human understanding?
+
+Would the social-purpose story remain coherent if robot novelty were visually reduced?
+
+Could the same operating claim be understood from text, diagram or audio alone?
+
+Does every retained image perform a distinct proof job?
+
+Does evidence remain valid during technical limitation or route change?
+
+Do independent observations materially contradict the official visual system?
+
+Photography Deduplication Decisions — Restaurant #17
+
+Proposed direction
+
+Closest existing concept
+
+Decision
+
+Machine-Visible / Human-Dependent Proof
+
+Photography as Proof; Hospitality System Proof
+
+Retain as architecture model
+
+Remote Human Proof
+
+Human Operating Proof; Relationship Proof
+
+Retain as DAWN mechanism
+
+Human-Agency Attribution
+
+Relationship Proof; role proof
+
+Retain as evidence requirement
+
+Robot as Embodiment Proof
+
+Story Through Hospitality Model
+
+Retain as subject-framing rule
+
+Montage as Relationship Architecture
+
+Relational Proof Sequencing
+
+Retain as evidence mechanism
+
+Temporal Agency Proof
+
+Temporal Proof Sequencing; motion as evidence
+
+Retain as architecture direction
+
+Pilot Portrait / Robot Action Pairing
+
+Human Operating Proof
+
+Retain as sequencing mechanism
+
+Relationship Gesture Proof
+
+Relationship Proof
+
+Merge with existing bounded proof depth
+
+Use-Case Proof
+
+Photography as Use-Case Evidence
+
+Do not create duplicate
+
+Accessibility Possibility Proof
+
+accessibility evidence work
+
+Retain as bounded proof type
+
+Operating-Model Evidence Substitution
+
+Best Evidence Medium Depends on Claim
+
+Merge into existing evidence-medium rule
+
+Human / AI Visual Ambiguity
+
+interpretive accuracy
+
+Retain as falsification risk
+
+Guest Expression Risk
+
+Emotion Before Interface; outcome boundary
+
+Retain as correction
+
+Evidence Accessibility
+
+Accessible Proof Description
+
+Merge and strengthen
+
+Machine / Person Visual Balance
+
+narrative agency
+
+Retain as composition variable
+
+No duplicate canonical pattern is created.
+
+Restaurant #17 Photography Decision Ledger
+
+The comparison now includes 17 independent restaurants.
+
+The authoritative post–Dans le Noir? comparison remains intact as historical research state.
+
+DAWN is added as the current contradiction and transfer case.
+
+The central architecture is Machine-Visible / Human-Dependent Proof.
+
+Visible machine evidence is separated from visible human agency.
+
+Device proof is separated from operating-model proof.
+
+Still action state is separated from live-agency proof.
+
+The most photographable subject is separated from the most meaningful difference.
+
+Human presence is separated from human-agency attribution.
+
+Montage is accepted as relationship architecture when composition and limits are clear.
+
+Montage is not treated as proof of simultaneity.
+
+Temporal Agency Proof is retained as an architecture direction.
+
+Robot as Embodiment Proof is retained as a framing mechanism.
+
+Use-case proof is separated from use-case outcome.
+
+Accessibility representation is separated from accessibility proof.
+
+Visual inclusion is separated from evidence accessibility.
+
+Guest expression is separated from satisfaction evidence.
+
+Layered evidence remains broader than layered photography.
+
+Photography as Proof receives support and boundary refinement.
+
+Photography Should Demonstrate Difference receives support and subject-selection refinement.
+
+Photography as Use-Case Evidence receives strong support.
+
+Photography Through Layers of Experience receives medium-fit refinement.
+
+Capacity Proof receives visible-infrastructure support but no performance proof.
+
+Hospitality System Proof, Story Through Hospitality Model and Narrative Coherence Through Organising Logic receive support without confidence change.
+
+All reviewed Emerging patterns remain Emerging.
+
+No pattern is promoted, demoted, renamed, merged or validated.
+
+Canonical totals remain 25 Candidate, 9 Emerging, 1 Partially Supported, 0 Validated and 0 research-derived Principles.
+
+Why No Maturity Change Is Justified
+
+This file supplies one dimensional comparison inside the Restaurant #17 cycle.
+
+DAWN contributes strong evidence and several important corrections, but photography alone does not authorize canonical movement.
+
+Formal governance decisions remain reserved for khds/research/validation/candidate-patterns.md after all five Restaurant #17 comparison files are complete.
+
+Restaurant #17 photography therefore supplies cross-case support, contradiction pressure, evidence-medium refinement, new falsification targets and architecture directions.
+
+It does not supply independent governance authority.
+
+Photography Comparison Conclusion — Post Avatar Robot Café DAWN, Tokyo
+
+After 17 independent restaurants, the core photography thesis is:
+
+Photography should prove the most decision-relevant visible difference, while the evidence medium must follow the claim that needs proof.
+
+Dans le Noir? established:
+
+An experience can be materially different
+without its defining core being photographable.
+
+DAWN now establishes:
+
+A system can be highly photographable
+while its defining agency remains visually incomplete.
+
+Together, the two contradiction cases prevent Photography as Proof from becoming either a demand for direct depiction or a belief that visible novelty is sufficient evidence.
+
+DAWN's robot photography is strong evidence of place, machine, use, configuration, product and participation possibility.
+
+The defining hospitality model still requires human identity, role explanation, agency attribution, temporal evidence, operating boundaries and accessible evidence meaning.
+
+The resulting minimum relationship proof is:
+
+Visible Machine
++
+Named Pilot
++
+Operating Explanation
++
+Temporal Agency Evidence
++
+Guest Use Case
+↓
+Bounded Relationship Confidence
+
+The strongest cross-case refinement is therefore:
+
+Photography as Proof
+requires
+Claim-Fit Subject Selection
++
+Correct Operating Interpretation
++
+Appropriate Evidence Medium
++
+Accessible Meaning
+
+Restaurant #17 produces no governance change.
+
+It produces a more demanding account of what an image must prove when the visible machine is not the true human centre of the experience.
+
 Validation
 
 Comparison File:
@@ -8120,23 +9048,27 @@ khds/research/comparison/photography.md
 
 Status:
 
-Post–Dans le Noir? London Complete
+Post–Avatar Robot Café DAWN, Tokyo Complete
 
 Independent Restaurants Compared:
 
-16
+17
 
 Latest Case:
 
-Dans le Noir? London
+Avatar Robot Café DAWN, Tokyo
 
 Primary New Governance Watch:
 
-Photography Should Demonstrate Difference — Non-Visual Difference Boundary
+Photography as Proof — Machine-Visible / Human-Dependent Boundary
 
 Secondary Governance Watches:
 
 Photography as Proof
+
+Photography Should Demonstrate Difference
+
+Photography as Use-Case Evidence
 
 Photography Through Layers of Experience
 
@@ -8146,59 +9078,59 @@ Hospitality System Proof
 
 Strongest New Proof Distinction:
 
-Photography of the Restaurant
+Visible Machine
 
 ≠
 
-Photography of the Guest Experience
+Visible Human Agency
 
 Strongest New Sequencing Direction:
 
-Visible Perimeter / Invisible Core
+Pilot Portrait / Robot Action Pairing
 
 Strongest New System Refinement:
 
-Layered Evidence ≠ Layered Photography
+Machine-Visible / Human-Dependent Proof
 
 Strongest New Capacity Refinement:
 
-Proof Through Procedure
+Temporal Agency Proof
 
 Strongest New Difference Mechanism:
 
-Non-Visual Difference
+Most Photographable Subject ≠ Most Meaningful Difference
 
 Strongest New Evidence-Efficiency Direction:
 
-Evidence Substitution
+Montage as Relationship Architecture
 
 Strongest Reinforced Evidence Rule:
 
-Absence as Evidence Integrity
+Visual Inclusion ≠ Evidence Accessibility
 
 Strongest Freshness Rule:
 
-Representative Capability
+Still Action State
 
 ≠
 
-Exact Future Product
+Live Agency Proof
 
 Strongest System Boundary:
 
-Visible Perimeter Proof
+Device Proof
 
 ≠
 
-Core Experience Proof
+Agency Proof
 
 Strongest Sustainability Boundary:
 
-Published Mechanism
+Visible Use Case
 
 ≠
 
-Verified Performance
+Observed Use-Case Outcome
 
 Formal Promotions:
 

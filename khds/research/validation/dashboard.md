@@ -2,15 +2,15 @@ KHDS Validation Dashboard
 
 Status
 
-Post–Dans le Noir? London Governance Mirror
+Post–Avatar Robot Café DAWN, Tokyo Governance Mirror
 
 Latest Research Cycle:
 
-Restaurant #16 — Dans le Noir? London
+Restaurant #17 — Avatar Robot Café DAWN, Tokyo
 
 Independent Restaurants:
 
-16
+17
 
 Track B Validation Cases:
 
@@ -80,7 +80,7 @@ Current State
 
 Independent Restaurants
 
-16
+17
 
 Track B Validation Cases
 
@@ -88,11 +88,11 @@ Track B Validation Cases
 
 Candidate Patterns
 
-25
+26
 
 Emerging Patterns
 
-9
+8
 
 Partially Supported Patterns
 
@@ -162,6 +162,8 @@ Restaurant Pearl Morissette
 
 Dans le Noir? London
 
+Avatar Robot Café DAWN, Tokyo
+
 Track B — Kodawa Labs Validation
 
 Current production validation case:
@@ -194,7 +196,7 @@ Candidate Dashboard
 
 There are:
 
-25 Candidate patterns.
+26 Candidate patterns.
 
 #
 
@@ -344,11 +346,17 @@ Medium
 
 Photography Should Demonstrate Difference
 
-Medium
+Medium-High
 
 25
 
 Human Assistance Where Structured Self-Service Is Insufficient
+
+Medium
+
+26
+
+Multi-Intent Hospitality
 
 Medium
 
@@ -364,7 +372,7 @@ High
 
 Medium-High
 
-5
+6
 
 Medium
 
@@ -372,13 +380,13 @@ Medium
 
 Total
 
-25
+26
 
 Emerging Dashboard
 
 There are:
 
-9 Emerging patterns.
+8 Emerging patterns.
 
 #
 
@@ -398,25 +406,21 @@ Photography Before Decoration
 
 4
 
-Multi-Intent Hospitality
+Commitment Without Pressure
 
 5
 
-Commitment Without Pressure
+Promise Before Proof
 
 6
 
-Promise Before Proof
+The Guest as Participant
 
 7
 
-The Guest as Participant
-
-8
-
 Atmosphere as Product
 
-9
+8
 
 Escalating Participation Complexity
 
@@ -494,9 +498,9 @@ Research-Derived KHDS Principles
 
 0
 
-Restaurant #16 Governance Outcome
+Restaurant #17 Governance Outcome
 
-Dans le Noir? London produced:
+Avatar Robot Café DAWN, Tokyo produced:
 
 Governance Action
 
@@ -504,11 +508,11 @@ Count
 
 New Candidate Promotions
 
-2
+1
 
 Candidate Confidence Increases
 
-2
+1
 
 Demotions
 
@@ -546,7 +550,7 @@ Track B Learning Changes
 
 0
 
-Formal Candidate Promotions
+Formal Candidate Promotion
 
 #
 
@@ -558,57 +562,39 @@ Current State
 
 1
 
-Photography Should Demonstrate Difference
+Multi-Intent Hospitality
 
 Emerging
 
 Candidate / Medium
 
-2
+Promotion — Multi-Intent Hospitality
 
-Human Assistance Where Structured Self-Service Is Insufficient
+DAWN provides the missing materially distinct intent architecture.
 
-Emerging
+Its public system does not merely offer several products. It routes different participation purposes through one hospitality model, including:
 
-Candidate / Medium
+ordinary café use
 
-Promotion 1 — Photography Should Demonstrate Difference
+interaction with remote OriHime pilots
 
-Promotion reason:
+technology and inclusion learning
 
-Restaurant #16 is the exact non-visual falsification case prescribed after Pearl Morissette.
+tours and organised visits
 
-The pattern now survives three materially different mechanisms:
+merchandise or mission-support participation
 
-Difference Through Sequence
+employment and social-participation interest
 
-Difference Through Relationship
+The promotion is bounded by this distinction:
 
-Non-Visual Difference
-
-Strongest new boundary:
-
-Demonstrate Difference
+Multiple Offers
 ≠
-Show Difference Literally
+Multiple Hospitality Intents
 
-Promotion 2 — Human Assistance Where Structured Self-Service Is Insufficient
+The Candidate applies only when distinct guest purposes change the route, preparation, interaction or expected outcome—not when one commercial intent is divided into ordinary product categories.
 
-Promotion reason:
-
-Human assistance is visible as both:
-
-exception infrastructure
-
-core hospitality infrastructure
-
-Strongest new boundary:
-
-Human Guidance
-≠
-Fallback Support Only
-
-Candidate Confidence Changes
+Candidate Confidence Change
 
 Pattern
 
@@ -616,51 +602,31 @@ Previous Confidence
 
 Current Confidence
 
-Photography as Proof
+Photography Should Demonstrate Difference
 
 Medium
 
 Medium-High
 
-Capacity Proof
+DAWN strengthens the Candidate because its visual difference is not confined to dramatic interiors, spectacular plating or unusual sensory conditions.
 
-Medium
+Photography must demonstrate:
 
-Medium-High
+who is acting through the avatar
 
-Photography as Proof
+how remote presence enters the room
 
-Confidence increases because the Candidate survives a hospitality model whose defining guest experience cannot be photographed directly.
+how guest and pilot relate
 
-The case establishes:
+why an ordinary-looking café interaction is structurally different
 
-Photography Can Be Proof
-without being
-Complete Proof
+how technology serves human participation rather than replacing it
 
-Capacity Proof
+The governing boundary becomes:
 
-Confidence increases because Dans le Noir? adds a third mechanistically distinct capacity model through:
-
-procedure
-
-guide roles
-
-menu testing
-
-dietary handoff rules
-
-real-time availability
-
-safety provisions
-
-stable participation infrastructure
-
-The remaining boundary is:
-
-Published Capacity Mechanism
+Visible Novelty
 ≠
-Verified Capacity Performance
+Demonstrated Difference
 
 Explicit Non-Promotions
 
@@ -674,55 +640,49 @@ Escalating Participation Complexity
 
 Emerging
 
-The case points toward Support Escalation, but the current name remains more descriptive than explanatory.
+DAWN shows multiple routes and support needs, but the pattern still requires a precise escalation model and a failure boundary.
 
 Story Before Features
 
 Emerging
 
-Strong support remains bounded by generic content-rule risk and the same-name Foundation boundary.
+Mission framing is strong, but the same-name Foundation boundary and generic content-rule risk remain.
 
 Promise Before Proof
 
 Emerging
 
-Definition overlap remains with Capacity Proof, Expectation Clarity, Bounded Product Commitment and Hospitality System Proof.
+Mission promise precedes operational evidence, but overlap with Capacity Proof and Hospitality System Proof remains unresolved.
 
 Atmosphere as Product
 
 Emerging
 
-Structural atmosphere is visible; guest-choice causality remains unverified.
+Social presence appears structurally important, but public evidence cannot prove that atmosphere itself drives purchase or outcome.
 
 The Guest as Participant
 
 Emerging
 
-Evidence is strong, but the abstraction remains too broad.
+Participation is visible, but the abstraction remains too broad to predict a distinct design response.
 
 Commitment Without Pressure
 
 Emerging
 
-Availability appears without pressure language, but the full commitment system remains unobserved.
-
-Multi-Intent Hospitality
-
-Emerging
-
-Multiple offers and routes do not automatically prove materially different hospitality intents.
+Booking and visit options avoid obvious pressure, but the complete commitment system remains unobserved.
 
 Emotion Before Interface
 
 Emerging
 
-The same-name Foundation boundary and causal-evidence gap remain.
+Human purpose precedes technology, but the same-name Foundation boundary and causal-evidence gap remain.
 
 Photography Before Decoration
 
 Emerging
 
-The same-name Foundation boundary and generic design-rule risk remain.
+Evidence supports purposeful photography, but generic design-rule risk and Foundation overlap remain.
 
 Non-promotion is a governance result.
 
@@ -734,84 +694,88 @@ Pattern
 
 Current State
 
-Restaurant #16 Position
+Restaurant #17 Position
 
 Layered Arrival
 
 Candidate / Medium
 
-Strong confirmation; the one-carrier falsification remains open.
+DAWN adds route-dependent preparation, but a simpler one-carrier arrival remains a live falsification case.
 
 Atmosphere Through Consistency
 
 Candidate / Medium
 
-Strong system coherence; fragmented-atmosphere falsification remains open.
+Mission, technology, staff roles and spatial cues align; actual guest atmosphere remains unverified.
 
 Photography Through Layers of Experience
 
 Candidate / Medium
 
-Boundary refined toward Layered Evidence; definition work remains.
+Visual evidence spans people, mechanism, place and participation; not every layer is proven necessary.
 
 Participation Throughout the Journey
 
 Candidate / Medium
 
-Strong maximal-journey evidence; minimal-journey boundary remains untested.
+Intent begins before booking and extends through encounter and follow-on support; minimal participation remains untested.
 
 Stable Participation / Variable Product
 
 Candidate / Medium
 
-Strong confirmation; variable-product plus variable-participation test remains open.
+Stable avatar-mediated interaction survives multiple offers, but route changes may also change participation rules.
 
 Participation Rule Consistency
 
 Candidate / Medium
 
-Menu allocation at booking versus ordering on arrival remains unresolved.
+Multiple routes are legible, but rule consistency across ordinary visits, tours and organised programmes is not fully observable.
 
 Manageable Commitment
 
 Candidate / Medium
 
-Pre-commitment agency is visible; post-commitment flexibility remains unverified.
-
-Designed Escape
-
-Candidate / Medium
-
-Mechanism is strong; guest outcome remains unverified.
-
-Adaptation as Narrative
-
-Candidate / Medium
-
-Cross-format adaptation is visible; commercial expansion does not automatically prove coherence.
-
-Count Reconciliation
-
-Post–Pearl Morissette canonical state:
-
-Emerging: 11
-Candidate: 23
-
-Restaurant #16 promotes two Emerging patterns into Candidate:
-
-Photography Should Demonstrate Difference
+Route choice and advance information reduce uncertainty; cancellation and post-booking flexibility remain incompletely evidenced.
 
 Human Assistance Where Structured Self-Service Is Insufficient
 
-11 Emerging
-- 2 Promotions
-= 9 Emerging
+Candidate / Medium
 
-23 Candidates
-+ 2 Promotions
-= 25 Candidates
+DAWN broadens human assistance from exception handling to the primary mediated service model; confidence holds pending failure evidence.
 
-The two confidence increases do not alter the Candidate count.
+Story Through Hospitality Model
+
+Candidate / High
+
+Strong confirmation: the inclusion story is enacted through who performs hospitality and how.
+
+Hospitality System Proof
+
+Candidate / High
+
+Strong confirmation: pilots, avatars, venue, programmes and support mechanisms form a visible operating system.
+
+Count Reconciliation
+
+Post–Dans le Noir? London canonical state:
+
+Emerging: 9
+Candidate: 25
+
+Restaurant #17 promotes one Emerging pattern into Candidate:
+
+Multi-Intent Hospitality
+
+9 Emerging
+- 1 Promotion
+= 8 Emerging
+
+25 Candidates
++ 1 Promotion
+= 26 Candidates
+
+The confidence increase does not alter the Candidate count.
 
 Dashboard counts:
 
@@ -820,112 +784,82 @@ reconciled.
 Candidate Count Integrity
 
 Candidate / High: 9
-Candidate / Medium-High: 5
+Candidate / Medium-High: 6
 Candidate / Medium: 11
 
-9 + 5 + 11 = 25
+9 + 6 + 11 = 26
 
-Post–Dans le Noir? London Boundary
+Post–Avatar Robot Café DAWN Boundary
 
-The strongest governance distinction produced by Restaurant #16 is:
+The strongest governance distinction produced by Restaurant #17 is:
 
-Visual Absence
+Human Mediation Through Technology
 ≠
-Evidence Absence
+Human Replacement by Technology
 
 This boundary connects:
 
-arrival
+remote work
 
-atmosphere
-
-photography
-
-reservation
-
-story
-
-human guidance
-
-capacity
+physical hospitality
 
 accessibility
 
+service labour
+
+guest participation
+
+technology
+
+story
+
+social presence
+
 Related corrections include:
 
-Photography of the Restaurant
+Remote Presence
 ≠
-Photography of the Guest Experience
+Automated Presence
 
-Participation Complexity
+Accessibility Layer
 ≠
-Interface Complexity
+Separate Accommodation Layer
 
-Required Disclosure
+Mission Narrative
 ≠
-Successful Operational Handoff
+Mission Outcome Proof
 
-Temporary Darkness
+Visible Robot
 ≠
-Lived Visual Impairment
+Visible Human Relationship
 
-Narrative Coherence
+Multiple Offers
 ≠
-Outcome Proof
+Multiple Hospitality Intents
 
-Architecture Families Added or Sharpened
+Architecture Family Added
 
-Non-Visual Evidence Family
+Mediated Human Hospitality Family
 
-Visible Perimeter / Invisible Core
+Human Presence Through an Avatar
 
-Proof Through Procedure
+Pilot–Guest Relationship Visibility
 
-Evidence Substitution
+Technology as Embodied Access Infrastructure
 
-Absence as Evidence Integrity
+Remote Labour / Local Hospitality Coupling
 
-Accessible Proof Description
+Bidirectional Accessibility
 
-Post-Experience Reveal Proof
+Route-Specific Participation Preparation
 
-Human-Guided Participation Family
+Social Mission Through Operating Model
 
-Human Escalation Architecture
+Human Identity Beyond the Device
 
-Guide Handoff
+Participation Without Physical Co-Location
 
-Trust Transfer
-
-Supported Movement
-
-Named Consequence Mapping
-
-Reservation as Operational Brief
-
-Sensory Boundary Family
-
-Enforced Visual Absence
-
-Digital Surrender
-
-Darkness as Narrative Condition
-
-Attention Redistribution
-
-Reveal After Experience
-
-Role-Reversal Narrative Family
-
-Operationalised Role Reversal
-
-Narrative Through Reassigned Expertise
-
-Guide as Narrative Authority
-
-Temporary Deprivation / Lived Experience Boundary
-
-Questioning Without Guaranteed Transformation
+Recognition Without Substituting for Outcome Evidence
 
 Architecture families organize evidence.
 
@@ -933,15 +867,15 @@ They are not additional formal patterns.
 
 Why No Validated Promotion Occurred
 
-Restaurant #16 is a strong contradiction case.
+Restaurant #17 is an independent contrast and extension case.
 
 It remains one independent research cycle.
 
 No Validated promotion occurs because:
 
-public website evidence cannot establish operational outcomes
+public website evidence cannot establish employment, social or emotional outcomes
 
-one contradiction case does not establish full transferability
+one additional case does not establish full transferability
 
 no new Track B implementation validation occurred
 
@@ -949,9 +883,17 @@ no longitudinal test was completed
 
 several definitions retain active falsification requirements
 
-Contradiction Survival
+Architecture Extension
 ≠
 Validation
+
+Why No Research-Derived Principle Promotion Occurred
+
+DAWN produces important architecture and strengthens several boundaries, but principle status would require broader cross-category evidence, clearer necessity and stronger falsification survival.
+
+Mission Importance
+≠
+Research-Derived Principle
 
 Research Integrity
 
@@ -999,63 +941,63 @@ Primary Question
 
 1
 
+Multi-Intent Hospitality Falsification
+
+When are several routes merely product categories rather than materially different hospitality intents?
+
+2
+
 Escalating Participation Complexity Definition
 
 What exactly escalates, and what support response does the pattern predict?
 
-2
-
-Stable Participation With Variable Participation
-
-Is stable participation necessary, or one viable strategy among several?
-
 3
-
-Minimal Participation Journey
-
-How small can participation become before the Candidate loses explanatory value?
-
-4
-
-One-Carrier Arrival
-
-Can clarity replace layering?
-
-5
-
-Layered Evidence Without Layered Photography
-
-Which experience layers genuinely require images?
-
-6
 
 Human Assistance Failure Case
 
-When does human assistance compensate for weak structure?
+When does human assistance compensate for weak structure or become a new source of friction?
+
+4
+
+Ordinary-Looking Difference Test
+
+Can photography demonstrate structural difference when the visible environment appears conventional?
+
+5
+
+Relationship Capacity Verification
+
+What evidence proves that a mediated human relationship can operate reliably at service scale?
+
+6
+
+Pilot Recognition Outcome Evidence
+
+Which employment, agency and social-participation outcomes can be independently verified?
 
 7
 
-Non-Visual Difference Transfer Test
+Bidirectional Accessibility Transfer
 
-Can difference remain legible when the visible perimeter looks conventional?
+When does accessibility improve participation for guests, staff and remote workers simultaneously?
 
 8
 
-Capacity Proof With Minimal Authority
+Social Outcome Evidence
 
-Can capacity evidence create confidence without prestige, longevity or recognition?
+Which claimed inclusion outcomes survive beyond mission narrative and curated testimony?
 
 9
 
-Story Outcome Evidence
+Stable Participation Under Route Change
 
-Which outcomes survive beyond published mechanism and curated testimony?
+Does one participation model remain stable across café visits, tours, programmes and mission-support routes?
 
 10
 
-Atmosphere as Product Causality
+Minimal Participation Countercase
 
-When is atmosphere genuinely purchased rather than merely prominent?
+How small can participation become before journey-level Candidates lose explanatory value?
 
 Future research should attempt to break these patterns and definitions.
 
@@ -1095,8 +1037,8 @@ khds/research/validation/README.md
 
 Do not change:
 
-Candidate count: 25
-Emerging count: 9
+Candidate count: 26
+Emerging count: 8
 Validated count: 0
 Research-Derived KHDS Principle count: 0
 
@@ -1104,13 +1046,13 @@ unless new independent research or formal canonical governance review justifies 
 
 Final Dashboard Position
 
-Post–Dans le Noir? London governance is reconciled.
+Post–Avatar Robot Café DAWN, Tokyo governance is reconciled.
 
 KHDS currently contains:
 
-25 Candidate patterns
+26 Candidate patterns
 
-9 Emerging patterns
+8 Emerging patterns
 
 1 Partially Supported pattern
 
@@ -1118,17 +1060,19 @@ KHDS currently contains:
 
 0 Research-Derived KHDS Principles
 
-Restaurant #16 materially strengthened:
+Restaurant #17 produced:
 
-non-visual evidence reasoning
+one Candidate promotion: Multi-Intent Hospitality
 
-human-guided participation
+one Candidate confidence increase: Photography Should Demonstrate Difference
 
-capacity proof through procedure
+the Mediated Human Hospitality architecture family
 
-role-reversal narrative boundaries
+stronger boundaries between human mediation and automation
 
-the separation between published mechanism and verified outcome
+stronger boundaries between mission narrative and verified social outcome
+
+no Validated or Principle promotion
 
 The threshold remains intact.
 

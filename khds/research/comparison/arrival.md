@@ -1,12 +1,12 @@
-# KHDS Cross-Restaurant Comparison — Arrival
+KHDS Cross-Restaurant Comparison — Arrival
 
-## Status
+Status
 
-Post–Dans le Noir? London Comparison
+Post–Avatar Robot Café DAWN, Tokyo Comparison
 
 Restaurants Compared:
 
-16
+17
 
 Track:
 
@@ -14,7 +14,7 @@ Track A — Independent Hospitality Research
 
 Latest Added Case:
 
-Dans le Noir? London — Clerkenwell
+Avatar Robot Café DAWN — Tokyo
 
 Comparison Status:
 
@@ -70,7 +70,7 @@ belong:
 
 to:
 
-`khds/research/validation/candidate-patterns.md`
+khds/research/validation/candidate-patterns.md
 
 after:
 
@@ -78,7 +78,7 @@ all:
 
 five:
 
-post-Restaurant #16:
+post-Restaurant #17:
 
 comparison files
 
@@ -86,13 +86,11 @@ are:
 
 complete.
 
----
-
-# Purpose
+Purpose
 
 Arrival research asks:
 
-> **What must the guest understand before making an appropriate hospitality commitment?**
+What must the guest understand before making an appropriate hospitality commitment?
 
 KHDS does not:
 
@@ -152,45 +150,43 @@ decision:
 
 problem.
 
----
+Restaurants Included
 
-# Restaurants Included
+Ankole
 
-1. Ankole
+Cultiva
 
-2. Cultiva
+Talisman
 
-3. Talisman
+Mawimbi
 
-4. Mawimbi
+Bistro Lolo
 
-5. Bistro Lolo
+FYN
 
-6. FYN
+Dishoom Covent Garden
 
-7. Dishoom Covent Garden
+Franklin Barbecue
 
-8. Franklin Barbecue
+Alinea
 
-9. Alinea
+NARISAWA
 
-10. NARISAWA
+Haidilao Toronto Downtown
 
-11. Haidilao Toronto Downtown
+ICHIRAN Shibuya
 
-12. ICHIRAN Shibuya
+Din Tai Fung Covent Garden
 
-13. Din Tai Fung Covent Garden
+Noma Copenhagen 2026
 
-14. Noma Copenhagen 2026
+Restaurant Pearl Morissette
 
-15. Restaurant Pearl Morissette
+Dans le Noir? London
 
-16. Dans le Noir? London
+Avatar Robot Café DAWN, Tokyo
 
----
-
-# Current Arrival Thesis
+Current Arrival Thesis
 
 The strongest:
 
@@ -200,7 +196,7 @@ arrival:
 
 finding remains:
 
-> **Arrival is uncertainty-resolution architecture, not a universal content sequence.**
+Arrival is uncertainty-resolution architecture, not a universal content sequence.
 
 A:
 
@@ -214,19 +210,19 @@ automatically:
 
 lead with:
 
-- story
+story
 
-- menu
+menu
 
-- reservations
+reservations
 
-- photography
+photography
 
-- biography
+biography
 
-- heritage
+heritage
 
-- location
+location
 
 because:
 
@@ -268,11 +264,8 @@ becomes:
 
 appropriate.
 
----
+Post–Pearl Morissette Arrival Architecture
 
-# Post–Pearl Morissette Arrival Architecture
-
-```text
 
 Guest Intent
 
@@ -412,7 +405,6 @@ Travel
 
 Other Relevant Route
 
-```
 
 Not every:
 
@@ -424,9 +416,7 @@ every:
 
 variable.
 
----
-
-# Major Post–Pearl Morissette Refinement
+Major Post–Pearl Morissette Refinement
 
 Restaurant #15:
 
@@ -440,25 +430,19 @@ arrival:
 
 variables:
 
-```text
 
 Destination Access Confidence
 
-```
 
-```text
 
 Total Visit Commitment
 
-```
 
 and:
 
-```text
 
 Product Creation Confidence
 
-```
 
 the last:
 
@@ -480,9 +464,7 @@ strongly:
 
 reinforced.
 
----
-
-# Comparison 1 — Arrival Is Not One Sequence
+Comparison 1 — Arrival Is Not One Sequence
 
 Across:
 
@@ -504,9 +486,7 @@ different:
 
 structures.
 
----
-
-## Ankole
+Ankole
 
 Strong:
 
@@ -522,7 +502,6 @@ positioning.
 
 Arrival pressure:
 
-```text
 
 Who are we?
 
@@ -534,11 +513,8 @@ Where do we belong?
 
 What kind of experience is this?
 
-```
 
----
-
-## Cultiva
+Cultiva
 
 Worldview
 
@@ -556,7 +532,6 @@ roles.
 
 Arrival pressure:
 
-```text
 
 What do they believe?
 
@@ -564,11 +539,8 @@ What do they believe?
 
 How does that shape the food?
 
-```
 
----
-
-## Talisman
+Talisman
 
 Place
 
@@ -586,7 +558,6 @@ confidence.
 
 Arrival pressure:
 
-```text
 
 Why has this place endured?
 
@@ -594,11 +565,8 @@ Why has this place endured?
 
 What remains meaningful now?
 
-```
 
----
-
-## Mawimbi
+Mawimbi
 
 Atmospheric:
 
@@ -620,15 +588,11 @@ weight.
 
 Arrival pressure:
 
-```text
 
 What world am I entering?
 
-```
 
----
-
-## Bistro Lolo
+Bistro Lolo
 
 Belonging
 
@@ -646,15 +610,11 @@ matter.
 
 Arrival pressure:
 
-```text
 
 Can I imagine myself using this place?
 
-```
 
----
-
-## FYN
+FYN
 
 Authority
 
@@ -672,7 +632,6 @@ matter.
 
 Arrival pressure:
 
-```text
 
 Why should I trust this experience?
 
@@ -680,11 +639,8 @@ Why should I trust this experience?
 
 Is this the right fit?
 
-```
 
----
-
-## Dishoom Covent Garden
+Dishoom Covent Garden
 
 Narrative
 
@@ -704,7 +660,6 @@ together.
 
 Arrival pressure:
 
-```text
 
 What world is this?
 
@@ -712,11 +667,8 @@ What world is this?
 
 How do I take part?
 
-```
 
----
-
-## Franklin Barbecue
+Franklin Barbecue
 
 Product
 
@@ -734,7 +686,6 @@ matter.
 
 Arrival pressure:
 
-```text
 
 What am I coming for?
 
@@ -742,11 +693,8 @@ What am I coming for?
 
 How does access actually work?
 
-```
 
----
-
-## Alinea
+Alinea
 
 Selective reveal
 
@@ -768,17 +716,13 @@ problem.
 
 Arrival pressure:
 
-```text
 
 How much must I understand
 
 without destroying the reveal?
 
-```
 
----
-
-## NARISAWA
+NARISAWA
 
 Worldview
 
@@ -796,7 +740,6 @@ arrival.
 
 Arrival pressure:
 
-```text
 
 Why does this experience matter?
 
@@ -804,11 +747,8 @@ Why does this experience matter?
 
 Why should I trust the method?
 
-```
 
----
-
-## Haidilao Toronto Downtown
+Haidilao Toronto Downtown
 
 Service
 
@@ -828,17 +768,13 @@ matter.
 
 Arrival pressure:
 
-```text
 
 How will I be supported
 
 inside the experience?
 
-```
 
----
-
-## ICHIRAN Shibuya
+ICHIRAN Shibuya
 
 System:
 
@@ -858,7 +794,6 @@ dominate.
 
 Arrival pressure:
 
-```text
 
 How does this unusual system work?
 
@@ -866,11 +801,8 @@ How does this unusual system work?
 
 What is my role?
 
-```
 
----
-
-## Din Tai Fung Covent Garden
+Din Tai Fung Covent Garden
 
 Product:
 
@@ -894,7 +826,6 @@ combine.
 
 Arrival pressure:
 
-```text
 
 What product do I already recognize?
 
@@ -906,11 +837,8 @@ What does this location add?
 
 How can I participate?
 
-```
 
----
-
-## Noma Copenhagen 2026
+Noma Copenhagen 2026
 
 Future:
 
@@ -936,7 +864,6 @@ matter.
 
 Arrival pressure:
 
-```text
 
 What am I committing to
 
@@ -944,11 +871,8 @@ when the future outcome
 
 is not fully fixed?
 
-```
 
----
-
-## Restaurant Pearl Morissette
+Restaurant Pearl Morissette
 
 Destination
 
@@ -972,7 +896,6 @@ combine.
 
 Arrival pressure:
 
-```text
 
 Can I trust how the product
 
@@ -984,11 +907,8 @@ Can I realistically complete
 
 the journey?
 
-```
 
----
-
-## Dans le Noir? London
+Dans le Noir? London
 
 Sensory:
 
@@ -1016,7 +936,6 @@ combine.
 
 Arrival pressure:
 
-```text
 
 Can I trust the system
 
@@ -1030,11 +949,8 @@ Do I understand the consequences
 
 without knowing the outcome?
 
-```
 
----
-
-# Comparison 2 — Arrival Begins With Guest Uncertainty
+Comparison 2 — Arrival Begins With Guest Uncertainty
 
 The strongest:
 
@@ -1042,7 +958,6 @@ cross-case:
 
 abstraction remains:
 
-```text
 
 Guest Intent
 
@@ -1062,7 +977,6 @@ Relevant Meaning / Utility / Evidence
 
 Appropriate Commitment
 
-```
 
 This:
 
@@ -1080,11 +994,8 @@ content:
 
 sequence.
 
----
+Correction
 
-# Correction
-
-```text
 
 Arrival Architecture
 
@@ -1092,7 +1003,6 @@ Arrival Architecture
 
 Homepage Section Order
 
-```
 
 KHDS:
 
@@ -1112,9 +1022,7 @@ page:
 
 layout.
 
----
-
-# Comparison 3 — Experience Familiarity Changes Explanation Need
+Comparison 3 — Experience Familiarity Changes Explanation Need
 
 ICHIRAN:
 
@@ -1206,9 +1114,8 @@ particular:
 
 destination.
 
-## Post–Pearl Relationship
+Post–Pearl Relationship
 
-```text
 
 Experience Familiarity
 
@@ -1224,13 +1131,10 @@ Destination Familiarity
 
 Explanation Need
 
-```
 
----
+New Arrival Variable — Destination Familiarity
 
-# New Arrival Variable — Destination Familiarity
-
-## Definition
+Definition
 
 The:
 
@@ -1266,7 +1170,7 @@ hospitality:
 
 experience.
 
-## Status
+Status
 
 Architecture Variable
 
@@ -1274,9 +1178,7 @@ Not:
 
 formal pattern.
 
----
-
-# Comparison 4 — Product Confidence Has Multiple Forms
+Comparison 4 — Product Confidence Has Multiple Forms
 
 Din Tai Fung:
 
@@ -1326,21 +1228,19 @@ that:
 
 distinction.
 
----
-
-# Product Specificity Confidence
+Product Specificity Confidence
 
 Question:
 
-> **Do I understand what the product will be?**
+Do I understand what the product will be?
 
 Strongest in:
 
-- Franklin Barbecue
+Franklin Barbecue
 
-- ICHIRAN
+ICHIRAN
 
-- Din Tai Fung
+Din Tai Fung
 
 where:
 
@@ -1354,33 +1254,28 @@ highly:
 
 legible.
 
----
-
-# Product Creation Confidence
+Product Creation Confidence
 
 Question:
 
-> **Do I understand and trust the conditions through which the product will be created?**
+Do I understand and trust the conditions through which the product will be created?
 
 Strongest pressure:
 
-- Noma
+Noma
 
-- Pearl Morissette
+Pearl Morissette
 
 Partial:
 
-- NARISAWA
+NARISAWA
 
-- FYN
+FYN
 
-- Alinea
+Alinea
 
----
+Correction
 
-# Correction
-
-```text
 
 Product Confidence
 
@@ -1388,11 +1283,9 @@ Product Confidence
 
 Exact Product Knowledge
 
-```
 
 and:
 
-```text
 
 Product Creation Confidence
 
@@ -1400,11 +1293,8 @@ Product Creation Confidence
 
 Future Product Prediction
 
-```
 
----
-
-# Comparison 5 — Variable Product Is Not Undefined Product
+Comparison 5 — Variable Product Is Not Undefined Product
 
 Pearl Morissette:
 
@@ -1438,23 +1328,22 @@ Potential:
 
 boundaries include:
 
-- format
+format
 
-- method
+method
 
-- season
+season
 
-- ingredient philosophy
+ingredient philosophy
 
-- region
+region
 
-- place
+place
 
-- operating logic
+operating logic
 
-## Canonical Comparison Correction
+Canonical Comparison Correction
 
-```text
 
 Variable Product
 
@@ -1462,11 +1351,9 @@ Variable Product
 
 Undefined Product
 
-```
 
 and:
 
-```text
 
 Variable Product
 
@@ -1474,11 +1361,8 @@ Variable Product
 
 Unbounded Expectation
 
-```
 
----
-
-# Comparison 6 — Uncertainty Types Must Stay Distinct
+Comparison 6 — Uncertainty Types Must Stay Distinct
 
 Current:
 
@@ -1488,9 +1372,7 @@ uncertainty:
 
 taxonomy:
 
----
-
-## Type 1 — Known and Published
+Type 1 — Known and Published
 
 Information:
 
@@ -1504,17 +1386,15 @@ available.
 
 Examples:
 
-- address
+address
 
-- service hours
+service hours
 
-- published menu
+published menu
 
-- reservation route
+reservation route
 
----
-
-## Type 2 — Known but Intentionally Unrevealed
+Type 2 — Known but Intentionally Unrevealed
 
 Information:
 
@@ -1532,9 +1412,7 @@ Strongest case:
 
 Alinea.
 
----
-
-## Type 3 — Operationally Variable
+Type 3 — Operationally Variable
 
 Information:
 
@@ -1560,19 +1438,17 @@ operations.
 
 Strong cases:
 
-- Franklin
+Franklin
 
-- Haidilao
+Haidilao
 
-- ICHIRAN
+ICHIRAN
 
-- Din Tai Fung
+Din Tai Fung
 
-- Pearl Morissette
+Pearl Morissette
 
----
-
-## Type 4 — Not Yet Fixed
+Type 4 — Not Yet Fixed
 
 The:
 
@@ -1594,9 +1470,7 @@ Strongest case:
 
 Noma.
 
----
-
-# Pearl Morissette Correction
+Pearl Morissette Correction
 
 Restaurant #15:
 
@@ -1608,7 +1482,6 @@ boundary:
 
 mandatory:
 
-```text
 
 Operationally Variable
 
@@ -1616,11 +1489,9 @@ Operationally Variable
 
 Not Yet Fixed
 
-```
 
 and:
 
-```text
 
 Variable
 
@@ -1628,11 +1499,8 @@ Variable
 
 Unknown
 
-```
 
----
-
-# Comparison 7 — Seasonal Variability Does Not Automatically Mean Future Outcome Uncertainty
+Comparison 7 — Seasonal Variability Does Not Automatically Mean Future Outcome Uncertainty
 
 Pearl Morissette:
 
@@ -1688,9 +1556,8 @@ operationally:
 
 formed.
 
-## Correction
+Correction
 
-```text
 
 Seasonal Variability
 
@@ -1698,7 +1565,6 @@ Seasonal Variability
 
 Not Yet Fixed
 
-```
 
 This:
 
@@ -1726,9 +1592,7 @@ future-state:
 
 case.
 
----
-
-# Comparison 8 — Expectation Clarity Does Not Require Outcome Specificity
+Comparison 8 — Expectation Clarity Does Not Require Outcome Specificity
 
 Noma:
 
@@ -1772,23 +1636,22 @@ still:
 
 understand:
 
-- experience format
+experience format
 
-- food logic
+food logic
 
-- place
+place
 
-- product boundaries
+product boundaries
 
-- method
+method
 
-- participation
+participation
 
-- commitment
+commitment
 
-## Correction
+Correction
 
-```text
 
 Expectation Clarity
 
@@ -1796,11 +1659,8 @@ Expectation Clarity
 
 Outcome Specificity
 
-```
 
----
-
-# Comparison 9 — Bounded Expectation Is Transferable Beyond Noma
+Comparison 9 — Bounded Expectation Is Transferable Beyond Noma
 
 A:
 
@@ -1830,7 +1690,7 @@ relevant:
 
 boundaries.
 
-### Noma
+Noma
 
 Boundaries:
 
@@ -1850,7 +1710,7 @@ operating:
 
 logic.
 
-### Pearl Morissette
+Pearl Morissette
 
 Boundaries:
 
@@ -1876,15 +1736,13 @@ and:
 
 place.
 
-## Architecture Direction
+Architecture Direction
 
 Bounded Expectation:
 
 Strongly Reinforced.
 
----
-
-# Comparison 10 — Capacity Proof Now Has Two Strong Arrival Cases
+Comparison 10 — Capacity Proof Now Has Two Strong Arrival Cases
 
 Capacity Proof:
 
@@ -1920,11 +1778,8 @@ arrival:
 
 support.
 
----
+Noma Capacity Architecture
 
-# Noma Capacity Architecture
-
-```text
 
 Future Product Uncertainty
 
@@ -1948,13 +1803,9 @@ Previous Capability
 
 Potential Future-Outcome Confidence
 
-```
 
----
+Pearl Morissette Capacity Architecture
 
-# Pearl Morissette Capacity Architecture
-
-```text
 
 Product Variability
 
@@ -1978,11 +1829,8 @@ Food / Wine Method
 
 Potential Product-Creation Confidence
 
-```
 
----
-
-# Cross-Case Finding
+Cross-Case Finding
 
 Capacity Proof:
 
@@ -2004,9 +1852,8 @@ future-product:
 
 condition.
 
-## Potential Relationship
+Potential Relationship
 
-```text
 
 Meaningful Product Uncertainty
 
@@ -2018,11 +1865,8 @@ Exact Outcome Proof Becomes Less Available
 
 Capacity Evidence Becomes More Relevant
 
-```
 
----
-
-# Capacity Proof Governance Pressure
+Capacity Proof Governance Pressure
 
 Entering Status:
 
@@ -2052,9 +1896,7 @@ canonical:
 
 governance reconciliation.
 
----
-
-# Comparison 11 — Capacity Proof Still Has an Authority Problem
+Comparison 11 — Capacity Proof Still Has an Authority Problem
 
 Noma:
 
@@ -2106,9 +1948,8 @@ of:
 
 reputation.
 
-## Correction
+Correction
 
-```text
 
 Capacity Proof
 
@@ -2116,7 +1957,6 @@ Capacity Proof
 
 Authority
 
-```
 
 But:
 
@@ -2130,7 +1970,7 @@ contain:
 
 both.
 
-## Future Research Need
+Future Research Need
 
 A:
 
@@ -2140,21 +1980,19 @@ restaurant
 
 with:
 
-- meaningful product variability
+meaningful product variability
 
-- substantial commitment
+substantial commitment
 
-- clear method
+clear method
 
-- strong capacity evidence
+strong capacity evidence
 
 remains:
 
 high-value.
 
----
-
-# Comparison 12 — Place Can Carry More Than One Arrival Function
+Comparison 12 — Place Can Carry More Than One Arrival Function
 
 Across:
 
@@ -2174,51 +2012,35 @@ arrival:
 
 roles.
 
----
-
-## Place as Hospitality Identity
+Place as Hospitality Identity
 
 Ankole.
 
----
-
-## Place as Heritage Context
+Place as Heritage Context
 
 Talisman.
 
----
-
-## Place as Cultural Memory
+Place as Cultural Memory
 
 Dishoom.
 
----
-
-## Place as Ecological Relationship
+Place as Ecological Relationship
 
 NARISAWA.
 
----
-
-## Place as Localized Brand Expression
+Place as Localized Brand Expression
 
 Din Tai Fung.
 
----
-
-## Place as Relational Context
+Place as Relational Context
 
 Noma.
 
----
-
-## Place as Productive Context
+Place as Productive Context
 
 Pearl Morissette.
 
----
-
-# Story Through Place Pressure
+Story Through Place Pressure
 
 Current Status:
 
@@ -2256,9 +2078,7 @@ are:
 
 complete.
 
----
-
-# Comparison 13 — Place as Productive Context Is Stronger Than Place as Operating Infrastructure
+Comparison 13 — Place as Productive Context Is Stronger Than Place as Operating Infrastructure
 
 Pearl Morissette:
 
@@ -2312,9 +2132,8 @@ operational:
 
 causality.
 
-## Correction
+Correction
 
-```text
 
 Place as Productive Context
 
@@ -2322,7 +2141,6 @@ Place as Productive Context
 
 Place as Operating Infrastructure
 
-```
 
 This:
 
@@ -2338,9 +2156,7 @@ post-Restaurant #15:
 
 governance.
 
----
-
-# Comparison 14 — Arrival Utility Can Be Hospitality Infrastructure
+Comparison 14 — Arrival Utility Can Be Hospitality Infrastructure
 
 Franklin:
 
@@ -2404,9 +2220,8 @@ hospitality:
 
 participation.
 
-## Cross-Case Correction
+Cross-Case Correction
 
-```text
 
 Utility
 
@@ -2414,11 +2229,9 @@ Utility
 
 Narrative Absence
 
-```
 
 and:
 
-```text
 
 Utility
 
@@ -2426,11 +2239,8 @@ Utility
 
 Secondary by Default
 
-```
 
----
-
-# Comparison 15 — Access Utility Has Multiple Forms
+Comparison 15 — Access Utility Has Multiple Forms
 
 Current:
 
@@ -2442,25 +2252,24 @@ subtypes:
 
 may include:
 
-- booking utility
+booking utility
 
-- walk-in utility
+walk-in utility
 
-- queue utility
+queue utility
 
-- waiting-state utility
+waiting-state utility
 
-- access-release utility
+access-release utility
 
-- location utility
+location utility
 
-- destination travel utility
+destination travel utility
 
-- physical entry utility
+physical entry utility
 
-## Important Boundary
+Important Boundary
 
-```text
 
 Access Utility
 
@@ -2468,7 +2277,6 @@ Access Utility
 
 Hospitality During Waiting
 
-```
 
 Utility:
 
@@ -2490,9 +2298,7 @@ into:
 
 hospitality.
 
----
-
-# Comparison 16 — Pearl Morissette Adds Destination Access Confidence
+Comparison 16 — Pearl Morissette Adds Destination Access Confidence
 
 Some:
 
@@ -2532,7 +2338,7 @@ experience.
 
 Question:
 
-> **Can I actually reach and recognize the place?**
+Can I actually reach and recognize the place?
 
 This:
 
@@ -2550,21 +2356,18 @@ participation:
 
 confidence.
 
-## Definition
+Definition
 
 Destination Access Confidence:
 
-> **Confidence that the guest understands how to reach, recognize, and enter a destination hospitality location.**
+Confidence that the guest understands how to reach, recognize, and enter a destination hospitality location.
 
-## Strongest Case
+Strongest Case
 
 Pearl Morissette.
 
----
+Correction
 
-# Correction
-
-```text
 
 Product Confidence
 
@@ -2572,11 +2375,8 @@ Product Confidence
 
 Destination Access Confidence
 
-```
 
----
-
-# Comparison 17 — Destination Difficulty Does Not Create Destination Value
+Comparison 17 — Destination Difficulty Does Not Create Destination Value
 
 Pearl Morissette:
 
@@ -2598,9 +2398,8 @@ romanticizing:
 
 difficulty.
 
-## Correction
+Correction
 
-```text
 
 Difficult to Reach
 
@@ -2608,7 +2407,6 @@ Difficult to Reach
 
 Destination Value
 
-```
 
 A:
 
@@ -2628,9 +2426,7 @@ hard:
 
 journey.
 
----
-
-# Comparison 18 — Destination Friction Increases Explanation Obligation
+Comparison 18 — Destination Friction Increases Explanation Obligation
 
 ICHIRAN:
 
@@ -2666,9 +2462,8 @@ adds:
 
 Destination Friction.
 
-## Updated Arrival Explanation Architecture
+Updated Arrival Explanation Architecture
 
-```text
 
 Experience Novelty
 
@@ -2700,7 +2495,6 @@ Relevant Guest Familiarity
 
 Explanation Obligation
 
-```
 
 This is:
 
@@ -2714,9 +2508,7 @@ formal:
 
 pattern.
 
----
-
-# Comparison 19 — The Guest May Need Multiple Confidence Types Simultaneously
+Comparison 19 — The Guest May Need Multiple Confidence Types Simultaneously
 
 Din Tai Fung:
 
@@ -2750,7 +2542,7 @@ adds:
 
 Destination Access Confidence.
 
-## Current Arrival Confidence Set
+Current Arrival Confidence Set
 
 Potential:
 
@@ -2758,25 +2550,25 @@ confidence:
 
 types include:
 
-- Product Specificity Confidence
+Product Specificity Confidence
 
-- Product Creation Confidence
+Product Creation Confidence
 
-- Place Confidence
+Place Confidence
 
-- Experience Confidence
+Experience Confidence
 
-- Participation Confidence
+Participation Confidence
 
-- Compatibility Confidence
+Compatibility Confidence
 
-- Destination Access Confidence
+Destination Access Confidence
 
-- Commitment Confidence
+Commitment Confidence
 
-- Institutional Confidence
+Institutional Confidence
 
-- Operating Logic Confidence
+Operating Logic Confidence
 
 Not every:
 
@@ -2790,11 +2582,8 @@ of:
 
 them.
 
----
+Correction
 
-# Correction
-
-```text
 
 Arrival Confidence
 
@@ -2802,11 +2591,8 @@ Arrival Confidence
 
 One Confidence Variable
 
-```
 
----
-
-# Comparison 20 — Commitment Level Is Also Multi-Dimensional
+Comparison 20 — Commitment Level Is Also Multi-Dimensional
 
 Post-Noma:
 
@@ -2838,9 +2624,8 @@ logistical:
 
 commitment.
 
-## Current Potential Commitment Dimensions
+Current Potential Commitment Dimensions
 
-```text
 
 Financial
 
@@ -2864,45 +2649,39 @@ Compatibility
 
 Participation
 
-```
 
 where:
 
 material.
 
----
+New Architecture Variable — Total Visit Commitment
 
-# New Architecture Variable — Total Visit Commitment
+Definition
 
-## Definition
-
-> **The total burden of commitment required to complete the hospitality visit rather than merely secure the booking.**
+The total burden of commitment required to complete the hospitality visit rather than merely secure the booking.
 
 Potential components:
 
-- reservation
+reservation
 
-- money
+money
 
-- travel
+travel
 
-- time
+time
 
-- planning
+planning
 
-- party coordination
+party coordination
 
-- compatibility constraints
+compatibility constraints
 
-## Strongest Case
+Strongest Case
 
 Pearl Morissette.
 
----
+Correction
 
-# Correction
-
-```text
 
 Commitment Level
 
@@ -2910,11 +2689,8 @@ Commitment Level
 
 Financial Commitment Only
 
-```
 
----
-
-# Comparison 21 — High Total Visit Commitment Does Not Prove High Financial Penalty
+Comparison 21 — High Total Visit Commitment Does Not Prove High Financial Penalty
 
 This:
 
@@ -2960,9 +2736,8 @@ or:
 
 low.
 
-## Correction
+Correction
 
-```text
 
 High Total Visit Commitment
 
@@ -2970,11 +2745,8 @@ High Total Visit Commitment
 
 High Cancellation Penalty
 
-```
 
----
-
-# Comparison 22 — Reservation Clarity Is Not Complete Arrival Clarity
+Comparison 22 — Reservation Clarity Is Not Complete Arrival Clarity
 
 Pearl Morissette:
 
@@ -3010,23 +2782,22 @@ still:
 
 need:
 
-- travel
+travel
 
-- route
+route
 
-- parking
+parking
 
-- physical recognition
+physical recognition
 
-- compatibility
+compatibility
 
-- local stay
+local stay
 
-- preparation
+preparation
 
-## Correction
+Correction
 
-```text
 
 Reservation Clarity
 
@@ -3034,11 +2805,8 @@ Reservation Clarity
 
 Complete Arrival Clarity
 
-```
 
----
-
-# Comparison 23 — Arrival Can Extend Beyond Booking Into Visit Preparation
+Comparison 23 — Arrival Can Extend Beyond Booking Into Visit Preparation
 
 This:
 
@@ -3086,7 +2854,6 @@ Pearl Morissette:
 
 introduces:
 
-```text
 
 Booking
 
@@ -3102,7 +2869,6 @@ Travel
 
 Physical Arrival
 
-```
 
 This:
 
@@ -3118,9 +2884,7 @@ of:
 
 Layered Arrival.
 
----
-
-# Comparison 24 — Physical Arrival Requires a Digital-to-Physical Handoff
+Comparison 24 — Physical Arrival Requires a Digital-to-Physical Handoff
 
 Pearl Morissette:
 
@@ -3150,7 +2914,6 @@ Potential:
 
 sequence:
 
-```text
 
 Address
 
@@ -3170,23 +2933,19 @@ Parking
 
 Property Entry
 
-```
 
-## Architecture Mechanism
+Architecture Mechanism
 
 Digital-to-Physical Participation Handoff
 
 Potential Homes:
 
-- Arrival
+Arrival
 
-- Hospitality System Proof
+Hospitality System Proof
 
----
+Correction
 
-# Correction
-
-```text
 
 Digital Reservation Complete
 
@@ -3194,11 +2953,8 @@ Digital Reservation Complete
 
 Physical Participation Ready
 
-```
 
----
-
-# Comparison 25 — Physical Landmarks Can Function as Arrival State Proof
+Comparison 25 — Physical Landmarks Can Function as Arrival State Proof
 
 Pearl Morissette's:
 
@@ -3224,11 +2980,10 @@ arrival:
 
 mechanism.
 
-## Architecture Mechanism
+Architecture Mechanism
 
 Arrival Landmark as State Proof
 
-```text
 
 Searching
 
@@ -3244,7 +2999,6 @@ Correct Property
 
 Entry
 
-```
 
 This:
 
@@ -3252,9 +3006,7 @@ remains:
 
 architecture-level.
 
----
-
-# Comparison 26 — Productive Context Can Reduce Abstractness Without Predicting Product
+Comparison 26 — Productive Context Can Reduce Abstractness Without Predicting Product
 
 Pearl Morissette:
 
@@ -3308,23 +3060,22 @@ concrete
 
 through:
 
-- place
+place
 
-- producers
+producers
 
-- season
+season
 
-- farm
+farm
 
-- garden
+garden
 
-- food logic
+food logic
 
-- wine logic
+wine logic
 
-## Correction
+Correction
 
-```text
 
 Productive Context
 
@@ -3332,7 +3083,6 @@ Productive Context
 
 Future Product Prediction
 
-```
 
 But:
 
@@ -3346,9 +3096,7 @@ support:
 
 Product Creation Confidence.
 
----
-
-# Comparison 27 — Story and Utility Can Operate Concurrently
+Comparison 27 — Story and Utility Can Operate Concurrently
 
 ICHIRAN:
 
@@ -3418,9 +3166,8 @@ visit:
 
 information.
 
-## Cross-Case Correction
+Cross-Case Correction
 
-```text
 
 Meaning
 
@@ -3430,7 +3177,6 @@ Utility
 
 need not be sequential
 
-```
 
 They may:
 
@@ -3438,9 +3184,7 @@ be:
 
 concurrent.
 
----
-
-# Comparison 28 — Story Before Features Does Not Mean Story Before Utility
+Comparison 28 — Story Before Features Does Not Mean Story Before Utility
 
 This:
 
@@ -3460,9 +3204,8 @@ Foundation / research:
 
 boundaries.
 
-## Correction
+Correction
 
-```text
 
 Story Before Features
 
@@ -3470,7 +3213,6 @@ Story Before Features
 
 Story Before Utility
 
-```
 
 Pearl Morissette:
 
@@ -3492,9 +3234,7 @@ to:
 
 participation.
 
----
-
-# Comparison 29 — Emotion Before Interface Does Not Mean Emotion Before Product or Access
+Comparison 29 — Emotion Before Interface Does Not Mean Emotion Before Product or Access
 
 Din Tai Fung:
 
@@ -3548,9 +3288,8 @@ is:
 
 useful.
 
-## Correction
+Correction
 
-```text
 
 Emotion Before Interface
 
@@ -3558,11 +3297,9 @@ Emotion Before Interface
 
 Emotion Before Product
 
-```
 
 and:
 
-```text
 
 Emotion Before Interface
 
@@ -3570,11 +3307,8 @@ Emotion Before Interface
 
 Emotion Before Access Utility
 
-```
 
----
-
-# Comparison 30 — Product Focus Can Reduce Narrative Burden
+Comparison 30 — Product Focus Can Reduce Narrative Burden
 
 Franklin
 
@@ -3650,9 +3384,8 @@ specific:
 
 item.
 
-## Correction
+Correction
 
-```text
 
 Product-Led Arrival
 
@@ -3660,11 +3393,8 @@ Product-Led Arrival
 
 Signature-Product Arrival
 
-```
 
----
-
-# Comparison 31 — Biography Remains Conditional
+Comparison 31 — Biography Remains Conditional
 
 FYN
 
@@ -3752,7 +3482,7 @@ biography:
 
 dominating.
 
-## Current Candidate
+Current Candidate
 
 Biography When It Explains the Experience:
 
@@ -3762,9 +3492,7 @@ No:
 
 change.
 
----
-
-# Comparison 32 — Heritage Is Not Required for Authority or Product Confidence
+Comparison 32 — Heritage Is Not Required for Authority or Product Confidence
 
 Talisman:
 
@@ -3828,9 +3556,8 @@ arrival:
 
 mechanism.
 
-## Correction
+Correction
 
-```text
 
 Authority
 
@@ -3838,11 +3565,8 @@ Authority
 
 Heritage Required
 
-```
 
----
-
-# Comparison 33 — Layered Arrival Receives Very Strong Additional Support
+Comparison 33 — Layered Arrival Receives Very Strong Additional Support
 
 Current Status:
 
@@ -3868,7 +3592,6 @@ Potential:
 
 layers:
 
-```text
 
 Destination Meaning
 
@@ -3900,7 +3623,6 @@ Compatibility
 
 Physical Entry
 
-```
 
 These:
 
@@ -3920,11 +3642,9 @@ different:
 
 uncertainties.
 
----
+Layered Arrival — Refined Definition
 
-# Layered Arrival — Refined Definition
-
-> **Arrival may require multiple distinct confidence carriers when no single type of meaning, utility, evidence, or explanation can sufficiently resolve the guest's relevant pre-participation uncertainties.**
+Arrival may require multiple distinct confidence carriers when no single type of meaning, utility, evidence, or explanation can sufficiently resolve the guest's relevant pre-participation uncertainties.
 
 This:
 
@@ -3944,9 +3664,8 @@ page:
 
 depth.
 
-## Core Boundary
+Core Boundary
 
-```text
 
 Layered Arrival
 
@@ -3954,11 +3673,8 @@ Layered Arrival
 
 More Sections
 
-```
 
----
-
-# Layered Arrival Governance Pressure
+Layered Arrival Governance Pressure
 
 Entering Status:
 
@@ -3986,9 +3702,7 @@ governance:
 
 reconciliation.
 
----
-
-# Comparison 34 — Multi-Intent Hospitality Is Not Universal
+Comparison 34 — Multi-Intent Hospitality Is Not Universal
 
 Din Tai Fung:
 
@@ -4040,9 +3754,8 @@ boundary:
 
 pressure.
 
-## Correction
+Correction
 
-```text
 
 Multiple Offers
 
@@ -4050,11 +3763,8 @@ Multiple Offers
 
 Multi-Intent Hospitality Dominates Arrival
 
-```
 
----
-
-# Comparison 35 — Walk-In Remains Context-Specific
+Comparison 35 — Walk-In Remains Context-Specific
 
 Strong:
 
@@ -4062,13 +3772,13 @@ walk-in:
 
 cases include:
 
-- Dishoom
+Dishoom
 
-- Franklin
+Franklin
 
-- ICHIRAN
+ICHIRAN
 
-- Din Tai Fung
+Din Tai Fung
 
 Pearl Morissette:
 
@@ -4084,7 +3794,7 @@ walk-in:
 
 evidence.
 
-## Current Candidate
+Current Candidate
 
 Walk-In as First-Class Participation:
 
@@ -4100,9 +3810,8 @@ and:
 
 no contradiction.
 
-## Correction
+Correction
 
-```text
 
 No Published Walk-In Evidence
 
@@ -4110,11 +3819,8 @@ No Published Walk-In Evidence
 
 Walk-In Impossible
 
-```
 
----
-
-# Comparison 36 — System Explanation Need Is Contextual
+Comparison 36 — System Explanation Need Is Contextual
 
 ICHIRAN:
 
@@ -4196,9 +3902,8 @@ visit:
 
 explanation.
 
-## Refined Relationship
+Refined Relationship
 
-```text
 
 System Novelty
 
@@ -4226,11 +3931,8 @@ Guest Familiarity
 
 Explanation Obligation
 
-```
 
----
-
-# Comparison 37 — Hospitality System Proof Can Begin at Arrival
+Comparison 37 — Hospitality System Proof Can Begin at Arrival
 
 ICHIRAN:
 
@@ -4266,7 +3968,7 @@ destination:
 
 handoff.
 
-## Current Candidate
+Current Candidate
 
 Hospitality System Proof:
 
@@ -4292,9 +3994,7 @@ inside:
 
 comparison.
 
----
-
-# Comparison 38 — Arrival Proof and Hospitality System Proof Must Stay Separate
+Comparison 38 — Arrival Proof and Hospitality System Proof Must Stay Separate
 
 A:
 
@@ -4346,9 +4046,8 @@ product:
 
 quality.
 
-## Correction
+Correction
 
-```text
 
 Arrival Proof
 
@@ -4356,7 +4055,6 @@ Arrival Proof
 
 Hospitality System Proof
 
-```
 
 Claim:
 
@@ -4368,9 +4066,7 @@ remain:
 
 clear.
 
----
-
-# Comparison 39 — Capacity Proof and Hospitality System Proof Are Distinct
+Comparison 39 — Capacity Proof and Hospitality System Proof Are Distinct
 
 Pearl Morissette:
 
@@ -4382,21 +4078,17 @@ particularly:
 
 clear.
 
-### Capacity Proof
+Capacity Proof
 
-```text
 
 Can this restaurant plausibly create the future product?
 
-```
 
-### Hospitality System Proof
+Hospitality System Proof
 
-```text
 
 Can I understand how to participate in the hospitality system?
 
-```
 
 Both:
 
@@ -4408,9 +4100,8 @@ before:
 
 commitment.
 
-## Correction
+Correction
 
-```text
 
 Capacity Proof
 
@@ -4418,11 +4109,8 @@ Capacity Proof
 
 Hospitality System Proof
 
-```
 
----
-
-# Comparison 40 — Product Confidence and Participation Confidence Remain Distinct
+Comparison 40 — Product Confidence and Participation Confidence Remain Distinct
 
 Din Tai Fung:
 
@@ -4480,9 +4168,8 @@ the:
 
 property.
 
-## Correction
+Correction
 
-```text
 
 Product Confidence
 
@@ -4490,11 +4177,8 @@ Product Confidence
 
 Participation Confidence
 
-```
 
----
-
-# Comparison 41 — Place Confidence and Destination Access Confidence Are Also Distinct
+Comparison 41 — Place Confidence and Destination Access Confidence Are Also Distinct
 
 A:
 
@@ -4524,9 +4208,8 @@ get:
 
 there.
 
-## Correction
+Correction
 
-```text
 
 Place Confidence
 
@@ -4534,7 +4217,6 @@ Place Confidence
 
 Destination Access Confidence
 
-```
 
 This:
 
@@ -4548,9 +4230,7 @@ Restaurant #15:
 
 distinction.
 
----
-
-# Comparison 42 — Arrival Confidence Is Modular
+Comparison 42 — Arrival Confidence Is Modular
 
 Current:
 
@@ -4578,7 +4258,6 @@ Potential:
 
 modules:
 
-```text
 
 Product
 
@@ -4598,7 +4277,6 @@ Institution
 
 Operating Logic
 
-```
 
 The:
 
@@ -4616,9 +4294,8 @@ relevant:
 
 ones.
 
-## Correction
+Correction
 
-```text
 
 More Confidence Modules
 
@@ -4626,21 +4303,18 @@ More Confidence Modules
 
 Better Arrival
 
-```
 
 Use:
 
 Minimum Sufficient Arrival.
 
----
+New Architecture Direction — Minimum Sufficient Arrival
 
-# New Architecture Direction — Minimum Sufficient Arrival
+Definition
 
-## Definition
+Arrival should resolve the smallest set of material uncertainties necessary for an appropriate guest decision without over-explaining the experience.
 
-> **Arrival should resolve the smallest set of material uncertainties necessary for an appropriate guest decision without over-explaining the experience.**
-
-## Status
+Status
 
 Architecture Direction
 
@@ -4656,9 +4330,7 @@ as:
 
 pattern.
 
----
-
-# Comparison 43 — Over-Explanation Can Damage Arrival
+Comparison 43 — Over-Explanation Can Damage Arrival
 
 Alinea:
 
@@ -4724,23 +4396,17 @@ question
 
 is not:
 
-```text
 
 How much should we explain?
 
-```
 
 but:
 
-```text
 
 What uncertainty must be resolved?
 
-```
 
----
-
-# Comparison 44 — Arrival Explanation Depth Should Follow Consequence
+Comparison 44 — Arrival Explanation Depth Should Follow Consequence
 
 Higher:
 
@@ -4776,9 +4442,8 @@ complete:
 
 revelation.
 
-## Relationship
+Relationship
 
-```text
 
 Commitment Consequence
 
@@ -4790,15 +4455,12 @@ Uncertainty
 
 Required Explanation Depth
 
-```
 
 where:
 
 relevant.
 
----
-
-# Comparison 45 — Destination Hospitality Adds Logistical Consequence
+Comparison 45 — Destination Hospitality Adds Logistical Consequence
 
 Pearl Morissette:
 
@@ -4842,9 +4504,8 @@ the:
 
 property.
 
-## Correction
+Correction
 
-```text
 
 Participation Consequence
 
@@ -4852,11 +4513,8 @@ Participation Consequence
 
 Financial Consequence Only
 
-```
 
----
-
-# Comparison 46 — Total Visit Commitment May Be More Useful Than Booking Commitment in Some Cases
+Comparison 46 — Total Visit Commitment May Be More Useful Than Booking Commitment in Some Cases
 
 For:
 
@@ -4906,9 +4564,8 @@ the:
 
 decision.
 
-## Potential Relationship
+Potential Relationship
 
-```text
 
 Total Visit Commitment
 
@@ -4926,13 +4583,10 @@ Material Compatibility Commitment
 
 where relevant
 
-```
 
 Architecture only.
 
----
-
-# Comparison 47 — Destination Access Confidence Should Remain Contextual
+Comparison 47 — Destination Access Confidence Should Remain Contextual
 
 Most:
 
@@ -4984,9 +4638,8 @@ wayfinding:
 
 conditions.
 
-## Boundary
+Boundary
 
-```text
 
 Every Restaurant
 
@@ -4994,15 +4647,12 @@ Every Restaurant
 
 Destination Access Problem
 
-```
 
 Do not:
 
 universalize.
 
----
-
-# Comparison 48 — Rooted Destination and Designed Escape Are Different
+Comparison 48 — Rooted Destination and Designed Escape Are Different
 
 Mawimbi:
 
@@ -5026,7 +4676,7 @@ destination:
 
 logic.
 
-### Designed Escape
+Designed Escape
 
 Distinctiveness:
 
@@ -5042,7 +4692,7 @@ ordinary:
 
 context.
 
-### Rooted Destination
+Rooted Destination
 
 Distinctiveness:
 
@@ -5058,9 +4708,8 @@ actual:
 
 place.
 
-## Correction
+Correction
 
-```text
 
 Destination Value
 
@@ -5068,7 +4717,6 @@ Destination Value
 
 Designed Escape
 
-```
 
 This:
 
@@ -5084,9 +4732,7 @@ and:
 
 atmosphere.
 
----
-
-# Comparison 49 — Arrival Can Introduce Participation Before Physical Presence
+Comparison 49 — Arrival Can Introduce Participation Before Physical Presence
 
 ICHIRAN:
 
@@ -5126,9 +4772,8 @@ supports:
 
 Participation Throughout the Journey.
 
-## Potential Sequence
+Potential Sequence
 
-```text
 
 Intent
 
@@ -5152,11 +4797,8 @@ Arrival
 
 Participation
 
-```
 
----
-
-# Participation Throughout the Journey Pressure
+Participation Throughout the Journey Pressure
 
 Entering Status:
 
@@ -5192,9 +4834,7 @@ arrival:
 
 alone.
 
----
-
-# Comparison 50 — Arrival and Reservation Are Related but Not Identical
+Comparison 50 — Arrival and Reservation Are Related but Not Identical
 
 The:
 
@@ -5252,9 +4892,8 @@ crosses:
 
 both.
 
-## Correction
+Correction
 
-```text
 
 Arrival Architecture
 
@@ -5262,7 +4901,6 @@ Arrival Architecture
 
 Reservation Architecture
 
-```
 
 Shared variables:
 
@@ -5276,13 +4914,9 @@ the:
 
 dimensions.
 
----
+Current Arrival Pattern Pressure
 
-# Current Arrival Pattern Pressure
-
----
-
-# Layered Arrival
+Layered Arrival
 
 Status:
 
@@ -5298,7 +4932,6 @@ Candidate Review Warranted
 
 Primary Boundary:
 
-```text
 
 Layered Arrival
 
@@ -5306,11 +4939,8 @@ Layered Arrival
 
 More Sections
 
-```
 
----
-
-# Promise Before Proof
+Promise Before Proof
 
 Status:
 
@@ -5350,9 +4980,7 @@ alongside:
 
 Capacity Proof.
 
----
-
-# Story Through Place
+Story Through Place
 
 Status:
 
@@ -5376,9 +5004,7 @@ comparison:
 
 dimensions.
 
----
-
-# Show the System Behind the Plate
+Show the System Behind the Plate
 
 Status:
 
@@ -5404,9 +5030,7 @@ change:
 
 needed.
 
----
-
-# Hospitality System Proof
+Hospitality System Proof
 
 Status:
 
@@ -5434,9 +5058,7 @@ formal:
 
 change.
 
----
-
-# Multi-Intent Hospitality
+Multi-Intent Hospitality
 
 Status:
 
@@ -5456,9 +5078,7 @@ from:
 
 arrival.
 
----
-
-# Commitment Without Pressure
+Commitment Without Pressure
 
 Status:
 
@@ -5484,9 +5104,7 @@ established.
 
 No change.
 
----
-
-# Walk-In as First-Class Participation
+Walk-In as First-Class Participation
 
 Status:
 
@@ -5498,9 +5116,7 @@ Neutral / Unproven
 
 No change.
 
----
-
-# Capacity Proof
+Capacity Proof
 
 Status:
 
@@ -5512,9 +5128,9 @@ Very Strong
 
 Cross-Case Strong Support:
 
-- Noma
+Noma
 
-- Pearl Morissette
+Pearl Morissette
 
 Candidate Review:
 
@@ -5530,9 +5146,7 @@ inside:
 
 comparison.
 
----
-
-# Stable Participation / Variable Product
+Stable Participation / Variable Product
 
 Status:
 
@@ -5560,63 +5174,61 @@ Reservation / Participation:
 
 comparison.
 
----
-
-# Arrival Architecture Variables — Current
+Arrival Architecture Variables — Current
 
 Post–Pearl Morissette:
 
 arrival architecture now includes:
 
-- Brand Familiarity
+Brand Familiarity
 
-- Experience Familiarity
+Experience Familiarity
 
-- Participation Familiarity
+Participation Familiarity
 
-- Destination Familiarity
+Destination Familiarity
 
-- Product Familiarity
+Product Familiarity
 
-- Product Specificity Confidence
+Product Specificity Confidence
 
-- Product Creation Confidence
+Product Creation Confidence
 
-- Place Confidence
+Place Confidence
 
-- Experience Confidence
+Experience Confidence
 
-- Participation Confidence
+Participation Confidence
 
-- Compatibility Confidence
+Compatibility Confidence
 
-- Destination Access Confidence
+Destination Access Confidence
 
-- Commitment Confidence
+Commitment Confidence
 
-- Institutional Confidence
+Institutional Confidence
 
-- Operating Logic Confidence
+Operating Logic Confidence
 
-- Expectation Range
+Expectation Range
 
-- Uncertainty Type
+Uncertainty Type
 
-- Future Outcome Uncertainty
+Future Outcome Uncertainty
 
-- Operational Product Variability
+Operational Product Variability
 
-- Access Window
+Access Window
 
-- Temporal State
+Temporal State
 
-- Evidence Freshness
+Evidence Freshness
 
-- Identity Invariant
+Identity Invariant
 
-- Total Visit Commitment
+Total Visit Commitment
 
-- Explanation Obligation
+Explanation Obligation
 
 These:
 
@@ -5632,11 +5244,9 @@ formal:
 
 patterns.
 
----
+Arrival Uncertainty Taxonomy — Current
 
-# Arrival Uncertainty Taxonomy — Current
-
-## 1. Known and Published
+1. Known and Published
 
 The:
 
@@ -5650,9 +5260,7 @@ is:
 
 available.
 
----
-
-## 2. Known but Intentionally Unrevealed
+2. Known but Intentionally Unrevealed
 
 The:
 
@@ -5678,9 +5286,7 @@ Strongest case:
 
 Alinea.
 
----
-
-## 3. Operationally Variable
+3. Operationally Variable
 
 The:
 
@@ -5706,19 +5312,17 @@ operations.
 
 Strong cases:
 
-- Franklin
+Franklin
 
-- Haidilao
+Haidilao
 
-- ICHIRAN
+ICHIRAN
 
-- Din Tai Fung
+Din Tai Fung
 
-- Pearl Morissette
+Pearl Morissette
 
----
-
-## 4. Not Yet Fixed
+4. Not Yet Fixed
 
 The:
 
@@ -5740,11 +5344,8 @@ Strongest case:
 
 Noma.
 
----
+Uncertainty Corrections
 
-# Uncertainty Corrections
-
-```text
 
 Unknown
 
@@ -5752,9 +5353,7 @@ Unknown
 
 Hidden
 
-```
 
-```text
 
 Variable
 
@@ -5762,9 +5361,7 @@ Variable
 
 Unknown
 
-```
 
-```text
 
 Seasonal Variability
 
@@ -5772,9 +5369,7 @@ Seasonal Variability
 
 Not Yet Fixed
 
-```
 
-```text
 
 Operationally Variable
 
@@ -5782,9 +5377,7 @@ Operationally Variable
 
 Not Yet Fixed
 
-```
 
-```text
 
 Uncertainty
 
@@ -5792,11 +5385,8 @@ Uncertainty
 
 Ambiguity
 
-```
 
----
-
-# Arrival Confidence Taxonomy — Current
+Arrival Confidence Taxonomy — Current
 
 Potential:
 
@@ -5804,9 +5394,7 @@ confidence:
 
 types:
 
----
-
-## Product Specificity Confidence
+Product Specificity Confidence
 
 Do I:
 
@@ -5820,9 +5408,7 @@ product:
 
 is?
 
----
-
-## Product Creation Confidence
+Product Creation Confidence
 
 Do I:
 
@@ -5842,9 +5428,7 @@ be:
 
 created?
 
----
-
-## Place Confidence
+Place Confidence
 
 Do I:
 
@@ -5858,9 +5442,7 @@ place
 
 matters?
 
----
-
-## Experience Confidence
+Experience Confidence
 
 Do I:
 
@@ -5880,9 +5462,7 @@ this:
 
 is?
 
----
-
-## Participation Confidence
+Participation Confidence
 
 Do I:
 
@@ -5894,9 +5474,7 @@ to:
 
 take part?
 
----
-
-## Compatibility Confidence
+Compatibility Confidence
 
 Do I:
 
@@ -5922,9 +5500,7 @@ or:
 
 constraints?
 
----
-
-## Destination Access Confidence
+Destination Access Confidence
 
 Do I:
 
@@ -5948,9 +5524,7 @@ physical:
 
 destination?
 
----
-
-## Commitment Confidence
+Commitment Confidence
 
 Do I:
 
@@ -5964,9 +5538,7 @@ committing:
 
 to?
 
----
-
-## Institutional Confidence
+Institutional Confidence
 
 Do I:
 
@@ -5986,9 +5558,7 @@ the:
 
 experience?
 
----
-
-## Operating Logic Confidence
+Operating Logic Confidence
 
 Do I:
 
@@ -6012,11 +5582,8 @@ the:
 
 experience?
 
----
+Important Confidence Correction
 
-# Important Confidence Correction
-
-```text
 
 Confidence Types
 
@@ -6024,7 +5591,6 @@ Confidence Types
 
 Sequential Stages
 
-```
 
 The:
 
@@ -6038,9 +5604,7 @@ several:
 
 simultaneously.
 
----
-
-# Arrival Mechanisms — Current
+Arrival Mechanisms — Current
 
 Current:
 
@@ -6054,45 +5618,45 @@ across:
 
 research include:
 
-- Place Meaning
+Place Meaning
 
-- Heritage
+Heritage
 
-- Biography
+Biography
 
-- Worldview
+Worldview
 
-- Product Recognition
+Product Recognition
 
-- Craft Authority
+Craft Authority
 
-- Narrative
+Narrative
 
-- System Explanation
+System Explanation
 
-- Participation Explanation
+Participation Explanation
 
-- Reservation Utility
+Reservation Utility
 
-- Walk-In Utility
+Walk-In Utility
 
-- Queue Utility
+Queue Utility
 
-- Operational Transparency
+Operational Transparency
 
-- Institutional Proof
+Institutional Proof
 
-- Productive Context
+Productive Context
 
-- Capacity Evidence
+Capacity Evidence
 
-- Travel Utility
+Travel Utility
 
-- Physical Landmark
+Physical Landmark
 
-- Compatibility Explanation
+Compatibility Explanation
 
-- Bounded Expectation
+Bounded Expectation
 
 Not every:
 
@@ -6102,53 +5666,39 @@ requires:
 
 all.
 
----
+Post–Pearl Morissette New Arrival Architecture
 
-# Post–Pearl Morissette New Arrival Architecture
-
----
-
-# Destination Familiarity
+Destination Familiarity
 
 Status:
 
 Architecture Variable
 
----
-
-# Destination Access Confidence
+Destination Access Confidence
 
 Status:
 
 Architecture Variable
 
----
-
-# Total Visit Commitment
+Total Visit Commitment
 
 Status:
 
 Architecture Variable
 
----
-
-# Minimum Sufficient Arrival
+Minimum Sufficient Arrival
 
 Status:
 
 Architecture Direction
 
----
-
-# Arrival Landmark as State Proof
+Arrival Landmark as State Proof
 
 Status:
 
 Architecture Mechanism
 
----
-
-# Digital-to-Physical Participation Handoff
+Digital-to-Physical Participation Handoff
 
 Status:
 
@@ -6162,9 +5712,7 @@ and:
 
 Hospitality System Proof.
 
----
-
-# Place as Productive Context
+Place as Productive Context
 
 Status:
 
@@ -6178,9 +5726,7 @@ Restaurant #15:
 
 support.
 
----
-
-# Operational Product Variability
+Operational Product Variability
 
 Status:
 
@@ -6190,13 +5736,9 @@ Distinct from:
 
 Not Yet Fixed.
 
----
+Arrival Deduplication Decisions
 
-# Arrival Deduplication Decisions
-
----
-
-# Destination Access Confidence
+Destination Access Confidence
 
 Do not:
 
@@ -6212,9 +5754,7 @@ confidence:
 
 variable.
 
----
-
-# Total Visit Commitment
+Total Visit Commitment
 
 Do not:
 
@@ -6230,9 +5770,7 @@ commitment:
 
 variable.
 
----
-
-# Arrival Landmark as State Proof
+Arrival Landmark as State Proof
 
 Do not:
 
@@ -6250,9 +5788,7 @@ inside:
 
 Arrival / Access Utility.
 
----
-
-# Place as Productive Context
+Place as Productive Context
 
 Do not:
 
@@ -6264,17 +5800,15 @@ pattern.
 
 Potential Homes:
 
-- Story Through Place
+Story Through Place
 
-- Story Through Hospitality Model
+Story Through Hospitality Model
 
-- Capacity Proof
+Capacity Proof
 
-- Atmosphere Through Worldview
+Atmosphere Through Worldview
 
----
-
-# Capacity Evidence
+Capacity Evidence
 
 Do not:
 
@@ -6294,7 +5828,6 @@ is:
 
 potentially:
 
-```text
 
 Promise Before Proof
 
@@ -6302,7 +5835,6 @@ Promise Before Proof
 
 Capacity Proof
 
-```
 
 where:
 
@@ -6316,9 +5848,7 @@ is:
 
 limited.
 
----
-
-# Layered Arrival
+Layered Arrival
 
 Do not:
 
@@ -6328,7 +5858,7 @@ into:
 
 Multi-Intent Hospitality.
 
-### Layered Arrival
+Layered Arrival
 
 Multiple:
 
@@ -6336,7 +5866,7 @@ confidence:
 
 needs.
 
-### Multi-Intent Hospitality
+Multi-Intent Hospitality
 
 Multiple:
 
@@ -6346,9 +5876,8 @@ intent:
 
 routes.
 
-## Correction
+Correction
 
-```text
 
 Layered Arrival
 
@@ -6356,17 +5885,11 @@ Layered Arrival
 
 Multi-Intent Hospitality
 
-```
 
----
+Arrival Corrections — Post Restaurant #15
 
-# Arrival Corrections — Post Restaurant #15
+Correction 1
 
----
-
-## Correction 1
-
-```text
 
 Arrival Architecture
 
@@ -6374,13 +5897,9 @@ Arrival Architecture
 
 Homepage Section Order
 
-```
 
----
+Correction 2
 
-## Correction 2
-
-```text
 
 Product Confidence
 
@@ -6388,13 +5907,9 @@ Product Confidence
 
 Exact Product Knowledge
 
-```
 
----
+Correction 3
 
-## Correction 3
-
-```text
 
 Product Creation Confidence
 
@@ -6402,13 +5917,9 @@ Product Creation Confidence
 
 Future Product Prediction
 
-```
 
----
+Correction 4
 
-## Correction 4
-
-```text
 
 Variable Product
 
@@ -6416,13 +5927,9 @@ Variable Product
 
 Undefined Product
 
-```
 
----
+Correction 5
 
-## Correction 5
-
-```text
 
 Variable Product
 
@@ -6430,13 +5937,9 @@ Variable Product
 
 Unbounded Expectation
 
-```
 
----
+Correction 6
 
-## Correction 6
-
-```text
 
 Operationally Variable
 
@@ -6444,13 +5947,9 @@ Operationally Variable
 
 Not Yet Fixed
 
-```
 
----
+Correction 7
 
-## Correction 7
-
-```text
 
 Variable
 
@@ -6458,13 +5957,9 @@ Variable
 
 Unknown
 
-```
 
----
+Correction 8
 
-## Correction 8
-
-```text
 
 Seasonal Variability
 
@@ -6472,13 +5967,9 @@ Seasonal Variability
 
 Not Yet Fixed
 
-```
 
----
+Correction 9
 
-## Correction 9
-
-```text
 
 Expectation Clarity
 
@@ -6486,13 +5977,9 @@ Expectation Clarity
 
 Outcome Specificity
 
-```
 
----
+Correction 10
 
-## Correction 10
-
-```text
 
 Capacity Proof
 
@@ -6500,13 +5987,9 @@ Capacity Proof
 
 Authority
 
-```
 
----
+Correction 11
 
-## Correction 11
-
-```text
 
 Place as Productive Context
 
@@ -6514,13 +5997,9 @@ Place as Productive Context
 
 Place as Operating Infrastructure
 
-```
 
----
+Correction 12
 
-## Correction 12
-
-```text
 
 Utility
 
@@ -6528,13 +6007,9 @@ Utility
 
 Narrative Absence
 
-```
 
----
+Correction 13
 
-## Correction 13
-
-```text
 
 Access Utility
 
@@ -6542,13 +6017,9 @@ Access Utility
 
 Hospitality During Waiting
 
-```
 
----
+Correction 14
 
-## Correction 14
-
-```text
 
 Product Confidence
 
@@ -6556,13 +6027,9 @@ Product Confidence
 
 Destination Access Confidence
 
-```
 
----
+Correction 15
 
-## Correction 15
-
-```text
 
 Place Confidence
 
@@ -6570,13 +6037,9 @@ Place Confidence
 
 Destination Access Confidence
 
-```
 
----
+Correction 16
 
-## Correction 16
-
-```text
 
 Difficult to Reach
 
@@ -6584,13 +6047,9 @@ Difficult to Reach
 
 Destination Value
 
-```
 
----
+Correction 17
 
-## Correction 17
-
-```text
 
 Commitment Level
 
@@ -6598,13 +6057,9 @@ Commitment Level
 
 Financial Commitment Only
 
-```
 
----
+Correction 18
 
-## Correction 18
-
-```text
 
 High Total Visit Commitment
 
@@ -6612,13 +6067,9 @@ High Total Visit Commitment
 
 High Cancellation Penalty
 
-```
 
----
+Correction 19
 
-## Correction 19
-
-```text
 
 Reservation Clarity
 
@@ -6626,13 +6077,9 @@ Reservation Clarity
 
 Complete Arrival Clarity
 
-```
 
----
+Correction 20
 
-## Correction 20
-
-```text
 
 Digital Reservation Complete
 
@@ -6640,13 +6087,9 @@ Digital Reservation Complete
 
 Physical Participation Ready
 
-```
 
----
+Correction 21
 
-## Correction 21
-
-```text
 
 Meaning
 
@@ -6656,13 +6099,9 @@ Utility
 
 need not be sequential
 
-```
 
----
+Correction 22
 
-## Correction 22
-
-```text
 
 Story Before Features
 
@@ -6670,13 +6109,9 @@ Story Before Features
 
 Story Before Utility
 
-```
 
----
+Correction 23
 
-## Correction 23
-
-```text
 
 Emotion Before Interface
 
@@ -6684,13 +6119,9 @@ Emotion Before Interface
 
 Emotion Before Product
 
-```
 
----
+Correction 24
 
-## Correction 24
-
-```text
 
 Emotion Before Interface
 
@@ -6698,13 +6129,9 @@ Emotion Before Interface
 
 Emotion Before Access Utility
 
-```
 
----
+Correction 25
 
-## Correction 25
-
-```text
 
 Product-Led Arrival
 
@@ -6712,13 +6139,9 @@ Product-Led Arrival
 
 Signature-Product Arrival
 
-```
 
----
+Correction 26
 
-## Correction 26
-
-```text
 
 Authority
 
@@ -6726,13 +6149,9 @@ Authority
 
 Heritage Required
 
-```
 
----
+Correction 27
 
-## Correction 27
-
-```text
 
 Layered Arrival
 
@@ -6740,13 +6159,9 @@ Layered Arrival
 
 More Sections
 
-```
 
----
+Correction 28
 
-## Correction 28
-
-```text
 
 Multiple Offers
 
@@ -6754,13 +6169,9 @@ Multiple Offers
 
 Multi-Intent Hospitality Dominates Arrival
 
-```
 
----
+Correction 29
 
-## Correction 29
-
-```text
 
 No Published Walk-In Evidence
 
@@ -6768,13 +6179,9 @@ No Published Walk-In Evidence
 
 Walk-In Impossible
 
-```
 
----
+Correction 30
 
-## Correction 30
-
-```text
 
 Capacity Proof
 
@@ -6782,13 +6189,9 @@ Capacity Proof
 
 Hospitality System Proof
 
-```
 
----
+Correction 31
 
-## Correction 31
-
-```text
 
 Product Confidence
 
@@ -6796,13 +6199,9 @@ Product Confidence
 
 Participation Confidence
 
-```
 
----
+Correction 32
 
-## Correction 32
-
-```text
 
 More Confidence Modules
 
@@ -6810,13 +6209,9 @@ More Confidence Modules
 
 Better Arrival
 
-```
 
----
+Correction 33
 
-## Correction 33
-
-```text
 
 Destination Value
 
@@ -6824,13 +6219,9 @@ Destination Value
 
 Designed Escape
 
-```
 
----
+Correction 34
 
-## Correction 34
-
-```text
 
 Arrival Architecture
 
@@ -6838,13 +6229,9 @@ Arrival Architecture
 
 Reservation Architecture
 
-```
 
----
+Correction 35
 
-## Correction 35
-
-```text
 
 Layered Arrival
 
@@ -6852,37 +6239,29 @@ Layered Arrival
 
 Multi-Intent Hospitality
 
-```
 
----
+Strongest Arrival Tensions After Restaurant #15
 
-# Strongest Arrival Tensions After Restaurant #15
-
----
-
-# Tension 1 — Product Specificity vs Product Creation Confidence
+Tension 1 — Product Specificity vs Product Creation Confidence
 
 Question:
 
-> **How much exact product information is necessary when the method and productive capacity are strongly explained?**
+How much exact product information is necessary when the method and productive capacity are strongly explained?
 
 Strong cases:
 
-- Noma
+Noma
 
-- Pearl Morissette
+Pearl Morissette
 
----
-
-# Tension 2 — Operational Variability vs Not-Yet-Fixed Product
+Tension 2 — Operational Variability vs Not-Yet-Fixed Product
 
 Question:
 
-> **When is a future product genuinely not yet fixed, and when is it simply variable within a known operating system?**
+When is a future product genuinely not yet fixed, and when is it simply variable within a known operating system?
 
 Strongest contrast:
 
-```text
 
 Noma
 
@@ -6890,31 +6269,26 @@ vs
 
 Pearl Morissette
 
-```
 
----
-
-# Tension 3 — Place Meaning vs Productive Context
+Tension 3 — Place Meaning vs Productive Context
 
 Question:
 
-> **When does place simply explain identity, and when does it also help explain how the product can exist?**
+When does place simply explain identity, and when does it also help explain how the product can exist?
 
 Strong cases:
 
-- NARISAWA
+NARISAWA
 
-- Noma
+Noma
 
-- Pearl Morissette
+Pearl Morissette
 
----
-
-# Tension 4 — Capacity Proof vs Authority
+Tension 4 — Capacity Proof vs Authority
 
 Question:
 
-> **Would the same capacity evidence remain persuasive if institutional recognition were significantly weaker?**
+Would the same capacity evidence remain persuasive if institutional recognition were significantly weaker?
 
 Highest-priority:
 
@@ -6924,53 +6298,45 @@ arrival:
 
 falsification.
 
----
-
-# Tension 5 — Reservation Commitment vs Total Visit Commitment
+Tension 5 — Reservation Commitment vs Total Visit Commitment
 
 Question:
 
-> **When should the journey required to complete the visit affect the arrival commitment model?**
+When should the journey required to complete the visit affect the arrival commitment model?
 
 Strongest case:
 
 Pearl Morissette.
 
----
-
-# Tension 6 — Destination Value vs Destination Friction
+Tension 6 — Destination Value vs Destination Friction
 
 Question:
 
-> **How much access friction can be treated as ordinary geography before stronger hospitality explanation becomes necessary?**
+How much access friction can be treated as ordinary geography before stronger hospitality explanation becomes necessary?
 
 Strongest case:
 
 Pearl Morissette.
 
----
-
-# Tension 7 — Meaning vs Utility
+Tension 7 — Meaning vs Utility
 
 Question:
 
-> **When should story, product meaning, system explanation, and practical utility appear simultaneously rather than sequentially?**
+When should story, product meaning, system explanation, and practical utility appear simultaneously rather than sequentially?
 
 Strong cases:
 
-- ICHIRAN
+ICHIRAN
 
-- Din Tai Fung
+Din Tai Fung
 
-- Pearl Morissette
+Pearl Morissette
 
----
-
-# Tension 8 — Layered Arrival vs Over-Explanation
+Tension 8 — Layered Arrival vs Over-Explanation
 
 Question:
 
-> **How many confidence layers are actually necessary before arrival becomes bloated rather than helpful?**
+How many confidence layers are actually necessary before arrival becomes bloated rather than helpful?
 
 Relevant:
 
@@ -6980,37 +6346,31 @@ high-complexity:
 
 restaurants.
 
----
-
-# Tension 9 — Familiarity vs Explanation Obligation
+Tension 9 — Familiarity vs Explanation Obligation
 
 Question:
 
-> **How much explanation should disappear when guests already understand the product, participation model, or destination?**
+How much explanation should disappear when guests already understand the product, participation model, or destination?
 
 Strong cases:
 
-- ICHIRAN
+ICHIRAN
 
-- Din Tai Fung
+Din Tai Fung
 
-- Pearl Morissette
+Pearl Morissette
 
----
-
-# Tension 10 — Digital Arrival vs Physical Arrival
+Tension 10 — Digital Arrival vs Physical Arrival
 
 Question:
 
-> **Where does digital preparation end and physical hospitality begin?**
+Where does digital preparation end and physical hospitality begin?
 
 Strongest case:
 
 Pearl Morissette.
 
----
-
-# Candidate Review Queue — Arrival Dimension
+Candidate Review Queue — Arrival Dimension
 
 The following:
 
@@ -7038,9 +6398,7 @@ are:
 
 complete.
 
----
-
-# 1. Capacity Proof
+1. Capacity Proof
 
 Current:
 
@@ -7058,7 +6416,7 @@ Reason:
 
 Noma
 
-+
+
 
 Pearl Morissette
 
@@ -7076,9 +6434,7 @@ Remaining issue:
 
 authority dependence.
 
----
-
-# 2. Layered Arrival
+2. Layered Arrival
 
 Current:
 
@@ -7124,9 +6480,7 @@ becoming:
 
 generic.
 
----
-
-# 3. Participation Throughout the Journey
+3. Participation Throughout the Journey
 
 Current:
 
@@ -7152,13 +6506,9 @@ physical:
 
 handoff.
 
----
+Existing Candidate Confidence Watch
 
-# Existing Candidate Confidence Watch
-
----
-
-# Story Through Place
+Story Through Place
 
 Current:
 
@@ -7180,9 +6530,7 @@ comparison:
 
 dimensions.
 
----
-
-# Hospitality System Proof
+Hospitality System Proof
 
 Current:
 
@@ -7200,9 +6548,7 @@ confidence:
 
 change.
 
----
-
-# Show the System Behind the Plate
+Show the System Behind the Plate
 
 Current:
 
@@ -7218,13 +6564,9 @@ confidence:
 
 change.
 
----
+Patterns That Should Not Move From Arrival Evidence Alone
 
-# Patterns That Should Not Move From Arrival Evidence Alone
-
----
-
-# Manageable Commitment
+Manageable Commitment
 
 Insufficient:
 
@@ -7232,9 +6574,7 @@ policy:
 
 evidence.
 
----
-
-# Commitment Without Pressure
+Commitment Without Pressure
 
 Insufficient:
 
@@ -7242,9 +6582,7 @@ payment / cancellation:
 
 evidence.
 
----
-
-# Walk-In as First-Class Participation
+Walk-In as First-Class Participation
 
 No:
 
@@ -7254,9 +6592,7 @@ walk-in:
 
 evidence.
 
----
-
-# Coherence Through Change
+Coherence Through Change
 
 Pearl Morissette:
 
@@ -7270,9 +6606,7 @@ change:
 
 evidence.
 
----
-
-# Adaptation as Narrative
+Adaptation as Narrative
 
 Not:
 
@@ -7282,61 +6616,41 @@ arrival:
 
 pressure.
 
----
+Strongest Arrival Falsification Questions
 
-# Strongest Arrival Falsification Questions
+Capacity Proof
 
----
+Can a lower-authority restaurant create credible product-creation confidence through method and capacity evidence without relying on reputation?
 
-# Capacity Proof
+Layered Arrival
 
-> **Can a lower-authority restaurant create credible product-creation confidence through method and capacity evidence without relying on reputation?**
+Can the guest's relevant uncertainty be resolved with fewer confidence carriers than the proposed layered architecture?
 
----
+Product Creation Confidence
 
-# Layered Arrival
+When does explanation of method genuinely help, and when is it merely sophisticated story replacing useful product information?
 
-> **Can the guest's relevant uncertainty be resolved with fewer confidence carriers than the proposed layered architecture?**
+Destination Access Confidence
 
----
+At what point is ordinary map information sufficient, making a distinct access-confidence layer unnecessary?
 
-# Product Creation Confidence
+Total Visit Commitment
 
-> **When does explanation of method genuinely help, and when is it merely sophisticated story replacing useful product information?**
+How much travel, time, or coordination must materially affect the decision before it belongs inside commitment architecture?
 
----
+Place as Productive Context
 
-# Destination Access Confidence
+Does place materially explain how the hospitality product comes into existence, or is it simply compelling context around a conventional production system?
 
-> **At what point is ordinary map information sufficient, making a distinct access-confidence layer unnecessary?**
+Explanation Obligation
 
----
+Can a highly unfamiliar hospitality system still succeed with minimal explanation because its participation design is intuitively legible?
 
-# Total Visit Commitment
+Bounded Expectation
 
-> **How much travel, time, or coordination must materially affect the decision before it belongs inside commitment architecture?**
+At what point does product variability become too broad for method and capacity evidence to provide sufficient expectation clarity?
 
----
-
-# Place as Productive Context
-
-> **Does place materially explain how the hospitality product comes into existence, or is it simply compelling context around a conventional production system?**
-
----
-
-# Explanation Obligation
-
-> **Can a highly unfamiliar hospitality system still succeed with minimal explanation because its participation design is intuitively legible?**
-
----
-
-# Bounded Expectation
-
-> **At what point does product variability become too broad for method and capacity evidence to provide sufficient expectation clarity?**
-
----
-
-# Arrival Comparison Conclusion
+Arrival Comparison Conclusion
 
 After:
 
@@ -7374,7 +6688,7 @@ cross-case:
 
 finding remains:
 
-> **Arrival is uncertainty-resolution architecture.**
+Arrival is uncertainty-resolution architecture.
 
 Pearl Morissette:
 
@@ -7408,11 +6722,9 @@ destination:
 
 dimension:
 
-```text
 
 Can I trust the product?
 
-```
 
 is not:
 
@@ -7422,11 +6734,9 @@ same:
 
 question as:
 
-```text
 
 Can I complete the visit?
 
-```
 
 It also:
 
@@ -7440,7 +6750,6 @@ post-Noma:
 
 distinction:
 
-```text
 
 Product Specificity Confidence
 
@@ -7448,7 +6757,6 @@ Product Specificity Confidence
 
 Product Creation Confidence
 
-```
 
 and:
 
@@ -7464,7 +6772,6 @@ uncertainty:
 
 boundary:
 
-```text
 
 Seasonal Variability
 
@@ -7472,7 +6779,6 @@ Seasonal Variability
 
 Not Yet Fixed
 
-```
 
 The strongest:
 
@@ -7482,7 +6788,6 @@ arrival:
 
 architecture is:
 
-```text
 
 Guest Intent
 
@@ -7534,7 +6839,6 @@ Appropriate Certainty
 
 Appropriate Participation
 
-```
 
 Pearl Morissette's:
 
@@ -7546,21 +6850,21 @@ arrival:
 
 contributions are:
 
-- Destination Familiarity
+Destination Familiarity
 
-- Destination Access Confidence
+Destination Access Confidence
 
-- Total Visit Commitment
+Total Visit Commitment
 
-- Arrival Landmark as State Proof
+Arrival Landmark as State Proof
 
-- Digital-to-Physical Participation Handoff
+Digital-to-Physical Participation Handoff
 
-- Place as Productive Context
+Place as Productive Context
 
-- stronger Product Creation Confidence
+stronger Product Creation Confidence
 
-- stronger Operationally Variable vs Not Yet Fixed distinction
+stronger Operationally Variable vs Not Yet Fixed distinction
 
 The strongest:
 
@@ -7572,11 +6876,11 @@ question leaving:
 
 Arrival comparison is:
 
-> **Has Capacity Proof now accumulated enough independent, mechanistically distinct support to become Candidate / Medium despite the remaining authority-dependence question?**
+Has Capacity Proof now accumulated enough independent, mechanistically distinct support to become Candidate / Medium despite the remaining authority-dependence question?
 
 The second is:
 
-> **Has Layered Arrival become sufficiently repeated, bounded, and falsifiable to enter Candidate maturity?**
+Has Layered Arrival become sufficiently repeated, bounded, and falsifiable to enter Candidate maturity?
 
 Those decisions:
 
@@ -7604,9 +6908,7 @@ also:
 
 reconciled.
 
----
-
-# Post–Dans le Noir? London Reconciliation
+Post–Dans le Noir? London Reconciliation
 
 Restaurant #16:
 
@@ -7634,7 +6936,6 @@ new:
 
 arrival state:
 
-```text
 
 Self-Orientation
 
@@ -7642,23 +6943,19 @@ Self-Orientation
 
 Transferred Orientation
 
-```
 
 Pearl Morissette:
 
 asked:
 
-```text
 
 Can I complete the journey?
 
-```
 
 Dans le Noir?:
 
 adds:
 
-```text
 
 Can I trust another person
 
@@ -7666,11 +6963,8 @@ to complete my arrival
 
 into the experience?
 
-```
 
----
-
-# Comparison 51 — Arrival Can End After the Address
+Comparison 51 — Arrival Can End After the Address
 
 Across:
 
@@ -7730,7 +7024,6 @@ experience.
 
 Primary boundary:
 
-```text
 
 Arrival at the Address
 
@@ -7738,11 +7031,8 @@ Arrival at the Address
 
 Arrival in the Experience
 
-```
 
----
-
-# Comparison 52 — Layering Can Be Distributed
+Comparison 52 — Layering Can Be Distributed
 
 Restaurant #16:
 
@@ -7752,23 +7042,23 @@ arrival layers
 
 across:
 
-- concept explanation
+concept explanation
 
-- booking
+booking
 
-- policy
+policy
 
-- access information
+access information
 
-- lit reception
+lit reception
 
-- belongings storage
+belongings storage
 
-- verbal briefing
+verbal briefing
 
-- guide introduction
+guide introduction
 
-- dark-room threshold
+dark-room threshold
 
 No:
 
@@ -7786,7 +7076,6 @@ arrival.
 
 Primary correction:
 
-```text
 
 Layered Arrival
 
@@ -7794,11 +7083,8 @@ Layered Arrival
 
 Layered Website
 
-```
 
----
-
-# Comparison 53 — Product Uncertainty and Consequence Clarity Can Coexist
+Comparison 53 — Product Uncertainty and Consequence Clarity Can Coexist
 
 The guest:
 
@@ -7818,23 +7104,22 @@ can:
 
 know:
 
-- darkness
+darkness
 
-- shared seating
+shared seating
 
-- device surrender
+device surrender
 
-- guide dependence
+guide dependence
 
-- dietary responsibility
+dietary responsibility
 
-- price
+price
 
-- arrival conditions
+arrival conditions
 
 This produces:
 
-```text
 
 Consequence Clarity
 
@@ -7842,11 +7127,9 @@ Consequence Clarity
 
 Outcome Uncertainty
 
-```
 
 Primary boundary:
 
-```text
 
 Product Unknown
 
@@ -7854,11 +7137,8 @@ Product Unknown
 
 Consequence Unknown
 
-```
 
----
-
-# Comparison 54 — Surprise Increases Explanation Obligation
+Comparison 54 — Surprise Increases Explanation Obligation
 
 The stronger:
 
@@ -7888,7 +7168,6 @@ therefore:
 
 adds:
 
-```text
 
 More Surprise
 
@@ -7896,7 +7175,6 @@ may require:
 
 More Consequence Clarity
 
-```
 
 not:
 
@@ -7906,9 +7184,7 @@ outcome:
 
 disclosure.
 
----
-
-# Comparison 55 — A Person Can Be the Final Arrival Interface
+Comparison 55 — A Person Can Be the Final Arrival Interface
 
 In:
 
@@ -7926,13 +7202,13 @@ is:
 
 not:
 
-- a map
+a map
 
-- a page
+a page
 
-- a sign
+a sign
 
-- a device
+a device
 
 It is:
 
@@ -7970,9 +7246,7 @@ formal:
 
 pattern.
 
----
-
-# Comparison 56 — Human Assistance Can Be Structural
+Comparison 56 — Human Assistance Can Be Structural
 
 Earlier:
 
@@ -8016,7 +7290,6 @@ self-service.
 
 Primary boundary:
 
-```text
 
 Human Assistance
 
@@ -8024,39 +7297,35 @@ Human Assistance
 
 Exception Handling
 
-```
 
----
-
-# Comparison 57 — Reduced Autonomy Can Increase Participation
+Comparison 57 — Reduced Autonomy Can Increase Participation
 
 The guest:
 
 gives up:
 
-- visual inspection
+visual inspection
 
-- independent movement
+independent movement
 
-- device access
+device access
 
 The guest:
 
 takes on:
 
-- disclosure
+disclosure
 
-- trust
+trust
 
-- following
+following
 
-- interpretation
+interpretation
 
-- communication
+communication
 
 This creates:
 
-```text
 
 Reduced Autonomy
 
@@ -8064,11 +7333,9 @@ Reduced Autonomy
 
 Reduced Participation
 
-```
 
 and:
 
-```text
 
 Participation
 
@@ -8076,11 +7343,8 @@ Participation
 
 Maximum Choice
 
-```
 
----
-
-# Comparison 58 — Surrender Can Be Participation Infrastructure
+Comparison 58 — Surrender Can Be Participation Infrastructure
 
 Belongings:
 
@@ -8094,13 +7358,13 @@ administrative.
 
 It protects:
 
-- darkness integrity
+darkness integrity
 
-- safety
+safety
 
-- attention
+attention
 
-- trust transfer
+trust transfer
 
 Architecture mechanism:
 
@@ -8112,7 +7376,6 @@ Architecture only.
 
 Primary boundary:
 
-```text
 
 Surrender
 
@@ -8120,11 +7383,8 @@ Surrender
 
 Passivity
 
-```
 
----
-
-# Comparison 59 — Participation Complexity Does Not Require Interface Complexity
+Comparison 59 — Participation Complexity Does Not Require Interface Complexity
 
 Restaurant #16:
 
@@ -8160,17 +7420,16 @@ Complexity is:
 
 absorbed by:
 
-- staff
+staff
 
-- procedure
+procedure
 
-- space
+space
 
-- consequence-relevant repetition
+consequence-relevant repetition
 
 Primary boundary:
 
-```text
 
 Participation Complexity
 
@@ -8178,11 +7437,9 @@ Participation Complexity
 
 Interface Complexity
 
-```
 
 Potential refinement:
 
-```text
 
 Participation Complexity
 
@@ -8194,11 +7451,8 @@ more reliably than:
 
 Interface Depth
 
-```
 
----
-
-# Comparison 60 — Destination Complexity and Sensory Complexity Can Produce the Same Pattern
+Comparison 60 — Destination Complexity and Sensory Complexity Can Produce the Same Pattern
 
 Pearl Morissette:
 
@@ -8208,11 +7462,11 @@ Layered Arrival
 
 through:
 
-- geography
+geography
 
-- travel
+travel
 
-- total visit commitment
+total visit commitment
 
 Dans le Noir?:
 
@@ -8222,13 +7476,13 @@ Layered Arrival
 
 through:
 
-- consequence
+consequence
 
-- surrender
+surrender
 
-- human handoff
+human handoff
 
-- sensory threshold
+sensory threshold
 
 The cases:
 
@@ -8262,9 +7516,7 @@ requiring:
 
 surface similarity.
 
----
-
-# Comparison 61 — Human Guidance Can Reduce Guest Complexity and Increase Operational Complexity
+Comparison 61 — Human Guidance Can Reduce Guest Complexity and Increase Operational Complexity
 
 Guide-led:
 
@@ -8280,19 +7532,18 @@ orientation burden.
 
 It may increase:
 
-- staffing dependence
+staffing dependence
 
-- training dependence
+training dependence
 
-- handoff dependence
+handoff dependence
 
-- capacity sensitivity
+capacity sensitivity
 
-- service consistency risk
+service consistency risk
 
 Therefore:
 
-```text
 
 Complexity Absorbed by Staff
 
@@ -8300,11 +7551,8 @@ Complexity Absorbed by Staff
 
 Complexity Eliminated
 
-```
 
----
-
-# Comparison 62 — Repetition Can Be Hospitality
+Comparison 62 — Repetition Can Be Hospitality
 
 Restaurant #16:
 
@@ -8334,17 +7582,16 @@ useful
 
 when:
 
-- the state changes
+the state changes
 
-- the actor changes
+the actor changes
 
-- the consequence becomes immediate
+the consequence becomes immediate
 
-- reconfirmation protects the guest
+reconfirmation protects the guest
 
 Primary boundary:
 
-```text
 
 Repeated Information
 
@@ -8352,23 +7599,20 @@ Repeated Information
 
 Redundant Friction
 
-```
 
----
-
-# Comparison 63 — Waiting Is Not the Only Pre-Experience State
+Comparison 63 — Waiting Is Not the Only Pre-Experience State
 
 Dans le Noir?:
 
 adds:
 
-- briefing
+briefing
 
-- storage
+storage
 
-- handoff
+handoff
 
-- threshold preparation
+threshold preparation
 
 These are:
 
@@ -8382,15 +7626,15 @@ waiting taxonomy
 
 remains:
 
-1. Access Waiting
+Access Waiting
 
-2. Resource Waiting
+Resource Waiting
 
-3. Product Waiting
+Product Waiting
 
-4. Service Waiting
+Service Waiting
 
-5. Exception Waiting
+Exception Waiting
 
 No:
 
@@ -8400,9 +7644,7 @@ waiting category
 
 is created.
 
----
-
-# Comparison 64 — Accessibility Expertise Does Not Complete Arrival Accessibility
+Comparison 64 — Accessibility Expertise Does Not Complete Arrival Accessibility
 
 Visually impaired:
 
@@ -8418,21 +7660,20 @@ still requires:
 
 evaluation of:
 
-- digital access
+digital access
 
-- mobility access
+mobility access
 
-- dietary access
+dietary access
 
-- communication access
+communication access
 
-- sensory preparation
+sensory preparation
 
-- human escalation
+human escalation
 
 Primary boundary:
 
-```text
 
 Accessibility Expertise
 
@@ -8440,11 +7681,8 @@ Accessibility Expertise
 
 Universal Arrival Access
 
-```
 
----
-
-# Comparison 65 — Minimum Sufficient Arrival Can Include a Human Layer
+Comparison 65 — Minimum Sufficient Arrival Can Include a Human Layer
 
 Minimum:
 
@@ -8482,19 +7720,19 @@ Dans le Noir?
 
 includes:
 
-- consequence recognition
+consequence recognition
 
-- booking commitment
+booking commitment
 
-- dietary disclosure
+dietary disclosure
 
-- lit reception
+lit reception
 
-- belongings surrender
+belongings surrender
 
-- guide handoff
+guide handoff
 
-- sensory threshold
+sensory threshold
 
 More layers:
 
@@ -8512,9 +7750,7 @@ enable:
 
 meaningful participation.
 
----
-
-# Updated Arrival Thesis — Post Restaurant #16
+Updated Arrival Thesis — Post Restaurant #16
 
 The strongest:
 
@@ -8522,7 +7758,7 @@ cross-restaurant:
 
 arrival thesis remains:
 
-> **Arrival is uncertainty-resolution architecture, not a universal content sequence.**
+Arrival is uncertainty-resolution architecture, not a universal content sequence.
 
 Restaurant #16:
 
@@ -8544,7 +7780,6 @@ self-service certainty.
 
 Updated model:
 
-```text
 
 Guest Intent
 
@@ -8608,11 +7843,8 @@ Human-Guided Orientation
 
 Appropriate Participation
 
-```
 
----
-
-# Post–Dans le Noir? Arrival Architecture Additions
+Post–Dans le Noir? Arrival Architecture Additions
 
 These remain:
 
@@ -8634,9 +7866,7 @@ formal:
 
 pattern count.
 
----
-
-# Consequence Recognition
+Consequence Recognition
 
 Definition:
 
@@ -8654,9 +7884,7 @@ complete:
 
 outcome knowledge.
 
----
-
-# Sensory Commitment Disclosure
+Sensory Commitment Disclosure
 
 Definition:
 
@@ -8672,9 +7900,7 @@ before:
 
 commitment.
 
----
-
-# Light-Source Surrender
+Light-Source Surrender
 
 Definition:
 
@@ -8690,9 +7916,7 @@ to protect:
 
 experience integrity.
 
----
-
-# Belongings Surrender
+Belongings Surrender
 
 Definition:
 
@@ -8710,9 +7934,7 @@ the:
 
 operating condition.
 
----
-
-# Human Handoff
+Human Handoff
 
 Definition:
 
@@ -8730,9 +7952,7 @@ to:
 
 person.
 
----
-
-# Trust Transfer
+Trust Transfer
 
 Definition:
 
@@ -8746,9 +7966,7 @@ a:
 
 human authority.
 
----
-
-# Guide as Arrival Interface
+Guide as Arrival Interface
 
 Definition:
 
@@ -8768,9 +7986,7 @@ reassurance:
 
 surface.
 
----
-
-# Consequence-Relevant Reconfirmation
+Consequence-Relevant Reconfirmation
 
 Definition:
 
@@ -8786,9 +8002,7 @@ participation state
 
 changes.
 
----
-
-# Re-Entry Handoff
+Re-Entry Handoff
 
 Definition:
 
@@ -8808,9 +8022,7 @@ human-guided:
 
 transition.
 
----
-
-# Transferred Orientation
+Transferred Orientation
 
 Definition:
 
@@ -8826,9 +8038,7 @@ inside:
 
 the defining condition.
 
----
-
-# Categorical Sensory Threshold
+Categorical Sensory Threshold
 
 Definition:
 
@@ -8844,73 +8054,71 @@ into:
 
 another.
 
----
-
-# Arrival Architecture — Current Consolidated Set
+Arrival Architecture — Current Consolidated Set
 
 Existing:
 
-- Destination Familiarity
+Destination Familiarity
 
-- Destination Access Confidence
+Destination Access Confidence
 
-- Destination Friction
+Destination Friction
 
-- Geographic Complexity
+Geographic Complexity
 
-- Total Visit Commitment
+Total Visit Commitment
 
-- Visit Preparation
+Visit Preparation
 
-- Travel Utility
+Travel Utility
 
-- Arrival Landmark
+Arrival Landmark
 
-- Arrival Landmark as State Proof
+Arrival Landmark as State Proof
 
-- Digital-to-Physical Participation Handoff
+Digital-to-Physical Participation Handoff
 
-- Minimum Sufficient Arrival
+Minimum Sufficient Arrival
 
-- Pre-Arrival Clarity
+Pre-Arrival Clarity
 
-- Guest Preparation Load
+Guest Preparation Load
 
-- Compatibility Adaptation
+Compatibility Adaptation
 
-- Experience Availability
+Experience Availability
 
-- Instruction Consistency
+Instruction Consistency
 
 Restaurant #16 additions:
 
-- Consequence Recognition
+Consequence Recognition
 
-- Sensory Commitment Disclosure
+Sensory Commitment Disclosure
 
-- Behavioural Preparation
+Behavioural Preparation
 
-- Light-Source Surrender
+Light-Source Surrender
 
-- Belongings Surrender
+Belongings Surrender
 
-- Confidence Threshold
+Confidence Threshold
 
-- Human Handoff
+Human Handoff
 
-- Trust Transfer
+Trust Transfer
 
-- Guide as Arrival Interface
+Guide as Arrival Interface
 
-- Consequence-Relevant Reconfirmation
+Consequence-Relevant Reconfirmation
 
-- Re-Entry Handoff
+Re-Entry Handoff
 
-- Minimum Sufficient Dark-Room Arrival
+Minimum Sufficient Dark-Room Arrival
 
-- Categorical Sensory Threshold
+Categorical Sensory Threshold
 
-- Transferred Orientation
+Transferred Orientation
 
 Governance rule:
 
@@ -8926,13 +8134,9 @@ Arrival Infrastructure:
 
 pattern.
 
----
+Current Arrival Pattern Pressure — Post Restaurant #16
 
-# Current Arrival Pattern Pressure — Post Restaurant #16
-
----
-
-# Layered Arrival
+Layered Arrival
 
 Current:
 
@@ -8974,9 +8178,7 @@ comparison-only:
 
 confidence change.
 
----
-
-# Participation Throughout the Journey
+Participation Throughout the Journey
 
 Current:
 
@@ -9018,9 +8220,7 @@ Promotion Watch:
 
 High
 
----
-
-# Stable Participation / Variable Product
+Stable Participation / Variable Product
 
 Current:
 
@@ -9046,9 +8246,7 @@ Promotion Watch:
 
 High
 
----
-
-# Manageable Commitment
+Manageable Commitment
 
 Current:
 
@@ -9072,9 +8270,7 @@ Arrival Recommendation:
 
 Retain Candidate / Medium
 
----
-
-# Participation Rule Consistency
+Participation Rule Consistency
 
 Current:
 
@@ -9098,9 +8294,7 @@ Arrival Recommendation:
 
 Retain Candidate / Medium
 
----
-
-# Hospitality System Proof
+Hospitality System Proof
 
 Current:
 
@@ -9124,9 +8318,7 @@ Arrival Recommendation:
 
 Retain Candidate / High
 
----
-
-# Capacity Proof
+Capacity Proof
 
 Current:
 
@@ -9158,9 +8350,7 @@ Arrival Recommendation:
 
 Retain Candidate / Medium
 
----
-
-# Human Assistance Where Structured Self-Service Is Insufficient
+Human Assistance Where Structured Self-Service Is Insufficient
 
 Current:
 
@@ -9188,9 +8378,7 @@ Promotion Watch:
 
 High
 
----
-
-# Escalating Participation Complexity
+Escalating Participation Complexity
 
 Current:
 
@@ -9212,9 +8400,7 @@ Arrival Recommendation:
 
 Remain Emerging
 
----
-
-# Commitment Without Pressure
+Commitment Without Pressure
 
 Current:
 
@@ -9228,9 +8414,7 @@ Arrival Recommendation:
 
 Remain Emerging
 
----
-
-# The Guest as Participant
+The Guest as Participant
 
 Current:
 
@@ -9244,15 +8428,10 @@ Arrival Recommendation:
 
 Remain Emerging
 
----
+Post–Dans le Noir? Arrival Corrections
 
-# Post–Dans le Noir? Arrival Corrections
+Correction 36
 
----
-
-## Correction 36
-
-```text
 
 Layered Arrival
 
@@ -9260,13 +8439,9 @@ Layered Arrival
 
 Layered Website
 
-```
 
----
+Correction 37
 
-## Correction 37
-
-```text
 
 Product Unknown
 
@@ -9274,13 +8449,9 @@ Product Unknown
 
 Consequence Unknown
 
-```
 
----
+Correction 38
 
-## Correction 38
-
-```text
 
 Human Assistance
 
@@ -9288,13 +8459,9 @@ Human Assistance
 
 Exception Handling
 
-```
 
----
+Correction 39
 
-## Correction 39
-
-```text
 
 Reduced Autonomy
 
@@ -9302,13 +8469,9 @@ Reduced Autonomy
 
 Reduced Participation
 
-```
 
----
+Correction 40
 
-## Correction 40
-
-```text
 
 Surrender
 
@@ -9316,13 +8479,9 @@ Surrender
 
 Passivity
 
-```
 
----
+Correction 41
 
-## Correction 41
-
-```text
 
 Participation Complexity
 
@@ -9330,13 +8489,9 @@ Participation Complexity
 
 Interface Complexity
 
-```
 
----
+Correction 42
 
-## Correction 42
-
-```text
 
 Repeated Information
 
@@ -9344,13 +8499,9 @@ Repeated Information
 
 Redundant Friction
 
-```
 
----
+Correction 43
 
-## Correction 43
-
-```text
 
 Arrival at the Address
 
@@ -9358,13 +8509,9 @@ Arrival at the Address
 
 Arrival in the Experience
 
-```
 
----
+Correction 44
 
-## Correction 44
-
-```text
 
 Guide Presence
 
@@ -9372,13 +8519,9 @@ Guide Presence
 
 Guide Authority Proven
 
-```
 
----
+Correction 45
 
-## Correction 45
-
-```text
 
 Accessibility Expertise
 
@@ -9386,13 +8529,9 @@ Accessibility Expertise
 
 Universal Arrival Access
 
-```
 
----
+Correction 46
 
-## Correction 46
-
-```text
 
 Published Capacity
 
@@ -9400,13 +8539,9 @@ Published Capacity
 
 Capacity Performance
 
-```
 
----
+Correction 47
 
-## Correction 47
-
-```text
 
 Simple Interface
 
@@ -9414,13 +8549,9 @@ Simple Interface
 
 Simple Participation
 
-```
 
----
+Correction 48
 
-## Correction 48
-
-```text
 
 Preparation
 
@@ -9428,13 +8559,9 @@ Preparation
 
 Waiting
 
-```
 
----
+Correction 49
 
-## Correction 49
-
-```text
 
 Human Handoff
 
@@ -9442,13 +8569,9 @@ Human Handoff
 
 Waiting
 
-```
 
----
+Correction 50
 
-## Correction 50
-
-```text
 
 Surprise
 
@@ -9456,215 +8579,194 @@ Surprise
 
 Insufficient Preparation
 
-```
 
----
+Strongest Arrival Tensions After Restaurant #16
 
-# Strongest Arrival Tensions After Restaurant #16
-
----
-
-# Tension 11 — Self-Orientation vs Transferred Orientation
+Tension 11 — Self-Orientation vs Transferred Orientation
 
 Question:
 
-> **When should a guest remain self-directed, and when must a person become the responsible arrival interface?**
+When should a guest remain self-directed, and when must a person become the responsible arrival interface?
 
 Strongest case:
 
 Dans le Noir?.
 
----
-
-# Tension 12 — Surprise vs Consequence Clarity
+Tension 12 — Surprise vs Consequence Clarity
 
 Question:
 
-> **How much can remain unknown without weakening informed participation?**
+How much can remain unknown without weakening informed participation?
 
 Strongest case:
 
 Dans le Noir?.
 
----
-
-# Tension 13 — Guest Simplicity vs Operational Complexity
+Tension 13 — Guest Simplicity vs Operational Complexity
 
 Question:
 
-> **When does human assistance responsibly absorb complexity, and when does it create an invisible capacity risk?**
+When does human assistance responsibly absorb complexity, and when does it create an invisible capacity risk?
 
 Strongest case:
 
 Dans le Noir?.
 
----
-
-# Tension 14 — Reduced Autonomy vs Meaningful Participation
+Tension 14 — Reduced Autonomy vs Meaningful Participation
 
 Question:
 
-> **Can surrender increase participation without becoming coercive?**
+Can surrender increase participation without becoming coercive?
 
 Strongest case:
 
 Dans le Noir?.
 
----
-
-# Tension 15 — Repetition vs Friction
+Tension 15 — Repetition vs Friction
 
 Question:
 
-> **Which consequences deserve reconfirmation at each state transition?**
+Which consequences deserve reconfirmation at each state transition?
 
 Strongest case:
 
 Dans le Noir?.
 
----
-
-# Tension 16 — Destination Complexity vs Experiential Complexity
+Tension 16 — Destination Complexity vs Experiential Complexity
 
 Question:
 
-> **Can the same arrival pattern remain valid when its causal mechanisms are materially different?**
+Can the same arrival pattern remain valid when its causal mechanisms are materially different?
 
 Strong cases:
 
-- Pearl Morissette
+Pearl Morissette
 
-- Dans le Noir?
+Dans le Noir?
 
----
+Post–Dans le Noir? Falsification Programme
 
-# Post–Dans le Noir? Falsification Programme
+Whether guests understand total darkness before booking.
 
-1. Whether guests understand total darkness before booking.
+Whether shared seating is sufficiently prominent before commitment.
 
-2. Whether shared seating is sufficiently prominent before commitment.
+Whether device and belongings surrender are clear before arrival.
 
-3. Whether device and belongings surrender are clear before arrival.
+Whether dietary requirements are captured and reconfirmed consistently.
 
-4. Whether dietary requirements are captured and reconfirmed consistently.
+Whether the menu-allocation wording has one operational meaning.
 
-5. Whether the menu-allocation wording has one operational meaning.
+Whether the lit reception materially increases confidence.
 
-6. Whether the lit reception materially increases confidence.
+Whether the physical briefing is standardised.
 
-7. Whether the physical briefing is standardised.
+Whether guide introduction creates sufficient trust for entry.
 
-8. Whether guide introduction creates sufficient trust for entry.
+Whether guests understand how to request assistance.
 
-9. Whether guests understand how to request assistance.
+Whether guests understand how to exit.
 
-10. Whether guests understand how to exit.
+Whether re-entry requires a distinct handoff.
 
-11. Whether re-entry requires a distinct handoff.
+Whether human guidance absorbs or relocates complexity.
 
-12. Whether human guidance absorbs or relocates complexity.
+Whether guide capacity creates a material service constraint.
 
-13. Whether guide capacity creates a material service constraint.
+Whether reduced autonomy creates exclusion for some guests.
 
-14. Whether reduced autonomy creates exclusion for some guests.
+Whether surrender is experienced as participation or coercion.
 
-15. Whether surrender is experienced as participation or coercion.
+Whether consequence-relevant repetition reduces late uncertainty.
 
-16. Whether consequence-relevant repetition reduces late uncertainty.
+Whether the address and final entrance are independently legible.
 
-17. Whether the address and final entrance are independently legible.
+Whether the dark-room threshold is the actual completion of arrival.
 
-18. Whether the dark-room threshold is the actual completion of arrival.
+Whether the booking interface alone provides sufficient preparation.
 
-19. Whether the booking interface alone provides sufficient preparation.
+Whether one strong confidence carrier could replace several layers.
 
-20. Whether one strong confidence carrier could replace several layers.
+Whether screen-reader users can understand the full sequence.
 
-21. Whether screen-reader users can understand the full sequence.
+Whether keyboard users can complete booking.
 
-22. Whether keyboard users can complete booking.
+Whether mobility conditions are clear before commitment.
 
-23. Whether mobility conditions are clear before commitment.
+Whether guide-dog conditions are current.
 
-24. Whether guide-dog conditions are current.
+Whether neurodivergent guests receive sufficient sensory preparation.
 
-25. Whether neurodivergent guests receive sufficient sensory preparation.
+Whether human escalation is available before payment.
 
-26. Whether human escalation is available before payment.
+Whether the same arrival model works for solo guests.
 
-27. Whether the same arrival model works for solo guests.
+Whether the same arrival model works for couples.
 
-28. Whether the same arrival model works for couples.
+Whether the same arrival model works for groups.
 
-29. Whether the same arrival model works for groups.
+Whether the same arrival model works for private events.
 
-30. Whether the same arrival model works for private events.
+Whether arrival remains coherent at published maximum capacity.
 
-31. Whether arrival remains coherent at published maximum capacity.
+Whether emergency procedure breaks the arrival logic.
 
-32. Whether emergency procedure breaks the arrival logic.
+Whether human-guided arrival transfers beyond darkness.
 
-33. Whether human-guided arrival transfers beyond darkness.
+Whether consequence clarity matters equally in lower-risk experiences.
 
-34. Whether consequence clarity matters equally in lower-risk experiences.
+Whether participation complexity predicts support architecture.
 
-35. Whether participation complexity predicts support architecture.
+Whether Minimum Sufficient Arrival can be measured without guest research.
 
-36. Whether Minimum Sufficient Arrival can be measured without guest research.
+Post–Dans le Noir? Comparative Decisions
 
----
+Restaurant #16 supplies strong independent support for Layered Arrival.
 
-# Post–Dans le Noir? Comparative Decisions
+Layered Arrival remains Candidate / Medium.
 
-1. Restaurant #16 supplies strong independent support for Layered Arrival.
+Layered Arrival enters High promotion watch.
 
-2. Layered Arrival remains Candidate / Medium.
+Restaurant #16 supplies very strong support for Participation Throughout the Journey.
 
-3. Layered Arrival enters High promotion watch.
+Participation Throughout the Journey remains Candidate / Medium.
 
-4. Restaurant #16 supplies very strong support for Participation Throughout the Journey.
+Stable Participation / Variable Product receives very strong independent support.
 
-5. Participation Throughout the Journey remains Candidate / Medium.
+Stable Participation / Variable Product remains Candidate / Medium.
 
-6. Stable Participation / Variable Product receives very strong independent support.
+Manageable Commitment receives bounded support and remains Candidate / Medium.
 
-7. Stable Participation / Variable Product remains Candidate / Medium.
+Participation Rule Consistency receives support plus one unresolved tension and remains Candidate / Medium.
 
-8. Manageable Commitment receives bounded support and remains Candidate / Medium.
+Hospitality System Proof receives strong support and remains Candidate / High.
 
-9. Participation Rule Consistency receives support plus one unresolved tension and remains Candidate / Medium.
+Capacity Proof receives bounded lower-prestige support and remains Candidate / Medium.
 
-10. Hospitality System Proof receives strong support and remains Candidate / High.
+Human Assistance Where Structured Self-Service Is Insufficient receives exceptionally strong support and remains Emerging.
 
-11. Capacity Proof receives bounded lower-prestige support and remains Candidate / Medium.
+Escalating Participation Complexity receives strong contradiction evidence and remains Emerging.
 
-12. Human Assistance Where Structured Self-Service Is Insufficient receives exceptionally strong support and remains Emerging.
+The five-category waiting taxonomy remains unchanged.
 
-13. Escalating Participation Complexity receives strong contradiction evidence and remains Emerging.
+Guide as Arrival Interface remains architecture-level.
 
-14. The five-category waiting taxonomy remains unchanged.
+Belongings Surrender remains architecture-level.
 
-15. Guide as Arrival Interface remains architecture-level.
+Transferred Orientation remains architecture-level.
 
-16. Belongings Surrender remains architecture-level.
+Consequence-Relevant Reconfirmation remains architecture-level.
 
-17. Transferred Orientation remains architecture-level.
+No formal pattern promotion occurs in this comparison file.
 
-18. Consequence-Relevant Reconfirmation remains architecture-level.
+No pattern is demoted.
 
-19. No formal pattern promotion occurs in this comparison file.
+No confidence level changes.
 
-20. No pattern is demoted.
+No pattern reaches Validated.
 
-21. No confidence level changes.
+No research-derived KHDS Principle is created.
 
-22. No pattern reaches Validated.
-
-23. No research-derived KHDS Principle is created.
-
----
-
-# Post–Dans le Noir? Arrival Comparison Conclusion
+Post–Dans le Noir? Arrival Comparison Conclusion
 
 After:
 
@@ -9678,7 +8780,7 @@ the strongest:
 
 arrival finding remains:
 
-> **Arrival is uncertainty-resolution architecture.**
+Arrival is uncertainty-resolution architecture.
 
 Restaurant #15:
 
@@ -9716,7 +8818,6 @@ The strongest:
 
 new sequence is:
 
-```text
 
 Consequence Recognition
 
@@ -9744,7 +8845,6 @@ Trust Transfer
 
 Human-Guided Entry
 
-```
 
 The strongest:
 
@@ -9752,7 +8852,6 @@ cross-case:
 
 correction is:
 
-```text
 
 Layered Arrival
 
@@ -9760,7 +8859,6 @@ Layered Arrival
 
 Layered Website
 
-```
 
 The strongest:
 
@@ -9768,7 +8866,6 @@ human:
 
 finding is:
 
-```text
 
 Human Assistance
 
@@ -9776,7 +8873,6 @@ may be:
 
 Primary Arrival Infrastructure
 
-```
 
 The strongest:
 
@@ -9784,7 +8880,6 @@ complexity:
 
 finding is:
 
-```text
 
 Complex Participation
 
@@ -9796,7 +8891,6 @@ not:
 
 Deeper Interface
 
-```
 
 The formal:
 
@@ -9824,73 +8918,1781 @@ complete.
 
 Evidence wins.
 
----
+Post–Avatar Robot Café DAWN, Tokyo Reconciliation
 
-# Validation
+Restaurant #17:
 
-Comparison File:
+does not:
 
-`khds/research/comparison/arrival.md`
+replace:
+
+the:
+
+Post–Dans le Noir?:
+
+arrival model.
+
+It extends:
+
+arrival from:
+
+human-guided orientation
+
+into:
+
+human recognition
+
+through:
+
+technological embodiment.
+
+Dans le Noir?:
+
+asked:
+
+
+Can I trust another person
+
+to guide me
+
+when I cannot self-orient?
+
+
+DAWN adds:
+
+
+Can I recognise another person
+
+when the person is present
+
+through a machine?
+
+
+The strongest:
+
+Restaurant #17:
+
+arrival boundary is:
+
+
+Robot Encounter
+
+≠
+
+Pilot Recognition
+
+
+Current Canonical Entry State — Before Restaurant #17 Decision
+
+The historical:
+
+Post–Dans le Noir?:
+
+sections above preserve:
+
+the maturity states that existed:
+
+inside:
+
+that comparison cycle.
+
+Those historical states were later reconciled.
+
+The canonical state entering:
+
+Restaurant #17 is:
+
+| Pattern | Current canonical state |
+
+|---|---|
+
+| Layered Arrival | Candidate / Medium |
+
+| Participation Throughout the Journey | Candidate / Medium |
+
+| Stable Participation / Variable Product | Candidate / Medium |
+
+| Manageable Commitment | Candidate / Medium |
+
+| Participation Rule Consistency | Candidate / Medium |
+
+| Hospitality System Proof | Candidate / High |
+
+| Capacity Proof | Candidate / Medium-High |
+
+| Walk-In as First-Class Participation | Candidate / High |
+
+| Human Assistance Where Structured Self-Service Is Insufficient | Candidate / Medium |
+
+| Escalating Participation Complexity | Emerging |
+
+| The Guest as Participant | Emerging |
+
+| Multi-Intent Hospitality | Emerging |
+
+Restaurant #17 is assessed against:
+
+this current state.
+
+It is not assessed against:
+
+the superseded historical state.
+
+Comparison 66 — Arrival Can Be Relational Rather Than Spatial
+
+Across:
+
+many earlier cases:
+
+arrival became complete when:
+
+the guest understood:
+
+place
+
+product
+
+access
+
+commitment
+
+procedure
+
+DAWN adds:
+
+a relational completion state.
+
+The guest can:
+
+reach:
+
+the venue
+
+see:
+
+the robot
+
+and:
+
+still not have arrived at:
+
+the human service relationship.
+
+Primary correction:
+
+
+Spatial Arrival
+
+≠
+
+Relational Arrival
+
+
+Comparison 67 — A Visible Interface Can Hide the Service Agent
+
+Dans le Noir?:
+
+made:
+
+the guide visibly and operationally central.
+
+DAWN makes:
+
+the interface visible
+
+while:
+
+the service person is:
+
+physically remote.
+
+The robot can therefore create:
+
+interface clarity
+
+and:
+
+agency ambiguity
+
+at the same time.
+
+Primary boundary:
+
+
+Visible Interface
+
+≠
+
+Visible Service Agent
+
+
+Comparison 68 — Technical Clarification Can Be Arrival Infrastructure
+
+The statement that:
+
+DAWN's robots are not AI
+
+is not:
+
+only:
+
+product education.
+
+It changes:
+
+how the guest interprets:
+
+voice
+
+movement
+
+greeting
+
+delivery
+
+conversation
+
+It functions as:
+
+a Corrective Premise.
+
+Architecture status:
+
+arrival mechanism only.
+
+Not:
+
+a formal pattern.
+
+Comparison 69 — Human Presence Does Not Require Physical Co-Presence
+
+Dans le Noir?:
+
+requires:
+
+local physical guidance.
+
+DAWN demonstrates:
+
+that a remote person may still become:
+
+the final human arrival interface.
+
+This expands:
+
+Human Handoff
+
+from:
+
+co-located transfer
+
+to:
+
+distributed transfer.
+
+Primary boundary:
+
+
+Physical Absence
+
+≠
+
+Human Absence
+
+
+Comparison 70 — Recognition Is a Distinct Arrival State
+
+DAWN clarifies:
+
+the difference between:
+
+technology awareness
+
+and:
+
+person recognition.
+
+The extracted sequence is:
+
+
+Technology Awareness
+
+↓
+
+Human Attribution
+
+↓
+
+Pilot Identity
+
+↓
+
+Role Recognition
+
+↓
+
+Reciprocal Response
+
+↓
+
+Relational Arrival
+
+
+Pilot Recognition State remains:
+
+architecture-level.
+
+Comparison 71 — One Venue Can Contain Multiple Final Arrivals
+
+DAWN supports:
+
+general admission
+
+OriHime Diner
+
+Tele-Barista
+
+Nihonbashi Guide Tour
+
+OrySNACK
+
+Each route has:
+
+a different:
+
+commitment state
+
+human-attention model
+
+physical threshold
+
+recognition moment
+
+completion condition
+
+Primary boundary:
+
+
+One Address
+
+≠
+
+One Final Arrival State
+
+
+Comparison 72 — Walk-In Can Remain First-Class Inside a Reservation-Rich System
+
+General admission is:
+
+door-only.
+
+It includes:
+
+OriHime service.
+
+Reserved routes add:
+
+greater depth
+
+without making:
+
+walk-in participation
+
+a failed booking state.
+
+Primary correction:
+
+
+Walk-In
+
+≠
+
+Residual Capacity
+
+
+Restaurant #17 therefore supplies:
+
+strong additional support for:
+
+Walk-In as First-Class Participation.
+
+Comparison 73 — Lower Commitment Can Require Higher Concept Explanation
+
+A guest may enter:
+
+without advance reservation.
+
+The guest still needs to understand:
+
+human operation
+
+admission inclusion
+
+route difference
+
+cashless payment
+
+interaction expectations
+
+Therefore:
+
+
+Low Booking Commitment
+
+≠
+
+Low Explanation Need
+
+
+Comparison 74 — Arrival Capacity Can Be Relationship Capacity
+
+DAWN's:
+
+Diner route requires:
+
+table
+
+time
+
+pilot
+
+robot
+
+network
+
+local support
+
+An available seat is not:
+
+sufficient evidence of:
+
+an available experience.
+
+Primary boundary:
+
+
+Available Seat
+
+≠
+
+Available Human Relationship
+
+
+This supplies:
+
+strong mechanistically distinct evidence for:
+
+Capacity Proof.
+
+Comparison 75 — Accessibility Preparation Can Flow in Two Directions
+
+Earlier cases primarily examined:
+
+guest access.
+
+DAWN also exposes:
+
+worker access.
+
+The arrival system depends on:
+
+guest-facing physical access
+
+dietary and medical preparation
+
+remote pilot work access
+
+local technical support
+
+Architecture direction:
+
+Bidirectional Accessibility.
 
 Status:
 
-Post–Dans le Noir? London Complete
+architecture only.
 
-Independent Restaurants Compared:
+Primary boundary:
 
-16
 
-Latest Case:
+Accessible Mechanism
 
-Dans le Noir? London
+≠
 
-Primary New Governance Watch:
+Accessible Outcome
+
+
+Comparison 76 — A Limitation Can Function as Confidence Evidence
+
+DAWN publicly acknowledges:
+
+potential robot mistakes
+
+touch restrictions
+
+possible spills
+
+possible Tele-Barista suspension
+
+This can improve:
+
+pre-arrival confidence
+
+when:
+
+the consequence is specific
+
+and:
+
+the response is bounded.
+
+Primary correction:
+
+
+Named Limitation
+
+≠
+
+Weak Capacity Proof
+
+
+Comparison 77 — Human Assistance Can Be Product Before It Is Escalation
+
+Dans le Noir?:
+
+made human guidance:
+
+structural.
+
+DAWN adds:
+
+human attention as:
+
+a purchased inclusion.
+
+The dedicated pilot is:
+
+not:
+
+support after interface failure.
+
+The pilot is:
+
+the hospitality product.
+
+Primary boundary:
+
+
+Human Assistance
+
+≠
+
+Fallback Support
+
+
+This independently supports the current:
+
+Candidate / Medium
+
+state of:
+
+Human Assistance Where Structured Self-Service Is Insufficient.
+
+Comparison 78 — Trust Transfer Can Be Distributed
+
+Earlier trust transfer often moved between:
+
+website
+
+staff
+
+and:
+
+place.
+
+DAWN requires:
+
+
+Official Organisation
+
+↓
+
+Robot System
+
+↓
+
+Named Pilot
+
+↓
+
+Local Staff
+
+↓
+
+Reciprocal Interaction
+
+
+No single carrier is:
+
+sufficient.
+
+Architecture direction:
+
+Distributed Trust Transfer.
+
+Comparison 79 — More Obvious Technology Can Increase Arrival Ambiguity
+
+The robot makes:
+
+the technical interface obvious.
+
+It may make:
+
+human agency less obvious.
+
+Therefore:
+
+
+Interface Visibility
+
+may increase:
+
+Agency Explanation Need
+
+
+This contradicts:
+
+the assumption that:
+
+more visible operation
+
+always creates:
+
+more complete arrival clarity.
+
+Comparison 80 — The Final Arrival Interface Can Be Remote
+
+Restaurant #16 established:
+
+a person can be:
+
+the final arrival interface.
+
+Restaurant #17 extends the finding:
+
+that person does not need to be:
+
+physically co-present.
+
+The condition is:
+
+not proximity.
+
+It is:
+
+recognisable agency
+
+live response
+
+role clarity
+
+operating continuity
+
+Primary correction:
+
+
+Human Arrival Interface
+
+≠
+
+Physically Co-Present Interface
+
+
+Updated Arrival Thesis — Post Restaurant #17
+
+The strongest:
+
+cross-restaurant:
+
+arrival thesis remains:
+
+Arrival is uncertainty-resolution architecture, not a universal content sequence.
+
+Restaurant #17 adds:
+
+that:
+
+uncertainty may concern:
+
+not only:
+
+product
+
+place
+
+route
+
+consequence
+
+access
+
+but:
+
+who is actually present
+
+and:
+
+whose agency creates the experience.
+
+The updated model is:
+
+
+Guest Intent
+
+↓
+
+Relevant Familiarity
+
+↓
+
+Relevant Uncertainty
+
+↓
+
+Route and Consequence Recognition
+
+↓
+
+Missing Confidence
+
+↓
+
+Relevant Meaning
+
++
+
+Relevant Utility
+
++
+
+Relevant Evidence
+
++
+
+Relevant Explanation
+
+↓
+
+Bounded Commitment
+
+↓
+
+Digital-to-Physical Handoff
+
+↓
+
+Interface Encounter
+
+↓
+
+Human Attribution
+
+↓
+
+Role Recognition
+
+↓
+
+Self-Directed
+
+or:
+
+Human-Guided Participation
+
+↓
+
+Relational Arrival
+
+
+Post–DAWN Arrival Architecture Additions
+
+These remain:
+
+architecture variables
+
+mechanisms
+
+or:
+
+subtypes.
+
+They do not:
+
+inflate:
+
+formal pattern count.
+
+Corrective Human Attribution
+
+Definition:
+
+explicitly assigning:
+
+machine action
+
+to:
+
+the human person producing it.
+
+Pilot Recognition State
+
+Definition:
+
+the guest recognises:
+
+the remote pilot as:
+
+the present service agent.
+
+Relational Arrival
+
+Definition:
+
+arrival becomes complete when:
+
+the relevant hospitality relationship
+
+is:
+
+legible and reciprocal.
+
+Human Presence Without Co-Presence
+
+Definition:
+
+live human presence carried through:
+
+technological embodiment
+
+despite:
+
+physical distance.
+
+Distributed Trust Transfer
+
+Definition:
+
+confidence moves across:
+
+organisation
+
+technology
+
+local staff
+
+and:
+
+remote person.
+
+Relationship Capacity
+
+Definition:
+
+availability of:
+
+the complete human-service relationship
+
+rather than:
+
+physical seat inventory alone.
+
+Bidirectional Accessibility
+
+Definition:
+
+access architecture supports:
+
+guest participation
+
+and:
+
+worker participation.
+
+Route-Specific Relational Arrival
+
+Definition:
+
+different service routes complete:
+
+human recognition and participation
+
+through:
+
+different thresholds.
+
+Arrival Architecture — Post Restaurant #17 Consolidation
+
+Restaurant #17 additions:
+
+Corrective Human Attribution
+
+Human / AI Distinction
+
+Pilot Recognition State
+
+Relational Arrival
+
+Human Presence Without Co-Presence
+
+Distributed Trust Transfer
+
+Relationship Capacity
+
+Bidirectional Accessibility
+
+Route-Specific Relational Arrival
+
+Interface Visibility / Agency Ambiguity
+
+Named Limitation as Confidence Evidence
+
+Pilot-Centred Arrival
+
+Governance rule:
+
+do not convert:
+
+these related mechanisms
+
+into:
+
+multiple formal patterns
+
+without:
+
+independent cross-case support.
+
+Current Arrival Pattern Pressure — Post Restaurant #17
 
 Layered Arrival
 
-Secondary New Governance Watch:
+Current:
+
+Candidate / Medium
+
+DAWN Support:
+
+Strong and Mechanistically Distinct
+
+Refinement:
+
+one arrival layer may exist solely to:
+
+correct agency attribution.
+
+Arrival Recommendation:
+
+Retain Candidate / Medium
+
+Promotion Watch:
+
+High
 
 Participation Throughout the Journey
 
+Current:
+
+Candidate / Medium
+
+DAWN Support:
+
+Strong
+
+Participation spans:
+
+route selection
+
+declaration
+
+arrival
+
+recognition
+
+interaction
+
+and:
+
+feedback.
+
+Arrival Recommendation:
+
+Retain Candidate / Medium
+
+Manageable Commitment
+
+Current:
+
+Candidate / Medium
+
+DAWN Support:
+
+Strong but Mixed
+
+Boundary pressure:
+
+the published Diner minimum-party rule differs across:
+
+homepage
+
+and:
+
+transaction surface.
+
+Arrival Recommendation:
+
+Retain Candidate / Medium
+
+Participation Rule Consistency
+
+Current:
+
+Candidate / Medium
+
+DAWN Evidence:
+
+Support plus one material rule tension.
+
+Arrival Recommendation:
+
+Retain Candidate / Medium
+
+Falsification Priority:
+
+High
+
+Walk-In as First-Class Participation
+
+Current:
+
+Candidate / High
+
+DAWN Support:
+
+Strong
+
+Door-only admission includes:
+
+OriHime service.
+
+Arrival Recommendation:
+
+Retain Candidate / High
+
+Hospitality System Proof
+
+Current:
+
+Candidate / High
+
+DAWN Support:
+
+Very Strong
+
+Arrival exposes:
+
+pilot
+
+robot
+
+network
+
+local staff
+
+route
+
+and:
+
+guest coordination.
+
+Arrival Recommendation:
+
+Retain Candidate / High
+
+Capacity Proof
+
+Current:
+
+Candidate / Medium-High
+
+DAWN Support:
+
+Very Strong and Mechanistically Distinct
+
+Refinement:
+
+capacity can mean:
+
+relationship availability.
+
+Arrival Recommendation:
+
+Retain Candidate / Medium-High
+
+Human Assistance Where Structured Self-Service Is Insufficient
+
+Current:
+
+Candidate / Medium
+
+DAWN Support:
+
+Very Strong
+
+Refinement:
+
+the human may be:
+
+product
+
+interface
+
+and:
+
+recovery mechanism.
+
+Arrival Recommendation:
+
+Retain Candidate / Medium
+
+Stable Participation / Variable Product
+
+Current:
+
+Candidate / Medium
+
+DAWN Evidence:
+
+Mixed-positive boundary support.
+
+Stable principles contain:
+
+variable route rules.
+
+Arrival Recommendation:
+
+Retain Candidate / Medium
+
+Escalating Participation Complexity
+
+Current:
+
+Emerging
+
+DAWN Evidence:
+
+Strong Refinement Pressure
+
+Complexity should:
+
+branch by route
+
+rather than:
+
+accumulate universally.
+
+Arrival Recommendation:
+
+Remain Emerging
+
+The Guest as Participant
+
+Current:
+
+Emerging
+
+DAWN Support:
+
+Very Strong
+
+Boundary:
+
+reciprocity must not transfer:
+
+core operational responsibility.
+
+Arrival Recommendation:
+
+Remain Emerging
+
+Multi-Intent Hospitality
+
+Current:
+
+Emerging
+
+DAWN Support:
+
+Very Strong
+
+Arrival Recommendation:
+
+Remain Emerging
+
+Post–DAWN Arrival Corrections
+
+Correction 51
+
+
+Robot Encounter
+
+≠
+
+Pilot Recognition
+
+
+Correction 52
+
+
+Spatial Arrival
+
+≠
+
+Relational Arrival
+
+
+Correction 53
+
+
+Visible Interface
+
+≠
+
+Visible Service Agent
+
+
+Correction 54
+
+
+Physical Absence
+
+≠
+
+Human Absence
+
+
+Correction 55
+
+
+Technology Awareness
+
+≠
+
+Human Attribution
+
+
+Correction 56
+
+
+One Address
+
+≠
+
+One Final Arrival State
+
+
+Correction 57
+
+
+Walk-In
+
+≠
+
+Residual Capacity
+
+
+Correction 58
+
+
+Low Booking Commitment
+
+≠
+
+Low Explanation Need
+
+
+Correction 59
+
+
+Available Seat
+
+≠
+
+Available Human Relationship
+
+
+Correction 60
+
+
+Accessible Mechanism
+
+≠
+
+Accessible Outcome
+
+
+Correction 61
+
+
+Named Limitation
+
+≠
+
+Weak Capacity Proof
+
+
+Correction 62
+
+
+Human Assistance
+
+≠
+
+Fallback Support
+
+
+Correction 63
+
+
+Interface Visibility
+
+≠
+
+Agency Clarity
+
+
+Correction 64
+
+
+Guest Reciprocity
+
+≠
+
+Transferred Operational Responsibility
+
+
+Correction 65
+
+
+Human Arrival Interface
+
+≠
+
+Physically Co-Present Interface
+
+
+Strongest Arrival Tensions After Restaurant #17
+
+Tension 17 — Machine Visibility vs Human Legibility
+
+Question:
+
+When does a visible interface clarify participation while hiding the person creating it?
+
+Strongest case:
+
+Avatar Robot Café DAWN.
+
+Tension 18 — Spatial Arrival vs Relational Arrival
+
+Question:
+
+When is reaching the venue insufficient because the service relationship remains unrecognised?
+
+Strongest case:
+
+Avatar Robot Café DAWN.
+
+Tension 19 — Physical Presence vs Human Presence
+
+Question:
+
+What evidence makes a remote person locally present?
+
+Strongest case:
+
+Avatar Robot Café DAWN.
+
+Tension 20 — Seat Capacity vs Relationship Capacity
+
+Question:
+
+Which resources must be available before a human-mediated experience is truthfully bookable?
+
+Strongest case:
+
+Avatar Robot Café DAWN.
+
+Tension 21 — Guest Access vs Worker Access
+
+Question:
+
+Can one hospitality system integrate access for both sides without assuming equivalent outcomes?
+
+Strongest case:
+
+Avatar Robot Café DAWN.
+
+Tension 22 — Human Product vs Human Escalation
+
+Question:
+
+When is human assistance the promised experience rather than a remedy for insufficient structure?
+
+Strong cases:
+
+Dans le Noir?
+
+Avatar Robot Café DAWN
+
+Post–DAWN Falsification Programme
+
+Whether guests understand before arrival that the robots are human-operated.
+
+Whether the non-AI clarification appears before route selection.
+
+Whether the booking handoff preserves human attribution.
+
+Whether guests can distinguish general admission from reserved depth.
+
+Whether walk-in admission remains available during peak demand.
+
+Whether walk-in guests receive meaningful pilot interaction.
+
+Whether pilot identity is introduced consistently.
+
+Whether pilot role is understood before reciprocal service.
+
+Whether robot encounter reliably becomes pilot recognition.
+
+Whether recognition differs by service route.
+
+Whether Diner pilot capacity matches displayed availability.
+
+Whether the dedicated pilot is delivered for the published duration.
+
+Whether the Diner minimum-party rule is consistent across surfaces.
+
+Whether door admission creates unmanaged waiting.
+
+Whether Tele-Barista schedule information prevents false certainty.
+
+Whether suspended experimental service is communicated before travel.
+
+Whether named limitations increase or reduce confidence.
+
+Whether accessibility requests receive explicit confirmation.
+
+Whether guest-facing access works across all routes.
+
+Whether pilot-facing access remains reliable.
+
+Whether human assistance is discoverable before payment.
+
+Whether local staff can recover from remote interruption.
+
+Whether relationship capacity can be represented without exposing private staffing data.
+
+Whether pilot introductions preserve personal dignity and consent.
+
+Whether a person can complete arrival without physical co-presence.
+
+Whether guests perceive OriHime as a person, machine or combined interface.
+
+Whether route branching reduces interface complexity.
+
+Whether international guests understand age and party conditions.
+
+Whether arrival remains coherent for solo guests.
+
+Whether arrival remains coherent for larger groups.
+
+Whether screen-reader users receive equivalent human-attribution information.
+
+Whether image alternatives identify the pilot-machine relationship.
+
+Whether route confirmation repeats consequence-relevant details.
+
+Whether a pilot can be recognised without biography disclosure.
+
+Whether pilot identity changes during a session.
+
+Whether relationship continuity survives technical delay.
+
+Whether guest assistance remains voluntary and safely bounded.
+
+Whether relational arrival predicts service confidence.
+
+Whether Human Presence Without Co-Presence transfers beyond robotics.
+
+Whether Pilot Recognition State remains distinct in non-hospitality cases.
+
+Post–DAWN Comparative Decisions
+
+Restaurant #17 supplies strong independent support for Layered Arrival.
+
+Layered Arrival remains Candidate / Medium.
+
+Restaurant #17 supplies strong support for Participation Throughout the Journey.
+
+Participation Throughout the Journey remains Candidate / Medium.
+
+Manageable Commitment receives support plus cross-surface rule pressure and remains Candidate / Medium.
+
+Participation Rule Consistency receives one material falsification priority and remains Candidate / Medium.
+
+Walk-In as First-Class Participation receives strong additional support and remains Candidate / High.
+
+Hospitality System Proof receives very strong support and remains Candidate / High.
+
+Capacity Proof receives strong mechanistically distinct support and remains Candidate / Medium-High.
+
+Human Assistance Where Structured Self-Service Is Insufficient receives very strong support and remains Candidate / Medium.
+
+Stable Participation / Variable Product receives mixed-positive boundary support and remains Candidate / Medium.
+
+Escalating Participation Complexity receives refinement evidence and remains Emerging.
+
+The Guest as Participant receives very strong support and remains Emerging.
+
+Multi-Intent Hospitality receives very strong support and remains Emerging.
+
+Pilot Recognition State remains architecture-level.
+
+Relational Arrival remains architecture-level.
+
+Corrective Human Attribution remains architecture-level.
+
+Human Presence Without Co-Presence remains architecture-level.
+
+Distributed Trust Transfer remains architecture-level.
+
+Relationship Capacity remains architecture-level.
+
+Bidirectional Accessibility remains architecture-level.
+
+Restaurant #17 counts as one independent case, not five dimension cases.
+
+No formal pattern promotion occurs in this comparison file.
+
+No pattern is demoted.
+
+No confidence level changes.
+
+No pattern reaches Validated.
+
+No research-derived KHDS Principle is created.
+
+Post–DAWN Arrival Comparison Conclusion
+
+After:
+
+17:
+
+independent:
+
+restaurants
+
+the strongest:
+
+arrival thesis remains:
+
+Arrival is uncertainty-resolution architecture.
+
+Restaurant #15:
+
+expanded arrival into:
+
+destination travel
+
+and:
+
+total-visit commitment.
+
+Restaurant #16:
+
+expanded arrival into:
+
+consequence
+
+surrender
+
+human handoff
+
+and:
+
+transferred orientation.
+
+Restaurant #17:
+
+expands arrival into:
+
+human attribution
+
+pilot recognition
+
+relationship capacity
+
+and:
+
+relational arrival.
+
+The strongest:
+
+new sequence is:
+
+
+Technology Awareness
+
+↓
+
+Human Attribution
+
+↓
+
+Pilot Identity
+
+↓
+
+Role Recognition
+
+↓
+
+Reciprocal Response
+
+↓
+
+Relational Arrival
+
+
+The strongest:
+
+new correction is:
+
+
+Robot Encounter
+
+≠
+
+Pilot Recognition
+
+
+The strongest:
+
+capacity refinement is:
+
+
+Available Seat
+
+≠
+
+Available Human Relationship
+
+
+The strongest:
+
+human arrival finding is:
+
+
+Human Arrival Interface
+
+may be:
+
+Remotely Present
+
+
+Formal maturity decisions remain:
+
+reserved for:
+
+canonical governance reconciliation
+
+after:
+
+all five:
+
+Restaurant #17:
+
+comparison files
+
+are complete.
+
+Evidence wins.
+
+Validation
+
+Comparison File:
+
+khds/research/comparison/arrival.md
+
+Status:
+
+Post–Avatar Robot Café DAWN, Tokyo Complete
+
+Independent Restaurants Compared:
+
+17
+
+Latest Case:
+
+Avatar Robot Café DAWN, Tokyo
+
+Primary New Governance Watch:
+
+Capacity Proof
+
+Secondary New Governance Watch:
+
+Layered Arrival
+
 Strongest New Arrival Variable:
 
-Transferred Orientation
+Pilot Recognition State
 
-Strongest New Commitment Variable:
+Strongest New Capacity Variable:
 
-Consequence Recognition
+Relationship Capacity
 
 Strongest Reinforced Confidence Variable:
 
-Participation Confidence
+Human Attribution Confidence
 
 Strongest New Human Variable:
 
-Guide as Arrival Interface
+Human Presence Without Co-Presence
 
 Strongest New Participation Mechanism:
 
-Belongings Surrender
+Relational Arrival
 
 Strongest New Handoff Mechanism:
 
-Human Trust Transfer
+Distributed Trust Transfer
 
 Strongest New Uncertainty Correction:
 
-Product Unknown
+Robot Encounter
 
 ≠
 
-Consequence Unknown
+Pilot Recognition
 
-Strongest Complexity Boundary:
+Strongest Capacity Boundary:
 
-Participation Complexity
+Available Seat
 
 ≠
 
-Interface Complexity
+Available Human Relationship
 
 Formal Promotions:
 
@@ -9908,6 +10710,26 @@ Governance Changes:
 
 0
 
+Canonical Candidate Count:
+
+25
+
+Canonical Emerging Count:
+
+9
+
+Canonical Partially Supported Count:
+
+1
+
+Canonical Validated Count:
+
+0
+
+Research-Derived KHDS Principles:
+
+0
+
 Next Comparison File:
 
-`khds/research/comparison/atmosphere.md`
+khds/research/comparison/atmosphere.md

@@ -2,15 +2,15 @@
 
 ## Status
 
-Post–Dans le Noir? London Governance Mirror
+Post–Avatar Robot Café DAWN, Tokyo Governance Mirror
 
 Latest Research Cycle:
 
-Restaurant #16 — Dans le Noir? London
+Restaurant #17 — Avatar Robot Café DAWN, Tokyo
 
 Independent Restaurants:
 
-16
+17
 
 Track B Validation Cases:
 
@@ -146,6 +146,8 @@ Current completed set:
 
 16. Dans le Noir? London
 
+17. Avatar Robot Café DAWN, Tokyo
+
 ---
 
 ## Track B — Kodawa Labs Validation
@@ -238,7 +240,7 @@ formal pattern maturity.
 
 ## Independent Restaurants
 
-16
+17
 
 ## Track B Validation Cases
 
@@ -246,11 +248,11 @@ formal pattern maturity.
 
 ## Emerging Patterns
 
-9
+8
 
 ## Candidate Patterns
 
-25
+26
 
 ## Partially Supported Patterns
 
@@ -286,7 +288,7 @@ Candidate
 
 There are:
 
-25
+26
 
 Candidate patterns.
 
@@ -342,9 +344,11 @@ Candidate patterns.
 
 | 23 | Stable Participation / Variable Product | Candidate | Medium |
 
-| 24 | Photography Should Demonstrate Difference | Candidate | Medium |
+| 24 | Photography Should Demonstrate Difference | Candidate | Medium-High |
 
 | 25 | Human Assistance Where Structured Self-Service Is Insufficient | Candidate | Medium |
+
+| 26 | Multi-Intent Hospitality | Candidate | Medium |
 
 ---
 
@@ -1488,7 +1492,7 @@ Participation Variability
 
 ---
 
-# Current Post–Dans le Noir? London Candidate Confidence Grouping
+# Post–Dans le Noir? London Candidate Confidence Grouping — Historical Baseline
 
 This section supersedes the two historical confidence groupings immediately above.
 
@@ -1678,7 +1682,7 @@ Verified Capacity Performance
 
 Status:
 
-Candidate / Medium
+Candidate / Medium-High
 
 Previous State:
 
@@ -1687,6 +1691,10 @@ Emerging
 Post–Dans le Noir? London Decision:
 
 Promoted.
+
+Post–Avatar Robot Café DAWN Decision:
+
+Confidence increased from Medium.
 
 Canonical Core Idea:
 
@@ -1724,6 +1732,12 @@ Strong Mechanisms:
 
 - Non-Visual Difference — Dans le Noir? London
 
+- Visible Device / Human-Dependent Difference — Avatar Robot Café DAWN
+
+Strongest Restaurant #17 Mechanism:
+
+Human-Agency Attribution
+
 Primary Boundaries:
 
 ```text
@@ -1743,6 +1757,26 @@ Demonstrate Difference
 ≠
 
 Show Difference Literally
+
+```
+
+```text
+
+Most Photographable Subject
+
+≠
+
+Most Meaningful Difference
+
+```
+
+```text
+
+Visible Machine
+
+≠
+
+Visible Human Agency
 
 ```
 
@@ -1832,11 +1866,11 @@ Fallback Support Only
 
 ---
 
-# Emerging Registry
+# Emerging Registry — Post Restaurant #17
 
 There are:
 
-9
+8
 
 Emerging patterns.
 
@@ -1852,17 +1886,15 @@ Emerging patterns.
 
 | 3 | Photography Before Decoration | Emerging |
 
-| 4 | Multi-Intent Hospitality | Emerging |
+| 4 | Commitment Without Pressure | Emerging |
 
-| 5 | Commitment Without Pressure | Emerging |
+| 5 | Promise Before Proof | Emerging |
 
-| 6 | Promise Before Proof | Emerging |
+| 6 | The Guest as Participant | Emerging |
 
-| 7 | The Guest as Participant | Emerging |
+| 7 | Atmosphere as Product | Emerging |
 
-| 8 | Atmosphere as Product | Emerging |
-
-| 9 | Escalating Participation Complexity | Emerging |
+| 8 | Escalating Participation Complexity | Emerging |
 
 ---
 
@@ -1952,11 +1984,47 @@ Research-Derived Pattern Maturity
 
 ---
 
-# 4. Multi-Intent Hospitality
+# Promoted Candidate Record — Multi-Intent Hospitality
 
 Status:
 
-Emerging
+Candidate / Medium
+
+Post–Avatar Robot Café DAWN Decision:
+
+Promoted.
+
+Canonical Core Idea:
+
+A hospitality system may support:
+
+multiple materially different guest intents
+
+when:
+
+each intent maps to:
+
+a distinct:
+
+participation route
+
+commitment structure
+
+capacity object
+
+service relationship
+
+or:
+
+operating condition
+
+while:
+
+remaining coherent
+
+through:
+
+a shared hospitality logic.
 
 Primary Boundary:
 
@@ -1970,9 +2038,37 @@ Multi-Intent Hospitality
 
 ```
 
+Strongest New Mechanism:
+
+Route Allocation
+
+Strongest Evidence:
+
+- Avatar Robot Café DAWN
+
+Supporting:
+
+- Dishoom Covent Garden
+
+- Haidilao Toronto Downtown
+
+- Dans le Noir? London
+
+Confidence Boundary:
+
+```text
+
+One Venue
+
+≠
+
+One Reservation Object
+
+```
+
 ---
 
-# 5. Commitment Without Pressure
+# 4. Commitment Without Pressure
 
 Status:
 
@@ -1992,7 +2088,7 @@ Manipulative Pressure
 
 ---
 
-# 6. Promise Before Proof
+# 5. Promise Before Proof
 
 Status:
 
@@ -2026,7 +2122,7 @@ Capacity Proof
 
 ---
 
-# 7. The Guest as Participant
+# 6. The Guest as Participant
 
 Status:
 
@@ -2052,7 +2148,7 @@ Participation Role
 
 ---
 
-# 8. Atmosphere as Product
+# 7. Atmosphere as Product
 
 Status:
 
@@ -2082,7 +2178,7 @@ Atmosphere as Product Proven
 
 ---
 
-# 9. Escalating Participation Complexity
+# 8. Escalating Participation Complexity
 
 Status:
 
@@ -3978,7 +4074,7 @@ reconciled.
 
 Independent Restaurants:
 
-16
+17
 
 Track B Validation Cases:
 
@@ -3986,11 +4082,11 @@ Track B Validation Cases:
 
 Emerging:
 
-9
+8
 
 Candidate:
 
-25
+26
 
 Partially Supported:
 
@@ -4200,7 +4296,7 @@ Commercial Opportunity Theme
 
 ---
 
-# Next Research Priorities — Post–Dans le Noir? London
+# Next Research Priorities — Post–Dans le Noir? London Historical Baseline
 
 ## Priority 1 — Escalating Participation Complexity Definition
 
@@ -4480,9 +4576,763 @@ many states.
 
 ---
 
+# Current Post–Avatar Robot Café DAWN Candidate Confidence Grouping
+
+This section supersedes:
+
+the historical:
+
+Post–Dans le Noir? London:
+
+confidence grouping.
+
+## Candidate / High — 9
+
+1. Atmosphere Through Worldview
+
+2. Show the System Behind the Plate
+
+3. Biography When It Explains the Experience
+
+4. Narrative Language Within Clear Interface
+
+5. Walk-In as First-Class Participation
+
+6. Story Through Hospitality Model
+
+7. Hospitality System Proof
+
+8. Story Through Place
+
+9. Narrative Coherence Through Organising Logic
+
+## Candidate / Medium-High — 6
+
+1. Heritage Builds Confidence
+
+2. Atmosphere Through Continuity
+
+3. Photography as Use-Case Evidence
+
+4. Photography as Proof
+
+5. Capacity Proof
+
+6. Photography Should Demonstrate Difference
+
+## Candidate / Medium — 11
+
+1. Designed Escape
+
+2. Manageable Commitment
+
+3. Participation Rule Consistency
+
+4. Adaptation as Narrative
+
+5. Layered Arrival
+
+6. Atmosphere Through Consistency
+
+7. Photography Through Layers of Experience
+
+8. Participation Throughout the Journey
+
+9. Stable Participation / Variable Product
+
+10. Human Assistance Where Structured Self-Service Is Insufficient
+
+11. Multi-Intent Hospitality
+
+---
+
+# Post–Avatar Robot Café DAWN Architecture Additions
+
+The following remain:
+
+architecture
+
+mechanisms
+
+variables
+
+or:
+
+governance boundaries.
+
+They are not:
+
+additional formal patterns.
+
+## Mediated Human Hospitality Family
+
+Includes:
+
+- Human Agency Through Technological Embodiment
+
+- Corrective Human Attribution
+
+- Pilot Recognition State
+
+- Human Presence Without Co-Presence
+
+- Machine-Visible / Human-Dependent Proof
+
+- Temporal Agency Proof
+
+- Relationship Capacity
+
+- Human Protagonist / Machine Carrier
+
+- Bidirectional Accessibility
+
+- Distributed Operating Continuity
+
+- Route-Specific Participation
+
+- Experimental Transparency
+
+- Relationship Trace
+
+- Social Claim Boundary
+
+Family Rule:
+
+```text
+
+Human Person
+
+↓
+
+Attribution
+
+↓
+
+Recognised Role
+
+↓
+
+Technological Embodiment
+
+↓
+
+Local Hospitality Action
+
+↓
+
+Relationship Capacity
+
+↓
+
+Bounded Outcome Claim
+
+```
+
+Primary Boundary:
+
+```text
+
+Technology Carrier
+
+≠
+
+Human Replacement
+
+```
+
+The family remains:
+
+canonical architecture.
+
+It is not:
+
+- a formal pattern
+
+- a Validated pattern
+
+- a research-derived Principle
+
+---
+
+# Post–Avatar Robot Café DAWN Formal Promotion
+
+There is:
+
+1
+
+formal Candidate promotion.
+
+## Multi-Intent Hospitality
+
+```text
+
+Emerging
+
+→
+
+Candidate / Medium
+
+```
+
+Reason:
+
+DAWN resolves:
+
+the pattern's:
+
+previous definition problem.
+
+Its five routes:
+
+- General Admission
+
+- OriHime Diner
+
+- Tele-Barista
+
+- Nihonbashi Guide Tour
+
+- OrySNACK
+
+represent:
+
+materially different:
+
+guest intents
+
+commitments
+
+capacity objects
+
+service relationships
+
+and:
+
+eligibility states.
+
+They are not:
+
+multiple offers:
+
+inside:
+
+one undifferentiated:
+
+participation route.
+
+Strongest Mechanism:
+
+Route Allocation
+
+Mandatory Boundary:
+
+```text
+
+Multiple Offers
+
+≠
+
+Multi-Intent Hospitality
+
+```
+
+---
+
+# Post–Avatar Robot Café DAWN Confidence Change
+
+There is:
+
+1
+
+confidence increase.
+
+## Photography Should Demonstrate Difference
+
+```text
+
+Candidate / Medium
+
+→
+
+Candidate / Medium-High
+
+```
+
+Reason:
+
+DAWN adds:
+
+a fourth:
+
+materially different:
+
+difference-proof condition.
+
+The robot is:
+
+highly visible.
+
+The defining:
+
+human relationship:
+
+is:
+
+harder to see.
+
+Strongest Mechanism:
+
+Human-Agency Attribution
+
+Mandatory Boundaries:
+
+```text
+
+Most Photographable Subject
+
+≠
+
+Most Meaningful Difference
+
+```
+
+```text
+
+Visible Machine
+
+≠
+
+Visible Human Agency
+
+```
+
+---
+
+# Explicit Non-Promotions — Post–Avatar Robot Café DAWN
+
+The following remain:
+
+Emerging.
+
+## The Guest as Participant
+
+Strong evidence.
+
+Remains:
+
+too broad
+
+unless:
+
+guest action:
+
+is tied to:
+
+a material operating dependency.
+
+## Atmosphere as Product
+
+Human-mediated interaction:
+
+is included:
+
+in admission.
+
+However:
+
+atmosphere-choice causality:
+
+remains:
+
+unverified.
+
+## Story Before Features
+
+The:
+
+non-AI:
+
+Corrective Premise:
+
+is strong evidence.
+
+Generic:
+
+content-rule risk:
+
+remains.
+
+## Escalating Participation Complexity
+
+DAWN refines:
+
+the direction:
+
+toward:
+
+route branching
+
+and:
+
+support precision.
+
+The name remains:
+
+too likely:
+
+to imply:
+
+linear:
+
+interface escalation.
+
+## Emotion Before Interface
+
+Inspiration reduction
+
+and:
+
+outcome overclaim:
+
+remain:
+
+material risks.
+
+## Photography Before Decoration
+
+The distinction from:
+
+Photography as Proof:
+
+remains:
+
+insufficiently bounded.
+
+## Commitment Without Pressure
+
+Published availability:
+
+is visible.
+
+Guest pressure effect:
+
+remains:
+
+unobserved.
+
+## Promise Before Proof
+
+Overlap remains with:
+
+- Capacity Proof
+
+- bounded narrative
+
+- present mechanism evidence
+
+---
+
+# Post–Avatar Robot Café DAWN Canonical Corrections
+
+## Arrival / Recognition
+
+- Robot Encounter ≠ Pilot Recognition
+
+- Concept Recognition ≠ Human Recognition
+
+- Physical Arrival ≠ Relational Arrival
+
+## Atmosphere
+
+- Most Visible Object ≠ Primary Atmospheric Mechanism
+
+- Human Presence ≠ Physical Co-Presence
+
+- Personality Variation ≠ Atmospheric Inconsistency
+
+## Photography / Proof
+
+- Visible Machine ≠ Visible Human Agency
+
+- Most Photographable Subject ≠ Most Meaningful Difference
+
+- Still Action State ≠ Live Agency Proof
+
+- Visual Inclusion ≠ Evidence Accessibility
+
+## Reservation / Capacity
+
+- Available Seat ≠ Available Human Relationship
+
+- One Venue ≠ One Reservation Object
+
+- Robot Inventory ≠ Pilot Capacity
+
+- Scheduled Experience ≠ Reservable Experience
+
+- Seat Time ≠ Pilot Time
+
+## Story / Outcome
+
+- Robot Carries the Story ≠ Robot Is the Story
+
+- Visible Hero Object ≠ Narrative Protagonist
+
+- Published Social Purpose ≠ Verified Social Outcome
+
+- Commercial Value ≠ Fair Labour Outcome Proven
+
+---
+
+# Count Reconciliation — Restaurant #17
+
+Post–Dans le Noir? London:
+
+canonical state:
+
+```text
+
+Emerging:
+
+9
+
+Candidate:
+
+25
+
+```
+
+Restaurant #17 promotes:
+
+1
+
+Emerging pattern:
+
+- Multi-Intent Hospitality
+
+Therefore:
+
+```text
+
+9 Emerging
+
+-
+
+1 Promotion
+
+=
+
+8 Emerging
+
+```
+
+and:
+
+```text
+
+25 Candidates
+
++
+
+1 Promotion
+
+=
+
+26 Candidates
+
+```
+
+Photography Should Demonstrate Difference:
+
+changes confidence:
+
+inside:
+
+the Candidate layer.
+
+It does not:
+
+alter:
+
+the Candidate count.
+
+Registry counts:
+
+reconciled.
+
+---
+
+# Registry Promotion History — Restaurant #17
+
+## New Candidate Promotions
+
+1
+
+## Confidence Increases
+
+1
+
+## Demotions
+
+0
+
+## Renames
+
+0
+
+## Merges
+
+0
+
+## Validated Promotions
+
+0
+
+## Research-Derived Principle Promotions
+
+0
+
+## Partially Supported Changes
+
+0
+
+## Existing Implementation Pattern Changes
+
+0
+
+## Opportunity Theme Changes
+
+0
+
+## Track B Learning Changes
+
+0
+
+---
+
+# Current Registry Snapshot — Post Restaurant #17
+
+```text
+
+Independent Restaurants:
+
+17
+
+Track B Validation Cases:
+
+1
+
+Emerging:
+
+8
+
+Candidate:
+
+26
+
+Partially Supported:
+
+1
+
+Validated:
+
+0
+
+Research-Derived KHDS Principles:
+
+0
+
+Existing Implementation Patterns Pending Formal Validation:
+
+1
+
+Opportunity Themes:
+
+36
+
+Track B Implementation Learnings:
+
+17
+
+Highest Research-Derived Maturity:
+
+Candidate
+
+```
+
+---
+
+# Next Research Priorities — Post–Avatar Robot Café DAWN
+
+## Priority 1 — Multi-Intent Hospitality Falsification
+
+Primary Question:
+
+> **When does offer variety fail to justify separate participation architecture?**
+
+## Priority 2 — Escalating Participation Complexity Definition
+
+Primary Question:
+
+> **Can the direction predict route branching and support precision without implying linear interface escalation?**
+
+## Priority 3 — Human Assistance Failure Case
+
+Primary Question:
+
+> **When does human assistance compensate for weak structure rather than safely resolve an exception?**
+
+## Priority 4 — Ordinary-Looking Difference
+
+Primary Question:
+
+> **Can Photography Should Demonstrate Difference survive without a visually novel subject?**
+
+## Priority 5 — Relationship Capacity Verification
+
+Primary Question:
+
+> **Can available human attention be proven without exposing sensitive workforce allocation?**
+
+## Priority 6 — Pilot Recognition Outcome
+
+Primary Question:
+
+> **Do guests recognise the remote person as the hospitality agent?**
+
+## Priority 7 — Bidirectional Accessibility
+
+Primary Question:
+
+> **When does accessibility become operating infrastructure for both guests and workers?**
+
+## Priority 8 — Social Outcome Evidence
+
+Primary Question:
+
+> **Which employment, loneliness, belonging, and independence claims survive beyond published mechanism?**
+
+## Priority 9 — Stable Participation Under Route Change
+
+Primary Question:
+
+> **Does stability live in mechanics, consequence rules, or higher governing principles?**
+
+## Priority 10 — Minimal Participation Countercase
+
+Primary Question:
+
+> **How little guest work can remain while participation is still meaningfully designed?**
+
+---
+
 # Registry Status
 
-Restaurant #16 Dossier:
+Restaurant #17 Dossier:
+
+Complete
+
+Knowledge Extraction:
 
 Complete
 
@@ -4554,15 +5404,15 @@ Invitation Implementation Pattern:
 
 # Final Registry Position
 
-After 16 independent restaurants, the registry mirrors:
+After 17 independent restaurants, the registry mirrors:
 
 ```text
 
 Candidate:
-25
+26
 
 Emerging:
-9
+8
 
 Partially Supported:
 1
@@ -4575,31 +5425,27 @@ Research-Derived KHDS Principles:
 
 ```
 
-Restaurant #16 produced:
+Restaurant #17 produced:
 
-two Candidate promotions:
+one Candidate promotion:
 
-- Photography Should Demonstrate Difference
-
-- Human Assistance Where Structured Self-Service Is Insufficient
+- Multi-Intent Hospitality — Emerging to Candidate / Medium
 
 and:
 
-two confidence increases:
+one confidence increase:
 
-- Photography as Proof — Medium to Medium-High
-
-- Capacity Proof — Medium to Medium-High
+- Photography Should Demonstrate Difference — Medium to Medium-High
 
 The strongest registry correction is:
 
 ```text
 
-Visual Absence
+Available Seat
 
 ≠
 
-Evidence Absence
+Available Human Relationship
 
 ```
 
@@ -4607,11 +5453,11 @@ The strongest human-system correction is:
 
 ```text
 
-Human Guidance
+Visible Machine
 
 ≠
 
-Fallback Support
+Visible Human Agency
 
 ```
 
@@ -4619,15 +5465,15 @@ The strongest governance boundary remains:
 
 ```text
 
-Published Mechanism
+Mechanism Evidence
 
 ≠
 
-Verified Performance
+Outcome Evidence
 
 ```
 
-The registry has grown without lowering its threshold.
+The registry has grown by one Candidate without lowering its threshold.
 
 There are still no Validated patterns and no research-derived KHDS Principles.
 

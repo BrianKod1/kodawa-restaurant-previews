@@ -1,16 +1,16 @@
-# KHDS Research
+KHDS Research
 
-## Status
+Status
 
-Post–Dans le Noir? London Research Governance Mirror
+Post–Avatar Robot Café DAWN, Tokyo Research Governance Mirror
 
 Latest Reconciled Restaurant:
 
-Dans le Noir? London
+Avatar Robot Café DAWN, Tokyo
 
 Independent Restaurants Reconciled:
 
-16
+17
 
 Track B Validation Cases:
 
@@ -18,7 +18,7 @@ Track B Validation Cases:
 
 Canonical Governance Source:
 
-`khds/research/validation/candidate-patterns.md`
+khds/research/validation/candidate-patterns.md
 
 This file is:
 
@@ -64,13 +64,11 @@ the canonical governance file
 
 ever disagree:
 
-`khds/research/validation/candidate-patterns.md`
+khds/research/validation/candidate-patterns.md
 
 wins.
 
----
-
-# What KHDS Research Is
+What KHDS Research Is
 
 KHDS research exists to:
 
@@ -148,21 +146,15 @@ specific:
 
 contexts.
 
----
+Core Research Rule
 
-# Core Research Rule
+Research narrows the decision space. It does not make the decision for us.
 
-> **Research narrows the decision space. It does not make the decision for us.**
+Production Rule
 
----
+Do not force KHDS into the restaurant. Use KHDS to understand what the restaurant needs.
 
-# Production Rule
-
-> **Do not force KHDS into the restaurant. Use KHDS to understand what the restaurant needs.**
-
----
-
-# Research Tracks
+Research Tracks
 
 KHDS currently has:
 
@@ -172,9 +164,7 @@ distinct:
 
 tracks.
 
----
-
-# Track A — Independent Hospitality Research
+Track A — Independent Hospitality Research
 
 Purpose:
 
@@ -194,37 +184,35 @@ outcomes.
 
 Track A is responsible for:
 
-- observations
+observations
 
-- comparisons
+comparisons
 
-- contradictions
+contradictions
 
-- research directions
+research directions
 
-- Emerging patterns
+Emerging patterns
 
-- Candidate patterns
+Candidate patterns
 
-- confidence
+confidence
 
-- maturity
+maturity
 
-- evidence boundaries
+evidence boundaries
 
-- falsification
+falsification
 
 Track A currently contains:
 
-16:
+17:
 
 independent:
 
 restaurants.
 
----
-
-# Track B — Production Validation
+Track B — Production Validation
 
 Purpose:
 
@@ -252,11 +240,8 @@ Track B currently contains:
 
 validation case.
 
----
+Track Separation Rule
 
-# Track Separation Rule
-
-```text
 
 Production Success
 
@@ -264,7 +249,6 @@ Production Success
 
 Research Validation
 
-```
 
 A:
 
@@ -302,13 +286,9 @@ production:
 
 solution.
 
----
+Current Research Cases
 
-# Current Research Cases
-
----
-
-# Restaurant #1 — Ankole
+Restaurant #1 — Ankole
 
 Track:
 
@@ -316,15 +296,13 @@ Track A
 
 Primary pressure:
 
-- place
+place
 
-- refinement
+refinement
 
-- hospitality identity
+hospitality identity
 
----
-
-# Restaurant #2 — Cultiva
+Restaurant #2 — Cultiva
 
 Track:
 
@@ -332,17 +310,15 @@ Track A
 
 Primary pressure:
 
-- worldview
+worldview
 
-- sourcing
+sourcing
 
-- food system
+food system
 
-- culinary philosophy
+culinary philosophy
 
----
-
-# Restaurant #3 — Talisman
+Restaurant #3 — Talisman
 
 Track:
 
@@ -350,17 +326,15 @@ Track A
 
 Primary pressure:
 
-- heritage
+heritage
 
-- place
+place
 
-- continuity
+continuity
 
-- established identity
+established identity
 
----
-
-# Restaurant #4 — Mawimbi
+Restaurant #4 — Mawimbi
 
 Track:
 
@@ -368,17 +342,15 @@ Track A
 
 Primary pressure:
 
-- atmosphere
+atmosphere
 
-- destination value
+destination value
 
-- designed escape
+designed escape
 
-- experiential promise
+experiential promise
 
----
-
-# Restaurant #5 — Bistro Lolo
+Restaurant #5 — Bistro Lolo
 
 Track:
 
@@ -386,17 +358,15 @@ Track A
 
 Primary pressure:
 
-- belonging
+belonging
 
-- social rhythm
+social rhythm
 
-- neighbourhood use
+neighbourhood use
 
-- hospitality familiarity
+hospitality familiarity
 
----
-
-# Restaurant #6 — FYN
+Restaurant #6 — FYN
 
 Track:
 
@@ -404,19 +374,17 @@ Track A
 
 Primary pressure:
 
-- authority
+authority
 
-- biography
+biography
 
-- ecology
+ecology
 
-- high-commitment hospitality
+high-commitment hospitality
 
-- restraint
+restraint
 
----
-
-# Restaurant #7 — Dishoom Covent Garden
+Restaurant #7 — Dishoom Covent Garden
 
 Track:
 
@@ -424,17 +392,15 @@ Track A
 
 Primary pressure:
 
-- narrative world
+narrative world
 
-- cultural memory
+cultural memory
 
-- place
+place
 
-- reservation + walk-in participation
+reservation + walk-in participation
 
----
-
-# Restaurant #8 — Franklin Barbecue
+Restaurant #8 — Franklin Barbecue
 
 Track:
 
@@ -442,19 +408,17 @@ Track A
 
 Primary pressure:
 
-- product authority
+product authority
 
-- process
+process
 
-- queue
+queue
 
-- walk-in participation
+walk-in participation
 
-- operational reality
+operational reality
 
----
-
-# Restaurant #9 — Alinea
+Restaurant #9 — Alinea
 
 Track:
 
@@ -462,19 +426,17 @@ Track A
 
 Primary pressure:
 
-- selective reveal
+selective reveal
 
-- transformation
+transformation
 
-- high commitment
+high commitment
 
-- anticipation
+anticipation
 
-- controlled experience
+controlled experience
 
----
-
-# Restaurant #10 — NARISAWA
+Restaurant #10 — NARISAWA
 
 Track:
 
@@ -482,19 +444,17 @@ Track A
 
 Primary pressure:
 
-- ecology
+ecology
 
-- philosophy
+philosophy
 
-- place relationship
+place relationship
 
-- craft
+craft
 
-- culinary authority
+culinary authority
 
----
-
-# Restaurant #11 — Haidilao Toronto Downtown
+Restaurant #11 — Haidilao Toronto Downtown
 
 Track:
 
@@ -502,19 +462,17 @@ Track A
 
 Primary pressure:
 
-- human service
+human service
 
-- social participation
+social participation
 
-- ritual
+ritual
 
-- service visibility
+service visibility
 
-- high-interaction hospitality
+high-interaction hospitality
 
----
-
-# Restaurant #12 — ICHIRAN Shibuya
+Restaurant #12 — ICHIRAN Shibuya
 
 Track:
 
@@ -522,21 +480,19 @@ Track A
 
 Primary pressure:
 
-- privacy
+privacy
 
-- individual participation
+individual participation
 
-- concentration
+concentration
 
-- low social exposure
+low social exposure
 
-- structured self-service
+structured self-service
 
-- hospitality system proof
+hospitality system proof
 
----
-
-# Restaurant #13 — Din Tai Fung Covent Garden
+Restaurant #13 — Din Tai Fung Covent Garden
 
 Track:
 
@@ -544,21 +500,19 @@ Track A
 
 Primary pressure:
 
-- standardized craft
+standardized craft
 
-- product proof
+product proof
 
-- multi-route participation
+multi-route participation
 
-- walk-in
+walk-in
 
-- local expression inside global brand
+local expression inside global brand
 
-- story through hospitality model
+story through hospitality model
 
----
-
-# Restaurant #14 — Noma Copenhagen 2026
+Restaurant #14 — Noma Copenhagen 2026
 
 Track:
 
@@ -566,27 +520,25 @@ Track A
 
 Primary pressure:
 
-- time
+time
 
-- change
+change
 
-- seasonal operating logic
+seasonal operating logic
 
-- research identity
+research identity
 
-- future-product uncertainty
+future-product uncertainty
 
-- institutional continuity
+institutional continuity
 
-- post-commitment agency
+post-commitment agency
 
-- evidence freshness
+evidence freshness
 
-- adaptation
+adaptation
 
----
-
-# Restaurant #15 — Restaurant Pearl Morissette
+Restaurant #15 — Restaurant Pearl Morissette
 
 Track:
 
@@ -594,29 +546,28 @@ Track A
 
 Primary pressure:
 
-- destination access
+destination access
 
-- geographic commitment
+geographic commitment
 
-- place as productive context
+place as productive context
 
-- proof through relationships
+proof through relationships
 
-- distributed culinary systems
+distributed culinary systems
 
-- visit preparation
+visit preparation
 
-- participation across the full journey
+participation across the full journey
 
-- stable participation with variable product
+stable participation with variable product
 
-- capacity without full outcome reveal
+capacity without full outcome reveal
 
-- narrative ecosystem boundaries
+narrative ecosystem boundaries
 
 Primary governance contribution:
 
-```text
 
 Thing
 
@@ -624,7 +575,6 @@ Thing
 
 Relationship
 
-```
 
 Restaurant Pearl Morissette:
 
@@ -660,9 +610,7 @@ and:
 
 product.
 
----
-
-# Restaurant #16 — Dans le Noir? London
+Restaurant #16 — Dans le Noir? London
 
 Track:
 
@@ -674,29 +622,28 @@ Deliberate contradiction case
 
 Primary pressure:
 
-- non-visual evidence
+non-visual evidence
 
-- complete darkness as an operating condition
+complete darkness as an operating condition
 
-- visible perimeter / invisible core
+visible perimeter / invisible core
 
-- human-guided participation
+human-guided participation
 
-- consequence clarity under outcome uncertainty
+consequence clarity under outcome uncertainty
 
-- stable participation around a changing and concealed product
+stable participation around a changing and concealed product
 
-- capacity proof through procedure
+capacity proof through procedure
 
-- participation complexity without interface complexity
+participation complexity without interface complexity
 
-- operationalised role reversal
+operationalised role reversal
 
-- inclusion as operating capability
+inclusion as operating capability
 
 Primary governance contribution:
 
-```text
 
 Visual Absence
 
@@ -704,7 +651,6 @@ Visual Absence
 
 Evidence Absence
 
-```
 
 Dans le Noir? London strengthens:
 
@@ -736,9 +682,79 @@ or:
 
 lasting transformation.
 
----
+Restaurant #17 — Avatar Robot Café DAWN, Tokyo
 
-# Track B Validation Case — Trunk & Tandoor
+Track:
+
+Track A
+
+Research role:
+
+Human-mediated technology and multi-intent hospitality case
+
+Primary pressure:
+
+remote human presence inside physical hospitality
+
+accessibility as operating infrastructure
+
+technology as mediation rather than automation
+
+multiple guest intents inside one venue
+
+pilot identity and relationship visibility
+
+ordinary-looking difference
+
+mission narrative versus outcome evidence
+
+route-specific arrival and reservation preparation
+
+stable participation across variable offers
+
+employment, agency and inclusion claim boundaries
+
+Primary governance contribution:
+
+
+Human Mediation Through Technology
+
+≠
+
+Human Replacement by Technology
+
+
+Avatar Robot Café DAWN strengthens:
+
+multi-intent hospitality
+
+relationship-level photography
+
+story through operating model
+
+and:
+
+hospitality system proof.
+
+It does not:
+
+independently prove:
+
+employment quality
+
+pilot agency
+
+social inclusion
+
+guest transformation
+
+relationship quality
+
+or:
+
+operational performance at scale.
+
+Track B Validation Case — Trunk & Tandoor
 
 Track:
 
@@ -770,19 +786,16 @@ by:
 
 production success alone.
 
----
+Current Canonical Research State
 
-# Current Canonical Research State
 
-```text
-
-Independent Restaurants: 16
+Independent Restaurants: 17
 
 Track B Validation Cases: 1
 
-Emerging Patterns: 9
+Emerging Patterns: 8
 
-Candidate Patterns: 25
+Candidate Patterns: 26
 
 Partially Supported Patterns: 1
 
@@ -798,11 +811,8 @@ Track B Implementation Learnings: 17
 
 Highest Research-Derived Maturity: Candidate
 
-```
 
----
-
-# Research Maturity Ladder
+Research Maturity Ladder
 
 Current:
 
@@ -812,7 +822,6 @@ maturity:
 
 sequence:
 
-```text
 
 Observed Research Direction
 
@@ -832,15 +841,12 @@ Validated
 
 Research-Derived Principle
 
-```
 
 Additional status:
 
-```text
 
 Partially Supported
 
-```
 
 is used when:
 
@@ -872,11 +878,8 @@ full:
 
 pattern.
 
----
+Important Maturity Boundary
 
-# Important Maturity Boundary
-
-```text
 
 Strong Support
 
@@ -884,11 +887,9 @@ Strong Support
 
 Validated
 
-```
 
 and:
 
-```text
 
 Repeated Observation
 
@@ -896,7 +897,6 @@ Repeated Observation
 
 Principle
 
-```
 
 KHDS currently has:
 
@@ -912,67 +912,65 @@ and:
 
 Research-Derived Principles.
 
----
-
-# Canonical Candidate Patterns
+Canonical Candidate Patterns
 
 Current Candidate Count:
 
-25
+26
 
-1. Atmosphere Through Worldview — Candidate / High
+Atmosphere Through Worldview — Candidate / High
 
-2. Show the System Behind the Plate — Candidate / High
+Show the System Behind the Plate — Candidate / High
 
-3. Heritage Builds Confidence — Candidate / Medium-High
+Heritage Builds Confidence — Candidate / Medium-High
 
-4. Atmosphere Through Continuity — Candidate / Medium-High
+Atmosphere Through Continuity — Candidate / Medium-High
 
-5. Designed Escape — Candidate / Medium
+Designed Escape — Candidate / Medium
 
-6. Biography When It Explains the Experience — Candidate / High
+Biography When It Explains the Experience — Candidate / High
 
-7. Narrative Language Within Clear Interface — Candidate / High
+Narrative Language Within Clear Interface — Candidate / High
 
-8. Photography as Use-Case Evidence — Candidate / Medium-High
+Photography as Use-Case Evidence — Candidate / Medium-High
 
-9. Walk-In as First-Class Participation — Candidate / High
+Walk-In as First-Class Participation — Candidate / High
 
-10. Story Through Hospitality Model — Candidate / High
+Story Through Hospitality Model — Candidate / High
 
-11. Hospitality System Proof — Candidate / High
+Hospitality System Proof — Candidate / High
 
-12. Story Through Place — Candidate / High
+Story Through Place — Candidate / High
 
-13. Narrative Coherence Through Organising Logic — Candidate / High
+Narrative Coherence Through Organising Logic — Candidate / High
 
-14. Manageable Commitment — Candidate / Medium
+Manageable Commitment — Candidate / Medium
 
-15. Participation Rule Consistency — Candidate / Medium
+Participation Rule Consistency — Candidate / Medium
 
-16. Adaptation as Narrative — Candidate / Medium
+Adaptation as Narrative — Candidate / Medium
 
-17. Layered Arrival — Candidate / Medium
+Layered Arrival — Candidate / Medium
 
-18. Atmosphere Through Consistency — Candidate / Medium
+Atmosphere Through Consistency — Candidate / Medium
 
-19. Photography as Proof — Candidate / Medium-High
+Photography as Proof — Candidate / Medium-High
 
-20. Photography Through Layers of Experience — Candidate / Medium
+Photography Through Layers of Experience — Candidate / Medium
 
-21. Participation Throughout the Journey — Candidate / Medium
+Participation Throughout the Journey — Candidate / Medium
 
-22. Capacity Proof — Candidate / Medium-High
+Capacity Proof — Candidate / Medium-High
 
-23. Stable Participation / Variable Product — Candidate / Medium
+Stable Participation / Variable Product — Candidate / Medium
 
-24. Photography Should Demonstrate Difference — Candidate / Medium
+Photography Should Demonstrate Difference — Candidate / Medium-High
 
-25. Human Assistance Where Structured Self-Service Is Insufficient — Candidate / Medium
+Human Assistance Where Structured Self-Service Is Insufficient — Candidate / Medium
 
----
+Multi-Intent Hospitality — Candidate / Medium
 
-# Current Candidate Confidence Distribution
+Current Candidate Confidence Distribution
 
 | Confidence | Count |
 
@@ -980,11 +978,11 @@ Current Candidate Count:
 
 | High | 9 |
 
-| Medium-High | 5 |
+| Medium-High | 6 |
 
 | Medium | 11 |
 
-| Total | 25 |
+| Total | 26 |
 
 The distribution reflects:
 
@@ -1026,9 +1024,7 @@ independent:
 
 pressure.
 
----
-
-# Post–Noma Candidate Promotions
+Post–Noma Candidate Promotions
 
 The following:
 
@@ -1048,11 +1044,8 @@ cross-restaurant:
 
 reconciliation.
 
----
+Story Through Place
 
-# Story Through Place
-
-```text
 
 Emerging
 
@@ -1060,13 +1053,9 @@ Emerging
 
 Candidate / Medium-High
 
-```
 
----
+Narrative Coherence Through Organising Logic
 
-# Narrative Coherence Through Organising Logic
-
-```text
 
 Emerging
 
@@ -1074,13 +1063,9 @@ Emerging
 
 Candidate / Medium-High
 
-```
 
----
+Manageable Commitment
 
-# Manageable Commitment
-
-```text
 
 Observed Research Direction
 
@@ -1088,13 +1073,9 @@ Observed Research Direction
 
 Candidate / Medium
 
-```
 
----
+Participation Rule Consistency
 
-# Participation Rule Consistency
-
-```text
 
 Observed Research Direction
 
@@ -1102,13 +1083,9 @@ Observed Research Direction
 
 Candidate / Medium
 
-```
 
----
+Adaptation as Narrative
 
-# Adaptation as Narrative
-
-```text
 
 Observed Research Direction
 
@@ -1116,17 +1093,11 @@ Observed Research Direction
 
 Candidate / Medium
 
-```
 
----
+Post–Noma Confidence Changes
 
-# Post–Noma Confidence Changes
+Heritage Builds Confidence
 
----
-
-# Heritage Builds Confidence
-
-```text
 
 Candidate / Medium
 
@@ -1134,13 +1105,9 @@ Candidate / Medium
 
 Candidate / Medium-High
 
-```
 
----
+Atmosphere Through Continuity
 
-# Atmosphere Through Continuity
-
-```text
 
 Candidate / Medium
 
@@ -1148,13 +1115,9 @@ Candidate / Medium
 
 Candidate / Medium-High
 
-```
 
----
+Story Through Hospitality Model
 
-# Story Through Hospitality Model
-
-```text
 
 Candidate / Medium-High
 
@@ -1162,13 +1125,9 @@ Candidate / Medium-High
 
 Candidate / High
 
-```
 
----
+Hospitality System Proof
 
-# Hospitality System Proof
-
-```text
 
 Candidate / Medium
 
@@ -1176,15 +1135,11 @@ Candidate / Medium
 
 Candidate / Medium-High
 
-```
 
----
-
-# Post–Noma Review-State Change
+Post–Noma Review-State Change
 
 Atmosphere Through Worldview:
 
-```text
 
 Candidate / Under Review / Medium-High
 
@@ -1192,7 +1147,6 @@ Candidate / Under Review / Medium-High
 
 Candidate / Medium-High
 
-```
 
 Under Review:
 
@@ -1202,21 +1156,16 @@ No maturity:
 
 change.
 
----
+Post–Avatar Robot Café DAWN Candidate Promotion
 
-# Post–Dans le Noir? London Candidate Promotions
+Restaurant #17 produced:
 
-Restaurant #16 produced:
+1:
 
-2:
+formal Candidate promotion.
 
-formal Candidate promotions.
+Multi-Intent Hospitality
 
----
-
-# Photography Should Demonstrate Difference
-
-```text
 
 Emerging
 
@@ -1224,7 +1173,254 @@ Emerging
 
 Candidate / Medium
 
-```
+
+DAWN supplies:
+
+the missing:
+
+material-intent:
+
+test.
+
+Its public system supports:
+
+ordinary café participation
+
+interaction with remote OriHime pilots
+
+technology and inclusion learning
+
+tours and organised visits
+
+merchandise or mission-support participation
+
+employment and social-participation interest
+
+The routes are not merely:
+
+different products.
+
+They represent:
+
+different purposes
+
+different preparation
+
+different interaction expectations
+
+and:
+
+different desired outcomes.
+
+Primary boundary:
+
+
+Multiple Offers
+
+≠
+
+Multiple Hospitality Intents
+
+
+The Candidate applies only when:
+
+guest intent
+
+materially changes:
+
+route
+
+preparation
+
+participation
+
+or:
+
+expected outcome.
+
+Post–Avatar Robot Café DAWN Confidence Change
+
+One:
+
+Candidate pattern
+
+received:
+
+a confidence increase.
+
+Photography Should Demonstrate Difference
+
+
+Candidate / Medium
+
+→
+
+Candidate / Medium-High
+
+
+DAWN satisfies:
+
+the ordinary-looking difference:
+
+pressure test.
+
+Photography must demonstrate:
+
+who is present through the avatar
+
+how remote presence enters the room
+
+how pilot and guest relate
+
+why the encounter is structurally different
+
+how technology enables human participation
+
+The device may be:
+
+visually novel.
+
+But:
+
+device novelty alone
+
+does not explain:
+
+the hospitality difference.
+
+Primary boundaries:
+
+
+Visible Robot
+
+≠
+
+Visible Human Relationship
+
+
+
+Visible Novelty
+
+≠
+
+Demonstrated Difference
+
+
+Post–Avatar Robot Café DAWN Explicit Non-Promotions
+
+The following remained Emerging at the end of Restaurant #16:
+
+Emotion Before Interface
+
+Story Before Features
+
+Photography Before Decoration
+
+Commitment Without Pressure
+
+Promise Before Proof
+
+The Guest as Participant
+
+Atmosphere as Product
+
+Escalating Participation Complexity
+
+DAWN strengthens:
+
+several of these directions
+
+without:
+
+resolving:
+
+their definition
+
+boundary
+
+causality
+
+or:
+
+same-name Foundation risk.
+
+Strongest non-promotion correction:
+
+
+Strong Mission Alignment
+
+≠
+
+Automatic Pattern Promotion
+
+
+Candidate Decisions Without Confidence Change — Restaurant #17
+
+DAWN materially supports:
+
+Story Through Hospitality Model
+
+Hospitality System Proof
+
+Layered Arrival
+
+Atmosphere Through Consistency
+
+Photography Through Layers of Experience
+
+Participation Throughout the Journey
+
+Participation Rule Consistency
+
+Manageable Commitment
+
+Stable Participation / Variable Product
+
+Human Assistance Where Structured Self-Service Is Insufficient
+
+Their confidence remains unchanged because:
+
+public evidence
+
+does not yet establish:
+
+operational performance
+
+guest outcomes
+
+pilot outcomes
+
+failure behaviour
+
+or:
+
+full transferability.
+
+
+Strong Confirmation
+
+≠
+
+Automatic Confidence Increase
+
+
+Post–Dans le Noir? London Candidate Promotions — Historical Research Layer
+
+Restaurant #16 produced:
+
+2:
+
+formal Candidate promotions.
+
+Photography Should Demonstrate Difference
+
+
+Emerging
+
+→
+
+Candidate / Medium
+
 
 Dans le Noir? London satisfied:
 
@@ -1240,15 +1436,14 @@ Restaurant #15.
 
 The pattern now survives:
 
-- Difference Through Sequence
+Difference Through Sequence
 
-- Difference Through Relationship
+Difference Through Relationship
 
-- Non-Visual Difference
+Non-Visual Difference
 
 Primary boundaries:
 
-```text
 
 Material Difference
 
@@ -1256,9 +1451,7 @@ Material Difference
 
 Visual Novelty
 
-```
 
-```text
 
 Demonstrate Difference
 
@@ -1266,13 +1459,9 @@ Demonstrate Difference
 
 Show Difference Literally
 
-```
 
----
+Human Assistance Where Structured Self-Service Is Insufficient
 
-# Human Assistance Where Structured Self-Service Is Insufficient
-
-```text
 
 Emerging
 
@@ -1280,7 +1469,6 @@ Emerging
 
 Candidate / Medium
 
-```
 
 Dans le Noir? London provides:
 
@@ -1294,19 +1482,18 @@ mechanism.
 
 Human assistance operates as:
 
-- exception infrastructure
+exception infrastructure
 
-- access infrastructure
+access infrastructure
 
-- physical guidance
+physical guidance
 
-- trust transfer
+trust transfer
 
-- the core hospitality product
+the core hospitality product
 
 Primary boundaries:
 
-```text
 
 Self-Service Availability
 
@@ -1314,9 +1501,7 @@ Self-Service Availability
 
 Self-Service Sufficiency
 
-```
 
-```text
 
 Human Guidance
 
@@ -1324,11 +1509,8 @@ Human Guidance
 
 Fallback Support Only
 
-```
 
----
-
-# Post–Dans le Noir? London Confidence Changes
+Post–Dans le Noir? London Confidence Changes — Historical Research Layer
 
 Two:
 
@@ -1338,9 +1520,8 @@ received:
 
 confidence increases.
 
-# Photography as Proof
+Photography as Proof
 
-```text
 
 Candidate / Medium
 
@@ -1348,7 +1529,6 @@ Candidate / Medium
 
 Candidate / Medium-High
 
-```
 
 Reason:
 
@@ -1364,7 +1544,6 @@ cannot be photographed directly.
 
 Restaurant #16 sharpens:
 
-```text
 
 Photography Can Be Proof
 
@@ -1372,11 +1551,9 @@ without being
 
 Complete Proof
 
-```
 
-# Capacity Proof
+Capacity Proof
 
-```text
 
 Candidate / Medium
 
@@ -1384,7 +1561,6 @@ Candidate / Medium
 
 Candidate / Medium-High
 
-```
 
 Reason:
 
@@ -1400,21 +1576,20 @@ capacity model.
 
 Evidence includes:
 
-- guide roles
+guide roles
 
-- menu testing
+menu testing
 
-- dietary handoff rules
+dietary handoff rules
 
-- real-time availability
+real-time availability
 
-- safety provisions
+safety provisions
 
-- stable participation infrastructure
+stable participation infrastructure
 
 Primary boundary:
 
-```text
 
 Published Capacity Mechanism
 
@@ -1422,35 +1597,31 @@ Published Capacity Mechanism
 
 Verified Capacity Performance
 
-```
 
----
-
-# Post–Dans le Noir? London Explicit Non-Promotions
+Post–Dans le Noir? London Explicit Non-Promotions — Historical Research Layer
 
 The following remain Emerging:
 
-- Escalating Participation Complexity
+Escalating Participation Complexity
 
-- Story Before Features
+Story Before Features
 
-- Promise Before Proof
+Promise Before Proof
 
-- Atmosphere as Product
+Atmosphere as Product
 
-- The Guest as Participant
+The Guest as Participant
 
-- Commitment Without Pressure
+Commitment Without Pressure
 
-- Multi-Intent Hospitality
+Multi-Intent Hospitality
 
-- Emotion Before Interface
+Emotion Before Interface
 
-- Photography Before Decoration
+Photography Before Decoration
 
 Strongest non-promotion correction:
 
-```text
 
 Participation Complexity
 
@@ -1458,7 +1629,6 @@ Participation Complexity
 
 Interface Complexity
 
-```
 
 The explanatory mechanism may be:
 
@@ -1474,9 +1644,7 @@ for:
 
 Candidate maturity.
 
----
-
-# Post–Pearl Morissette Candidate Promotions — Historical Research Layer
+Post–Pearl Morissette Candidate Promotions — Historical Research Layer
 
 Restaurant #15 produced:
 
@@ -1502,11 +1670,8 @@ to:
 
 Candidate.
 
----
+Layered Arrival
 
-# Layered Arrival
-
-```text
 
 Emerging
 
@@ -1514,7 +1679,6 @@ Emerging
 
 Candidate / Medium
 
-```
 
 Pearl Morissette strengthened:
 
@@ -1542,11 +1706,8 @@ and:
 
 experience entry.
 
----
+Atmosphere Through Consistency
 
-# Atmosphere Through Consistency
-
-```text
 
 Emerging
 
@@ -1554,7 +1715,6 @@ Emerging
 
 Candidate / Medium
 
-```
 
 Pearl Morissette strengthened:
 
@@ -1580,11 +1740,8 @@ and:
 
 the operating model.
 
----
+Photography as Proof
 
-# Photography as Proof
-
-```text
 
 Emerging
 
@@ -1592,7 +1749,6 @@ Emerging
 
 Candidate / Medium
 
-```
 
 Pearl Morissette strengthened:
 
@@ -1618,11 +1774,8 @@ and:
 
 productive context.
 
----
+Photography Through Layers of Experience
 
-# Photography Through Layers of Experience
-
-```text
 
 Emerging
 
@@ -1630,7 +1783,6 @@ Emerging
 
 Candidate / Medium
 
-```
 
 Pearl Morissette strengthened:
 
@@ -1654,11 +1806,8 @@ and:
 
 participation.
 
----
+Participation Throughout the Journey
 
-# Participation Throughout the Journey
-
-```text
 
 Emerging
 
@@ -1666,7 +1815,6 @@ Emerging
 
 Candidate / Medium
 
-```
 
 Pearl Morissette strengthened:
 
@@ -1698,11 +1846,8 @@ and:
 
 post-visit relationship.
 
----
+Capacity Proof
 
-# Capacity Proof
-
-```text
 
 Observed Research Direction
 
@@ -1710,7 +1855,6 @@ Observed Research Direction
 
 Candidate / Medium
 
-```
 
 Pearl Morissette strengthened:
 
@@ -1740,11 +1884,8 @@ future-outcome:
 
 reveal.
 
----
+Stable Participation / Variable Product
 
-# Stable Participation / Variable Product
-
-```text
 
 Observed Research Direction
 
@@ -1752,7 +1893,6 @@ Observed Research Direction
 
 Candidate / Medium
 
-```
 
 Pearl Morissette strengthened:
 
@@ -1776,9 +1916,7 @@ or:
 
 outcomes.
 
----
-
-# Post–Pearl Morissette Confidence Changes — Historical Research Layer
+Post–Pearl Morissette Confidence Changes — Historical Research Layer
 
 Four:
 
@@ -1788,11 +1926,8 @@ received:
 
 confidence increases.
 
----
+Atmosphere Through Worldview
 
-# Atmosphere Through Worldview
-
-```text
 
 Candidate / Medium-High
 
@@ -1800,13 +1935,9 @@ Candidate / Medium-High
 
 Candidate / High
 
-```
 
----
+Story Through Place
 
-# Story Through Place
-
-```text
 
 Candidate / Medium-High
 
@@ -1814,13 +1945,9 @@ Candidate / Medium-High
 
 Candidate / High
 
-```
 
----
+Narrative Coherence Through Organising Logic
 
-# Narrative Coherence Through Organising Logic
-
-```text
 
 Candidate / Medium-High
 
@@ -1828,13 +1955,9 @@ Candidate / Medium-High
 
 Candidate / High
 
-```
 
----
+Hospitality System Proof
 
-# Hospitality System Proof
-
-```text
 
 Candidate / Medium-High
 
@@ -1842,11 +1965,8 @@ Candidate / Medium-High
 
 Candidate / High
 
-```
 
----
-
-# Post–Pearl Morissette Explicit Non-Promotions — Historical Research Layer
+Post–Pearl Morissette Explicit Non-Promotions — Historical Research Layer
 
 The following:
 
@@ -1856,9 +1976,7 @@ and:
 
 remain unchanged.
 
----
-
-# Photography Should Demonstrate Difference
+Photography Should Demonstrate Difference
 
 Remains:
 
@@ -1872,9 +1990,7 @@ despite:
 
 stronger mechanisms.
 
----
-
-# Escalating Participation Complexity
+Escalating Participation Complexity
 
 Remains:
 
@@ -1892,9 +2008,7 @@ only describing:
 
 many states.
 
----
-
-# Promise Before Proof
+Promise Before Proof
 
 Remains:
 
@@ -1914,9 +2028,7 @@ and:
 
 Bounded Product Narrative.
 
----
-
-# Story Before Features
+Story Before Features
 
 Remains:
 
@@ -1926,9 +2038,7 @@ because:
 
 generic-content-rule risk remains high.
 
----
-
-# Atmosphere as Product
+Atmosphere as Product
 
 Remains:
 
@@ -1942,9 +2052,7 @@ is not:
 
 publicly observable.
 
----
-
-# Coherence Through Change
+Coherence Through Change
 
 Remains:
 
@@ -1960,43 +2068,35 @@ more than:
 
 the research direction.
 
----
-
-# Canonical Emerging Patterns
+Canonical Emerging Patterns
 
 Current Emerging Count:
 
-9
+8
 
-1. Emotion Before Interface
+Emotion Before Interface
 
-2. Story Before Features
+Story Before Features
 
-3. Photography Before Decoration
+Photography Before Decoration
 
-4. Multi-Intent Hospitality
+Commitment Without Pressure
 
-5. Commitment Without Pressure
+Promise Before Proof
 
-6. Promise Before Proof
+The Guest as Participant
 
-7. The Guest as Participant
+Atmosphere as Product
 
-8. Atmosphere as Product
+Escalating Participation Complexity
 
-9. Escalating Participation Complexity
-
----
-
-# Canonical Partially Supported Pattern
+Canonical Partially Supported Pattern
 
 Current Count:
 
 1
 
----
-
-# Own the Guest Relationship
+Own the Guest Relationship
 
 Status:
 
@@ -2006,19 +2106,19 @@ Research can:
 
 observe:
 
-- direct booking
+direct booking
 
-- direct contact
+direct contact
 
-- newsletter routes
+newsletter routes
 
-- branded participation
+branded participation
 
-- third-party booking
+third-party booking
 
-- privacy-policy statements
+privacy-policy statements
 
-- some intermediary restrictions
+some intermediary restrictions
 
 Research cannot:
 
@@ -2026,25 +2126,24 @@ reliably:
 
 establish:
 
-- full CRM ownership
+full CRM ownership
 
-- full reservation-data ownership
+full reservation-data ownership
 
-- payment-data ownership
+payment-data ownership
 
-- remarketing rights
+remarketing rights
 
-- platform economics
+platform economics
 
-- contract structure
+contract structure
 
-- complete customer-history architecture
+complete customer-history architecture
 
-- complete guest relationship ownership
+complete guest relationship ownership
 
 Key boundaries:
 
-```text
 
 Data Controller Status
 
@@ -2052,9 +2151,7 @@ Data Controller Status
 
 Complete Guest Relationship Ownership
 
-```
 
-```text
 
 Third-Party Booking Surface
 
@@ -2062,19 +2159,14 @@ Third-Party Booking Surface
 
 Guest Relationship Lost
 
-```
 
----
-
-# Existing Implementation Pattern Pending Formal Validation
+Existing Implementation Pattern Pending Formal Validation
 
 Current Count:
 
 1
 
----
-
-# Invitation
+Invitation
 
 Status:
 
@@ -2098,7 +2190,6 @@ from:
 
 research maturity.
 
-```text
 
 Implementation Pattern
 
@@ -2106,7 +2197,6 @@ Implementation Pattern
 
 Research-Derived Pattern
 
-```
 
 unless:
 
@@ -2116,9 +2206,7 @@ research validation
 
 occurs.
 
----
-
-# Current High-Priority Below-Candidate Directions
+Current High-Priority Below-Candidate Directions
 
 These:
 
@@ -2140,9 +2228,7 @@ or:
 
 Research-Derived Principles.
 
----
-
-# Coherence Through Change
+Coherence Through Change
 
 Status:
 
@@ -2158,7 +2244,6 @@ Remain below Candidate
 
 Core correction:
 
-```text
 
 Coherence
 
@@ -2166,7 +2251,6 @@ Coherence
 
 Sameness
 
-```
 
 Need:
 
@@ -2178,9 +2262,7 @@ high-change:
 
 hospitality case.
 
----
-
-# Research as Operating Identity
+Research as Operating Identity
 
 Status:
 
@@ -2194,9 +2276,7 @@ Current decision:
 
 Remain below Candidate.
 
----
-
-# Temporal Story
+Temporal Story
 
 Status:
 
@@ -2208,7 +2288,6 @@ Noma
 
 Core boundary:
 
-```text
 
 Time Exists
 
@@ -2216,15 +2295,12 @@ Time Exists
 
 Time Is Narrative
 
-```
 
 Current decision:
 
 Remain below Candidate.
 
----
-
-# Process-Led Atmosphere
+Process-Led Atmosphere
 
 Status:
 
@@ -2232,7 +2308,6 @@ Observed Research Direction
 
 Core boundary:
 
-```text
 
 Process Exists
 
@@ -2240,15 +2315,12 @@ Process Exists
 
 Process Shapes Atmosphere
 
-```
 
 Current decision:
 
 Remain below Candidate.
 
----
-
-# Research as Atmospheric Mechanism
+Research as Atmospheric Mechanism
 
 Status:
 
@@ -2260,7 +2332,6 @@ Noma
 
 Core boundary:
 
-```text
 
 Research Identity
 
@@ -2268,15 +2339,12 @@ Research Identity
 
 Research Atmosphere
 
-```
 
 Current decision:
 
 Remain below Candidate.
 
----
-
-# Controlled Transferability
+Controlled Transferability
 
 Status:
 
@@ -2288,7 +2356,6 @@ Noma
 
 Core boundary:
 
-```text
 
 Transferability
 
@@ -2296,15 +2363,12 @@ Transferability
 
 Unrestricted Resale Right
 
-```
 
 Current decision:
 
 Remain below Candidate.
 
----
-
-# Access Utility
+Access Utility
 
 Status:
 
@@ -2312,7 +2376,6 @@ Architecture Direction
 
 Core boundary:
 
-```text
 
 Access Utility
 
@@ -2320,11 +2383,8 @@ Access Utility
 
 Hospitality During Waiting
 
-```
 
----
-
-# Hospitality During Waiting
+Hospitality During Waiting
 
 Status:
 
@@ -2332,7 +2392,6 @@ Below Candidate
 
 Core boundary:
 
-```text
 
 Waiting Exists
 
@@ -2340,15 +2399,12 @@ Waiting Exists
 
 Hospitality During Waiting
 
-```
 
 Current decision:
 
 Remain below Candidate.
 
----
-
-# Experiential Human Service
+Experiential Human Service
 
 Status:
 
@@ -2366,9 +2422,7 @@ Current decision:
 
 Remain below Candidate.
 
----
-
-# Social Interaction as Designed Hospitality
+Social Interaction as Designed Hospitality
 
 Status:
 
@@ -2376,9 +2430,9 @@ Below Candidate
 
 Strong support:
 
-- Haidilao
+Haidilao
 
-- Bistro Lolo
+Bistro Lolo
 
 Strong contradiction:
 
@@ -2388,9 +2442,7 @@ Current decision:
 
 Remain below Candidate.
 
----
-
-# Product Focus as Narrative
+Product Focus as Narrative
 
 Status:
 
@@ -2398,11 +2450,11 @@ Architecture Direction
 
 Strong support:
 
-- Franklin
+Franklin
 
-- ICHIRAN
+ICHIRAN
 
-- Din Tai Fung
+Din Tai Fung
 
 Strong boundary:
 
@@ -2410,7 +2462,6 @@ Noma
 
 Core correction:
 
-```text
 
 Signature Product
 
@@ -2418,11 +2469,8 @@ Signature Product
 
 Required Narrative Anchor
 
-```
 
----
-
-# Constraint as Narrative
+Constraint as Narrative
 
 Status:
 
@@ -2430,13 +2478,12 @@ Architecture Direction
 
 Strong pressure:
 
-- ICHIRAN
+ICHIRAN
 
-- Noma
+Noma
 
 Core boundary:
 
-```text
 
 Operational Constraint
 
@@ -2444,11 +2491,8 @@ Operational Constraint
 
 Narrative
 
-```
 
----
-
-# Productive Narrative Tension
+Productive Narrative Tension
 
 Status:
 
@@ -2460,7 +2504,6 @@ Noma
 
 Core boundary:
 
-```text
 
 Narrative Tension
 
@@ -2468,15 +2511,12 @@ Narrative Tension
 
 Narrative Contradiction
 
-```
 
 Current decision:
 
 Remain below Candidate.
 
----
-
-# Supporting Architecture Mechanisms
+Supporting Architecture Mechanisms
 
 The following:
 
@@ -2494,25 +2534,19 @@ formal:
 
 patterns.
 
----
-
-# Distributed Biography
+Distributed Biography
 
 Home:
 
 Biography When It Explains the Experience
 
----
-
-# Living Heritage
+Living Heritage
 
 Home:
 
 Heritage Builds Confidence
 
----
-
-# Future-Facing Heritage
+Future-Facing Heritage
 
 Home:
 
@@ -2522,33 +2556,25 @@ Living Heritage
 
 Heritage Builds Confidence
 
----
-
-# Method Continuity
+Method Continuity
 
 Home:
 
 Atmosphere Through Continuity
 
----
-
-# Cross-Surface Participation Consistency
+Cross-Surface Participation Consistency
 
 Home:
 
 Participation Rule Consistency
 
----
-
-# Process-Led Narrative
+Process-Led Narrative
 
 Home:
 
 Story Through Hospitality Model
 
----
-
-# Research as Narrative Carrier
+Research as Narrative Carrier
 
 Likely Home:
 
@@ -2564,61 +2590,47 @@ shapes:
 
 hospitality meaning.
 
----
-
-# Leadership Transition as Narrative
+Leadership Transition as Narrative
 
 Home:
 
 Adaptation as Narrative
 
----
-
-# Adaptive Narrative
+Adaptive Narrative
 
 Home:
 
 Adaptation as Narrative
 
-+
+
 
 Narrative Coherence architecture.
 
----
-
-# Transition Narrative
+Transition Narrative
 
 Home:
 
 Adaptation as Narrative
 
----
-
-# Narrative Temporal Coherence
+Narrative Temporal Coherence
 
 Home:
 
 Narrative Coherence Through Organising Logic
 
----
-
-# Relational Place Narrative
+Relational Place Narrative
 
 Home:
 
 Story Through Place
 
----
-
-# Access-Release Waiting
+Access-Release Waiting
 
 Home:
 
 Access Waiting
 
----
-
-# Archive as Proof
+Archive as Proof
 
 Home:
 
@@ -2630,95 +2642,73 @@ possible:
 
 relationship to:
 
-- Photography as Proof
+Photography as Proof
 
-- Heritage Builds Confidence
+Heritage Builds Confidence
 
-- Capacity Proof
+Capacity Proof
 
----
-
-# Temporal Proof Sequencing
+Temporal Proof Sequencing
 
 Home:
 
 Proof Architecture
 
----
-
-# Difference Through Sequence
+Difference Through Sequence
 
 Home:
 
 Photography Should Demonstrate Difference
 
----
-
-# Absence as Evidence Integrity
+Absence as Evidence Integrity
 
 Home:
 
 Proof Architecture
 
----
-
-# Versioned Evidence
+Versioned Evidence
 
 Home:
 
 Implementation / Evidence Architecture
 
----
-
-# Temporal Arrival
+Temporal Arrival
 
 Home:
 
 Arrival Architecture
 
----
-
-# Temporal State Proof
+Temporal State Proof
 
 Home:
 
 Participation Architecture
 
----
-
-# Deadline as Participation Infrastructure
+Deadline as Participation Infrastructure
 
 Home:
 
 Participation Architecture
 
----
-
-# Deadline Hierarchy
+Deadline Hierarchy
 
 Home:
 
 Participation Architecture
 
----
-
-# Fixed / Open Narrative
+Fixed / Open Narrative
 
 Home:
 
 Story Architecture
 
----
-
-# Institutional Narrative
+Institutional Narrative
 
 Home:
 
 Story Architecture
 
----
-
-# Research Dimensions
+Research Dimensions
 
 Track A research currently compares:
 
@@ -2728,17 +2718,14 @@ core:
 
 dimensions.
 
----
-
-# 1. Arrival
+1. Arrival
 
 Core question:
 
-> **What must the guest understand before making an appropriate hospitality commitment?**
+What must the guest understand before making an appropriate hospitality commitment?
 
 Current strongest abstraction:
 
-```text
 
 Guest Intent
 
@@ -2802,57 +2789,52 @@ Appropriate Certainty
 
 Appropriate Participation
 
-```
 
----
+Arrival — Current Important Variables
 
-# Arrival — Current Important Variables
+Brand Familiarity
 
-- Brand Familiarity
+Experience Familiarity
 
-- Experience Familiarity
+Participation Familiarity
 
-- Participation Familiarity
+Product Familiarity
 
-- Product Familiarity
+Product Specificity Confidence
 
-- Product Specificity Confidence
+Product Creation Confidence
 
-- Product Creation Confidence
+Place Confidence
 
-- Place Confidence
+Experience Confidence
 
-- Experience Confidence
+Participation Confidence
 
-- Participation Confidence
+Compatibility Confidence
 
-- Compatibility Confidence
+Commitment Confidence
 
-- Commitment Confidence
+Institutional Confidence
 
-- Institutional Confidence
+Operating Logic Confidence
 
-- Operating Logic Confidence
+Expectation Range
 
-- Expectation Range
+Uncertainty Type
 
-- Uncertainty Type
+Future Outcome Uncertainty
 
-- Future Outcome Uncertainty
+Access Window
 
-- Access Window
+Temporal State
 
-- Temporal State
+Evidence Freshness
 
-- Evidence Freshness
+Identity Invariant
 
-- Identity Invariant
+Arrival — Current Uncertainty Types
 
----
-
-# Arrival — Current Uncertainty Types
-
-### Known and Published
+Known and Published
 
 Information:
 
@@ -2864,7 +2846,7 @@ is:
 
 available.
 
-### Known but Intentionally Unrevealed
+Known but Intentionally Unrevealed
 
 Information:
 
@@ -2882,7 +2864,7 @@ Strong pressure:
 
 Alinea.
 
-### Operationally Variable
+Operationally Variable
 
 State:
 
@@ -2912,7 +2894,7 @@ ICHIRAN
 
 Din Tai Fung.
 
-### Not Yet Fixed
+Not Yet Fixed
 
 Future:
 
@@ -2934,7 +2916,6 @@ Noma.
 
 Key correction:
 
-```text
 
 Unknown
 
@@ -2942,19 +2923,15 @@ Unknown
 
 Hidden
 
-```
 
----
-
-# 2. Atmosphere
+2. Atmosphere
 
 Core question:
 
-> **What actually creates the guest-facing atmospheric condition?**
+What actually creates the guest-facing atmospheric condition?
 
 Current strongest abstraction:
 
-```text
 
 Hospitality Model
 
@@ -3002,45 +2979,41 @@ Temporal Coherence where relevant
 
 Atmospheric Experience
 
-```
 
----
+Atmosphere — Current Important Variables
 
-# Atmosphere — Current Important Variables
+Desired Guest State
 
-- Desired Guest State
+Compatible Guest-State Cluster
 
-- Compatible Guest-State Cluster
+Primary Atmospheric Mechanism
 
-- Primary Atmospheric Mechanism
+Supporting Atmospheric Mechanisms
 
-- Supporting Atmospheric Mechanisms
+Place Relationship
 
-- Place Relationship
+Service Presence
 
-- Service Presence
+Service Availability
 
-- Service Availability
+Production Presence
 
-- Production Presence
+Relevant Absence
 
-- Relevant Absence
+Relational Coherence
 
-- Relational Coherence
+Temporal Coherence
 
-- Temporal Coherence
+Method Continuity
 
-- Method Continuity
+Atmospheric Invariant
 
-- Atmospheric Invariant
+Atmospheric Promise
 
-- Atmospheric Promise
-
-- Atmospheric Experience
+Atmospheric Experience
 
 Key boundary:
 
-```text
 
 Atmospheric Promise
 
@@ -3048,19 +3021,15 @@ Atmospheric Promise
 
 Atmospheric Experience
 
-```
 
----
-
-# 3. Photography / Proof
+3. Photography / Proof
 
 Core question:
 
-> **What must be proven, how deeply, at what scale, and through which medium?**
+What must be proven, how deeply, at what scale, and through which medium?
 
 Current strongest abstraction:
 
-```text
 
 Guest Decision
 
@@ -3108,41 +3077,37 @@ Minimum Sufficient Evidence
 
 Appropriate Confidence
 
-```
 
----
+Proof — Current Important Variables
 
-# Proof — Current Important Variables
+Claim
 
-- Claim
+Claim Scale
 
-- Claim Scale
+Proof Depth
 
-- Proof Depth
+Evidence Medium
 
-- Evidence Medium
+Claim Fit
 
-- Claim Fit
+Location Fit
 
-- Location Fit
+Temporal Fit
 
-- Temporal Fit
+State Fit
 
-- State Fit
+Evidence Freshness
 
-- Evidence Freshness
+Evidence Durability
 
-- Evidence Durability
+Evidence Legibility
 
-- Evidence Legibility
+Evidence Time Scale
 
-- Evidence Time Scale
-
-- Minimum Sufficient Evidence
+Minimum Sufficient Evidence
 
 Current relationship:
 
-```text
 
 Evidence Fit
 
@@ -3162,21 +3127,17 @@ Temporal Fit
 
 State Fit
 
-```
 
 Architecture hypothesis.
 
----
-
-# 4. Reservation / Participation
+4. Reservation / Participation
 
 Core question:
 
-> **How should the hospitality system help the guest enter, understand, manage, and complete participation?**
+How should the hospitality system help the guest enter, understand, manage, and complete participation?
 
 Current strongest abstraction:
 
-```text
 
 Guest Intent
 
@@ -3220,79 +3181,74 @@ Participation
 
 Completion
 
-```
 
----
+Participation — Current Important Variables
 
-# Participation — Current Important Variables
+Guest Intent
 
-- Guest Intent
+Participation Route
 
-- Participation Route
+Participation State
 
-- Participation State
+Participation Breadth
 
-- Participation Breadth
+Participation Depth
 
-- Participation Depth
+Participation Orientation
 
-- Participation Orientation
+Availability Layer
 
-- Availability Layer
+Availability Phase
 
-- Availability Phase
+Access Window
 
-- Access Window
+Commitment Level
 
-- Commitment Level
+Financial Commitment State
 
-- Financial Commitment State
+Commitment Reversibility
 
-- Commitment Reversibility
+Reversibility Window
 
-- Reversibility Window
+Participation Complexity
 
-- Participation Complexity
+Consequence Complexity
 
-- Consequence Complexity
+Resource Coupling
 
-- Resource Coupling
+Exception Load
 
-- Exception Load
+Escalation Level
 
-- Escalation Level
+Constraint Legibility
 
-- Constraint Legibility
+Policy Freshness
 
-- Policy Freshness
+Access Transfer Rule
 
-- Access Transfer Rule
+Time-Driven State Transition
 
-- Time-Driven State Transition
+Time Sensitivity
 
-- Time Sensitivity
+Deadline Hierarchy
 
-- Deadline Hierarchy
+Outcome Variability Disclosure
 
-- Outcome Variability Disclosure
+Flexibility Layer
 
-- Flexibility Layer
-
----
-
-# Waiting Taxonomy
+Waiting Taxonomy
 
 Canonical waiting types remain:
 
-1. Access Waiting
+Access Waiting
 
-2. Resource Waiting
+Resource Waiting
 
-3. Product Waiting
+Product Waiting
 
-4. Service Waiting
+Service Waiting
 
-5. Exception Waiting
+Exception Waiting
 
 Noma adds:
 
@@ -3308,7 +3264,6 @@ of:
 
 Access Waiting.
 
-```text
 
 Access-Release Waiting
 
@@ -3316,7 +3271,6 @@ Access-Release Waiting
 
 Access Waiting
 
-```
 
 No:
 
@@ -3326,17 +3280,14 @@ formal:
 
 waiting category.
 
----
-
-# 5. Story / Narrative
+5. Story / Narrative
 
 Core question:
 
-> **What best explains what this hospitality experience means?**
+What best explains what this hospitality experience means?
 
 Current strongest abstraction:
 
-```text
 
 Hospitality Meaning
 
@@ -3388,43 +3339,38 @@ Relevant Evidence
 
 Guest Understanding
 
-```
 
----
+Story — Current Important Variables
 
-# Story — Current Important Variables
+Narrative Carrier
 
-- Narrative Carrier
+Narrative Subject
 
-- Narrative Subject
+Narrative Anchor
 
-- Narrative Anchor
+Narrative Invariant
 
-- Narrative Invariant
+Narrative Distribution
 
-- Narrative Distribution
+Narrative Scale
 
-- Narrative Scale
+Narrative Entity
 
-- Narrative Entity
+Narrative Era
 
-- Narrative Era
+Narrative Boundary
 
-- Narrative Boundary
+Narrative Horizon
 
-- Narrative Horizon
+Narrative Freshness
 
-- Narrative Freshness
+Institutional Continuity
 
-- Institutional Continuity
+Method as Narrative Anchor
 
-- Method as Narrative Anchor
+Organising Logic
 
-- Organising Logic
-
----
-
-# Architecture Families
+Architecture Families
 
 KHDS now contains:
 
@@ -3444,39 +3390,37 @@ formal:
 
 patterns.
 
----
-
-# Temporal Hospitality Family
+Temporal Hospitality Family
 
 Includes:
 
-- Temporal State
+Temporal State
 
-- Atmospheric Temporal State
+Atmospheric Temporal State
 
-- Temporal Coherence
+Temporal Coherence
 
-- Temporal Evidence Fit
+Temporal Evidence Fit
 
-- Temporal Proof Context
+Temporal Proof Context
 
-- Evidence Time Scale
+Evidence Time Scale
 
-- Temporal Participation Layer
+Temporal Participation Layer
 
-- Time-Driven State Transition
+Time-Driven State Transition
 
-- Temporal State Proof
+Temporal State Proof
 
-- Temporal Story
+Temporal Story
 
-- Narrative Temporal Coherence
+Narrative Temporal Coherence
 
-- Deadline Hierarchy
+Deadline Hierarchy
 
-- Policy Freshness
+Policy Freshness
 
-- Narrative Freshness
+Narrative Freshness
 
 Canonical decision:
 
@@ -3492,7 +3436,6 @@ pattern.
 
 Core boundary:
 
-```text
 
 Time Exists
 
@@ -3500,33 +3443,30 @@ Time Exists
 
 Temporal Hospitality
 
-```
 
----
-
-# Change Architecture Family
+Change Architecture Family
 
 Includes:
 
-- Coherence Through Change
+Coherence Through Change
 
-- Identity Invariant
+Identity Invariant
 
-- Narrative Invariant
+Narrative Invariant
 
-- Atmospheric Invariant
+Atmospheric Invariant
 
-- Method Continuity
+Method Continuity
 
-- Adaptive Narrative
+Adaptive Narrative
 
-- Fixed / Open Narrative
+Fixed / Open Narrative
 
-- Adaptation as Narrative
+Adaptation as Narrative
 
-- Stable Participation / Variable Product
+Stable Participation / Variable Product
 
-- Future-Facing Heritage
+Future-Facing Heritage
 
 Canonical decision:
 
@@ -3540,49 +3480,45 @@ Change:
 
 pattern.
 
----
-
-# Institutional Hospitality Family
+Institutional Hospitality Family
 
 Includes:
 
-- Institutional Confidence
+Institutional Confidence
 
-- Institutional Continuity
+Institutional Continuity
 
-- Distributed Biography
+Distributed Biography
 
-- Institutional Narrative
+Institutional Narrative
 
-- Narrative Subject
+Narrative Subject
 
-- Narrative Entity
+Narrative Entity
 
-- Narrative Boundary
+Narrative Boundary
 
-- Narrative Era
+Narrative Era
 
-- Narrative Authority Source
+Narrative Authority Source
 
 Status:
 
 Architecture Family
 
----
-
-# Freshness Governance Family
+Freshness Governance Family
 
 Includes:
 
-- Evidence Freshness
+Evidence Freshness
 
-- Policy Freshness
+Policy Freshness
 
-- Narrative Freshness
+Narrative Freshness
 
-- Temporal Evidence Fit
+Temporal Evidence Fit
 
-- Versioned Evidence
+Versioned Evidence
 
 Status:
 
@@ -3596,21 +3532,19 @@ Freshness:
 
 pattern.
 
----
-
-# Capacity Proof Family
+Capacity Proof Family
 
 Includes:
 
-- Capacity Proof
+Capacity Proof
 
-- Institutional Capability Proof
+Institutional Capability Proof
 
-- Atmospheric Capacity Proof
+Atmospheric Capacity Proof
 
-- Historical Process Proof
+Historical Process Proof
 
-- Archive as Proof
+Archive as Proof
 
 Capacity Proof remains:
 
@@ -3620,17 +3554,15 @@ broader:
 
 research direction.
 
----
-
-# Invariant Family
+Invariant Family
 
 Includes:
 
-- Identity Invariant
+Identity Invariant
 
-- Narrative Invariant
+Narrative Invariant
 
-- Atmospheric Invariant
+Atmospheric Invariant
 
 Current decision:
 
@@ -3640,25 +3572,23 @@ collapse:
 
 yet.
 
----
-
-# Flexibility Distribution Family
+Flexibility Distribution Family
 
 Includes:
 
-- product flexibility
+product flexibility
 
-- booking flexibility
+booking flexibility
 
-- cancellation flexibility
+cancellation flexibility
 
-- transfer flexibility
+transfer flexibility
 
-- service flexibility
+service flexibility
 
-- guest-choice flexibility
+guest-choice flexibility
 
-- creative flexibility
+creative flexibility
 
 Core variable:
 
@@ -3668,9 +3598,7 @@ Status:
 
 Architecture Family
 
----
-
-# Destination Architecture Family
+Destination Architecture Family
 
 Introduced more explicitly through:
 
@@ -3678,25 +3606,25 @@ Restaurant Pearl Morissette.
 
 Includes:
 
-- Destination Familiarity
+Destination Familiarity
 
-- Destination Access Confidence
+Destination Access Confidence
 
-- Destination Friction
+Destination Friction
 
-- Geographic Complexity
+Geographic Complexity
 
-- Total Visit Commitment
+Total Visit Commitment
 
-- Visit Preparation
+Visit Preparation
 
-- Travel Utility
+Travel Utility
 
-- Arrival Landmark
+Arrival Landmark
 
-- Digital-to-Physical Participation Handoff
+Digital-to-Physical Participation Handoff
 
-- Rooted Destination Atmosphere
+Rooted Destination Atmosphere
 
 Canonical decision:
 
@@ -3732,9 +3660,7 @@ one universal:
 
 pattern.
 
----
-
-# Relationship Proof Family
+Relationship Proof Family
 
 Strengthened through:
 
@@ -3742,29 +3668,29 @@ Restaurant Pearl Morissette.
 
 Includes:
 
-- Thing Proof
+Thing Proof
 
-- Relationship Proof
+Relationship Proof
 
-- Relational Proof Sequencing
+Relational Proof Sequencing
 
-- Productive Relationship Legibility
+Productive Relationship Legibility
 
-- Difference Through Relationship
+Difference Through Relationship
 
-- Distributed Culinary System
+Distributed Culinary System
 
-- Representative Proof
+Representative Proof
 
 Primary formal relationships:
 
-- Photography as Proof
+Photography as Proof
 
-- Show the System Behind the Plate
+Show the System Behind the Plate
 
-- Photography Should Demonstrate Difference
+Photography Should Demonstrate Difference
 
-- Capacity Proof
+Capacity Proof
 
 Canonical decision:
 
@@ -3802,27 +3728,24 @@ explains:
 
 that thing.
 
----
-
-# Canonical Waiting Taxonomy
+Canonical Waiting Taxonomy
 
 The current waiting taxonomy remains:
 
 5 categories.
 
-1. Access Waiting
+Access Waiting
 
-2. Resource Waiting
+Resource Waiting
 
-3. Product Waiting
+Product Waiting
 
-4. Service Waiting
+Service Waiting
 
-5. Exception Waiting
+Exception Waiting
 
 Important boundary:
 
-```text
 
 Visit Preparation
 
@@ -3830,7 +3753,6 @@ Visit Preparation
 
 Waiting
 
-```
 
 Restaurant #15:
 
@@ -3842,9 +3764,409 @@ a sixth:
 
 waiting category.
 
----
+Post–Avatar Robot Café DAWN Architecture Addition
 
-# Post–Dans le Noir? London Architecture Additions
+Restaurant #17 adds:
+
+one:
+
+cross-dimensional:
+
+architecture family.
+
+It also sharpens:
+
+existing:
+
+participation
+
+proof
+
+story
+
+capacity
+
+and:
+
+accessibility:
+
+reasoning.
+
+These mechanisms are:
+
+research architecture.
+
+They are not:
+
+additional formal patterns.
+
+Mediated Human Hospitality Family
+
+Includes:
+
+Human Presence Through an Avatar
+
+Pilot–Guest Relationship Visibility
+
+Technology as Embodied Access Infrastructure
+
+Remote Labour / Local Hospitality Coupling
+
+Bidirectional Accessibility
+
+Route-Specific Participation Preparation
+
+Social Mission Through Operating Model
+
+Human Identity Beyond the Device
+
+Participation Without Physical Co-Location
+
+Recognition Without Substituting for Outcome Evidence
+
+Primary rule:
+
+
+Human Mediation Through Technology
+
+≠
+
+Human Replacement by Technology
+
+
+Secondary rules:
+
+
+Remote Presence
+
+≠
+
+Automated Presence
+
+
+
+Accessibility Infrastructure
+
+≠
+
+Separate Accommodation Layer
+
+
+
+Mission Narrative
+
+≠
+
+Mission Outcome Proof
+
+
+Canonical decision:
+
+Do not create:
+
+a broad:
+
+Technology as Hospitality:
+
+pattern.
+
+Technology is:
+
+the mediation layer.
+
+The hospitality value remains:
+
+human presence
+
+relationship
+
+agency
+
+service
+
+and:
+
+participation.
+
+Restaurant #17 Five-Dimension Synthesis
+
+Arrival
+
+Primary mechanism:
+
+Intent Recognition
+
+→
+
+Route Selection
+
+→
+
+Participation Preparation.
+
+DAWN does not have:
+
+one:
+
+universal arrival.
+
+The relevant arrival depends on whether the guest is:
+
+visiting the café
+
+seeking a tour
+
+joining an organised programme
+
+learning about the technology or mission
+
+exploring pilot participation or support
+
+Strongest boundary:
+
+
+Arrival at the Venue
+
+≠
+
+Arrival in the Correct Participation Route
+
+
+Atmosphere
+
+Primary mechanism:
+
+Social Presence Through Mediated Human Activity.
+
+The atmosphere is not created by:
+
+robots alone.
+
+It is produced through:
+
+the visible relationship between:
+
+pilot
+
+avatar
+
+guest
+
+staff
+
+space
+
+and:
+
+mission.
+
+Strongest boundary:
+
+
+Technological Novelty
+
+≠
+
+Human Atmosphere
+
+
+Photography
+
+Primary mechanism:
+
+Relationship-Level Technology Proof.
+
+Photography must make legible:
+
+the person behind the device
+
+the device inside the service relationship
+
+the guest as participant
+
+the café as a real hospitality environment
+
+the difference between automation and mediation
+
+Strongest boundary:
+
+
+Visible Device
+
+≠
+
+Visible Human Relationship
+
+
+Reservation / Participation
+
+Primary mechanism:
+
+Intent-Dependent Participation Routing.
+
+The system must clarify:
+
+which route:
+
+requires booking
+
+which route:
+
+permits ordinary café use
+
+which route:
+
+requires advance coordination
+
+and:
+
+which expectations:
+
+belong to each route.
+
+Strongest boundary:
+
+
+Multiple Booking Options
+
+≠
+
+Multi-Intent Hospitality
+
+
+Story
+
+Primary mechanism:
+
+Mission Through Operating Model.
+
+The story is strongest when:
+
+the operating system demonstrates:
+
+who performs hospitality
+
+how remote work becomes local presence
+
+why the avatar exists
+
+and:
+
+how participation is redistributed.
+
+Strongest boundary:
+
+
+Mission Coherence
+
+≠
+
+Verified Social Outcome
+
+
+Restaurant #17 Cross-Dimensional Corrections
+
+
+
+
+Robot Service
+
+≠
+
+Automated Service
+
+
+
+
+
+Remote Labour
+
+≠
+
+Absent Labour
+
+
+
+
+
+Technology Visibility
+
+≠
+
+Relationship Visibility
+
+
+
+
+
+Accessibility Feature
+
+≠
+
+Accessibility as Operating Infrastructure
+
+
+
+
+
+Multiple Offers
+
+≠
+
+Multiple Hospitality Intents
+
+
+
+
+
+Mission Story
+
+≠
+
+Outcome Evidence
+
+
+
+
+
+Pilot Recognition
+
+≠
+
+Verified Pilot Outcome
+
+
+
+
+
+Human Assistance
+
+≠
+
+Exception Handling Only
+
+
+
+
+
+Stable Avatar Mechanism
+
+≠
+
+Stable Participation Across Every Route
+
+
+
+
+
+Visible Novelty
+
+≠
+
+Demonstrated Difference
+
+
+Post–Dans le Noir? London Architecture Additions — Historical Research Layer
 
 Restaurant #16 adds or sharpens:
 
@@ -3860,29 +4182,28 @@ They are not:
 
 additional formal patterns.
 
-# Non-Visual Evidence Family
+Non-Visual Evidence Family
 
-- Visible Perimeter / Invisible Core
+Visible Perimeter / Invisible Core
 
-- Proof Through Procedure
+Proof Through Procedure
 
-- Evidence Substitution
+Evidence Substitution
 
-- Representative Culinary Proof
+Representative Culinary Proof
 
-- Symbolic Darkness
+Symbolic Darkness
 
-- Illuminated Simulation
+Illuminated Simulation
 
-- Absence as Evidence Integrity
+Absence as Evidence Integrity
 
-- Accessible Proof Description
+Accessible Proof Description
 
-- Post-Experience Reveal Proof
+Post-Experience Reveal Proof
 
 Rule:
 
-```text
 
 Visual Absence
 
@@ -3890,29 +4211,27 @@ Visual Absence
 
 Evidence Absence
 
-```
 
-# Human-Guided Participation Family
+Human-Guided Participation Family
 
-- Human Escalation Architecture
+Human Escalation Architecture
 
-- Guide Handoff
+Guide Handoff
 
-- Trust Transfer
+Trust Transfer
 
-- Supported Movement
+Supported Movement
 
-- Named Consequence Mapping
+Named Consequence Mapping
 
-- Consequence-Relevant Repetition
+Consequence-Relevant Repetition
 
-- Access Exception Channel
+Access Exception Channel
 
-- Reservation as Operational Brief
+Reservation as Operational Brief
 
 Rule:
 
-```text
 
 Human Guidance
 
@@ -3920,25 +4239,23 @@ Human Guidance
 
 Fallback Support
 
-```
 
-# Sensory Boundary Family
+Sensory Boundary Family
 
-- Enforced Visual Absence
+Enforced Visual Absence
 
-- Digital Surrender
+Digital Surrender
 
-- Darkness as Narrative Condition
+Darkness as Narrative Condition
 
-- Attention Redistribution
+Attention Redistribution
 
-- Sensory System Adaptation
+Sensory System Adaptation
 
-- Reveal After Experience
+Reveal After Experience
 
 Rule:
 
-```text
 
 Temporary Sensory Condition
 
@@ -3946,41 +4263,36 @@ Temporary Sensory Condition
 
 Durable Human Outcome
 
-```
 
-# Role-Reversal Narrative Family
+Role-Reversal Narrative Family
 
-- Operationalised Role Reversal
+Operationalised Role Reversal
 
-- Narrative Through Reassigned Expertise
+Narrative Through Reassigned Expertise
 
-- Guide as Narrative Authority
+Guide as Narrative Authority
 
-- Expertise Beyond Appearance
+Expertise Beyond Appearance
 
-- Temporary Deprivation / Lived Experience Boundary
+Temporary Deprivation / Lived Experience Boundary
 
-- Awareness Opportunity
+Awareness Opportunity
 
-- Questioning Without Guaranteed Transformation
+Questioning Without Guaranteed Transformation
 
 Rule:
 
-```text
 
 Guide as Authority
 
-
+≠
 
 Guide as Symbol
 
-```
 
----
+Restaurant #16 Five-Dimension Synthesis
 
-# Restaurant #16 Five-Dimension Synthesis
-
-## Arrival
+Arrival
 
 Primary mechanism:
 
@@ -3996,7 +4308,6 @@ human handoff.
 
 Strongest boundary:
 
-```text
 
 Arrival at the Address
 
@@ -4004,9 +4315,8 @@ Arrival at the Address
 
 Arrival in the Experience
 
-```
 
-## Atmosphere
+Atmosphere
 
 Primary mechanism:
 
@@ -4014,7 +4324,6 @@ Enforced Visual Absence.
 
 Strongest boundary:
 
-```text
 
 Atmosphere as Infrastructure
 
@@ -4022,9 +4331,8 @@ Atmosphere as Infrastructure
 
 Atmosphere as Guest Outcome
 
-```
 
-## Photography
+Photography
 
 Primary mechanism:
 
@@ -4032,7 +4340,6 @@ Visible Perimeter / Invisible Core.
 
 Strongest boundary:
 
-```text
 
 Photography of the Restaurant
 
@@ -4040,9 +4347,8 @@ Photography of the Restaurant
 
 Photography of the Guest Experience
 
-```
 
-## Reservation / Participation
+Reservation / Participation
 
 Primary mechanism:
 
@@ -4050,7 +4356,6 @@ Consequence Clarity / Outcome Uncertainty.
 
 Strongest boundary:
 
-```text
 
 Participation Complexity
 
@@ -4058,9 +4363,8 @@ Participation Complexity
 
 Interface Complexity
 
-```
 
-## Story
+Story
 
 Primary mechanism:
 
@@ -4068,7 +4372,6 @@ Operationalised Role Reversal.
 
 Strongest boundary:
 
-```text
 
 Narrative Coherence
 
@@ -4076,11 +4379,8 @@ Narrative Coherence
 
 Outcome Proof
 
-```
 
----
-
-# Post–Pearl Morissette Architecture Additions — Historical Research Layer
+Post–Pearl Morissette Architecture Additions — Historical Research Layer
 
 The following:
 
@@ -4104,107 +4404,95 @@ the formal:
 
 pattern count.
 
----
+Arrival Additions
 
-# Arrival Additions
+Destination Familiarity
 
-- Destination Familiarity
+Destination Access Confidence
 
-- Destination Access Confidence
+Total Visit Commitment
 
-- Total Visit Commitment
+Minimum Sufficient Arrival
 
-- Minimum Sufficient Arrival
+Arrival Landmark as State Proof
 
-- Arrival Landmark as State Proof
+Digital-to-Physical Participation Handoff
 
-- Digital-to-Physical Participation Handoff
+Place as Productive Context
 
-- Place as Productive Context
+Atmosphere Additions
 
----
+Rooted Destination Atmosphere
 
-# Atmosphere Additions
+Atmospheric Threshold
 
-- Rooted Destination Atmosphere
+Productive Threshold
 
-- Atmospheric Threshold
+Productive Relationship Legibility
 
-- Productive Threshold
+Material Contrast
 
-- Productive Relationship Legibility
+Diurnal Atmosphere
 
-- Material Contrast
+Proof Additions
 
-- Diurnal Atmosphere
+Thing Proof
 
----
+Relationship Proof
 
-# Proof Additions
+Relational Proof Sequencing
 
-- Thing Proof
+Distributed Culinary System
 
-- Relationship Proof
+Upstream / Culinary Proof Chain
 
-- Relational Proof Sequencing
+Capacity Evidence Bundle
 
-- Distributed Culinary System
+Difference Through Relationship
 
-- Upstream / Culinary Proof Chain
+Representative Proof
 
-- Capacity Evidence Bundle
+Productive Relationship Legibility
 
-- Difference Through Relationship
+Participation Additions
 
-- Representative Proof
+Visit Preparation
 
-- Productive Relationship Legibility
+Pre-Arrival Clarity
 
----
+Guest Preparation Load
 
-# Participation Additions
+Geographic Complexity
 
-- Visit Preparation
+Compatibility Adaptation
 
-- Pre-Arrival Clarity
+Pre-Visit Relationship Continuation
 
-- Guest Preparation Load
+Experience Availability
 
-- Geographic Complexity
+Instruction Consistency
 
-- Compatibility Adaptation
+Digital-to-Physical Participation Handoff
 
-- Pre-Visit Relationship Continuation
+Story Additions
 
-- Experience Availability
+Ecosystem as Organising Logic
 
-- Instruction Consistency
+Networked Hospitality Model
 
-- Digital-to-Physical Participation Handoff
+Distributed Contribution
 
----
+Narrative Ecosystem Scope
 
-# Story Additions
+Relationship Narrative Depth
 
-- Ecosystem as Organising Logic
+Bounded Product Narrative
 
-- Networked Hospitality Model
+Place as Productive Context
 
-- Distributed Contribution
+Variation Within System / System Transformation
 
-- Narrative Ecosystem Scope
-
-- Relationship Narrative Depth
-
-- Bounded Product Narrative
-
-- Place as Productive Context
-
-- Variation Within System / System Transformation
-
----
-
-# Post–Noma Cross-Dimensional Corrections
+Post–Noma Cross-Dimensional Corrections
 
 The following:
 
@@ -4216,11 +4504,8 @@ research:
 
 boundaries.
 
----
+1
 
-# 1
-
-```text
 
 Coherence
 
@@ -4228,13 +4513,9 @@ Coherence
 
 Sameness
 
-```
 
----
+2
 
-# 2
-
-```text
 
 Continuity
 
@@ -4242,13 +4523,9 @@ Continuity
 
 Sameness
 
-```
 
----
+3
 
-# 3
-
-```text
 
 Expectation Clarity
 
@@ -4256,13 +4533,9 @@ Expectation Clarity
 
 Outcome Specificity
 
-```
 
----
+4
 
-# 4
-
-```text
 
 Unknown
 
@@ -4270,13 +4543,9 @@ Unknown
 
 Hidden
 
-```
 
----
+5
 
-# 5
-
-```text
 
 Uncertainty
 
@@ -4284,13 +4553,9 @@ Uncertainty
 
 Ambiguity
 
-```
 
----
+6
 
-# 6
-
-```text
 
 Historical Evidence
 
@@ -4298,13 +4563,9 @@ Historical Evidence
 
 Current Product Proof
 
-```
 
----
+7
 
-# 7
-
-```text
 
 Official
 
@@ -4312,13 +4573,9 @@ Official
 
 Current
 
-```
 
----
+8
 
-# 8
-
-```text
 
 Evidence Freshness
 
@@ -4326,13 +4583,9 @@ Evidence Freshness
 
 Evidence Durability
 
-```
 
----
+9
 
-# 9
-
-```text
 
 Visual Variety
 
@@ -4340,13 +4593,9 @@ Visual Variety
 
 Proof of Evolution
 
-```
 
----
+10
 
-# 10
-
-```text
 
 Research Identity
 
@@ -4354,13 +4603,9 @@ Research Identity
 
 Visible Research Activity
 
-```
 
----
+11
 
-# 11
-
-```text
 
 Research as Narrative
 
@@ -4368,13 +4613,9 @@ Research as Narrative
 
 Research as Atmosphere
 
-```
 
----
+12
 
-# 12
-
-```text
 
 Process Exists
 
@@ -4382,13 +4623,9 @@ Process Exists
 
 Process Shapes Atmosphere
 
-```
 
----
+13
 
-# 13
-
-```text
 
 Stable Narrative Identity
 
@@ -4396,13 +4633,9 @@ Stable Narrative Identity
 
 Stable Narrative Object
 
-```
 
----
+14
 
-# 14
-
-```text
 
 Signature Product
 
@@ -4410,13 +4643,9 @@ Signature Product
 
 Required Narrative Anchor
 
-```
 
----
+15
 
-# 15
-
-```text
 
 Relevant Biography
 
@@ -4424,13 +4653,9 @@ Relevant Biography
 
 Single Hero Founder
 
-```
 
----
+16
 
-# 16
-
-```text
 
 Heritage
 
@@ -4438,13 +4663,9 @@ Heritage
 
 Promise of Sameness
 
-```
 
----
+17
 
-# 17
-
-```text
 
 Story Through Place
 
@@ -4452,13 +4673,9 @@ Story Through Place
 
 Story Through Address
 
-```
 
----
+18
 
-# 18
-
-```text
 
 Temporal Narrative
 
@@ -4466,13 +4683,9 @@ Temporal Narrative
 
 Timeline
 
-```
 
----
+19
 
-# 19
-
-```text
 
 Reservation Commitment
 
@@ -4480,13 +4693,9 @@ Reservation Commitment
 
 Complete Outcome Knowledge
 
-```
 
----
+20
 
-# 20
-
-```text
 
 Outcome Uncertainty
 
@@ -4494,13 +4703,9 @@ Outcome Uncertainty
 
 Participation State Uncertainty
 
-```
 
----
+21
 
-# 21
-
-```text
 
 Participation State Change
 
@@ -4508,13 +4713,9 @@ Participation State Change
 
 Always User Action
 
-```
 
----
+22
 
-# 22
-
-```text
 
 One Primary Route
 
@@ -4522,13 +4723,9 @@ One Primary Route
 
 Simple Participation
 
-```
 
----
+23
 
-# 23
-
-```text
 
 Participation Breadth
 
@@ -4536,13 +4733,9 @@ Participation Breadth
 
 Participation Depth
 
-```
 
----
+24
 
-# 24
-
-```text
 
 Guest Agency
 
@@ -4550,13 +4743,9 @@ Guest Agency
 
 Unlimited Control
 
-```
 
----
+25
 
-# 25
-
-```text
 
 System Participation
 
@@ -4564,13 +4753,9 @@ System Participation
 
 Creative Product Participation
 
-```
 
----
+26
 
-# 26
-
-```text
 
 Narrative Participation
 
@@ -4582,13 +4767,9 @@ Operational Participation
 
 Creative Participation
 
-```
 
----
+27
 
-# 27
-
-```text
 
 Structural Scarcity
 
@@ -4596,13 +4777,9 @@ Structural Scarcity
 
 Manipulative Pressure
 
-```
 
----
+28
 
-# 28
-
-```text
 
 Pre-Commitment Pressure
 
@@ -4610,13 +4787,9 @@ Pre-Commitment Pressure
 
 Post-Commitment Agency
 
-```
 
----
+29
 
-# 29
-
-```text
 
 System Visibility
 
@@ -4624,13 +4797,9 @@ System Visibility
 
 System Clarity
 
-```
 
----
+30
 
-# 30
-
-```text
 
 Route Visibility
 
@@ -4638,13 +4807,9 @@ Route Visibility
 
 State Clarity
 
-```
 
----
+31
 
-# 31
-
-```text
 
 Consistency
 
@@ -4652,13 +4817,9 @@ Consistency
 
 Currency
 
-```
 
----
+32
 
-# 32
-
-```text
 
 Data Controller Status
 
@@ -4666,13 +4827,9 @@ Data Controller Status
 
 Complete Guest Relationship Ownership
 
-```
 
----
+33
 
-# 33
-
-```text
 
 Story of Change
 
@@ -4680,13 +4837,9 @@ Story of Change
 
 Coherence Across Change
 
-```
 
----
+34
 
-# 34
-
-```text
 
 Narrative Adaptation
 
@@ -4694,13 +4847,9 @@ Narrative Adaptation
 
 Narrative Reinvention
 
-```
 
----
+35
 
-# 35
-
-```text
 
 Narrative Subject
 
@@ -4708,13 +4857,9 @@ Narrative Subject
 
 Narrative Anchor
 
-```
 
----
+36
 
-# 36
-
-```text
 
 Narrative Carrier
 
@@ -4722,13 +4867,9 @@ Narrative Carrier
 
 Narrative Invariant
 
-```
 
----
+37
 
-# 37
-
-```text
 
 Narrative Coherence
 
@@ -4736,13 +4877,9 @@ Narrative Coherence
 
 Coherence Through Change
 
-```
 
----
+38
 
-# 38
-
-```text
 
 Shared Evidence
 
@@ -4750,13 +4887,9 @@ Shared Evidence
 
 Shared Pattern
 
-```
 
----
+39
 
-# 39
-
-```text
 
 Time Exists
 
@@ -4764,13 +4897,9 @@ Time Exists
 
 Temporal Hospitality
 
-```
 
----
+40
 
-# 40
-
-```text
 
 Strong Historical Story
 
@@ -4778,11 +4907,8 @@ Strong Historical Story
 
 Current Narrative Fit
 
-```
 
----
-
-# Evidence Discipline
+Evidence Discipline
 
 Public:
 
@@ -4794,29 +4920,29 @@ can establish:
 
 published:
 
-- hospitality positioning
+hospitality positioning
 
-- process
+process
 
-- participation structure
+participation structure
 
-- policies
+policies
 
-- visual evidence
+visual evidence
 
-- location facts
+location facts
 
-- operating claims
+operating claims
 
-- story
+story
 
-- system explanation
+system explanation
 
-- booking routes
+booking routes
 
-- published timing
+published timing
 
-- published constraints
+published constraints
 
 It does not:
 
@@ -4824,33 +4950,33 @@ automatically:
 
 establish:
 
-- guest satisfaction
+guest satisfaction
 
-- actual emotional outcome
+actual emotional outcome
 
-- actual atmosphere
+actual atmosphere
 
-- actual service quality
+actual service quality
 
-- actual booking conversion
+actual booking conversion
 
-- profitability
+profitability
 
-- repeat behaviour
+repeat behaviour
 
-- complete CRM ownership
+complete CRM ownership
 
-- complete data ownership
+complete data ownership
 
-- employee autonomy
+employee autonomy
 
-- operational consistency
+operational consistency
 
-- actual guest preference
+actual guest preference
 
-- actual guest confidence
+actual guest confidence
 
-- actual creative co-creation
+actual creative co-creation
 
 These:
 
@@ -4860,9 +4986,7 @@ are:
 
 mandatory.
 
----
-
-# Brand / Location / Era Boundary
+Brand / Location / Era Boundary
 
 Research must:
 
@@ -4870,21 +4994,20 @@ distinguish:
 
 between:
 
-- brand-level evidence
+brand-level evidence
 
-- location-level evidence
+location-level evidence
 
-- current evidence
+current evidence
 
-- historical evidence
+historical evidence
 
-- current operating era
+current operating era
 
-- previous operating era
+previous operating era
 
 Key corrections:
 
-```text
 
 Brand Evidence
 
@@ -4892,9 +5015,7 @@ Brand Evidence
 
 Location Evidence
 
-```
 
-```text
 
 Historical Evidence
 
@@ -4902,9 +5023,7 @@ Historical Evidence
 
 Current Evidence
 
-```
 
-```text
 
 Official
 
@@ -4912,11 +5031,8 @@ Official
 
 Current
 
-```
 
----
-
-# Current Research Workflow
+Current Research Workflow
 
 Each:
 
@@ -4930,7 +5046,6 @@ the following:
 
 files.
 
-```text
 
 README.md
 
@@ -4946,11 +5061,9 @@ story.md
 
 knowledge-extraction.md
 
-```
 
 The sequence is:
 
-```text
 
 Restaurant Selection
 
@@ -4990,13 +5103,9 @@ Cross-Restaurant Comparison
 
 Governance Reconciliation
 
-```
 
----
+Research Folder Structure
 
-# Research Folder Structure
-
-```text
 
 khds/
 
@@ -5006,11 +5115,13 @@ khds/
 
     │   ├── ...
 
-    │   ├── ichiran-shibuya/
+    │   ├── noma-copenhagen-2026/
 
-    │   ├── din-tai-fung-covent-garden/
+    │   ├── restaurant-pearl-morissette/
 
-    │   └── noma-copenhagen-2026/
+    │   ├── dans-le-noir-london/
+
+    │   └── avatar-robot-cafe-dawn-tokyo/
 
     │
 
@@ -5040,23 +5151,20 @@ khds/
 
     └── README.md
 
-```
 
----
-
-# Governance Hierarchy
+Governance Hierarchy
 
 Canonical order:
 
-1. `khds/research/validation/candidate-patterns.md`
+khds/research/validation/candidate-patterns.md
 
-2. `khds/patterns/registry.md`
+khds/patterns/registry.md
 
-3. `khds/research/validation/dashboard.md`
+khds/research/validation/dashboard.md
 
-4. `khds/research/README.md`
+khds/research/README.md
 
-5. `khds/research/validation/README.md`
+khds/research/validation/README.md
 
 The first file:
 
@@ -5072,9 +5180,7 @@ are:
 
 mirrors.
 
----
-
-# Mirror Rule
+Mirror Rule
 
 Mirror files:
 
@@ -5098,21 +5204,19 @@ independently:
 
 create:
 
-- promotions
+promotions
 
-- demotions
+demotions
 
-- renames
+renames
 
-- merges
+merges
 
-- confidence changes
+confidence changes
 
-- maturity changes
+maturity changes
 
----
-
-# Opportunity Themes
+Opportunity Themes
 
 Current count:
 
@@ -5120,7 +5224,7 @@ Current count:
 
 No:
 
-post–Pearl Morissette:
+post–Avatar Robot Café DAWN:
 
 change.
 
@@ -5150,9 +5254,7 @@ the:
 
 count.
 
----
-
-# Track B Implementation Learnings
+Track B Implementation Learnings
 
 Canonical count:
 
@@ -5176,9 +5278,7 @@ research pattern:
 
 maturity.
 
----
-
-# Twelve Foundations
+Twelve Foundations
 
 The Twelve Foundations remain:
 
@@ -5192,33 +5292,32 @@ They are not:
 
 Research-Derived KHDS Principles.
 
-1. Emotion before Interface
+Emotion before Interface
 
-2. Story before Features
+Story before Features
 
-3. Photography before Decoration
+Photography before Decoration
 
-4. Restraint before Complexity
+Restraint before Complexity
 
-5. Motion with Purpose
+Motion with Purpose
 
-6. Mobile is the Primary Experience
+Mobile is the Primary Experience
 
-7. Pacing is our Signature
+Pacing is our Signature
 
-8. Respect the Brand
+Respect the Brand
 
-9. Create Emotion or Business Value
+Create Emotion or Business Value
 
-10. Own the Guest Relationship
+Own the Guest Relationship
 
-11. Build for Legacy
+Build for Legacy
 
-12. Craft Over Convenience
+Craft Over Convenience
 
 Core boundary:
 
-```text
 
 Studio Foundation
 
@@ -5226,11 +5325,8 @@ Studio Foundation
 
 Research-Derived Principle
 
-```
 
----
-
-# Relationship Between Foundations and Research
+Relationship Between Foundations and Research
 
 Research may:
 
@@ -5268,11 +5364,9 @@ Principle.
 
 Example:
 
-```text
 
 Photography Before Decoration
 
-```
 
 exists as:
 
@@ -5310,9 +5404,7 @@ governed:
 
 separately.
 
----
-
-# Historical Post–Noma Research Priorities
+Historical Post–Noma Research Priorities
 
 Post–Noma:
 
@@ -5350,9 +5442,7 @@ with:
 
 KHDS.
 
----
-
-# Priority 1 — Coherence Through Change
+Priority 1 — Coherence Through Change
 
 Need:
 
@@ -5374,11 +5464,9 @@ time.
 
 Research question:
 
-> **Can identity remain coherent when expression changes materially?**
+Can identity remain coherent when expression changes materially?
 
----
-
-# Priority 2 — Capacity Proof
+Priority 2 — Capacity Proof
 
 Need:
 
@@ -5418,11 +5506,9 @@ prestige.
 
 Research question:
 
-> **Can method and capability create confidence when reputation is weaker?**
+Can method and capability create confidence when reputation is weaker?
 
----
-
-# Priority 3 — Manageable Commitment
+Priority 3 — Manageable Commitment
 
 Need:
 
@@ -5442,11 +5528,9 @@ agency.
 
 Research question:
 
-> **When is post-commitment flexibility proportionate and operationally realistic?**
+When is post-commitment flexibility proportionate and operationally realistic?
 
----
-
-# Priority 4 — Participation Rule Consistency
+Priority 4 — Participation Rule Consistency
 
 Need:
 
@@ -5474,11 +5558,9 @@ rules.
 
 Research question:
 
-> **When do rule differences create confusion, and when are they legitimately different?**
+When do rule differences create confusion, and when are they legitimately different?
 
----
-
-# Priority 5 — Adaptation as Narrative
+Priority 5 — Adaptation as Narrative
 
 Need:
 
@@ -5516,11 +5598,9 @@ operating model.
 
 Research question:
 
-> **Does adaptation itself explain the hospitality meaning?**
+Does adaptation itself explain the hospitality meaning?
 
----
-
-# Priority 6 — Atmosphere Through Worldview
+Priority 6 — Atmosphere Through Worldview
 
 Seek:
 
@@ -5546,11 +5626,9 @@ translation.
 
 Research question:
 
-> **Does worldview still deserve Candidate status when the physical translation is weak?**
+Does worldview still deserve Candidate status when the physical translation is weak?
 
----
-
-# Priority 7 — Hospitality System Proof
+Priority 7 — Hospitality System Proof
 
 Seek:
 
@@ -5578,87 +5656,137 @@ participation.
 
 Research question:
 
-> **How little system proof can still produce sufficient understanding?**
+How little system proof can still produce sufficient understanding?
 
----
+Current Post–Avatar Robot Café DAWN Research Priorities
 
-# Current Post–Dans le Noir? London Research Priorities
+The next cycle should:
 
-The next cycle should not:
+attempt to break:
 
-repeat:
+the newly promoted:
 
-the darkness model.
+Multi-Intent Hospitality:
 
-It should attack:
+Candidate
 
-the remaining:
+and:
 
-definition problems.
+test whether:
 
-# Priority 1 — Escalating Participation Complexity Definition
+mediated human hospitality:
 
-Primary question:
+transfers beyond:
 
-> **What exactly escalates, and what support response does the pattern predict?**
+DAWN's mission-led context.
 
-# Priority 2 — Stable Participation With Variable Participation
-
-Primary question:
-
-> **Is stable participation necessary, or one viable strategy among several?**
-
-# Priority 3 — Minimal Participation Journey
+Priority 1 — Multi-Intent Hospitality Falsification
 
 Primary question:
 
-> **How small can participation become before Participation Throughout the Journey loses explanatory value?**
+When are several routes merely product categories rather than materially different hospitality intents?
 
-# Priority 4 — One-Carrier Arrival
-
-Primary question:
-
-> **Can clarity replace layering?**
-
-# Priority 5 — Layered Evidence Without Layered Photography
+Priority 2 — Escalating Participation Complexity Definition
 
 Primary question:
 
-> **Which experience layers genuinely require images?**
+What exactly escalates, and what support response does the pattern predict?
 
-# Priority 6 — Human Assistance Failure Case
-
-Primary question:
-
-> **When does human assistance compensate for weak structure rather than resolve material insufficiency?**
-
-# Priority 7 — Non-Visual Difference Transfer Test
+Priority 3 — Human Assistance Failure Case
 
 Primary question:
 
-> **Can difference remain legible when the visible perimeter looks conventional?**
+When does human assistance compensate for weak structure or become a new source of friction?
 
-# Priority 8 — Capacity Proof With Minimal Authority
-
-Primary question:
-
-> **Can capacity evidence create confidence without longevity, awards, celebrity, or institutional prestige?**
-
-# Priority 9 — Story Outcome Evidence
+Priority 4 — Ordinary-Looking Difference Test
 
 Primary question:
 
-> **Which outcomes survive beyond published mechanism and curated testimony?**
+Can photography demonstrate structural difference when the visible environment appears conventional?
 
-# Priority 10 — Atmosphere as Product Causality
+Priority 5 — Relationship Capacity Verification
 
 Primary question:
 
-> **When is atmosphere genuinely purchased rather than merely prominent?**
+What evidence proves that a mediated human relationship can operate reliably at service scale?
 
----
+Priority 6 — Pilot Recognition Outcome Evidence
 
-# Post–Pearl Morissette Research Priorities — Historical Research Layer
+Primary question:
+
+Which employment, agency and social-participation outcomes can be independently verified?
+
+Priority 7 — Bidirectional Accessibility Transfer
+
+Primary question:
+
+When does accessibility improve participation for guests, staff and remote workers simultaneously?
+
+Priority 8 — Social Outcome Evidence
+
+Primary question:
+
+Which claimed inclusion outcomes survive beyond mission narrative and curated testimony?
+
+Priority 9 — Stable Participation Under Route Change
+
+Primary question:
+
+Does one participation model remain stable across café visits, tours, programmes and mission-support routes?
+
+Priority 10 — Minimal Participation Countercase
+
+Primary question:
+
+How small can participation become before journey-level Candidates lose explanatory value?
+
+Post–Dans le Noir? London Research Priorities — Historical Research Layer
+
+The Restaurant #16 programme targeted:
+
+Escalating Participation Complexity Definition
+
+Stable Participation With Variable Participation
+
+Minimal Participation Journey
+
+One-Carrier Arrival
+
+Layered Evidence Without Layered Photography
+
+Human Assistance Failure Case
+
+Non-Visual Difference Transfer Test
+
+Capacity Proof With Minimal Authority
+
+Story Outcome Evidence
+
+Atmosphere as Product Causality
+
+DAWN directly pressures:
+
+multi-intent routing
+
+human assistance
+
+ordinary-looking difference
+
+relationship capacity
+
+and:
+
+story outcome evidence.
+
+The remaining targets:
+
+continue:
+
+inside:
+
+the current programme.
+
+Post–Pearl Morissette Research Priorities — Historical Research Layer
 
 The current:
 
@@ -5694,9 +5822,7 @@ and:
 
 falsification.
 
----
-
-# Priority 1 — Capacity Proof
+Priority 1 — Capacity Proof
 
 Current state:
 
@@ -5724,7 +5850,7 @@ prestige transfer.
 
 Research question:
 
-> **Can method, system, place, and capability create enough confidence without reputation or full outcome reveal?**
+Can method, system, place, and capability create enough confidence without reputation or full outcome reveal?
 
 Falsification target:
 
@@ -5746,9 +5872,7 @@ through:
 
 public evidence.
 
----
-
-# Priority 2 — Stable Participation / Variable Product
+Priority 2 — Stable Participation / Variable Product
 
 Current state:
 
@@ -5776,7 +5900,7 @@ participation rules.
 
 Research question:
 
-> **Which parts of participation must remain stable when product, season, or outcome varies?**
+Which parts of participation must remain stable when product, season, or outcome varies?
 
 Falsification target:
 
@@ -5790,9 +5914,7 @@ equally variable:
 
 participation architecture.
 
----
-
-# Priority 3 — Layered Arrival
+Priority 3 — Layered Arrival
 
 Current state:
 
@@ -5820,7 +5942,7 @@ arrival system.
 
 Research question:
 
-> **When does arrival need layers, and when is minimum sufficient arrival more effective?**
+When does arrival need layers, and when is minimum sufficient arrival more effective?
 
 Falsification target:
 
@@ -5842,9 +5964,7 @@ rather than:
 
 confidence.
 
----
-
-# Priority 4 — Atmosphere Through Consistency
+Priority 4 — Atmosphere Through Consistency
 
 Current state:
 
@@ -5874,7 +5994,7 @@ touchpoints.
 
 Research question:
 
-> **How much cross-surface consistency is actually necessary for atmospheric coherence?**
+How much cross-surface consistency is actually necessary for atmospheric coherence?
 
 Falsification target:
 
@@ -5894,9 +6014,7 @@ the stronger:
 
 atmosphere.
 
----
-
-# Priority 5 — Photography as Proof
+Priority 5 — Photography as Proof
 
 Current state:
 
@@ -5926,7 +6044,7 @@ difficult to photograph.
 
 Research question:
 
-> **When can photography credibly prove a system or relationship, and when does it merely illustrate claims?**
+When can photography credibly prove a system or relationship, and when does it merely illustrate claims?
 
 Falsification target:
 
@@ -5950,9 +6068,7 @@ rather than:
 
 images.
 
----
-
-# Priority 6 — Photography Through Layers of Experience
+Priority 6 — Photography Through Layers of Experience
 
 Current state:
 
@@ -5980,7 +6096,7 @@ photographic mode.
 
 Research question:
 
-> **Does a layered experience require layered photographic evidence?**
+Does a layered experience require layered photographic evidence?
 
 Falsification target:
 
@@ -6000,9 +6116,7 @@ and:
 
 participation clarity.
 
----
-
-# Priority 7 — Participation Throughout the Journey
+Priority 7 — Participation Throughout the Journey
 
 Current state:
 
@@ -6030,7 +6144,7 @@ arrival.
 
 Research question:
 
-> **Which hospitality journeys require continued participation, and which benefit from reducing guest responsibility?**
+Which hospitality journeys require continued participation, and which benefit from reducing guest responsibility?
 
 Falsification target:
 
@@ -6048,9 +6162,7 @@ or:
 
 ease.
 
----
-
-# Priority 8 — Photography Should Demonstrate Difference
+Priority 8 — Photography Should Demonstrate Difference
 
 Current state:
 
@@ -6072,7 +6184,7 @@ be visibly demonstrated.
 
 Research question:
 
-> **When is photographic differentiation possible, and when must difference be established through another evidence system?**
+When is photographic differentiation possible, and when must difference be established through another evidence system?
 
 Falsification target:
 
@@ -6090,9 +6202,7 @@ overstated:
 
 claim of difference.
 
----
-
-# Priority 9 — Escalating Participation Complexity
+Priority 9 — Escalating Participation Complexity
 
 Current state:
 
@@ -6126,7 +6236,7 @@ support architecture.
 
 Research question:
 
-> **Does participation complexity reliably predict the need for escalating support?**
+Does participation complexity reliably predict the need for escalating support?
 
 Falsification target:
 
@@ -6148,9 +6258,7 @@ low-touch:
 
 guidance.
 
----
-
-# Pattern Inflation Rule
+Pattern Inflation Rule
 
 KHDS should:
 
@@ -6180,7 +6288,6 @@ following:
 
 distinctions.
 
-```text
 
 Observation
 
@@ -6188,9 +6295,7 @@ Observation
 
 Pattern
 
-```
 
-```text
 
 Architecture Variable
 
@@ -6198,9 +6303,7 @@ Architecture Variable
 
 Pattern
 
-```
 
-```text
 
 Mechanism
 
@@ -6208,9 +6311,7 @@ Mechanism
 
 Pattern
 
-```
 
-```text
 
 Architecture Family
 
@@ -6218,9 +6319,7 @@ Architecture Family
 
 Pattern
 
-```
 
-```text
 
 Strong Single-Case Evidence
 
@@ -6228,9 +6327,7 @@ Strong Single-Case Evidence
 
 Candidate
 
-```
 
-```text
 
 Repeated Support
 
@@ -6238,11 +6335,8 @@ Repeated Support
 
 Validated
 
-```
 
----
-
-# Research Selection Rule
+Research Selection Rule
 
 The best:
 
@@ -6308,9 +6402,7 @@ supports:
 
 them.
 
----
-
-# Research Contradiction Rule
+Research Contradiction Rule
 
 A:
 
@@ -6326,21 +6418,20 @@ It can:
 
 help:
 
-- narrow a definition
+narrow a definition
 
-- identify context
+identify context
 
-- prevent false universality
+prevent false universality
 
-- reduce pattern inflation
+reduce pattern inflation
 
-- improve falsification
+improve falsification
 
-- expose hidden assumptions
+expose hidden assumptions
 
 Therefore:
 
-```text
 
 Contradiction
 
@@ -6348,11 +6439,8 @@ Contradiction
 
 Research Failure
 
-```
 
----
-
-# Historical Post–Noma Research Conclusion
+Historical Post–Noma Research Conclusion
 
 After:
 
@@ -6396,29 +6484,29 @@ strong:
 
 architecture around:
 
-- arrival uncertainty
+arrival uncertainty
 
-- atmosphere mechanisms
+atmosphere mechanisms
 
-- evidence
+evidence
 
-- participation states
+participation states
 
-- narrative carriers
+narrative carriers
 
-- operating models
+operating models
 
-- confidence
+confidence
 
-- commitment
+commitment
 
-- location
+location
 
-- time
+time
 
-- change
+change
 
-- institutional continuity
+institutional continuity
 
 Noma's:
 
@@ -6452,7 +6540,6 @@ corrections.
 
 Most importantly:
 
-```text
 
 Coherence
 
@@ -6460,13 +6547,11 @@ Coherence
 
 Sameness
 
-```
 
 It also established:
 
 that:
 
-```text
 
 Expectation Clarity
 
@@ -6474,9 +6559,7 @@ Expectation Clarity
 
 Outcome Specificity
 
-```
 
-```text
 
 Unknown
 
@@ -6484,9 +6567,7 @@ Unknown
 
 Hidden
 
-```
 
-```text
 
 Historical Evidence
 
@@ -6494,9 +6575,7 @@ Historical Evidence
 
 Current Product Proof
 
-```
 
-```text
 
 Pre-Commitment Pressure
 
@@ -6504,9 +6583,7 @@ Pre-Commitment Pressure
 
 Post-Commitment Agency
 
-```
 
-```text
 
 Story of Change
 
@@ -6514,11 +6591,9 @@ Story of Change
 
 Coherence Across Change
 
-```
 
 and:
 
-```text
 
 Time Exists
 
@@ -6526,7 +6601,6 @@ Time Exists
 
 Temporal Hospitality
 
-```
 
 The strongest:
 
@@ -6538,7 +6612,6 @@ governance:
 
 state is:
 
-```text
 
 14 Independent Restaurants
 
@@ -6558,7 +6631,6 @@ state is:
 
 17 Track B Implementation Learnings
 
-```
 
 The next:
 
@@ -6602,9 +6674,447 @@ new:
 
 Candidates.
 
----
+Post–Avatar Robot Café DAWN Research Conclusion
 
-# Post–Dans le Noir? London Research Conclusion
+After:
+
+17:
+
+independent restaurants
+
+KHDS has:
+
+a more precise:
+
+model of:
+
+human presence
+
+technology
+
+accessibility
+
+participation
+
+proof
+
+and:
+
+mission-led hospitality.
+
+Restaurant #17 was selected:
+
+to extend:
+
+the human-guidance findings
+
+from:
+
+Dans le Noir? London
+
+into:
+
+a materially different:
+
+technology-mediated:
+
+operating system.
+
+Its defining condition is:
+
+
+The Human Host
+
+May Be Physically Remote
+
+while remaining
+
+Socially Present
+
+
+The strongest:
+
+cross-dimensional:
+
+finding is:
+
+
+Human Mediation Through Technology
+
+≠
+
+Human Replacement by Technology
+
+
+The avatar is not:
+
+the host.
+
+It is:
+
+the embodiment layer
+
+through which:
+
+the pilot:
+
+can perform:
+
+local hospitality
+
+from:
+
+a remote location.
+
+That correction matters because:
+
+photography
+
+story
+
+reservation
+
+arrival
+
+and:
+
+atmosphere
+
+can all misclassify:
+
+the system
+
+as:
+
+robot automation.
+
+DAWN instead requires:
+
+the website to prove:
+
+the human relationship
+
+behind:
+
+the visible device.
+
+This is why:
+
+Photography Should Demonstrate Difference
+
+increases:
+
+from:
+
+Candidate / Medium
+
+to:
+
+Candidate / Medium-High.
+
+
+Visible Robot
+
+≠
+
+Visible Human Relationship
+
+
+The visual subject may be:
+
+novel.
+
+But:
+
+novelty is not:
+
+the meaningful difference.
+
+The difference lies in:
+
+who is present
+
+how presence is mediated
+
+what participation becomes possible
+
+and:
+
+how hospitality labour is redistributed.
+
+Restaurant #17 also:
+
+provides:
+
+the missing formal support
+
+for:
+
+Multi-Intent Hospitality.
+
+The venue supports:
+
+multiple materially distinct:
+
+guest purposes
+
+rather than:
+
+only:
+
+multiple products.
+
+
+Multiple Offers
+
+≠
+
+Multiple Hospitality Intents
+
+
+This distinction moves:
+
+Multi-Intent Hospitality
+
+from:
+
+Emerging
+
+to:
+
+Candidate / Medium.
+
+The promotion remains:
+
+bounded.
+
+A menu with:
+
+several categories
+
+or:
+
+a venue with:
+
+several packages
+
+does not automatically:
+
+create:
+
+multiple hospitality intents.
+
+The guest's purpose must:
+
+materially change:
+
+the route
+
+preparation
+
+participation
+
+or:
+
+expected outcome.
+
+DAWN also strengthens:
+
+Story Through Hospitality Model
+
+and:
+
+Hospitality System Proof.
+
+The mission is not:
+
+only:
+
+described.
+
+It is carried by:
+
+who performs the service
+
+how the avatar operates
+
+how the pilot is recognised
+
+and:
+
+how the venue distributes participation.
+
+The strongest story boundary is:
+
+
+Mission Coherence
+
+≠
+
+Verified Social Outcome
+
+
+Public evidence can establish:
+
+the published mechanism
+
+the intended mission
+
+the visible operating model
+
+and:
+
+selected testimony.
+
+It cannot independently establish:
+
+employment quality
+
+pilot agency
+
+income stability
+
+social inclusion
+
+guest transformation
+
+or:
+
+long-term outcome.
+
+Accessibility becomes:
+
+an operating capability
+
+rather than:
+
+a separate accommodation page.
+
+
+Accessibility Infrastructure
+
+≠
+
+Accommodation Layer Only
+
+
+The research therefore adds:
+
+the:
+
+Mediated Human Hospitality Family.
+
+This family organises:
+
+remote presence
+
+embodied access
+
+pilot–guest relationship visibility
+
+route-specific preparation
+
+and:
+
+social mission through operating model.
+
+It does not create:
+
+an additional:
+
+formal pattern.
+
+The current:
+
+formal state is:
+
+
+17 Independent Restaurants
+
+26 Candidate Patterns
+
+8 Emerging Patterns
+
+1 Partially Supported Pattern
+
+0 Validated Patterns
+
+0 Research-Derived KHDS Principles
+
+1 Implementation Pattern Pending Formal Validation
+
+36 Opportunity Themes
+
+17 Track B Implementation Learnings
+
+
+Restaurant #17 produced:
+
+
+1 Candidate Promotion
+
+1 Confidence Increase
+
+0 Demotions
+
+0 Renames
+
+0 Merges
+
+0 Validated Promotions
+
+0 Research-Derived Principle Promotions
+
+
+The absence of:
+
+Validated promotion
+
+and:
+
+Principle promotion
+
+is intentional.
+
+
+Architecture Extension
+
+≠
+
+Validation
+
+
+
+Mission Importance
+
+≠
+
+Research-Derived Principle
+
+
+The research cycle:
+
+strengthened:
+
+pattern transferability
+
+while preserving:
+
+evidence boundaries
+
+between:
+
+published mechanism
+
+curated narrative
+
+and:
+
+verified outcome.
+
+Evidence wins.
+
+Post–Dans le Noir? London Research Conclusion — Historical Research Layer
 
 After:
 
@@ -6644,13 +7154,11 @@ prestige destination.
 
 Its defining condition is:
 
-```text
 
 The Core Experience
 
 Cannot Be Seen
 
-```
 
 That condition forces KHDS:
 
@@ -6682,7 +7190,6 @@ cross-dimensional:
 
 finding is:
 
-```text
 
 Visual Absence
 
@@ -6690,7 +7197,6 @@ Visual Absence
 
 Evidence Absence
 
-```
 
 Photography remains:
 
@@ -6758,17 +7264,17 @@ Difference can be:
 
 demonstrated through:
 
-- perimeter
+perimeter
 
-- contrast
+contrast
 
-- sequence
+sequence
 
-- relationship
+relationship
 
-- procedure
+procedure
 
-- deliberate absence
+deliberate absence
 
 without:
 
@@ -6794,7 +7300,6 @@ and:
 
 the operating product.
 
-```text
 
 Human Guidance
 
@@ -6802,7 +7307,6 @@ Human Guidance
 
 Fallback Support
 
-```
 
 Capacity Proof also:
 
@@ -6840,7 +7344,6 @@ The strongest:
 
 participation correction is:
 
-```text
 
 Participation Complexity
 
@@ -6848,7 +7351,6 @@ Participation Complexity
 
 Interface Complexity
 
-```
 
 A complex experience may use:
 
@@ -6894,7 +7396,6 @@ That mechanism remains:
 
 strictly bounded.
 
-```text
 
 Temporary Darkness
 
@@ -6902,9 +7403,7 @@ Temporary Darkness
 
 Lived Visual Impairment
 
-```
 
-```text
 
 Awareness Opportunity
 
@@ -6912,13 +7411,11 @@ Awareness Opportunity
 
 Guaranteed Transformation
 
-```
 
 The current:
 
 formal state is:
 
-```text
 
 16 Independent Restaurants
 
@@ -6938,11 +7435,9 @@ formal state is:
 
 17 Track B Implementation Learnings
 
-```
 
 Restaurant #16 produced:
 
-```text
 
 2 Candidate Promotions
 
@@ -6958,7 +7453,6 @@ Restaurant #16 produced:
 
 0 Research-Derived Principle Promotions
 
-```
 
 The absence of:
 
@@ -6966,7 +7460,6 @@ Validated promotion
 
 is intentional.
 
-```text
 
 Contradiction Survival
 
@@ -6974,7 +7467,6 @@ Contradiction Survival
 
 Validation
 
-```
 
 The research cycle:
 
@@ -6994,9 +7486,7 @@ verified outcomes.
 
 Evidence wins.
 
----
-
-# Post–Pearl Morissette Research Conclusion — Historical Research Layer
+Post–Pearl Morissette Research Conclusion — Historical Research Layer
 
 After:
 
@@ -7058,7 +7548,6 @@ more legible.
 
 The central correction is:
 
-```text
 
 Thing
 
@@ -7066,7 +7555,6 @@ Thing
 
 Relationship
 
-```
 
 A photograph of:
 
@@ -7142,9 +7630,7 @@ across:
 
 five dimensions.
 
----
-
-## Arrival
+Arrival
 
 The research clarified:
 
@@ -7160,21 +7646,21 @@ an address problem.
 
 It can include:
 
-- destination familiarity
+destination familiarity
 
-- destination access confidence
+destination access confidence
 
-- geographic complexity
+geographic complexity
 
-- total visit commitment
+total visit commitment
 
-- travel utility
+travel utility
 
-- visit preparation
+visit preparation
 
-- arrival landmarks
+arrival landmarks
 
-- digital-to-physical participation handoff
+digital-to-physical participation handoff
 
 This produced:
 
@@ -7194,7 +7680,6 @@ pattern.
 
 The key boundary is:
 
-```text
 
 Visit Preparation
 
@@ -7202,7 +7687,6 @@ Visit Preparation
 
 Waiting
 
-```
 
 The waiting taxonomy therefore remains:
 
@@ -7210,9 +7694,7 @@ five:
 
 categories.
 
----
-
-## Atmosphere
+Atmosphere
 
 The research clarified:
 
@@ -7282,9 +7764,7 @@ is actually:
 
 necessary.
 
----
-
-## Photography / Proof
+Photography / Proof
 
 The research clarified:
 
@@ -7298,19 +7778,19 @@ Relationship Proof.
 
 It also strengthened:
 
-- Relational Proof Sequencing
+Relational Proof Sequencing
 
-- Distributed Culinary System
+Distributed Culinary System
 
-- Upstream / Culinary Proof Chain
+Upstream / Culinary Proof Chain
 
-- Capacity Evidence Bundle
+Capacity Evidence Bundle
 
-- Difference Through Relationship
+Difference Through Relationship
 
-- Representative Proof
+Representative Proof
 
-- Productive Relationship Legibility
+Productive Relationship Legibility
 
 Photography as Proof
 
@@ -7358,9 +7838,7 @@ illustrates:
 
 a claim.
 
----
-
-## Reservation / Participation
+Reservation / Participation
 
 The research clarified:
 
@@ -7378,21 +7856,21 @@ a booking event.
 
 Important additions include:
 
-- pre-arrival clarity
+pre-arrival clarity
 
-- guest preparation load
+guest preparation load
 
-- geographic complexity
+geographic complexity
 
-- compatibility adaptation
+compatibility adaptation
 
-- pre-visit relationship continuation
+pre-visit relationship continuation
 
-- experience availability
+experience availability
 
-- instruction consistency
+instruction consistency
 
-- digital-to-physical participation handoff
+digital-to-physical participation handoff
 
 Participation Throughout the Journey
 
@@ -7434,9 +7912,7 @@ becomes:
 
 more operationally complex.
 
----
-
-## Story / Narrative
+Story / Narrative
 
 The research strengthened:
 
@@ -7472,21 +7948,21 @@ Candidate / High.
 
 The new architecture includes:
 
-- Ecosystem as Organising Logic
+Ecosystem as Organising Logic
 
-- Networked Hospitality Model
+Networked Hospitality Model
 
-- Distributed Contribution
+Distributed Contribution
 
-- Narrative Ecosystem Scope
+Narrative Ecosystem Scope
 
-- Relationship Narrative Depth
+Relationship Narrative Depth
 
-- Bounded Product Narrative
+Bounded Product Narrative
 
-- Place as Productive Context
+Place as Productive Context
 
-- Variation Within System / System Transformation
+Variation Within System / System Transformation
 
 These remain:
 
@@ -7508,9 +7984,7 @@ increase:
 
 the formal pattern count.
 
----
-
-## Capacity and System Proof
+Capacity and System Proof
 
 Capacity Proof
 
@@ -7538,7 +8012,6 @@ Candidate / High.
 
 The combined research position is:
 
-```text
 
 Capacity Proof
 
@@ -7546,11 +8019,9 @@ Capacity Proof
 
 Authority Alone
 
-```
 
 and:
 
-```text
 
 Capacity Proof
 
@@ -7558,7 +8029,6 @@ Capacity Proof
 
 Full Future Outcome Proof
 
-```
 
 Confidence may be built through:
 
@@ -7584,13 +8054,10 @@ and:
 
 participation evidence.
 
----
-
-## Formal Governance Outcome
+Formal Governance Outcome
 
 Restaurant #15 produced:
 
-```text
 
 7 Candidate Promotions
 
@@ -7606,33 +8073,32 @@ Restaurant #15 produced:
 
 0 Research-Derived Principle Promotions
 
-```
 
 The seven Candidate promotions are:
 
-1. Layered Arrival
+Layered Arrival
 
-2. Atmosphere Through Consistency
+Atmosphere Through Consistency
 
-3. Photography as Proof
+Photography as Proof
 
-4. Photography Through Layers of Experience
+Photography Through Layers of Experience
 
-5. Participation Throughout the Journey
+Participation Throughout the Journey
 
-6. Capacity Proof
+Capacity Proof
 
-7. Stable Participation / Variable Product
+Stable Participation / Variable Product
 
 The four confidence increases are:
 
-1. Atmosphere Through Worldview
+Atmosphere Through Worldview
 
-2. Story Through Place
+Story Through Place
 
-3. Narrative Coherence Through Organising Logic
+Narrative Coherence Through Organising Logic
 
-4. Hospitality System Proof
+Hospitality System Proof
 
 The reconciled:
 
@@ -7640,7 +8106,6 @@ post–Pearl Morissette:
 
 formal governance state is:
 
-```text
 
 15 Independent Restaurants
 
@@ -7660,7 +8125,6 @@ formal governance state is:
 
 17 Track B Implementation Learnings
 
-```
 
 The increase in:
 
@@ -7744,19 +8208,101 @@ Participation Throughout the Journey.
 
 Evidence wins.
 
----
+Post–Avatar Robot Café DAWN Count Reconciliation
 
-# Post–Dans le Noir? London Count Reconciliation
+Post–Dans le Noir? London canonical state:
+
+
+Emerging: 9
+
+Candidate: 25
+
+
+Restaurant #17 promotes:
+
+1:
+
+Emerging pattern:
+
+Multi-Intent Hospitality
+
+Therefore:
+
+
+9 Emerging
+
+− 1 Promotion
+
+= 8 Emerging
+
+
+and:
+
+
+25 Candidates
+
++ 1 Promotion
+
+= 26 Candidates
+
+
+One:
+
+confidence increase
+
+does not:
+
+alter:
+
+the Candidate count.
+
+Candidate confidence distribution:
+
+
+Candidate / High: 9
+
+Candidate / Medium-High: 6
+
+Candidate / Medium: 11
+
+9 + 6 + 11 = 26
+
+
+All other:
+
+formal counts
+
+remain:
+
+unchanged.
+
+
+Partially Supported: 1
+
+Validated: 0
+
+Research-Derived Principles: 0
+
+Implementation Patterns Pending Formal Validation: 1
+
+Opportunity Themes: 36
+
+Track B Implementation Learnings: 17
+
+
+Research README counts:
+
+reconciled.
+
+Post–Dans le Noir? London Count Reconciliation — Historical Research Layer
 
 Post–Pearl Morissette canonical state:
 
-```text
 
 Emerging: 11
 
 Candidate: 23
 
-```
 
 Restaurant #16 promotes:
 
@@ -7764,13 +8310,12 @@ Restaurant #16 promotes:
 
 Emerging patterns:
 
-- Photography Should Demonstrate Difference
+Photography Should Demonstrate Difference
 
-- Human Assistance Where Structured Self-Service Is Insufficient
+Human Assistance Where Structured Self-Service Is Insufficient
 
 Therefore:
 
-```text
 
 11 Emerging
 
@@ -7778,19 +8323,16 @@ Therefore:
 
 = 9 Emerging
 
-```
 
 and:
 
-```text
 
 23 Candidates
 
-2 Promotions
++ 2 Promotions
 
 = 25 Candidates
 
-```
 
 Two:
 
@@ -7810,7 +8352,6 @@ remain:
 
 unchanged.
 
-```text
 
 Partially Supported: 1
 
@@ -7824,25 +8365,20 @@ Opportunity Themes: 36
 
 Track B Implementation Learnings: 17
 
-```
 
 Research README counts:
 
 reconciled.
 
----
-
-# Post–Pearl Morissette Count Reconciliation — Historical Research Layer
+Post–Pearl Morissette Count Reconciliation — Historical Research Layer
 
 Post-Noma canonical state:
 
-```text
 
 Emerging: 16
 
 Candidate: 16
 
-```
 
 Restaurant #15 promoted:
 
@@ -7856,7 +8392,6 @@ Candidate.
 
 Therefore:
 
-```text
 
 16 Emerging
 
@@ -7864,7 +8399,6 @@ Therefore:
 
 = 11 Emerging
 
-```
 
 Restaurant #15 also promoted:
 
@@ -7874,23 +8408,21 @@ below-Candidate:
 
 research directions:
 
-- Capacity Proof
+Capacity Proof
 
-- Stable Participation / Variable Product
+Stable Participation / Variable Product
 
 Therefore:
 
-```text
 
 16 Existing Candidates
 
-5 Emerging Promotions
++ 5 Emerging Promotions
 
-2 Below-Candidate Promotions
++ 2 Below-Candidate Promotions
 
 = 23 Candidates
 
-```
 
 All other:
 
@@ -7900,7 +8432,6 @@ remain:
 
 unchanged.
 
-```text
 
 Partially Supported: 1
 
@@ -7914,29 +8445,26 @@ Opportunity Themes: 36
 
 Track B Implementation Learnings: 17
 
-```
 
 Research README counts:
 
 reconciled.
 
----
-
-# Governance Mirror Status
+Governance Mirror Status
 
 | Governance File | Status |
 
 |---|---|
 
-| `khds/research/validation/candidate-patterns.md` | Canonical / Complete |
+| khds/research/validation/candidate-patterns.md | Canonical / Complete |
 
-| `khds/patterns/registry.md` | Reconciled / Complete |
+| khds/patterns/registry.md | Reconciled / Complete |
 
-| `khds/research/validation/dashboard.md` | Reconciled / Complete |
+| khds/research/validation/dashboard.md | Reconciled / Complete |
 
-| `khds/research/README.md` | Reconciled / Complete |
+| khds/research/README.md | Reconciled / Complete |
 
-| `khds/research/validation/README.md` | Pending |
+| khds/research/validation/README.md | Pending |
 
 The next:
 
@@ -7944,27 +8472,25 @@ governance mirror
 
 is:
 
-`khds/research/validation/README.md`.
+khds/research/validation/README.md.
 
----
-
-# Validation
+Validation
 
 Research README:
 
-`khds/research/README.md`
+khds/research/README.md
 
 Status:
 
-Post–Dans le Noir? London Reconciled Mirror
+Post–Avatar Robot Café DAWN, Tokyo Reconciled Mirror
 
 Canonical Source:
 
-`khds/research/validation/candidate-patterns.md`
+khds/research/validation/candidate-patterns.md
 
 Independent Restaurants:
 
-16
+17
 
 Track B Validation Cases:
 
@@ -7972,11 +8498,11 @@ Track B Validation Cases:
 
 Emerging:
 
-9
+8
 
 Candidate:
 
-25
+26
 
 Partially Supported:
 
@@ -8002,13 +8528,13 @@ Track B Implementation Learnings:
 
 17
 
-Post–Dans le Noir? London Promotions:
+Post–Avatar Robot Café DAWN Promotions:
 
-2
+1
 
 Confidence Changes:
 
-2
+1
 
 Demotions:
 
@@ -8036,4 +8562,4 @@ Candidate
 
 Next Governance Mirror:
 
-`khds/research/validation/README.md`
+khds/research/validation/README.md

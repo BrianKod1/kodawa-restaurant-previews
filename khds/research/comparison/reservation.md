@@ -2,11 +2,11 @@ KHDS Cross-Restaurant Comparison — Reservation / Participation
 
 Status
 
-Post–Dans le Noir? London Comparison
+Post–Avatar Robot Café DAWN, Tokyo Comparison
 
 Restaurants Compared:
 
-16
+17
 
 Track:
 
@@ -14,7 +14,7 @@ Track A — Independent Hospitality Research
 
 Latest Added Case:
 
-Dans le Noir? London — Clerkenwell
+Avatar Robot Café DAWN — Tokyo
 
 Comparison Status:
 
@@ -90,7 +90,7 @@ all:
 
 five:
 
-post–Restaurant #16:
+post–Restaurant #17:
 
 comparison files
 
@@ -201,6 +201,8 @@ Noma Copenhagen 2026
 Restaurant Pearl Morissette
 
 Dans le Noir? London
+
+Avatar Robot Café DAWN, Tokyo
 
 Current Participation Thesis
 
@@ -8151,6 +8153,1254 @@ Can the reservation system preserve surprise while making every material consequ
 
 Restaurant #16 produces no governance change. It produces a more demanding model of reservation as trust, preparation, and operational coordination.
 
+Post–Avatar Robot Café DAWN, Tokyo Reservation Reconciliation
+
+Restaurant #17 changes the unit of reservation analysis.
+
+The guest does not choose only:
+
+a date
+
+a time
+
+a party size
+
+a table
+
+The guest may choose among:
+
+door-only general admission
+
+an advance-reserved Diner relationship
+
+a scheduled but non-reservable Tele-Barista demonstration
+
+a fully reserved city guide tour
+
+a fully reserved OrySNACK host session
+
+Each route allocates a different combination of:
+
+human pilot
+
+robot body
+
+place
+
+time
+
+local staff
+
+product
+
+eligibility
+
+guest responsibility
+
+The strongest Restaurant #17 finding is:
+
+Available Seat
+
+≠
+
+Available Human Relationship
+
+The strongest system boundary is:
+
+One Venue
+
+≠
+
+One Reservation Object
+
+The strongest transaction boundary is:
+
+Robot Inventory
+
+≠
+
+Pilot Capacity
+
+The strongest participation distinction is:
+
+Scheduled Experience
+
+≠
+
+Reservable Experience
+
+Current Canonical Entry State — Restaurant #17
+
+This comparison begins from the reconciled post–Restaurant #16 governance state.
+
+Pattern
+
+Entry state
+
+DAWN pressure
+
+Decision in this file
+
+Walk-In as First-Class Participation
+
+Candidate / High
+
+Strong direct support
+
+Retain
+
+Hospitality System Proof
+
+Candidate / High
+
+Strong multi-resource coordination support
+
+Retain
+
+Manageable Commitment
+
+Candidate / Medium
+
+Support with party-rule tension
+
+Retain
+
+Participation Rule Consistency
+
+Candidate / Medium
+
+Support plus direct contradiction
+
+Retain
+
+Layered Arrival
+
+Candidate / Medium
+
+Strong route-specific support
+
+Retain
+
+Participation Throughout the Journey
+
+Candidate / Medium
+
+Strong end-to-end support
+
+Retain
+
+Capacity Proof
+
+Candidate / Medium-High
+
+Strong structural support; fulfilment unproven
+
+Retain
+
+Stable Participation / Variable Product
+
+Candidate / Medium
+
+Boundary refinement through variable routes
+
+Retain
+
+Human Assistance Where Structured Self-Service Is Insufficient
+
+Candidate / Medium
+
+Strong exception-routing support
+
+Retain
+
+Multi-Intent Hospitality
+
+Emerging
+
+Very strong route-variety support
+
+Remain Emerging
+
+Commitment Without Pressure
+
+Emerging
+
+Support through bounded availability
+
+Remain Emerging
+
+The Guest as Participant
+
+Emerging
+
+Strong responsibility and interaction support
+
+Remain Emerging
+
+Escalating Participation Complexity
+
+Emerging
+
+Strong branching refinement
+
+Remain Emerging
+
+Own the Guest Relationship
+
+Partially Supported / Medium
+
+External transaction layer leaves control unverified
+
+Retain
+
+No maturity or confidence change is authorized by this dimension file.
+
+Comparison 96 — A Restaurant Reservation Can Allocate a Human Relationship
+
+Most restaurant reservation systems expose:
+
+table
+
+party
+
+date
+
+time
+
+DAWN's Diner route adds:
+
+a dedicated tabletop OriHime pilot
+
+a bounded period of pilot interaction
+
+a robot interface
+
+local service coordination
+
+food and beverage inclusions
+
+The commercial object is therefore not only a seat.
+
+It is a timed, mediated human-service relationship.
+
+Correction 81
+
+Capacity analysis must identify the scarce service relationship, not infer capacity from physical vacancy alone.
+
+Comparison 97 — One Venue Can Contain Multiple Reservation Objects
+
+DAWN publicly presents at least five participation routes.
+
+Route
+
+Entry model
+
+Primary capacity object
+
+General admission
+
+Door only
+
+admission and seat flow
+
+OriHime Diner
+
+Advance reservation
+
+table, pilot and timed service
+
+Tele-Barista
+
+Scheduled / non-reservable
+
+experimental readiness and same-day access
+
+Nihonbashi Guide Tour
+
+Full reservation
+
+pilot, portable robot, group and route
+
+OrySNACK
+
+Full reservation
+
+pilot-host, bar position, product and age-qualified group
+
+A shared address and shared brand do not create one capacity model.
+
+Correction 82
+
+Reservation architecture must begin with route identity before exposing inventory.
+
+Comparison 98 — Door Admission Is Not a Failed Reservation
+
+General admission is deliberately available only at the door.
+
+It permits:
+
+one-person entry
+
+low advance commitment
+
+OriHime service inclusion
+
+spontaneous discovery
+
+It does not guarantee:
+
+immediate entry
+
+a dedicated pilot
+
+a fixed interaction duration
+
+equal relational depth
+
+The route is not an incomplete version of the Diner.
+
+It is a different participation product.
+
+Correction 83
+
+Walk-in access should be evaluated as designed participation, not as digital-booking absence.
+
+Comparison 99 — A Published Schedule Can Truthfully Refuse Reservations
+
+Tele-Barista publishes recurring session times while stating:
+
+no advance reservation
+
+same-day admission payment
+
+possible suspension because of experimental problems
+
+The guest can plan around time without receiving a guaranteed allocation.
+
+This may be more truthful than exposing false inventory for an experimental service.
+
+Correction 84
+
+Known time must be separated from guaranteed participation.
+
+Comparison 100 — A Robot Reservation May Actually Allocate Human Time
+
+The visible transaction may appear to allocate:
+
+an OriHime robot
+
+a robot table
+
+a technology experience
+
+The scarce and meaningful resource is often:
+
+a trained pilot
+
+pilot attention
+
+pilot availability
+
+relational continuity
+
+The booking can complete operational allocation while making the human less visible in the commercial story.
+
+Correction 85
+
+The transaction layer must preserve pilot-centred meaning whenever human time is part of the purchased object.
+
+Comparison 101 — Seat Time and Pilot Time Are Distinct Capacity Objects
+
+The Diner publishes:
+
+90 minutes of table use
+
+up to 60 minutes of pilot interaction
+
+This distinction is unusually valuable.
+
+It separates:
+
+physical occupancy
+
+promised human attention
+
+The remaining time may support ordering, food consumption, local service, transition or reset.
+
+Correction 86
+
+Duration disclosure should identify the time object being promised.
+
+Comparison 102 — More Access Can Require More Eligibility Logic
+
+DAWN broadens participation through multiple routes and adaptive mechanisms.
+
+That breadth also creates route-specific rules involving:
+
+age
+
+guardian state
+
+identity verification
+
+party size
+
+equipment
+
+mobility
+
+dietary needs
+
+assistance requests
+
+Inclusive participation does not always reduce form logic.
+
+It may require more precise, relevant and bounded eligibility logic.
+
+Correction 87
+
+Eligibility complexity should branch by route instead of accumulating universally.
+
+Comparison 103 — Accessibility Integration Still Requires Individual Preparation
+
+DAWN provides disclosure routes for:
+
+wheelchair table configuration
+
+medical-equipment power
+
+stretcher accommodation
+
+dietary-support equipment
+
+other assistance
+
+This turns accessibility information into an operational input.
+
+The field proves a route for disclosure.
+
+It does not prove:
+
+acknowledgement
+
+preparation
+
+equivalent participation
+
+complete suitability
+
+accessible booking completion
+
+Correction 88
+
+An accessible request field must be separated from an accessible booking outcome.
+
+Comparison 104 — Multi-Resource Inventory Cannot Be Reduced to Table Stock
+
+A DAWN experience may depend simultaneously on:
+
+place
+
+table or bar position
+
+pilot
+
+robot
+
+network
+
+local staff
+
+food or beverage
+
+route equipment
+
+time
+
+group eligibility
+
+Failure of one resource can make the complete participation object unavailable.
+
+New Architecture Direction
+
+Multi-Resource Inventory represents availability as the intersection of every required capacity object.
+
+Comparison 105 — Advance Payment Protects Relationship Capacity
+
+Advance payment can protect:
+
+scarce pilot time
+
+reserved robot access
+
+bounded sessions
+
+prepared inclusions
+
+local setup
+
+It also increases guest commitment.
+
+It does not prove:
+
+fair cancellation terms
+
+clear refund operation
+
+guest comprehension
+
+actual fulfilment
+
+The 15-minute lateness rule may protect coordinated human and technical capacity, not only table turnover.
+
+Correction 89
+
+Advance payment and lateness consequences should be justified by the resource being protected and disclosed before commitment.
+
+Comparison 106 — Stable Participation Can Exist Above Variable Route Rules
+
+DAWN does not present one stable booking mechanic surrounding only a variable menu.
+
+Its routes vary in:
+
+reservation requirement
+
+booking horizon
+
+payment
+
+party limits
+
+eligibility
+
+duration
+
+human-attention promise
+
+Stability may instead live at a higher principle level:
+
+know the route
+
+know the consequence
+
+identify the human service
+
+disclose material needs
+
+arrive on time
+
+Correction 90
+
+Stable Participation / Variable Product must distinguish stable governing principles from identical route mechanics.
+
+Comparison 107 — Cross-Surface Consistency Is Part of Capacity Integrity
+
+The homepage describes Diner reservations as beginning from two people.
+
+The transaction surface describes inventory for one to five people.
+
+The evidence cannot safely resolve whether:
+
+solo booking is accepted
+
+the homepage is stale
+
+the transaction description is generic
+
+route rules change by state
+
+Correction 91
+
+A live transaction rule may govern the immediate booking action, but the contradiction must remain visible until authoritative reconciliation.
+
+Comparison 108 — Human Assistance Should Resolve Exceptions, Not Ordinary Rule Drift
+
+DAWN legitimately requires human contact for:
+
+unusual accessibility configurations
+
+large groups
+
+unsupported dietary needs
+
+filming
+
+operational conflicts
+
+late arrival
+
+Human escalation is appropriate when consequence exceeds the form's safe capacity.
+
+It should not be used to repair ordinary inconsistencies that the public system could resolve.
+
+Correction 92
+
+Structured self-service and bounded human escalation are complementary only when each has a defined responsibility.
+
+Comparison 109 — Route Variety Should Branch Interface Complexity
+
+DAWN contains many rules.
+
+Showing every rule to every guest would create unnecessary complexity.
+
+Hiding route consequences would create unsafe simplicity.
+
+The preferred sequence is:
+
+Guest Intent
+↓
+Route
+↓
+Relevant Eligibility
+↓
+Eligible Inventory
+↓
+Commitment
+
+Correction 93
+
+Escalating Participation Complexity should predict route-relevant branching and support precision, not universal form depth.
+
+Comparison 110 — Reservation Confirmation Does Not Create the Relationship
+
+The transaction can confirm:
+
+route
+
+payment
+
+time
+
+party
+
+inclusions
+
+declarations
+
+The relationship still depends on:
+
+local admission
+
+technical readiness
+
+pilot availability
+
+human recognition
+
+live interaction
+
+continuity
+
+The reservation prepares the relationship.
+
+It does not prove or complete it.
+
+Cross-Case Refinement
+
+Reservation Confirmation
+
+≠
+
+Relationship Formation
+
+DAWN Reservation Architecture Directions
+
+The following are architecture variables, mechanisms or research directions. They are not formal KHDS patterns.
+
+Relationship Capacity — capacity measured as available human-service relationship rather than empty seat count.
+
+Route Allocation — matching guest intent to the correct participation object.
+
+Door Admission / Reserved Depth — preserving spontaneity while reserving resource-intensive relationships.
+
+Dedicated Pilot Premium — a commercial tier defined by dedicated human attention through a robot.
+
+Seat Time / Pilot Time Split — separating total occupancy from promised human interaction.
+
+Scheduled / Non-Reservable Participation — publishing a time without offering advance allocation.
+
+Multi-Resource Inventory — availability composed of place, pilot, robot, staff, product and time.
+
+Route-Specific Commitment — obligations and consequences matched to the selected experience.
+
+Eligibility-Gated Participation — age, guardian, group or physical conditions governing route access.
+
+Reservation as Operational Brief — guest data translated into cross-team preparation.
+
+Cross-Surface Rule Integrity — one consequence retaining one meaning across story, transaction, confirmation and arrival.
+
+Accessibility Preparation Field — access needs becoming operational inputs before arrival.
+
+Bounded Experimental Availability — explicit suspension risk where experimental service cannot be guaranteed.
+
+Pilot-Centred Transaction Meaning — preserving the human service object during commercial allocation.
+
+None is promoted, assigned confidence, or treated as a KHDS Principle here.
+
+Current Reservation / Participation Pattern Pressure — Post Restaurant #17
+
+Walk-In as First-Class Participation
+
+Canonical state: Candidate / High
+
+DAWN contribution:
+
+Strong direct support. General admission is intentionally door-only, permits solo entry and includes OriHime service.
+
+Boundary:
+
+door access does not prove immediate capacity or dedicated interaction.
+
+Decision:
+
+Retain Candidate / High. No confidence change.
+
+Hospitality System Proof
+
+Canonical state: Candidate / High
+
+DAWN contribution:
+
+Very strong system support. Reservation must coordinate guest, pilot, robot, local staff, place, food, technology and time.
+
+Boundary:
+
+published coordination requirements do not prove fulfilment.
+
+Decision:
+
+Retain Candidate / High. No confidence change.
+
+Manageable Commitment
+
+Canonical state: Candidate / Medium
+
+DAWN contribution:
+
+Support through named routes, bounded inclusions, published durations, payment states and eligibility.
+
+Pressure:
+
+the Diner party-size contradiction weakens confidence in complete commitment clarity.
+
+Decision:
+
+Retain Candidate / Medium. No confidence change.
+
+Participation Rule Consistency
+
+Canonical state: Candidate / Medium
+
+DAWN contribution:
+
+Support plus one material contradiction between homepage and transaction-surface Diner party size.
+
+Decision:
+
+Retain Candidate / Medium with active falsification. No confidence change.
+
+Layered Arrival
+
+Canonical state: Candidate / Medium
+
+DAWN contribution:
+
+Strong support. Route choice, booking, payment, declaration, confirmation, door admission, physical recognition and pilot connection form distinct layers.
+
+Boundary:
+
+not every route needs every layer.
+
+Decision:
+
+Retain Candidate / Medium. No confidence change.
+
+Participation Throughout the Journey
+
+Canonical state: Candidate / Medium
+
+DAWN contribution:
+
+Strong support across route selection, eligibility, disclosure, payment, punctuality, arrival, interaction and feedback.
+
+Boundary:
+
+more guest responsibility does not automatically mean better participation.
+
+Decision:
+
+Retain Candidate / Medium. No confidence change.
+
+Capacity Proof
+
+Canonical state: Candidate / Medium-High
+
+DAWN contribution:
+
+Strong structural evidence through route schedules, duration, party caps, booking horizons, late-arrival rules and experimental-suspension disclosure.
+
+Boundary:
+
+published capacity structure does not prove available or fulfilled capacity.
+
+Decision:
+
+Retain Candidate / Medium-High. No confidence change.
+
+Stable Participation / Variable Product
+
+Canonical state: Candidate / Medium
+
+DAWN contribution:
+
+Boundary refinement. DAWN varies routes and mechanics, while stable principles may govern consequence, disclosure, punctuality and human-service meaning.
+
+Decision:
+
+Retain Candidate / Medium. No confidence change.
+
+Human Assistance Where Structured Self-Service Is Insufficient
+
+Canonical state: Candidate / Medium
+
+DAWN contribution:
+
+Strong support for exception routing involving access, groups, dietary limitations, filming, conflicts and lateness.
+
+Boundary:
+
+human assistance should not repair ordinary content drift.
+
+Decision:
+
+Retain Candidate / Medium. No confidence change.
+
+Multi-Intent Hospitality
+
+Canonical state: Emerging
+
+DAWN contribution:
+
+Very strong support through admission, dining, demonstration, touring, hosted drinking and experimentation.
+
+Decision:
+
+Remain Emerging.
+
+Commitment Without Pressure
+
+Canonical state: Emerging
+
+DAWN contribution:
+
+Support through booking windows, available inventory and explicit experimental uncertainty without manufactured urgency.
+
+Decision:
+
+Remain Emerging.
+
+The Guest as Participant
+
+Canonical state: Emerging
+
+DAWN contribution:
+
+Strong support. Guests choose routes, disclose needs, satisfy eligibility, arrive punctually, interact and contribute feedback.
+
+Decision:
+
+Remain Emerging.
+
+Escalating Participation Complexity
+
+Canonical state: Emerging
+
+DAWN contribution:
+
+Strong refinement.
+
+Different routes legitimately require different commitments, but complexity should branch rather than accumulate.
+
+Decision:
+
+Remain Emerging.
+
+Own the Guest Relationship
+
+Canonical state: Partially Supported / Medium
+
+DAWN contribution:
+
+Insufficient for change. Direct official discovery leads to an external transaction layer; data ownership, portability, retention and commercial control remain unverified.
+
+Decision:
+
+Retain Partially Supported / Medium.
+
+Strongest Reservation / Participation Tensions After Restaurant #17
+
+Seat capacity vs relationship capacity — physical vacancy does not guarantee a pilot-mediated experience.
+
+One venue vs multiple reservation objects — shared place does not create shared rules.
+
+Door access vs digital allocation — the lowest-commitment route may be intentionally offline.
+
+Published schedule vs reservability — planning information can exist without guaranteed inventory.
+
+Robot inventory vs pilot capacity — the visible device can conceal the scarce human resource.
+
+Seat time vs pilot time — occupancy duration and human-attention duration are different promises.
+
+Route variety vs universal complexity — participation depth should branch by intent.
+
+Access breadth vs eligibility logic — more inclusive routes may need more precise conditions.
+
+Accessibility field vs accessible outcome — disclosure does not establish accommodation.
+
+Advance payment vs fulfilment — commitment protects resources but does not prove delivery.
+
+Late-arrival rule vs table turnover — punctuality can protect a coordinated relationship system.
+
+Stable principle vs variable route mechanics — stability may sit above interface uniformity.
+
+Official story vs external transaction — the pilot can disappear during allocation.
+
+Rule consistency vs live enforcement — the homepage and transaction party conditions conflict.
+
+Human escalation vs content governance — people should handle exceptions, not routine drift.
+
+Confirmation vs relationship formation — a booking prepares the interaction but does not complete it.
+
+Availability display vs complete capacity model — exposed inventory does not reveal resource logic.
+
+Multi-intent hospitality vs one funnel — different products require different commitment paths.
+
+Reservation Falsification Programme After Restaurant #17
+
+Can guests identify the correct DAWN route without staff explanation?
+
+Is one-person Diner booking actually accepted?
+
+Do the homepage and transaction party-size rules converge?
+
+Does general admission remain available during peak demand?
+
+Do walk-in guests receive meaningful OriHime interaction?
+
+Is door-only access clearly distinguishable from sold-out reservation inventory?
+
+Are dedicated pilots consistently allocated as promised?
+
+Is up to 60 minutes of pilot interaction reliably delivered within the 90-minute Diner period?
+
+Is pilot time visible as part of the purchased object before payment?
+
+Does the booking surface explain human operation rather than robot inventory alone?
+
+Do route calendars correspond to combined pilot, robot, local staff and place capacity?
+
+Are booking horizons operational rather than promotional?
+
+Are late-arrival consequences visible before payment?
+
+Are late-arrival rules repeated in confirmation?
+
+Are cancellation costs proportionate to protected relationship capacity?
+
+Can guests distinguish scheduled Tele-Barista sessions from guaranteed participation?
+
+Do suspension notices reach intending guests before travel?
+
+Is experimental uncertainty stated without evading accountability?
+
+Are route inclusions consistent across official and transaction surfaces?
+
+Can guests distinguish admission inclusion from extra charges?
+
+Are route-specific eligibility questions shown only when relevant?
+
+Are age and guardian requirements clear before selection?
+
+Is identity verification proportionate and clearly disclosed?
+
+Can larger groups discover the correct split or escalation path?
+
+Do accessibility requests receive explicit acknowledgement?
+
+Do accessibility requests reach local staff, pilots and technical teams where relevant?
+
+Can screen-reader and keyboard users complete the external booking?
+
+Does the accessibility request mechanism itself remain accessible?
+
+Are allergy limitations visible before product commitment?
+
+Do allergy declarations reach the correct operational team?
+
+Does the anniversary message become an acknowledged preparation instruction?
+
+Is surprise permission preserved through the pilot and local-service handoff?
+
+Does confirmation name or introduce an assigned pilot where appropriate?
+
+Can pilot assignment change without weakening the promised relationship?
+
+Does the external booking handoff preserve route and pilot meaning?
+
+Is human support discoverable before commitment?
+
+Does human escalation resolve exceptional cases without becoming mandatory for ordinary rules?
+
+Does reservation data function as an internal operational brief?
+
+Can guests modify or cancel without losing route-specific context?
+
+Do observed operations materially contradict the published capacity model?
+
+Participation Deduplication Decisions — Restaurant #17
+
+Proposed direction
+
+Closest existing concept
+
+Decision
+
+Relationship Capacity
+
+Capacity Proof; Hospitality System Proof
+
+Retain as core architecture model
+
+Route Allocation
+
+Multi-Intent Hospitality; Layered Arrival
+
+Retain as participation mechanism
+
+Door Admission / Reserved Depth
+
+Walk-In as First-Class Participation
+
+Retain as access architecture
+
+Dedicated Pilot Premium
+
+Relationship Capacity
+
+Retain as commercial mechanism
+
+Seat Time / Pilot Time Split
+
+Capacity Proof
+
+Retain as duration distinction
+
+Scheduled / Non-Reservable Participation
+
+Walk-In as First-Class Participation; Capacity Proof
+
+Retain as bounded route state
+
+Multi-Resource Inventory
+
+Capacity Proof; Hospitality System Proof
+
+Retain as capacity model
+
+Route-Specific Commitment
+
+Manageable Commitment
+
+Retain as commitment mechanism
+
+Eligibility-Gated Participation
+
+Escalating Participation Complexity
+
+Retain as route-logic mechanism
+
+Reservation as Operational Brief
+
+Hospitality System Proof
+
+Merge with established operating direction
+
+Cross-Surface Rule Integrity
+
+Participation Rule Consistency
+
+Treat as mechanism of existing Candidate
+
+Accessibility Preparation Field
+
+Human Assistance; Compatibility Adaptation
+
+Retain as operational input
+
+Bounded Experimental Availability
+
+Capacity Proof; Commitment Without Pressure
+
+Retain as uncertainty rule
+
+Pilot-Centred Transaction Meaning
+
+Story Through Hospitality Model; Own the Guest Relationship
+
+Retain as cross-dimensional requirement
+
+No duplicate canonical pattern is created.
+
+Restaurant #17 Reservation Decision Ledger
+
+The comparison now includes 17 independent restaurants.
+
+The complete post–Dans le Noir? reservation comparison remains intact as historical state.
+
+DAWN is classified as a multi-route allocation system, not a single booking funnel.
+
+Relationship Capacity is the strongest Restaurant #17 reservation finding.
+
+Available Seat is separated from Available Human Relationship.
+
+One Venue is separated from One Reservation Object.
+
+Robot Inventory is separated from Pilot Capacity.
+
+General admission remains a first-class door-only participation route.
+
+Tele-Barista establishes Scheduled / Non-Reservable Participation.
+
+The Diner reservation allocates timed pilot attention as part of the commercial object.
+
+Seat time and pilot time are recorded as distinct capacity promises.
+
+Multi-Resource Inventory is retained as an architecture model.
+
+Route selection is treated as the first interface branch.
+
+Eligibility logic is treated as route-specific rather than universal.
+
+Accessibility request fields are classified as preparation evidence, not outcome evidence.
+
+Advance payment is classified as resource-commitment architecture, not fulfilment proof.
+
+The 15-minute lateness boundary is interpreted as relationship-capacity protection.
+
+The homepage and transaction party-size conflict remains unresolved.
+
+Human assistance is reserved for material exceptions rather than ordinary content drift.
+
+Stable Participation / Variable Product receives a governing-principle refinement.
+
+The external transaction layer must preserve pilot-centred meaning.
+
+Capacity Proof receives strong structural support without performance inference.
+
+Walk-In as First-Class Participation and Hospitality System Proof receive strong support without confidence change.
+
+Multi-Intent Hospitality and Escalating Participation Complexity receive strong Emerging support without promotion.
+
+Own the Guest Relationship remains Partially Supported / Medium.
+
+No pattern is promoted, demoted, renamed, merged or validated.
+
+Canonical totals remain 25 Candidate, 9 Emerging, 1 Partially Supported, 0 Validated and 0 research-derived Principles.
+
+Why No Maturity Change Is Justified
+
+DAWN provides strong independent support for relationship capacity, route allocation and multi-resource participation.
+
+This file remains one dimensional comparison inside the Restaurant #17 cycle.
+
+It can refine definitions, record contradictions, identify architecture and supply falsification targets.
+
+It cannot independently authorize canonical maturity or confidence movement.
+
+Formal decisions remain reserved for khds/research/validation/candidate-patterns.md after all five Restaurant #17 comparison files are complete.
+
+Reservation / Participation Comparison Conclusion — Post Avatar Robot Café DAWN, Tokyo
+
+After 17 independent restaurants, the strongest participation thesis remains:
+
+Participation is a state system, not a booking button.
+
+DAWN adds a decisive capacity refinement.
+
+The system is not merely deciding where a guest sits.
+
+It is deciding:
+
+which participation route the guest enters
+
+which rules apply
+
+which human attention is allocated
+
+which robot body is required
+
+which local support must be prepared
+
+which eligibility state must be satisfied
+
+which declarations carry consequences
+
+which uncertainty may remain open
+
+The minimum sufficient DAWN model is:
+
+Guest Intent
+↓
+Eligible Route
+↓
+Human + Robot + Place + Time Capacity
+↓
+Consequence-Relevant Disclosure
+↓
+Bounded Commitment
+↓
+Operational Preparation
+
+Dans le Noir? showed that a simple reservation interface can contain a complex participation system when support and consequence clarity are strong.
+
+DAWN now shows that one venue can require multiple participation architectures because each route allocates a different relationship.
+
+The combined refinement is:
+
+Participation Complexity
+
+should produce
+
+Relevant Route Branching
+
++
+
+Support Precision
+
+not
+
+Universal Interface Depth
+
+The transaction must also preserve the real service object:
+
+Visible Robot
+
+may be
+
+Commercial Interface
+
+but
+
+Human Pilot Time
+
+is
+
+Relationship Capacity
+
+Restaurant #17 produces no governance change.
+
+It produces a more rigorous reservation model in which capacity, commitment and hospitality are measured at the level of the relationship being promised.
+
 Validation
 
 Comparison File:
@@ -8159,83 +9409,83 @@ khds/research/comparison/reservation.md
 
 Status:
 
-Post–Dans le Noir? London Complete
+Post–Avatar Robot Café DAWN, Tokyo Complete
 
 Independent Restaurants Compared:
 
-16
+17
 
 Latest Case:
 
-Dans le Noir? London
+Avatar Robot Café DAWN, Tokyo
 
 Primary Governance Watch:
 
-Human Assistance Where Structured Self-Service Is Insufficient
+Capacity Proof — Relationship Capacity Boundary
 
 Secondary Governance Watch:
 
-Escalating Participation Complexity — Support Escalation Refinement
+Walk-In as First-Class Participation — Door Admission / Reserved Depth
 
 Third Governance Watch:
 
-Participation Throughout the Journey
+Hospitality System Proof — Multi-Resource Inventory
 
 Existing Candidate Confidence Watch:
 
-Stable Participation / Variable Product
+Participation Rule Consistency — Diner Party-Size Conflict
 
 Strongest New Participation State:
 
-Consequence Clarity / Outcome Uncertainty
+Relationship Capacity
 
 Strongest New Pre-Arrival Direction:
 
-Information Partitioning
+Route Allocation
 
 Strongest New Guest-Work Variable:
 
-Named Consequence Mapping
+Eligibility-Gated Participation
 
 Strongest New Complexity Variable:
 
-Support Escalation
+Route-Specific Branching
 
 Strongest Commitment Refinement:
 
-Bounded Product Commitment
+Dedicated Pilot Premium
 
 Strongest Compatibility Variable:
 
-Explicit No-Requirement State
+Accessibility Preparation Field
 
 Strongest Physical Handoff Mechanism:
 
-Reservation as Operational Brief
+Seat Time / Pilot Time Split
 
 Strongest Cross-Surface Distinction:
 
-Menu Allocation at Booking
+Homepage Minimum: 2 Guests
 
 vs
 
-Order Taken on Arrival
+Transaction Description: 1–5 Guests
 
 Strongest Evidence Boundary:
 
-Required Disclosure Field
+Available Seat
 
 ≠
 
-Successful Operational Handoff
+Available Human Relationship
 
 Strongest Variable-Product Boundary:
 
-Participation Complexity
+One Venue
 
 ≠
 
-Interface Complexity
+One Reservation Object
 
 Formal Promotions:
 
