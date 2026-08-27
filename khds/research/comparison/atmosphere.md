@@ -2,11 +2,11 @@
 
 ## Status
 
-Post–Pearl Morissette Comparison
+Post–Dans le Noir? London Comparison
 
 Restaurants Compared:
 
-15
+16
 
 Track:
 
@@ -14,7 +14,7 @@ Track A — Independent Hospitality Research
 
 Latest Added Case:
 
-Restaurant Pearl Morissette — Jordan Station
+Dans le Noir? London — Clerkenwell
 
 Comparison Status:
 
@@ -78,7 +78,7 @@ all:
 
 five:
 
-post–Restaurant #15:
+post–Restaurant #16:
 
 comparison files
 
@@ -109,19 +109,33 @@ alone.
 Atmosphere may be shaped through:
 
 - spatial structure
+
 - materiality
+
 - social interaction
+
 - privacy
+
 - service presence
+
 - sound
+
 - light
+
 - worldview
+
 - place
+
 - continuity
+
 - ritual
+
 - participation
+
 - productive context
+
 - environmental thresholds
+
 - time
 
 Different:
@@ -143,20 +157,36 @@ mechanisms.
 # Restaurants Included
 
 1. Ankole
+
 2. Cultiva
+
 3. Talisman
+
 4. Mawimbi
+
 5. Bistro Lolo
+
 6. FYN
+
 7. Dishoom Covent Garden
+
 8. Franklin Barbecue
+
 9. Alinea
+
 10. NARISAWA
+
 11. Haidilao Toronto Downtown
+
 12. ICHIRAN Shibuya
+
 13. Din Tai Fung Covent Garden
+
 14. Noma Copenhagen 2026
+
 15. Restaurant Pearl Morissette
+
+16. Dans le Noir? London
 
 ---
 
@@ -193,34 +223,55 @@ means.
 Examples include:
 
 - social energy
+
 - privacy
+
 - spectacle
+
 - restraint
+
 - narrative world
+
 - continuity
+
 - worldview
+
 - productive place
+
 - human service
+
 - designed separation
+
 - material coherence
+
 - light
+
 - ritual
+
 - participation
 
 Therefore:
 
 ```text
+
 Atmosphere
+
 ≠
+
 Décor Style
+
 ```
 
 and:
 
 ```text
+
 Atmosphere
+
 ≠
+
 Visual Mood Alone
+
 ```
 
 ---
@@ -228,34 +279,63 @@ Visual Mood Alone
 # Post–Pearl Morissette Atmosphere Architecture
 
 ```text
+
 Hospitality Worldview
+
 +
+
 Desired Guest State
+
 +
+
 Place Relationship
+
 +
+
 Participation Model
+
 ↓
+
 What Mechanisms Shape the Environment?
+
 ↓
+
 Space
+
 Light
+
 Material
+
 Sound
+
 Privacy
+
 Social Energy
+
 Service Presence
+
 Production Presence
+
 Narrative
+
 Productive Context
+
 Threshold
+
 Time
+
 ↓
+
 Relational Coherence
+
 +
+
 Temporal Coherence where relevant
+
 ↓
+
 Guest-Facing Atmospheric State
+
 ```
 
 Website research:
@@ -303,17 +383,23 @@ atmosphere:
 directions:
 
 ```text
+
 Atmospheric Threshold
+
 ```
 
 ```text
+
 Productive Relationship Legibility
+
 ```
 
 and:
 
 ```text
+
 Rooted Destination Atmosphere
+
 ```
 
 It also:
@@ -329,9 +415,13 @@ existing:
 distinction:
 
 ```text
+
 Atmospheric Consistency
+
 ≠
+
 Visual Sameness
+
 ```
 
 ---
@@ -357,9 +447,13 @@ continuity.
 Atmospheric pressure:
 
 ```text
+
 How does the environment
+
 support a recognizable
+
 hospitality identity?
+
 ```
 
 ---
@@ -383,8 +477,11 @@ matter.
 Atmospheric pressure:
 
 ```text
+
 Can worldview
+
 become physically legible?
+
 ```
 
 ---
@@ -408,8 +505,11 @@ important.
 Atmospheric pressure:
 
 ```text
+
 How does a place remain
+
 recognizable through time?
+
 ```
 
 ---
@@ -433,9 +533,13 @@ important.
 Atmospheric pressure:
 
 ```text
+
 Can the environment
+
 transport the guest
+
 into a distinct world?
+
 ```
 
 ---
@@ -459,9 +563,13 @@ matter.
 Atmospheric pressure:
 
 ```text
+
 Can atmosphere emerge
+
 through social life
+
 and familiarity?
+
 ```
 
 ---
@@ -487,8 +595,11 @@ matter.
 Atmospheric pressure:
 
 ```text
+
 Can conceptual worldview
+
 shape the environmental experience?
+
 ```
 
 ---
@@ -512,9 +623,13 @@ interact.
 Atmospheric pressure:
 
 ```text
+
 Can a narrative world
+
 remain coherent
+
 inside an active restaurant?
+
 ```
 
 ---
@@ -548,9 +663,13 @@ model.
 Atmospheric pressure:
 
 ```text
+
 Can atmosphere emerge
+
 from product ritual
+
 and operational reality?
+
 ```
 
 ---
@@ -576,9 +695,13 @@ matter.
 Atmospheric pressure:
 
 ```text
+
 How much should the environment
+
 support anticipation
+
 without over-revealing?
+
 ```
 
 ---
@@ -604,9 +727,13 @@ central.
 Atmospheric pressure:
 
 ```text
+
 Can worldview
+
 become atmosphere
+
 without literal theming?
+
 ```
 
 ---
@@ -632,8 +759,11 @@ important.
 Atmospheric pressure:
 
 ```text
+
 Can social interaction itself
+
 be a primary hospitality mechanism?
+
 ```
 
 ---
@@ -659,8 +789,11 @@ dominate.
 Atmospheric pressure:
 
 ```text
+
 Can hospitality become stronger
+
 through reduced social exposure?
+
 ```
 
 ---
@@ -688,8 +821,11 @@ matter.
 Atmospheric pressure:
 
 ```text
+
 Can standardization
+
 remain locally coherent?
+
 ```
 
 ---
@@ -713,8 +849,11 @@ matter.
 Atmospheric pressure:
 
 ```text
+
 How can atmosphere remain coherent
+
 through material change?
+
 ```
 
 ---
@@ -740,9 +879,55 @@ matter.
 Atmospheric pressure:
 
 ```text
+
 Can the guest-facing environment
+
 be shaped by the productive place
+
 it physically frames?
+
+```
+
+---
+
+## Dans le Noir? London
+
+Enforced:
+
+visual absence
+
+voice
+
+proximity
+
+shared:
+
+uncertainty
+
+device:
+
+absence
+
+and:
+
+human:
+
+guidance
+
+interact.
+
+Atmospheric pressure:
+
+```text
+
+Can atmosphere function
+
+as operating infrastructure
+
+when visual environment
+
+is deliberately unavailable?
+
 ```
 
 ---
@@ -774,26 +959,43 @@ mechanism:
 families include:
 
 - Worldview
+
 - Continuity
+
 - Escape
+
 - Social Interaction
+
 - Privacy
+
 - Narrative
+
 - Product Ritual
+
 - Service
+
 - Place
+
 - Material Relationship
+
 - Productive Context
+
 - Time
+
 - Threshold
+
 - Production Presence
 
 ## Correction
 
 ```text
+
 Strong Atmosphere
+
 ≠
+
 One Preferred Mechanism
+
 ```
 
 ---
@@ -899,9 +1101,13 @@ supported.
 ## Correction
 
 ```text
+
 Published Atmosphere Language
+
 ≠
+
 Guest State Proven
+
 ```
 
 ---
@@ -917,9 +1123,13 @@ Strong:
 cases include:
 
 - Cultiva
+
 - FYN
+
 - NARISAWA
+
 - Noma
+
 - Pearl Morissette
 
 Additional:
@@ -1003,29 +1213,45 @@ landscape.
 # Atmosphere Through Worldview — Post–Pearl Refinement
 
 ```text
+
 Published Worldview
+
 ↓
+
 Material / Spatial Translation
+
 ↓
+
 Environmental Relationship
+
 ↓
+
 Potential Atmospheric Expression
+
 ```
 
 ## Core Boundary
 
 ```text
+
 Strong Published Worldview
+
 ≠
+
 Atmosphere Through Worldview Proven
+
 ```
 
 and:
 
 ```text
+
 Physical Worldview Translation
+
 ≠
+
 Emotional Outcome Proven
+
 ```
 
 ---
@@ -1047,9 +1273,13 @@ Warranted
 Potential:
 
 ```text
+
 Medium-High
+
 →
+
 High?
+
 ```
 
 Do not:
@@ -1127,9 +1357,13 @@ environment.
 ## Correction
 
 ```text
+
 Worldview Translation
+
 ≠
+
 Literal Theming
+
 ```
 
 This:
@@ -1157,13 +1391,21 @@ Strong:
 cases include:
 
 - Ankole
+
 - Cultiva
+
 - Talisman
+
 - Mawimbi
+
 - Dishoom
+
 - NARISAWA
+
 - Din Tai Fung
+
 - Noma
+
 - Pearl Morissette
 
 Pearl Morissette:
@@ -1197,10 +1439,15 @@ identical.
 They include:
 
 - modern interior
+
 - rustic material signals
+
 - agricultural landscape
+
 - food
+
 - wine
+
 - productive context
 
 Yet:
@@ -1232,9 +1479,13 @@ logic.
 ## Core Boundary
 
 ```text
+
 Atmospheric Consistency
+
 ≠
+
 Visual Sameness
+
 ```
 
 ---
@@ -1338,19 +1589,29 @@ logic.
 ## Cross-Case Relationship
 
 ```text
+
 Different Surface Languages
+
 +
+
 Material Hospitality Relationship
+
 →
+
 Potential Relational Coherence
+
 ```
 
 ## Correction
 
 ```text
+
 Visual Difference
+
 ≠
+
 Atmospheric Incoherence
+
 ```
 
 ---
@@ -1410,9 +1671,13 @@ support.
 ## Correction
 
 ```text
+
 Current Coherence
+
 ≠
+
 Temporal Continuity
+
 ```
 
 ---
@@ -1470,9 +1735,13 @@ logic.
 ## Correction
 
 ```text
+
 Continuity
+
 ≠
+
 Sameness
+
 ```
 
 ---
@@ -1522,19 +1791,29 @@ transformation.
 ## Strong Correction
 
 ```text
+
 Variation Within System
+
 ≠
+
 System Transformation
+
 ```
 
 and:
 
 ```text
+
 Changing Menu
+
 +
+
 Changing Landscape
+
 ≠
+
 Coherence Through Change Proven
+
 ```
 
 ---
@@ -1670,9 +1949,13 @@ place.
 ## Correction
 
 ```text
+
 Destination Restaurant
+
 ≠
+
 Designed Escape
+
 ```
 
 ---
@@ -1700,15 +1983,23 @@ mechanism.
 ## Contrast
 
 ```text
+
 Mawimbi
+
 =
+
 Destination Through Escape
+
 ```
 
 ```text
+
 Pearl Morissette
+
 =
+
 Destination Through Rootedness
+
 ```
 
 ## Status
@@ -1730,7 +2021,9 @@ pattern.
 Potential Homes:
 
 - Story Through Place
+
 - Atmosphere Through Worldview
+
 - Atmosphere as Product
 
 ---
@@ -1748,20 +2041,31 @@ may:
 emerge through:
 
 - escape
+
 - rootedness
+
 - authority
+
 - place
+
 - ritual
+
 - product
+
 - rarity
+
 - experience structure
 
 ## Correction
 
 ```text
+
 Destination Value
+
 ≠
+
 One Atmosphere Type
+
 ```
 
 ---
@@ -1777,9 +2081,13 @@ Strong:
 pressure:
 
 - Mawimbi
+
 - Alinea
+
 - Dishoom
+
 - Noma
+
 - Pearl Morissette
 
 But:
@@ -1817,9 +2125,13 @@ restaurant.
 ## Core Boundary
 
 ```text
+
 Prominent Environment
+
 ≠
+
 Atmosphere as Product Proven
+
 ```
 
 ---
@@ -1931,17 +2243,25 @@ Remain below Candidate.
 ## Cross-Case Correction
 
 ```text
+
 Human Interaction
+
 ≠
+
 Hospitality
+
 ```
 
 and:
 
 ```text
+
 Social Energy
+
 ≠
+
 Required Atmosphere
+
 ```
 
 ---
@@ -1997,9 +2317,13 @@ pressure.
 ## Correction
 
 ```text
+
 Privacy
+
 ≠
+
 Universal Hospitality Improvement
+
 ```
 
 ---
@@ -2077,9 +2401,13 @@ language.
 # Correction
 
 ```text
+
 Environmental Atmosphere
+
 ≠
+
 Service Atmosphere
+
 ```
 
 ---
@@ -2149,17 +2477,25 @@ production.
 ## Correction
 
 ```text
+
 Productive Landscape Visibility
+
 ≠
+
 Production Presence
+
 ```
 
 and:
 
 ```text
+
 Production Presence
+
 ≠
+
 Technique Proof
+
 ```
 
 ---
@@ -2215,9 +2551,13 @@ process.
 ## Correction
 
 ```text
+
 Productive-Place Atmosphere
+
 ≠
+
 Process Visibility
+
 ```
 
 ---
@@ -2263,12 +2603,19 @@ threshold:
 types:
 
 - kitchen
+
 - garden
+
 - street
+
 - water
+
 - vineyard
+
 - workshop
+
 - productive landscape
+
 - market
 
 ## Status
@@ -2290,11 +2637,17 @@ specific:
 case:
 
 ```text
+
 Dining Room
+
 ↔
+
 Glazing
+
 ↔
+
 Farm / Garden / Vineyard
+
 ```
 
 can:
@@ -2310,9 +2663,13 @@ Productive Threshold.
 ## Deduplication
 
 ```text
+
 Productive Threshold
+
 →
+
 Atmospheric Threshold
+
 ```
 
 Do not:
@@ -2360,9 +2717,13 @@ meaningful.
 ## Correction
 
 ```text
+
 Visual Connection
+
 ≠
+
 Relational Coherence
+
 ```
 
 Atmospheric Threshold:
@@ -2418,21 +2779,33 @@ output.
 ## Relationship
 
 ```text
+
 Visibility
+
 +
+
 Explanation
+
 +
+
 Context
+
 ↓
+
 Potential Productive Meaning
+
 ```
 
 ## Boundary
 
 ```text
+
 Visible Landscape
+
 ≠
+
 Legible Productive Relationship
+
 ```
 
 ---
@@ -2584,9 +2957,13 @@ meaning.
 ## Correction
 
 ```text
+
 Shared Environmental Evidence
+
 ≠
+
 Shared Pattern
+
 ```
 
 This:
@@ -2630,9 +3007,13 @@ landscape.
 ## Correction
 
 ```text
+
 Worldview Expression
+
 ≠
+
 Place Story
+
 ```
 
 even:
@@ -2722,9 +3103,13 @@ Atmosphere Through Consistency.
 # Correction
 
 ```text
+
 Material Contrast
+
 ≠
+
 Atmospheric Contradiction
+
 ```
 
 ---
@@ -2778,19 +3163,29 @@ model.
 ## Proposed Relationship
 
 ```text
+
 Elements
+
 +
+
 Relationships
+
 +
+
 Hospitality Logic
+
 ↓
+
 Relational Coherence
+
 ```
 
 Not:
 
 ```text
+
 Everything Looks the Same
+
 ```
 
 ---
@@ -2898,9 +3293,13 @@ states.
 ## Correction
 
 ```text
+
 Diurnal Atmosphere
+
 ≠
+
 Seasonal Atmosphere
+
 ```
 
 ---
@@ -2944,9 +3343,13 @@ expression.
 ## Correction
 
 ```text
+
 Different Service Time
+
 ≠
+
 Different Atmosphere Proven
+
 ```
 
 ---
@@ -3008,17 +3411,25 @@ organizer.
 ## Correction
 
 ```text
+
 Seasonal Restaurant
+
 ≠
+
 Temporal Atmosphere Dominates
+
 ```
 
 and:
 
 ```text
+
 Time Exists
+
 ≠
+
 Temporal Hospitality
+
 ```
 
 ---
@@ -3252,9 +3663,13 @@ offering.
 ## Correction
 
 ```text
+
 Worldview-Led Environment
+
 ≠
+
 Atmosphere as Product
+
 ```
 
 Pearl Morissette:
@@ -3282,18 +3697,27 @@ second.
 ### Designed Escape
 
 ```text
+
 Guest
+
 →
+
 Distinct Experience World
+
 ```
 
 ### Rooted Destination
 
 ```text
+
 Guest
+
 →
+
 Deeper Relationship
+
 with Actual Place
+
 ```
 
 Mawimbi:
@@ -3315,9 +3739,13 @@ case.
 ## Correction
 
 ```text
+
 Rootedness
+
 ≠
+
 Escape
+
 ```
 
 ---
@@ -3363,9 +3791,13 @@ Therefore:
 ## Correction
 
 ```text
+
 Place-Led Atmosphere
+
 ≠
+
 Natural Landscape Required
+
 ```
 
 This protects:
@@ -3401,9 +3833,13 @@ important.
 ## Correction
 
 ```text
+
 Agricultural Setting
+
 ≠
+
 Agricultural Atmosphere
+
 ```
 
 The:
@@ -3459,9 +3895,13 @@ meaning.
 ## Correction
 
 ```text
+
 Beautiful Landscape
+
 ≠
+
 Productive Landscape Meaning
+
 ```
 
 Meaning:
@@ -3485,19 +3925,29 @@ depends:
 on:
 
 - room
+
 - materiality
+
 - architecture
+
 - light
+
 - furniture
+
 - service context
+
 - dining format
 
 ## Correction
 
 ```text
+
 Productive Landscape
+
 ≠
+
 Complete Atmosphere
+
 ```
 
 This:
@@ -3571,9 +4021,13 @@ interaction.
 ## Correction
 
 ```text
+
 Multiple Atmosphere Mechanisms
+
 ≠
+
 Atmospheric Complexity by Default
+
 ```
 
 The:
@@ -3669,11 +4123,17 @@ Strong:
 examples:
 
 - Talisman
+
 - Mawimbi
+
 - Dishoom
+
 - NARISAWA
+
 - Din Tai Fung
+
 - Noma
+
 - Pearl Morissette
 
 Different:
@@ -3789,9 +4249,13 @@ case.
 ## Correction
 
 ```text
+
 Relational Coherence
+
 ≠
+
 Temporal Coherence
+
 ```
 
 ---
@@ -3839,9 +4303,13 @@ environment.
 ## Correction
 
 ```text
+
 Worldview
+
 ≠
+
 Atmosphere
+
 ```
 
 The:
@@ -3863,23 +4331,37 @@ translation:
 channels:
 
 - architecture
+
 - materials
+
 - lighting
+
 - spatial structure
+
 - service behaviour
+
 - production visibility
+
 - landscape relationship
+
 - participation
+
 - ritual
 
 ## Architecture Relationship
 
 ```text
+
 Worldview
+
 +
+
 Translation Mechanism
+
 ↓
+
 Potential Atmospheric Expression
+
 ```
 
 This:
@@ -3891,9 +4373,13 @@ stronger
 than:
 
 ```text
+
 Worldview Copy
+
 =
+
 Atmosphere
+
 ```
 
 ---
@@ -3979,9 +4465,13 @@ may:
 support:
 
 ```text
+
 Worldview
+
 →
+
 Environment
+
 ```
 
 It cannot:
@@ -3989,17 +4479,25 @@ It cannot:
 prove:
 
 ```text
+
 Environment
+
 →
+
 Specific Guest Emotion
+
 ```
 
 ## Correction
 
 ```text
+
 Physical Translation
+
 ≠
+
 Emotional Outcome
+
 ```
 
 ---
@@ -4061,9 +4559,13 @@ state.
 ## Correction
 
 ```text
+
 Strong Atmosphere
+
 ≠
+
 Explicit Desired Guest State Required
+
 ```
 
 Desired Guest State:
@@ -4139,9 +4641,13 @@ conditions.
 ## Correction
 
 ```text
+
 Guest Agency
+
 ≠
+
 Atmospheric Control
+
 ```
 
 The:
@@ -4209,9 +4715,13 @@ environment.
 ## Correction
 
 ```text
+
 Participation Shapes Atmosphere
+
 ≠
+
 Atmosphere Is Participation
+
 ```
 
 ---
@@ -4281,9 +4791,13 @@ meaning?
 ## Correction
 
 ```text
+
 Narrative Meaning
+
 ≠
+
 Atmospheric Mechanism
+
 ```
 
 ---
@@ -4327,9 +4841,13 @@ meaning.
 ## Correction
 
 ```text
+
 Product Meaning
+
 ≠
+
 Atmosphere
+
 ```
 
 The:
@@ -4413,17 +4931,25 @@ architecture.
 ## Correction
 
 ```text
+
 Atmosphere Evidence
+
 ≠
+
 Atmosphere Pattern
+
 ```
 
 and:
 
 ```text
+
 Atmosphere
+
 ≠
+
 Proof
+
 ```
 
 ---
@@ -4463,7 +4989,9 @@ patterns.
 Potential Homes:
 
 - Story Through Place
+
 - Atmosphere Through Worldview
+
 - Atmosphere as Product
 
 ## Decision
@@ -4519,11 +5047,17 @@ future:
 cases:
 
 - chef counter facing kitchen
+
 - dining room facing garden
+
 - restaurant opening onto street
+
 - waterfront dining
+
 - market adjacency
+
 - vineyard
+
 - workshop
 
 ## Decision
@@ -4953,26 +5487,47 @@ Post–Pearl Morissette:
 atmosphere research now includes:
 
 - Desired Guest State
+
 - Social Energy
+
 - Privacy
+
 - Service Presence
+
 - Production Presence
+
 - Productive Landscape Visibility
+
 - Productive Relationship Legibility
+
 - Narrative Density
+
 - Material Relationship
+
 - Material Contrast
+
 - Natural Light
+
 - Atmospheric Threshold
+
 - Productive Threshold
+
 - Worldview Translation
+
 - Relational Coherence
+
 - Temporal Coherence
+
 - Rooted Destination Atmosphere
+
 - Designed Escape
+
 - Diurnal Atmosphere
+
 - Seasonal Atmosphere
+
 - Place Relationship
+
 - Participation Effect
 
 These:
@@ -5002,9 +5557,13 @@ patterns.
 # Productive Threshold
 
 ```text
+
 Productive Threshold
+
 →
+
 Atmospheric Threshold
+
 ```
 
 Subtype only.
@@ -5018,11 +5577,17 @@ Potential:
 home:
 
 ```text
+
 Story Through Place
+
 +
+
 Atmosphere Through Worldview
+
 +
+
 Atmosphere as Product
+
 ```
 
 Do not:
@@ -5038,7 +5603,9 @@ Potential:
 home:
 
 ```text
+
 Atmosphere Through Consistency
+
 ```
 
 Do not:
@@ -5094,9 +5661,13 @@ with:
 Atmosphere Through Continuity.
 
 ```text
+
 Current Relational Coherence
+
 ≠
+
 Temporal Continuity
+
 ```
 
 ---
@@ -5112,9 +5683,13 @@ with:
 Story Through Place.
 
 ```text
+
 Worldview Translation
+
 ≠
+
 Place Meaning
+
 ```
 
 ---
@@ -5126,9 +5701,13 @@ Place Meaning
 ## Correction 1
 
 ```text
+
 Atmosphere
+
 ≠
+
 Décor Style
+
 ```
 
 ---
@@ -5136,9 +5715,13 @@ Décor Style
 ## Correction 2
 
 ```text
+
 Atmosphere
+
 ≠
+
 Visual Mood Alone
+
 ```
 
 ---
@@ -5146,9 +5729,13 @@ Visual Mood Alone
 ## Correction 3
 
 ```text
+
 Strong Atmosphere
+
 ≠
+
 One Preferred Mechanism
+
 ```
 
 ---
@@ -5156,9 +5743,13 @@ One Preferred Mechanism
 ## Correction 4
 
 ```text
+
 Published Atmosphere Language
+
 ≠
+
 Guest State Proven
+
 ```
 
 ---
@@ -5166,9 +5757,13 @@ Guest State Proven
 ## Correction 5
 
 ```text
+
 Strong Published Worldview
+
 ≠
+
 Atmosphere Through Worldview Proven
+
 ```
 
 ---
@@ -5176,9 +5771,13 @@ Atmosphere Through Worldview Proven
 ## Correction 6
 
 ```text
+
 Physical Worldview Translation
+
 ≠
+
 Emotional Outcome Proven
+
 ```
 
 ---
@@ -5186,9 +5785,13 @@ Emotional Outcome Proven
 ## Correction 7
 
 ```text
+
 Worldview Translation
+
 ≠
+
 Literal Theming
+
 ```
 
 ---
@@ -5196,9 +5799,13 @@ Literal Theming
 ## Correction 8
 
 ```text
+
 Atmospheric Consistency
+
 ≠
+
 Visual Sameness
+
 ```
 
 ---
@@ -5206,9 +5813,13 @@ Visual Sameness
 ## Correction 9
 
 ```text
+
 Visual Difference
+
 ≠
+
 Atmospheric Incoherence
+
 ```
 
 ---
@@ -5216,9 +5827,13 @@ Atmospheric Incoherence
 ## Correction 10
 
 ```text
+
 Current Coherence
+
 ≠
+
 Temporal Continuity
+
 ```
 
 ---
@@ -5226,9 +5841,13 @@ Temporal Continuity
 ## Correction 11
 
 ```text
+
 Continuity
+
 ≠
+
 Sameness
+
 ```
 
 ---
@@ -5236,9 +5855,13 @@ Sameness
 ## Correction 12
 
 ```text
+
 Variation Within System
+
 ≠
+
 System Transformation
+
 ```
 
 ---
@@ -5246,11 +5869,17 @@ System Transformation
 ## Correction 13
 
 ```text
+
 Changing Menu
+
 +
+
 Changing Landscape
+
 ≠
+
 Coherence Through Change Proven
+
 ```
 
 ---
@@ -5258,9 +5887,13 @@ Coherence Through Change Proven
 ## Correction 14
 
 ```text
+
 Destination Restaurant
+
 ≠
+
 Designed Escape
+
 ```
 
 ---
@@ -5268,9 +5901,13 @@ Designed Escape
 ## Correction 15
 
 ```text
+
 Prominent Environment
+
 ≠
+
 Atmosphere as Product Proven
+
 ```
 
 ---
@@ -5278,9 +5915,13 @@ Atmosphere as Product Proven
 ## Correction 16
 
 ```text
+
 Human Interaction
+
 ≠
+
 Hospitality
+
 ```
 
 ---
@@ -5288,9 +5929,13 @@ Hospitality
 ## Correction 17
 
 ```text
+
 Social Energy
+
 ≠
+
 Required Atmosphere
+
 ```
 
 ---
@@ -5298,9 +5943,13 @@ Required Atmosphere
 ## Correction 18
 
 ```text
+
 Privacy
+
 ≠
+
 Universal Hospitality Improvement
+
 ```
 
 ---
@@ -5308,9 +5957,13 @@ Universal Hospitality Improvement
 ## Correction 19
 
 ```text
+
 Environmental Atmosphere
+
 ≠
+
 Service Atmosphere
+
 ```
 
 ---
@@ -5318,9 +5971,13 @@ Service Atmosphere
 ## Correction 20
 
 ```text
+
 Productive Landscape Visibility
+
 ≠
+
 Production Presence
+
 ```
 
 ---
@@ -5328,9 +5985,13 @@ Production Presence
 ## Correction 21
 
 ```text
+
 Production Presence
+
 ≠
+
 Technique Proof
+
 ```
 
 ---
@@ -5338,9 +5999,13 @@ Technique Proof
 ## Correction 22
 
 ```text
+
 Productive-Place Atmosphere
+
 ≠
+
 Process Visibility
+
 ```
 
 ---
@@ -5348,9 +6013,13 @@ Process Visibility
 ## Correction 23
 
 ```text
+
 Visual Connection
+
 ≠
+
 Relational Coherence
+
 ```
 
 ---
@@ -5358,9 +6027,13 @@ Relational Coherence
 ## Correction 24
 
 ```text
+
 Visible Landscape
+
 ≠
+
 Legible Productive Relationship
+
 ```
 
 ---
@@ -5368,9 +6041,13 @@ Legible Productive Relationship
 ## Correction 25
 
 ```text
+
 Shared Environmental Evidence
+
 ≠
+
 Shared Pattern
+
 ```
 
 ---
@@ -5378,9 +6055,13 @@ Shared Pattern
 ## Correction 26
 
 ```text
+
 Worldview Expression
+
 ≠
+
 Place Story
+
 ```
 
 ---
@@ -5388,9 +6069,13 @@ Place Story
 ## Correction 27
 
 ```text
+
 Material Contrast
+
 ≠
+
 Atmospheric Contradiction
+
 ```
 
 ---
@@ -5398,9 +6083,13 @@ Atmospheric Contradiction
 ## Correction 28
 
 ```text
+
 Diurnal Atmosphere
+
 ≠
+
 Seasonal Atmosphere
+
 ```
 
 ---
@@ -5408,9 +6097,13 @@ Seasonal Atmosphere
 ## Correction 29
 
 ```text
+
 Different Service Time
+
 ≠
+
 Different Atmosphere Proven
+
 ```
 
 ---
@@ -5418,9 +6111,13 @@ Different Atmosphere Proven
 ## Correction 30
 
 ```text
+
 Seasonal Restaurant
+
 ≠
+
 Temporal Atmosphere Dominates
+
 ```
 
 ---
@@ -5428,9 +6125,13 @@ Temporal Atmosphere Dominates
 ## Correction 31
 
 ```text
+
 Time Exists
+
 ≠
+
 Temporal Hospitality
+
 ```
 
 ---
@@ -5438,9 +6139,13 @@ Temporal Hospitality
 ## Correction 32
 
 ```text
+
 Worldview-Led Environment
+
 ≠
+
 Atmosphere as Product
+
 ```
 
 ---
@@ -5448,9 +6153,13 @@ Atmosphere as Product
 ## Correction 33
 
 ```text
+
 Rootedness
+
 ≠
+
 Escape
+
 ```
 
 ---
@@ -5458,9 +6167,13 @@ Escape
 ## Correction 34
 
 ```text
+
 Place-Led Atmosphere
+
 ≠
+
 Natural Landscape Required
+
 ```
 
 ---
@@ -5468,9 +6181,13 @@ Natural Landscape Required
 ## Correction 35
 
 ```text
+
 Agricultural Setting
+
 ≠
+
 Agricultural Atmosphere
+
 ```
 
 ---
@@ -5478,9 +6195,13 @@ Agricultural Atmosphere
 ## Correction 36
 
 ```text
+
 Beautiful Landscape
+
 ≠
+
 Productive Landscape Meaning
+
 ```
 
 ---
@@ -5488,9 +6209,13 @@ Productive Landscape Meaning
 ## Correction 37
 
 ```text
+
 Productive Landscape
+
 ≠
+
 Complete Atmosphere
+
 ```
 
 ---
@@ -5498,9 +6223,13 @@ Complete Atmosphere
 ## Correction 38
 
 ```text
+
 Multiple Atmosphere Mechanisms
+
 ≠
+
 Atmospheric Complexity by Default
+
 ```
 
 ---
@@ -5508,9 +6237,13 @@ Atmospheric Complexity by Default
 ## Correction 39
 
 ```text
+
 Relational Coherence
+
 ≠
+
 Temporal Coherence
+
 ```
 
 ---
@@ -5518,9 +6251,13 @@ Temporal Coherence
 ## Correction 40
 
 ```text
+
 Worldview
+
 ≠
+
 Atmosphere
+
 ```
 
 ---
@@ -5528,9 +6265,13 @@ Atmosphere
 ## Correction 41
 
 ```text
+
 Physical Translation
+
 ≠
+
 Emotional Outcome
+
 ```
 
 ---
@@ -5538,9 +6279,13 @@ Emotional Outcome
 ## Correction 42
 
 ```text
+
 Strong Atmosphere
+
 ≠
+
 Explicit Desired Guest State Required
+
 ```
 
 ---
@@ -5548,9 +6293,13 @@ Explicit Desired Guest State Required
 ## Correction 43
 
 ```text
+
 Guest Agency
+
 ≠
+
 Atmospheric Control
+
 ```
 
 ---
@@ -5558,9 +6307,13 @@ Atmospheric Control
 ## Correction 44
 
 ```text
+
 Participation Shapes Atmosphere
+
 ≠
+
 Atmosphere Is Participation
+
 ```
 
 ---
@@ -5568,9 +6321,13 @@ Atmosphere Is Participation
 ## Correction 45
 
 ```text
+
 Narrative Meaning
+
 ≠
+
 Atmospheric Mechanism
+
 ```
 
 ---
@@ -5578,9 +6335,13 @@ Atmospheric Mechanism
 ## Correction 46
 
 ```text
+
 Product Meaning
+
 ≠
+
 Atmosphere
+
 ```
 
 ---
@@ -5588,9 +6349,13 @@ Atmosphere
 ## Correction 47
 
 ```text
+
 Atmosphere
+
 ≠
+
 Proof
+
 ```
 
 ---
@@ -5608,8 +6373,11 @@ Question:
 Strong cases:
 
 - Cultiva
+
 - NARISAWA
+
 - Noma
+
 - Pearl Morissette
 
 ---
@@ -5623,7 +6391,9 @@ Question:
 Strong cases:
 
 - Dishoom
+
 - Din Tai Fung
+
 - Pearl Morissette
 
 ---
@@ -5637,6 +6407,7 @@ Question:
 Strong cases:
 
 - Talisman
+
 - Noma
 
 Pearl Morissette:
@@ -5656,9 +6427,13 @@ Question:
 Strongest contrast:
 
 ```text
+
 Mawimbi
+
 vs
+
 Pearl Morissette
+
 ```
 
 ---
@@ -5720,9 +6495,13 @@ Question:
 Strongest contrast:
 
 ```text
+
 Haidilao
+
 vs
+
 ICHIRAN
+
 ```
 
 ---
@@ -5736,8 +6515,11 @@ Question:
 Strong cases:
 
 - Mawimbi
+
 - Alinea
+
 - Noma
+
 - Pearl Morissette
 
 ---
@@ -5875,11 +6657,17 @@ Candidate / Medium
 Strongest support:
 
 - Talisman
+
 - Mawimbi
+
 - Dishoom
+
 - NARISAWA
+
 - Din Tai Fung
+
 - Noma
+
 - Pearl Morissette
 
 Primary risk:
@@ -5905,9 +6693,13 @@ Candidate / High
 Strongest support:
 
 - Cultiva
+
 - FYN
+
 - NARISAWA
+
 - Noma
+
 - Pearl Morissette
 
 Primary boundary:
@@ -6163,11 +6955,17 @@ atmosphere:
 contribution is:
 
 ```text
+
 Inside
+
 ↔
+
 Atmospheric Threshold
+
 ↔
+
 Outside
+
 ```
 
 where:
@@ -6203,13 +7001,21 @@ support
 for:
 
 ```text
+
 Worldview
+
 ↓
+
 Physical Translation
+
 ↓
+
 Relational Coherence
+
 ↓
+
 Potential Atmosphere
+
 ```
 
 without:
@@ -6245,25 +7051,37 @@ clear.
 First:
 
 ```text
+
 Atmospheric Consistency
+
 ≠
+
 Visual Sameness
+
 ```
 
 Second:
 
 ```text
+
 Destination Restaurant
+
 ≠
+
 Designed Escape
+
 ```
 
 Third:
 
 ```text
+
 Variation Within System
+
 ≠
+
 System Transformation
+
 ```
 
 The:
@@ -6312,6 +7130,1554 @@ complete.
 
 ---
 
+# Post–Dans le Noir? London Reconciliation
+
+Restaurant #16:
+
+introduces:
+
+the strongest:
+
+current:
+
+absence-led:
+
+atmosphere case.
+
+It does not:
+
+replace:
+
+the:
+
+Post–Pearl Morissette:
+
+model.
+
+It adds:
+
+```text
+
+Hospitality Model
+
+↓
+
+Enforced Visual Absence
+
+↓
+
+Sensory Weight Redistribution
+
++
+
+Social Cue Redistribution
+
++
+
+Orientation Transferred to Human Guidance
+
+↓
+
+Published Atmospheric Proposition
+
+```
+
+The final:
+
+step remains:
+
+proposition
+
+not:
+
+verified:
+
+guest outcome.
+
+---
+
+# Comparison 61 — Atmosphere Can Be Built Through Removal
+
+Earlier cases:
+
+often:
+
+created atmosphere through:
+
+- place
+
+- materiality
+
+- landscape
+
+- story
+
+- social energy
+
+- privacy
+
+- product ritual
+
+Restaurant #16:
+
+begins by:
+
+removing:
+
+the:
+
+dominant:
+
+visual channel.
+
+Primary correction:
+
+```text
+
+Controlled Absence
+
+≠
+
+Atmospheric Emptiness
+
+```
+
+---
+
+# Comparison 62 — Atmosphere Can Be Infrastructure Before It Is Emotion
+
+Darkness changes:
+
+- movement
+
+- orientation
+
+- service
+
+- social cues
+
+- device use
+
+- product perception conditions
+
+- staff authority
+
+These:
+
+structural effects
+
+are:
+
+more strongly:
+
+supported than:
+
+guest:
+
+emotion.
+
+Primary boundary:
+
+```text
+
+Atmosphere as Infrastructure
+
+≠
+
+Atmosphere as Guest Outcome
+
+```
+
+---
+
+# Comparison 63 — Darkness Is Not One Mechanism
+
+Restaurant #16:
+
+uses darkness as:
+
+- environmental condition
+
+- participation rule
+
+- product promise
+
+- sensory redistribution mechanism
+
+- social mechanism
+
+- narrative mechanism
+
+The:
+
+same:
+
+visible absence
+
+therefore:
+
+contains:
+
+multiple:
+
+operating relationships.
+
+Primary correction:
+
+```text
+
+One Environmental Condition
+
+≠
+
+One Atmospheric Mechanism
+
+```
+
+---
+
+# Comparison 64 — Visual Consistency Can Become Irrelevant Inside the Product
+
+In:
+
+the:
+
+dark room
+
+visual:
+
+brand consistency
+
+cannot:
+
+carry:
+
+the atmosphere.
+
+Operational:
+
+rule consistency
+
+becomes:
+
+more important.
+
+This strengthens:
+
+Atmosphere Through Consistency
+
+while:
+
+narrowing:
+
+its definition.
+
+```text
+
+Atmospheric Consistency
+
+may require:
+
+Operational Rule Consistency
+
+```
+
+---
+
+# Comparison 65 — An Invisible Environment Can Be Highly Specific
+
+Visual:
+
+unavailability
+
+does not mean:
+
+environmental:
+
+indeterminacy.
+
+The environment remains:
+
+specific through:
+
+- total darkness
+
+- voice
+
+- sound
+
+- temperature
+
+- proximity
+
+- touch
+
+- movement rules
+
+- guide presence
+
+Primary boundary:
+
+```text
+
+Décor Unavailable
+
+≠
+
+Environment Absent
+
+```
+
+---
+
+# Comparison 66 — Voice Can Carry Atmospheric Continuity
+
+Where:
+
+visual landmarks
+
+are unavailable
+
+the:
+
+guide's:
+
+voice
+
+and:
+
+repeated presence
+
+may become:
+
+the:
+
+continuity mechanism.
+
+Architecture direction:
+
+Voice-Led Atmosphere.
+
+Status:
+
+Architecture only.
+
+Outcome:
+
+unverified.
+
+---
+
+# Comparison 67 — Human Service Can Be Atmospheric Infrastructure
+
+Haidilao:
+
+previously:
+
+strengthened:
+
+human service
+
+and:
+
+social atmosphere.
+
+Dans le Noir?:
+
+adds:
+
+a:
+
+different:
+
+human mechanism.
+
+The guide:
+
+supports:
+
+orientation
+
+continuity
+
+safety
+
+service
+
+and:
+
+trust.
+
+Primary boundary:
+
+```text
+
+Guide Presence
+
+≠
+
+Guide-Created Atmosphere Proven
+
+```
+
+---
+
+# Comparison 68 — Visual Anonymity Is Not Social Equality
+
+Darkness removes:
+
+immediate:
+
+visual appearance.
+
+It does not:
+
+remove:
+
+- voice
+
+- accent
+
+- language
+
+- status cues
+
+- confidence
+
+- other social hierarchies
+
+Primary boundary:
+
+```text
+
+Visual Anonymity
+
+≠
+
+Social Equality Proven
+
+```
+
+---
+
+# Comparison 69 — Shared Atmosphere Does Not Require Visible Social Identity
+
+The published:
+
+social model
+
+depends on:
+
+voice
+
+proximity
+
+shared uncertainty
+
+and:
+
+common participation.
+
+This:
+
+contrasts with:
+
+Bistro Lolo
+
+Dishoom
+
+and:
+
+Haidilao
+
+where:
+
+visible:
+
+social energy
+
+is:
+
+more available.
+
+Primary correction:
+
+```text
+
+Shared Atmosphere
+
+≠
+
+Visible Social Performance
+
+```
+
+---
+
+# Comparison 70 — Digital Absence Does Not Prove Presence
+
+Device:
+
+removal
+
+creates:
+
+conditions for:
+
+attention.
+
+It does not prove:
+
+- presence
+
+- connection
+
+- comfort
+
+- reflection
+
+Primary boundary:
+
+```text
+
+Digital Absence
+
+≠
+
+Presence Proven
+
+```
+
+---
+
+# Comparison 71 — Attention Redistribution Is Safer Than Sensory Enhancement
+
+The operating condition:
+
+can:
+
+redistribute:
+
+attention toward:
+
+sound
+
+smell
+
+taste
+
+touch
+
+temperature
+
+and:
+
+voice.
+
+Public evidence:
+
+does not establish:
+
+biological:
+
+enhancement.
+
+Primary boundary:
+
+```text
+
+Sensory Attention Redistribution
+
+≠
+
+Sensory Enhancement Proven
+
+```
+
+---
+
+# Comparison 72 — Atmosphere as Product Has Its Strongest Structural Case
+
+If:
+
+the dark condition
+
+were removed
+
+the:
+
+service
+
+movement
+
+participation
+
+product perception
+
+guide authority
+
+and:
+
+reveal sequence
+
+would materially change.
+
+Restaurant #16:
+
+therefore:
+
+provides:
+
+exceptionally strong:
+
+structural support
+
+for:
+
+Atmosphere as Product.
+
+Remaining limitation:
+
+guest-choice causality
+
+remains:
+
+unverified.
+
+---
+
+# Comparison 73 — Designed Escape Can Depend on Removal Rather Than Addition
+
+Mawimbi:
+
+remains:
+
+the strongest:
+
+addition-led:
+
+Designed Escape case.
+
+Dans le Noir?:
+
+adds:
+
+removal-led:
+
+escape through:
+
+- light absence
+
+- device absence
+
+- appearance suspension
+
+- ordinary movement suspension
+
+Website research:
+
+cannot establish:
+
+whether guests experience:
+
+escape
+
+constraint
+
+or:
+
+novelty.
+
+---
+
+# Comparison 74 — Worldview Can Operate Through Reassigned Expertise
+
+Cultiva
+
+FYN
+
+NARISAWA
+
+Noma
+
+and:
+
+Pearl Morissette
+
+translate worldview through:
+
+different:
+
+material relationships.
+
+Dans le Noir?:
+
+translates:
+
+worldview through:
+
+- visually impaired guide authority
+
+- guest dependence
+
+- total darkness
+
+- shared participation
+
+- device absence
+
+This strengthens:
+
+Atmosphere Through Worldview
+
+without:
+
+creating:
+
+a:
+
+new:
+
+worldview pattern.
+
+---
+
+# Comparison 75 — Product Atmosphere Can Be Strong While Outcome Evidence Is Weak
+
+Restaurant #16:
+
+creates:
+
+the strongest:
+
+current:
+
+contrast between:
+
+```text
+
+Strong Product-Structure Evidence
+
++
+
+Weak Guest-Outcome Evidence
+
+```
+
+The atmosphere:
+
+clearly changes:
+
+the product.
+
+The website:
+
+cannot prove:
+
+how:
+
+the darkness feels.
+
+---
+
+# Updated Atmosphere Thesis — Post Restaurant #16
+
+The strongest:
+
+cross-restaurant:
+
+thesis remains:
+
+> **Atmosphere is a hospitality mechanism, not a visual style category.**
+
+Restaurant #16:
+
+adds:
+
+```text
+
+Atmosphere may be:
+
+Operating Infrastructure
+
+before it becomes:
+
+Guest Emotion
+
+```
+
+Updated model:
+
+```text
+
+Hospitality Model
+
+↓
+
+Desired Guest State where supportable
+
+↓
+
+Primary Atmospheric Mechanism
+
++
+
+Supporting Mechanisms
+
+↓
+
+Relevant Environment
+
++
+
+Presence
+
++
+
+Absence
+
++
+
+Participation
+
++
+
+Operating Structure
+
+↓
+
+Relational Coherence
+
++
+
+Temporal Coherence where relevant
+
++
+
+Rule Integrity where relevant
+
+↓
+
+Published Atmospheric Proposition
+
+↓
+
+Observed Atmospheric Outcome
+
+only with:
+
+appropriate evidence
+
+```
+
+---
+
+# Post–Dans le Noir? Atmosphere Architecture Additions
+
+The following remain:
+
+architecture:
+
+variables
+
+mechanisms
+
+or:
+
+subtypes.
+
+They are not:
+
+formal:
+
+patterns.
+
+- Enforced Visual Absence
+
+- Sensory Attention Redistribution
+
+- Atmospheric Dependency
+
+- Atmosphere as Operating Infrastructure
+
+- Voice-Led Atmosphere
+
+- Visual Anonymity
+
+- Appearance Suspension
+
+- Digital Absence
+
+- Social Atmosphere Without Appearance
+
+- Categorical Atmospheric Threshold
+
+- Proximity Without Visual Distance
+
+- Guide as Atmospheric Anchor
+
+- Atmospheric Rule Integrity
+
+- Absence Architecture
+
+Governance rule:
+
+do not create:
+
+a broad:
+
+Absence Atmosphere:
+
+pattern.
+
+---
+
+# Current Atmosphere Pattern Pressure — Post Restaurant #16
+
+---
+
+# Atmosphere Through Consistency
+
+Current:
+
+Candidate / Medium
+
+Restaurant #16:
+
+Strong Independent Support
+
+The defining condition depends on:
+
+alignment across:
+
+promise
+
+booking
+
+storage
+
+threshold
+
+guide protocol
+
+movement
+
+and:
+
+reveal.
+
+Recommendation:
+
+Retain Candidate / Medium
+
+Confidence Watch:
+
+Medium-High
+
+No:
+
+comparison-only:
+
+change.
+
+---
+
+# Atmosphere Through Worldview
+
+Current:
+
+Candidate / High
+
+Restaurant #16:
+
+Strong Support Through Operational Translation
+
+Recommendation:
+
+Retain Candidate / High
+
+---
+
+# Atmosphere Through Continuity
+
+Current:
+
+Candidate / Medium-High
+
+Restaurant #16:
+
+Support Through Published London Continuity Since 2006
+
+Actual:
+
+execution continuity
+
+remains:
+
+unverified.
+
+Recommendation:
+
+Retain Candidate / Medium-High
+
+---
+
+# Designed Escape
+
+Current:
+
+Candidate / Medium
+
+Restaurant #16:
+
+Strong Boundary Support
+
+Recommendation:
+
+Retain Candidate / Medium
+
+Confidence Watch:
+
+Medium-High
+
+---
+
+# Story Through Hospitality Model
+
+Current:
+
+Candidate / High
+
+Restaurant #16:
+
+Strong Atmospheric Support
+
+Recommendation:
+
+Retain Candidate / High
+
+---
+
+# Hospitality System Proof
+
+Current:
+
+Candidate / High
+
+Restaurant #16:
+
+Strong Support
+
+Recommendation:
+
+Retain Candidate / High
+
+---
+
+# Atmosphere as Product
+
+Current:
+
+Emerging
+
+Restaurant #16:
+
+Exceptionally Strong Structural Support
+
+Remaining limitation:
+
+guest-choice causality
+
+and:
+
+guest outcome.
+
+Recommendation:
+
+Remain Emerging
+
+Promotion Watch:
+
+High
+
+---
+
+# Post–Dans le Noir? Atmosphere Corrections
+
+---
+
+## Correction 48
+
+```text
+
+Total Darkness
+
+≠
+
+Successful Atmosphere
+
+```
+
+---
+
+## Correction 49
+
+```text
+
+Controlled Absence
+
+≠
+
+Atmospheric Emptiness
+
+```
+
+---
+
+## Correction 50
+
+```text
+
+Sensory Attention Redistribution
+
+≠
+
+Sensory Enhancement Proven
+
+```
+
+---
+
+## Correction 51
+
+```text
+
+Visual Anonymity
+
+≠
+
+Social Equality Proven
+
+```
+
+---
+
+## Correction 52
+
+```text
+
+Digital Absence
+
+≠
+
+Presence Proven
+
+```
+
+---
+
+## Correction 53
+
+```text
+
+Guide Presence
+
+≠
+
+Guide-Created Atmosphere Proven
+
+```
+
+---
+
+## Correction 54
+
+```text
+
+Role Reversal Structure
+
+≠
+
+Perception Change Proven
+
+```
+
+---
+
+## Correction 55
+
+```text
+
+Atmosphere as Infrastructure
+
+≠
+
+Atmosphere as Guest Outcome
+
+```
+
+---
+
+## Correction 56
+
+```text
+
+Décor Unavailable
+
+≠
+
+Environment Absent
+
+```
+
+---
+
+## Correction 57
+
+```text
+
+Visual Consistency
+
+≠
+
+Atmospheric Rule Consistency
+
+```
+
+---
+
+## Correction 58
+
+```text
+
+Shared Atmosphere
+
+≠
+
+Visible Social Performance
+
+```
+
+---
+
+## Correction 59
+
+```text
+
+Atmospheric Condition
+
+≠
+
+Atmospheric Outcome
+
+```
+
+---
+
+## Correction 60
+
+```text
+
+Human Atmospheric Infrastructure
+
+≠
+
+Human Service Always Better
+
+```
+
+---
+
+## Correction 61
+
+```text
+
+Device Removal
+
+≠
+
+Connection Proven
+
+```
+
+---
+
+## Correction 62
+
+```text
+
+Prominent Atmosphere
+
+≠
+
+Atmosphere as Product Validated
+
+```
+
+---
+
+# Strongest Atmosphere Tensions After Restaurant #16
+
+1. Addition vs Removal
+
+2. Visual Coherence vs Operational Rule Integrity
+
+3. Atmospheric Infrastructure vs Guest Emotion
+
+4. Sensory Redistribution vs Sensory Enhancement
+
+5. Visual Anonymity vs Social Equality
+
+6. Digital Absence vs Presence
+
+7. Guide Continuity vs Guide Capacity
+
+8. Shared Uncertainty vs Authentic Connection
+
+9. Product-Defining Condition vs Guest-Choice Causality
+
+10. Designed Escape vs Constraint
+
+11. Novelty vs Durable Atmosphere
+
+12. Inclusion Worldview vs Verified Social Outcome
+
+---
+
+# Post–Dans le Noir? Atmosphere Falsification Programme
+
+1. Whether total darkness is consistently achieved.
+
+2. Whether sound levels support conversation.
+
+3. Whether guide voice provides reliable orientation.
+
+4. Whether shared tables create connection or discomfort.
+
+5. Whether device removal increases presence.
+
+6. Whether visual anonymity changes social judgement.
+
+7. Whether other social hierarchies remain active.
+
+8. Whether smell, temperature and acoustics are intentionally designed.
+
+9. Whether darkness creates atmosphere beyond novelty.
+
+10. Whether repeat guests experience similar intensity.
+
+11. Whether solo diners experience the atmosphere differently.
+
+12. Whether couples experience the atmosphere differently.
+
+13. Whether groups experience the atmosphere differently.
+
+14. Whether the atmosphere remains coherent across menu changes.
+
+15. Whether the lit reception affects dark-room atmosphere.
+
+16. Whether emergency procedures disrupt continuity.
+
+17. Whether re-entry disrupts continuity.
+
+18. Whether darkness drives guest choice.
+
+19. Whether the model transfers to workshops.
+
+20. Whether the model transfers to private events.
+
+21. Whether accessibility needs can be met without breaking the condition.
+
+22. Whether guides experience their atmospheric role as described.
+
+23. Whether staff capacity limits atmospheric consistency.
+
+24. Whether device surrender is experienced as escape or constraint.
+
+25. Whether attention redistributes without sensory enhancement claims.
+
+26. Whether visual absence reduces appearance-based judgement.
+
+27. Whether voice-led continuity remains stable across guides.
+
+28. Whether the atmosphere remains specific without visible décor.
+
+29. Whether atmosphere as infrastructure transfers beyond darkness.
+
+30. Whether one enforced condition can support multiple guest intents.
+
+31. Whether published atmosphere claims match independent guest research.
+
+32. Whether outcome language should be reduced on the public site.
+
+---
+
+# Post–Dans le Noir? Comparative Decisions
+
+1. Enforced Visual Absence is the primary Restaurant #16 atmosphere mechanism.
+
+2. Atmosphere Through Consistency receives strong support and remains Candidate / Medium.
+
+3. Atmosphere Through Consistency enters Medium-High confidence watch.
+
+4. Atmosphere Through Worldview receives strong operational support and remains Candidate / High.
+
+5. Atmosphere Through Continuity receives bounded support and remains Candidate / Medium-High.
+
+6. Designed Escape receives strong boundary support and remains Candidate / Medium.
+
+7. Atmosphere as Product receives exceptionally strong structural support and remains Emerging.
+
+8. Atmosphere as Product enters High promotion watch.
+
+9. Story Through Hospitality Model remains Candidate / High.
+
+10. Hospitality System Proof remains Candidate / High.
+
+11. Atmosphere as Operating Infrastructure remains architecture-level.
+
+12. Sensory Attention Redistribution remains architecture-level.
+
+13. Voice-Led Atmosphere remains architecture-level.
+
+14. Visual Anonymity remains architecture-level and does not prove equality.
+
+15. The five existing formal atmosphere states remain unchanged.
+
+16. No pattern is promoted in this comparison file.
+
+17. No pattern is demoted.
+
+18. No confidence level changes.
+
+19. No pattern reaches Validated.
+
+20. No research-derived KHDS Principle is created.
+
+---
+
+# Post–Dans le Noir? Atmosphere Comparison Conclusion
+
+After:
+
+16:
+
+independent:
+
+restaurants
+
+KHDS atmosphere research:
+
+supports:
+
+a:
+
+broader:
+
+mechanism model.
+
+Atmosphere may emerge through:
+
+- addition
+
+- continuity
+
+- social energy
+
+- privacy
+
+- worldview
+
+- place
+
+- productive context
+
+- time
+
+- ritual
+
+- service
+
+- controlled removal
+
+Restaurant #16:
+
+adds:
+
+the strongest:
+
+current:
+
+evidence that:
+
+```text
+
+Atmosphere can be:
+
+Operating Infrastructure
+
+```
+
+when:
+
+removing:
+
+the:
+
+atmospheric condition
+
+would materially change:
+
+the:
+
+hospitality product.
+
+The strongest:
+
+governance boundary remains:
+
+```text
+
+Atmosphere as Infrastructure
+
+≠
+
+Atmosphere as Guest Outcome
+
+```
+
+The strongest:
+
+current:
+
+formal review question is:
+
+> **Does Atmosphere as Product now have sufficiently distinct structural evidence for Candidate maturity, or does guest-choice causality remain essential to the definition?**
+
+That decision:
+
+must wait:
+
+for:
+
+canonical:
+
+governance reconciliation
+
+after:
+
+all five:
+
+Restaurant #16:
+
+comparison files
+
+are complete.
+
+Evidence wins.
+
+---
+
 # Validation
 
 Comparison File:
@@ -6320,67 +8686,67 @@ Comparison File:
 
 Status:
 
-Post–Pearl Morissette Complete
+Post–Dans le Noir? London Complete
 
 Independent Restaurants Compared:
 
-15
+16
 
 Latest Case:
 
-Restaurant Pearl Morissette
+Dans le Noir? London
 
 Primary New Governance Watch:
 
-Atmosphere Through Consistency
+Atmosphere as Product
 
 Primary Confidence Watch:
 
-Atmosphere Through Worldview
+Atmosphere Through Consistency
 
 Strongest New Atmosphere Direction:
 
-Atmospheric Threshold
+Atmosphere as Operating Infrastructure
 
-Strongest New Place Direction:
+Strongest New Absence Direction:
 
-Rooted Destination Atmosphere
+Enforced Visual Absence
 
-Strongest New Relationship Variable:
+Strongest New Human Variable:
 
-Productive Relationship Legibility
+Guide as Atmospheric Anchor
 
-Strongest Material Refinement:
+Strongest Sensory Refinement:
 
-Material Contrast
+Sensory Attention Redistribution
 
-Strongest Temporal Direction:
+Strongest Continuity Direction:
 
-Diurnal Atmosphere
+Voice-Led Atmosphere
 
 Strongest Consistency Correction:
 
-Atmospheric Consistency
+Visual Consistency
 
 ≠
 
-Visual Sameness
+Atmospheric Rule Consistency
 
-Strongest Change Correction:
+Strongest Outcome Correction:
 
-Variation Within System
-
-≠
-
-System Transformation
-
-Strongest Destination Correction:
-
-Destination Restaurant
+Atmosphere as Infrastructure
 
 ≠
 
-Designed Escape
+Atmosphere as Guest Outcome
+
+Strongest Social Correction:
+
+Visual Anonymity
+
+≠
+
+Social Equality Proven
 
 Formal Promotions:
 

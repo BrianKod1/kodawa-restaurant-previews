@@ -1,117 +1,16 @@
-
-Connected. This chat now continues as a new branch of Branch.KHDS.
-
-Continuation checkpoint:
-
-Independent restaurants researched: 10
-
-Latest restaurant: NARISAWA
-
-Candidate patterns: 9
-
-Emerging patterns: 18
-
-Partially supported: 1
-
-Validated patterns: 0
-
-Research-derived KHDS principles: 0
-
-No maturity promotions occurred after NARISAWA.
-
-The next required sequence remains:
-
-Update khds/patterns/registry.md
-
-Reconcile khds/research/validation/dashboard.md
-
-Reconcile khds/research/README.md
-
-Reconcile khds/research/validation/README.md
-
-The Candidate count must remain 9 unless new independent research justifies a formal maturity change.
-
-Please send or attach the current khds/patterns/registry.md; that is the precise point from which we continue.
-
-
-
-Pasted markdown.md
-File
-That's where we start from
-
-Yes—we’re aligned. The attached file is the authoritative starting point.
-
-The current KHDS checkpoint is now:
-
-Latest cycle: Restaurant #15 — Restaurant Pearl Morissette
-
-Independent restaurants: 15
-
-Track B validation cases: 1 — Trunk & Tandoor
-
-Candidate patterns: 23
-
-Emerging patterns: 11
-
-Validated patterns: 0
-
-Research-derived KHDS principles: 0
-
-khds/patterns/registry.md: Complete
-
-khds/research/validation/dashboard.md: Next
-
-Research README mirrors: Pending
-
-So the earlier post-NARISAWA count of nine candidates is superseded. We continue with the Post–Pearl Morissette Validation Dashboard Mirror.
-
-
-khds/research/validation/dashboard.md
-
-
-khds/research/validation/dashboard.md
-
-Completed and reconciled dashboard.md.
-
-It now reflects:
-
-15 independent restaurants
-
-23 Candidate patterns
-
-11 Emerging patterns
-
-7 Pearl Morissette promotions
-
-4 confidence increases
-
-0 Validated patterns
-
-0 research-derived KHDS Principles
-
-Next: khds/research/README.md.
-
-
-dashboard.md
-Document
-
-
-Library
-/
-dashboard.md
-
-
 KHDS Validation Dashboard
+
 Status
-Post–Pearl Morissette Governance Mirror
+
+Post–Dans le Noir? London Governance Mirror
 
 Latest Research Cycle:
 
-Restaurant #15 — Restaurant Pearl Morissette
+Restaurant #16 — Dans le Noir? London
 
 Independent Restaurants:
 
-15
+16
 
 Track B Validation Cases:
 
@@ -130,6 +29,7 @@ Registry Mirror:
 ../../patterns/registry.md
 
 Purpose
+
 The KHDS Validation Dashboard provides:
 
 a compact view of current research maturity
@@ -138,19 +38,20 @@ a visible record of the latest governance cycle
 
 count reconciliation across research states
 
-promotion, confidence, and non-promotion visibility
+promotion, confidence and non-promotion visibility
 
 a clear separation between research evidence and production learning
 
-The dashboard:
+the current falsification priorities
 
-mirrors governance.
+mirror-status visibility across governance files
 
-It does not:
+The dashboard mirrors governance.
 
-create governance.
+It does not create governance.
 
 Governance Rule
+
 The dashboard reports the canonical governance state. It does not independently promote, demote, rename, merge, validate, or create patterns.
 
 If this dashboard conflicts with:
@@ -160,6 +61,7 @@ If this dashboard conflicts with:
 the canonical file wins.
 
 Governance Hierarchy
+
 khds/research/validation/candidate-patterns.md
 
 khds/patterns/registry.md
@@ -171,23 +73,60 @@ khds/research/README.md
 khds/research/validation/README.md
 
 Current Research State
-Measure	Current State
-Independent Restaurants	15
-Track B Validation Cases	1
-Candidate Patterns	23
-Emerging Patterns	11
-Partially Supported Patterns	1
-Validated Patterns	0
-Research-Derived KHDS Principles	0
-Existing Implementation Patterns Pending Formal Validation	1
-Opportunity Themes	36
-Track B Implementation Learnings	17
-Highest Research-Derived Maturity	Candidate
-Evidence Tracks
-Track A — Independent Hospitality Research
-Track A may contribute toward:
 
-research maturity.
+Measure
+
+Current State
+
+Independent Restaurants
+
+16
+
+Track B Validation Cases
+
+1
+
+Candidate Patterns
+
+25
+
+Emerging Patterns
+
+9
+
+Partially Supported Patterns
+
+1
+
+Validated Patterns
+
+0
+
+Research-Derived KHDS Principles
+
+0
+
+Existing Implementation Patterns Pending Formal Validation
+
+1
+
+Opportunity Themes
+
+36
+
+Track B Implementation Learnings
+
+17
+
+Highest Research-Derived Maturity
+
+Candidate
+
+Evidence Tracks
+
+Track A — Independent Hospitality Research
+
+Track A may contribute toward research maturity.
 
 Completed independent research set:
 
@@ -221,7 +160,10 @@ Noma Copenhagen 2026
 
 Restaurant Pearl Morissette
 
+Dans le Noir? London
+
 Track B — Kodawa Labs Validation
+
 Current production validation case:
 
 Trunk & Tandoor
@@ -236,79 +178,264 @@ production behaviour
 
 operational learning
 
-Track B does not:
-
-increase research maturity.
+Track B does not increase research maturity.
 
 Production Success
-
 ≠
-
 Research Promotion
+
 Trunk & Tandoor remains:
 
 First Stable KHDS Production Translation
 
-as:
-
-a production classification only.
+as a production classification only.
 
 Candidate Dashboard
+
 There are:
 
-23 Candidate patterns.
+25 Candidate patterns.
 
-#	Candidate Pattern	Confidence
-1	Atmosphere Through Worldview	High
-2	Show the System Behind the Plate	High
-3	Heritage Builds Confidence	Medium-High
-4	Atmosphere Through Continuity	Medium-High
-5	Designed Escape	Medium
-6	Biography When It Explains the Experience	High
-7	Narrative Language Within Clear Interface	High
-8	Photography as Use-Case Evidence	Medium-High
-9	Walk-In as First-Class Participation	High
-10	Story Through Hospitality Model	High
-11	Hospitality System Proof	High
-12	Story Through Place	High
-13	Narrative Coherence Through Organising Logic	High
-14	Manageable Commitment	Medium
-15	Participation Rule Consistency	Medium
-16	Adaptation as Narrative	Medium
-17	Layered Arrival	Medium
-18	Atmosphere Through Consistency	Medium
-19	Photography as Proof	Medium
-20	Photography Through Layers of Experience	Medium
-21	Participation Throughout the Journey	Medium
-22	Capacity Proof	Medium
-23	Stable Participation / Variable Product	Medium
+#
+
+Candidate Pattern
+
+Confidence
+
+1
+
+Atmosphere Through Worldview
+
+High
+
+2
+
+Show the System Behind the Plate
+
+High
+
+3
+
+Heritage Builds Confidence
+
+Medium-High
+
+4
+
+Atmosphere Through Continuity
+
+Medium-High
+
+5
+
+Designed Escape
+
+Medium
+
+6
+
+Biography When It Explains the Experience
+
+High
+
+7
+
+Narrative Language Within Clear Interface
+
+High
+
+8
+
+Photography as Use-Case Evidence
+
+Medium-High
+
+9
+
+Walk-In as First-Class Participation
+
+High
+
+10
+
+Story Through Hospitality Model
+
+High
+
+11
+
+Hospitality System Proof
+
+High
+
+12
+
+Story Through Place
+
+High
+
+13
+
+Narrative Coherence Through Organising Logic
+
+High
+
+14
+
+Manageable Commitment
+
+Medium
+
+15
+
+Participation Rule Consistency
+
+Medium
+
+16
+
+Adaptation as Narrative
+
+Medium
+
+17
+
+Layered Arrival
+
+Medium
+
+18
+
+Atmosphere Through Consistency
+
+Medium
+
+19
+
+Photography as Proof
+
+Medium-High
+
+20
+
+Photography Through Layers of Experience
+
+Medium
+
+21
+
+Participation Throughout the Journey
+
+Medium
+
+22
+
+Capacity Proof
+
+Medium-High
+
+23
+
+Stable Participation / Variable Product
+
+Medium
+
+24
+
+Photography Should Demonstrate Difference
+
+Medium
+
+25
+
+Human Assistance Where Structured Self-Service Is Insufficient
+
+Medium
+
 Candidate Confidence Distribution
-Confidence	Count
-High	9
-Medium-High	3
-Medium	11
-Total	23
+
+Confidence
+
+Count
+
+High
+
+9
+
+Medium-High
+
+5
+
+Medium
+
+11
+
+Total
+
+25
+
 Emerging Dashboard
+
 There are:
 
-11 Emerging patterns.
+9 Emerging patterns.
 
-#	Emerging Pattern
-1	Emotion Before Interface
-2	Story Before Features
-3	Photography Before Decoration
-4	Multi-Intent Hospitality
-5	Commitment Without Pressure
-6	Promise Before Proof
-7	The Guest as Participant
-8	Human Assistance Where Structured Self-Service Is Insufficient
-9	Atmosphere as Product
-10	Escalating Participation Complexity
-11	Photography Should Demonstrate Difference
+#
+
+Emerging Pattern
+
+1
+
+Emotion Before Interface
+
+2
+
+Story Before Features
+
+3
+
+Photography Before Decoration
+
+4
+
+Multi-Intent Hospitality
+
+5
+
+Commitment Without Pressure
+
+6
+
+Promise Before Proof
+
+7
+
+The Guest as Participant
+
+8
+
+Atmosphere as Product
+
+9
+
+Escalating Participation Complexity
+
 Other Research States
+
 Partially Supported
-Pattern	Confidence	Governance Position
-Own the Guest Relationship	Medium	Partially Supported
+
+Pattern
+
+Confidence
+
+Governance Position
+
+Own the Guest Relationship
+
+Medium
+
+Partially Supported
+
 Public website evidence may demonstrate:
 
 direct branded entry points
@@ -336,8 +463,19 @@ customer portability
 economic ownership of the relationship
 
 Existing Implementation Pattern Pending Formal Validation
-Pattern	Classification	Research Status
-Invitation	Existing KHDS Implementation Pattern	Pending Formal Validation
+
+Pattern
+
+Classification
+
+Research Status
+
+Invitation
+
+Existing KHDS Implementation Pattern
+
+Pending Formal Validation
+
 Invitation is:
 
 not Candidate
@@ -349,128 +487,474 @@ not Validated
 not a Research-Derived KHDS Principle
 
 Validated Patterns
+
 0
 
 Research-Derived KHDS Principles
+
 0
 
-Restaurant #15 Governance Outcome
-Restaurant Pearl Morissette produced:
+Restaurant #16 Governance Outcome
 
-7 new Candidate promotions
+Dans le Noir? London produced:
 
-4 Candidate confidence increases
+Governance Action
 
-0 demotions
+Count
 
-0 renames
+New Candidate Promotions
 
-0 merges
+2
 
-0 Validated promotions
+Candidate Confidence Increases
 
-0 Research-Derived Principle promotions
+2
 
-0 changes to Partially Supported patterns
+Demotions
 
-0 changes to existing implementation patterns
+0
 
-0 changes to Opportunity Themes
+Renames
 
-0 changes to Track B Implementation Learnings
+0
+
+Merges
+
+0
+
+Validated Promotions
+
+0
+
+Research-Derived Principle Promotions
+
+0
+
+Partially Supported Changes
+
+0
+
+Existing Implementation Pattern Changes
+
+0
+
+Opportunity Theme Changes
+
+0
+
+Track B Learning Changes
+
+0
 
 Formal Candidate Promotions
-#	Pattern	Previous State	Current State
-1	Layered Arrival	Emerging	Candidate / Medium
-2	Atmosphere Through Consistency	Emerging	Candidate / Medium
-3	Photography as Proof	Emerging	Candidate / Medium
-4	Photography Through Layers of Experience	Emerging	Candidate / Medium
-5	Participation Throughout the Journey	Emerging	Candidate / Medium
-6	Capacity Proof	Observed Research Direction	Candidate / Medium
-7	Stable Participation / Variable Product	Observed Research Direction	Candidate / Medium
+
+#
+
+Pattern
+
+Previous State
+
+Current State
+
+1
+
+Photography Should Demonstrate Difference
+
+Emerging
+
+Candidate / Medium
+
+2
+
+Human Assistance Where Structured Self-Service Is Insufficient
+
+Emerging
+
+Candidate / Medium
+
+Promotion 1 — Photography Should Demonstrate Difference
+
+Promotion reason:
+
+Restaurant #16 is the exact non-visual falsification case prescribed after Pearl Morissette.
+
+The pattern now survives three materially different mechanisms:
+
+Difference Through Sequence
+
+Difference Through Relationship
+
+Non-Visual Difference
+
+Strongest new boundary:
+
+Demonstrate Difference
+≠
+Show Difference Literally
+
+Promotion 2 — Human Assistance Where Structured Self-Service Is Insufficient
+
+Promotion reason:
+
+Human assistance is visible as both:
+
+exception infrastructure
+
+core hospitality infrastructure
+
+Strongest new boundary:
+
+Human Guidance
+≠
+Fallback Support Only
+
 Candidate Confidence Changes
-Pattern	Previous Confidence	Current Confidence
-Atmosphere Through Worldview	Medium-High	High
-Story Through Place	Medium-High	High
-Narrative Coherence Through Organising Logic	Medium-High	High
-Hospitality System Proof	Medium-High	High
-Explicit Non-Promotions
-Pattern	Current State	Reason for Holding
-Photography Should Demonstrate Difference	Emerging	Strong mechanisms remain, but generic-pattern risk persists.
-Escalating Participation Complexity	Emerging	Still needs greater explanatory rather than descriptive power.
-Promise Before Proof	Emerging	Overlap remains with Capacity Proof, Expectation Clarity, and Bounded Product Narrative.
-Story Before Features	Emerging	Generic content-rule risk remains high.
-Atmosphere as Product	Emerging	Guest-choice causality is not publicly observable.
-Coherence Through Change	Below Candidate	Pearl Morissette strengthens the boundary more than the research direction.
-Non-promotion is:
 
-a governance result.
+Pattern
 
-It is not:
+Previous Confidence
 
-research failure.
+Current Confidence
 
-Count Reconciliation
-Post-Noma canonical state:
+Photography as Proof
 
-Emerging: 16
-Candidate: 16
-Restaurant #15 promoted:
+Medium
 
-5 Emerging patterns
-
-into:
-
-Candidate.
-
-16 Emerging
-- 5 Emerging promotions
-= 11 Emerging
-Restaurant #15 also promoted two below-Candidate research directions:
+Medium-High
 
 Capacity Proof
 
+Medium
+
+Medium-High
+
+Photography as Proof
+
+Confidence increases because the Candidate survives a hospitality model whose defining guest experience cannot be photographed directly.
+
+The case establishes:
+
+Photography Can Be Proof
+without being
+Complete Proof
+
+Capacity Proof
+
+Confidence increases because Dans le Noir? adds a third mechanistically distinct capacity model through:
+
+procedure
+
+guide roles
+
+menu testing
+
+dietary handoff rules
+
+real-time availability
+
+safety provisions
+
+stable participation infrastructure
+
+The remaining boundary is:
+
+Published Capacity Mechanism
+≠
+Verified Capacity Performance
+
+Explicit Non-Promotions
+
+Pattern
+
+Current State
+
+Reason for Holding
+
+Escalating Participation Complexity
+
+Emerging
+
+The case points toward Support Escalation, but the current name remains more descriptive than explanatory.
+
+Story Before Features
+
+Emerging
+
+Strong support remains bounded by generic content-rule risk and the same-name Foundation boundary.
+
+Promise Before Proof
+
+Emerging
+
+Definition overlap remains with Capacity Proof, Expectation Clarity, Bounded Product Commitment and Hospitality System Proof.
+
+Atmosphere as Product
+
+Emerging
+
+Structural atmosphere is visible; guest-choice causality remains unverified.
+
+The Guest as Participant
+
+Emerging
+
+Evidence is strong, but the abstraction remains too broad.
+
+Commitment Without Pressure
+
+Emerging
+
+Availability appears without pressure language, but the full commitment system remains unobserved.
+
+Multi-Intent Hospitality
+
+Emerging
+
+Multiple offers and routes do not automatically prove materially different hospitality intents.
+
+Emotion Before Interface
+
+Emerging
+
+The same-name Foundation boundary and causal-evidence gap remain.
+
+Photography Before Decoration
+
+Emerging
+
+The same-name Foundation boundary and generic design-rule risk remain.
+
+Non-promotion is a governance result.
+
+It is not research failure.
+
+Candidate Decisions Without Confidence Change
+
+Pattern
+
+Current State
+
+Restaurant #16 Position
+
+Layered Arrival
+
+Candidate / Medium
+
+Strong confirmation; the one-carrier falsification remains open.
+
+Atmosphere Through Consistency
+
+Candidate / Medium
+
+Strong system coherence; fragmented-atmosphere falsification remains open.
+
+Photography Through Layers of Experience
+
+Candidate / Medium
+
+Boundary refined toward Layered Evidence; definition work remains.
+
+Participation Throughout the Journey
+
+Candidate / Medium
+
+Strong maximal-journey evidence; minimal-journey boundary remains untested.
+
 Stable Participation / Variable Product
 
-16 Existing Candidates
-+ 5 Emerging promotions
-+ 2 Below-Candidate promotions
-= 23 Candidates
+Candidate / Medium
+
+Strong confirmation; variable-product plus variable-participation test remains open.
+
+Participation Rule Consistency
+
+Candidate / Medium
+
+Menu allocation at booking versus ordering on arrival remains unresolved.
+
+Manageable Commitment
+
+Candidate / Medium
+
+Pre-commitment agency is visible; post-commitment flexibility remains unverified.
+
+Designed Escape
+
+Candidate / Medium
+
+Mechanism is strong; guest outcome remains unverified.
+
+Adaptation as Narrative
+
+Candidate / Medium
+
+Cross-format adaptation is visible; commercial expansion does not automatically prove coherence.
+
+Count Reconciliation
+
+Post–Pearl Morissette canonical state:
+
+Emerging: 11
+Candidate: 23
+
+Restaurant #16 promotes two Emerging patterns into Candidate:
+
+Photography Should Demonstrate Difference
+
+Human Assistance Where Structured Self-Service Is Insufficient
+
+11 Emerging
+- 2 Promotions
+= 9 Emerging
+
+23 Candidates
++ 2 Promotions
+= 25 Candidates
+
+The two confidence increases do not alter the Candidate count.
+
 Dashboard counts:
 
 reconciled.
 
-Post–Pearl Morissette Boundary
-The strongest governance distinction produced by Restaurant #15 is:
+Candidate Count Integrity
 
-Thing
+Candidate / High: 9
+Candidate / Medium-High: 5
+Candidate / Medium: 11
 
+9 + 5 + 11 = 25
+
+Post–Dans le Noir? London Boundary
+
+The strongest governance distinction produced by Restaurant #16 is:
+
+Visual Absence
 ≠
+Evidence Absence
 
-Relationship
-This boundary applies across:
+This boundary connects:
 
-place
+arrival
 
-proof
+atmosphere
+
+photography
+
+reservation
 
 story
 
+human guidance
+
 capacity
 
-participation
+accessibility
 
-product
+Related corrections include:
 
-The research result is not:
+Photography of the Restaurant
+≠
+Photography of the Guest Experience
 
-a farm-driven KHDS model.
+Participation Complexity
+≠
+Interface Complexity
 
-It is:
+Required Disclosure
+≠
+Successful Operational Handoff
 
-a more precise hospitality intelligence system.
+Temporary Darkness
+≠
+Lived Visual Impairment
+
+Narrative Coherence
+≠
+Outcome Proof
+
+Architecture Families Added or Sharpened
+
+Non-Visual Evidence Family
+
+Visible Perimeter / Invisible Core
+
+Proof Through Procedure
+
+Evidence Substitution
+
+Absence as Evidence Integrity
+
+Accessible Proof Description
+
+Post-Experience Reveal Proof
+
+Human-Guided Participation Family
+
+Human Escalation Architecture
+
+Guide Handoff
+
+Trust Transfer
+
+Supported Movement
+
+Named Consequence Mapping
+
+Reservation as Operational Brief
+
+Sensory Boundary Family
+
+Enforced Visual Absence
+
+Digital Surrender
+
+Darkness as Narrative Condition
+
+Attention Redistribution
+
+Reveal After Experience
+
+Role-Reversal Narrative Family
+
+Operationalised Role Reversal
+
+Narrative Through Reassigned Expertise
+
+Guide as Narrative Authority
+
+Temporary Deprivation / Lived Experience Boundary
+
+Questioning Without Guaranteed Transformation
+
+Architecture families organize evidence.
+
+They are not additional formal patterns.
+
+Why No Validated Promotion Occurred
+
+Restaurant #16 is a strong contradiction case.
+
+It remains one independent research cycle.
+
+No Validated promotion occurs because:
+
+public website evidence cannot establish operational outcomes
+
+one contradiction case does not establish full transferability
+
+no new Track B implementation validation occurred
+
+no longitudinal test was completed
+
+several definitions retain active falsification requirements
+
+Contradiction Survival
+≠
+Validation
 
 Research Integrity
+
 Pattern maturity should increase only when:
 
 evidence is independent
@@ -485,7 +969,7 @@ boundaries are clear
 
 the behaviour is not merely a category-specific implementation detail
 
-the pattern is not better represented as architecture, mechanism, variable, taxonomy, opportunity, or production learning
+the pattern is not better represented as architecture, mechanism, variable, taxonomy, opportunity or production learning
 
 website evidence supports the claimed behaviour
 
@@ -501,65 +985,108 @@ a production implementation succeeds
 
 a useful design idea has been identified
 
-Evidence strength:
+Evidence strength drives maturity.
 
-drives maturity.
-
-Pattern count:
-
-changes only when the system genuinely needs a distinct pattern.
+Pattern count changes only when the system genuinely needs a distinct pattern.
 
 Current Validation Priorities
-Capacity Proof
 
-Stable Participation / Variable Product
+Priority
 
-Layered Arrival
+Research Target
 
-Atmosphere Through Consistency
+Primary Question
 
-Photography as Proof
+1
 
-Photography Through Layers of Experience
+Escalating Participation Complexity Definition
 
-Participation Throughout the Journey
+What exactly escalates, and what support response does the pattern predict?
 
-Photography Should Demonstrate Difference
+2
 
-Escalating Participation Complexity
+Stable Participation With Variable Participation
 
-Future research should attempt to:
+Is stable participation necessary, or one viable strategy among several?
 
-break these patterns.
+3
 
-Useful contradiction targets include hospitality systems where:
+Minimal Participation Journey
 
-capacity is important but remains visually hidden
+How small can participation become before the Candidate loses explanatory value?
 
-participation stays stable while product variability is minimal
+4
 
-arrival is intentionally immediate rather than layered
+One-Carrier Arrival
 
-atmosphere is strong despite inconsistency across touchpoints
+Can clarity replace layering?
 
-proof is operationally important but photography is absent
+5
 
-a single photographic mode supports a complex experience
+Layered Evidence Without Layered Photography
 
-participation ends after booking or purchase
+Which experience layers genuinely require images?
 
-product difference is subtle or non-visual
+6
 
-many participation states exist without requiring escalating support architecture
+Human Assistance Failure Case
+
+When does human assistance compensate for weak structure?
+
+7
+
+Non-Visual Difference Transfer Test
+
+Can difference remain legible when the visible perimeter looks conventional?
+
+8
+
+Capacity Proof With Minimal Authority
+
+Can capacity evidence create confidence without prestige, longevity or recognition?
+
+9
+
+Story Outcome Evidence
+
+Which outcomes survive beyond published mechanism and curated testimony?
+
+10
+
+Atmosphere as Product Causality
+
+When is atmosphere genuinely purchased rather than merely prominent?
+
+Future research should attempt to break these patterns and definitions.
 
 Mirror Status
-Governance File	Status
-khds/research/validation/candidate-patterns.md	Canonical / Complete
-khds/patterns/registry.md	Reconciled / Complete
-khds/research/validation/dashboard.md	Reconciled / Complete
-khds/research/README.md	Pending
-khds/research/validation/README.md	Pending
+
+Governance File
+
+Status
+
+khds/research/validation/candidate-patterns.md
+
+Canonical / Complete
+
+khds/patterns/registry.md
+
+Reconciled / Complete
+
+khds/research/validation/dashboard.md
+
+Reconciled / Complete
+
+khds/research/README.md
+
+Pending
+
+khds/research/validation/README.md
+
+Pending
+
 Next Step
+
 Reconcile:
 
 khds/research/README.md
@@ -568,36 +1095,22 @@ khds/research/validation/README.md
 
 Do not change:
 
-Candidate count: 23
-
-Emerging count: 11
-
+Candidate count: 25
+Emerging count: 9
 Validated count: 0
-
 Research-Derived KHDS Principle count: 0
 
-unless:
-
-new independent research
-
-or:
-
-formal canonical governance review
-
-justifies:
-
-a maturity change.
+unless new independent research or formal canonical governance review justifies a maturity change.
 
 Final Dashboard Position
-Post–Pearl Morissette governance is:
 
-reconciled.
+Post–Dans le Noir? London governance is reconciled.
 
 KHDS currently contains:
 
-23 Candidate patterns
+25 Candidate patterns
 
-11 Emerging patterns
+9 Emerging patterns
 
 1 Partially Supported pattern
 
@@ -605,15 +1118,18 @@ KHDS currently contains:
 
 0 Research-Derived KHDS Principles
 
-Restaurant Pearl Morissette materially strengthened:
+Restaurant #16 materially strengthened:
 
-pattern boundaries
+non-visual evidence reasoning
 
-and:
+human-guided participation
 
-relationship-level reasoning.
+capacity proof through procedure
+
+role-reversal narrative boundaries
+
+the separation between published mechanism and verified outcome
 
 The threshold remains intact.
 
 Evidence wins.
-

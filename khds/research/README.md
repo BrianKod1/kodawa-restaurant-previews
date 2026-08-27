@@ -1,103 +1,16 @@
-
-
-Pasted markdown.md
-File
-That's where we start from
-
-khds/research/validation/dashboard.md
-
-
-khds/research/validation/dashboard.md
-
-Completed and reconciled dashboard.md.
-
-It now reflects:
-
-15 independent restaurants
-
-23 Candidate patterns
-
-11 Emerging patterns
-
-7 Pearl Morissette promotions
-
-4 confidence increases
-
-0 Validated patterns
-
-0 research-derived KHDS Principles
-
-Next: khds/research/README.md.
-
-
-dashboard.md
-Document
-
-
-
-Pasted markdown(1).md
-File
-khds/research/README.md  
-
-this is what the last one contained, be as thorough 
-
-Completed the thorough Post–Pearl Morissette reconciliation of khds/research/README.md.
-
-The 6,901-line research overview now includes:
-
-Restaurant #15 — Restaurant Pearl Morissette
-
-23 Candidate and 11 Emerging patterns
-
-Seven formal Candidate promotions
-
-Four confidence increases
-
-Candidate confidence distribution
-
-Explicit non-promotions
-
-Destination Architecture Family
-
-Relationship Proof Family
-
-Pearl Morissette architecture additions across all five dimensions
-
-Revised nine-part research priority programme
-
-Full count reconciliation
-
-Updated governance mirror status
-
-The previous Noma state retained as historical research context
-
-A comprehensive Post–Pearl Morissette conclusion
-
-Next: khds/research/validation/README.md.
-
-
-README.md
-Document
-
-
-Library
-/
-README.md
-
-
 # KHDS Research
 
 ## Status
 
-Post–Pearl Morissette Research Governance Mirror
+Post–Dans le Noir? London Research Governance Mirror
 
 Latest Reconciled Restaurant:
 
-Restaurant Pearl Morissette
+Dans le Noir? London
 
 Independent Restaurants Reconciled:
 
-15
+16
 
 Track B Validation Cases:
 
@@ -303,7 +216,7 @@ Track A is responsible for:
 
 Track A currently contains:
 
-15:
+16:
 
 independent:
 
@@ -749,6 +662,82 @@ product.
 
 ---
 
+# Restaurant #16 — Dans le Noir? London
+
+Track:
+
+Track A
+
+Research role:
+
+Deliberate contradiction case
+
+Primary pressure:
+
+- non-visual evidence
+
+- complete darkness as an operating condition
+
+- visible perimeter / invisible core
+
+- human-guided participation
+
+- consequence clarity under outcome uncertainty
+
+- stable participation around a changing and concealed product
+
+- capacity proof through procedure
+
+- participation complexity without interface complexity
+
+- operationalised role reversal
+
+- inclusion as operating capability
+
+Primary governance contribution:
+
+```text
+
+Visual Absence
+
+≠
+
+Evidence Absence
+
+```
+
+Dans le Noir? London strengthens:
+
+non-visual proof
+
+human guidance
+
+capacity through procedure
+
+and:
+
+claim-scope discipline.
+
+It does not:
+
+prove:
+
+guest emotion
+
+atmospheric success
+
+employment quality
+
+authentic connection
+
+heightened senses
+
+or:
+
+lasting transformation.
+
+---
+
 # Track B Validation Case — Trunk & Tandoor
 
 Track:
@@ -787,13 +776,13 @@ production success alone.
 
 ```text
 
-Independent Restaurants: 15
+Independent Restaurants: 16
 
 Track B Validation Cases: 1
 
-Emerging Patterns: 11
+Emerging Patterns: 9
 
-Candidate Patterns: 23
+Candidate Patterns: 25
 
 Partially Supported Patterns: 1
 
@@ -929,7 +918,7 @@ Research-Derived Principles.
 
 Current Candidate Count:
 
-23
+25
 
 1. Atmosphere Through Worldview — Candidate / High
 
@@ -967,15 +956,19 @@ Current Candidate Count:
 
 18. Atmosphere Through Consistency — Candidate / Medium
 
-19. Photography as Proof — Candidate / Medium
+19. Photography as Proof — Candidate / Medium-High
 
 20. Photography Through Layers of Experience — Candidate / Medium
 
 21. Participation Throughout the Journey — Candidate / Medium
 
-22. Capacity Proof — Candidate / Medium
+22. Capacity Proof — Candidate / Medium-High
 
 23. Stable Participation / Variable Product — Candidate / Medium
+
+24. Photography Should Demonstrate Difference — Candidate / Medium
+
+25. Human Assistance Where Structured Self-Service Is Insufficient — Candidate / Medium
 
 ---
 
@@ -987,11 +980,11 @@ Current Candidate Count:
 
 | High | 9 |
 
-| Medium-High | 3 |
+| Medium-High | 5 |
 
 | Medium | 11 |
 
-| Total | 23 |
+| Total | 25 |
 
 The distribution reflects:
 
@@ -1211,7 +1204,279 @@ change.
 
 ---
 
-# Post–Pearl Morissette Candidate Promotions
+# Post–Dans le Noir? London Candidate Promotions
+
+Restaurant #16 produced:
+
+2:
+
+formal Candidate promotions.
+
+---
+
+# Photography Should Demonstrate Difference
+
+```text
+
+Emerging
+
+→
+
+Candidate / Medium
+
+```
+
+Dans le Noir? London satisfied:
+
+the exact:
+
+non-visual difference:
+
+falsification requirement
+
+set after:
+
+Restaurant #15.
+
+The pattern now survives:
+
+- Difference Through Sequence
+
+- Difference Through Relationship
+
+- Non-Visual Difference
+
+Primary boundaries:
+
+```text
+
+Material Difference
+
+≠
+
+Visual Novelty
+
+```
+
+```text
+
+Demonstrate Difference
+
+≠
+
+Show Difference Literally
+
+```
+
+---
+
+# Human Assistance Where Structured Self-Service Is Insufficient
+
+```text
+
+Emerging
+
+→
+
+Candidate / Medium
+
+```
+
+Dans le Noir? London provides:
+
+the strongest:
+
+current:
+
+human-assistance:
+
+mechanism.
+
+Human assistance operates as:
+
+- exception infrastructure
+
+- access infrastructure
+
+- physical guidance
+
+- trust transfer
+
+- the core hospitality product
+
+Primary boundaries:
+
+```text
+
+Self-Service Availability
+
+≠
+
+Self-Service Sufficiency
+
+```
+
+```text
+
+Human Guidance
+
+≠
+
+Fallback Support Only
+
+```
+
+---
+
+# Post–Dans le Noir? London Confidence Changes
+
+Two:
+
+Candidate patterns
+
+received:
+
+confidence increases.
+
+# Photography as Proof
+
+```text
+
+Candidate / Medium
+
+→
+
+Candidate / Medium-High
+
+```
+
+Reason:
+
+the Candidate survives:
+
+a deliberate contradiction case
+
+where:
+
+the defining guest experience
+
+cannot be photographed directly.
+
+Restaurant #16 sharpens:
+
+```text
+
+Photography Can Be Proof
+
+without being
+
+Complete Proof
+
+```
+
+# Capacity Proof
+
+```text
+
+Candidate / Medium
+
+→
+
+Candidate / Medium-High
+
+```
+
+Reason:
+
+Proof Through Procedure
+
+adds:
+
+a third:
+
+mechanistically distinct:
+
+capacity model.
+
+Evidence includes:
+
+- guide roles
+
+- menu testing
+
+- dietary handoff rules
+
+- real-time availability
+
+- safety provisions
+
+- stable participation infrastructure
+
+Primary boundary:
+
+```text
+
+Published Capacity Mechanism
+
+≠
+
+Verified Capacity Performance
+
+```
+
+---
+
+# Post–Dans le Noir? London Explicit Non-Promotions
+
+The following remain Emerging:
+
+- Escalating Participation Complexity
+
+- Story Before Features
+
+- Promise Before Proof
+
+- Atmosphere as Product
+
+- The Guest as Participant
+
+- Commitment Without Pressure
+
+- Multi-Intent Hospitality
+
+- Emotion Before Interface
+
+- Photography Before Decoration
+
+Strongest non-promotion correction:
+
+```text
+
+Participation Complexity
+
+≠
+
+Interface Complexity
+
+```
+
+The explanatory mechanism may be:
+
+Support Escalation.
+
+The current pattern:
+
+remains:
+
+too descriptive
+
+for:
+
+Candidate maturity.
+
+---
+
+# Post–Pearl Morissette Candidate Promotions — Historical Research Layer
 
 Restaurant #15 produced:
 
@@ -1513,7 +1778,7 @@ outcomes.
 
 ---
 
-# Post–Pearl Morissette Confidence Changes
+# Post–Pearl Morissette Confidence Changes — Historical Research Layer
 
 Four:
 
@@ -1581,7 +1846,7 @@ Candidate / High
 
 ---
 
-# Post–Pearl Morissette Explicit Non-Promotions
+# Post–Pearl Morissette Explicit Non-Promotions — Historical Research Layer
 
 The following:
 
@@ -1701,7 +1966,7 @@ the research direction.
 
 Current Emerging Count:
 
-11
+9
 
 1. Emotion Before Interface
 
@@ -1717,13 +1982,9 @@ Current Emerging Count:
 
 7. The Guest as Participant
 
-8. Human Assistance Where Structured Self-Service Is Insufficient
+8. Atmosphere as Product
 
-9. Atmosphere as Product
-
-10. Escalating Participation Complexity
-
-11. Photography Should Demonstrate Difference
+9. Escalating Participation Complexity
 
 ---
 
@@ -3583,7 +3844,243 @@ waiting category.
 
 ---
 
-# Post–Pearl Morissette Architecture Additions
+# Post–Dans le Noir? London Architecture Additions
+
+Restaurant #16 adds or sharpens:
+
+four:
+
+architecture families.
+
+These organize:
+
+research knowledge.
+
+They are not:
+
+additional formal patterns.
+
+# Non-Visual Evidence Family
+
+- Visible Perimeter / Invisible Core
+
+- Proof Through Procedure
+
+- Evidence Substitution
+
+- Representative Culinary Proof
+
+- Symbolic Darkness
+
+- Illuminated Simulation
+
+- Absence as Evidence Integrity
+
+- Accessible Proof Description
+
+- Post-Experience Reveal Proof
+
+Rule:
+
+```text
+
+Visual Absence
+
+≠
+
+Evidence Absence
+
+```
+
+# Human-Guided Participation Family
+
+- Human Escalation Architecture
+
+- Guide Handoff
+
+- Trust Transfer
+
+- Supported Movement
+
+- Named Consequence Mapping
+
+- Consequence-Relevant Repetition
+
+- Access Exception Channel
+
+- Reservation as Operational Brief
+
+Rule:
+
+```text
+
+Human Guidance
+
+≠
+
+Fallback Support
+
+```
+
+# Sensory Boundary Family
+
+- Enforced Visual Absence
+
+- Digital Surrender
+
+- Darkness as Narrative Condition
+
+- Attention Redistribution
+
+- Sensory System Adaptation
+
+- Reveal After Experience
+
+Rule:
+
+```text
+
+Temporary Sensory Condition
+
+≠
+
+Durable Human Outcome
+
+```
+
+# Role-Reversal Narrative Family
+
+- Operationalised Role Reversal
+
+- Narrative Through Reassigned Expertise
+
+- Guide as Narrative Authority
+
+- Expertise Beyond Appearance
+
+- Temporary Deprivation / Lived Experience Boundary
+
+- Awareness Opportunity
+
+- Questioning Without Guaranteed Transformation
+
+Rule:
+
+```text
+
+Guide as Authority
+
+
+
+Guide as Symbol
+
+```
+
+---
+
+# Restaurant #16 Five-Dimension Synthesis
+
+## Arrival
+
+Primary mechanism:
+
+Digital confidence
+
+→
+
+physical surrender
+
+→
+
+human handoff.
+
+Strongest boundary:
+
+```text
+
+Arrival at the Address
+
+≠
+
+Arrival in the Experience
+
+```
+
+## Atmosphere
+
+Primary mechanism:
+
+Enforced Visual Absence.
+
+Strongest boundary:
+
+```text
+
+Atmosphere as Infrastructure
+
+≠
+
+Atmosphere as Guest Outcome
+
+```
+
+## Photography
+
+Primary mechanism:
+
+Visible Perimeter / Invisible Core.
+
+Strongest boundary:
+
+```text
+
+Photography of the Restaurant
+
+≠
+
+Photography of the Guest Experience
+
+```
+
+## Reservation / Participation
+
+Primary mechanism:
+
+Consequence Clarity / Outcome Uncertainty.
+
+Strongest boundary:
+
+```text
+
+Participation Complexity
+
+≠
+
+Interface Complexity
+
+```
+
+## Story
+
+Primary mechanism:
+
+Operationalised Role Reversal.
+
+Strongest boundary:
+
+```text
+
+Narrative Coherence
+
+≠
+
+Outcome Proof
+
+```
+
+---
+
+# Post–Pearl Morissette Architecture Additions — Historical Research Layer
 
 The following:
 
@@ -4505,43 +5002,43 @@ khds/
 
 └── research/
 
-    ├── restaurants/
+    ├── restaurants/
 
-    │   ├── ...
+    │   ├── ...
 
-    │   ├── ichiran-shibuya/
+    │   ├── ichiran-shibuya/
 
-    │   ├── din-tai-fung-covent-garden/
+    │   ├── din-tai-fung-covent-garden/
 
-    │   └── noma-copenhagen-2026/
+    │   └── noma-copenhagen-2026/
 
-    │
+    │
 
-    ├── comparison/
+    ├── comparison/
 
-    │   ├── arrival.md
+    │   ├── arrival.md
 
-    │   ├── atmosphere.md
+    │   ├── atmosphere.md
 
-    │   ├── photography.md
+    │   ├── photography.md
 
-    │   ├── reservation.md
+    │   ├── reservation.md
 
-    │   └── story.md
+    │   └── story.md
 
-    │
+    │
 
-    ├── validation/
+    ├── validation/
 
-    │   ├── candidate-patterns.md
+    │   ├── candidate-patterns.md
 
-    │   ├── dashboard.md
+    │   ├── dashboard.md
 
-    │   └── README.md
+    │   └── README.md
 
-    │
+    │
 
-    └── README.md
+    └── README.md
 
 ```
 
@@ -5085,7 +5582,83 @@ Research question:
 
 ---
 
-# Current Post–Pearl Morissette Research Priorities
+# Current Post–Dans le Noir? London Research Priorities
+
+The next cycle should not:
+
+repeat:
+
+the darkness model.
+
+It should attack:
+
+the remaining:
+
+definition problems.
+
+# Priority 1 — Escalating Participation Complexity Definition
+
+Primary question:
+
+> **What exactly escalates, and what support response does the pattern predict?**
+
+# Priority 2 — Stable Participation With Variable Participation
+
+Primary question:
+
+> **Is stable participation necessary, or one viable strategy among several?**
+
+# Priority 3 — Minimal Participation Journey
+
+Primary question:
+
+> **How small can participation become before Participation Throughout the Journey loses explanatory value?**
+
+# Priority 4 — One-Carrier Arrival
+
+Primary question:
+
+> **Can clarity replace layering?**
+
+# Priority 5 — Layered Evidence Without Layered Photography
+
+Primary question:
+
+> **Which experience layers genuinely require images?**
+
+# Priority 6 — Human Assistance Failure Case
+
+Primary question:
+
+> **When does human assistance compensate for weak structure rather than resolve material insufficiency?**
+
+# Priority 7 — Non-Visual Difference Transfer Test
+
+Primary question:
+
+> **Can difference remain legible when the visible perimeter looks conventional?**
+
+# Priority 8 — Capacity Proof With Minimal Authority
+
+Primary question:
+
+> **Can capacity evidence create confidence without longevity, awards, celebrity, or institutional prestige?**
+
+# Priority 9 — Story Outcome Evidence
+
+Primary question:
+
+> **Which outcomes survive beyond published mechanism and curated testimony?**
+
+# Priority 10 — Atmosphere as Product Causality
+
+Primary question:
+
+> **When is atmosphere genuinely purchased rather than merely prominent?**
+
+---
+
+# Post–Pearl Morissette Research Priorities — Historical Research Layer
 
 The current:
 
@@ -6031,7 +6604,399 @@ Candidates.
 
 ---
 
-# Post–Pearl Morissette Research Conclusion
+# Post–Dans le Noir? London Research Conclusion
+
+After:
+
+16:
+
+independent restaurants
+
+KHDS has:
+
+a more precise:
+
+model of:
+
+hospitality evidence
+
+participation
+
+and:
+
+meaning.
+
+Restaurant #16 was selected:
+
+to attack:
+
+newly promoted:
+
+Candidates
+
+rather than:
+
+to confirm:
+
+another:
+
+prestige destination.
+
+Its defining condition is:
+
+```text
+
+The Core Experience
+
+Cannot Be Seen
+
+```
+
+That condition forces KHDS:
+
+to ask:
+
+what:
+
+photography
+
+procedure
+
+human guidance
+
+reservation
+
+story
+
+and:
+
+operating evidence
+
+can:
+
+truthfully prove.
+
+The strongest:
+
+cross-dimensional:
+
+finding is:
+
+```text
+
+Visual Absence
+
+≠
+
+Evidence Absence
+
+```
+
+Photography remains:
+
+useful
+
+but:
+
+bounded.
+
+It can show:
+
+the visible perimeter
+
+without:
+
+showing:
+
+the guest's:
+
+visual field
+
+during:
+
+the experience.
+
+This is why:
+
+Photography as Proof
+
+increases:
+
+from:
+
+Candidate / Medium
+
+to:
+
+Candidate / Medium-High.
+
+The pattern becomes:
+
+stronger
+
+because:
+
+its limits
+
+become:
+
+clearer.
+
+Restaurant #16 also:
+
+completes:
+
+the prescribed:
+
+non-visual:
+
+test for:
+
+Photography Should Demonstrate Difference.
+
+Difference can be:
+
+demonstrated through:
+
+- perimeter
+
+- contrast
+
+- sequence
+
+- relationship
+
+- procedure
+
+- deliberate absence
+
+without:
+
+being:
+
+shown literally.
+
+Human guidance becomes:
+
+the second:
+
+formal promotion.
+
+At Dans le Noir?:
+
+human assistance is:
+
+both:
+
+an escalation layer
+
+and:
+
+the operating product.
+
+```text
+
+Human Guidance
+
+≠
+
+Fallback Support
+
+```
+
+Capacity Proof also:
+
+increases:
+
+to:
+
+Candidate / Medium-High
+
+because:
+
+confidence is supported through:
+
+procedure
+
+roles
+
+testing
+
+availability
+
+safety
+
+and:
+
+stable participation
+
+without:
+
+exact future-product:
+
+visibility.
+
+The strongest:
+
+participation correction is:
+
+```text
+
+Participation Complexity
+
+≠
+
+Interface Complexity
+
+```
+
+A complex experience may use:
+
+a simple interface
+
+when:
+
+complexity is carried by:
+
+procedure
+
+timing
+
+people
+
+space
+
+and:
+
+physical handoff.
+
+The strongest:
+
+story mechanism is:
+
+Operationalised Role Reversal.
+
+The guide leads.
+
+The guest follows.
+
+The story is carried by:
+
+the operating relationship
+
+not:
+
+only by:
+
+copy about inclusion.
+
+That mechanism remains:
+
+strictly bounded.
+
+```text
+
+Temporary Darkness
+
+≠
+
+Lived Visual Impairment
+
+```
+
+```text
+
+Awareness Opportunity
+
+≠
+
+Guaranteed Transformation
+
+```
+
+The current:
+
+formal state is:
+
+```text
+
+16 Independent Restaurants
+
+25 Candidate Patterns
+
+9 Emerging Patterns
+
+1 Partially Supported Pattern
+
+0 Validated Patterns
+
+0 Research-Derived KHDS Principles
+
+1 Implementation Pattern Pending Formal Validation
+
+36 Opportunity Themes
+
+17 Track B Implementation Learnings
+
+```
+
+Restaurant #16 produced:
+
+```text
+
+2 Candidate Promotions
+
+2 Confidence Increases
+
+0 Demotions
+
+0 Renames
+
+0 Merges
+
+0 Validated Promotions
+
+0 Research-Derived Principle Promotions
+
+```
+
+The absence of:
+
+Validated promotion
+
+is intentional.
+
+```text
+
+Contradiction Survival
+
+≠
+
+Validation
+
+```
+
+The research cycle:
+
+strengthened:
+
+pattern definitions
+
+without:
+
+turning:
+
+published mechanisms
+
+into:
+
+verified outcomes.
+
+Evidence wins.
+
+---
+
+# Post–Pearl Morissette Research Conclusion — Historical Research Layer
 
 After:
 
@@ -6781,7 +7746,93 @@ Evidence wins.
 
 ---
 
-# Post–Pearl Morissette Count Reconciliation
+# Post–Dans le Noir? London Count Reconciliation
+
+Post–Pearl Morissette canonical state:
+
+```text
+
+Emerging: 11
+
+Candidate: 23
+
+```
+
+Restaurant #16 promotes:
+
+2:
+
+Emerging patterns:
+
+- Photography Should Demonstrate Difference
+
+- Human Assistance Where Structured Self-Service Is Insufficient
+
+Therefore:
+
+```text
+
+11 Emerging
+
+− 2 Promotions
+
+= 9 Emerging
+
+```
+
+and:
+
+```text
+
+23 Candidates
+
+2 Promotions
+
+= 25 Candidates
+
+```
+
+Two:
+
+confidence increases
+
+do not:
+
+alter:
+
+the Candidate count.
+
+All other:
+
+formal counts
+
+remain:
+
+unchanged.
+
+```text
+
+Partially Supported: 1
+
+Validated: 0
+
+Research-Derived Principles: 0
+
+Implementation Patterns Pending Formal Validation: 1
+
+Opportunity Themes: 36
+
+Track B Implementation Learnings: 17
+
+```
+
+Research README counts:
+
+reconciled.
+
+---
+
+# Post–Pearl Morissette Count Reconciliation — Historical Research Layer
 
 Post-Noma canonical state:
 
@@ -6905,7 +7956,7 @@ Research README:
 
 Status:
 
-Post–Pearl Morissette Reconciled Mirror
+Post–Dans le Noir? London Reconciled Mirror
 
 Canonical Source:
 
@@ -6913,7 +7964,7 @@ Canonical Source:
 
 Independent Restaurants:
 
-15
+16
 
 Track B Validation Cases:
 
@@ -6921,11 +7972,11 @@ Track B Validation Cases:
 
 Emerging:
 
-11
+9
 
 Candidate:
 
-23
+25
 
 Partially Supported:
 
@@ -6951,13 +8002,13 @@ Track B Implementation Learnings:
 
 17
 
-Post–Pearl Morissette Promotions:
+Post–Dans le Noir? London Promotions:
 
-7
+2
 
 Confidence Changes:
 
-4
+2
 
 Demotions:
 
@@ -6986,4 +8037,3 @@ Candidate
 Next Governance Mirror:
 
 `khds/research/validation/README.md`
-
