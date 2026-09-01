@@ -2,11 +2,11 @@ KHDS Cross-Restaurant Comparison — Story / Narrative
 
 Status
 
-Post–Avatar Robot Café DAWN, Tokyo Comparison
+Post–Refettorio Felix, London Comparison
 
 Restaurants Compared:
 
-17
+18
 
 Track:
 
@@ -14,7 +14,7 @@ Track A — Independent Hospitality Research
 
 Latest Added Case:
 
-Avatar Robot Café DAWN — Tokyo
+Refettorio Felix — London
 
 Comparison Status:
 
@@ -98,7 +98,7 @@ all:
 
 five:
 
-post–Restaurant #17:
+post–Restaurant #18:
 
 comparison files
 
@@ -235,6 +235,8 @@ Restaurant Pearl Morissette
 Dans le Noir? London
 
 Avatar Robot Café DAWN, Tokyo
+
+Refettorio Felix, London
 
 Current Story Thesis
 
@@ -10098,3 +10100,1256 @@ Post–Avatar Robot Café DAWN Canonical Governance Reconciliation
 Next File:
 
 khds/research/validation/candidate-patterns.md
+
+Post–Refettorio Felix, London Story Reconciliation
+
+Restaurant added:
+
+Restaurant #18
+
+Refettorio Felix
+
+London.
+
+Research role:
+
+Hospitality Without Transaction
+
+Social-Mission Evidence Boundary Case.
+
+Comparison status:
+
+Story reconciliation complete.
+
+Five-dimension Restaurant #18 comparison set:
+
+5 / 5 complete.
+
+Canonical governance decision:
+
+next stage.
+
+Restaurant #18 Story Evidence Input
+
+Restaurant files reconciled:
+
+khds/research/restaurants/refettorio-felix-london/README.md
+
+khds/research/restaurants/refettorio-felix-london/arrival.md
+
+khds/research/restaurants/refettorio-felix-london/atmosphere.md
+
+khds/research/restaurants/refettorio-felix-london/photography.md
+
+khds/research/restaurants/refettorio-felix-london/reservation.md
+
+khds/research/restaurants/refettorio-felix-london/story.md
+
+khds/research/restaurants/refettorio-felix-london/knowledge-extraction.md
+
+Published narrative carriers include:
+
+more than three decades of St Cuthbert's local service
+
+the 2017 Refettorio transformation with Food for Soul
+
+the 2021 Green Rooms addition
+
+surplus-food transformation
+
+weekday three-course hospitality
+
+staff and volunteer service
+
+support partners
+
+Ilse Crawford and Minnie Kemp design contributions
+
+guest chefs
+
+venue-hire cross-support
+
+published monthly activity figures
+
+selected testimony
+
+These establish:
+
+published history, mechanism, activity and selected voice.
+
+They do not independently establish:
+
+universal dignity
+
+representative belonging
+
+support effectiveness
+
+durable wellbeing
+
+causal impact
+
+fair labour
+
+net commercial subsidy
+
+transferability.
+
+Current Canonical Entry State — Before Restaurant #18 Decision
+
+Completed independent restaurants:
+
+17
+
+Candidate patterns:
+
+26
+
+Emerging patterns:
+
+8
+
+Partially Supported patterns:
+
+1
+
+Validated patterns:
+
+0
+
+Research-derived KHDS Principles:
+
+0
+
+No count changes are authorised in this comparison file.
+
+Comparison 121 — Hospitality Without Transaction Can Still Carry a Complete Restaurant Story
+
+Refettorio Felix narrates food, welcome, service, place and relationship without making purchase the organising event.
+
+Guest
+≠
+Paying Customer
+
+Comparison 122 — The Operating Model Is the Strongest Mission Story
+
+Surplus sourcing, three-course lunch, shared service, volunteers, support partners and cross-support enact the proposition more credibly than abstract purpose language.
+
+Mission Statement
+≠
+Mission Performed
+
+Comparison 123 — Food Recovery Language Must Stop Before Human Worth
+
+Surplus food may be recovered as a resource. People must not be narrated as discarded material restored to value by the institution.
+
+Recovering Food Value
+≠
+Recovering Human Worth
+
+Comparison 124 — Dignity Is Recognised, Not Produced
+
+Hospitality may remove degrading friction and enact respect, but it cannot claim to manufacture worth that the guest previously lacked.
+
+Dignity Support
+≠
+Dignity Production
+
+Comparison 125 — Care Beyond the Meal Must Not Make Lunch a Pretext
+
+Advice and therapy can extend relationship while the meal remains intrinsically meaningful hospitality.
+
+Care Continuation
+≠
+Meal Instrumentalisation
+
+Comparison 126 — Local Continuity Can Coexist With Model Transformation
+
+More than three decades of St Cuthbert's service, the 2017 Refettorio transformation and the 2021 Green Rooms addition form continuity through change.
+
+Continuity
+≠
+Institutional Stasis
+
+Comparison 127 — Named Designers Can Explain Change Without Becoming the Protagonists
+
+Ilse Crawford and Minnie Kemp help explain spatial transformation, but daily hospitality is carried by guests, staff, volunteers, food and partners.
+
+Design Biography
+≠
+Narrative Protagonism
+
+Comparison 128 — Guest Chefs Can Contribute Without Proving Daily Capacity
+
+Named culinary participation can support the story while remaining episodic rather than evidence of everyday service quality.
+
+Prestige Association
+≠
+Operating Continuity
+
+Comparison 129 — Commercial Activity Can Be Narratively Coherent With Open Access
+
+Venue hire can support community dining when the connection is explicit, bounded and real.
+
+Commercial Route
+≠
+Mission Dilution
+
+Comparison 130 — Activity Evidence Must Not Become Impact Narrative
+
+Meal, guest, volunteer and recovered-food counts establish activity. They cannot independently prove dignity, wellbeing, belonging or durable change.
+
+Published Activity
+≠
+Verified Impact
+
+Comparison 131 — Testimony Can Carry One Voice Without Carrying the Population
+
+A selected account may evidence a reported experience when authorship and consent are protected; it cannot represent every guest.
+
+Individual Testimony
+≠
+Population Outcome
+
+Comparison 132 — Guest Privacy Can Strengthen Narrative Integrity
+
+A mission story can remain legible through process, roles, place and bounded testimony without requiring identifiable vulnerability.
+
+Guest Privacy
+≠
+Narrative Absence
+
+Comparison 133 — Multiple Stakeholder Stories Do Not Equal Multiple Guest Intents
+
+Volunteers, donors, hirers, chefs and partners contribute to one ecosystem but should not automatically enlarge guest-intent taxonomy.
+
+Stakeholder Story
+≠
+Guest Intent
+
+Comparison 134 — Free Hospitality Must Not Be Narrated as Lesser Hospitality
+
+No price does not reduce culinary, environmental, service or narrative responsibility.
+
+Free Meal
+≠
+Low-Value Hospitality
+
+Comparison 135 — A Coherent Social Story Can Remain Evidentially Incomplete
+
+The model can be intelligible across all five KHDS dimensions while guest experience, causal outcome and transferability remain unverified.
+
+Narrative Coherence
+≠
+Causal Proof
+
+Updated Story Thesis — Post Restaurant #18
+
+The strongest thesis remains:
+
+Story is an organising system, not a biography section.
+
+Refettorio Felix adds:
+
+a social mission is most credible
+
+when:
+
+the hospitality model performs it
+
+and:
+
+the evidence system limits it.
+
+The narrative sequence is:
+
+Local Continuity
+↓
+Model Transformation
+↓
+Food Recovery
+↓
+Hosted Meal
+↓
+Shared Hospitality
+↓
+Optional Care
+↓
+Bounded Activity and Experience Evidence
+
+The ethical boundary is:
+
+Recovering Food Value
+≠
+Recovering Human Worth
+
+The outcome boundary is:
+
+Mission Through Hospitality Model
+≠
+Verified Mission Outcome
+
+Post–Refettorio Felix Story Architecture Additions
+
+Hospitality Without Transaction Narrative
+
+Guesthood and meaning are organised around hosting rather than purchase.
+
+Status:
+
+architecture direction
+
+not:
+
+a new pattern.
+
+Mission Through Operating Model
+
+Purpose is carried by repeated hospitality mechanisms.
+
+Status:
+
+architecture direction
+
+not:
+
+a new pattern.
+
+Value-Recovery Boundary
+
+Resource recovery language is prevented from objectifying people.
+
+Status:
+
+architecture direction
+
+not:
+
+a new pattern.
+
+Dignity-Recognition Narrative
+
+The institution supports respect without claiming authorship of human worth.
+
+Status:
+
+architecture direction
+
+not:
+
+a new pattern.
+
+Meal-and-Care Dual Integrity
+
+Lunch and support remain connected but independently meaningful.
+
+Status:
+
+architecture direction
+
+not:
+
+a new pattern.
+
+Local Continuity / Model Transformation
+
+Place history and material adaptation are narrated together.
+
+Status:
+
+architecture direction
+
+not:
+
+a new pattern.
+
+Supporting Prestige
+
+Designers and chefs explain contribution without displacing daily protagonists.
+
+Status:
+
+architecture direction
+
+not:
+
+a new pattern.
+
+Cross-Support Narrative
+
+Commercial and contributory routes are connected transparently to open access.
+
+Status:
+
+architecture direction
+
+not:
+
+a new pattern.
+
+Activity / Experience / Outcome Ladder
+
+Narrative claims rise only with appropriate evidence.
+
+Status:
+
+architecture direction
+
+not:
+
+a new pattern.
+
+Privacy-Compatible Story
+
+System meaning remains legible without compulsory guest exposure.
+
+Status:
+
+architecture direction
+
+not:
+
+a new pattern.
+
+Stakeholder Ecosystem / Guest-Intent Separation
+
+Contributor stories remain distinct from guest interface categories.
+
+Status:
+
+architecture direction
+
+not:
+
+a new pattern.
+
+Non-Transactional Value Narrative
+
+Absence of price is separated from absence of value.
+
+Status:
+
+architecture direction
+
+not:
+
+a new pattern.
+
+Consent-Compatible Testimony
+
+Individual voice retains authorship, context and bounded scope.
+
+Status:
+
+architecture direction
+
+not:
+
+a new pattern.
+
+Care Infrastructure Story
+
+Food, place, service and support form one system without medicalising every guest.
+
+Status:
+
+architecture direction
+
+not:
+
+a new pattern.
+
+Institutional Humility
+
+The story explicitly names what published evidence cannot prove.
+
+Status:
+
+architecture direction
+
+not:
+
+a new pattern.
+
+Story Architecture — Post Restaurant #18 Consolidation
+
+The consolidated narrative carrier model now includes:
+
+organising logic
+
+hospitality model
+
+place
+
+heritage
+
+adaptation
+
+biography
+
+product
+
+craft
+
+ritual
+
+service role
+
+relationship
+
+worldview
+
+technology
+
+corrective premise
+
+local continuity
+
+social mission
+
+value-recovery boundary
+
+care infrastructure
+
+cross-support
+
+activity / experience / outcome ladder
+
+privacy-compatible testimony
+
+institutional humility
+
+No case requires:
+
+every carrier.
+
+Each story requires:
+
+the carriers that materially explain
+
+what the hospitality system is and why it operates that way.
+
+Current Story Pattern Pressure — Post Restaurant #18
+
+Story Through Hospitality Model
+
+Current state:
+
+Candidate / High
+
+Restaurant #18 pressure:
+
+Very strong reinforcement
+
+Boundary:
+
+The mission is materially enacted through food, service, place, roles and care.
+
+Decision:
+
+no confidence or maturity change.
+
+Narrative Coherence Through Organising Logic
+
+Current state:
+
+Candidate / High
+
+Restaurant #18 pressure:
+
+Very strong reinforcement
+
+Boundary:
+
+Food recovery, welcome, support and cross-support share an organising logic.
+
+Decision:
+
+no confidence or maturity change.
+
+Hospitality System Proof
+
+Current state:
+
+Candidate / High
+
+Restaurant #18 pressure:
+
+Very strong reinforcement
+
+Boundary:
+
+Narrative credibility depends on visible mechanism and bounded claims.
+
+Decision:
+
+no confidence or maturity change.
+
+Biography When It Explains the Experience
+
+Current state:
+
+Candidate / High
+
+Restaurant #18 pressure:
+
+Boundary reinforcement
+
+Boundary:
+
+Designer and chef biography matters only where it explains material contribution.
+
+Decision:
+
+no confidence or maturity change.
+
+Narrative Language Within Clear Interface
+
+Current state:
+
+Candidate / High
+
+Restaurant #18 pressure:
+
+Strong reinforcement
+
+Boundary:
+
+Purpose language must coexist with direct access and participation rules.
+
+Decision:
+
+no confidence or maturity change.
+
+Atmosphere Through Worldview
+
+Current state:
+
+Candidate / High
+
+Restaurant #18 pressure:
+
+Strong reinforcement
+
+Boundary:
+
+The worldview is expressed through the hospitality system, not mission copy alone.
+
+Decision:
+
+no confidence or maturity change.
+
+Adaptation as Narrative
+
+Current state:
+
+Candidate / Medium
+
+Restaurant #18 pressure:
+
+Very strong reinforcement
+
+Boundary:
+
+2017 transformation and 2021 Green Rooms show adaptation within local continuity.
+
+Decision:
+
+no confidence or maturity change.
+
+Story Through Place
+
+Current state:
+
+Candidate / High
+
+Restaurant #18 pressure:
+
+Very strong reinforcement
+
+Boundary:
+
+St Cuthbert's history and spatial transformation materially explain the current model.
+
+Decision:
+
+no confidence or maturity change.
+
+Heritage Builds Confidence
+
+Current state:
+
+Candidate / Medium-High
+
+Restaurant #18 pressure:
+
+Strong support
+
+Boundary:
+
+Long local service can support trust without proving current quality.
+
+Decision:
+
+no confidence or maturity change.
+
+Show the System Behind the Plate
+
+Current state:
+
+Candidate / High
+
+Restaurant #18 pressure:
+
+Very strong reinforcement
+
+Boundary:
+
+Surplus sourcing and culinary transformation are central to story credibility.
+
+Decision:
+
+no confidence or maturity change.
+
+Story Before Features
+
+Current state:
+
+Emerging
+
+Restaurant #18 pressure:
+
+Strong support with boundary
+
+Boundary:
+
+The mission can orient the site, but role-specific utility must follow immediately.
+
+Decision:
+
+no confidence or maturity change.
+
+Emotion Before Interface
+
+Current state:
+
+Emerging
+
+Restaurant #18 pressure:
+
+Contradiction pressure
+
+Boundary:
+
+Emotion must not delay access clarity or manufacture pity.
+
+Decision:
+
+no confidence or maturity change.
+
+Promise Before Proof
+
+Current state:
+
+Emerging
+
+Restaurant #18 pressure:
+
+Very strong contradiction pressure
+
+Boundary:
+
+Social promise cannot outrun activity, experience and outcome evidence.
+
+Decision:
+
+no confidence or maturity change.
+
+The Guest as Participant
+
+Current state:
+
+Emerging
+
+Restaurant #18 pressure:
+
+Strong ethical pressure
+
+Boundary:
+
+The guest co-constitutes hospitality without becoming an evidence object or advocate.
+
+Decision:
+
+no confidence or maturity change.
+
+Multi-Intent Hospitality
+
+Current state:
+
+Candidate / Medium
+
+Restaurant #18 pressure:
+
+Definition stress
+
+Boundary:
+
+Stakeholder stories do not automatically establish multiple guest intents.
+
+Decision:
+
+no confidence or maturity change.
+
+Post–Refettorio Felix Story Corrections
+
+Correction 98
+
+A non-transactional model can carry a complete hospitality story.
+
+Correction 99
+
+Mission is strongest when enacted through the operating model.
+
+Correction 100
+
+Food recovery language must not be transferred to people.
+
+Correction 101
+
+Human dignity is recognised, not produced.
+
+Correction 102
+
+Care beyond the meal must not make lunch a pretext.
+
+Correction 103
+
+Local continuity can coexist with material transformation.
+
+Correction 104
+
+Named designers can explain change without becoming protagonists.
+
+Correction 105
+
+Guest-chef association does not prove daily capacity.
+
+Correction 106
+
+Commercial cross-support can be coherent without being automatically proven.
+
+Correction 107
+
+Activity evidence must not become impact narrative.
+
+Correction 108
+
+Individual testimony must not become population evidence.
+
+Correction 109
+
+Guest privacy can strengthen narrative integrity.
+
+Correction 110
+
+Stakeholder stories do not automatically expand guest intent.
+
+Correction 111
+
+Free hospitality is not lesser hospitality.
+
+Correction 112
+
+Narrative coherence does not equal causal proof.
+
+Correction 113
+
+Good intention does not equal verified outcome.
+
+Correction 114
+
+People receiving support must retain authorship and non-instrumental worth.
+
+Strongest Story Tensions After Restaurant #18
+
+Tension 23 — Mission Force vs Evidence Restraint
+
+A compelling purpose can make overclaiming more persuasive and more dangerous.
+
+Tension 24 — Food Recovery vs Human Objectification
+
+One recovery metaphor is valid for resources and degrading when transferred to people.
+
+Tension 25 — Dignity Support vs Institutional Saviourhood
+
+Hospitality may enact respect without claiming to bestow human worth.
+
+Tension 26 — Meal Completeness vs Care Continuation
+
+Lunch must remain intrinsically meaningful while support extends the relationship.
+
+Tension 27 — Local Continuity vs Model Transformation
+
+The story must preserve long service history without hiding material change.
+
+Tension 28 — Prestige Contribution vs Daily Protagonism
+
+Designers and chefs can attract attention while routine actors carry the system.
+
+Tension 29 — Stakeholder Ecosystem vs Guest-Intent Precision
+
+Many contributors can form one coherent model without becoming guest categories.
+
+Tension 30 — Narrative Coherence vs Outcome Proof
+
+A well-organised story can remain methodologically incomplete.
+
+Story Falsification Programme After Restaurant #18
+
+Audit every mission claim by evidence category.
+
+Separate stated purpose from operating mechanism.
+
+Separate operating mechanism from guest experience.
+
+Separate guest experience from durable outcome.
+
+Separate outcome association from causal proof.
+
+Audit every use of dignity, transformation, inclusion and impact.
+
+Remove any language implying the institution creates human worth.
+
+Audit food-recovery metaphors for transfer to people.
+
+Test the story without pity, rescue or salvage framing.
+
+Verify that lunch remains meaningful without support-service outcomes.
+
+Verify that support remains optional and role-clear.
+
+Map the St Cuthbert's timeline before 2017.
+
+Verify changes introduced through the 2017 transformation.
+
+Verify the 2021 Green Rooms addition.
+
+Separate continuity from institutional sameness.
+
+Audit designer biographies for material explanatory value.
+
+Audit guest-chef stories for episodic versus daily scope.
+
+Identify daily operating protagonists.
+
+Protect staff, volunteer, partner and guest authorship.
+
+Test whether prestige can be removed without collapsing the model story.
+
+Document the venue-hire cross-support claim.
+
+Seek financial or governance evidence before claiming net subsidy.
+
+Test whether commercial events create narrative or capacity conflict.
+
+Classify meal, guest, food and volunteer counts as activity.
+
+Document periods, methods, denominators and uncertainty.
+
+Do not turn activity counts into wellbeing or dignity outcomes.
+
+Audit every testimony for consent, authorship and context.
+
+Do not generalise selected testimony.
+
+Seek negative, neutral and ambivalent accounts.
+
+Test whether guests can decline storytelling without affecting service.
+
+Build narrative proof without identifiable vulnerability.
+
+Separate stakeholder roles from guest intents.
+
+Test whether volunteers and donors are framed as supporters rather than saviours.
+
+Test whether guests are framed as participants without compulsory reciprocity.
+
+Compare with a community kitchen without prestige contributors.
+
+Compare with independently evaluated social hospitality.
+
+Compare with food recovery without hosted dining.
+
+Compare with free dining that uses referrals.
+
+Test transfer where partner and volunteer density is lower.
+
+Do not promote a pattern from story coherence alone.
+
+Story Deduplication Decisions — Restaurant #18
+
+Hospitality Without Transaction Narrative refines Story Through Hospitality Model.
+
+Mission Through Operating Model reinforces Story Through Hospitality Model and Hospitality System Proof.
+
+Value-Recovery Boundary is an ethical narrative rule, not a new pattern.
+
+Dignity-Recognition Narrative is an evidence boundary.
+
+Meal-and-Care Dual Integrity refines the hospitality-model definition.
+
+Local Continuity / Model Transformation refines Story Through Place, Heritage and Adaptation.
+
+Supporting Prestige refines Biography When It Explains the Experience.
+
+Activity / Experience / Outcome Ladder refines Promise Before Proof.
+
+Privacy-Compatible Story refines proof and authorship boundaries.
+
+Institutional Humility is a governance direction, not a maturity object.
+
+Restaurant #18 Story Decision Ledger
+
+Add Refettorio Felix as the eighteenth independent story case.
+
+Classify it as Hospitality Without Transaction narrative evidence.
+
+Treat the operating model as the primary mission carrier.
+
+Preserve food recovery / human worth separation.
+
+Reject human-salvage metaphors.
+
+Treat dignity as recognised rather than produced.
+
+Preserve the meal as intrinsically meaningful.
+
+Treat care as optional continuation rather than meal justification.
+
+Record local continuity across transformation.
+
+Treat 2017 and 2021 changes as adaptation evidence.
+
+Use designer biography only where it explains experience.
+
+Use guest-chef biography only within episodic scope.
+
+Do not treat prestige as daily capacity proof.
+
+Treat venue hire as cross-support architecture.
+
+Do not infer net subsidy or absence of mission conflict.
+
+Separate activity, experience and outcome.
+
+Treat selected testimony as individual evidence only.
+
+Preserve guest privacy and authorship.
+
+Separate stakeholder ecosystem from guest-intent taxonomy.
+
+Preserve free hospitality as full-value hospitality.
+
+Reinforce Story Through Hospitality Model without changing High confidence.
+
+Reinforce Narrative Coherence without changing High confidence.
+
+Reinforce Adaptation as Narrative without changing confidence.
+
+Reinforce Story Through Place without changing confidence.
+
+Reinforce Show the System Behind the Plate without changing confidence.
+
+Apply strong contradiction pressure to Promise Before Proof.
+
+Retain The Guest as Participant at Emerging.
+
+Make no promotion, demotion, merge or rename.
+
+Make no confidence or maturity change.
+
+Mark all five Restaurant #18 comparisons complete and hand off to canonical governance.
+
+Story Comparison Conclusion — Post Refettorio Felix, London
+
+After:
+
+18
+
+independent restaurants,
+
+the strongest story finding remains:
+
+Story is an organising system, not a biography section.
+
+Dans le Noir? showed:
+
+story can be carried by an enforced sensory condition and reassigned expertise.
+
+DAWN showed:
+
+a machine may carry the story while the remote human remains protagonist.
+
+Refettorio Felix shows:
+
+a social mission may be carried by non-transactional hospitality while the people served remain outside the institution's claim of value creation.
+
+The strongest combined rule is:
+
+Operating Model
++
+Role Legibility
++
+Place and Time
++
+Bounded Evidence
+↓
+Narrative Credibility
+
+The strongest ethical correction is:
+
+Recovering Food Value
+≠
+Recovering Human Worth
+
+The strongest dignity correction is:
+
+Hospitality Can Support Dignity
+but
+Hospitality Does Not Produce Human Worth
+
+The strongest outcome correction is:
+
+Published Activity
+≠
+Verified Social Outcome
+
+Restaurant #18 produces:
+
+no governance change in this file.
+
+It completes:
+
+all five comparison dimensions
+
+and opens:
+
+Post–Refettorio Felix canonical governance reconciliation.
+
+Evidence wins.
+
+Validation — Post Restaurant #18
+
+Comparison File:
+
+khds/research/comparison/story.md
+
+Status:
+
+Post–Refettorio Felix, London Complete
+
+Independent Restaurants Compared:
+
+18
+
+Latest Case:
+
+Refettorio Felix, London
+
+Primary Confidence Watch:
+
+Story Through Hospitality Model — Non-Transactional Hospitality
+
+Secondary Confidence Watch:
+
+Adaptation as Narrative — Local Continuity / Model Transformation
+
+Primary Existing Candidate Support:
+
+Narrative Coherence Through Organising Logic
+
+Primary Emerging Review:
+
+Promise Before Proof — Activity / Outcome Boundary
+
+Strongest New Narrative Mechanism:
+
+Mission Through Operating Model
+
+Strongest New Ethical Boundary:
+
+Recovering Food Value
+
+≠
+
+Recovering Human Worth
+
+Strongest New Dignity Boundary:
+
+Dignity Support
+
+≠
+
+Dignity Production
+
+Strongest New Outcome Boundary:
+
+Published Activity
+
+≠
+
+Verified Social Outcome
+
+Strongest New Continuity Direction:
+
+Local Continuity / Model Transformation
+
+Formal Promotions:
+
+0
+
+Formal Demotions:
+
+0
+
+Confidence Changes:
+
+0
+
+Governance Changes:
+
+0
+
+Canonical Candidate Count:
+
+26
+
+Canonical Emerging Count:
+
+8
+
+Canonical Partially Supported Count:
+
+1
+
+Canonical Validated Count:
+
+0
+
+Research-Derived KHDS Principles:
+
+0
+
+Post–Refettorio Felix Comparison Set:
+
+5 / 5 Complete
+
+Next Stage:
+
+Post–Refettorio Felix Canonical Governance Reconciliation
+
+Next File:
+
+khds/research/validation/candidate-patterns.md
+

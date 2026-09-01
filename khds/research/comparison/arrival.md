@@ -2,11 +2,11 @@ KHDS Cross-Restaurant Comparison — Arrival
 
 Status
 
-Post–Avatar Robot Café DAWN, Tokyo Comparison
+Post–Refettorio Felix, London Comparison
 
 Restaurants Compared:
 
-17
+18
 
 Track:
 
@@ -14,7 +14,7 @@ Track A — Independent Hospitality Research
 
 Latest Added Case:
 
-Avatar Robot Café DAWN — Tokyo
+Refettorio Felix — London
 
 Comparison Status:
 
@@ -78,7 +78,7 @@ all:
 
 five:
 
-post-Restaurant #17:
+post-Restaurant #18:
 
 comparison files
 
@@ -185,6 +185,8 @@ Restaurant Pearl Morissette
 Dans le Noir? London
 
 Avatar Robot Café DAWN, Tokyo
+
+Refettorio Felix, London
 
 Current Arrival Thesis
 
@@ -10717,6 +10719,1278 @@ Canonical Candidate Count:
 Canonical Emerging Count:
 
 9
+
+Canonical Partially Supported Count:
+
+1
+
+Canonical Validated Count:
+
+0
+
+Research-Derived KHDS Principles:
+
+0
+
+Next Comparison File:
+
+khds/research/comparison/atmosphere.md
+
+Post–Refettorio Felix, London Reconciliation
+
+Restaurant added:
+
+Restaurant #18
+
+Refettorio Felix
+
+London.
+
+Research role:
+
+Hospitality Without Transaction
+
+Category-Boundary Case.
+
+Comparison status:
+
+Arrival reconciliation complete.
+
+Canonical governance decision:
+
+pending completion of all five Restaurant #18 comparison files.
+
+Restaurant #18 Arrival Evidence Input
+
+Restaurant files reconciled:
+
+khds/research/restaurants/refettorio-felix-london/README.md
+
+khds/research/restaurants/refettorio-felix-london/arrival.md
+
+khds/research/restaurants/refettorio-felix-london/atmosphere.md
+
+khds/research/restaurants/refettorio-felix-london/photography.md
+
+khds/research/restaurants/refettorio-felix-london/reservation.md
+
+khds/research/restaurants/refettorio-felix-london/story.md
+
+khds/research/restaurants/refettorio-felix-london/knowledge-extraction.md
+
+Published arrival facts:
+
+weekday three-course lunch
+
+12–2 published lunch window
+
+first-come access
+
+no referral
+
+no advance call
+
+daily changing surplus-led menu
+
+dietary needs communicated to the team
+
+staff-and-volunteer service
+
+optional support routes with separate conditions
+
+These establish:
+
+published procedure.
+
+They do not independently establish:
+
+guaranteed admission
+
+performed consistency
+
+dietary safety
+
+felt welcome
+
+experienced dignity
+
+accessibility outcome
+
+representative social outcome
+
+Current Canonical Entry State — Before Restaurant #18 Decision
+
+Completed independent restaurants:
+
+17
+
+Candidate patterns:
+
+26
+
+Emerging patterns:
+
+8
+
+Partially Supported patterns:
+
+1
+
+Validated patterns:
+
+0
+
+Research-derived KHDS Principles:
+
+0
+
+Restaurant #18 is:
+
+comparison evidence only.
+
+No count changes are authorised here.
+
+Comparison 81 — Guesthood Can Begin Without Transaction
+
+Refettorio Felix demonstrates that a person can enter a hospitality relationship without purchase, deposit, reservation or commercial qualification.
+
+
+Guest
+
+≠
+
+Paying Customer
+
+
+Comparison 82 — No Reservation Can Retain Arrival Architecture
+
+Lunch requires no booking, referral or call-ahead, yet guests still need time, place, first-come allocation, dietary and capacity clarity.
+
+
+No Reservation
+
+≠
+
+No Participation Structure
+
+
+Comparison 83 — Open Door Can Retain a Closed Capacity Boundary
+
+Open-door describes access posture, not unlimited meals, seats, people or guaranteed admission.
+
+
+Open Door
+
+≠
+
+Guaranteed Entry
+
+
+Comparison 84 — Minimal Guest Interface Can Depend on Complex Operations
+
+One simple lunch route depends on surplus food, menu adaptation, staff, volunteers, partners, donors and commercial cross-support.
+
+
+Simple Guest Route
+
+≠
+
+Simple Organisation
+
+
+Comparison 85 — Human Assistance Can Be the Default Interface
+
+Staff and volunteers perform intended welcome, interpretation, capacity allocation and support handoff.
+
+
+Human Assistance
+
+≠
+
+Exception Handling
+
+
+Comparison 86 — First-Come Access Can Transfer Risk
+
+Removing forms reduces administrative friction while transferring travel, waiting and turn-away risk to the guest.
+
+
+Low Administrative Friction
+
+≠
+
+Low Participation Burden
+
+
+Comparison 87 — Felt Eligibility Can Remain After Formal Eligibility Is Removed
+
+No special requirements and no referral reduce gatekeeping but do not prove that every potential guest understands themselves as welcome.
+
+
+Formal Openness
+
+≠
+
+Felt Eligibility
+
+
+Comparison 88 — Stakeholder Complexity Should Not Inflate Guest Intent
+
+Guests, support users, volunteers, donors, hirers, chefs, partners and staff are roles, not automatically multiple intents in one guest journey.
+
+
+Stakeholder Route
+
+≠
+
+Guest Intent
+
+
+Comparison 89 — Arrival Can Continue From Meal Into Care
+
+Lunch may be complete hospitality and also a trusted threshold to optional advice or care.
+
+
+Care Beyond the Meal
+
+≠
+
+Meal as Pretext
+
+
+Comparison 90 — Privacy Can Be an Arrival Requirement
+
+Access should not require public hardship narrative, photography, testimony, advocacy, donation or labour.
+
+
+Guest Visibility
+
+≠
+
+Access Legitimacy
+
+
+Comparison 91 — Stable Arrival Rules Can Hold a Variable Meal
+
+Daily surplus changes while weekday timing, three-course form, first-come access and human service remain relatively stable.
+
+
+Variable Product
+
+≠
+
+Variable Participation Rule
+
+
+Comparison 92 — One Institution Can Require Opposite Interface Depths
+
+Lunch guests benefit from minimal routing while volunteers, support users, donors and hirers need deeper consequence information.
+
+
+One Institution
+
+≠
+
+One Arrival Depth
+
+
+Comparison 93 — Capacity Is a Set of Objects
+
+Arrival may depend separately on meals, seats, staff, volunteers, partners, appointments and rooms.
+
+
+Available Place
+
+≠
+
+Available Route
+
+
+Comparison 94 — Free Access Can Require Stronger Trust Preparation
+
+Without a familiar commercial contract, guests may need stronger confidence about eligibility, privacy, quality and institutional intent.
+
+
+No Price
+
+≠
+
+No Trust Requirement
+
+
+Comparison 95 — Arrival Clarity Can Support Dignity Without Proving It
+
+Direct information can remove avoidable uncertainty and degrading disclosure, but cannot establish every guest's lived experience.
+
+
+Dignity-Supporting Arrival
+
+≠
+
+Experienced Dignity
+
+
+Updated Arrival Thesis — Post Restaurant #18
+
+The strongest thesis remains:
+
+Arrival is uncertainty-resolution architecture, not a universal content sequence.
+
+Refettorio Felix adds:
+
+arrival can resolve uncertainty
+
+without:
+
+a commercial transaction
+
+and:
+
+without:
+
+a reservation object.
+
+The new sequence is:
+
+
+Access Recognition
+
+↓
+
+Felt Eligibility
+
+↓
+
+Time and Place Confidence
+
+↓
+
+Capacity Acceptance
+
+↓
+
+Human Welcome
+
+↓
+
+Meal Participation
+
+↓
+
+Optional Care Handoff
+
+
+The strongest correction is:
+
+
+No Reservation
+
+≠
+
+No Arrival Architecture
+
+
+The ethical boundary is:
+
+
+Access Legitimacy
+
+does not require
+
+Public Vulnerability Proof
+
+
+Post–Refettorio Felix Arrival Architecture Additions
+
+Non-Transactional Guest Recognition
+
+Guesthood is established through hosted participation rather than purchase.
+
+Status:
+
+architecture variable
+
+not:
+
+a new pattern.
+
+Open-Door Access Posture
+
+Low-threshold entry is communicated without promising unlimited capacity.
+
+Status:
+
+architecture variable
+
+not:
+
+a new pattern.
+
+First-Come Capacity Allocation
+
+Arrival time participates in allocation and may transfer burden.
+
+Status:
+
+architecture variable
+
+not:
+
+a new pattern.
+
+Felt-Eligibility Reassurance
+
+The system helps a person understand whether the invitation appropriately includes them.
+
+Status:
+
+architecture variable
+
+not:
+
+a new pattern.
+
+Human-Routed Arrival
+
+People perform orientation, interpretation and route allocation.
+
+Status:
+
+architecture variable
+
+not:
+
+a new pattern.
+
+Role-Specific Arrival Depth
+
+Information and commitment scale with role and consequence.
+
+Status:
+
+architecture variable
+
+not:
+
+a new pattern.
+
+Stakeholder / Guest Separation
+
+Organisational roles remain distinct from guest-intent taxonomy.
+
+Status:
+
+architecture variable
+
+not:
+
+a new pattern.
+
+Privacy-Preserving Entry
+
+Access does not require vulnerability display or promotional participation.
+
+Status:
+
+architecture variable
+
+not:
+
+a new pattern.
+
+Meal-to-Care Handoff
+
+Optional support may follow hospitality without instrumentalising lunch.
+
+Status:
+
+architecture variable
+
+not:
+
+a new pattern.
+
+Distributed Capacity Objects
+
+Meals, seats, people, appointments and rooms are separately bounded.
+
+Status:
+
+architecture variable
+
+not:
+
+a new pattern.
+
+Stable Rule / Variable Product
+
+Stable arrival conditions contain menu variability.
+
+Status:
+
+architecture variable
+
+not:
+
+a new pattern.
+
+Cross-Supported Access
+
+Commercial, volunteer and donor routes sustain a non-commercial guest route.
+
+Status:
+
+architecture variable
+
+not:
+
+a new pattern.
+
+Arrival Architecture — Post Restaurant #18 Consolidation
+
+The consolidated arrival set now includes:
+
+uncertainty recognition
+
+consequence clarity
+
+commitment calibration
+
+route selection
+
+capacity disclosure
+
+access recognition
+
+felt-eligibility reassurance
+
+time-and-place confidence
+
+sensory preparation
+
+belongings surrender
+
+human handoff
+
+trust transfer
+
+pilot recognition
+
+relational arrival
+
+non-transactional guest recognition
+
+first-come allocation
+
+human-routed arrival
+
+role-specific depth
+
+privacy-preserving entry
+
+optional care handoff
+
+distributed capacity
+
+stable-rule / variable-product preparation
+
+No case requires:
+
+every variable.
+
+Each requires:
+
+the smallest architecture
+
+that resolves:
+
+its actual arrival uncertainty.
+
+Current Arrival Pattern Pressure — Post Restaurant #18
+
+Walk-In as First-Class Participation
+
+Current state:
+
+Candidate / High
+
+Restaurant #18 pressure:
+
+Very strong reinforcement
+
+Boundary:
+
+Explicit first-come lunch with no referral or call-ahead.
+
+Decision:
+
+no confidence or maturity change.
+
+Layered Arrival
+
+Current state:
+
+Candidate / Medium
+
+Restaurant #18 pressure:
+
+Boundary pressure
+
+Boundary:
+
+Layers exist across access, meal and optional support without requiring a dense digital interface.
+
+Decision:
+
+no confidence or maturity change.
+
+Participation Throughout the Journey
+
+Current state:
+
+Candidate / Medium
+
+Restaurant #18 pressure:
+
+Strong reinforcement
+
+Boundary:
+
+Participation extends through welcome, meal, co-presence and optional support.
+
+Decision:
+
+no confidence or maturity change.
+
+Manageable Commitment
+
+Current state:
+
+Candidate / Medium
+
+Restaurant #18 pressure:
+
+Strong reinforcement
+
+Boundary:
+
+Guest procedure is light while other roles deepen by consequence.
+
+Decision:
+
+no confidence or maturity change.
+
+Participation Rule Consistency
+
+Current state:
+
+Candidate / Medium
+
+Restaurant #18 pressure:
+
+Support pending performance
+
+Boundary:
+
+Published rules are coherent; live consistency is unverified.
+
+Decision:
+
+no confidence or maturity change.
+
+Hospitality System Proof
+
+Current state:
+
+Candidate / High
+
+Restaurant #18 pressure:
+
+Strong reinforcement
+
+Boundary:
+
+The system must be legible without exposing guests as proof.
+
+Decision:
+
+no confidence or maturity change.
+
+Capacity Proof
+
+Current state:
+
+Candidate / Medium-High
+
+Restaurant #18 pressure:
+
+Strong pressure
+
+Boundary:
+
+First-come access makes meal, seat, people and turn-away evidence material.
+
+Decision:
+
+no confidence or maturity change.
+
+Human Assistance Where Structured Self-Service Is Insufficient
+
+Current state:
+
+Candidate / Medium
+
+Restaurant #18 pressure:
+
+Very strong reinforcement
+
+Boundary:
+
+Human routing is primary infrastructure.
+
+Decision:
+
+no confidence or maturity change.
+
+Stable Participation / Variable Product
+
+Current state:
+
+Candidate / Medium
+
+Restaurant #18 pressure:
+
+Very strong reinforcement
+
+Boundary:
+
+Daily menu variability sits within stable lunch rules.
+
+Decision:
+
+no confidence or maturity change.
+
+Escalating Participation Complexity
+
+Current state:
+
+Emerging
+
+Restaurant #18 pressure:
+
+Definition pressure
+
+Boundary:
+
+Complexity rises across stakeholder roles more than within one guest route.
+
+Decision:
+
+no confidence or maturity change.
+
+The Guest as Participant
+
+Current state:
+
+Emerging
+
+Restaurant #18 pressure:
+
+Strong but broad support
+
+Boundary:
+
+Guests participate relationally without mandatory work or advocacy.
+
+Decision:
+
+no confidence or maturity change.
+
+Multi-Intent Hospitality
+
+Current state:
+
+Candidate / Medium
+
+Restaurant #18 pressure:
+
+Definition stress
+
+Boundary:
+
+Stakeholder breadth must not be mistaken for guest-intent breadth.
+
+Decision:
+
+no confidence or maturity change.
+
+Commitment Without Pressure
+
+Current state:
+
+Emerging
+
+Restaurant #18 pressure:
+
+Strong pressure
+
+Boundary:
+
+No payment or booking still carries time, travel, disclosure and queue risk.
+
+Decision:
+
+no confidence or maturity change.
+
+Atmosphere as Product
+
+Current state:
+
+Emerging
+
+Restaurant #18 pressure:
+
+Arrival dependency
+
+Boundary:
+
+The atmospheric promise begins at the threshold; lived outcome remains unverified.
+
+Decision:
+
+no confidence or maturity change.
+
+Post–Refettorio Felix Arrival Corrections
+
+Correction 66
+
+Arrival does not require a transaction.
+
+Correction 67
+
+No reservation does not remove participation rules.
+
+Correction 68
+
+Open-door language must not imply guaranteed admission.
+
+Correction 69
+
+First-come can reduce gatekeeping while increasing arrival risk.
+
+Correction 70
+
+Formal non-qualification does not automatically remove felt-eligibility friction.
+
+Correction 71
+
+Human assistance can be intended infrastructure rather than fallback.
+
+Correction 72
+
+Guest simplicity may depend on backstage complexity.
+
+Correction 73
+
+Multiple stakeholder routes do not automatically validate Multi-Intent Hospitality.
+
+Correction 74
+
+A free meal still requires confidence and consequence clarity.
+
+Correction 75
+
+Privacy can strengthen rather than weaken arrival integrity.
+
+Correction 76
+
+Variable menus require stable arrival promises.
+
+Correction 77
+
+Arrival may continue into care without making lunch a pretext.
+
+Correction 78
+
+Capacity must be decomposed into meals, seats, people, appointments and rooms.
+
+Correction 79
+
+Published openness is mechanism evidence, not performed-access evidence.
+
+Correction 80
+
+Dietary accommodation must not become a safety guarantee.
+
+Correction 81
+
+Designed welcome supports but cannot prove experienced dignity.
+
+Correction 82
+
+The principal guest should not be required to become donor, volunteer, subject or advocate.
+
+Strongest Arrival Tensions After Restaurant #18
+
+Tension 23 — Open Access vs Finite Capacity
+
+The system seeks low-threshold entry while meals, seats and attention remain bounded.
+
+Tension 24 — Administrative Simplicity vs Arrival Burden
+
+Removing advance process may transfer waiting and uncertainty to the guest.
+
+Tension 25 — Formal Eligibility vs Felt Eligibility
+
+Published rules can be open while a person remains unsure whether the service is for them.
+
+Tension 26 — Human Flexibility vs Operational Consistency
+
+Human routing can respond sensitively while making performance harder to standardise and prove.
+
+Tension 27 — Guest Simplicity vs Organisational Complexity
+
+The lowest-friction route depends on dense coordination.
+
+Tension 28 — Shared Hospitality vs Privacy
+
+A communal room may enable relationship while increasing exposure or reducing control.
+
+Tension 29 — Meal Completeness vs Care Continuation
+
+Lunch must remain meaningful even when it opens an optional support route.
+
+Tension 30 — Stakeholder Breadth vs Guest-Intent Precision
+
+Many organisational routes can over-expand a pattern definition.
+
+Post–Refettorio Felix Falsification Programme
+
+Observe arrival from street to first human contact.
+
+Record how first-time guests identify the entrance and lunch route.
+
+Test whether no-referral language resolves felt eligibility.
+
+Measure turn-away frequency and reasons during published hours.
+
+Document how finite capacity is explained online and at the door.
+
+Compare first-come burden across mobility, health, transport and schedule conditions.
+
+Test whether a queue exists and how it is governed.
+
+Identify whether first-come allocation advantages repeat or nearby guests.
+
+Verify whether the published lunch window matches live admission.
+
+Audit physical, sensory, cognitive and digital threshold accessibility.
+
+Test whether dietary needs can be communicated privately.
+
+Verify attempted accommodation versus safety assurance.
+
+Observe how staff and volunteers divide arrival responsibility.
+
+Measure how often people supply information missing online.
+
+Test whether human flexibility produces inconsistent decisions.
+
+Map every handoff between lunch and optional support.
+
+Verify that support participation remains optional.
+
+Test whether lunch is available without hardship disclosure.
+
+Audit whether photography or testimony is ever implied at arrival.
+
+Test whether donation or volunteering is clearly non-obligatory.
+
+Compare lunch-guest and volunteer route depth.
+
+Compare lunch-guest and venue-hire route depth.
+
+Compare lunch-guest and Green Rooms route depth.
+
+Separate stakeholder roles from guest intents.
+
+Verify meal, seat, staff, volunteer and partner capacity independently.
+
+Test resilience when surplus-food volume changes.
+
+Observe whether stable lunch rules survive menu variability.
+
+Compare rules across desktop, mobile and physical signage.
+
+Test arrival under high occupancy and low staffing.
+
+Seek negative and ambivalent guest experience evidence with consent.
+
+Assess whether shared tables change felt control at arrival.
+
+Test whether design cues work without institutional knowledge.
+
+Compare with a referral-based community meal.
+
+Compare with a booking-based free meal service.
+
+Compare with a pay-what-you-can model.
+
+Compare with food recovery without hosted dining.
+
+Test transfer where volunteer density is lower.
+
+Test whether venue hire changes guest access at event times.
+
+Verify the temporal scope of partner schedules.
+
+Do not infer dignity, belonging or outcome from procedure alone.
+
+Post–Refettorio Felix Comparative Decisions
+
+Add Refettorio Felix as the eighteenth independent arrival case.
+
+Classify it as non-transactional hospitality.
+
+Keep guest and paying customer conceptually separate.
+
+Treat no-reservation lunch as structured participation.
+
+Treat open door as access posture, not admission guarantee.
+
+Treat first-come as a capacity allocation mechanism.
+
+Record first-come burden as an arrival variable.
+
+Record felt eligibility as distinct from formal eligibility.
+
+Treat human assistance as intended arrival infrastructure.
+
+Separate guest-route simplicity from organisational simplicity.
+
+Preserve stakeholder role / guest intent separation.
+
+Do not use route breadth alone to raise Multi-Intent confidence.
+
+Treat lunch as a complete hospitality route.
+
+Treat support as an optional continuing route.
+
+Preserve privacy as an arrival requirement.
+
+Do not require vulnerability disclosure for legitimate participation.
+
+Record distributed capacity objects.
+
+Treat stable rules and variable menu as strong pattern pressure.
+
+Treat published procedure as mechanism, not performance, evidence.
+
+Treat dietary accommodation conservatively.
+
+Do not infer experienced dignity from designed welcome.
+
+Reinforce Walk-In as First-Class without changing High confidence.
+
+Add pressure to Capacity Proof without changing confidence.
+
+Add pressure to Human Assistance without changing confidence.
+
+Add pressure to Stable Participation / Variable Product without changing confidence.
+
+Retain Escalating Participation Complexity at Emerging.
+
+Retain The Guest as Participant at Emerging.
+
+Make no promotion, demotion, merge or rename.
+
+Make no confidence or maturity change.
+
+Reserve governance decisions until all five Restaurant #18 comparisons are complete.
+
+Post–Refettorio Felix Arrival Comparison Conclusion
+
+After:
+
+18
+
+independent restaurant cases,
+
+the arrival thesis remains:
+
+Arrival is uncertainty-resolution architecture.
+
+Restaurant #15 expanded arrival into:
+
+destination commitment.
+
+Restaurant #16 expanded arrival into:
+
+sensory consequence, surrender and human-guided orientation.
+
+Restaurant #17 expanded arrival into:
+
+human attribution, pilot recognition and relational arrival.
+
+Restaurant #18 expands arrival into:
+
+non-transactional guesthood, open-door capacity, felt eligibility, human-routed simplicity and privacy-preserving participation.
+
+The strongest new sequence is:
+
+
+Open Access
+
+↓
+
+Felt Eligibility
+
+↓
+
+Finite Capacity
+
+↓
+
+Human Welcome
+
+↓
+
+Shared Hospitality
+
+
+The strongest access correction is:
+
+
+Open Door
+
+≠
+
+Guaranteed Admission
+
+
+The strongest participation correction is:
+
+
+No Reservation
+
+≠
+
+No Participation Structure
+
+
+The strongest taxonomy correction is:
+
+
+Stakeholder Route
+
+≠
+
+Guest Intent
+
+
+The strongest ethical correction is:
+
+
+Guest Privacy
+
+≠
+
+Evidence Absence
+
+
+Formal maturity decisions remain reserved for canonical reconciliation after all five Restaurant #18 comparison files are complete.
+
+Evidence wins.
+
+Validation — Post Restaurant #18
+
+Comparison File:
+
+khds/research/comparison/arrival.md
+
+Status:
+
+Post–Refettorio Felix, London Complete
+
+Independent Restaurants Compared:
+
+18
+
+Latest Case:
+
+Refettorio Felix, London
+
+Primary New Governance Watch:
+
+Capacity Proof
+
+Secondary New Governance Watch:
+
+Human Assistance Where Structured Self-Service Is Insufficient
+
+Strongest New Arrival Variable:
+
+Non-Transactional Guest Recognition
+
+Strongest New Access Variable:
+
+Felt Eligibility
+
+Strongest New Allocation Variable:
+
+First-Come Capacity Burden
+
+Strongest New Interface Mechanism:
+
+Human-Routed Arrival
+
+Strongest New Taxonomy Boundary:
+
+Stakeholder Route
+
+≠
+
+Guest Intent
+
+Strongest New Access Boundary:
+
+Open Door
+
+≠
+
+Guaranteed Admission
+
+Strongest New Participation Boundary:
+
+No Reservation
+
+≠
+
+No Participation Structure
+
+Formal Promotions:
+
+0
+
+Formal Demotions:
+
+0
+
+Confidence Changes:
+
+0
+
+Governance Changes:
+
+0
+
+Canonical Candidate Count:
+
+26
+
+Canonical Emerging Count:
+
+8
 
 Canonical Partially Supported Count:
 

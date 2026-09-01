@@ -2,15 +2,15 @@ KHDS Candidate Pattern Governance
 
 Status
 
-Post–Avatar Robot Café DAWN, Tokyo Canonical Governance Reconciliation
+Post–Refettorio Felix, London Canonical Governance Reconciliation
 
 Restaurant Cycle:
 
-Restaurant #17
+Restaurant #18
 
 Latest Independent Restaurant:
 
-Avatar Robot Café DAWN — Nihonbashi, Tokyo, Japan
+Refettorio Felix — London, United Kingdom
 
 Track:
 
@@ -234,6 +234,8 @@ Dans le Noir? London
 
 Avatar Robot Café DAWN, Tokyo
 
+Refettorio Felix, London
+
 Track B — Kodawa Labs Validation
 
 Current production validation case:
@@ -296,7 +298,7 @@ Current Canonical Governance State
 
 Independent Restaurants
 
-17
+18
 
 Track B Validation Cases
 
@@ -338,21 +340,23 @@ Highest Research-Derived Maturity
 
 Candidate
 
-Current Post–Avatar Robot Café DAWN Governance Changes
+Current Post–Refettorio Felix Governance Changes
 
-Restaurant #17 produces:
+Restaurant #18 produces:
 
 Formal Promotions to Candidate
 
-1
-
-Multi-Intent Hospitality
+0
 
 Confidence Changes
 
-1
+2
 
-Photography Should Demonstrate Difference
+Adaptation as Narrative
+Candidate / Medium
+→ Candidate / Medium-High
+
+Stable Participation / Variable Product
 Candidate / Medium
 → Candidate / Medium-High
 
@@ -379,12 +383,22 @@ Research-Derived Principle Promotions
 Canonical Count Movement
 
 Candidate:
-25 + 1 = 26
+26
 
 Emerging:
-9 - 1 = 8
+8
 
-The complete decision record appears in the Post–Avatar Robot Café DAWN canonical section below.
+The complete decision record appears in the Post–Refettorio Felix canonical section below.
+
+Previous Canonical Cycle — Post–Avatar Robot Café DAWN Governance Changes
+
+Restaurant #17 produced:
+
+one formal Candidate promotion: Multi-Intent Hospitality
+
+one confidence increase: Photography Should Demonstrate Difference, Medium to Medium-High
+
+no demotions, renames, merges, Validated promotions, or Principle promotions
 
 Previous Canonical Cycle — Post–Dans le Noir? London Governance Changes
 
@@ -10122,5 +10136,1465 @@ the visible subject can be obvious while the meaningful human difference remains
 The Candidate layer becomes larger by one and more confident by one.
 
 It is not validated truth.
+
+Evidence wins.
+
+Post–Refettorio Felix, London Canonical Reconciliation
+
+Restaurant #18 was selected as a deliberate:
+
+non-transactional guesthood case
+
+open-door capacity case
+
+care-infrastructure atmosphere case
+
+dignity-preserving proof case
+
+social-mission outcome-boundary case
+
+The governance question is:
+
+Which KHDS patterns survive when the principal guest does not pay or reserve, human assistance is the normal interface, a changing surplus-led meal sits inside stable service rules, and proving the mission can expose the people the mission exists to serve?
+
+Canonical Evidence Inputs — Restaurant #18
+
+The decision uses the completed Track A dossier:
+
+khds/research/restaurants/refettorio-felix-london/README.md
+
+khds/research/restaurants/refettorio-felix-london/arrival.md
+
+khds/research/restaurants/refettorio-felix-london/atmosphere.md
+
+khds/research/restaurants/refettorio-felix-london/photography.md
+
+khds/research/restaurants/refettorio-felix-london/reservation.md
+
+khds/research/restaurants/refettorio-felix-london/story.md
+
+khds/research/restaurants/refettorio-felix-london/knowledge-extraction.md
+
+and the five completed cross-restaurant comparisons:
+
+khds/research/comparison/arrival.md
+
+khds/research/comparison/atmosphere.md
+
+khds/research/comparison/photography.md
+
+khds/research/comparison/reservation.md
+
+khds/research/comparison/story.md
+
+All five comparison dimensions are complete.
+
+Restaurant #18 counts as:
+
+one independent restaurant case.
+
+It does not count as:
+
+five dimension cases
+
+one lunch case plus one support case
+
+separate cases for volunteers, donors, hirers or partners
+
+multiple guest-intent cases merely because the organisation has many stakeholder routes.
+
+Restaurant #18 Evidence Boundary
+
+Official public evidence can establish:
+
+published weekday lunch service
+
+first-come access
+
+stated no-referral and no-call-ahead rules
+
+published daily changing surplus-led menu
+
+published staff and volunteer roles
+
+published support partners and schedules
+
+published Green Rooms appointment conditions
+
+published volunteer and donation routes
+
+published venue-hire route
+
+visible food, place and service configuration
+
+published local history and transformation dates
+
+published monthly activity figures
+
+selected testimony
+
+It cannot automatically establish:
+
+guaranteed admission
+
+equitable first-come burden
+
+food quality
+
+dietary safety
+
+felt welcome
+
+experienced dignity
+
+belonging
+
+privacy quality
+
+consent quality
+
+support effectiveness
+
+volunteer experience
+
+net commercial subsidy
+
+representative social outcome
+
+durable causal impact
+
+The canonical decisions preserve:
+
+Published Mechanism
+≠
+Verified Performance
+
+Designed Welcome
+≠
+Experienced Dignity
+
+Published Activity
+≠
+Verified Social Outcome
+
+Recovering Food Value
+≠
+Recovering Human Worth
+
+Canonical Decision Summary — Restaurant #18
+
+Formal Promotions to Candidate
+
+0
+
+Confidence Changes
+
+2
+
+Adaptation as Narrative — Medium to Medium-High
+
+Stable Participation / Variable Product — Medium to Medium-High
+
+Demotions
+
+0
+
+Renames
+
+0
+
+Merges
+
+0
+
+Validated Promotions
+
+0
+
+Research-Derived Principle Promotions
+
+0
+
+Count Movement
+
+Candidate: 26
+Emerging: 8
+Partially Supported: 1
+Validated: 0
+Research-Derived Principles: 0
+
+Confidence Increase 1 — Adaptation as Narrative
+
+Previous State
+
+Candidate / Medium
+
+New State
+
+Candidate / Medium-High
+
+Canonical Definition
+
+Material change can strengthen rather than fragment a hospitality story when the relationship among prior identity, present operating model, changed guest experience and continuing organising logic remains legible.
+
+Why Confidence Increases
+
+Before Restaurant #18, the pattern had strong but differently shaped evidence:
+
+Noma — continuing identity across research-led seasonal and operational change
+
+Avatar Robot Café DAWN — experimental development into a permanent multi-route hospitality system
+
+other adaptation cases where product, place or participation changed while an organising logic remained visible
+
+Refettorio Felix provides a cleaner place-and-model continuity test:
+
+more than three decades of St Cuthbert's local service
+
+a material 2017 Refettorio transformation
+
+an expanded food-recovery and hospitality model
+
+a 2021 Green Rooms addition
+
+continuing community-service purpose across those changes
+
+The case does not merely document chronology.
+
+It connects:
+
+Prior Local Service
+↓
+Material Spatial + Operating Transformation
+↓
+Expanded Hospitality Model
+↓
+Continuing Organising Purpose
+
+Strongest New Mechanism
+
+Local Continuity / Model Transformation
+
+Boundaries
+
+Documented Change
+≠
+Validated Improvement
+
+Continuity
+≠
+Institutional Sameness
+
+Narrative Coherence
+≠
+Operating Success
+
+Why Confidence Becomes Medium-High
+
+The pattern now has:
+
+several independent change conditions
+
+continuity through place
+
+continuity through operating model
+
+continuity through experimentation
+
+clear before-and-after narrative structure
+
+contradiction boundaries preventing automatic improvement claims
+
+Why Confidence Does Not Become High
+
+actual guest interpretation of continuity is unobserved
+
+current quality is not established by historical narrative
+
+failed or harmful adaptation remains under-researched
+
+founder or institutional storytelling may smooth over discontinuity
+
+change causality and outcome remain unverified
+
+Remaining Falsification
+
+Seek:
+
+a coherent change story with worse guest outcomes
+
+a successful transformation that deliberately breaks prior identity
+
+a venue where continuity is imposed by copy but not by operation
+
+evidence from guests, staff and local partners across the change.
+
+Confidence Increase 2 — Stable Participation / Variable Product
+
+Previous State
+
+Candidate / Medium
+
+New State
+
+Candidate / Medium-High
+
+Canonical Definition
+
+A hospitality system may vary product, availability or content while preserving confidence through stable higher-order participation rules, consequence boundaries and service expectations.
+
+Why Confidence Increases
+
+Earlier evidence showed several forms of variability:
+
+Noma — changing seasonal and future product states
+
+Restaurant Pearl Morissette — variable destination product within stable visit preparation
+
+Dans le Noir? London — periodically changing surprise menus inside stable sensory and participation rules
+
+Avatar Robot Café DAWN — several changing route mechanics governed by higher participation principles
+
+Refettorio Felix adds a daily, resource-dependent contradiction case.
+
+The precise meal changes according to:
+
+recovered surplus availability.
+
+The participation contract remains comparatively stable:
+
+weekday lunch
+
+12–2 service window
+
+three-course form
+
+first-come access
+
+no referral
+
+no advance call
+
+human service
+
+dietary communication
+
+The case therefore demonstrates:
+
+Unpredictable Product Input
+↓
+Variable Daily Menu
+inside
+Stable Access + Timing + Service Rules
+
+Strongest New Mechanism
+
+Stable Service Contract / Variable Resource Product
+
+Boundaries
+
+Variable Menu
+≠
+Variable Promise
+
+Stable Rule
+≠
+Guaranteed Fulfilment
+
+Attempted Dietary Accommodation
+≠
+Dietary Safety Guarantee
+
+Why Confidence Becomes Medium-High
+
+The pattern now survives:
+
+seasonal variability
+
+concealed product variability
+
+destination variability
+
+route variability
+
+daily resource-driven variability
+
+Its stable layer is now more clearly located in:
+
+participation rule
+
+consequence boundary
+
+service form
+
+communication expectation
+
+rather than:
+
+a fixed product.
+
+Why Confidence Does Not Become High
+
+performed rule consistency is unverified
+
+turn-away and depletion behaviour are unpublished
+
+menu variability may change dietary compatibility materially
+
+staff and volunteer capacity may affect the service promise
+
+a failure case where both product and participation vary remains required
+
+Remaining Falsification
+
+Seek:
+
+a variable-product model with unstable access rules
+
+a model where stable interface mechanics hide changing consequences
+
+guest evidence about whether the stable layer is actually understood
+
+operational evidence during shortage or capacity failure.
+
+Candidate Decisions With No Confidence Change — Restaurant #18
+
+Atmosphere Through Worldview — Candidate / High
+
+Refettorio Felix strongly enacts worldview through food recovery, open access, service and care. High remains appropriate because designed mechanisms still do not prove experienced atmosphere.
+
+Decision:
+
+confidence and maturity unchanged.
+
+Show the System Behind the Plate — Candidate / High
+
+Surplus sourcing and transformation are central. High remains appropriate; finished-food imagery and published figures do not independently verify daily sourcing or environmental outcome.
+
+Decision:
+
+confidence and maturity unchanged.
+
+Biography When It Explains the Experience — Candidate / High
+
+Designer and guest-chef biography is useful only where it explains material contribution. Prestige remains supporting evidence, not daily capacity proof.
+
+Decision:
+
+confidence and maturity unchanged.
+
+Narrative Language Within Clear Interface — Candidate / High
+
+Mission language coexists with direct lunch, support, volunteer and venue-hire routes. High remains appropriate with continued clarity requirements.
+
+Decision:
+
+confidence and maturity unchanged.
+
+Walk-In as First-Class Participation — Candidate / High
+
+The first-come lunch route is exceptionally direct. High remains appropriate; open door still does not guarantee admission.
+
+Decision:
+
+confidence and maturity unchanged.
+
+Story Through Hospitality Model — Candidate / High
+
+The mission is enacted through food, service, place, roles and care. High remains appropriate while mission outcome remains unverified.
+
+Decision:
+
+confidence and maturity unchanged.
+
+Hospitality System Proof — Candidate / High
+
+Refettorio requires the operating network to be legible. High remains appropriate; published architecture is not performance evidence.
+
+Decision:
+
+confidence and maturity unchanged.
+
+Story Through Place — Candidate / High
+
+St Cuthbert's continuity, the 2017 transformation and the Green Rooms materially explain the current experience. High remains appropriate.
+
+Decision:
+
+confidence and maturity unchanged.
+
+Narrative Coherence Through Organising Logic — Candidate / High
+
+Food recovery, welcome, service, care and cross-support form a coherent system. High remains appropriate; coherence is not causality.
+
+Decision:
+
+confidence and maturity unchanged.
+
+Heritage Builds Confidence — Candidate / Medium-High
+
+More than three decades of local service provides strong heritage evidence. No increase to High occurs because actual trust and current quality remain unobserved.
+
+Decision:
+
+confidence and maturity unchanged.
+
+Atmosphere Through Continuity — Candidate / Medium-High
+
+Repeated service, local history and continuing relationships add support. No increase occurs because live continuity across days and capacity conditions is unverified.
+
+Decision:
+
+confidence and maturity unchanged.
+
+Photography as Use-Case Evidence — Candidate / Medium-High
+
+Food, preparation, room and service imagery clarify visible use. No increase occurs because guest outcome and accessible meaning remain incomplete.
+
+Decision:
+
+confidence and maturity unchanged.
+
+Photography as Proof — Candidate / Medium-High
+
+The case adds a decisive ethical boundary: photography of vulnerability cannot prove support. No increase occurs because consent, accessibility and outcome remain unresolved.
+
+Decision:
+
+confidence and maturity unchanged.
+
+Capacity Proof — Candidate / Medium-High
+
+First-come access makes meals, seats, staff, volunteers and support capacity material. No increase occurs because turn-away and fulfilment performance are unpublished.
+
+Decision:
+
+confidence and maturity unchanged.
+
+Photography Should Demonstrate Difference — Candidate / Medium-High
+
+Refettorio supplies the ordinary-looking, service-dependent transfer case. No increase to High occurs because the official photography does not consistently prove the surplus system and direct decision effect remains unobserved.
+
+Decision:
+
+confidence and maturity unchanged.
+
+Designed Escape — Candidate / Medium
+
+The venue may offer relief, but escape language risks deficit framing and cannot be inferred from design. Medium remains.
+
+Decision:
+
+confidence and maturity unchanged.
+
+Manageable Commitment — Candidate / Medium
+
+Lunch has minimal procedure, while first-come uncertainty transfers burden. Mixed evidence prevents confidence change.
+
+Decision:
+
+confidence and maturity unchanged.
+
+Participation Rule Consistency — Candidate / Medium
+
+Published lunch and programme rules are coherent. Performed consistency and handoffs remain unverified.
+
+Decision:
+
+confidence and maturity unchanged.
+
+Layered Arrival — Candidate / Medium
+
+Arrival spans access, threshold, meal and optional support. The case also proves layers do not require interface density. Medium remains.
+
+Decision:
+
+confidence and maturity unchanged.
+
+Atmosphere Through Consistency — Candidate / Medium
+
+Stable service rhythms may support atmosphere. Actual performance across volunteers, occupancy and menu conditions remains unobserved.
+
+Decision:
+
+confidence and maturity unchanged.
+
+Photography Through Layers of Experience — Candidate / Medium
+
+Food, place, people, process and care require layered evidence. The photography-specific definition still depends on non-photographic media.
+
+Decision:
+
+confidence and maturity unchanged.
+
+Participation Throughout the Journey — Candidate / Medium
+
+Participation continues through arrival, meal, social presence and optional care. The abstraction remains vulnerable to becoming generic journey description.
+
+Decision:
+
+confidence and maturity unchanged.
+
+Human Assistance Where Structured Self-Service Is Insufficient — Candidate / Medium
+
+Human routing is primary infrastructure. No increase occurs because response quality, consistency, safeguarding and failure performance are unverified.
+
+Decision:
+
+confidence and maturity unchanged.
+
+Multi-Intent Hospitality — Candidate / Medium
+
+Refettorio is a direct falsification case: many stakeholder routes do not automatically mean many guest intents. The canonical definition survives, but no confidence increase is justified.
+
+Decision:
+
+confidence and maturity unchanged.
+
+Explicit Non-Promotion Decisions — Restaurant #18
+
+Emotion Before Interface
+
+Remains:
+
+Emerging
+
+Mission and dignity language may create orientation, but emotional framing risks pity, inspiration reduction and delayed access clarity.
+
+Decision:
+
+no promotion.
+
+Story Before Features
+
+Remains:
+
+Emerging
+
+Purpose can orient the experience, but the direction remains close to Narrative Language Within Clear Interface and lacks a distinct mechanism.
+
+Decision:
+
+no promotion.
+
+Photography Before Decoration
+
+Remains:
+
+Emerging
+
+The case supplies very strong ethical support, but the direction remains substantially governed by Photography as Proof and Photography Should Demonstrate Difference.
+
+Decision:
+
+no promotion.
+
+Commitment Without Pressure
+
+Remains:
+
+Emerging
+
+The non-commercial route avoids sales pressure, but first-come uncertainty can create another form of participation burden. The definition remains unsettled.
+
+Decision:
+
+no promotion.
+
+Promise Before Proof
+
+Remains:
+
+Emerging
+
+Mission promise clearly outruns activity evidence if claim levels are not separated. The direction remains close to Capacity Proof and bounded narrative governance.
+
+Decision:
+
+no promotion.
+
+The Guest as Participant
+
+Remains:
+
+Emerging
+
+Guests co-constitute shared hospitality without compulsory contribution. The pattern remains too broad unless it predicts a material operating dependency.
+
+Decision:
+
+no promotion.
+
+Atmosphere as Product
+
+Remains:
+
+Emerging
+
+Care infrastructure and shared dining provide the strongest structural support yet. Guest-choice causality and lived atmospheric outcome remain unverified.
+
+Decision:
+
+no promotion.
+
+Escalating Participation Complexity
+
+Remains:
+
+Emerging
+
+Refettorio shows institutional complexity with a minimal guest route. The current name still implies linear escalation and requires definition or rename work.
+
+Decision:
+
+no promotion.
+
+Partially Supported Decision — Restaurant #18
+
+Own the Guest Relationship — Partially Supported / Medium
+
+Refettorio Felix provides direct institutional routes for:
+
+lunch information
+
+volunteering
+
+donation
+
+support contact
+
+venue hire
+
+However, the public evidence does not establish:
+
+CRM ownership
+
+first-party data architecture
+
+consent management
+
+retention
+
+longitudinal guest relationship data
+
+independence from external infrastructure
+
+Decision:
+
+remains Partially Supported / Medium.
+
+Below-Candidate Decisions — Restaurant #18
+
+The following remain architecture, mechanisms, variables or evidence rules:
+
+Non-Transactional Hospitality Architecture
+
+Dignity-Preserving Proof
+
+Human-Routed Participation
+
+Care Infrastructure
+
+Cross-Supported Hospitality
+
+Value Recognition Without Objectification
+
+Activity / Experience / Outcome Architecture
+
+Stakeholder-Role / Guest-Intent Separation
+
+Privacy-Compatible Evidence
+
+First-Come Burden Architecture
+
+Non-Reservable Participation State
+
+Distributed Capacity Inventory
+
+Meal-and-Care Dual Integrity
+
+Institutional Humility
+
+Evidence Burden Allocation
+
+Architecture significance does not require pattern inflation.
+
+Post–Refettorio Felix Architecture Family
+
+Non-Transactional Hospitality and Dignity-Preserving Proof Family
+
+The family connects:
+
+Guesthood Without Purchase
+↓
+Open-Door but Finite Access
+↓
+Human-Routed Participation
+↓
+Shared Hospitality
+↓
+Optional Care
+↓
+Privacy-Compatible Evidence
+↓
+Activity / Experience / Outcome Separation
+
+Family Rule
+
+When hospitality is offered without transaction, preserve full guesthood, explicit capacity, role-specific participation and evidence proportionality. Prove the institution's system without making the guest's vulnerability carry the proof burden.
+
+Mandatory Boundaries
+
+Guest
+≠
+Paying Customer
+
+Open Door
+≠
+Guaranteed Admission
+
+Stakeholder Route
+≠
+Guest Intent
+
+Guest Privacy
+≠
+Evidence Absence
+
+Good Intention
+≠
+Verified Outcome
+
+This family remains:
+
+architecture.
+
+It is not:
+
+a research-derived KHDS Principle.
+
+Post–Refettorio Felix Canonical Corrections
+
+Correction 1 — Guest / Customer
+
+A hospitality guest need not be a paying customer.
+
+Correction 2 — Open Door / Guaranteed Admission
+
+Open access posture does not prove unlimited capacity.
+
+Correction 3 — No Reservation / No Structure
+
+A non-reservable route may remain highly structured.
+
+Correction 4 — Stakeholder Route / Guest Intent
+
+Volunteer, donor, hirer, partner and support routes do not automatically create multiple guest intents.
+
+Correction 5 — Human Assistance / Fallback
+
+People can be the intended interface rather than exception recovery.
+
+Correction 6 — Designed Welcome / Experienced Dignity
+
+Environmental mechanisms cannot prove lived dignity.
+
+Correction 7 — Guest Privacy / Evidence Absence
+
+Privacy can strengthen evidence integrity.
+
+Correction 8 — Vulnerability / Proof
+
+Visible hardship does not establish support quality or outcome.
+
+Correction 9 — Published Image / Verified Consent
+
+Publication is not independent consent proof.
+
+Correction 10 — Activity / Experience
+
+Counts establish delivery, not felt quality.
+
+Correction 11 — Experience / Outcome
+
+Selected testimony does not establish durable population change.
+
+Correction 12 — Mission / Impact
+
+Purpose and coherent mechanism do not establish social outcome.
+
+Correction 13 — Food Recovery / Human Worth
+
+Recovery language belongs to resources, not people.
+
+Correction 14 — Dignity Support / Dignity Production
+
+The institution may enact respect but does not originate human worth.
+
+Correction 15 — Free / Low Value
+
+Absence of price does not weaken hospitality responsibility.
+
+Correction 16 — Surplus / Inferior
+
+Recovered inputs do not predetermine culinary or atmospheric quality.
+
+Correction 17 — Prestige / Capacity
+
+Designers and guest chefs do not prove routine service continuity.
+
+Correction 18 — Commercial Cross-Support / Mission Proof
+
+Venue hire may support open access but requires financial and capacity evidence.
+
+Correction 19 — Stable Rules / Fixed Product
+
+Participation stability can contain daily product variability.
+
+Correction 20 — Coherent Story / Causal Proof
+
+Narrative coherence must not be elevated into verified causality.
+
+Post–Refettorio Felix Canonical Pattern Snapshot
+
+Candidate / High
+
+Atmosphere Through Worldview
+
+Show the System Behind the Plate
+
+Biography When It Explains the Experience
+
+Narrative Language Within Clear Interface
+
+Walk-In as First-Class Participation
+
+Story Through Hospitality Model
+
+Hospitality System Proof
+
+Story Through Place
+
+Narrative Coherence Through Organising Logic
+
+Total:
+
+9
+
+Candidate / Medium-High
+
+Heritage Builds Confidence
+
+Atmosphere Through Continuity
+
+Photography as Use-Case Evidence
+
+Photography as Proof
+
+Capacity Proof
+
+Photography Should Demonstrate Difference
+
+Adaptation as Narrative
+
+Stable Participation / Variable Product
+
+Total:
+
+8
+
+Candidate / Medium
+
+Designed Escape
+
+Manageable Commitment
+
+Participation Rule Consistency
+
+Layered Arrival
+
+Atmosphere Through Consistency
+
+Photography Through Layers of Experience
+
+Participation Throughout the Journey
+
+Human Assistance Where Structured Self-Service Is Insufficient
+
+Multi-Intent Hospitality
+
+Total:
+
+9
+
+Total Candidate Patterns — Post Restaurant #18
+
+26
+
+Emerging Snapshot — Post Restaurant #18
+
+Emotion Before Interface
+
+Story Before Features
+
+Photography Before Decoration
+
+Commitment Without Pressure
+
+Promise Before Proof
+
+The Guest as Participant
+
+Atmosphere as Product
+
+Escalating Participation Complexity
+
+Total:
+
+8
+
+Partially Supported — Post Restaurant #18
+
+Own the Guest Relationship — Medium
+
+Total:
+
+1
+
+Validated — Post Restaurant #18
+
+0
+
+Research-Derived KHDS Principles — Post Restaurant #18
+
+0
+
+Existing Implementation Pattern Pending Formal Validation
+
+Invitation
+
+Total:
+
+1
+
+Official Counts — Post Restaurant #18
+
+Independent Restaurants:
+18
+
+Track B Validation Cases:
+1
+
+Emerging:
+8
+
+Candidate:
+26
+
+Partially Supported:
+1
+
+Validated:
+0
+
+Research-Derived KHDS Principles:
+0
+
+Existing Implementation Patterns Pending Formal Validation:
+1
+
+Opportunity Themes:
+36
+
+Track B Implementation Learnings:
+17
+
+Highest Research-Derived Maturity:
+Candidate
+
+Restaurant #18 Promotion Integrity Check
+
+Formal Promotions
+
+0
+
+Confidence Changes
+
+2
+
+Candidate Count Arithmetic
+
+26 + 0 = 26
+
+Emerging Count Arithmetic
+
+8 - 0 = 8
+
+Confidence Distribution Arithmetic
+
+High: 9
+Medium-High: 6 + 2 = 8
+Medium: 11 - 2 = 9
+Total Candidate: 9 + 8 + 9 = 26
+
+Independent Restaurant Arithmetic
+
+17 + 1 = 18
+
+Restaurant #18 Governance Integrity Check
+
+Formal Promotions
+
+0
+
+Confidence Changes
+
+2
+
+Adaptation as Narrative
+
+Stable Participation / Variable Product
+
+Demotions
+
+0
+
+Renames
+
+0
+
+Merges
+
+0
+
+Validated Promotions
+
+0
+
+Research-Derived Principle Promotions
+
+0
+
+Partially Supported Changes
+
+0
+
+Invitation Changes
+
+0
+
+Opportunity Theme Changes
+
+0
+
+Track B Learning Changes
+
+0
+
+Why No Emerging Promotion Occurred — Restaurant #18
+
+Restaurant #18 produces unusually strong architecture.
+
+But each Emerging direction retains a blocking problem:
+
+definition overlap
+
+causal uncertainty
+
+excessive breadth
+
+pressure versus consequence ambiguity
+
+unverified guest outcome
+
+name instability
+
+Refettorio Felix is also one independent case.
+
+Strong cross-dimensional density does not multiply independent support.
+
+One Restaurant
+×
+Five Dimensions
+≠
+Five Independent Cases
+
+Why No Validated Promotion Occurred — Restaurant #18
+
+No Candidate satisfies the current Validated threshold.
+
+Restaurant #18 adds:
+
+strong mechanism evidence
+
+strong contradiction evidence
+
+ethical boundary clarity
+
+definition refinement
+
+It does not add:
+
+independent performance verification
+
+observed guest outcome
+
+longitudinal evidence
+
+failure-case survival across implementation
+
+multi-context causal evidence
+
+Coherent Social-Hospitality Model
+≠
+Validated Outcome
+
+Why No Research-Derived Principle Promotion Occurred — Restaurant #18
+
+Non-Transactional Hospitality and Dignity-Preserving Proof form a coherent architecture family.
+
+The family remains context-sensitive and under-tested across:
+
+referral systems
+
+pay-what-you-can models
+
+commercial social enterprises
+
+cultures
+
+capacity regimes
+
+evidence-governance systems
+
+Ethically Important Architecture
+≠
+Universal KHDS Principle
+
+Post–Refettorio Felix Research Priorities
+
+Priority 1 — Multi-Intent Countercase Continuation
+
+Seek another institution with many stakeholder routes but only one or two material guest intents. Test whether the canonical definition continues to reject organisational breadth.
+
+Priority 2 — Human Assistance Failure Case
+
+Observe where human routing creates delay, inconsistency, dependency, privacy risk or gatekeeping rather than safe flexibility.
+
+Priority 3 — First-Come Burden Evidence
+
+Measure turn-away, queueing and unequal travel or timing cost in an open-door hospitality system.
+
+Priority 4 — Dignity Outcome Evidence
+
+Seek consented, independent and mixed guest evidence concerning safety, agency, privacy, welcome and dignity.
+
+Priority 5 — Dignity-Preserving Proof Transfer
+
+Test whether system-before-subject photography transfers to other social, accessible or community hospitality cases.
+
+Priority 6 — Activity-to-Outcome Evidence
+
+Seek longitudinal or independently evaluated evidence that separates outputs, experiences and durable outcomes.
+
+Priority 7 — Stable Participation Failure Case
+
+Find a variable-product venue where participation rules also change materially and identify where stability actually lives.
+
+Priority 8 — Adaptation Without Improvement
+
+Seek a documented transformation that preserved narrative coherence but weakened guest experience or operating capacity.
+
+Priority 9 — Atmosphere as Product Causality
+
+Test whether guests choose, value or return because of the social-care environment rather than food, access or mission alone.
+
+Priority 10 — Commitment Without Commercial Pressure
+
+Compare non-commercial, pay-what-you-can and commercial scarcity systems to isolate pressure from consequence and uncertainty.
+
+Restaurant #18 Governance Outcome
+
+Refettorio Felix produced:
+
+no formal Candidate promotion
+
+and:
+
+two confidence increases:
+
+Adaptation as Narrative
+Candidate / Medium
+→
+Candidate / Medium-High
+
+Stable Participation / Variable Product
+Candidate / Medium
+→
+Candidate / Medium-High
+
+Its strongest architecture result is:
+
+Non-Transactional Hospitality and Dignity-Preserving Proof.
+
+Its strongest arrival correction is:
+
+Open Door
+≠
+Guaranteed Admission
+
+Its strongest atmosphere correction is:
+
+Designed Welcome
+≠
+Experienced Dignity
+
+Its strongest photography correction is:
+
+Photography of Vulnerability
+≠
+Proof of Support
+
+Its strongest reservation correction is:
+
+No Reservation
+≠
+No Participation Structure
+
+Its strongest story correction is:
+
+Recovering Food Value
+≠
+Recovering Human Worth
+
+Its strongest governance boundary is:
+
+Mission Through Hospitality Model
+≠
+Verified Mission Outcome
+
+Canonical Rule Going Forward — Restaurant #18
+
+When hospitality operates without transaction, preserve full guesthood, explicit capacity, role-specific commitment, human support and dignity-preserving evidence. Make the institution prove its system; do not make the guest prove vulnerability, gratitude, transformation or worth.
+
+Reconciliation Status — Restaurant #18
+
+Restaurant #18 Dossier:
+
+Complete
+
+Knowledge Extraction:
+
+Complete
+
+Arrival Comparison:
+
+Complete
+
+Atmosphere Comparison:
+
+Complete
+
+Photography Comparison:
+
+Complete
+
+Reservation / Participation Comparison:
+
+Complete
+
+Story Comparison:
+
+Complete
+
+Canonical Governance:
+
+Complete
+
+Registry Mirror:
+
+Pending
+
+Dashboard Mirror:
+
+Pending
+
+Research README Mirror:
+
+Pending
+
+Validation README Mirror:
+
+Pending
+
+Next Governance File — Restaurant #18
+
+khds/patterns/registry.md
+
+Final Governance Statement — Post Restaurant #18
+
+After 18 independent restaurants, KHDS contains:
+
+26 Candidate patterns
+8 Emerging patterns
+1 Partially Supported pattern
+0 Validated patterns
+0 research-derived KHDS Principles
+
+Restaurant #18 produced:
+
+no Candidate promotions
+
+two confidence increases
+
+no demotions
+
+no renames
+
+no merges
+
+no Validated promotions
+
+no Principle promotions
+
+The two confidence changes are:
+
+Adaptation as Narrative — Medium to Medium-High
+
+Stable Participation / Variable Product — Medium to Medium-High
+
+The governance result is narrower than the architecture volume.
+
+Refettorio Felix contributes:
+
+Guesthood Without Purchase
+↓
+Open but Finite Access
+↓
+Human-Routed Participation
+↓
+Shared Hospitality
+↓
+Optional Care
+↓
+Dignity-Preserving Proof
+↓
+Bounded Social Claim
+
+Most of that system remains:
+
+architecture
+
+mechanism
+
+evidence rule
+
+ethical boundary
+
+falsification direction
+
+Only two existing Candidates change confidence because Restaurant #18 resolves their specific outstanding transfer tests.
+
+No new pattern enters the Candidate layer.
 
 Evidence wins.

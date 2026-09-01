@@ -2,11 +2,11 @@ KHDS Cross-Restaurant Comparison — Photography / Proof
 
 Status
 
-Post–Avatar Robot Café DAWN, Tokyo Comparison
+Post–Refettorio Felix, London Comparison
 
 Restaurants Compared:
 
-17
+18
 
 Track:
 
@@ -14,7 +14,7 @@ Track A — Independent Hospitality Research
 
 Latest Added Case:
 
-Avatar Robot Café DAWN — Tokyo
+Refettorio Felix — London
 
 Comparison Status:
 
@@ -84,7 +84,7 @@ all:
 
 five:
 
-post–Restaurant #17:
+post–Restaurant #18:
 
 comparison files
 
@@ -187,6 +187,8 @@ Restaurant Pearl Morissette
 Dans le Noir? London
 
 Avatar Robot Café DAWN, Tokyo
+
+Refettorio Felix, London
 
 Current Photography / Proof Thesis
 
@@ -9145,6 +9147,1157 @@ Confidence Changes:
 0
 
 Governance Changes:
+
+0
+
+Next Comparison File:
+
+khds/research/comparison/reservation.md
+
+Post–Refettorio Felix, London Photography Reconciliation
+
+Restaurant added:
+
+Restaurant #18
+
+Refettorio Felix
+
+London.
+
+Research role:
+
+Dignity-Preserving Proof
+
+Ethical Evidence Allocation Case.
+
+Comparison status:
+
+Photography reconciliation complete.
+
+Canonical governance decision:
+
+pending completion of all five Restaurant #18 comparison files.
+
+Restaurant #18 Photography Evidence Input
+
+Restaurant files reconciled:
+
+khds/research/restaurants/refettorio-felix-london/README.md
+
+khds/research/restaurants/refettorio-felix-london/arrival.md
+
+khds/research/restaurants/refettorio-felix-london/atmosphere.md
+
+khds/research/restaurants/refettorio-felix-london/photography.md
+
+khds/research/restaurants/refettorio-felix-london/reservation.md
+
+khds/research/restaurants/refettorio-felix-london/story.md
+
+khds/research/restaurants/refettorio-felix-london/knowledge-extraction.md
+
+Observed official visual evidence includes:
+
+a lunch hero focused on hands preparing food
+
+a nine-image food gallery
+
+a busy service/pass scene with identifiable people on the story surface
+
+place and programme imagery
+
+selected impact presentation
+
+filename-style alt text in the lunch gallery
+
+empty alternatives on some story or impact imagery
+
+These can establish:
+
+visible subject, composition, configuration and published use.
+
+They do not independently establish:
+
+informed consent
+
+ongoing consent
+
+dignity
+
+safeguarding
+
+support quality
+
+representative experience
+
+social outcome
+
+accessibility of meaning.
+
+Current Canonical Entry State — Before Restaurant #18 Decision
+
+Completed independent restaurants:
+
+17
+
+Candidate patterns:
+
+26
+
+Emerging patterns:
+
+8
+
+Partially Supported patterns:
+
+1
+
+Validated patterns:
+
+0
+
+Research-derived KHDS Principles:
+
+0
+
+No count changes are authorised here.
+
+Comparison 108 — The Most Emotionally Powerful Subject May Be the Least Ethical Proof Subject
+
+A visibly vulnerable guest could create immediate emotional force while exposing identity, simplifying context or making hardship serve promotion.
+
+Emotional Force
+≠
+Ethical Proof
+
+Comparison 109 — Photography of Vulnerability Cannot Prove Support
+
+An image may show a person, setting or need. It cannot establish service quality, safeguarding, dignity, agency or durable outcome.
+
+Visible Vulnerability
+≠
+Verified Support
+
+Comparison 110 — Guest Privacy Can Strengthen Evidence Integrity
+
+The absence of identifiable guest imagery may reflect restraint rather than missing proof when procedure, capacity, role and consent-compatible evidence remain available.
+
+Guest Privacy
+≠
+Evidence Absence
+
+Comparison 111 — Food Photography Can Prove Transformation Intent Without Proving the Recovery System
+
+Finished dishes can show care and culinary form. They do not establish surplus origin, recovery volume, waste reduction or routine consistency.
+
+Finished Plate
+≠
+Recovered-Food System
+
+Comparison 112 — Shared-Table Photography Cannot Prove Belonging
+
+A frame may show proximity and communal configuration while remaining unable to establish comfort, consent, connection or agency.
+
+Shared Table
+≠
+Shared Belonging
+
+Comparison 113 — A Human Face Does Not Prove Dignity
+
+Expression and presence can be accurately photographed without proving how the person was treated or how they understood publication.
+
+Visible Person
+≠
+Experienced Dignity
+
+Comparison 114 — Consent Must Be Treated as Governance, Not an Inference From Publication
+
+An image appearing on an official site does not independently establish informed, specific, continuing or withdrawable consent.
+
+Published Image
+≠
+Verified Consent
+
+Comparison 115 — Mission-Led Photography Needs Stronger Claim Restraint
+
+The more morally compelling the story, the greater the risk that an image will be read as outcome evidence beyond what it can support.
+
+Mission Image
+≠
+Impact Proof
+
+Comparison 116 — Operational Photography Can Replace Vulnerability Spectacle
+
+Food preparation, service roles, room configuration, donated goods and programme infrastructure can demonstrate the model without requiring guests to perform need.
+
+System Visibility
+≠
+Person Exposure
+
+Comparison 117 — Filename Alt Text Can Make Visible Evidence Functionally Inaccessible
+
+A gallery may contain useful images while its text alternative communicates file management rather than meaning.
+
+Image Present
+≠
+Evidence Accessible
+
+Comparison 118 — Empty Alt Text Requires Intentional Classification
+
+Empty alternatives are appropriate for decoration but erase meaning when an image carries story, process or proof.
+
+Empty Alt
+≠
+Decorative Image
+
+Comparison 119 — Photography Can Demonstrate Hospitality Value Without Luxury Codes
+
+Food, hands, preparation, place and service can communicate care without relying on exclusivity, abundance spectacle or prestige aesthetics.
+
+Non-Luxury Image
+≠
+Low-Value Proof
+
+Comparison 120 — Activity Photography Must Not Become Outcome Photography
+
+Images of meals, volunteers or service can evidence activity but cannot establish social, health or wellbeing change.
+
+Activity Image
+≠
+Outcome Evidence
+
+Comparison 121 — Prestige Subjects Can Displace Everyday Operating Proof
+
+Guest chefs and named designers may be easy to photograph, while routine staff, volunteers, food systems and service continuity carry the daily model.
+
+Prestige Visibility
+≠
+Operational Centrality
+
+Comparison 122 — Dignity-Preserving Proof Is an Allocation Problem
+
+The evidence system must assign each claim to a subject and medium capable of proving it without imposing disproportionate exposure on the guest.
+
+Available Image
+≠
+Appropriate Evidence
+
+Updated Photography Thesis — Post Restaurant #18
+
+The core thesis becomes:
+
+Photography should prove the most decision-relevant visible difference through the lowest-risk adequate subject, while claims that exceed the image must move to a more appropriate evidence medium.
+
+Dans le Noir? established:
+
+the defining core may be unphotographable.
+
+DAWN established:
+
+the most visible object may conceal the defining human agency.
+
+Refettorio Felix establishes:
+
+the most emotionally powerful subject may be ethically inappropriate as proof.
+
+The resulting evidence sequence is:
+
+Claim
+↓
+Lowest-Risk Adequate Subject
+↓
+Consent and Privacy Boundary
+↓
+Accessible Meaning
+↓
+Medium-Fit Evidence
+↓
+Bounded Interpretation
+
+The strongest new boundary is:
+
+Photography of Vulnerability
+≠
+Proof of Support
+
+Post–Refettorio Felix Photography Architecture Additions
+
+Dignity-Preserving Proof
+
+Selects subjects and media that explain the model without extracting vulnerability.
+
+Status:
+
+architecture direction
+
+not:
+
+a new pattern.
+
+Privacy-Compatible Evidence
+
+Maintains proof through process, role, place, product and capacity when guest identity is protected.
+
+Status:
+
+architecture direction
+
+not:
+
+a new pattern.
+
+System-Before-Subject Photography
+
+Prioritises the operating mechanism over the person receiving support.
+
+Status:
+
+architecture direction
+
+not:
+
+a new pattern.
+
+Consent-Governed Human Imagery
+
+Treats publication as downstream of specific, informed and revisable consent.
+
+Status:
+
+architecture direction
+
+not:
+
+a new pattern.
+
+Activity / Experience / Outcome Separation
+
+Prevents a service image from inheriting stronger claim status.
+
+Status:
+
+architecture direction
+
+not:
+
+a new pattern.
+
+Surplus-Transformation Proof Stack
+
+Pairs food imagery with sourcing, process, quantity and temporal evidence.
+
+Status:
+
+architecture direction
+
+not:
+
+a new pattern.
+
+Shared-Space / Unverified-Relationship Proof
+
+Shows configuration without claiming belonging.
+
+Status:
+
+architecture direction
+
+not:
+
+a new pattern.
+
+Accessible Visual Meaning
+
+Requires useful alternatives for images carrying evidence.
+
+Status:
+
+architecture direction
+
+not:
+
+a new pattern.
+
+Prestige / Daily-System Separation
+
+Keeps named collaborators from substituting for routine capacity.
+
+Status:
+
+architecture direction
+
+not:
+
+a new pattern.
+
+Non-Luxury Value Proof
+
+Demonstrates care, craft and hospitality without exclusive visual codes.
+
+Status:
+
+architecture direction
+
+not:
+
+a new pattern.
+
+Role-Specific Visibility
+
+Allocates staff, volunteer, donor, chef, partner and guest representation by claim and risk.
+
+Status:
+
+architecture direction
+
+not:
+
+a new pattern.
+
+Evidence Burden Allocation
+
+Places the greatest proof burden on the institution rather than the vulnerable guest.
+
+Status:
+
+architecture direction
+
+not:
+
+a new pattern.
+
+Photography / Proof Architecture — Post Restaurant #18 Consolidation
+
+The consolidated proof model now includes:
+
+claim-fit subject selection
+
+direct visible proof
+
+threshold proof
+
+procedural proof
+
+temporal proof
+
+relationship proof
+
+accessible meaning
+
+evidence substitution
+
+freshness and scope
+
+configuration / agency separation
+
+dignity-preserving proof
+
+privacy-compatible evidence
+
+consent governance
+
+activity / experience / outcome separation
+
+system-before-subject photography
+
+evidence-burden allocation
+
+No claim requires:
+
+photography by default.
+
+Every claim requires:
+
+the medium capable of proving it
+
+within:
+
+ethical, temporal and accessibility boundaries.
+
+Current Photography Pattern Pressure — Post Restaurant #18
+
+Photography as Proof
+
+Current state:
+
+Candidate / Medium-High
+
+Restaurant #18 pressure:
+
+Very strong boundary reinforcement
+
+Boundary:
+
+Photography can prove food, place, configuration and activity, but not dignity, support quality or outcome.
+
+Decision:
+
+no confidence or maturity change.
+
+Photography Should Demonstrate Difference
+
+Current state:
+
+Candidate / Medium-High
+
+Restaurant #18 pressure:
+
+Strong reinforcement
+
+Boundary:
+
+Difference should be shown through surplus transformation, shared service and place without exploiting guests.
+
+Decision:
+
+no confidence or maturity change.
+
+Photography as Use-Case Evidence
+
+Current state:
+
+Candidate / Medium-High
+
+Restaurant #18 pressure:
+
+Strong support
+
+Boundary:
+
+Food preparation, dining configuration, volunteering and venue use can clarify roles.
+
+Decision:
+
+no confidence or maturity change.
+
+Photography Through Layers of Experience
+
+Current state:
+
+Candidate / Medium
+
+Restaurant #18 pressure:
+
+Strong reinforcement
+
+Boundary:
+
+Food, space, people, process and care require ethically separated layers.
+
+Decision:
+
+no confidence or maturity change.
+
+Capacity Proof
+
+Current state:
+
+Candidate / Medium-High
+
+Restaurant #18 pressure:
+
+Boundary support
+
+Boundary:
+
+Counts and configuration can supplement images, but capacity performance remains unverified.
+
+Decision:
+
+no confidence or maturity change.
+
+Hospitality System Proof
+
+Current state:
+
+Candidate / High
+
+Restaurant #18 pressure:
+
+Very strong reinforcement
+
+Boundary:
+
+System evidence is essential where direct guest imagery creates ethical risk.
+
+Decision:
+
+no confidence or maturity change.
+
+Story Through Hospitality Model
+
+Current state:
+
+Candidate / High
+
+Restaurant #18 pressure:
+
+Strong reinforcement
+
+Boundary:
+
+The model should carry the mission more than vulnerable-person imagery.
+
+Decision:
+
+no confidence or maturity change.
+
+Narrative Coherence Through Organising Logic
+
+Current state:
+
+Candidate / High
+
+Restaurant #18 pressure:
+
+Strong reinforcement
+
+Boundary:
+
+Food recovery, hospitality and care can share one proof logic while retaining claim boundaries.
+
+Decision:
+
+no confidence or maturity change.
+
+Photography Before Decoration
+
+Current state:
+
+Emerging
+
+Restaurant #18 pressure:
+
+Very strong support
+
+Boundary:
+
+Images should perform evidence work rather than aestheticise hardship.
+
+Decision:
+
+no confidence or maturity change.
+
+Emotion Before Interface
+
+Current state:
+
+Emerging
+
+Restaurant #18 pressure:
+
+Contradiction pressure
+
+Boundary:
+
+Emotional imagery must not outrun access clarity or consent.
+
+Decision:
+
+no confidence or maturity change.
+
+Promise Before Proof
+
+Current state:
+
+Emerging
+
+Restaurant #18 pressure:
+
+Strong contradiction pressure
+
+Boundary:
+
+Mission promise cannot convert activity images into impact proof.
+
+Decision:
+
+no confidence or maturity change.
+
+The Guest as Participant
+
+Current state:
+
+Emerging
+
+Restaurant #18 pressure:
+
+Ethical boundary pressure
+
+Boundary:
+
+Participation does not make the guest an automatic evidence subject.
+
+Decision:
+
+no confidence or maturity change.
+
+Atmosphere as Product
+
+Current state:
+
+Emerging
+
+Restaurant #18 pressure:
+
+Boundary support
+
+Boundary:
+
+Room and shared-meal imagery can show conditions, not experienced atmosphere.
+
+Decision:
+
+no confidence or maturity change.
+
+Show the System Behind the Plate
+
+Current state:
+
+Candidate / High
+
+Restaurant #18 pressure:
+
+Strong reinforcement
+
+Boundary:
+
+A finished plate needs sourcing and process context to prove the recovery system.
+
+Decision:
+
+no confidence or maturity change.
+
+Post–Refettorio Felix Photography Corrections
+
+Correction 94
+
+The most emotionally powerful image may be the least appropriate proof image.
+
+Correction 95
+
+Photography of vulnerability does not prove support.
+
+Correction 96
+
+Guest privacy does not equal evidence absence.
+
+Correction 97
+
+Finished-food imagery does not establish surplus origin.
+
+Correction 98
+
+Shared-table imagery does not establish belonging.
+
+Correction 99
+
+A visible person does not prove experienced dignity.
+
+Correction 100
+
+Publication does not independently prove valid consent.
+
+Correction 101
+
+Mission intensity increases the need for claim restraint.
+
+Correction 102
+
+Operational photography can replace vulnerability spectacle.
+
+Correction 103
+
+Filename-style alt text does not provide meaningful evidence access.
+
+Correction 104
+
+Empty alt text must be reserved for genuinely decorative images.
+
+Correction 105
+
+Non-luxury visual language can still prove hospitality value.
+
+Correction 106
+
+Activity imagery must not become outcome imagery.
+
+Correction 107
+
+Prestige visibility does not establish daily operating centrality.
+
+Correction 108
+
+Evidence burden should fall primarily on the institution.
+
+Correction 109
+
+People receiving support must not be required to perform the mission.
+
+Correction 110
+
+Layered evidence does not mean exposing every layer visually.
+
+Strongest Photography / Proof Tensions After Restaurant #18
+
+Tension 23 — Proof Visibility vs Guest Privacy
+
+The system must be legible without requiring identifiable exposure.
+
+Tension 24 — Emotional Force vs Ethical Restraint
+
+The strongest fundraising image may create the greatest risk of reduction or coercion.
+
+Tension 25 — Human Presence vs Human Dignity
+
+A face can personalise the story while saying little about treatment or agency.
+
+Tension 26 — Shared Space vs Private Experience
+
+Communal configuration is photographable; belonging and safety remain individual.
+
+Tension 27 — Finished Product vs Operating System
+
+Food is visible while surplus sourcing and daily coordination require other evidence.
+
+Tension 28 — Mission Coherence vs Outcome Inflation
+
+A coherent image sequence may imply causal success beyond the evidence.
+
+Tension 29 — Prestige Visibility vs Daily Capacity
+
+Chefs and designers attract attention while routine teams carry continuity.
+
+Tension 30 — Image Availability vs Evidence Accessibility
+
+A gallery can be visually rich and semantically inaccessible.
+
+Photography Falsification Programme After Restaurant #18
+
+Audit every identifiable person by role and claim purpose.
+
+Document consent scope, context, retention, reuse and withdrawal.
+
+Verify whether declining photography affects service or access.
+
+Test whether guests understand fundraising and publicity contexts.
+
+Look for evidence of coercive or implied consent.
+
+Compare vulnerability-led and mechanism-led image comprehension.
+
+Test whether food, place and process can explain the model without guest exposure.
+
+Audit whether captions avoid deficit labels and salvage metaphors.
+
+Check whether image crops preserve agency and context.
+
+Verify that a guest is not reduced to a need category.
+
+Audit all image alt text for meaningful evidence content.
+
+Replace filename-style alternatives with purpose-specific descriptions.
+
+Confirm that empty alt text is used only for decorative images.
+
+Test keyboard and screen-reader access to galleries.
+
+Check whether captions carry information unavailable visually.
+
+Compare desktop and mobile image order.
+
+Test whether food images reflect ordinary service rather than exceptional events.
+
+Separate guest-chef imagery from daily kitchen proof.
+
+Verify whether room imagery reflects routine occupancy and configuration.
+
+Test whether shared-table images imply belonging beyond what is shown.
+
+Document surplus sourcing with non-photographic evidence.
+
+Pair finished-food images with process and temporal context.
+
+Do not infer taste or nutrition from food photography.
+
+Compare published activity counts with image time and scope.
+
+Separate activity, experience and outcome claims in captions.
+
+Do not infer social impact from smiles or proximity.
+
+Seek consented testimony that preserves authorship and context.
+
+Do not treat selected testimony as representative.
+
+Audit named designer imagery against practical accessibility evidence.
+
+Test whether prestige subjects displace operating roles.
+
+Show staff and volunteer roles without romanticising labour.
+
+Verify safeguarding boundaries in behind-the-scenes imagery.
+
+Compare image evidence across ordinary and high-capacity days.
+
+Test whether visual absence is correctly interpreted as privacy rather than inactivity.
+
+Compare with a social-hospitality case using no identifiable guest images.
+
+Compare with a case using participant-authored photography.
+
+Compare with independent impact evaluation using minimal imagery.
+
+Test whether donors understand the system without vulnerability spectacle.
+
+Assess whether each material claim has the lowest-risk adequate medium.
+
+Reject any image whose persuasive benefit depends on reducing a person to hardship.
+
+Photography Deduplication Decisions — Restaurant #18
+
+Dignity-Preserving Proof remains an architecture direction, not a duplicate pattern.
+
+Privacy-Compatible Evidence remains a proof mechanism, not a new maturity object.
+
+System-Before-Subject Photography refines Photography as Proof and Hospitality System Proof.
+
+Consent-Governed Human Imagery is an evidence-governance requirement.
+
+Activity / Experience / Outcome Separation is a claim-classification rule.
+
+Surplus-Transformation Proof Stack refines Show the System Behind the Plate.
+
+Accessible Visual Meaning refines existing accessibility boundaries.
+
+Evidence Burden Allocation is a governance direction, not a pattern.
+
+Restaurant #18 Photography Decision Ledger
+
+Add Refettorio Felix as the eighteenth independent photography case.
+
+Classify it as a dignity-preserving proof contradiction case.
+
+Treat vulnerability photography as ethically high-risk evidence.
+
+Do not treat visible vulnerability as support proof.
+
+Treat guest privacy as potential evidence integrity.
+
+Prioritise system-before-subject photography.
+
+Treat finished food as product and care evidence, not recovery-system proof.
+
+Require sourcing and process context for surplus claims.
+
+Treat shared-table images as configuration evidence only.
+
+Do not infer belonging from proximity.
+
+Treat identifiable human imagery as consent-governed.
+
+Do not infer consent from publication.
+
+Separate activity, experience and outcome evidence.
+
+Treat mission imagery with stronger claim restraint.
+
+Record filename-style alt text as an accessibility failure.
+
+Require intentional classification before using empty alt text.
+
+Accept non-luxury visual language as capable of strong proof.
+
+Separate guest-chef prestige from daily capacity.
+
+Separate designer authorship from accessibility or dignity outcome.
+
+Place evidence burden on the institution rather than the guest.
+
+Reinforce Photography as Proof without changing Medium-High confidence.
+
+Reinforce Photography Should Demonstrate Difference without changing confidence.
+
+Reinforce Photography as Use-Case Evidence without changing confidence.
+
+Reinforce Photography Through Layers without changing confidence.
+
+Reinforce Hospitality System Proof without changing confidence.
+
+Apply very strong support to Photography Before Decoration without promotion.
+
+Retain The Guest as Participant at Emerging.
+
+Make no promotion, demotion, merge or rename.
+
+Make no confidence or maturity change.
+
+Reserve governance decisions until all five Restaurant #18 comparisons are complete.
+
+Photography Comparison Conclusion — Post Refettorio Felix, London
+
+After:
+
+18
+
+independent restaurants,
+
+the photography thesis is:
+
+Photography should prove material visible difference without demanding that the person carrying the greatest vulnerability also carry the greatest evidence burden.
+
+The three latest contradiction cases now establish:
+
+Dans le Noir?
+Core Experience May Be Unphotographable
+
+DAWN
+Visible Object May Conceal Human Agency
+
+Refettorio Felix
+Visible Vulnerability May Be an Inappropriate Proof Subject
+
+The strongest new proof model is:
+
+Food
++
+Place
++
+Process
++
+Role
++
+Capacity
++
+Consent-Compatible Testimony
+↓
+System Confidence
+
+not:
+
+Visible Vulnerability
+↓
+Assumed Support Outcome
+
+The strongest accessibility correction is:
+
+Image Present
+≠
+Evidence Accessible
+
+The strongest ethical correction is:
+
+Guest Privacy
+≠
+Evidence Absence
+
+Formal maturity decisions remain reserved until all five Restaurant #18 comparison files are complete.
+
+Evidence wins.
+
+Validation — Post Restaurant #18
+
+Comparison File:
+
+khds/research/comparison/photography.md
+
+Status:
+
+Post–Refettorio Felix, London Complete
+
+Independent Restaurants Compared:
+
+18
+
+Latest Case:
+
+Refettorio Felix, London
+
+Primary New Governance Watch:
+
+Photography as Proof — Dignity-Preserving Boundary
+
+Secondary Governance Watches:
+
+Photography Should Demonstrate Difference
+
+Photography as Use-Case Evidence
+
+Photography Through Layers of Experience
+
+Hospitality System Proof
+
+Photography Before Decoration
+
+Strongest New Proof Direction:
+
+Dignity-Preserving Proof
+
+Strongest New Allocation Direction:
+
+Evidence Burden on Institution
+
+Strongest New Privacy Direction:
+
+Privacy-Compatible Evidence
+
+Strongest New Accessibility Correction:
+
+Image Present
+
+≠
+
+Evidence Accessible
+
+Strongest New Ethical Boundary:
+
+Photography of Vulnerability
+
+≠
+
+Proof of Support
+
+Strongest New Consent Boundary:
+
+Published Image
+
+≠
+
+Verified Consent
+
+Formal Promotions:
+
+0
+
+Formal Demotions:
+
+0
+
+Confidence Changes:
+
+0
+
+Governance Changes:
+
+0
+
+Canonical Candidate Count:
+
+26
+
+Canonical Emerging Count:
+
+8
+
+Canonical Partially Supported Count:
+
+1
+
+Canonical Validated Count:
+
+0
+
+Research-Derived KHDS Principles:
 
 0
 

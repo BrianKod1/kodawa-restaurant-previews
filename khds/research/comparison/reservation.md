@@ -2,11 +2,11 @@ KHDS Cross-Restaurant Comparison — Reservation / Participation
 
 Status
 
-Post–Avatar Robot Café DAWN, Tokyo Comparison
+Post–Refettorio Felix, London Comparison
 
 Restaurants Compared:
 
-17
+18
 
 Track:
 
@@ -14,7 +14,7 @@ Track A — Independent Hospitality Research
 
 Latest Added Case:
 
-Avatar Robot Café DAWN — Tokyo
+Refettorio Felix — London
 
 Comparison Status:
 
@@ -90,7 +90,7 @@ all:
 
 five:
 
-post–Restaurant #17:
+post–Restaurant #18:
 
 comparison files
 
@@ -203,6 +203,8 @@ Restaurant Pearl Morissette
 Dans le Noir? London
 
 Avatar Robot Café DAWN, Tokyo
+
+Refettorio Felix, London
 
 Current Participation Thesis
 
@@ -9500,6 +9502,1162 @@ Confidence Changes:
 0
 
 Governance Changes:
+
+0
+
+Next Comparison File:
+
+khds/research/comparison/story.md
+
+Post–Refettorio Felix, London Reservation Reconciliation
+
+Restaurant added:
+
+Restaurant #18
+
+Refettorio Felix
+
+London.
+
+Research role:
+
+Non-Reservable Participation
+
+Role-Specific Allocation Case.
+
+Comparison status:
+
+Reservation reconciliation complete.
+
+Canonical governance decision:
+
+pending completion of all five Restaurant #18 comparison files.
+
+Restaurant #18 Reservation Evidence Input
+
+Restaurant files reconciled:
+
+khds/research/restaurants/refettorio-felix-london/README.md
+
+khds/research/restaurants/refettorio-felix-london/arrival.md
+
+khds/research/restaurants/refettorio-felix-london/atmosphere.md
+
+khds/research/restaurants/refettorio-felix-london/photography.md
+
+khds/research/restaurants/refettorio-felix-london/reservation.md
+
+khds/research/restaurants/refettorio-felix-london/story.md
+
+khds/research/restaurants/refettorio-felix-london/knowledge-extraction.md
+
+Published participation routes include:
+
+first-come weekday lunch
+
+drop-in partner advice
+
+appointment-based Green Rooms support
+
+volunteer shifts
+
+in-kind donation coordination
+
+venue-hire inquiry and viewing
+
+guest-chef participation
+
+organisational partnership
+
+These establish:
+
+published route architecture.
+
+They do not independently establish:
+
+successful admission
+
+capacity performance
+
+handoff quality
+
+rule consistency
+
+dietary safety
+
+equitable access burden
+
+CRM ownership
+
+programme outcome.
+
+Current Canonical Entry State — Before Restaurant #18 Decision
+
+Completed independent restaurants:
+
+17
+
+Candidate patterns:
+
+26
+
+Emerging patterns:
+
+8
+
+Partially Supported patterns:
+
+1
+
+Validated patterns:
+
+0
+
+Research-derived KHDS Principles:
+
+0
+
+No count changes are authorised here.
+
+Comparison 111 — Reservation Absence Can Be an Intentional Participation State
+
+Lunch is published as first-come with no referral or call-ahead. The absence of booking is a designed state, not missing architecture.
+
+No Reservation
+≠
+No Participation Structure
+
+Comparison 112 — First-Come Is a Capacity Allocation Mechanism
+
+Arrival order participates in allocating finite meals, seats and service attention while transferring uncertainty to the guest.
+
+First-Come
+≠
+Unlimited Access
+
+Comparison 113 — No Referral Is Still an Eligibility Rule
+
+The explicit absence of referral changes who can attempt participation and removes a gate without removing every practical boundary.
+
+No Referral
+≠
+No Eligibility Architecture
+
+Comparison 114 — One Institution Can Contain Several Commitment Objects
+
+Lunch, support, volunteering, donation, venue hire, guest-chef participation and partnership each require different commitments.
+
+One Organisation
+≠
+One Reservation Object
+
+Comparison 115 — Stakeholder Role Must Precede Route Design
+
+A volunteer shift, therapy appointment, donor coordination and venue inquiry cannot be treated as variants of one guest booking flow.
+
+Route Breadth
+≠
+Guest-Intent Breadth
+
+Comparison 116 — Minimal Guest Process Can Depend on Maximum Human Routing
+
+Lunch simplicity is produced by staff and volunteers who interpret capacity, dietary needs, welcome and optional support.
+
+Low Interface Complexity
+≠
+Low Operating Complexity
+
+Comparison 117 — Capacity Must Be Decomposed Beyond Seats
+
+Meals, tables, kitchen labour, front-of-house labour, volunteer supervision, partner advice, therapy appointments and event dates are distinct stocks.
+
+Available Seat
+≠
+Available Participation
+
+Comparison 118 — No Price Does Not Mean No Commitment
+
+The guest still commits time, travel, uncertainty, needs communication, shared presence and conduct without making a payment.
+
+No Transaction
+≠
+No Commitment
+
+Comparison 119 — Human Assistance Can Be the Primary Allocation Interface
+
+People do not merely resolve exceptional booking failures; they perform ordinary route and capacity coordination.
+
+Human Assistance
+≠
+Fallback Support
+
+Comparison 120 — Drop-In and Appointment States Can Coexist
+
+Lunch and some advice routes may be drop-in while Green Rooms care can require appointment or recognised-client conditions.
+
+One Access Posture
+≠
+One Participation State
+
+Comparison 121 — Role-Specific Complexity Is Better Than Universal Interface Depth
+
+The guest lunch route can remain simple while higher-consequence volunteer, support, donation and hire routes become deeper.
+
+Institutional Complexity
+≠
+Universal Guest Complexity
+
+Comparison 122 — Variable Product Can Sit Inside Stable Participation
+
+A changing surplus-led menu remains within stable lunch timing, course form and access rules.
+
+Variable Menu
+≠
+Variable Commitment
+
+Comparison 123 — Commercial Commitment Can Cross-Support Non-Commercial Access
+
+Venue hire uses inquiry, viewing and contractual allocation while published income supports community dining.
+
+Commercial Reservation
+≠
+Mission Dilution
+
+Comparison 124 — A Guest Can Participate Without Becoming a Contributor
+
+Receiving lunch, sharing space and communicating needs are legitimate participation without required donation, labour or advocacy.
+
+Guest Participation
+≠
+Contributor Conversion
+
+Comparison 125 — Published Availability Cannot Prove Successful Allocation
+
+Schedules and contact routes establish intended access, not turn-away rates, appointment success, handoff quality or capacity performance.
+
+Published Route
+≠
+Performed Access
+
+Updated Reservation / Participation Thesis — Post Restaurant #18
+
+The strongest thesis remains:
+
+Participation is a state system, not a booking button.
+
+Refettorio Felix adds:
+
+a valid participation state
+
+may deliberately contain:
+
+no reservation object.
+
+The new allocation model is:
+
+Participant Role
+↓
+Access State
+↓
+Commitment Object
+↓
+Capacity Object
+↓
+Human or Procedural Allocation
+↓
+Participation
+↓
+Optional Continuation
+
+The lunch route is:
+
+Guest
+↓
+No Referral
+↓
+No Reservation
+↓
+First-Come Capacity
+↓
+Human Welcome
+↓
+Shared Meal
+
+The strongest correction is:
+
+No Reservation
+≠
+No Participation Structure
+
+Post–Refettorio Felix Reservation Architecture Additions
+
+Non-Reservable Participation State
+
+A legitimate route is intentionally available without advance booking.
+
+Status:
+
+architecture direction
+
+not:
+
+a new pattern.
+
+First-Come Capacity Allocation
+
+Arrival order allocates finite resources and distributes uncertainty.
+
+Status:
+
+architecture direction
+
+not:
+
+a new pattern.
+
+No-Referral Eligibility Architecture
+
+Eligibility is widened through explicit non-requirement.
+
+Status:
+
+architecture direction
+
+not:
+
+a new pattern.
+
+Role-Specific Commitment Objects
+
+Each participant role receives its own commitment, consequence and capacity model.
+
+Status:
+
+architecture direction
+
+not:
+
+a new pattern.
+
+Stakeholder / Guest-Intent Separation
+
+Organisational route breadth does not inflate guest-intent taxonomy.
+
+Status:
+
+architecture direction
+
+not:
+
+a new pattern.
+
+Human-Routed Allocation
+
+People are the primary interface for ordinary capacity and exception handling.
+
+Status:
+
+architecture direction
+
+not:
+
+a new pattern.
+
+Distributed Capacity Inventory
+
+Meals, seats, labour, supervision, appointments and event dates are distinct.
+
+Status:
+
+architecture direction
+
+not:
+
+a new pattern.
+
+Drop-In / Appointment Coexistence
+
+One institution supports different access states by route.
+
+Status:
+
+architecture direction
+
+not:
+
+a new pattern.
+
+Stable Rule / Variable Product Participation
+
+Stable service rules contain changing food inputs.
+
+Status:
+
+architecture direction
+
+not:
+
+a new pattern.
+
+Cross-Support Commitment Architecture
+
+Commercial and contributory commitments support non-commercial guest access.
+
+Status:
+
+architecture direction
+
+not:
+
+a new pattern.
+
+Guest-Without-Contributor State
+
+Guests may participate without conversion into donor, worker or advocate.
+
+Status:
+
+architecture direction
+
+not:
+
+a new pattern.
+
+Published / Performed Allocation Separation
+
+Route visibility is not treated as successful fulfilment proof.
+
+Status:
+
+architecture direction
+
+not:
+
+a new pattern.
+
+Reservation / Participation Architecture — Post Restaurant #18 Consolidation
+
+The consolidated participation model now includes:
+
+guest intent
+
+participant role
+
+eligibility state
+
+route selection
+
+reservation state
+
+walk-in state
+
+scheduled non-reservable state
+
+first-come state
+
+commitment object
+
+payment state
+
+capacity object
+
+human allocation
+
+consequence disclosure
+
+preparation
+
+participation
+
+exception handling
+
+optional continuation
+
+cancellation or failure state
+
+Reservation is:
+
+one possible allocation object.
+
+It is not:
+
+the definition of participation.
+
+Current Reservation / Participation Pattern Pressure — Post Restaurant #18
+
+Walk-In as First-Class Participation
+
+Current state:
+
+Candidate / High
+
+Restaurant #18 pressure:
+
+Very strong reinforcement
+
+Boundary:
+
+Lunch is expressly first-come with no referral or advance call; High confidence remains unchanged.
+
+Decision:
+
+no confidence or maturity change.
+
+Hospitality System Proof
+
+Current state:
+
+Candidate / High
+
+Restaurant #18 pressure:
+
+Very strong reinforcement
+
+Boundary:
+
+Participation becomes legible only when the distributed operating system is explained.
+
+Decision:
+
+no confidence or maturity change.
+
+Manageable Commitment
+
+Current state:
+
+Candidate / Medium
+
+Restaurant #18 pressure:
+
+Very strong reinforcement
+
+Boundary:
+
+Commitment remains low for lunch and deepens by role consequence.
+
+Decision:
+
+no confidence or maturity change.
+
+Participation Rule Consistency
+
+Current state:
+
+Candidate / Medium
+
+Restaurant #18 pressure:
+
+Support pending performance
+
+Boundary:
+
+Published rules are coherent; live and cross-surface performance remains unverified.
+
+Decision:
+
+no confidence or maturity change.
+
+Layered Arrival
+
+Current state:
+
+Candidate / Medium
+
+Restaurant #18 pressure:
+
+Strong support
+
+Boundary:
+
+Participation can move from open lunch to optional support without one dense funnel.
+
+Decision:
+
+no confidence or maturity change.
+
+Participation Throughout the Journey
+
+Current state:
+
+Candidate / Medium
+
+Restaurant #18 pressure:
+
+Strong reinforcement
+
+Boundary:
+
+Guest agency continues through arrival, meal, social participation and optional care.
+
+Decision:
+
+no confidence or maturity change.
+
+Capacity Proof
+
+Current state:
+
+Candidate / Medium-High
+
+Restaurant #18 pressure:
+
+Very strong pressure
+
+Boundary:
+
+First-come access makes meals, seats, labour, appointments and turn-away evidence material.
+
+Decision:
+
+no confidence or maturity change.
+
+Stable Participation / Variable Product
+
+Current state:
+
+Candidate / Medium
+
+Restaurant #18 pressure:
+
+Very strong reinforcement
+
+Boundary:
+
+Daily menu change is contained by stable lunch rules.
+
+Decision:
+
+no confidence or maturity change.
+
+Human Assistance Where Structured Self-Service Is Insufficient
+
+Current state:
+
+Candidate / Medium
+
+Restaurant #18 pressure:
+
+Very strong reinforcement
+
+Boundary:
+
+Human coordination is normal infrastructure rather than exceptional escalation.
+
+Decision:
+
+no confidence or maturity change.
+
+Multi-Intent Hospitality
+
+Current state:
+
+Candidate / Medium
+
+Restaurant #18 pressure:
+
+Definition stress
+
+Boundary:
+
+Many stakeholder roles do not automatically establish many guest intents.
+
+Decision:
+
+no confidence or maturity change.
+
+Commitment Without Pressure
+
+Current state:
+
+Emerging
+
+Restaurant #18 pressure:
+
+Strong support with boundary
+
+Boundary:
+
+No price or booking still carries travel, queue, disclosure and social commitments.
+
+Decision:
+
+no confidence or maturity change.
+
+The Guest as Participant
+
+Current state:
+
+Emerging
+
+Restaurant #18 pressure:
+
+Strong but broad support
+
+Boundary:
+
+Guests participate without compulsory contribution.
+
+Decision:
+
+no confidence or maturity change.
+
+Escalating Participation Complexity
+
+Current state:
+
+Emerging
+
+Restaurant #18 pressure:
+
+Boundary pressure
+
+Boundary:
+
+Complexity rises across roles and consequences rather than through universal interface depth.
+
+Decision:
+
+no confidence or maturity change.
+
+Own the Guest Relationship
+
+Current state:
+
+Partially Supported / Medium
+
+Restaurant #18 pressure:
+
+Limited support
+
+Boundary:
+
+Direct institutional contact exists, but CRM, data control and longitudinal ownership remain unverified.
+
+Decision:
+
+no confidence or maturity change.
+
+Post–Refettorio Felix Reservation Corrections
+
+Correction 94
+
+Reservation absence can be an intentional participation state.
+
+Correction 95
+
+First-come is capacity allocation, not absence of capacity logic.
+
+Correction 96
+
+No referral is an eligibility decision.
+
+Correction 97
+
+One institution can contain several commitment objects.
+
+Correction 98
+
+Stakeholder routes must not inflate guest-intent count.
+
+Correction 99
+
+Minimal guest process may depend on complex human routing.
+
+Correction 100
+
+Seat capacity is only one participation stock.
+
+Correction 101
+
+No transaction does not mean no commitment.
+
+Correction 102
+
+Human assistance can be the primary allocation interface.
+
+Correction 103
+
+Drop-in and appointment states can coexist.
+
+Correction 104
+
+Complexity should scale by role consequence.
+
+Correction 105
+
+Stable participation can contain a variable menu.
+
+Correction 106
+
+Commercial reservation can cross-support non-commercial access.
+
+Correction 107
+
+Guest participation does not require contributor conversion.
+
+Correction 108
+
+Published route availability does not prove successful allocation.
+
+Correction 109
+
+Attempted dietary accommodation is not a safety guarantee.
+
+Correction 110
+
+Open access does not prove equitable burden distribution.
+
+Strongest Reservation / Participation Tensions After Restaurant #18
+
+Tension 23 — Open Access vs Finite Capacity
+
+Low-threshold lunch access coexists with bounded meals, seats, labour and time.
+
+Tension 24 — No Booking vs Arrival Risk
+
+The simplest advance process may transfer uncertainty to the guest.
+
+Tension 25 — Human Flexibility vs Rule Consistency
+
+People can respond sensitively while making allocation harder to standardise and audit.
+
+Tension 26 — Stakeholder Breadth vs Guest-Intent Precision
+
+Many organisational roles can distort a guest-centred pattern definition.
+
+Tension 27 — Drop-In Simplicity vs Appointment Specificity
+
+One institution needs opposite commitment states without confusing them.
+
+Tension 28 — Variable Menu vs Dietary Consequence
+
+Product flexibility must coexist with honest accommodation boundaries.
+
+Tension 29 — Guest Participation vs Contributor Pressure
+
+A social mission must not make donation, labour or advocacy feel obligatory.
+
+Tension 30 — Commercial Allocation vs Open-Door Mission
+
+Contracted venue use can support lunch while competing for space, time or narrative attention.
+
+Reservation Falsification Programme After Restaurant #18
+
+Measure lunch turn-away frequency and reasons.
+
+Document queue and first-come allocation practice.
+
+Test whether guests understand that no referral is required.
+
+Test whether guests still experience felt-eligibility friction.
+
+Verify meal, seat, kitchen and front-of-house capacity separately.
+
+Record how staff communicate capacity before and at arrival.
+
+Compare published and performed lunch windows.
+
+Audit how dietary needs are captured and handed off.
+
+Separate attempted accommodation from allergen assurance.
+
+Test whether human routing produces inconsistent decisions.
+
+Map every participant role and route.
+
+Keep lunch guest, support user, volunteer, donor, hirer, chef and partner distinct.
+
+Identify the commitment object for each route.
+
+Identify the capacity object for each route.
+
+Identify the cancellation or failure state for each route.
+
+Compare lunch drop-in with Glass Door and Age UK access.
+
+Compare lunch drop-in with Green Rooms appointment access.
+
+Verify recognised-client conditions for therapy.
+
+Test handoffs between meal and support.
+
+Verify that support participation remains optional.
+
+Audit volunteer shift allocation, induction and cancellation.
+
+Audit volunteer supervision and safeguarding capacity.
+
+Test in-kind donation acceptance and coordination.
+
+Audit venue-hire inquiry, viewing, contract and availability.
+
+Measure whether venue hire displaces or supports community service.
+
+Separate guest-chef scheduling from routine kitchen capacity.
+
+Test whether guests can participate without donation or advocacy.
+
+Test whether no payment creates uncertainty about expected reciprocity.
+
+Compare first-time and repeat-guest participation burden.
+
+Assess burden across mobility, transport, health and schedule conditions.
+
+Test cross-surface rule consistency.
+
+Test mobile comprehension of every route.
+
+Measure how often staff answer questions omitted online.
+
+Compare role-specific depth with a universal-form alternative.
+
+Test whether variable menu changes the participation promise.
+
+Compare with referral-based free dining.
+
+Compare with booking-based free dining.
+
+Compare with pay-what-you-can hospitality.
+
+Compare with a commercial restaurant offering integrated support.
+
+Do not infer successful access from published availability alone.
+
+Participation Deduplication Decisions — Restaurant #18
+
+Non-Reservable Participation State refines the participation-state model.
+
+First-Come Capacity Allocation refines Walk-In as First-Class and Capacity Proof.
+
+No-Referral Eligibility Architecture is an access mechanism, not a separate pattern.
+
+Role-Specific Commitment Objects refine Multi-Intent Hospitality boundaries.
+
+Stakeholder / Guest-Intent Separation is a taxonomy correction.
+
+Human-Routed Allocation refines Human Assistance.
+
+Distributed Capacity Inventory refines Capacity Proof.
+
+Guest-Without-Contributor State refines The Guest as Participant.
+
+Restaurant #18 Reservation Decision Ledger
+
+Add Refettorio Felix as the eighteenth independent reservation case.
+
+Classify lunch as an intentional non-reservable participation state.
+
+Treat first-come as a capacity allocation mechanism.
+
+Treat no referral as explicit eligibility architecture.
+
+Separate open access from unlimited capacity.
+
+Record several distinct commitment objects.
+
+Require stakeholder role before route design.
+
+Preserve stakeholder / guest-intent separation.
+
+Treat human routing as primary allocation infrastructure.
+
+Separate guest-interface simplicity from operational simplicity.
+
+Record distributed capacity beyond seats.
+
+Treat no transaction as compatible with material commitment.
+
+Allow drop-in and appointment states inside one institution.
+
+Scale interface depth by consequence and role.
+
+Treat variable menu and stable rules as strong pattern pressure.
+
+Treat venue hire as cross-support architecture.
+
+Do not infer net subsidy or absence of competition for capacity.
+
+Protect a guest-without-contributor state.
+
+Treat published availability as mechanism evidence only.
+
+Treat dietary accommodation conservatively.
+
+Reinforce Walk-In as First-Class without changing High confidence.
+
+Reinforce Manageable Commitment without changing confidence.
+
+Add pressure to Capacity Proof without changing confidence.
+
+Reinforce Stable Participation / Variable Product without changing confidence.
+
+Reinforce Human Assistance without changing confidence.
+
+Apply definition stress to Multi-Intent Hospitality.
+
+Retain Commitment Without Pressure at Emerging.
+
+Make no promotion, demotion, merge or rename.
+
+Make no confidence or maturity change.
+
+Reserve governance decisions until all five Restaurant #18 comparisons are complete.
+
+Reservation / Participation Comparison Conclusion — Post Refettorio Felix, London
+
+After:
+
+18
+
+independent restaurants,
+
+the strongest participation thesis remains:
+
+Participation is a state system, not a booking button.
+
+Dans le Noir? showed:
+
+a simple booking surface can contain deep consequence and preparation.
+
+DAWN showed:
+
+one venue can allocate multiple human and technological relationship objects.
+
+Refettorio Felix shows:
+
+a principal hospitality route can be intentionally non-reservable while the institution remains highly structured.
+
+The strongest combined model is:
+
+Role
+↓
+Relevant Route
+↓
+Relevant Capacity
+↓
+Proportionate Commitment
+↓
+Human + Procedural Support
+↓
+Participation
+
+The strongest new access boundary is:
+
+No Referral
+≠
+No Eligibility Architecture
+
+The strongest new capacity boundary is:
+
+Available Seat
+≠
+Available Participation
+
+The strongest taxonomy boundary is:
+
+Stakeholder Route
+≠
+Guest Intent
+
+Formal maturity decisions remain reserved until all five Restaurant #18 comparison files are complete.
+
+Evidence wins.
+
+Validation — Post Restaurant #18
+
+Comparison File:
+
+khds/research/comparison/reservation.md
+
+Status:
+
+Post–Refettorio Felix, London Complete
+
+Independent Restaurants Compared:
+
+18
+
+Latest Case:
+
+Refettorio Felix, London
+
+Primary Governance Watch:
+
+Capacity Proof — Distributed Capacity Boundary
+
+Secondary Governance Watch:
+
+Walk-In as First-Class Participation — Non-Reservable Participation
+
+Third Governance Watch:
+
+Human Assistance — Human-Routed Allocation
+
+Strongest New Participation State:
+
+Non-Reservable Participation
+
+Strongest New Allocation State:
+
+First-Come Capacity
+
+Strongest New Taxonomy Refinement:
+
+Stakeholder / Guest-Intent Separation
+
+Strongest New Capacity Refinement:
+
+Distributed Capacity Inventory
+
+Strongest New Access Boundary:
+
+No Reservation
+
+≠
+
+No Participation Structure
+
+Strongest New Capacity Boundary:
+
+Available Seat
+
+≠
+
+Available Participation
+
+Formal Promotions:
+
+0
+
+Formal Demotions:
+
+0
+
+Confidence Changes:
+
+0
+
+Governance Changes:
+
+0
+
+Canonical Candidate Count:
+
+26
+
+Canonical Emerging Count:
+
+8
+
+Canonical Partially Supported Count:
+
+1
+
+Canonical Validated Count:
+
+0
+
+Research-Derived KHDS Principles:
 
 0
 

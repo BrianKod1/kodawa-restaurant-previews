@@ -2,11 +2,11 @@ KHDS Cross-Restaurant Comparison — Atmosphere
 
 Status
 
-Post–Avatar Robot Café DAWN, Tokyo Comparison
+Post–Refettorio Felix, London Comparison
 
 Restaurants Compared:
 
-17
+18
 
 Track:
 
@@ -14,7 +14,7 @@ Track A — Independent Hospitality Research
 
 Latest Added Case:
 
-Avatar Robot Café DAWN — Tokyo
+Refettorio Felix — London
 
 Comparison Status:
 
@@ -78,7 +78,7 @@ all:
 
 five:
 
-post–Restaurant #17:
+post–Restaurant #18:
 
 comparison files
 
@@ -185,6 +185,8 @@ Restaurant Pearl Morissette
 Dans le Noir? London
 
 Avatar Robot Café DAWN, Tokyo
+
+Refettorio Felix, London
 
 Current Atmosphere Thesis
 
@@ -9271,6 +9273,1246 @@ Canonical Candidate Count:
 Canonical Emerging Count:
 
 9
+
+Canonical Partially Supported Count:
+
+1
+
+Canonical Validated Count:
+
+0
+
+Research-Derived KHDS Principles:
+
+0
+
+Next Comparison File:
+
+khds/research/comparison/photography.md
+
+Post–Refettorio Felix, London Reconciliation
+
+Restaurant added:
+
+Restaurant #18
+
+Refettorio Felix
+
+London.
+
+Research role:
+
+Hospitality Without Transaction
+
+Care-Infrastructure Atmosphere Case.
+
+Comparison status:
+
+Atmosphere reconciliation complete.
+
+Canonical governance decision:
+
+pending completion of all five Restaurant #18 comparison files.
+
+Restaurant #18 Atmosphere Evidence Input
+
+Restaurant files reconciled:
+
+khds/research/restaurants/refettorio-felix-london/README.md
+
+khds/research/restaurants/refettorio-felix-london/arrival.md
+
+khds/research/restaurants/refettorio-felix-london/atmosphere.md
+
+khds/research/restaurants/refettorio-felix-london/photography.md
+
+khds/research/restaurants/refettorio-felix-london/reservation.md
+
+khds/research/restaurants/refettorio-felix-london/story.md
+
+khds/research/restaurants/refettorio-felix-london/knowledge-extraction.md
+
+Published atmospheric mechanisms:
+
+designed dining hall
+
+shared tables
+
+weekday three-course lunch
+
+daily changing surplus-led menu
+
+staff-and-volunteer service
+
+local institutional continuity
+
+optional advice and care
+
+Green Rooms
+
+venue-hire cross-support
+
+These establish:
+
+published mechanism and visible configuration.
+
+They do not independently establish:
+
+felt welcome
+
+experienced dignity
+
+safety
+
+belonging
+
+privacy quality
+
+accessibility outcome
+
+food quality
+
+representative impact.
+
+Current Canonical Entry State — Before Restaurant #18 Decision
+
+Completed independent restaurants:
+
+17
+
+Candidate patterns:
+
+26
+
+Emerging patterns:
+
+8
+
+Partially Supported patterns:
+
+1
+
+Validated patterns:
+
+0
+
+Research-derived KHDS Principles:
+
+0
+
+No count changes are authorised here.
+
+Comparison 91 — Atmosphere Can Be Care Infrastructure Before It Is Emotion
+
+Refettorio Felix combines place, food, service and support into conditions for hospitality. Those mechanisms are visible; their emotional success is not automatically proven.
+
+
+Atmospheric Infrastructure
+
+≠
+
+Experienced Atmosphere
+
+
+Comparison 92 — Designed Welcome Cannot Prove Experienced Dignity
+
+The hall and Green Rooms have named design authorship, but design prestige cannot establish how every guest experiences safety, agency, privacy or worth.
+
+
+Designed Welcome
+
+≠
+
+Experienced Dignity
+
+
+Comparison 93 — Shared Dining Creates Social Conditions, Not Guaranteed Belonging
+
+Tables, proximity and a common meal may enable connection while also creating exposure, overstimulation or reduced control.
+
+
+Shared Space
+
+≠
+
+Shared Belonging
+
+
+Comparison 94 — Food Can Carry Atmosphere Without Visual Luxury
+
+A changing three-course meal made from surplus can carry care, rhythm, smell, anticipation and transformation without depending on conventional luxury cues.
+
+
+Surplus Input
+
+≠
+
+Inferior Atmosphere
+
+
+Comparison 95 — Human Service Can Be the Primary Atmospheric Carrier
+
+Staff and volunteers carry tone, welcome, attentiveness, pacing, interpretation and recovery across a variable daily service.
+
+
+Designed Room
+
+≠
+
+Complete Atmosphere
+
+
+Comparison 96 — Volunteer Presence Can Be Structured Without Becoming Informal
+
+Volunteer participation can strengthen social energy and care only when roles, supervision, safeguarding and continuity remain governed.
+
+
+Volunteer Warmth
+
+≠
+
+Operational Consistency
+
+
+Comparison 97 — Atmosphere Begins With Felt Eligibility
+
+A person may encounter the atmosphere before the room through the question of whether the invitation truly includes them.
+
+
+Open-Door Language
+
+≠
+
+Felt Welcome
+
+
+Comparison 98 — Privacy Can Be an Atmospheric Quality
+
+A guest's ability to receive hospitality without public disclosure, photography or testimony can materially shape safety and agency.
+
+
+Visibility
+
+≠
+
+Atmospheric Truth
+
+
+Comparison 99 — Care Beyond the Meal Can Extend the Atmospheric System
+
+Advice, mental-health support and therapy may extend trust beyond lunch while requiring separate privacy and role boundaries.
+
+
+Extended Care
+
+≠
+
+One Undifferentiated Atmosphere
+
+
+Comparison 100 — Commercial Cross-Support Can Affect Atmosphere Indirectly
+
+Venue hire may help sustain the community service, but the commercial route does not by itself prove the atmosphere or mission outcome of lunch.
+
+
+Commercial Support
+
+≠
+
+Guest Atmosphere Proven
+
+
+Comparison 101 — Named Design Can Organise Attention Without Becoming the Story
+
+Ilse Crawford and Minnie Kemp establish authored spatial intervention. The relevant question is what the design enables, not whose prestige decorates it.
+
+
+Design Biography
+
+≠
+
+Atmospheric Outcome
+
+
+Comparison 102 — Stable Service Rhythm Can Hold Variable Product
+
+The menu changes while weekday lunch timing, three-course form, shared room and service roles create repeatable atmospheric structure.
+
+
+Variable Menu
+
+≠
+
+Atmospheric Instability
+
+
+Comparison 103 — Social Mission Can Operate as an Atmospheric Prior
+
+The published purpose shapes expectation before arrival, but moral positioning can also pressure guests or researchers to report positive feeling.
+
+
+Mission Promise
+
+≠
+
+Positive Atmosphere
+
+
+Comparison 104 — Activity Counts Cannot Verify Atmosphere
+
+Meals, guests, recovered food and volunteer counts establish scale and activity, not comfort, dignity, belonging or relationship quality.
+
+
+Atmospheric Activity
+
+≠
+
+Atmospheric Outcome
+
+
+Comparison 105 — A Non-Transactional Room Still Requires Full Hospitality Standards
+
+The absence of price does not reduce the need for food quality, environmental care, clarity, service and accountability.
+
+
+Free Access
+
+≠
+
+Low-Value Atmosphere
+
+
+Updated Atmosphere Thesis — Post Restaurant #18
+
+The strongest thesis becomes:
+
+Atmosphere is the guest-facing environmental state produced by the interaction of place, people, product, participation, time and worldview; visible mechanisms can support that state without proving its lived outcome.
+
+Refettorio Felix adds:
+
+care infrastructure
+
+and:
+
+non-transactional guesthood
+
+to the atmospheric model.
+
+The new mechanism sequence is:
+
+
+Felt Eligibility
+
+↓
+
+Human Welcome
+
+↓
+
+Shared Space
+
++
+
+Variable Meal
+
++
+
+Service Rhythm
+
+↓
+
+Relational Possibility
+
+↓
+
+Optional Care Continuity
+
+
+The strongest boundary is:
+
+
+Designed Welcome
+
+≠
+
+Experienced Dignity
+
+
+Post–Refettorio Felix Atmosphere Architecture Additions
+
+Care Infrastructure Atmosphere
+
+Atmosphere is supported by coordinated food, place, service, privacy and optional care.
+
+Status:
+
+architecture variable
+
+not:
+
+a new pattern.
+
+Dignity-Supporting Environment
+
+The system removes avoidable degrading friction without claiming to create human worth.
+
+Status:
+
+architecture variable
+
+not:
+
+a new pattern.
+
+Shared-Meal Social Field
+
+A common meal creates relational possibility rather than guaranteed connection.
+
+Status:
+
+architecture variable
+
+not:
+
+a new pattern.
+
+Human-Rhythm Atmosphere
+
+Staff and volunteers carry pacing, welcome, interpretation and continuity.
+
+Status:
+
+architecture variable
+
+not:
+
+a new pattern.
+
+Privacy-Compatible Atmosphere
+
+Guest safety and agency do not depend on public visibility.
+
+Status:
+
+architecture variable
+
+not:
+
+a new pattern.
+
+Felt-Eligibility Atmosphere
+
+The invitation's perceived relevance shapes atmosphere before entry.
+
+Status:
+
+architecture variable
+
+not:
+
+a new pattern.
+
+Stable-Service / Variable-Menu Atmosphere
+
+Repeated service form contains changing surplus-led food.
+
+Status:
+
+architecture variable
+
+not:
+
+a new pattern.
+
+Meal-to-Care Atmospheric Continuity
+
+Trust may continue into support while route boundaries remain explicit.
+
+Status:
+
+architecture variable
+
+not:
+
+a new pattern.
+
+Cross-Supported Atmospheric Capacity
+
+Commercial and donated resources sustain the environmental system indirectly.
+
+Status:
+
+architecture variable
+
+not:
+
+a new pattern.
+
+Authored Space / Unverified Outcome
+
+Named design is separated from experienced effect.
+
+Status:
+
+architecture variable
+
+not:
+
+a new pattern.
+
+Activity / Experience Separation
+
+Operational scale remains distinct from lived atmosphere.
+
+Status:
+
+architecture variable
+
+not:
+
+a new pattern.
+
+Non-Transactional Hospitality Standard
+
+Absence of price does not weaken environmental or service responsibility.
+
+Status:
+
+architecture variable
+
+not:
+
+a new pattern.
+
+Atmosphere Architecture — Post Restaurant #18 Consolidation
+
+The consolidated mechanism family now includes:
+
+visual composition
+
+materiality
+
+sensory removal
+
+social energy
+
+privacy
+
+service rhythm
+
+human presence
+
+mediated presence
+
+worldview
+
+local continuity
+
+productive context
+
+destination context
+
+time
+
+ritual
+
+care infrastructure
+
+felt eligibility
+
+shared-meal social field
+
+privacy-compatible participation
+
+stable service / variable product
+
+optional care continuity
+
+No case requires:
+
+every mechanism.
+
+Atmosphere must be analysed through:
+
+the mechanisms actually capable of shaping that guest-facing state.
+
+Current Atmosphere Pattern Pressure — Post Restaurant #18
+
+Atmosphere Through Worldview
+
+Current state:
+
+Candidate / High
+
+Restaurant #18 pressure:
+
+Very strong reinforcement
+
+Boundary:
+
+The worldview is enacted through food recovery, shared service, privacy and care; outcome remains unverified.
+
+Decision:
+
+no confidence or maturity change.
+
+Atmosphere Through Consistency
+
+Current state:
+
+Candidate / Medium
+
+Restaurant #18 pressure:
+
+Strong pressure
+
+Boundary:
+
+Repeated service rhythms may create consistency, but actual performance across days is unknown.
+
+Decision:
+
+no confidence or maturity change.
+
+Atmosphere Through Continuity
+
+Current state:
+
+Candidate / Medium-High
+
+Restaurant #18 pressure:
+
+Strong reinforcement
+
+Boundary:
+
+Long local service history and current repeated lunch connect place and time.
+
+Decision:
+
+no confidence or maturity change.
+
+Designed Escape
+
+Current state:
+
+Candidate / Medium
+
+Restaurant #18 pressure:
+
+Definition pressure
+
+Boundary:
+
+Relief may occur, but escape language risks defining guests through deficit or assuming desired withdrawal.
+
+Decision:
+
+no confidence or maturity change.
+
+Story Through Hospitality Model
+
+Current state:
+
+Candidate / High
+
+Restaurant #18 pressure:
+
+Very strong reinforcement
+
+Boundary:
+
+The operating model materially shapes the environmental meaning.
+
+Decision:
+
+no confidence or maturity change.
+
+Hospitality System Proof
+
+Current state:
+
+Candidate / High
+
+Restaurant #18 pressure:
+
+Strong reinforcement
+
+Boundary:
+
+The atmospheric claim requires visible mechanisms, capacity and role clarity.
+
+Decision:
+
+no confidence or maturity change.
+
+Narrative Coherence Through Organising Logic
+
+Current state:
+
+Candidate / High
+
+Restaurant #18 pressure:
+
+Strong reinforcement
+
+Boundary:
+
+Food recovery, welcome, service and support share an organising logic.
+
+Decision:
+
+no confidence or maturity change.
+
+Human Assistance Where Structured Self-Service Is Insufficient
+
+Current state:
+
+Candidate / Medium
+
+Restaurant #18 pressure:
+
+Very strong reinforcement
+
+Boundary:
+
+People are intended atmospheric and care infrastructure.
+
+Decision:
+
+no confidence or maturity change.
+
+Atmosphere as Product
+
+Current state:
+
+Emerging
+
+Restaurant #18 pressure:
+
+Very strong structural pressure
+
+Boundary:
+
+Atmosphere is materially part of the offer, but its definition and guest outcome remain insufficient for promotion.
+
+Decision:
+
+no confidence or maturity change.
+
+Multi-Intent Hospitality
+
+Current state:
+
+Candidate / Medium
+
+Restaurant #18 pressure:
+
+Boundary pressure
+
+Boundary:
+
+Stakeholder-specific environments do not automatically equal multiple guest intents.
+
+Decision:
+
+no confidence or maturity change.
+
+The Guest as Participant
+
+Current state:
+
+Emerging
+
+Restaurant #18 pressure:
+
+Strong but bounded support
+
+Boundary:
+
+Guests help constitute the shared room without being required to perform mission labour.
+
+Decision:
+
+no confidence or maturity change.
+
+Stable Participation / Variable Product
+
+Current state:
+
+Candidate / Medium
+
+Restaurant #18 pressure:
+
+Strong reinforcement
+
+Boundary:
+
+Stable dining form contains daily menu variability.
+
+Decision:
+
+no confidence or maturity change.
+
+Photography as Proof
+
+Current state:
+
+Candidate / Medium-High
+
+Restaurant #18 pressure:
+
+Ethical boundary pressure
+
+Boundary:
+
+Atmospheric proof cannot depend on exposing vulnerable guests.
+
+Decision:
+
+no confidence or maturity change.
+
+Story Through Place
+
+Current state:
+
+Candidate / High
+
+Restaurant #18 pressure:
+
+Strong reinforcement
+
+Boundary:
+
+The St Cuthbert's history and later spatial transformation shape the place narrative.
+
+Decision:
+
+no confidence or maturity change.
+
+Post–Refettorio Felix Atmosphere Corrections
+
+Correction 78
+
+Atmosphere mechanism must remain separate from guest outcome.
+
+Correction 79
+
+Designed welcome does not prove experienced dignity.
+
+Correction 80
+
+Named designers do not prove accessibility, safety or belonging.
+
+Correction 81
+
+Shared tables do not prove social connection.
+
+Correction 82
+
+Proximity can create both relationship opportunity and exposure risk.
+
+Correction 83
+
+Surplus ingredients do not imply an inferior atmospheric product.
+
+Correction 84
+
+Human service may be a stronger atmospheric carrier than visual design.
+
+Correction 85
+
+Volunteer warmth does not remove the need for role governance.
+
+Correction 86
+
+Open-door language does not prove felt welcome.
+
+Correction 87
+
+Guest privacy can be positive atmospheric infrastructure.
+
+Correction 88
+
+Care beyond the meal must retain separate consent and role boundaries.
+
+Correction 89
+
+Venue hire can support capacity without proving lunch atmosphere.
+
+Correction 90
+
+Stable service form can contain variable product.
+
+Correction 91
+
+Mission coherence does not prove positive feeling.
+
+Correction 92
+
+Activity counts do not establish lived atmosphere.
+
+Correction 93
+
+Free access does not lower hospitality standards.
+
+Correction 94
+
+Dignity is recognised and supported, not manufactured by the institution.
+
+Strongest Atmosphere Tensions After Restaurant #18
+
+Tension 23 — Designed Welcome vs Experienced Dignity
+
+Spatial care may support respect while lived interpretation varies by guest and moment.
+
+Tension 24 — Shared Sociality vs Privacy
+
+Communal dining may enable connection while limiting control or anonymity.
+
+Tension 25 — Human Warmth vs Operational Consistency
+
+Relational flexibility can strengthen atmosphere while complicating repeatability and proof.
+
+Tension 26 — Mission Confidence vs Emotional Pressure
+
+Purpose may reassure some guests while making positive response feel morally expected.
+
+Tension 27 — Variable Food vs Stable Atmosphere
+
+Daily menu change must remain inside a recognisable service promise.
+
+Tension 28 — Care Continuity vs Role Clarity
+
+Support can deepen hospitality while risking medicalisation or route confusion.
+
+Tension 29 — Design Authorship vs Local Agency
+
+Prestige can draw attention while staff, volunteers and guests carry daily atmosphere.
+
+Tension 30 — Activity Scale vs Experiential Specificity
+
+Large output numbers may make the system visible while saying little about individual experience.
+
+Post–Refettorio Felix Atmosphere Falsification Programme
+
+Observe atmosphere across several ordinary lunch services.
+
+Compare high-occupancy and low-occupancy conditions.
+
+Compare early, peak and late service periods.
+
+Separate the effects of space, food, staff, volunteers and peers.
+
+Use consented guest research to test dignity, safety, agency, comfort and belonging separately.
+
+Seek negative, neutral and ambivalent experiences.
+
+Test whether shared tables increase or reduce control for different guests.
+
+Audit acoustic, sensory, mobility and cognitive access.
+
+Observe whether guests can choose degrees of social participation.
+
+Test whether privacy is preserved at arrival, dining and support handoff.
+
+Audit photography and testimony practices as atmospheric conditions.
+
+Verify whether guests can decline visibility without affecting service.
+
+Observe how staff and volunteers establish tone and recover disruption.
+
+Verify role, training, supervision and safeguarding for volunteers.
+
+Compare atmosphere when volunteer numbers or experience vary.
+
+Test whether stable service rhythms survive menu variability.
+
+Observe how surplus-led food is introduced or explained.
+
+Do not infer taste quality from photography or three-course form.
+
+Test whether felt eligibility changes before physical arrival.
+
+Compare first-time and repeat-guest atmospheric interpretation.
+
+Assess whether open-door language reduces or increases uncertainty.
+
+Observe meal-to-support transitions and privacy boundaries.
+
+Verify that support remains optional and non-stigmatising.
+
+Compare dining-hall and Green Rooms atmospheric states.
+
+Test whether one coherent worldview permits route-specific atmosphere.
+
+Measure whether commercial events alter the lunch environment.
+
+Verify the practical cross-support relationship of venue hire.
+
+Separate guest-chef events from ordinary daily atmosphere.
+
+Separate named design authorship from routine environmental performance.
+
+Assess the room without prior knowledge of designer names.
+
+Compare official activity figures with independent experience evidence.
+
+Do not treat testimony as representative without method.
+
+Compare with a community kitchen lacking prestige design.
+
+Compare with referral-based community dining.
+
+Compare with pay-what-you-can commercial hospitality.
+
+Compare with food recovery without hosted dining.
+
+Test transfer where volunteer density is lower.
+
+Test transfer where support partners are absent.
+
+Test atmosphere during operational failure or reduced capacity.
+
+Do not infer social outcome from atmospheric mechanism.
+
+Post–Refettorio Felix Comparative Decisions
+
+Add Refettorio Felix as the eighteenth independent atmosphere case.
+
+Classify its primary mechanism as care-infrastructure atmosphere.
+
+Treat designed welcome as mechanism rather than outcome.
+
+Preserve designed welcome / experienced dignity separation.
+
+Treat shared dining as relational opportunity rather than guaranteed belonging.
+
+Record shared-space privacy risk.
+
+Treat food as a legitimate atmospheric carrier.
+
+Reject surplus-input / inferior-atmosphere equivalence.
+
+Treat staff and volunteers as primary atmospheric infrastructure.
+
+Retain volunteer governance as a capacity requirement.
+
+Record felt eligibility as a pre-arrival atmospheric variable.
+
+Treat privacy as potential atmospheric strength.
+
+Treat care beyond the meal as extended but route-specific atmosphere.
+
+Treat venue hire as indirect cross-support, not guest-outcome proof.
+
+Treat named design as authorship evidence.
+
+Do not treat design prestige as performance evidence.
+
+Treat stable service / variable menu as strong pattern pressure.
+
+Separate mission promise from positive atmosphere.
+
+Separate activity counts from atmospheric experience.
+
+Preserve full hospitality standards in a non-transactional model.
+
+Reinforce Atmosphere Through Worldview without changing High confidence.
+
+Add pressure to Atmosphere Through Consistency without changing confidence.
+
+Reinforce Atmosphere Through Continuity without changing confidence.
+
+Add very strong pressure to Atmosphere as Product without promotion.
+
+Reinforce Human Assistance without changing confidence.
+
+Apply definition pressure to Multi-Intent Hospitality.
+
+Retain The Guest as Participant at Emerging.
+
+Make no promotion, demotion, merge or rename.
+
+Make no confidence or maturity change.
+
+Reserve governance decisions until all five Restaurant #18 comparisons are complete.
+
+Post–Refettorio Felix Atmosphere Comparison Conclusion
+
+After:
+
+18
+
+independent restaurants,
+
+KHDS atmosphere research supports:
+
+a mechanism-led and outcome-bounded model.
+
+Restaurant #16 showed:
+
+atmosphere through sensory removal and human guidance.
+
+Restaurant #17 showed:
+
+atmosphere through mediated human presence.
+
+Restaurant #18 shows:
+
+atmosphere through care infrastructure, shared hospitality and non-transactional guesthood.
+
+The strongest new equation is:
+
+
+Place
+
++
+
+Food
+
++
+
+Human Service
+
++
+
+Privacy
+
++
+
+Care Continuity
+
+→
+
+Atmospheric Conditions
+
+
+But:
+
+
+Atmospheric Conditions
+
+≠
+
+Universal Guest Outcome
+
+
+The strongest new correction is:
+
+
+Designed Welcome
+
+≠
+
+Experienced Dignity
+
+
+The strongest social boundary is:
+
+
+Shared Dining
+
+≠
+
+Guaranteed Belonging
+
+
+The strongest evidence boundary is:
+
+
+Activity Count
+
+≠
+
+Atmospheric Outcome
+
+
+Formal maturity decisions remain reserved until all five Restaurant #18 comparison files are complete.
+
+Evidence wins.
+
+Validation — Post Restaurant #18
+
+Comparison File:
+
+khds/research/comparison/atmosphere.md
+
+Status:
+
+Post–Refettorio Felix, London Complete
+
+Independent Restaurants Compared:
+
+18
+
+Latest Case:
+
+Refettorio Felix, London
+
+Primary New Governance Watch:
+
+Atmosphere as Product
+
+Primary Confidence Watch:
+
+Atmosphere Through Consistency
+
+Strongest New Atmosphere Direction:
+
+Care Infrastructure Atmosphere
+
+Strongest New Human Direction:
+
+Human-Rhythm Atmosphere
+
+Strongest New Social Direction:
+
+Shared-Meal Social Field
+
+Strongest New Privacy Direction:
+
+Privacy-Compatible Atmosphere
+
+Strongest New Outcome Correction:
+
+Designed Welcome
+
+≠
+
+Experienced Dignity
+
+Strongest Social Correction:
+
+Shared Dining
+
+≠
+
+Guaranteed Belonging
+
+Formal Promotions:
+
+0
+
+Formal Demotions:
+
+0
+
+Confidence Changes:
+
+0
+
+Governance Changes:
+
+0
+
+Canonical Candidate Count:
+
+26
+
+Canonical Emerging Count:
+
+8
 
 Canonical Partially Supported Count:
 
