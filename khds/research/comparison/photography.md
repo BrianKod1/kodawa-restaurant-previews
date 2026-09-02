@@ -2,11 +2,11 @@ KHDS Cross-Restaurant Comparison — Photography / Proof
 
 Status
 
-Post–Refettorio Felix, London Comparison
+Post–JBJ Soul Kitchen, Red Bank Comparison
 
 Restaurants Compared:
 
-18
+19
 
 Track:
 
@@ -14,7 +14,7 @@ Track A — Independent Hospitality Research
 
 Latest Added Case:
 
-Refettorio Felix — London
+JBJ Soul Kitchen — Red Bank, New Jersey
 
 Comparison Status:
 
@@ -84,7 +84,7 @@ all:
 
 five:
 
-post–Restaurant #18:
+post–Restaurant #19:
 
 comparison files
 
@@ -189,6 +189,8 @@ Dans le Noir? London
 Avatar Robot Café DAWN, Tokyo
 
 Refettorio Felix, London
+
+JBJ Soul Kitchen, Red Bank
 
 Current Photography / Proof Thesis
 
@@ -10264,6 +10266,2168 @@ Published Image
 ≠
 
 Verified Consent
+
+Formal Promotions:
+
+0
+
+Formal Demotions:
+
+0
+
+Confidence Changes:
+
+0
+
+Governance Changes:
+
+0
+
+Canonical Candidate Count:
+
+26
+
+Canonical Emerging Count:
+
+8
+
+Canonical Partially Supported Count:
+
+1
+
+Canonical Validated Count:
+
+0
+
+Research-Derived KHDS Principles:
+
+0
+
+Next Comparison File:
+
+khds/research/comparison/reservation.md
+
+Post–JBJ Soul Kitchen, Red Bank Photography Reconciliation
+
+Restaurant #19:
+
+JBJ Soul Kitchen, Red Bank
+
+extends the photography comparison from:
+
+dignity-preserving proof
+
+into:
+
+economic-status-blind proof.
+
+The latest four contradiction cases now establish:
+
+Dans le Noir?
+The Core Experience May Be Visually Unavailable
+
+Avatar Robot Café DAWN
+The Visible Object May Conceal Human Agency
+
+Refettorio Felix
+Visible Vulnerability May Be an Inappropriate Proof Subject
+
+JBJ Soul Kitchen
+A Visible Person Must Not Become Visible Economic Status
+
+Restaurant #19 adds a difficult evidence condition.
+
+The restaurant must demonstrate:
+
+food quality
+
+restaurant form
+
+shared hospitality
+
+human service
+
+volunteer participation
+
+reciprocal contribution
+
+operating capacity
+
+long-term activity
+
+without:
+
+identifying who could not donate
+
+identifying who volunteered in exchange for a meal
+
+turning need into the visual product
+
+implying consent from visibility
+
+claiming equal experience from shared-room imagery
+
+claiming social outcome from smiling faces
+
+The central comparative question is:
+
+How can photography make a flexible-contribution hospitality system credible when the economic state most relevant to the model should remain visually unavailable?
+
+Restaurant #19 is now:
+
+fully represented in this photography comparison.
+
+Formal maturity decisions remain:
+
+reserved for canonical reconciliation
+
+after:
+
+all five Restaurant #19 comparison files
+
+are complete.
+
+Restaurant #19 Photography Evidence Input
+
+The public visual system can potentially establish:
+
+visible food form
+
+restaurant setting
+
+kitchen activity
+
+garden or sourcing context
+
+staff identity
+
+volunteer presence
+
+founder presence
+
+public events
+
+group activity
+
+archival continuity
+
+location identity
+
+Photography cannot independently establish:
+
+taste
+
+nutrition
+
+same-meal consistency across contribution states
+
+economic-status privacy
+
+contribution neutrality
+
+informed consent
+
+consent persistence
+
+volunteer motivation
+
+volunteer empowerment
+
+whether volunteering is exchange-based
+
+equal service
+
+equal belonging
+
+dignity
+
+hospitality outcome
+
+pay-it-forward financial flow
+
+sustainable capacity
+
+reduced food insecurity
+
+social impact causality
+
+current representativeness of historical images
+
+The governing rule is:
+
+Visible Evidence
+Must Remain Within
+Visible Claim Scope
+
+All relationship,
+
+capacity,
+
+consent
+
+and:
+
+outcome claims
+
+require:
+
+additional evidence.
+
+Current Canonical Entry State — Before Restaurant #19 Photography Decision
+
+The completed canonical governance state remains:
+
+Independent Restaurants: 18
+Track B Validation Cases: 1
+Candidate Patterns: 26
+Emerging Patterns: 8
+Partially Supported Patterns: 1
+Validated Patterns: 0
+Research-Derived KHDS Principles: 0
+Implementation Patterns Pending Formal Validation: 1
+Opportunity Themes: 36
+Track B Implementation Learnings: 17
+Candidate Confidence: 9 High / 8 Medium-High / 9 Medium
+
+The photography comparison now represents:
+
+19 independent restaurant cases.
+
+This does not yet change:
+
+the canonical completed-restaurant count.
+
+Restaurant #19 contributes:
+
+comparative visual-evidence pressure
+
+consent boundaries
+
+privacy requirements
+
+architecture directions
+
+falsification targets
+
+It does not contribute:
+
+an automatic promotion.
+
+Comparison 123 — The Most Relevant Guest Fact May Need to Remain Invisible
+
+JBJ Soul Kitchen’s contribution model distinguishes among:
+
+suggested-donation participation
+
+additional pay-it-forward contribution
+
+inability to donate
+
+possible exchange-for-meal volunteering
+
+These differences are:
+
+operationally relevant.
+
+They should not become:
+
+visual guest categories.
+
+Therefore:
+
+Visible Person
+≠
+Visible Economic Status
+
+Photography must not invite the viewer to infer economic state from:
+
+clothing
+
+table position
+
+caption language
+
+queue position
+
+volunteer uniform
+
+service interaction
+
+image sequence
+
+page context
+
+The proof task is:
+
+showing the hospitality system
+
+without:
+
+sorting people inside it.
+
+Comparison 124 — Food Is the Safest Primary Subject and an Incomplete System Subject
+
+Food photography can demonstrate:
+
+restaurant seriousness
+
+culinary effort
+
+current product character
+
+presentation standard
+
+ingredient handling
+
+menu variety over time
+
+It can do so without:
+
+requiring a guest to display need.
+
+This makes food:
+
+the safest primary visual subject.
+
+But:
+
+food alone cannot demonstrate:
+
+contribution flexibility
+
+pay-it-forward flow
+
+volunteer relationships
+
+economic-state privacy
+
+equal service
+
+sourcing percentage
+
+operating sustainability
+
+Therefore:
+
+Capability Before Vulnerability
+
+is strong evidence architecture,
+
+while:
+
+Food Alone
+≠
+Hospitality-System Proof
+
+remains the boundary.
+
+Comparison 125 — A Finished Plate Cannot Prove Same-Meal Consistency
+
+One finished plate can show:
+
+one plate.
+
+Multiple selected plates can show:
+
+multiple selected plates.
+
+Neither can establish:
+
+that every guest received:
+
+the same course structure
+
+comparable portions
+
+comparable presentation
+
+comparable choice
+
+comparable service attention
+
+across:
+
+different contribution states.
+
+Therefore:
+
+Finished Plate
+≠
+Same-Meal Proof
+
+Same-meal proof requires:
+
+service observation
+
+operational records
+
+representative sampling
+
+contribution-state privacy
+
+Photography can support:
+
+the claim.
+
+It cannot complete it.
+
+Comparison 126 — Pay It Forward Is Visually Orienting and Visually Unprovable
+
+Pay-it-forward photography may use:
+
+meal imagery
+
+contribution prompts
+
+people participating
+
+service sequences
+
+symbolic exchange
+
+These images can orient:
+
+the idea.
+
+They cannot prove:
+
+the financial amount transferred
+
+the allocation rule
+
+the number of meals funded
+
+the privacy of recipients
+
+the absence of donor ownership
+
+the absence of gratitude pressure
+
+Therefore:
+
+Pay-It-Forward Image
+≠
+Cross-Subsidy Proof
+
+The correct evidence stack is:
+
+Visual Orientation
++
+Financial Method
++
+Operational Records
++
+Privacy Boundary
++
+Claim Qualification
+
+Photography is:
+
+one layer,
+
+not:
+
+the proof system.
+
+Comparison 127 — Volunteer Visibility Can Clarify Role and Expose Economic State
+
+Volunteer imagery can show:
+
+human participation
+
+service activity
+
+role distribution
+
+community involvement
+
+operating capacity
+
+At JBJ Soul Kitchen,
+
+volunteering may also relate to:
+
+exchange for a meal.
+
+A caption,
+
+uniform
+
+or:
+
+page sequence
+
+may therefore invite:
+
+economic inference.
+
+The boundary is:
+
+Role Visibility
+≠
+Economic Classification
+
+and:
+
+Volunteer Image
+≠
+Verified Empowerment
+
+Role clarity must serve:
+
+accountability,
+
+not:
+
+rank.
+
+Comparison 128 — Consent to Documentation Is Not Consent to Fundraising Identity
+
+A participant may consent to:
+
+local documentation
+
+an event photograph
+
+a volunteer feature
+
+a staff biography
+
+a temporary campaign
+
+That does not establish consent to:
+
+fundraising use
+
+long-term reuse
+
+cross-platform reuse
+
+association with food insecurity
+
+association with inability to pay
+
+third-party media use
+
+future campaign context
+
+Therefore:
+
+Guest Photograph
+≠
+Consent to Fundraising Use
+
+Consent must be:
+
+specific
+
+informed
+
+time-bound
+
+context-bound
+
+purpose-bound
+
+withdrawable
+
+Publication is not:
+
+proof that all those conditions remain true.
+
+Comparison 129 — Privacy Can Be Positive Evidence
+
+Refettorio Felix established:
+
+guest absence can protect evidence integrity.
+
+JBJ Soul Kitchen extends the finding.
+
+The absence of:
+
+economic-status labels
+
+identifiable vulnerable guests
+
+before-and-after hardship imagery
+
+recipient classification
+
+donor-recipient pairing
+
+may demonstrate:
+
+proof restraint.
+
+Therefore:
+
+Guest Privacy
+≠
+Evidence Absence
+
+and:
+
+Evidentiary Absence
+Can Be
+Governance Evidence
+
+However:
+
+total participant absence can also erase:
+
+agency,
+
+voice
+
+and:
+
+authorship.
+
+The stronger model is:
+
+participant-controlled visibility.
+
+Comparison 130 — Anonymity Can Protect Dignity and Remove Agency
+
+Anonymity can reduce:
+
+stigma
+
+status inference
+
+unwanted permanence
+
+fundraising extraction
+
+It can also prevent:
+
+self-representation
+
+participant authorship
+
+chosen visibility
+
+recognition of contribution
+
+The correct model is not:
+
+always show
+
+or:
+
+never show.
+
+It is:
+
+Participant-Controlled Visibility
+
+The participant should determine:
+
+whether
+
+how
+
+where
+
+for what claim
+
+for how long
+
+their image or voice is used.
+
+Comparison 131 — A Shared-Table Photograph Can Conceal Unequal Journeys
+
+A shared-table image can establish:
+
+physical proximity
+
+room configuration
+
+table density
+
+visible food
+
+a moment of interaction
+
+It cannot establish:
+
+equal belonging
+
+equal service
+
+equal privacy
+
+equal contribution pressure
+
+equal consent
+
+equal emotional interpretation
+
+Therefore:
+
+Shared Table Image
+≠
+Equal Belonging
+
+One coherent frame may conceal:
+
+different routes into the same room.
+
+The image must not claim:
+
+more unity
+
+than:
+
+the frame can prove.
+
+Comparison 132 — Busy Imagery Can Prove Activity and Hide Service Quality
+
+A busy image may show:
+
+occupied tables
+
+people moving
+
+food production
+
+volunteer participation
+
+apparent demand
+
+It cannot establish:
+
+sustainable staffing
+
+wait duration
+
+service consistency
+
+recovery quality
+
+guest comfort
+
+unmet demand
+
+live seat availability
+
+Therefore:
+
+Busy Frame
+≠
+Sustainable Capacity
+
+Capacity Proof requires:
+
+operational evidence
+
+outside:
+
+the frame.
+
+Comparison 133 — Founder Visibility Must Remain Proportionate to Operating Relevance
+
+Founder imagery can explain:
+
+origin
+
+public responsibility
+
+fundraising role
+
+continued involvement
+
+It can also displace:
+
+local staff
+
+volunteers
+
+food
+
+Red Bank place
+
+routine service
+
+accountable daily roles
+
+Therefore:
+
+Founder Presence
+≠
+Routine Operation
+
+Founder-Proportion Control requires:
+
+visibility to follow:
+
+claim relevance,
+
+not:
+
+celebrity recognisability.
+
+Comparison 134 — Historical Imagery Requires Era and Location Governance
+
+JBJ Soul Kitchen operates across:
+
+time
+
+and:
+
+multiple locations.
+
+An archival image may accurately show:
+
+a past moment.
+
+It may not accurately show:
+
+current Red Bank service
+
+current menu
+
+current staffing
+
+current participation rules
+
+current physical condition
+
+the correct location
+
+Therefore:
+
+Historical Image
+≠
+Current Condition
+
+Every operational image should retain:
+
+capture date
+
+location
+
+role context
+
+programme state
+
+claim scope
+
+Historical continuity and present-tense proof must remain separate.
+
+Comparison 135 — Alternative Text Must Preserve Meaning Without Inferring Vulnerability
+
+Alternative text can provide:
+
+subject identity
+
+role context
+
+food detail
+
+place detail
+
+process meaning
+
+relationship meaning
+
+It must not infer:
+
+inability to pay
+
+food insecurity
+
+need
+
+volunteer motivation
+
+emotional state
+
+dignity
+
+satisfaction
+
+Therefore:
+
+Image Description
+≠
+Permission to Guess
+
+Accessible visual meaning requires:
+
+evidence parity,
+
+not:
+
+speculation parity.
+
+Comparison 136 — The Institution Should Carry the Primary Evidence Burden
+
+A guest receiving:
+
+food,
+
+flexibility
+
+or:
+
+support
+
+should not be required to provide:
+
+a face
+
+a hardship story
+
+gratitude
+
+testimony
+
+transformation narrative
+
+proof of need
+
+to make the institution credible.
+
+The institution can provide:
+
+operating procedures
+
+anonymised records
+
+food and process proof
+
+role accountability
+
+audited financial evidence
+
+consent-compatible testimony
+
+independent evaluation
+
+Therefore:
+
+Evidence Burden
+Belongs Primarily to
+The Institution
+
+This is the deepest continuity between:
+
+Refettorio Felix
+
+and:
+
+JBJ Soul Kitchen.
+
+Comparison 137 — Photography Can Prove Hospitality Quality Without Proving Hospitality Equality
+
+Restaurant #19 photography can support confidence in:
+
+food quality cues
+
+service setting
+
+restaurant form
+
+visible care
+
+operational activity
+
+accountable roles
+
+It cannot independently establish:
+
+contribution-neutral service
+
+equal treatment
+
+equal choice
+
+equal privacy
+
+equal dignity
+
+equal belonging
+
+Therefore:
+
+Restaurant-Quality Proof
+≠
+Hospitality-Equality Proof
+
+The latter requires:
+
+comparison,
+
+observation,
+
+participant evidence
+
+and:
+
+operational accountability.
+
+Updated Photography Thesis — Post Restaurant #19
+
+The cross-restaurant thesis remains:
+
+Evidence quality depends on claim fit, not visual beauty.
+
+Restaurant #19 adds:
+
+proof quality also depends on:
+
+subject risk
+
+consent scope
+
+economic-status privacy
+
+role interpretation
+
+image age
+
+location identity
+
+claim depth
+
+non-visual evidence support
+
+The refined thesis is:
+
+Photography should prove the lowest-risk visible part of a hospitality claim while preserving participant control and transferring non-visible proof burdens to accountable institutional evidence.
+
+The preferred proof sequence is:
+
+Product
+↓
+Place
+↓
+Process
+↓
+Accountable Roles
+↓
+Reciprocity Mechanism
+↓
+Aggregated Activity
+↓
+Participant-Controlled Voice
+↓
+Outcome Qualification
+
+The sequence must not become:
+
+Visible Vulnerability
+↓
+Assumed Need
+↓
+Assumed Gratitude
+↓
+Assumed Impact
+
+Post–JBJ Soul Kitchen Photography Architecture Additions
+
+Economic-Status-Blind Photography
+
+Images do not enable classification by ability to pay.
+
+Contribution-Neutral Representation
+
+Visual treatment does not rank donor, guest or volunteer roles.
+
+Reciprocity Without Recipient Exposure
+
+The system shows cross-support without identifying who receives it.
+
+Dignity-Preserving Proof
+
+The least exposing adequate subject carries the claim.
+
+Capability Before Vulnerability
+
+Food, process, place and accountable roles establish capability first.
+
+Participant-Controlled Visibility
+
+The participant governs whether, how, where and for how long representation occurs.
+
+Consent Persistence
+
+Permission is reviewed across time, platform, campaign and claim context.
+
+Role Without Rank
+
+Captions clarify accountable roles without producing hospitality hierarchy.
+
+Same-Meal Proof
+
+Product parity is established through system and service evidence rather than guest classification.
+
+Cross-Subsidy Evidence Stack
+
+Photography orients the model while financial and operational evidence proves it.
+
+Place–Process–Product Sequence
+
+Visual proof moves through where, how and what.
+
+Activity / Outcome Separation
+
+Images establish activity while evaluation establishes outcomes.
+
+Historical Image Labelling
+
+Archival images retain date, location and programme context.
+
+Alt Text as Evidence Parity
+
+Decision-relevant visual meaning is available non-visually without harmful inference.
+
+Evidentiary Absence
+
+What is intentionally not shown may demonstrate privacy governance.
+
+Founder-Proportion Control
+
+Founder visibility follows claim relevance rather than recognisability.
+
+Institution-Carried Evidence Burden
+
+The organisation proves its system without requiring guest vulnerability performance.
+
+These remain:
+
+architecture directions.
+
+They are not:
+
+new formal patterns.
+
+Photography / Proof Architecture — Post Restaurant #19 Consolidation
+
+Restaurant #19 strengthens the current proof architecture through:
+
+product proof
+
+process proof
+
+place proof
+
+role proof
+
+relationship proof
+
+capacity proof
+
+outcome qualification
+
+privacy-compatible evidence
+
+dignity-preserving proof
+
+system-before-subject photography
+
+consent-governed human imagery
+
+representative culinary proof
+
+use-case evidence
+
+proof through procedure
+
+perimeter proof
+
+threshold proof
+
+post-experience reveal proof
+
+human-agency explanation
+
+temporal evidence
+
+accessible visual meaning
+
+activity / experience / outcome separation
+
+prestige / daily-system separation
+
+evidence-burden allocation
+
+economic-status-blind photography
+
+contribution-neutral representation
+
+reciprocity without recipient exposure
+
+participant-controlled visibility
+
+consent persistence
+
+role without rank
+
+historical image labelling
+
+evidentiary absence
+
+founder-proportion control
+
+No architecture item is promoted merely because it appears in this consolidated set.
+
+Current Photography Pattern Pressure — Post Restaurant #19
+
+Photography as Proof
+
+Current state:
+
+Candidate / Medium-High
+
+Restaurant #19 pressure:
+
+very strong support with a hard ethical boundary.
+
+Photography can prove:
+
+product,
+
+place,
+
+process
+
+and:
+
+visible roles.
+
+It cannot prove:
+
+economic neutrality,
+
+consent,
+
+equal service
+
+or:
+
+social outcome.
+
+Decision:
+
+no confidence or maturity change.
+
+Photography Through Layers of Experience
+
+Current state:
+
+Candidate / Medium
+
+Restaurant #19 pressure:
+
+very strong multi-medium support.
+
+The case requires:
+
+product,
+
+process,
+
+place,
+
+people,
+
+relationship,
+
+capacity
+
+and:
+
+outcome-qualification layers.
+
+Not every layer should be photographed.
+
+Decision:
+
+no confidence or maturity change.
+
+Photography Should Demonstrate Difference
+
+Current state:
+
+Candidate / Medium-High
+
+Restaurant #19 pressure:
+
+very strong relational constraint.
+
+The meaningful difference is:
+
+not simply the food or room.
+
+It is:
+
+the relationship among meal, contribution, volunteering and cross-support.
+
+Decision:
+
+no confidence or maturity change.
+
+Photography as Use-Case Evidence
+
+Current state:
+
+Candidate / Medium-High
+
+Restaurant #19 pressure:
+
+strong support.
+
+Images can distinguish:
+
+dining,
+
+volunteering,
+
+preparation,
+
+service
+
+and:
+
+place.
+
+They must not imply that every visible person shares one role or contribution state.
+
+Decision:
+
+no confidence or maturity change.
+
+Capacity Proof
+
+Current state:
+
+Candidate / Medium-High
+
+Restaurant #19 pressure:
+
+strong boundary pressure.
+
+Busy frames and milestone images establish activity.
+
+They do not establish live or sustainable capacity.
+
+Decision:
+
+no confidence or maturity change.
+
+Show the System Behind the Plate
+
+Current state:
+
+Candidate / High
+
+Restaurant #19 pressure:
+
+very strong support.
+
+The plate depends on culinary work, volunteers, donors, sourcing, cross-support and service.
+
+No single image can prove the full system.
+
+Decision:
+
+no confidence or maturity change.
+
+Story Through Hospitality Model
+
+Current state:
+
+Candidate / High
+
+Restaurant #19 pressure:
+
+very strong support.
+
+The image system can support the enacted hospitality story.
+
+It cannot prove mission outcome.
+
+Decision:
+
+no confidence or maturity change.
+
+Hospitality System Proof
+
+Current state:
+
+Candidate / High
+
+Restaurant #19 pressure:
+
+very strong multi-medium support.
+
+Role-aware imagery must be paired with procedure, records and accountability.
+
+Decision:
+
+no confidence or maturity change.
+
+Story Through Place
+
+Current state:
+
+Candidate / High
+
+Restaurant #19 pressure:
+
+strong location-governance support.
+
+Red Bank imagery can establish place and continuity.
+
+Images from other locations require explicit labels.
+
+Decision:
+
+no confidence or maturity change.
+
+Narrative Coherence Through Organising Logic
+
+Current state:
+
+Candidate / High
+
+Restaurant #19 pressure:
+
+strong support.
+
+Pay it forward can organise the image sequence.
+
+Coherence cannot substitute for evidence.
+
+Decision:
+
+no confidence or maturity change.
+
+Biography When It Explains the Experience
+
+Current state:
+
+Candidate / High
+
+Restaurant #19 pressure:
+
+qualified support.
+
+Founder and staff portraits are useful when they explain responsibility and operating decisions.
+
+Recognition alone is not evidence.
+
+Decision:
+
+no confidence or maturity change.
+
+Photography Before Decoration
+
+Current state:
+
+Emerging
+
+Restaurant #19 pressure:
+
+very strong support.
+
+Decision-relevant evidence should precede decorative emotion.
+
+Decision:
+
+no promotion.
+
+The Guest as Participant
+
+Current state:
+
+Emerging
+
+Restaurant #19 pressure:
+
+strong support with privacy constraint.
+
+Participation must not require visible economic classification.
+
+Decision:
+
+no promotion.
+
+Promise Before Proof
+
+Current state:
+
+Emerging
+
+Restaurant #19 pressure:
+
+direct falsification pressure.
+
+Images can support all-are-welcome and same-experience claims.
+
+They cannot verify them.
+
+Decision:
+
+no promotion.
+
+Story Before Features
+
+Current state:
+
+Emerging
+
+Restaurant #19 pressure:
+
+qualified support.
+
+The visual story may orient the model but must not obscure participation rules.
+
+Decision:
+
+no promotion.
+
+Emotion Before Interface
+
+Current state:
+
+Emerging
+
+Restaurant #19 pressure:
+
+ethical constraint.
+
+Emotional imagery must not turn access information into fundraising persuasion.
+
+Decision:
+
+no promotion.
+
+Commitment Without Pressure
+
+Current state:
+
+Emerging
+
+Restaurant #19 pressure:
+
+strong contradiction pressure.
+
+Donation and pay-it-forward imagery must not create social coercion.
+
+Decision:
+
+no promotion.
+
+Post–JBJ Soul Kitchen Photography Corrections
+
+Correction 111
+
+The most relevant guest fact may need to remain visually unavailable.
+
+Correction 112
+
+A visible person must not become visible economic status.
+
+Correction 113
+
+Food is the safest primary subject and an incomplete system subject.
+
+Correction 114
+
+A finished plate does not prove same-meal consistency.
+
+Correction 115
+
+Pay-it-forward imagery cannot prove cross-subsidy.
+
+Correction 116
+
+Volunteer visibility can clarify role and expose economic state.
+
+Correction 117
+
+Role context must not become role rank.
+
+Correction 118
+
+Documentation consent does not automatically cover fundraising use.
+
+Correction 119
+
+Consent must persist across time, platform, campaign and claim context.
+
+Correction 120
+
+Guest privacy can be positive evidence.
+
+Correction 121
+
+Participant anonymity can protect dignity and erase agency.
+
+Correction 122
+
+Participant-controlled visibility is stronger than universal visibility or universal absence.
+
+Correction 123
+
+Shared-table imagery cannot prove equal belonging.
+
+Correction 124
+
+Busy imagery cannot prove sustainable capacity.
+
+Correction 125
+
+Founder visibility must follow operating relevance.
+
+Correction 126
+
+Historical images require date, location and programme-state labels.
+
+Correction 127
+
+Alternative text must not infer vulnerability.
+
+Correction 128
+
+Accessible evidence does not permit unsupported description.
+
+Correction 129
+
+The institution should carry the primary evidence burden.
+
+Correction 130
+
+Guests should not have to perform hardship to prove the mission.
+
+Correction 131
+
+Restaurant-quality proof is not hospitality-equality proof.
+
+Correction 132
+
+Activity imagery remains distinct from outcome evidence.
+
+Correction 133
+
+Absence of vulnerability imagery can strengthen evidence integrity.
+
+Correction 134
+
+Layered evidence does not require photographing every layer.
+
+Strongest Photography / Proof Tensions After Restaurant #19
+
+Tension 31 — System Legibility vs Economic Privacy
+
+The contribution model must be understandable without sorting visible people by contribution state.
+
+Tension 32 — Capability Proof vs System Completeness
+
+Food safely proves restaurant capability while leaving reciprocity and equality unproven.
+
+Tension 33 — Role Clarity vs Economic Classification
+
+Volunteer imagery can explain operations while inviting assumptions about exchange status.
+
+Tension 34 — Emotional Force vs Consent Freedom
+
+The most persuasive human image may carry the highest coercion and reuse risk.
+
+Tension 35 — Privacy vs Participant Agency
+
+Anonymity can protect the person while removing their chosen voice.
+
+Tension 36 — Shared Visual Unity vs Different Guest Journeys
+
+One coherent dining-room frame may conceal different economic and emotional conditions.
+
+Tension 37 — Activity Visibility vs Capacity Reliability
+
+Busy frames and milestones can show scale while hiding sustainability and unmet demand.
+
+Tension 38 — Founder Trust vs Local Operating Proof
+
+Recognition can build confidence while displacing everyday people and processes.
+
+Tension 39 — Historical Continuity vs Current Accuracy
+
+Archival imagery can demonstrate longevity while misrepresenting present service.
+
+Tension 40 — Accessible Description vs Harmful Inference
+
+Alternative text must carry meaning without assigning need, status or emotion.
+
+Tension 41 — Reciprocity Explanation vs Recipient Exposure
+
+Cross-support must become legible without identifying who receives it.
+
+Tension 42 — Institutional Proof vs Guest Evidence Burden
+
+The organisation needs credibility without requiring a guest to become the proof object.
+
+Photography Falsification Programme After Restaurant #19
+
+Audit every published Red Bank image by page, date and claim.
+
+Distinguish Red Bank assets from other JBJ Soul Kitchen locations.
+
+Record capture date and programme state for every operational image.
+
+Verify whether food imagery reflects current ordinary service.
+
+Compare published plates across multiple menu cycles.
+
+Test same-meal claims with operational records and service observation.
+
+Do not infer universal product parity from selected plate images.
+
+Audit sourcing imagery against harvest, purchase and kitchen-use records.
+
+Test whether process imagery represents routine work.
+
+Separate event imagery from normal service imagery.
+
+Audit every identifiable person by role and proof purpose.
+
+Test whether viewers infer economic status from guest imagery.
+
+Test whether clothing, placement, caption or sequence produces status inference.
+
+Audit whether volunteer imagery implies exchange-for-meal status.
+
+Separate general volunteers from exchange-for-meal volunteers in captions and evidence design.
+
+Verify whether role labels explain accountability without creating hierarchy.
+
+Review consent for capture, publication, fundraising and reuse separately.
+
+Verify consent scope by platform and campaign.
+
+Verify consent expiry and renewal rules.
+
+Verify a practical withdrawal process.
+
+Audit completed withdrawal cases.
+
+Test whether declining photography affects dining, volunteering or support.
+
+Test whether consent is freely given where resources or meals are involved.
+
+Review third-party media and partner reuse.
+
+Compare institution-authored and participant-authored representation.
+
+Test whether anonymity protects privacy without erasing agency.
+
+Offer participant-controlled visibility options.
+
+Audit whether quiet participation appears in the image system.
+
+Test whether shared-table images create unsupported belonging claims.
+
+Test whether smiling faces produce unsupported satisfaction or dignity claims.
+
+Audit pay-it-forward imagery against financial and operational evidence.
+
+Verify that donors cannot infer or claim a specific recipient.
+
+Test whether cross-subsidy explanation works without recipient imagery.
+
+Audit busy frames against throughput and staffing records.
+
+Compare image density with service quality under load.
+
+Separate public activity counts from capacity and outcome claims.
+
+Audit milestone images for typical-experience implication.
+
+Measure founder share of the visual system.
+
+Compare founder visibility with claim relevance.
+
+Test whether local staff, volunteers, food and place remain legible.
+
+Audit every image alternative text manually.
+
+Replace filename-style alternatives with evidence-relevant description.
+
+Confirm that empty alternative text is reserved for decorative images.
+
+Test keyboard and screen-reader access to visual sequences.
+
+Ensure alternative text does not infer need, status, emotion or consent.
+
+Verify that captions carry necessary non-visual context.
+
+Compare desktop and mobile evidence order.
+
+Test whether photography increases confidence without increasing stigma.
+
+Test whether food-first proof adequately explains restaurant quality.
+
+Test which non-photographic evidence is needed to explain the model.
+
+Seek participant review of representative language and imagery.
+
+Seek negative and ambivalent responses to the visual system.
+
+Compare with Refettorio Felix’s dignity-preserving proof approach.
+
+Compare with DAWN’s human-agency explanation problem.
+
+Compare with Dans le Noir?’s unavailable-core problem.
+
+Compare with another pay-what-you-can hospitality model.
+
+Compare with a case using no identifiable guest photography.
+
+Compare with participant-authored photography.
+
+Compare with independent impact evaluation using minimal imagery.
+
+Reject any image whose persuasive value depends on economic classification or hardship performance.
+
+Photography Deduplication Decisions — Restaurant #19
+
+Economic-Status-Blind Photography remains architecture under Photography as Proof.
+
+Contribution-Neutral Representation remains a representation mechanism, not a new pattern.
+
+Reciprocity Without Recipient Exposure refines relationship-proof architecture.
+
+Dignity-Preserving Proof remains shared with Restaurant #18 and is not duplicated.
+
+Capability Before Vulnerability refines system-before-subject photography.
+
+Participant-Controlled Visibility extends consent-governed human imagery.
+
+Consent Persistence is an evidence-governance requirement.
+
+Role Without Rank refines role-specific visibility.
+
+Same-Meal Proof remains a claim-specific evidence stack.
+
+Cross-Subsidy Evidence Stack refines Hospitality System Proof.
+
+Place–Process–Product Sequence refines layered evidence.
+
+Activity / Outcome Separation remains a claim-classification rule.
+
+Historical Image Labelling extends evidence freshness and durability governance.
+
+Alt Text as Evidence Parity extends accessible visual meaning.
+
+Evidentiary Absence extends privacy-compatible evidence.
+
+Founder-Proportion Control refines Biography When It Explains the Experience.
+
+Institution-Carried Evidence Burden extends Restaurant #18’s evidence-allocation direction.
+
+No architecture direction becomes a formal pattern in this file.
+
+Restaurant #19 Photography Decision Ledger
+
+Add JBJ Soul Kitchen, Red Bank as the nineteenth independent photography comparison case.
+
+Classify it as an economic-status-blind proof contradiction case.
+
+Treat visible economic classification as a proof failure.
+
+Treat food as the safest primary visual subject.
+
+Do not treat food as complete hospitality-system proof.
+
+Do not treat a finished plate as same-meal proof.
+
+Require representative and operational evidence for product parity.
+
+Treat pay-it-forward imagery as orientation, not cross-subsidy proof.
+
+Require financial and operational evidence for reciprocal funding claims.
+
+Treat volunteer imagery as role evidence only within explicit scope.
+
+Do not infer exchange status, motivation or empowerment from volunteer imagery.
+
+Treat consent as specific, informed, time-bound, context-bound and withdrawable.
+
+Do not infer fundraising consent from publication.
+
+Treat guest privacy as potential evidence integrity.
+
+Preserve participant-controlled visibility.
+
+Do not let anonymity erase agency by default.
+
+Treat shared-table imagery as configuration evidence only.
+
+Do not infer belonging, equality or contribution neutrality from proximity.
+
+Treat busy frames as activity evidence, not sustainable-capacity proof.
+
+Treat founder imagery as relevant only to origin, responsibility or operating role.
+
+Require date, location and programme-state labels for historical imagery.
+
+Treat alternative text as evidence parity.
+
+Prohibit unsupported vulnerability inference in alternative text.
+
+Place the primary evidence burden on the institution.
+
+Do not require guests to perform hardship, gratitude or transformation.
+
+Separate restaurant-quality proof from hospitality-equality proof.
+
+Reinforce Photography as Proof without changing Medium-High confidence.
+
+Reinforce Photography Through Layers without changing Medium confidence.
+
+Reinforce Photography Should Demonstrate Difference without changing Medium-High confidence.
+
+Reinforce Photography as Use-Case Evidence without changing Medium-High confidence.
+
+Apply capacity boundaries without changing Medium-High confidence.
+
+Reinforce Show the System Behind the Plate without changing High confidence.
+
+Reinforce Story Through Hospitality Model without changing High confidence.
+
+Reinforce Hospitality System Proof without changing High confidence.
+
+Reinforce Story Through Place without changing High confidence.
+
+Reinforce Narrative Coherence Through Organising Logic without changing High confidence.
+
+Retain Biography When It Explains the Experience at High confidence.
+
+Apply very strong pressure to Photography Before Decoration without promotion.
+
+Retain The Guest as Participant at Emerging.
+
+Retain Promise Before Proof at Emerging.
+
+Retain Story Before Features at Emerging.
+
+Retain Emotion Before Interface at Emerging.
+
+Retain Commitment Without Pressure at Emerging.
+
+Make no promotion, demotion, merge or rename.
+
+Make no confidence or maturity change.
+
+Preserve all canonical counts pending governance reconciliation.
+
+Count Restaurant #19 once, not once per dimension.
+
+Reserve formal decisions until all five Restaurant #19 comparisons are complete.
+
+Photography Comparison Conclusion — Post JBJ Soul Kitchen, Red Bank
+
+After:
+
+19
+
+independent restaurant cases,
+
+the photography thesis becomes:
+
+Photography should prove restaurant capability and material visible difference without requiring the person carrying the greatest economic vulnerability to carry the greatest evidence burden.
+
+Restaurant #16 established:
+
+the core may be unphotographable.
+
+Restaurant #17 established:
+
+the most visible object may hide the human operator.
+
+Restaurant #18 established:
+
+visible vulnerability may be the wrong proof subject.
+
+Restaurant #19 establishes:
+
+the person may be visible while their economic state must remain unavailable.
+
+The strongest proof model is:
+
+Food
++
+Place
++
+Process
++
+Accountable Roles
++
+Cross-Subsidy Method
++
+Aggregated Activity
++
+Participant-Controlled Voice
++
+Independent Outcome Evidence
+↓
+System Confidence
+
+not:
+
+Visible Person
+↓
+Assumed Economic Status
+↓
+Assumed Need
+↓
+Assumed Impact
+
+The strongest privacy boundary is:
+
+Visible Person
+≠
+Visible Economic Status
+
+The strongest product boundary is:
+
+Finished Plate
+≠
+Same-Meal Proof
+
+The strongest relationship boundary is:
+
+Pay-It-Forward Image
+≠
+Cross-Subsidy Proof
+
+The strongest consent boundary is:
+
+Guest Photograph
+≠
+Consent to Fundraising Use
+
+The strongest accessibility boundary is:
+
+Image Description
+≠
+Permission to Guess
+
+The strongest governance rule is:
+
+Evidence Burden
+Belongs Primarily to
+The Institution
+
+Restaurant #19 does not justify:
+
+a Candidate promotion
+
+an Emerging promotion
+
+a confidence increase
+
+a confidence decrease
+
+a demotion
+
+a validation
+
+a research-derived Principle
+
+It contributes:
+
+strong support,
+
+hard ethical constraints
+
+and:
+
+a comprehensive proof-falsification programme.
+
+Formal maturity decisions remain reserved until all five Restaurant #19 comparison files are complete.
+
+Evidence wins.
+
+Validation — Post Restaurant #19 Photography Comparison
+
+Comparison File:
+
+khds/research/comparison/photography.md
+
+Status:
+
+Post–JBJ Soul Kitchen, Red Bank Complete
+
+Independent Restaurants Represented:
+
+19
+
+Canonical Completed Independent Restaurants:
+
+18
+
+Latest Case:
+
+JBJ Soul Kitchen, Red Bank
+
+Primary Governance Watch:
+
+Photography as Proof — Economic-Status-Blind Boundary
+
+Secondary Governance Watches:
+
+Photography Should Demonstrate Difference
+
+Photography Through Layers of Experience
+
+Photography as Use-Case Evidence
+
+Hospitality System Proof
+
+Photography Before Decoration
+
+Strongest New Proof Direction:
+
+Economic-Status-Blind Photography
+
+Strongest New Relationship Direction:
+
+Reciprocity Without Recipient Exposure
+
+Strongest New Consent Direction:
+
+Participant-Controlled Visibility
+
+Strongest New Evidence-Allocation Direction:
+
+Institution-Carried Evidence Burden
+
+Strongest Privacy Boundary:
+
+Visible Person
+
+≠
+
+Visible Economic Status
+
+Strongest Product Boundary:
+
+Finished Plate
+
+≠
+
+Same-Meal Proof
+
+Strongest Consent Boundary:
+
+Guest Photograph
+
+≠
+
+Consent to Fundraising Use
 
 Formal Promotions:
 

@@ -2,11 +2,11 @@ KHDS Cross-Restaurant Comparison — Reservation / Participation
 
 Status
 
-Post–Refettorio Felix, London Comparison
+Post–JBJ Soul Kitchen, Red Bank Comparison
 
 Restaurants Compared:
 
-18
+19
 
 Track:
 
@@ -14,7 +14,7 @@ Track A — Independent Hospitality Research
 
 Latest Added Case:
 
-Refettorio Felix — London
+JBJ Soul Kitchen — Red Bank, New Jersey
 
 Comparison Status:
 
@@ -90,7 +90,7 @@ all:
 
 five:
 
-post–Restaurant #18:
+post–Restaurant #19:
 
 comparison files
 
@@ -205,6 +205,8 @@ Dans le Noir? London
 Avatar Robot Café DAWN, Tokyo
 
 Refettorio Felix, London
+
+JBJ Soul Kitchen, Red Bank
 
 Current Participation Thesis
 
@@ -10624,6 +10626,2159 @@ Available Seat
 ≠
 
 Available Participation
+
+Formal Promotions:
+
+0
+
+Formal Demotions:
+
+0
+
+Confidence Changes:
+
+0
+
+Governance Changes:
+
+0
+
+Canonical Candidate Count:
+
+26
+
+Canonical Emerging Count:
+
+8
+
+Canonical Partially Supported Count:
+
+1
+
+Canonical Validated Count:
+
+0
+
+Research-Derived KHDS Principles:
+
+0
+
+Next Comparison File:
+
+khds/research/comparison/story.md
+
+Post–JBJ Soul Kitchen, Red Bank Reservation Reconciliation
+
+Restaurant #19:
+
+JBJ Soul Kitchen, Red Bank
+
+extends the reservation comparison from:
+
+non-reservable community hospitality
+
+into:
+
+live allocation across multiple contribution states.
+
+Refettorio Felix established:
+
+a principal hospitality route can be intentionally non-reservable,
+
+non-transactional
+
+and:
+
+first-come.
+
+JBJ Soul Kitchen adds:
+
+a first-come baseline
+
+mission priority
+
+flexible financial contribution
+
+pay-it-forward participation
+
+an unable-to-donate route
+
+volunteer allocation
+
+exchange-for-meal volunteer priority
+
+resource continuation
+
+role-specific data and commitment
+
+The absence of a conventional booking surface therefore does not mean:
+
+the absence of:
+
+allocation
+
+capacity
+
+eligibility interpretation
+
+commitment
+
+priority
+
+privacy requirements
+
+failure states
+
+recovery
+
+The central comparative question is:
+
+How should a restaurant allocate seats, meals, volunteer places and human support when the dining route has no reservation, first-come order is modified by mission priority, and participation can involve money, additional support, non-payment or labour?
+
+Restaurant #19 is now:
+
+fully represented in this reservation comparison.
+
+Formal governance remains:
+
+reserved for canonical reconciliation
+
+after:
+
+all five Restaurant #19 comparison files
+
+are complete.
+
+Restaurant #19 Reservation Evidence Input
+
+The official evidence establishes:
+
+reservations are not needed
+
+dining participation is walk-in
+
+seating is first-come, first-served
+
+diners described as in need receive first priority
+
+service occurs within published windows
+
+menu prices are not fixed
+
+a suggested donation is published
+
+pay-it-forward support is encouraged
+
+people unable to donate are invited to dine
+
+volunteer and resource-learning routes exist
+
+the volunteer route uses an application
+
+Support Staff Volunteering requires orientation
+
+exchange-for-meal volunteers receive priority for available places
+
+volunteer places are finite
+
+the menu changes on a recurring cycle
+
+public meal and volunteer activity totals exist
+
+The official evidence does not establish:
+
+current table capacity
+
+live seat availability
+
+queue length
+
+expected wait
+
+exact priority procedure
+
+whether priority requires disclosure
+
+whether disclosure is private
+
+when contribution is resolved
+
+whether suggested donation feels optional
+
+whether volunteering is understood as optional
+
+current exchange-for-meal placement availability
+
+time between application, shift and meal
+
+the relationship between a volunteer place and a dining seat
+
+dietary handoff performance without a booking record
+
+accessibility preparation performance without a booking record
+
+resource capacity
+
+recovery after full capacity
+
+equal service across contribution states
+
+successful access
+
+The governing rule remains:
+
+Published Participation Route
+≠
+Performed Allocation Outcome
+
+Current Canonical Entry State — Before Restaurant #19 Reservation Decision
+
+The completed canonical governance state remains:
+
+Independent Restaurants: 18
+Track B Validation Cases: 1
+Candidate Patterns: 26
+Emerging Patterns: 8
+Partially Supported Patterns: 1
+Validated Patterns: 0
+Research-Derived KHDS Principles: 0
+Implementation Patterns Pending Formal Validation: 1
+Opportunity Themes: 36
+Track B Implementation Learnings: 17
+Candidate Confidence: 9 High / 8 Medium-High / 9 Medium
+
+The reservation comparison now represents:
+
+19 independent restaurant cases.
+
+This does not yet change:
+
+the canonical completed-restaurant count.
+
+Restaurant #19 contributes:
+
+comparative participation evidence
+
+allocation architecture
+
+capacity boundaries
+
+privacy requirements
+
+falsification targets
+
+It does not contribute:
+
+an automatic promotion.
+
+Comparison 126 — No Reservation Is Still an Allocation Decision
+
+Refettorio Felix established:
+
+Non-Reservable Participation.
+
+JBJ Soul Kitchen confirms and extends it.
+
+The guest does not reserve:
+
+a table in advance.
+
+The operating system still allocates:
+
+entry order
+
+seating
+
+service attention
+
+priority
+
+dining capacity
+
+volunteer places
+
+resource attention
+
+The allocation point moves from:
+
+the digital interface
+
+to:
+
+the live threshold.
+
+Therefore:
+
+No Reservation
+≠
+No Allocation
+
+The participation state is:
+
+intentional,
+
+structured
+
+and:
+
+capacity-bound.
+
+Comparison 127 — First-Come and Mission Priority Form One Allocation System
+
+First-come is:
+
+a real rule.
+
+It is not:
+
+the complete rule.
+
+JBJ Soul Kitchen also publishes:
+
+priority for diners in need.
+
+The correct model is:
+
+First-Come Baseline
++
+Mission-Priority Condition
++
+Finite Capacity
+↓
+Live Allocation
+
+Therefore:
+
+First Come
+≠
+Only Allocation Rule
+
+The two rules must be explained:
+
+together.
+
+Separating them across pages or human explanations may create:
+
+surprise
+
+perceived unfairness
+
+inconsistent action
+
+public status inference
+
+This is direct pressure on:
+
+Participation Rule Consistency.
+
+Comparison 128 — Priority Can Protect Access and Threaten Privacy
+
+Mission priority can correct:
+
+the unequal ability to:
+
+arrive early
+
+wait
+
+absorb a turn-away
+
+return later
+
+But:
+
+priority may require:
+
+the system to recognise:
+
+need.
+
+That recognition must not automatically become:
+
+public proof
+
+queue announcement
+
+visible category
+
+permanent record
+
+marketing data
+
+The boundary is:
+
+Priority
+≠
+Public Proof of Need
+
+The allocation design must combine:
+
+mission integrity
+
+with:
+
+minimal disclosure.
+
+Comparison 129 — No Fixed Price Does Not Mean No Commitment
+
+The dining guest avoids:
+
+booking deposit
+
+prepaid ticket
+
+fixed menu price
+
+The guest still commits:
+
+travel
+
+time
+
+queue exposure
+
+capacity risk
+
+contribution interpretation
+
+dietary uncertainty
+
+accessibility uncertainty
+
+The volunteer route may additionally require:
+
+application
+
+orientation
+
+scheduling
+
+labour
+
+follow-through
+
+Therefore:
+
+No Fixed Price
+≠
+No Commitment
+
+and:
+
+Low Digital Commitment
+≠
+Low Total Participation Burden
+
+Manageable Commitment receives:
+
+mixed evidence.
+
+Comparison 130 — Contribution Choice Is a Participation State
+
+At JBJ Soul Kitchen,
+
+contribution is not only:
+
+a checkout event.
+
+The guest may:
+
+make the suggested donation
+
+contribute more
+
+pay forward another meal
+
+be unable to donate
+
+consider volunteering
+
+return in another role
+
+These are:
+
+different participation states.
+
+They should not become:
+
+different levels of guesthood.
+
+Therefore:
+
+Contribution State
+≠
+Guest Rank
+
+The system must keep:
+
+contribution choice
+
+legible
+
+without:
+
+turning it into eligibility proof.
+
+Comparison 131 — Suggested Donation and Pay It Forward Are Different Commitment Objects
+
+Suggested donation concerns:
+
+the guest’s own participation.
+
+Pay it forward concerns:
+
+additional cross-support.
+
+The two should not collapse into:
+
+one implied amount
+
+or:
+
+one moral expectation.
+
+Therefore:
+
+Suggested Donation
+≠
+Required Payment
+
+and:
+
+Pay It Forward
+≠
+Dining Eligibility
+
+A guest who does neither must still be able to understand:
+
+their legitimate route.
+
+Comparison 132 — Dining Seats and Volunteer Places Are Different Capacity Objects
+
+The public model includes:
+
+walk-in dining
+
+and:
+
+structured volunteering.
+
+A dining seat is governed by:
+
+service window
+
+table capacity
+
+first-come order
+
+mission priority
+
+A volunteer place may be governed by:
+
+application
+
+role need
+
+orientation
+
+shift availability
+
+supervision
+
+exchange-for-meal priority
+
+Therefore:
+
+Volunteer Place
+≠
+Dining Seat
+
+Failure to secure one must not be silently interpreted as:
+
+failure to access the other.
+
+Comparison 133 — A Volunteer Application Is Not a Table Reservation
+
+The volunteer form may perform:
+
+intake
+
+role matching
+
+eligibility checking
+
+safeguarding
+
+availability collection
+
+labour allocation
+
+orientation preparation
+
+It does not automatically allocate:
+
+a dining table
+
+an immediate shift
+
+a future meal
+
+guaranteed participation
+
+Therefore:
+
+Volunteer Application
+≠
+Dining Reservation
+
+and:
+
+Volunteer Priority
+≠
+Guaranteed Shift
+
+The system requires:
+
+separate state labels.
+
+Comparison 134 — A Guest Must Be Able to Exist Without Becoming a Contributor
+
+Refettorio Felix established:
+
+the Guest-Without-Contributor State.
+
+JBJ Soul Kitchen applies harder pressure because:
+
+contribution options are more visible.
+
+A legitimate guest may:
+
+make no financial contribution
+
+decline pay it forward
+
+decline volunteering
+
+decline resource participation
+
+leave after dining
+
+The route must not make:
+
+future contribution
+
+the hidden price of present hospitality.
+
+Therefore:
+
+Unable to Donate
+≠
+Unable to Dine
+
+and:
+
+Guest Participation
+≠
+Contributor Obligation
+
+Comparison 135 — First-Come Equality Can Produce Unequal Burden
+
+A uniform first-come rule may affect people differently because of:
+
+mobility
+
+health
+
+transport reliability
+
+caregiving
+
+work schedules
+
+ability to wait
+
+distance
+
+weather
+
+Therefore:
+
+Same Queue Rule
+≠
+Same Queue Burden
+
+Mission priority may respond to:
+
+some forms of inequality.
+
+Its scope and performance remain:
+
+unverified.
+
+Walk-in simplicity must be evaluated against:
+
+total guest burden,
+
+not:
+
+form-field count.
+
+Comparison 136 — No Booking Record Can Protect Privacy and Weaken Preparation
+
+The absence of a reservation record can reduce:
+
+unnecessary data capture
+
+persistent economic labelling
+
+pre-qualification
+
+account dependence
+
+It can also remove:
+
+dietary handoff
+
+access-needs preparation
+
+companion information
+
+arrival confirmation
+
+contact for disruption
+
+pre-service operational briefing
+
+Therefore:
+
+No Booking Record
+Can Protect Privacy
+and
+Reduce Preparation Capacity
+
+The solution is not necessarily:
+
+mandatory reservation.
+
+It may be:
+
+a separate,
+
+optional,
+
+purpose-bounded preparation channel.
+
+Comparison 137 — Minimal Disclosure Can Increase Human Dependence
+
+Minimal-disclosure dining protects:
+
+privacy
+
+equal guesthood
+
+low-threshold access
+
+It leaves live staff or volunteers to resolve:
+
+capacity
+
+priority
+
+dietary needs
+
+access needs
+
+contribution questions
+
+route confusion
+
+recovery
+
+Therefore:
+
+Less Data
+≠
+Less Operational Work
+
+Human assistance becomes:
+
+primary allocation infrastructure.
+
+Its consistency must be:
+
+trained,
+
+observed
+
+and:
+
+audited.
+
+Comparison 138 — Human Allocation Is Not Unstructured Allocation
+
+No digital booking engine does not imply:
+
+improvisation is sufficient.
+
+Human allocation still requires:
+
+shared rules
+
+role authority
+
+escalation
+
+privacy boundaries
+
+consequence-aware language
+
+capacity awareness
+
+recovery procedures
+
+auditability
+
+Therefore:
+
+Human Allocation
+≠
+Unstructured Allocation
+
+Human flexibility can improve:
+
+context sensitivity.
+
+It can also create:
+
+inconsistency
+
+when:
+
+the underlying system is unclear.
+
+Comparison 139 — Historical Scale Cannot Answer the Live Availability Question
+
+Public meal counts and volunteer totals can establish:
+
+continuity
+
+institutional activity
+
+programme scale
+
+They cannot answer:
+
+Is there a seat now?
+
+How long is the wait?
+
+Will the kitchen reach capacity?
+
+Is a volunteer place available?
+
+Is orientation available?
+
+Is resource support available?
+
+Therefore:
+
+Historical Capacity
+≠
+Live Availability
+
+Capacity Proof must distinguish:
+
+activity history
+
+from:
+
+current allocation state.
+
+Comparison 140 — Capacity Is a Portfolio, Not a Seat Count
+
+Restaurant #19 reveals at least six capacity objects:
+
+dining capacity
+
+queue capacity
+
+contribution-resolution capacity
+
+volunteer capacity
+
+resource-connection capacity
+
+recovery capacity
+
+Each has:
+
+a different unit
+
+a different constraint
+
+a different failure state
+
+a different owner
+
+a different evidence requirement
+
+Therefore:
+
+Available Seat
+≠
+Available Participation
+
+Capacity must be:
+
+decomposed before it can be:
+
+explained or proven.
+
+Comparison 141 — Stable Participation Can Hold a Variable Menu
+
+The menu may change:
+
+on a recurring cycle.
+
+The stable participation system includes:
+
+no reservation
+
+service windows
+
+first-come baseline
+
+mission priority
+
+three-course structure
+
+contribution choices
+
+volunteer route
+
+resource continuation
+
+Therefore:
+
+Variable Product
+Can Sit Inside
+Stable Participation
+
+The changing menu does not need to destabilise:
+
+eligibility,
+
+contribution
+
+or:
+
+guesthood.
+
+Dietary consequence still requires:
+
+current information and a live handoff.
+
+Comparison 142 — One Person Can Hold Several Roles Without Several Initial Intents
+
+A person may participate as:
+
+diner
+
+donor
+
+pay-it-forward contributor
+
+volunteer prospect
+
+volunteer
+
+resource participant
+
+repeat guest
+
+These may be:
+
+states in one evolving relationship.
+
+They are not automatically:
+
+separate initial guest intents.
+
+Therefore:
+
+Role Multiplicity
+≠
+Intent Multiplicity
+
+Multi-Intent Hospitality receives:
+
+definition pressure,
+
+not:
+
+automatic confidence growth.
+
+Comparison 143 — Cross-Supported Capacity Must Not Create Recipient Ownership
+
+Pay-it-forward contribution may help fund:
+
+another meal.
+
+The contributor does not thereby reserve:
+
+a specific recipient
+
+recipient visibility
+
+recipient gratitude
+
+recipient testimony
+
+influence over priority
+
+influence over service
+
+Therefore:
+
+Cross-Supported Capacity
+≠
+Recipient Ownership
+
+Reservation architecture must prevent:
+
+funding relationship
+
+from becoming:
+
+personal claim.
+
+Comparison 144 — Open to All Does Not Mean Available to All at Once
+
+The institution can publish:
+
+universal eligibility.
+
+It cannot guarantee:
+
+simultaneous capacity.
+
+The honest promise must include:
+
+service windows
+
+first-come allocation
+
+priority
+
+finite seats
+
+possible wait
+
+possible turn-away
+
+recovery
+
+Therefore:
+
+All Are Welcome
+≠
+All Are Guaranteed a Seat
+
+Capacity honesty strengthens:
+
+welcome.
+
+It does not weaken it.
+
+Updated Reservation / Participation Thesis — Post Restaurant #19
+
+The strongest thesis remains:
+
+Participation is a state system, not a booking button.
+
+Restaurant #19 shows that:
+
+removing advance reservation
+
+does not remove:
+
+state
+
+allocation
+
+priority
+
+capacity
+
+commitment
+
+data
+
+human routing
+
+recovery
+
+It redistributes those responsibilities across:
+
+the website,
+
+the journey,
+
+the queue,
+
+the threshold,
+
+the dining room,
+
+the contribution moment
+
+and:
+
+optional continuation.
+
+The refined thesis is:
+
+Participation architecture allocates the right hospitality object to the right role with proportionate commitment, minimal necessary disclosure, honest capacity and recoverable failure—whether or not a reservation exists.
+
+The Restaurant #19 model is:
+
+Guest Role
+↓
+Dining or Continuation Route
+↓
+Relevant Capacity Object
+↓
+First-Come + Mission Priority
+↓
+Contribution Choice
+↓
+Human + Procedural Support
+↓
+Stable Guesthood
+
+Post–JBJ Soul Kitchen Reservation Architecture Additions
+
+No-Reservation Allocation
+
+Seats are allocated live without advance booking.
+
+Mission-Priority Queue
+
+First-come order is modified by a mission-relevant priority condition.
+
+Contribution-State Participation
+
+One dining route supports several contribution modes without splitting guesthood.
+
+Dignity-Preserving Allocation
+
+Capacity decisions protect privacy and equal guest status.
+
+Volunteer-Exchange Allocation
+
+Non-cash participation uses separately governed volunteer places.
+
+Dining / Volunteer Separation
+
+A dining seat and a volunteer place remain distinct allocation objects.
+
+Contribution Choice Architecture
+
+Donation, pay forward, non-donation and volunteering remain legible without hierarchy.
+
+Capacity Without Scarcity Theatre
+
+Constraints are communicated honestly without using scarcity to pressure contribution.
+
+Priority Without Public Classification
+
+Mission allocation does not expose need status.
+
+Human-Routed Participation
+
+Trained people resolve sensitive and variable conditions.
+
+Minimal-Disclosure Dining
+
+The guest provides only consequence-relevant information.
+
+Role-Bounded Data
+
+Dining, volunteer and donor records remain separated by purpose.
+
+Flexible Contribution / Stable Guesthood
+
+Contribution changes while guest status does not.
+
+First-Come Recovery
+
+A failed seating attempt receives a clear next step.
+
+Access Without Booking Record
+
+Dietary and accessibility preparation remain possible without compulsory reservation.
+
+Cross-Supported Capacity
+
+One participant’s money may support another meal without creating personal claim.
+
+These remain:
+
+architecture directions.
+
+They are not:
+
+new formal patterns.
+
+Reservation / Participation Architecture — Post Restaurant #19 Consolidation
+
+The current participation architecture now includes:
+
+reservation states
+
+non-reservable participation states
+
+walk-in states
+
+queue states
+
+wait states
+
+first-come allocation
+
+mission-priority allocation
+
+deposit commitment
+
+prepaid commitment
+
+no-price commitment
+
+contribution-choice states
+
+proxy booking states
+
+shared-table commitment
+
+route-specific capacity
+
+relationship capacity
+
+human-routed allocation
+
+distributed capacity inventory
+
+role-specific commitment objects
+
+guest-without-contributor state
+
+stable rule / variable product participation
+
+access-exception channels
+
+reservation-as-operational-brief
+
+consequence-relevant repetition
+
+minimal-disclosure participation
+
+role-bounded data
+
+access without booking record
+
+first-come recovery
+
+cross-supported capacity
+
+No architecture item is promoted merely because it appears in the consolidated set.
+
+Current Reservation / Participation Pattern Pressure — Post Restaurant #19
+
+Walk-In as First-Class Participation
+
+Current state:
+
+Candidate / High
+
+Restaurant #19 pressure:
+
+very strong support with allocation qualification.
+
+Walk-in is the principal dining route.
+
+First-class does not mean:
+
+ungoverned or guaranteed.
+
+Decision:
+
+no confidence or maturity change.
+
+Stable Participation / Variable Product
+
+Current state:
+
+Candidate / Medium-High
+
+Restaurant #19 pressure:
+
+very strong support.
+
+Stable access and contribution logic holds a changing menu.
+
+Dietary and performed-rule evidence remain incomplete.
+
+Decision:
+
+no confidence or maturity change.
+
+Manageable Commitment
+
+Current state:
+
+Candidate / Medium
+
+Restaurant #19 pressure:
+
+mixed.
+
+The dining route minimises advance commitment.
+
+Queue risk, contribution ambiguity and volunteer burden remain material.
+
+Decision:
+
+no confidence or maturity change.
+
+Participation Rule Consistency
+
+Current state:
+
+Candidate / Medium
+
+Restaurant #19 pressure:
+
+direct contradiction pressure.
+
+First-come, mission priority, unable-to-donate invitation and exchange-for-meal language must remain mutually intelligible across all surfaces.
+
+Decision:
+
+no confidence increase;
+
+no demotion;
+
+retain as a priority falsification target.
+
+Layered Arrival
+
+Current state:
+
+Candidate / Medium
+
+Restaurant #19 pressure:
+
+strong operational support.
+
+The journey includes concept, hours, place, queue, priority, seating, contribution and continuation.
+
+The layers do not require a dense interface.
+
+Decision:
+
+no confidence or maturity change.
+
+Participation Throughout the Journey
+
+Current state:
+
+Candidate / Medium
+
+Restaurant #19 pressure:
+
+very strong support.
+
+Participation may extend through dining, donation, pay forward, volunteering, resources and return.
+
+Decision:
+
+no confidence or maturity change.
+
+Human Assistance Where Structured Self-Service Is Insufficient
+
+Current state:
+
+Candidate / Medium
+
+Restaurant #19 pressure:
+
+very strong mechanism support.
+
+Human assistance carries live allocation, privacy, priority, volunteer routing, resource routing and recovery.
+
+Performed consistency remains unverified.
+
+Decision:
+
+no confidence or maturity change.
+
+Multi-Intent Hospitality
+
+Current state:
+
+Candidate / Medium
+
+Restaurant #19 pressure:
+
+definition stress.
+
+Dining, donation, volunteering and resource participation are distinct routes.
+
+They may belong to one evolving relationship rather than separate initial intents.
+
+Decision:
+
+no confidence or maturity change.
+
+Capacity Proof
+
+Current state:
+
+Candidate / Medium-High
+
+Restaurant #19 pressure:
+
+very strong boundary support.
+
+Dining, queue, contribution, volunteer, resource and recovery capacity require separate evidence.
+
+Historical totals do not establish live availability.
+
+Decision:
+
+no confidence or maturity change.
+
+Hospitality System Proof
+
+Current state:
+
+Candidate / High
+
+Restaurant #19 pressure:
+
+very strong architecture support.
+
+Participation depends on seats, food, staff, volunteers, donors, rules, priority and partners.
+
+Performance remains unverified.
+
+Decision:
+
+no confidence or maturity change.
+
+Commitment Without Pressure
+
+Current state:
+
+Emerging
+
+Restaurant #19 pressure:
+
+direct contradiction pressure.
+
+Donation, non-donation, pay forward and volunteering must remain possible without moral or social coercion.
+
+Decision:
+
+no promotion.
+
+Escalating Participation Complexity
+
+Current state:
+
+Emerging
+
+Restaurant #19 pressure:
+
+strong role-dependent support.
+
+Dining is low-complexity in advance.
+
+Volunteering and resource continuation may require application, orientation, scheduling and human assessment.
+
+Decision:
+
+no promotion.
+
+The Guest as Participant
+
+Current state:
+
+Emerging
+
+Restaurant #19 pressure:
+
+very strong support with a hard boundary.
+
+Participation must not become the test of worthiness or belonging.
+
+Decision:
+
+no promotion.
+
+Promise Before Proof
+
+Current state:
+
+Emerging
+
+Restaurant #19 pressure:
+
+strong falsification pressure.
+
+All-are-welcome language must be qualified by honest capacity, priority and recovery information.
+
+Decision:
+
+no promotion.
+
+Emotion Before Interface
+
+Current state:
+
+Emerging
+
+Restaurant #19 pressure:
+
+qualified support.
+
+Mission and generosity language must not obscure operational participation information.
+
+Decision:
+
+no promotion.
+
+Atmosphere as Product
+
+Current state:
+
+Emerging
+
+Restaurant #19 pressure:
+
+participation-outcome dependency.
+
+Contribution and priority may materially affect dignity and atmosphere.
+
+Outcome remains unverified.
+
+Decision:
+
+no promotion.
+
+Own the Guest Relationship
+
+Current state:
+
+Partially Supported / Medium
+
+Restaurant #19 pressure:
+
+limited and non-promotional.
+
+The restaurant holds direct human relationships but does not depend on conventional reservation ownership.
+
+Decision:
+
+no confidence or maturity change.
+
+Post–JBJ Soul Kitchen Reservation Corrections
+
+Correction 111
+
+No reservation does not mean no allocation.
+
+Correction 112
+
+First-come and mission priority form one allocation system.
+
+Correction 113
+
+Priority must not become public proof of need.
+
+Correction 114
+
+No fixed price does not mean no commitment.
+
+Correction 115
+
+Low digital commitment can retain high physical and interpretive burden.
+
+Correction 116
+
+Contribution choice is a participation state, not a guest rank.
+
+Correction 117
+
+Suggested donation and pay it forward are different commitment objects.
+
+Correction 118
+
+Unable to donate does not mean unable to dine.
+
+Correction 119
+
+A dining seat and volunteer place are different capacity objects.
+
+Correction 120
+
+A volunteer application is not a table reservation.
+
+Correction 121
+
+Volunteer priority does not guarantee a shift.
+
+Correction 122
+
+A guest must be able to exist without becoming a contributor.
+
+Correction 123
+
+The same queue rule can create different burdens.
+
+Correction 124
+
+No booking record can protect privacy and weaken preparation.
+
+Correction 125
+
+Less data does not mean less operational work.
+
+Correction 126
+
+Human allocation does not mean unstructured allocation.
+
+Correction 127
+
+Historical scale does not establish live availability.
+
+Correction 128
+
+Capacity is a portfolio of objects, not a seat count.
+
+Correction 129
+
+Stable participation can hold a variable menu.
+
+Correction 130
+
+Role multiplicity does not automatically establish intent multiplicity.
+
+Correction 131
+
+Cross-supported capacity does not create recipient ownership.
+
+Correction 132
+
+Open eligibility does not guarantee simultaneous availability.
+
+Correction 133
+
+All are welcome does not mean all are guaranteed a seat.
+
+Correction 134
+
+Flexible contribution requires a stable hospitality standard.
+
+Strongest Reservation / Participation Tensions After Restaurant #19
+
+Tension 31 — No Reservation vs Live Allocation
+
+Advance booking disappears while allocation remains at the threshold.
+
+Tension 32 — First-Come Order vs Mission Priority
+
+A simple sequence is modified by a need-based condition.
+
+Tension 33 — Priority Recognition vs Guest Privacy
+
+The system may need information it should not publicly display.
+
+Tension 34 — Flexible Contribution vs Commitment Clarity
+
+Financial choice expands while interpretive burden increases.
+
+Tension 35 — Dining Access vs Volunteer Availability
+
+Two participation routes use different capacity systems.
+
+Tension 36 — Minimal Disclosure vs Operational Preparation
+
+Privacy protection can remove information needed for dietary and accessibility readiness.
+
+Tension 37 — Human Flexibility vs Rule Consistency
+
+Contextual judgment can protect dignity and create uneven decisions.
+
+Tension 38 — Historical Scale vs Live Availability
+
+Large cumulative totals do not answer the immediate allocation question.
+
+Tension 39 — Same Queue Rule vs Unequal Queue Burden
+
+Uniform procedure can produce unequal access cost.
+
+Tension 40 — Guest Role Fluidity vs Data Separation
+
+One person may change roles while each data purpose must remain bounded.
+
+Tension 41 — Open Welcome vs Finite Capacity
+
+Universal eligibility coexists with possible waiting and turn-away.
+
+Tension 42 — Cross-Support vs Recipient Ownership
+
+One participant may fund capacity without gaining a claim over another person.
+
+Reservation Falsification Programme After Restaurant #19
+
+Test whether first-time guests understand that no reservation is needed.
+
+Test whether guests understand that seating is not guaranteed.
+
+Observe how first-come order is implemented.
+
+Observe how mission priority modifies first-come order.
+
+Verify that priority is applied consistently.
+
+Verify that priority can be requested or recognised privately.
+
+Test whether guests infer a public need category from priority.
+
+Measure queue duration across service periods.
+
+Record turn-away frequency and reasons.
+
+Audit recovery after full capacity.
+
+Test burden for guests unable to arrive early.
+
+Test burden across mobility, transport, health, work and caregiving conditions.
+
+Verify that guests unable to donate can dine without advance qualification.
+
+Test whether suggested donation is experienced as optional.
+
+Test whether pay-it-forward participation is experienced as additional and optional.
+
+Verify that contribution state does not affect seating or service quality.
+
+Test whether volunteering is perceived as a dining prerequisite.
+
+Reconcile unable-to-donate invitation language with exchange-for-meal volunteer language.
+
+Distinguish dining access from volunteer placement in user testing.
+
+Measure volunteer application-to-placement time.
+
+Measure orientation completion and abandonment.
+
+Verify whether exchange-for-meal volunteer places are meaningfully available.
+
+Document the relationship between a completed shift and a meal.
+
+Verify that a failed volunteer application does not block dining.
+
+Separate dining-seat and volunteer-place capacity records.
+
+Audit dining, queue, contribution, volunteer, resource and recovery capacity separately.
+
+Compare historical activity totals with live capacity communication.
+
+Test whether guests receive useful wait information.
+
+Test whether dietary needs can be communicated safely without reservation.
+
+Test whether access needs can be prepared without reservation.
+
+Audit the optional preparation channel for purpose-bounded data.
+
+Verify party and companion handling.
+
+Verify current hours across official and live channels.
+
+Compare participation rules across homepage, FAQ, menu, volunteer page, signage and human explanation.
+
+Observe whether staff and volunteers apply one rule set.
+
+Review training, escalation and recovery procedures.
+
+Compare ordinary and high-pressure allocation decisions.
+
+Test whether the changing menu preserves stable participation rules.
+
+Verify that dietary consequences remain current across menu cycles.
+
+Audit dining, donor and volunteer records for purpose separation.
+
+Test whether role changes trigger inappropriate data combination.
+
+Verify that resource continuation remains optional.
+
+Test whether dining remains a complete route without support intake.
+
+Test whether pay-it-forward contribution creates recipient ownership assumptions.
+
+Seek negative and ambivalent participation evidence.
+
+Compare JBJ Soul Kitchen directly with Refettorio Felix.
+
+Compare with another pay-what-you-can restaurant.
+
+Compare with a commercial no-reservation restaurant.
+
+Compare with a lightweight optional-booking alternative.
+
+Compare mission-priority allocation with unmodified first-come allocation.
+
+Test whether the no-reservation model lowers total burden rather than interface burden alone.
+
+Test whether contribution flexibility increases participation.
+
+Test whether volunteer exchange increases agency or substitutes labour burden for money burden.
+
+Test whether equal hospitality standards survive different contribution states.
+
+Separate published route availability from performed access.
+
+Separate participation activity from social outcome.
+
+Do not infer successful allocation from open-door language.
+
+Do not infer live capacity from historical scale.
+
+Do not infer privacy from minimal data capture alone.
+
+Do not infer dignity from procedural flexibility alone.
+
+Participation Deduplication Decisions — Restaurant #19
+
+No-Reservation Allocation refines Non-Reservable Participation State.
+
+Mission-Priority Queue extends First-Come Capacity Allocation.
+
+Contribution-State Participation refines the participation-state model.
+
+Dignity-Preserving Allocation extends privacy-preserving entry.
+
+Volunteer-Exchange Allocation is a route-specific allocation mechanism.
+
+Dining / Volunteer Separation refines Distributed Capacity Inventory.
+
+Contribution Choice Architecture refines Manageable Commitment and The Guest as Participant.
+
+Capacity Without Scarcity Theatre refines Capacity Proof and Commitment Without Pressure.
+
+Priority Without Public Classification extends felt-eligibility and privacy architecture.
+
+Human-Routed Participation refines Human Assistance.
+
+Minimal-Disclosure Dining refines consequence-relevant data collection.
+
+Role-Bounded Data extends stakeholder / guest-intent separation.
+
+Flexible Contribution / Stable Guesthood remains cross-dimensional architecture.
+
+First-Come Recovery refines failure-state architecture.
+
+Access Without Booking Record refines access-exception channels.
+
+Cross-Supported Capacity is a relationship boundary, not a separate pattern.
+
+Guest-Without-Contributor State remains shared with Restaurant #18 and is not duplicated.
+
+No architecture direction becomes a formal pattern in this file.
+
+Restaurant #19 Reservation Decision Ledger
+
+Add JBJ Soul Kitchen, Red Bank as the nineteenth independent reservation comparison case.
+
+Classify the principal dining route as no-reservation participation.
+
+Treat no reservation as live allocation rather than no allocation.
+
+Treat first-come and mission priority as one combined system.
+
+Treat priority as a participation rule and a privacy risk.
+
+Do not require public proof of need.
+
+Treat no fixed price as compatible with material commitment.
+
+Treat contribution choice as a participation state.
+
+Separate suggested donation from pay-it-forward support.
+
+Preserve the unable-to-donate route as legitimate dining participation.
+
+Protect the Guest-Without-Contributor State.
+
+Do not classify volunteering as an immediate dining prerequisite.
+
+Record the invitation-versus-exchange relationship as unresolved.
+
+Separate dining-seat capacity from volunteer-place capacity.
+
+Treat a volunteer application as intake and allocation, not a table reservation.
+
+Do not infer volunteer availability from a published application.
+
+Treat first-come burden as an access variable.
+
+Treat minimal disclosure as a dignity requirement.
+
+Preserve dietary and access preparation without forcing reservation.
+
+Treat human assistance as primary allocation infrastructure.
+
+Require human allocation to remain structured and auditable.
+
+Decompose capacity before publishing or proving it.
+
+Do not treat historical meal totals as live availability.
+
+Treat variable menu and stable rules as strong pattern pressure.
+
+Preserve role, intent and data-purpose separation.
+
+Treat cross-supported capacity without recipient ownership.
+
+Require honest capacity and recovery inside all-are-welcome language.
+
+Reinforce Walk-In as First-Class Participation without changing High confidence.
+
+Reinforce Stable Participation / Variable Product without changing Medium-High confidence.
+
+Apply mixed evidence to Manageable Commitment without changing Medium confidence.
+
+Apply contradiction pressure to Participation Rule Consistency without changing Medium confidence.
+
+Reinforce Layered Arrival without changing Medium confidence.
+
+Reinforce Participation Throughout the Journey without changing Medium confidence.
+
+Reinforce Human Assistance without changing Medium confidence.
+
+Apply definition stress to Multi-Intent Hospitality without changing Medium confidence.
+
+Reinforce Capacity Proof without changing Medium-High confidence.
+
+Reinforce Hospitality System Proof without changing High confidence.
+
+Retain Commitment Without Pressure at Emerging.
+
+Retain Escalating Participation Complexity at Emerging.
+
+Retain The Guest as Participant at Emerging.
+
+Retain Promise Before Proof at Emerging.
+
+Retain Emotion Before Interface at Emerging.
+
+Retain Atmosphere as Product at Emerging.
+
+Retain Own the Guest Relationship at Partially Supported / Medium.
+
+Make no promotion, demotion, merge or rename.
+
+Make no confidence or maturity change.
+
+Preserve all canonical counts pending governance reconciliation.
+
+Count Restaurant #19 once, not once per dimension.
+
+Reserve formal decisions until all five Restaurant #19 comparisons are complete.
+
+Reservation / Participation Comparison Conclusion — Post JBJ Soul Kitchen, Red Bank
+
+After:
+
+19
+
+independent reservation comparison cases,
+
+the strongest thesis remains:
+
+Participation is a state system, not a booking button.
+
+Dans le Noir? showed:
+
+a simple booking surface can contain deep consequence and preparation.
+
+DAWN showed:
+
+one venue can allocate multiple human and technological relationship objects.
+
+Refettorio Felix showed:
+
+a principal hospitality route can be intentionally non-reservable while the institution remains highly structured.
+
+JBJ Soul Kitchen shows:
+
+non-reservable dining can contain first-come order, mission priority, contribution choice, volunteer allocation, role-bounded data and multiple capacity objects.
+
+The strongest comparison is:
+
+Refettorio Felix
+
+Non-Reservable + Non-Transactional Principal Route
+
+≠
+
+JBJ Soul Kitchen
+
+Non-Reservable + Flexible-Contribution Principal Route
+
+The strongest participation boundary is:
+
+No Reservation
+≠
+No Allocation
+
+The strongest allocation boundary is:
+
+First Come
+≠
+Only Allocation Rule
+
+The strongest privacy boundary is:
+
+Priority
+≠
+Public Proof of Need
+
+The strongest capacity boundary is:
+
+Volunteer Place
+≠
+Dining Seat
+
+The strongest commitment boundary is:
+
+No Fixed Price
+≠
+No Commitment
+
+The strongest guesthood boundary is:
+
+Contribution State
+≠
+Guest Rank
+
+Restaurant #19 does not justify:
+
+a Candidate promotion
+
+an Emerging promotion
+
+a confidence increase
+
+a confidence decrease
+
+a demotion
+
+a validation
+
+a research-derived Principle
+
+It supplies:
+
+very strong participation architecture,
+
+hard privacy and capacity constraints
+
+and:
+
+a comprehensive programme for performed-allocation validation.
+
+Formal maturity decisions remain reserved until all five Restaurant #19 comparison files are complete.
+
+Evidence wins.
+
+Validation — Post Restaurant #19 Reservation Comparison
+
+Comparison File:
+
+khds/research/comparison/reservation.md
+
+Status:
+
+Post–JBJ Soul Kitchen, Red Bank Complete
+
+Independent Restaurants Represented:
+
+19
+
+Canonical Completed Independent Restaurants:
+
+18
+
+Latest Case:
+
+JBJ Soul Kitchen, Red Bank
+
+Primary Governance Watch:
+
+Participation Rule Consistency
+
+Secondary Governance Watch:
+
+Capacity Proof — Distributed Live Allocation
+
+Third Governance Watch:
+
+Walk-In as First-Class Participation
+
+Strongest New Participation State:
+
+No-Reservation Allocation
+
+Strongest New Allocation State:
+
+Mission-Priority Queue
+
+Strongest New Privacy Requirement:
+
+Priority Without Public Classification
+
+Strongest New Capacity Refinement:
+
+Dining / Volunteer Capacity Separation
+
+Strongest Participation Boundary:
+
+No Reservation
+
+≠
+
+No Allocation
+
+Strongest Capacity Boundary:
+
+Volunteer Place
+
+≠
+
+Dining Seat
+
+Strongest Guesthood Boundary:
+
+Contribution State
+
+≠
+
+Guest Rank
 
 Formal Promotions:
 

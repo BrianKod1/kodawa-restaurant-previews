@@ -2,11 +2,11 @@ KHDS Cross-Restaurant Comparison — Story / Narrative
 
 Status
 
-Post–Refettorio Felix, London Comparison
+Post–JBJ Soul Kitchen, Red Bank Comparison
 
 Restaurants Compared:
 
-18
+19
 
 Track:
 
@@ -14,7 +14,7 @@ Track A — Independent Hospitality Research
 
 Latest Added Case:
 
-Refettorio Felix — London
+JBJ Soul Kitchen — Red Bank, New Jersey
 
 Comparison Status:
 
@@ -98,7 +98,7 @@ all:
 
 five:
 
-post–Restaurant #18:
+post–Restaurant #19:
 
 comparison files
 
@@ -237,6 +237,8 @@ Dans le Noir? London
 Avatar Robot Café DAWN, Tokyo
 
 Refettorio Felix, London
+
+JBJ Soul Kitchen, Red Bank
 
 Current Story Thesis
 
@@ -11353,3 +11355,2208 @@ Next File:
 
 khds/research/validation/candidate-patterns.md
 
+Post–JBJ Soul Kitchen, Red Bank Story Reconciliation
+
+Restaurant #19:
+
+JBJ Soul Kitchen, Red Bank
+
+extends the story comparison from:
+
+hospitality without transaction
+
+into:
+
+reciprocity without rank.
+
+Refettorio Felix established:
+
+a social mission can be carried through:
+
+non-transactional hospitality
+
+without:
+
+making the people served into proof objects.
+
+JBJ Soul Kitchen adds:
+
+a contribution system in which:
+
+some guests make the suggested donation
+
+some guests pay forward additional support
+
+some guests cannot donate
+
+some people contribute through volunteer labour
+
+some people later enter resource routes
+
+The narrative must make those relationships intelligible
+
+without:
+
+ranking guests
+
+turning contribution into deservingness
+
+turning labour into proof of human worth
+
+giving donors ownership of recipients
+
+making the founder the daily protagonist
+
+treating activity totals as social outcomes
+
+claiming equal experience from the same meal
+
+The central comparative question is:
+
+How can a restaurant tell a coherent story of reciprocal hospitality when contribution varies, while preserving one guest category and preventing money, labour, celebrity or published scale from becoming substitutes for dignity and outcome evidence?
+
+Restaurant #19 is now:
+
+fully represented in the story comparison.
+
+This file also completes:
+
+the five-dimensional Restaurant #19 comparison set.
+
+Formal governance still belongs to:
+
+khds/research/validation/candidate-patterns.md.
+
+Restaurant #19 Story Evidence Input
+
+The official evidence establishes:
+
+the organisation’s published origin story
+
+the October 2011 Red Bank opening
+
+community-restaurant positioning
+
+restaurant-first language
+
+no fixed menu prices
+
+a suggested donation
+
+pay-it-forward encouragement
+
+an unable-to-donate participation route
+
+volunteer participation
+
+exchange-for-meal volunteer language
+
+first-come seating
+
+need-based priority
+
+a three-course meal structure
+
+same-meal and same-experience claims
+
+resource continuation
+
+founder and staff roles as published
+
+public activity counters
+
+network expansion
+
+current Red Bank participation language
+
+The official evidence does not establish:
+
+founder motivation beyond the published account
+
+current operational consistency
+
+freedom from contribution pressure
+
+whether volunteering is understood as optional
+
+equal service across contribution states
+
+equal experience
+
+dignity
+
+belonging
+
+volunteer empowerment
+
+donor interpretation
+
+absence of gratitude debt
+
+live capacity
+
+audited cross-subsidy
+
+resource outcomes
+
+food-security outcomes
+
+causal social impact
+
+representativeness of selected testimony
+
+The governing story rule is:
+
+Narrative Coherence
+≠
+Outcome Proof
+
+Current Canonical Entry State — Before Restaurant #19 Story Decision
+
+The completed canonical governance state remains:
+
+Independent Restaurants: 18
+Track B Validation Cases: 1
+Candidate Patterns: 26
+Emerging Patterns: 8
+Partially Supported Patterns: 1
+Validated Patterns: 0
+Research-Derived KHDS Principles: 0
+Implementation Patterns Pending Formal Validation: 1
+Opportunity Themes: 36
+Track B Implementation Learnings: 17
+Candidate Confidence: 9 High / 8 Medium-High / 9 Medium
+
+The story comparison now represents:
+
+19 independent restaurant cases.
+
+Restaurant #19 contributes:
+
+narrative evidence
+
+organising logic
+
+ethical boundaries
+
+architecture directions
+
+falsification targets
+
+It does not automatically contribute:
+
+a promotion.
+
+The five Restaurant #19 comparison files are now:
+
+Arrival: Complete
+Atmosphere: Complete
+Photography: Complete
+Reservation: Complete
+Story: Complete
+
+Canonical reconciliation is:
+
+next.
+
+Comparison 136 — The Story Is Contribution Variability With Stable Guesthood
+
+A weaker reading of JBJ Soul Kitchen is:
+
+some people give
+
+and:
+
+other people receive.
+
+That framing creates:
+
+giver and recipient classes
+
+moral hierarchy
+
+beneficiary identity
+
+donor protagonism
+
+gratitude expectation
+
+The stronger organising logic is:
+
+Contribution Can Vary
+While
+Guesthood Remains Stable
+
+The story is therefore not:
+
+charity layered onto a restaurant.
+
+It is:
+
+a hospitality model that allows:
+
+different contribution states
+
+inside:
+
+one guest category.
+
+Comparison 137 — Reciprocity Must Not Become Deservingness
+
+The public story invites:
+
+financial contribution
+
+additional pay-it-forward support
+
+volunteer labour
+
+future participation
+
+These can create:
+
+reciprocity.
+
+They can also imply:
+
+the meal must be:
+
+earned,
+
+repaid
+
+or:
+
+justified.
+
+Therefore:
+
+Reciprocity
+≠
+Deservingness
+
+The guest must not need to prove:
+
+financial,
+
+labour
+
+or:
+
+emotional contribution
+
+to remain:
+
+a full guest.
+
+Comparison 138 — Invitation and Exchange Can Describe the Same Route Differently
+
+Current official language includes:
+
+an invitation for people unable to donate to:
+
+dine and learn about volunteering or resources.
+
+Other official volunteer language describes:
+
+people volunteering in exchange for a meal
+
+and:
+
+priority for available volunteer places.
+
+These statements may refer to:
+
+different moments
+
+different programme states
+
+different participation routes
+
+different operating conditions
+
+The relationship is not resolved by:
+
+story coherence alone.
+
+The boundary is:
+
+Invitation to Volunteer
+≠
+Requirement to Volunteer
+
+This is direct pressure on:
+
+Participation Rule Consistency.
+
+It does not justify:
+
+a maturity change without direct verification.
+
+Comparison 139 — No Price Can Strengthen the Story and Weaken Commitment Clarity
+
+No fixed menu prices creates:
+
+a powerful narrative of:
+
+access
+
+flexibility
+
+participation
+
+shared responsibility
+
+It can also leave the guest uncertain about:
+
+expected payment
+
+suggested amount
+
+non-payment legitimacy
+
+pay-it-forward expectation
+
+volunteer expectation
+
+Therefore:
+
+Narrative Elegance
+≠
+Participation Clarity
+
+and:
+
+No Fixed Price
+≠
+No Economic Expectation
+
+The story must explain:
+
+the model
+
+without:
+
+using ambiguity as emotional pressure.
+
+Comparison 140 — Same Meal Is a Product Claim; Same Experience Is an Outcome Claim
+
+Same-meal language may support:
+
+product parity
+
+one restaurant identity
+
+contribution-neutral menu structure
+
+resistance to visible tiering
+
+Same-experience language reaches further.
+
+It implies:
+
+equal service
+
+equal privacy
+
+equal social interpretation
+
+equal contribution pressure
+
+equal dignity
+
+equal belonging
+
+Therefore:
+
+Same Meal
+≠
+Same Experience
+
+Product evidence cannot automatically climb to:
+
+experiential outcome.
+
+Comparison 141 — Restaurant-First Positioning Can Protect Dignity and Borrow Quality
+
+Restaurant-first language may help communicate:
+
+hosted dining
+
+culinary care
+
+choice
+
+table service
+
+guesthood
+
+distance from institutional distribution
+
+It may also borrow:
+
+an assumption of quality
+
+without:
+
+proving current performance.
+
+Therefore:
+
+Restaurant First
+≠
+Restaurant Performance Proof
+
+Restaurant form can support:
+
+dignity recognition.
+
+It cannot produce:
+
+human worth.
+
+Comparison 142 — The Founder Can Explain Origin Without Owning the Story
+
+Jon Bon Jovi and Dorothea Bongiovi are:
+
+material to:
+
+origin
+
+visibility
+
+resources
+
+public recognition
+
+organisational history
+
+They are not automatically:
+
+the daily hospitality protagonists.
+
+The daily story is also carried by:
+
+guests
+
+staff
+
+volunteers
+
+donors
+
+partners
+
+food
+
+place
+
+the operating system
+
+Therefore:
+
+Founder Visibility
+≠
+Operating Proof
+
+The preferred architecture is:
+
+Founder as Supporting Character.
+
+Comparison 143 — The Operating Relationship Is the Strongest Distributed Protagonist
+
+No single human role can carry:
+
+the whole story.
+
+The guest is:
+
+the hospitality centre.
+
+The guest should not be:
+
+the required public protagonist.
+
+The founder explains:
+
+origin and resources.
+
+The staff and volunteers carry:
+
+daily service.
+
+Donors support:
+
+system capacity.
+
+Partners may extend:
+
+resources.
+
+The strongest protagonist is therefore:
+
+The Operating Relationship
+
+This preserves:
+
+distributed agency
+
+without:
+
+creating one hero.
+
+Comparison 144 — Donor Support Does Not Create Recipient Ownership
+
+Pay-it-forward storytelling can invite:
+
+solidarity.
+
+It can also imply:
+
+the donor funded:
+
+a specific person,
+
+a specific transformation
+
+or:
+
+a guaranteed outcome.
+
+The boundary is:
+
+Donor Support
+≠
+Recipient Ownership
+
+The donor may support:
+
+system capacity.
+
+The donor does not purchase:
+
+recipient identity
+
+recipient gratitude
+
+recipient testimony
+
+causal certainty
+
+another person’s story
+
+This is:
+
+Cross-Support Without Gratitude Debt.
+
+Comparison 145 — Volunteer Labour Can Signal Agency and Conceal Unequal Burden
+
+Volunteer participation can be narrated as:
+
+contribution
+
+reciprocity
+
+capability
+
+relationship
+
+route into community
+
+Time and labour are not:
+
+costless
+
+or:
+
+equally available.
+
+Volunteer storytelling may conceal:
+
+health limitations
+
+caregiving
+
+transport cost
+
+schedule conflict
+
+power difference
+
+scarcity of volunteer places
+
+Therefore:
+
+Volunteer Hour
+≠
+Volunteer Empowerment
+
+and:
+
+Earned Meal
+≠
+Earned Human Worth
+
+Volunteer agency requires:
+
+participant evidence,
+
+not:
+
+romanticised narrative.
+
+Comparison 146 — Activity, Experience and Outcome Must Remain Separate
+
+JBJ Soul Kitchen can publish:
+
+meals served
+
+volunteer hours
+
+volunteer shifts
+
+operating years
+
+locations
+
+These establish:
+
+activity.
+
+Experience claims concern:
+
+welcome
+
+pressure
+
+dignity
+
+belonging
+
+agency
+
+Outcome claims concern:
+
+food-security change
+
+wellbeing
+
+employment
+
+stability
+
+long-term community effect
+
+Therefore:
+
+Activity
+≠
+Experience
+≠
+Outcome
+
+Each level requires:
+
+its own method,
+
+scope,
+
+time horizon
+
+and:
+
+uncertainty statement.
+
+Comparison 147 — Community Can Be the Central Story and Remain Unverified
+
+Community language can explain:
+
+the intended relationship
+
+shared participation
+
+local continuity
+
+cross-support
+
+volunteer involvement
+
+It cannot independently establish:
+
+belonging
+
+mutual recognition
+
+low stigma
+
+equal voice
+
+durable relationships
+
+community-level outcome
+
+Therefore:
+
+Community Restaurant
+≠
+Verified Community
+
+The narrative may state:
+
+intention and mechanism.
+
+It must qualify:
+
+experience and outcome.
+
+Comparison 148 — Priority Can Enact the Mission and Expose the Guest
+
+Need-based priority is:
+
+a material way the story enters:
+
+the operating model.
+
+It may demonstrate:
+
+mission through allocation.
+
+If the process is visible or poorly explained,
+
+it may also:
+
+classify the guest
+
+expose need
+
+create social difference
+
+make vulnerability narratively legible
+
+The boundary is:
+
+Mission Through Priority
+≠
+Permission to Publish Need
+
+The mission story must be proven through:
+
+the rule,
+
+not:
+
+the exposure of the person receiving priority.
+
+Comparison 149 — A Local Origin Can Support Expansion and Lose Specificity
+
+Red Bank is:
+
+the October 2011 origin point.
+
+Network expansion can demonstrate:
+
+adaptation
+
+continuity
+
+transfer
+
+organisational development
+
+It can also blur:
+
+location-specific rules
+
+local staff
+
+local partners
+
+current hours
+
+current outcomes
+
+local history
+
+Therefore:
+
+Network Expansion
+≠
+Model Improvement
+
+and:
+
+Network Story
+≠
+Current Red Bank Story
+
+The correct architecture is:
+
+Place-Anchored Expansion.
+
+Comparison 150 — Guest Voice Can Correct the Institution and Be Curated by It
+
+Testimony can provide:
+
+lived specificity
+
+participant authorship
+
+contradiction
+
+emotional truth
+
+mechanism interpretation
+
+Selected testimony can also be:
+
+unusually positive
+
+edited
+
+decontextualised
+
+reused
+
+presented as representative
+
+shaped by dependence
+
+Therefore:
+
+Guest Story
+≠
+Representative Experience
+
+Participant-Controlled Testimony requires:
+
+informed consent
+
+authorship clarity
+
+editorial transparency
+
+reuse limits
+
+withdrawal
+
+representativeness qualification
+
+Comparison 151 — A Simple Organising Phrase Can Hide Complex Rules
+
+Pay it forward is:
+
+memorable,
+
+emotionally legible
+
+and:
+
+portable.
+
+It does not explain:
+
+no reservation
+
+first-come order
+
+mission priority
+
+suggested donation
+
+inability to donate
+
+volunteer availability
+
+orientation
+
+resource continuation
+
+capacity failure
+
+Therefore:
+
+Simple Narrative
+≠
+Complete Interface
+
+Story Before Features must not become:
+
+story instead of rules.
+
+Comparison 152 — The Guest Can Be Central Without Being Exposed
+
+The guest is:
+
+the centre of:
+
+the hospitality relationship.
+
+The guest does not need to become:
+
+the face of need
+
+the recipient archetype
+
+the transformation story
+
+the gratitude voice
+
+the fundraising subject
+
+the impact statistic
+
+Privacy can preserve:
+
+agency
+
+equal status
+
+narrative integrity
+
+consent freedom
+
+Therefore:
+
+Guest Centrality
+≠
+Guest Exposure
+
+The operating system can carry:
+
+the proof burden.
+
+Comparison 153 — Resource Continuation Can Extend the Story and Reclassify the Diner
+
+Resource connection may extend:
+
+care beyond food.
+
+It may also shift the person from:
+
+guest
+
+to:
+
+recipient,
+
+client
+
+or:
+
+case.
+
+The story remains coherent when continuation is:
+
+optional
+
+private
+
+separately consented
+
+role-specific
+
+non-stigmatising
+
+The boundary is:
+
+Resource Referral
+≠
+Resolved Need
+
+The meal must remain:
+
+complete hospitality,
+
+not:
+
+an intake pretext.
+
+Comparison 154 — Stable Guesthood Requires Operational Difference and Social Neutrality
+
+The operating system may need to distinguish:
+
+suggested donation
+
+additional contribution
+
+no financial contribution
+
+volunteer interest
+
+volunteer exchange
+
+donor participation
+
+resource continuation
+
+The story should not erase:
+
+these differences
+
+because:
+
+rules and accountability depend on them.
+
+The story should not turn:
+
+these differences
+
+into:
+
+social rank.
+
+Therefore:
+
+Operational Difference
++
+Social Neutrality
+↓
+Stable Guesthood
+
+This is:
+
+the narrative expression of:
+
+Flexible Contribution / Stable Guesthood.
+
+Updated Story Thesis — Post Restaurant #19
+
+The strongest story thesis remains:
+
+Story is an organising system, not a biography section.
+
+Restaurant #19 shows that story can organise:
+
+contribution
+
+guesthood
+
+reciprocity
+
+service
+
+food
+
+place
+
+volunteering
+
+capacity
+
+priority
+
+resources
+
+evidence
+
+without:
+
+making one person:
+
+the hero.
+
+The refined thesis is:
+
+A hospitality story is credible when its organising logic is enacted by the operating model, keeps roles legible without rank, preserves location and time, and never allows emotional coherence to outrun evidence.
+
+The Restaurant #19 narrative equation is:
+
+Flexible Contribution
++
+Stable Guesthood
++
+Restaurant Hospitality
++
+Distributed Protagonism
++
+Place and Time
++
+Evidence Restraint
+↓
+Reciprocity Without Rank
+
+Post–JBJ Soul Kitchen Story Architecture Additions
+
+Reciprocity Without Rank
+
+Contribution varies while guest status does not.
+
+Flexible Contribution / Stable Guesthood
+
+Money, labour and non-contribution coexist within one hospitality standard.
+
+Distributed Protagonist
+
+The story belongs to the operating relationship rather than one hero.
+
+Founder as Supporting Character
+
+Founder visibility explains origin and resources without dominating daily operation.
+
+Donor Without Ownership
+
+Contribution supports system capacity without creating personal claim over another guest.
+
+Guest Without Beneficiary Framing
+
+The person is first a guest.
+
+Invitation / Obligation Separation
+
+Volunteer opportunity remains distinct from meal eligibility.
+
+Product-Parity / Experience-Parity Separation
+
+Same meal and same experience remain different claims.
+
+Activity / Experience / Outcome Ladder
+
+Every claim is matched to its evidence level.
+
+Contribution-State Narrative
+
+Different contribution modes are explained without creating status hierarchy.
+
+Cross-Support Without Gratitude Debt
+
+Pay it forward remains system solidarity rather than personal debt.
+
+Place-Anchored Expansion
+
+Network growth retains Red Bank specificity.
+
+Historical State Labelling
+
+Past and current rules remain distinct.
+
+Evidence-Calibrated Emotional Language
+
+Emotional force does not exceed the evidence level.
+
+Participant-Controlled Testimony
+
+People control what, how and for how long their story is used.
+
+Operational Narrative Invariant
+
+The stable story is restaurant hospitality with flexible contribution and stable guesthood.
+
+These remain:
+
+architecture directions.
+
+They are not:
+
+new formal patterns.
+
+Story Architecture — Post Restaurant #19 Consolidation
+
+The current story architecture includes:
+
+story through hospitality model
+
+story through place
+
+story through product
+
+story through service
+
+story through research
+
+story through ecology
+
+story through designed condition
+
+story through reassigned expertise
+
+story through paid hospitality
+
+story through non-transactional hospitality
+
+story through flexible-contribution hospitality
+
+narrative coherence through organising logic
+
+biography when it explains experience
+
+adaptation as narrative
+
+heritage as confidence
+
+distributed protagonist
+
+role legibility
+
+relationship narrative depth
+
+activity / experience / outcome ladder
+
+consent-compatible testimony
+
+privacy-compatible story
+
+institutional humility
+
+supporting prestige
+
+local continuity / model transformation
+
+place-anchored expansion
+
+historical state labelling
+
+evidence-calibrated emotional language
+
+reciprocity without rank
+
+flexible contribution / stable guesthood
+
+donor without ownership
+
+guest without beneficiary framing
+
+invitation / obligation separation
+
+product-parity / experience-parity separation
+
+operational narrative invariant
+
+No architecture item is promoted merely because it appears in this consolidated set.
+
+Current Story Pattern Pressure — Post Restaurant #19
+
+Story Through Hospitality Model
+
+Current state:
+
+Candidate / High
+
+Restaurant #19 pressure:
+
+very strong support.
+
+The story is enacted through price structure, access, contribution, food, volunteering, priority, cross-support and resources.
+
+Social outcomes remain unverified.
+
+Decision:
+
+no confidence or maturity change.
+
+Story Through Place
+
+Current state:
+
+Candidate / High
+
+Restaurant #19 pressure:
+
+strong support.
+
+Red Bank is the October 2011 origin and current local context.
+
+Network imagery and claims require location boundaries.
+
+Decision:
+
+no confidence or maturity change.
+
+Narrative Coherence Through Organising Logic
+
+Current state:
+
+Candidate / High
+
+Restaurant #19 pressure:
+
+very strong support.
+
+Pay it forward is the public phrase.
+
+Reciprocity Without Rank is the stronger analytical formulation.
+
+Coherence remains distinct from proof.
+
+Decision:
+
+no confidence or maturity change.
+
+Narrative Language Within Clear Interface
+
+Current state:
+
+Candidate / High
+
+Restaurant #19 pressure:
+
+very strong support with rule constraint.
+
+Soul, love, community and pay it forward must coexist with hours, access, contribution and capacity clarity.
+
+Decision:
+
+no confidence or maturity change.
+
+Biography When It Explains the Experience
+
+Current state:
+
+Candidate / High
+
+Restaurant #19 pressure:
+
+strong boundary support.
+
+Founder biography is useful where it explains origin, responsibility, resources or model development.
+
+Celebrity recognition alone is not operating evidence.
+
+Decision:
+
+no confidence or maturity change.
+
+Adaptation as Narrative
+
+Current state:
+
+Candidate / Medium-High
+
+Restaurant #19 pressure:
+
+strong historical support.
+
+The path from the 2011 Red Bank opening through network expansion shows change over time.
+
+Expansion does not prove improvement.
+
+Decision:
+
+no confidence or maturity change.
+
+Show the System Behind the Plate
+
+Current state:
+
+Candidate / High
+
+Restaurant #19 pressure:
+
+very strong support.
+
+The plate depends on staff, volunteers, donations, pay it forward, sourcing, place and service.
+
+Decision:
+
+no confidence or maturity change.
+
+Atmosphere Through Worldview
+
+Current state:
+
+Candidate / High
+
+Restaurant #19 pressure:
+
+very strong mechanism support.
+
+Welcome, reciprocity and restaurant-first service enact the worldview.
+
+Experienced atmosphere remains unverified.
+
+Decision:
+
+no confidence or maturity change.
+
+Hospitality System Proof
+
+Current state:
+
+Candidate / High
+
+Restaurant #19 pressure:
+
+very strong architecture support.
+
+The public story names many system components.
+
+Performance evidence must extend beyond narrative coherence.
+
+Decision:
+
+no confidence or maturity change.
+
+Heritage Builds Confidence
+
+Current state:
+
+Candidate / Medium-High
+
+Restaurant #19 pressure:
+
+strong continuity support.
+
+History since 2011 may support trust.
+
+It does not verify current experience.
+
+Decision:
+
+no confidence or maturity change.
+
+Participation Rule Consistency
+
+Current state:
+
+Candidate / Medium
+
+Restaurant #19 pressure:
+
+direct contradiction pressure.
+
+Invitation-versus-exchange language requires direct operational verification.
+
+Decision:
+
+no confidence increase;
+
+no demotion;
+
+retain as a priority governance watch.
+
+Multi-Intent Hospitality
+
+Current state:
+
+Candidate / Medium
+
+Restaurant #19 pressure:
+
+definition stress.
+
+Guest, donor, volunteer and resource participant may be role states in one relationship rather than separate initial intents.
+
+Decision:
+
+no confidence or maturity change.
+
+Story Before Features
+
+Current state:
+
+Emerging
+
+Restaurant #19 pressure:
+
+strong qualified support.
+
+The pay-it-forward story may orient the model.
+
+It must not delay access, hours, capacity and contribution clarity.
+
+Decision:
+
+no promotion.
+
+Promise Before Proof
+
+Current state:
+
+Emerging
+
+Restaurant #19 pressure:
+
+very strong contradiction pressure.
+
+All are welcome, same meal, same experience, community and dignity claims sit at different evidence levels.
+
+Decision:
+
+no promotion.
+
+Emotion Before Interface
+
+Current state:
+
+Emerging
+
+Restaurant #19 pressure:
+
+qualified support with ethical boundary.
+
+Founder recognition, love and generosity must not become the gate to participation information.
+
+Decision:
+
+no promotion.
+
+The Guest as Participant
+
+Current state:
+
+Emerging
+
+Restaurant #19 pressure:
+
+very strong support with a hard boundary.
+
+Participation remains a choice rather than a worthiness test.
+
+Decision:
+
+no promotion.
+
+Commitment Without Pressure
+
+Current state:
+
+Emerging
+
+Restaurant #19 pressure:
+
+direct contradiction pressure.
+
+Donation, pay forward and volunteering must preserve the legitimacy of receiving hospitality without contribution.
+
+Decision:
+
+no promotion.
+
+Post–JBJ Soul Kitchen Story Corrections
+
+Correction 115
+
+The story is contribution variability with stable guesthood, not giver and recipient classes.
+
+Correction 116
+
+Reciprocity must not become deservingness.
+
+Correction 117
+
+Invitation to volunteer does not mean requirement to volunteer.
+
+Correction 118
+
+Narrative elegance does not establish participation clarity.
+
+Correction 119
+
+No fixed price does not remove economic expectation.
+
+Correction 120
+
+Same meal is a product claim; same experience is an outcome claim.
+
+Correction 121
+
+Restaurant-first positioning does not prove restaurant performance.
+
+Correction 122
+
+Founder visibility does not establish daily operating proof.
+
+Correction 123
+
+The operating relationship can be the distributed protagonist.
+
+Correction 124
+
+Donor support does not create recipient ownership.
+
+Correction 125
+
+Volunteer labour does not prove empowerment.
+
+Correction 126
+
+Earned meal language must not imply earned human worth.
+
+Correction 127
+
+Activity, experience and outcome require separate evidence.
+
+Correction 128
+
+Community narrative does not verify community outcome.
+
+Correction 129
+
+Mission priority does not permit public need exposure.
+
+Correction 130
+
+Network expansion does not prove model improvement.
+
+Correction 131
+
+Guest testimony does not automatically represent the guest population.
+
+Correction 132
+
+A simple organising phrase does not replace a complete interface.
+
+Correction 133
+
+Guest centrality does not require guest exposure.
+
+Correction 134
+
+Resource referral does not prove resolved need.
+
+Correction 135
+
+Operational difference and social neutrality can coexist.
+
+Correction 136
+
+Emotional narrative must not exceed the evidence level.
+
+Correction 137
+
+Historical states and current rules require explicit separation.
+
+Correction 138
+
+Flexible contribution requires one stable hospitality standard.
+
+Strongest Story Tensions After Restaurant #19
+
+Tension 31 — Reciprocity vs Deservingness
+
+Contribution can expand participation while implying that hospitality must be earned.
+
+Tension 32 — Invitation vs Obligation
+
+Volunteer opportunity can be narratively welcoming and operationally misread as requirement.
+
+Tension 33 — Product Parity vs Experience Parity
+
+The same meal may support equality without proving equal experience.
+
+Tension 34 — Restaurant Identity vs Performance Proof
+
+Restaurant-first language can support dignity while borrowing unverified quality.
+
+Tension 35 — Founder Authority vs Distributed Protagonism
+
+Celebrity visibility can establish origin while overshadowing daily roles.
+
+Tension 36 — Donor Solidarity vs Recipient Ownership
+
+Cross-support can fund capacity while creating a personal claim over another person’s story.
+
+Tension 37 — Volunteer Agency vs Labour Burden
+
+Non-cash contribution can create participation while imposing unequal time and capacity costs.
+
+Tension 38 — Activity Scale vs Outcome Proof
+
+Large numbers can demonstrate continuity while inflating social claims.
+
+Tension 39 — Community Meaning vs Community Evidence
+
+The central brand word may describe intention without proving lived relationship.
+
+Tension 40 — Local Origin vs Network Generalisation
+
+Expansion can extend the model while weakening Red Bank specificity.
+
+Tension 41 — Guest Voice vs Editorial Control
+
+Testimony can correct the institution while remaining selected and shaped by it.
+
+Tension 42 — Narrative Simplicity vs Rule Complexity
+
+Pay it forward is memorable but does not explain every participation condition.
+
+Tension 43 — Guest Centrality vs Guest Exposure
+
+The guest can be narratively central while remaining visually and biographically private.
+
+Tension 44 — Stable Guesthood vs Operational Differentiation
+
+The system needs role and contribution distinctions without turning them into social rank.
+
+Story Falsification Programme After Restaurant #19
+
+Test whether first-time readers understand the community-restaurant category.
+
+Test whether readers understand that the restaurant is not simply pay-what-you-want.
+
+Test whether readers understand that people unable to donate may dine.
+
+Test whether readers understand whether volunteering is invited or required.
+
+Reconcile invitation and exchange language through direct operational verification.
+
+Test whether suggested donation is understood as optional.
+
+Test whether pay it forward is understood as additional support.
+
+Test whether contribution language implies deservingness.
+
+Test the phrase earned meal with affected participants.
+
+Verify same-meal claims through service records and observation.
+
+Test same-experience claims through comparative longitudinal guest research.
+
+Separate product parity from experience parity in every public claim.
+
+Test whether restaurant-first positioning matches guest interpretation.
+
+Test current food and service quality independently from category language.
+
+Measure founder share of the narrative system.
+
+Test whether founder biography improves model understanding.
+
+Test whether founder visibility displaces local staff, volunteers, guests or place.
+
+Verify that accountable daily roles are sufficiently visible.
+
+Test whether the operating relationship is understood as the protagonist.
+
+Test donor messages for recipient-ownership assumptions.
+
+Test whether guests experience gratitude debt.
+
+Verify that pay-it-forward claims have financial and operational evidence.
+
+Audit volunteer language for romanticised labour.
+
+Measure volunteer burden, availability, retention and abandonment.
+
+Seek exchange-for-meal volunteer accounts with protected privacy.
+
+Audit every activity counter for date, scope, unit and method.
+
+Separate activity, experience and outcome claims.
+
+Verify whether outcome claims have defined methods and counterfactual logic.
+
+Do not infer food-security outcomes from meal totals.
+
+Test whether community language matches lived relationship evidence.
+
+Seek negative, neutral and ambivalent guest accounts.
+
+Verify that priority is explained without exposing need.
+
+Test whether resource continuation remains optional and private.
+
+Test whether the meal remains complete without resource participation.
+
+Audit Red Bank history separately from network history.
+
+Date every historical programme state and rule.
+
+Compare location-specific participation rules.
+
+Test whether network expansion improved, preserved or diluted the model.
+
+Audit guest testimony for consent, authorship and reuse scope.
+
+Verify practical withdrawal from testimony use.
+
+Do not present selected testimony as representative without support.
+
+Test whether guests can decline storytelling without affecting hospitality.
+
+Build narrative proof without identifiable vulnerability.
+
+Test whether the narrative interface delivers access information before optional founder depth.
+
+Test whether pay it forward improves comprehension or hides rules.
+
+Test whether role labels clarify the system without creating rank.
+
+Audit guest, donor, volunteer and resource data for purpose boundaries.
+
+Test whether the story preserves the right to dine without public contribution.
+
+Test whether flexible contribution preserves one hospitality standard.
+
+Test the story during full capacity.
+
+Test the story when no volunteer place is available.
+
+Test the story when the menu changes.
+
+Test the story when resource support is unavailable.
+
+Test the story without celebrity recognition.
+
+Compare JBJ Soul Kitchen directly with Refettorio Felix.
+
+Compare with another pay-what-you-can restaurant.
+
+Compare with community dining without a celebrity founder.
+
+Compare with hospitality using no identifiable guest stories.
+
+Compare with independently evaluated social hospitality.
+
+Do not promote a pattern from narrative coherence alone.
+
+Story Deduplication Decisions — Restaurant #19
+
+Reciprocity Without Rank refines Narrative Coherence Through Organising Logic.
+
+Flexible Contribution / Stable Guesthood remains cross-dimensional architecture.
+
+Distributed Protagonist extends operating-system protagonism from DAWN and Refettorio.
+
+Founder as Supporting Character refines Biography When It Explains the Experience.
+
+Donor Without Ownership is a relationship boundary, not a new pattern.
+
+Guest Without Beneficiary Framing extends dignity-preserving narrative architecture.
+
+Invitation / Obligation Separation refines Participation Rule Consistency.
+
+Product-Parity / Experience-Parity Separation refines the evidence ladder.
+
+Activity / Experience / Outcome Ladder remains a claim-classification rule.
+
+Contribution-State Narrative refines flexible-participation architecture.
+
+Cross-Support Without Gratitude Debt extends reciprocity architecture.
+
+Place-Anchored Expansion refines Story Through Place and Adaptation as Narrative.
+
+Historical State Labelling extends temporal story governance.
+
+Evidence-Calibrated Emotional Language refines Narrative Language Within Clear Interface.
+
+Participant-Controlled Testimony extends consent-compatible testimony.
+
+Operational Narrative Invariant refines Story Through Hospitality Model.
+
+No architecture direction becomes a formal pattern in this file.
+
+Restaurant #19 Story Decision Ledger
+
+Add JBJ Soul Kitchen, Red Bank as the nineteenth independent story comparison case.
+
+Classify Reciprocity Without Rank as the provisional organising logic.
+
+Treat the story as Story Through Hospitality Model evidence.
+
+Treat contribution variability and stable guesthood as the core narrative relationship.
+
+Reject giver and recipient as fixed guest classes.
+
+Preserve reciprocity / deservingness separation.
+
+Preserve invitation / obligation separation.
+
+Record invitation-versus-exchange language as unresolved.
+
+Treat no-price language as a story and commitment condition.
+
+Treat same meal as a product-parity claim.
+
+Treat same experience as an outcome claim.
+
+Treat restaurant-first language as dignity-supporting category architecture.
+
+Do not treat restaurant form as performance proof.
+
+Keep founder biography only where it explains origin, responsibility, resources or development.
+
+Do not treat celebrity recognition as operating proof.
+
+Treat the operating relationship as the distributed protagonist.
+
+Keep the guest central without requiring exposure.
+
+Treat donor support as system-capacity support without recipient ownership.
+
+Do not romanticise volunteer labour.
+
+Separate activity, experience and outcome evidence.
+
+Treat community as intended relationship rather than verified outcome.
+
+Treat priority as mission enactment and privacy risk.
+
+Preserve Red Bank specificity inside network expansion.
+
+Treat expansion as adaptation evidence, not improvement proof.
+
+Treat testimony as individual evidence unless representativeness is established.
+
+Preserve participant control over testimony.
+
+Keep resource continuation optional and role-specific.
+
+Treat operational difference and social neutrality as compatible.
+
+Reinforce Story Through Hospitality Model without changing High confidence.
+
+Reinforce Story Through Place without changing High confidence.
+
+Reinforce Narrative Coherence Through Organising Logic without changing High confidence.
+
+Reinforce Narrative Language Within Clear Interface without changing High confidence.
+
+Reinforce Biography When It Explains the Experience without changing High confidence.
+
+Reinforce Adaptation as Narrative without changing Medium-High confidence.
+
+Reinforce Show the System Behind the Plate without changing High confidence.
+
+Reinforce Atmosphere Through Worldview without changing High confidence.
+
+Reinforce Hospitality System Proof without changing High confidence.
+
+Reinforce Heritage Builds Confidence without changing Medium-High confidence.
+
+Apply contradiction pressure to Participation Rule Consistency without changing Medium confidence.
+
+Apply definition stress to Multi-Intent Hospitality without changing Medium confidence.
+
+Retain Story Before Features at Emerging.
+
+Retain Promise Before Proof at Emerging.
+
+Retain Emotion Before Interface at Emerging.
+
+Retain The Guest as Participant at Emerging.
+
+Retain Commitment Without Pressure at Emerging.
+
+Make no promotion, demotion, merge or rename.
+
+Make no confidence or maturity change.
+
+Preserve all canonical counts pending governance reconciliation.
+
+Count Restaurant #19 once, not once per dimension.
+
+Mark all five Restaurant #19 comparison files complete.
+
+Hand off to canonical Candidate reconciliation.
+
+Story Comparison Conclusion — Post JBJ Soul Kitchen, Red Bank
+
+After:
+
+19
+
+independent story comparison cases,
+
+the strongest finding remains:
+
+Story is an organising system, not a biography section.
+
+Dans le Noir? showed:
+
+story can be carried by an enforced sensory condition and reassigned expertise.
+
+DAWN showed:
+
+a machine may carry the story while the remote human remains protagonist.
+
+Refettorio Felix showed:
+
+a social mission may be carried by non-transactional hospitality while the people served remain outside the institution’s claim of value creation.
+
+JBJ Soul Kitchen shows:
+
+a reciprocal model may permit varied contribution while preserving stable guesthood and refusing hierarchy among donor, volunteer and non-paying participation.
+
+The strongest combined rule is:
+
+Operating Model
++
+Role Legibility Without Rank
++
+Place and Time
++
+Distributed Protagonism
++
+Bounded Evidence
+↓
+Narrative Credibility
+
+The strongest organising logic is:
+
+Reciprocity Without Rank
+
+The strongest contribution boundary is:
+
+Reciprocity
+≠
+Deservingness
+
+The strongest rule boundary is:
+
+Invitation to Volunteer
+≠
+Requirement to Volunteer
+
+The strongest equality boundary is:
+
+Same Meal
+≠
+Same Experience
+
+The strongest ownership boundary is:
+
+Donor Support
+≠
+Recipient Ownership
+
+The strongest evidence boundary is:
+
+Activity
+≠
+Experience
+≠
+Outcome
+
+Restaurant #19 produces:
+
+no governance change in this file.
+
+It completes:
+
+all five Restaurant #19 comparison dimensions
+
+and opens:
+
+Post–JBJ Soul Kitchen canonical Candidate reconciliation.
+
+Evidence wins.
+
+Validation — Post Restaurant #19 Story Comparison
+
+Comparison File:
+
+khds/research/comparison/story.md
+
+Status:
+
+Post–JBJ Soul Kitchen, Red Bank Complete
+
+Independent Restaurants Represented:
+
+19
+
+Canonical Completed Independent Restaurants:
+
+18
+
+Latest Case:
+
+JBJ Soul Kitchen, Red Bank
+
+Primary Confidence Watch:
+
+Story Through Hospitality Model — Reciprocity Without Rank
+
+Secondary Confidence Watch:
+
+Participation Rule Consistency — Invitation / Exchange Boundary
+
+Primary Existing Candidate Support:
+
+Narrative Coherence Through Organising Logic
+
+Primary Emerging Review:
+
+Promise Before Proof — Activity / Outcome Boundary
+
+Strongest New Narrative Mechanism:
+
+Flexible Contribution / Stable Guesthood
+
+Strongest New Protagonist Direction:
+
+Distributed Protagonist
+
+Strongest New Contribution Boundary:
+
+Reciprocity
+
+≠
+
+Deservingness
+
+Strongest New Rule Boundary:
+
+Invitation to Volunteer
+
+≠
+
+Requirement to Volunteer
+
+Strongest New Equality Boundary:
+
+Same Meal
+
+≠
+
+Same Experience
+
+Strongest New Evidence Boundary:
+
+Activity
+
+≠
+
+Experience
+
+≠
+
+Outcome
+
+Formal Promotions:
+
+0
+
+Formal Demotions:
+
+0
+
+Confidence Changes:
+
+0
+
+Governance Changes:
+
+0
+
+Canonical Candidate Count:
+
+26
+
+Canonical Emerging Count:
+
+8
+
+Canonical Partially Supported Count:
+
+1
+
+Canonical Validated Count:
+
+0
+
+Research-Derived KHDS Principles:
+
+0
+
+Post–JBJ Soul Kitchen Comparison Set:
+
+5 / 5 Complete
+
+Next Stage:
+
+Post–JBJ Soul Kitchen Canonical Candidate Reconciliation
+
+Next File:
+
+khds/research/validation/candidate-patterns.md

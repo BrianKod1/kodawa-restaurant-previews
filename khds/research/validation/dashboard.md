@@ -2,15 +2,15 @@ KHDS Validation Dashboard
 
 Status
 
-Post–Refettorio Felix, London Governance Mirror
+Post–JBJ Soul Kitchen, Red Bank Governance Mirror
 
 Latest Research Cycle:
 
-Restaurant #18 — Refettorio Felix, London
+Restaurant #19 — JBJ Soul Kitchen, Red Bank
 
 Independent Restaurants:
 
-18
+19
 
 Track B Validation Cases:
 
@@ -80,7 +80,7 @@ Current State
 
 Independent Restaurants
 
-18
+19
 
 Track B Validation Cases
 
@@ -166,7 +166,9 @@ Avatar Robot Café DAWN, Tokyo
 
 Refettorio Felix, London
 
-Restaurant #18 counts as one independent restaurant case.
+JBJ Soul Kitchen, Red Bank
+
+Restaurant #19 counts as one independent restaurant case.
 
 It does not count as:
 
@@ -197,12 +199,14 @@ operational learning.
 Track B does not increase research maturity.
 
 Production Success
+
 ≠
+
 Research Promotion
 
 Trunk & Tandoor remains the First Stable KHDS Production Translation as a production classification only.
 
-Current Governance Movement — Restaurant #18
+Current Governance Movement — Restaurant #19
 
 Governance Action
 
@@ -214,7 +218,7 @@ New Candidate Promotions
 
 Candidate Confidence Increases
 
-2
+0
 
 Demotions
 
@@ -252,25 +256,7 @@ Track B Learning Changes
 
 0
 
-The two confidence changes are:
-
-Pattern
-
-Previous Confidence
-
-Current Confidence
-
-Adaptation as Narrative
-
-Medium
-
-Medium-High
-
-Stable Participation / Variable Product
-
-Medium
-
-Medium-High
+Restaurant #19 changes no Candidate confidence level.
 
 No pattern enters or leaves the Candidate layer.
 
@@ -460,19 +446,19 @@ High
 
 Medium-High
 
-6
+8
 
 8
 
-+2
+0
 
 Medium
 
-11
+9
 
 9
 
--2
+0
 
 Total
 
@@ -483,10 +469,22 @@ Total
 0
 
 High: 9
-Medium-High: 6 + 2 = 8
-Medium: 11 - 2 = 9
+
+Medium-High: 8
+
+Medium: 9
 
 9 + 8 + 9 = 26
+
+Previous Governance Cycle — Restaurant #18
+
+Refettorio Felix produced two confidence increases:
+
+Adaptation as Narrative — Medium to Medium-High
+
+Stable Participation / Variable Product — Medium to Medium-High
+
+The following two sections preserve that historical decision.
 
 Confidence Increase 1 — Adaptation as Narrative
 
@@ -525,11 +523,17 @@ a 2021 Green Rooms addition
 continuing community-service purpose across those changes.
 
 Prior Local Service
+
 ↓
+
 Material Spatial + Operating Transformation
+
 ↓
+
 Expanded Hospitality Model
+
 ↓
+
 Continuing Organising Purpose
 
 Strongest new mechanism:
@@ -551,15 +555,21 @@ change causality and outcome remain unverified.
 Boundaries
 
 Documented Change
+
 ≠
+
 Validated Improvement
 
 Continuity
+
 ≠
+
 Institutional Sameness
 
 Narrative Coherence
+
 ≠
+
 Operating Success
 
 Remaining Falsification
@@ -623,9 +633,13 @@ human service
 dietary communication.
 
 Unpredictable Product Input
+
 ↓
+
 Variable Daily Menu
+
 inside
+
 Stable Access + Timing + Service Rules
 
 Strongest new mechanism:
@@ -647,15 +661,21 @@ a failure case where both product and participation vary remains required.
 Boundaries
 
 Variable Menu
+
 ≠
+
 Variable Promise
 
 Stable Rule
+
 ≠
+
 Guaranteed Fulfilment
 
 Attempted Dietary Accommodation
+
 ≠
+
 Dietary Safety Guarantee
 
 Remaining Falsification
@@ -670,7 +690,7 @@ guest evidence about whether the stable layer is understood
 
 operational evidence during shortage or capacity failure.
 
-Candidate Decisions Without Confidence Change
+Candidate Decisions Without Confidence Change — Historical Restaurant #18 Detail
 
 Candidate / High — 9
 
@@ -786,7 +806,7 @@ Multi-Intent Hospitality
 
 Refettorio proves many stakeholder routes do not automatically create many guest intents; the definition survives without a confidence increase.
 
-Emerging Dashboard
+Emerging Dashboard — Historical Restaurant #18 Detail
 
 There are 8 Emerging patterns.
 
@@ -847,12 +867,16 @@ Hold — institutional complexity coexists with a minimal guest route; the curre
 No Emerging promotion occurs.
 
 One Restaurant
+
 ×
+
 Five Dimensions
+
 ≠
+
 Five Independent Cases
 
-Other Research States
+Other Research States — Historical Restaurant #18 Detail
 
 Partially Supported
 
@@ -908,7 +932,7 @@ Research-Derived KHDS Principles
 
 0
 
-Restaurant #18 Evidence Boundary
+Restaurant #18 Evidence Boundary — Historical
 
 Official public evidence can establish:
 
@@ -961,37 +985,57 @@ representative social outcome
 durable causal impact.
 
 Published Mechanism
+
 ≠
+
 Verified Performance
 
 Designed Welcome
+
 ≠
+
 Experienced Dignity
 
 Published Activity
+
 ≠
+
 Verified Social Outcome
 
 Recovering Food Value
+
 ≠
+
 Recovering Human Worth
 
-Architecture Family Added
+Historical Architecture Family Added — Restaurant #18
 
 Non-Transactional Hospitality and Dignity-Preserving Proof Family
 
 Guesthood Without Purchase
+
 ↓
+
 Open-Door but Finite Access
+
 ↓
+
 Human-Routed Participation
+
 ↓
+
 Shared Hospitality
+
 ↓
+
 Optional Care
+
 ↓
+
 Privacy-Compatible Evidence
+
 ↓
+
 Activity / Experience / Outcome Separation
 
 When hospitality is offered without transaction, preserve full guesthood, explicit capacity, role-specific participation and evidence proportionality. Prove the institution's system without making the guest's vulnerability carry the proof burden.
@@ -999,28 +1043,38 @@ When hospitality is offered without transaction, preserve full guesthood, explic
 Mandatory boundaries:
 
 Guest
+
 ≠
+
 Paying Customer
 
 Open Door
+
 ≠
+
 Guaranteed Admission
 
 Stakeholder Route
+
 ≠
+
 Guest Intent
 
 Guest Privacy
+
 ≠
+
 Evidence Absence
 
 Good Intention
+
 ≠
+
 Verified Outcome
 
 This family remains architecture, not a formal pattern or research-derived KHDS Principle.
 
-Post–Refettorio Felix Corrections
+Post–Refettorio Felix Corrections — Historical
 
 #
 
@@ -1148,27 +1202,34 @@ Coherent Story = Causal Proof
 
 Narrative coherence must not be elevated into verified causality.
 
-Count Reconciliation
+Count Reconciliation — Historical Restaurant #18
 
 Post–Avatar Robot Café DAWN canonical state:
 
 Emerging: 8
+
 Candidate: 26
 
 Restaurant #18 promotes 0 patterns.
 
 8 Emerging
+
 - 0 Promotions
+
 = 8 Emerging
 
 26 Candidates
+
 + 0 Promotions
+
 = 26 Candidates
 
 The two confidence changes occur within the Candidate layer and do not change its count.
 
 17 Independent Restaurants
+
 + 1 Restaurant
+
 = 18 Independent Restaurants
 
 Dashboard counts are reconciled.
@@ -1192,7 +1253,9 @@ no Validated or Principle promotion.
 Its strongest boundary remains:
 
 Human Mediation Through Technology
+
 ≠
+
 Human Replacement by Technology
 
 Restaurant #18 supersedes DAWN as the current dashboard cycle without erasing that audit record.
@@ -1222,7 +1285,9 @@ failure-case survival across implementation
 multi-context causal evidence.
 
 Coherent Social-Hospitality Model
+
 ≠
+
 Validated Outcome
 
 Why No Research-Derived Principle Promotion Occurred
@@ -1232,7 +1297,9 @@ Non-Transactional Hospitality and Dignity-Preserving Proof form a coherent archi
 The family remains context-sensitive and under-tested across referral systems, pay-what-you-can models, commercial social enterprises, cultures, capacity regimes and evidence-governance systems.
 
 Ethically Important Architecture
+
 ≠
+
 Universal KHDS Principle
 
 Research Integrity
@@ -1271,7 +1338,7 @@ Evidence strength drives maturity.
 
 Pattern count changes only when the system genuinely needs a distinct pattern.
 
-Current Validation Priorities
+Historical Validation Priorities — Post–Refettorio Felix
 
 Priority
 
@@ -1341,7 +1408,7 @@ How do non-commercial, pay-what-you-can and commercial scarcity systems distribu
 
 Future research should attempt to break these patterns and definitions.
 
-Mirror Status
+Historical Mirror Status — Post–Refettorio Felix
 
 Governance File
 
@@ -1367,7 +1434,7 @@ khds/research/validation/README.md
 
 Pending
 
-Next Step
+Historical Next Step — Post–Refettorio Felix
 
 Reconcile:
 
@@ -1378,13 +1445,16 @@ khds/research/validation/README.md
 Do not change:
 
 Candidate count: 26
+
 Emerging count: 8
+
 Validated count: 0
+
 Research-Derived KHDS Principle count: 0
 
 unless new independent research or formal canonical governance review justifies a maturity change.
 
-Final Dashboard Position
+Historical Final Dashboard Position — Post–Refettorio Felix
 
 Post–Refettorio Felix, London governance is reconciled.
 
@@ -1425,9 +1495,883 @@ no Validated or Principle promotion.
 The strongest governance boundary is:
 
 Mission Through Hospitality Model
+
 ≠
+
 Verified Mission Outcome
 
 The threshold remains intact.
 
 Evidence wins.
+
+Post–JBJ Soul Kitchen, Red Bank Dashboard Reconciliation
+
+Dashboard Cycle
+
+Restaurant #19 — JBJ Soul Kitchen, Red Bank
+
+Research Role
+
+Flexible-Contribution Community Hospitality Contradiction Case
+
+Official Case Title
+
+The Reciprocity, Contribution and Guest-Role Boundary Case
+
+Dashboard Authority
+
+This section mirrors:
+
+khds/research/validation/candidate-patterns.md
+
+and:
+
+khds/patterns/registry.md
+
+It does not create governance.
+
+Current Research State — Post Restaurant #19
+
+Measure
+
+Current State
+
+Independent Restaurants
+
+19
+
+Track B Validation Cases
+
+1
+
+Candidate Patterns
+
+26
+
+Emerging Patterns
+
+8
+
+Partially Supported Patterns
+
+1
+
+Validated Patterns
+
+0
+
+Research-Derived KHDS Principles
+
+0
+
+Existing Implementation Patterns Pending Formal Validation
+
+1
+
+Opportunity Themes
+
+36
+
+Track B Implementation Learnings
+
+17
+
+Highest Research-Derived Maturity
+
+Candidate
+
+Restaurant #19 Governance Movement
+
+Governance Action
+
+Count
+
+New Candidate Promotions
+
+0
+
+Candidate Confidence Increases
+
+0
+
+Candidate Confidence Decreases
+
+0
+
+Demotions
+
+0
+
+Renames
+
+0
+
+Merges
+
+0
+
+Validated Promotions
+
+0
+
+Research-Derived Principle Promotions
+
+0
+
+Partially Supported Changes
+
+0
+
+Existing Implementation Pattern Changes
+
+0
+
+Opportunity Theme Changes
+
+0
+
+Track B Learning Changes
+
+0
+
+No pattern enters or leaves the Candidate layer.
+
+No Candidate changes confidence.
+
+Candidate Confidence Distribution — Post Restaurant #19
+
+Confidence
+
+Previous
+
+Current
+
+Movement
+
+High
+
+9
+
+9
+
+0
+
+Medium-High
+
+8
+
+8
+
+0
+
+Medium
+
+9
+
+9
+
+0
+
+Total
+
+26
+
+26
+
+0
+
+Arithmetic
+
+9 High
+
+
+
+8 Medium-High
+
+
+
+9 Medium
+
+=
+
+26 Candidates
+
+Candidate Dashboard — Post Restaurant #19
+
+Candidate / High — 9
+
+Atmosphere Through Worldview
+
+Show the System Behind the Plate
+
+Biography When It Explains the Experience
+
+Narrative Language Within Clear Interface
+
+Walk-In as First-Class Participation
+
+Story Through Hospitality Model
+
+Hospitality System Proof
+
+Story Through Place
+
+Narrative Coherence Through Organising Logic
+
+Candidate / Medium-High — 8
+
+Heritage Builds Confidence
+
+Atmosphere Through Continuity
+
+Photography as Use-Case Evidence
+
+Photography as Proof
+
+Capacity Proof
+
+Photography Should Demonstrate Difference
+
+Adaptation as Narrative
+
+Stable Participation / Variable Product
+
+Candidate / Medium — 9
+
+Designed Escape
+
+Manageable Commitment
+
+Participation Rule Consistency
+
+Layered Arrival
+
+Atmosphere Through Consistency
+
+Photography Through Layers of Experience
+
+Participation Throughout the Journey
+
+Human Assistance Where Structured Self-Service Is Insufficient
+
+Multi-Intent Hospitality
+
+Primary Candidate Watch — Participation Rule Consistency
+
+Current State
+
+Candidate / Medium
+
+Restaurant #19 Position
+
+Pressure without confidence movement.
+
+Primary contradiction:
+
+Invitation to Volunteer
+
+≠
+
+Exchange of Volunteer Work for a Meal
+
+The official wording does not yet make the relationship between these meanings sufficiently clear.
+
+No confidence increase occurs because:
+
+the conflict is unresolved.
+
+No demotion occurs because:
+
+the contradiction is bounded,
+
+the pattern remains independently supported
+
+and:
+
+performed inconsistency has not been established.
+
+Secondary Candidate Watch — Human Assistance Where Structured Self-Service Is Insufficient
+
+Current State
+
+Candidate / Medium
+
+Restaurant #19 Position
+
+Strong mechanism support without confidence movement.
+
+Human assistance may carry:
+
+allocation,
+
+contribution explanation,
+
+dietary communication,
+
+volunteer routing
+
+and:
+
+exception recovery.
+
+Public evidence does not establish:
+
+response quality,
+
+consistency,
+
+privacy,
+
+safeguarding
+
+or:
+
+peak-load performance.
+
+Secondary Candidate Watch — Stable Participation / Variable Product
+
+Current State
+
+Candidate / Medium-High
+
+Restaurant #19 Position
+
+Strong support without confidence movement.
+
+Flexible contribution and variable product may sit inside stable guesthood.
+
+But:
+
+published rule tension
+
+and:
+
+unobserved live performance
+
+block movement to High.
+
+Emerging Dashboard — Post Restaurant #19
+
+There are 8 Emerging patterns.
+
+Emotion Before Interface
+
+Hold — mission and reciprocity may orient emotion, but may also create pressure, stigma or delayed practical clarity.
+
+Story Before Features
+
+Hold — the direction remains close to existing narrative Candidates and lacks a distinct mechanism.
+
+Photography Before Decoration
+
+Hold — economic-status-blind photography adds a strong ethical rule, but the direction remains governed by existing photography Candidates.
+
+Commitment Without Pressure
+
+Hold — flexible contribution does not prove pressure-free participation.
+
+Promise Before Proof
+
+Hold — activity, experience, outcome and causality must remain separate; overlap with existing proof Candidates remains unresolved.
+
+The Guest as Participant
+
+Hold — multiple contribution states do not make contribution a condition of guesthood; the direction remains too broad.
+
+Atmosphere as Product
+
+Hold — a second community-hospitality case adds support, but guest-choice causality and lived atmosphere remain unverified.
+
+Escalating Participation Complexity
+
+Hold — several states exist, but they do not necessarily escalate linearly and human routing may contain complexity.
+
+No Emerging promotion occurs.
+
+One Restaurant
+
+×
+
+Five Dimensions
+
+≠
+
+Five Independent Cases
+
+Other Research States — Post Restaurant #19
+
+Partially Supported
+
+Pattern
+
+Own the Guest Relationship
+
+Confidence
+
+Medium
+
+Restaurant #19 Decision
+
+Unchanged
+
+Direct dining, volunteering, donation and contact routes are visible.
+
+Public evidence does not establish:
+
+CRM ownership,
+
+first-party data architecture,
+
+cross-role consent management,
+
+retention,
+
+longitudinal relationship data
+
+or:
+
+platform independence.
+
+Existing Implementation Pattern Pending Formal Validation
+
+Invitation
+
+remains:
+
+an existing KHDS implementation pattern pending formal validation.
+
+It is not:
+
+Candidate,
+
+Emerging,
+
+Validated
+
+or:
+
+a Research-Derived KHDS Principle.
+
+Validated Patterns
+
+0
+
+Research-Derived KHDS Principles
+
+0
+
+Restaurant #19 Evidence Boundary
+
+Official public evidence can establish:
+
+published access rules,
+
+published contribution choices,
+
+published first-come and mission-priority language,
+
+published volunteer routes,
+
+published meal and service claims,
+
+visible stakeholder roles,
+
+published activity figures,
+
+selected testimony
+
+and:
+
+visible website architecture.
+
+It cannot automatically establish:
+
+live capacity,
+
+performed allocation consistency,
+
+equal treatment,
+
+contribution-state privacy,
+
+felt welcome,
+
+experienced equality,
+
+dignity,
+
+voluntariness,
+
+consent quality,
+
+representative social outcome
+
+or:
+
+causal impact.
+
+Published Mechanism
+
+≠
+
+Verified Performance
+
+Published Activity
+
+≠
+
+Verified Dignity Outcome
+
+Visible Participation
+
+≠
+
+Visible Economic Status
+
+No Reservation
+
+≠
+
+No Allocation
+
+Shared Room
+
+≠
+
+Equal Belonging
+
+Architecture Family Added — Restaurant #19
+
+Reciprocal Hospitality Without Rank
+
+Flexible Contribution
+
+
+
+Stable Guesthood
+
+
+
+Mission-Priority Allocation
+
+
+
+Contribution-State Privacy
+
+
+
+Human-Routed Participation
+
+
+
+Same-Meal Commitment
+
+↓
+
+Reciprocal Hospitality Without Rank
+
+Family Rule
+
+How a Person Contributes
+
+≠
+
+Whether the Person Belongs
+
+This family remains:
+
+architecture.
+
+It is not:
+
+a formal Candidate pattern
+
+or:
+
+a Research-Derived KHDS Principle.
+
+Post–JBJ Soul Kitchen Corrections
+
+No Fixed Price ≠ No Economic Expectation
+
+Contribution State ≠ Guest Rank
+
+Reciprocity ≠ Deservingness
+
+Invitation to Volunteer ≠ Requirement to Volunteer
+
+No Reservation ≠ No Allocation
+
+First Come ≠ Only Allocation Rule
+
+Priority ≠ Public Proof of Need
+
+Volunteer Place ≠ Dining Seat
+
+Same Meal ≠ Same Hospitality
+
+Shared Room ≠ Equal Belonging
+
+Designed Equality ≠ Experienced Equality
+
+Visible Person ≠ Visible Economic Status
+
+Guest Photograph ≠ Consent to Fundraising Use
+
+Finished Plate ≠ Same-Meal Proof
+
+Pay-It-Forward Image ≠ Cross-Subsidy Proof
+
+Donor Support ≠ Recipient Ownership
+
+Founder Biography ≠ Current Operating Proof
+
+Activity ≠ Experience ≠ Outcome ≠ Causality
+
+Stable Respect ≠ Stable Mood
+
+Multiple Stakeholder Roles ≠ Multiple Guest Intents
+
+Count Reconciliation — Restaurant #19
+
+Post–Refettorio Felix canonical state:
+
+Emerging: 8
+
+Candidate: 26
+
+Restaurant #19 promotes 0 patterns.
+
+8 Emerging
+
+0 Promotions
+
+= 8 Emerging
+
+26 Candidates
+
+0 Promotions
+
+= 26 Candidates
+
+Restaurant #19 changes 0 Candidate confidence levels.
+
+18 Independent Restaurants
+
+1 Restaurant
+
+= 19 Independent Restaurants
+
+Dashboard counts are reconciled.
+
+Why No Validated Promotion Occurred — Restaurant #19
+
+Restaurant #19 adds:
+
+independent contrast,
+
+strong mechanism evidence,
+
+ethical proof constraints,
+
+definition refinement
+
+and:
+
+failure-state questions.
+
+It does not add:
+
+independent performance verification,
+
+observed guest outcome,
+
+audited allocation,
+
+longitudinal evidence,
+
+causal evidence
+
+or:
+
+failure-case survival.
+
+Coherent Reciprocal Model
+
+≠
+
+Validated Outcome
+
+Why No Research-Derived Principle Promotion Occurred — Restaurant #19
+
+Reciprocal Hospitality Without Rank remains under-tested across:
+
+commercial pay-what-you-can systems,
+
+non-commercial hospitality,
+
+referral systems,
+
+different cultural contribution norms,
+
+high-demand capacity conditions,
+
+digital allocation
+
+and:
+
+systems without volunteer labour.
+
+Ethically Coherent Architecture
+
+≠
+
+Universal KHDS Principle
+
+Current Validation Priorities — Post–JBJ Soul Kitchen
+
+Invitation / Exchange Resolution
+
+How are invitation to volunteer and volunteer work in exchange for a meal reconciled operationally?
+
+Full-Capacity Recovery
+
+What happens when dining, mission-priority or volunteer capacity is exhausted?
+
+Contribution-State Privacy
+
+Can guests participate without public disclosure of ability to pay, donation amount, volunteer status or priority state?
+
+Performed Equality
+
+Do contribution states receive equal welcome, service, product, attention and belonging?
+
+Pressure-Free Commitment
+
+Do suggested payment, pay-it-forward or volunteer messages create obligation, shame or avoidance?
+
+Human Assistance Failure
+
+When does human routing create delay, inconsistency, gatekeeping, privacy loss or safeguarding risk?
+
+Economic-Status-Blind Proof
+
+Can photography and story prove the institution without economically classifying participants?
+
+Same-Meal Verification
+
+Does product parity hold across contribution states, service periods, capacity conditions and dietary requirements?
+
+Activity / Outcome Separation
+
+Are meals served, volunteer activity, guest experience, social outcome and causality reported separately?
+
+Network / Local Rule Difference
+
+Which rules are network-wide, Red Bank-specific, historical, current or discretionary?
+
+Role-Bounded Data
+
+Are dining, volunteering, donating and support data appropriately separated?
+
+Reciprocal Hospitality Countercase
+
+Where does flexible contribution create visible rank, pressure or service disparity?
+
+Mirror Status — Post Restaurant #19
+
+Governance File
+
+Status
+
+khds/research/validation/candidate-patterns.md
+
+Canonical / Complete
+
+khds/patterns/registry.md
+
+Reconciled / Complete
+
+khds/research/validation/dashboard.md
+
+Reconciled / Complete
+
+khds/research/README.md
+
+Pending
+
+khds/research/validation/README.md
+
+Pending
+
+Next Step — Post Restaurant #19
+
+Reconcile:
+
+khds/research/README.md
+
+then:
+
+khds/research/validation/README.md
+
+Do not change:
+
+Candidate count: 26
+
+Emerging count: 8
+
+Validated count: 0
+
+Research-Derived KHDS Principle count: 0
+
+unless new independent research or formal canonical governance review justifies a maturity change.
+
+Final Dashboard Position — Post Restaurant #19
+
+Post–JBJ Soul Kitchen, Red Bank governance is reconciled.
+
+KHDS currently contains:
+
+19 independent restaurants
+
+26 Candidate patterns
+
+8 Emerging patterns
+
+1 Partially Supported pattern
+
+0 Validated patterns
+
+0 Research-Derived KHDS Principles.
+
+Restaurant #19 produced:
+
+no Candidate promotions,
+
+no confidence changes,
+
+the Reciprocal Hospitality Without Rank architecture family,
+
+a stronger boundary between contribution state and guest rank,
+
+a stronger boundary between first-come access and full allocation logic,
+
+a stronger boundary between visible participation and visible economic status,
+
+a stronger boundary between published activity and verified outcome,
+
+and:
+
+no Validated or Principle promotion.
+
+The strongest governance boundary is:
+
+Invitation to Volunteer
+
+≠
+
+Requirement to Volunteer
+
+The threshold remains intact.
+
+Evidence wins

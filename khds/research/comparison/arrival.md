@@ -2,11 +2,11 @@ KHDS Cross-Restaurant Comparison — Arrival
 
 Status
 
-Post–Refettorio Felix, London Comparison
+Post–JBJ Soul Kitchen, Red Bank Comparison
 
 Restaurants Compared:
 
-18
+19
 
 Track:
 
@@ -14,7 +14,7 @@ Track A — Independent Hospitality Research
 
 Latest Added Case:
 
-Refettorio Felix — London
+JBJ Soul Kitchen — Red Bank, New Jersey
 
 Comparison Status:
 
@@ -78,7 +78,7 @@ all:
 
 five:
 
-post-Restaurant #18:
+post-Restaurant #19:
 
 comparison files
 
@@ -187,6 +187,8 @@ Dans le Noir? London
 Avatar Robot Café DAWN, Tokyo
 
 Refettorio Felix, London
+
+JBJ Soul Kitchen, Red Bank
 
 Current Arrival Thesis
 
@@ -11967,6 +11969,1740 @@ No Reservation
 ≠
 
 No Participation Structure
+
+Formal Promotions:
+
+0
+
+Formal Demotions:
+
+0
+
+Confidence Changes:
+
+0
+
+Governance Changes:
+
+0
+
+Canonical Candidate Count:
+
+26
+
+Canonical Emerging Count:
+
+8
+
+Canonical Partially Supported Count:
+
+1
+
+Canonical Validated Count:
+
+0
+
+Research-Derived KHDS Principles:
+
+0
+
+Next Comparison File:
+
+khds/research/comparison/atmosphere.md
+
+Post–JBJ Soul Kitchen, Red Bank Reconciliation
+
+Restaurant #19:
+
+JBJ Soul Kitchen, Red Bank
+
+extends the arrival comparison from:
+
+non-transactional community hospitality
+
+into:
+
+flexible-contribution community hospitality.
+
+The case does not replace:
+
+Refettorio Felix.
+
+It provides a closely related but materially different countercase.
+
+Both restaurants publish:
+
+no reservation requirement
+
+walk-in participation
+
+first-come allocation
+
+a community mission
+
+finite capacity
+
+human-routed arrival
+
+a variable meal product
+
+optional routes beyond dining
+
+JBJ Soul Kitchen additionally publishes:
+
+no fixed menu prices
+
+a suggested donation
+
+pay-it-forward encouragement
+
+priority for diners in need
+
+an unable-to-donate route
+
+volunteer participation
+
+finite volunteer places
+
+exchange-for-meal language on the volunteer route
+
+The comparison therefore asks:
+
+How can arrival preserve equal guesthood when contribution is flexible, need may affect allocation, and the operating system must recognise economic difference without turning it into public identity?
+
+Restaurant #19 is now:
+
+represented in this comparison.
+
+Formal maturity decisions remain:
+
+reserved for canonical reconciliation
+
+after:
+
+all five Restaurant #19 comparison files
+
+are complete.
+
+Restaurant #19 Arrival Evidence Input
+
+The official evidence establishes:
+
+Red Bank location identity
+
+current published service windows
+
+no reservation requirement
+
+first-come seating
+
+priority for diners described as in need
+
+no fixed menu prices
+
+a published suggested donation
+
+pay-it-forward encouragement
+
+access to a meal for people unable to donate
+
+volunteer and resource-learning routes
+
+a structured volunteer application
+
+orientation requirements for Support Staff Volunteers
+
+priority for available exchange-for-meal volunteer places
+
+a three-course meal structure
+
+a menu that changes on a recurring basis
+
+The official evidence does not establish:
+
+live table availability
+
+expected queue duration
+
+the performed priority procedure
+
+whether priority requires disclosure
+
+whether any disclosure occurs privately
+
+whether volunteering is perceived as optional
+
+whether current invitation language and exchange language are understood consistently
+
+whether all contribution states receive equivalent service
+
+whether a turn-away receives a useful recovery route
+
+the complete physical, sensory, cognitive or digital access condition
+
+experienced welcome
+
+experienced dignity
+
+experienced belonging
+
+equal outcomes
+
+social impact causality
+
+This evidence boundary controls every comparative claim below.
+
+Current Canonical Entry State — Before Restaurant #19 Decision
+
+The completed canonical governance state remains:
+
+Independent Restaurants: 18
+Track B Validation Cases: 1
+Candidate Patterns: 26
+Emerging Patterns: 8
+Partially Supported Patterns: 1
+Validated Patterns: 0
+Research-Derived KHDS Principles: 0
+Implementation Patterns Pending Formal Validation: 1
+Opportunity Themes: 36
+Track B Implementation Learnings: 17
+Candidate Confidence: 9 High / 8 Medium-High / 9 Medium
+
+The comparison corpus now contains:
+
+19 independent restaurant cases.
+
+This does not yet change:
+
+the canonical completed-restaurant count.
+
+Restaurant #19 contributes:
+
+comparative evidence,
+
+not:
+
+an automatic promotion.
+
+Comparison 96 — No Fixed Price Is Not No Economic Expectation
+
+Refettorio Felix provides:
+
+a principal guest route without a meal transaction.
+
+JBJ Soul Kitchen provides:
+
+a meal without a fixed menu price
+
+inside:
+
+a published contribution system.
+
+The guest may encounter:
+
+a suggested donation
+
+pay-it-forward encouragement
+
+an unable-to-donate route
+
+volunteer opportunities
+
+Therefore:
+
+No Fixed Price
+≠
+No Economic Expectation
+
+Arrival must explain:
+
+not only:
+
+whether a person may enter,
+
+but:
+
+how money, non-payment and volunteering relate
+
+without:
+
+making contribution the price of guesthood.
+
+Comparison 97 — First-Come Can Coexist With Priority
+
+Refettorio Felix strengthened:
+
+First-Come Capacity Allocation.
+
+JBJ Soul Kitchen qualifies it.
+
+The published system combines:
+
+first-come seating
+
+with:
+
+priority for diners in need.
+
+The correct model is therefore:
+
+First-Come Baseline
+
++
+
+Mission-Priority Override
+
+=
+
+Live Allocation System
+
+This yields the boundary:
+
+First Come
+≠
+Only Arrival Rule
+
+Priority may protect mission access.
+
+It may also create:
+
+procedural ambiguity
+
+privacy risk
+
+social pressure
+
+inconsistent human interpretation
+
+The case supports:
+
+Walk-In as First-Class Participation.
+
+It also shows that:
+
+walk-in architecture can be highly governed.
+
+Comparison 98 — Open Eligibility Can Retain Interpretive Burden
+
+Refettorio Felix introduced:
+
+felt eligibility.
+
+JBJ Soul Kitchen intensifies it.
+
+The public message can say:
+
+all are welcome.
+
+The first-time guest may still ask:
+
+Is this restaurant intended for me?
+
+Am I taking a place from someone else?
+
+Is the suggested donation expected?
+
+Must I volunteer if I cannot donate?
+
+Does asking for priority require disclosure?
+
+Will my contribution state affect service?
+
+Therefore:
+
+Open Eligibility
+≠
+Low Interpretive Burden
+
+The arrival task is not merely:
+
+removing formal qualification.
+
+It is:
+
+making legitimate participation intelligible.
+
+Comparison 99 — Contribution State Must Not Become Guest Rank
+
+JBJ Soul Kitchen requires the operating system to recognise:
+
+standard contribution
+
+additional contribution
+
+inability to contribute financially
+
+possible volunteer interest
+
+possible resource interest
+
+These states may affect:
+
+explanation,
+
+allocation
+
+or:
+
+continuation.
+
+They must not automatically determine:
+
+welcome quality
+
+table-service quality
+
+public identity
+
+social standing
+
+entitlement to care
+
+The strongest boundary is:
+
+Contribution-State Recognition
+≠
+Contribution-State Exposure
+
+The related dignity boundary is:
+
+How You Contribute
+≠
+Whether You Belong
+
+This is a new arrival requirement:
+
+Contribution-State Privacy.
+
+It remains:
+
+architecture,
+
+not:
+
+a new formal pattern.
+
+Comparison 100 — Reciprocity Can Operate Without Recipient Ownership
+
+Pay-it-forward architecture can connect:
+
+one guest's additional contribution
+
+to:
+
+another guest's access.
+
+The system should not require:
+
+the contributor
+
+to:
+
+select a recipient
+
+observe a recipient
+
+verify need
+
+receive gratitude
+
+claim the later meal
+
+Therefore:
+
+Reciprocity
+≠
+Recipient Ownership
+
+This protects:
+
+privacy
+
+and:
+
+equal guesthood.
+
+The website can explain:
+
+the contribution mechanism
+
+without:
+
+exposing individual economic status.
+
+Comparison 101 — Volunteer Opportunity Can Be Mistaken for Meal Prerequisite
+
+Current official material contains two distinct framings:
+
+people unable to donate are invited to dine and learn about volunteering or resources
+
+people volunteering in exchange for a meal receive priority for available volunteer places
+
+These statements may describe:
+
+different times,
+
+different routes
+
+or:
+
+different operational states.
+
+The comparison cannot resolve that relationship from public language alone.
+
+The boundary must remain:
+
+Volunteer Opportunity
+≠
+Meal Prerequisite
+
+and:
+
+Invitation to Volunteer
+≠
+Requirement to Volunteer
+
+This is direct pressure on:
+
+Participation Rule Consistency.
+
+It is not enough to demote the pattern globally.
+
+It is enough to block:
+
+a confidence increase from this case.
+
+Comparison 102 — Dining Capacity and Volunteer Capacity Are Different Objects
+
+Refettorio Felix established that:
+
+capacity is a set of objects.
+
+JBJ Soul Kitchen adds a particularly important separation:
+
+Dining Seat
+≠
+Volunteer Place
+
+A person may:
+
+be eligible to dine
+
+be unable to secure a volunteer place
+
+volunteer on another occasion
+
+learn about resources without volunteering
+
+The interface must not imply:
+
+that one capacity result
+
+determines:
+
+all participation results.
+
+Historical meal totals establish:
+
+institutional activity.
+
+They do not establish:
+
+today's seat,
+
+today's wait
+
+or:
+
+today's volunteer place.
+
+Comparison 103 — No Reservation Can Lower Digital Friction and Raise Physical Burden
+
+JBJ Soul Kitchen removes:
+
+advance booking
+
+deposit
+
+ticket ownership
+
+fixed-price commitment
+
+It retains:
+
+travel
+
+time-window dependence
+
+queue uncertainty
+
+capacity risk
+
+possible priority interpretation
+
+contribution interpretation
+
+Therefore:
+
+Low Digital Commitment
+≠
+Low Total Visit Commitment
+
+The case reinforces:
+
+the distinction between:
+
+interface simplicity
+
+and:
+
+guest burden.
+
+It also extends:
+
+Minimum Sufficient Arrival.
+
+A small interface may be appropriate.
+
+The consequence-bearing facts cannot be omitted.
+
+Comparison 104 — Human Guidance Can Preserve Privacy or Create Exposure
+
+Dans le Noir? made the guide:
+
+the physical arrival interface.
+
+DAWN made the pilot:
+
+the remote relational interface.
+
+Refettorio Felix made human routing:
+
+the default low-threshold interface.
+
+JBJ Soul Kitchen adds:
+
+a human interpreter of:
+
+capacity
+
+priority
+
+contribution
+
+volunteer availability
+
+resource continuation
+
+This can reduce:
+
+confusion.
+
+It can also increase:
+
+disclosure pressure
+
+inconsistency
+
+status visibility
+
+dependence on phrasing
+
+Therefore:
+
+Human Assistance
+≠
+Automatic Dignity
+
+Human guidance is:
+
+strong mechanism evidence.
+
+Its performed quality remains:
+
+unverified.
+
+Comparison 105 — Role Fluidity Is Not Necessarily Multi-Intent Hospitality
+
+A person may move among:
+
+diner
+
+donor
+
+pay-it-forward contributor
+
+non-paying diner
+
+volunteer prospect
+
+volunteer
+
+resource participant
+
+These may be:
+
+roles,
+
+states
+
+or:
+
+continuations.
+
+They are not automatically:
+
+separate initial intents.
+
+The comparison retains the earlier correction:
+
+Stakeholder Route
+≠
+Guest Intent
+
+and adds:
+
+Role Fluidity
+≠
+Intent Multiplication
+
+Multi-Intent Hospitality therefore receives:
+
+definition pressure,
+
+not:
+
+a confidence increase.
+
+Comparison 106 — Stable Participation Rules Can Hold a Variable Meal
+
+JBJ Soul Kitchen publishes a recurring meal structure
+
+while:
+
+the menu changes.
+
+The stable participation layer includes:
+
+restaurant identity
+
+no reservation
+
+first-come allocation
+
+priority rule
+
+flexible contribution framework
+
+meal-course structure
+
+volunteer and resource continuations
+
+The variable product layer includes:
+
+current dishes
+
+ingredient availability
+
+menu cycle
+
+This strengthens:
+
+Stable Participation / Variable Product.
+
+It does not justify:
+
+a confidence change
+
+because:
+
+performed consistency remains unverified
+
+and:
+
+the volunteer relationship requires clarification.
+
+Comparison 107 — Arrival Can Continue After Seating
+
+In many commercial cases:
+
+arrival resolves before service begins.
+
+At JBJ Soul Kitchen:
+
+some participation questions may resolve:
+
+at first contact
+
+while waiting
+
+at seating
+
+during dining
+
+at contribution resolution
+
+through later volunteering
+
+through resource connection
+
+Therefore:
+
+Dining Arrival
+≠
+Participation Completion
+
+The journey can continue
+
+without:
+
+making the meal merely instrumental.
+
+The boundary remains:
+
+Meal as Complete Hospitality
+
+and
+
+Optional Continuation
+
+Can Coexist
+
+Updated Arrival Thesis — Post Restaurant #19
+
+The core thesis remains:
+
+Arrival is uncertainty-resolution architecture, not a universal content sequence.
+
+Restaurant #19 adds:
+
+arrival may need to resolve:
+
+not only:
+
+product
+
+place
+
+access
+
+commitment
+
+sensory consequence
+
+relational interface
+
+felt eligibility
+
+but also:
+
+contribution expectation
+
+priority logic
+
+economic-state privacy
+
+volunteer distinction
+
+role fluidity
+
+reciprocity boundaries
+
+The refined thesis is:
+
+Arrival is the minimum sufficient system for helping a person enter the correct hospitality relationship with clear consequences, protected privacy and legitimate guesthood.
+
+The new sequence is not universal.
+
+For JBJ Soul Kitchen it may be:
+
+Open Eligibility
+
+↓
+
+No-Reservation Access
+
+↓
+
+First-Come Baseline
+
+↓
+
+Mission-Priority Resolution
+
+↓
+
+Contribution-State Privacy
+
+↓
+
+Equal Guesthood
+
+↓
+
+Optional Continuation
+
+Post–JBJ Soul Kitchen Arrival Architecture Additions
+
+Flexible Contribution / Stable Guesthood
+
+Contribution may vary.
+
+Guest legitimacy should not.
+
+Mission-Priority Queue
+
+First-come order is modified by a published mission-priority condition.
+
+No-Reservation Allocation
+
+The absence of booking transfers allocation into the live hospitality system.
+
+Contribution-State Privacy
+
+Operationally relevant economic information is recognised without becoming public guest identity.
+
+Contribution-Neutral Hospitality
+
+Dining treatment should not reveal or rank the guest's contribution state.
+
+First-Come Recovery
+
+A capacity failure requires an honest and useful next step.
+
+Dining / Volunteer Capacity Separation
+
+A dining seat and a volunteer place are separately governed capacity objects.
+
+Role-Fluid Participation
+
+One person may move among diner, contributor, volunteer and resource-participant roles over time.
+
+Reciprocity Without Recipient Ownership
+
+Pay-it-forward participation can support later access without exposing or assigning the recipient.
+
+Volunteer-Exchange Allocation
+
+Exchange-for-meal volunteering requires its own capacity, timing and rule explanation.
+
+Historical State Labelling
+
+Past exchange language and current invitation language must be dated and distinguished.
+
+Invitation / Obligation Separation
+
+An offered continuation must not be interpreted as an entry requirement.
+
+Same-Meal / Same-Experience Separation
+
+Product equivalence does not by itself prove equivalent hospitality experience.
+
+These remain:
+
+architecture directions.
+
+They are not:
+
+new formal patterns.
+
+Current Arrival Pattern Pressure — Post Restaurant #19
+
+Walk-In as First-Class Participation
+
+Current state:
+
+Candidate / High
+
+Restaurant #19 pressure:
+
+very strong support with allocation qualification.
+
+The walk-in route is primary.
+
+The case shows that:
+
+first-class walk-in participation may still include:
+
+priority,
+
+finite capacity
+
+and:
+
+human allocation.
+
+Decision:
+
+no confidence or maturity change.
+
+Layered Arrival
+
+Current state:
+
+Candidate / Medium
+
+Restaurant #19 pressure:
+
+strong operational support.
+
+The layers are:
+
+eligibility,
+
+time,
+
+location,
+
+queue,
+
+priority,
+
+contribution,
+
+capacity,
+
+human welcome,
+
+seating
+
+and:
+
+continuation.
+
+Boundary:
+
+layer depth does not require interface density.
+
+Decision:
+
+no confidence or maturity change.
+
+Participation Throughout the Journey
+
+Current state:
+
+Candidate / Medium
+
+Restaurant #19 pressure:
+
+strong support.
+
+Participation may extend through:
+
+arrival,
+
+dining,
+
+contribution,
+
+volunteering
+
+or:
+
+resource connection.
+
+Decision:
+
+no confidence or maturity change.
+
+Manageable Commitment
+
+Current state:
+
+Candidate / Medium
+
+Restaurant #19 pressure:
+
+mixed.
+
+Advance financial and booking commitment are low.
+
+Queue, travel, disclosure and possible volunteer interpretation remain consequential.
+
+Decision:
+
+no confidence or maturity change.
+
+Participation Rule Consistency
+
+Current state:
+
+Candidate / Medium
+
+Restaurant #19 pressure:
+
+direct contradiction pressure.
+
+Current invitation language and exchange-for-meal language require relationship clarification.
+
+Decision:
+
+no confidence increase;
+
+no demotion;
+
+retain as a falsification priority.
+
+Human Assistance Where Structured Self-Service Is Insufficient
+
+Current state:
+
+Candidate / Medium
+
+Restaurant #19 pressure:
+
+very strong mechanism support.
+
+Human assistance may need to resolve:
+
+capacity,
+
+priority,
+
+contribution,
+
+volunteering
+
+and:
+
+resources.
+
+Performed privacy and consistency remain unverified.
+
+Decision:
+
+no confidence or maturity change.
+
+Capacity Proof
+
+Current state:
+
+Candidate / Medium-High
+
+Restaurant #19 pressure:
+
+strong boundary pressure.
+
+Cumulative meals demonstrate institutional activity.
+
+They do not prove:
+
+live seat,
+
+wait
+
+or:
+
+volunteer capacity.
+
+Decision:
+
+no confidence or maturity change.
+
+Stable Participation / Variable Product
+
+Current state:
+
+Candidate / Medium-High
+
+Restaurant #19 pressure:
+
+strong support.
+
+Stable meal and participation structure hold a changing menu.
+
+Rule relationship ambiguity blocks stronger movement.
+
+Decision:
+
+no confidence or maturity change.
+
+Multi-Intent Hospitality
+
+Current state:
+
+Candidate / Medium
+
+Restaurant #19 pressure:
+
+definition stress.
+
+Diner, donor, volunteer and resource participant may be roles or states rather than distinct initial intents.
+
+Decision:
+
+no confidence or maturity change.
+
+Hospitality System Proof
+
+Current state:
+
+Candidate / Medium-High
+
+Restaurant #19 pressure:
+
+strong published-mechanism support.
+
+The contribution and allocation system is publicly described.
+
+Equal performance remains unverified.
+
+Decision:
+
+no confidence or maturity change.
+
+Commitment Without Pressure
+
+Current state:
+
+Emerging
+
+Restaurant #19 pressure:
+
+strong tension.
+
+No booking or fixed price reduces commitment pressure.
+
+Suggested donation, pay-it-forward and volunteer language may create social pressure.
+
+Decision:
+
+no promotion.
+
+The Guest as Participant
+
+Current state:
+
+Emerging
+
+Restaurant #19 pressure:
+
+strong support with an ethical boundary.
+
+Participation must remain possible without:
+
+forced labour,
+
+public status
+
+or:
+
+recipient ownership.
+
+Decision:
+
+no promotion.
+
+Promise Before Proof
+
+Current state:
+
+Emerging
+
+Restaurant #19 pressure:
+
+arrival dependency.
+
+Published welcome must be qualified by capacity and allocation consequences.
+
+Decision:
+
+no promotion.
+
+Escalating Participation Complexity
+
+Current state:
+
+Emerging
+
+Restaurant #19 pressure:
+
+mixed.
+
+The guest route may stay simple while operational routes multiply.
+
+Decision:
+
+no promotion.
+
+Post–JBJ Soul Kitchen Arrival Corrections
+
+Correction 83
+
+No fixed price does not mean no economic expectation.
+
+Correction 84
+
+First-come does not mean first-come is the only allocation rule.
+
+Correction 85
+
+Priority can protect access while threatening privacy.
+
+Correction 86
+
+Open eligibility does not remove interpretive burden.
+
+Correction 87
+
+Contribution difference must not become guest rank.
+
+Correction 88
+
+Contribution-state recognition does not require contribution-state exposure.
+
+Correction 89
+
+Suggested donation and pay it forward are different requests.
+
+Correction 90
+
+Volunteer opportunity must not be interpreted as immediate meal prerequisite.
+
+Correction 91
+
+Dining capacity and volunteer capacity are separate objects.
+
+Correction 92
+
+Low digital commitment can retain high physical and social burden.
+
+Correction 93
+
+Human explanation may protect dignity or create exposure.
+
+Correction 94
+
+Role fluidity must not be mistaken for intent multiplicity.
+
+Correction 95
+
+Historical activity totals do not prove live access.
+
+Correction 96
+
+Stable participation rules can hold a changing menu.
+
+Correction 97
+
+The meal can be complete while optional participation continues.
+
+Correction 98
+
+Reciprocity does not require recipient ownership.
+
+Correction 99
+
+Same meal does not prove same hospitality experience.
+
+Correction 100
+
+Published inclusion is mechanism evidence, not performed-equity evidence.
+
+Strongest Arrival Tensions After Restaurant #19
+
+Tension 31 — First-Come Order vs Mission Priority
+
+Simple sequence is modified by a need-based access condition.
+
+Tension 32 — Recognition vs Exposure
+
+The system may need information it should not publicly display.
+
+Tension 33 — Flexible Contribution vs Stable Guesthood
+
+Economic participation varies while hospitality legitimacy should remain equal.
+
+Tension 34 — Invitation vs Obligation
+
+Volunteering can be a meaningful route while being misread as the cost of a meal.
+
+Tension 35 — Live Access vs Historical Scale
+
+Cumulative activity can inspire confidence without answering today's capacity question.
+
+Tension 36 — Human Sensitivity vs Rule Consistency
+
+Human discretion can protect context while creating variable explanation.
+
+Tension 37 — Open Welcome vs Scarce Seats
+
+Universal eligibility does not create unlimited admission.
+
+Tension 38 — Restaurant Form vs Non-Commercial Participation
+
+Familiar table service holds an unfamiliar contribution model.
+
+Tension 39 — Same Product vs Different Contribution States
+
+Menu equivalence does not automatically prove equal treatment.
+
+Tension 40 — Participation Opportunity vs Labour Burden
+
+Volunteer exchange may create agency for some guests and unacceptable burden for others.
+
+Post–JBJ Soul Kitchen Falsification Programme
+
+Observe the route from street identification to first human welcome.
+
+Verify current Red Bank service hours across all official channels.
+
+Test whether first-time guests understand that reservations are unnecessary.
+
+Test whether guests understand that a seat is not guaranteed.
+
+Record actual wait duration by service period.
+
+Document how first-come order is managed.
+
+Document exactly how mission priority modifies order.
+
+Test whether priority can be requested privately.
+
+Test whether priority requires hardship disclosure.
+
+Record how staff explain all-are-welcome language under full capacity.
+
+Audit turn-away reasons and recovery paths.
+
+Test whether unable-to-donate guests understand that they may dine.
+
+Test whether volunteering is perceived as optional.
+
+Reconcile invitation language with exchange-for-meal language.
+
+Date every source used to describe the contribution system.
+
+Separate current operations from historical programme states.
+
+Observe whether contribution is discussed privately.
+
+Test whether seating or table service reveals contribution state.
+
+Compare welcome quality across contribution states with consent.
+
+Test whether suggested donation is understood as suggested.
+
+Test whether pay-it-forward is understood as additional and optional.
+
+Verify whether contribution resolution happens before, during or after dining.
+
+Map dining-seat capacity independently from volunteer-place capacity.
+
+Verify Support Staff Volunteer orientation requirements.
+
+Distinguish Support Staff Volunteering from exchange-for-meal participation.
+
+Test whether a failed volunteer-place request affects dining access.
+
+Verify the privacy of resource-referral handoffs.
+
+Audit physical, sensory, cognitive and digital access information.
+
+Test the route for guests unable to wait for long periods.
+
+Test group and companion handling.
+
+Verify dietary communication and accommodation boundaries.
+
+Compare published menu cadence with actual change history.
+
+Test whether stable participation rules survive menu change.
+
+Compare arrival language across mobile, desktop and physical signage.
+
+Observe how human explanation varies across staff and volunteers.
+
+Test staff recovery when a guest misunderstands the model.
+
+Measure how often public contact channels answer arrival questions.
+
+Seek negative and ambivalent guest evidence with consent.
+
+Compare JBJ Soul Kitchen directly with Refettorio Felix.
+
+Compare it with another pay-what-you-can restaurant.
+
+Compare it with a community restaurant that requires advance booking.
+
+Compare it with a commercial no-reservation restaurant.
+
+Compare need-priority allocation with unmodified first-come allocation.
+
+Test whether role-fluid participation reduces or increases identity pressure.
+
+Test whether pay-it-forward explanation creates recipient ownership assumptions.
+
+Separate meal equivalence from hospitality-experience equivalence.
+
+Separate designed dignity from experienced dignity.
+
+Separate institutional activity from live capacity.
+
+Do not infer social outcome from meal count alone.
+
+Do not infer equal guesthood from policy language alone.
+
+Post–JBJ Soul Kitchen Comparative Decisions
+
+Add JBJ Soul Kitchen, Red Bank as the nineteenth independent arrival comparison case.
+
+Classify the case as flexible-contribution community hospitality.
+
+Keep it distinct from Refettorio Felix's non-transactional principal guest route.
+
+Treat no reservation as structured live allocation.
+
+Treat first-come and priority as one combined allocation system.
+
+Record Mission-Priority Queue as architecture, not a pattern.
+
+Treat open eligibility as distinct from guaranteed admission.
+
+Treat contribution expectation as an arrival concern.
+
+Separate suggested donation from pay-it-forward encouragement.
+
+Preserve unable-to-donate access as a legitimate dining route.
+
+Do not classify volunteering as an immediate meal prerequisite.
+
+Record current invitation and exchange language as an unresolved relationship.
+
+Apply that contradiction to Participation Rule Consistency.
+
+Make no confidence change from that contradiction alone.
+
+Treat contribution state as operationally relevant and socially private.
+
+Do not treat contribution state as guest rank.
+
+Separate dining-seat capacity from volunteer-place capacity.
+
+Treat historical meal totals as activity proof, not live capacity proof.
+
+Treat human orientation as primary arrival infrastructure.
+
+Do not infer performed sensitivity from human presence.
+
+Preserve guest role, contribution state and arrival intent as separate taxonomies.
+
+Do not raise Multi-Intent confidence from role breadth alone.
+
+Treat the meal as a complete hospitality route.
+
+Treat volunteering and resources as optional continuation routes.
+
+Record Flexible Contribution / Stable Guesthood as architecture.
+
+Record Contribution-State Privacy as architecture.
+
+Record Reciprocity Without Recipient Ownership as architecture.
+
+Record First-Come Recovery as an unresolved operational requirement.
+
+Reinforce Walk-In as First-Class Participation without changing High confidence.
+
+Reinforce Layered Arrival without changing Medium confidence.
+
+Reinforce Participation Throughout the Journey without changing Medium confidence.
+
+Apply mixed evidence to Manageable Commitment without changing Medium confidence.
+
+Reinforce Human Assistance without changing Medium confidence.
+
+Apply boundary pressure to Capacity Proof without changing Medium-High confidence.
+
+Reinforce Stable Participation / Variable Product without changing Medium-High confidence.
+
+Apply definition pressure to Multi-Intent Hospitality without changing Medium confidence.
+
+Retain Commitment Without Pressure at Emerging.
+
+Retain The Guest as Participant at Emerging.
+
+Retain Promise Before Proof at Emerging.
+
+Retain Escalating Participation Complexity at Emerging.
+
+Make no promotion, demotion, merge or rename.
+
+Make no confidence or maturity change.
+
+Preserve the canonical counts pending governance reconciliation.
+
+Count Restaurant #19 once, not once per dimension.
+
+Reserve formal decisions until all five Restaurant #19 comparisons are complete.
+
+Post–JBJ Soul Kitchen Arrival Comparison Conclusion
+
+After:
+
+19
+
+independent arrival comparison cases,
+
+the central thesis remains:
+
+Arrival is uncertainty-resolution architecture.
+
+Restaurant #16 expanded arrival into:
+
+sensory consequence, surrender and human-guided orientation.
+
+Restaurant #17 expanded arrival into:
+
+human attribution, pilot recognition and relational arrival.
+
+Restaurant #18 expanded arrival into:
+
+non-transactional guesthood, felt eligibility, open-door capacity and privacy-preserving participation.
+
+Restaurant #19 expands arrival into:
+
+flexible contribution, mission-priority allocation, contribution-state privacy and role-fluid reciprocity.
+
+The strongest comparative distinction is:
+
+Refettorio Felix
+
+Non-Transactional Principal Guest Route
+
+≠
+
+JBJ Soul Kitchen
+
+Flexible-Contribution Guest Route
+
+The strongest allocation correction is:
+
+First Come
+≠
+Only Arrival Rule
+
+The strongest economic correction is:
+
+No Fixed Price
+≠
+No Economic Expectation
+
+The strongest dignity correction is:
+
+Contribution-State Recognition
+≠
+Contribution-State Exposure
+
+The strongest participation correction is:
+
+Invitation to Volunteer
+≠
+Requirement to Volunteer
+
+The strongest hospitality requirement is:
+
+Flexible Contribution
+
+Must Preserve
+
+Stable Guesthood
+
+Restaurant #19 does not justify:
+
+a Candidate promotion
+
+an Emerging promotion
+
+a confidence increase
+
+a confidence decrease
+
+a demotion
+
+a validation
+
+a research-derived Principle
+
+It supplies:
+
+strong support,
+
+important constraint
+
+and:
+
+a live consistency question.
+
+Formal maturity decisions remain reserved for canonical reconciliation after all five Restaurant #19 comparison files are complete.
+
+Evidence wins.
+
+Validation — Post Restaurant #19 Arrival Comparison
+
+Comparison File:
+
+khds/research/comparison/arrival.md
+
+Status:
+
+Post–JBJ Soul Kitchen, Red Bank Complete
+
+Independent Restaurants Represented:
+
+19
+
+Canonical Completed Independent Restaurants:
+
+18
+
+Latest Case:
+
+JBJ Soul Kitchen, Red Bank
+
+Primary Governance Watch:
+
+Participation Rule Consistency
+
+Secondary Governance Watch:
+
+Walk-In as First-Class Participation
+
+Strongest New Arrival Variable:
+
+Flexible Contribution / Stable Guesthood
+
+Strongest New Allocation Variable:
+
+Mission-Priority Queue
+
+Strongest New Privacy Variable:
+
+Contribution-State Privacy
+
+Strongest New Capacity Boundary:
+
+Dining Seat
+
+≠
+
+Volunteer Place
+
+Strongest New Economic Boundary:
+
+No Fixed Price
+
+≠
+
+No Economic Expectation
+
+Strongest New Dignity Boundary:
+
+Contribution-State Recognition
+
+≠
+
+Contribution-State Exposure
 
 Formal Promotions:
 
