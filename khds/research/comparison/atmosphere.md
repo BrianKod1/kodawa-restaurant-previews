@@ -2,11 +2,11 @@ KHDS Cross-Restaurant Comparison — Atmosphere
 
 Status
 
-Post–JBJ Soul Kitchen, Red Bank Comparison
+Post–SAME Café Denver Comparison
 
 Restaurants Compared:
 
-19
+20
 
 Track:
 
@@ -14,7 +14,7 @@ Track A — Independent Hospitality Research
 
 Latest Added Case:
 
-JBJ Soul Kitchen — Red Bank, New Jersey
+SAME Café — Denver, Colorado
 
 Comparison Status:
 
@@ -78,7 +78,7 @@ all:
 
 five:
 
-post–Restaurant #19:
+post–Restaurant #20:
 
 comparison files
 
@@ -12755,6 +12755,2142 @@ Canonical Validated Count:
 Research-Derived KHDS Principles:
 
 0
+
+Next Comparison File:
+
+khds/research/comparison/photography.md
+
+Post–SAME Café Denver Reconciliation
+
+Restaurant #20 adds:
+
+SAME Café Denver
+
+to the independent atmosphere comparison.
+
+This reconciliation begins from:
+
+the completed Post–JBJ Soul Kitchen atmosphere state.
+
+It preserves:
+
+all nineteen earlier cases
+
+the full historical comparison record
+
+the Post–JBJ evidence boundaries
+
+current pattern maturity
+
+current Candidate confidence
+
+and the separation between designed mechanism and lived outcome.
+
+It adds:
+
+explicit contribution exchange
+
+visible time, money and produce routes
+
+work-for-meal role transition
+
+contribution-neutral service as an equality requirement
+
+privacy-preserving community
+
+optional sociality
+
+contribution-route spatial neutrality
+
+anti-bias commitment as operating infrastructure
+
+contribution recovery as an atmosphere event
+
+and stable guesthood as the invariant beneath variable mood.
+
+Canonical governance decision:
+
+No Change
+
+This comparison does not independently:
+
+promote a pattern
+
+demote a pattern
+
+change confidence
+
+validate an experience
+
+validate an outcome
+
+establish causality
+
+or create a research-derived KHDS Principle.
+
+Why SAME Café Is a Distinct Atmosphere Case
+
+SAME Café publicly connects:
+
+food,
+
+community,
+
+dignity,
+
+participation
+
+and:
+
+anti-bias commitments.
+
+Its atmosphere cannot be reduced to:
+
+room design
+
+visual warmth
+
+communal tables
+
+volunteer energy
+
+mission language
+
+or food presentation.
+
+The atmosphere must carry:
+
+an explicit exchange system.
+
+A person may contribute:
+
+money
+
+time
+
+or produce.
+
+Those routes can be:
+
+operationally different
+
+without becoming:
+
+socially ranked.
+
+The central atmosphere question becomes:
+
+Can one room preserve equal guesthood
+
+when contribution routes differ
+
+in visibility,
+burden,
+duration
+and operational consequence?
+
+The public system supports:
+
+an intention toward equality.
+
+It does not establish:
+
+experienced equality.
+
+Current Canonical Entry State — Before Restaurant #20 Decision
+
+Independent restaurants completed: 19
+Restaurant #20: Five-Dimension Research Complete / Arrival Comparison Complete
+Track B validation cases: 1
+Candidate patterns: 26
+Candidate / High: 9
+Candidate / Medium-High: 8
+Candidate / Medium: 9
+Emerging patterns: 8
+Partially Supported patterns: 1
+Validated patterns: 0
+Research-Derived KHDS Principles: 0
+Implementation patterns pending validation: 1
+Opportunity Themes: 36
+Track B Implementation Learnings: 17
+
+The Post–JBJ comparison established:
+
+Contribution-Neutral Atmosphere
+
+as:
+
+a strong research direction.
+
+SAME Café increases pressure on that direction because:
+
+contribution is more explicitly routed.
+
+It does not close the evidence gap.
+
+Community-Hospitality Atmosphere Comparison
+
+Case
+
+Public Atmosphere Proposition
+
+Participation Structure
+
+Strongest Atmosphere Risk
+
+Refettorio Felix London
+
+Art, food, welcome and hosted community care
+
+Guest meal access through community and partner systems
+
+Designed dignity may be mistaken for experienced dignity
+
+JBJ Soul Kitchen, Red Bank
+
+Community dining without a fixed menu price
+
+Suggested contribution with volunteering invitation and mission-priority logic
+
+Flexible contribution may create debt, disclosure or status inference
+
+SAME Café Denver
+
+Belonging through shared food and participation
+
+Explicit time, money or produce routes, including work-for-meal
+
+Visible route difference may become visible human rank
+
+These cases share:
+
+a non-standard economic relationship.
+
+They do not share:
+
+one atmosphere mechanism.
+
+Refettorio Felix tests:
+
+Hosted Dignity Without Guest Transaction
+
+JBJ Soul Kitchen tests:
+
+Reciprocity Without Debt
+
+SAME Café tests:
+
+Explicit Reciprocity Without Rank
+
+The shared validation requirement is:
+
+Designed Equality
+≠
+Experienced Equality
+
+Ten Atmosphere Carriers — Comparative Reconciliation
+
+Carrier 1 — Public Worldview
+
+SAME Café publishes:
+
+belonging
+
+inherent value
+
+participation
+
+access
+
+and anti-bias commitments.
+
+This strongly supports:
+
+Atmosphere Through Worldview.
+
+It does not establish:
+
+that every guest experiences the worldview consistently.
+
+Carrier 2 — Food
+
+The meal can carry:
+
+care
+
+seasonality
+
+local resource use
+
+daily change
+
+and product equality.
+
+Food remains:
+
+the common hospitality object.
+
+It should not become:
+
+a reward that publicly grades contribution.
+
+Carrier 3 — Human Behaviour
+
+Staff and volunteers carry atmosphere through:
+
+greeting
+
+explanation
+
+task allocation
+
+correction
+
+seating
+
+service
+
+conflict handling
+
+and recovery.
+
+Published values do not establish:
+
+performed behaviour.
+
+Carrier 4 — Contribution Neutrality
+
+The atmosphere must prevent:
+
+money,
+
+time
+
+or:
+
+produce
+
+from becoming:
+
+status categories.
+
+This is the strongest Restaurant #20 atmosphere carrier.
+
+Carrier 5 — Visible Work
+
+Visible volunteer activity may show:
+
+community participation.
+
+It may also expose:
+
+contribution route
+
+physical capacity
+
+task hierarchy
+
+or inferred economic need.
+
+Carrier 6 — Social Optionality
+
+Community should permit:
+
+conversation.
+
+It should also permit:
+
+quiet,
+
+privacy
+
+and:
+
+ordinary eating.
+
+Carrier 7 — Spatial Equality
+
+One room may reduce:
+
+formal segregation.
+
+It does not prove:
+
+equal attention,
+
+equal comfort
+
+or:
+
+equal belonging.
+
+Carrier 8 — Continuity
+
+Long institutional history may create:
+
+trust,
+
+familiarity
+
+and:
+
+local identity.
+
+It may also create:
+
+insider knowledge
+
+that first-time visitors do not possess.
+
+Carrier 9 — Event Rhythm
+
+Events can broaden:
+
+community use.
+
+They can also create:
+
+a different atmosphere from:
+
+weekday meal service.
+
+Carrier 10 — Proof Restraint
+
+The organisation should prove:
+
+the operating system
+
+without requiring:
+
+visible vulnerability.
+
+Atmosphere proof must not undo:
+
+atmosphere ethics.
+
+Designed Equality Versus Experienced Equality
+
+SAME Café can publicly design:
+
+one meal system
+
+multiple contribution routes
+
+shared space
+
+inclusive language
+
+volunteer participation
+
+anti-bias commitments
+
+and community events.
+
+These mechanisms may support:
+
+equality.
+
+They do not establish:
+
+felt welcome
+
+felt safety
+
+contribution neutrality
+
+freedom from judgement
+
+sensory comfort
+
+social choice
+
+or stable dignity.
+
+The evidence chain remains:
+
+Published Value
+≠
+Configured Mechanism
+≠
+Performed Behaviour
+≠
+Guest Experience
+≠
+Social Outcome
+
+Each transition requires:
+
+new evidence.
+
+The atmosphere comparison must not:
+
+use visible design
+
+as a shortcut to:
+
+lived conclusion.
+
+Contribution-Neutral Atmosphere
+
+Contribution neutrality does not mean:
+
+pretending routes are identical.
+
+The organisation may need different procedures for:
+
+payment
+
+produce acceptance
+
+task assignment
+
+work completion
+
+disability accommodation
+
+food safety
+
+and exception handling.
+
+Neutrality means those procedures do not change:
+
+human regard
+
+food eligibility
+
+service tone
+
+seating dignity
+
+privacy
+
+complaint access
+
+recovery access
+
+or future welcome.
+
+The atmosphere invariant is:
+
+Variable Procedure
+
+Must Preserve
+
+Stable Respect
+
+This extends the Post–JBJ direction:
+
+Reciprocity Without Debt.
+
+SAME Café requires:
+
+Reciprocity With Explicit Terms
+
+Without Human Rank
+
+This remains:
+
+architecture.
+
+It is not promoted from this comparison.
+
+Visible Participation and Status Inference
+
+SAME Café makes participation:
+
+potentially visible.
+
+A person contributing time may:
+
+enter a task area
+
+wear work equipment
+
+take instruction
+
+perform labour
+
+wait for completion recognition
+
+and transition back to dining.
+
+A person contributing produce may:
+
+arrive carrying goods
+
+wait for inspection
+
+experience acceptance or rejection
+
+and redirect to another route.
+
+A person contributing money may:
+
+use a payment point
+
+select an amount
+
+and create a different visible handoff.
+
+None of these actions proves:
+
+income
+
+food insecurity
+
+generosity
+
+need
+
+moral commitment
+
+or human worth.
+
+The atmosphere boundary is:
+
+Visible Contribution
+≠
+Visible Economic Status
+
+The design requirement is:
+
+Visible Difference
+Without Rank
+
+Work-to-Guest Re-entry
+
+Restaurant #20 adds a distinctive atmosphere transition:
+
+Guest
+→
+Worker
+→
+Guest
+
+The work period may create:
+
+agency
+
+contribution
+
+relationship
+
+familiarity
+
+and operational participation.
+
+It may also create:
+
+supervision
+
+evaluation
+
+physical difference
+
+task hierarchy
+
+public classification
+
+and transactional accounting.
+
+Re-entry must make clear that:
+
+work completion
+
+does not merely earn:
+
+temporary permission to eat.
+
+The person returns to:
+
+full guesthood.
+
+Atmospheric re-entry requires:
+
+a clear completion moment
+
+equal service language
+
+equal food presentation
+
+equal seating choice within operational limits
+
+no residual role labelling
+
+and freedom to return through another route.
+
+The correction is:
+
+Completed Work Role
+≠
+Continuing Social Identity
+
+Belonging Before Contribution
+
+SAME Café's values position:
+
+inherent value
+
+before:
+
+economic classification.
+
+The atmosphere must therefore communicate:
+
+Participation May Express Belonging
+
+but
+
+Participation Does Not Earn Belonging.
+
+This becomes most visible when:
+
+a route fails
+
+a task is unsuitable
+
+produce is rejected
+
+money is unavailable
+
+social participation is declined
+
+or a guest needs a private exception.
+
+Normal service may support:
+
+the claim.
+
+Failure recovery tests:
+
+the claim.
+
+Community and Optional Sociality
+
+SAME Café publicly values:
+
+community.
+
+Community can include:
+
+shared meals
+
+conversation
+
+volunteering
+
+events
+
+recurring relationships
+
+and mutual contribution.
+
+Community must also include:
+
+the person who wants:
+
+food without testimony
+
+privacy without explanation
+
+quiet without judgement
+
+minimal conversation
+
+no photograph
+
+no programme enrolment
+
+and no visible transformation story.
+
+The correction is:
+
+Community Available
+≠
+Community Performance Required
+
+Optional sociality is therefore:
+
+not a withdrawal from atmosphere.
+
+It is:
+
+part of an inclusive atmosphere.
+
+Spatial Equality
+
+Shared space can reduce:
+
+separated service
+
+beneficiary rooms
+
+donor rooms
+
+and overt economic zoning.
+
+But one room can still contain:
+
+contribution-route visibility
+
+task hierarchy
+
+unequal staff attention
+
+sensory overload
+
+inaccessible circulation
+
+insider clusters
+
+public correction
+
+and subtle seating rank.
+
+The correction is:
+
+One Room
+≠
+Equal Guesthood
+
+Spatial equality requires testing:
+
+route visibility
+
+seating choice
+
+accessible movement
+
+proximity to work areas
+
+noise
+
+queue exposure
+
+payment exposure
+
+and recovery privacy.
+
+Food as Atmospheric Worldview
+
+The Menu of the Day allows food to carry:
+
+current care
+
+daily rhythm
+
+culinary competence
+
+resourcefulness
+
+and shared product experience.
+
+Food-first proof can protect guests from:
+
+being used as the primary visual evidence.
+
+But food can be overshadowed by:
+
+mission explanation
+
+contribution accounting
+
+volunteer theatre
+
+donor recognition
+
+or outcome claims.
+
+The strongest food boundary is:
+
+Same Food
+≠
+Same Hospitality
+
+Equal food does not prove:
+
+equal burden,
+
+equal service
+
+or:
+
+equal belonging.
+
+Anti-Bias Commitment as Atmosphere Infrastructure
+
+An anti-bias commitment can function as:
+
+more than narrative.
+
+It can govern:
+
+language
+
+contribution-route treatment
+
+task allocation
+
+disability accommodation
+
+correction
+
+conflict response
+
+complaint handling
+
+imagery
+
+data
+
+and recovery.
+
+But public commitment increases:
+
+the evidence standard.
+
+It does not prove:
+
+anti-bias performance.
+
+The comparison requires:
+
+Anti-Bias Intention
+≠
+Bias-Free Experience
+
+Evidence must include:
+
+training
+
+accountability
+
+observed behaviour
+
+complaint routes
+
+response records
+
+and affected-participant evidence.
+
+Atmosphere Under Capacity Pressure
+
+Equality is easiest to claim during:
+
+normal service.
+
+It is hardest to preserve during:
+
+meal shortage
+
+seat shortage
+
+task shortage
+
+suitable-task shortage
+
+supervision shortage
+
+produce rejection
+
+staff absence
+
+long queues
+
+conflict
+
+sensory overload
+
+and exceptional need.
+
+Capacity pressure may change:
+
+tone
+
+patience
+
+privacy
+
+flexibility
+
+social warmth
+
+and who receives attention.
+
+The strongest comparison test is:
+
+Does respect remain stable
+
+when the published system
+
+cannot perform normally?
+
+This is why:
+
+contribution recovery
+
+is also:
+
+atmosphere infrastructure.
+
+Stable Respect / Variable Mood
+
+KHDS should not require:
+
+one emotional atmosphere.
+
+A healthy café may be:
+
+lively
+
+quiet
+
+relational
+
+efficient
+
+celebratory
+
+reflective
+
+crowded
+
+or calm.
+
+Mood can vary.
+
+Respect should not.
+
+The atmosphere invariant is:
+
+Variable Mood
+
++
+
+Stable Respect
+
+This is more defensible than:
+
+requiring every guest to feel:
+
+community,
+
+joy
+
+or:
+
+transformation.
+
+Atmosphere Proof Architecture
+
+Restaurant #20 reinforces five proof levels.
+
+Level 1 — Visible Configuration
+
+Can evidence show:
+
+the room
+
+food
+
+work areas
+
+service activity
+
+and public events?
+
+Level 2 — Published Procedure
+
+Can evidence show:
+
+contribution routes
+
+service hours
+
+task procedure
+
+menu rhythm
+
+and anti-bias commitments?
+
+Level 3 — Performed Behaviour
+
+Can evidence establish:
+
+greeting quality
+
+equal service
+
+private recovery
+
+route neutrality
+
+and consistent correction?
+
+Level 4 — Guest Experience
+
+Can evidence establish:
+
+felt safety
+
+dignity
+
+belonging
+
+control
+
+comfort
+
+and pressure?
+
+Level 5 — Social Outcome
+
+Can evidence establish:
+
+durable relationship
+
+improved access
+
+reduced isolation
+
+employment
+
+housing stability
+
+or causal change?
+
+The comparison may use:
+
+Levels 1 and 2
+
+from reviewed public evidence.
+
+It cannot infer:
+
+Levels 3 through 5.
+
+Post–SAME Café Atmosphere Architecture Additions
+
+1. Contribution-Neutral Atmosphere
+
+Stable regard across time, money and produce routes.
+
+2. Visible Difference Without Rank
+
+Operational difference without social hierarchy.
+
+3. Work-to-Guest Re-entry
+
+Full guesthood after visible labour.
+
+4. Belonging Before Contribution
+
+Inherent value before contribution performance.
+
+5. Optional Sociality
+
+Community without required interaction.
+
+6. Privacy-Preserving Community
+
+Relationship without forced disclosure.
+
+7. Contribution-Route Spatial Neutrality
+
+No route-based zoning or visible status architecture.
+
+8. Reciprocity With Explicit Terms
+
+Clear exchange without human rank.
+
+9. Same Food / Different Burden
+
+Product parity tested against whole-experience inequality.
+
+10. Volunteer-Carried Atmosphere
+
+Volunteer behaviour as a major atmosphere mechanism.
+
+11. Mission Explanation Without Moral Pressure
+
+Clear purpose without coerced emotional debt.
+
+12. Community Without Classification
+
+Participation without economic identity labelling.
+
+13. Food-First Mission Proof
+
+Product and operation carry claims before participant vulnerability.
+
+14. Contribution Recovery as Atmosphere
+
+Failure handling as the strongest live equality evidence.
+
+15. Quiet Belonging
+
+Inclusion without visible social performance.
+
+16. Event / Lunch Atmosphere Separation
+
+Event energy does not define ordinary service.
+
+17. Anti-Bias Performance Layer
+
+Commitment translated into observed operation and accountability.
+
+18. Proof Restraint as Hospitality
+
+Evidence collection does not damage dignity.
+
+19. Stable Respect / Variable Mood
+
+Human regard remains fixed while emotional tone changes.
+
+20. Route-Switching Without Identity Carryover
+
+Future visits do not lock a person into a prior contribution state.
+
+All twenty remain:
+
+research architecture.
+
+None are entered into:
+
+the formal registry
+
+from this comparison.
+
+Post–SAME Café Atmosphere Corrections
+
+Correction 1
+
+Designed Equality
+≠
+Experienced Equality
+
+Correction 2
+
+Visible Participation
+≠
+Visible Economic Status
+
+Correction 3
+
+Equal Treatment
+≠
+Identical Procedure
+
+Correction 4
+
+Participation for Every Person
+≠
+Equal Capacity to Participate
+
+Correction 5
+
+Explicit Exchange
+≠
+Human Rank
+
+Correction 6
+
+Same Food
+≠
+Same Hospitality
+
+Correction 7
+
+One Room
+≠
+Equal Guesthood
+
+Correction 8
+
+Community Available
+≠
+Community Performance Required
+
+Correction 9
+
+Mission Clarity
+≠
+Freedom From Pressure
+
+Correction 10
+
+Anti-Bias Intention
+≠
+Bias-Free Experience
+
+Correction 11
+
+Visible Work
+≠
+Verified Agency
+
+Correction 12
+
+Shared Activity
+≠
+Belonging
+
+Correction 13
+
+Human Flexibility
+≠
+Consistent Dignity
+
+Correction 14
+
+Route Difference
+≠
+Guest Difference
+
+Correction 15
+
+Role Transition
+≠
+Permanent Identity
+
+Correction 16
+
+Proof Visibility
+≠
+Proof Ethics
+
+Correction 17
+
+Atmosphere Intention
+≠
+Atmosphere Outcome
+
+Correction 18
+
+Normal Service
+≠
+Recovery Performance
+
+Correction 19
+
+Stable Respect
+≠
+Uniform Mood
+
+Correction 20
+
+One Visit
+≠
+Stable Atmosphere
+
+Post–SAME Café Candidate Pressure
+
+Atmosphere Through Worldview — Candidate / High
+
+Support:
+
+the public worldview coherently connects food, belonging, participation and anti-bias commitments.
+
+Blocker:
+
+lived consistency is unverified.
+
+Decision:
+
+retain High.
+
+Atmosphere Through Consistency — Candidate / Medium
+
+Support:
+
+stable respect is necessary across routes, staff, shifts and capacity conditions.
+
+Blocker:
+
+performed consistency is unverified.
+
+Decision:
+
+retain Medium.
+
+Atmosphere Through Continuity — Candidate / Medium-High
+
+Support:
+
+institutional continuity may support local trust and return.
+
+Blocker:
+
+the newcomer / insider boundary remains unresolved.
+
+Decision:
+
+retain Medium-High.
+
+Designed Escape — Candidate / Medium
+
+Support:
+
+food and communal space may provide temporary relief.
+
+Blocker:
+
+escape is a guest experience, not a visible mechanism.
+
+Decision:
+
+retain Medium.
+
+Story Through Hospitality Model — Candidate / High
+
+Support:
+
+the contribution system materially enacts the public story.
+
+Blocker:
+
+equality in operation remains unverified.
+
+Decision:
+
+retain High.
+
+Hospitality System Proof — Candidate / High
+
+Support:
+
+mission credibility depends on operational evidence across routes and failures.
+
+Blocker:
+
+audited performance is unavailable.
+
+Decision:
+
+retain High.
+
+Photography as Proof — Candidate / Medium-High
+
+Support:
+
+images may show room, food, work and events.
+
+Blocker:
+
+images cannot establish dignity, neutrality or outcome.
+
+Decision:
+
+retain Medium-High.
+
+Photography Should Demonstrate Difference — Candidate / Medium-High
+
+Support:
+
+the meaningful difference is reciprocal hospitality without rank.
+
+Blocker:
+
+that difference is not directly visible.
+
+Decision:
+
+retain Medium-High.
+
+Photography as Use-Case Evidence — Candidate / Medium-High
+
+Support:
+
+different roles and spaces require distinct evidence.
+
+Blocker:
+
+role depiction can expose contribution state.
+
+Decision:
+
+retain Medium-High.
+
+Walk-In as First-Class Participation — Candidate / High
+
+Support:
+
+walk-in dining and work-for-meal participation shape the social environment.
+
+Blocker:
+
+capacity and recovery remain unverified.
+
+Decision:
+
+retain High.
+
+Human Assistance Where Structured Self-Service Is Insufficient — Candidate / Medium
+
+Support:
+
+staff and volunteers carry route explanation and recovery.
+
+Blocker:
+
+authority, bias, privacy and consistency remain unverified.
+
+Decision:
+
+retain Medium.
+
+Stable Participation / Variable Product — Candidate / Medium-High
+
+Support:
+
+the food offer changes while the contribution framework remains publicly stable.
+
+Blocker:
+
+performed consistency under variable capacity is unverified.
+
+Decision:
+
+retain Medium-High.
+
+Multi-Intent Hospitality — Candidate / Medium
+
+Support:
+
+dining, volunteering, training, events and catering create distinct atmosphere states.
+
+Blocker:
+
+live separation and coexistence are unverified.
+
+Decision:
+
+retain Medium.
+
+Narrative Language Within Clear Interface — Candidate / High
+
+Support:
+
+the public language strongly organises the mission and model.
+
+Blocker:
+
+exception clarity remains incomplete.
+
+Decision:
+
+retain High.
+
+Formal atmosphere decision:
+
+Candidate promotions: 0
+Candidate demotions: 0
+Candidate confidence increases: 0
+Candidate confidence decreases: 0
+
+Post–SAME Café Emerging Pressure
+
+Atmosphere as Product
+
+Pressure:
+
+high.
+
+Reason:
+
+community and belonging are part of the public proposition.
+
+Blocker:
+
+guest selection and experienced atmosphere remain unverified.
+
+Decision:
+
+remain Emerging.
+
+Commitment Without Pressure
+
+Pressure:
+
+high.
+
+Reason:
+
+explicit exchange can create moral and social pressure.
+
+Decision:
+
+remain Emerging.
+
+Emotion Before Interface
+
+Pressure:
+
+medium.
+
+Reason:
+
+warmth cannot displace route and exception clarity.
+
+Decision:
+
+remain Emerging.
+
+Story Before Features
+
+Pressure:
+
+medium.
+
+Reason:
+
+mission coherence is strong but must remain operationally accountable.
+
+Decision:
+
+remain Emerging.
+
+Photography Before Decoration
+
+Pressure:
+
+medium.
+
+Reason:
+
+evidence-bearing imagery is important but ethically constrained.
+
+Decision:
+
+remain Emerging.
+
+The Guest as Participant
+
+Pressure:
+
+high.
+
+Reason:
+
+participation is literal but cannot become a condition of belonging.
+
+Decision:
+
+remain Emerging.
+
+Promise Before Proof
+
+Pressure:
+
+medium.
+
+Reason:
+
+the universal promise requires live equality evidence.
+
+Decision:
+
+remain Emerging.
+
+Escalating Participation Complexity
+
+Pressure:
+
+medium.
+
+Reason:
+
+role and contribution branches increase operational complexity.
+
+Decision:
+
+remain Emerging.
+
+Formal atmosphere decision:
+
+Emerging promotions: 0
+Emerging demotions: 0
+Emerging renames: 0
+
+Post–SAME Café Falsification Programme
+
+Worldview Performance
+
+Observe whether public values appear in ordinary service language.
+
+Compare staff explanation across shifts.
+
+Compare first-time and returning-guest treatment.
+
+Test whether mission language creates moral pressure.
+
+Record moments when the published model cannot perform normally.
+
+Contribution Neutrality
+
+Compare greeting across money, time and produce routes.
+
+Compare service tone across routes.
+
+Compare food presentation across routes.
+
+Compare portion across routes.
+
+Compare seating treatment across routes.
+
+Compare waiting time across routes.
+
+Test whether one route receives greater public praise.
+
+Test whether one route receives greater scrutiny.
+
+Test whether amount or task changes staff regard.
+
+Determine whether no-route recovery preserves full guesthood.
+
+Visible Participation
+
+Map which contribution states are visible to other guests.
+
+Observe the work area from the dining space.
+
+Test whether equipment identifies work-for-meal participants.
+
+Observe produce inspection and rejection privacy.
+
+Observe monetary handoff privacy.
+
+Test whether language reveals economic inference.
+
+Compare participant and observer interpretations.
+
+Work-to-Guest Re-entry
+
+Observe the task-completion moment.
+
+Observe physical transition from work to dining.
+
+Compare service before and after work.
+
+Determine whether the role remains verbally visible.
+
+Test whether returning guests may change routes freely.
+
+Test whether staff retain prior contribution identity.
+
+Community and Sociality
+
+Observe whether quiet dining is socially acceptable.
+
+Observe whether conversation is invited or expected.
+
+Compare solo and group guest experience.
+
+Test whether a guest may decline testimony.
+
+Test whether a guest may decline photography.
+
+Test whether a guest may decline programme information.
+
+Seek negative and ambivalent guest evidence with consent.
+
+Spatial Equality
+
+Map seating relative to payment, produce and work areas.
+
+Audit step-free circulation.
+
+Audit sensory conditions.
+
+Measure noise and pace across service periods.
+
+Observe queue exposure.
+
+Observe correction and conflict locations.
+
+Test whether private recovery space exists.
+
+Volunteer-Carried Atmosphere
+
+Distinguish staff and volunteer responsibilities.
+
+Compare volunteer behaviour across shifts.
+
+Review orientation and anti-bias preparation.
+
+Observe authority boundaries.
+
+Test escalation after inconsistent treatment.
+
+Determine how feedback reaches accountable staff.
+
+Capacity Pressure
+
+Observe atmosphere during meal shortage.
+
+Observe atmosphere during task shortage.
+
+Observe atmosphere during staffing pressure.
+
+Observe atmosphere during high occupancy.
+
+Compare normal service with recovery service.
+
+Measure turn-away explanation and dignity.
+
+Evidence Ethics
+
+Audit consent for photography and testimony.
+
+Verify whether contribution state is attached to imagery.
+
+Separate activity evidence from experience claims.
+
+Separate experience evidence from outcome claims.
+
+Review participant control over reuse and withdrawal.
+
+Test whether proof collection changes the atmosphere being measured.
+
+Required evidence:
+
+repeated field observation
+
+guest interviews
+
+staff and volunteer interviews
+
+negative-case evidence
+
+accessibility review
+
+consent review
+
+complaint and recovery evidence
+
+and multi-shift comparison.
+
+Official pages alone cannot establish:
+
+the lived atmosphere.
+
+Post–SAME Café Comparative Decisions
+
+Add SAME Café Denver as the twentieth independent atmosphere case.
+
+Preserve the complete Post–JBJ atmosphere record.
+
+Classify Restaurant #20 as an explicit reciprocity-without-rank test.
+
+Keep it distinct from Refettorio Felix's non-transactional hosted atmosphere.
+
+Keep it distinct from JBJ Soul Kitchen's flexible-contribution atmosphere.
+
+Treat public values as worldview evidence.
+
+Do not treat public values as guest-experience evidence.
+
+Treat food as a shared atmospheric object.
+
+Do not treat equal food as proof of equal hospitality.
+
+Treat time, money and produce as operationally distinct.
+
+Do not treat operational difference as human rank.
+
+Treat contribution-neutral service as an atmosphere requirement.
+
+Treat visible work as both participation evidence and status risk.
+
+Do not infer economic need from contribution route.
+
+Treat work-to-guest re-entry as atmosphere architecture.
+
+Treat route-switching freedom as part of future belonging.
+
+Treat optional sociality as an inclusion requirement.
+
+Do not treat quiet participation as failed community.
+
+Treat shared space as a mechanism, not an equality outcome.
+
+Treat anti-bias commitment as a performance obligation.
+
+Do not infer bias-free experience from published intention.
+
+Treat human behaviour as primary atmosphere infrastructure.
+
+Do not infer consistency from one host or one visit.
+
+Treat capacity pressure as a high-value equality test.
+
+Treat contribution recovery as an atmosphere event.
+
+Treat stable respect as more important than uniform mood.
+
+Separate weekday lunch atmosphere from event atmosphere.
+
+Separate café atmosphere from training-programme atmosphere.
+
+Separate mission dining from commercial catering atmosphere.
+
+Treat proof restraint as part of hospitality ethics.
+
+Retain Atmosphere Through Worldview at Candidate / High.
+
+Retain Atmosphere Through Consistency at Candidate / Medium.
+
+Retain Atmosphere Through Continuity at Candidate / Medium-High.
+
+Retain Designed Escape at Candidate / Medium.
+
+Retain Story Through Hospitality Model at Candidate / High.
+
+Retain Hospitality System Proof at Candidate / High.
+
+Retain all photography-related Candidate confidence levels.
+
+Retain Atmosphere as Product as Emerging.
+
+Make no maturity or confidence change from the atmosphere comparison.
+
+Move Restaurant #20 to photography comparison.
+
+Post–SAME Café Atmosphere Comparison Conclusion
+
+Across twenty independent restaurant cases,
+
+atmosphere is best understood as:
+
+the experienced result of:
+
+worldview
+
+space
+
+food
+
+people
+
+procedure
+
+capacity
+
+participation
+
+correction
+
+and recovery.
+
+Restaurant #20 adds a severe equality test.
+
+The café can publish:
+
+belonging.
+
+It can configure:
+
+multiple contribution routes.
+
+It can show:
+
+food,
+
+volunteers,
+
+events
+
+and:
+
+shared activity.
+
+But it cannot establish through public evidence alone that:
+
+contribution remains neutral
+
+visible labour remains free from status inference
+
+sociality remains optional
+
+task allocation remains equitable
+
+route failure remains private
+
+exceptions remain dignified
+
+or every person experiences belonging.
+
+The strongest Restaurant #20 atmosphere boundary is:
+
+Visible Participation
+≠
+Visible Human Worth
+
+The strongest proof boundary is:
+
+Designed Equality
+≠
+Experienced Equality
+
+The strongest social boundary is:
+
+Community Available
+≠
+Community Performance Required
+
+The strongest system requirement is:
+
+Variable Procedure
+
+Must Preserve
+
+Stable Respect
+
+The decisive atmosphere test is:
+
+Does respect remain stable
+
+when contribution differs
+
+or the published system
+
+cannot perform normally?
+
+Until performed evidence resolves that question:
+
+no Candidate is promoted
+
+no Candidate confidence changes
+
+no Emerging direction is promoted
+
+no pattern is validated
+
+and no research-derived Principle is created.
+
+Evidence wins.
+
+Validation — Post Restaurant #20 Atmosphere Comparison
+
+Comparison File:
+
+khds/research/comparison/atmosphere.md
+
+Status:
+
+Post–SAME Café Denver Complete
+
+Independent Restaurants Represented:
+
+20
+
+Canonical Completed Independent Restaurants:
+
+19
+
+Latest Case:
+
+SAME Café Denver
+
+Primary Governance Watch:
+
+Atmosphere Through Consistency
+
+Primary Emerging Watch:
+
+Atmosphere as Product
+
+Primary Proof Watch:
+
+Designed Equality
+
+≠
+
+Experienced Equality
+
+Strongest New Atmosphere Direction:
+
+Contribution-Neutral Atmosphere
+
+Strongest New Social Direction:
+
+Community Without Classification
+
+Strongest New Reciprocity Direction:
+
+Reciprocity With Explicit Terms / Without Rank
+
+Strongest New Consistency Direction:
+
+Stable Respect / Variable Mood
+
+Strongest New Status Boundary:
+
+Visible Participation
+
+≠
+
+Visible Human Worth
+
+Strongest New Social Boundary:
+
+Community Available
+
+≠
+
+Community Performance Required
+
+Formal Promotions:
+
+0
+
+Formal Demotions:
+
+0
+
+Confidence Changes:
+
+0
+
+Governance Changes:
+
+0
+
+Canonical Candidate Count:
+
+26
+
+Canonical Candidate / High:
+
+9
+
+Canonical Candidate / Medium-High:
+
+8
+
+Canonical Candidate / Medium:
+
+9
+
+Canonical Emerging Count:
+
+8
+
+Canonical Partially Supported Count:
+
+1
+
+Canonical Validated Count:
+
+0
+
+Research-Derived KHDS Principles:
+
+0
+
+Restaurant #20 Status:
+
+Arrival and Atmosphere Comparisons Complete / Three Dimension Comparisons Pending
 
 Next Comparison File:
 

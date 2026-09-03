@@ -2,11 +2,11 @@ KHDS Cross-Restaurant Comparison — Arrival
 
 Status
 
-Post–JBJ Soul Kitchen, Red Bank Comparison
+Post–SAME Café Denver Comparison
 
 Restaurants Compared:
 
-19
+20
 
 Track:
 
@@ -14,7 +14,7 @@ Track A — Independent Hospitality Research
 
 Latest Added Case:
 
-JBJ Soul Kitchen — Red Bank, New Jersey
+SAME Café — Denver, Colorado
 
 Comparison Status:
 
@@ -78,7 +78,7 @@ all:
 
 five:
 
-post-Restaurant #19:
+post-Restaurant #20:
 
 comparison files
 
@@ -13739,6 +13739,2224 @@ Canonical Validated Count:
 Research-Derived KHDS Principles:
 
 0
+
+Next Comparison File:
+
+khds/research/comparison/atmosphere.md
+
+Post–SAME Café Denver Reconciliation
+
+Restaurant #20 adds:
+
+SAME Café Denver
+
+to the independent arrival comparison.
+
+This reconciliation begins from:
+
+the completed Post–JBJ Soul Kitchen arrival state.
+
+It preserves:
+
+all nineteen earlier cases
+
+their historical findings
+
+their original evidence boundaries
+
+the Post–JBJ governance checkpoint
+
+and the separation between comparative support and formal maturity.
+
+It adds:
+
+explicit contribution-route orientation
+
+time, money and produce as distinct arrival paths
+
+a published half-hour work-for-meal unit
+
+ordering before the walk-in volunteer request
+
+suitable-task allocation
+
+produce-acceptance uncertainty
+
+contribution-state privacy
+
+work-to-guest re-entry
+
+no-available-route recovery
+
+and the equality test created by unequal capacity to contribute.
+
+Canonical governance decision:
+
+No Change
+
+This comparison does not independently:
+
+promote a pattern
+
+demote a pattern
+
+increase confidence
+
+decrease confidence
+
+validate a pattern
+
+establish a KHDS Principle
+
+or alter canonical counts.
+
+Why SAME Café Is a Distinct Arrival Case
+
+SAME Café is not merely:
+
+another pay-what-you-can restaurant.
+
+Its published organising logic names:
+
+time
+
+money
+
+or produce
+
+as contribution routes.
+
+For a walk-in volunteer,
+
+the website publishes:
+
+a half-hour contribution
+
+in exchange for:
+
+a meal.
+
+That creates an arrival problem different from:
+
+ordinary commercial booking,
+
+charitable meal access,
+
+suggested-donation dining,
+
+or:
+
+volunteering as a separate programme.
+
+The guest may arrive to:
+
+eat
+
+contribute money
+
+offer produce
+
+exchange time for a meal
+
+volunteer beyond a meal exchange
+
+complete community service
+
+enter training
+
+attend an event
+
+or purchase catering.
+
+These routes share:
+
+one mission environment.
+
+They do not share:
+
+one allocation system.
+
+The core arrival question therefore becomes:
+
+Can a system make contribution explicit
+
+without making human worth conditional?
+
+Current Canonical Entry State — Before Restaurant #20 Decision
+
+Independent restaurants completed: 19
+Restaurant #20: Five-Dimension Research Complete / Comparison Pending
+Track B validation cases: 1
+Candidate patterns: 26
+Candidate / High: 9
+Candidate / Medium-High: 8
+Candidate / Medium: 9
+Emerging patterns: 8
+Partially Supported patterns: 1
+Validated patterns: 0
+Research-Derived KHDS Principles: 0
+Implementation patterns pending validation: 1
+Opportunity Themes: 36
+Track B Implementation Learnings: 17
+
+The Post–JBJ comparison established:
+
+Flexible Contribution
+
+Must Preserve
+
+Stable Guesthood
+
+SAME Café intensifies that requirement by making contribution routes:
+
+more explicit.
+
+It does not establish that those routes are:
+
+equally available
+
+equally private
+
+equally burdensome
+
+equally accessible
+
+equally predictable
+
+or equally recoverable.
+
+Arrival Comparison — Contribution Models
+
+Case
+
+Principal Public Route
+
+Contribution Condition
+
+Allocation Mode
+
+Central Arrival Risk
+
+Refettorio Felix London
+
+Hosted community meal through partner access
+
+No public guest payment mechanism established
+
+Human and partner routing
+
+Referral criteria may remain invisible
+
+JBJ Soul Kitchen, Red Bank
+
+Walk-in community dining with suggested contribution or volunteering invitation
+
+Flexible monetary contribution; volunteer participation may be available
+
+First-come seating plus mission-priority qualification
+
+Invitation may be interpreted as requirement
+
+SAME Café Denver
+
+Walk-in café with time, money or produce contribution routes
+
+Contribution is explicit; half-hour work-for-meal route is published
+
+Live meal, seat, task, produce and human-attention allocation
+
+A failed contribution route may become failed guesthood
+
+The three cases should not be collapsed into:
+
+one community-hospitality pattern.
+
+Refettorio Felix primarily tests:
+
+Non-Commercial Guest Access
+
+JBJ Soul Kitchen primarily tests:
+
+Flexible Contribution
+
+SAME Café primarily tests:
+
+Explicit Contribution Exchange
+
+Their shared question is:
+
+Does the arrival system preserve stable hospitality rights
+
+when a person's economic or participation route differs?
+
+Arrival Comparison — Public Promise and Operational Qualification
+
+Refettorio Felix
+
+The public story places hospitality inside:
+
+community support.
+
+Arrival qualification may depend on:
+
+partner relationship
+
+programme context
+
+service schedule
+
+and human routing.
+
+The website cannot establish:
+
+universal walk-in access.
+
+JBJ Soul Kitchen
+
+The public story invites:
+
+all community members.
+
+Arrival may depend on:
+
+first-come capacity
+
+mission-priority treatment
+
+service hours
+
+suggested contribution interpretation
+
+and live human explanation.
+
+The website cannot establish:
+
+contribution-neutral service in every encounter.
+
+SAME Café
+
+The public promise is:
+
+So All May Eat.
+
+Arrival may depend on:
+
+current meal capacity
+
+current seat capacity
+
+current task capacity
+
+task suitability
+
+produce acceptance
+
+payment method
+
+staff authority
+
+and exception recovery.
+
+The website cannot establish:
+
+that a person without a usable contribution route still receives stable guesthood.
+
+The correction is:
+
+Universal Promise
+≠
+Unlimited Live Capacity
+
+and:
+
+Universal Promise
+requires
+Visible Recovery Logic
+
+SAME Café Arrival Layer Reconciliation
+
+Restaurant #20 adds twenty-eight researched arrival layers.
+
+They can be grouped into eight comparative stages.
+
+Stage 1 — Category Recognition
+
+The person must understand that SAME is:
+
+a café
+
+a mission-led organisation
+
+a community space
+
+and a contribution-based meal system.
+
+This strengthens:
+
+Narrative Language Within Clear Interface.
+
+It does not prove:
+
+that a first-time visitor understands obligation.
+
+Stage 2 — Practical Recognition
+
+The person must locate:
+
+current address
+
+entrance
+
+service days
+
+service hours
+
+closure conditions
+
+and current menu information.
+
+This is ordinary practical clarity.
+
+Its consequence is unusual because:
+
+walk-in access has no reservation guarantee.
+
+Stage 3 — Participation Recognition
+
+The person must understand:
+
+whether contribution is expected
+
+the available routes
+
+whether routes are choices
+
+and what each route requires.
+
+This is the new comparative pressure.
+
+Stage 4 — Threshold Recognition
+
+The physical threshold must distinguish:
+
+dining
+
+ordinary volunteering
+
+group volunteering
+
+community service
+
+Cook to Work
+
+events
+
+and commercial enquiries.
+
+Multi-intent hospitality becomes:
+
+an arrival-routing problem.
+
+Stage 5 — Contribution Handoff
+
+The contribution route branches into:
+
+monetary handoff
+
+produce handoff
+
+volunteer request
+
+task assignment
+
+or exception handling.
+
+Each branch has:
+
+different privacy,
+
+capacity,
+
+and dignity conditions.
+
+Stage 6 — Allocation
+
+Arrival depends on more than:
+
+a seat.
+
+It may require:
+
+meal capacity
+
+service capacity
+
+suitable-task capacity
+
+supervision capacity
+
+produce-storage capacity
+
+and authorised exception capacity.
+
+Stage 7 — Dining or Work Arrival
+
+For a money or produce contributor,
+
+arrival may resolve at:
+
+ordering and seating.
+
+For a time contributor,
+
+arrival may remain incomplete through:
+
+task assignment,
+
+work,
+
+completion,
+
+and return to dining.
+
+Stage 8 — Relational and Future Arrival
+
+The guest must be able to return:
+
+without being fixed to:
+
+a previous contribution route.
+
+Familiarity should reduce:
+
+uncertainty.
+
+It should not create:
+
+identity capture.
+
+Comparative Arrival Sequence
+
+The SAME Café public model suggests:
+
+Mission Recognition
+→
+Practical Planning
+→
+Walk-In Arrival
+→
+Human Orientation
+→
+Order
+→
+Contribution Route
+→
+Allocation or Handoff
+→
+Meal / Work
+→
+Stable Guesthood
+
+This sequence remains:
+
+a published-system interpretation.
+
+It is not:
+
+performed-service proof.
+
+The most important sequence boundary is:
+
+Published Participation Route
+≠
+Available Participation Capacity
+≠
+Completed Participation
+≠
+Equal Hospitality
+
+Contribution Orientation Versus Contribution Disclosure
+
+SAME Café strengthens a major KHDS distinction.
+
+The system should explain:
+
+that contribution exists
+
+what routes exist
+
+what each route normally requires
+
+what is variable
+
+and where help is available.
+
+The guest should not need to explain:
+
+income
+
+housing status
+
+food insecurity
+
+disability
+
+employment
+
+family circumstances
+
+immigration status
+
+or why one route is unavailable.
+
+The arrival rule is:
+
+The system should explain contribution
+
+without requiring the guest
+
+to explain themselves.
+
+This corrects a common interface error:
+
+using personal disclosure
+
+as the mechanism for:
+
+operational flexibility.
+
+Human assistance is still necessary.
+
+But it should resolve:
+
+route fit.
+
+It should not determine:
+
+human deservingness.
+
+Contribution Equivalence Comparison
+
+Time,
+
+money
+
+and:
+
+produce
+
+are not naturally equivalent resources.
+
+They differ by:
+
+economic value
+
+time burden
+
+physical burden
+
+planning burden
+
+transport burden
+
+social visibility
+
+task suitability
+
+acceptance risk
+
+and opportunity cost.
+
+The system does not need to prove:
+
+equal resource value.
+
+It must test:
+
+equal hospitality rights.
+
+The correction is:
+
+Contribution Equivalence
+
+should mean
+
+Stable Rights
+
+not
+
+Identical Resource Value.
+
+Stable rights include:
+
+equal food eligibility
+
+equal service regard
+
+equal seating dignity
+
+equal privacy
+
+equal exception access
+
+equal complaint access
+
+and equal ability to return.
+
+Official-source review cannot establish:
+
+that these rights are performed consistently.
+
+The No-Available-Route Case
+
+The decisive Restaurant #20 arrival case is not:
+
+the normal money route.
+
+It is not:
+
+the normal produce route.
+
+It is not:
+
+the normal half-hour work route.
+
+It is:
+
+the person who cannot use any published route.
+
+That may include a person who:
+
+has no money
+
+has no produce
+
+has insufficient time
+
+cannot perform the offered task
+
+arrives when task capacity is full
+
+arrives after meal capacity changes
+
+cannot use the payment mechanism
+
+brings produce that cannot be accepted
+
+or needs an accommodation not already prepared.
+
+The system must decide whether:
+
+contribution failure
+
+becomes:
+
+guest failure.
+
+The strongest extracted arrival statement is:
+
+Multiple contribution routes are not access
+
+unless failed routes have a dignified recovery.
+
+This statement remains:
+
+research architecture.
+
+It is not promoted from this comparison.
+
+Capacity Comparison
+
+Restaurant #20 makes arrival capacity:
+
+multi-dimensional.
+
+Meal Capacity
+
+Can a meal still be served?
+
+Seat Capacity
+
+Can the guest be seated?
+
+Task Capacity
+
+Does work exist?
+
+Suitable-Task Capacity
+
+Can the available work be performed safely and accessibly by this person?
+
+Supervision Capacity
+
+Can staff orient and support the task?
+
+Produce Capacity
+
+Can the offered produce be safely accepted, stored and used?
+
+Payment Capacity
+
+Can the available monetary method be processed?
+
+Explanation Capacity
+
+Can staff explain routes without public disclosure or pressure?
+
+Recovery Capacity
+
+Can an authorised person preserve access when the normal route fails?
+
+The comparative correction is:
+
+Operational Capacity
+≠
+Seat Count Alone
+
+and:
+
+Task Available
+≠
+Task Suitable
+
+Walk-In Comparison
+
+Walk-in is a mature KHDS Candidate.
+
+Restaurant #20 supplies:
+
+strong mechanism support.
+
+The principal café route does not appear to require:
+
+a dining reservation.
+
+The walk-in time-contribution route is published as:
+
+a current participation path.
+
+However:
+
+walk-in availability cannot be inferred from:
+
+the absence of a reservation form.
+
+The comparison requires:
+
+Walk-In Route Published
+≠
+Walk-In Capacity Available
+
+and:
+
+No Dining Reservation
+≠
+No Allocation System
+
+Restaurant #20 does not justify:
+
+a confidence increase for:
+
+Walk-In as First-Class Participation.
+
+Its unresolved conditions include:
+
+queue visibility
+
+sell-out communication
+
+late-arrival rules
+
+task availability
+
+suitable-task availability
+
+route priority
+
+and recovery after travel.
+
+Manageable Commitment Comparison
+
+The published half-hour exchange is:
+
+specific.
+
+Specificity can improve:
+
+planning.
+
+It can also compress:
+
+the apparent burden.
+
+Total commitment may include:
+
+travel
+
+waiting
+
+orientation
+
+task assignment
+
+work preparation
+
+thirty minutes of work
+
+completion recognition
+
+ordering or meal handoff
+
+dining
+
+and return travel.
+
+The correction is:
+
+Half-Hour Work
+≠
+Half-Hour Journey
+
+The same time unit may have:
+
+different cost
+
+for different people.
+
+Restaurant #20 therefore supports:
+
+Manageable Commitment
+
+while simultaneously exposing:
+
+its equality boundary.
+
+No confidence change is made.
+
+Human Assistance Comparison
+
+The Restaurant #16–#20 sequence shows five different human roles.
+
+Dans le Noir? London
+
+The guide becomes:
+
+the physical interface.
+
+Avatar Robot Café DAWN Tokyo
+
+The remote pilot becomes:
+
+the embodied service presence.
+
+Refettorio Felix London
+
+The host becomes:
+
+the non-commercial access interpreter.
+
+JBJ Soul Kitchen, Red Bank
+
+The host becomes:
+
+the flexible-contribution and priority interpreter.
+
+SAME Café Denver
+
+The host becomes:
+
+the contribution-route allocator,
+
+task-fit interpreter,
+
+and:
+
+exception authority.
+
+This strengthens:
+
+Human Assistance Where Structured Self-Service Is Insufficient.
+
+It also increases the need to verify:
+
+authority
+
+consistency
+
+bias controls
+
+privacy
+
+training
+
+escalation
+
+and recovery quality.
+
+The comparison therefore supports:
+
+the mechanism.
+
+It does not support:
+
+a confidence increase.
+
+Participation Rule Consistency Comparison
+
+SAME Café presents a stable high-level rule:
+
+contribute:
+
+time,
+
+money
+
+or:
+
+produce.
+
+But high-level stability may depend on:
+
+variable live conditions.
+
+The money route depends on:
+
+amount interpretation
+
+accepted method
+
+and privacy.
+
+The produce route depends on:
+
+item suitability
+
+food safety
+
+quantity
+
+storage
+
+and rejection recovery.
+
+The time route depends on:
+
+task volume
+
+task suitability
+
+supervision
+
+physical capacity
+
+schedule
+
+and completion recognition.
+
+The rule is therefore stable only if:
+
+each branch has:
+
+defined normal operation
+
+defined exception operation
+
+defined privacy boundary
+
+and defined recovery.
+
+Restaurant #20 places:
+
+Participation Rule Consistency
+
+under:
+
+High promotion watch.
+
+The blocker remains:
+
+performed exception evidence.
+
+Stable Participation / Variable Product Comparison
+
+SAME Café publishes:
+
+a Menu of the Day.
+
+The food offer may vary.
+
+The contribution framework may remain:
+
+stable.
+
+This is strong support for:
+
+Stable Participation / Variable Product.
+
+However:
+
+the comparison must not reduce participation to:
+
+three labels.
+
+Stable participation requires consistency across:
+
+staff
+
+shifts
+
+menus
+
+tasks
+
+payment conditions
+
+produce criteria
+
+accommodations
+
+capacity failures
+
+and guest return.
+
+Published stability is not:
+
+performed stability.
+
+No confidence increase is justified.
+
+Multi-Intent Hospitality Comparison
+
+SAME Café serves multiple public intents:
+
+dining
+
+walk-in work-for-meal participation
+
+scheduled volunteering
+
+group volunteering
+
+community service
+
+training
+
+events
+
+catering
+
+donating
+
+and partnership.
+
+These intents should share:
+
+a coherent mission.
+
+They should not share:
+
+one undifferentiated arrival form.
+
+The arrival architecture must prevent:
+
+dining rules from being projected onto volunteers
+
+volunteer rules from being projected onto diners
+
+programme requirements from being projected onto public meal access
+
+event payment from defining weekday contribution
+
+and commercial pricing from redefining mission access.
+
+The correction is:
+
+One Mission
+≠
+One Arrival Contract
+
+Restaurant #20 strongly supports:
+
+Multi-Intent Hospitality.
+
+Performed interface evidence remains insufficient for:
+
+a confidence increase.
+
+Layered Arrival Comparison
+
+SAME Café does not require:
+
+high interface complexity
+
+to require:
+
+deep arrival architecture.
+
+The layers are distributed across:
+
+website
+
+Menu of the Day
+
+journey
+
+exterior
+
+threshold
+
+counter
+
+human welcome
+
+ordering
+
+contribution handoff
+
+task area
+
+dining area
+
+and future return.
+
+This supports:
+
+Layered Arrival.
+
+But the layers exist because:
+
+consequences differ.
+
+They should not be multiplied merely to narrate the mission.
+
+The comparative correction is:
+
+Arrival Depth
+≠
+Interface Depth
+
+No confidence change is justified.
+
+Contribution-State Privacy
+
+SAME Café introduces a sharper arrival privacy problem.
+
+The route may become visible through:
+
+where a person stands
+
+what they carry
+
+whether they handle money
+
+whether they enter a work area
+
+whether they wait for a task
+
+whether they wear work equipment
+
+and how staff speak to them.
+
+Visibility can support:
+
+participation proof.
+
+It can also enable:
+
+economic inference.
+
+The arrival architecture should separate:
+
+Contribution-State Recognition
+
+from:
+
+Contribution-State Exposure
+
+Operational staff may need to know:
+
+the selected route.
+
+Other guests do not necessarily need to know:
+
+why it was selected.
+
+Work-to-Guest Re-entry
+
+The walk-in volunteer route creates:
+
+a role-transition requirement.
+
+The person may move through:
+
+Guest
+→
+Worker
+→
+Guest
+
+If the transition back is weak,
+
+visible labour may become:
+
+a persistent status marker.
+
+Re-entry requires:
+
+clear completion
+
+clean physical transition
+
+equal service language
+
+equal food access
+
+no residual public classification
+
+and freedom to choose another route on a future visit.
+
+The correction is:
+
+Participation Role
+≠
+Permanent Guest Identity
+
+This remains:
+
+architecture.
+
+It is not a new pattern.
+
+Post–SAME Café Arrival Architecture Additions
+
+1. Explicit Contribution Menu
+
+Names time, money and produce as distinct routes.
+
+2. Contribution Orientation
+
+Explains the system without demanding personal justification.
+
+3. Contribution-State / Guest-Identity Separation
+
+Prevents route choice from defining the person.
+
+4. Contribution Equivalence as Rights
+
+Requires stable hospitality rights rather than identical resource value.
+
+5. Contribution-Route Capacity
+
+Treats each route as a capacity-bearing operation.
+
+6. No-Reservation Allocation
+
+Recognises that live allocation exists without a booking form.
+
+7. Suitable-Task Capacity
+
+Counts work as available only when safe, accessible and supervised.
+
+8. Work-for-Meal Handoff
+
+Connects ordering, assignment, work, completion and dining.
+
+9. Work-to-Guest Re-entry
+
+Restores guesthood after visible participation.
+
+10. Produce-Acceptance Recovery
+
+Separates contribution rejection from guest rejection.
+
+11. No-Available-Route Hospitality
+
+Preserves access when normal contribution routes cannot perform.
+
+12. Private Human Recovery
+
+Resolves exceptions without public worthiness assessment.
+
+13. Contribution-Neutral Service
+
+Keeps food, attention, seating and regard stable across routes.
+
+14. Route-Switching Freedom
+
+Allows a returning person to select a different route without explanation.
+
+15. Universal Promise / Finite Capacity Qualification
+
+Preserves ambition while explaining live limits.
+
+16. Event / Café Rule Separation
+
+Prevents event structures from redefining weekday dining.
+
+17. Commercial / Mission Route Separation
+
+Prevents catering prices from becoming public meal-price evidence.
+
+18. Role-Bounded Arrival Data
+
+Separates dining, volunteering, training, community service and donation records.
+
+19. Recovery Authority
+
+Identifies who may resolve a failed route.
+
+20. Guesthood Before Contribution
+
+Places human regard before contribution performance.
+
+All twenty remain:
+
+research architecture.
+
+None are entered into:
+
+the formal registry
+
+from this file.
+
+Post–SAME Café Arrival Corrections
+
+Correction 1
+
+Three Named Routes
+≠
+Three Available Routes
+
+Correction 2
+
+Contribution Choice
+≠
+Contribution Neutrality
+
+Correction 3
+
+Explicit Exchange
+≠
+Human Rank
+
+Correction 4
+
+Participation Supports Belonging
+≠
+Participation Earns Belonging
+
+Correction 5
+
+Contribution Failure
+≠
+Guest Failure
+
+Correction 6
+
+Half-Hour Work
+≠
+Half-Hour Journey
+
+Correction 7
+
+Task Available
+≠
+Task Accessible
+
+Correction 8
+
+Produce Offered
+≠
+Produce Accepted
+
+Correction 9
+
+Walk-In Access
+≠
+Guaranteed Meal
+
+Correction 10
+
+Seat Available
+≠
+Suitable Task Available
+
+Correction 11
+
+Same Food
+≠
+Same Experienced Burden
+
+Correction 12
+
+Visible Contribution
+≠
+Visible Economic Status
+
+Correction 13
+
+One Room
+≠
+Equal Guesthood
+
+Correction 14
+
+Contribution Route
+≠
+Guest Identity
+
+Correction 15
+
+One Mission
+≠
+One Arrival Contract
+
+Correction 16
+
+Published Rule
+≠
+Performed Recovery
+
+Post–SAME Café Candidate Pressure
+
+Layered Arrival — Candidate / Medium
+
+Support:
+
+arrival is distributed across digital, physical, human, contribution and role-transition layers.
+
+Blocker:
+
+performed coherence is unverified.
+
+Decision:
+
+retain Medium.
+
+Walk-In as First-Class Participation — Candidate / High
+
+Support:
+
+walk-in dining and half-hour work-for-meal participation are structurally important.
+
+Blocker:
+
+live meal, task and recovery capacity are unverified.
+
+Decision:
+
+retain High.
+
+Participation Throughout the Journey — Candidate / Medium
+
+Support:
+
+participation extends from interpretation to contribution, allocation, dining and future return.
+
+Blocker:
+
+journey consistency and refusal recovery are unverified.
+
+Decision:
+
+retain Medium.
+
+Manageable Commitment — Candidate / Medium
+
+Support:
+
+the half-hour unit creates specific planning information.
+
+Blocker:
+
+total time and unequal burden remain unresolved.
+
+Decision:
+
+retain Medium.
+
+Participation Rule Consistency — Candidate / Medium
+
+Support:
+
+time, money and produce form a coherent high-level rule.
+
+Blocker:
+
+route obligation, equivalence, accommodation and recovery remain unresolved.
+
+Decision:
+
+retain Medium.
+
+Human Assistance Where Structured Self-Service Is Insufficient — Candidate / Medium
+
+Support:
+
+human routing is essential to contribution choice and exception handling.
+
+Blocker:
+
+authority, privacy, bias and consistency are unverified.
+
+Decision:
+
+retain Medium.
+
+Capacity Proof — Candidate / Medium-High
+
+Support:
+
+Restaurant #20 makes at least nine capacity objects visible for evaluation.
+
+Blocker:
+
+current public evidence does not prove live performance.
+
+Decision:
+
+retain Medium-High.
+
+Stable Participation / Variable Product — Candidate / Medium-High
+
+Support:
+
+the Menu of the Day changes while the public contribution framework remains stable.
+
+Blocker:
+
+exception consistency across days and staff is unverified.
+
+Decision:
+
+retain Medium-High.
+
+Multi-Intent Hospitality — Candidate / Medium
+
+Support:
+
+the organisation contains many distinct arrival intents.
+
+Blocker:
+
+live route separation is unverified.
+
+Decision:
+
+retain Medium.
+
+Atmosphere Through Consistency — Candidate / Medium
+
+Support:
+
+arrival consistency is necessary for the stated atmosphere of belonging.
+
+Blocker:
+
+guest experience is unverified.
+
+Decision:
+
+retain Medium.
+
+Narrative Language Within Clear Interface — Candidate / High
+
+Support:
+
+So All May Eat and time / money / produce create strong organising language.
+
+Blocker:
+
+exception language remains incomplete.
+
+Decision:
+
+retain High.
+
+Hospitality System Proof — Candidate / High
+
+Support:
+
+the social claim depends on operational proof across contribution routes.
+
+Blocker:
+
+performed service and outcome evidence remain absent.
+
+Decision:
+
+retain High.
+
+Formal arrival decision:
+
+Candidate promotions: 0
+Candidate demotions: 0
+Candidate confidence increases: 0
+Candidate confidence decreases: 0
+
+Post–SAME Café Emerging Pressure
+
+Commitment Without Pressure
+
+Pressure:
+
+high.
+
+Reason:
+
+explicit exchange improves clarity while potentially increasing moral, time and social pressure.
+
+Decision:
+
+remain Emerging.
+
+The Guest as Participant
+
+Pressure:
+
+high.
+
+Reason:
+
+participation is literal but may become a condition of guesthood.
+
+Decision:
+
+remain Emerging.
+
+Promise Before Proof
+
+Pressure:
+
+medium.
+
+Reason:
+
+the universal promise requires capacity and recovery evidence.
+
+Decision:
+
+remain Emerging.
+
+Escalating Participation Complexity
+
+Pressure:
+
+medium.
+
+Reason:
+
+the system branches across routes rather than necessarily escalating.
+
+Decision:
+
+remain Emerging.
+
+Emotion Before Interface
+
+Pressure:
+
+medium.
+
+Reason:
+
+mission emotion cannot displace consequence clarity.
+
+Decision:
+
+remain Emerging.
+
+Atmosphere as Product
+
+Pressure:
+
+low within arrival.
+
+Reason:
+
+belonging is an intended outcome, not an arrival fact.
+
+Decision:
+
+remain Emerging.
+
+Formal arrival decision:
+
+Emerging promotions: 0
+Emerging demotions: 0
+Emerging renames: 0
+
+Post–SAME Café Falsification Programme
+
+Public Information
+
+Verify the current address and public entrance.
+
+Verify service days across multiple current weeks.
+
+Verify daily service hours.
+
+Verify closure communication.
+
+Compare dated Menu of the Day posts with live availability.
+
+Determine whether ordinary dining ever requires advance registration.
+
+Walk-In Allocation
+
+Determine the live queue method.
+
+Determine whether capacity can be checked before travel.
+
+Determine the late-arrival cutoff.
+
+Determine the sell-out response.
+
+Determine whether contribution route affects queue priority.
+
+Determine whether contribution route affects seating.
+
+Contribution Obligation
+
+Determine whether every guest must select a route.
+
+Identify the no-contribution case, if one exists.
+
+Determine whether a guest must explain why no route is available.
+
+Determine whether that conversation can remain private.
+
+Compare first-time and returning-guest explanations.
+
+Test whether staff language creates pressure.
+
+Money Route
+
+Determine whether a suggested amount exists.
+
+Determine accepted payment methods.
+
+Observe payment privacy.
+
+Determine whether amount affects service.
+
+Produce Route
+
+Determine accepted produce categories.
+
+Determine quantity expectations.
+
+Determine food-safety criteria.
+
+Observe rejection language.
+
+Determine whether another route is offered privately.
+
+Determine whether rejected produce affects meal access.
+
+Time Route
+
+Verify the half-hour work unit in live operation.
+
+Measure total commitment beyond the work unit.
+
+Determine whether work occurs before or after dining.
+
+Determine task-assignment logic.
+
+Determine what happens when no task exists.
+
+Determine what happens when no suitable task exists.
+
+Determine whether an accessible alternative can be requested privately.
+
+Observe completion recognition.
+
+Observe the transition back to guesthood.
+
+Equality and Service
+
+Compare food across contribution routes.
+
+Compare portion across contribution routes.
+
+Compare service language across contribution routes.
+
+Compare seating treatment across contribution routes.
+
+Compare wait time across contribution routes.
+
+Test whether returning guests may switch routes freely.
+
+Test whether staff retain prior contribution identity.
+
+Accessibility
+
+Verify step-free entry.
+
+Verify circulation and seating access.
+
+Verify restroom access.
+
+Determine sensory-access support.
+
+Determine language-support availability.
+
+Determine task accommodation procedures.
+
+Human Recovery
+
+Identify who has exception authority.
+
+Observe escalation when a route fails.
+
+Compare recovery across staff and shifts.
+
+Determine whether complaints can remain private.
+
+Measure accepted and refused recovery requests.
+
+Data and Privacy
+
+Inventory data collected by each route.
+
+Determine whether contribution state is attached to identity.
+
+Separate dining, volunteer, programme and donor data.
+
+Verify retention and deletion conditions.
+
+Test whether photography exposes contribution state.
+
+Evidence required:
+
+current first-party procedure
+
+field observation
+
+staff interview
+
+guest interview
+
+accessibility review
+
+privacy review
+
+capacity data
+
+failure records
+
+and repeated-shift comparison.
+
+Official pages alone cannot close:
+
+the programme.
+
+Post–SAME Café Comparative Decisions
+
+Add SAME Café Denver as the twentieth independent arrival comparison case.
+
+Preserve the complete Post–JBJ arrival record as historical context.
+
+Classify SAME Café as an explicit contribution-exchange case.
+
+Keep it distinct from Refettorio Felix's partner-routed non-commercial access.
+
+Keep it distinct from JBJ Soul Kitchen's flexible suggested-contribution model.
+
+Treat time, money and produce as separate operating routes.
+
+Do not treat three named routes as three available routes.
+
+Treat contribution orientation as necessary arrival information.
+
+Do not treat personal economic disclosure as necessary arrival information.
+
+Treat the half-hour unit as published work time.
+
+Do not treat the half-hour unit as total commitment.
+
+Treat walk-in access as a principal route.
+
+Do not treat walk-in access as guaranteed capacity.
+
+Treat no-reservation dining as live allocation.
+
+Treat meal, seat, task and suitable-task capacity as different objects.
+
+Treat human assistance as primary routing infrastructure.
+
+Do not treat human discretion as proof of consistent recovery.
+
+Treat the no-available-route case as the strongest equality test.
+
+Treat produce rejection as a hospitality-recovery event.
+
+Treat task unsuitability as distinct from unwillingness.
+
+Treat contribution-state privacy as an arrival-quality requirement.
+
+Treat visible participation as a status-exposure risk.
+
+Treat ordering-before-work as a potentially important guesthood sequence.
+
+Do not infer the full performed sequence from public instructions.
+
+Treat work-to-guest re-entry as necessary architecture.
+
+Preserve freedom to change route on a future visit.
+
+Separate ordinary dining from scheduled volunteering.
+
+Separate community service from ordinary volunteering.
+
+Separate Cook to Work from meal exchange.
+
+Separate event arrival from weekday café arrival.
+
+Separate commercial catering from mission dining.
+
+Retain Layered Arrival at Candidate / Medium.
+
+Retain Walk-In as First-Class Participation at Candidate / High.
+
+Retain Manageable Commitment at Candidate / Medium.
+
+Retain Participation Rule Consistency at Candidate / Medium.
+
+Retain Human Assistance Where Structured Self-Service Is Insufficient at Candidate / Medium.
+
+Retain Capacity Proof at Candidate / Medium-High.
+
+Retain Stable Participation / Variable Product at Candidate / Medium-High.
+
+Retain Multi-Intent Hospitality at Candidate / Medium.
+
+Make no maturity or confidence change from the arrival comparison.
+
+Post–SAME Café Arrival Comparison Conclusion
+
+Across twenty independent cases,
+
+arrival is now best understood as:
+
+the controlled transfer from:
+
+public promise
+
+to:
+
+an appropriate,
+
+performable,
+
+and dignified hospitality state.
+
+Restaurant #20 adds a severe test because:
+
+the person must understand an explicit exchange
+
+without becoming reducible to:
+
+their exchange route.
+
+SAME Café provides strong published support for:
+
+walk-in participation
+
+contribution choice
+
+a clear time unit
+
+variable menu / stable framework
+
+multi-intent hospitality
+
+human routing
+
+and mission-system coherence.
+
+It does not establish:
+
+equal route availability
+
+equal burden
+
+contribution neutrality
+
+task suitability
+
+route-switching freedom
+
+contribution privacy
+
+stable exception handling
+
+or equal guesthood after route failure.
+
+The strongest Restaurant #20 arrival correction is:
+
+Contribution Orientation
+≠
+Contribution Disclosure
+
+The strongest capacity correction is:
+
+Seat Available
+≠
+Suitable Task Available
+
+The strongest equality correction is:
+
+Contribution Failure
+≠
+Guest Failure
+
+The strongest system requirement is:
+
+The system should explain contribution
+
+without requiring the guest
+
+to explain themselves.
+
+The strongest unresolved arrival test is:
+
+If a person cannot contribute
+money,
+time
+or produce
+at the moment of arrival,
+
+does guesthood remain intact?
+
+Until performed evidence resolves that test:
+
+no Candidate is promoted
+
+no Candidate confidence changes
+
+no Emerging direction is promoted
+
+no pattern is validated
+
+and no research-derived Principle is created.
+
+Evidence wins.
+
+Validation — Post Restaurant #20 Arrival Comparison
+
+Comparison File:
+
+khds/research/comparison/arrival.md
+
+Status:
+
+Post–SAME Café Denver Complete
+
+Independent Restaurants Represented:
+
+20
+
+Canonical Completed Independent Restaurants:
+
+19
+
+Latest Case:
+
+SAME Café Denver
+
+Primary Governance Watch:
+
+Participation Rule Consistency
+
+Secondary Governance Watch:
+
+Stable Participation / Variable Product
+
+Strongest New Arrival Variable:
+
+Explicit Contribution-Route Orchestration
+
+Strongest New Capacity Variable:
+
+Suitable-Task Capacity
+
+Strongest New Privacy Variable:
+
+Contribution-State / Guest-Identity Separation
+
+Strongest New Recovery Variable:
+
+No-Available-Route Hospitality
+
+Strongest New Arrival Boundary:
+
+Contribution Orientation
+
+≠
+
+Contribution Disclosure
+
+Strongest New Equality Boundary:
+
+Contribution Failure
+
+≠
+
+Guest Failure
+
+Formal Promotions:
+
+0
+
+Formal Demotions:
+
+0
+
+Confidence Changes:
+
+0
+
+Governance Changes:
+
+0
+
+Canonical Candidate Count:
+
+26
+
+Canonical Candidate / High:
+
+9
+
+Canonical Candidate / Medium-High:
+
+8
+
+Canonical Candidate / Medium:
+
+9
+
+Canonical Emerging Count:
+
+8
+
+Canonical Partially Supported Count:
+
+1
+
+Canonical Validated Count:
+
+0
+
+Research-Derived KHDS Principles:
+
+0
+
+Restaurant #20 Status:
+
+Arrival Comparison Complete / Remaining Dimension Comparisons Pending
 
 Next Comparison File:
 

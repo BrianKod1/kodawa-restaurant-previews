@@ -2,15 +2,15 @@ KHDS Validation Dashboard
 
 Status
 
-Post–JBJ Soul Kitchen, Red Bank Governance Mirror
+Post–SAME Café Denver Governance Mirror
 
 Latest Research Cycle:
 
-Restaurant #19 — JBJ Soul Kitchen, Red Bank
+Restaurant #20 — SAME Café Denver
 
 Independent Restaurants:
 
-19
+20
 
 Track B Validation Cases:
 
@@ -2374,4 +2374,576 @@ Requirement to Volunteer
 
 The threshold remains intact.
 
-Evidence wins
+Evidence wins.
+
+Post–SAME Café Denver Dashboard Reconciliation
+
+Latest Research Cycle
+
+Restaurant #20 — SAME Café Denver
+
+Research Role
+
+Explicit Contribution Exchange and Equality Boundary Case
+
+Canonical Governance Decision
+
+No Change
+
+Current Research State — Post Restaurant #20
+
+Measure
+
+Current State
+
+Independent Restaurants
+
+20
+
+Track B Validation Cases
+
+1
+
+Candidate Patterns
+
+26
+
+Candidate / High
+
+9
+
+Candidate / Medium-High
+
+8
+
+Candidate / Medium
+
+9
+
+Emerging Patterns
+
+8
+
+Partially Supported Patterns
+
+1
+
+Validated Patterns
+
+0
+
+Research-Derived KHDS Principles
+
+0
+
+Existing Implementation Patterns Pending Formal Validation
+
+1
+
+Opportunity Themes
+
+36
+
+Track B Implementation Learnings
+
+17
+
+Highest Research-Derived Maturity
+
+Candidate
+
+Restaurant #20 Governance Movement
+
+Formal Candidate Promotions
+
+0
+
+Candidate Demotions
+
+0
+
+Confidence Increases
+
+0
+
+Confidence Decreases
+
+0
+
+Renames
+
+0
+
+Merges
+
+0
+
+Emerging Promotions
+
+0
+
+Validated Promotions
+
+0
+
+Research-Derived Principle Promotions
+
+0
+
+Canonical Count Movement
+
+Independent restaurants:
+
+19 + 1 = 20
+
+All pattern-state counts remain unchanged.
+
+Candidate Confidence Distribution — Post Restaurant #20
+
+High
+
+9
+
+Medium-High
+
+8
+
+Medium
+
+9
+
+Total
+
+26
+
+Arithmetic
+
+9 + 8 + 9 = 26
+
+Candidate Dashboard — Post Restaurant #20
+
+Candidate / High — 9
+
+Atmosphere Through Worldview
+
+Show the System Behind the Plate
+
+Biography When It Explains the Experience
+
+Narrative Language Within Clear Interface
+
+Walk-In as First-Class Participation
+
+Story Through Hospitality Model
+
+Hospitality System Proof
+
+Story Through Place
+
+Narrative Coherence Through Organising Logic
+
+Candidate / Medium-High — 8
+
+Heritage Builds Confidence
+
+Atmosphere Through Continuity
+
+Photography as Use-Case Evidence
+
+Photography as Proof
+
+Capacity Proof
+
+Photography Should Demonstrate Difference
+
+Adaptation as Narrative
+
+Stable Participation / Variable Product
+
+Candidate / Medium — 9
+
+Designed Escape
+
+Manageable Commitment
+
+Participation Rule Consistency
+
+Layered Arrival
+
+Atmosphere Through Consistency
+
+Photography Through Layers of Experience
+
+Participation Throughout the Journey
+
+Human Assistance Where Structured Self-Service Is Insufficient
+
+Multi-Intent Hospitality
+
+Emerging Dashboard — Post Restaurant #20
+
+Emotion Before Interface
+
+Story Before Features
+
+Photography Before Decoration
+
+Commitment Without Pressure
+
+Promise Before Proof
+
+The Guest as Participant
+
+Atmosphere as Product
+
+Escalating Participation Complexity
+
+Restaurant #20 Emerging Promotions
+
+0
+
+Other Research States — Post Restaurant #20
+
+Partially Supported
+
+Own the Guest Relationship — Medium
+
+Validated
+
+0
+
+Research-Derived KHDS Principles
+
+0
+
+Existing Implementation Pattern Pending Formal Validation
+
+Invitation
+
+Restaurant #20 Evidence Contribution
+
+Strongest Architecture Family
+
+Reciprocal Hospitality With Explicit Terms
+
+Architecture Extension
+
+Reciprocal Hospitality Without Rank
+
+
+
+Explicit Terms
+
+
+
+Route-Specific Capacity
+
+
+
+Failed-Route Recovery
+
+Strongest Arrival Boundary
+
+Contribution Orientation
+
+≠
+
+Contribution Disclosure
+
+Strongest Atmosphere Boundary
+
+Visible Participation
+
+≠
+
+Visible Human Worth
+
+Strongest Photography Boundary
+
+Visible Contribution
+
+≠
+
+Visible Economic Status
+
+Strongest Reservation Boundary
+
+No Dining Reservation
+
+≠
+
+No Participation Structure
+
+Strongest Story Boundary
+
+Mission Coherence
+
+≠
+
+Mission Completion
+
+Strongest Governance Boundary
+
+Multiple contribution routes are not access
+
+unless failed routes have a dignified recovery.
+
+Why No Candidate Promotion Occurred — Restaurant #20
+
+Restaurant #20 adds:
+
+strong published mechanism evidence,
+
+independent comparison,
+
+precise failure-state architecture,
+
+cross-dimensional support
+
+and:
+
+clear ethical boundaries.
+
+It does not resolve:
+
+performed contribution neutrality,
+
+failed-route recovery,
+
+suitable-task access,
+
+live capacity,
+
+human-assistance consistency,
+
+contribution-state privacy,
+
+guest experience,
+
+outcome
+
+or:
+
+causality.
+
+Strong Architecture
+
+≠
+
+Automatic Candidate
+
+Why No Confidence Change Occurred — Restaurant #20
+
+Restaurant #20 provides additional support for multiple Candidates.
+
+It does not resolve the uncertainty limiting their present confidence.
+
+Evidence Density
+
+≠
+
+Confidence Increase
+
+Why No Validated Promotion Occurred — Restaurant #20
+
+Restaurant #20 does not supply:
+
+repeated observed implementation,
+
+independent guest evidence,
+
+audited allocation,
+
+longitudinal consistency,
+
+failure-state survival
+
+or:
+
+verified outcomes.
+
+Published Mechanism
+
+≠
+
+Validated Performance
+
+Why No Research-Derived Principle Promotion Occurred — Restaurant #20
+
+Reciprocal Hospitality With Explicit Terms remains under-tested across:
+
+different cultures,
+
+different reciprocity norms,
+
+high-demand scarcity,
+
+private or deferred contribution,
+
+systems without volunteer labour
+
+and:
+
+countercases where route difference creates rank.
+
+Ethical Strength
+
+≠
+
+Universal KHDS Principle
+
+Count Reconciliation — Restaurant #20
+
+Candidate
+
+26 + 0 = 26
+
+Emerging
+
+8 - 0 = 8
+
+Partially Supported
+
+1
+
+Validated
+
+0
+
+Research-Derived KHDS Principles
+
+0
+
+Independent Restaurants
+
+19 + 1 = 20
+
+Current Validation Priorities — Post–SAME Café Denver
+
+Failed contribution-route recovery
+
+Contribution-neutral service across time, money and produce
+
+Suitable-task capacity and accessibility
+
+Produce-rejection recovery
+
+No-route access without worthiness assessment
+
+Walk-in meal, seat and task capacity
+
+Pressure created by explicit exchange
+
+Contribution-state privacy
+
+Work-to-guest re-entry
+
+Route-switching freedom
+
+Optional sociality
+
+Human-assistance failure and bias
+
+Contribution-state-blind photography
+
+Consent persistence
+
+Activity / experience / outcome / causality separation
+
+Universal promise / finite capacity qualification
+
+Role-bounded data
+
+Cross-cultural reciprocity countercases
+
+Mirror Status — Post Restaurant #20
+
+Governance File
+
+Status
+
+khds/research/validation/candidate-patterns.md
+
+Canonical / Complete
+
+khds/patterns/registry.md
+
+Reconciled / Complete
+
+khds/research/validation/dashboard.md
+
+Reconciled / Complete
+
+khds/research/README.md
+
+Pending
+
+khds/research/validation/README.md
+
+Pending
+
+Next Step — Post Restaurant #20
+
+Reconcile:
+
+khds/research/README.md
+
+then:
+
+khds/research/validation/README.md
+
+Do not change:
+
+Candidate count: 26
+
+Emerging count: 8
+
+Partially Supported count: 1
+
+Validated count: 0
+
+Research-Derived KHDS Principle count: 0
+
+unless new independent research or formal canonical governance review justifies a maturity change.
+
+Final Dashboard Position — Post Restaurant #20
+
+Post–SAME Café Denver governance is reconciled.
+
+KHDS currently contains:
+
+20 independent restaurants
+
+26 Candidate patterns
+
+8 Emerging patterns
+
+1 Partially Supported pattern
+
+0 Validated patterns
+
+0 Research-Derived KHDS Principles.
+
+Restaurant #20 produced:
+
+no Candidate promotions,
+
+no confidence changes,
+
+the Reciprocal Hospitality With Explicit Terms architecture family,
+
+a stronger boundary between contribution orientation and disclosure,
+
+a stronger boundary between visible contribution and economic status,
+
+a stronger boundary between no reservation and participation allocation,
+
+a stronger boundary between mission coherence and mission completion,
+
+and:
+
+no Validated or Principle promotion.
+
+The threshold remains intact.
+
+Evidence wins.

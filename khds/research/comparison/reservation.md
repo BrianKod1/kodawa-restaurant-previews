@@ -1,12 +1,12 @@
-KHDS Cross-Restaurant Comparison — Reservation / Participation
+# KHDS Cross-Restaurant Comparison — Reservation / Participation
 
-Status
+## Status
 
-Post–JBJ Soul Kitchen, Red Bank Comparison
+Post–SAME Café Denver Comparison
 
 Restaurants Compared:
 
-19
+20
 
 Track:
 
@@ -14,7 +14,7 @@ Track A — Independent Hospitality Research
 
 Latest Added Case:
 
-JBJ Soul Kitchen — Red Bank, New Jersey
+SAME Café — Denver, Colorado
 
 Comparison Status:
 
@@ -82,7 +82,7 @@ belong:
 
 to:
 
-khds/research/validation/candidate-patterns.md
+`khds/research/validation/candidate-patterns.md`
 
 after:
 
@@ -90,7 +90,7 @@ all:
 
 five:
 
-post–Restaurant #19:
+post–Restaurant #20:
 
 comparison files
 
@@ -98,11 +98,13 @@ are:
 
 complete.
 
-Purpose
+---
+
+# Purpose
 
 Reservation / Participation research asks:
 
-How does the guest enter, commit to, manage, prepare for, and move through the hospitality experience?
+> **How does the guest enter, commit to, manage, prepare for, and move through the hospitality experience?**
 
 KHDS does not:
 
@@ -124,35 +126,21 @@ participate:
 
 through:
 
-reservation
-
-walk-in
-
-queue
-
-waiting
-
-ordering
-
-customization
-
-preparation
-
-travel
-
-arrival
-
-self-service
-
-service interaction
-
-dietary communication
-
-add-ons
-
-completion
-
-post-visit continuation
+- reservation
+- walk-in
+- queue
+- waiting
+- ordering
+- customization
+- preparation
+- travel
+- arrival
+- self-service
+- service interaction
+- dietary communication
+- add-ons
+- completion
+- post-visit continuation
 
 Different:
 
@@ -168,47 +156,35 @@ participation:
 
 architectures.
 
-Restaurants Included
+---
 
-Ankole
+# Restaurants Included
 
-Cultiva
+1. Ankole
+2. Cultiva
+3. Talisman
+4. Mawimbi
+5. Bistro Lolo
+6. FYN
+7. Dishoom Covent Garden
+8. Franklin Barbecue
+9. Alinea
+10. NARISAWA
+11. Haidilao Toronto Downtown
+12. ICHIRAN Shibuya
+13. Din Tai Fung Covent Garden
+14. Noma Copenhagen 2026
+15. Restaurant Pearl Morissette
+16. Dans le Noir? London
+17. Avatar Robot Café DAWN, Tokyo
 
-Talisman
+18. Refettorio Felix, London
 
-Mawimbi
+19. JBJ Soul Kitchen, Red Bank
 
-Bistro Lolo
+---
 
-FYN
-
-Dishoom Covent Garden
-
-Franklin Barbecue
-
-Alinea
-
-NARISAWA
-
-Haidilao Toronto Downtown
-
-ICHIRAN Shibuya
-
-Din Tai Fung Covent Garden
-
-Noma Copenhagen 2026
-
-Restaurant Pearl Morissette
-
-Dans le Noir? London
-
-Avatar Robot Café DAWN, Tokyo
-
-Refettorio Felix, London
-
-JBJ Soul Kitchen, Red Bank
-
-Current Participation Thesis
+# Current Participation Thesis
 
 The strongest:
 
@@ -216,7 +192,7 @@ cross-restaurant:
 
 finding remains:
 
-Participation is a state system, not a booking button.
+> **Participation is a state system, not a booking button.**
 
 A:
 
@@ -268,18 +244,25 @@ states.
 
 Therefore:
 
+```text
 Participation
 ≠
 Reservation
+```
 
 and:
 
+```text
 Reservation Complete
 ≠
 Hospitality Participation Complete
+```
 
-Post–Pearl Morissette Participation Architecture
+---
 
+# Post–Pearl Morissette Participation Architecture
+
+```text
 Guest Intent
 ↓
 Relevant Participation Route
@@ -308,6 +291,7 @@ Service / Self-Service / Interaction
 Completion
 ↓
 Relationship Continuation where relevant
+```
 
 Different:
 
@@ -325,7 +309,9 @@ this:
 
 architecture.
 
-Major Post–Pearl Morissette Refinement
+---
+
+# Major Post–Pearl Morissette Refinement
 
 Restaurant #15 adds:
 
@@ -337,15 +323,23 @@ participation:
 
 ideas:
 
+```text
 Visit Preparation
+```
 
+```text
 Pre-Arrival Clarity
+```
 
+```text
 Guest Preparation Load
+```
 
 and:
 
+```text
 Digital-to-Physical Participation Handoff
+```
 
 It also:
 
@@ -359,336 +353,352 @@ difference:
 
 between:
 
+```text
 Product Variability
+```
 
 and:
 
+```text
 Participation Variability
+```
 
-Comparison 1 — Participation Routes Differ Materially
+---
 
-Ankole
+# Comparison 1 — Participation Routes Differ Materially
+
+---
+
+## Ankole
 
 Participation pressure:
 
-reservations
-
-direct contact
-
-standard dining access
+- reservations
+- direct contact
+- standard dining access
 
 Primary question:
 
+```text
 How simply can the guest
 enter the experience?
+```
 
-Cultiva
+---
+
+## Cultiva
 
 Participation pressure:
 
-booking
-
-product familiarity
-
-culinary fit
+- booking
+- product familiarity
+- culinary fit
 
 Primary question:
 
+```text
 How much commitment
 does the guest need
 before experiencing the concept?
+```
 
-Talisman
+---
+
+## Talisman
 
 Participation pressure:
 
-established reservation journey
-
-conventional access
-
-continuity
+- established reservation journey
+- conventional access
+- continuity
 
 Primary question:
 
+```text
 Does a mature hospitality model
 need complex participation architecture?
+```
 
-Mawimbi
+---
+
+## Mawimbi
 
 Participation pressure:
 
-destination booking
-
-occasion-led participation
-
-experience commitment
+- destination booking
+- occasion-led participation
+- experience commitment
 
 Primary question:
 
+```text
 How does a high-atmosphere
 destination structure access?
+```
 
-Bistro Lolo
+---
+
+## Bistro Lolo
 
 Participation pressure:
 
-neighbourhood use
-
-casual access
-
-flexible social participation
+- neighbourhood use
+- casual access
+- flexible social participation
 
 Primary question:
 
+```text
 How much structure
 is necessary for a lower-friction
 hospitality experience?
+```
 
-FYN
+---
+
+## FYN
 
 Participation pressure:
 
-reservation
-
-high commitment
-
-compatibility
-
-experience expectation
+- reservation
+- high commitment
+- compatibility
+- experience expectation
 
 Primary question:
 
+```text
 How much clarity is needed
 before a high-consequence
 reservation?
+```
 
-Dishoom Covent Garden
+---
+
+## Dishoom Covent Garden
 
 Participation pressure:
 
-reservations
-
-walk-ins
-
-waiting
-
-multiple guest intents
+- reservations
+- walk-ins
+- waiting
+- multiple guest intents
 
 Primary question:
 
+```text
 Can walk-in and reservation
 remain equally legitimate routes?
+```
 
-Franklin Barbecue
+---
+
+## Franklin Barbecue
 
 Participation pressure:
 
-queue
-
-waiting
-
-product scarcity
-
-operational access
+- queue
+- waiting
+- product scarcity
+- operational access
 
 Primary question:
 
+```text
 Can queueing itself become
 a first-class participation route?
+```
 
-Alinea
+---
+
+## Alinea
 
 Participation pressure:
 
-high commitment
-
-controlled reservation
-
-limited reveal
-
-consequence
+- high commitment
+- controlled reservation
+- limited reveal
+- consequence
 
 Primary question:
 
+```text
 How much agency remains
 after a high-commitment reservation?
+```
 
-NARISAWA
+---
+
+## NARISAWA
 
 Participation pressure:
 
-reservation
-
-compatibility
-
-high-commitment dining
+- reservation
+- compatibility
+- high-commitment dining
 
 Primary question:
 
+```text
 How should compatibility
 and expectation
 be managed before arrival?
+```
 
-Haidilao Toronto Downtown
+---
+
+## Haidilao Toronto Downtown
 
 Participation pressure:
 
-reservation
-
-waiting
-
-social service
-
-customization
-
-human assistance
+- reservation
+- waiting
+- social service
+- customization
+- human assistance
 
 Primary question:
 
+```text
 How much hospitality
 can occur before the table?
+```
 
-ICHIRAN Shibuya
+---
+
+## ICHIRAN Shibuya
 
 Participation pressure:
 
-self-seating
-
-structured ordering
-
-privacy
-
-customization
-
-reduced interaction
-
-refill system
+- self-seating
+- structured ordering
+- privacy
+- customization
+- reduced interaction
+- refill system
 
 Primary question:
 
+```text
 Can deeply structured self-service
 increase guest agency
 while reducing social interaction?
+```
 
-Din Tai Fung Covent Garden
+---
+
+## Din Tai Fung Covent Garden
 
 Participation pressure:
 
-reservations
-
-walk-ins
-
-multiple offers
-
-standardization
-
-participation consistency
+- reservations
+- walk-ins
+- multiple offers
+- standardization
+- participation consistency
 
 Primary question:
 
+```text
 Can multiple routes
 remain operationally clear
 inside a standardized system?
+```
 
-Noma Copenhagen 2026
+---
+
+## Noma Copenhagen 2026
 
 Participation pressure:
 
-access windows
-
-future states
-
-commitment
-
-time
-
-rules
-
-post-commitment agency
+- access windows
+- future states
+- commitment
+- time
+- rules
+- post-commitment agency
 
 Primary question:
 
+```text
 How should participation
 remain clear when future outcomes
 and access states change over time?
+```
 
-Restaurant Pearl Morissette
+---
+
+## Restaurant Pearl Morissette
 
 Participation pressure:
 
-reservation
-
-destination travel
-
-visit preparation
-
-compatibility
-
-private dining
-
-conditional add-ons
-
-physical arrival
+- reservation
+- destination travel
+- visit preparation
+- compatibility
+- private dining
+- conditional add-ons
+- physical arrival
 
 Primary question:
 
+```text
 What happens after booking
 but before the guest
 physically reaches the restaurant?
+```
 
-Dans le Noir? London
+---
+
+## Dans le Noir? London
 
 Participation pressure:
 
-informed commitment under product uncertainty
-
-real-time availability
-
-date, time and party-size dependency
-
-menu-structure allocation without dish disclosure
-
-named dietary consequence mapping
-
-shared-table commitment
-
-belongings surrender
-
-guide dependence
-
-access and mobility disclosure
-
-proxy responsibility for other guests
-
-human escalation
-
-arrival reconfirmation
-
-post-experience reveal
+- informed commitment under product uncertainty
+- real-time availability
+- date, time and party-size dependency
+- menu-structure allocation without dish disclosure
+- named dietary consequence mapping
+- shared-table commitment
+- belongings surrender
+- guide dependence
+- access and mobility disclosure
+- proxy responsibility for other guests
+- human escalation
+- arrival reconfirmation
+- post-experience reveal
 
 Primary question:
 
+```text
 How should a restaurant secure informed commitment
 when the product must remain surprising
 but the participation consequences must be explicit?
+```
 
 Primary mechanism:
 
+```text
 Consequence Clarity
 +
 Outcome Uncertainty
+```
 
 Strongest boundary:
 
+```text
 Reservation
 ≠
 Participation Completion
+```
 
 Restaurant #16 treats booking as the first formal transfer of information, responsibility, and trust.
 
 The digital reservation does not complete participation. It initiates a sequence that continues through reconfirmation, belongings surrender, guide handoff, dark-room conduct, dietary reminders, and post-experience reveal.
 
-Comparison 2 — Participation Is State-Based
+---
+
+# Comparison 2 — Participation Is State-Based
 
 The:
 
@@ -710,6 +720,7 @@ Potential:
 
 states include:
 
+```text
 Interested
 ↓
 Eligible / Compatible
@@ -735,6 +746,7 @@ Participating
 Completed
 ↓
 Continuing Relationship
+```
 
 Not every:
 
@@ -746,11 +758,15 @@ every:
 
 state.
 
-Correction
+---
 
+# Correction
+
+```text
 Participation State
 ≠
 Page or Screen
+```
 
 A:
 
@@ -778,7 +794,9 @@ the:
 
 interface.
 
-Comparison 3 — Participation Throughout the Journey Has Very Broad Support
+---
+
+# Comparison 3 — Participation Throughout the Journey Has Very Broad Support
 
 Current Status:
 
@@ -788,19 +806,13 @@ Strong:
 
 cases include:
 
-Dishoom
-
-Franklin
-
-Haidilao
-
-ICHIRAN
-
-Din Tai Fung
-
-Noma
-
-Pearl Morissette
+- Dishoom
+- Franklin
+- Haidilao
+- ICHIRAN
+- Din Tai Fung
+- Noma
+- Pearl Morissette
 
 Different:
 
@@ -814,7 +826,7 @@ participation:
 
 stages.
 
-Dishoom
+### Dishoom
 
 Reservation
 
@@ -822,7 +834,7 @@ walk-in
 
 waiting.
 
-Franklin
+### Franklin
 
 Queue
 
@@ -830,7 +842,7 @@ scarcity
 
 access.
 
-Haidilao
+### Haidilao
 
 Waiting
 
@@ -840,7 +852,7 @@ social:
 
 participation.
 
-ICHIRAN
+### ICHIRAN
 
 Self-service
 
@@ -850,7 +862,7 @@ seat
 
 refill.
 
-Din Tai Fung
+### Din Tai Fung
 
 Reservation
 
@@ -862,7 +874,7 @@ participation:
 
 routes.
 
-Noma
+### Noma
 
 Access windows
 
@@ -872,7 +884,7 @@ post-booking:
 
 states.
 
-Pearl Morissette
+### Pearl Morissette
 
 Visit Preparation
 
@@ -882,15 +894,19 @@ physical:
 
 handoff.
 
-Refined Definition — Participation Throughout the Journey
+---
 
-Hospitality participation may begin before physical arrival, continue through operational guest states, and extend beyond the core transaction when those states materially affect the guest's ability to take part.
+# Refined Definition — Participation Throughout the Journey
 
-Core Boundary
+> **Hospitality participation may begin before physical arrival, continue through operational guest states, and extend beyond the core transaction when those states materially affect the guest's ability to take part.**
 
+## Core Boundary
+
+```text
 Participation Throughout the Journey
 ≠
 Everything the Guest Does
+```
 
 The:
 
@@ -908,7 +924,9 @@ hospitality:
 
 participation.
 
-Participation Throughout the Journey Governance Pressure
+---
+
+# Participation Throughout the Journey Governance Pressure
 
 Entering Status:
 
@@ -954,7 +972,9 @@ Formal decision:
 
 deferred.
 
-Comparison 4 — Pearl Morissette Adds Visit Preparation
+---
+
+# Comparison 4 — Pearl Morissette Adds Visit Preparation
 
 Restaurant #15:
 
@@ -976,31 +996,24 @@ pre-arrival:
 
 state.
 
-Definition
+## Definition
 
-Visit Preparation is a post-commitment participation state in which the guest prepares material logistical, dietary, temporal, or social conditions required to complete a secured hospitality visit.
+> **Visit Preparation is a post-commitment participation state in which the guest prepares material logistical, dietary, temporal, or social conditions required to complete a secured hospitality visit.**
 
 Potential:
 
 actions:
 
-route planning
+- route planning
+- transport
+- parking
+- timing
+- overnight stay
+- dietary communication
+- party coordination
+- optional experience planning
 
-transport
-
-parking
-
-timing
-
-overnight stay
-
-dietary communication
-
-party coordination
-
-optional experience planning
-
-Status
+## Status
 
 Participation State
 
@@ -1008,7 +1021,9 @@ Potential Home:
 
 Participation Throughout the Journey.
 
-Comparison 5 — Visit Preparation Is Not Access Waiting
+---
+
+# Comparison 5 — Visit Preparation Is Not Access Waiting
 
 Franklin
 
@@ -1056,11 +1071,13 @@ to:
 
 prepare.
 
-Correction
+## Correction
 
+```text
 Visit Preparation
 ≠
 Access Waiting
+```
 
 This:
 
@@ -1074,7 +1091,9 @@ waiting:
 
 taxonomy.
 
-Waiting Taxonomy — Preserved
+---
+
+# Waiting Taxonomy — Preserved
 
 Current:
 
@@ -1084,15 +1103,11 @@ waiting:
 
 taxonomy remains:
 
-Access Waiting
-
-Resource Waiting
-
-Product Waiting
-
-Service Waiting
-
-Exception Waiting
+1. Access Waiting
+2. Resource Waiting
+3. Product Waiting
+4. Service Waiting
+5. Exception Waiting
 
 Pearl Morissette:
 
@@ -1118,7 +1133,9 @@ not:
 
 waiting.
 
-Comparison 6 — Visit Preparation Is Not Arrival
+---
+
+# Comparison 6 — Visit Preparation Is Not Arrival
 
 Physical:
 
@@ -1150,13 +1167,17 @@ before:
 
 that.
 
-Correction
+## Correction
 
+```text
 Visit Preparation
 ≠
 Physical Arrival
+```
 
-Comparison 7 — Pre-Arrival Clarity Is Distinct From Booking Clarity
+---
+
+# Comparison 7 — Pre-Arrival Clarity Is Distinct From Booking Clarity
 
 Pearl Morissette:
 
@@ -1170,37 +1191,35 @@ post-booking:
 
 question:
 
-Do I understand what I need to do before I can successfully complete this visit?
+> **Do I understand what I need to do before I can successfully complete this visit?**
 
-Definition
+## Definition
 
-Pre-Arrival Clarity is the degree to which the guest understands the practical conditions required to complete a hospitality visit after booking and before physical arrival.
+> **Pre-Arrival Clarity is the degree to which the guest understands the practical conditions required to complete a hospitality visit after booking and before physical arrival.**
 
 Potential:
 
 inputs:
 
-directions
+- directions
+- transport
+- parking
+- timing
+- compatibility communication
+- property recognition
+- party coordination
 
-transport
+## Correction
 
-parking
-
-timing
-
-compatibility communication
-
-property recognition
-
-party coordination
-
-Correction
-
+```text
 Reservation Confirmation
 ≠
 Complete Pre-Arrival Clarity
+```
 
-Comparison 8 — Pre-Arrival Clarity Is Context-Specific
+---
+
+# Comparison 8 — Pre-Arrival Clarity Is Context-Specific
 
 A:
 
@@ -1246,11 +1265,13 @@ need:
 
 more.
 
-Correction
+## Correction
 
+```text
 Every Reservation
 ≠
 Complex Pre-Arrival State
+```
 
 Do not:
 
@@ -1258,45 +1279,47 @@ universalize:
 
 Pearl Morissette.
 
-Comparison 9 — Guest Preparation Load Is a Useful Participation Variable
+---
 
-Definition
+# Comparison 9 — Guest Preparation Load Is a Useful Participation Variable
 
-Guest Preparation Load is the amount of practical work the guest must complete before successfully participating in the hospitality experience.
+## Definition
+
+> **Guest Preparation Load is the amount of practical work the guest must complete before successfully participating in the hospitality experience.**
 
 Potential:
 
 drivers:
 
-transport
-
-navigation
-
-time
-
-coordination
-
-compatibility
-
-special requirements
-
-optional experiences
+- transport
+- navigation
+- time
+- coordination
+- compatibility
+- special requirements
+- optional experiences
 
 Strongest case:
 
 Pearl Morissette.
 
-Correction
+---
 
+# Correction
+
+```text
 Guest Preparation
 ≠
 Poor Hospitality
+```
 
 and:
 
+```text
 Guest Preparation
 ≠
 Hospitality Value
+```
 
 The:
 
@@ -1320,7 +1343,9 @@ and:
 
 supported.
 
-Comparison 10 — System Support Should Rise With Guest Preparation Load
+---
+
+# Comparison 10 — System Support Should Rise With Guest Preparation Load
 
 Pearl Morissette:
 
@@ -1332,6 +1357,7 @@ useful:
 
 relationship:
 
+```text
 Higher Guest Preparation Load
 ↓
 Greater Need for:
@@ -1340,6 +1366,7 @@ Pre-Arrival Clarity
 Access Utility
 +
 Exception Support
+```
 
 where:
 
@@ -1359,7 +1386,9 @@ formal:
 
 pattern.
 
-Comparison 11 — Digital-to-Physical Participation Handoff Is a Real State Transition
+---
+
+# Comparison 11 — Digital-to-Physical Participation Handoff Is a Real State Transition
 
 ICHIRAN:
 
@@ -1399,14 +1428,15 @@ especially:
 
 important.
 
-Definition
+## Definition
 
-Digital-to-Physical Participation Handoff is the transition through which digital guidance leads the guest into the correct physical hospitality state.
+> **Digital-to-Physical Participation Handoff is the transition through which digital guidance leads the guest into the correct physical hospitality state.**
 
 Potential:
 
 sequence:
 
+```text
 Reservation
 ↓
 Directions
@@ -1420,14 +1450,21 @@ Parking
 Entrance
 ↓
 Arrival
+```
 
-Correction
+---
 
+# Correction
+
+```text
 Digital Reservation Complete
 ≠
 Physical Participation Ready
+```
 
-Comparison 12 — Hospitality System Proof Extends to Physical Handoff
+---
+
+# Comparison 12 — Hospitality System Proof Extends to Physical Handoff
 
 Current Status:
 
@@ -1439,13 +1476,10 @@ system:
 
 cases:
 
-ICHIRAN
-
-Din Tai Fung
-
-Noma
-
-Pearl Morissette
+- ICHIRAN
+- Din Tai Fung
+- Noma
+- Pearl Morissette
 
 Different:
 
@@ -1453,7 +1487,7 @@ system:
 
 types:
 
-ICHIRAN
+### ICHIRAN
 
 Service
 
@@ -1465,7 +1499,7 @@ refill
 
 privacy.
 
-Din Tai Fung
+### Din Tai Fung
 
 Participation
 
@@ -1475,7 +1509,7 @@ route
 
 consistency.
 
-Noma
+### Noma
 
 Time
 
@@ -1487,7 +1521,7 @@ future:
 
 uncertainty.
 
-Pearl Morissette
+### Pearl Morissette
 
 Destination
 
@@ -1497,7 +1531,7 @@ physical:
 
 handoff.
 
-Post–Pearl Refinement
+## Post–Pearl Refinement
 
 Hospitality System Proof:
 
@@ -1521,7 +1555,9 @@ affects:
 
 participation.
 
-Hospitality System Proof Governance Pressure
+---
+
+# Hospitality System Proof Governance Pressure
 
 Entering Status:
 
@@ -1575,7 +1611,9 @@ final:
 
 reconciliation.
 
-Comparison 13 — System Explanation Need Depends on System Novelty
+---
+
+# Comparison 13 — System Explanation Need Depends on System Novelty
 
 ICHIRAN:
 
@@ -1647,8 +1685,9 @@ preparation:
 
 clarity.
 
-Refined Relationship
+## Refined Relationship
 
+```text
 System Novelty
 +
 Participation Novelty
@@ -1662,8 +1701,11 @@ Exception Complexity
 Guest Familiarity
 ↓
 System Explanation Obligation
+```
 
-Comparison 14 — Self-Service Does Not Mean Low Agency
+---
+
+# Comparison 14 — Self-Service Does Not Mean Low Agency
 
 ICHIRAN:
 
@@ -1691,11 +1733,13 @@ inside:
 
 self-service.
 
-Canonical Correction
+## Canonical Correction
 
+```text
 Self-Service
 ≠
 Low Agency
+```
 
 Pearl Morissette:
 
@@ -1707,7 +1751,9 @@ change:
 
 this.
 
-Comparison 15 — Participation Does Not Require Social Participation
+---
+
+# Comparison 15 — Participation Does Not Require Social Participation
 
 ICHIRAN:
 
@@ -1719,11 +1765,13 @@ this:
 
 mandatory.
 
-Correction
+## Correction
 
+```text
 Participation
 ≠
 Social Participation
+```
 
 A:
 
@@ -1743,7 +1791,9 @@ individual:
 
 actions.
 
-Comparison 16 — Human Assistance Remains Contextual
+---
+
+# Comparison 16 — Human Assistance Remains Contextual
 
 Current Status:
 
@@ -1755,13 +1805,10 @@ Strong:
 
 pressure:
 
-Haidilao
-
-ICHIRAN exceptions
-
-Din Tai Fung
-
-Pearl Morissette compatibility / private experience needs
+- Haidilao
+- ICHIRAN exceptions
+- Din Tai Fung
+- Pearl Morissette compatibility / private experience needs
 
 Pearl Morissette:
 
@@ -1807,7 +1854,9 @@ fully:
 
 public.
 
-Human Assistance Governance Pressure
+---
+
+# Human Assistance Governance Pressure
 
 Entering Status:
 
@@ -1851,7 +1900,9 @@ ordinary:
 
 service.
 
-Comparison 17 — Compatibility Adaptation Is Bounded Agency
+---
+
+# Comparison 17 — Compatibility Adaptation Is Bounded Agency
 
 Pearl Morissette:
 
@@ -1865,29 +1916,30 @@ architecture:
 
 variable.
 
-Definition
+## Definition
 
-Compatibility Adaptation is the degree to which a hospitality system can respond to material guest needs while preserving the intended experience structure.
+> **Compatibility Adaptation is the degree to which a hospitality system can respond to material guest needs while preserving the intended experience structure.**
 
 Potential:
 
 contexts:
 
-dietary
+- dietary
+- accessibility
+- seating
+- participation constraints
 
-accessibility
+## Boundary
 
-seating
-
-participation constraints
-
-Boundary
-
+```text
 Accommodation
 ≠
 Unlimited Customization
+```
 
-Comparison 18 — Guest Agency Exists at Multiple Layers
+---
+
+# Comparison 18 — Guest Agency Exists at Multiple Layers
 
 Across:
 
@@ -1899,39 +1951,33 @@ exist:
 
 through:
 
-booking
+- booking
+- walk-in
+- seat
+- ordering
+- customization
+- dietary communication
+- timing
+- add-ons
+- cancellation
+- transfer
+- travel planning
 
-walk-in
+## Correction
 
-seat
-
-ordering
-
-customization
-
-dietary communication
-
-timing
-
-add-ons
-
-cancellation
-
-transfer
-
-travel planning
-
-Correction
-
+```text
 Guest Agency
 ≠
 Unlimited Control
+```
 
 This remains:
 
 canonical.
 
-Comparison 19 — Operational Participation and Creative Participation Are Different
+---
+
+# Comparison 19 — Operational Participation and Creative Participation Are Different
 
 ICHIRAN:
 
@@ -1955,23 +2001,25 @@ Potential:
 
 categories:
 
-Operational Participation
+- Operational Participation
+- Narrative Participation
+- Creative Participation
 
-Narrative Participation
+## Correction
 
-Creative Participation
-
-Correction
-
+```text
 Operational Participation
 ≠
 Creative Participation
+```
 
 and:
 
+```text
 Narrative Participation
 ≠
 Operational Participation
+```
 
 These:
 
@@ -1981,7 +2029,9 @@ remain:
 
 distinct.
 
-Comparison 20 — The Guest as Participant Has Broad but Uneven Support
+---
+
+# Comparison 20 — The Guest as Participant Has Broad but Uneven Support
 
 Current Status:
 
@@ -1991,19 +2041,13 @@ Strong:
 
 cases include:
 
-Dishoom
-
-Franklin
-
-Haidilao
-
-ICHIRAN
-
-Din Tai Fung
-
-Noma
-
-Pearl Morissette
+- Dishoom
+- Franklin
+- Haidilao
+- ICHIRAN
+- Din Tai Fung
+- Noma
+- Pearl Morissette
 
 But:
 
@@ -2039,7 +2083,7 @@ creative:
 
 co-production.
 
-Current Recommendation
+## Current Recommendation
 
 Remain Emerging
 
@@ -2057,7 +2101,9 @@ too:
 
 broad.
 
-Comparison 21 — Participation Breadth and Participation Depth Remain Distinct
+---
+
+# Comparison 21 — Participation Breadth and Participation Depth Remain Distinct
 
 Din Tai Fung:
 
@@ -2075,7 +2121,7 @@ reinforces:
 
 it.
 
-Breadth
+### Breadth
 
 How many:
 
@@ -2087,17 +2133,13 @@ routes?
 
 Examples:
 
-Dining Room
+- Dining Room
+- Chef's Table
+- Private Dining
+- Walk-In
+- Reservation
 
-Chef's Table
-
-Private Dining
-
-Walk-In
-
-Reservation
-
-Depth
+### Depth
 
 How many:
 
@@ -2113,27 +2155,25 @@ route?
 
 Examples:
 
-preparation
+- preparation
+- dietary adaptation
+- queue
+- travel
+- add-ons
+- refill
+- waiting
 
-dietary adaptation
+## Correction
 
-queue
-
-travel
-
-add-ons
-
-refill
-
-waiting
-
-Correction
-
+```text
 Participation Breadth
 ≠
 Participation Depth
+```
 
-Comparison 22 — More Steps Do Not Mean More Routes
+---
+
+# Comparison 22 — More Steps Do Not Mean More Routes
 
 Pearl Morissette:
 
@@ -2151,11 +2191,13 @@ destination:
 
 visit.
 
-Correction
+## Correction
 
+```text
 More Participation Steps
 ≠
 More Participation Routes
+```
 
 This:
 
@@ -2167,7 +2209,9 @@ for:
 
 Multi-Intent Hospitality.
 
-Comparison 23 — Multi-Intent Hospitality Has Strong but Contextual Support
+---
+
+# Comparison 23 — Multi-Intent Hospitality Has Strong but Contextual Support
 
 Current Status:
 
@@ -2177,13 +2221,10 @@ Strong:
 
 cases:
 
-Dishoom
-
-Din Tai Fung
-
-Pearl Morissette
-
-Haidilao in broader form
+- Dishoom
+- Din Tai Fung
+- Pearl Morissette
+- Haidilao in broader form
 
 Pearl Morissette:
 
@@ -2211,13 +2252,17 @@ not:
 
 route breadth.
 
-Boundary
+## Boundary
 
+```text
 Multiple Offers
 ≠
 Multi-Intent Hospitality Dominates
+```
 
-Multi-Intent Hospitality Governance Pressure
+---
+
+# Multi-Intent Hospitality Governance Pressure
 
 Entering Status:
 
@@ -2257,7 +2302,9 @@ intent:
 
 architecture.
 
-Comparison 24 — Walk-In as First-Class Participation Remains Strong and Specific
+---
+
+# Comparison 24 — Walk-In as First-Class Participation Remains Strong and Specific
 
 Current Status:
 
@@ -2267,13 +2314,10 @@ Strong:
 
 cases:
 
-Dishoom
-
-Franklin
-
-ICHIRAN
-
-Din Tai Fung
+- Dishoom
+- Franklin
+- ICHIRAN
+- Din Tai Fung
 
 Pearl Morissette:
 
@@ -2287,17 +2331,21 @@ walk-in:
 
 support.
 
-Correction
+## Correction
 
+```text
 No Published Walk-In Evidence
 ≠
 Walk-In Impossible
+```
 
 No:
 
 change.
 
-Comparison 25 — Queue Is a First-Class Participation State in Some Models
+---
+
+# Comparison 25 — Queue Is a First-Class Participation State in Some Models
 
 Franklin:
 
@@ -2355,7 +2403,7 @@ queue:
 
 evidence.
 
-Current Rule
+## Current Rule
 
 Queue:
 
@@ -2367,17 +2415,17 @@ not:
 
 universal.
 
-Comparison 26 — Hospitality During Waiting Remains Below Candidate
+---
+
+# Comparison 26 — Hospitality During Waiting Remains Below Candidate
 
 Strong:
 
 pressure:
 
-Franklin
-
-Haidilao
-
-Dishoom
+- Franklin
+- Haidilao
+- Dishoom
 
 But:
 
@@ -2413,19 +2461,23 @@ become:
 
 hospitality.
 
-Correction
+## Correction
 
+```text
 Waiting Exists
 ≠
 Waiting Must Become Hospitality
+```
 
 Current Recommendation:
 
 Remain below Candidate.
 
-Comparison 27 — Access Utility and Hospitality During Waiting Remain Different
+---
 
-Access Utility
+# Comparison 27 — Access Utility and Hospitality During Waiting Remain Different
+
+### Access Utility
 
 Helps:
 
@@ -2441,7 +2493,7 @@ to:
 
 participate.
 
-Hospitality During Waiting
+### Hospitality During Waiting
 
 Adds:
 
@@ -2455,11 +2507,13 @@ the:
 
 wait.
 
-Correction
+## Correction
 
+```text
 Access Utility
 ≠
 Hospitality During Waiting
+```
 
 Pearl Morissette:
 
@@ -2475,7 +2529,9 @@ waiting:
 
 hospitality.
 
-Comparison 28 — Commitment Has Multiple Dimensions
+---
+
+# Comparison 28 — Commitment Has Multiple Dimensions
 
 Noma:
 
@@ -2503,30 +2559,28 @@ commitment:
 
 dimensions:
 
-financial
+- financial
+- temporal
+- logistical
+- social
+- compatibility
+- participation
 
-temporal
-
-logistical
-
-social
-
-compatibility
-
-participation
-
-New Architecture Variable
+## New Architecture Variable
 
 Total Visit Commitment
 
-Total Visit Commitment — Refined Definition
+---
 
-The combined burden of commitment required to complete the hospitality visit rather than merely secure the booking.
+# Total Visit Commitment — Refined Definition
+
+> **The combined burden of commitment required to complete the hospitality visit rather than merely secure the booking.**
 
 Potential:
 
 components:
 
+```text
 Financial
 +
 Temporal
@@ -2538,18 +2592,23 @@ Social
 Compatibility
 +
 Participation
+```
 
 where:
 
 material.
 
-Comparison 29 — Commitment Level Is Not Financial Commitment Only
+---
 
-Correction
+# Comparison 29 — Commitment Level Is Not Financial Commitment Only
 
+## Correction
+
+```text
 Commitment Level
 ≠
 Financial Commitment Only
+```
 
 A:
 
@@ -2577,7 +2636,9 @@ is:
 
 unknown.
 
-Comparison 30 — High Total Visit Commitment Does Not Prove High Cancellation Penalty
+---
+
+# Comparison 30 — High Total Visit Commitment Does Not Prove High Cancellation Penalty
 
 Pearl Morissette:
 
@@ -2589,11 +2650,13 @@ boundary:
 
 necessary.
 
-Correction
+## Correction
 
+```text
 High Total Visit Commitment
 ≠
 High Cancellation Penalty Proven
+```
 
 Do not:
 
@@ -2609,7 +2672,9 @@ travel:
 
 effort.
 
-Comparison 31 — Manageable Commitment Requires Evidence of Post-Commitment Agency
+---
+
+# Comparison 31 — Manageable Commitment Requires Evidence of Post-Commitment Agency
 
 Current Status:
 
@@ -2653,7 +2718,7 @@ policy:
 
 evidence.
 
-Core Requirement
+## Core Requirement
 
 Manageable Commitment:
 
@@ -2685,23 +2750,25 @@ Potential:
 
 actions:
 
-cancel
+- cancel
+- modify
+- transfer
+- contact
+- resolve exception
 
-modify
+---
 
-transfer
+# Correction
 
-contact
-
-resolve exception
-
-Correction
-
+```text
 Booking Exists
 ≠
 Manageable Commitment Proven
+```
 
-Manageable Commitment Governance Pressure
+---
+
+# Manageable Commitment Governance Pressure
 
 Entering Status:
 
@@ -2731,7 +2798,9 @@ as:
 
 support.
 
-Comparison 32 — Pre-Commitment Pressure and Post-Commitment Agency Remain Distinct
+---
+
+# Comparison 32 — Pre-Commitment Pressure and Post-Commitment Agency Remain Distinct
 
 Post-Noma:
 
@@ -2741,7 +2810,7 @@ became:
 
 canonical.
 
-Pre-Commitment Pressure
+### Pre-Commitment Pressure
 
 What:
 
@@ -2755,7 +2824,7 @@ toward:
 
 commitment?
 
-Post-Commitment Agency
+### Post-Commitment Agency
 
 What:
 
@@ -2771,11 +2840,13 @@ after:
 
 committing?
 
-Correction
+## Correction
 
+```text
 Pre-Commitment Pressure
 ≠
 Post-Commitment Agency
+```
 
 Pearl Morissette:
 
@@ -2787,7 +2858,9 @@ alter:
 
 this.
 
-Comparison 33 — Commitment Without Pressure Remains Emerging
+---
+
+# Comparison 33 — Commitment Without Pressure Remains Emerging
 
 Current Status:
 
@@ -2843,7 +2916,7 @@ cancellation:
 
 evidence.
 
-Current Recommendation
+## Current Recommendation
 
 Remain Emerging.
 
@@ -2865,23 +2938,31 @@ travel:
 
 effort.
 
-Correction
+---
 
+# Correction
+
+```text
 High Prestige
 ≠
 Manipulative Pressure
+```
 
 and:
 
+```text
 Structural Scarcity
 ≠
 Manipulative Pressure
+```
 
 This remains:
 
 canonical.
 
-Comparison 34 — Platform Capability Is Not Restaurant Policy
+---
+
+# Comparison 34 — Platform Capability Is Not Restaurant Policy
 
 Pearl Morissette:
 
@@ -2925,25 +3006,22 @@ not:
 
 use.
 
-Correction
+## Correction
 
+```text
 Platform Capability
 ≠
 Restaurant Policy
+```
 
 Examples:
 
-deposits
-
-prepayment
-
-holds
-
-cancellation
-
-add-ons
-
-transfer
+- deposits
+- prepayment
+- holds
+- cancellation
+- add-ons
+- transfer
 
 must:
 
@@ -2957,7 +3035,9 @@ restaurant:
 
 level.
 
-Comparison 35 — Public Policy Gap Does Not Prove Guest Confusion
+---
+
+# Comparison 35 — Public Policy Gap Does Not Prove Guest Confusion
 
 A:
 
@@ -2983,11 +3063,13 @@ or:
 
 confirmation.
 
-Correction
+## Correction
 
+```text
 Public Policy Gap
 ≠
 Guest Confusion Proven
+```
 
 This:
 
@@ -2999,7 +3081,9 @@ for:
 
 Participation Rule Consistency.
 
-Comparison 36 — Participation Rule Consistency Has Broader Cross-Case Support
+---
+
+# Comparison 36 — Participation Rule Consistency Has Broader Cross-Case Support
 
 Current Status:
 
@@ -3009,11 +3093,9 @@ Strong:
 
 cases:
 
-Din Tai Fung
-
-Noma
-
-Pearl Morissette
+- Din Tai Fung
+- Noma
+- Pearl Morissette
 
 Additional:
 
@@ -3061,9 +3143,11 @@ remain:
 
 consistent?
 
-Comparison 37 — Rule Consistency and Instruction Consistency Are Different
+---
 
-Rule Consistency
+# Comparison 37 — Rule Consistency and Instruction Consistency Are Different
+
+### Rule Consistency
 
 Policies:
 
@@ -3071,17 +3155,13 @@ agree.
 
 Examples:
 
-cancellation
+- cancellation
+- walk-in
+- reservation
+- timing
+- eligibility
 
-walk-in
-
-reservation
-
-timing
-
-eligibility
-
-Instruction Consistency
+### Instruction Consistency
 
 Practical:
 
@@ -3091,23 +3171,23 @@ agree.
 
 Examples:
 
-address
+- address
+- parking
+- arrival
+- entrance
+- check-in
 
-parking
+## Correction
 
-arrival
-
-entrance
-
-check-in
-
-Correction
-
+```text
 Rule Consistency
 ≠
 Instruction Consistency
+```
 
-Comparison 38 — Instruction Consistency Should Stay Narrow
+---
+
+# Comparison 38 — Instruction Consistency Should Stay Narrow
 
 If:
 
@@ -3139,11 +3219,13 @@ too:
 
 broad.
 
-Boundary
+## Boundary
 
+```text
 Any Content Inconsistency
 ≠
 Participation Consistency Failure
+```
 
 Instruction:
 
@@ -3165,7 +3247,9 @@ affects:
 
 participation.
 
-Participation Rule Consistency Governance Pressure
+---
+
+# Participation Rule Consistency Governance Pressure
 
 Entering Status:
 
@@ -3209,9 +3293,11 @@ stronger:
 
 repetition.
 
-Comparison 39 — System Clarity and Rule Consistency Remain Distinct
+---
 
-Hospitality System Proof
+# Comparison 39 — System Clarity and Rule Consistency Remain Distinct
+
+### Hospitality System Proof
 
 Can:
 
@@ -3225,7 +3311,7 @@ the:
 
 system?
 
-Participation Rule Consistency
+### Participation Rule Consistency
 
 Do:
 
@@ -3237,11 +3323,13 @@ rules
 
 agree?
 
-Correction
+## Correction
 
+```text
 System Clarity
 ≠
 Rule Consistency
+```
 
 A:
 
@@ -3267,7 +3355,9 @@ poorly:
 
 explained.
 
-Comparison 40 — Stable Participation / Variable Product Now Has Strong Cross-Case Support
+---
+
+# Comparison 40 — Stable Participation / Variable Product Now Has Strong Cross-Case Support
 
 Current Status:
 
@@ -3277,17 +3367,15 @@ Strongest:
 
 cases:
 
-Noma
-
-Pearl Morissette
+- Noma
+- Pearl Morissette
 
 Partial:
 
 support:
 
-Alinea
-
-NARISAWA
+- Alinea
+- NARISAWA
 
 The:
 
@@ -3295,17 +3383,21 @@ mechanisms
 
 differ.
 
-Noma
+### Noma
 
+```text
 Future / Variable Creative Product
 +
 Structured High-Commitment Participation
+```
 
-Pearl Morissette
+### Pearl Morissette
 
+```text
 Seasonally / Operationally Variable Product
 +
 Structured Reservation Route
+```
 
 This:
 
@@ -3323,17 +3415,23 @@ strong:
 
 case.
 
-Stable Participation / Variable Product — Refined Definition
+---
 
-A hospitality system may maintain stable participation rules or access structure while the product itself remains materially variable, allowing participation certainty and product variability to coexist.
+# Stable Participation / Variable Product — Refined Definition
 
-Core Boundary
+> **A hospitality system may maintain stable participation rules or access structure while the product itself remains materially variable, allowing participation certainty and product variability to coexist.**
 
+## Core Boundary
+
+```text
 Product Variability
 ≠
 Participation Variability
+```
 
-Stable Participation / Variable Product Governance Pressure
+---
+
+# Stable Participation / Variable Product Governance Pressure
 
 Entering Status:
 
@@ -3405,7 +3503,9 @@ Formal decision:
 
 deferred.
 
-Comparison 41 — Stable Participation Does Not Mean Timeless Policy
+---
+
+# Comparison 41 — Stable Participation Does Not Mean Timeless Policy
 
 A:
 
@@ -3425,11 +3525,13 @@ rules:
 
 change.
 
-Correction
+## Correction
 
+```text
 Stable Participation
 ≠
 Timeless Policy
+```
 
 Policy Freshness:
 
@@ -3437,7 +3539,9 @@ remains:
 
 important.
 
-Comparison 42 — Policy Freshness Is Distinct From Evidence Freshness
+---
+
+# Comparison 42 — Policy Freshness Is Distinct From Evidence Freshness
 
 Noma:
 
@@ -3481,11 +3585,13 @@ has:
 
 Policy Freshness.
 
-Correction
+## Correction
 
+```text
 Policy Freshness
 ≠
 Evidence Freshness
+```
 
 They:
 
@@ -3511,13 +3617,17 @@ different:
 
 variables.
 
-Comparison 43 — Official Does Not Mean Current for Policy Either
+---
 
-Correction
+# Comparison 43 — Official Does Not Mean Current for Policy Either
 
+## Correction
+
+```text
 Official Policy
 ≠
 Current Policy
+```
 
 This:
 
@@ -3531,11 +3641,15 @@ post-Noma:
 
 rule:
 
+```text
 Official
 ≠
 Current
+```
 
-Comparison 44 — Availability Is Multi-Layered
+---
+
+# Comparison 44 — Availability Is Multi-Layered
 
 Across:
 
@@ -3555,19 +3669,13 @@ Potential:
 
 types:
 
-route availability
-
-seat / table availability
-
-resource availability
-
-operational availability
-
-temporal availability
-
-product availability
-
-experience availability
+- route availability
+- seat / table availability
+- resource availability
+- operational availability
+- temporal availability
+- product availability
+- experience availability
 
 Pearl Morissette:
 
@@ -3587,9 +3695,11 @@ enhancement:
 
 options.
 
-Experience Availability
+---
 
-Definition
+# Experience Availability
+
+## Definition
 
 Whether:
 
@@ -3617,7 +3727,7 @@ operating:
 
 conditions.
 
-Status
+## Status
 
 Availability Subtype
 
@@ -3629,13 +3739,17 @@ formal:
 
 family.
 
-Comparison 45 — Add-On Listed Is Not Add-On Available
+---
 
-Correction
+# Comparison 45 — Add-On Listed Is Not Add-On Available
 
+## Correction
+
+```text
 Add-On Listed
 ≠
 Add-On Available
+```
 
 This:
 
@@ -3655,13 +3769,17 @@ capacity-limited:
 
 experiences.
 
-Comparison 46 — Seasonal Add-On Does Not Mean Seasonal Restaurant Access
+---
 
-Correction
+# Comparison 46 — Seasonal Add-On Does Not Mean Seasonal Restaurant Access
 
+## Correction
+
+```text
 Seasonal Add-On
 ≠
 Seasonally Gated Restaurant Access
+```
 
 This:
 
@@ -3679,7 +3797,9 @@ participation:
 
 architecture.
 
-Comparison 47 — Time Is Important but Not Always Dominant
+---
+
+# Comparison 47 — Time Is Important but Not Always Dominant
 
 Noma:
 
@@ -3729,13 +3849,17 @@ participation:
 
 system.
 
-Correction
+## Correction
 
+```text
 Time-Sensitive Participation
 ≠
 Temporal Participation Dominates
+```
 
-Comparison 48 — Access Window Remains a Useful Variable
+---
+
+# Comparison 48 — Access Window Remains a Useful Variable
 
 Noma:
 
@@ -3755,15 +3879,11 @@ different:
 
 forms:
 
-reservations
-
-queue
-
-walk-in
-
-opening hours
-
-resource state
+- reservations
+- queue
+- walk-in
+- opening hours
+- resource state
 
 Pearl Morissette:
 
@@ -3791,7 +3911,9 @@ is:
 
 secured.
 
-Comparison 49 — State Transitions Can Be Time-Driven or Action-Driven
+---
+
+# Comparison 49 — State Transitions Can Be Time-Driven or Action-Driven
 
 Noma:
 
@@ -3829,17 +3951,21 @@ physical:
 
 movement.
 
-Correction
+## Correction
 
+```text
 Participation State Change
 ≠
 Always User Action
+```
 
 This remains:
 
 canonical.
 
-Comparison 50 — One Primary Route Does Not Mean Simple Participation
+---
+
+# Comparison 50 — One Primary Route Does Not Mean Simple Participation
 
 ICHIRAN:
 
@@ -3885,13 +4011,17 @@ destination:
 
 preparation.
 
-Correction
+## Correction
 
+```text
 One Primary Route
 ≠
 Simple Participation
+```
 
-Comparison 51 — Participation Complexity Has Multiple Sources
+---
+
+# Comparison 51 — Participation Complexity Has Multiple Sources
 
 Current:
 
@@ -3899,19 +4029,13 @@ sources:
 
 include:
 
-route breadth
-
-state depth
-
-resource coupling
-
-consequence
-
-exception handling
-
-time sensitivity
-
-geographic complexity
+- route breadth
+- state depth
+- resource coupling
+- consequence
+- exception handling
+- time sensitivity
+- geographic complexity
 
 Pearl Morissette:
 
@@ -3919,9 +4043,11 @@ adds:
 
 Geographic Complexity.
 
-Geographic Complexity
+---
 
-Definition
+# Geographic Complexity
+
+## Definition
 
 Participation:
 
@@ -3949,19 +4075,14 @@ Potential:
 
 drivers:
 
-remote access
+- remote access
+- final-mile transport
+- parking
+- entrance recognition
+- travel time
+- local stay
 
-final-mile transport
-
-parking
-
-entrance recognition
-
-travel time
-
-local stay
-
-Status
+## Status
 
 Architecture Variable
 
@@ -3969,13 +4090,17 @@ Potential Home:
 
 Escalating Participation Complexity.
 
-Comparison 52 — Geographic Complexity Is Not Operational Complexity
+---
 
-Correction
+# Comparison 52 — Geographic Complexity Is Not Operational Complexity
 
+## Correction
+
+```text
 Geographic Complexity
 ≠
 Operational Complexity
+```
 
 A:
 
@@ -3995,7 +4120,9 @@ geographically:
 
 difficult.
 
-Comparison 53 — Escalating Participation Complexity Has Broad Support
+---
+
+# Comparison 53 — Escalating Participation Complexity Has Broad Support
 
 Current Status:
 
@@ -4005,19 +4132,13 @@ Strong:
 
 pressure:
 
-Dishoom
-
-Franklin
-
-Haidilao
-
-ICHIRAN
-
-Din Tai Fung
-
-Noma
-
-Pearl Morissette
+- Dishoom
+- Franklin
+- Haidilao
+- ICHIRAN
+- Din Tai Fung
+- Noma
+- Pearl Morissette
 
 Different:
 
@@ -4037,23 +4158,24 @@ Pearl Morissette:
 
 adds:
 
-destination logistics
+- destination logistics
+- private-dining route
+- dietary adaptation
+- conditional add-ons
 
-private-dining route
+---
 
-dietary adaptation
+# Escalating Participation Complexity — Refined Definition
 
-conditional add-ons
+> **Participation complexity increases when materially different routes, states, consequences, resources, exceptions, time conditions, or geographic requirements must be understood or managed by the guest or hospitality system.**
 
-Escalating Participation Complexity — Refined Definition
+## Core Boundary
 
-Participation complexity increases when materially different routes, states, consequences, resources, exceptions, time conditions, or geographic requirements must be understood or managed by the guest or hospitality system.
-
-Core Boundary
-
+```text
 More Interface Steps
 ≠
 Escalating Participation Complexity
+```
 
 Complexity:
 
@@ -4063,7 +4185,9 @@ be:
 
 material.
 
-Escalating Participation Complexity Governance Pressure
+---
+
+# Escalating Participation Complexity Governance Pressure
 
 Entering Status:
 
@@ -4109,7 +4233,9 @@ Formal decision:
 
 deferred.
 
-Comparison 54 — Intent-Based Complexity Reduction Remains Useful
+---
+
+# Comparison 54 — Intent-Based Complexity Reduction Remains Useful
 
 Different:
 
@@ -4127,27 +4253,23 @@ depth.
 
 Examples:
 
-standard diner
+- standard diner
+- walk-in
+- private group
+- dietary exception
+- destination traveler
+- first-time ICHIRAN guest
+- high-commitment Noma guest
 
-walk-in
+## Architecture Relationship
 
-private group
-
-dietary exception
-
-destination traveler
-
-first-time ICHIRAN guest
-
-high-commitment Noma guest
-
-Architecture Relationship
-
+```text
 Guest Intent
 ↓
 Relevant Route
 ↓
 Only Relevant Complexity
+```
 
 This:
 
@@ -4169,13 +4291,17 @@ full:
 
 system.
 
-Comparison 55 — Complex Hospitality Does Not Require Complex Interface
+---
 
-Correction
+# Comparison 55 — Complex Hospitality Does Not Require Complex Interface
 
+## Correction
+
+```text
 Complex Hospitality System
 ≠
 Complex Interface Required
+```
 
 The:
 
@@ -4191,9 +4317,11 @@ sequence:
 
 complexity.
 
-Comparison 56 — Multi-Intent Hospitality and Escalating Participation Complexity Are Different
+---
 
-Multi-Intent Hospitality
+# Comparison 56 — Multi-Intent Hospitality and Escalating Participation Complexity Are Different
+
+### Multi-Intent Hospitality
 
 Multiple:
 
@@ -4207,7 +4335,7 @@ primary:
 
 routes.
 
-Escalating Participation Complexity
+### Escalating Participation Complexity
 
 Increasing:
 
@@ -4223,11 +4351,13 @@ exception:
 
 complexity.
 
-Correction
+## Correction
 
+```text
 Multi-Intent
 ≠
 High Participation Complexity
+```
 
 A:
 
@@ -4253,7 +4383,9 @@ complex:
 
 route.
 
-Comparison 57 — Flexibility Is Layered
+---
+
+# Comparison 57 — Flexibility Is Layered
 
 Post-Noma:
 
@@ -4283,33 +4415,28 @@ Potential:
 
 layers:
 
-product
+- product
+- booking
+- cancellation
+- transfer
+- service
+- dietary
+- guest choice
+- creative
+- travel
+- add-on
 
-booking
+## Correction
 
-cancellation
-
-transfer
-
-service
-
-dietary
-
-guest choice
-
-creative
-
-travel
-
-add-on
-
-Correction
-
+```text
 Flexible Hospitality
 ≠
 Everything Is Flexible
+```
 
-Comparison 58 — Product Flexibility and Participation Flexibility Can Move Independently
+---
+
+# Comparison 58 — Product Flexibility and Participation Flexibility Can Move Independently
 
 Pearl Morissette:
 
@@ -4351,11 +4478,13 @@ structured:
 
 system.
 
-Correction
+## Correction
 
+```text
 Product Flexibility
 ≠
 Participation Flexibility
+```
 
 This:
 
@@ -4365,7 +4494,9 @@ Flexibility Layer:
 
 architecture.
 
-Comparison 59 — Participation Rule Consistency Is Not Flexibility
+---
+
+# Comparison 59 — Participation Rule Consistency Is Not Flexibility
 
 A:
 
@@ -4389,19 +4520,25 @@ and:
 
 inconsistent.
 
-Correction
+## Correction
 
+```text
 Consistency
 ≠
 Rigidity
+```
 
 and:
 
+```text
 Flexibility
 ≠
 Inconsistency
+```
 
-Comparison 60 — Compatibility and Choice Are Different
+---
+
+# Comparison 60 — Compatibility and Choice Are Different
 
 Pearl Morissette:
 
@@ -4429,11 +4566,13 @@ are:
 
 different.
 
-Correction
+## Correction
 
+```text
 Compatibility Adaptation
 ≠
 Choice Architecture
+```
 
 A:
 
@@ -4457,7 +4596,9 @@ broad:
 
 choice.
 
-Comparison 61 — Participation Rule Consistency Needs Policy Freshness
+---
+
+# Comparison 61 — Participation Rule Consistency Needs Policy Freshness
 
 A:
 
@@ -4481,11 +4622,13 @@ be:
 
 outdated.
 
-Correction
+## Correction
 
+```text
 Consistency
 ≠
 Currency
+```
 
 This:
 
@@ -4505,7 +4648,9 @@ alongside:
 
 Policy Freshness.
 
-Comparison 62 — Hospitality System Proof and Participation Rule Consistency Interact
+---
+
+# Comparison 62 — Hospitality System Proof and Participation Rule Consistency Interact
 
 A:
 
@@ -4529,8 +4674,9 @@ where:
 
 material.
 
-Relationship
+## Relationship
 
+```text
 System Legibility
 +
 Relevant Rule Consistency
@@ -4538,6 +4684,7 @@ Relevant Rule Consistency
 Policy Freshness
 ↓
 Potential Participation Confidence
+```
 
 These:
 
@@ -4547,9 +4694,11 @@ separate:
 
 patterns / variables.
 
-Comparison 63 — Manageable Commitment and Participation Rule Consistency Are Different
+---
 
-Manageable Commitment
+# Comparison 63 — Manageable Commitment and Participation Rule Consistency Are Different
+
+### Manageable Commitment
 
 Can:
 
@@ -4567,7 +4716,7 @@ after:
 
 booking?
 
-Participation Rule Consistency
+### Participation Rule Consistency
 
 Are:
 
@@ -4581,11 +4730,13 @@ across:
 
 surfaces?
 
-Correction
+## Correction
 
+```text
 Post-Commitment Agency
 ≠
 Rule Consistency
+```
 
 A:
 
@@ -4605,9 +4756,11 @@ being:
 
 manageable.
 
-Comparison 64 — Commitment Without Pressure and Manageable Commitment Are Different
+---
 
-Commitment Without Pressure
+# Comparison 64 — Commitment Without Pressure and Manageable Commitment Are Different
+
+### Commitment Without Pressure
 
 Concerns:
 
@@ -4625,7 +4778,7 @@ to:
 
 commit.
 
-Manageable Commitment
+### Manageable Commitment
 
 Concerns:
 
@@ -4637,13 +4790,17 @@ after:
 
 commitment.
 
-Correction
+## Correction
 
+```text
 Commitment Without Pressure
 ≠
 Manageable Commitment
+```
 
-Comparison 65 — Stable Participation / Variable Product and Manageable Commitment Are Different
+---
+
+# Comparison 65 — Stable Participation / Variable Product and Manageable Commitment Are Different
 
 A:
 
@@ -4665,11 +4822,13 @@ post-booking:
 
 agency.
 
-Correction
+## Correction
 
+```text
 Stable Participation
 ≠
 Manageable Commitment
+```
 
 Pearl Morissette:
 
@@ -4705,7 +4864,9 @@ is:
 
 insufficient.
 
-Comparison 66 — Pre-Visit Relationship Continuation Extends Participation
+---
+
+# Comparison 66 — Pre-Visit Relationship Continuation Extends Participation
 
 Pearl Morissette:
 
@@ -4727,27 +4888,22 @@ and:
 
 arrival.
 
-Definition
+## Definition
 
-Pre-Visit Relationship Continuation is useful hospitality communication or assistance that continues after booking but before arrival.
+> **Pre-Visit Relationship Continuation is useful hospitality communication or assistance that continues after booking but before arrival.**
 
 Potential:
 
 functions:
 
-directions
+- directions
+- reminders
+- dietary clarification
+- transport guidance
+- timing
+- exception support
 
-reminders
-
-dietary clarification
-
-transport guidance
-
-timing
-
-exception support
-
-Status
+## Status
 
 Architecture Direction
 
@@ -4755,11 +4911,15 @@ Potential Home:
 
 Participation Throughout the Journey.
 
-Correction
+---
 
+# Correction
+
+```text
 Pre-Visit Communication
 ≠
 Marketing by Default
+```
 
 Service:
 
@@ -4773,7 +4933,9 @@ relationship:
 
 continuation.
 
-Comparison 67 — Relationship Continuation Can Occur Before and After the Visit
+---
+
+# Comparison 67 — Relationship Continuation Can Occur Before and After the Visit
 
 Existing:
 
@@ -4799,8 +4961,9 @@ pre-visit:
 
 continuation.
 
-Architecture
+## Architecture
 
+```text
 Booking
 ↓
 Pre-Visit Relationship Continuation
@@ -4808,12 +4971,15 @@ Pre-Visit Relationship Continuation
 Visit
 ↓
 Post-Visit Relationship Continuation
+```
 
 where:
 
 material.
 
-Comparison 68 — Own the Guest Relationship Remains Partially Supported
+---
+
+# Comparison 68 — Own the Guest Relationship Remains Partially Supported
 
 Current Status:
 
@@ -4885,19 +5051,25 @@ change:
 
 this.
 
-Canonical Correction
+## Canonical Correction
 
+```text
 Third-Party Booking Surface
 ≠
 Guest Relationship Lost
+```
 
 and:
 
+```text
 Data Controller Status
 ≠
 Complete Guest Relationship Ownership
+```
 
-Own the Guest Relationship Governance Pressure
+---
+
+# Own the Guest Relationship Governance Pressure
 
 Current Status:
 
@@ -4913,7 +5085,9 @@ Remain:
 
 Partially Supported / Medium.
 
-Comparison 69 — Third-Party Booking and Brand Relationship Are Different Layers
+---
+
+# Comparison 69 — Third-Party Booking and Brand Relationship Are Different Layers
 
 A:
 
@@ -4953,11 +5127,13 @@ hospitality:
 
 brand.
 
-Correction
+## Correction
 
+```text
 Transaction Surface
 ≠
 Brand Relationship
+```
 
 But:
 
@@ -4973,7 +5149,9 @@ be:
 
 inferred.
 
-Comparison 70 — Platform Features Should Never Be Projected Onto Restaurant Policy
+---
+
+# Comparison 70 — Platform Features Should Never Be Projected Onto Restaurant Policy
 
 This:
 
@@ -5013,21 +5191,27 @@ KHDS must:
 
 separate:
 
-Platform Capability
+### Platform Capability
 
 from:
 
-Restaurant Configuration
+### Restaurant Configuration
 
-Correction
+## Correction
 
+```text
 Platform Capability
 ≠
 Restaurant Configuration
+```
 
-Current Reservation / Participation Pattern Pressure
+---
 
-Participation Throughout the Journey
+# Current Reservation / Participation Pattern Pressure
+
+---
+
+# Participation Throughout the Journey
 
 Status:
 
@@ -5053,7 +5237,9 @@ Primary risk:
 
 overbreadth.
 
-Stable Participation / Variable Product
+---
+
+# Stable Participation / Variable Product
 
 Status:
 
@@ -5073,15 +5259,13 @@ Candidate / Medium
 
 Strongest cases:
 
-Noma
-
-Pearl Morissette
+- Noma
+- Pearl Morissette
 
 Partial:
 
-Alinea
-
-NARISAWA
+- Alinea
+- NARISAWA
 
 Primary boundary:
 
@@ -5093,7 +5277,9 @@ be:
 
 material.
 
-Escalating Participation Complexity
+---
+
+# Escalating Participation Complexity
 
 Status:
 
@@ -5115,7 +5301,9 @@ Strongest new variable:
 
 Geographic Complexity.
 
-Hospitality System Proof
+---
+
+# Hospitality System Proof
 
 Status:
 
@@ -5133,7 +5321,9 @@ Strongest new mechanism:
 
 Digital-to-Physical Participation Handoff.
 
-Participation Rule Consistency
+---
+
+# Participation Rule Consistency
 
 Status:
 
@@ -5163,7 +5353,9 @@ vs:
 
 Instruction Consistency.
 
-Manageable Commitment
+---
+
+# Manageable Commitment
 
 Status:
 
@@ -5177,7 +5369,9 @@ Governance Review:
 
 No change.
 
-Multi-Intent Hospitality
+---
+
+# Multi-Intent Hospitality
 
 Status:
 
@@ -5191,7 +5385,9 @@ Governance Review:
 
 Remain Emerging.
 
-The Guest as Participant
+---
+
+# The Guest as Participant
 
 Status:
 
@@ -5205,7 +5401,9 @@ Governance Review:
 
 Remain Emerging.
 
-Human Assistance Where Structured Self-Service Is Insufficient
+---
+
+# Human Assistance Where Structured Self-Service Is Insufficient
 
 Status:
 
@@ -5219,7 +5417,9 @@ Governance Review:
 
 Remain Emerging.
 
-Commitment Without Pressure
+---
+
+# Commitment Without Pressure
 
 Status:
 
@@ -5233,7 +5433,9 @@ Governance Review:
 
 Remain Emerging.
 
-Walk-In as First-Class Participation
+---
+
+# Walk-In as First-Class Participation
 
 Status:
 
@@ -5247,7 +5449,9 @@ Governance Review:
 
 No change.
 
-Own the Guest Relationship
+---
+
+# Own the Guest Relationship
 
 Status:
 
@@ -5261,9 +5465,13 @@ Governance Review:
 
 No change.
 
-New Participation Architecture After Restaurant #15
+---
 
-Visit Preparation
+# New Participation Architecture After Restaurant #15
+
+---
+
+# Visit Preparation
 
 Status:
 
@@ -5271,9 +5479,11 @@ Participation State
 
 Definition:
 
-A post-commitment state in which the guest prepares material logistical, dietary, temporal, or social conditions required to complete a secured hospitality visit.
+> **A post-commitment state in which the guest prepares material logistical, dietary, temporal, or social conditions required to complete a secured hospitality visit.**
 
-Pre-Arrival Clarity
+---
+
+# Pre-Arrival Clarity
 
 Status:
 
@@ -5281,9 +5491,11 @@ Architecture Direction
 
 Definition:
 
-The degree to which the guest understands the practical conditions required to complete the visit after booking but before arrival.
+> **The degree to which the guest understands the practical conditions required to complete the visit after booking but before arrival.**
 
-Guest Preparation Load
+---
+
+# Guest Preparation Load
 
 Status:
 
@@ -5291,9 +5503,11 @@ Participation Variable
 
 Definition:
 
-The amount of practical work the guest must complete before successfully participating.
+> **The amount of practical work the guest must complete before successfully participating.**
 
-Geographic Complexity
+---
+
+# Geographic Complexity
 
 Status:
 
@@ -5303,7 +5517,9 @@ Potential Home:
 
 Escalating Participation Complexity.
 
-Total Visit Commitment
+---
+
+# Total Visit Commitment
 
 Status:
 
@@ -5311,19 +5527,16 @@ Commitment Variable
 
 Potential dimensions:
 
-financial
+- financial
+- temporal
+- logistical
+- social
+- compatibility
+- participation
 
-temporal
+---
 
-logistical
-
-social
-
-compatibility
-
-participation
-
-Compatibility Adaptation
+# Compatibility Adaptation
 
 Status:
 
@@ -5331,9 +5544,11 @@ Participation Variable
 
 Definition:
 
-The degree to which the system can respond to material guest needs while preserving the intended experience structure.
+> **The degree to which the system can respond to material guest needs while preserving the intended experience structure.**
 
-Digital-to-Physical Participation Handoff
+---
+
+# Digital-to-Physical Participation Handoff
 
 Status:
 
@@ -5343,11 +5558,13 @@ Potential Home:
 
 Hospitality System Proof
 
-
++
 
 Arrival.
 
-Pre-Visit Relationship Continuation
+---
+
+# Pre-Visit Relationship Continuation
 
 Status:
 
@@ -5357,13 +5574,17 @@ Potential Home:
 
 Participation Throughout the Journey.
 
-Experience Availability
+---
+
+# Experience Availability
 
 Status:
 
 Availability Subtype
 
-Instruction Consistency
+---
+
+# Instruction Consistency
 
 Status:
 
@@ -5371,71 +5592,48 @@ Participation Architecture Distinction
 
 Relationship:
 
+```text
 Rule Consistency
 ≠
 Instruction Consistency
+```
 
-Current Participation Architecture Variables
+---
+
+# Current Participation Architecture Variables
 
 Post–Pearl Morissette:
 
 research now includes:
 
-Guest Intent
-
-Participation Route
-
-Participation Breadth
-
-Participation Depth
-
-Participation State
-
-Access Window
-
-Availability Type
-
-Resource Coupling
-
-Consequence Complexity
-
-Commitment Level
-
-Total Visit Commitment
-
-Commitment Reversibility
-
-Reversibility Window
-
-Post-Commitment Agency
-
-Policy Freshness
-
-Participation Rule Consistency
-
-Instruction Consistency
-
-Guest Preparation Load
-
-Geographic Complexity
-
-Visit Preparation
-
-Pre-Arrival Clarity
-
-Compatibility Adaptation
-
-Digital-to-Physical Handoff
-
-Pre-Visit Relationship Continuation
-
-Flexibility Layer
-
-Experience Availability
-
-Waiting Type
-
-Assistance Escalation
+- Guest Intent
+- Participation Route
+- Participation Breadth
+- Participation Depth
+- Participation State
+- Access Window
+- Availability Type
+- Resource Coupling
+- Consequence Complexity
+- Commitment Level
+- Total Visit Commitment
+- Commitment Reversibility
+- Reversibility Window
+- Post-Commitment Agency
+- Policy Freshness
+- Participation Rule Consistency
+- Instruction Consistency
+- Guest Preparation Load
+- Geographic Complexity
+- Visit Preparation
+- Pre-Arrival Clarity
+- Compatibility Adaptation
+- Digital-to-Physical Handoff
+- Pre-Visit Relationship Continuation
+- Flexibility Layer
+- Experience Availability
+- Waiting Type
+- Assistance Escalation
 
 These:
 
@@ -5467,13 +5665,19 @@ flatten:
 
 them.
 
-Participation Deduplication Decisions
+---
 
-Visit Preparation
+# Participation Deduplication Decisions
 
+---
+
+# Visit Preparation
+
+```text
 Visit Preparation
 →
 Participation Throughout the Journey
+```
 
 State.
 
@@ -5483,17 +5687,23 @@ formalize:
 
 separately.
 
-Pre-Arrival Clarity
+---
 
+# Pre-Arrival Clarity
+
+```text
 Pre-Arrival Clarity
 →
 Participation Throughout the Journey
 +
 Hospitality System Proof
+```
 
 Architecture direction.
 
-Guest Preparation Load
+---
+
+# Guest Preparation Load
 
 Remain:
 
@@ -5509,25 +5719,35 @@ Guest Effort:
 
 pattern.
 
-Geographic Complexity
+---
 
+# Geographic Complexity
+
+```text
 Geographic Complexity
 →
 Escalating Participation Complexity
+```
 
 Variable.
 
-Digital-to-Physical Participation Handoff
+---
 
+# Digital-to-Physical Participation Handoff
+
+```text
 Digital-to-Physical Participation Handoff
 →
 Hospitality System Proof
 +
 Arrival
+```
 
 Mechanism.
 
-Compatibility Adaptation
+---
+
+# Compatibility Adaptation
 
 Remain:
 
@@ -5543,15 +5763,21 @@ Accommodation Hospitality:
 
 pattern.
 
-Pre-Visit Relationship Continuation
+---
 
+# Pre-Visit Relationship Continuation
+
+```text
 Pre-Visit Relationship Continuation
 →
 Participation Throughout the Journey
+```
 
 Architecture direction.
 
-Instruction Consistency
+---
+
+# Instruction Consistency
 
 Potential:
 
@@ -5575,7 +5801,9 @@ formalize:
 
 separately.
 
-Stable Participation / Variable Product
+---
+
+# Stable Participation / Variable Product
 
 Do not:
 
@@ -5585,11 +5813,15 @@ with:
 
 Manageable Commitment.
 
+```text
 Stable Participation
 ≠
 Post-Commitment Agency
+```
 
-Participation Throughout the Journey
+---
+
+# Participation Throughout the Journey
 
 Do not:
 
@@ -5599,7 +5831,7 @@ with:
 
 The Guest as Participant.
 
-Participation Throughout the Journey
+### Participation Throughout the Journey
 
 Concerns:
 
@@ -5609,7 +5841,7 @@ participation
 
 occurs.
 
-The Guest as Participant
+### The Guest as Participant
 
 Concerns:
 
@@ -5621,465 +5853,722 @@ active:
 
 role.
 
-Correction
+## Correction
 
+```text
 Participation Stage
 ≠
 Participation Role
+```
 
-Reservation / Participation Corrections — Post Restaurant #15
+---
 
-Correction 1
+# Reservation / Participation Corrections — Post Restaurant #15
 
+---
+
+## Correction 1
+
+```text
 Participation
 ≠
 Reservation
+```
 
-Correction 2
+---
 
+## Correction 2
+
+```text
 Reservation Complete
 ≠
 Hospitality Participation Complete
+```
 
-Correction 3
+---
 
+## Correction 3
+
+```text
 Participation State
 ≠
 Page or Screen
+```
 
-Correction 4
+---
 
+## Correction 4
+
+```text
 Participation Throughout the Journey
 ≠
 Everything the Guest Does
+```
 
-Correction 5
+---
 
+## Correction 5
+
+```text
 Visit Preparation
 ≠
 Access Waiting
+```
 
-Correction 6
+---
 
+## Correction 6
+
+```text
 Visit Preparation
 ≠
 Physical Arrival
+```
 
-Correction 7
+---
 
+## Correction 7
+
+```text
 Reservation Confirmation
 ≠
 Complete Pre-Arrival Clarity
+```
 
-Correction 8
+---
 
+## Correction 8
+
+```text
 Every Reservation
 ≠
 Complex Pre-Arrival State
+```
 
-Correction 9
+---
 
+## Correction 9
+
+```text
 Guest Preparation
 ≠
 Poor Hospitality
+```
 
-Correction 10
+---
 
+## Correction 10
+
+```text
 Guest Preparation
 ≠
 Hospitality Value
+```
 
-Correction 11
+---
 
+## Correction 11
+
+```text
 Digital Reservation Complete
 ≠
 Physical Participation Ready
+```
 
-Correction 12
+---
 
+## Correction 12
+
+```text
 Self-Service
 ≠
 Low Agency
+```
 
-Correction 13
+---
 
+## Correction 13
+
+```text
 Participation
 ≠
 Social Participation
+```
 
-Correction 14
+---
 
+## Correction 14
+
+```text
 Accommodation
 ≠
 Unlimited Customization
+```
 
-Correction 15
+---
 
+## Correction 15
+
+```text
 Guest Agency
 ≠
 Unlimited Control
+```
 
-Correction 16
+---
 
+## Correction 16
+
+```text
 Operational Participation
 ≠
 Creative Participation
+```
 
-Correction 17
+---
 
+## Correction 17
+
+```text
 Participation Breadth
 ≠
 Participation Depth
+```
 
-Correction 18
+---
 
+## Correction 18
+
+```text
 More Participation Steps
 ≠
 More Participation Routes
+```
 
-Correction 19
+---
 
+## Correction 19
+
+```text
 Multiple Offers
 ≠
 Multi-Intent Hospitality Dominates
+```
 
-Correction 20
+---
 
+## Correction 20
+
+```text
 No Published Walk-In Evidence
 ≠
 Walk-In Impossible
+```
 
-Correction 21
+---
 
+## Correction 21
+
+```text
 Waiting Exists
 ≠
 Waiting Must Become Hospitality
+```
 
-Correction 22
+---
 
+## Correction 22
+
+```text
 Access Utility
 ≠
 Hospitality During Waiting
+```
 
-Correction 23
+---
 
+## Correction 23
+
+```text
 Commitment Level
 ≠
 Financial Commitment Only
+```
 
-Correction 24
+---
 
+## Correction 24
+
+```text
 High Total Visit Commitment
 ≠
 High Cancellation Penalty Proven
+```
 
-Correction 25
+---
 
+## Correction 25
+
+```text
 Booking Exists
 ≠
 Manageable Commitment Proven
+```
 
-Correction 26
+---
 
+## Correction 26
+
+```text
 Pre-Commitment Pressure
 ≠
 Post-Commitment Agency
+```
 
-Correction 27
+---
 
+## Correction 27
+
+```text
 High Prestige
 ≠
 Manipulative Pressure
+```
 
-Correction 28
+---
 
+## Correction 28
+
+```text
 Structural Scarcity
 ≠
 Manipulative Pressure
+```
 
-Correction 29
+---
 
+## Correction 29
+
+```text
 Platform Capability
 ≠
 Restaurant Policy
+```
 
-Correction 30
+---
 
+## Correction 30
+
+```text
 Public Policy Gap
 ≠
 Guest Confusion Proven
+```
 
-Correction 31
+---
 
+## Correction 31
+
+```text
 Rule Consistency
 ≠
 Instruction Consistency
+```
 
-Correction 32
+---
 
+## Correction 32
+
+```text
 Any Content Inconsistency
 ≠
 Participation Consistency Failure
+```
 
-Correction 33
+---
 
+## Correction 33
+
+```text
 System Clarity
 ≠
 Rule Consistency
+```
 
-Correction 34
+---
 
+## Correction 34
+
+```text
 Product Variability
 ≠
 Participation Variability
+```
 
-Correction 35
+---
 
+## Correction 35
+
+```text
 Stable Participation
 ≠
 Timeless Policy
+```
 
-Correction 36
+---
 
+## Correction 36
+
+```text
 Policy Freshness
 ≠
 Evidence Freshness
+```
 
-Correction 37
+---
 
+## Correction 37
+
+```text
 Official Policy
 ≠
 Current Policy
+```
 
-Correction 38
+---
 
+## Correction 38
+
+```text
 Add-On Listed
 ≠
 Add-On Available
+```
 
-Correction 39
+---
 
+## Correction 39
+
+```text
 Seasonal Add-On
 ≠
 Seasonally Gated Restaurant Access
+```
 
-Correction 40
+---
 
+## Correction 40
+
+```text
 Time-Sensitive Participation
 ≠
 Temporal Participation Dominates
+```
 
-Correction 41
+---
 
+## Correction 41
+
+```text
 Participation State Change
 ≠
 Always User Action
+```
 
-Correction 42
+---
 
+## Correction 42
+
+```text
 One Primary Route
 ≠
 Simple Participation
+```
 
-Correction 43
+---
 
+## Correction 43
+
+```text
 Geographic Complexity
 ≠
 Operational Complexity
+```
 
-Correction 44
+---
 
+## Correction 44
+
+```text
 More Interface Steps
 ≠
 Escalating Participation Complexity
+```
 
-Correction 45
+---
 
+## Correction 45
+
+```text
 Complex Hospitality System
 ≠
 Complex Interface Required
+```
 
-Correction 46
+---
 
+## Correction 46
+
+```text
 Multi-Intent
 ≠
 High Participation Complexity
+```
 
-Correction 47
+---
 
+## Correction 47
+
+```text
 Flexible Hospitality
 ≠
 Everything Is Flexible
+```
 
-Correction 48
+---
 
+## Correction 48
+
+```text
 Product Flexibility
 ≠
 Participation Flexibility
+```
 
-Correction 49
+---
 
+## Correction 49
+
+```text
 Consistency
 ≠
 Rigidity
+```
 
-Correction 50
+---
 
+## Correction 50
+
+```text
 Flexibility
 ≠
 Inconsistency
+```
 
-Correction 51
+---
 
+## Correction 51
+
+```text
 Compatibility Adaptation
 ≠
 Choice Architecture
+```
 
-Correction 52
+---
 
+## Correction 52
+
+```text
 Consistency
 ≠
 Currency
+```
 
-Correction 53
+---
 
+## Correction 53
+
+```text
 Post-Commitment Agency
 ≠
 Rule Consistency
+```
 
-Correction 54
+---
 
+## Correction 54
+
+```text
 Commitment Without Pressure
 ≠
 Manageable Commitment
+```
 
-Correction 55
+---
 
+## Correction 55
+
+```text
 Stable Participation
 ≠
 Manageable Commitment
+```
 
-Correction 56
+---
 
+## Correction 56
+
+```text
 Pre-Visit Communication
 ≠
 Marketing by Default
+```
 
-Correction 57
+---
 
+## Correction 57
+
+```text
 Third-Party Booking Surface
 ≠
 Guest Relationship Lost
+```
 
-Correction 58
+---
 
+## Correction 58
+
+```text
 Data Controller Status
 ≠
 Complete Guest Relationship Ownership
+```
 
-Correction 59
+---
 
+## Correction 59
+
+```text
 Transaction Surface
 ≠
 Brand Relationship
+```
 
-Correction 60
+---
 
+## Correction 60
+
+```text
 Platform Capability
 ≠
 Restaurant Configuration
+```
 
-Correction 61
+---
 
+## Correction 61
+
+```text
 Participation Stage
 ≠
 Participation Role
+```
 
-Strongest Reservation / Participation Tensions After Restaurant #15
+---
 
-Tension 1 — Reservation vs Participation Journey
+# Strongest Reservation / Participation Tensions After Restaurant #15
+
+---
+
+# Tension 1 — Reservation vs Participation Journey
 
 Question:
 
-When does the reservation stop being the central participation event and become only one state inside a larger journey?
+> **When does the reservation stop being the central participation event and become only one state inside a larger journey?**
 
 Strong cases:
 
-ICHIRAN
+- ICHIRAN
+- Noma
+- Pearl Morissette
 
-Noma
+---
 
-Pearl Morissette
-
-Tension 2 — Booking vs Visit Preparation
+# Tension 2 — Booking vs Visit Preparation
 
 Question:
 
-Is post-booking preparation genuinely part of hospitality participation or merely ordinary logistics?
+> **Is post-booking preparation genuinely part of hospitality participation or merely ordinary logistics?**
 
 Strongest case:
 
 Pearl Morissette.
 
-Tension 3 — Financial Commitment vs Total Visit Commitment
+---
+
+# Tension 3 — Financial Commitment vs Total Visit Commitment
 
 Question:
 
-When should travel, time, coordination, and compatibility materially affect how commitment is evaluated?
+> **When should travel, time, coordination, and compatibility materially affect how commitment is evaluated?**
 
 Strongest case:
 
 Pearl Morissette.
 
-Tension 4 — Stable Participation vs Variable Product
+---
+
+# Tension 4 — Stable Participation vs Variable Product
 
 Question:
 
-Can stable access architecture provide useful certainty while the product itself remains materially variable?
+> **Can stable access architecture provide useful certainty while the product itself remains materially variable?**
 
 Strongest cases:
 
-Noma
+- Noma
+- Pearl Morissette
 
-Pearl Morissette
+---
 
-Tension 5 — Rule Consistency vs Instruction Consistency
+# Tension 5 — Rule Consistency vs Instruction Consistency
 
 Question:
 
-Should participation governance distinguish policy conflict from practical action conflict?
+> **Should participation governance distinguish policy conflict from practical action conflict?**
 
 Strongest new case:
 
 Pearl Morissette.
 
-Tension 6 — System Clarity vs Rule Consistency
+---
+
+# Tension 6 — System Clarity vs Rule Consistency
 
 Question:
 
-Can the guest understand the system while still encountering contradictory rules, or vice versa?
+> **Can the guest understand the system while still encountering contradictory rules, or vice versa?**
 
 Strong cases:
 
-ICHIRAN
+- ICHIRAN
+- Din Tai Fung
+- Noma
+- Pearl Morissette
 
-Din Tai Fung
+---
 
-Noma
-
-Pearl Morissette
-
-Tension 7 — Self-Service vs Human Assistance
+# Tension 7 — Self-Service vs Human Assistance
 
 Question:
 
-Where should structured self-service stop and human assistance begin?
+> **Where should structured self-service stop and human assistance begin?**
 
 Strongest contrast:
 
-ICHIRAN
-
-Haidilao
+- ICHIRAN
+- Haidilao
 
 with:
 
@@ -6091,61 +6580,66 @@ compatibility:
 
 exceptions.
 
-Tension 8 — Guest Agency vs System Structure
+---
+
+# Tension 8 — Guest Agency vs System Structure
 
 Question:
 
-How much agency can a tightly structured hospitality system provide without becoming unrestricted choice?
+> **How much agency can a tightly structured hospitality system provide without becoming unrestricted choice?**
 
 Strong cases:
 
-ICHIRAN
+- ICHIRAN
+- Noma
+- Pearl Morissette
 
-Noma
+---
 
-Pearl Morissette
-
-Tension 9 — Participation Breadth vs Depth
+# Tension 9 — Participation Breadth vs Depth
 
 Question:
 
-Is complexity caused by many routes or by many states inside one route?
+> **Is complexity caused by many routes or by many states inside one route?**
 
 Strong cases:
 
-Din Tai Fung
+- Din Tai Fung
+- Pearl Morissette
+- ICHIRAN
 
-Pearl Morissette
+---
 
-ICHIRAN
-
-Tension 10 — Geographic Complexity vs Hospitality Complexity
+# Tension 10 — Geographic Complexity vs Hospitality Complexity
 
 Question:
 
-When is participation difficult because of the restaurant's operating system, and when is it difficult because of physical geography?
+> **When is participation difficult because of the restaurant's operating system, and when is it difficult because of physical geography?**
 
 Strongest case:
 
 Pearl Morissette.
 
-Tension 11 — Availability vs Listed Offer
+---
+
+# Tension 11 — Availability vs Listed Offer
 
 Question:
 
-How should conditional experiences be represented when their current availability depends on season, resource, or operational state?
+> **How should conditional experiences be represented when their current availability depends on season, resource, or operational state?**
 
 Strong cases:
 
-Noma
+- Noma
+- Pearl Morissette
 
-Pearl Morissette
+---
 
-Tension 12 — Policy Stability vs Policy Freshness
+# Tension 12 — Policy Stability vs Policy Freshness
 
 Question:
 
-Can a stable participation route remain trustworthy when individual rules change over time?
+> **Can a stable participation route remain trustworthy when individual rules change over time?**
 
 Strongest case:
 
@@ -6163,57 +6657,85 @@ evidence:
 
 discipline.
 
-Strongest Reservation Falsification Questions
+---
 
-Participation Throughout the Journey
+# Strongest Reservation Falsification Questions
 
-Does each identified participation state materially affect the guest's ability to take part, or are we simply labeling ordinary customer-journey steps as hospitality participation?
+---
 
-Visit Preparation
+# Participation Throughout the Journey
 
-Would the visit still succeed without explicit hospitality support during preparation, making this state ordinary travel planning rather than participation architecture?
+> **Does each identified participation state materially affect the guest's ability to take part, or are we simply labeling ordinary customer-journey steps as hospitality participation?**
 
-Stable Participation / Variable Product
+---
 
-Is the product sufficiently variable that stable participation meaningfully resolves uncertainty, or is this simply a normal reservation system around a seasonal menu?
+# Visit Preparation
 
-Hospitality System Proof
+> **Would the visit still succeed without explicit hospitality support during preparation, making this state ordinary travel planning rather than participation architecture?**
 
-Does the system require explanation because participation is materially unusual, or are standard interface conventions already sufficient?
+---
 
-Escalating Participation Complexity
+# Stable Participation / Variable Product
 
-Does complexity materially increase for the guest, or is the backend simply complex while the guest journey remains simple?
+> **Is the product sufficiently variable that stable participation meaningfully resolves uncertainty, or is this simply a normal reservation system around a seasonal menu?**
 
-Participation Rule Consistency
+---
 
-Which cross-surface inconsistencies would actually alter guest action, eligibility, commitment, or arrival?
+# Hospitality System Proof
 
-Manageable Commitment
+> **Does the system require explanation because participation is materially unusual, or are standard interface conventions already sufficient?**
 
-What concrete post-booking options exist, and are they proportionate to the commitment?
+---
 
-Compatibility Adaptation
+# Escalating Participation Complexity
 
-Can material guest needs be accommodated without dissolving the intended experience structure?
+> **Does complexity materially increase for the guest, or is the backend simply complex while the guest journey remains simple?**
 
-Guest Preparation Load
+---
 
-At what point does practical preparation become burdensome enough to require stronger hospitality support?
+# Participation Rule Consistency
 
-Total Visit Commitment
+> **Which cross-surface inconsistencies would actually alter guest action, eligibility, commitment, or arrival?**
 
-Which forms of time, travel, coordination, or compatibility are material enough to belong inside the commitment model?
+---
 
-Multi-Intent Hospitality
+# Manageable Commitment
 
-Are the routes genuinely driven by different guest intents, or are they merely different booking products?
+> **What concrete post-booking options exist, and are they proportionate to the commitment?**
 
-Human Assistance
+---
 
-Can the system resolve exceptions through structured self-service without human intervention, or does the edge case materially require a person?
+# Compatibility Adaptation
 
-Candidate Review Queue — Reservation / Participation Dimension
+> **Can material guest needs be accommodated without dissolving the intended experience structure?**
+
+---
+
+# Guest Preparation Load
+
+> **At what point does practical preparation become burdensome enough to require stronger hospitality support?**
+
+---
+
+# Total Visit Commitment
+
+> **Which forms of time, travel, coordination, or compatibility are material enough to belong inside the commitment model?**
+
+---
+
+# Multi-Intent Hospitality
+
+> **Are the routes genuinely driven by different guest intents, or are they merely different booking products?**
+
+---
+
+# Human Assistance
+
+> **Can the system resolve exceptions through structured self-service without human intervention, or does the edge case materially require a person?**
+
+---
+
+# Candidate Review Queue — Reservation / Participation Dimension
 
 The following:
 
@@ -6237,7 +6759,9 @@ is:
 
 complete.
 
-1. Participation Throughout the Journey
+---
+
+# 1. Participation Throughout the Journey
 
 Current:
 
@@ -6253,19 +6777,13 @@ Candidate / Medium
 
 Strongest cross-case support:
 
-Dishoom
-
-Franklin
-
-Haidilao
-
-ICHIRAN
-
-Din Tai Fung
-
-Noma
-
-Pearl Morissette
+- Dishoom
+- Franklin
+- Haidilao
+- ICHIRAN
+- Din Tai Fung
+- Noma
+- Pearl Morissette
 
 Strongest new mechanism:
 
@@ -6275,7 +6793,9 @@ Primary risk:
 
 overbreadth.
 
-2. Stable Participation / Variable Product
+---
+
+# 2. Stable Participation / Variable Product
 
 Current:
 
@@ -6293,15 +6813,13 @@ Strongest:
 
 cases:
 
-Noma
-
-Pearl Morissette
+- Noma
+- Pearl Morissette
 
 Partial:
 
-Alinea
-
-NARISAWA
+- Alinea
+- NARISAWA
 
 Primary boundary:
 
@@ -6311,7 +6829,9 @@ be:
 
 material.
 
-3. Escalating Participation Complexity
+---
+
+# 3. Escalating Participation Complexity
 
 Current:
 
@@ -6333,9 +6853,13 @@ Primary risk:
 
 descriptive rather than explanatory.
 
-Existing Candidate Confidence Watch
+---
 
-Hospitality System Proof
+# Existing Candidate Confidence Watch
+
+---
+
+# Hospitality System Proof
 
 Current:
 
@@ -6361,7 +6885,9 @@ from:
 
 Reservation alone.
 
-Participation Rule Consistency
+---
+
+# Participation Rule Consistency
 
 Current:
 
@@ -6377,7 +6903,9 @@ No confidence:
 
 change.
 
-Manageable Commitment
+---
+
+# Manageable Commitment
 
 Current:
 
@@ -6389,9 +6917,13 @@ Insufficient
 
 No change.
 
-Patterns That Should Not Move From Restaurant #15 Reservation Evidence
+---
 
-Commitment Without Pressure
+# Patterns That Should Not Move From Restaurant #15 Reservation Evidence
+
+---
+
+# Commitment Without Pressure
 
 Insufficient:
 
@@ -6405,7 +6937,9 @@ evidence.
 
 Remain Emerging.
 
-Multi-Intent Hospitality
+---
+
+# Multi-Intent Hospitality
 
 Moderate:
 
@@ -6415,7 +6949,9 @@ only.
 
 Remain Emerging.
 
-The Guest as Participant
+---
+
+# The Guest as Participant
 
 Broad:
 
@@ -6433,7 +6969,9 @@ discipline.
 
 Remain Emerging.
 
-Human Assistance Where Structured Self-Service Is Insufficient
+---
+
+# Human Assistance Where Structured Self-Service Is Insufficient
 
 Moderate:
 
@@ -6441,7 +6979,9 @@ support.
 
 Remain Emerging.
 
-Walk-In as First-Class Participation
+---
+
+# Walk-In as First-Class Participation
 
 No:
 
@@ -6453,7 +6993,9 @@ evidence.
 
 Remain Candidate / High.
 
-Own the Guest Relationship
+---
+
+# Own the Guest Relationship
 
 No:
 
@@ -6467,7 +7009,9 @@ evidence.
 
 Remain Partially Supported / Medium.
 
-Reservation / Participation Comparison Conclusion
+---
+
+# Reservation / Participation Comparison Conclusion
 
 After:
 
@@ -6503,7 +7047,7 @@ cross-case:
 
 finding remains:
 
-Participation is a state system.
+> **Participation is a state system.**
 
 Restaurant Pearl Morissette:
 
@@ -6517,7 +7061,9 @@ important:
 
 state:
 
+```text
 Visit Preparation
+```
 
 which:
 
@@ -6593,6 +7139,7 @@ participation:
 
 sequence is:
 
+```text
 Intent
 ↓
 Access
@@ -6610,6 +7157,7 @@ Participation
 Completion
 ↓
 Relationship Continuation
+```
 
 when:
 
@@ -6637,9 +7185,11 @@ commitment:
 
 model.
 
+```text
 Commitment
 ≠
 Money Alone
+```
 
 A:
 
@@ -6773,17 +7323,17 @@ questions leaving:
 
 Reservation comparison are:
 
-Has Participation Throughout the Journey become sufficiently repeated, bounded, and materially tied to hospitality participation to become Candidate / Medium?
+> **Has Participation Throughout the Journey become sufficiently repeated, bounded, and materially tied to hospitality participation to become Candidate / Medium?**
 
-Has Stable Participation / Variable Product accumulated enough independent support to become Candidate / Medium?
+> **Has Stable Participation / Variable Product accumulated enough independent support to become Candidate / Medium?**
 
-Has Escalating Participation Complexity become sufficiently explanatory and falsifiable to enter Candidate maturity?
+> **Has Escalating Participation Complexity become sufficiently explanatory and falsifiable to enter Candidate maturity?**
 
 A secondary:
 
 question is:
 
-Has Hospitality System Proof accumulated enough mechanistic breadth across ICHIRAN, Din Tai Fung, Noma, and Pearl Morissette to justify a confidence increase?
+> **Has Hospitality System Proof accumulated enough mechanistic breadth across ICHIRAN, Din Tai Fung, Noma, and Pearl Morissette to justify a confidence increase?**
 
 Those:
 
@@ -6823,105 +7373,36 @@ be:
 
 performed.
 
-Post–Dans le Noir? London Reservation Reconciliation
+---
+
+# Post–Dans le Noir? London Reservation Reconciliation
 
 This section records Restaurant #16 against the complete historical comparison above.
 
 The earlier Post–Pearl Morissette Candidate review queue remains visible as an audit record. Canonical reconciliation subsequently changed several states before Restaurant #16 began.
 
-Pattern
-
-Canonical state entering Restaurant #16
-
-Reservation comparison decision
-
-Participation Throughout the Journey
-
-Candidate / Medium
-
-Retain
-
-Stable Participation / Variable Product
-
-Candidate / Medium
-
-Retain
-
-Hospitality System Proof
-
-Candidate / High
-
-Retain
-
-Participation Rule Consistency
-
-Candidate / Medium
-
-Retain; consistency issue remains open
-
-Manageable Commitment
-
-Candidate / Medium
-
-Retain
-
-Layered Arrival
-
-Candidate / Medium
-
-Retain
-
-Capacity Proof
-
-Candidate / Medium
-
-Retain
-
-Escalating Participation Complexity
-
-Emerging
-
-Retain; high-priority refinement
-
-Human Assistance Where Structured Self-Service Is Insufficient
-
-Emerging
-
-Retain; high promotion watch
-
-Commitment Without Pressure
-
-Emerging
-
-Retain
-
-Promise Before Proof
-
-Emerging
-
-Retain
-
-The Guest as Participant
-
-Emerging
-
-Retain
-
-Multi-Intent Hospitality
-
-Emerging
-
-Retain
-
-Own the Guest Relationship
-
-Partially Supported / Medium
-
-Retain
+| Pattern | Canonical state entering Restaurant #16 | Reservation comparison decision |
+|---|---:|---|
+| Participation Throughout the Journey | Candidate / Medium | Retain |
+| Stable Participation / Variable Product | Candidate / Medium | Retain |
+| Hospitality System Proof | Candidate / High | Retain |
+| Participation Rule Consistency | Candidate / Medium | Retain; consistency issue remains open |
+| Manageable Commitment | Candidate / Medium | Retain |
+| Layered Arrival | Candidate / Medium | Retain |
+| Capacity Proof | Candidate / Medium | Retain |
+| Escalating Participation Complexity | Emerging | Retain; high-priority refinement |
+| Human Assistance Where Structured Self-Service Is Insufficient | Emerging | Retain; high promotion watch |
+| Commitment Without Pressure | Emerging | Retain |
+| Promise Before Proof | Emerging | Retain |
+| The Guest as Participant | Emerging | Retain |
+| Multi-Intent Hospitality | Emerging | Retain |
+| Own the Guest Relationship | Partially Supported / Medium | Retain |
 
 No maturity or confidence change is made in this comparison file.
 
-Comparison 71 — More Surprise Requires More Consequence Clarity
+---
+
+# Comparison 71 — More Surprise Requires More Consequence Clarity
 
 Alinea, Noma, and Pearl Morissette established that product specificity can remain limited before commitment.
 
@@ -6929,21 +7410,27 @@ Dans le Noir? intensifies the problem. The guest does not know the exact dishes 
 
 The reservation must therefore disclose more about consequence even while disclosing less about outcome.
 
+```text
 Lower Product Specificity
 +
 Higher Participation Consequence
 ↓
 Higher Rule Clarity
+```
 
-Correction 62
+## Correction 62
 
+```text
 Surprise
 ≠
 Insufficient Preparation
+```
 
 Price, course structure, dietary process, shared seating, darkness, belongings surrender, guide dependence, duration, and access limits cannot be protected as surprise.
 
-Comparison 72 — Reservation Can Be the First Formal Participation State
+---
+
+# Comparison 72 — Reservation Can Be the First Formal Participation State
 
 In simpler systems, booking mainly secures inventory.
 
@@ -6951,59 +7438,59 @@ Restaurant #16 uses booking to begin operational participation. The guest suppli
 
 The booking captures or routes:
 
-identity
+- identity
+- contact information
+- date and time
+- party size
+- menu quantities
+- allergies and diets
+- the named person concerned
+- mobility or exception needs
+- special-event context
+- linked-reservation requests
+- required policy acceptance
 
-contact information
+## Correction 63
 
-date and time
-
-party size
-
-menu quantities
-
-allergies and diets
-
-the named person concerned
-
-mobility or exception needs
-
-special-event context
-
-linked-reservation requests
-
-required policy acceptance
-
-Correction 63
-
+```text
 Reservation Secured
 ≠
 Participation Complete
+```
 
 The reservation is a state transition, not the journey endpoint.
 
-Comparison 73 — Few Interface Stages Can Contain High Participation Complexity
+---
+
+# Comparison 73 — Few Interface Stages Can Contain High Participation Complexity
 
 The observed public booking flow presents three labelled stages:
 
+```text
 Booking
 ↓
 Contact Details
 ↓
 Confirmation
+```
 
 The visible step count is low. The responsibility contained within those stages is high.
 
 It includes inventory dependency, menu allocation, dietary mapping, consent, access exceptions, social conditions, sensory surrender, human reliance, and later reconfirmation.
 
-Correction 64
+## Correction 64
 
+```text
 Few Interface Stages
 ≠
 Low Participation Complexity
+```
 
 Complexity can be distributed across copy, procedure, timing, people, and physical handoff rather than navigation depth.
 
-Comparison 74 — Participation Complexity Does Not Require Interface Complexity
+---
+
+# Comparison 74 — Participation Complexity Does Not Require Interface Complexity
 
 Escalating Participation Complexity previously risked implying that more consequential experiences need more interface layers.
 
@@ -7011,52 +7498,40 @@ Dans le Noir? supplies direct contradiction evidence.
 
 The interface remains compact while support escalates through:
 
-preparatory pages
+- preparatory pages
+- FAQ
+- form fields
+- comments
+- policy links
+- telephone and contact routes
+- arrival staff
+- guide-waiters
 
-FAQ
+## Correction 65
 
-form fields
-
-comments
-
-policy links
-
-telephone and contact routes
-
-arrival staff
-
-guide-waiters
-
-Correction 65
-
+```text
 Participation Complexity
 ≠
 Interface Complexity
+```
 
-The stronger explanatory variable may be Support Escalation, not screen count.
+The stronger explanatory variable may be **Support Escalation**, not screen count.
 
-Comparison 75 — Information Should Be Partitioned by Consequence
+---
+
+# Comparison 75 — Information Should Be Partitioned by Consequence
 
 The reservation architecture separates three information classes.
 
-Information class
+| Information class | Dans le Noir? examples |
+|---|---|
+| Must be known before commitment | darkness, shared seating, price, course count, belongings rules, guide-led participation, dietary process |
+| May remain unknown | exact dishes, ingredient sequence, sensory interpretation, final reveal |
+| Must be supplied by the guest | identity, party size, menu quantities, allergies, named person, access needs, consent |
 
-Dans le Noir? examples
+## New Architecture Direction
 
-Must be known before commitment
-
-darkness, shared seating, price, course count, belongings rules, guide-led participation, dietary process
-
-May remain unknown
-
-exact dishes, ingredient sequence, sensory interpretation, final reveal
-
-Must be supplied by the guest
-
-identity, party size, menu quantities, allergies, named person, access needs, consent
-
-New Architecture Direction
-
+```text
 Information Partitioning
 =
 Known Consequences
@@ -7064,15 +7539,19 @@ Known Consequences
 Protected Outcomes
 +
 Required Guest Disclosure
+```
 
 This is a reservation variable, not a formal pattern.
 
-Comparison 76 — Menu Structure Selection Is Not Product Knowledge
+---
+
+# Comparison 76 — Menu Structure Selection Is Not Product Knowledge
 
 The guest can choose a priced course architecture without choosing exact food.
 
 This expands the cross-case commitment model:
 
+```text
 Menu Structure
 +
 Price
@@ -7080,16 +7559,21 @@ Price
 Dietary Boundary
 ↓
 Bounded Product Commitment
+```
 
-Correction 66
+## Correction 66
 
+```text
 Menu Structure Selection
 ≠
 Product Knowledge
+```
 
 The booking can establish the commitment envelope while preserving the culinary reveal.
 
-Comparison 77 — A No-Preference Model Requires Strong Exception Capture
+---
+
+# Comparison 77 — A No-Preference Model Requires Strong Exception Capture
 
 The restaurant does not invite ordinary food preference because surprise is part of the product.
 
@@ -7097,131 +7581,147 @@ It must still capture allergies and specific dietary requirements.
 
 This produces an asymmetrical input model:
 
+```text
 Preference suppressed
 
 Exception specificity increased
+```
 
-Correction 67
+## Correction 67
 
+```text
 No Preference Choice
 ≠
 No Compatibility Responsibility
+```
 
 The system removes one category of guest control while increasing the importance of consequence-bearing disclosure.
 
-Comparison 78 — Consequences May Need to Be Mapped to Named People
+---
+
+# Comparison 78 — Consequences May Need to Be Mapped to Named People
 
 Party-level dietary notes can be ambiguous when several guests participate.
 
 Restaurant #16 publicly asks for the first name of the person concerned.
 
-New Architecture Direction
+## New Architecture Direction
 
+```text
 Requirement
 +
 Named Participant
 ↓
 Consequence Mapping
+```
 
-Correction 68
+## Correction 68
 
+```text
 Party-Level Disclosure
 ≠
 Person-Level Operational Clarity
+```
 
 Named Consequence Mapping is an architecture variable. Public field structure does not prove internal handoff accuracy.
 
-Comparison 79 — Explicit No-Requirement States Can Reduce Silent Ambiguity
+---
+
+# Comparison 79 — Explicit No-Requirement States Can Reduce Silent Ambiguity
 
 The observed booking interface requires an allergy or dietary Yes/No response.
 
 A blank field can mean:
 
-no requirement
-
-oversight
-
-avoidance
-
-incomplete entry
+- no requirement
+- oversight
+- avoidance
+- incomplete entry
 
 An explicit No distinguishes absence from silence.
 
-Correction 69
+## Correction 69
 
+```text
 Blank Disclosure
 ≠
 Confirmed No Requirement
+```
 
 Whether this structure reduces operational failure remains a falsification question.
 
-Comparison 80 — Repetition Can Be Consequence-Proportionate Hospitality
+---
+
+# Comparison 80 — Repetition Can Be Consequence-Proportionate Hospitality
 
 The allergy or dietary requirement may be:
 
-declared during booking
-
-attached to a named person
-
-reconfirmed on arrival
-
-verbally reminded to the guide
+1. declared during booking
+2. attached to a named person
+3. reconfirmed on arrival
+4. verbally reminded to the guide
 
 Ordinary interface analysis might label this duplication.
 
 The consequence of a failed handoff may justify repetition.
 
-Correction 70
+## Correction 70
 
+```text
 Repeated Information
 ≠
 Redundant Information by Default
+```
 
 Repetition is defensible when each repetition verifies a different handoff or responsibility boundary.
 
-Comparison 81 — Required Disclosure Does Not Prove Successful Handoff
+---
+
+# Comparison 81 — Required Disclosure Does Not Prove Successful Handoff
 
 A mandatory field proves that the public system requests information.
 
 It does not prove:
 
-truthful entry
+- truthful entry
+- correct storage
+- correct mapping
+- staff visibility
+- arrival reconciliation
+- guide receipt
+- safe execution
 
-correct storage
+## Correction 71
 
-correct mapping
-
-staff visibility
-
-arrival reconciliation
-
-guide receipt
-
-safe execution
-
-Correction 71
-
+```text
 Required Disclosure Field
 ≠
 Successful Operational Handoff
+```
 
 This is a core boundary for Participation Rule Consistency, Hospitality System Proof, and Capacity Proof.
 
-Comparison 82 — Guest Responsibility Does Not Transfer Restaurant Accountability
+---
+
+# Comparison 82 — Guest Responsibility Does Not Transfer Restaurant Accountability
 
 The guest must accurately disclose requirements and is encouraged to remind the guide.
 
 That participation does not remove the restaurant's responsibility to design, transfer, verify, and act on the information.
 
-Correction 72
+## Correction 72
 
+```text
 Guest Disclosure Responsibility
 ≠
 Transfer of Restaurant Accountability
+```
 
 The guest can participate in the safety chain without becoming the sole safety system.
 
-Comparison 83 — The Booking Guest Can Become a Proxy Participant
+---
+
+# Comparison 83 — The Booking Guest Can Become a Proxy Participant
 
 One person may book for several people and enter menu quantities, dietary details, linked-reservation notes, access information, and policy acceptance.
 
@@ -7229,25 +7729,25 @@ The booker therefore acts as a proxy for other participants.
 
 This creates risks:
 
-incomplete knowledge
+- incomplete knowledge
+- misspelled or ambiguous names
+- requirements not communicated within the party
+- consent assumed rather than understood
+- one person's preference substituted for another's consequence
 
-misspelled or ambiguous names
+## Correction 73
 
-requirements not communicated within the party
-
-consent assumed rather than understood
-
-one person's preference substituted for another's consequence
-
-Correction 73
-
+```text
 Booker Completion
 ≠
 Party Understanding
+```
 
 Proxy Responsibility is a participation variable requiring future cross-case study.
 
-Comparison 84 — Shared Seating Is a Product Rule, Not a Seating Detail
+---
+
+# Comparison 84 — Shared Seating Is a Product Rule, Not a Seating Detail
 
 The shared-table model affects privacy, comfort, social expectation, and suitability.
 
@@ -7255,239 +7755,247 @@ It is therefore consequence-relevant before commitment.
 
 The public site explains shared seating, but the inspected booking form did not isolate it as a dedicated required acknowledgement.
 
-Correction 74
+## Correction 74
 
+```text
 Shared-Table Explanation
 ≠
 Shared-Table Understanding or Comfort
+```
 
 Shared-Table Commitment is an architecture direction, not a pattern promotion.
 
-Comparison 85 — Policy Acceptance Is Not Policy Understanding
+---
+
+# Comparison 85 — Policy Acceptance Is Not Policy Understanding
 
 The form requires acceptance of access and transactional conditions.
 
 A checked box proves a recorded action. It does not prove comprehension, accessibility, relevance, or recall.
 
-Correction 75
+## Correction 75
 
+```text
 Policy Acceptance
 ≠
 Policy Understanding
+```
 
 High-consequence rules should appear in usable journey context, not only in linked legal text.
 
-Comparison 86 — Comments Fields Are Weak Exception Infrastructure
+---
+
+# Comparison 86 — Comments Fields Are Weak Exception Infrastructure
 
 The open comments field can capture mobility difficulties, linked bookings, special events, and unusual requests.
 
 It cannot independently guarantee:
 
-structured classification
+- structured classification
+- staff ownership
+- response timing
+- acknowledgement
+- escalation
+- fulfillment
 
-staff ownership
+## Correction 76
 
-response timing
-
-acknowledgement
-
-escalation
-
-fulfillment
-
-Correction 76
-
+```text
 Comments Field
 ≠
 Structured Exception Handling
+```
 
 and:
 
+```text
 Request Capture
 ≠
 Request Fulfilment
+```
 
 Complex access needs should trigger an observable human follow-up path.
 
-Comparison 87 — Human Assistance Can Be Both Escalation and Product
+---
+
+# Comparison 87 — Human Assistance Can Be Both Escalation and Product
 
 Across prior cases, human help often appears when self-service fails or exceptions arise.
 
 At Dans le Noir?, human assistance serves two roles:
 
-escalation for groups, access questions, private events, and complex exceptions
+1. escalation for groups, access questions, private events, and complex exceptions
+2. the operating core of the dark-room experience through guide-waiters
 
-the operating core of the dark-room experience through guide-waiters
+## Correction 77
 
-Correction 77
-
+```text
 Human Assistance
 ≠
 Fallback Support Only
+```
 
 This is the strongest support so far for Human Assistance Where Structured Self-Service Is Insufficient, but the pattern remains Emerging until canonical reconciliation.
 
-Comparison 88 — Self-Service Sufficiency Is Contextual
+---
+
+# Comparison 88 — Self-Service Sufficiency Is Contextual
 
 The booking flow supports standard dates, party sizes, menu allocations, ordinary dietary declaration, and contact capture.
 
 It becomes less sufficient as:
 
-party size increases
+- party size increases
+- event complexity rises
+- access needs become specific
+- bookings must be linked
+- guide-dog coordination is required
+- ordinary fields cannot represent the request
 
-event complexity rises
+## Correction 78
 
-access needs become specific
-
-bookings must be linked
-
-guide-dog coordination is required
-
-ordinary fields cannot represent the request
-
-Correction 78
-
+```text
 Self-Service Availability
 ≠
 Self-Service Sufficiency
+```
 
 The architecture should escalate support in proportion to consequence, scale, and exception complexity.
 
-Comparison 89 — Capacity Can Be Legible Without Exposing the Capacity Model
+---
+
+# Comparison 89 — Capacity Can Be Legible Without Exposing the Capacity Model
 
 The public interface shows date, time, party-size, available, and full states.
 
 It does not expose the complete allocation logic for tables, guides, service waves, menu eligibility, or the stated 50-person room capacity.
 
-Correction 79
+## Correction 79
 
+```text
 Real-Time Availability
 ≠
 Permanent Capacity
+```
 
 and:
 
+```text
 Selectable Inventory
 ≠
 Full Operating Capacity Model
+```
 
 The case supports Capacity Proof at a bounded level only.
 
-Comparison 90 — Availability Information Does Not Require Artificial Pressure
+---
+
+# Comparison 90 — Availability Information Does Not Require Artificial Pressure
 
 The reviewed interface showed available and full service states.
 
 It did not visibly require countdown timers, popularity claims, expiring-session warnings, or pressure copy to make scarcity legible.
 
-Correction 80
+## Correction 80
 
+```text
 Real-Time Inventory Display
 ≠
 Artificial Scarcity
+```
 
 This supports Commitment Without Pressure while leaving the inventory calculation unverified.
 
-Comparison 91 — Pre-Commitment Choice Is Not Post-Commitment Flexibility
+---
+
+# Comparison 91 — Pre-Commitment Choice Is Not Post-Commitment Flexibility
 
 The public flow supports meaningful choices before submission:
 
-date
-
-time
-
-party size
-
-menu structure
-
-dietary disclosure
-
-exception comments
-
-human contact
+- date
+- time
+- party size
+- menu structure
+- dietary disclosure
+- exception comments
+- human contact
 
 The reviewed evidence does not establish self-service cancellation, rescheduling, menu revision, or post-booking modification.
 
-Cross-Case Correction
+## Cross-Case Correction
 
+```text
 Pre-Commitment Choice
 ≠
 Post-Commitment Flexibility
+```
 
 Manageable Commitment receives bounded support, not a confidence increase.
 
-Comparison 92 — Reservation Records Can Function as Operational Briefs
+---
+
+# Comparison 92 — Reservation Records Can Function as Operational Briefs
 
 The reservation is more than a seat claim.
 
 It can contain:
 
-when
+- when
+- how many
+- which menu structures
+- who booked
+- how to contact them
+- who has a dietary consequence
+- which access adaptation may be required
+- whether a special event exists
+- whether bookings should be linked
+- which conditions were accepted
 
-how many
+## New Architecture Direction
 
-which menu structures
-
-who booked
-
-how to contact them
-
-who has a dietary consequence
-
-which access adaptation may be required
-
-whether a special event exists
-
-whether bookings should be linked
-
-which conditions were accepted
-
-New Architecture Direction
-
+```text
 Reservation Record
 →
 Pre-Service Operational Brief
+```
 
 The public form supports this potential. It does not prove internal distribution or use.
 
-Comparison 93 — Reservation Calibrates Mutual Reliance
+---
+
+# Comparison 93 — Reservation Calibrates Mutual Reliance
 
 The guest relies on the restaurant for:
 
-unknown food
-
-unseen space
-
-guide-led movement
-
-dietary handoff
-
-shared-table management
-
-final reveal
+- unknown food
+- unseen space
+- guide-led movement
+- dietary handoff
+- shared-table management
+- final reveal
 
 The restaurant relies on the guest for:
 
-accurate identity
+- accurate identity
+- accurate contact details
+- truthful dietary disclosure
+- access requirements
+- party information
+- policy acceptance
 
-accurate contact details
+## New Architecture Direction
 
-truthful dietary disclosure
-
-access requirements
-
-party information
-
-policy acceptance
-
-New Architecture Direction
-
+```text
 Guest Trusts the System
 
 Restaurant Relies on the Disclosure
+```
 
 Pre-Experience Trust Calibration describes this mutual dependence. It is not a formal pattern.
 
-Comparison 94 — Stable Rules Can Contain a Changing and Concealed Product
+---
+
+# Comparison 94 — Stable Rules Can Contain a Changing and Concealed Product
 
 Noma and Pearl Morissette established material product variability inside stable participation.
 
@@ -7495,99 +8003,87 @@ Dans le Noir? adds a further condition: the menu changes periodically and remain
 
 Stable rules include:
 
-reserve date and time
+- reserve date and time
+- choose course structure
+- declare restrictions
+- accept darkness and shared seating
+- surrender belongings
+- follow the guide
+- reconfirm consequence-bearing information
+- receive the reveal
 
-choose course structure
+## Cross-Case Refinement
 
-declare restrictions
-
-accept darkness and shared seating
-
-surrender belongings
-
-follow the guide
-
-reconfirm consequence-bearing information
-
-receive the reveal
-
-Cross-Case Refinement
-
+```text
 Stable Participation
 can contain
 Variable Product
 +
 Protected Product Identity
+```
 
 This is very strong support for the existing Candidate / Medium. No confidence change is made here.
 
-Comparison 95 — Public Rule Consistency Can Contain One Material Conflict
+---
+
+# Comparison 95 — Public Rule Consistency Can Contain One Material Conflict
 
 Most published participation rules align across the booking page, menu page, FAQ, form, access conditions, and arrival guidance.
 
 One issue remains unresolved:
 
+```text
 Menu Allocation at Booking
 vs
 Order Taken on Arrival
+```
 
 Possible explanations include preliminary allocation, drinks-only arrival ordering, changeability, or content drift.
 
 The public evidence cannot select among them.
 
-Cross-Case Correction
+## Cross-Case Correction
 
+```text
 Mostly Consistent System
 ≠
 Fully Resolved Instruction System
+```
 
 Participation Rule Consistency remains Candidate / Medium with an active falsification need.
 
-Dans le Noir? Reservation Architecture Directions
+---
+
+# Dans le Noir? Reservation Architecture Directions
 
 The following are research variables and mechanisms only:
 
-Bounded Product Commitment — commitment to price and menu structure without exact dish identity.
-
-Consequence Clarity / Outcome Uncertainty — explicit rules around an intentionally unknown sensory outcome.
-
-Information Partitioning — distinguishing what must be known, may remain unknown, and must be supplied.
-
-Named Consequence Mapping — attaching a dietary or access requirement to the relevant person.
-
-Consequence-Relevant Repetition — repeating high-risk information across handoffs.
-
-Explicit No-Requirement State — distinguishing confirmed absence from an empty response.
-
-Menu Allocation Before Product Disclosure — selecting course architecture without exact dishes.
-
-Scale-Sensitive Participation — changing support routes as party or event complexity increases.
-
-Human Escalation Architecture — moving from fields to people when structured self-service is insufficient.
-
-Availability as Operational Truth — exposing current inventory without persuasion pressure.
-
-Progressive Consequence Disclosure — introducing decisions at the point they become relevant.
-
-Reservation as Operational Brief — using the booking record to prepare service.
-
-Shared-Table Commitment — treating communal seating as a product rule.
-
-Access Exception Channel — routing mobility, guide-dog, and specific participation needs.
-
-Pre-Experience Trust Calibration — balancing guest reliance with accurate guest disclosure.
-
-Stable Rules / Variable Product — maintaining participation consistency around a changing menu.
-
-Proxy Responsibility — one booker supplying information for other participants.
-
-Support Escalation — increasing human and procedural support without increasing interface depth.
+1. **Bounded Product Commitment** — commitment to price and menu structure without exact dish identity.
+2. **Consequence Clarity / Outcome Uncertainty** — explicit rules around an intentionally unknown sensory outcome.
+3. **Information Partitioning** — distinguishing what must be known, may remain unknown, and must be supplied.
+4. **Named Consequence Mapping** — attaching a dietary or access requirement to the relevant person.
+5. **Consequence-Relevant Repetition** — repeating high-risk information across handoffs.
+6. **Explicit No-Requirement State** — distinguishing confirmed absence from an empty response.
+7. **Menu Allocation Before Product Disclosure** — selecting course architecture without exact dishes.
+8. **Scale-Sensitive Participation** — changing support routes as party or event complexity increases.
+9. **Human Escalation Architecture** — moving from fields to people when structured self-service is insufficient.
+10. **Availability as Operational Truth** — exposing current inventory without persuasion pressure.
+11. **Progressive Consequence Disclosure** — introducing decisions at the point they become relevant.
+12. **Reservation as Operational Brief** — using the booking record to prepare service.
+13. **Shared-Table Commitment** — treating communal seating as a product rule.
+14. **Access Exception Channel** — routing mobility, guide-dog, and specific participation needs.
+15. **Pre-Experience Trust Calibration** — balancing guest reliance with accurate guest disclosure.
+16. **Stable Rules / Variable Product** — maintaining participation consistency around a changing menu.
+17. **Proxy Responsibility** — one booker supplying information for other participants.
+18. **Support Escalation** — increasing human and procedural support without increasing interface depth.
 
 None is promoted, renamed as a canonical pattern, or assigned confidence here.
 
-Current Reservation / Participation Pattern Pressure — Post Restaurant #16
+---
 
-Participation Throughout the Journey
+# Current Reservation / Participation Pattern Pressure — Post Restaurant #16
+
+## Participation Throughout the Journey
 
 Canonical status:
 
@@ -7603,7 +8099,7 @@ Retain Candidate / Medium.
 
 No confidence change.
 
-Stable Participation / Variable Product
+## Stable Participation / Variable Product
 
 Canonical status:
 
@@ -7619,7 +8115,7 @@ Retain Candidate / Medium.
 
 Confidence review may occur only after the full five-dimension cycle.
 
-Hospitality System Proof
+## Hospitality System Proof
 
 Canonical status:
 
@@ -7637,7 +8133,7 @@ Decision:
 
 Retain Candidate / High.
 
-Participation Rule Consistency
+## Participation Rule Consistency
 
 Canonical status:
 
@@ -7653,7 +8149,7 @@ Retain Candidate / Medium.
 
 No confidence change.
 
-Manageable Commitment
+## Manageable Commitment
 
 Canonical status:
 
@@ -7667,7 +8163,7 @@ Decision:
 
 Retain Candidate / Medium.
 
-Layered Arrival
+## Layered Arrival
 
 Canonical status:
 
@@ -7681,7 +8177,7 @@ Decision:
 
 Retain Candidate / Medium.
 
-Capacity Proof
+## Capacity Proof
 
 Canonical status:
 
@@ -7695,7 +8191,7 @@ Decision:
 
 Retain Candidate / Medium.
 
-Escalating Participation Complexity
+## Escalating Participation Complexity
 
 Canonical status:
 
@@ -7715,13 +8211,15 @@ High.
 
 Refinement watch:
 
+```text
 Escalating Participation Complexity
 may predict
 Escalating Support Complexity
 more reliably than
 Escalating Interface Complexity
+```
 
-Human Assistance Where Structured Self-Service Is Insufficient
+## Human Assistance Where Structured Self-Service Is Insufficient
 
 Canonical status:
 
@@ -7739,7 +8237,7 @@ Promotion watch:
 
 High.
 
-Commitment Without Pressure
+## Commitment Without Pressure
 
 Canonical status:
 
@@ -7753,7 +8251,7 @@ Decision:
 
 Retain Emerging.
 
-Promise Before Proof
+## Promise Before Proof
 
 Canonical status:
 
@@ -7767,7 +8265,7 @@ Decision:
 
 Retain Emerging.
 
-The Guest as Participant
+## The Guest as Participant
 
 Canonical status:
 
@@ -7781,7 +8279,7 @@ Decision:
 
 Retain Emerging.
 
-Multi-Intent Hospitality
+## Multi-Intent Hospitality
 
 Canonical status:
 
@@ -7795,7 +8293,7 @@ Decision:
 
 Retain Emerging.
 
-Own the Guest Relationship
+## Own the Guest Relationship
 
 Canonical status:
 
@@ -7809,288 +8307,175 @@ Decision:
 
 Retain Partially Supported / Medium.
 
-Strongest Reservation / Participation Tensions After Restaurant #16
+---
 
-Surprise vs informed commitment — protect exact product identity while disclosing every material consequence.
+# Strongest Reservation / Participation Tensions After Restaurant #16
 
-Few stages vs high responsibility — interface simplicity can contain complex participation.
+1. **Surprise vs informed commitment** — protect exact product identity while disclosing every material consequence.
+2. **Few stages vs high responsibility** — interface simplicity can contain complex participation.
+3. **Reservation vs participation completion** — digital confirmation initiates later physical responsibilities.
+4. **Guest control vs guest responsibility** — less control over food and movement can coincide with more disclosure responsibility.
+5. **Self-service availability vs self-service sufficiency** — standard cases fit fields; exceptions require people.
+6. **Human escalation vs human product** — the guide is both support and the hospitality system itself.
+7. **Rule repetition vs redundancy** — repeated allergy information may verify distinct handoffs.
+8. **Disclosure capture vs operational handoff** — required fields do not prove execution.
+9. **Booker agency vs party understanding** — one participant may act for several.
+10. **Shared seating explanation vs consent quality** — publication does not establish comfort or comprehension.
+11. **Policy acceptance vs policy understanding** — recorded consent is not informed use by default.
+12. **Availability state vs capacity model** — live inventory can be useful without exposing allocation logic.
+13. **Availability clarity vs pressure** — scarcity information need not become persuasion.
+14. **Pre-commitment choice vs post-commitment flexibility** — Manageable Commitment must distinguish them.
+15. **Stable rules vs changing concealed product** — participation can remain consistent while the menu changes.
+16. **Instruction consistency vs content drift** — menu allocation timing remains unresolved.
+17. **Comments capture vs exception fulfillment** — free text is not an escalation system.
+18. **Guest participation vs restaurant accountability** — shared responsibility does not erase operator duty.
 
-Reservation vs participation completion — digital confirmation initiates later physical responsibilities.
+---
 
-Guest control vs guest responsibility — less control over food and movement can coincide with more disclosure responsibility.
+# Reservation Falsification Programme After Restaurant #16
 
-Self-service availability vs self-service sufficiency — standard cases fit fields; exceptions require people.
+## Participation Throughout the Journey
 
-Human escalation vs human product — the guide is both support and the hospitality system itself.
+> Which post-booking states materially affect the guest's ability to participate, and which are merely ordinary customer-journey labels?
 
-Rule repetition vs redundancy — repeated allergy information may verify distinct handoffs.
+## Stable Participation / Variable Product
 
-Disclosure capture vs operational handoff — required fields do not prove execution.
+> Do the rules remain stable across menu renewals, or is the apparent stability only a snapshot?
 
-Booker agency vs party understanding — one participant may act for several.
+## Hospitality System Proof
 
-Shared seating explanation vs consent quality — publication does not establish comfort or comprehension.
+> Is reservation information reliably visible to arrival staff and guide-waiters, or only collected by the front end?
 
-Policy acceptance vs policy understanding — recorded consent is not informed use by default.
+## Participation Rule Consistency
 
-Availability state vs capacity model — live inventory can be useful without exposing allocation logic.
+> Why does the form allocate menus before confirmation while the FAQ describes ordering on arrival?
 
-Availability clarity vs pressure — scarcity information need not become persuasion.
+## Manageable Commitment
 
-Pre-commitment choice vs post-commitment flexibility — Manageable Commitment must distinguish them.
+> What cancellation, modification, rescheduling, and menu-change options exist after submission?
 
-Stable rules vs changing concealed product — participation can remain consistent while the menu changes.
+## Escalating Participation Complexity
 
-Instruction consistency vs content drift — menu allocation timing remains unresolved.
+> Does complexity predict additional screens, or stronger human and procedural support outside the interface?
 
-Comments capture vs exception fulfillment — free text is not an escalation system.
+## Human Assistance
 
-Guest participation vs restaurant accountability — shared responsibility does not erase operator duty.
+> At what consequence threshold does a comments field become insufficient and require acknowledged human follow-up?
 
-Reservation Falsification Programme After Restaurant #16
+## Named Consequence Mapping
 
-Participation Throughout the Journey
+> Does attaching a first name to a dietary requirement improve internal handoff accuracy and guide readiness?
 
-Which post-booking states materially affect the guest's ability to participate, and which are merely ordinary customer-journey labels?
+## Consequence-Relevant Repetition
 
-Stable Participation / Variable Product
+> Does reconfirmation catch discrepancies, or merely redistribute risk back to the guest?
 
-Do the rules remain stable across menu renewals, or is the apparent stability only a snapshot?
+## Shared-Table Commitment
 
-Hospitality System Proof
+> Do guests understand and accept communal seating before confirmation without a dedicated acknowledgement?
 
-Is reservation information reliably visible to arrival staff and guide-waiters, or only collected by the front end?
+## Proxy Responsibility
 
-Participation Rule Consistency
+> How are non-booking party members informed about darkness, seating, surrender, dietary, and mobility conditions?
 
-Why does the form allocate menus before confirmation while the FAQ describes ordering on arrival?
+## Capacity Proof
 
-Manageable Commitment
+> What do date-cell numbers, duplicated times, full labels, and party-size constraints actually represent operationally?
 
-What cancellation, modification, rescheduling, and menu-change options exist after submission?
+## Commitment Without Pressure
 
-Escalating Participation Complexity
+> Can full inventory remain visible without creating artificial urgency across devices and services?
 
-Does complexity predict additional screens, or stronger human and procedural support outside the interface?
+## Access Exception Channel
 
-Human Assistance
+> Do mobility and guide-dog disclosures trigger structured acknowledgement and preparation before arrival?
 
-At what consequence threshold does a comments field become insufficient and require acknowledged human follow-up?
+## Reservation as Operational Brief
 
-Named Consequence Mapping
+> Which staff roles receive the booking information, when do they receive it, and how are changes reconciled?
 
-Does attaching a first name to a dietary requirement improve internal handoff accuracy and guide readiness?
+## Policy Understanding
 
-Consequence-Relevant Repetition
+> Can guests recover the high-consequence rules without opening or comprehending long legal documents?
 
-Does reconfirmation catch discrepancies, or merely redistribute risk back to the guest?
+---
 
-Shared-Table Commitment
+# Participation Deduplication Decisions — Restaurant #16
 
-Do guests understand and accept communal seating before confirmation without a dedicated acknowledgement?
-
-Proxy Responsibility
-
-How are non-booking party members informed about darkness, seating, surrender, dietary, and mobility conditions?
-
-Capacity Proof
-
-What do date-cell numbers, duplicated times, full labels, and party-size constraints actually represent operationally?
-
-Commitment Without Pressure
-
-Can full inventory remain visible without creating artificial urgency across devices and services?
-
-Access Exception Channel
-
-Do mobility and guide-dog disclosures trigger structured acknowledgement and preparation before arrival?
-
-Reservation as Operational Brief
-
-Which staff roles receive the booking information, when do they receive it, and how are changes reconciled?
-
-Policy Understanding
-
-Can guests recover the high-consequence rules without opening or comprehending long legal documents?
-
-Participation Deduplication Decisions — Restaurant #16
-
-Proposed direction
-
-Closest existing concept
-
-Decision
-
-Consequence Clarity / Outcome Uncertainty
-
-Promise Before Proof; Manageable Commitment
-
-Retain as architecture variable
-
-Bounded Product Commitment
-
-Stable Participation / Variable Product
-
-Retain as product-commitment mechanism
-
-Information Partitioning
-
-Pre-Arrival Clarity; Progressive disclosure
-
-Retain as cross-dimensional evidence variable
-
-Named Consequence Mapping
-
-Compatibility Adaptation; Participation Rule Consistency
-
-Retain as reservation mechanism
-
-Consequence-Relevant Repetition
-
-Instruction Consistency; Participation Rule Consistency
-
-Retain as handoff rule, not pattern
-
-Explicit No-Requirement State
-
-Participation Rule Consistency
-
-Retain as form-state mechanism
-
-Scale-Sensitive Participation
-
-Escalating Participation Complexity; Multi-Intent Hospitality
-
-Merge as mechanism, do not split pattern
-
-Human Escalation Architecture
-
-Human Assistance Where Structured Self-Service Is Insufficient
-
-Treat as mechanism of existing Emerging pattern
-
-Availability as Operational Truth
-
-Capacity Proof; Commitment Without Pressure
-
-Retain as bounded evidence direction
-
-Reservation as Operational Brief
-
-Hospitality System Proof
-
-Retain as operating direction
-
-Shared-Table Commitment
-
-The Guest as Participant
-
-Retain as product-rule application
-
-Access Exception Channel
-
-Compatibility Adaptation; Human Assistance
-
-Retain as routing mechanism
-
-Pre-Experience Trust Calibration
-
-Manageable Commitment; Hospitality System Proof
-
-Retain as architecture direction
-
-Stable Rules / Variable Product
-
-Stable Participation / Variable Product
-
-Merge into existing Candidate
-
-Proxy Responsibility
-
-The Guest as Participant
-
-Retain as new participation variable
-
-Support Escalation
-
-Escalating Participation Complexity
-
-Retain as definition refinement
+| Proposed direction | Closest existing concept | Decision |
+|---|---|---|
+| Consequence Clarity / Outcome Uncertainty | Promise Before Proof; Manageable Commitment | Retain as architecture variable |
+| Bounded Product Commitment | Stable Participation / Variable Product | Retain as product-commitment mechanism |
+| Information Partitioning | Pre-Arrival Clarity; Progressive disclosure | Retain as cross-dimensional evidence variable |
+| Named Consequence Mapping | Compatibility Adaptation; Participation Rule Consistency | Retain as reservation mechanism |
+| Consequence-Relevant Repetition | Instruction Consistency; Participation Rule Consistency | Retain as handoff rule, not pattern |
+| Explicit No-Requirement State | Participation Rule Consistency | Retain as form-state mechanism |
+| Scale-Sensitive Participation | Escalating Participation Complexity; Multi-Intent Hospitality | Merge as mechanism, do not split pattern |
+| Human Escalation Architecture | Human Assistance Where Structured Self-Service Is Insufficient | Treat as mechanism of existing Emerging pattern |
+| Availability as Operational Truth | Capacity Proof; Commitment Without Pressure | Retain as bounded evidence direction |
+| Reservation as Operational Brief | Hospitality System Proof | Retain as operating direction |
+| Shared-Table Commitment | The Guest as Participant | Retain as product-rule application |
+| Access Exception Channel | Compatibility Adaptation; Human Assistance | Retain as routing mechanism |
+| Pre-Experience Trust Calibration | Manageable Commitment; Hospitality System Proof | Retain as architecture direction |
+| Stable Rules / Variable Product | Stable Participation / Variable Product | Merge into existing Candidate |
+| Proxy Responsibility | The Guest as Participant | Retain as new participation variable |
+| Support Escalation | Escalating Participation Complexity | Retain as definition refinement |
 
 No duplicate canonical pattern is created.
 
-Restaurant #16 Reservation Decision Ledger
+---
 
-What Changed in the Research Model
+# Restaurant #16 Reservation Decision Ledger
 
-The comparison now includes 16 independent restaurants.
+## What Changed in the Research Model
 
-Surprise is explicitly paired with consequence clarity.
+- The comparison now includes 16 independent restaurants.
+- Surprise is explicitly paired with consequence clarity.
+- Reservation is recognized as the first formal information-and-responsibility transfer.
+- Few interface steps are separated from low participation complexity.
+- Complexity can be absorbed by human and procedural support rather than deeper navigation.
+- Information is partitioned into known consequences, protected outcomes, and required disclosure.
+- Menu-structure choice is separated from product knowledge.
+- Named Consequence Mapping becomes a research variable.
+- Explicit no-requirement states are distinguished from blank inputs.
+- Repetition is judged by consequence and handoff role.
+- Guest disclosure is separated from successful operational transfer.
+- Proxy responsibility is added to participation analysis.
+- Shared seating is treated as a product rule.
+- Comments fields are bounded away from structured exception handling.
+- Human assistance is recognized as both escalation and product.
+- Live availability is separated from the full capacity model and artificial pressure.
+- Pre-commitment agency is separated from post-commitment flexibility.
+- Reservation as Operational Brief and Pre-Experience Trust Calibration are added as architecture directions.
+- Stable Participation / Variable Product is extended to a concealed product.
 
-Reservation is recognized as the first formal information-and-responsibility transfer.
+## What Did Not Change
 
-Few interface steps are separated from low participation complexity.
+- No pattern was promoted.
+- No pattern was demoted.
+- No pattern was validated.
+- No pattern confidence changed.
+- No Candidate was renamed or merged.
+- No research direction became a KHDS Principle.
+- The canonical totals remain 23 Candidate, 11 Emerging, 0 Validated, and 0 research-derived Principles.
 
-Complexity can be absorbed by human and procedural support rather than deeper navigation.
-
-Information is partitioned into known consequences, protected outcomes, and required disclosure.
-
-Menu-structure choice is separated from product knowledge.
-
-Named Consequence Mapping becomes a research variable.
-
-Explicit no-requirement states are distinguished from blank inputs.
-
-Repetition is judged by consequence and handoff role.
-
-Guest disclosure is separated from successful operational transfer.
-
-Proxy responsibility is added to participation analysis.
-
-Shared seating is treated as a product rule.
-
-Comments fields are bounded away from structured exception handling.
-
-Human assistance is recognized as both escalation and product.
-
-Live availability is separated from the full capacity model and artificial pressure.
-
-Pre-commitment agency is separated from post-commitment flexibility.
-
-Reservation as Operational Brief and Pre-Experience Trust Calibration are added as architecture directions.
-
-Stable Participation / Variable Product is extended to a concealed product.
-
-What Did Not Change
-
-No pattern was promoted.
-
-No pattern was demoted.
-
-No pattern was validated.
-
-No pattern confidence changed.
-
-No Candidate was renamed or merged.
-
-No research direction became a KHDS Principle.
-
-The canonical totals remain 23 Candidate, 11 Emerging, 0 Validated, and 0 research-derived Principles.
-
-Why No Maturity Change Is Justified
+## Why No Maturity Change Is Justified
 
 Restaurant #16 provides unusually strong mechanistic evidence, especially for Human Assistance and Escalating Participation Complexity. This remains one dimensional comparison inside an unfinished five-dimension reconciliation cycle.
 
 The comparison supplies evidence and recommendations. Canonical governance remains elsewhere.
 
-Reservation / Participation Comparison Conclusion — Post Dans le Noir? London
+---
+
+# Reservation / Participation Comparison Conclusion — Post Dans le Noir? London
 
 After 16 independent restaurants, the strongest participation finding remains:
 
-Participation is a state system, not a booking button.
+> **Participation is a state system, not a booking button.**
 
 Dans le Noir? London intensifies that thesis because the reservation is not merely access to a table. It begins a distributed operating sequence:
 
+```text
 Interest
 ↓
 Consequence Understanding
@@ -8114,17 +8499,21 @@ Guide Handoff
 Dark-Room Participation
 ↓
 Post-Experience Reveal
+```
 
 Restaurant #16 gives KHDS a stronger rule for surprise:
 
+```text
 Outcome may remain uncertain
 
 Consequences may not
+```
 
 It also corrects a likely overreach in Escalating Participation Complexity. A complex experience does not automatically need a complex interface. It may need a simple interface surrounded by strong explanation, structured exception channels, human escalation, physical reconfirmation, and expert guidance.
 
 The strongest refinement is therefore:
 
+```text
 Higher Participation Complexity
 may require
 Higher Support Precision
@@ -8132,452 +8521,307 @@ Higher Support Precision
 not necessarily
 
 More Screens
+```
 
 The case gives Human Assistance Where Structured Self-Service Is Insufficient its strongest evidence so far. Human help is not only available when the form fails. The guide-waiter is essential experiential infrastructure.
 
 Yet that support does not remove the need for reservation discipline. The booking must function as an operational brief, and high-consequence information must survive every handoff.
 
+```text
 Information Captured
 ≠
 Information Operationalized
+```
 
 The case also strengthens Stable Participation / Variable Product. Stable rules contain a product that changes periodically and remains concealed during use. That is strong independent support, but the maturity and confidence state remains unchanged until the full Restaurant #16 cycle is reconciled.
 
 The most important unresolved issue is public instruction consistency:
 
+```text
 Menu Allocation at Booking
 vs
 Order Taken on Arrival
+```
 
 Until the timing and meaning are verified, the comparison must preserve the contradiction rather than invent a resolution.
 
 The strongest leaving question is:
 
-Can the reservation system preserve surprise while making every material consequence, responsibility, escalation route, and physical handoff clear enough for informed participation?
+> **Can the reservation system preserve surprise while making every material consequence, responsibility, escalation route, and physical handoff clear enough for informed participation?**
 
 Restaurant #16 produces no governance change. It produces a more demanding model of reservation as trust, preparation, and operational coordination.
 
-Post–Avatar Robot Café DAWN, Tokyo Reservation Reconciliation
+---
+
+# Post–Avatar Robot Café DAWN, Tokyo Reservation Reconciliation
 
 Restaurant #17 changes the unit of reservation analysis.
 
 The guest does not choose only:
 
-a date
-
-a time
-
-a party size
-
-a table
+- a date
+- a time
+- a party size
+- a table
 
 The guest may choose among:
 
-door-only general admission
-
-an advance-reserved Diner relationship
-
-a scheduled but non-reservable Tele-Barista demonstration
-
-a fully reserved city guide tour
-
-a fully reserved OrySNACK host session
+- door-only general admission
+- an advance-reserved Diner relationship
+- a scheduled but non-reservable Tele-Barista demonstration
+- a fully reserved city guide tour
+- a fully reserved OrySNACK host session
 
 Each route allocates a different combination of:
 
-human pilot
-
-robot body
-
-place
-
-time
-
-local staff
-
-product
-
-eligibility
-
-guest responsibility
+- human pilot
+- robot body
+- place
+- time
+- local staff
+- product
+- eligibility
+- guest responsibility
 
 The strongest Restaurant #17 finding is:
 
+~~~text
 Available Seat
 
 ≠
 
 Available Human Relationship
+~~~
 
 The strongest system boundary is:
 
+~~~text
 One Venue
 
 ≠
 
 One Reservation Object
+~~~
 
 The strongest transaction boundary is:
 
+~~~text
 Robot Inventory
 
 ≠
 
 Pilot Capacity
+~~~
 
 The strongest participation distinction is:
 
+~~~text
 Scheduled Experience
 
 ≠
 
 Reservable Experience
+~~~
 
-Current Canonical Entry State — Restaurant #17
+---
+
+# Current Canonical Entry State — Restaurant #17
 
 This comparison begins from the reconciled post–Restaurant #16 governance state.
 
-Pattern
-
-Entry state
-
-DAWN pressure
-
-Decision in this file
-
-Walk-In as First-Class Participation
-
-Candidate / High
-
-Strong direct support
-
-Retain
-
-Hospitality System Proof
-
-Candidate / High
-
-Strong multi-resource coordination support
-
-Retain
-
-Manageable Commitment
-
-Candidate / Medium
-
-Support with party-rule tension
-
-Retain
-
-Participation Rule Consistency
-
-Candidate / Medium
-
-Support plus direct contradiction
-
-Retain
-
-Layered Arrival
-
-Candidate / Medium
-
-Strong route-specific support
-
-Retain
-
-Participation Throughout the Journey
-
-Candidate / Medium
-
-Strong end-to-end support
-
-Retain
-
-Capacity Proof
-
-Candidate / Medium-High
-
-Strong structural support; fulfilment unproven
-
-Retain
-
-Stable Participation / Variable Product
-
-Candidate / Medium
-
-Boundary refinement through variable routes
-
-Retain
-
-Human Assistance Where Structured Self-Service Is Insufficient
-
-Candidate / Medium
-
-Strong exception-routing support
-
-Retain
-
-Multi-Intent Hospitality
-
-Emerging
-
-Very strong route-variety support
-
-Remain Emerging
-
-Commitment Without Pressure
-
-Emerging
-
-Support through bounded availability
-
-Remain Emerging
-
-The Guest as Participant
-
-Emerging
-
-Strong responsibility and interaction support
-
-Remain Emerging
-
-Escalating Participation Complexity
-
-Emerging
-
-Strong branching refinement
-
-Remain Emerging
-
-Own the Guest Relationship
-
-Partially Supported / Medium
-
-External transaction layer leaves control unverified
-
-Retain
+| Pattern | Entry state | DAWN pressure | Decision in this file |
+|---|---|---|---|
+| Walk-In as First-Class Participation | Candidate / High | Strong direct support | Retain |
+| Hospitality System Proof | Candidate / High | Strong multi-resource coordination support | Retain |
+| Manageable Commitment | Candidate / Medium | Support with party-rule tension | Retain |
+| Participation Rule Consistency | Candidate / Medium | Support plus direct contradiction | Retain |
+| Layered Arrival | Candidate / Medium | Strong route-specific support | Retain |
+| Participation Throughout the Journey | Candidate / Medium | Strong end-to-end support | Retain |
+| Capacity Proof | Candidate / Medium-High | Strong structural support; fulfilment unproven | Retain |
+| Stable Participation / Variable Product | Candidate / Medium | Boundary refinement through variable routes | Retain |
+| Human Assistance Where Structured Self-Service Is Insufficient | Candidate / Medium | Strong exception-routing support | Retain |
+| Multi-Intent Hospitality | Emerging | Very strong route-variety support | Remain Emerging |
+| Commitment Without Pressure | Emerging | Support through bounded availability | Remain Emerging |
+| The Guest as Participant | Emerging | Strong responsibility and interaction support | Remain Emerging |
+| Escalating Participation Complexity | Emerging | Strong branching refinement | Remain Emerging |
+| Own the Guest Relationship | Partially Supported / Medium | External transaction layer leaves control unverified | Retain |
 
 No maturity or confidence change is authorized by this dimension file.
 
-Comparison 96 — A Restaurant Reservation Can Allocate a Human Relationship
+---
+
+# Comparison 96 — A Restaurant Reservation Can Allocate a Human Relationship
 
 Most restaurant reservation systems expose:
 
-table
-
-party
-
-date
-
-time
+- table
+- party
+- date
+- time
 
 DAWN's Diner route adds:
 
-a dedicated tabletop OriHime pilot
-
-a bounded period of pilot interaction
-
-a robot interface
-
-local service coordination
-
-food and beverage inclusions
+- a dedicated tabletop OriHime pilot
+- a bounded period of pilot interaction
+- a robot interface
+- local service coordination
+- food and beverage inclusions
 
 The commercial object is therefore not only a seat.
 
 It is a timed, mediated human-service relationship.
 
-Correction 81
+## Correction 81
 
 Capacity analysis must identify the scarce service relationship, not infer capacity from physical vacancy alone.
 
-Comparison 97 — One Venue Can Contain Multiple Reservation Objects
+---
+
+# Comparison 97 — One Venue Can Contain Multiple Reservation Objects
 
 DAWN publicly presents at least five participation routes.
 
-Route
-
-Entry model
-
-Primary capacity object
-
-General admission
-
-Door only
-
-admission and seat flow
-
-OriHime Diner
-
-Advance reservation
-
-table, pilot and timed service
-
-Tele-Barista
-
-Scheduled / non-reservable
-
-experimental readiness and same-day access
-
-Nihonbashi Guide Tour
-
-Full reservation
-
-pilot, portable robot, group and route
-
-OrySNACK
-
-Full reservation
-
-pilot-host, bar position, product and age-qualified group
+| Route | Entry model | Primary capacity object |
+|---|---|---|
+| General admission | Door only | admission and seat flow |
+| OriHime Diner | Advance reservation | table, pilot and timed service |
+| Tele-Barista | Scheduled / non-reservable | experimental readiness and same-day access |
+| Nihonbashi Guide Tour | Full reservation | pilot, portable robot, group and route |
+| OrySNACK | Full reservation | pilot-host, bar position, product and age-qualified group |
 
 A shared address and shared brand do not create one capacity model.
 
-Correction 82
+## Correction 82
 
 Reservation architecture must begin with route identity before exposing inventory.
 
-Comparison 98 — Door Admission Is Not a Failed Reservation
+---
+
+# Comparison 98 — Door Admission Is Not a Failed Reservation
 
 General admission is deliberately available only at the door.
 
 It permits:
 
-one-person entry
-
-low advance commitment
-
-OriHime service inclusion
-
-spontaneous discovery
+- one-person entry
+- low advance commitment
+- OriHime service inclusion
+- spontaneous discovery
 
 It does not guarantee:
 
-immediate entry
-
-a dedicated pilot
-
-a fixed interaction duration
-
-equal relational depth
+- immediate entry
+- a dedicated pilot
+- a fixed interaction duration
+- equal relational depth
 
 The route is not an incomplete version of the Diner.
 
 It is a different participation product.
 
-Correction 83
+## Correction 83
 
 Walk-in access should be evaluated as designed participation, not as digital-booking absence.
 
-Comparison 99 — A Published Schedule Can Truthfully Refuse Reservations
+---
+
+# Comparison 99 — A Published Schedule Can Truthfully Refuse Reservations
 
 Tele-Barista publishes recurring session times while stating:
 
-no advance reservation
-
-same-day admission payment
-
-possible suspension because of experimental problems
+- no advance reservation
+- same-day admission payment
+- possible suspension because of experimental problems
 
 The guest can plan around time without receiving a guaranteed allocation.
 
 This may be more truthful than exposing false inventory for an experimental service.
 
-Correction 84
+## Correction 84
 
 Known time must be separated from guaranteed participation.
 
-Comparison 100 — A Robot Reservation May Actually Allocate Human Time
+---
+
+# Comparison 100 — A Robot Reservation May Actually Allocate Human Time
 
 The visible transaction may appear to allocate:
 
-an OriHime robot
-
-a robot table
-
-a technology experience
+- an OriHime robot
+- a robot table
+- a technology experience
 
 The scarce and meaningful resource is often:
 
-a trained pilot
-
-pilot attention
-
-pilot availability
-
-relational continuity
+- a trained pilot
+- pilot attention
+- pilot availability
+- relational continuity
 
 The booking can complete operational allocation while making the human less visible in the commercial story.
 
-Correction 85
+## Correction 85
 
 The transaction layer must preserve pilot-centred meaning whenever human time is part of the purchased object.
 
-Comparison 101 — Seat Time and Pilot Time Are Distinct Capacity Objects
+---
+
+# Comparison 101 — Seat Time and Pilot Time Are Distinct Capacity Objects
 
 The Diner publishes:
 
-90 minutes of table use
-
-up to 60 minutes of pilot interaction
+- 90 minutes of table use
+- up to 60 minutes of pilot interaction
 
 This distinction is unusually valuable.
 
 It separates:
 
-physical occupancy
-
-promised human attention
+- physical occupancy
+- promised human attention
 
 The remaining time may support ordering, food consumption, local service, transition or reset.
 
-Correction 86
+## Correction 86
 
 Duration disclosure should identify the time object being promised.
 
-Comparison 102 — More Access Can Require More Eligibility Logic
+---
+
+# Comparison 102 — More Access Can Require More Eligibility Logic
 
 DAWN broadens participation through multiple routes and adaptive mechanisms.
 
 That breadth also creates route-specific rules involving:
 
-age
-
-guardian state
-
-identity verification
-
-party size
-
-equipment
-
-mobility
-
-dietary needs
-
-assistance requests
+- age
+- guardian state
+- identity verification
+- party size
+- equipment
+- mobility
+- dietary needs
+- assistance requests
 
 Inclusive participation does not always reduce form logic.
 
 It may require more precise, relevant and bounded eligibility logic.
 
-Correction 87
+## Correction 87
 
 Eligibility complexity should branch by route instead of accumulating universally.
 
-Comparison 103 — Accessibility Integration Still Requires Individual Preparation
+---
+
+# Comparison 103 — Accessibility Integration Still Requires Individual Preparation
 
 DAWN provides disclosure routes for:
 
-wheelchair table configuration
-
-medical-equipment power
-
-stretcher accommodation
-
-dietary-support equipment
-
-other assistance
+- wheelchair table configuration
+- medical-equipment power
+- stretcher accommodation
+- dietary-support equipment
+- other assistance
 
 This turns accessibility information into an operational input.
 
@@ -8585,119 +8829,97 @@ The field proves a route for disclosure.
 
 It does not prove:
 
-acknowledgement
+- acknowledgement
+- preparation
+- equivalent participation
+- complete suitability
+- accessible booking completion
 
-preparation
-
-equivalent participation
-
-complete suitability
-
-accessible booking completion
-
-Correction 88
+## Correction 88
 
 An accessible request field must be separated from an accessible booking outcome.
 
-Comparison 104 — Multi-Resource Inventory Cannot Be Reduced to Table Stock
+---
+
+# Comparison 104 — Multi-Resource Inventory Cannot Be Reduced to Table Stock
 
 A DAWN experience may depend simultaneously on:
 
-place
-
-table or bar position
-
-pilot
-
-robot
-
-network
-
-local staff
-
-food or beverage
-
-route equipment
-
-time
-
-group eligibility
+- place
+- table or bar position
+- pilot
+- robot
+- network
+- local staff
+- food or beverage
+- route equipment
+- time
+- group eligibility
 
 Failure of one resource can make the complete participation object unavailable.
 
-New Architecture Direction
+## New Architecture Direction
 
 Multi-Resource Inventory represents availability as the intersection of every required capacity object.
 
-Comparison 105 — Advance Payment Protects Relationship Capacity
+---
+
+# Comparison 105 — Advance Payment Protects Relationship Capacity
 
 Advance payment can protect:
 
-scarce pilot time
-
-reserved robot access
-
-bounded sessions
-
-prepared inclusions
-
-local setup
+- scarce pilot time
+- reserved robot access
+- bounded sessions
+- prepared inclusions
+- local setup
 
 It also increases guest commitment.
 
 It does not prove:
 
-fair cancellation terms
-
-clear refund operation
-
-guest comprehension
-
-actual fulfilment
+- fair cancellation terms
+- clear refund operation
+- guest comprehension
+- actual fulfilment
 
 The 15-minute lateness rule may protect coordinated human and technical capacity, not only table turnover.
 
-Correction 89
+## Correction 89
 
 Advance payment and lateness consequences should be justified by the resource being protected and disclosed before commitment.
 
-Comparison 106 — Stable Participation Can Exist Above Variable Route Rules
+---
+
+# Comparison 106 — Stable Participation Can Exist Above Variable Route Rules
 
 DAWN does not present one stable booking mechanic surrounding only a variable menu.
 
 Its routes vary in:
 
-reservation requirement
-
-booking horizon
-
-payment
-
-party limits
-
-eligibility
-
-duration
-
-human-attention promise
+- reservation requirement
+- booking horizon
+- payment
+- party limits
+- eligibility
+- duration
+- human-attention promise
 
 Stability may instead live at a higher principle level:
 
-know the route
+- know the route
+- know the consequence
+- identify the human service
+- disclose material needs
+- arrive on time
 
-know the consequence
-
-identify the human service
-
-disclose material needs
-
-arrive on time
-
-Correction 90
+## Correction 90
 
 Stable Participation / Variable Product must distinguish stable governing principles from identical route mechanics.
 
-Comparison 107 — Cross-Surface Consistency Is Part of Capacity Integrity
+---
+
+# Comparison 107 — Cross-Surface Consistency Is Part of Capacity Integrity
 
 The homepage describes Diner reservations as beginning from two people.
 
@@ -8705,43 +8927,39 @@ The transaction surface describes inventory for one to five people.
 
 The evidence cannot safely resolve whether:
 
-solo booking is accepted
+- solo booking is accepted
+- the homepage is stale
+- the transaction description is generic
+- route rules change by state
 
-the homepage is stale
-
-the transaction description is generic
-
-route rules change by state
-
-Correction 91
+## Correction 91
 
 A live transaction rule may govern the immediate booking action, but the contradiction must remain visible until authoritative reconciliation.
 
-Comparison 108 — Human Assistance Should Resolve Exceptions, Not Ordinary Rule Drift
+---
+
+# Comparison 108 — Human Assistance Should Resolve Exceptions, Not Ordinary Rule Drift
 
 DAWN legitimately requires human contact for:
 
-unusual accessibility configurations
-
-large groups
-
-unsupported dietary needs
-
-filming
-
-operational conflicts
-
-late arrival
+- unusual accessibility configurations
+- large groups
+- unsupported dietary needs
+- filming
+- operational conflicts
+- late arrival
 
 Human escalation is appropriate when consequence exceeds the form's safe capacity.
 
 It should not be used to repair ordinary inconsistencies that the public system could resolve.
 
-Correction 92
+## Correction 92
 
 Structured self-service and bounded human escalation are complementary only when each has a defined responsibility.
 
-Comparison 109 — Route Variety Should Branch Interface Complexity
+---
+
+# Comparison 109 — Route Variety Should Branch Interface Complexity
 
 DAWN contains many rules.
 
@@ -8751,6 +8969,7 @@ Hiding route consequences would create unsafe simplicity.
 
 The preferred sequence is:
 
+~~~text
 Guest Intent
 ↓
 Route
@@ -8760,90 +8979,76 @@ Relevant Eligibility
 Eligible Inventory
 ↓
 Commitment
+~~~
 
-Correction 93
+## Correction 93
 
 Escalating Participation Complexity should predict route-relevant branching and support precision, not universal form depth.
 
-Comparison 110 — Reservation Confirmation Does Not Create the Relationship
+---
+
+# Comparison 110 — Reservation Confirmation Does Not Create the Relationship
 
 The transaction can confirm:
 
-route
-
-payment
-
-time
-
-party
-
-inclusions
-
-declarations
+- route
+- payment
+- time
+- party
+- inclusions
+- declarations
 
 The relationship still depends on:
 
-local admission
-
-technical readiness
-
-pilot availability
-
-human recognition
-
-live interaction
-
-continuity
+- local admission
+- technical readiness
+- pilot availability
+- human recognition
+- live interaction
+- continuity
 
 The reservation prepares the relationship.
 
 It does not prove or complete it.
 
-Cross-Case Refinement
+## Cross-Case Refinement
 
+~~~text
 Reservation Confirmation
 
 ≠
 
 Relationship Formation
+~~~
 
-DAWN Reservation Architecture Directions
+---
+
+# DAWN Reservation Architecture Directions
 
 The following are architecture variables, mechanisms or research directions. They are not formal KHDS patterns.
 
-Relationship Capacity — capacity measured as available human-service relationship rather than empty seat count.
-
-Route Allocation — matching guest intent to the correct participation object.
-
-Door Admission / Reserved Depth — preserving spontaneity while reserving resource-intensive relationships.
-
-Dedicated Pilot Premium — a commercial tier defined by dedicated human attention through a robot.
-
-Seat Time / Pilot Time Split — separating total occupancy from promised human interaction.
-
-Scheduled / Non-Reservable Participation — publishing a time without offering advance allocation.
-
-Multi-Resource Inventory — availability composed of place, pilot, robot, staff, product and time.
-
-Route-Specific Commitment — obligations and consequences matched to the selected experience.
-
-Eligibility-Gated Participation — age, guardian, group or physical conditions governing route access.
-
-Reservation as Operational Brief — guest data translated into cross-team preparation.
-
-Cross-Surface Rule Integrity — one consequence retaining one meaning across story, transaction, confirmation and arrival.
-
-Accessibility Preparation Field — access needs becoming operational inputs before arrival.
-
-Bounded Experimental Availability — explicit suspension risk where experimental service cannot be guaranteed.
-
-Pilot-Centred Transaction Meaning — preserving the human service object during commercial allocation.
+1. **Relationship Capacity** — capacity measured as available human-service relationship rather than empty seat count.
+2. **Route Allocation** — matching guest intent to the correct participation object.
+3. **Door Admission / Reserved Depth** — preserving spontaneity while reserving resource-intensive relationships.
+4. **Dedicated Pilot Premium** — a commercial tier defined by dedicated human attention through a robot.
+5. **Seat Time / Pilot Time Split** — separating total occupancy from promised human interaction.
+6. **Scheduled / Non-Reservable Participation** — publishing a time without offering advance allocation.
+7. **Multi-Resource Inventory** — availability composed of place, pilot, robot, staff, product and time.
+8. **Route-Specific Commitment** — obligations and consequences matched to the selected experience.
+9. **Eligibility-Gated Participation** — age, guardian, group or physical conditions governing route access.
+10. **Reservation as Operational Brief** — guest data translated into cross-team preparation.
+11. **Cross-Surface Rule Integrity** — one consequence retaining one meaning across story, transaction, confirmation and arrival.
+12. **Accessibility Preparation Field** — access needs becoming operational inputs before arrival.
+13. **Bounded Experimental Availability** — explicit suspension risk where experimental service cannot be guaranteed.
+14. **Pilot-Centred Transaction Meaning** — preserving the human service object during commercial allocation.
 
 None is promoted, assigned confidence, or treated as a KHDS Principle here.
 
-Current Reservation / Participation Pattern Pressure — Post Restaurant #17
+---
 
-Walk-In as First-Class Participation
+# Current Reservation / Participation Pattern Pressure — Post Restaurant #17
+
+## Walk-In as First-Class Participation
 
 Canonical state: Candidate / High
 
@@ -8859,7 +9064,7 @@ Decision:
 
 Retain Candidate / High. No confidence change.
 
-Hospitality System Proof
+## Hospitality System Proof
 
 Canonical state: Candidate / High
 
@@ -8875,7 +9080,7 @@ Decision:
 
 Retain Candidate / High. No confidence change.
 
-Manageable Commitment
+## Manageable Commitment
 
 Canonical state: Candidate / Medium
 
@@ -8891,7 +9096,7 @@ Decision:
 
 Retain Candidate / Medium. No confidence change.
 
-Participation Rule Consistency
+## Participation Rule Consistency
 
 Canonical state: Candidate / Medium
 
@@ -8903,7 +9108,7 @@ Decision:
 
 Retain Candidate / Medium with active falsification. No confidence change.
 
-Layered Arrival
+## Layered Arrival
 
 Canonical state: Candidate / Medium
 
@@ -8919,7 +9124,7 @@ Decision:
 
 Retain Candidate / Medium. No confidence change.
 
-Participation Throughout the Journey
+## Participation Throughout the Journey
 
 Canonical state: Candidate / Medium
 
@@ -8935,7 +9140,7 @@ Decision:
 
 Retain Candidate / Medium. No confidence change.
 
-Capacity Proof
+## Capacity Proof
 
 Canonical state: Candidate / Medium-High
 
@@ -8951,7 +9156,7 @@ Decision:
 
 Retain Candidate / Medium-High. No confidence change.
 
-Stable Participation / Variable Product
+## Stable Participation / Variable Product
 
 Canonical state: Candidate / Medium
 
@@ -8963,7 +9168,7 @@ Decision:
 
 Retain Candidate / Medium. No confidence change.
 
-Human Assistance Where Structured Self-Service Is Insufficient
+## Human Assistance Where Structured Self-Service Is Insufficient
 
 Canonical state: Candidate / Medium
 
@@ -8979,7 +9184,7 @@ Decision:
 
 Retain Candidate / Medium. No confidence change.
 
-Multi-Intent Hospitality
+## Multi-Intent Hospitality
 
 Canonical state: Emerging
 
@@ -8991,7 +9196,7 @@ Decision:
 
 Remain Emerging.
 
-Commitment Without Pressure
+## Commitment Without Pressure
 
 Canonical state: Emerging
 
@@ -9003,7 +9208,7 @@ Decision:
 
 Remain Emerging.
 
-The Guest as Participant
+## The Guest as Participant
 
 Canonical state: Emerging
 
@@ -9015,7 +9220,7 @@ Decision:
 
 Remain Emerging.
 
-Escalating Participation Complexity
+## Escalating Participation Complexity
 
 Canonical state: Emerging
 
@@ -9029,7 +9234,7 @@ Decision:
 
 Remain Emerging.
 
-Own the Guest Relationship
+## Own the Guest Relationship
 
 Canonical state: Partially Supported / Medium
 
@@ -9041,277 +9246,130 @@ Decision:
 
 Retain Partially Supported / Medium.
 
-Strongest Reservation / Participation Tensions After Restaurant #17
-
-Seat capacity vs relationship capacity — physical vacancy does not guarantee a pilot-mediated experience.
-
-One venue vs multiple reservation objects — shared place does not create shared rules.
-
-Door access vs digital allocation — the lowest-commitment route may be intentionally offline.
-
-Published schedule vs reservability — planning information can exist without guaranteed inventory.
-
-Robot inventory vs pilot capacity — the visible device can conceal the scarce human resource.
-
-Seat time vs pilot time — occupancy duration and human-attention duration are different promises.
-
-Route variety vs universal complexity — participation depth should branch by intent.
-
-Access breadth vs eligibility logic — more inclusive routes may need more precise conditions.
-
-Accessibility field vs accessible outcome — disclosure does not establish accommodation.
-
-Advance payment vs fulfilment — commitment protects resources but does not prove delivery.
-
-Late-arrival rule vs table turnover — punctuality can protect a coordinated relationship system.
-
-Stable principle vs variable route mechanics — stability may sit above interface uniformity.
-
-Official story vs external transaction — the pilot can disappear during allocation.
-
-Rule consistency vs live enforcement — the homepage and transaction party conditions conflict.
-
-Human escalation vs content governance — people should handle exceptions, not routine drift.
-
-Confirmation vs relationship formation — a booking prepares the interaction but does not complete it.
-
-Availability display vs complete capacity model — exposed inventory does not reveal resource logic.
-
-Multi-intent hospitality vs one funnel — different products require different commitment paths.
-
-Reservation Falsification Programme After Restaurant #17
-
-Can guests identify the correct DAWN route without staff explanation?
-
-Is one-person Diner booking actually accepted?
-
-Do the homepage and transaction party-size rules converge?
-
-Does general admission remain available during peak demand?
-
-Do walk-in guests receive meaningful OriHime interaction?
-
-Is door-only access clearly distinguishable from sold-out reservation inventory?
-
-Are dedicated pilots consistently allocated as promised?
-
-Is up to 60 minutes of pilot interaction reliably delivered within the 90-minute Diner period?
-
-Is pilot time visible as part of the purchased object before payment?
-
-Does the booking surface explain human operation rather than robot inventory alone?
-
-Do route calendars correspond to combined pilot, robot, local staff and place capacity?
-
-Are booking horizons operational rather than promotional?
-
-Are late-arrival consequences visible before payment?
-
-Are late-arrival rules repeated in confirmation?
-
-Are cancellation costs proportionate to protected relationship capacity?
-
-Can guests distinguish scheduled Tele-Barista sessions from guaranteed participation?
-
-Do suspension notices reach intending guests before travel?
-
-Is experimental uncertainty stated without evading accountability?
-
-Are route inclusions consistent across official and transaction surfaces?
-
-Can guests distinguish admission inclusion from extra charges?
-
-Are route-specific eligibility questions shown only when relevant?
-
-Are age and guardian requirements clear before selection?
-
-Is identity verification proportionate and clearly disclosed?
-
-Can larger groups discover the correct split or escalation path?
-
-Do accessibility requests receive explicit acknowledgement?
-
-Do accessibility requests reach local staff, pilots and technical teams where relevant?
-
-Can screen-reader and keyboard users complete the external booking?
-
-Does the accessibility request mechanism itself remain accessible?
-
-Are allergy limitations visible before product commitment?
-
-Do allergy declarations reach the correct operational team?
-
-Does the anniversary message become an acknowledged preparation instruction?
-
-Is surprise permission preserved through the pilot and local-service handoff?
-
-Does confirmation name or introduce an assigned pilot where appropriate?
-
-Can pilot assignment change without weakening the promised relationship?
-
-Does the external booking handoff preserve route and pilot meaning?
-
-Is human support discoverable before commitment?
-
-Does human escalation resolve exceptional cases without becoming mandatory for ordinary rules?
-
-Does reservation data function as an internal operational brief?
-
-Can guests modify or cancel without losing route-specific context?
-
-Do observed operations materially contradict the published capacity model?
-
-Participation Deduplication Decisions — Restaurant #17
-
-Proposed direction
-
-Closest existing concept
-
-Decision
-
-Relationship Capacity
-
-Capacity Proof; Hospitality System Proof
-
-Retain as core architecture model
-
-Route Allocation
-
-Multi-Intent Hospitality; Layered Arrival
-
-Retain as participation mechanism
-
-Door Admission / Reserved Depth
-
-Walk-In as First-Class Participation
-
-Retain as access architecture
-
-Dedicated Pilot Premium
-
-Relationship Capacity
-
-Retain as commercial mechanism
-
-Seat Time / Pilot Time Split
-
-Capacity Proof
-
-Retain as duration distinction
-
-Scheduled / Non-Reservable Participation
-
-Walk-In as First-Class Participation; Capacity Proof
-
-Retain as bounded route state
-
-Multi-Resource Inventory
-
-Capacity Proof; Hospitality System Proof
-
-Retain as capacity model
-
-Route-Specific Commitment
-
-Manageable Commitment
-
-Retain as commitment mechanism
-
-Eligibility-Gated Participation
-
-Escalating Participation Complexity
-
-Retain as route-logic mechanism
-
-Reservation as Operational Brief
-
-Hospitality System Proof
-
-Merge with established operating direction
-
-Cross-Surface Rule Integrity
-
-Participation Rule Consistency
-
-Treat as mechanism of existing Candidate
-
-Accessibility Preparation Field
-
-Human Assistance; Compatibility Adaptation
-
-Retain as operational input
-
-Bounded Experimental Availability
-
-Capacity Proof; Commitment Without Pressure
-
-Retain as uncertainty rule
-
-Pilot-Centred Transaction Meaning
-
-Story Through Hospitality Model; Own the Guest Relationship
-
-Retain as cross-dimensional requirement
+---
+
+# Strongest Reservation / Participation Tensions After Restaurant #17
+
+1. **Seat capacity vs relationship capacity** — physical vacancy does not guarantee a pilot-mediated experience.
+2. **One venue vs multiple reservation objects** — shared place does not create shared rules.
+3. **Door access vs digital allocation** — the lowest-commitment route may be intentionally offline.
+4. **Published schedule vs reservability** — planning information can exist without guaranteed inventory.
+5. **Robot inventory vs pilot capacity** — the visible device can conceal the scarce human resource.
+6. **Seat time vs pilot time** — occupancy duration and human-attention duration are different promises.
+7. **Route variety vs universal complexity** — participation depth should branch by intent.
+8. **Access breadth vs eligibility logic** — more inclusive routes may need more precise conditions.
+9. **Accessibility field vs accessible outcome** — disclosure does not establish accommodation.
+10. **Advance payment vs fulfilment** — commitment protects resources but does not prove delivery.
+11. **Late-arrival rule vs table turnover** — punctuality can protect a coordinated relationship system.
+12. **Stable principle vs variable route mechanics** — stability may sit above interface uniformity.
+13. **Official story vs external transaction** — the pilot can disappear during allocation.
+14. **Rule consistency vs live enforcement** — the homepage and transaction party conditions conflict.
+15. **Human escalation vs content governance** — people should handle exceptions, not routine drift.
+16. **Confirmation vs relationship formation** — a booking prepares the interaction but does not complete it.
+17. **Availability display vs complete capacity model** — exposed inventory does not reveal resource logic.
+18. **Multi-intent hospitality vs one funnel** — different products require different commitment paths.
+
+---
+
+# Reservation Falsification Programme After Restaurant #17
+
+1. Can guests identify the correct DAWN route without staff explanation?
+2. Is one-person Diner booking actually accepted?
+3. Do the homepage and transaction party-size rules converge?
+4. Does general admission remain available during peak demand?
+5. Do walk-in guests receive meaningful OriHime interaction?
+6. Is door-only access clearly distinguishable from sold-out reservation inventory?
+7. Are dedicated pilots consistently allocated as promised?
+8. Is up to 60 minutes of pilot interaction reliably delivered within the 90-minute Diner period?
+9. Is pilot time visible as part of the purchased object before payment?
+10. Does the booking surface explain human operation rather than robot inventory alone?
+11. Do route calendars correspond to combined pilot, robot, local staff and place capacity?
+12. Are booking horizons operational rather than promotional?
+13. Are late-arrival consequences visible before payment?
+14. Are late-arrival rules repeated in confirmation?
+15. Are cancellation costs proportionate to protected relationship capacity?
+16. Can guests distinguish scheduled Tele-Barista sessions from guaranteed participation?
+17. Do suspension notices reach intending guests before travel?
+18. Is experimental uncertainty stated without evading accountability?
+19. Are route inclusions consistent across official and transaction surfaces?
+20. Can guests distinguish admission inclusion from extra charges?
+21. Are route-specific eligibility questions shown only when relevant?
+22. Are age and guardian requirements clear before selection?
+23. Is identity verification proportionate and clearly disclosed?
+24. Can larger groups discover the correct split or escalation path?
+25. Do accessibility requests receive explicit acknowledgement?
+26. Do accessibility requests reach local staff, pilots and technical teams where relevant?
+27. Can screen-reader and keyboard users complete the external booking?
+28. Does the accessibility request mechanism itself remain accessible?
+29. Are allergy limitations visible before product commitment?
+30. Do allergy declarations reach the correct operational team?
+31. Does the anniversary message become an acknowledged preparation instruction?
+32. Is surprise permission preserved through the pilot and local-service handoff?
+33. Does confirmation name or introduce an assigned pilot where appropriate?
+34. Can pilot assignment change without weakening the promised relationship?
+35. Does the external booking handoff preserve route and pilot meaning?
+36. Is human support discoverable before commitment?
+37. Does human escalation resolve exceptional cases without becoming mandatory for ordinary rules?
+38. Does reservation data function as an internal operational brief?
+39. Can guests modify or cancel without losing route-specific context?
+40. Do observed operations materially contradict the published capacity model?
+
+---
+
+# Participation Deduplication Decisions — Restaurant #17
+
+| Proposed direction | Closest existing concept | Decision |
+|---|---|---|
+| Relationship Capacity | Capacity Proof; Hospitality System Proof | Retain as core architecture model |
+| Route Allocation | Multi-Intent Hospitality; Layered Arrival | Retain as participation mechanism |
+| Door Admission / Reserved Depth | Walk-In as First-Class Participation | Retain as access architecture |
+| Dedicated Pilot Premium | Relationship Capacity | Retain as commercial mechanism |
+| Seat Time / Pilot Time Split | Capacity Proof | Retain as duration distinction |
+| Scheduled / Non-Reservable Participation | Walk-In as First-Class Participation; Capacity Proof | Retain as bounded route state |
+| Multi-Resource Inventory | Capacity Proof; Hospitality System Proof | Retain as capacity model |
+| Route-Specific Commitment | Manageable Commitment | Retain as commitment mechanism |
+| Eligibility-Gated Participation | Escalating Participation Complexity | Retain as route-logic mechanism |
+| Reservation as Operational Brief | Hospitality System Proof | Merge with established operating direction |
+| Cross-Surface Rule Integrity | Participation Rule Consistency | Treat as mechanism of existing Candidate |
+| Accessibility Preparation Field | Human Assistance; Compatibility Adaptation | Retain as operational input |
+| Bounded Experimental Availability | Capacity Proof; Commitment Without Pressure | Retain as uncertainty rule |
+| Pilot-Centred Transaction Meaning | Story Through Hospitality Model; Own the Guest Relationship | Retain as cross-dimensional requirement |
 
 No duplicate canonical pattern is created.
 
-Restaurant #17 Reservation Decision Ledger
+---
 
-The comparison now includes 17 independent restaurants.
+# Restaurant #17 Reservation Decision Ledger
 
-The complete post–Dans le Noir? reservation comparison remains intact as historical state.
+1. The comparison now includes 17 independent restaurants.
+2. The complete post–Dans le Noir? reservation comparison remains intact as historical state.
+3. DAWN is classified as a multi-route allocation system, not a single booking funnel.
+4. Relationship Capacity is the strongest Restaurant #17 reservation finding.
+5. Available Seat is separated from Available Human Relationship.
+6. One Venue is separated from One Reservation Object.
+7. Robot Inventory is separated from Pilot Capacity.
+8. General admission remains a first-class door-only participation route.
+9. Tele-Barista establishes Scheduled / Non-Reservable Participation.
+10. The Diner reservation allocates timed pilot attention as part of the commercial object.
+11. Seat time and pilot time are recorded as distinct capacity promises.
+12. Multi-Resource Inventory is retained as an architecture model.
+13. Route selection is treated as the first interface branch.
+14. Eligibility logic is treated as route-specific rather than universal.
+15. Accessibility request fields are classified as preparation evidence, not outcome evidence.
+16. Advance payment is classified as resource-commitment architecture, not fulfilment proof.
+17. The 15-minute lateness boundary is interpreted as relationship-capacity protection.
+18. The homepage and transaction party-size conflict remains unresolved.
+19. Human assistance is reserved for material exceptions rather than ordinary content drift.
+20. Stable Participation / Variable Product receives a governing-principle refinement.
+21. The external transaction layer must preserve pilot-centred meaning.
+22. Capacity Proof receives strong structural support without performance inference.
+23. Walk-In as First-Class Participation and Hospitality System Proof receive strong support without confidence change.
+24. Multi-Intent Hospitality and Escalating Participation Complexity receive strong Emerging support without promotion.
+25. Own the Guest Relationship remains Partially Supported / Medium.
+26. No pattern is promoted, demoted, renamed, merged or validated.
+27. Canonical totals remain 25 Candidate, 9 Emerging, 1 Partially Supported, 0 Validated and 0 research-derived Principles.
 
-DAWN is classified as a multi-route allocation system, not a single booking funnel.
-
-Relationship Capacity is the strongest Restaurant #17 reservation finding.
-
-Available Seat is separated from Available Human Relationship.
-
-One Venue is separated from One Reservation Object.
-
-Robot Inventory is separated from Pilot Capacity.
-
-General admission remains a first-class door-only participation route.
-
-Tele-Barista establishes Scheduled / Non-Reservable Participation.
-
-The Diner reservation allocates timed pilot attention as part of the commercial object.
-
-Seat time and pilot time are recorded as distinct capacity promises.
-
-Multi-Resource Inventory is retained as an architecture model.
-
-Route selection is treated as the first interface branch.
-
-Eligibility logic is treated as route-specific rather than universal.
-
-Accessibility request fields are classified as preparation evidence, not outcome evidence.
-
-Advance payment is classified as resource-commitment architecture, not fulfilment proof.
-
-The 15-minute lateness boundary is interpreted as relationship-capacity protection.
-
-The homepage and transaction party-size conflict remains unresolved.
-
-Human assistance is reserved for material exceptions rather than ordinary content drift.
-
-Stable Participation / Variable Product receives a governing-principle refinement.
-
-The external transaction layer must preserve pilot-centred meaning.
-
-Capacity Proof receives strong structural support without performance inference.
-
-Walk-In as First-Class Participation and Hospitality System Proof receive strong support without confidence change.
-
-Multi-Intent Hospitality and Escalating Participation Complexity receive strong Emerging support without promotion.
-
-Own the Guest Relationship remains Partially Supported / Medium.
-
-No pattern is promoted, demoted, renamed, merged or validated.
-
-Canonical totals remain 25 Candidate, 9 Emerging, 1 Partially Supported, 0 Validated and 0 research-derived Principles.
-
-Why No Maturity Change Is Justified
+## Why No Maturity Change Is Justified
 
 DAWN provides strong independent support for relationship capacity, route allocation and multi-resource participation.
 
@@ -9323,11 +9381,13 @@ It cannot independently authorize canonical maturity or confidence movement.
 
 Formal decisions remain reserved for khds/research/validation/candidate-patterns.md after all five Restaurant #17 comparison files are complete.
 
-Reservation / Participation Comparison Conclusion — Post Avatar Robot Café DAWN, Tokyo
+---
+
+# Reservation / Participation Comparison Conclusion — Post Avatar Robot Café DAWN, Tokyo
 
 After 17 independent restaurants, the strongest participation thesis remains:
 
-Participation is a state system, not a booking button.
+> **Participation is a state system, not a booking button.**
 
 DAWN adds a decisive capacity refinement.
 
@@ -9335,24 +9395,18 @@ The system is not merely deciding where a guest sits.
 
 It is deciding:
 
-which participation route the guest enters
-
-which rules apply
-
-which human attention is allocated
-
-which robot body is required
-
-which local support must be prepared
-
-which eligibility state must be satisfied
-
-which declarations carry consequences
-
-which uncertainty may remain open
+- which participation route the guest enters
+- which rules apply
+- which human attention is allocated
+- which robot body is required
+- which local support must be prepared
+- which eligibility state must be satisfied
+- which declarations carry consequences
+- which uncertainty may remain open
 
 The minimum sufficient DAWN model is:
 
+~~~text
 Guest Intent
 ↓
 Eligible Route
@@ -9364,6 +9418,7 @@ Consequence-Relevant Disclosure
 Bounded Commitment
 ↓
 Operational Preparation
+~~~
 
 Dans le Noir? showed that a simple reservation interface can contain a complex participation system when support and consequence clarity are strong.
 
@@ -9371,6 +9426,7 @@ DAWN now shows that one venue can require multiple participation architectures b
 
 The combined refinement is:
 
+~~~text
 Participation Complexity
 
 should produce
@@ -9384,9 +9440,11 @@ Support Precision
 not
 
 Universal Interface Depth
+~~~
 
 The transaction must also preserve the real service object:
 
+~~~text
 Visible Robot
 
 may be
@@ -9400,16 +9458,19 @@ Human Pilot Time
 is
 
 Relationship Capacity
+~~~
 
 Restaurant #17 produces no governance change.
 
 It produces a more rigorous reservation model in which capacity, commitment and hospitality are measured at the level of the relationship being promised.
 
-Validation
+---
+
+# Validation
 
 Comparison File:
 
-khds/research/comparison/reservation.md
+`khds/research/comparison/reservation.md`
 
 Status:
 
@@ -9509,9 +9570,9 @@ Governance Changes:
 
 Next Comparison File:
 
-khds/research/comparison/story.md
+`khds/research/comparison/story.md`
 
-Post–Refettorio Felix, London Reservation Reconciliation
+# Post–Refettorio Felix, London Reservation Reconciliation
 
 Restaurant added:
 
@@ -9535,41 +9596,30 @@ Canonical governance decision:
 
 pending completion of all five Restaurant #18 comparison files.
 
-Restaurant #18 Reservation Evidence Input
+---
+
+# Restaurant #18 Reservation Evidence Input
 
 Restaurant files reconciled:
 
-khds/research/restaurants/refettorio-felix-london/README.md
-
-khds/research/restaurants/refettorio-felix-london/arrival.md
-
-khds/research/restaurants/refettorio-felix-london/atmosphere.md
-
-khds/research/restaurants/refettorio-felix-london/photography.md
-
-khds/research/restaurants/refettorio-felix-london/reservation.md
-
-khds/research/restaurants/refettorio-felix-london/story.md
-
-khds/research/restaurants/refettorio-felix-london/knowledge-extraction.md
+- `khds/research/restaurants/refettorio-felix-london/README.md`
+- `khds/research/restaurants/refettorio-felix-london/arrival.md`
+- `khds/research/restaurants/refettorio-felix-london/atmosphere.md`
+- `khds/research/restaurants/refettorio-felix-london/photography.md`
+- `khds/research/restaurants/refettorio-felix-london/reservation.md`
+- `khds/research/restaurants/refettorio-felix-london/story.md`
+- `khds/research/restaurants/refettorio-felix-london/knowledge-extraction.md`
 
 Published participation routes include:
 
-first-come weekday lunch
-
-drop-in partner advice
-
-appointment-based Green Rooms support
-
-volunteer shifts
-
-in-kind donation coordination
-
-venue-hire inquiry and viewing
-
-guest-chef participation
-
-organisational partnership
+- first-come weekday lunch
+- drop-in partner advice
+- appointment-based Green Rooms support
+- volunteer shifts
+- in-kind donation coordination
+- venue-hire inquiry and viewing
+- guest-chef participation
+- organisational partnership
 
 These establish:
 
@@ -9577,23 +9627,18 @@ published route architecture.
 
 They do not independently establish:
 
-successful admission
+- successful admission
+- capacity performance
+- handoff quality
+- rule consistency
+- dietary safety
+- equitable access burden
+- CRM ownership
+- programme outcome.
 
-capacity performance
+---
 
-handoff quality
-
-rule consistency
-
-dietary safety
-
-equitable access burden
-
-CRM ownership
-
-programme outcome.
-
-Current Canonical Entry State — Before Restaurant #18 Decision
+# Current Canonical Entry State — Before Restaurant #18 Decision
 
 Completed independent restaurants:
 
@@ -9621,131 +9666,166 @@ Research-derived KHDS Principles:
 
 No count changes are authorised here.
 
-Comparison 111 — Reservation Absence Can Be an Intentional Participation State
+---
+
+# Comparison 111 — Reservation Absence Can Be an Intentional Participation State
 
 Lunch is published as first-come with no referral or call-ahead. The absence of booking is a designed state, not missing architecture.
 
+~~~text
 No Reservation
 ≠
 No Participation Structure
+~~~
 
-Comparison 112 — First-Come Is a Capacity Allocation Mechanism
+# Comparison 112 — First-Come Is a Capacity Allocation Mechanism
 
 Arrival order participates in allocating finite meals, seats and service attention while transferring uncertainty to the guest.
 
+~~~text
 First-Come
 ≠
 Unlimited Access
+~~~
 
-Comparison 113 — No Referral Is Still an Eligibility Rule
+# Comparison 113 — No Referral Is Still an Eligibility Rule
 
 The explicit absence of referral changes who can attempt participation and removes a gate without removing every practical boundary.
 
+~~~text
 No Referral
 ≠
 No Eligibility Architecture
+~~~
 
-Comparison 114 — One Institution Can Contain Several Commitment Objects
+# Comparison 114 — One Institution Can Contain Several Commitment Objects
 
 Lunch, support, volunteering, donation, venue hire, guest-chef participation and partnership each require different commitments.
 
+~~~text
 One Organisation
 ≠
 One Reservation Object
+~~~
 
-Comparison 115 — Stakeholder Role Must Precede Route Design
+# Comparison 115 — Stakeholder Role Must Precede Route Design
 
 A volunteer shift, therapy appointment, donor coordination and venue inquiry cannot be treated as variants of one guest booking flow.
 
+~~~text
 Route Breadth
 ≠
 Guest-Intent Breadth
+~~~
 
-Comparison 116 — Minimal Guest Process Can Depend on Maximum Human Routing
+# Comparison 116 — Minimal Guest Process Can Depend on Maximum Human Routing
 
 Lunch simplicity is produced by staff and volunteers who interpret capacity, dietary needs, welcome and optional support.
 
+~~~text
 Low Interface Complexity
 ≠
 Low Operating Complexity
+~~~
 
-Comparison 117 — Capacity Must Be Decomposed Beyond Seats
+# Comparison 117 — Capacity Must Be Decomposed Beyond Seats
 
 Meals, tables, kitchen labour, front-of-house labour, volunteer supervision, partner advice, therapy appointments and event dates are distinct stocks.
 
+~~~text
 Available Seat
 ≠
 Available Participation
+~~~
 
-Comparison 118 — No Price Does Not Mean No Commitment
+# Comparison 118 — No Price Does Not Mean No Commitment
 
 The guest still commits time, travel, uncertainty, needs communication, shared presence and conduct without making a payment.
 
+~~~text
 No Transaction
 ≠
 No Commitment
+~~~
 
-Comparison 119 — Human Assistance Can Be the Primary Allocation Interface
+# Comparison 119 — Human Assistance Can Be the Primary Allocation Interface
 
 People do not merely resolve exceptional booking failures; they perform ordinary route and capacity coordination.
 
+~~~text
 Human Assistance
 ≠
 Fallback Support
+~~~
 
-Comparison 120 — Drop-In and Appointment States Can Coexist
+# Comparison 120 — Drop-In and Appointment States Can Coexist
 
 Lunch and some advice routes may be drop-in while Green Rooms care can require appointment or recognised-client conditions.
 
+~~~text
 One Access Posture
 ≠
 One Participation State
+~~~
 
-Comparison 121 — Role-Specific Complexity Is Better Than Universal Interface Depth
+# Comparison 121 — Role-Specific Complexity Is Better Than Universal Interface Depth
 
 The guest lunch route can remain simple while higher-consequence volunteer, support, donation and hire routes become deeper.
 
+~~~text
 Institutional Complexity
 ≠
 Universal Guest Complexity
+~~~
 
-Comparison 122 — Variable Product Can Sit Inside Stable Participation
+# Comparison 122 — Variable Product Can Sit Inside Stable Participation
 
 A changing surplus-led menu remains within stable lunch timing, course form and access rules.
 
+~~~text
 Variable Menu
 ≠
 Variable Commitment
+~~~
 
-Comparison 123 — Commercial Commitment Can Cross-Support Non-Commercial Access
+# Comparison 123 — Commercial Commitment Can Cross-Support Non-Commercial Access
 
 Venue hire uses inquiry, viewing and contractual allocation while published income supports community dining.
 
+~~~text
 Commercial Reservation
 ≠
 Mission Dilution
+~~~
 
-Comparison 124 — A Guest Can Participate Without Becoming a Contributor
+# Comparison 124 — A Guest Can Participate Without Becoming a Contributor
 
 Receiving lunch, sharing space and communicating needs are legitimate participation without required donation, labour or advocacy.
 
+~~~text
 Guest Participation
 ≠
 Contributor Conversion
+~~~
 
-Comparison 125 — Published Availability Cannot Prove Successful Allocation
+# Comparison 125 — Published Availability Cannot Prove Successful Allocation
 
 Schedules and contact routes establish intended access, not turn-away rates, appointment success, handoff quality or capacity performance.
 
+~~~text
 Published Route
 ≠
 Performed Access
+~~~
 
-Updated Reservation / Participation Thesis — Post Restaurant #18
+
+---
+
+# Updated Reservation / Participation Thesis — Post Restaurant #18
 
 The strongest thesis remains:
 
-Participation is a state system, not a booking button.
+> **Participation is a state system, not a booking button.**
 
 Refettorio Felix adds:
 
@@ -9757,6 +9837,7 @@ no reservation object.
 
 The new allocation model is:
 
+~~~text
 Participant Role
 ↓
 Access State
@@ -9770,9 +9851,11 @@ Human or Procedural Allocation
 Participation
 ↓
 Optional Continuation
+~~~
 
 The lunch route is:
 
+~~~text
 Guest
 ↓
 No Referral
@@ -9784,16 +9867,21 @@ First-Come Capacity
 Human Welcome
 ↓
 Shared Meal
+~~~
 
 The strongest correction is:
 
+~~~text
 No Reservation
 ≠
 No Participation Structure
+~~~
 
-Post–Refettorio Felix Reservation Architecture Additions
+---
 
-Non-Reservable Participation State
+# Post–Refettorio Felix Reservation Architecture Additions
+
+## Non-Reservable Participation State
 
 A legitimate route is intentionally available without advance booking.
 
@@ -9805,7 +9893,7 @@ not:
 
 a new pattern.
 
-First-Come Capacity Allocation
+## First-Come Capacity Allocation
 
 Arrival order allocates finite resources and distributes uncertainty.
 
@@ -9817,7 +9905,7 @@ not:
 
 a new pattern.
 
-No-Referral Eligibility Architecture
+## No-Referral Eligibility Architecture
 
 Eligibility is widened through explicit non-requirement.
 
@@ -9829,7 +9917,7 @@ not:
 
 a new pattern.
 
-Role-Specific Commitment Objects
+## Role-Specific Commitment Objects
 
 Each participant role receives its own commitment, consequence and capacity model.
 
@@ -9841,7 +9929,7 @@ not:
 
 a new pattern.
 
-Stakeholder / Guest-Intent Separation
+## Stakeholder / Guest-Intent Separation
 
 Organisational route breadth does not inflate guest-intent taxonomy.
 
@@ -9853,7 +9941,7 @@ not:
 
 a new pattern.
 
-Human-Routed Allocation
+## Human-Routed Allocation
 
 People are the primary interface for ordinary capacity and exception handling.
 
@@ -9865,7 +9953,7 @@ not:
 
 a new pattern.
 
-Distributed Capacity Inventory
+## Distributed Capacity Inventory
 
 Meals, seats, labour, supervision, appointments and event dates are distinct.
 
@@ -9877,7 +9965,7 @@ not:
 
 a new pattern.
 
-Drop-In / Appointment Coexistence
+## Drop-In / Appointment Coexistence
 
 One institution supports different access states by route.
 
@@ -9889,7 +9977,7 @@ not:
 
 a new pattern.
 
-Stable Rule / Variable Product Participation
+## Stable Rule / Variable Product Participation
 
 Stable service rules contain changing food inputs.
 
@@ -9901,7 +9989,7 @@ not:
 
 a new pattern.
 
-Cross-Support Commitment Architecture
+## Cross-Support Commitment Architecture
 
 Commercial and contributory commitments support non-commercial guest access.
 
@@ -9913,7 +10001,7 @@ not:
 
 a new pattern.
 
-Guest-Without-Contributor State
+## Guest-Without-Contributor State
 
 Guests may participate without conversion into donor, worker or advocate.
 
@@ -9925,7 +10013,7 @@ not:
 
 a new pattern.
 
-Published / Performed Allocation Separation
+## Published / Performed Allocation Separation
 
 Route visibility is not treated as successful fulfilment proof.
 
@@ -9937,45 +10025,31 @@ not:
 
 a new pattern.
 
-Reservation / Participation Architecture — Post Restaurant #18 Consolidation
+
+---
+
+# Reservation / Participation Architecture — Post Restaurant #18 Consolidation
 
 The consolidated participation model now includes:
 
-guest intent
-
-participant role
-
-eligibility state
-
-route selection
-
-reservation state
-
-walk-in state
-
-scheduled non-reservable state
-
-first-come state
-
-commitment object
-
-payment state
-
-capacity object
-
-human allocation
-
-consequence disclosure
-
-preparation
-
-participation
-
-exception handling
-
-optional continuation
-
-cancellation or failure state
+1. guest intent
+2. participant role
+3. eligibility state
+4. route selection
+5. reservation state
+6. walk-in state
+7. scheduled non-reservable state
+8. first-come state
+9. commitment object
+10. payment state
+11. capacity object
+12. human allocation
+13. consequence disclosure
+14. preparation
+15. participation
+16. exception handling
+17. optional continuation
+18. cancellation or failure state
 
 Reservation is:
 
@@ -9985,9 +10059,11 @@ It is not:
 
 the definition of participation.
 
-Current Reservation / Participation Pattern Pressure — Post Restaurant #18
+---
 
-Walk-In as First-Class Participation
+# Current Reservation / Participation Pattern Pressure — Post Restaurant #18
+
+## Walk-In as First-Class Participation
 
 Current state:
 
@@ -10005,7 +10081,7 @@ Decision:
 
 no confidence or maturity change.
 
-Hospitality System Proof
+## Hospitality System Proof
 
 Current state:
 
@@ -10023,7 +10099,7 @@ Decision:
 
 no confidence or maturity change.
 
-Manageable Commitment
+## Manageable Commitment
 
 Current state:
 
@@ -10041,7 +10117,7 @@ Decision:
 
 no confidence or maturity change.
 
-Participation Rule Consistency
+## Participation Rule Consistency
 
 Current state:
 
@@ -10059,7 +10135,7 @@ Decision:
 
 no confidence or maturity change.
 
-Layered Arrival
+## Layered Arrival
 
 Current state:
 
@@ -10077,7 +10153,7 @@ Decision:
 
 no confidence or maturity change.
 
-Participation Throughout the Journey
+## Participation Throughout the Journey
 
 Current state:
 
@@ -10095,7 +10171,7 @@ Decision:
 
 no confidence or maturity change.
 
-Capacity Proof
+## Capacity Proof
 
 Current state:
 
@@ -10113,7 +10189,7 @@ Decision:
 
 no confidence or maturity change.
 
-Stable Participation / Variable Product
+## Stable Participation / Variable Product
 
 Current state:
 
@@ -10131,7 +10207,7 @@ Decision:
 
 no confidence or maturity change.
 
-Human Assistance Where Structured Self-Service Is Insufficient
+## Human Assistance Where Structured Self-Service Is Insufficient
 
 Current state:
 
@@ -10149,7 +10225,7 @@ Decision:
 
 no confidence or maturity change.
 
-Multi-Intent Hospitality
+## Multi-Intent Hospitality
 
 Current state:
 
@@ -10167,7 +10243,7 @@ Decision:
 
 no confidence or maturity change.
 
-Commitment Without Pressure
+## Commitment Without Pressure
 
 Current state:
 
@@ -10185,7 +10261,7 @@ Decision:
 
 no confidence or maturity change.
 
-The Guest as Participant
+## The Guest as Participant
 
 Current state:
 
@@ -10203,7 +10279,7 @@ Decision:
 
 no confidence or maturity change.
 
-Escalating Participation Complexity
+## Escalating Participation Complexity
 
 Current state:
 
@@ -10221,7 +10297,7 @@ Decision:
 
 no confidence or maturity change.
 
-Own the Guest Relationship
+## Own the Guest Relationship
 
 Current state:
 
@@ -10239,273 +10315,283 @@ Decision:
 
 no confidence or maturity change.
 
-Post–Refettorio Felix Reservation Corrections
 
-Correction 94
+---
+
+# Post–Refettorio Felix Reservation Corrections
+
+## Correction 94
 
 Reservation absence can be an intentional participation state.
 
-Correction 95
+## Correction 95
 
 First-come is capacity allocation, not absence of capacity logic.
 
-Correction 96
+## Correction 96
 
 No referral is an eligibility decision.
 
-Correction 97
+## Correction 97
 
 One institution can contain several commitment objects.
 
-Correction 98
+## Correction 98
 
 Stakeholder routes must not inflate guest-intent count.
 
-Correction 99
+## Correction 99
 
 Minimal guest process may depend on complex human routing.
 
-Correction 100
+## Correction 100
 
 Seat capacity is only one participation stock.
 
-Correction 101
+## Correction 101
 
 No transaction does not mean no commitment.
 
-Correction 102
+## Correction 102
 
 Human assistance can be the primary allocation interface.
 
-Correction 103
+## Correction 103
 
 Drop-in and appointment states can coexist.
 
-Correction 104
+## Correction 104
 
 Complexity should scale by role consequence.
 
-Correction 105
+## Correction 105
 
 Stable participation can contain a variable menu.
 
-Correction 106
+## Correction 106
 
 Commercial reservation can cross-support non-commercial access.
 
-Correction 107
+## Correction 107
 
 Guest participation does not require contributor conversion.
 
-Correction 108
+## Correction 108
 
 Published route availability does not prove successful allocation.
 
-Correction 109
+## Correction 109
 
 Attempted dietary accommodation is not a safety guarantee.
 
-Correction 110
+## Correction 110
 
 Open access does not prove equitable burden distribution.
 
-Strongest Reservation / Participation Tensions After Restaurant #18
 
-Tension 23 — Open Access vs Finite Capacity
+---
+
+# Strongest Reservation / Participation Tensions After Restaurant #18
+
+# Tension 23 — Open Access vs Finite Capacity
 
 Low-threshold lunch access coexists with bounded meals, seats, labour and time.
 
-Tension 24 — No Booking vs Arrival Risk
+# Tension 24 — No Booking vs Arrival Risk
 
 The simplest advance process may transfer uncertainty to the guest.
 
-Tension 25 — Human Flexibility vs Rule Consistency
+# Tension 25 — Human Flexibility vs Rule Consistency
 
 People can respond sensitively while making allocation harder to standardise and audit.
 
-Tension 26 — Stakeholder Breadth vs Guest-Intent Precision
+# Tension 26 — Stakeholder Breadth vs Guest-Intent Precision
 
 Many organisational roles can distort a guest-centred pattern definition.
 
-Tension 27 — Drop-In Simplicity vs Appointment Specificity
+# Tension 27 — Drop-In Simplicity vs Appointment Specificity
 
 One institution needs opposite commitment states without confusing them.
 
-Tension 28 — Variable Menu vs Dietary Consequence
+# Tension 28 — Variable Menu vs Dietary Consequence
 
 Product flexibility must coexist with honest accommodation boundaries.
 
-Tension 29 — Guest Participation vs Contributor Pressure
+# Tension 29 — Guest Participation vs Contributor Pressure
 
 A social mission must not make donation, labour or advocacy feel obligatory.
 
-Tension 30 — Commercial Allocation vs Open-Door Mission
+# Tension 30 — Commercial Allocation vs Open-Door Mission
 
 Contracted venue use can support lunch while competing for space, time or narrative attention.
 
-Reservation Falsification Programme After Restaurant #18
 
-Measure lunch turn-away frequency and reasons.
+---
 
-Document queue and first-come allocation practice.
+# Reservation Falsification Programme After Restaurant #18
 
-Test whether guests understand that no referral is required.
+1. Measure lunch turn-away frequency and reasons.
 
-Test whether guests still experience felt-eligibility friction.
+2. Document queue and first-come allocation practice.
 
-Verify meal, seat, kitchen and front-of-house capacity separately.
+3. Test whether guests understand that no referral is required.
 
-Record how staff communicate capacity before and at arrival.
+4. Test whether guests still experience felt-eligibility friction.
 
-Compare published and performed lunch windows.
+5. Verify meal, seat, kitchen and front-of-house capacity separately.
 
-Audit how dietary needs are captured and handed off.
+6. Record how staff communicate capacity before and at arrival.
 
-Separate attempted accommodation from allergen assurance.
+7. Compare published and performed lunch windows.
 
-Test whether human routing produces inconsistent decisions.
+8. Audit how dietary needs are captured and handed off.
 
-Map every participant role and route.
+9. Separate attempted accommodation from allergen assurance.
 
-Keep lunch guest, support user, volunteer, donor, hirer, chef and partner distinct.
+10. Test whether human routing produces inconsistent decisions.
 
-Identify the commitment object for each route.
+11. Map every participant role and route.
 
-Identify the capacity object for each route.
+12. Keep lunch guest, support user, volunteer, donor, hirer, chef and partner distinct.
 
-Identify the cancellation or failure state for each route.
+13. Identify the commitment object for each route.
 
-Compare lunch drop-in with Glass Door and Age UK access.
+14. Identify the capacity object for each route.
 
-Compare lunch drop-in with Green Rooms appointment access.
+15. Identify the cancellation or failure state for each route.
 
-Verify recognised-client conditions for therapy.
+16. Compare lunch drop-in with Glass Door and Age UK access.
 
-Test handoffs between meal and support.
+17. Compare lunch drop-in with Green Rooms appointment access.
 
-Verify that support participation remains optional.
+18. Verify recognised-client conditions for therapy.
 
-Audit volunteer shift allocation, induction and cancellation.
+19. Test handoffs between meal and support.
 
-Audit volunteer supervision and safeguarding capacity.
+20. Verify that support participation remains optional.
 
-Test in-kind donation acceptance and coordination.
+21. Audit volunteer shift allocation, induction and cancellation.
 
-Audit venue-hire inquiry, viewing, contract and availability.
+22. Audit volunteer supervision and safeguarding capacity.
 
-Measure whether venue hire displaces or supports community service.
+23. Test in-kind donation acceptance and coordination.
 
-Separate guest-chef scheduling from routine kitchen capacity.
+24. Audit venue-hire inquiry, viewing, contract and availability.
 
-Test whether guests can participate without donation or advocacy.
+25. Measure whether venue hire displaces or supports community service.
 
-Test whether no payment creates uncertainty about expected reciprocity.
+26. Separate guest-chef scheduling from routine kitchen capacity.
 
-Compare first-time and repeat-guest participation burden.
+27. Test whether guests can participate without donation or advocacy.
 
-Assess burden across mobility, transport, health and schedule conditions.
+28. Test whether no payment creates uncertainty about expected reciprocity.
 
-Test cross-surface rule consistency.
+29. Compare first-time and repeat-guest participation burden.
 
-Test mobile comprehension of every route.
+30. Assess burden across mobility, transport, health and schedule conditions.
 
-Measure how often staff answer questions omitted online.
+31. Test cross-surface rule consistency.
 
-Compare role-specific depth with a universal-form alternative.
+32. Test mobile comprehension of every route.
 
-Test whether variable menu changes the participation promise.
+33. Measure how often staff answer questions omitted online.
 
-Compare with referral-based free dining.
+34. Compare role-specific depth with a universal-form alternative.
 
-Compare with booking-based free dining.
+35. Test whether variable menu changes the participation promise.
 
-Compare with pay-what-you-can hospitality.
+36. Compare with referral-based free dining.
 
-Compare with a commercial restaurant offering integrated support.
+37. Compare with booking-based free dining.
 
-Do not infer successful access from published availability alone.
+38. Compare with pay-what-you-can hospitality.
 
-Participation Deduplication Decisions — Restaurant #18
+39. Compare with a commercial restaurant offering integrated support.
 
-Non-Reservable Participation State refines the participation-state model.
+40. Do not infer successful access from published availability alone.
 
-First-Come Capacity Allocation refines Walk-In as First-Class and Capacity Proof.
 
-No-Referral Eligibility Architecture is an access mechanism, not a separate pattern.
+---
 
-Role-Specific Commitment Objects refine Multi-Intent Hospitality boundaries.
+# Participation Deduplication Decisions — Restaurant #18
 
-Stakeholder / Guest-Intent Separation is a taxonomy correction.
+1. Non-Reservable Participation State refines the participation-state model.
+2. First-Come Capacity Allocation refines Walk-In as First-Class and Capacity Proof.
+3. No-Referral Eligibility Architecture is an access mechanism, not a separate pattern.
+4. Role-Specific Commitment Objects refine Multi-Intent Hospitality boundaries.
+5. Stakeholder / Guest-Intent Separation is a taxonomy correction.
+6. Human-Routed Allocation refines Human Assistance.
+7. Distributed Capacity Inventory refines Capacity Proof.
+8. Guest-Without-Contributor State refines The Guest as Participant.
 
-Human-Routed Allocation refines Human Assistance.
+---
 
-Distributed Capacity Inventory refines Capacity Proof.
+# Restaurant #18 Reservation Decision Ledger
 
-Guest-Without-Contributor State refines The Guest as Participant.
+1. Add Refettorio Felix as the eighteenth independent reservation case.
 
-Restaurant #18 Reservation Decision Ledger
+2. Classify lunch as an intentional non-reservable participation state.
 
-Add Refettorio Felix as the eighteenth independent reservation case.
+3. Treat first-come as a capacity allocation mechanism.
 
-Classify lunch as an intentional non-reservable participation state.
+4. Treat no referral as explicit eligibility architecture.
 
-Treat first-come as a capacity allocation mechanism.
+5. Separate open access from unlimited capacity.
 
-Treat no referral as explicit eligibility architecture.
+6. Record several distinct commitment objects.
 
-Separate open access from unlimited capacity.
+7. Require stakeholder role before route design.
 
-Record several distinct commitment objects.
+8. Preserve stakeholder / guest-intent separation.
 
-Require stakeholder role before route design.
+9. Treat human routing as primary allocation infrastructure.
 
-Preserve stakeholder / guest-intent separation.
+10. Separate guest-interface simplicity from operational simplicity.
 
-Treat human routing as primary allocation infrastructure.
+11. Record distributed capacity beyond seats.
 
-Separate guest-interface simplicity from operational simplicity.
+12. Treat no transaction as compatible with material commitment.
 
-Record distributed capacity beyond seats.
+13. Allow drop-in and appointment states inside one institution.
 
-Treat no transaction as compatible with material commitment.
+14. Scale interface depth by consequence and role.
 
-Allow drop-in and appointment states inside one institution.
+15. Treat variable menu and stable rules as strong pattern pressure.
 
-Scale interface depth by consequence and role.
+16. Treat venue hire as cross-support architecture.
 
-Treat variable menu and stable rules as strong pattern pressure.
+17. Do not infer net subsidy or absence of competition for capacity.
 
-Treat venue hire as cross-support architecture.
+18. Protect a guest-without-contributor state.
 
-Do not infer net subsidy or absence of competition for capacity.
+19. Treat published availability as mechanism evidence only.
 
-Protect a guest-without-contributor state.
+20. Treat dietary accommodation conservatively.
 
-Treat published availability as mechanism evidence only.
+21. Reinforce Walk-In as First-Class without changing High confidence.
 
-Treat dietary accommodation conservatively.
+22. Reinforce Manageable Commitment without changing confidence.
 
-Reinforce Walk-In as First-Class without changing High confidence.
+23. Add pressure to Capacity Proof without changing confidence.
 
-Reinforce Manageable Commitment without changing confidence.
+24. Reinforce Stable Participation / Variable Product without changing confidence.
 
-Add pressure to Capacity Proof without changing confidence.
+25. Reinforce Human Assistance without changing confidence.
 
-Reinforce Stable Participation / Variable Product without changing confidence.
+26. Apply definition stress to Multi-Intent Hospitality.
 
-Reinforce Human Assistance without changing confidence.
+27. Retain Commitment Without Pressure at Emerging.
 
-Apply definition stress to Multi-Intent Hospitality.
+28. Make no promotion, demotion, merge or rename.
 
-Retain Commitment Without Pressure at Emerging.
+29. Make no confidence or maturity change.
 
-Make no promotion, demotion, merge or rename.
+30. Reserve governance decisions until all five Restaurant #18 comparisons are complete.
 
-Make no confidence or maturity change.
 
-Reserve governance decisions until all five Restaurant #18 comparisons are complete.
+---
 
-Reservation / Participation Comparison Conclusion — Post Refettorio Felix, London
+# Reservation / Participation Comparison Conclusion — Post Refettorio Felix, London
 
 After:
 
@@ -10515,7 +10601,7 @@ independent restaurants,
 
 the strongest participation thesis remains:
 
-Participation is a state system, not a booking button.
+> **Participation is a state system, not a booking button.**
 
 Dans le Noir? showed:
 
@@ -10531,6 +10617,7 @@ a principal hospitality route can be intentionally non-reservable while the inst
 
 The strongest combined model is:
 
+~~~text
 Role
 ↓
 Relevant Route
@@ -10542,34 +10629,43 @@ Proportionate Commitment
 Human + Procedural Support
 ↓
 Participation
+~~~
 
 The strongest new access boundary is:
 
+~~~text
 No Referral
 ≠
 No Eligibility Architecture
+~~~
 
 The strongest new capacity boundary is:
 
+~~~text
 Available Seat
 ≠
 Available Participation
+~~~
 
 The strongest taxonomy boundary is:
 
+~~~text
 Stakeholder Route
 ≠
 Guest Intent
+~~~
 
 Formal maturity decisions remain reserved until all five Restaurant #18 comparison files are complete.
 
 Evidence wins.
 
-Validation — Post Restaurant #18
+---
+
+# Validation — Post Restaurant #18
 
 Comparison File:
 
-khds/research/comparison/reservation.md
+`khds/research/comparison/reservation.md`
 
 Status:
 
@@ -10665,9 +10761,11 @@ Research-Derived KHDS Principles:
 
 Next Comparison File:
 
-khds/research/comparison/story.md
+`khds/research/comparison/story.md`
 
-Post–JBJ Soul Kitchen, Red Bank Reservation Reconciliation
+---
+
+# Post–JBJ Soul Kitchen, Red Bank Reservation Reconciliation
 
 Restaurant #19:
 
@@ -10693,47 +10791,47 @@ first-come.
 
 JBJ Soul Kitchen adds:
 
-a first-come baseline
+- a first-come baseline
 
-mission priority
+- mission priority
 
-flexible financial contribution
+- flexible financial contribution
 
-pay-it-forward participation
+- pay-it-forward participation
 
-an unable-to-donate route
+- an unable-to-donate route
 
-volunteer allocation
+- volunteer allocation
 
-exchange-for-meal volunteer priority
+- exchange-for-meal volunteer priority
 
-resource continuation
+- resource continuation
 
-role-specific data and commitment
+- role-specific data and commitment
 
 The absence of a conventional booking surface therefore does not mean:
 
 the absence of:
 
-allocation
+- allocation
 
-capacity
+- capacity
 
-eligibility interpretation
+- eligibility interpretation
 
-commitment
+- commitment
 
-priority
+- priority
 
-privacy requirements
+- privacy requirements
 
-failure states
+- failure states
 
-recovery
+- recovery
 
 The central comparative question is:
 
-How should a restaurant allocate seats, meals, volunteer places and human support when the dining route has no reservation, first-come order is modified by mission priority, and participation can involve money, additional support, non-payment or labour?
+> **How should a restaurant allocate seats, meals, volunteer places and human support when the dining route has no reservation, first-come order is modified by mission priority, and participation can involve money, additional support, non-payment or labour?**
 
 Restaurant #19 is now:
 
@@ -10749,92 +10847,99 @@ all five Restaurant #19 comparison files
 
 are complete.
 
-Restaurant #19 Reservation Evidence Input
+---
+
+# Restaurant #19 Reservation Evidence Input
 
 The official evidence establishes:
 
-reservations are not needed
+- reservations are not needed
 
-dining participation is walk-in
+- dining participation is walk-in
 
-seating is first-come, first-served
+- seating is first-come, first-served
 
-diners described as in need receive first priority
+- diners described as in need receive first priority
 
-service occurs within published windows
+- service occurs within published windows
 
-menu prices are not fixed
+- menu prices are not fixed
 
-a suggested donation is published
+- a suggested donation is published
 
-pay-it-forward support is encouraged
+- pay-it-forward support is encouraged
 
-people unable to donate are invited to dine
+- people unable to donate are invited to dine
 
-volunteer and resource-learning routes exist
+- volunteer and resource-learning routes exist
 
-the volunteer route uses an application
+- the volunteer route uses an application
 
-Support Staff Volunteering requires orientation
+- Support Staff Volunteering requires orientation
 
-exchange-for-meal volunteers receive priority for available places
+- exchange-for-meal volunteers receive priority for available places
 
-volunteer places are finite
+- volunteer places are finite
 
-the menu changes on a recurring cycle
+- the menu changes on a recurring cycle
 
-public meal and volunteer activity totals exist
+- public meal and volunteer activity totals exist
 
 The official evidence does not establish:
 
-current table capacity
+- current table capacity
 
-live seat availability
+- live seat availability
 
-queue length
+- queue length
 
-expected wait
+- expected wait
 
-exact priority procedure
+- exact priority procedure
 
-whether priority requires disclosure
+- whether priority requires disclosure
 
-whether disclosure is private
+- whether disclosure is private
 
-when contribution is resolved
+- when contribution is resolved
 
-whether suggested donation feels optional
+- whether suggested donation feels optional
 
-whether volunteering is understood as optional
+- whether volunteering is understood as optional
 
-current exchange-for-meal placement availability
+- current exchange-for-meal placement availability
 
-time between application, shift and meal
+- time between application, shift and meal
 
-the relationship between a volunteer place and a dining seat
+- the relationship between a volunteer place and a dining seat
 
-dietary handoff performance without a booking record
+- dietary handoff performance without a booking record
 
-accessibility preparation performance without a booking record
+- accessibility preparation performance without a booking record
 
-resource capacity
+- resource capacity
 
-recovery after full capacity
+- recovery after full capacity
 
-equal service across contribution states
+- equal service across contribution states
 
-successful access
+- successful access
 
 The governing rule remains:
 
+```text
 Published Participation Route
 ≠
 Performed Allocation Outcome
+```
 
-Current Canonical Entry State — Before Restaurant #19 Reservation Decision
+---
+
+# Current Canonical Entry State — Before Restaurant #19 Reservation Decision
 
 The completed canonical governance state remains:
 
+```text
 Independent Restaurants: 18
 Track B Validation Cases: 1
 Candidate Patterns: 26
@@ -10846,6 +10951,7 @@ Implementation Patterns Pending Formal Validation: 1
 Opportunity Themes: 36
 Track B Implementation Learnings: 17
 Candidate Confidence: 9 High / 8 Medium-High / 9 Medium
+```
 
 The reservation comparison now represents:
 
@@ -10857,21 +10963,23 @@ the canonical completed-restaurant count.
 
 Restaurant #19 contributes:
 
-comparative participation evidence
+- comparative participation evidence
 
-allocation architecture
+- allocation architecture
 
-capacity boundaries
+- capacity boundaries
 
-privacy requirements
+- privacy requirements
 
-falsification targets
+- falsification targets
 
 It does not contribute:
 
 an automatic promotion.
 
-Comparison 126 — No Reservation Is Still an Allocation Decision
+---
+
+# Comparison 126 — No Reservation Is Still an Allocation Decision
 
 Refettorio Felix established:
 
@@ -10885,19 +10993,19 @@ a table in advance.
 
 The operating system still allocates:
 
-entry order
+- entry order
 
-seating
+- seating
 
-service attention
+- service attention
 
-priority
+- priority
 
-dining capacity
+- dining capacity
 
-volunteer places
+- volunteer places
 
-resource attention
+- resource attention
 
 The allocation point moves from:
 
@@ -10909,9 +11017,11 @@ the live threshold.
 
 Therefore:
 
+```text
 No Reservation
 ≠
 No Allocation
+```
 
 The participation state is:
 
@@ -10923,7 +11033,9 @@ and:
 
 capacity-bound.
 
-Comparison 127 — First-Come and Mission Priority Form One Allocation System
+---
+
+# Comparison 127 — First-Come and Mission Priority Form One Allocation System
 
 First-come is:
 
@@ -10939,6 +11051,7 @@ priority for diners in need.
 
 The correct model is:
 
+```text
 First-Come Baseline
 +
 Mission-Priority Condition
@@ -10946,12 +11059,15 @@ Mission-Priority Condition
 Finite Capacity
 ↓
 Live Allocation
+```
 
 Therefore:
 
+```text
 First Come
 ≠
 Only Allocation Rule
+```
 
 The two rules must be explained:
 
@@ -10959,31 +11075,33 @@ together.
 
 Separating them across pages or human explanations may create:
 
-surprise
+- surprise
 
-perceived unfairness
+- perceived unfairness
 
-inconsistent action
+- inconsistent action
 
-public status inference
+- public status inference
 
 This is direct pressure on:
 
 Participation Rule Consistency.
 
-Comparison 128 — Priority Can Protect Access and Threaten Privacy
+---
+
+# Comparison 128 — Priority Can Protect Access and Threaten Privacy
 
 Mission priority can correct:
 
 the unequal ability to:
 
-arrive early
+- arrive early
 
-wait
+- wait
 
-absorb a turn-away
+- absorb a turn-away
 
-return later
+- return later
 
 But:
 
@@ -10995,21 +11113,23 @@ need.
 
 That recognition must not automatically become:
 
-public proof
+- public proof
 
-queue announcement
+- queue announcement
 
-visible category
+- visible category
 
-permanent record
+- permanent record
 
-marketing data
+- marketing data
 
 The boundary is:
 
+```text
 Priority
 ≠
 Public Proof of Need
+```
 
 The allocation design must combine:
 
@@ -11019,61 +11139,69 @@ with:
 
 minimal disclosure.
 
-Comparison 129 — No Fixed Price Does Not Mean No Commitment
+---
+
+# Comparison 129 — No Fixed Price Does Not Mean No Commitment
 
 The dining guest avoids:
 
-booking deposit
+- booking deposit
 
-prepaid ticket
+- prepaid ticket
 
-fixed menu price
+- fixed menu price
 
 The guest still commits:
 
-travel
+- travel
 
-time
+- time
 
-queue exposure
+- queue exposure
 
-capacity risk
+- capacity risk
 
-contribution interpretation
+- contribution interpretation
 
-dietary uncertainty
+- dietary uncertainty
 
-accessibility uncertainty
+- accessibility uncertainty
 
 The volunteer route may additionally require:
 
-application
+- application
 
-orientation
+- orientation
 
-scheduling
+- scheduling
 
-labour
+- labour
 
-follow-through
+- follow-through
 
 Therefore:
 
+```text
 No Fixed Price
 ≠
 No Commitment
+```
 
 and:
 
+```text
 Low Digital Commitment
 ≠
 Low Total Participation Burden
+```
 
 Manageable Commitment receives:
 
 mixed evidence.
 
-Comparison 130 — Contribution Choice Is a Participation State
+---
+
+# Comparison 130 — Contribution Choice Is a Participation State
 
 At JBJ Soul Kitchen,
 
@@ -11083,17 +11211,17 @@ a checkout event.
 
 The guest may:
 
-make the suggested donation
+- make the suggested donation
 
-contribute more
+- contribute more
 
-pay forward another meal
+- pay forward another meal
 
-be unable to donate
+- be unable to donate
 
-consider volunteering
+- consider volunteering
 
-return in another role
+- return in another role
 
 These are:
 
@@ -11105,9 +11233,11 @@ different levels of guesthood.
 
 Therefore:
 
+```text
 Contribution State
 ≠
 Guest Rank
+```
 
 The system must keep:
 
@@ -11119,7 +11249,9 @@ without:
 
 turning it into eligibility proof.
 
-Comparison 131 — Suggested Donation and Pay It Forward Are Different Commitment Objects
+---
+
+# Comparison 131 — Suggested Donation and Pay It Forward Are Different Commitment Objects
 
 Suggested donation concerns:
 
@@ -11139,21 +11271,27 @@ one moral expectation.
 
 Therefore:
 
+```text
 Suggested Donation
 ≠
 Required Payment
+```
 
 and:
 
+```text
 Pay It Forward
 ≠
 Dining Eligibility
+```
 
 A guest who does neither must still be able to understand:
 
 their legitimate route.
 
-Comparison 132 — Dining Seats and Volunteer Places Are Different Capacity Objects
+---
+
+# Comparison 132 — Dining Seats and Volunteer Places Are Different Capacity Objects
 
 The public model includes:
 
@@ -11165,83 +11303,93 @@ structured volunteering.
 
 A dining seat is governed by:
 
-service window
+- service window
 
-table capacity
+- table capacity
 
-first-come order
+- first-come order
 
-mission priority
+- mission priority
 
 A volunteer place may be governed by:
 
-application
+- application
 
-role need
+- role need
 
-orientation
+- orientation
 
-shift availability
+- shift availability
 
-supervision
+- supervision
 
-exchange-for-meal priority
+- exchange-for-meal priority
 
 Therefore:
 
+```text
 Volunteer Place
 ≠
 Dining Seat
+```
 
 Failure to secure one must not be silently interpreted as:
 
 failure to access the other.
 
-Comparison 133 — A Volunteer Application Is Not a Table Reservation
+---
+
+# Comparison 133 — A Volunteer Application Is Not a Table Reservation
 
 The volunteer form may perform:
 
-intake
+- intake
 
-role matching
+- role matching
 
-eligibility checking
+- eligibility checking
 
-safeguarding
+- safeguarding
 
-availability collection
+- availability collection
 
-labour allocation
+- labour allocation
 
-orientation preparation
+- orientation preparation
 
 It does not automatically allocate:
 
-a dining table
+- a dining table
 
-an immediate shift
+- an immediate shift
 
-a future meal
+- a future meal
 
-guaranteed participation
+- guaranteed participation
 
 Therefore:
 
+```text
 Volunteer Application
 ≠
 Dining Reservation
+```
 
 and:
 
+```text
 Volunteer Priority
 ≠
 Guaranteed Shift
+```
 
 The system requires:
 
 separate state labels.
 
-Comparison 134 — A Guest Must Be Able to Exist Without Becoming a Contributor
+---
+
+# Comparison 134 — A Guest Must Be Able to Exist Without Becoming a Contributor
 
 Refettorio Felix established:
 
@@ -11253,15 +11401,15 @@ contribution options are more visible.
 
 A legitimate guest may:
 
-make no financial contribution
+- make no financial contribution
 
-decline pay it forward
+- decline pay it forward
 
-decline volunteering
+- decline volunteering
 
-decline resource participation
+- decline resource participation
 
-leave after dining
+- leave after dining
 
 The route must not make:
 
@@ -11271,41 +11419,49 @@ the hidden price of present hospitality.
 
 Therefore:
 
+```text
 Unable to Donate
 ≠
 Unable to Dine
+```
 
 and:
 
+```text
 Guest Participation
 ≠
 Contributor Obligation
+```
 
-Comparison 135 — First-Come Equality Can Produce Unequal Burden
+---
+
+# Comparison 135 — First-Come Equality Can Produce Unequal Burden
 
 A uniform first-come rule may affect people differently because of:
 
-mobility
+- mobility
 
-health
+- health
 
-transport reliability
+- transport reliability
 
-caregiving
+- caregiving
 
-work schedules
+- work schedules
 
-ability to wait
+- ability to wait
 
-distance
+- distance
 
-weather
+- weather
 
 Therefore:
 
+```text
 Same Queue Rule
 ≠
 Same Queue Burden
+```
 
 Mission priority may respond to:
 
@@ -11323,38 +11479,42 @@ not:
 
 form-field count.
 
-Comparison 136 — No Booking Record Can Protect Privacy and Weaken Preparation
+---
+
+# Comparison 136 — No Booking Record Can Protect Privacy and Weaken Preparation
 
 The absence of a reservation record can reduce:
 
-unnecessary data capture
+- unnecessary data capture
 
-persistent economic labelling
+- persistent economic labelling
 
-pre-qualification
+- pre-qualification
 
-account dependence
+- account dependence
 
 It can also remove:
 
-dietary handoff
+- dietary handoff
 
-access-needs preparation
+- access-needs preparation
 
-companion information
+- companion information
 
-arrival confirmation
+- arrival confirmation
 
-contact for disruption
+- contact for disruption
 
-pre-service operational briefing
+- pre-service operational briefing
 
 Therefore:
 
+```text
 No Booking Record
 Can Protect Privacy
 and
 Reduce Preparation Capacity
+```
 
 The solution is not necessarily:
 
@@ -11368,37 +11528,41 @@ optional,
 
 purpose-bounded preparation channel.
 
-Comparison 137 — Minimal Disclosure Can Increase Human Dependence
+---
+
+# Comparison 137 — Minimal Disclosure Can Increase Human Dependence
 
 Minimal-disclosure dining protects:
 
-privacy
+- privacy
 
-equal guesthood
+- equal guesthood
 
-low-threshold access
+- low-threshold access
 
 It leaves live staff or volunteers to resolve:
 
-capacity
+- capacity
 
-priority
+- priority
 
-dietary needs
+- dietary needs
 
-access needs
+- access needs
 
-contribution questions
+- contribution questions
 
-route confusion
+- route confusion
 
-recovery
+- recovery
 
 Therefore:
 
+```text
 Less Data
 ≠
 Less Operational Work
+```
 
 Human assistance becomes:
 
@@ -11414,7 +11578,9 @@ and:
 
 audited.
 
-Comparison 138 — Human Allocation Is Not Unstructured Allocation
+---
+
+# Comparison 138 — Human Allocation Is Not Unstructured Allocation
 
 No digital booking engine does not imply:
 
@@ -11422,27 +11588,29 @@ improvisation is sufficient.
 
 Human allocation still requires:
 
-shared rules
+- shared rules
 
-role authority
+- role authority
 
-escalation
+- escalation
 
-privacy boundaries
+- privacy boundaries
 
-consequence-aware language
+- consequence-aware language
 
-capacity awareness
+- capacity awareness
 
-recovery procedures
+- recovery procedures
 
-auditability
+- auditability
 
 Therefore:
 
+```text
 Human Allocation
 ≠
 Unstructured Allocation
+```
 
 Human flexibility can improve:
 
@@ -11456,35 +11624,39 @@ when:
 
 the underlying system is unclear.
 
-Comparison 139 — Historical Scale Cannot Answer the Live Availability Question
+---
+
+# Comparison 139 — Historical Scale Cannot Answer the Live Availability Question
 
 Public meal counts and volunteer totals can establish:
 
-continuity
+- continuity
 
-institutional activity
+- institutional activity
 
-programme scale
+- programme scale
 
 They cannot answer:
 
-Is there a seat now?
+- Is there a seat now?
 
-How long is the wait?
+- How long is the wait?
 
-Will the kitchen reach capacity?
+- Will the kitchen reach capacity?
 
-Is a volunteer place available?
+- Is a volunteer place available?
 
-Is orientation available?
+- Is orientation available?
 
-Is resource support available?
+- Is resource support available?
 
 Therefore:
 
+```text
 Historical Capacity
 ≠
 Live Availability
+```
 
 Capacity Proof must distinguish:
 
@@ -11494,39 +11666,43 @@ from:
 
 current allocation state.
 
-Comparison 140 — Capacity Is a Portfolio, Not a Seat Count
+---
+
+# Comparison 140 — Capacity Is a Portfolio, Not a Seat Count
 
 Restaurant #19 reveals at least six capacity objects:
 
-dining capacity
+1. dining capacity
 
-queue capacity
+2. queue capacity
 
-contribution-resolution capacity
+3. contribution-resolution capacity
 
-volunteer capacity
+4. volunteer capacity
 
-resource-connection capacity
+5. resource-connection capacity
 
-recovery capacity
+6. recovery capacity
 
 Each has:
 
-a different unit
+- a different unit
 
-a different constraint
+- a different constraint
 
-a different failure state
+- a different failure state
 
-a different owner
+- a different owner
 
-a different evidence requirement
+- a different evidence requirement
 
 Therefore:
 
+```text
 Available Seat
 ≠
 Available Participation
+```
 
 Capacity must be:
 
@@ -11534,7 +11710,9 @@ decomposed before it can be:
 
 explained or proven.
 
-Comparison 141 — Stable Participation Can Hold a Variable Menu
+---
+
+# Comparison 141 — Stable Participation Can Hold a Variable Menu
 
 The menu may change:
 
@@ -11542,27 +11720,29 @@ on a recurring cycle.
 
 The stable participation system includes:
 
-no reservation
+- no reservation
 
-service windows
+- service windows
 
-first-come baseline
+- first-come baseline
 
-mission priority
+- mission priority
 
-three-course structure
+- three-course structure
 
-contribution choices
+- contribution choices
 
-volunteer route
+- volunteer route
 
-resource continuation
+- resource continuation
 
 Therefore:
 
+```text
 Variable Product
 Can Sit Inside
 Stable Participation
+```
 
 The changing menu does not need to destabilise:
 
@@ -11578,23 +11758,25 @@ Dietary consequence still requires:
 
 current information and a live handoff.
 
-Comparison 142 — One Person Can Hold Several Roles Without Several Initial Intents
+---
+
+# Comparison 142 — One Person Can Hold Several Roles Without Several Initial Intents
 
 A person may participate as:
 
-diner
+- diner
 
-donor
+- donor
 
-pay-it-forward contributor
+- pay-it-forward contributor
 
-volunteer prospect
+- volunteer prospect
 
-volunteer
+- volunteer
 
-resource participant
+- resource participant
 
-repeat guest
+- repeat guest
 
 These may be:
 
@@ -11606,9 +11788,11 @@ separate initial guest intents.
 
 Therefore:
 
+```text
 Role Multiplicity
 ≠
 Intent Multiplicity
+```
 
 Multi-Intent Hospitality receives:
 
@@ -11618,7 +11802,9 @@ not:
 
 automatic confidence growth.
 
-Comparison 143 — Cross-Supported Capacity Must Not Create Recipient Ownership
+---
+
+# Comparison 143 — Cross-Supported Capacity Must Not Create Recipient Ownership
 
 Pay-it-forward contribution may help fund:
 
@@ -11626,23 +11812,25 @@ another meal.
 
 The contributor does not thereby reserve:
 
-a specific recipient
+- a specific recipient
 
-recipient visibility
+- recipient visibility
 
-recipient gratitude
+- recipient gratitude
 
-recipient testimony
+- recipient testimony
 
-influence over priority
+- influence over priority
 
-influence over service
+- influence over service
 
 Therefore:
 
+```text
 Cross-Supported Capacity
 ≠
 Recipient Ownership
+```
 
 Reservation architecture must prevent:
 
@@ -11652,7 +11840,9 @@ from becoming:
 
 personal claim.
 
-Comparison 144 — Open to All Does Not Mean Available to All at Once
+---
+
+# Comparison 144 — Open to All Does Not Mean Available to All at Once
 
 The institution can publish:
 
@@ -11664,25 +11854,27 @@ simultaneous capacity.
 
 The honest promise must include:
 
-service windows
+- service windows
 
-first-come allocation
+- first-come allocation
 
-priority
+- priority
 
-finite seats
+- finite seats
 
-possible wait
+- possible wait
 
-possible turn-away
+- possible turn-away
 
-recovery
+- recovery
 
 Therefore:
 
+```text
 All Are Welcome
 ≠
 All Are Guaranteed a Seat
+```
 
 Capacity honesty strengthens:
 
@@ -11690,11 +11882,13 @@ welcome.
 
 It does not weaken it.
 
-Updated Reservation / Participation Thesis — Post Restaurant #19
+---
+
+# Updated Reservation / Participation Thesis — Post Restaurant #19
 
 The strongest thesis remains:
 
-Participation is a state system, not a booking button.
+> **Participation is a state system, not a booking button.**
 
 Restaurant #19 shows that:
 
@@ -11702,21 +11896,21 @@ removing advance reservation
 
 does not remove:
 
-state
+- state
 
-allocation
+- allocation
 
-priority
+- priority
 
-capacity
+- capacity
 
-commitment
+- commitment
 
-data
+- data
 
-human routing
+- human routing
 
-recovery
+- recovery
 
 It redistributes those responsibilities across:
 
@@ -11738,10 +11932,11 @@ optional continuation.
 
 The refined thesis is:
 
-Participation architecture allocates the right hospitality object to the right role with proportionate commitment, minimal necessary disclosure, honest capacity and recoverable failure—whether or not a reservation exists.
+> **Participation architecture allocates the right hospitality object to the right role with proportionate commitment, minimal necessary disclosure, honest capacity and recoverable failure—whether or not a reservation exists.**
 
 The Restaurant #19 model is:
 
+```text
 Guest Role
 ↓
 Dining or Continuation Route
@@ -11755,70 +11950,73 @@ Contribution Choice
 Human + Procedural Support
 ↓
 Stable Guesthood
+```
 
-Post–JBJ Soul Kitchen Reservation Architecture Additions
+---
 
-No-Reservation Allocation
+# Post–JBJ Soul Kitchen Reservation Architecture Additions
+
+## No-Reservation Allocation
 
 Seats are allocated live without advance booking.
 
-Mission-Priority Queue
+## Mission-Priority Queue
 
 First-come order is modified by a mission-relevant priority condition.
 
-Contribution-State Participation
+## Contribution-State Participation
 
 One dining route supports several contribution modes without splitting guesthood.
 
-Dignity-Preserving Allocation
+## Dignity-Preserving Allocation
 
 Capacity decisions protect privacy and equal guest status.
 
-Volunteer-Exchange Allocation
+## Volunteer-Exchange Allocation
 
 Non-cash participation uses separately governed volunteer places.
 
-Dining / Volunteer Separation
+## Dining / Volunteer Separation
 
 A dining seat and a volunteer place remain distinct allocation objects.
 
-Contribution Choice Architecture
+## Contribution Choice Architecture
 
 Donation, pay forward, non-donation and volunteering remain legible without hierarchy.
 
-Capacity Without Scarcity Theatre
+## Capacity Without Scarcity Theatre
 
 Constraints are communicated honestly without using scarcity to pressure contribution.
 
-Priority Without Public Classification
+## Priority Without Public Classification
 
 Mission allocation does not expose need status.
 
-Human-Routed Participation
+## Human-Routed Participation
 
 Trained people resolve sensitive and variable conditions.
 
-Minimal-Disclosure Dining
+## Minimal-Disclosure Dining
 
 The guest provides only consequence-relevant information.
 
-Role-Bounded Data
+## Role-Bounded Data
 
 Dining, volunteer and donor records remain separated by purpose.
 
-Flexible Contribution / Stable Guesthood
+## Flexible Contribution / Stable Guesthood
 
 Contribution changes while guest status does not.
 
-First-Come Recovery
+## First-Come Recovery
 
 A failed seating attempt receives a clear next step.
 
-Access Without Booking Record
+## Access Without Booking Record
 
 Dietary and accessibility preparation remain possible without compulsory reservation.
 
-Cross-Supported Capacity
+## Cross-Supported Capacity
 
 One participant’s money may support another meal without creating personal claim.
 
@@ -11830,71 +12028,75 @@ They are not:
 
 new formal patterns.
 
-Reservation / Participation Architecture — Post Restaurant #19 Consolidation
+---
+
+# Reservation / Participation Architecture — Post Restaurant #19 Consolidation
 
 The current participation architecture now includes:
 
-reservation states
+- reservation states
 
-non-reservable participation states
+- non-reservable participation states
 
-walk-in states
+- walk-in states
 
-queue states
+- queue states
 
-wait states
+- wait states
 
-first-come allocation
+- first-come allocation
 
-mission-priority allocation
+- mission-priority allocation
 
-deposit commitment
+- deposit commitment
 
-prepaid commitment
+- prepaid commitment
 
-no-price commitment
+- no-price commitment
 
-contribution-choice states
+- contribution-choice states
 
-proxy booking states
+- proxy booking states
 
-shared-table commitment
+- shared-table commitment
 
-route-specific capacity
+- route-specific capacity
 
-relationship capacity
+- relationship capacity
 
-human-routed allocation
+- human-routed allocation
 
-distributed capacity inventory
+- distributed capacity inventory
 
-role-specific commitment objects
+- role-specific commitment objects
 
-guest-without-contributor state
+- guest-without-contributor state
 
-stable rule / variable product participation
+- stable rule / variable product participation
 
-access-exception channels
+- access-exception channels
 
-reservation-as-operational-brief
+- reservation-as-operational-brief
 
-consequence-relevant repetition
+- consequence-relevant repetition
 
-minimal-disclosure participation
+- minimal-disclosure participation
 
-role-bounded data
+- role-bounded data
 
-access without booking record
+- access without booking record
 
-first-come recovery
+- first-come recovery
 
-cross-supported capacity
+- cross-supported capacity
 
 No architecture item is promoted merely because it appears in the consolidated set.
 
-Current Reservation / Participation Pattern Pressure — Post Restaurant #19
+---
 
-Walk-In as First-Class Participation
+# Current Reservation / Participation Pattern Pressure — Post Restaurant #19
+
+## Walk-In as First-Class Participation
 
 Current state:
 
@@ -11914,7 +12116,7 @@ Decision:
 
 no confidence or maturity change.
 
-Stable Participation / Variable Product
+## Stable Participation / Variable Product
 
 Current state:
 
@@ -11932,7 +12134,7 @@ Decision:
 
 no confidence or maturity change.
 
-Manageable Commitment
+## Manageable Commitment
 
 Current state:
 
@@ -11950,7 +12152,7 @@ Decision:
 
 no confidence or maturity change.
 
-Participation Rule Consistency
+## Participation Rule Consistency
 
 Current state:
 
@@ -11970,7 +12172,7 @@ no demotion;
 
 retain as a priority falsification target.
 
-Layered Arrival
+## Layered Arrival
 
 Current state:
 
@@ -11988,7 +12190,7 @@ Decision:
 
 no confidence or maturity change.
 
-Participation Throughout the Journey
+## Participation Throughout the Journey
 
 Current state:
 
@@ -12004,7 +12206,7 @@ Decision:
 
 no confidence or maturity change.
 
-Human Assistance Where Structured Self-Service Is Insufficient
+## Human Assistance Where Structured Self-Service Is Insufficient
 
 Current state:
 
@@ -12022,7 +12224,7 @@ Decision:
 
 no confidence or maturity change.
 
-Multi-Intent Hospitality
+## Multi-Intent Hospitality
 
 Current state:
 
@@ -12040,7 +12242,7 @@ Decision:
 
 no confidence or maturity change.
 
-Capacity Proof
+## Capacity Proof
 
 Current state:
 
@@ -12058,7 +12260,7 @@ Decision:
 
 no confidence or maturity change.
 
-Hospitality System Proof
+## Hospitality System Proof
 
 Current state:
 
@@ -12076,7 +12278,7 @@ Decision:
 
 no confidence or maturity change.
 
-Commitment Without Pressure
+## Commitment Without Pressure
 
 Current state:
 
@@ -12092,7 +12294,7 @@ Decision:
 
 no promotion.
 
-Escalating Participation Complexity
+## Escalating Participation Complexity
 
 Current state:
 
@@ -12110,7 +12312,7 @@ Decision:
 
 no promotion.
 
-The Guest as Participant
+## The Guest as Participant
 
 Current state:
 
@@ -12126,7 +12328,7 @@ Decision:
 
 no promotion.
 
-Promise Before Proof
+## Promise Before Proof
 
 Current state:
 
@@ -12142,7 +12344,7 @@ Decision:
 
 no promotion.
 
-Emotion Before Interface
+## Emotion Before Interface
 
 Current state:
 
@@ -12158,7 +12360,7 @@ Decision:
 
 no promotion.
 
-Atmosphere as Product
+## Atmosphere as Product
 
 Current state:
 
@@ -12176,7 +12378,7 @@ Decision:
 
 no promotion.
 
-Own the Guest Relationship
+## Own the Guest Relationship
 
 Current state:
 
@@ -12192,415 +12394,427 @@ Decision:
 
 no confidence or maturity change.
 
-Post–JBJ Soul Kitchen Reservation Corrections
+---
 
-Correction 111
+# Post–JBJ Soul Kitchen Reservation Corrections
+
+## Correction 111
 
 No reservation does not mean no allocation.
 
-Correction 112
+## Correction 112
 
 First-come and mission priority form one allocation system.
 
-Correction 113
+## Correction 113
 
 Priority must not become public proof of need.
 
-Correction 114
+## Correction 114
 
 No fixed price does not mean no commitment.
 
-Correction 115
+## Correction 115
 
 Low digital commitment can retain high physical and interpretive burden.
 
-Correction 116
+## Correction 116
 
 Contribution choice is a participation state, not a guest rank.
 
-Correction 117
+## Correction 117
 
 Suggested donation and pay it forward are different commitment objects.
 
-Correction 118
+## Correction 118
 
 Unable to donate does not mean unable to dine.
 
-Correction 119
+## Correction 119
 
 A dining seat and volunteer place are different capacity objects.
 
-Correction 120
+## Correction 120
 
 A volunteer application is not a table reservation.
 
-Correction 121
+## Correction 121
 
 Volunteer priority does not guarantee a shift.
 
-Correction 122
+## Correction 122
 
 A guest must be able to exist without becoming a contributor.
 
-Correction 123
+## Correction 123
 
 The same queue rule can create different burdens.
 
-Correction 124
+## Correction 124
 
 No booking record can protect privacy and weaken preparation.
 
-Correction 125
+## Correction 125
 
 Less data does not mean less operational work.
 
-Correction 126
+## Correction 126
 
 Human allocation does not mean unstructured allocation.
 
-Correction 127
+## Correction 127
 
 Historical scale does not establish live availability.
 
-Correction 128
+## Correction 128
 
 Capacity is a portfolio of objects, not a seat count.
 
-Correction 129
+## Correction 129
 
 Stable participation can hold a variable menu.
 
-Correction 130
+## Correction 130
 
 Role multiplicity does not automatically establish intent multiplicity.
 
-Correction 131
+## Correction 131
 
 Cross-supported capacity does not create recipient ownership.
 
-Correction 132
+## Correction 132
 
 Open eligibility does not guarantee simultaneous availability.
 
-Correction 133
+## Correction 133
 
 All are welcome does not mean all are guaranteed a seat.
 
-Correction 134
+## Correction 134
 
 Flexible contribution requires a stable hospitality standard.
 
-Strongest Reservation / Participation Tensions After Restaurant #19
+---
 
-Tension 31 — No Reservation vs Live Allocation
+# Strongest Reservation / Participation Tensions After Restaurant #19
+
+# Tension 31 — No Reservation vs Live Allocation
 
 Advance booking disappears while allocation remains at the threshold.
 
-Tension 32 — First-Come Order vs Mission Priority
+# Tension 32 — First-Come Order vs Mission Priority
 
 A simple sequence is modified by a need-based condition.
 
-Tension 33 — Priority Recognition vs Guest Privacy
+# Tension 33 — Priority Recognition vs Guest Privacy
 
 The system may need information it should not publicly display.
 
-Tension 34 — Flexible Contribution vs Commitment Clarity
+# Tension 34 — Flexible Contribution vs Commitment Clarity
 
 Financial choice expands while interpretive burden increases.
 
-Tension 35 — Dining Access vs Volunteer Availability
+# Tension 35 — Dining Access vs Volunteer Availability
 
 Two participation routes use different capacity systems.
 
-Tension 36 — Minimal Disclosure vs Operational Preparation
+# Tension 36 — Minimal Disclosure vs Operational Preparation
 
 Privacy protection can remove information needed for dietary and accessibility readiness.
 
-Tension 37 — Human Flexibility vs Rule Consistency
+# Tension 37 — Human Flexibility vs Rule Consistency
 
 Contextual judgment can protect dignity and create uneven decisions.
 
-Tension 38 — Historical Scale vs Live Availability
+# Tension 38 — Historical Scale vs Live Availability
 
 Large cumulative totals do not answer the immediate allocation question.
 
-Tension 39 — Same Queue Rule vs Unequal Queue Burden
+# Tension 39 — Same Queue Rule vs Unequal Queue Burden
 
 Uniform procedure can produce unequal access cost.
 
-Tension 40 — Guest Role Fluidity vs Data Separation
+# Tension 40 — Guest Role Fluidity vs Data Separation
 
 One person may change roles while each data purpose must remain bounded.
 
-Tension 41 — Open Welcome vs Finite Capacity
+# Tension 41 — Open Welcome vs Finite Capacity
 
 Universal eligibility coexists with possible waiting and turn-away.
 
-Tension 42 — Cross-Support vs Recipient Ownership
+# Tension 42 — Cross-Support vs Recipient Ownership
 
 One participant may fund capacity without gaining a claim over another person.
 
-Reservation Falsification Programme After Restaurant #19
+---
 
-Test whether first-time guests understand that no reservation is needed.
+# Reservation Falsification Programme After Restaurant #19
 
-Test whether guests understand that seating is not guaranteed.
+1. Test whether first-time guests understand that no reservation is needed.
 
-Observe how first-come order is implemented.
+2. Test whether guests understand that seating is not guaranteed.
 
-Observe how mission priority modifies first-come order.
+3. Observe how first-come order is implemented.
 
-Verify that priority is applied consistently.
+4. Observe how mission priority modifies first-come order.
 
-Verify that priority can be requested or recognised privately.
+5. Verify that priority is applied consistently.
 
-Test whether guests infer a public need category from priority.
+6. Verify that priority can be requested or recognised privately.
 
-Measure queue duration across service periods.
+7. Test whether guests infer a public need category from priority.
 
-Record turn-away frequency and reasons.
+8. Measure queue duration across service periods.
 
-Audit recovery after full capacity.
+9. Record turn-away frequency and reasons.
 
-Test burden for guests unable to arrive early.
+10. Audit recovery after full capacity.
 
-Test burden across mobility, transport, health, work and caregiving conditions.
+11. Test burden for guests unable to arrive early.
 
-Verify that guests unable to donate can dine without advance qualification.
+12. Test burden across mobility, transport, health, work and caregiving conditions.
 
-Test whether suggested donation is experienced as optional.
+13. Verify that guests unable to donate can dine without advance qualification.
 
-Test whether pay-it-forward participation is experienced as additional and optional.
+14. Test whether suggested donation is experienced as optional.
 
-Verify that contribution state does not affect seating or service quality.
+15. Test whether pay-it-forward participation is experienced as additional and optional.
 
-Test whether volunteering is perceived as a dining prerequisite.
+16. Verify that contribution state does not affect seating or service quality.
 
-Reconcile unable-to-donate invitation language with exchange-for-meal volunteer language.
+17. Test whether volunteering is perceived as a dining prerequisite.
 
-Distinguish dining access from volunteer placement in user testing.
+18. Reconcile unable-to-donate invitation language with exchange-for-meal volunteer language.
 
-Measure volunteer application-to-placement time.
+19. Distinguish dining access from volunteer placement in user testing.
 
-Measure orientation completion and abandonment.
+20. Measure volunteer application-to-placement time.
 
-Verify whether exchange-for-meal volunteer places are meaningfully available.
+21. Measure orientation completion and abandonment.
 
-Document the relationship between a completed shift and a meal.
+22. Verify whether exchange-for-meal volunteer places are meaningfully available.
 
-Verify that a failed volunteer application does not block dining.
+23. Document the relationship between a completed shift and a meal.
 
-Separate dining-seat and volunteer-place capacity records.
+24. Verify that a failed volunteer application does not block dining.
 
-Audit dining, queue, contribution, volunteer, resource and recovery capacity separately.
+25. Separate dining-seat and volunteer-place capacity records.
 
-Compare historical activity totals with live capacity communication.
+26. Audit dining, queue, contribution, volunteer, resource and recovery capacity separately.
 
-Test whether guests receive useful wait information.
+27. Compare historical activity totals with live capacity communication.
 
-Test whether dietary needs can be communicated safely without reservation.
+28. Test whether guests receive useful wait information.
 
-Test whether access needs can be prepared without reservation.
+29. Test whether dietary needs can be communicated safely without reservation.
 
-Audit the optional preparation channel for purpose-bounded data.
+30. Test whether access needs can be prepared without reservation.
 
-Verify party and companion handling.
+31. Audit the optional preparation channel for purpose-bounded data.
 
-Verify current hours across official and live channels.
+32. Verify party and companion handling.
 
-Compare participation rules across homepage, FAQ, menu, volunteer page, signage and human explanation.
+33. Verify current hours across official and live channels.
 
-Observe whether staff and volunteers apply one rule set.
+34. Compare participation rules across homepage, FAQ, menu, volunteer page, signage and human explanation.
 
-Review training, escalation and recovery procedures.
+35. Observe whether staff and volunteers apply one rule set.
 
-Compare ordinary and high-pressure allocation decisions.
+36. Review training, escalation and recovery procedures.
 
-Test whether the changing menu preserves stable participation rules.
+37. Compare ordinary and high-pressure allocation decisions.
 
-Verify that dietary consequences remain current across menu cycles.
+38. Test whether the changing menu preserves stable participation rules.
 
-Audit dining, donor and volunteer records for purpose separation.
+39. Verify that dietary consequences remain current across menu cycles.
 
-Test whether role changes trigger inappropriate data combination.
+40. Audit dining, donor and volunteer records for purpose separation.
 
-Verify that resource continuation remains optional.
+41. Test whether role changes trigger inappropriate data combination.
 
-Test whether dining remains a complete route without support intake.
+42. Verify that resource continuation remains optional.
 
-Test whether pay-it-forward contribution creates recipient ownership assumptions.
+43. Test whether dining remains a complete route without support intake.
 
-Seek negative and ambivalent participation evidence.
+44. Test whether pay-it-forward contribution creates recipient ownership assumptions.
 
-Compare JBJ Soul Kitchen directly with Refettorio Felix.
+45. Seek negative and ambivalent participation evidence.
 
-Compare with another pay-what-you-can restaurant.
+46. Compare JBJ Soul Kitchen directly with Refettorio Felix.
 
-Compare with a commercial no-reservation restaurant.
+47. Compare with another pay-what-you-can restaurant.
 
-Compare with a lightweight optional-booking alternative.
+48. Compare with a commercial no-reservation restaurant.
 
-Compare mission-priority allocation with unmodified first-come allocation.
+49. Compare with a lightweight optional-booking alternative.
 
-Test whether the no-reservation model lowers total burden rather than interface burden alone.
+50. Compare mission-priority allocation with unmodified first-come allocation.
 
-Test whether contribution flexibility increases participation.
+51. Test whether the no-reservation model lowers total burden rather than interface burden alone.
 
-Test whether volunteer exchange increases agency or substitutes labour burden for money burden.
+52. Test whether contribution flexibility increases participation.
 
-Test whether equal hospitality standards survive different contribution states.
+53. Test whether volunteer exchange increases agency or substitutes labour burden for money burden.
 
-Separate published route availability from performed access.
+54. Test whether equal hospitality standards survive different contribution states.
 
-Separate participation activity from social outcome.
+55. Separate published route availability from performed access.
 
-Do not infer successful allocation from open-door language.
+56. Separate participation activity from social outcome.
 
-Do not infer live capacity from historical scale.
+57. Do not infer successful allocation from open-door language.
 
-Do not infer privacy from minimal data capture alone.
+58. Do not infer live capacity from historical scale.
 
-Do not infer dignity from procedural flexibility alone.
+59. Do not infer privacy from minimal data capture alone.
 
-Participation Deduplication Decisions — Restaurant #19
+60. Do not infer dignity from procedural flexibility alone.
 
-No-Reservation Allocation refines Non-Reservable Participation State.
+---
 
-Mission-Priority Queue extends First-Come Capacity Allocation.
+# Participation Deduplication Decisions — Restaurant #19
 
-Contribution-State Participation refines the participation-state model.
+1. No-Reservation Allocation refines Non-Reservable Participation State.
 
-Dignity-Preserving Allocation extends privacy-preserving entry.
+2. Mission-Priority Queue extends First-Come Capacity Allocation.
 
-Volunteer-Exchange Allocation is a route-specific allocation mechanism.
+3. Contribution-State Participation refines the participation-state model.
 
-Dining / Volunteer Separation refines Distributed Capacity Inventory.
+4. Dignity-Preserving Allocation extends privacy-preserving entry.
 
-Contribution Choice Architecture refines Manageable Commitment and The Guest as Participant.
+5. Volunteer-Exchange Allocation is a route-specific allocation mechanism.
 
-Capacity Without Scarcity Theatre refines Capacity Proof and Commitment Without Pressure.
+6. Dining / Volunteer Separation refines Distributed Capacity Inventory.
 
-Priority Without Public Classification extends felt-eligibility and privacy architecture.
+7. Contribution Choice Architecture refines Manageable Commitment and The Guest as Participant.
 
-Human-Routed Participation refines Human Assistance.
+8. Capacity Without Scarcity Theatre refines Capacity Proof and Commitment Without Pressure.
 
-Minimal-Disclosure Dining refines consequence-relevant data collection.
+9. Priority Without Public Classification extends felt-eligibility and privacy architecture.
 
-Role-Bounded Data extends stakeholder / guest-intent separation.
+10. Human-Routed Participation refines Human Assistance.
 
-Flexible Contribution / Stable Guesthood remains cross-dimensional architecture.
+11. Minimal-Disclosure Dining refines consequence-relevant data collection.
 
-First-Come Recovery refines failure-state architecture.
+12. Role-Bounded Data extends stakeholder / guest-intent separation.
 
-Access Without Booking Record refines access-exception channels.
+13. Flexible Contribution / Stable Guesthood remains cross-dimensional architecture.
 
-Cross-Supported Capacity is a relationship boundary, not a separate pattern.
+14. First-Come Recovery refines failure-state architecture.
 
-Guest-Without-Contributor State remains shared with Restaurant #18 and is not duplicated.
+15. Access Without Booking Record refines access-exception channels.
 
-No architecture direction becomes a formal pattern in this file.
+16. Cross-Supported Capacity is a relationship boundary, not a separate pattern.
 
-Restaurant #19 Reservation Decision Ledger
+17. Guest-Without-Contributor State remains shared with Restaurant #18 and is not duplicated.
 
-Add JBJ Soul Kitchen, Red Bank as the nineteenth independent reservation comparison case.
+18. No architecture direction becomes a formal pattern in this file.
 
-Classify the principal dining route as no-reservation participation.
+---
 
-Treat no reservation as live allocation rather than no allocation.
+# Restaurant #19 Reservation Decision Ledger
 
-Treat first-come and mission priority as one combined system.
+1. Add JBJ Soul Kitchen, Red Bank as the nineteenth independent reservation comparison case.
 
-Treat priority as a participation rule and a privacy risk.
+2. Classify the principal dining route as no-reservation participation.
 
-Do not require public proof of need.
+3. Treat no reservation as live allocation rather than no allocation.
 
-Treat no fixed price as compatible with material commitment.
+4. Treat first-come and mission priority as one combined system.
 
-Treat contribution choice as a participation state.
+5. Treat priority as a participation rule and a privacy risk.
 
-Separate suggested donation from pay-it-forward support.
+6. Do not require public proof of need.
 
-Preserve the unable-to-donate route as legitimate dining participation.
+7. Treat no fixed price as compatible with material commitment.
 
-Protect the Guest-Without-Contributor State.
+8. Treat contribution choice as a participation state.
 
-Do not classify volunteering as an immediate dining prerequisite.
+9. Separate suggested donation from pay-it-forward support.
 
-Record the invitation-versus-exchange relationship as unresolved.
+10. Preserve the unable-to-donate route as legitimate dining participation.
 
-Separate dining-seat capacity from volunteer-place capacity.
+11. Protect the Guest-Without-Contributor State.
 
-Treat a volunteer application as intake and allocation, not a table reservation.
+12. Do not classify volunteering as an immediate dining prerequisite.
 
-Do not infer volunteer availability from a published application.
+13. Record the invitation-versus-exchange relationship as unresolved.
 
-Treat first-come burden as an access variable.
+14. Separate dining-seat capacity from volunteer-place capacity.
 
-Treat minimal disclosure as a dignity requirement.
+15. Treat a volunteer application as intake and allocation, not a table reservation.
 
-Preserve dietary and access preparation without forcing reservation.
+16. Do not infer volunteer availability from a published application.
 
-Treat human assistance as primary allocation infrastructure.
+17. Treat first-come burden as an access variable.
 
-Require human allocation to remain structured and auditable.
+18. Treat minimal disclosure as a dignity requirement.
 
-Decompose capacity before publishing or proving it.
+19. Preserve dietary and access preparation without forcing reservation.
 
-Do not treat historical meal totals as live availability.
+20. Treat human assistance as primary allocation infrastructure.
 
-Treat variable menu and stable rules as strong pattern pressure.
+21. Require human allocation to remain structured and auditable.
 
-Preserve role, intent and data-purpose separation.
+22. Decompose capacity before publishing or proving it.
 
-Treat cross-supported capacity without recipient ownership.
+23. Do not treat historical meal totals as live availability.
 
-Require honest capacity and recovery inside all-are-welcome language.
+24. Treat variable menu and stable rules as strong pattern pressure.
 
-Reinforce Walk-In as First-Class Participation without changing High confidence.
+25. Preserve role, intent and data-purpose separation.
 
-Reinforce Stable Participation / Variable Product without changing Medium-High confidence.
+26. Treat cross-supported capacity without recipient ownership.
 
-Apply mixed evidence to Manageable Commitment without changing Medium confidence.
+27. Require honest capacity and recovery inside all-are-welcome language.
 
-Apply contradiction pressure to Participation Rule Consistency without changing Medium confidence.
+28. Reinforce Walk-In as First-Class Participation without changing High confidence.
 
-Reinforce Layered Arrival without changing Medium confidence.
+29. Reinforce Stable Participation / Variable Product without changing Medium-High confidence.
 
-Reinforce Participation Throughout the Journey without changing Medium confidence.
+30. Apply mixed evidence to Manageable Commitment without changing Medium confidence.
 
-Reinforce Human Assistance without changing Medium confidence.
+31. Apply contradiction pressure to Participation Rule Consistency without changing Medium confidence.
 
-Apply definition stress to Multi-Intent Hospitality without changing Medium confidence.
+32. Reinforce Layered Arrival without changing Medium confidence.
 
-Reinforce Capacity Proof without changing Medium-High confidence.
+33. Reinforce Participation Throughout the Journey without changing Medium confidence.
 
-Reinforce Hospitality System Proof without changing High confidence.
+34. Reinforce Human Assistance without changing Medium confidence.
 
-Retain Commitment Without Pressure at Emerging.
+35. Apply definition stress to Multi-Intent Hospitality without changing Medium confidence.
 
-Retain Escalating Participation Complexity at Emerging.
+36. Reinforce Capacity Proof without changing Medium-High confidence.
 
-Retain The Guest as Participant at Emerging.
+37. Reinforce Hospitality System Proof without changing High confidence.
 
-Retain Promise Before Proof at Emerging.
+38. Retain Commitment Without Pressure at Emerging.
 
-Retain Emotion Before Interface at Emerging.
+39. Retain Escalating Participation Complexity at Emerging.
 
-Retain Atmosphere as Product at Emerging.
+40. Retain The Guest as Participant at Emerging.
 
-Retain Own the Guest Relationship at Partially Supported / Medium.
+41. Retain Promise Before Proof at Emerging.
 
-Make no promotion, demotion, merge or rename.
+42. Retain Emotion Before Interface at Emerging.
 
-Make no confidence or maturity change.
+43. Retain Atmosphere as Product at Emerging.
 
-Preserve all canonical counts pending governance reconciliation.
+44. Retain Own the Guest Relationship at Partially Supported / Medium.
 
-Count Restaurant #19 once, not once per dimension.
+45. Make no promotion, demotion, merge or rename.
 
-Reserve formal decisions until all five Restaurant #19 comparisons are complete.
+46. Make no confidence or maturity change.
 
-Reservation / Participation Comparison Conclusion — Post JBJ Soul Kitchen, Red Bank
+47. Preserve all canonical counts pending governance reconciliation.
+
+48. Count Restaurant #19 once, not once per dimension.
+
+49. Reserve formal decisions until all five Restaurant #19 comparisons are complete.
+
+---
+
+# Reservation / Participation Comparison Conclusion — Post JBJ Soul Kitchen, Red Bank
 
 After:
 
@@ -12610,7 +12824,7 @@ independent reservation comparison cases,
 
 the strongest thesis remains:
 
-Participation is a state system, not a booking button.
+> **Participation is a state system, not a booking button.**
 
 Dans le Noir? showed:
 
@@ -12630,6 +12844,7 @@ non-reservable dining can contain first-come order, mission priority, contributi
 
 The strongest comparison is:
 
+```text
 Refettorio Felix
 
 Non-Reservable + Non-Transactional Principal Route
@@ -12639,58 +12854,71 @@ Non-Reservable + Non-Transactional Principal Route
 JBJ Soul Kitchen
 
 Non-Reservable + Flexible-Contribution Principal Route
+```
 
 The strongest participation boundary is:
 
+```text
 No Reservation
 ≠
 No Allocation
+```
 
 The strongest allocation boundary is:
 
+```text
 First Come
 ≠
 Only Allocation Rule
+```
 
 The strongest privacy boundary is:
 
+```text
 Priority
 ≠
 Public Proof of Need
+```
 
 The strongest capacity boundary is:
 
+```text
 Volunteer Place
 ≠
 Dining Seat
+```
 
 The strongest commitment boundary is:
 
+```text
 No Fixed Price
 ≠
 No Commitment
+```
 
 The strongest guesthood boundary is:
 
+```text
 Contribution State
 ≠
 Guest Rank
+```
 
 Restaurant #19 does not justify:
 
-a Candidate promotion
+- a Candidate promotion
 
-an Emerging promotion
+- an Emerging promotion
 
-a confidence increase
+- a confidence increase
 
-a confidence decrease
+- a confidence decrease
 
-a demotion
+- a demotion
 
-a validation
+- a validation
 
-a research-derived Principle
+- a research-derived Principle
 
 It supplies:
 
@@ -12706,11 +12934,13 @@ Formal maturity decisions remain reserved until all five Restaurant #19 comparis
 
 Evidence wins.
 
-Validation — Post Restaurant #19 Reservation Comparison
+---
+
+# Validation — Post Restaurant #19 Reservation Comparison
 
 Comparison File:
 
-khds/research/comparison/reservation.md
+`khds/research/comparison/reservation.md`
 
 Status:
 
@@ -12818,4 +13048,915 @@ Research-Derived KHDS Principles:
 
 Next Comparison File:
 
-khds/research/comparison/story.md
+`khds/research/comparison/story.md`
+
+---
+
+# Post–SAME Café Denver Reservation Reconciliation
+
+Restaurant #20 adds:
+
+SAME Café Denver
+
+to the independent reservation and participation comparison.
+
+This reconciliation preserves:
+
+- all nineteen earlier cases
+- the full Post–JBJ record
+- current pattern maturity
+- current Candidate confidence
+- and the distinction between published route and performed availability.
+
+It adds:
+
+- nine public participation systems
+- ten participant routes
+- three explicit meal-contribution routes
+- live meal, seat, task and recovery allocation
+- a published half-hour work-for-meal exchange
+- produce-acceptance allocation
+- suitable-task capacity
+- role-bounded data
+- and the no-available-route case.
+
+Canonical governance decision:
+
+```text
+No Change
+```
+
+---
+
+# Current Canonical Entry State
+
+```text
+Independent restaurants completed: 19
+Restaurant #20: Arrival, Atmosphere and Photography Comparisons Complete
+Track B validation cases: 1
+Candidate patterns: 26
+Candidate / High: 9
+Candidate / Medium-High: 8
+Candidate / Medium: 9
+Emerging patterns: 8
+Partially Supported patterns: 1
+Validated patterns: 0
+Research-Derived KHDS Principles: 0
+Implementation patterns pending validation: 1
+Opportunity Themes: 36
+Track B Implementation Learnings: 17
+```
+
+The Post–JBJ comparison established:
+
+```text
+No Reservation
+≠
+No Allocation
+```
+
+SAME Café deepens that correction:
+
+```text
+No Dining Reservation
+≠
+No Participation Structure
+```
+
+---
+
+# Community-Hospitality Participation Comparison
+
+| Case | Principal Guest Route | Contribution Structure | Allocation Risk |
+| --- | --- | --- | --- |
+| Refettorio Felix London | Community meal through hosted and partner routes | No public guest transaction established | Eligibility and partner routing may remain unclear |
+| JBJ Soul Kitchen, Red Bank | Walk-in dining | Suggested contribution with volunteering invitation | Invitation, priority and capacity may be interpreted as obligation |
+| SAME Café Denver | Walk-in café dining | Explicit time, money or produce contribution | A route may be named but unavailable, unsuitable or exposing |
+
+Refettorio Felix tests:
+
+non-commercial guesthood.
+
+JBJ Soul Kitchen tests:
+
+flexible contribution.
+
+SAME Café tests:
+
+explicit contribution exchange.
+
+The shared rule is:
+
+```text
+How You Contribute
+≠
+Whether You Belong
+```
+
+---
+
+# Nine Public Participation Systems
+
+## System A — Walk-In Weekday Dining
+
+Low advance commitment.
+
+Live meal and seat allocation.
+
+## System B — Walk-In Work-for-Meal Exchange
+
+Half-hour published work unit.
+
+Live task, suitability and supervision allocation.
+
+## System C — Pre-Scheduled Individual Volunteering
+
+Account and shift commitment.
+
+Separate from ordinary meal access.
+
+## System D — Group Volunteering
+
+Advance coordination and group-capacity commitment.
+
+## System E — Community Service
+
+Pre-approval and sensitive legal-status handling.
+
+## System F — Cook to Work
+
+Training participation with distinct eligibility, progress and outcome data.
+
+## System G — Event Participation
+
+Event-specific timing, ticket or contribution logic.
+
+## System H — Catering and After-Hours Service
+
+Commercial enquiry, quote and fulfilment architecture.
+
+## System I — Remote Donation
+
+Financial support without dining entitlement.
+
+One mission does not create:
+
+one participation contract.
+
+---
+
+# Ten Participant Routes
+
+1. Dining guest contributing money.
+
+2. Dining guest contributing time.
+
+3. Dining guest contributing produce.
+
+4. Guest with no currently available contribution route.
+
+5. Pre-scheduled volunteer.
+
+6. Group volunteer.
+
+7. Community-service participant.
+
+8. Cook to Work student.
+
+9. Event participant.
+
+10. Catering customer.
+
+One person may hold:
+
+several roles.
+
+That does not justify:
+
+one combined profile.
+
+---
+
+# The Dining Allocation Object
+
+The allocation object is not merely:
+
+a table.
+
+It may contain:
+
+```text
+Meal
++
+Seat
++
+Contribution Resolution
++
+Task or Produce Handoff
++
+Human Attention
++
+Recovery
+```
+
+The guest can reach a seat while another required object remains unresolved.
+
+The correction is:
+
+```text
+Seat Available
+≠
+Participation Route Available
+```
+
+---
+
+# Eight Capacity Objects
+
+## 1. Dining Capacity
+
+Meals and seats available during service.
+
+## 2. Queue Capacity
+
+The system's ability to receive and order demand fairly.
+
+## 3. Contribution-Resolution Capacity
+
+Human ability to explain and complete a route privately.
+
+## 4. Volunteer Capacity
+
+Tasks, supervision and safe participation.
+
+## 5. Food Capacity
+
+Current menu, dietary suitability and sell-out state.
+
+## 6. Training Capacity
+
+Places, instruction and support for Cook to Work.
+
+## 7. Event Capacity
+
+Event-specific space and participation limits.
+
+## 8. Recovery Capacity
+
+Authorised ability to preserve hospitality when the normal route fails.
+
+Capacity Proof must therefore show:
+
+more than:
+
+seat count.
+
+---
+
+# Contribution Choice Versus Eligibility
+
+Time,
+
+money
+
+and:
+
+produce
+
+are presented as options.
+
+Choice exists only if:
+
+- each route is understandable
+- the person can select without personal justification
+- a route is operationally available
+- route failure has recovery
+- and service rights remain stable.
+
+The correction is:
+
+```text
+Contribution Choice
+≠
+Contribution Eligibility
+```
+
+and:
+
+```text
+Multiple Options
+≠
+Available Options
+```
+
+---
+
+# The Half-Hour Allocation Problem
+
+The published half-hour unit improves:
+
+commitment clarity.
+
+It does not establish:
+
+- total visit duration
+- task availability
+- task suitability
+- preparation time
+- supervision time
+- equal physical burden
+- or equal opportunity cost.
+
+The correction is:
+
+```text
+Half-Hour Work
+≠
+Half-Hour Journey
+```
+
+A precise unit can still create:
+
+unequal experienced commitment.
+
+---
+
+# Produce Allocation
+
+Produce contribution requires:
+
+- accepted category
+- safe condition
+- useful quantity
+- storage capacity
+- inspection
+- and rejection recovery.
+
+The system must separate:
+
+```text
+Produce Rejected
+```
+
+from:
+
+```text
+Guest Rejected
+```
+
+Produce acceptance is therefore:
+
+an allocation decision
+
+and:
+
+a dignity event.
+
+---
+
+# Suitable-Task Capacity
+
+A task is available only when it is:
+
+- safe
+- physically appropriate
+- cognitively appropriate
+- time-compatible
+- supervised
+- and acceptable to the participant.
+
+The correction is:
+
+```text
+Task Available
+≠
+Task Accessible
+```
+
+Task unsuitability must not be treated as:
+
+unwillingness.
+
+---
+
+# The No-Available-Route Case
+
+The decisive participation state is:
+
+a person who cannot currently contribute:
+
+- money
+- time
+- or produce.
+
+The system must determine:
+
+- whether the person can still dine
+- who may authorise recovery
+- whether explanation is required
+- whether recovery remains private
+- whether service changes
+- and whether the person may return freely.
+
+The strongest rule is:
+
+```text
+Multiple contribution routes are not access
+unless failed routes have a dignified recovery.
+```
+
+This remains:
+
+research architecture.
+
+---
+
+# Human Assistance as Primary Interface
+
+Human assistance may resolve:
+
+- route selection
+- dietary communication
+- task matching
+- produce acceptance
+- accessibility
+- capacity failure
+- and exception handling.
+
+But human flexibility can create:
+
+- inconsistent rules
+- public disclosure
+- bias
+- dependence on staff authority
+- and unrecorded failure.
+
+The comparison supports:
+
+Human Assistance Where Structured Self-Service Is Insufficient.
+
+It does not justify:
+
+a confidence increase.
+
+---
+
+# Minimal Disclosure and Role-Bounded Data
+
+Ordinary dining should not require:
+
+- proof of need
+- income
+- housing status
+- employment status
+- community-service status
+- or explanation of contribution choice.
+
+Different systems may legitimately collect different data.
+
+Those records should remain separated by:
+
+- purpose
+- consent
+- access
+- retention
+- deletion
+- and portability.
+
+The rule is:
+
+```text
+One Person
+≠
+One Combined Participation Profile
+```
+
+---
+
+# Post–SAME Café Reservation Architecture Additions
+
+1. No-Reservation Allocation.
+
+2. Meal / Seat / Contribution Bundle.
+
+3. Contribution-Route Capacity.
+
+4. Work-for-Meal Allocation.
+
+5. Contribution-Route Recovery.
+
+6. No-Available-Route Hospitality.
+
+7. Dignity-Preserving Allocation.
+
+8. Suitable-Task Capacity.
+
+9. Produce-Acceptance Recovery.
+
+10. Minimal-Disclosure Dining.
+
+11. Human-Routed Participation.
+
+12. Role-Bounded Data.
+
+13. Walk-In Confidence Without Booking.
+
+14. Flexible Contribution / Stable Guesthood.
+
+15. First-Come Recovery.
+
+16. Event / Café Rule Separation.
+
+17. Commercial / Mission Route Separation.
+
+18. Capacity Without Scarcity Theatre.
+
+19. Participation Entitlement Portability.
+
+20. Guesthood Before Contribution.
+
+All remain:
+
+architecture only.
+
+---
+
+# Post–SAME Café Reservation Corrections
+
+1. `No Reservation ≠ No Allocation`.
+
+2. `No Dining Reservation ≠ No Participation Structure`.
+
+3. `First Come ≠ Equal Burden`.
+
+4. `Walk-In Access ≠ Guaranteed Meal`.
+
+5. `Contribution Choice ≠ Contribution Neutrality`.
+
+6. `Contribution Route ≠ Guest Identity`.
+
+7. `Three Named Routes ≠ Three Available Routes`.
+
+8. `Half-Hour Work ≠ Half-Hour Journey`.
+
+9. `Task Available ≠ Task Accessible`.
+
+10. `Produce Offered ≠ Produce Accepted`.
+
+11. `Seat Available ≠ Suitable Task Available`.
+
+12. `Human Flexibility ≠ Consistent Recovery`.
+
+13. `Minimal Disclosure ≠ Minimal Preparation`.
+
+14. `One Person ≠ One Data Purpose`.
+
+15. `Same Food ≠ Same Participation Burden`.
+
+16. `Contribution Failure ≠ Guest Failure`.
+
+17. `Event Price ≠ Café Contribution Rule`.
+
+18. `Catering Price ≠ Mission Meal Price`.
+
+19. `Universal Promise ≠ Unlimited Capacity`.
+
+20. `Published Route ≠ Performed Availability`.
+
+---
+
+# Post–SAME Café Candidate Pressure
+
+| Candidate | Current Confidence | Restaurant #20 Reservation Decision |
+| --- | --- | --- |
+| Walk-In as First-Class Participation | High | Strong support; retain High because live availability and recovery remain unverified |
+| Stable Participation / Variable Product | Medium-High | Strong support; retain Medium-High because exception consistency is unverified |
+| Manageable Commitment | Medium | Half-hour clarity; retain Medium because total burden is unresolved |
+| Participation Rule Consistency | Medium | High pressure; retain Medium because obligation and recovery are unresolved |
+| Layered Arrival | Medium | Distributed route support; retain Medium |
+| Participation Throughout the Journey | Medium | Strong state architecture; retain Medium |
+| Human Assistance Where Structured Self-Service Is Insufficient | Medium | Core mechanism support; retain Medium because bias and authority are unverified |
+| Multi-Intent Hospitality | Medium | Nine systems support; retain Medium because live separation is unverified |
+| Capacity Proof | Medium-High | Eight capacity objects support; retain Medium-High |
+| Hospitality System Proof | High | Strong evidence requirement; retain High |
+| Narrative Language Within Clear Interface | High | Strong organising logic; retain High because exceptions remain unclear |
+
+Formal decision:
+
+```text
+Candidate promotions: 0
+Candidate demotions: 0
+Candidate confidence changes: 0
+```
+
+Emerging patterns remain unchanged.
+
+Highest pressure remains on:
+
+- Commitment Without Pressure
+- The Guest as Participant
+- Escalating Participation Complexity
+- and Promise Before Proof.
+
+---
+
+# Post–SAME Café Reservation Falsification Programme
+
+1. Verify live dining queue rules.
+
+2. Verify meal and seat capacity visibility.
+
+3. Determine late-arrival and sell-out recovery.
+
+4. Determine whether contribution is mandatory.
+
+5. Identify the no-contribution case.
+
+6. Test whether exception requests remain private.
+
+7. Determine monetary amount guidance.
+
+8. Verify accepted payment methods.
+
+9. Observe payment privacy.
+
+10. Verify produce categories and quantities.
+
+11. Verify produce safety criteria.
+
+12. Observe produce-rejection recovery.
+
+13. Verify the half-hour work unit.
+
+14. Measure total time burden.
+
+15. Determine work-before-meal sequence.
+
+16. Observe task assignment.
+
+17. Measure task shortages.
+
+18. Test suitable-task availability.
+
+19. Test accessible-task recovery.
+
+20. Compare service across routes.
+
+21. Compare food and portions across routes.
+
+22. Compare waiting time across routes.
+
+23. Test contribution-neutral seating.
+
+24. Test route-switching on return.
+
+25. Audit human exception authority.
+
+26. Compare decisions across shifts.
+
+27. Audit physical and sensory access.
+
+28. Audit language support.
+
+29. Audit dietary handoff without reservation.
+
+30. Separate availability from cross-contact assurance.
+
+31. Separate dining from scheduled volunteering.
+
+32. Separate group volunteering.
+
+33. Separate community-service data.
+
+34. Separate Cook to Work eligibility and outcomes.
+
+35. Separate event rules.
+
+36. Separate catering prices.
+
+37. Inventory data by route.
+
+38. Verify purpose, consent and retention.
+
+39. Test whether contribution state follows identity.
+
+40. Test deletion and portability.
+
+41. Measure route failure frequency.
+
+42. Measure recovery acceptance.
+
+43. Observe public versus private correction.
+
+44. Seek negative guest evidence.
+
+45. Compare first-time and returning guests.
+
+46. Test first-come burden across mobility and travel conditions.
+
+47. Test external-platform friction.
+
+48. Verify age-rule placement.
+
+49. Verify complaints and escalation.
+
+50. Do not infer equal guesthood from published procedure alone.
+
+---
+
+# Post–SAME Café Comparative Decisions
+
+1. Add SAME Café Denver as the twentieth independent reservation case.
+
+2. Preserve the complete Post–JBJ record.
+
+3. Classify the principal dining route as no-reservation live allocation.
+
+4. Preserve time, money and produce as separate routes.
+
+5. Treat the no-available-route case as decisive.
+
+6. Treat meals, seats, tasks and recovery as separate capacity objects.
+
+7. Treat suitable-task capacity as distinct from task volume.
+
+8. Treat produce rejection as a recovery event.
+
+9. Treat half an hour as published work time, not total commitment.
+
+10. Treat human assistance as primary infrastructure, not proof of consistency.
+
+11. Preserve contribution privacy.
+
+12. Separate every programme and commercial route.
+
+13. Preserve role-bounded data.
+
+14. Require contribution-neutral service rights.
+
+15. Require route-switching freedom.
+
+16. Retain all Candidate maturity and confidence states.
+
+17. Retain all Emerging states.
+
+18. Make no validation or Principle promotion.
+
+19. Record zero governance movement.
+
+20. Move Restaurant #20 to story comparison.
+
+---
+
+# Post–SAME Café Reservation Comparison Conclusion
+
+Across twenty independent restaurant cases,
+
+reservation is best understood as:
+
+a participation-allocation system.
+
+SAME Café has no ordinary dining reservation requirement in the reviewed public model.
+
+It still allocates:
+
+- meals
+- seats
+- queue position
+- contribution resolution
+- tasks
+- supervision
+- produce acceptance
+- dietary attention
+- and recovery.
+
+The strongest participation boundary is:
+
+```text
+No Dining Reservation
+≠
+No Participation Structure
+```
+
+The strongest capacity boundary is:
+
+```text
+Seat Available
+≠
+Suitable Task Available
+```
+
+The strongest dignity boundary is:
+
+```text
+Contribution Failure
+≠
+Guest Failure
+```
+
+The decisive requirement is:
+
+```text
+Multiple contribution routes are not access
+unless failed routes have a dignified recovery.
+```
+
+No maturity or confidence change is justified.
+
+Evidence wins.
+
+---
+
+# Validation — Post Restaurant #20 Reservation Comparison
+
+Comparison File:
+
+`khds/research/comparison/reservation.md`
+
+Status:
+
+Post–SAME Café Denver Complete
+
+Independent Restaurants Represented:
+
+20
+
+Canonical Completed Independent Restaurants:
+
+19
+
+Latest Case:
+
+SAME Café Denver
+
+Primary Governance Watch:
+
+Participation Rule Consistency
+
+Secondary Governance Watch:
+
+Capacity Proof — Distributed Live Allocation
+
+Third Governance Watch:
+
+Walk-In as First-Class Participation
+
+Strongest New Participation State:
+
+No-Reservation Contribution Allocation
+
+Strongest New Capacity State:
+
+Suitable-Task Capacity
+
+Strongest New Recovery State:
+
+No-Available-Route Hospitality
+
+Strongest Participation Boundary:
+
+No Dining Reservation
+
+≠
+
+No Participation Structure
+
+Strongest Guesthood Boundary:
+
+Contribution Failure
+
+≠
+
+Guest Failure
+
+Formal Promotions: 0
+
+Formal Demotions: 0
+
+Confidence Changes: 0
+
+Governance Changes: 0
+
+Canonical Candidate Count: 26
+
+Canonical Candidate / High: 9
+
+Canonical Candidate / Medium-High: 8
+
+Canonical Candidate / Medium: 9
+
+Canonical Emerging Count: 8
+
+Canonical Partially Supported Count: 1
+
+Canonical Validated Count: 0
+
+Research-Derived KHDS Principles: 0
+
+Restaurant #20 Status:
+
+Four Comparison Dimensions Complete / Story Comparison Pending
+
+Next Comparison File:
+
+`khds/research/comparison/story.md`

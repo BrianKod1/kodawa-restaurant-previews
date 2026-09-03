@@ -2,15 +2,15 @@ KHDS Research
 
 Status
 
-Post–JBJ Soul Kitchen, Red Bank Research Governance Mirror
+Post–SAME Café Denver Research Governance Mirror
 
 Latest Reconciled Restaurant:
 
-JBJ Soul Kitchen, Red Bank
+SAME Café Denver
 
 Independent Restaurants Reconciled:
 
-19
+20
 
 Track B Validation Cases:
 
@@ -902,6 +902,92 @@ or:
 
 durable causal impact.
 
+Restaurant #20 — SAME Café Denver
+
+Track:
+
+Track A
+
+Research role:
+
+Explicit Contribution Exchange and Equality Boundary Case
+
+Official case title:
+
+The Reciprocal Hospitality With Explicit Terms Case
+
+Primary pressure:
+
+time, money or produce as explicit contribution routes
+
+walk-in work-for-meal participation
+
+no-reservation live allocation
+
+suitable-task capacity
+
+failed-route recovery
+
+contribution-state privacy
+
+visible participation without human rank
+
+optional sociality
+
+work-to-guest re-entry
+
+universal promise under finite capacity
+
+activity, experience, outcome and causality separation
+
+role-bounded data
+
+Primary governance contribution:
+
+Multiple contribution routes are not access
+
+unless failed routes have a dignified recovery.
+
+SAME Café strengthens:
+
+walk-in participation
+
+stable participation around variable product
+
+human-routed allocation
+
+capacity proof
+
+contribution-neutral atmosphere
+
+dignity-preserving photography
+
+and:
+
+story through operating model.
+
+It does not independently prove:
+
+equal route availability
+
+equal contribution burden
+
+pressure-free exchange
+
+suitable-task access
+
+private recovery
+
+equal guesthood
+
+participant experience
+
+measured outcome
+
+or:
+
+causality.
+
 Track B Validation Case — Trunk & Tandoor
 
 Track:
@@ -936,7 +1022,7 @@ production success alone.
 
 Current Canonical Research State
 
-Independent Restaurants: 19
+Independent Restaurants: 20
 
 Track B Validation Cases: 1
 
@@ -11837,6 +11923,846 @@ Invitation to Volunteer
 ≠
 
 Requirement to Volunteer
+
+The research system expands:
+
+without:
+
+lowering:
+
+its maturity threshold.
+
+Evidence wins.
+
+Post–SAME Café Denver Research Conclusion
+
+Restaurant #20 completed:
+
+initial dossier
+
+five dimension dossiers
+
+knowledge extraction
+
+five cross-restaurant comparisons
+
+canonical Candidate reconciliation
+
+pattern registry reconciliation
+
+validation dashboard reconciliation.
+
+The restaurant count moves from:
+
+19
+
+to:
+
+
+
+No pattern maturity changes.
+
+No Candidate confidence changes.
+
+Restaurant #20 Research Role
+
+SAME Café was selected to test:
+
+explicit reciprocity.
+
+JBJ Soul Kitchen had established:
+
+Reciprocal Hospitality Without Rank.
+
+SAME Café adds:
+
+explicit terms,
+
+route-specific capacity
+
+and:
+
+failed-route recovery.
+
+The resulting architecture family is:
+
+Reciprocal Hospitality With Explicit Terms.
+
+This remains:
+
+architecture.
+
+It is not:
+
+a formal Candidate
+
+or:
+
+a KHDS Principle.
+
+Restaurant #20 Arrival Synthesis
+
+SAME Café's arrival system distributes participation across:
+
+website,
+
+current menu,
+
+travel,
+
+threshold,
+
+human orientation,
+
+ordering,
+
+contribution route,
+
+task or produce handoff,
+
+seating
+
+and:
+
+future return.
+
+The strongest arrival requirement is:
+
+The system should explain contribution
+
+without requiring the guest
+
+to explain themselves.
+
+The strongest arrival boundary is:
+
+Contribution Orientation
+
+≠
+
+Contribution Disclosure.
+
+Restaurant #20 Atmosphere Synthesis
+
+The public worldview connects:
+
+food,
+
+belonging,
+
+participation
+
+and:
+
+anti-bias commitments.
+
+The atmosphere test is whether:
+
+time,
+
+money
+
+and:
+
+produce
+
+remain operational differences
+
+without becoming:
+
+human rank.
+
+The strongest atmosphere boundary is:
+
+Visible Participation
+
+≠
+
+Visible Human Worth.
+
+The operating requirement is:
+
+Variable Procedure
+
+Must Preserve
+
+Stable Respect.
+
+Restaurant #20 Photography Synthesis
+
+Time, money and produce are:
+
+not equally photographable.
+
+Time may appear as:
+
+visible labour.
+
+Produce may appear as:
+
+material handoff.
+
+Money may remain:
+
+visually absent.
+
+The proof system must not let visual availability determine:
+
+route legitimacy.
+
+The strongest photography boundary is:
+
+Visible Contribution
+
+≠
+
+Visible Economic Status.
+
+The evidence requirement is:
+
+prove the reciprocal system
+
+without making a person's contribution state
+
+the proof object.
+
+Restaurant #20 Reservation and Participation Synthesis
+
+The public model contains:
+
+nine participation systems
+
+and:
+
+ten participant routes.
+
+Ordinary dining does not require:
+
+a conventional reservation
+
+in the reviewed public system.
+
+It still requires allocation of:
+
+meals
+
+seats
+
+queues
+
+contribution resolution
+
+tasks
+
+suitable tasks
+
+produce acceptance
+
+human attention
+
+and recovery.
+
+The strongest reservation boundary is:
+
+No Dining Reservation
+
+≠
+
+No Participation Structure.
+
+The decisive capacity boundary is:
+
+Seat Available
+
+≠
+
+Suitable Task Available.
+
+Restaurant #20 Story Synthesis
+
+SAME means:
+
+So All May Eat.
+
+The name acts as:
+
+identity
+
+mission
+
+promise
+
+operating test
+
+and evidence burden.
+
+The story is coherent around:
+
+shared need,
+
+healthy food,
+
+time / money / produce,
+
+participation,
+
+community
+
+and:
+
+belonging.
+
+The strongest story boundary is:
+
+Mission Coherence
+
+≠
+
+Mission Completion.
+
+The governing evidence ladder is:
+
+Origin Story
+
+≠
+
+Current Operating Proof
+
+≠
+
+Participant Experience
+
+≠
+
+Measured Outcome
+
+≠
+
+Causality.
+
+Restaurant #20 Pattern Pressure
+
+Candidate patterns receiving strong support include:
+
+Atmosphere Through Worldview
+
+Show the System Behind the Plate
+
+Narrative Language Within Clear Interface
+
+Walk-In as First-Class Participation
+
+Story Through Hospitality Model
+
+Hospitality System Proof
+
+Narrative Coherence Through Organising Logic
+
+Photography as Proof
+
+Capacity Proof
+
+Photography Should Demonstrate Difference
+
+Stable Participation / Variable Product
+
+Manageable Commitment
+
+Participation Rule Consistency
+
+Layered Arrival
+
+Atmosphere Through Consistency
+
+Photography Through Layers of Experience
+
+Participation Throughout the Journey
+
+Human Assistance Where Structured Self-Service Is Insufficient
+
+and Multi-Intent Hospitality.
+
+None changed confidence.
+
+The strongest blockers are:
+
+performed contribution neutrality
+
+failed-route recovery
+
+suitable-task access
+
+live capacity
+
+human-assistance consistency
+
+contribution-state privacy
+
+consent persistence
+
+guest experience
+
+measured outcome
+
+and causality.
+
+Restaurant #20 Emerging Review
+
+All eight directions remain Emerging:
+
+Emotion Before Interface
+
+Story Before Features
+
+Photography Before Decoration
+
+Commitment Without Pressure
+
+Promise Before Proof
+
+The Guest as Participant
+
+Atmosphere as Product
+
+Escalating Participation Complexity
+
+Own the Guest Relationship remains:
+
+Partially Supported / Medium.
+
+Restaurant #20 Architecture Additions
+
+Reciprocal Hospitality With Explicit Terms
+
+Belonging Before Contribution
+
+Explicit Contribution Menu
+
+Contribution Equivalence as Rights
+
+Contribution-State / Guest-Identity Separation
+
+Contribution-Route Capacity
+
+No-Reservation Allocation
+
+Suitable-Task Capacity
+
+Work-for-Meal Handoff
+
+Work-to-Guest Re-entry
+
+Produce-Acceptance Recovery
+
+No-Available-Route Hospitality
+
+Private Human Recovery
+
+Contribution-Neutral Atmosphere
+
+Optional Sociality
+
+Contribution-State-Blind Photography
+
+Proof Without Human Exposure
+
+Participant-Controlled Visibility
+
+Universal Promise / Finite Capacity Qualification
+
+Activity / Experience / Outcome / Causality Ladder
+
+Transparent Institutional Learning
+
+Outcome Without Transformation Theatre
+
+Role-Bounded Data
+
+Event / Café Rule Separation
+
+Commercial / Mission Route Separation
+
+All remain:
+
+below formal pattern maturity.
+
+Restaurant #20 Cross-Dimensional Corrections
+
+Participation for Every Person ≠ Equal Capacity to Participate
+
+Contribution Orientation ≠ Contribution Disclosure
+
+Contribution Route ≠ Guest Identity
+
+Contribution Choice ≠ Contribution Neutrality
+
+Explicit Exchange ≠ Human Rank
+
+Participation Supports Belonging ≠ Participation Earns Belonging
+
+Multiple Options ≠ Available Options
+
+Contribution Failure ≠ Guest Failure
+
+Half-Hour Work ≠ Half-Hour Journey
+
+Task Available ≠ Task Accessible
+
+Produce Offered ≠ Produce Accepted
+
+No Dining Reservation ≠ No Participation Structure
+
+Walk-In Access ≠ Guaranteed Meal
+
+Seat Available ≠ Suitable Task Available
+
+Same Food ≠ Same Experienced Burden
+
+Visible Contribution ≠ Visible Economic Status
+
+Community Available ≠ Community Performance Required
+
+One Room ≠ Equal Guesthood
+
+Designed Equality ≠ Experienced Equality
+
+Mission Coherence ≠ Mission Completion
+
+Origin Story ≠ Current Operating Proof
+
+Activity ≠ Experience ≠ Outcome ≠ Causality
+
+Consent to Capture ≠ Consent to Every Reuse
+
+One Person ≠ One Combined Participation Profile
+
+One Restaurant Case ≠ Universal Hospitality Pattern
+
+Post–SAME Café Count Reconciliation
+
+Candidate:
+
+26 + 0 = 26
+
+Emerging:
+
+8 - 0 = 8
+
+Partially Supported:
+
+1
+
+Validated:
+
+0
+
+Research-Derived KHDS Principles:
+
+0
+
+Candidate / High:
+
+9
+
+Candidate / Medium-High:
+
+8
+
+Candidate / Medium:
+
+9
+
+Independent Restaurants:
+
+19 + 1 = 20
+
+Why No Candidate Promotion Occurred — Restaurant #20
+
+Restaurant #20 produces:
+
+strong mechanism evidence,
+
+strong comparison value,
+
+strong ethical boundaries
+
+and:
+
+strong falsification architecture.
+
+It does not resolve:
+
+the performed evidence gaps limiting maturity.
+
+Strong Architecture
+
+≠
+
+Automatic Candidate.
+
+Why No Confidence Change Occurred — Restaurant #20
+
+Additional support does not increase confidence unless it resolves:
+
+the uncertainty that currently limits confidence.
+
+Evidence Density
+
+≠
+
+Confidence Increase.
+
+Why No Validated Promotion Occurred — Restaurant #20
+
+Published mechanism evidence does not establish:
+
+repeated performance,
+
+failure-state survival,
+
+longitudinal consistency,
+
+guest experience,
+
+outcome
+
+or:
+
+causality.
+
+Published Mechanism
+
+≠
+
+Validated Performance.
+
+Why No Research-Derived Principle Promotion Occurred — Restaurant #20
+
+The architecture remains under-tested across:
+
+cultures,
+
+reciprocity norms,
+
+scarcity conditions,
+
+private contribution,
+
+deferred contribution,
+
+systems without volunteer labour
+
+and:
+
+negative countercases.
+
+Ethical Strength
+
+≠
+
+Universal Principle.
+
+Current Post–SAME Café Research Priorities
+
+Failed contribution-route recovery
+
+Contribution-neutral service
+
+Suitable-task capacity and accessibility
+
+Produce-rejection recovery
+
+No-route access without worthiness assessment
+
+Walk-in meal, seat and task capacity
+
+Pressure created by explicit exchange
+
+Contribution-state privacy
+
+Work-to-guest re-entry
+
+Route-switching freedom
+
+Optional sociality
+
+Human-assistance failure and bias
+
+Contribution-state-blind photography
+
+Consent persistence and withdrawal
+
+Activity / experience / outcome / causality separation
+
+Universal promise / finite capacity qualification
+
+Role-bounded data
+
+Cross-cultural reciprocity countercases
+
+Governance Mirror Status — Post Restaurant #20
+
+| Governance File | Status |
+
+|---|---|
+
+| khds/research/validation/candidate-patterns.md | Canonical / Complete |
+
+| khds/patterns/registry.md | Reconciled / Complete |
+
+| khds/research/validation/dashboard.md | Reconciled / Complete |
+
+| khds/research/README.md | Reconciled / Complete |
+
+| khds/research/validation/README.md | Pending |
+
+The next governance mirror is:
+
+khds/research/validation/README.md.
+
+Validation — Post Restaurant #20
+
+Research README:
+
+khds/research/README.md
+
+Status:
+
+Post–SAME Café Denver Reconciled Mirror
+
+Canonical Source:
+
+khds/research/validation/candidate-patterns.md
+
+Independent Restaurants:
+
+20
+
+Track B Validation Cases:
+
+1
+
+Emerging:
+
+8
+
+Candidate:
+
+26
+
+Candidate / High:
+
+9
+
+Candidate / Medium-High:
+
+8
+
+Candidate / Medium:
+
+9
+
+Partially Supported:
+
+1
+
+Validated:
+
+0
+
+Research-Derived Principles:
+
+0
+
+Implementation Pattern Pending Formal Validation:
+
+1
+
+Opportunity Themes:
+
+36
+
+Track B Implementation Learnings:
+
+17
+
+Post–SAME Café Promotions:
+
+0
+
+Confidence Changes:
+
+0
+
+Demotions:
+
+0
+
+Renames:
+
+0
+
+Merges:
+
+0
+
+Validated Promotions:
+
+0
+
+Research-Derived Principle Promotions:
+
+0
+
+Highest Research-Derived Maturity:
+
+Candidate
+
+Next Governance Mirror:
+
+khds/research/validation/README.md
+
+Final Research Position — Post Restaurant #20
+
+After twenty independent restaurants, KHDS contains:
+
+26 Candidate Patterns
+
+8 Emerging Patterns
+
+1 Partially Supported Pattern
+
+0 Validated Patterns
+
+0 Research-Derived KHDS Principles.
+
+Restaurant #20 produced:
+
+0 Candidate promotions
+
+0 confidence changes
+
+0 demotions
+
+0 renames
+
+0 merges
+
+0 Validated promotions
+
+and:
+
+0 Principle promotions.
+
+Its strongest architecture result is:
+
+Reciprocal Hospitality With Explicit Terms.
+
+Its strongest governance boundary is:
+
+Multiple contribution routes are not access
+
+unless failed routes have a dignified recovery.
 
 The research system expands:
 

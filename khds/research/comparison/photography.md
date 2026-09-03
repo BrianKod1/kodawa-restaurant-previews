@@ -1,12 +1,12 @@
-KHDS Cross-Restaurant Comparison — Photography / Proof
+# KHDS Cross-Restaurant Comparison — Photography / Proof
 
-Status
+## Status
 
-Post–JBJ Soul Kitchen, Red Bank Comparison
+Post–SAME Café Denver Comparison
 
 Restaurants Compared:
 
-19
+20
 
 Track:
 
@@ -14,7 +14,7 @@ Track A — Independent Hospitality Research
 
 Latest Added Case:
 
-JBJ Soul Kitchen — Red Bank, New Jersey
+SAME Café — Denver, Colorado
 
 Comparison Status:
 
@@ -76,7 +76,7 @@ belong:
 
 to:
 
-khds/research/validation/candidate-patterns.md
+`khds/research/validation/candidate-patterns.md`
 
 after:
 
@@ -84,7 +84,7 @@ all:
 
 five:
 
-post–Restaurant #19:
+post–Restaurant #20:
 
 comparison files
 
@@ -92,11 +92,13 @@ are:
 
 complete.
 
-Purpose
+---
+
+# Purpose
 
 Photography / Proof research asks:
 
-What must the guest be shown, and through which evidence medium, to understand or trust a material hospitality claim?
+> **What must the guest be shown, and through which evidence medium, to understand or trust a material hospitality claim?**
 
 KHDS does not:
 
@@ -142,57 +144,49 @@ evidence.
 
 Therefore:
 
+```text
 Photography
 ≠
 Proof by Default
+```
 
 and:
 
+```text
 More Photography
 ≠
 More Confidence
+```
 
-Restaurants Included
+---
 
-Ankole
+# Restaurants Included
 
-Cultiva
+1. Ankole
+2. Cultiva
+3. Talisman
+4. Mawimbi
+5. Bistro Lolo
+6. FYN
+7. Dishoom Covent Garden
+8. Franklin Barbecue
+9. Alinea
+10. NARISAWA
+11. Haidilao Toronto Downtown
+12. ICHIRAN Shibuya
+13. Din Tai Fung Covent Garden
+14. Noma Copenhagen 2026
+15. Restaurant Pearl Morissette
+16. Dans le Noir? London
+17. Avatar Robot Café DAWN, Tokyo
 
-Talisman
+18. Refettorio Felix, London
 
-Mawimbi
+19. JBJ Soul Kitchen, Red Bank
 
-Bistro Lolo
+---
 
-FYN
-
-Dishoom Covent Garden
-
-Franklin Barbecue
-
-Alinea
-
-NARISAWA
-
-Haidilao Toronto Downtown
-
-ICHIRAN Shibuya
-
-Din Tai Fung Covent Garden
-
-Noma Copenhagen 2026
-
-Restaurant Pearl Morissette
-
-Dans le Noir? London
-
-Avatar Robot Café DAWN, Tokyo
-
-Refettorio Felix, London
-
-JBJ Soul Kitchen, Red Bank
-
-Current Photography / Proof Thesis
+# Current Photography / Proof Thesis
 
 The strongest:
 
@@ -200,7 +194,7 @@ cross-restaurant:
 
 finding remains:
 
-Evidence quality depends on claim fit, not visual beauty.
+> **Evidence quality depends on claim fit, not visual beauty.**
 
 The:
 
@@ -218,6 +212,7 @@ the:
 
 claim.
 
+```text
 Claim
 ↓
 What Must Be Proven?
@@ -233,6 +228,7 @@ Time
 State
 ↓
 Minimum Sufficient Evidence
+```
 
 Post-Noma:
 
@@ -252,6 +248,7 @@ architecture:
 
 hypothesis:
 
+```text
 Evidence Fit
 =
 Claim Fit
@@ -261,6 +258,7 @@ Location Fit
 Temporal Fit
 +
 State Fit
+```
 
 Pearl Morissette:
 
@@ -284,12 +282,17 @@ critical:
 
 dimension:
 
+```text
 Thing Proof
 vs
 Relationship Proof
+```
 
-Post–Pearl Morissette Proof Architecture
+---
 
+# Post–Pearl Morissette Proof Architecture
+
+```text
 Guest Uncertainty
 ↓
 What Claim Needs Proof?
@@ -348,6 +351,7 @@ State Fit
 Minimum Sufficient Evidence
 ↓
 Appropriate Confidence
+```
 
 Not every:
 
@@ -359,7 +363,9 @@ every:
 
 step.
 
-Major Post–Pearl Morissette Refinement
+---
+
+# Major Post–Pearl Morissette Refinement
 
 Restaurant #15 adds:
 
@@ -371,17 +377,25 @@ proof:
 
 ideas:
 
+```text
 Thing Proof
 ≠
 Relationship Proof
+```
 
+```text
 Relational Proof Sequencing
+```
 
+```text
 Distributed Culinary System Proof
+```
 
 and:
 
+```text
 Capacity Evidence Bundle
+```
 
 These:
 
@@ -409,348 +423,345 @@ proof:
 
 architecture.
 
-Comparison 1 — Photography Performs Different Jobs Across Restaurants
+---
 
-Ankole
+# Comparison 1 — Photography Performs Different Jobs Across Restaurants
+
+---
+
+## Ankole
 
 Photography pressure:
 
-place
-
-atmosphere
-
-hospitality identity
-
-dining context
+- place
+- atmosphere
+- hospitality identity
+- dining context
 
 Primary question:
 
+```text
 What does the place feel like
 and how is it used?
+```
 
-Cultiva
+---
+
+## Cultiva
 
 Photography pressure:
 
-food
-
-philosophy
-
-craft
-
-environment
-
-worldview
+- food
+- philosophy
+- craft
+- environment
+- worldview
 
 Primary question:
 
+```text
 Does visual evidence support
 the restaurant's culinary worldview?
+```
 
-Talisman
+---
+
+## Talisman
 
 Photography pressure:
 
-continuity
-
-place
-
-heritage
-
-atmosphere
-
-present-day relevance
+- continuity
+- place
+- heritage
+- atmosphere
+- present-day relevance
 
 Primary question:
 
+```text
 Can photography show
 that heritage is still alive now?
+```
 
-Mawimbi
+---
+
+## Mawimbi
 
 Photography pressure:
 
-designed environment
-
-atmosphere
-
-destination quality
-
-experience world
+- designed environment
+- atmosphere
+- destination quality
+- experience world
 
 Primary question:
 
+```text
 Does photography prove
 the designed escape?
+```
 
-Bistro Lolo
+---
+
+## Bistro Lolo
 
 Photography pressure:
 
-guest use
-
-social context
-
-neighbourhood fit
-
-atmosphere
+- guest use
+- social context
+- neighbourhood fit
+- atmosphere
 
 Primary question:
 
+```text
 Can guests see
 how the restaurant is actually used?
+```
 
-FYN
+---
+
+## FYN
 
 Photography pressure:
 
-food
-
-craft
-
-authority
-
-worldview
-
-experience
+- food
+- craft
+- authority
+- worldview
+- experience
 
 Primary question:
 
+```text
 Can visual proof support
 a high-commitment conceptual experience?
+```
 
-Dishoom Covent Garden
+---
+
+## Dishoom Covent Garden
 
 Photography pressure:
 
-narrative environment
-
-guest use
-
-place
-
-atmosphere
-
-social energy
+- narrative environment
+- guest use
+- place
+- atmosphere
+- social energy
 
 Primary question:
 
+```text
 Can visual evidence
 make the hospitality world legible
 without replacing the story?
+```
 
-Franklin Barbecue
+---
+
+## Franklin Barbecue
 
 Photography pressure:
 
-product
-
-process
-
-queue
-
-operational reality
-
-craft
+- product
+- process
+- queue
+- operational reality
+- craft
 
 Primary question:
 
+```text
 Can the product and process
 be shown as credible proof?
+```
 
-Alinea
+---
+
+## Alinea
 
 Photography pressure:
 
-selective reveal
-
-anticipation
-
-product evidence
-
-spoiler control
+- selective reveal
+- anticipation
+- product evidence
+- spoiler control
 
 Primary question:
 
+```text
 How much proof can be shown
 without destroying the reveal?
+```
 
-NARISAWA
+---
+
+## NARISAWA
 
 Photography pressure:
 
-ecology
-
-ingredients
-
-process
-
-worldview
-
-food
+- ecology
+- ingredients
+- process
+- worldview
+- food
 
 Primary question:
 
+```text
 Can visual evidence support
 ecological and culinary claims
 without overclaiming outcomes?
+```
 
-Haidilao Toronto Downtown
+---
+
+## Haidilao Toronto Downtown
 
 Photography pressure:
 
-service
-
-participation
-
-social use
-
-guest experience
-
-system
+- service
+- participation
+- social use
+- guest experience
+- system
 
 Primary question:
 
+```text
 Can photography show
 how hospitality is actually delivered?
+```
 
-ICHIRAN Shibuya
+---
+
+## ICHIRAN Shibuya
 
 Photography pressure:
 
-system
-
-privacy
-
-participation
-
-booth structure
-
-ordering
-
-use-case explanation
+- system
+- privacy
+- participation
+- booth structure
+- ordering
+- use-case explanation
 
 Primary question:
 
+```text
 Can the unusual participation system
 be made understandable visually?
+```
 
-Din Tai Fung Covent Garden
+---
+
+## Din Tai Fung Covent Garden
 
 Photography pressure:
 
-craft
-
-product
-
-location
-
-hospitality use
-
-standardization
+- craft
+- product
+- location
+- hospitality use
+- standardization
 
 Primary question:
 
+```text
 Can photography prove
 repeatable craft and local experience
 without implying unsupported production details?
+```
 
-Noma Copenhagen 2026
+---
+
+## Noma Copenhagen 2026
 
 Photography pressure:
 
-research
-
-process
-
-history
-
-archive
-
-current / future distinction
-
-change
-
-capacity
+- research
+- process
+- history
+- archive
+- current / future distinction
+- change
+- capacity
 
 Primary question:
 
+```text
 How can historical and current evidence
 support a future experience
 that may not yet be fixed?
+```
 
-Restaurant Pearl Morissette
+---
+
+## Restaurant Pearl Morissette
 
 Photography pressure:
 
-food
-
-productive place
-
-farm
-
-producer network
-
-kitchen
-
-wine
-
-dining environment
-
-capacity
-
-relationships
+- food
+- productive place
+- farm
+- producer network
+- kitchen
+- wine
+- dining environment
+- capacity
+- relationships
 
 Primary question:
 
+```text
 Can the system be proved
 through relationships
 rather than isolated beautiful subjects?
+```
 
-Dans le Noir? London
+---
+
+## Dans le Noir? London
 
 Photography pressure:
 
-visible perimeter
-
-invisible experiential core
-
-representative food evidence
-
-guide identity
-
-human operating system
-
-illuminated simulation
-
-sensory boundary
-
-procedural confidence
-
-surprise protection
-
-post-experience reveal
-
-accessibility of non-visual meaning
+- visible perimeter
+- invisible experiential core
+- representative food evidence
+- guide identity
+- human operating system
+- illuminated simulation
+- sensory boundary
+- procedural confidence
+- surprise protection
+- post-experience reveal
+- accessibility of non-visual meaning
 
 Primary question:
 
+```text
 How can photography create confidence
 when the defining guest experience
 cannot be represented visually
 without contradicting the experience itself?
+```
 
 Primary mechanism:
 
+```text
 Visible Perimeter
 +
 Invisible Core
+```
 
 Strongest boundary:
 
+```text
 Photography of the Restaurant
 ≠
 Photography of the Guest Experience
+```
 
 Dans le Noir? does not remove photography from the evidence system.
 
@@ -758,43 +769,31 @@ It limits what photography can truthfully claim.
 
 The published image system can show:
 
-food capability
-
-people
-
-reception
-
-guide presence
-
-illuminated room form
-
-thresholds
-
-products and gifts
-
-the visible conditions surrounding the experience
+- food capability
+- people
+- reception
+- guide presence
+- illuminated room form
+- thresholds
+- products and gifts
+- the visible conditions surrounding the experience
 
 It cannot directly show:
 
-the guest's visual field during dining
-
-taste
-
-trust transfer
-
-guide authority in practice
-
-relationship quality
-
-safety performance
-
-emotional outcome
-
-the full non-visual atmosphere
+- the guest's visual field during dining
+- taste
+- trust transfer
+- guide authority in practice
+- relationship quality
+- safety performance
+- emotional outcome
+- the full non-visual atmosphere
 
 Restaurant #16 therefore functions as a deliberate contradiction case for visual proof.
 
-Comparison 2 — Photography Is Not One Evidence Type
+---
+
+# Comparison 2 — Photography Is Not One Evidence Type
 
 Across:
 
@@ -816,35 +815,26 @@ functions.
 
 These include:
 
-product proof
+- product proof
+- place proof
+- atmosphere proof
+- process proof
+- use-case proof
+- system proof
+- authority support
+- capacity support
+- historical proof
+- current-state proof
+- relationship proof
+- difference proof
 
-place proof
+## Correction
 
-atmosphere proof
-
-process proof
-
-use-case proof
-
-system proof
-
-authority support
-
-capacity support
-
-historical proof
-
-current-state proof
-
-relationship proof
-
-difference proof
-
-Correction
-
+```text
 Photography as Proof
 ≠
 One Type of Proof
+```
 
 The:
 
@@ -856,7 +846,9 @@ remain:
 
 medium-level.
 
-Comparison 3 — Photography as Proof Has Strong Cross-Case Support
+---
+
+# Comparison 3 — Photography as Proof Has Strong Cross-Case Support
 
 Current Status:
 
@@ -864,27 +856,19 @@ Emerging
 
 Strong cases:
 
-Franklin
-
-ICHIRAN
-
-Din Tai Fung
-
-Noma
-
-Pearl Morissette
+- Franklin
+- ICHIRAN
+- Din Tai Fung
+- Noma
+- Pearl Morissette
 
 Additional support:
 
-Talisman
-
-FYN
-
-Dishoom
-
-NARISAWA
-
-Haidilao
+- Talisman
+- FYN
+- Dishoom
+- NARISAWA
+- Haidilao
 
 The repeated:
 
@@ -916,23 +900,31 @@ the:
 
 claim.
 
-Refined Definition
+## Refined Definition
 
-Photography as Proof applies when visual evidence materially reduces uncertainty about a decision-relevant hospitality claim rather than functioning primarily as decoration.
+> **Photography as Proof applies when visual evidence materially reduces uncertainty about a decision-relevant hospitality claim rather than functioning primarily as decoration.**
 
-Core Boundary
+---
 
+# Core Boundary
+
+```text
 Beautiful Image
 ≠
 Proof
+```
 
 and:
 
+```text
 Relevant Subject
 ≠
 Relevant Claim Proven
+```
 
-Photography as Proof Governance Pressure
+---
+
+# Photography as Proof Governance Pressure
 
 Entering Status:
 
@@ -996,7 +988,9 @@ Formal decision:
 
 deferred.
 
-Comparison 4 — Thing Proof vs Relationship Proof Is a Major New Distinction
+---
+
+# Comparison 4 — Thing Proof vs Relationship Proof Is a Major New Distinction
 
 Pearl Morissette:
 
@@ -1008,7 +1002,7 @@ clearest:
 
 case.
 
-Thing Proof
+### Thing Proof
 
 Shows:
 
@@ -1020,21 +1014,15 @@ exists.
 
 Examples:
 
-farm
+- farm
+- kitchen
+- dish
+- booth
+- dining room
+- queue
+- chef counter
 
-kitchen
-
-dish
-
-booth
-
-dining room
-
-queue
-
-chef counter
-
-Relationship Proof
+### Relationship Proof
 
 Shows:
 
@@ -1050,33 +1038,47 @@ connect.
 
 Examples:
 
+```text
 Farm
 →
 Ingredient
+```
 
+```text
 Producer
 →
 Restaurant
+```
 
+```text
 Kitchen
 →
 Dish
+```
 
+```text
 Space
 →
 Guest Use
+```
 
+```text
 System State
 →
 Guest Action
+```
 
-Correction
+## Correction
 
+```text
 Thing Proof
 ≠
 Relationship Proof
+```
 
-Comparison 5 — Relationship Proof Is Especially Important for System Claims
+---
+
+# Comparison 5 — Relationship Proof Is Especially Important for System Claims
 
 A:
 
@@ -1100,9 +1102,11 @@ objects.
 
 Therefore:
 
+```text
 System Proof
 requires
 Relationship Legibility
+```
 
 where:
 
@@ -1178,7 +1182,9 @@ and:
 
 wine.
 
-Comparison 6 — System Photography Is Broader Than Process Photography
+---
+
+# Comparison 6 — System Photography Is Broader Than Process Photography
 
 ICHIRAN:
 
@@ -1198,7 +1204,7 @@ its:
 
 boundary.
 
-Process Photography
+### Process Photography
 
 Shows:
 
@@ -1208,29 +1214,25 @@ or:
 
 activity.
 
-System Photography
+### System Photography
 
 May show:
 
-components
+- components
+- states
+- relationships
+- spatial logic
+- interaction
+- process
+- network
 
-states
+## Correction
 
-relationships
-
-spatial logic
-
-interaction
-
-process
-
-network
-
-Correction
-
+```text
 System Photography
 ≠
 Process Photography
+```
 
 This:
 
@@ -1240,7 +1242,9 @@ remain:
 
 architecture-level.
 
-Comparison 7 — Show the System Behind the Plate Has Strongly Expanded Beyond Kitchen Process
+---
+
+# Comparison 7 — Show the System Behind the Plate Has Strongly Expanded Beyond Kitchen Process
 
 Current Status:
 
@@ -1268,13 +1272,15 @@ distributed:
 
 version.
 
-Post–Pearl Refinement
+## Post–Pearl Refinement
 
+```text
 System Behind the Plate
 can be:
 Centralized
 or
 Distributed
+```
 
 A:
 
@@ -1286,19 +1292,13 @@ may:
 
 include:
 
-producer network
-
-farm
-
-sourcing
-
-ingredient relationships
-
-kitchen
-
-method
-
-finished food
+- producer network
+- farm
+- sourcing
+- ingredient relationships
+- kitchen
+- method
+- finished food
 
 without:
 
@@ -1308,19 +1308,27 @@ vertically:
 
 integrated.
 
-Correction
+---
 
+# Correction
+
+```text
 Culinary System
 ≠
 Single Production Location
+```
 
 and:
 
+```text
 Proof Chain
 ≠
 Ownership Chain
+```
 
-Show the System Behind the Plate Governance Pressure
+---
+
+# Show the System Behind the Plate Governance Pressure
 
 Current:
 
@@ -1344,11 +1352,13 @@ definition / architecture:
 
 refinement.
 
-Comparison 8 — Distributed Culinary System Is a Useful Architecture Direction
+---
 
-Definition
+# Comparison 8 — Distributed Culinary System Is a Useful Architecture Direction
 
-A culinary system may span multiple producers, locations, resources, and stages while remaining coherent if the material relationships among them support one product logic.
+## Definition
+
+> **A culinary system may span multiple producers, locations, resources, and stages while remaining coherent if the material relationships among them support one product logic.**
 
 Strongest case:
 
@@ -1358,13 +1368,11 @@ Partial:
 
 support:
 
-NARISAWA
+- NARISAWA
+- FYN
+- Franklin
 
-FYN
-
-Franklin
-
-Status
+## Status
 
 Architecture Direction
 
@@ -1382,7 +1390,9 @@ new:
 
 pattern.
 
-Comparison 9 — Distributed System Proof Cannot Rely on One Photograph
+---
+
+# Comparison 9 — Distributed System Proof Cannot Rely on One Photograph
 
 When:
 
@@ -1418,11 +1428,13 @@ whole:
 
 system.
 
-Correction
+## Correction
 
+```text
 One Image
 ≠
 Whole System Proof
+```
 
 This:
 
@@ -1436,7 +1448,9 @@ for:
 
 Pearl Morissette.
 
-Comparison 10 — Relational Proof Sequencing Is Useful
+---
+
+# Comparison 10 — Relational Proof Sequencing Is Useful
 
 Pearl Morissette:
 
@@ -1452,14 +1466,15 @@ architecture:
 
 direction.
 
-Definition
+## Definition
 
-Separate evidence assets may be sequenced so that relationships among inputs, contexts, processes, and outcomes become understandable.
+> **Separate evidence assets may be sequenced so that relationships among inputs, contexts, processes, and outcomes become understandable.**
 
 Potential:
 
 sequence:
 
+```text
 Place
 ↓
 Producer
@@ -1469,14 +1484,17 @@ Ingredient
 Process
 ↓
 Finished Product
+```
 
 or:
 
+```text
 System State
 ↓
 Guest Action
 ↓
 Service Response
+```
 
 depending on:
 
@@ -1484,7 +1502,9 @@ the:
 
 claim.
 
-Comparison 11 — Relational Proof Sequencing Is Different From Temporal Proof Sequencing
+---
+
+# Comparison 11 — Relational Proof Sequencing Is Different From Temporal Proof Sequencing
 
 Noma:
 
@@ -1492,7 +1512,7 @@ introduced:
 
 Temporal Proof Sequencing.
 
-Temporal Proof Sequencing
+### Temporal Proof Sequencing
 
 Shows:
 
@@ -1502,7 +1522,7 @@ through:
 
 time.
 
-Relational Proof Sequencing
+### Relational Proof Sequencing
 
 Shows:
 
@@ -1514,11 +1534,13 @@ system:
 
 components.
 
-Correction
+## Correction
 
+```text
 Relational Sequence
 ≠
 Temporal Sequence
+```
 
 Both:
 
@@ -1530,7 +1552,9 @@ used:
 
 together.
 
-Comparison 12 — Difference Through Relationship Adds a New Photography Mechanism
+---
+
+# Comparison 12 — Difference Through Relationship Adds a New Photography Mechanism
 
 Photography Should Demonstrate Difference:
 
@@ -1584,6 +1608,7 @@ relationship.
 
 Example:
 
+```text
 Land
 +
 Producer Network
@@ -1593,14 +1618,19 @@ Kitchen
 Food
 +
 Wine
+```
 
-Correction
+## Correction
 
+```text
 Restaurant Difference
 ≠
 Always Visible in One Image
+```
 
-Photography Should Demonstrate Difference Governance Pressure
+---
+
+# Photography Should Demonstrate Difference Governance Pressure
 
 Entering Status:
 
@@ -1666,7 +1696,9 @@ Formal decision:
 
 deferred.
 
-Comparison 13 — Photography Through Layers of Experience Has Strong Cross-Case Support
+---
+
+# Comparison 13 — Photography Through Layers of Experience Has Strong Cross-Case Support
 
 Current Status:
 
@@ -1674,17 +1706,12 @@ Emerging
 
 Strong cases:
 
-Dishoom
-
-Haidilao
-
-ICHIRAN
-
-Din Tai Fung
-
-Noma
-
-Pearl Morissette
+- Dishoom
+- Haidilao
+- ICHIRAN
+- Din Tai Fung
+- Noma
+- Pearl Morissette
 
 Pearl Morissette:
 
@@ -1724,43 +1751,42 @@ Potential:
 
 layers include:
 
-place
+- place
+- product
+- environment
+- process
+- system
+- guest use
+- people
+- historical state
+- current state
+- productive context
 
-product
+---
 
-environment
+# Refined Definition — Photography Through Layers of Experience
 
-process
+> **A visual proof system may require multiple evidence layers when different decision-relevant uncertainties cannot be resolved by one photographic subject or perspective.**
 
-system
+## Core Boundary
 
-guest use
-
-people
-
-historical state
-
-current state
-
-productive context
-
-Refined Definition — Photography Through Layers of Experience
-
-A visual proof system may require multiple evidence layers when different decision-relevant uncertainties cannot be resolved by one photographic subject or perspective.
-
-Core Boundary
-
+```text
 Photography Through Layers
 ≠
 More Image Variety
+```
 
 and:
 
+```text
 More Layers
 ≠
 Better Proof
+```
 
-Photography Through Layers Governance Pressure
+---
+
+# Photography Through Layers Governance Pressure
 
 Entering Status:
 
@@ -1794,7 +1820,9 @@ Formal decision:
 
 deferred.
 
-Comparison 14 — Minimum Sufficient Evidence Becomes More Important as Proof Layers Increase
+---
+
+# Comparison 14 — Minimum Sufficient Evidence Becomes More Important as Proof Layers Increase
 
 More:
 
@@ -1822,20 +1850,24 @@ preserve:
 
 Minimum Sufficient Evidence.
 
-Relationship
+## Relationship
 
+```text
 Claim
 ↓
 Required Evidence Depth
 ↓
 Smallest Evidence Set
 that resolves the uncertainty
+```
 
-Correction
+## Correction
 
+```text
 Maximum Evidence
 ≠
 Maximum Understanding
+```
 
 Pearl Morissette:
 
@@ -1845,7 +1877,9 @@ reinforces:
 
 this.
 
-Comparison 15 — Representative Proof Can Reduce Evidence Overload
+---
+
+# Comparison 15 — Representative Proof Can Reduce Evidence Overload
 
 Distributed:
 
@@ -1881,17 +1915,19 @@ introduces:
 
 Representative Proof.
 
-Definition
+## Definition
 
-A limited set of representative evidence may communicate the structure of a larger system when the representation is accurate and does not imply totality.
+> **A limited set of representative evidence may communicate the structure of a larger system when the representation is accurate and does not imply totality.**
 
-Boundary
+## Boundary
 
+```text
 Representative Evidence
 ≠
 Evidence of Every Case
+```
 
-Status
+## Status
 
 Evidence Architecture Direction
 
@@ -1899,7 +1935,9 @@ Not:
 
 formal pattern.
 
-Comparison 16 — Representative Proof Requires Disclosure Discipline
+---
+
+# Comparison 16 — Representative Proof Requires Disclosure Discipline
 
 If:
 
@@ -1947,11 +1985,13 @@ operate:
 
 identically.
 
-Correction
+## Correction
 
+```text
 Example
 ≠
 Universal Rule
+```
 
 This:
 
@@ -1961,7 +2001,9 @@ beyond:
 
 Pearl Morissette.
 
-Comparison 17 — Product Photography Can Have Different Proof Depths
+---
+
+# Comparison 17 — Product Photography Can Have Different Proof Depths
 
 Pearl Morissette:
 
@@ -1981,7 +2023,7 @@ Potential:
 
 depths:
 
-Presence
+### Presence
 
 The:
 
@@ -1989,7 +2031,7 @@ ingredient:
 
 exists.
 
-Source
+### Source
 
 Origin:
 
@@ -1997,7 +2039,7 @@ is:
 
 identified.
 
-Relationship
+### Relationship
 
 Restaurant-producer:
 
@@ -2007,7 +2049,7 @@ is:
 
 shown.
 
-Transformation
+### Transformation
 
 Culinary:
 
@@ -2017,7 +2059,7 @@ is:
 
 shown.
 
-Outcome
+### Outcome
 
 Finished:
 
@@ -2027,25 +2069,35 @@ is:
 
 connected.
 
-Status
+## Status
 
 Proof Depth Architecture
 
-Correction
+---
 
+# Correction
+
+```text
 Ingredient Visible
 ≠
 Ingredient Origin Proven
+```
 
+```text
 Ingredient Origin
 ≠
 Ingredient Role Proven
+```
 
+```text
 Finished Dish
 ≠
 Food System Proof
+```
 
-Comparison 18 — Productive Landscape Is Strong Context Proof but Weak Traceability Proof
+---
+
+# Comparison 18 — Productive Landscape Is Strong Context Proof but Weak Traceability Proof
 
 Pearl Morissette:
 
@@ -2103,19 +2155,25 @@ that:
 
 place.
 
-Correction
+## Correction
 
+```text
 Farm Image
 ≠
 Specific Ingredient Traceability
+```
 
 and:
 
+```text
 Productive Landscape Proof
 ≠
 Culinary Process Proof
+```
 
-Comparison 19 — Place Proof and Product Proof Must Stay Separate
+---
+
+# Comparison 19 — Place Proof and Product Proof Must Stay Separate
 
 Story Through Place:
 
@@ -2141,13 +2199,17 @@ claims
 
 differ.
 
-Place Proof
+### Place Proof
 
+```text
 This restaurant materially belongs here.
+```
 
-Product Proof
+### Product Proof
 
+```text
 This product came from or was shaped by this place.
+```
 
 The:
 
@@ -2163,13 +2225,17 @@ causal:
 
 evidence.
 
-Correction
+## Correction
 
+```text
 Place Proof
 ≠
 Product Proof
+```
 
-Comparison 20 — Use-Case Evidence Remains a Distinct Candidate
+---
+
+# Comparison 20 — Use-Case Evidence Remains a Distinct Candidate
 
 Photography as Use-Case Evidence:
 
@@ -2179,15 +2245,11 @@ Candidate / Medium-High
 
 Strong cases:
 
-Bistro Lolo
-
-Dishoom
-
-Haidilao
-
-ICHIRAN
-
-Din Tai Fung
+- Bistro Lolo
+- Dishoom
+- Haidilao
+- ICHIRAN
+- Din Tai Fung
 
 Pearl Morissette:
 
@@ -2237,13 +2299,17 @@ the:
 
 space.
 
-Correction
+## Correction
 
+```text
 Strong Photography as Proof
 ≠
 Strong Use-Case Photography Required
+```
 
-Comparison 21 — Use-Case Evidence Does Not Require Lifestyle Photography
+---
+
+# Comparison 21 — Use-Case Evidence Does Not Require Lifestyle Photography
 
 ICHIRAN:
 
@@ -2281,11 +2347,13 @@ posed:
 
 guest.
 
-Canonical Correction
+## Canonical Correction
 
+```text
 Use-Case Evidence
 ≠
 Lifestyle Photography
+```
 
 Pearl Morissette:
 
@@ -2297,7 +2365,9 @@ change:
 
 this.
 
-Comparison 22 — Hospitality Photography Does Not Require People
+---
+
+# Comparison 22 — Hospitality Photography Does Not Require People
 
 Across:
 
@@ -2305,13 +2375,10 @@ multiple:
 
 cases:
 
-ICHIRAN
-
-Franklin
-
-Noma
-
-Pearl Morissette
+- ICHIRAN
+- Franklin
+- Noma
+- Pearl Morissette
 
 decision-relevant:
 
@@ -2333,11 +2400,13 @@ and:
 
 places.
 
-Correction
+## Correction
 
+```text
 Hospitality Photography
 ≠
 People Required
+```
 
 But:
 
@@ -2355,7 +2424,9 @@ prove:
 
 guest use.
 
-Comparison 23 — Photography Before Decoration Has Broad Support
+---
+
+# Comparison 23 — Photography Before Decoration Has Broad Support
 
 Current Status:
 
@@ -2379,15 +2450,11 @@ clear:
 
 work include:
 
-Franklin
-
-ICHIRAN
-
-Din Tai Fung
-
-Noma
-
-Pearl Morissette
+- Franklin
+- ICHIRAN
+- Din Tai Fung
+- Noma
+- Pearl Morissette
 
 Pearl Morissette:
 
@@ -2419,13 +2486,17 @@ productive:
 
 relationships.
 
-Correction
+## Correction
 
+```text
 Rural Aesthetic
 ≠
 Agricultural System Proof
+```
 
-Photography Before Decoration Governance Pressure
+---
+
+# Photography Before Decoration Governance Pressure
 
 Entering Status:
 
@@ -2483,11 +2554,13 @@ Formal decision:
 
 deferred.
 
-Comparison 24 — Photography Before Decoration Must Stay Separate From the Studio Foundation
+---
+
+# Comparison 24 — Photography Before Decoration Must Stay Separate From the Studio Foundation
 
 Important governance distinction:
 
-Photography before Decoration
+`Photography before Decoration`
 
 exists:
 
@@ -2539,11 +2612,13 @@ believes:
 
 it.
 
-Correction
+## Correction
 
+```text
 Studio Foundation
 ≠
 Research Validation
+```
 
 If:
 
@@ -2571,7 +2646,9 @@ studio:
 
 Foundation.
 
-Comparison 25 — Capacity Proof Receives Very Strong Photography Support
+---
+
+# Comparison 25 — Capacity Proof Receives Very Strong Photography Support
 
 Capacity Proof:
 
@@ -2583,23 +2660,18 @@ Strongest:
 
 cases:
 
-Noma
-
-Pearl Morissette
+- Noma
+- Pearl Morissette
 
 Supporting:
 
 pressure:
 
-FYN
-
-Alinea
-
-NARISAWA
-
-Franklin
-
-Din Tai Fung
+- FYN
+- Alinea
+- NARISAWA
+- Franklin
+- Din Tai Fung
 
 Photography:
 
@@ -2627,23 +2699,18 @@ may:
 
 include:
 
-previous output
+- previous output
+- method
+- people
+- resources
+- process
+- productive context
+- institutional history
+- relevant recognition
 
-method
+---
 
-people
-
-resources
-
-process
-
-productive context
-
-institutional history
-
-relevant recognition
-
-Comparison 26 — Capacity Proof Is Not Historical Proof Alone
+# Comparison 26 — Capacity Proof Is Not Historical Proof Alone
 
 Noma:
 
@@ -2675,11 +2742,13 @@ network:
 
 evidence.
 
-Correction
+## Correction
 
+```text
 Capacity Proof
 ≠
 Historical Proof Alone
+```
 
 The:
 
@@ -2699,37 +2768,29 @@ historical:
 
 evidence.
 
-Comparison 27 — Capacity Evidence Bundle Is a Useful Architecture Direction
+---
 
-Definition
+# Comparison 27 — Capacity Evidence Bundle Is a Useful Architecture Direction
 
-Capacity confidence may require a proportionate bundle of evidence about prior output, process, people, productive resources, relationships, method, or authority when the future hospitality outcome cannot be shown directly.
+## Definition
+
+> **Capacity confidence may require a proportionate bundle of evidence about prior output, process, people, productive resources, relationships, method, or authority when the future hospitality outcome cannot be shown directly.**
 
 Possible:
 
 components:
 
-historical output
-
-current output
-
-kitchen
-
-productive landscape
-
-people
-
-process
-
-supplier network
-
-research
-
-institution
-
-recognition
-
-method
+- historical output
+- current output
+- kitchen
+- productive landscape
+- people
+- process
+- supplier network
+- research
+- institution
+- recognition
+- method
 
 Not:
 
@@ -2741,7 +2802,7 @@ requires:
 
 all.
 
-Status
+## Status
 
 Proof Architecture Direction
 
@@ -2749,13 +2810,19 @@ Potential Home:
 
 Capacity Proof.
 
-Correction
+---
 
+# Correction
+
+```text
 Capacity Proof
 ≠
 Single Hero Image
+```
 
-Comparison 28 — Capacity Proof and Authority Remain Distinct
+---
+
+# Comparison 28 — Capacity Proof and Authority Remain Distinct
 
 Noma:
 
@@ -2783,17 +2850,21 @@ research:
 
 problem.
 
-Correction
+## Correction
 
+```text
 Authority
 ≠
 Capacity Proof
+```
 
 and:
 
+```text
 Recognition
 ≠
 Future Outcome Evidence
+```
 
 A:
 
@@ -2807,7 +2878,9 @@ remains:
 
 necessary.
 
-Comparison 29 — Capacity Evidence Must Be Proportionate to Commitment and Uncertainty
+---
+
+# Comparison 29 — Capacity Evidence Must Be Proportionate to Commitment and Uncertainty
 
 A:
 
@@ -2847,13 +2920,15 @@ need:
 
 more.
 
-Architecture Relationship
+## Architecture Relationship
 
+```text
 Future Outcome Uncertainty
 +
 Commitment Consequence
 ↓
 Required Capacity Proof Depth
+```
 
 This:
 
@@ -2869,7 +2944,9 @@ and:
 
 post-Pearl.
 
-Comparison 30 — Promise Before Proof and Capacity Proof Interact Without Merging
+---
+
+# Comparison 30 — Promise Before Proof and Capacity Proof Interact Without Merging
 
 Promise Before Proof:
 
@@ -2881,7 +2958,7 @@ Capacity Proof:
 
 Observed Research Direction
 
-Promise Before Proof
+### Promise Before Proof
 
 The:
 
@@ -2905,7 +2982,7 @@ hospitality:
 
 promise.
 
-Capacity Proof
+### Capacity Proof
 
 The:
 
@@ -2931,11 +3008,13 @@ future:
 
 outcome.
 
-Correction
+## Correction
 
+```text
 Promise Before Proof
 ≠
 Capacity Proof
+```
 
 They:
 
@@ -2945,7 +3024,9 @@ operate:
 
 together.
 
-Comparison 31 — Evidence Freshness and Evidence Durability Remain Distinct
+---
+
+# Comparison 31 — Evidence Freshness and Evidence Durability Remain Distinct
 
 Noma:
 
@@ -3017,19 +3098,25 @@ durable:
 
 claim.
 
-Canonical Correction
+## Canonical Correction
 
+```text
 Evidence Freshness
 ≠
 Evidence Durability
+```
 
-Comparison 32 — Current Does Not Mean Durable
+---
 
-Correction
+# Comparison 32 — Current Does Not Mean Durable
 
+## Correction
+
+```text
 Current
 ≠
 Durable
+```
 
 The:
 
@@ -3045,7 +3132,9 @@ the:
 
 claim.
 
-Comparison 33 — Historical Evidence Is Useful Only When Properly Scoped
+---
+
+# Comparison 33 — Historical Evidence Is Useful Only When Properly Scoped
 
 Alinea
 
@@ -3067,11 +3156,13 @@ proof:
 
 questions.
 
-Correction
+## Correction
 
+```text
 Historical Evidence
 ≠
 Current Product Proof
+```
 
 Historical:
 
@@ -3081,15 +3172,11 @@ can:
 
 prove:
 
-prior capability
-
-heritage
-
-process history
-
-continuity
-
-previous output
+- prior capability
+- heritage
+- process history
+- continuity
+- previous output
 
 without:
 
@@ -3099,7 +3186,9 @@ current:
 
 inventory.
 
-Comparison 34 — Claim-Specific Freshness Is Better Than One Global Freshness Rule
+---
+
+# Comparison 34 — Claim-Specific Freshness Is Better Than One Global Freshness Rule
 
 Potential:
 
@@ -3107,7 +3196,7 @@ claim:
 
 types:
 
-Stable Place Claim
+### Stable Place Claim
 
 Older:
 
@@ -3119,7 +3208,7 @@ remain:
 
 appropriate.
 
-Current Menu Claim
+### Current Menu Claim
 
 Fresh:
 
@@ -3131,7 +3220,7 @@ be:
 
 required.
 
-Current Operational State
+### Current Operational State
 
 Very:
 
@@ -3145,7 +3234,7 @@ be:
 
 required.
 
-Historical Capability Claim
+### Historical Capability Claim
 
 Older:
 
@@ -3155,13 +3244,17 @@ is:
 
 expected.
 
-Architecture Rule
+## Architecture Rule
 
+```text
 Required Freshness
 depends on
 Claim
+```
 
-Comparison 35 — Versioned Evidence Is Transferable
+---
+
+# Comparison 35 — Versioned Evidence Is Transferable
 
 Noma:
 
@@ -3189,25 +3282,17 @@ may:
 
 include:
 
-date
+- date
+- season
+- location
+- current / historical
+- evidence subject
+- relevant claim
+- operational state
+- service period
+- producer
 
-season
-
-location
-
-current / historical
-
-evidence subject
-
-relevant claim
-
-operational state
-
-service period
-
-producer
-
-Status
+## Status
 
 Implementation / Evidence Architecture
 
@@ -3215,7 +3300,9 @@ Not:
 
 formal pattern.
 
-Comparison 36 — Official Does Not Mean Current
+---
+
+# Comparison 36 — Official Does Not Mean Current
 
 This remains:
 
@@ -3239,11 +3326,13 @@ be:
 
 outdated.
 
-Correction
+## Correction
 
+```text
 Official
 ≠
 Current
+```
 
 Evidence:
 
@@ -3265,7 +3354,9 @@ source:
 
 authority.
 
-Comparison 37 — State Fit Is Especially Important for Variable Hospitality
+---
+
+# Comparison 37 — State Fit Is Especially Important for Variable Hospitality
 
 A:
 
@@ -3309,25 +3400,21 @@ decision.
 
 Examples:
 
-old menu
+- old menu
+- previous season
+- historical dining room
+- optional event format
+- different location
+- private dining
+- temporary state
 
-previous season
+## Correction
 
-historical dining room
-
-optional event format
-
-different location
-
-private dining
-
-temporary state
-
-Correction
-
+```text
 Real Evidence
 ≠
 Relevant State Evidence
+```
 
 This:
 
@@ -3335,7 +3422,9 @@ reinforces:
 
 State Fit.
 
-Comparison 38 — Location Fit Remains Critical
+---
+
+# Comparison 38 — Location Fit Remains Critical
 
 Din Tai Fung:
 
@@ -3373,19 +3462,25 @@ farm:
 
 scope.
 
-Correction
+## Correction
 
+```text
 Brand-Level Evidence
 ≠
 Location-Level Proof
+```
 
 and:
 
+```text
 Same Ecosystem
 ≠
 Same Guest Experience
+```
 
-Comparison 39 — Entity Fit Should Be Considered Inside Claim Fit
+---
+
+# Comparison 39 — Entity Fit Should Be Considered Inside Claim Fit
 
 Pearl Morissette:
 
@@ -3419,19 +3514,14 @@ Potential:
 
 entities:
 
-restaurant
+- restaurant
+- winery
+- garden
+- property
+- private dining
+- producer
 
-winery
-
-garden
-
-property
-
-private dining
-
-producer
-
-Architecture Refinement
+## Architecture Refinement
 
 Entity scope:
 
@@ -3469,7 +3559,9 @@ without:
 
 need.
 
-Comparison 40 — Evidence Fit Remains Four-Part
+---
+
+# Comparison 40 — Evidence Fit Remains Four-Part
 
 Current:
 
@@ -3479,6 +3571,7 @@ should:
 
 remain:
 
+```text
 Evidence Fit
 =
 Claim Fit
@@ -3488,6 +3581,7 @@ Location Fit
 Temporal Fit
 +
 State Fit
+```
 
 Pearl Morissette:
 
@@ -3519,7 +3613,9 @@ Location:
 
 analysis.
 
-Comparison 41 — Archive as Proof Remains a Mechanism
+---
+
+# Comparison 41 — Archive as Proof Remains a Mechanism
 
 Noma:
 
@@ -3555,19 +3651,16 @@ historical:
 
 evidence.
 
-Status
+## Status
 
 Proof Mechanism
 
 Potential relationships:
 
-Heritage Builds Confidence
-
-Photography as Proof
-
-Capacity Proof
-
-Coherence Through Change
+- Heritage Builds Confidence
+- Photography as Proof
+- Capacity Proof
+- Coherence Through Change
 
 Do not:
 
@@ -3577,7 +3670,9 @@ as:
 
 pattern.
 
-Comparison 42 — Absence Can Preserve Evidence Integrity
+---
+
+# Comparison 42 — Absence Can Preserve Evidence Integrity
 
 Noma:
 
@@ -3631,11 +3726,13 @@ ever-changing:
 
 product.
 
-Correction
+## Correction
 
+```text
 No Current Image
 can be better than
 Misleading Historical Image
+```
 
 when:
 
@@ -3649,7 +3746,9 @@ current:
 
 proof.
 
-Comparison 43 — Temporal Proof Sequencing Remains Useful but Contextual
+---
+
+# Comparison 43 — Temporal Proof Sequencing Remains Useful but Contextual
 
 Strongest:
 
@@ -3691,7 +3790,7 @@ visual:
 
 sequence.
 
-Current Recommendation
+## Current Recommendation
 
 Remain:
 
@@ -3705,9 +3804,11 @@ pattern:
 
 promotion.
 
-Comparison 44 — Difference Through Sequence and Difference Through Relationship Are Distinct
+---
 
-Difference Through Sequence
+# Comparison 44 — Difference Through Sequence and Difference Through Relationship Are Distinct
+
+### Difference Through Sequence
 
 The:
 
@@ -3733,7 +3834,7 @@ Strongest:
 
 Noma.
 
-Difference Through Relationship
+### Difference Through Relationship
 
 The:
 
@@ -3757,11 +3858,13 @@ Strongest:
 
 Pearl Morissette.
 
-Correction
+## Correction
 
+```text
 Difference Through Sequence
 ≠
 Difference Through Relationship
+```
 
 Both:
 
@@ -3773,7 +3876,9 @@ inside:
 
 Photography Should Demonstrate Difference.
 
-Comparison 45 — Motion Is an Evidence Medium, Not a Pattern
+---
+
+# Comparison 45 — Motion Is an Evidence Medium, Not a Pattern
 
 Strong:
 
@@ -3781,21 +3886,14 @@ potential:
 
 uses:
 
-craft
-
-transformation
-
-behaviour
-
-queue
-
-system
-
-service
-
-harvest
-
-kitchen process
+- craft
+- transformation
+- behaviour
+- queue
+- system
+- service
+- harvest
+- kitchen process
 
 But:
 
@@ -3809,11 +3907,13 @@ always:
 
 better.
 
-Correction
+## Correction
 
+```text
 Motion
 ≠
 Better Proof by Default
+```
 
 The:
 
@@ -3827,7 +3927,9 @@ the:
 
 claim.
 
-Comparison 46 — Best Evidence Medium Depends on Claim
+---
+
+# Comparison 46 — Best Evidence Medium Depends on Claim
 
 Across:
 
@@ -3843,31 +3945,24 @@ may:
 
 come from:
 
-photography
+- photography
+- text
+- menu
+- policy
+- diagram
+- map
+- video
+- archive
+- structured interface
+- location details
 
-text
+## Core Rule
 
-menu
-
-policy
-
-diagram
-
-map
-
-video
-
-archive
-
-structured interface
-
-location details
-
-Core Rule
-
+```text
 Best Evidence Medium
 depends on
 Claim
+```
 
 This:
 
@@ -3893,7 +3988,9 @@ architecture:
 
 level.
 
-Comparison 47 — Photography Alone Is Often Insufficient for Distributed Systems
+---
+
+# Comparison 47 — Photography Alone Is Often Insufficient for Distributed Systems
 
 Pearl Morissette:
 
@@ -3921,15 +4018,11 @@ explained:
 
 through:
 
-maps
-
-text
-
-lists
-
-diagrams
-
-captions
+- maps
+- text
+- lists
+- diagrams
+- captions
 
 combined:
 
@@ -3939,13 +4032,17 @@ selected:
 
 photography.
 
-Correction
+## Correction
 
+```text
 Distributed System
 ≠
 Photography-Only Proof Problem
+```
 
-Comparison 48 — Text and Photography Can Divide Proof Work
+---
+
+# Comparison 48 — Text and Photography Can Divide Proof Work
 
 Pearl Morissette:
 
@@ -3957,7 +4054,7 @@ useful:
 
 example:
 
-Photography
+### Photography
 
 Broad:
 
@@ -3971,7 +4068,7 @@ wine
 
 environment.
 
-Text
+### Text
 
 Producer:
 
@@ -3987,13 +4084,17 @@ and:
 
 scope.
 
-Cross-Case Principle
+## Cross-Case Principle
 
+```text
 Evidence System
 >
 Photography Alone
+```
 
-Comparison 49 — Proof Depth Should Match Claim Consequence
+---
+
+# Comparison 49 — Proof Depth Should Match Claim Consequence
 
 A:
 
@@ -4039,13 +4140,15 @@ need:
 
 more.
 
-Architecture Relationship
+## Architecture Relationship
 
+```text
 Claim Consequence
 +
 Uncertainty
 ↓
 Required Proof Depth
+```
 
 This:
 
@@ -4055,7 +4158,9 @@ alongside:
 
 Minimum Sufficient Evidence.
 
-Comparison 50 — More Proof Can Reduce Clarity
+---
+
+# Comparison 50 — More Proof Can Reduce Clarity
 
 This:
 
@@ -4075,11 +4180,13 @@ distributed:
 
 restaurants.
 
-Correction
+## Correction
 
+```text
 More Proof
 ≠
 More Understanding
+```
 
 A:
 
@@ -4099,25 +4206,29 @@ archive:
 
 dump.
 
-Comparison 51 — Photography as Proof and Photography Through Layers Must Stay Separate
+---
 
-Photography as Proof
+# Comparison 51 — Photography as Proof and Photography Through Layers Must Stay Separate
 
-Question:
-
-Does visual evidence materially reduce uncertainty?
-
-Photography Through Layers of Experience
+### Photography as Proof
 
 Question:
 
-Are multiple distinct visual layers needed because different uncertainties require different evidence?
+> **Does visual evidence materially reduce uncertainty?**
 
-Correction
+### Photography Through Layers of Experience
 
+Question:
+
+> **Are multiple distinct visual layers needed because different uncertainties require different evidence?**
+
+## Correction
+
+```text
 Photography as Proof
 ≠
 Photography Through Layers
+```
 
 One:
 
@@ -4131,9 +4242,11 @@ the:
 
 other.
 
-Comparison 52 — Photography as Proof and Photography Should Demonstrate Difference Must Stay Separate
+---
 
-Photography as Proof
+# Comparison 52 — Photography as Proof and Photography Should Demonstrate Difference Must Stay Separate
+
+### Photography as Proof
 
 Can:
 
@@ -4145,7 +4258,7 @@ be:
 
 supported?
 
-Photography Should Demonstrate Difference
+### Photography Should Demonstrate Difference
 
 Does:
 
@@ -4167,11 +4280,13 @@ this:
 
 restaurant?
 
-Correction
+## Correction
 
+```text
 Proof
 ≠
 Difference
+```
 
 A:
 
@@ -4185,9 +4300,11 @@ something
 
 ordinary.
 
-Comparison 53 — Photography Before Decoration and Photography as Proof Are Related but Distinct
+---
 
-Photography Before Decoration
+# Comparison 53 — Photography Before Decoration and Photography as Proof Are Related but Distinct
+
+### Photography Before Decoration
 
 Prioritizes:
 
@@ -4197,7 +4314,7 @@ visual:
 
 work.
 
-Photography as Proof
+### Photography as Proof
 
 Evaluates:
 
@@ -4215,19 +4332,23 @@ specific:
 
 claim.
 
-Correction
+## Correction
 
+```text
 Evidence Priority
 ≠
 Proof Function
+```
 
 Do not:
 
 merge.
 
-Comparison 54 — Photography as Use-Case Evidence and System Photography Are Distinct
+---
 
-Use-Case Evidence
+# Comparison 54 — Photography as Use-Case Evidence and System Photography Are Distinct
+
+### Use-Case Evidence
 
 Shows:
 
@@ -4243,7 +4364,7 @@ the:
 
 experience.
 
-System Photography
+### System Photography
 
 Shows:
 
@@ -4283,13 +4404,17 @@ use-case:
 
 proof.
 
-Correction
+## Correction
 
+```text
 System Use
 ≠
 Guest Use
+```
 
-Comparison 55 — Photography as Proof Must Not Become Outcome Proof
+---
+
+# Comparison 55 — Photography as Proof Must Not Become Outcome Proof
 
 A:
 
@@ -4307,23 +4432,20 @@ cannot:
 
 prove:
 
-satisfaction
+- satisfaction
+- quality
+- profitability
+- operational consistency
+- sustainability outcome
+- emotional result
 
-quality
+## Correction
 
-profitability
-
-operational consistency
-
-sustainability outcome
-
-emotional result
-
-Correction
-
+```text
 Visual Evidence
 ≠
 Outcome Evidence
+```
 
 This:
 
@@ -4331,7 +4453,9 @@ is:
 
 mandatory.
 
-Comparison 56 — System Legibility Is Not System Performance
+---
+
+# Comparison 56 — System Legibility Is Not System Performance
 
 Pearl Morissette:
 
@@ -4373,13 +4497,17 @@ performs:
 
 well.
 
-Correction
+## Correction
 
+```text
 System Legibility
 ≠
 System Performance
+```
 
-Comparison 57 — Regenerative and Ecological Claims Need Outcome Discipline
+---
+
+# Comparison 57 — Regenerative and Ecological Claims Need Outcome Discipline
 
 NARISAWA
 
@@ -4433,21 +4561,29 @@ without:
 
 evidence.
 
-Corrections
+## Corrections
 
+```text
 Ecological Narrative
 ≠
 Environmental Performance Proof
+```
 
+```text
 Regenerative Narrative
 ≠
 Regenerative Performance Proof
+```
 
+```text
 Farm Photography
 ≠
 Sustainability Outcome Proven
+```
 
-Comparison 58 — Authority Proof Is Not Capacity Proof
+---
+
+# Comparison 58 — Authority Proof Is Not Capacity Proof
 
 Awards
 
@@ -4497,13 +4633,17 @@ by:
 
 themselves.
 
-Correction
+## Correction
 
+```text
 Authority Proof
 ≠
 Capacity Proof
+```
 
-Comparison 59 — Capacity Proof and Process Proof Are Different
+---
+
+# Comparison 59 — Capacity Proof and Process Proof Are Different
 
 A:
 
@@ -4543,13 +4683,17 @@ detailed:
 
 process.
 
-Correction
+## Correction
 
+```text
 Process Proof
 ≠
 Capacity Proof
+```
 
-Comparison 60 — Capacity Proof and Product Proof Are Different
+---
+
+# Comparison 60 — Capacity Proof and Product Proof Are Different
 
 Product:
 
@@ -4579,11 +4723,13 @@ future:
 
 ability.
 
-Correction
+## Correction
 
+```text
 Existing Product Proof
 ≠
 Future Capacity Proof
+```
 
 This:
 
@@ -4601,7 +4747,9 @@ and:
 
 Pearl Morissette.
 
-Comparison 61 — Photography Can Demonstrate Current Difference Without Predicting Future Product
+---
+
+# Comparison 61 — Photography Can Demonstrate Current Difference Without Predicting Future Product
 
 A:
 
@@ -4641,13 +4789,17 @@ be:
 
 clear.
 
-Correction
+## Correction
 
+```text
 Current Difference
 ≠
 Future Product Promise
+```
 
-Comparison 62 — Productive Relationship Legibility Is Strong Proof Architecture
+---
+
+# Comparison 62 — Productive Relationship Legibility Is Strong Proof Architecture
 
 Pearl Morissette:
 
@@ -4661,9 +4813,9 @@ most:
 
 clearly.
 
-Definition
+## Definition
 
-The degree to which the guest can understand how productive context relates to hospitality output.
+> **The degree to which the guest can understand how productive context relates to hospitality output.**
 
 This:
 
@@ -4679,27 +4831,25 @@ Potential:
 
 support:
 
-captions
+- captions
+- sequence
+- producer stories
+- maps
+- ingredient links
+- process
+- visual adjacency
 
-sequence
+## Boundary
 
-producer stories
-
-maps
-
-ingredient links
-
-process
-
-visual adjacency
-
-Boundary
-
+```text
 Visible Productive Context
 ≠
 Legible Productive Relationship
+```
 
-Comparison 63 — Relationship Narrative Depth and Relationship Proof Depth Must Stay Separate
+---
+
+# Comparison 63 — Relationship Narrative Depth and Relationship Proof Depth Must Stay Separate
 
 Story:
 
@@ -4729,11 +4879,13 @@ relationship
 
 exists.
 
-Correction
+## Correction
 
+```text
 Narrative Relationship Depth
 ≠
 Relationship Proof Depth
+```
 
 This:
 
@@ -4747,7 +4899,9 @@ Story:
 
 comparison.
 
-Comparison 64 — Photography Should Demonstrate Difference Is Stronger When Difference Is Material
+---
+
+# Comparison 64 — Photography Should Demonstrate Difference Is Stronger When Difference Is Material
 
 A:
 
@@ -4785,23 +4939,23 @@ hospitality.
 
 Examples:
 
-ICHIRAN booth system
+- ICHIRAN booth system
+- Franklin process
+- Din Tai Fung craft
+- Noma research / change context
+- Pearl Morissette productive relationships
 
-Franklin process
+## Correction
 
-Din Tai Fung craft
-
-Noma research / change context
-
-Pearl Morissette productive relationships
-
-Correction
-
+```text
 Visual Novelty
 ≠
 Hospitality Difference
+```
 
-Comparison 65 — Difference Through Relationship May Be More Important Than Visual Novelty
+---
+
+# Comparison 65 — Difference Through Relationship May Be More Important Than Visual Novelty
 
 Pearl Morissette:
 
@@ -4855,7 +5009,7 @@ their:
 
 relationship.
 
-Architecture Mechanism
+## Architecture Mechanism
 
 Difference Through Relationship
 
@@ -4863,7 +5017,9 @@ Strongly:
 
 supported.
 
-Comparison 66 — Proof Architecture Benefits From Claim Decomposition
+---
+
+# Comparison 66 — Proof Architecture Benefits From Claim Decomposition
 
 Complex:
 
@@ -4879,7 +5035,9 @@ split.
 
 Example:
 
+```text
 "We are a regenerative farm-driven restaurant."
+```
 
 contains:
 
@@ -4889,19 +5047,13 @@ possible:
 
 claims:
 
-farm exists
-
-restaurant is on property
-
-farm supplies restaurant
-
-regenerative practices exist
-
-environmental outcomes occur
-
-product reflects farm
-
-guest experience reflects farm
+- farm exists
+- restaurant is on property
+- farm supplies restaurant
+- regenerative practices exist
+- environmental outcomes occur
+- product reflects farm
+- guest experience reflects farm
 
 Each:
 
@@ -4911,17 +5063,21 @@ different:
 
 evidence.
 
-Cross-Case Rule
+## Cross-Case Rule
 
+```text
 Complex Claim
 ↓
 Decompose
 ↓
 Evidence Each Material Component
+```
 
 Architecture-level.
 
-Comparison 67 — Claim Decomposition Prevents Proof Inflation
+---
+
+# Comparison 67 — Claim Decomposition Prevents Proof Inflation
 
 A:
 
@@ -4953,13 +5109,17 @@ risk:
 
 clear.
 
-Correction
+## Correction
 
+```text
 One Evidence Asset
 ≠
 Every Implied Claim
+```
 
-Comparison 68 — Proof Scope Must Match Entity Scope
+---
+
+# Comparison 68 — Proof Scope Must Match Entity Scope
 
 Pearl Morissette:
 
@@ -4999,13 +5159,17 @@ scope:
 
 risk.
 
-Cross-Case Correction
+## Cross-Case Correction
 
+```text
 Related Entity Evidence
 ≠
 Target Entity Proof by Default
+```
 
-Comparison 69 — Evidence Integrity Can Require Saying Less
+---
+
+# Comparison 69 — Evidence Integrity Can Require Saying Less
 
 Alinea:
 
@@ -5055,11 +5219,13 @@ be:
 
 proved.
 
-Cross-Case Principle
+## Cross-Case Principle
 
+```text
 Evidence Integrity
 may require
 less content
+```
 
 rather:
 
@@ -5067,7 +5233,9 @@ than:
 
 more.
 
-Comparison 70 — Proof Architecture Is Not Marketing Volume
+---
+
+# Comparison 70 — Proof Architecture Is Not Marketing Volume
 
 The:
 
@@ -5119,15 +5287,21 @@ right:
 
 evidence.
 
-Correction
+## Correction
 
+```text
 Marketing Volume
 ≠
 Proof Quality
+```
 
-Current Photography Pattern Pressure
+---
 
-Photography as Proof
+# Current Photography Pattern Pressure
+
+---
+
+# Photography as Proof
 
 Status:
 
@@ -5151,7 +5325,9 @@ decision-relevant:
 
 uncertainty reduction.
 
-Photography Through Layers of Experience
+---
+
+# Photography Through Layers of Experience
 
 Status:
 
@@ -5183,7 +5359,9 @@ different:
 
 uncertainties.
 
-Photography Should Demonstrate Difference
+---
+
+# Photography Should Demonstrate Difference
 
 Status:
 
@@ -5221,7 +5399,9 @@ mere:
 
 visual novelty.
 
-Photography Before Decoration
+---
+
+# Photography Before Decoration
 
 Status:
 
@@ -5269,7 +5449,9 @@ automatic:
 
 promotion.
 
-Photography as Use-Case Evidence
+---
+
+# Photography as Use-Case Evidence
 
 Status:
 
@@ -5283,7 +5465,9 @@ Governance Review:
 
 No change.
 
-Show the System Behind the Plate
+---
+
+# Show the System Behind the Plate
 
 Status:
 
@@ -5307,7 +5491,9 @@ distributed:
 
 systems.
 
-Capacity Proof
+---
+
+# Capacity Proof
 
 Status:
 
@@ -5331,7 +5517,9 @@ falsification:
 
 authority dependence.
 
-Promise Before Proof
+---
+
+# Promise Before Proof
 
 Status:
 
@@ -5353,7 +5541,9 @@ alongside:
 
 Capacity Proof.
 
-Story Through Place
+---
+
+# Story Through Place
 
 Status:
 
@@ -5375,7 +5565,9 @@ Story:
 
 comparison.
 
-Atmosphere Through Worldview
+---
+
+# Atmosphere Through Worldview
 
 Status:
 
@@ -5391,7 +5583,9 @@ photography-only:
 
 confidence change.
 
-Coherence Through Change
+---
+
+# Coherence Through Change
 
 Status:
 
@@ -5405,9 +5599,13 @@ No:
 
 promotion.
 
-New Proof Architecture After Restaurant #15
+---
 
-Thing Proof
+# New Proof Architecture After Restaurant #15
+
+---
+
+# Thing Proof
 
 Status:
 
@@ -5435,7 +5633,9 @@ object:
 
 exists.
 
-Relationship Proof
+---
+
+# Relationship Proof
 
 Status:
 
@@ -5459,13 +5659,17 @@ objects
 
 relate.
 
-Relational Proof Sequencing
+---
+
+# Relational Proof Sequencing
 
 Status:
 
 Proof Architecture Direction
 
-Distributed Culinary System
+---
+
+# Distributed Culinary System
 
 Status:
 
@@ -5475,12 +5679,15 @@ Potential Home:
 
 Show the System Behind the Plate.
 
-Upstream / Culinary Proof Chain
+---
+
+# Upstream / Culinary Proof Chain
 
 Status:
 
 Proof Architecture Direction
 
+```text
 Upstream Production
 ↓
 Ingredient / Sourcing
@@ -5488,8 +5695,11 @@ Ingredient / Sourcing
 Culinary Production
 ↓
 Finished Product
+```
 
-Capacity Evidence Bundle
+---
+
+# Capacity Evidence Bundle
 
 Status:
 
@@ -5499,7 +5709,9 @@ Potential Home:
 
 Capacity Proof.
 
-Difference Through Relationship
+---
+
+# Difference Through Relationship
 
 Status:
 
@@ -5509,91 +5721,74 @@ Potential Home:
 
 Photography Should Demonstrate Difference.
 
-Representative Proof
+---
+
+# Representative Proof
 
 Status:
 
 Evidence Architecture Direction
 
-Productive Relationship Legibility
+---
+
+# Productive Relationship Legibility
 
 Status:
 
 Cross-Dimensional Proof Variable
 
-Claim-Specific Freshness
+---
+
+# Claim-Specific Freshness
 
 Status:
 
 Evidence Architecture Rule
 
-Versioned Evidence
+---
+
+# Versioned Evidence
 
 Status:
 
 Implementation / Evidence Architecture
 
-Current Proof Architecture Variables
+---
+
+# Current Proof Architecture Variables
 
 Post–Pearl Morissette:
 
 proof research now includes:
 
-Claim Fit
-
-Location Fit
-
-Temporal Fit
-
-State Fit
-
-Evidence Freshness
-
-Evidence Durability
-
-Proof Depth
-
-Thing Proof
-
-Relationship Proof
-
-Process Proof
-
-System Proof
-
-Use-Case Proof
-
-Authority Proof
-
-Capacity Proof
-
-Product Proof
-
-Place Proof
-
-Historical Proof
-
-Current-State Proof
-
-Minimum Sufficient Evidence
-
-Representative Proof
-
-Relational Proof Sequencing
-
-Temporal Proof Sequencing
-
-Difference Through Sequence
-
-Difference Through Relationship
-
-Productive Relationship Legibility
-
-Versioned Evidence
-
-Archive as Proof
-
-Absence as Evidence Integrity
+- Claim Fit
+- Location Fit
+- Temporal Fit
+- State Fit
+- Evidence Freshness
+- Evidence Durability
+- Proof Depth
+- Thing Proof
+- Relationship Proof
+- Process Proof
+- System Proof
+- Use-Case Proof
+- Authority Proof
+- Capacity Proof
+- Product Proof
+- Place Proof
+- Historical Proof
+- Current-State Proof
+- Minimum Sufficient Evidence
+- Representative Proof
+- Relational Proof Sequencing
+- Temporal Proof Sequencing
+- Difference Through Sequence
+- Difference Through Relationship
+- Productive Relationship Legibility
+- Versioned Evidence
+- Archive as Proof
+- Absence as Evidence Integrity
 
 These:
 
@@ -5623,9 +5818,13 @@ flatten:
 
 them.
 
-Photography Deduplication Decisions
+---
 
-Thing Proof / Relationship Proof
+# Photography Deduplication Decisions
+
+---
+
+# Thing Proof / Relationship Proof
 
 Remain:
 
@@ -5641,7 +5840,9 @@ as:
 
 patterns.
 
-Relational Proof Sequencing
+---
+
+# Relational Proof Sequencing
 
 Remain:
 
@@ -5659,39 +5860,57 @@ Relational Proof:
 
 pattern.
 
-Distributed Culinary System
+---
 
+# Distributed Culinary System
+
+```text
 Distributed Culinary System
 →
 Show the System Behind the Plate
+```
 
 Architecture direction.
 
-Upstream / Culinary Proof Chain
+---
 
+# Upstream / Culinary Proof Chain
+
+```text
 Upstream / Culinary Proof Chain
 →
 Show the System Behind the Plate
+```
 
 Mechanism / architecture.
 
-Capacity Evidence Bundle
+---
 
+# Capacity Evidence Bundle
+
+```text
 Capacity Evidence Bundle
 →
 Capacity Proof
+```
 
 Proof architecture.
 
-Difference Through Relationship
+---
 
+# Difference Through Relationship
+
+```text
 Difference Through Relationship
 →
 Photography Should Demonstrate Difference
+```
 
 Evidence mechanism.
 
-Representative Proof
+---
+
+# Representative Proof
 
 Remain:
 
@@ -5701,7 +5920,9 @@ Do not:
 
 formalize.
 
-Versioned Evidence
+---
+
+# Versioned Evidence
 
 Remain:
 
@@ -5711,7 +5932,9 @@ Do not:
 
 formalize.
 
-Archive as Proof
+---
+
+# Archive as Proof
 
 Remain:
 
@@ -5721,447 +5944,713 @@ Do not:
 
 formalize.
 
-Photography Corrections — Post Restaurant #15
+---
 
-Correction 1
+# Photography Corrections — Post Restaurant #15
 
+---
+
+## Correction 1
+
+```text
 Photography
 ≠
 Proof by Default
+```
 
-Correction 2
+---
 
+## Correction 2
+
+```text
 More Photography
 ≠
 More Confidence
+```
 
-Correction 3
+---
 
+## Correction 3
+
+```text
 Photography as Proof
 ≠
 One Type of Proof
+```
 
-Correction 4
+---
 
+## Correction 4
+
+```text
 Beautiful Image
 ≠
 Proof
+```
 
-Correction 5
+---
 
+## Correction 5
+
+```text
 Relevant Subject
 ≠
 Relevant Claim Proven
+```
 
-Correction 6
+---
 
+## Correction 6
+
+```text
 Thing Proof
 ≠
 Relationship Proof
+```
 
-Correction 7
+---
 
+## Correction 7
+
+```text
 System Photography
 ≠
 Process Photography
+```
 
-Correction 8
+---
 
+## Correction 8
+
+```text
 Culinary System
 ≠
 Single Production Location
+```
 
-Correction 9
+---
 
+## Correction 9
+
+```text
 Proof Chain
 ≠
 Ownership Chain
+```
 
-Correction 10
+---
 
+## Correction 10
+
+```text
 One Image
 ≠
 Whole System Proof
+```
 
-Correction 11
+---
 
+## Correction 11
+
+```text
 Relational Sequence
 ≠
 Temporal Sequence
+```
 
-Correction 12
+---
 
+## Correction 12
+
+```text
 Restaurant Difference
 ≠
 Always Visible in One Image
+```
 
-Correction 13
+---
 
+## Correction 13
+
+```text
 Photography Through Layers
 ≠
 More Image Variety
+```
 
-Correction 14
+---
 
+## Correction 14
+
+```text
 More Layers
 ≠
 Better Proof
+```
 
-Correction 15
+---
 
+## Correction 15
+
+```text
 Maximum Evidence
 ≠
 Maximum Understanding
+```
 
-Correction 16
+---
 
+## Correction 16
+
+```text
 Representative Evidence
 ≠
 Evidence of Every Case
+```
 
-Correction 17
+---
 
+## Correction 17
+
+```text
 Example
 ≠
 Universal Rule
+```
 
-Correction 18
+---
 
+## Correction 18
+
+```text
 Ingredient Visible
 ≠
 Ingredient Origin Proven
+```
 
-Correction 19
+---
 
+## Correction 19
+
+```text
 Ingredient Origin
 ≠
 Ingredient Role Proven
+```
 
-Correction 20
+---
 
+## Correction 20
+
+```text
 Finished Dish
 ≠
 Food System Proof
+```
 
-Correction 21
+---
 
+## Correction 21
+
+```text
 Farm Image
 ≠
 Specific Ingredient Traceability
+```
 
-Correction 22
+---
 
+## Correction 22
+
+```text
 Productive Landscape Proof
 ≠
 Culinary Process Proof
+```
 
-Correction 23
+---
 
+## Correction 23
+
+```text
 Place Proof
 ≠
 Product Proof
+```
 
-Correction 24
+---
 
+## Correction 24
+
+```text
 Strong Photography as Proof
 ≠
 Strong Use-Case Photography Required
+```
 
-Correction 25
+---
 
+## Correction 25
+
+```text
 Use-Case Evidence
 ≠
 Lifestyle Photography
+```
 
-Correction 26
+---
 
+## Correction 26
+
+```text
 Hospitality Photography
 ≠
 People Required
+```
 
-Correction 27
+---
 
+## Correction 27
+
+```text
 Rural Aesthetic
 ≠
 Agricultural System Proof
+```
 
-Correction 28
+---
 
+## Correction 28
+
+```text
 Studio Foundation
 ≠
 Research Validation
+```
 
-Correction 29
+---
 
+## Correction 29
+
+```text
 Capacity Proof
 ≠
 Historical Proof Alone
+```
 
-Correction 30
+---
 
+## Correction 30
+
+```text
 Capacity Proof
 ≠
 Single Hero Image
+```
 
-Correction 31
+---
 
+## Correction 31
+
+```text
 Authority
 ≠
 Capacity Proof
+```
 
-Correction 32
+---
 
+## Correction 32
+
+```text
 Recognition
 ≠
 Future Outcome Evidence
+```
 
-Correction 33
+---
 
+## Correction 33
+
+```text
 Promise Before Proof
 ≠
 Capacity Proof
+```
 
-Correction 34
+---
 
+## Correction 34
+
+```text
 Evidence Freshness
 ≠
 Evidence Durability
+```
 
-Correction 35
+---
 
+## Correction 35
+
+```text
 Current
 ≠
 Durable
+```
 
-Correction 36
+---
 
+## Correction 36
+
+```text
 Historical Evidence
 ≠
 Current Product Proof
+```
 
-Correction 37
+---
 
+## Correction 37
+
+```text
 Official
 ≠
 Current
+```
 
-Correction 38
+---
 
+## Correction 38
+
+```text
 Real Evidence
 ≠
 Relevant State Evidence
+```
 
-Correction 39
+---
 
+## Correction 39
+
+```text
 Brand-Level Evidence
 ≠
 Location-Level Proof
+```
 
-Correction 40
+---
 
+## Correction 40
+
+```text
 Same Ecosystem
 ≠
 Same Guest Experience
+```
 
-Correction 41
+---
 
+## Correction 41
+
+```text
 Difference Through Sequence
 ≠
 Difference Through Relationship
+```
 
-Correction 42
+---
 
+## Correction 42
+
+```text
 Motion
 ≠
 Better Proof by Default
+```
 
-Correction 43
+---
 
+## Correction 43
+
+```text
 Distributed System
 ≠
 Photography-Only Proof Problem
+```
 
-Correction 44
+---
 
+## Correction 44
+
+```text
 Evidence System
 >
 Photography Alone
+```
 
-Correction 45
+---
 
+## Correction 45
+
+```text
 More Proof
 ≠
 More Understanding
+```
 
-Correction 46
+---
 
+## Correction 46
+
+```text
 Photography as Proof
 ≠
 Photography Through Layers
+```
 
-Correction 47
+---
 
+## Correction 47
+
+```text
 Proof
 ≠
 Difference
+```
 
-Correction 48
+---
 
+## Correction 48
+
+```text
 Evidence Priority
 ≠
 Proof Function
+```
 
-Correction 49
+---
 
+## Correction 49
+
+```text
 System Use
 ≠
 Guest Use
+```
 
-Correction 50
+---
 
+## Correction 50
+
+```text
 Visual Evidence
 ≠
 Outcome Evidence
+```
 
-Correction 51
+---
 
+## Correction 51
+
+```text
 System Legibility
 ≠
 System Performance
+```
 
-Correction 52
+---
 
+## Correction 52
+
+```text
 Ecological Narrative
 ≠
 Environmental Performance Proof
+```
 
-Correction 53
+---
 
+## Correction 53
+
+```text
 Regenerative Narrative
 ≠
 Regenerative Performance Proof
+```
 
-Correction 54
+---
 
+## Correction 54
+
+```text
 Farm Photography
 ≠
 Sustainability Outcome Proven
+```
 
-Correction 55
+---
 
+## Correction 55
+
+```text
 Authority Proof
 ≠
 Capacity Proof
+```
 
-Correction 56
+---
 
+## Correction 56
+
+```text
 Process Proof
 ≠
 Capacity Proof
+```
 
-Correction 57
+---
 
+## Correction 57
+
+```text
 Existing Product Proof
 ≠
 Future Capacity Proof
+```
 
-Correction 58
+---
 
+## Correction 58
+
+```text
 Current Difference
 ≠
 Future Product Promise
+```
 
-Correction 59
+---
 
+## Correction 59
+
+```text
 Visible Productive Context
 ≠
 Legible Productive Relationship
+```
 
-Correction 60
+---
 
+## Correction 60
+
+```text
 Narrative Relationship Depth
 ≠
 Relationship Proof Depth
+```
 
-Correction 61
+---
 
+## Correction 61
+
+```text
 Visual Novelty
 ≠
 Hospitality Difference
+```
 
-Correction 62
+---
 
+## Correction 62
+
+```text
 One Evidence Asset
 ≠
 Every Implied Claim
+```
 
-Correction 63
+---
 
+## Correction 63
+
+```text
 Related Entity Evidence
 ≠
 Target Entity Proof by Default
+```
 
-Correction 64
+---
 
+## Correction 64
+
+```text
 Marketing Volume
 ≠
 Proof Quality
+```
 
-Strongest Photography / Proof Tensions After Restaurant #15
+---
 
-Tension 1 — Thing Proof vs Relationship Proof
+# Strongest Photography / Proof Tensions After Restaurant #15
+
+---
+
+# Tension 1 — Thing Proof vs Relationship Proof
 
 Question:
 
-When is proving that individual components exist insufficient because the hospitality claim depends on the relationship among them?
+> **When is proving that individual components exist insufficient because the hospitality claim depends on the relationship among them?**
 
 Strongest case:
 
 Pearl Morissette.
 
-Tension 2 — System Proof vs Process Proof
+---
+
+# Tension 2 — System Proof vs Process Proof
 
 Question:
 
-Does the guest need to understand transformation, structure, or both?
+> **Does the guest need to understand transformation, structure, or both?**
 
 Strong cases:
 
-ICHIRAN
+- ICHIRAN
+- Din Tai Fung
+- Pearl Morissette
 
-Din Tai Fung
+---
 
-Pearl Morissette
-
-Tension 3 — Distributed System vs Evidence Simplicity
+# Tension 3 — Distributed System vs Evidence Simplicity
 
 Question:
 
-How can a geographically or operationally distributed system be made legible without overwhelming the guest?
+> **How can a geographically or operationally distributed system be made legible without overwhelming the guest?**
 
 Strongest case:
 
 Pearl Morissette.
 
-Tension 4 — Current Product vs Future Promise
+---
+
+# Tension 4 — Current Product vs Future Promise
 
 Question:
 
-How should current or historical product photography support a variable future experience without becoming a false promise?
+> **How should current or historical product photography support a variable future experience without becoming a false promise?**
 
 Strong cases:
 
-Alinea
+- Alinea
+- Noma
+- Pearl Morissette
 
-Noma
+---
 
-Pearl Morissette
-
-Tension 5 — Capacity Proof vs Authority
+# Tension 5 — Capacity Proof vs Authority
 
 Question:
 
-Would productive, process, and historical evidence still create confidence if reputation were materially weaker?
+> **Would productive, process, and historical evidence still create confidence if reputation were materially weaker?**
 
 Strongest:
 
@@ -6169,23 +6658,26 @@ governance:
 
 tension.
 
-Tension 6 — Evidence Freshness vs Evidence Durability
+---
+
+# Tension 6 — Evidence Freshness vs Evidence Durability
 
 Question:
 
-Which claims require fresh evidence and which can rely on older but still durable evidence?
+> **Which claims require fresh evidence and which can rely on older but still durable evidence?**
 
 Strong cases:
 
-Noma
+- Noma
+- Pearl Morissette
 
-Pearl Morissette
+---
 
-Tension 7 — Photography vs Other Evidence Media
+# Tension 7 — Photography vs Other Evidence Media
 
 Question:
 
-When is a map, diagram, caption, menu, archive, or structured interface stronger than another photograph?
+> **When is a map, diagram, caption, menu, archive, or structured interface stronger than another photograph?**
 
 Strong:
 
@@ -6193,11 +6685,13 @@ cross-case:
 
 question.
 
-Tension 8 — Difference vs Visual Novelty
+---
+
+# Tension 8 — Difference vs Visual Novelty
 
 Question:
 
-Is the image proving a material hospitality difference or merely showing something visually distinctive?
+> **Is the image proving a material hospitality difference or merely showing something visually distinctive?**
 
 Relevant:
 
@@ -6205,11 +6699,13 @@ to:
 
 Photography Should Demonstrate Difference.
 
-Tension 9 — Proof Layers vs Evidence Overload
+---
+
+# Tension 9 — Proof Layers vs Evidence Overload
 
 Question:
 
-How many evidence layers materially reduce uncertainty before additional layers become noise?
+> **How many evidence layers materially reduce uncertainty before additional layers become noise?**
 
 Relevant:
 
@@ -6217,91 +6713,119 @@ to:
 
 Photography Through Layers of Experience.
 
-Tension 10 — Productive Context vs Product Traceability
+---
+
+# Tension 10 — Productive Context vs Product Traceability
 
 Question:
 
-When does showing land, growers, or kitchens establish context, and when does a stronger causal chain become necessary?
+> **When does showing land, growers, or kitchens establish context, and when does a stronger causal chain become necessary?**
 
 Strongest case:
 
 Pearl Morissette.
 
-Tension 11 — Narrative Claim vs Proof Claim
+---
+
+# Tension 11 — Narrative Claim vs Proof Claim
 
 Question:
 
-When does a story about values, place, ecology, or craft require stronger evidence before it can be treated as more than narrative?
+> **When does a story about values, place, ecology, or craft require stronger evidence before it can be treated as more than narrative?**
 
 Strong cases:
 
-NARISAWA
+- NARISAWA
+- Noma
+- Pearl Morissette
 
-Noma
+---
 
-Pearl Morissette
-
-Tension 12 — Evidence Integrity vs Content Abundance
+# Tension 12 — Evidence Integrity vs Content Abundance
 
 Question:
 
-When should the restaurant deliberately show less because the available evidence does not fit the current claim?
+> **When should the restaurant deliberately show less because the available evidence does not fit the current claim?**
 
 Strong cases:
 
-Alinea
+- Alinea
+- Noma
+- Pearl Morissette
 
-Noma
+---
 
-Pearl Morissette
+# Strongest Photography Falsification Questions
 
-Strongest Photography Falsification Questions
+---
 
-Photography as Proof
+# Photography as Proof
 
-If the image were removed, would the guest lose decision-relevant understanding, or only visual richness?
+> **If the image were removed, would the guest lose decision-relevant understanding, or only visual richness?**
 
-Photography Through Layers of Experience
+---
 
-Does each layer resolve a different material uncertainty, or are multiple layers repeating the same proof function?
+# Photography Through Layers of Experience
 
-Photography Should Demonstrate Difference
+> **Does each layer resolve a different material uncertainty, or are multiple layers repeating the same proof function?**
 
-Does the visual evidence show a material hospitality distinction, or merely a visually attractive subject?
+---
 
-Show the System Behind the Plate
+# Photography Should Demonstrate Difference
 
-Can the guest understand the relevant culinary system rather than simply see isolated process fragments?
+> **Does the visual evidence show a material hospitality distinction, or merely a visually attractive subject?**
 
-Thing Proof / Relationship Proof
+---
 
-Which claims require proof of connection rather than proof of existence?
+# Show the System Behind the Plate
 
-Capacity Proof
+> **Can the guest understand the relevant culinary system rather than simply see isolated process fragments?**
 
-Would the evidence still support future capability if the restaurant's authority signals were removed?
+---
 
-Evidence Freshness
+# Thing Proof / Relationship Proof
 
-At what point does a once-valid image become misleading for the current claim?
+> **Which claims require proof of connection rather than proof of existence?**
 
-Evidence Durability
+---
 
-Which evidence remains appropriate even after the specific product, menu, or season changes?
+# Capacity Proof
 
-Representative Proof
+> **Would the evidence still support future capability if the restaurant's authority signals were removed?**
 
-Can a small sample represent a larger system accurately without implying totality?
+---
 
-Distributed Culinary System
+# Evidence Freshness
 
-Does the proof explain relationships across the network, or simply present a list of suppliers and attractive farm images?
+> **At what point does a once-valid image become misleading for the current claim?**
 
-Productive Relationship Legibility
+---
 
-Can the guest understand how productive context connects to hospitality output without filling in unsupported causal gaps?
+# Evidence Durability
 
-Candidate Review Queue — Photography / Proof Dimension
+> **Which evidence remains appropriate even after the specific product, menu, or season changes?**
+
+---
+
+# Representative Proof
+
+> **Can a small sample represent a larger system accurately without implying totality?**
+
+---
+
+# Distributed Culinary System
+
+> **Does the proof explain relationships across the network, or simply present a list of suppliers and attractive farm images?**
+
+---
+
+# Productive Relationship Legibility
+
+> **Can the guest understand how productive context connects to hospitality output without filling in unsupported causal gaps?**
+
+---
+
+# Candidate Review Queue — Photography / Proof Dimension
 
 The following:
 
@@ -6331,7 +6855,9 @@ also:
 
 complete.
 
-1. Photography as Proof
+---
+
+# 1. Photography as Proof
 
 Current:
 
@@ -6347,15 +6873,11 @@ Candidate / Medium
 
 Strongest support:
 
-Franklin
-
-ICHIRAN
-
-Din Tai Fung
-
-Noma
-
-Pearl Morissette
+- Franklin
+- ICHIRAN
+- Din Tai Fung
+- Noma
+- Pearl Morissette
 
 Primary boundary:
 
@@ -6363,7 +6885,9 @@ decision-relevant:
 
 uncertainty reduction.
 
-2. Photography Through Layers of Experience
+---
+
+# 2. Photography Through Layers of Experience
 
 Current:
 
@@ -6379,17 +6903,12 @@ Candidate / Medium
 
 Strongest support:
 
-Dishoom
-
-Haidilao
-
-ICHIRAN
-
-Din Tai Fung
-
-Noma
-
-Pearl Morissette
+- Dishoom
+- Haidilao
+- ICHIRAN
+- Din Tai Fung
+- Noma
+- Pearl Morissette
 
 Primary boundary:
 
@@ -6407,7 +6926,9 @@ evidence:
 
 work.
 
-3. Photography Should Demonstrate Difference
+---
+
+# 3. Photography Should Demonstrate Difference
 
 Current:
 
@@ -6423,9 +6944,8 @@ Candidate / Medium
 
 Strongest mechanisms:
 
-Difference Through Sequence
-
-Difference Through Relationship
+- Difference Through Sequence
+- Difference Through Relationship
 
 Primary risk:
 
@@ -6435,7 +6955,9 @@ generic:
 
 language.
 
-4. Capacity Proof
+---
+
+# 4. Capacity Proof
 
 Current:
 
@@ -6463,9 +6985,13 @@ falsification:
 
 authority dependence.
 
-Patterns / Directions That Should Not Move From Photography Evidence Alone
+---
 
-Photography Before Decoration
+# Patterns / Directions That Should Not Move From Photography Evidence Alone
+
+---
+
+# Photography Before Decoration
 
 Strong:
 
@@ -6489,7 +7015,9 @@ studio:
 
 Foundation.
 
-Photography as Use-Case Evidence
+---
+
+# Photography as Use-Case Evidence
 
 Already:
 
@@ -6507,7 +7035,9 @@ pressure.
 
 No change.
 
-Coherence Through Change
+---
+
+# Coherence Through Change
 
 Photography:
 
@@ -6537,7 +7067,9 @@ evidence.
 
 Remain below Candidate.
 
-Atmosphere Through Worldview
+---
+
+# Atmosphere Through Worldview
 
 Photography:
 
@@ -6559,9 +7091,13 @@ cross-dimensional:
 
 reconciliation.
 
-Existing Candidate Stability
+---
 
-Show the System Behind the Plate
+# Existing Candidate Stability
+
+---
+
+# Show the System Behind the Plate
 
 Candidate / High
 
@@ -6579,7 +7115,9 @@ confidence:
 
 change.
 
-Story Through Place
+---
+
+# Story Through Place
 
 Candidate / Medium-High
 
@@ -6603,7 +7141,9 @@ to:
 
 Story.
 
-Photography Comparison Conclusion
+---
+
+# Photography Comparison Conclusion
 
 After:
 
@@ -6639,7 +7179,7 @@ cross-case:
 
 finding remains:
 
-Evidence quality depends on claim fit, not visual beauty.
+> **Evidence quality depends on claim fit, not visual beauty.**
 
 Restaurant Pearl Morissette:
 
@@ -6667,9 +7207,11 @@ research:
 
 so far:
 
+```text
 Thing Proof
 ≠
 Relationship Proof
+```
 
 A:
 
@@ -6781,6 +7323,7 @@ be:
 
 distributed.
 
+```text
 Producer Network
 +
 Place
@@ -6790,6 +7333,7 @@ Ingredient
 Kitchen
 +
 Finished Product
+```
 
 can:
 
@@ -6905,13 +7449,13 @@ questions leaving:
 
 Photography comparison are:
 
-Has Photography as Proof become sufficiently repeated, bounded, and decision-relevant to enter Candidate maturity?
+> **Has Photography as Proof become sufficiently repeated, bounded, and decision-relevant to enter Candidate maturity?**
 
-Has Photography Through Layers of Experience become sufficiently distinct from simple content variety to enter Candidate maturity?
+> **Has Photography Through Layers of Experience become sufficiently distinct from simple content variety to enter Candidate maturity?**
 
-Has Photography Should Demonstrate Difference become sufficiently falsifiable now that Difference Through Sequence and Difference Through Relationship provide clearer mechanisms?
+> **Has Photography Should Demonstrate Difference become sufficiently falsifiable now that Difference Through Sequence and Difference Through Relationship provide clearer mechanisms?**
 
-Has Capacity Proof now accumulated enough mechanistically distinct cross-case evidence to become Candidate / Medium despite the remaining authority-dependence problem?
+> **Has Capacity Proof now accumulated enough mechanistically distinct cross-case evidence to become Candidate / Medium despite the remaining authority-dependence problem?**
 
 Those:
 
@@ -6937,109 +7481,61 @@ also:
 
 complete.
 
-Post–Dans le Noir? London Photography Reconciliation
+---
+
+# Post–Dans le Noir? London Photography Reconciliation
 
 This section records Restaurant #16 against the complete historical comparison above.
 
 The earlier Post–Pearl Morissette review queue remains visible as an audit record. It has since been superseded by canonical reconciliation. Before Restaurant #16 began, the relevant current states were:
 
-Pattern
-
-Canonical state entering Restaurant #16
-
-Photography comparison decision
-
-Photography as Proof
-
-Candidate / Medium
-
-Retain
-
-Photography Through Layers of Experience
-
-Candidate / Medium
-
-Retain; refine toward layered evidence
-
-Capacity Proof
-
-Candidate / Medium
-
-Retain
-
-Hospitality System Proof
-
-Candidate / High
-
-Retain
-
-Story Through Hospitality Model
-
-Candidate / High
-
-Retain
-
-Narrative Coherence Through Organising Logic
-
-Candidate / High
-
-Retain
-
-Photography Should Demonstrate Difference
-
-Emerging
-
-Retain; high-priority review direction
-
-Photography Before Decoration
-
-Emerging
-
-Retain
-
-Promise Before Proof
-
-Emerging
-
-Retain
-
-Atmosphere as Product
-
-Emerging
-
-Retain
-
-The Guest as Participant
-
-Emerging
-
-Retain
+| Pattern | Canonical state entering Restaurant #16 | Photography comparison decision |
+|---|---:|---|
+| Photography as Proof | Candidate / Medium | Retain |
+| Photography Through Layers of Experience | Candidate / Medium | Retain; refine toward layered evidence |
+| Capacity Proof | Candidate / Medium | Retain |
+| Hospitality System Proof | Candidate / High | Retain |
+| Story Through Hospitality Model | Candidate / High | Retain |
+| Narrative Coherence Through Organising Logic | Candidate / High | Retain |
+| Photography Should Demonstrate Difference | Emerging | Retain; high-priority review direction |
+| Photography Before Decoration | Emerging | Retain |
+| Promise Before Proof | Emerging | Retain |
+| Atmosphere as Product | Emerging | Retain |
+| The Guest as Participant | Emerging | Retain |
 
 No row in this table is changed by this comparison file.
 
-Comparison 71 — The Defining Experience Can Be Visually Unavailable
+---
+
+# Comparison 71 — The Defining Experience Can Be Visually Unavailable
 
 Most prior cases allow the central hospitality proposition to be photographed at least partially.
 
 Dans le Noir? London creates a harder condition:
 
+```text
 The defining experience
 =
 dining without sight
+```
 
 A photograph from the guest's literal visual position would contain no useful visible subject.
 
 This does not mean the restaurant lacks evidence. It means direct visual representation is structurally limited.
 
-Cross-Case Correction
+## Cross-Case Correction
 
+```text
 Photographable Experience
 ≠
 Provable Experience
+```
 
 Photography as Proof must permit bounded evidence systems in which photography proves only the visible perimeter.
 
-Comparison 72 — Literal Images Can Be Informationally Weak
+---
+
+# Comparison 72 — Literal Images Can Be Informationally Weak
 
 Across many restaurants, greater literalness improves evidential value.
 
@@ -7047,15 +7543,19 @@ Restaurant #16 supplies a limit case.
 
 The most literal image of the guest's visual field would be black. It would be accurate as a visual field and weak as an explanation of food, service, safety, guidance, spatial organization, or participation.
 
-Cross-Case Correction
+## Cross-Case Correction
 
+```text
 Literal Image
 ≠
 Informative Image
+```
 
 Literalness is one evidence property, not the sole measure of truth.
 
-Comparison 73 — Illuminated Simulation Requires Explicit Scope
+---
+
+# Comparison 73 — Illuminated Simulation Requires Explicit Scope
 
 Images of the dining room under light can explain spatial form, tables, scale, and operating context.
 
@@ -7063,6 +7563,7 @@ They cannot represent what guests see while the room is operating as intended.
 
 The image can therefore be useful if its scope is understood:
 
+```text
 Illuminated Room Image
 →
 Spatial / Operational Context
@@ -7070,53 +7571,47 @@ Spatial / Operational Context
 Illuminated Room Image
 ↛
 Guest Visual Experience
+```
 
-Correction 65
+## Correction 65
 
+```text
 Illuminated Simulation
 ≠
 Guest Visual Field
+```
 
 Simulation may reduce uncertainty, but it must not silently become literal experience proof.
 
-Comparison 74 — Photography Can Prove the Perimeter Without Proving the Core
+---
+
+# Comparison 74 — Photography Can Prove the Perimeter Without Proving the Core
 
 The visible evidence perimeter includes:
 
-reception
-
-food examples
-
-guide portraits
-
-illuminated room structure
-
-guest preparation thresholds
-
-objects and gifts
-
-the restaurant's public identity
+- reception
+- food examples
+- guide portraits
+- illuminated room structure
+- guest preparation thresholds
+- objects and gifts
+- the restaurant's public identity
 
 The experiential core includes:
 
-complete visual absence
-
-reliance on a guide
-
-sensory reorientation
-
-taste under darkness
-
-shared-table dynamics
-
-trust transfer
-
-personal emotional response
+- complete visual absence
+- reliance on a guide
+- sensory reorientation
+- taste under darkness
+- shared-table dynamics
+- trust transfer
+- personal emotional response
 
 Restaurant #16 makes the division unusually explicit.
 
-New Architecture Direction
+## New Architecture Direction
 
+```text
 Visible Perimeter
 +
 Procedural Explanation
@@ -7124,10 +7619,13 @@ Procedural Explanation
 Human Assurance
 ↓
 Confidence About an Invisible Core
+```
 
 This is architecture-level evidence, not a new formal pattern.
 
-Comparison 75 — Product Visibility Can Stop at the Threshold
+---
+
+# Comparison 75 — Product Visibility Can Stop at the Threshold
 
 Food can be photographed before the experience and revealed after it.
 
@@ -7135,169 +7633,156 @@ During the experience, the plate is intentionally unavailable to sight.
 
 This creates a three-part evidence sequence:
 
-Stage
+| Stage | Visual status | Proof role |
+|---|---|---|
+| Before dining | Representative images may be visible | Culinary capability and expectation setting |
+| During dining | Product is deliberately unseen | Participation condition and surprise protection |
+| After dining | Menu or product identity can be revealed | Retrospective explanation and comparison |
 
-Visual status
+## Correction 66
 
-Proof role
-
-Before dining
-
-Representative images may be visible
-
-Culinary capability and expectation setting
-
-During dining
-
-Product is deliberately unseen
-
-Participation condition and surprise protection
-
-After dining
-
-Menu or product identity can be revealed
-
-Retrospective explanation and comparison
-
-Correction 66
-
+```text
 Product Visible Before or After
 ≠
 Product Visually Available During Use
+```
 
 Photography Through Layers of Experience must account for layers where photography is intentionally absent.
 
-Comparison 76 — Representative Culinary Proof Must Not Become Exact Menu Proof
+---
+
+# Comparison 76 — Representative Culinary Proof Must Not Become Exact Menu Proof
 
 The menu changes and surprise is part of the proposition.
 
 Published food images can support:
 
-culinary seriousness
-
-preparation capability
-
-plating language
-
-ingredient attention
-
-category expectation
+- culinary seriousness
+- preparation capability
+- plating language
+- ingredient attention
+- category expectation
 
 They do not establish:
 
-the exact future dish
+- the exact future dish
+- the guest's assigned surprise menu
+- taste
+- freshness at service
+- dietary suitability for a particular person
+- current menu identity unless dated and verified
 
-the guest's assigned surprise menu
+## Correction 67
 
-taste
-
-freshness at service
-
-dietary suitability for a particular person
-
-current menu identity unless dated and verified
-
-Correction 67
-
+```text
 Representative Capability
 ≠
 Exact Future Product
+```
 
 This extends Representative Proof beyond seasonal and future-facing restaurants.
 
-Comparison 77 — Food Photography Cannot Prove Taste
+---
+
+# Comparison 77 — Food Photography Cannot Prove Taste
 
 This boundary applies across all restaurants, but darkness intensifies it.
 
 The image can show a plate. The guest encounters aroma, texture, temperature, sound, memory, uncertainty, and taste without the image during consumption.
 
-Correction 68
+## Correction 68
 
+```text
 Food Image
 ≠
 Taste Proof
+```
 
 The evidential value of food photography is preparatory and representative, not sensory equivalence.
 
-Comparison 78 — Human Presence Is Not Human Authority
+---
+
+# Comparison 78 — Human Presence Is Not Human Authority
 
 Guide portraits can prove that identifiable people are part of the public hospitality model.
 
 Portraits cannot independently prove:
 
-training quality
+- training quality
+- operational authority
+- consistency of guidance
+- employment quality
+- relationship quality
+- safety performance
+- the guest's trust in practice
 
-operational authority
+## Correction 69
 
-consistency of guidance
-
-employment quality
-
-relationship quality
-
-safety performance
-
-the guest's trust in practice
-
-Correction 69
-
+```text
 Guide Portrait
 ≠
 Guide Authority
+```
 
 and:
 
+```text
 Human Presence
 ≠
 Relationship Quality
+```
 
 This strengthens Thing Proof / Relationship Proof by adding a human-operating boundary.
 
-Comparison 79 — Inclusion Representation Is Not Inclusion Outcome
+---
+
+# Comparison 79 — Inclusion Representation Is Not Inclusion Outcome
 
 The restaurant's guide-waiter model is central to its published story and operation.
 
 Photography can make blind and visually impaired guides publicly visible. It cannot establish the quality, agency, durability, or consequences of employment.
 
-Correction 70
+## Correction 70
 
+```text
 Inclusion Representation
 ≠
 Employment Outcome
+```
 
 Text, policy, first-person evidence, organizational facts, and independent verification may be required for stronger claims.
 
-Comparison 80 — Procedure Can Substitute for Unavailable Direct Imagery
+---
+
+# Comparison 80 — Procedure Can Substitute for Unavailable Direct Imagery
 
 When the core cannot be shown, procedure carries more evidential work.
 
 Published procedural evidence can explain:
 
-advance declaration of dietary restrictions
+- advance declaration of dietary restrictions
+- arrival and reconfirmation
+- storage of light-emitting belongings
+- guide accompaniment
+- shared seating
+- emergency provisions
+- post-experience reveal
 
-arrival and reconfirmation
+## New Architecture Direction
 
-storage of light-emitting belongings
-
-guide accompaniment
-
-shared seating
-
-emergency provisions
-
-post-experience reveal
-
-New Architecture Direction
-
+```text
 Direct Subject Proof unavailable
 ↓
 Procedure becomes decision-relevant proof
+```
 
-This is Proof Through Procedure.
+This is **Proof Through Procedure**.
 
 It does not mean procedure proves outcome. It proves that a disclosed operating mechanism exists at the published level.
 
-Comparison 81 — Layered Experience May Require Layered Evidence
+---
+
+# Comparison 81 — Layered Experience May Require Layered Evidence
 
 The earlier pattern language emphasizes Photography Through Layers of Experience.
 
@@ -7305,109 +7790,95 @@ Restaurant #16 shows that an experience layer can be materially important while 
 
 The evidence layers may instead divide across media:
 
-Uncertainty
+| Uncertainty | Stronger evidence medium |
+|---|---|
+| What food standard is plausible? | Representative photography plus menu description |
+| What happens before entering? | Procedure and threshold imagery |
+| Who guides the experience? | Portraiture plus role explanation |
+| What must the guest surrender? | Practical instructions |
+| How is safety handled? | Policy and operating detail |
+| What is seen while dining? | Direct textual disclosure: nothing |
+| What is learned afterward? | Reveal architecture |
 
-Stronger evidence medium
+## Correction 71
 
-What food standard is plausible?
-
-Representative photography plus menu description
-
-What happens before entering?
-
-Procedure and threshold imagery
-
-Who guides the experience?
-
-Portraiture plus role explanation
-
-What must the guest surrender?
-
-Practical instructions
-
-How is safety handled?
-
-Policy and operating detail
-
-What is seen while dining?
-
-Direct textual disclosure: nothing
-
-What is learned afterward?
-
-Reveal architecture
-
-Correction 71
-
+```text
 Layered Evidence
 ≠
 Layered Photography
+```
 
 The Candidate remains valid, but its strongest future definition may need to sit within a broader evidence architecture.
 
-Comparison 82 — More Complex Experiences Do Not Necessarily Need More Images
+---
+
+# Comparison 82 — More Complex Experiences Do Not Necessarily Need More Images
 
 Dans le Noir? requires unusually high preparation and trust.
 
 Yet additional images of the core would not necessarily create additional truth. Some could misrepresent the visual condition, reveal protected content, or repeat weak symbolic signals.
 
-Correction 72
+## Correction 72
 
+```text
 Experience Complexity
 ≠
 Required Image Volume
+```
 
 The Minimum Sufficient Evidence rule becomes more important, not less, under complexity.
 
-Comparison 83 — Absence Can Protect Evidence Integrity
+---
+
+# Comparison 83 — Absence Can Protect Evidence Integrity
 
 In most weak evidence systems, missing imagery is a deficit.
 
 Here, absence can be principled when an image would:
 
-falsely simulate visibility
+- falsely simulate visibility
+- imply a guest perspective that does not exist
+- disclose the surprise product too specifically
+- overstate a relationship or outcome
+- weaken the sensory boundary
 
-imply a guest perspective that does not exist
+## Correction 73
 
-disclose the surprise product too specifically
-
-overstate a relationship or outcome
-
-weaken the sensory boundary
-
-Correction 73
-
+```text
 Absence as Evidence Integrity
 ≠
 Missing Evidence
+```
 
 This exception must be tightly bounded. Absence becomes defensible only when other evidence resolves the material uncertainties needed for consent and confidence.
 
-Comparison 84 — Symbolic Darkness Is Communication, Not Operational Proof
+---
+
+# Comparison 84 — Symbolic Darkness Is Communication, Not Operational Proof
 
 Dark overlays, black backgrounds, silhouettes, low-light treatments, and visual motifs can communicate the concept.
 
 They do not prove:
 
-complete darkness
+- complete darkness
+- operational enforcement
+- sensory outcome
+- safety
+- guide performance
 
-operational enforcement
+## Correction 74
 
-sensory outcome
-
-safety
-
-guide performance
-
-Correction 74
-
+```text
 Symbolic Darkness
 ≠
 Operational Darkness
+```
 
 Symbolic imagery can orient the guest, but procedural and factual evidence must carry operational claims.
 
-Comparison 85 — Photography Can Demonstrate the Boundary of Difference
+---
+
+# Comparison 85 — Photography Can Demonstrate the Boundary of Difference
 
 Photography Should Demonstrate Difference encounters its strongest contradiction so far.
 
@@ -7415,25 +7886,25 @@ The restaurant's most material difference is not a visually novel room or plate.
 
 Photography can still demonstrate:
 
-the threshold before darkness
+- the threshold before darkness
+- the people who make the system possible
+- the types of product involved
+- the contrast between visible preparation and invisible participation
+- the perimeter around the sensory boundary
 
-the people who make the system possible
+## Refinement
 
-the types of product involved
-
-the contrast between visible preparation and invisible participation
-
-the perimeter around the sensory boundary
-
-Refinement
-
+```text
 Demonstrate Difference
 does not always mean
 Show Difference Directly
+```
 
 Difference can be made legible through boundary, procedure, contrast, and deliberate absence.
 
-Comparison 86 — Surprise Requires Proof Without Full Disclosure
+---
+
+# Comparison 86 — Surprise Requires Proof Without Full Disclosure
 
 Alinea established selective reveal around culinary surprise.
 
@@ -7443,28 +7914,35 @@ Pearl Morissette added variable product supported by capacity and relationships.
 
 Dans le Noir? adds a sensory concealment condition: even the product present in front of the guest remains visually unrevealed during consumption.
 
-Cross-Case Model
+## Cross-Case Model
 
+```text
 Commitment-Relevant Proof
 +
 Protected Product Specificity
 ↓
 Informed Surprise
+```
 
-Correction 75
+## Correction 75
 
+```text
 Surprise Protection
 ≠
 Insufficient Preparation
+```
 
 Allergy, participation, seating, surrender, price, duration, and safety-relevant information must remain clear even when the menu is concealed.
 
-Comparison 87 — Post-Experience Reveal Is an Evidence Stage
+---
+
+# Comparison 87 — Post-Experience Reveal Is an Evidence Stage
 
 Most KHDS proof research concentrates on pre-commitment and pre-arrival evidence.
 
-Restaurant #16 adds After-Proof:
+Restaurant #16 adds **After-Proof**:
 
+```text
 Unseen Product
 ↓
 Sensory Encounter
@@ -7472,18 +7950,23 @@ Sensory Encounter
 Post-Experience Reveal
 ↓
 Retrospective Understanding
+```
 
 The reveal can help guests connect perception with product identity after participation.
 
-Correction 76
+## Correction 76
 
+```text
 Post-Experience Reveal
 ≠
 Pre-Commitment Confidence
+```
 
 After-proof complements but cannot replace the evidence necessary to make an informed booking decision.
 
-Comparison 88 — Accessible Proof Requires Meaning Beyond the Image
+---
+
+# Comparison 88 — Accessible Proof Requires Meaning Beyond the Image
 
 A restaurant organized around non-visual expertise creates a particularly strong accessibility test for its own image system.
 
@@ -7491,47 +7974,47 @@ Alt text or descriptive content must communicate the evidential role of an image
 
 For example, a useful description may need to distinguish:
 
-an illuminated representation of the dining room
+- an illuminated representation of the dining room
+- a guide portrait
+- a representative dish
+- a symbolic darkness treatment
+- a threshold scene
 
-a guide portrait
+## Correction 77
 
-a representative dish
-
-a symbolic darkness treatment
-
-a threshold scene
-
-Correction 77
-
+```text
 Alternative Text Presence
 ≠
 Accessible Meaning
+```
 
 Accessible proof description is an architecture direction for future research, not a new formal pattern.
 
-Comparison 89 — Evidence Substitution Needs a Reliability Hierarchy
+---
+
+# Comparison 89 — Evidence Substitution Needs a Reliability Hierarchy
 
 Restaurant #16 supports a practical substitution ladder:
 
-Direct subject proof, when truthful and available
+1. Direct subject proof, when truthful and available
+2. Representative capability proof, with scope limits
+3. Procedurally anchored proof, for operating mechanisms
+4. Symbolic communication, for concept orientation
+5. Unsupported outcome implication, which should not be treated as proof
 
-Representative capability proof, with scope limits
+## Cross-Case Rule
 
-Procedurally anchored proof, for operating mechanisms
-
-Symbolic communication, for concept orientation
-
-Unsupported outcome implication, which should not be treated as proof
-
-Cross-Case Rule
-
+```text
 Unavailable Direct Evidence
 does not authorize
 Unlimited Proxy Claims
+```
 
 Every substitution must preserve claim fit.
 
-Comparison 90 — Photography of Relationship Needs Non-Visual Context
+---
+
+# Comparison 90 — Photography of Relationship Needs Non-Visual Context
 
 Pearl Morissette established that isolated thing images do not prove productive relationships.
 
@@ -7539,103 +8022,94 @@ Dans le Noir? extends the same boundary to human guidance.
 
 A guide and guest can appear in the same frame without proving:
 
-dependence
-
-trust
-
-authority
-
-care
-
-role reversal
-
-quality of interaction
+- dependence
+- trust
+- authority
+- care
+- role reversal
+- quality of interaction
 
 Relationship evidence may require:
 
-captions
+- captions
+- role definition
+- procedural context
+- first-person account
+- continuity across evidence
+- operating facts
 
-role definition
+## Correction 78
 
-procedural context
-
-first-person account
-
-continuity across evidence
-
-operating facts
-
-Correction 78
-
+```text
 Co-Presence in an Image
 ≠
 Relationship Proof
+```
 
-Comparison 91 — Threshold Proof Is Distinct From Core Experience Proof
+---
+
+# Comparison 91 — Threshold Proof Is Distinct From Core Experience Proof
 
 Reception, lockers, belongings surrender, guide handoff, and the entrance to darkness are highly photographable.
 
 They prove the transition architecture more strongly than the core dining outcome.
 
-Correction 79
+## Correction 79
 
+```text
 Threshold Proof
 ≠
 Core Experience Proof
+```
 
 This distinction should remain available across unusual participation systems, not only dining in darkness.
 
-Comparison 92 — Current Images Require Current-Scope Discipline
+---
+
+# Comparison 92 — Current Images Require Current-Scope Discipline
 
 The surprise menus are periodically renewed.
 
 A technically current webpage image can still show a past or merely representative dish.
 
-Correction 80
+## Correction 80
 
+```text
 Current Image Publication
 ≠
 Current Menu Identity
+```
 
 Unless the relationship is explicitly verified, the image should be read as capability or category evidence.
 
-Dans le Noir? Photography Architecture Directions
+---
+
+# Dans le Noir? Photography Architecture Directions
 
 The following are research directions only:
 
-Non-Visual Difference — material distinction that cannot be directly pictured.
-
-Proof Through Procedure — operational explanation carrying evidence unavailable to imagery.
-
-Visible Perimeter / Invisible Core — photographing the conditions around an intentionally unseeable experience.
-
-Representative Culinary Proof — food images showing capability without promising exact future dishes.
-
-Symbolic Darkness — conceptual visual language that must not be confused with operational proof.
-
-Illuminated Simulation — visible room representation with an explicit scope boundary.
-
-Human Operating Proof — evidence that people are core operating infrastructure.
-
-Relationship Gesture Proof — bounded visual cues that require contextual support.
-
-Threshold Proof — evidence of the transfer point into the experience.
-
-Post-Experience Reveal Proof — retrospective evidence after protected participation.
-
-Evidence Substitution — disciplined replacement when direct imagery is unavailable.
-
-Minimum Sufficient Visual System — using only images that perform distinct proof work.
-
-Absence as Evidence Integrity — withholding imagery when simulation would mislead.
-
-Accessible Proof Description — communicating evidential meaning beyond sight.
+1. **Non-Visual Difference** — material distinction that cannot be directly pictured.
+2. **Proof Through Procedure** — operational explanation carrying evidence unavailable to imagery.
+3. **Visible Perimeter / Invisible Core** — photographing the conditions around an intentionally unseeable experience.
+4. **Representative Culinary Proof** — food images showing capability without promising exact future dishes.
+5. **Symbolic Darkness** — conceptual visual language that must not be confused with operational proof.
+6. **Illuminated Simulation** — visible room representation with an explicit scope boundary.
+7. **Human Operating Proof** — evidence that people are core operating infrastructure.
+8. **Relationship Gesture Proof** — bounded visual cues that require contextual support.
+9. **Threshold Proof** — evidence of the transfer point into the experience.
+10. **Post-Experience Reveal Proof** — retrospective evidence after protected participation.
+11. **Evidence Substitution** — disciplined replacement when direct imagery is unavailable.
+12. **Minimum Sufficient Visual System** — using only images that perform distinct proof work.
+13. **Absence as Evidence Integrity** — withholding imagery when simulation would mislead.
+14. **Accessible Proof Description** — communicating evidential meaning beyond sight.
 
 None is promoted, named as a canonical KHDS pattern, or assigned confidence here.
 
-Current Photography Pattern Pressure — Post Restaurant #16
+---
 
-Photography as Proof
+# Current Photography Pattern Pressure — Post Restaurant #16
+
+## Photography as Proof
 
 Canonical status:
 
@@ -7651,17 +8125,14 @@ Retain Candidate / Medium.
 
 Why:
 
-photography performs decision-relevant work
-
-photography does not prove the invisible core
-
-non-photographic evidence is necessary
-
-the case strengthens the boundary rather than the universality of imagery
+- photography performs decision-relevant work
+- photography does not prove the invisible core
+- non-photographic evidence is necessary
+- the case strengthens the boundary rather than the universality of imagery
 
 No confidence change.
 
-Photography Through Layers of Experience
+## Photography Through Layers of Experience
 
 Canonical status:
 
@@ -7677,13 +8148,15 @@ Retain Candidate / Medium.
 
 Refinement watch:
 
+```text
 Photography Through Layers of Experience
 may sit within
 Evidence Through Layers of Experience
+```
 
 No rename, merge, or confidence change is authorized by this file.
 
-Photography Should Demonstrate Difference
+## Photography Should Demonstrate Difference
 
 Canonical status:
 
@@ -7705,7 +8178,7 @@ Required boundary:
 
 The difference may be demonstrated indirectly through perimeter, contrast, procedure, or protected absence.
 
-Photography Before Decoration
+## Photography Before Decoration
 
 Canonical status:
 
@@ -7721,7 +8194,7 @@ Retain Emerging.
 
 No promotion from this comparison alone.
 
-Capacity Proof
+## Capacity Proof
 
 Canonical status:
 
@@ -7739,7 +8212,7 @@ Decision:
 
 Retain Candidate / Medium.
 
-Hospitality System Proof
+## Hospitality System Proof
 
 Canonical status:
 
@@ -7753,7 +8226,7 @@ Decision:
 
 Retain Candidate / High.
 
-Story Through Hospitality Model
+## Story Through Hospitality Model
 
 Canonical status:
 
@@ -7767,7 +8240,7 @@ Decision:
 
 Retain Candidate / High.
 
-Narrative Coherence Through Organising Logic
+## Narrative Coherence Through Organising Logic
 
 Canonical status:
 
@@ -7781,7 +8254,7 @@ Decision:
 
 Retain Candidate / High.
 
-Promise Before Proof
+## Promise Before Proof
 
 Canonical status:
 
@@ -7795,7 +8268,7 @@ Decision:
 
 Retain Emerging.
 
-Atmosphere as Product
+## Atmosphere as Product
 
 Canonical status:
 
@@ -7809,7 +8282,7 @@ Decision:
 
 Retain Emerging.
 
-The Guest as Participant
+## The Guest as Participant
 
 Canonical status:
 
@@ -7823,265 +8296,172 @@ Decision:
 
 Retain Emerging.
 
-Strongest Photography / Proof Tensions After Restaurant #16
+---
 
-Literal accuracy vs informational value — a black frame may be literal but insufficient.
+# Strongest Photography / Proof Tensions After Restaurant #16
 
-Simulation vs scope integrity — illumination explains space while misrepresenting the operating visual field if unlabeled.
+1. **Literal accuracy vs informational value** — a black frame may be literal but insufficient.
+2. **Simulation vs scope integrity** — illumination explains space while misrepresenting the operating visual field if unlabeled.
+3. **Visible perimeter vs invisible core** — supporting evidence can create confidence without direct depiction.
+4. **Representative product vs exact future product** — food images show capability, not a guaranteed dish.
+5. **Human presence vs human authority** — portraits identify people without proving performance or relationship.
+6. **Inclusion visibility vs employment outcome** — representation is not social-impact proof.
+7. **Image volume vs evidence sufficiency** — more imagery can add repetition or distortion.
+8. **Difference proof vs visual novelty** — material difference can be non-visual.
+9. **Surprise protection vs informed consent** — conceal the product, not consequence-relevant information.
+10. **Pre-commitment proof vs after-proof** — the reveal deepens understanding but arrives too late to justify booking by itself.
+11. **Symbolic darkness vs operational darkness** — brand language is not mechanism evidence.
+12. **Accessibility compliance vs accessible meaning** — descriptions must preserve evidential function.
+13. **Procedure proof vs outcome proof** — a disclosed mechanism is not verified performance.
+14. **Threshold proof vs core-experience proof** — visible transition does not equal sensory outcome.
+15. **Absence as integrity vs evidence omission** — principled withholding requires compensating evidence.
 
-Visible perimeter vs invisible core — supporting evidence can create confidence without direct depiction.
+---
 
-Representative product vs exact future product — food images show capability, not a guaranteed dish.
+# Photography Falsification Programme After Restaurant #16
 
-Human presence vs human authority — portraits identify people without proving performance or relationship.
+## Photography as Proof
 
-Inclusion visibility vs employment outcome — representation is not social-impact proof.
+> If the image is limited to the visible perimeter, which material decision uncertainty does it resolve that accurate procedure alone cannot?
 
-Image volume vs evidence sufficiency — more imagery can add repetition or distortion.
+## Photography Through Layers of Experience
 
-Difference proof vs visual novelty — material difference can be non-visual.
+> Does the Candidate require photographic evidence at every layer, or only distinct evidence appropriate to each layer?
 
-Surprise protection vs informed consent — conceal the product, not consequence-relevant information.
+## Photography Should Demonstrate Difference
 
-Pre-commitment proof vs after-proof — the reveal deepens understanding but arrives too late to justify booking by itself.
+> Can a non-visual difference be demonstrated rigorously enough to satisfy the pattern without direct depiction?
 
-Symbolic darkness vs operational darkness — brand language is not mechanism evidence.
+## Photography Before Decoration
 
-Accessibility compliance vs accessible meaning — descriptions must preserve evidential function.
+> Can every retained image be assigned a specific proof job, or is symbolic atmosphere being treated as evidence?
 
-Procedure proof vs outcome proof — a disclosed mechanism is not verified performance.
+## Capacity Proof
 
-Threshold proof vs core-experience proof — visible transition does not equal sensory outcome.
+> Would published staffing and safety mechanisms remain persuasive without brand authority and marketing framing?
 
-Absence as integrity vs evidence omission — principled withholding requires compensating evidence.
+## Hospitality System Proof
 
-Photography Falsification Programme After Restaurant #16
+> Does the evidence show how the guide, guest, procedure, space, and reveal connect, or only that each exists?
 
-Photography as Proof
+## Representative Culinary Proof
 
-If the image is limited to the visible perimeter, which material decision uncertainty does it resolve that accurate procedure alone cannot?
+> What disclosure prevents an attractive plate from being interpreted as the guest's exact future menu?
 
-Photography Through Layers of Experience
+## Human Operating Proof
 
-Does the Candidate require photographic evidence at every layer, or only distinct evidence appropriate to each layer?
+> What non-visual evidence is necessary to move from staff visibility to role, authority, and operating competence?
 
-Photography Should Demonstrate Difference
+## Absence as Evidence Integrity
 
-Can a non-visual difference be demonstrated rigorously enough to satisfy the pattern without direct depiction?
+> Is imagery withheld because literal representation would mislead, or because the evidence system is incomplete?
 
-Photography Before Decoration
+## Accessible Proof Description
 
-Can every retained image be assigned a specific proof job, or is symbolic atmosphere being treated as evidence?
+> Can a person who cannot access the image recover the same claim scope, simulation boundary, and decision-relevant meaning?
 
-Capacity Proof
+## Post-Experience Reveal Proof
 
-Would published staffing and safety mechanisms remain persuasive without brand authority and marketing framing?
+> What uncertainty can legitimately remain unresolved until after participation, and what must be resolved before commitment?
 
-Hospitality System Proof
+## Evidence Substitution
 
-Does the evidence show how the guide, guest, procedure, space, and reveal connect, or only that each exists?
+> Does the proxy evidence preserve the original claim's scope, or silently weaken the standard of proof?
 
-Representative Culinary Proof
+---
 
-What disclosure prevents an attractive plate from being interpreted as the guest's exact future menu?
+# Photography Deduplication Decisions — Restaurant #16
 
-Human Operating Proof
-
-What non-visual evidence is necessary to move from staff visibility to role, authority, and operating competence?
-
-Absence as Evidence Integrity
-
-Is imagery withheld because literal representation would mislead, or because the evidence system is incomplete?
-
-Accessible Proof Description
-
-Can a person who cannot access the image recover the same claim scope, simulation boundary, and decision-relevant meaning?
-
-Post-Experience Reveal Proof
-
-What uncertainty can legitimately remain unresolved until after participation, and what must be resolved before commitment?
-
-Evidence Substitution
-
-Does the proxy evidence preserve the original claim's scope, or silently weaken the standard of proof?
-
-Photography Deduplication Decisions — Restaurant #16
-
-Proposed direction
-
-Closest existing concept
-
-Decision
-
-Visible Perimeter / Invisible Core
-
-Photography as Proof; Promise Before Proof
-
-Retain as architecture direction; do not create pattern
-
-Proof Through Procedure
-
-Hospitality System Proof; Capacity Proof
-
-Retain as evidence mechanism; test cross-dimensionally
-
-Representative Culinary Proof
-
-Representative Proof
-
-Merge as domain-specific application
-
-Illuminated Simulation
-
-Representative Proof; claim-fit evidence
-
-Retain as correction boundary
-
-Human Operating Proof
-
-Hospitality System Proof; Relationship Proof
-
-Retain as architecture direction
-
-Relationship Gesture Proof
-
-Relationship Proof
-
-Do not split; preserve as bounded evidence depth
-
-Threshold Proof
-
-Layered Arrival; Photography Through Layers
-
-Retain as proof type, not pattern
-
-Post-Experience Reveal Proof
-
-Promise Before Proof; temporal sequencing
-
-Retain as research direction
-
-Evidence Substitution
-
-Best Evidence Medium Depends on Claim
-
-Retain as architecture rule
-
-Minimum Sufficient Visual System
-
-Minimum Sufficient Evidence
-
-Merge into existing rule
-
-Absence as Evidence Integrity
-
-Evidence Integrity Can Require Saying Less
-
-Merge and strengthen boundary
-
-Accessible Proof Description
-
-accessibility evidence work
-
-Retain as new research direction; insufficient cross-case maturity
-
-Non-Visual Difference
-
-Photography Should Demonstrate Difference
-
-Retain as falsification mechanism
+| Proposed direction | Closest existing concept | Decision |
+|---|---|---|
+| Visible Perimeter / Invisible Core | Photography as Proof; Promise Before Proof | Retain as architecture direction; do not create pattern |
+| Proof Through Procedure | Hospitality System Proof; Capacity Proof | Retain as evidence mechanism; test cross-dimensionally |
+| Representative Culinary Proof | Representative Proof | Merge as domain-specific application |
+| Illuminated Simulation | Representative Proof; claim-fit evidence | Retain as correction boundary |
+| Human Operating Proof | Hospitality System Proof; Relationship Proof | Retain as architecture direction |
+| Relationship Gesture Proof | Relationship Proof | Do not split; preserve as bounded evidence depth |
+| Threshold Proof | Layered Arrival; Photography Through Layers | Retain as proof type, not pattern |
+| Post-Experience Reveal Proof | Promise Before Proof; temporal sequencing | Retain as research direction |
+| Evidence Substitution | Best Evidence Medium Depends on Claim | Retain as architecture rule |
+| Minimum Sufficient Visual System | Minimum Sufficient Evidence | Merge into existing rule |
+| Absence as Evidence Integrity | Evidence Integrity Can Require Saying Less | Merge and strengthen boundary |
+| Accessible Proof Description | accessibility evidence work | Retain as new research direction; insufficient cross-case maturity |
+| Non-Visual Difference | Photography Should Demonstrate Difference | Retain as falsification mechanism |
 
 No duplicate canonical pattern is created.
 
-Restaurant #16 Photography Decision Ledger
+---
 
-What Changed in the Research Model
+# Restaurant #16 Photography Decision Ledger
 
-The comparison now includes 16 independent restaurants.
+## What Changed in the Research Model
 
-Direct photography is no longer assumed to be available for the defining experiential core.
+- The comparison now includes 16 independent restaurants.
+- Direct photography is no longer assumed to be available for the defining experiential core.
+- Layered evidence is distinguished from layered photography.
+- Procedure is recognized as a necessary substitute where direct imagery is unavailable.
+- Literalness is separated from informational value.
+- Illuminated simulation receives an explicit scope boundary.
+- Visible perimeter proof is distinguished from core-experience proof.
+- Representative food imagery is bounded away from exact future menu proof.
+- Human presence is separated from role, authority, relationship, and employment outcome.
+- Evidence absence can be integrity-preserving under strict conditions.
+- Non-visual difference becomes a formal falsification mechanism for Photography Should Demonstrate Difference.
+- Post-experience reveal is recorded as an evidence stage.
+- Accessible image meaning becomes an explicit future research requirement.
 
-Layered evidence is distinguished from layered photography.
+## What Did Not Change
 
-Procedure is recognized as a necessary substitute where direct imagery is unavailable.
+- No pattern was promoted.
+- No pattern was demoted.
+- No pattern was validated.
+- No pattern confidence changed.
+- No Candidate was renamed or merged.
+- No research direction became a KHDS Principle.
+- The canonical totals remain 23 Candidate, 11 Emerging, 0 Validated, and 0 research-derived Principles.
 
-Literalness is separated from informational value.
-
-Illuminated simulation receives an explicit scope boundary.
-
-Visible perimeter proof is distinguished from core-experience proof.
-
-Representative food imagery is bounded away from exact future menu proof.
-
-Human presence is separated from role, authority, relationship, and employment outcome.
-
-Evidence absence can be integrity-preserving under strict conditions.
-
-Non-visual difference becomes a formal falsification mechanism for Photography Should Demonstrate Difference.
-
-Post-experience reveal is recorded as an evidence stage.
-
-Accessible image meaning becomes an explicit future research requirement.
-
-What Did Not Change
-
-No pattern was promoted.
-
-No pattern was demoted.
-
-No pattern was validated.
-
-No pattern confidence changed.
-
-No Candidate was renamed or merged.
-
-No research direction became a KHDS Principle.
-
-The canonical totals remain 23 Candidate, 11 Emerging, 0 Validated, and 0 research-derived Principles.
-
-Why No Maturity Change Is Justified
+## Why No Maturity Change Is Justified
 
 This comparison is one dimension of one new restaurant case. Its value is unusually high for falsification and definition refinement, but maturity decisions require the complete five-dimension comparison cycle and canonical reconciliation.
 
 Restaurant #16 therefore supplies pressure, not authority.
 
-Photography Comparison Conclusion — Post Dans le Noir? London
+---
+
+# Photography Comparison Conclusion — Post Dans le Noir? London
 
 After 16 independent restaurants, the strongest photography finding remains:
 
-Evidence quality depends on claim fit, not visual beauty.
+> **Evidence quality depends on claim fit, not visual beauty.**
 
 Dans le Noir? London does not overturn Photography as Proof.
 
 It gives the Candidate its most important limitation so far:
 
+```text
 Photography can prove
 the visible conditions around an experience
 without proving
 the experience itself.
+```
 
 The case also prevents Photography Through Layers of Experience from becoming a demand for image volume or universal visual coverage.
 
 Some experience layers are best evidenced by:
 
-procedure
-
-policy
-
-role explanation
-
-representative product evidence
-
-human identity
-
-explicit disclosure
-
-post-experience reveal
+- procedure
+- policy
+- role explanation
+- representative product evidence
+- human identity
+- explicit disclosure
+- post-experience reveal
 
 rather than direct photography.
 
 The new cross-case refinement is therefore:
 
+```text
 Layered Experience
 requires
 Layered Evidence
@@ -8089,36 +8469,43 @@ Layered Evidence
 but not necessarily
 
 Layered Photography at Every Stage
+```
 
 Restaurant #16 also gives Photography Should Demonstrate Difference a powerful non-visual test. The defining difference can be demonstrated without being directly pictured when the evidence system makes the boundary, procedure, human operating model, and deliberate absence legible.
 
 The case strengthens Capacity Proof and Hospitality System Proof while preserving the essential boundary:
 
+```text
 Published Mechanism
 ≠
 Verified Performance
+```
 
 It extends Pearl Morissette's relationship correction from productive systems to human guidance:
 
+```text
 Person Visible
 ≠
 Role Proven
 ≠
 Relationship Proven
+```
 
 Finally, it establishes that evidence restraint can be principled. Withholding a misleading simulation may protect truth, but only when the remaining system still provides enough information for informed commitment.
 
 The strongest leaving question is no longer simply:
 
-What must the guest be shown?
+> What must the guest be shown?
 
 It is now:
 
-What must the guest understand, which parts can truthfully be shown, and which evidence medium should carry everything that cannot?
+> **What must the guest understand, which parts can truthfully be shown, and which evidence medium should carry everything that cannot?**
 
 Restaurant #16 produces no governance change. It produces a more rigorous boundary around visual proof.
 
-Post–Avatar Robot Café DAWN, Tokyo Photography Reconciliation
+---
+
+# Post–Avatar Robot Café DAWN, Tokyo Photography Reconciliation
 
 Restaurant #17 introduces a photography problem that is almost the inverse of Dans le Noir? London.
 
@@ -8128,6 +8515,7 @@ DAWN makes its most conspicuous object highly visible while leaving the defining
 
 The cross-case relationship is:
 
+~~~text
 Dans le Noir?
 
 Defining Experience
@@ -8143,152 +8531,76 @@ Immediately Visible
 Defining Human Agency
 ↓
 Distributed and Partly Invisible
+~~~
 
 The DAWN case therefore tests whether visual clarity can coexist with operating-model ambiguity.
 
 The strongest Restaurant #17 boundary is:
 
+~~~text
 Visible Machine
 
 ≠
 
 Visible Human Agency
+~~~
 
 The strongest difference boundary is:
 
+~~~text
 Most Photographable Subject
 
 ≠
 
 Most Meaningful Difference
+~~~
 
 The strongest temporal boundary is:
 
+~~~text
 Still Action State
 
 ≠
 
 Live Agency Proof
+~~~
 
 The strongest accessibility boundary is:
 
+~~~text
 Visual Inclusion
 
 ≠
 
 Evidence Accessibility
+~~~
 
-Current Canonical Entry State — Restaurant #17
+---
+
+# Current Canonical Entry State — Restaurant #17
 
 This comparison begins from the reconciled post–Restaurant #16 governance state.
 
-Pattern
-
-Entry state
-
-DAWN pressure
-
-Decision in this file
-
-Photography as Proof
-
-Candidate / Medium-High
-
-Strong support with agency boundary
-
-Retain
-
-Photography Should Demonstrate Difference
-
-Candidate / Medium
-
-Strong support with subject/difference correction
-
-Retain
-
-Photography as Use-Case Evidence
-
-Candidate / Medium-High
-
-Strong direct support
-
-Retain
-
-Photography Through Layers of Experience
-
-Candidate / Medium
-
-Support for layered evidence, not exhaustive imagery
-
-Retain
-
-Capacity Proof
-
-Candidate / Medium-High
-
-Visible infrastructure support; performance unproven
-
-Retain
-
-Hospitality System Proof
-
-Candidate / High
-
-Strong system-configuration support
-
-Retain
-
-Story Through Hospitality Model
-
-Candidate / High
-
-Strong operating-model support
-
-Retain
-
-Narrative Coherence Through Organising Logic
-
-Candidate / High
-
-Strong visual/textual coherence support
-
-Retain
-
-Photography Before Decoration
-
-Emerging
-
-Strong proof-first support
-
-Remain Emerging
-
-Emotion Before Interface
-
-Emerging
-
-Guest-expression pressure with outcome boundary
-
-Remain Emerging
-
-Promise Before Proof
-
-Emerging
-
-Social promise requires operating and outcome proof
-
-Remain Emerging
-
-The Guest as Participant
-
-Emerging
-
-Strong visible participation support
-
-Remain Emerging
+| Pattern | Entry state | DAWN pressure | Decision in this file |
+|---|---|---|---|
+| Photography as Proof | Candidate / Medium-High | Strong support with agency boundary | Retain |
+| Photography Should Demonstrate Difference | Candidate / Medium | Strong support with subject/difference correction | Retain |
+| Photography as Use-Case Evidence | Candidate / Medium-High | Strong direct support | Retain |
+| Photography Through Layers of Experience | Candidate / Medium | Support for layered evidence, not exhaustive imagery | Retain |
+| Capacity Proof | Candidate / Medium-High | Visible infrastructure support; performance unproven | Retain |
+| Hospitality System Proof | Candidate / High | Strong system-configuration support | Retain |
+| Story Through Hospitality Model | Candidate / High | Strong operating-model support | Retain |
+| Narrative Coherence Through Organising Logic | Candidate / High | Strong visual/textual coherence support | Retain |
+| Photography Before Decoration | Emerging | Strong proof-first support | Remain Emerging |
+| Emotion Before Interface | Emerging | Guest-expression pressure with outcome boundary | Remain Emerging |
+| Promise Before Proof | Emerging | Social promise requires operating and outcome proof | Remain Emerging |
+| The Guest as Participant | Emerging | Strong visible participation support | Remain Emerging |
 
 No state in this table is changed by the photography comparison alone.
 
-Comparison 93 — The Most Photographable Subject May Not Be the Most Meaningful Difference
+---
+
+# Comparison 93 — The Most Photographable Subject May Not Be the Most Meaningful Difference
 
 DAWN's robots are unusual, immediately legible as objects, visually repeatable and easy to place at the centre of a composition.
 
@@ -8296,31 +8608,31 @@ The more meaningful difference is not the robot body by itself.
 
 It is the relationship between:
 
-a remote human pilot
-
-a local robotic embodiment
-
-a guest
-
-a hospitality task
-
-an enabling operating system
+- a remote human pilot
+- a local robotic embodiment
+- a guest
+- a hospitality task
+- an enabling operating system
 
 The comparison extends Visual Novelty ≠ Material Difference into:
 
+~~~text
 Device Visibility
 
 ≠
 
 Relationship Legibility
+~~~
 
-Cross-Case Correction
+## Cross-Case Correction
 
 Photography Should Demonstrate Difference must identify the operative difference before choosing the subject.
 
 The most visually distinctive object may be evidence of the system without being the system's principal meaning.
 
-Comparison 94 — A Visible Machine Can Hide a Human Operator
+---
+
+# Comparison 94 — A Visible Machine Can Hide a Human Operator
 
 DAWN creates a distinctive proof asymmetry.
 
@@ -8330,21 +8642,19 @@ The remote pilot may be elsewhere, off-frame, represented on a screen, named onl
 
 The image can prove robot form, robot location, service configuration and physical proximity to the guest without proving:
 
-who is operating
+- who is operating
+- whether operation is live
+- whether the operator shown is the operator acting
+- how control is transferred
+- how continuity is maintained
 
-whether operation is live
-
-whether the operator shown is the operator acting
-
-how control is transferred
-
-how continuity is maintained
-
-Correction 81
+## Correction 81
 
 Object proof must not be treated as agency proof.
 
-Comparison 95 — A Clear Photograph Can Produce an Incorrect Operating Interpretation
+---
+
+# Comparison 95 — A Clear Photograph Can Produce an Incorrect Operating Interpretation
 
 High visual clarity normally reduces uncertainty about subject, place, use and form.
 
@@ -8352,11 +8662,13 @@ At DAWN, clarity about the robot can increase ambiguity about whether it is auto
 
 The photograph may be technically clear while the operating interpretation remains wrong.
 
-Correction 82
+## Correction 82
 
 Photography as Proof must evaluate interpretive accuracy, not only image quality or subject visibility.
 
-Comparison 96 — Still Photography Proves Configuration More Easily Than Live Agency
+---
+
+# Comparison 96 — Still Photography Proves Configuration More Easily Than Live Agency
 
 A still image can show a robot beside a table, a tray in position, a guest facing a robot, a drink being prepared or a pilot portrait.
 
@@ -8366,11 +8678,13 @@ The proof object is temporal.
 
 The evidence medium must therefore become temporal when the claim concerns agency over time.
 
-Correction 83
+## Correction 83
 
 Still photography is sufficient for configuration proof and insufficient for live-agency proof.
 
-Comparison 97 — Montage Can Be More Truthful Than a Single Literal Frame
+---
+
+# Comparison 97 — Montage Can Be More Truthful Than a Single Literal Frame
 
 DAWN's operating relationship is distributed.
 
@@ -8386,11 +8700,13 @@ It provides relational association, role context and distributed-system legibili
 
 It does not independently provide proof of simultaneity, live control or reliable performance.
 
-Correction 84
+## Correction 84
 
 Composited evidence can be more informative than one literal frame when its constructed relationship is disclosed and its temporal limits remain explicit.
 
-Comparison 98 — A Human Face Does Not Automatically Establish Human Agency
+---
+
+# Comparison 98 — A Human Face Does Not Automatically Establish Human Agency
 
 A portrait may prove a person exists, is associated with the organisation, and has an available identity or biography.
 
@@ -8398,6 +8714,7 @@ It does not automatically prove that the person controls the pictured robot, tha
 
 DAWN therefore deepens the Pearl Morissette and Dans le Noir? relationship-proof correction:
 
+~~~text
 Person Visible
 
 ≠
@@ -8411,12 +8728,15 @@ Agency Attributed
 ≠
 
 Relationship Proven
+~~~
 
-Correction 85
+## Correction 85
 
 Human visibility must be connected to action, role and system through attributable evidence.
 
-Comparison 99 — Technology Photography Requires Operating Explanation
+---
+
+# Comparison 99 — Technology Photography Requires Operating Explanation
 
 Technology images can prove hardware, interface form, physical scale, environment and possible use.
 
@@ -8426,11 +8746,13 @@ At DAWN, the machine's human function is essential: the robot is an embodiment c
 
 Without operating explanation, the visual system risks converting an inclusion model into a spectacle of automation.
 
-Correction 86
+## Correction 86
 
 The more a device invites autonomous or AI interpretation, the more explicitly the evidence system must attribute human agency.
 
-Comparison 100 — Use-Case Proof Can Be Strong While Outcome Proof Remains Weak
+---
+
+# Comparison 100 — Use-Case Proof Can Be Strong While Outcome Proof Remains Weak
 
 DAWN supplies strong visible use-case evidence.
 
@@ -8440,11 +8762,13 @@ These images support the proposition that the system has been designed for ident
 
 They do not establish service quality, guest satisfaction, pilot satisfaction, employment quality, reliability or social inclusion outcome.
 
-Correction 87
+## Correction 87
 
 Photography as Use-Case Evidence must remain separated from outcome proof.
 
-Comparison 101 — The Robot Is Embodiment Evidence, Not Automatically the Protagonist
+---
+
+# Comparison 101 — The Robot Is Embodiment Evidence, Not Automatically the Protagonist
 
 In ordinary technology storytelling, the device can become the narrative hero.
 
@@ -8458,11 +8782,13 @@ The robot is the local embodiment.
 
 The guest is the participating counterpart.
 
-Correction 88
+## Correction 88
 
 Visual prominence should follow narrative agency, not merely object novelty.
 
-Comparison 102 — Distributed Human Agency Requires Temporal Evidence
+---
+
+# Comparison 102 — Distributed Human Agency Requires Temporal Evidence
 
 DAWN extends the distributed-system findings from Pearl Morissette.
 
@@ -8472,13 +8798,15 @@ DAWN requires relationship evidence across remote person, network, control syste
 
 The difference is that DAWN's essential relationship is not only spatially distributed. It is temporally active.
 
-New Architecture Direction
+## New Architecture Direction
 
 Temporal Agency Proof is evidence that shows attributable human control, response and continuity across time.
 
 It remains an architecture direction, not a canonical pattern.
 
-Comparison 103 — Accessibility Representation Can Still Be Evidentially Inaccessible
+---
+
+# Comparison 103 — Accessibility Representation Can Still Be Evidentially Inaccessible
 
 DAWN's photography visibly includes wheelchair users, remote participation, adaptive working arrangements and embodied service alternatives.
 
@@ -8488,21 +8816,25 @@ Direct inspection of reviewed official pages also found important images with em
 
 The result is a contradiction: the image may communicate inclusion visually while withholding its evidence meaning from a person who cannot access the image.
 
-Correction 89
+## Correction 89
 
 Accessible proof requires the informational function of the image to survive without sight.
 
-Comparison 104 — A Wheelchair in Frame Does Not Prove Accessibility
+---
+
+# Comparison 104 — A Wheelchair in Frame Does Not Prove Accessibility
 
 The presence of a wheelchair user can establish representation, a possible use context and physical participation in the photographed moment.
 
 It cannot independently establish route accessibility, toilet accessibility, booking accommodation, working-condition quality, support availability, current policy or universal suitability.
 
-Correction 90
+## Correction 90
 
 Accessibility possibility proof must remain bounded by specific, current operational information.
 
-Comparison 105 — Guest Smiles Do Not Prove Satisfaction
+---
+
+# Comparison 105 — Guest Smiles Do Not Prove Satisfaction
 
 DAWN's social images can orient the viewer toward warmth, curiosity, welcome, participation and celebration.
 
@@ -8510,11 +8842,13 @@ Those expressions are useful emotional communication.
 
 They are not independent evidence of representative guest experience, sustained satisfaction, service outcome, relationship quality or social impact.
 
-Correction 91
+## Correction 91
 
 Emotion before interface must not become emotion as outcome evidence.
 
-Comparison 106 — Layered Evidence Does Not Require Every Layer to Be Photographed
+---
+
+# Comparison 106 — Layered Evidence Does Not Require Every Layer to Be Photographed
 
 DAWN strengthens the correction introduced by Dans le Noir?.
 
@@ -8524,11 +8858,13 @@ Photography is strongest for place, machine form, product, visible interaction a
 
 Copy, diagrams, video and procedure are stronger for remote human control, live agency, role attribution, limitation, sequence and policy.
 
-Correction 92
+## Correction 92
 
 Photography Through Layers of Experience means photography should contribute where visual evidence is claim-fit, not that every evidence layer must become an image.
 
-Comparison 107 — More Visible Difference Can Require More Language
+---
+
+# Comparison 107 — More Visible Difference Can Require More Language
 
 DAWN appears highly photographable.
 
@@ -8538,49 +8874,39 @@ The unusual image creates questions about autonomy, AI, pilot identity, control,
 
 The stronger the visual novelty, the greater the risk that the viewer supplies an incorrect operating model.
 
-Correction 93
+## Correction 93
 
 Photography Should Demonstrate Difference may require more explanatory language when the visible subject is not self-explanatory.
 
-DAWN Photography Architecture Directions
+---
+
+# DAWN Photography Architecture Directions
 
 The following are architecture variables, mechanisms or research directions. They are not formal patterns.
 
-Machine-Visible / Human-Dependent Proof — the device is directly visible while essential human agency depends on contextual evidence.
-
-Remote Human Proof — evidence that makes the remote service person visible, named and attributable.
-
-Human-Agency Attribution — the explicit connection of person, robot and action.
-
-Robot as Embodiment Proof — evidence presenting the robot as a channel for human presence rather than an autonomous replacement.
-
-Montage as Relationship Architecture — disclosed composition connecting separated human, machine and process components.
-
-Temporal Agency Proof — evidence of live response, movement and continuity.
-
-Pilot Portrait / Robot Action Pairing — sequenced evidence connecting a named pilot with a local action.
-
-Relationship Gesture Proof — visible configuration showing possible interaction without claiming its outcome.
-
-Use-Case Proof — imagery demonstrating how a system is physically used.
-
-Accessibility Possibility Proof — visible access context bounded by current operating detail.
-
-Operating-Model Evidence Substitution — copy, diagram, video or procedure carrying claims photography cannot establish.
-
-Human / AI Visual Ambiguity — robot photography alone cannot establish whether operation is autonomous or human.
-
-Guest Expression Risk — the risk of treating photographed emotion as outcome evidence.
-
-Evidence Accessibility — preservation of image-specific meaning for people who cannot access the image visually.
-
-Machine / Person Visual Balance — the relative prominence of device and human across the evidence sequence.
+1. **Machine-Visible / Human-Dependent Proof** — the device is directly visible while essential human agency depends on contextual evidence.
+2. **Remote Human Proof** — evidence that makes the remote service person visible, named and attributable.
+3. **Human-Agency Attribution** — the explicit connection of person, robot and action.
+4. **Robot as Embodiment Proof** — evidence presenting the robot as a channel for human presence rather than an autonomous replacement.
+5. **Montage as Relationship Architecture** — disclosed composition connecting separated human, machine and process components.
+6. **Temporal Agency Proof** — evidence of live response, movement and continuity.
+7. **Pilot Portrait / Robot Action Pairing** — sequenced evidence connecting a named pilot with a local action.
+8. **Relationship Gesture Proof** — visible configuration showing possible interaction without claiming its outcome.
+9. **Use-Case Proof** — imagery demonstrating how a system is physically used.
+10. **Accessibility Possibility Proof** — visible access context bounded by current operating detail.
+11. **Operating-Model Evidence Substitution** — copy, diagram, video or procedure carrying claims photography cannot establish.
+12. **Human / AI Visual Ambiguity** — robot photography alone cannot establish whether operation is autonomous or human.
+13. **Guest Expression Risk** — the risk of treating photographed emotion as outcome evidence.
+14. **Evidence Accessibility** — preservation of image-specific meaning for people who cannot access the image visually.
+15. **Machine / Person Visual Balance** — the relative prominence of device and human across the evidence sequence.
 
 No architecture direction is promoted, assigned confidence, or treated as a KHDS Principle here.
 
-Current Photography Pattern Pressure — Post Restaurant #17
+---
 
-Photography as Proof
+# Current Photography Pattern Pressure — Post Restaurant #17
+
+## Photography as Proof
 
 Canonical state: Candidate / Medium-High
 
@@ -8592,7 +8918,7 @@ They do not independently prove live remote agency, operating continuity, relati
 
 Decision: Retain Candidate / Medium-High. No confidence change.
 
-Photography Should Demonstrate Difference
+## Photography Should Demonstrate Difference
 
 Canonical state: Candidate / Medium
 
@@ -8602,7 +8928,7 @@ The visible robot demonstrates difference only partially. The material differenc
 
 Decision: Retain Candidate / Medium. No confidence change.
 
-Photography as Use-Case Evidence
+## Photography as Use-Case Evidence
 
 Canonical state: Candidate / Medium-High
 
@@ -8614,7 +8940,7 @@ Boundary: Visible use does not prove successful use.
 
 Decision: Retain Candidate / Medium-High. No confidence change.
 
-Photography Through Layers of Experience
+## Photography Through Layers of Experience
 
 Canonical state: Candidate / Medium
 
@@ -8624,7 +8950,7 @@ Boundary: the essential agency layer requires more than still photography.
 
 Decision: Retain Candidate / Medium. No confidence change.
 
-Capacity Proof
+## Capacity Proof
 
 Canonical state: Candidate / Medium-High
 
@@ -8634,7 +8960,7 @@ Boundary: it does not establish training, staffing, technical continuity, reliab
 
 Decision: Retain Candidate / Medium-High. No confidence change.
 
-Hospitality System Proof
+## Hospitality System Proof
 
 Canonical state: Candidate / High
 
@@ -8646,7 +8972,7 @@ Boundary: visible components do not prove system performance.
 
 Decision: Retain Candidate / High. No confidence change.
 
-Story Through Hospitality Model
+## Story Through Hospitality Model
 
 Canonical state: Candidate / High
 
@@ -8658,7 +8984,7 @@ Boundary: published evidence does not independently prove social impact.
 
 Decision: Retain Candidate / High. No confidence change.
 
-Narrative Coherence Through Organising Logic
+## Narrative Coherence Through Organising Logic
 
 Canonical state: Candidate / High
 
@@ -8670,7 +8996,7 @@ Boundary: narrative coherence does not prove operational coherence.
 
 Decision: Retain Candidate / High. No confidence change.
 
-Photography Before Decoration
+## Photography Before Decoration
 
 Canonical state: Emerging
 
@@ -8678,7 +9004,7 @@ DAWN contribution: strong support. The strongest imagery carries use, place, tec
 
 Decision: Remain Emerging.
 
-Emotion Before Interface
+## Emotion Before Interface
 
 Canonical state: Emerging
 
@@ -8688,7 +9014,7 @@ Smiles and social compositions may orient emotion before operating explanation.
 
 Decision: Remain Emerging.
 
-Promise Before Proof
+## Promise Before Proof
 
 Canonical state: Emerging
 
@@ -8698,7 +9024,7 @@ The social-purpose promise requires operating and outcome evidence beyond imager
 
 Decision: Remain Emerging.
 
-The Guest as Participant
+## The Guest as Participant
 
 Canonical state: Emerging
 
@@ -8710,277 +9036,128 @@ Boundary: visible participation does not prove meaningful agency or outcome.
 
 Decision: Remain Emerging.
 
-Strongest Photography / Proof Tensions After Restaurant #17
-
-Machine visibility vs human-agency visibility — the clearest subject can conceal the defining operator.
-
-Device proof vs operating-model proof — hardware presence does not establish how it acts.
-
-Still configuration vs temporal agency — a captured action state cannot prove live control.
-
-Literal frame vs distributed relationship — one photograph may omit the causal connection.
-
-Montage clarity vs simultaneity proof — composition can explain structure without proving live operation.
-
-Human face vs agency attribution — a portrait does not connect the person to the pictured action by itself.
-
-Visual novelty vs material difference — the robot attracts attention while the human relationship carries meaning.
-
-Use-case proof vs outcome proof — visible participation does not establish the quality of its result.
-
-Accessibility representation vs accessibility proof — inclusion in frame does not establish provision.
-
-Visual inclusion vs evidence accessibility — inclusive content can remain unavailable through missing description.
-
-Guest expression vs satisfaction evidence — photographed warmth is not representative outcome proof.
-
-Technology protagonist vs human agency — composition can accidentally reverse the operating hierarchy.
-
-Layered photography vs layered evidence — the proof system needs medium fit, not image completeness.
-
-Visual clarity vs interpretive accuracy — an attractive, legible image can support an incorrect AI assumption.
-
-Social promise vs social-impact proof — visual purpose cues do not verify employment or inclusion outcomes.
-
-Photography Falsification Programme After Restaurant #17
-
-Does the first visual encounter make remote human operation understandable?
-
-Do viewers initially interpret the robots as autonomous AI?
-
-Is the human pilot visible or named before reservation?
-
-Can a viewer connect a specific pilot to a specific robot action?
-
-Does the Tele-Barista montage remain understandable without adjacent marketing copy?
-
-Is the constructed nature of montage sufficiently clear?
-
-Does any evidence establish that pictured operation is synchronous?
-
-Does video provide attributable temporal agency rather than generic motion?
-
-Are current photographs matched to current service routes?
-
-Can viewers distinguish OriHime, OriHime-D and Tele-Barista roles?
-
-Does the photography explain why different robot forms exist?
-
-Are service images ordinary operation, staged demonstration or campaign imagery?
-
-Are dates or scope signals available where operating states may change?
-
-Does route-specific imagery improve selection accuracy?
-
-Does use-case imagery reduce uncertainty without implying outcome?
-
-Do guest smiles create unsupported satisfaction claims?
-
-Is social-impact language separated from visual association?
-
-Are pilot portraits connected to current roles rather than inspirational biography alone?
-
-Does human prominence survive mobile cropping?
-
-Does machine prominence overwhelm human attribution?
-
-Are photographs of wheelchair users paired with specific current provisions?
-
-Can image evidence distinguish access possibility from universal accessibility?
-
-Do important images have meaningful alternative text?
-
-Can non-visual users recover the same evidence claim?
-
-Does alternative text describe the operating relationship rather than only the robot object?
-
-Can a non-visual user understand which person controls which device?
-
-Does the site disclose where photography cannot prove live agency?
-
-Does operating copy identify limits of automation?
-
-Does photography prove café place without implying all experiences occur identically?
-
-Does product photography establish actual current capability?
-
-Are food and beverage images bounded away from guaranteed availability?
-
-Does the evidence system distinguish relationship gesture from relationship outcome?
-
-Can a guest identify what is human, automated and assisted?
-
-Is proof depth proportionate to the consequence of the claim?
-
-Does the visual sequence move from machine curiosity to human understanding?
-
-Would the social-purpose story remain coherent if robot novelty were visually reduced?
-
-Could the same operating claim be understood from text, diagram or audio alone?
-
-Does every retained image perform a distinct proof job?
-
-Does evidence remain valid during technical limitation or route change?
-
-Do independent observations materially contradict the official visual system?
-
-Photography Deduplication Decisions — Restaurant #17
-
-Proposed direction
-
-Closest existing concept
-
-Decision
-
-Machine-Visible / Human-Dependent Proof
-
-Photography as Proof; Hospitality System Proof
-
-Retain as architecture model
-
-Remote Human Proof
-
-Human Operating Proof; Relationship Proof
-
-Retain as DAWN mechanism
-
-Human-Agency Attribution
-
-Relationship Proof; role proof
-
-Retain as evidence requirement
-
-Robot as Embodiment Proof
-
-Story Through Hospitality Model
-
-Retain as subject-framing rule
-
-Montage as Relationship Architecture
-
-Relational Proof Sequencing
-
-Retain as evidence mechanism
-
-Temporal Agency Proof
-
-Temporal Proof Sequencing; motion as evidence
-
-Retain as architecture direction
-
-Pilot Portrait / Robot Action Pairing
-
-Human Operating Proof
-
-Retain as sequencing mechanism
-
-Relationship Gesture Proof
-
-Relationship Proof
-
-Merge with existing bounded proof depth
-
-Use-Case Proof
-
-Photography as Use-Case Evidence
-
-Do not create duplicate
-
-Accessibility Possibility Proof
-
-accessibility evidence work
-
-Retain as bounded proof type
-
-Operating-Model Evidence Substitution
-
-Best Evidence Medium Depends on Claim
-
-Merge into existing evidence-medium rule
-
-Human / AI Visual Ambiguity
-
-interpretive accuracy
-
-Retain as falsification risk
-
-Guest Expression Risk
-
-Emotion Before Interface; outcome boundary
-
-Retain as correction
-
-Evidence Accessibility
-
-Accessible Proof Description
-
-Merge and strengthen
-
-Machine / Person Visual Balance
-
-narrative agency
-
-Retain as composition variable
+---
+
+# Strongest Photography / Proof Tensions After Restaurant #17
+
+1. **Machine visibility vs human-agency visibility** — the clearest subject can conceal the defining operator.
+2. **Device proof vs operating-model proof** — hardware presence does not establish how it acts.
+3. **Still configuration vs temporal agency** — a captured action state cannot prove live control.
+4. **Literal frame vs distributed relationship** — one photograph may omit the causal connection.
+5. **Montage clarity vs simultaneity proof** — composition can explain structure without proving live operation.
+6. **Human face vs agency attribution** — a portrait does not connect the person to the pictured action by itself.
+7. **Visual novelty vs material difference** — the robot attracts attention while the human relationship carries meaning.
+8. **Use-case proof vs outcome proof** — visible participation does not establish the quality of its result.
+9. **Accessibility representation vs accessibility proof** — inclusion in frame does not establish provision.
+10. **Visual inclusion vs evidence accessibility** — inclusive content can remain unavailable through missing description.
+11. **Guest expression vs satisfaction evidence** — photographed warmth is not representative outcome proof.
+12. **Technology protagonist vs human agency** — composition can accidentally reverse the operating hierarchy.
+13. **Layered photography vs layered evidence** — the proof system needs medium fit, not image completeness.
+14. **Visual clarity vs interpretive accuracy** — an attractive, legible image can support an incorrect AI assumption.
+15. **Social promise vs social-impact proof** — visual purpose cues do not verify employment or inclusion outcomes.
+
+---
+
+# Photography Falsification Programme After Restaurant #17
+
+1. Does the first visual encounter make remote human operation understandable?
+2. Do viewers initially interpret the robots as autonomous AI?
+3. Is the human pilot visible or named before reservation?
+4. Can a viewer connect a specific pilot to a specific robot action?
+5. Does the Tele-Barista montage remain understandable without adjacent marketing copy?
+6. Is the constructed nature of montage sufficiently clear?
+7. Does any evidence establish that pictured operation is synchronous?
+8. Does video provide attributable temporal agency rather than generic motion?
+9. Are current photographs matched to current service routes?
+10. Can viewers distinguish OriHime, OriHime-D and Tele-Barista roles?
+11. Does the photography explain why different robot forms exist?
+12. Are service images ordinary operation, staged demonstration or campaign imagery?
+13. Are dates or scope signals available where operating states may change?
+14. Does route-specific imagery improve selection accuracy?
+15. Does use-case imagery reduce uncertainty without implying outcome?
+16. Do guest smiles create unsupported satisfaction claims?
+17. Is social-impact language separated from visual association?
+18. Are pilot portraits connected to current roles rather than inspirational biography alone?
+19. Does human prominence survive mobile cropping?
+20. Does machine prominence overwhelm human attribution?
+21. Are photographs of wheelchair users paired with specific current provisions?
+22. Can image evidence distinguish access possibility from universal accessibility?
+23. Do important images have meaningful alternative text?
+24. Can non-visual users recover the same evidence claim?
+25. Does alternative text describe the operating relationship rather than only the robot object?
+26. Can a non-visual user understand which person controls which device?
+27. Does the site disclose where photography cannot prove live agency?
+28. Does operating copy identify limits of automation?
+29. Does photography prove café place without implying all experiences occur identically?
+30. Does product photography establish actual current capability?
+31. Are food and beverage images bounded away from guaranteed availability?
+32. Does the evidence system distinguish relationship gesture from relationship outcome?
+33. Can a guest identify what is human, automated and assisted?
+34. Is proof depth proportionate to the consequence of the claim?
+35. Does the visual sequence move from machine curiosity to human understanding?
+36. Would the social-purpose story remain coherent if robot novelty were visually reduced?
+37. Could the same operating claim be understood from text, diagram or audio alone?
+38. Does every retained image perform a distinct proof job?
+39. Does evidence remain valid during technical limitation or route change?
+40. Do independent observations materially contradict the official visual system?
+
+---
+
+# Photography Deduplication Decisions — Restaurant #17
+
+| Proposed direction | Closest existing concept | Decision |
+|---|---|---|
+| Machine-Visible / Human-Dependent Proof | Photography as Proof; Hospitality System Proof | Retain as architecture model |
+| Remote Human Proof | Human Operating Proof; Relationship Proof | Retain as DAWN mechanism |
+| Human-Agency Attribution | Relationship Proof; role proof | Retain as evidence requirement |
+| Robot as Embodiment Proof | Story Through Hospitality Model | Retain as subject-framing rule |
+| Montage as Relationship Architecture | Relational Proof Sequencing | Retain as evidence mechanism |
+| Temporal Agency Proof | Temporal Proof Sequencing; motion as evidence | Retain as architecture direction |
+| Pilot Portrait / Robot Action Pairing | Human Operating Proof | Retain as sequencing mechanism |
+| Relationship Gesture Proof | Relationship Proof | Merge with existing bounded proof depth |
+| Use-Case Proof | Photography as Use-Case Evidence | Do not create duplicate |
+| Accessibility Possibility Proof | accessibility evidence work | Retain as bounded proof type |
+| Operating-Model Evidence Substitution | Best Evidence Medium Depends on Claim | Merge into existing evidence-medium rule |
+| Human / AI Visual Ambiguity | interpretive accuracy | Retain as falsification risk |
+| Guest Expression Risk | Emotion Before Interface; outcome boundary | Retain as correction |
+| Evidence Accessibility | Accessible Proof Description | Merge and strengthen |
+| Machine / Person Visual Balance | narrative agency | Retain as composition variable |
 
 No duplicate canonical pattern is created.
 
-Restaurant #17 Photography Decision Ledger
+---
 
-The comparison now includes 17 independent restaurants.
+# Restaurant #17 Photography Decision Ledger
 
-The authoritative post–Dans le Noir? comparison remains intact as historical research state.
+1. The comparison now includes 17 independent restaurants.
+2. The authoritative post–Dans le Noir? comparison remains intact as historical research state.
+3. DAWN is added as the current contradiction and transfer case.
+4. The central architecture is Machine-Visible / Human-Dependent Proof.
+5. Visible machine evidence is separated from visible human agency.
+6. Device proof is separated from operating-model proof.
+7. Still action state is separated from live-agency proof.
+8. The most photographable subject is separated from the most meaningful difference.
+9. Human presence is separated from human-agency attribution.
+10. Montage is accepted as relationship architecture when composition and limits are clear.
+11. Montage is not treated as proof of simultaneity.
+12. Temporal Agency Proof is retained as an architecture direction.
+13. Robot as Embodiment Proof is retained as a framing mechanism.
+14. Use-case proof is separated from use-case outcome.
+15. Accessibility representation is separated from accessibility proof.
+16. Visual inclusion is separated from evidence accessibility.
+17. Guest expression is separated from satisfaction evidence.
+18. Layered evidence remains broader than layered photography.
+19. Photography as Proof receives support and boundary refinement.
+20. Photography Should Demonstrate Difference receives support and subject-selection refinement.
+21. Photography as Use-Case Evidence receives strong support.
+22. Photography Through Layers of Experience receives medium-fit refinement.
+23. Capacity Proof receives visible-infrastructure support but no performance proof.
+24. Hospitality System Proof, Story Through Hospitality Model and Narrative Coherence Through Organising Logic receive support without confidence change.
+25. All reviewed Emerging patterns remain Emerging.
+26. No pattern is promoted, demoted, renamed, merged or validated.
+27. Canonical totals remain 25 Candidate, 9 Emerging, 1 Partially Supported, 0 Validated and 0 research-derived Principles.
 
-DAWN is added as the current contradiction and transfer case.
-
-The central architecture is Machine-Visible / Human-Dependent Proof.
-
-Visible machine evidence is separated from visible human agency.
-
-Device proof is separated from operating-model proof.
-
-Still action state is separated from live-agency proof.
-
-The most photographable subject is separated from the most meaningful difference.
-
-Human presence is separated from human-agency attribution.
-
-Montage is accepted as relationship architecture when composition and limits are clear.
-
-Montage is not treated as proof of simultaneity.
-
-Temporal Agency Proof is retained as an architecture direction.
-
-Robot as Embodiment Proof is retained as a framing mechanism.
-
-Use-case proof is separated from use-case outcome.
-
-Accessibility representation is separated from accessibility proof.
-
-Visual inclusion is separated from evidence accessibility.
-
-Guest expression is separated from satisfaction evidence.
-
-Layered evidence remains broader than layered photography.
-
-Photography as Proof receives support and boundary refinement.
-
-Photography Should Demonstrate Difference receives support and subject-selection refinement.
-
-Photography as Use-Case Evidence receives strong support.
-
-Photography Through Layers of Experience receives medium-fit refinement.
-
-Capacity Proof receives visible-infrastructure support but no performance proof.
-
-Hospitality System Proof, Story Through Hospitality Model and Narrative Coherence Through Organising Logic receive support without confidence change.
-
-All reviewed Emerging patterns remain Emerging.
-
-No pattern is promoted, demoted, renamed, merged or validated.
-
-Canonical totals remain 25 Candidate, 9 Emerging, 1 Partially Supported, 0 Validated and 0 research-derived Principles.
-
-Why No Maturity Change Is Justified
+## Why No Maturity Change Is Justified
 
 This file supplies one dimensional comparison inside the Restaurant #17 cycle.
 
@@ -8992,21 +9169,27 @@ Restaurant #17 photography therefore supplies cross-case support, contradiction 
 
 It does not supply independent governance authority.
 
-Photography Comparison Conclusion — Post Avatar Robot Café DAWN, Tokyo
+---
+
+# Photography Comparison Conclusion — Post Avatar Robot Café DAWN, Tokyo
 
 After 17 independent restaurants, the core photography thesis is:
 
-Photography should prove the most decision-relevant visible difference, while the evidence medium must follow the claim that needs proof.
+> **Photography should prove the most decision-relevant visible difference, while the evidence medium must follow the claim that needs proof.**
 
 Dans le Noir? established:
 
+~~~text
 An experience can be materially different
 without its defining core being photographable.
+~~~
 
 DAWN now establishes:
 
+~~~text
 A system can be highly photographable
 while its defining agency remains visually incomplete.
+~~~
 
 Together, the two contradiction cases prevent Photography as Proof from becoming either a demand for direct depiction or a belief that visible novelty is sufficient evidence.
 
@@ -9016,6 +9199,7 @@ The defining hospitality model still requires human identity, role explanation, 
 
 The resulting minimum relationship proof is:
 
+~~~text
 Visible Machine
 +
 Named Pilot
@@ -9027,9 +9211,11 @@ Temporal Agency Evidence
 Guest Use Case
 ↓
 Bounded Relationship Confidence
+~~~
 
 The strongest cross-case refinement is therefore:
 
+~~~text
 Photography as Proof
 requires
 Claim-Fit Subject Selection
@@ -9039,16 +9225,19 @@ Correct Operating Interpretation
 Appropriate Evidence Medium
 +
 Accessible Meaning
+~~~
 
 Restaurant #17 produces no governance change.
 
 It produces a more demanding account of what an image must prove when the visible machine is not the true human centre of the experience.
 
-Validation
+---
+
+# Validation
 
 Comparison File:
 
-khds/research/comparison/photography.md
+`khds/research/comparison/photography.md`
 
 Status:
 
@@ -9154,9 +9343,9 @@ Governance Changes:
 
 Next Comparison File:
 
-khds/research/comparison/reservation.md
+`khds/research/comparison/reservation.md`
 
-Post–Refettorio Felix, London Photography Reconciliation
+# Post–Refettorio Felix, London Photography Reconciliation
 
 Restaurant added:
 
@@ -9180,39 +9369,29 @@ Canonical governance decision:
 
 pending completion of all five Restaurant #18 comparison files.
 
-Restaurant #18 Photography Evidence Input
+---
+
+# Restaurant #18 Photography Evidence Input
 
 Restaurant files reconciled:
 
-khds/research/restaurants/refettorio-felix-london/README.md
-
-khds/research/restaurants/refettorio-felix-london/arrival.md
-
-khds/research/restaurants/refettorio-felix-london/atmosphere.md
-
-khds/research/restaurants/refettorio-felix-london/photography.md
-
-khds/research/restaurants/refettorio-felix-london/reservation.md
-
-khds/research/restaurants/refettorio-felix-london/story.md
-
-khds/research/restaurants/refettorio-felix-london/knowledge-extraction.md
+- `khds/research/restaurants/refettorio-felix-london/README.md`
+- `khds/research/restaurants/refettorio-felix-london/arrival.md`
+- `khds/research/restaurants/refettorio-felix-london/atmosphere.md`
+- `khds/research/restaurants/refettorio-felix-london/photography.md`
+- `khds/research/restaurants/refettorio-felix-london/reservation.md`
+- `khds/research/restaurants/refettorio-felix-london/story.md`
+- `khds/research/restaurants/refettorio-felix-london/knowledge-extraction.md`
 
 Observed official visual evidence includes:
 
-a lunch hero focused on hands preparing food
-
-a nine-image food gallery
-
-a busy service/pass scene with identifiable people on the story surface
-
-place and programme imagery
-
-selected impact presentation
-
-filename-style alt text in the lunch gallery
-
-empty alternatives on some story or impact imagery
+- a lunch hero focused on hands preparing food
+- a nine-image food gallery
+- a busy service/pass scene with identifiable people on the story surface
+- place and programme imagery
+- selected impact presentation
+- filename-style alt text in the lunch gallery
+- empty alternatives on some story or impact imagery
 
 These can establish:
 
@@ -9220,23 +9399,18 @@ visible subject, composition, configuration and published use.
 
 They do not independently establish:
 
-informed consent
+- informed consent
+- ongoing consent
+- dignity
+- safeguarding
+- support quality
+- representative experience
+- social outcome
+- accessibility of meaning.
 
-ongoing consent
+---
 
-dignity
-
-safeguarding
-
-support quality
-
-representative experience
-
-social outcome
-
-accessibility of meaning.
-
-Current Canonical Entry State — Before Restaurant #18 Decision
+# Current Canonical Entry State — Before Restaurant #18 Decision
 
 Completed independent restaurants:
 
@@ -9264,131 +9438,166 @@ Research-derived KHDS Principles:
 
 No count changes are authorised here.
 
-Comparison 108 — The Most Emotionally Powerful Subject May Be the Least Ethical Proof Subject
+---
+
+# Comparison 108 — The Most Emotionally Powerful Subject May Be the Least Ethical Proof Subject
 
 A visibly vulnerable guest could create immediate emotional force while exposing identity, simplifying context or making hardship serve promotion.
 
+~~~text
 Emotional Force
 ≠
 Ethical Proof
+~~~
 
-Comparison 109 — Photography of Vulnerability Cannot Prove Support
+# Comparison 109 — Photography of Vulnerability Cannot Prove Support
 
 An image may show a person, setting or need. It cannot establish service quality, safeguarding, dignity, agency or durable outcome.
 
+~~~text
 Visible Vulnerability
 ≠
 Verified Support
+~~~
 
-Comparison 110 — Guest Privacy Can Strengthen Evidence Integrity
+# Comparison 110 — Guest Privacy Can Strengthen Evidence Integrity
 
 The absence of identifiable guest imagery may reflect restraint rather than missing proof when procedure, capacity, role and consent-compatible evidence remain available.
 
+~~~text
 Guest Privacy
 ≠
 Evidence Absence
+~~~
 
-Comparison 111 — Food Photography Can Prove Transformation Intent Without Proving the Recovery System
+# Comparison 111 — Food Photography Can Prove Transformation Intent Without Proving the Recovery System
 
 Finished dishes can show care and culinary form. They do not establish surplus origin, recovery volume, waste reduction or routine consistency.
 
+~~~text
 Finished Plate
 ≠
 Recovered-Food System
+~~~
 
-Comparison 112 — Shared-Table Photography Cannot Prove Belonging
+# Comparison 112 — Shared-Table Photography Cannot Prove Belonging
 
 A frame may show proximity and communal configuration while remaining unable to establish comfort, consent, connection or agency.
 
+~~~text
 Shared Table
 ≠
 Shared Belonging
+~~~
 
-Comparison 113 — A Human Face Does Not Prove Dignity
+# Comparison 113 — A Human Face Does Not Prove Dignity
 
 Expression and presence can be accurately photographed without proving how the person was treated or how they understood publication.
 
+~~~text
 Visible Person
 ≠
 Experienced Dignity
+~~~
 
-Comparison 114 — Consent Must Be Treated as Governance, Not an Inference From Publication
+# Comparison 114 — Consent Must Be Treated as Governance, Not an Inference From Publication
 
 An image appearing on an official site does not independently establish informed, specific, continuing or withdrawable consent.
 
+~~~text
 Published Image
 ≠
 Verified Consent
+~~~
 
-Comparison 115 — Mission-Led Photography Needs Stronger Claim Restraint
+# Comparison 115 — Mission-Led Photography Needs Stronger Claim Restraint
 
 The more morally compelling the story, the greater the risk that an image will be read as outcome evidence beyond what it can support.
 
+~~~text
 Mission Image
 ≠
 Impact Proof
+~~~
 
-Comparison 116 — Operational Photography Can Replace Vulnerability Spectacle
+# Comparison 116 — Operational Photography Can Replace Vulnerability Spectacle
 
 Food preparation, service roles, room configuration, donated goods and programme infrastructure can demonstrate the model without requiring guests to perform need.
 
+~~~text
 System Visibility
 ≠
 Person Exposure
+~~~
 
-Comparison 117 — Filename Alt Text Can Make Visible Evidence Functionally Inaccessible
+# Comparison 117 — Filename Alt Text Can Make Visible Evidence Functionally Inaccessible
 
 A gallery may contain useful images while its text alternative communicates file management rather than meaning.
 
+~~~text
 Image Present
 ≠
 Evidence Accessible
+~~~
 
-Comparison 118 — Empty Alt Text Requires Intentional Classification
+# Comparison 118 — Empty Alt Text Requires Intentional Classification
 
 Empty alternatives are appropriate for decoration but erase meaning when an image carries story, process or proof.
 
+~~~text
 Empty Alt
 ≠
 Decorative Image
+~~~
 
-Comparison 119 — Photography Can Demonstrate Hospitality Value Without Luxury Codes
+# Comparison 119 — Photography Can Demonstrate Hospitality Value Without Luxury Codes
 
 Food, hands, preparation, place and service can communicate care without relying on exclusivity, abundance spectacle or prestige aesthetics.
 
+~~~text
 Non-Luxury Image
 ≠
 Low-Value Proof
+~~~
 
-Comparison 120 — Activity Photography Must Not Become Outcome Photography
+# Comparison 120 — Activity Photography Must Not Become Outcome Photography
 
 Images of meals, volunteers or service can evidence activity but cannot establish social, health or wellbeing change.
 
+~~~text
 Activity Image
 ≠
 Outcome Evidence
+~~~
 
-Comparison 121 — Prestige Subjects Can Displace Everyday Operating Proof
+# Comparison 121 — Prestige Subjects Can Displace Everyday Operating Proof
 
 Guest chefs and named designers may be easy to photograph, while routine staff, volunteers, food systems and service continuity carry the daily model.
 
+~~~text
 Prestige Visibility
 ≠
 Operational Centrality
+~~~
 
-Comparison 122 — Dignity-Preserving Proof Is an Allocation Problem
+# Comparison 122 — Dignity-Preserving Proof Is an Allocation Problem
 
 The evidence system must assign each claim to a subject and medium capable of proving it without imposing disproportionate exposure on the guest.
 
+~~~text
 Available Image
 ≠
 Appropriate Evidence
+~~~
 
-Updated Photography Thesis — Post Restaurant #18
+
+---
+
+# Updated Photography Thesis — Post Restaurant #18
 
 The core thesis becomes:
 
-Photography should prove the most decision-relevant visible difference through the lowest-risk adequate subject, while claims that exceed the image must move to a more appropriate evidence medium.
+> **Photography should prove the most decision-relevant visible difference through the lowest-risk adequate subject, while claims that exceed the image must move to a more appropriate evidence medium.**
 
 Dans le Noir? established:
 
@@ -9404,6 +9613,7 @@ the most emotionally powerful subject may be ethically inappropriate as proof.
 
 The resulting evidence sequence is:
 
+~~~text
 Claim
 ↓
 Lowest-Risk Adequate Subject
@@ -9415,16 +9625,21 @@ Accessible Meaning
 Medium-Fit Evidence
 ↓
 Bounded Interpretation
+~~~
 
 The strongest new boundary is:
 
+~~~text
 Photography of Vulnerability
 ≠
 Proof of Support
+~~~
 
-Post–Refettorio Felix Photography Architecture Additions
+---
 
-Dignity-Preserving Proof
+# Post–Refettorio Felix Photography Architecture Additions
+
+## Dignity-Preserving Proof
 
 Selects subjects and media that explain the model without extracting vulnerability.
 
@@ -9436,7 +9651,7 @@ not:
 
 a new pattern.
 
-Privacy-Compatible Evidence
+## Privacy-Compatible Evidence
 
 Maintains proof through process, role, place, product and capacity when guest identity is protected.
 
@@ -9448,7 +9663,7 @@ not:
 
 a new pattern.
 
-System-Before-Subject Photography
+## System-Before-Subject Photography
 
 Prioritises the operating mechanism over the person receiving support.
 
@@ -9460,7 +9675,7 @@ not:
 
 a new pattern.
 
-Consent-Governed Human Imagery
+## Consent-Governed Human Imagery
 
 Treats publication as downstream of specific, informed and revisable consent.
 
@@ -9472,7 +9687,7 @@ not:
 
 a new pattern.
 
-Activity / Experience / Outcome Separation
+## Activity / Experience / Outcome Separation
 
 Prevents a service image from inheriting stronger claim status.
 
@@ -9484,7 +9699,7 @@ not:
 
 a new pattern.
 
-Surplus-Transformation Proof Stack
+## Surplus-Transformation Proof Stack
 
 Pairs food imagery with sourcing, process, quantity and temporal evidence.
 
@@ -9496,7 +9711,7 @@ not:
 
 a new pattern.
 
-Shared-Space / Unverified-Relationship Proof
+## Shared-Space / Unverified-Relationship Proof
 
 Shows configuration without claiming belonging.
 
@@ -9508,7 +9723,7 @@ not:
 
 a new pattern.
 
-Accessible Visual Meaning
+## Accessible Visual Meaning
 
 Requires useful alternatives for images carrying evidence.
 
@@ -9520,7 +9735,7 @@ not:
 
 a new pattern.
 
-Prestige / Daily-System Separation
+## Prestige / Daily-System Separation
 
 Keeps named collaborators from substituting for routine capacity.
 
@@ -9532,7 +9747,7 @@ not:
 
 a new pattern.
 
-Non-Luxury Value Proof
+## Non-Luxury Value Proof
 
 Demonstrates care, craft and hospitality without exclusive visual codes.
 
@@ -9544,7 +9759,7 @@ not:
 
 a new pattern.
 
-Role-Specific Visibility
+## Role-Specific Visibility
 
 Allocates staff, volunteer, donor, chef, partner and guest representation by claim and risk.
 
@@ -9556,7 +9771,7 @@ not:
 
 a new pattern.
 
-Evidence Burden Allocation
+## Evidence Burden Allocation
 
 Places the greatest proof burden on the institution rather than the vulnerable guest.
 
@@ -9568,41 +9783,29 @@ not:
 
 a new pattern.
 
-Photography / Proof Architecture — Post Restaurant #18 Consolidation
+
+---
+
+# Photography / Proof Architecture — Post Restaurant #18 Consolidation
 
 The consolidated proof model now includes:
 
-claim-fit subject selection
-
-direct visible proof
-
-threshold proof
-
-procedural proof
-
-temporal proof
-
-relationship proof
-
-accessible meaning
-
-evidence substitution
-
-freshness and scope
-
-configuration / agency separation
-
-dignity-preserving proof
-
-privacy-compatible evidence
-
-consent governance
-
-activity / experience / outcome separation
-
-system-before-subject photography
-
-evidence-burden allocation
+1. claim-fit subject selection
+2. direct visible proof
+3. threshold proof
+4. procedural proof
+5. temporal proof
+6. relationship proof
+7. accessible meaning
+8. evidence substitution
+9. freshness and scope
+10. configuration / agency separation
+11. dignity-preserving proof
+12. privacy-compatible evidence
+13. consent governance
+14. activity / experience / outcome separation
+15. system-before-subject photography
+16. evidence-burden allocation
 
 No claim requires:
 
@@ -9616,9 +9819,11 @@ within:
 
 ethical, temporal and accessibility boundaries.
 
-Current Photography Pattern Pressure — Post Restaurant #18
+---
 
-Photography as Proof
+# Current Photography Pattern Pressure — Post Restaurant #18
+
+## Photography as Proof
 
 Current state:
 
@@ -9636,7 +9841,7 @@ Decision:
 
 no confidence or maturity change.
 
-Photography Should Demonstrate Difference
+## Photography Should Demonstrate Difference
 
 Current state:
 
@@ -9654,7 +9859,7 @@ Decision:
 
 no confidence or maturity change.
 
-Photography as Use-Case Evidence
+## Photography as Use-Case Evidence
 
 Current state:
 
@@ -9672,7 +9877,7 @@ Decision:
 
 no confidence or maturity change.
 
-Photography Through Layers of Experience
+## Photography Through Layers of Experience
 
 Current state:
 
@@ -9690,7 +9895,7 @@ Decision:
 
 no confidence or maturity change.
 
-Capacity Proof
+## Capacity Proof
 
 Current state:
 
@@ -9708,7 +9913,7 @@ Decision:
 
 no confidence or maturity change.
 
-Hospitality System Proof
+## Hospitality System Proof
 
 Current state:
 
@@ -9726,7 +9931,7 @@ Decision:
 
 no confidence or maturity change.
 
-Story Through Hospitality Model
+## Story Through Hospitality Model
 
 Current state:
 
@@ -9744,7 +9949,7 @@ Decision:
 
 no confidence or maturity change.
 
-Narrative Coherence Through Organising Logic
+## Narrative Coherence Through Organising Logic
 
 Current state:
 
@@ -9762,7 +9967,7 @@ Decision:
 
 no confidence or maturity change.
 
-Photography Before Decoration
+## Photography Before Decoration
 
 Current state:
 
@@ -9780,7 +9985,7 @@ Decision:
 
 no confidence or maturity change.
 
-Emotion Before Interface
+## Emotion Before Interface
 
 Current state:
 
@@ -9798,7 +10003,7 @@ Decision:
 
 no confidence or maturity change.
 
-Promise Before Proof
+## Promise Before Proof
 
 Current state:
 
@@ -9816,7 +10021,7 @@ Decision:
 
 no confidence or maturity change.
 
-The Guest as Participant
+## The Guest as Participant
 
 Current state:
 
@@ -9834,7 +10039,7 @@ Decision:
 
 no confidence or maturity change.
 
-Atmosphere as Product
+## Atmosphere as Product
 
 Current state:
 
@@ -9852,7 +10057,7 @@ Decision:
 
 no confidence or maturity change.
 
-Show the System Behind the Plate
+## Show the System Behind the Plate
 
 Current state:
 
@@ -9870,273 +10075,283 @@ Decision:
 
 no confidence or maturity change.
 
-Post–Refettorio Felix Photography Corrections
 
-Correction 94
+---
+
+# Post–Refettorio Felix Photography Corrections
+
+## Correction 94
 
 The most emotionally powerful image may be the least appropriate proof image.
 
-Correction 95
+## Correction 95
 
 Photography of vulnerability does not prove support.
 
-Correction 96
+## Correction 96
 
 Guest privacy does not equal evidence absence.
 
-Correction 97
+## Correction 97
 
 Finished-food imagery does not establish surplus origin.
 
-Correction 98
+## Correction 98
 
 Shared-table imagery does not establish belonging.
 
-Correction 99
+## Correction 99
 
 A visible person does not prove experienced dignity.
 
-Correction 100
+## Correction 100
 
 Publication does not independently prove valid consent.
 
-Correction 101
+## Correction 101
 
 Mission intensity increases the need for claim restraint.
 
-Correction 102
+## Correction 102
 
 Operational photography can replace vulnerability spectacle.
 
-Correction 103
+## Correction 103
 
 Filename-style alt text does not provide meaningful evidence access.
 
-Correction 104
+## Correction 104
 
 Empty alt text must be reserved for genuinely decorative images.
 
-Correction 105
+## Correction 105
 
 Non-luxury visual language can still prove hospitality value.
 
-Correction 106
+## Correction 106
 
 Activity imagery must not become outcome imagery.
 
-Correction 107
+## Correction 107
 
 Prestige visibility does not establish daily operating centrality.
 
-Correction 108
+## Correction 108
 
 Evidence burden should fall primarily on the institution.
 
-Correction 109
+## Correction 109
 
 People receiving support must not be required to perform the mission.
 
-Correction 110
+## Correction 110
 
 Layered evidence does not mean exposing every layer visually.
 
-Strongest Photography / Proof Tensions After Restaurant #18
 
-Tension 23 — Proof Visibility vs Guest Privacy
+---
+
+# Strongest Photography / Proof Tensions After Restaurant #18
+
+# Tension 23 — Proof Visibility vs Guest Privacy
 
 The system must be legible without requiring identifiable exposure.
 
-Tension 24 — Emotional Force vs Ethical Restraint
+# Tension 24 — Emotional Force vs Ethical Restraint
 
 The strongest fundraising image may create the greatest risk of reduction or coercion.
 
-Tension 25 — Human Presence vs Human Dignity
+# Tension 25 — Human Presence vs Human Dignity
 
 A face can personalise the story while saying little about treatment or agency.
 
-Tension 26 — Shared Space vs Private Experience
+# Tension 26 — Shared Space vs Private Experience
 
 Communal configuration is photographable; belonging and safety remain individual.
 
-Tension 27 — Finished Product vs Operating System
+# Tension 27 — Finished Product vs Operating System
 
 Food is visible while surplus sourcing and daily coordination require other evidence.
 
-Tension 28 — Mission Coherence vs Outcome Inflation
+# Tension 28 — Mission Coherence vs Outcome Inflation
 
 A coherent image sequence may imply causal success beyond the evidence.
 
-Tension 29 — Prestige Visibility vs Daily Capacity
+# Tension 29 — Prestige Visibility vs Daily Capacity
 
 Chefs and designers attract attention while routine teams carry continuity.
 
-Tension 30 — Image Availability vs Evidence Accessibility
+# Tension 30 — Image Availability vs Evidence Accessibility
 
 A gallery can be visually rich and semantically inaccessible.
 
-Photography Falsification Programme After Restaurant #18
 
-Audit every identifiable person by role and claim purpose.
+---
 
-Document consent scope, context, retention, reuse and withdrawal.
+# Photography Falsification Programme After Restaurant #18
 
-Verify whether declining photography affects service or access.
+1. Audit every identifiable person by role and claim purpose.
 
-Test whether guests understand fundraising and publicity contexts.
+2. Document consent scope, context, retention, reuse and withdrawal.
 
-Look for evidence of coercive or implied consent.
+3. Verify whether declining photography affects service or access.
 
-Compare vulnerability-led and mechanism-led image comprehension.
+4. Test whether guests understand fundraising and publicity contexts.
 
-Test whether food, place and process can explain the model without guest exposure.
+5. Look for evidence of coercive or implied consent.
 
-Audit whether captions avoid deficit labels and salvage metaphors.
+6. Compare vulnerability-led and mechanism-led image comprehension.
 
-Check whether image crops preserve agency and context.
+7. Test whether food, place and process can explain the model without guest exposure.
 
-Verify that a guest is not reduced to a need category.
+8. Audit whether captions avoid deficit labels and salvage metaphors.
 
-Audit all image alt text for meaningful evidence content.
+9. Check whether image crops preserve agency and context.
 
-Replace filename-style alternatives with purpose-specific descriptions.
+10. Verify that a guest is not reduced to a need category.
 
-Confirm that empty alt text is used only for decorative images.
+11. Audit all image alt text for meaningful evidence content.
 
-Test keyboard and screen-reader access to galleries.
+12. Replace filename-style alternatives with purpose-specific descriptions.
 
-Check whether captions carry information unavailable visually.
+13. Confirm that empty alt text is used only for decorative images.
 
-Compare desktop and mobile image order.
+14. Test keyboard and screen-reader access to galleries.
 
-Test whether food images reflect ordinary service rather than exceptional events.
+15. Check whether captions carry information unavailable visually.
 
-Separate guest-chef imagery from daily kitchen proof.
+16. Compare desktop and mobile image order.
 
-Verify whether room imagery reflects routine occupancy and configuration.
+17. Test whether food images reflect ordinary service rather than exceptional events.
 
-Test whether shared-table images imply belonging beyond what is shown.
+18. Separate guest-chef imagery from daily kitchen proof.
 
-Document surplus sourcing with non-photographic evidence.
+19. Verify whether room imagery reflects routine occupancy and configuration.
 
-Pair finished-food images with process and temporal context.
+20. Test whether shared-table images imply belonging beyond what is shown.
 
-Do not infer taste or nutrition from food photography.
+21. Document surplus sourcing with non-photographic evidence.
 
-Compare published activity counts with image time and scope.
+22. Pair finished-food images with process and temporal context.
 
-Separate activity, experience and outcome claims in captions.
+23. Do not infer taste or nutrition from food photography.
 
-Do not infer social impact from smiles or proximity.
+24. Compare published activity counts with image time and scope.
 
-Seek consented testimony that preserves authorship and context.
+25. Separate activity, experience and outcome claims in captions.
 
-Do not treat selected testimony as representative.
+26. Do not infer social impact from smiles or proximity.
 
-Audit named designer imagery against practical accessibility evidence.
+27. Seek consented testimony that preserves authorship and context.
 
-Test whether prestige subjects displace operating roles.
+28. Do not treat selected testimony as representative.
 
-Show staff and volunteer roles without romanticising labour.
+29. Audit named designer imagery against practical accessibility evidence.
 
-Verify safeguarding boundaries in behind-the-scenes imagery.
+30. Test whether prestige subjects displace operating roles.
 
-Compare image evidence across ordinary and high-capacity days.
+31. Show staff and volunteer roles without romanticising labour.
 
-Test whether visual absence is correctly interpreted as privacy rather than inactivity.
+32. Verify safeguarding boundaries in behind-the-scenes imagery.
 
-Compare with a social-hospitality case using no identifiable guest images.
+33. Compare image evidence across ordinary and high-capacity days.
 
-Compare with a case using participant-authored photography.
+34. Test whether visual absence is correctly interpreted as privacy rather than inactivity.
 
-Compare with independent impact evaluation using minimal imagery.
+35. Compare with a social-hospitality case using no identifiable guest images.
 
-Test whether donors understand the system without vulnerability spectacle.
+36. Compare with a case using participant-authored photography.
 
-Assess whether each material claim has the lowest-risk adequate medium.
+37. Compare with independent impact evaluation using minimal imagery.
 
-Reject any image whose persuasive benefit depends on reducing a person to hardship.
+38. Test whether donors understand the system without vulnerability spectacle.
 
-Photography Deduplication Decisions — Restaurant #18
+39. Assess whether each material claim has the lowest-risk adequate medium.
 
-Dignity-Preserving Proof remains an architecture direction, not a duplicate pattern.
+40. Reject any image whose persuasive benefit depends on reducing a person to hardship.
 
-Privacy-Compatible Evidence remains a proof mechanism, not a new maturity object.
 
-System-Before-Subject Photography refines Photography as Proof and Hospitality System Proof.
+---
 
-Consent-Governed Human Imagery is an evidence-governance requirement.
+# Photography Deduplication Decisions — Restaurant #18
 
-Activity / Experience / Outcome Separation is a claim-classification rule.
+1. Dignity-Preserving Proof remains an architecture direction, not a duplicate pattern.
+2. Privacy-Compatible Evidence remains a proof mechanism, not a new maturity object.
+3. System-Before-Subject Photography refines Photography as Proof and Hospitality System Proof.
+4. Consent-Governed Human Imagery is an evidence-governance requirement.
+5. Activity / Experience / Outcome Separation is a claim-classification rule.
+6. Surplus-Transformation Proof Stack refines Show the System Behind the Plate.
+7. Accessible Visual Meaning refines existing accessibility boundaries.
+8. Evidence Burden Allocation is a governance direction, not a pattern.
 
-Surplus-Transformation Proof Stack refines Show the System Behind the Plate.
+---
 
-Accessible Visual Meaning refines existing accessibility boundaries.
+# Restaurant #18 Photography Decision Ledger
 
-Evidence Burden Allocation is a governance direction, not a pattern.
+1. Add Refettorio Felix as the eighteenth independent photography case.
 
-Restaurant #18 Photography Decision Ledger
+2. Classify it as a dignity-preserving proof contradiction case.
 
-Add Refettorio Felix as the eighteenth independent photography case.
+3. Treat vulnerability photography as ethically high-risk evidence.
 
-Classify it as a dignity-preserving proof contradiction case.
+4. Do not treat visible vulnerability as support proof.
 
-Treat vulnerability photography as ethically high-risk evidence.
+5. Treat guest privacy as potential evidence integrity.
 
-Do not treat visible vulnerability as support proof.
+6. Prioritise system-before-subject photography.
 
-Treat guest privacy as potential evidence integrity.
+7. Treat finished food as product and care evidence, not recovery-system proof.
 
-Prioritise system-before-subject photography.
+8. Require sourcing and process context for surplus claims.
 
-Treat finished food as product and care evidence, not recovery-system proof.
+9. Treat shared-table images as configuration evidence only.
 
-Require sourcing and process context for surplus claims.
+10. Do not infer belonging from proximity.
 
-Treat shared-table images as configuration evidence only.
+11. Treat identifiable human imagery as consent-governed.
 
-Do not infer belonging from proximity.
+12. Do not infer consent from publication.
 
-Treat identifiable human imagery as consent-governed.
+13. Separate activity, experience and outcome evidence.
 
-Do not infer consent from publication.
+14. Treat mission imagery with stronger claim restraint.
 
-Separate activity, experience and outcome evidence.
+15. Record filename-style alt text as an accessibility failure.
 
-Treat mission imagery with stronger claim restraint.
+16. Require intentional classification before using empty alt text.
 
-Record filename-style alt text as an accessibility failure.
+17. Accept non-luxury visual language as capable of strong proof.
 
-Require intentional classification before using empty alt text.
+18. Separate guest-chef prestige from daily capacity.
 
-Accept non-luxury visual language as capable of strong proof.
+19. Separate designer authorship from accessibility or dignity outcome.
 
-Separate guest-chef prestige from daily capacity.
+20. Place evidence burden on the institution rather than the guest.
 
-Separate designer authorship from accessibility or dignity outcome.
+21. Reinforce Photography as Proof without changing Medium-High confidence.
 
-Place evidence burden on the institution rather than the guest.
+22. Reinforce Photography Should Demonstrate Difference without changing confidence.
 
-Reinforce Photography as Proof without changing Medium-High confidence.
+23. Reinforce Photography as Use-Case Evidence without changing confidence.
 
-Reinforce Photography Should Demonstrate Difference without changing confidence.
+24. Reinforce Photography Through Layers without changing confidence.
 
-Reinforce Photography as Use-Case Evidence without changing confidence.
+25. Reinforce Hospitality System Proof without changing confidence.
 
-Reinforce Photography Through Layers without changing confidence.
+26. Apply very strong support to Photography Before Decoration without promotion.
 
-Reinforce Hospitality System Proof without changing confidence.
+27. Retain The Guest as Participant at Emerging.
 
-Apply very strong support to Photography Before Decoration without promotion.
+28. Make no promotion, demotion, merge or rename.
 
-Retain The Guest as Participant at Emerging.
+29. Make no confidence or maturity change.
 
-Make no promotion, demotion, merge or rename.
+30. Reserve governance decisions until all five Restaurant #18 comparisons are complete.
 
-Make no confidence or maturity change.
 
-Reserve governance decisions until all five Restaurant #18 comparisons are complete.
+---
 
-Photography Comparison Conclusion — Post Refettorio Felix, London
+# Photography Comparison Conclusion — Post Refettorio Felix, London
 
 After:
 
@@ -10146,10 +10361,11 @@ independent restaurants,
 
 the photography thesis is:
 
-Photography should prove material visible difference without demanding that the person carrying the greatest vulnerability also carry the greatest evidence burden.
+> **Photography should prove material visible difference without demanding that the person carrying the greatest vulnerability also carry the greatest evidence burden.**
 
 The three latest contradiction cases now establish:
 
+~~~text
 Dans le Noir?
 Core Experience May Be Unphotographable
 
@@ -10158,9 +10374,11 @@ Visible Object May Conceal Human Agency
 
 Refettorio Felix
 Visible Vulnerability May Be an Inappropriate Proof Subject
+~~~
 
 The strongest new proof model is:
 
+~~~text
 Food
 +
 Place
@@ -10174,34 +10392,43 @@ Capacity
 Consent-Compatible Testimony
 ↓
 System Confidence
+~~~
 
 not:
 
+~~~text
 Visible Vulnerability
 ↓
 Assumed Support Outcome
+~~~
 
 The strongest accessibility correction is:
 
+~~~text
 Image Present
 ≠
 Evidence Accessible
+~~~
 
 The strongest ethical correction is:
 
+~~~text
 Guest Privacy
 ≠
 Evidence Absence
+~~~
 
 Formal maturity decisions remain reserved until all five Restaurant #18 comparison files are complete.
 
 Evidence wins.
 
-Validation — Post Restaurant #18
+---
+
+# Validation — Post Restaurant #18
 
 Comparison File:
 
-khds/research/comparison/photography.md
+`khds/research/comparison/photography.md`
 
 Status:
 
@@ -10305,9 +10532,11 @@ Research-Derived KHDS Principles:
 
 Next Comparison File:
 
-khds/research/comparison/reservation.md
+`khds/research/comparison/reservation.md`
 
-Post–JBJ Soul Kitchen, Red Bank Photography Reconciliation
+---
+
+# Post–JBJ Soul Kitchen, Red Bank Photography Reconciliation
 
 Restaurant #19:
 
@@ -10323,6 +10552,7 @@ economic-status-blind proof.
 
 The latest four contradiction cases now establish:
 
+```text
 Dans le Noir?
 The Core Experience May Be Visually Unavailable
 
@@ -10334,44 +10564,45 @@ Visible Vulnerability May Be an Inappropriate Proof Subject
 
 JBJ Soul Kitchen
 A Visible Person Must Not Become Visible Economic Status
+```
 
 Restaurant #19 adds a difficult evidence condition.
 
 The restaurant must demonstrate:
 
-food quality
+- food quality
 
-restaurant form
+- restaurant form
 
-shared hospitality
+- shared hospitality
 
-human service
+- human service
 
-volunteer participation
+- volunteer participation
 
-reciprocal contribution
+- reciprocal contribution
 
-operating capacity
+- operating capacity
 
-long-term activity
+- long-term activity
 
 without:
 
-identifying who could not donate
+- identifying who could not donate
 
-identifying who volunteered in exchange for a meal
+- identifying who volunteered in exchange for a meal
 
-turning need into the visual product
+- turning need into the visual product
 
-implying consent from visibility
+- implying consent from visibility
 
-claiming equal experience from shared-room imagery
+- claiming equal experience from shared-room imagery
 
-claiming social outcome from smiling faces
+- claiming social outcome from smiling faces
 
 The central comparative question is:
 
-How can photography make a flexible-contribution hospitality system credible when the economic state most relevant to the model should remain visually unavailable?
+> **How can photography make a flexible-contribution hospitality system credible when the economic state most relevant to the model should remain visually unavailable?**
 
 Restaurant #19 is now:
 
@@ -10387,77 +10618,81 @@ all five Restaurant #19 comparison files
 
 are complete.
 
-Restaurant #19 Photography Evidence Input
+---
+
+# Restaurant #19 Photography Evidence Input
 
 The public visual system can potentially establish:
 
-visible food form
+- visible food form
 
-restaurant setting
+- restaurant setting
 
-kitchen activity
+- kitchen activity
 
-garden or sourcing context
+- garden or sourcing context
 
-staff identity
+- staff identity
 
-volunteer presence
+- volunteer presence
 
-founder presence
+- founder presence
 
-public events
+- public events
 
-group activity
+- group activity
 
-archival continuity
+- archival continuity
 
-location identity
+- location identity
 
 Photography cannot independently establish:
 
-taste
+- taste
 
-nutrition
+- nutrition
 
-same-meal consistency across contribution states
+- same-meal consistency across contribution states
 
-economic-status privacy
+- economic-status privacy
 
-contribution neutrality
+- contribution neutrality
 
-informed consent
+- informed consent
 
-consent persistence
+- consent persistence
 
-volunteer motivation
+- volunteer motivation
 
-volunteer empowerment
+- volunteer empowerment
 
-whether volunteering is exchange-based
+- whether volunteering is exchange-based
 
-equal service
+- equal service
 
-equal belonging
+- equal belonging
 
-dignity
+- dignity
 
-hospitality outcome
+- hospitality outcome
 
-pay-it-forward financial flow
+- pay-it-forward financial flow
 
-sustainable capacity
+- sustainable capacity
 
-reduced food insecurity
+- reduced food insecurity
 
-social impact causality
+- social impact causality
 
-current representativeness of historical images
+- current representativeness of historical images
 
 The governing rule is:
 
+```text
 Visible Evidence
 Must Remain Within
 Visible Claim Scope
+```
 
 All relationship,
 
@@ -10473,10 +10708,13 @@ require:
 
 additional evidence.
 
-Current Canonical Entry State — Before Restaurant #19 Photography Decision
+---
+
+# Current Canonical Entry State — Before Restaurant #19 Photography Decision
 
 The completed canonical governance state remains:
 
+```text
 Independent Restaurants: 18
 Track B Validation Cases: 1
 Candidate Patterns: 26
@@ -10488,6 +10726,7 @@ Implementation Patterns Pending Formal Validation: 1
 Opportunity Themes: 36
 Track B Implementation Learnings: 17
 Candidate Confidence: 9 High / 8 Medium-High / 9 Medium
+```
 
 The photography comparison now represents:
 
@@ -10499,31 +10738,33 @@ the canonical completed-restaurant count.
 
 Restaurant #19 contributes:
 
-comparative visual-evidence pressure
+- comparative visual-evidence pressure
 
-consent boundaries
+- consent boundaries
 
-privacy requirements
+- privacy requirements
 
-architecture directions
+- architecture directions
 
-falsification targets
+- falsification targets
 
 It does not contribute:
 
 an automatic promotion.
 
-Comparison 123 — The Most Relevant Guest Fact May Need to Remain Invisible
+---
+
+# Comparison 123 — The Most Relevant Guest Fact May Need to Remain Invisible
 
 JBJ Soul Kitchen’s contribution model distinguishes among:
 
-suggested-donation participation
+- suggested-donation participation
 
-additional pay-it-forward contribution
+- additional pay-it-forward contribution
 
-inability to donate
+- inability to donate
 
-possible exchange-for-meal volunteering
+- possible exchange-for-meal volunteering
 
 These differences are:
 
@@ -10535,27 +10776,29 @@ visual guest categories.
 
 Therefore:
 
+```text
 Visible Person
 ≠
 Visible Economic Status
+```
 
 Photography must not invite the viewer to infer economic state from:
 
-clothing
+- clothing
 
-table position
+- table position
 
-caption language
+- caption language
 
-queue position
+- queue position
 
-volunteer uniform
+- volunteer uniform
 
-service interaction
+- service interaction
 
-image sequence
+- image sequence
 
-page context
+- page context
 
 The proof task is:
 
@@ -10565,21 +10808,23 @@ without:
 
 sorting people inside it.
 
-Comparison 124 — Food Is the Safest Primary Subject and an Incomplete System Subject
+---
+
+# Comparison 124 — Food Is the Safest Primary Subject and an Incomplete System Subject
 
 Food photography can demonstrate:
 
-restaurant seriousness
+- restaurant seriousness
 
-culinary effort
+- culinary effort
 
-current product character
+- current product character
 
-presentation standard
+- presentation standard
 
-ingredient handling
+- ingredient handling
 
-menu variety over time
+- menu variety over time
 
 It can do so without:
 
@@ -10593,35 +10838,41 @@ But:
 
 food alone cannot demonstrate:
 
-contribution flexibility
+- contribution flexibility
 
-pay-it-forward flow
+- pay-it-forward flow
 
-volunteer relationships
+- volunteer relationships
 
-economic-state privacy
+- economic-state privacy
 
-equal service
+- equal service
 
-sourcing percentage
+- sourcing percentage
 
-operating sustainability
+- operating sustainability
 
 Therefore:
 
+```text
 Capability Before Vulnerability
+```
 
 is strong evidence architecture,
 
 while:
 
+```text
 Food Alone
 ≠
 Hospitality-System Proof
+```
 
 remains the boundary.
 
-Comparison 125 — A Finished Plate Cannot Prove Same-Meal Consistency
+---
+
+# Comparison 125 — A Finished Plate Cannot Prove Same-Meal Consistency
 
 One finished plate can show:
 
@@ -10635,15 +10886,15 @@ Neither can establish:
 
 that every guest received:
 
-the same course structure
+- the same course structure
 
-comparable portions
+- comparable portions
 
-comparable presentation
+- comparable presentation
 
-comparable choice
+- comparable choice
 
-comparable service attention
+- comparable service attention
 
 across:
 
@@ -10651,19 +10902,21 @@ different contribution states.
 
 Therefore:
 
+```text
 Finished Plate
 ≠
 Same-Meal Proof
+```
 
 Same-meal proof requires:
 
-service observation
+- service observation
 
-operational records
+- operational records
 
-representative sampling
+- representative sampling
 
-contribution-state privacy
+- contribution-state privacy
 
 Photography can support:
 
@@ -10671,19 +10924,21 @@ the claim.
 
 It cannot complete it.
 
-Comparison 126 — Pay It Forward Is Visually Orienting and Visually Unprovable
+---
+
+# Comparison 126 — Pay It Forward Is Visually Orienting and Visually Unprovable
 
 Pay-it-forward photography may use:
 
-meal imagery
+- meal imagery
 
-contribution prompts
+- contribution prompts
 
-people participating
+- people participating
 
-service sequences
+- service sequences
 
-symbolic exchange
+- symbolic exchange
 
 These images can orient:
 
@@ -10691,26 +10946,29 @@ the idea.
 
 They cannot prove:
 
-the financial amount transferred
+- the financial amount transferred
 
-the allocation rule
+- the allocation rule
 
-the number of meals funded
+- the number of meals funded
 
-the privacy of recipients
+- the privacy of recipients
 
-the absence of donor ownership
+- the absence of donor ownership
 
-the absence of gratitude pressure
+- the absence of gratitude pressure
 
 Therefore:
 
+```text
 Pay-It-Forward Image
 ≠
 Cross-Subsidy Proof
+```
 
 The correct evidence stack is:
 
+```text
 Visual Orientation
 +
 Financial Method
@@ -10720,6 +10978,7 @@ Operational Records
 Privacy Boundary
 +
 Claim Qualification
+```
 
 Photography is:
 
@@ -10729,19 +10988,21 @@ not:
 
 the proof system.
 
-Comparison 127 — Volunteer Visibility Can Clarify Role and Expose Economic State
+---
+
+# Comparison 127 — Volunteer Visibility Can Clarify Role and Expose Economic State
 
 Volunteer imagery can show:
 
-human participation
+- human participation
 
-service activity
+- service activity
 
-role distribution
+- role distribution
 
-community involvement
+- community involvement
 
-operating capacity
+- operating capacity
 
 At JBJ Soul Kitchen,
 
@@ -10763,15 +11024,19 @@ economic inference.
 
 The boundary is:
 
+```text
 Role Visibility
 ≠
 Economic Classification
+```
 
 and:
 
+```text
 Volunteer Image
 ≠
 Verified Empowerment
+```
 
 Role clarity must serve:
 
@@ -10781,61 +11046,67 @@ not:
 
 rank.
 
-Comparison 128 — Consent to Documentation Is Not Consent to Fundraising Identity
+---
+
+# Comparison 128 — Consent to Documentation Is Not Consent to Fundraising Identity
 
 A participant may consent to:
 
-local documentation
+- local documentation
 
-an event photograph
+- an event photograph
 
-a volunteer feature
+- a volunteer feature
 
-a staff biography
+- a staff biography
 
-a temporary campaign
+- a temporary campaign
 
 That does not establish consent to:
 
-fundraising use
+- fundraising use
 
-long-term reuse
+- long-term reuse
 
-cross-platform reuse
+- cross-platform reuse
 
-association with food insecurity
+- association with food insecurity
 
-association with inability to pay
+- association with inability to pay
 
-third-party media use
+- third-party media use
 
-future campaign context
+- future campaign context
 
 Therefore:
 
+```text
 Guest Photograph
 ≠
 Consent to Fundraising Use
+```
 
 Consent must be:
 
-specific
+- specific
 
-informed
+- informed
 
-time-bound
+- time-bound
 
-context-bound
+- context-bound
 
-purpose-bound
+- purpose-bound
 
-withdrawable
+- withdrawable
 
 Publication is not:
 
 proof that all those conditions remain true.
 
-Comparison 129 — Privacy Can Be Positive Evidence
+---
+
+# Comparison 129 — Privacy Can Be Positive Evidence
 
 Refettorio Felix established:
 
@@ -10845,15 +11116,15 @@ JBJ Soul Kitchen extends the finding.
 
 The absence of:
 
-economic-status labels
+- economic-status labels
 
-identifiable vulnerable guests
+- identifiable vulnerable guests
 
-before-and-after hardship imagery
+- before-and-after hardship imagery
 
-recipient classification
+- recipient classification
 
-donor-recipient pairing
+- donor-recipient pairing
 
 may demonstrate:
 
@@ -10861,15 +11132,19 @@ proof restraint.
 
 Therefore:
 
+```text
 Guest Privacy
 ≠
 Evidence Absence
+```
 
 and:
 
+```text
 Evidentiary Absence
 Can Be
 Governance Evidence
+```
 
 However:
 
@@ -10887,27 +11162,29 @@ The stronger model is:
 
 participant-controlled visibility.
 
-Comparison 130 — Anonymity Can Protect Dignity and Remove Agency
+---
+
+# Comparison 130 — Anonymity Can Protect Dignity and Remove Agency
 
 Anonymity can reduce:
 
-stigma
+- stigma
 
-status inference
+- status inference
 
-unwanted permanence
+- unwanted permanence
 
-fundraising extraction
+- fundraising extraction
 
 It can also prevent:
 
-self-representation
+- self-representation
 
-participant authorship
+- participant authorship
 
-chosen visibility
+- chosen visibility
 
-recognition of contribution
+- recognition of contribution
 
 The correct model is not:
 
@@ -10919,55 +11196,61 @@ never show.
 
 It is:
 
+```text
 Participant-Controlled Visibility
+```
 
 The participant should determine:
 
-whether
+- whether
 
-how
+- how
 
-where
+- where
 
-for what claim
+- for what claim
 
-for how long
+- for how long
 
 their image or voice is used.
 
-Comparison 131 — A Shared-Table Photograph Can Conceal Unequal Journeys
+---
+
+# Comparison 131 — A Shared-Table Photograph Can Conceal Unequal Journeys
 
 A shared-table image can establish:
 
-physical proximity
+- physical proximity
 
-room configuration
+- room configuration
 
-table density
+- table density
 
-visible food
+- visible food
 
-a moment of interaction
+- a moment of interaction
 
 It cannot establish:
 
-equal belonging
+- equal belonging
 
-equal service
+- equal service
 
-equal privacy
+- equal privacy
 
-equal contribution pressure
+- equal contribution pressure
 
-equal consent
+- equal consent
 
-equal emotional interpretation
+- equal emotional interpretation
 
 Therefore:
 
+```text
 Shared Table Image
 ≠
 Equal Belonging
+```
 
 One coherent frame may conceal:
 
@@ -10981,41 +11264,45 @@ than:
 
 the frame can prove.
 
-Comparison 132 — Busy Imagery Can Prove Activity and Hide Service Quality
+---
+
+# Comparison 132 — Busy Imagery Can Prove Activity and Hide Service Quality
 
 A busy image may show:
 
-occupied tables
+- occupied tables
 
-people moving
+- people moving
 
-food production
+- food production
 
-volunteer participation
+- volunteer participation
 
-apparent demand
+- apparent demand
 
 It cannot establish:
 
-sustainable staffing
+- sustainable staffing
 
-wait duration
+- wait duration
 
-service consistency
+- service consistency
 
-recovery quality
+- recovery quality
 
-guest comfort
+- guest comfort
 
-unmet demand
+- unmet demand
 
-live seat availability
+- live seat availability
 
 Therefore:
 
+```text
 Busy Frame
 ≠
 Sustainable Capacity
+```
 
 Capacity Proof requires:
 
@@ -11025,37 +11312,41 @@ outside:
 
 the frame.
 
-Comparison 133 — Founder Visibility Must Remain Proportionate to Operating Relevance
+---
+
+# Comparison 133 — Founder Visibility Must Remain Proportionate to Operating Relevance
 
 Founder imagery can explain:
 
-origin
+- origin
 
-public responsibility
+- public responsibility
 
-fundraising role
+- fundraising role
 
-continued involvement
+- continued involvement
 
 It can also displace:
 
-local staff
+- local staff
 
-volunteers
+- volunteers
 
-food
+- food
 
-Red Bank place
+- Red Bank place
 
-routine service
+- routine service
 
-accountable daily roles
+- accountable daily roles
 
 Therefore:
 
+```text
 Founder Presence
 ≠
 Routine Operation
+```
 
 Founder-Proportion Control requires:
 
@@ -11067,7 +11358,9 @@ not:
 
 celebrity recognisability.
 
-Comparison 134 — Historical Imagery Requires Era and Location Governance
+---
+
+# Comparison 134 — Historical Imagery Requires Era and Location Governance
 
 JBJ Soul Kitchen operates across:
 
@@ -11083,75 +11376,81 @@ a past moment.
 
 It may not accurately show:
 
-current Red Bank service
+- current Red Bank service
 
-current menu
+- current menu
 
-current staffing
+- current staffing
 
-current participation rules
+- current participation rules
 
-current physical condition
+- current physical condition
 
-the correct location
+- the correct location
 
 Therefore:
 
+```text
 Historical Image
 ≠
 Current Condition
+```
 
 Every operational image should retain:
 
-capture date
+- capture date
 
-location
+- location
 
-role context
+- role context
 
-programme state
+- programme state
 
-claim scope
+- claim scope
 
 Historical continuity and present-tense proof must remain separate.
 
-Comparison 135 — Alternative Text Must Preserve Meaning Without Inferring Vulnerability
+---
+
+# Comparison 135 — Alternative Text Must Preserve Meaning Without Inferring Vulnerability
 
 Alternative text can provide:
 
-subject identity
+- subject identity
 
-role context
+- role context
 
-food detail
+- food detail
 
-place detail
+- place detail
 
-process meaning
+- process meaning
 
-relationship meaning
+- relationship meaning
 
 It must not infer:
 
-inability to pay
+- inability to pay
 
-food insecurity
+- food insecurity
 
-need
+- need
 
-volunteer motivation
+- volunteer motivation
 
-emotional state
+- emotional state
 
-dignity
+- dignity
 
-satisfaction
+- satisfaction
 
 Therefore:
 
+```text
 Image Description
 ≠
 Permission to Guess
+```
 
 Accessible visual meaning requires:
 
@@ -11161,7 +11460,9 @@ not:
 
 speculation parity.
 
-Comparison 136 — The Institution Should Carry the Primary Evidence Burden
+---
+
+# Comparison 136 — The Institution Should Carry the Primary Evidence Burden
 
 A guest receiving:
 
@@ -11175,41 +11476,43 @@ support
 
 should not be required to provide:
 
-a face
+- a face
 
-a hardship story
+- a hardship story
 
-gratitude
+- gratitude
 
-testimony
+- testimony
 
-transformation narrative
+- transformation narrative
 
-proof of need
+- proof of need
 
 to make the institution credible.
 
 The institution can provide:
 
-operating procedures
+- operating procedures
 
-anonymised records
+- anonymised records
 
-food and process proof
+- food and process proof
 
-role accountability
+- role accountability
 
-audited financial evidence
+- audited financial evidence
 
-consent-compatible testimony
+- consent-compatible testimony
 
-independent evaluation
+- independent evaluation
 
 Therefore:
 
+```text
 Evidence Burden
 Belongs Primarily to
 The Institution
+```
 
 This is the deepest continuity between:
 
@@ -11219,41 +11522,45 @@ and:
 
 JBJ Soul Kitchen.
 
-Comparison 137 — Photography Can Prove Hospitality Quality Without Proving Hospitality Equality
+---
+
+# Comparison 137 — Photography Can Prove Hospitality Quality Without Proving Hospitality Equality
 
 Restaurant #19 photography can support confidence in:
 
-food quality cues
+- food quality cues
 
-service setting
+- service setting
 
-restaurant form
+- restaurant form
 
-visible care
+- visible care
 
-operational activity
+- operational activity
 
-accountable roles
+- accountable roles
 
 It cannot independently establish:
 
-contribution-neutral service
+- contribution-neutral service
 
-equal treatment
+- equal treatment
 
-equal choice
+- equal choice
 
-equal privacy
+- equal privacy
 
-equal dignity
+- equal dignity
 
-equal belonging
+- equal belonging
 
 Therefore:
 
+```text
 Restaurant-Quality Proof
 ≠
 Hospitality-Equality Proof
+```
 
 The latter requires:
 
@@ -11267,38 +11574,41 @@ and:
 
 operational accountability.
 
-Updated Photography Thesis — Post Restaurant #19
+---
+
+# Updated Photography Thesis — Post Restaurant #19
 
 The cross-restaurant thesis remains:
 
-Evidence quality depends on claim fit, not visual beauty.
+> **Evidence quality depends on claim fit, not visual beauty.**
 
 Restaurant #19 adds:
 
 proof quality also depends on:
 
-subject risk
+- subject risk
 
-consent scope
+- consent scope
 
-economic-status privacy
+- economic-status privacy
 
-role interpretation
+- role interpretation
 
-image age
+- image age
 
-location identity
+- location identity
 
-claim depth
+- claim depth
 
-non-visual evidence support
+- non-visual evidence support
 
 The refined thesis is:
 
-Photography should prove the lowest-risk visible part of a hospitality claim while preserving participant control and transferring non-visible proof burdens to accountable institutional evidence.
+> **Photography should prove the lowest-risk visible part of a hospitality claim while preserving participant control and transferring non-visible proof burdens to accountable institutional evidence.**
 
 The preferred proof sequence is:
 
+```text
 Product
 ↓
 Place
@@ -11314,9 +11624,11 @@ Aggregated Activity
 Participant-Controlled Voice
 ↓
 Outcome Qualification
+```
 
 The sequence must not become:
 
+```text
 Visible Vulnerability
 ↓
 Assumed Need
@@ -11324,74 +11636,77 @@ Assumed Need
 Assumed Gratitude
 ↓
 Assumed Impact
+```
 
-Post–JBJ Soul Kitchen Photography Architecture Additions
+---
 
-Economic-Status-Blind Photography
+# Post–JBJ Soul Kitchen Photography Architecture Additions
+
+## Economic-Status-Blind Photography
 
 Images do not enable classification by ability to pay.
 
-Contribution-Neutral Representation
+## Contribution-Neutral Representation
 
 Visual treatment does not rank donor, guest or volunteer roles.
 
-Reciprocity Without Recipient Exposure
+## Reciprocity Without Recipient Exposure
 
 The system shows cross-support without identifying who receives it.
 
-Dignity-Preserving Proof
+## Dignity-Preserving Proof
 
 The least exposing adequate subject carries the claim.
 
-Capability Before Vulnerability
+## Capability Before Vulnerability
 
 Food, process, place and accountable roles establish capability first.
 
-Participant-Controlled Visibility
+## Participant-Controlled Visibility
 
 The participant governs whether, how, where and for how long representation occurs.
 
-Consent Persistence
+## Consent Persistence
 
 Permission is reviewed across time, platform, campaign and claim context.
 
-Role Without Rank
+## Role Without Rank
 
 Captions clarify accountable roles without producing hospitality hierarchy.
 
-Same-Meal Proof
+## Same-Meal Proof
 
 Product parity is established through system and service evidence rather than guest classification.
 
-Cross-Subsidy Evidence Stack
+## Cross-Subsidy Evidence Stack
 
 Photography orients the model while financial and operational evidence proves it.
 
-Place–Process–Product Sequence
+## Place–Process–Product Sequence
 
 Visual proof moves through where, how and what.
 
-Activity / Outcome Separation
+## Activity / Outcome Separation
 
 Images establish activity while evaluation establishes outcomes.
 
-Historical Image Labelling
+## Historical Image Labelling
 
 Archival images retain date, location and programme context.
 
-Alt Text as Evidence Parity
+## Alt Text as Evidence Parity
 
 Decision-relevant visual meaning is available non-visually without harmful inference.
 
-Evidentiary Absence
+## Evidentiary Absence
 
 What is intentionally not shown may demonstrate privacy governance.
 
-Founder-Proportion Control
+## Founder-Proportion Control
 
 Founder visibility follows claim relevance rather than recognisability.
 
-Institution-Carried Evidence Burden
+## Institution-Carried Evidence Burden
 
 The organisation proves its system without requiring guest vulnerability performance.
 
@@ -11403,79 +11718,83 @@ They are not:
 
 new formal patterns.
 
-Photography / Proof Architecture — Post Restaurant #19 Consolidation
+---
+
+# Photography / Proof Architecture — Post Restaurant #19 Consolidation
 
 Restaurant #19 strengthens the current proof architecture through:
 
-product proof
+- product proof
 
-process proof
+- process proof
 
-place proof
+- place proof
 
-role proof
+- role proof
 
-relationship proof
+- relationship proof
 
-capacity proof
+- capacity proof
 
-outcome qualification
+- outcome qualification
 
-privacy-compatible evidence
+- privacy-compatible evidence
 
-dignity-preserving proof
+- dignity-preserving proof
 
-system-before-subject photography
+- system-before-subject photography
 
-consent-governed human imagery
+- consent-governed human imagery
 
-representative culinary proof
+- representative culinary proof
 
-use-case evidence
+- use-case evidence
 
-proof through procedure
+- proof through procedure
 
-perimeter proof
+- perimeter proof
 
-threshold proof
+- threshold proof
 
-post-experience reveal proof
+- post-experience reveal proof
 
-human-agency explanation
+- human-agency explanation
 
-temporal evidence
+- temporal evidence
 
-accessible visual meaning
+- accessible visual meaning
 
-activity / experience / outcome separation
+- activity / experience / outcome separation
 
-prestige / daily-system separation
+- prestige / daily-system separation
 
-evidence-burden allocation
+- evidence-burden allocation
 
-economic-status-blind photography
+- economic-status-blind photography
 
-contribution-neutral representation
+- contribution-neutral representation
 
-reciprocity without recipient exposure
+- reciprocity without recipient exposure
 
-participant-controlled visibility
+- participant-controlled visibility
 
-consent persistence
+- consent persistence
 
-role without rank
+- role without rank
 
-historical image labelling
+- historical image labelling
 
-evidentiary absence
+- evidentiary absence
 
-founder-proportion control
+- founder-proportion control
 
 No architecture item is promoted merely because it appears in this consolidated set.
 
-Current Photography Pattern Pressure — Post Restaurant #19
+---
 
-Photography as Proof
+# Current Photography Pattern Pressure — Post Restaurant #19
+
+## Photography as Proof
 
 Current state:
 
@@ -11513,7 +11832,7 @@ Decision:
 
 no confidence or maturity change.
 
-Photography Through Layers of Experience
+## Photography Through Layers of Experience
 
 Current state:
 
@@ -11547,7 +11866,7 @@ Decision:
 
 no confidence or maturity change.
 
-Photography Should Demonstrate Difference
+## Photography Should Demonstrate Difference
 
 Current state:
 
@@ -11569,7 +11888,7 @@ Decision:
 
 no confidence or maturity change.
 
-Photography as Use-Case Evidence
+## Photography as Use-Case Evidence
 
 Current state:
 
@@ -11599,7 +11918,7 @@ Decision:
 
 no confidence or maturity change.
 
-Capacity Proof
+## Capacity Proof
 
 Current state:
 
@@ -11617,7 +11936,7 @@ Decision:
 
 no confidence or maturity change.
 
-Show the System Behind the Plate
+## Show the System Behind the Plate
 
 Current state:
 
@@ -11635,7 +11954,7 @@ Decision:
 
 no confidence or maturity change.
 
-Story Through Hospitality Model
+## Story Through Hospitality Model
 
 Current state:
 
@@ -11653,7 +11972,7 @@ Decision:
 
 no confidence or maturity change.
 
-Hospitality System Proof
+## Hospitality System Proof
 
 Current state:
 
@@ -11669,7 +11988,7 @@ Decision:
 
 no confidence or maturity change.
 
-Story Through Place
+## Story Through Place
 
 Current state:
 
@@ -11687,7 +12006,7 @@ Decision:
 
 no confidence or maturity change.
 
-Narrative Coherence Through Organising Logic
+## Narrative Coherence Through Organising Logic
 
 Current state:
 
@@ -11705,7 +12024,7 @@ Decision:
 
 no confidence or maturity change.
 
-Biography When It Explains the Experience
+## Biography When It Explains the Experience
 
 Current state:
 
@@ -11723,7 +12042,7 @@ Decision:
 
 no confidence or maturity change.
 
-Photography Before Decoration
+## Photography Before Decoration
 
 Current state:
 
@@ -11739,7 +12058,7 @@ Decision:
 
 no promotion.
 
-The Guest as Participant
+## The Guest as Participant
 
 Current state:
 
@@ -11755,7 +12074,7 @@ Decision:
 
 no promotion.
 
-Promise Before Proof
+## Promise Before Proof
 
 Current state:
 
@@ -11773,7 +12092,7 @@ Decision:
 
 no promotion.
 
-Story Before Features
+## Story Before Features
 
 Current state:
 
@@ -11789,7 +12108,7 @@ Decision:
 
 no promotion.
 
-Emotion Before Interface
+## Emotion Before Interface
 
 Current state:
 
@@ -11805,7 +12124,7 @@ Decision:
 
 no promotion.
 
-Commitment Without Pressure
+## Commitment Without Pressure
 
 Current state:
 
@@ -11821,413 +12140,425 @@ Decision:
 
 no promotion.
 
-Post–JBJ Soul Kitchen Photography Corrections
+---
 
-Correction 111
+# Post–JBJ Soul Kitchen Photography Corrections
+
+## Correction 111
 
 The most relevant guest fact may need to remain visually unavailable.
 
-Correction 112
+## Correction 112
 
 A visible person must not become visible economic status.
 
-Correction 113
+## Correction 113
 
 Food is the safest primary subject and an incomplete system subject.
 
-Correction 114
+## Correction 114
 
 A finished plate does not prove same-meal consistency.
 
-Correction 115
+## Correction 115
 
 Pay-it-forward imagery cannot prove cross-subsidy.
 
-Correction 116
+## Correction 116
 
 Volunteer visibility can clarify role and expose economic state.
 
-Correction 117
+## Correction 117
 
 Role context must not become role rank.
 
-Correction 118
+## Correction 118
 
 Documentation consent does not automatically cover fundraising use.
 
-Correction 119
+## Correction 119
 
 Consent must persist across time, platform, campaign and claim context.
 
-Correction 120
+## Correction 120
 
 Guest privacy can be positive evidence.
 
-Correction 121
+## Correction 121
 
 Participant anonymity can protect dignity and erase agency.
 
-Correction 122
+## Correction 122
 
 Participant-controlled visibility is stronger than universal visibility or universal absence.
 
-Correction 123
+## Correction 123
 
 Shared-table imagery cannot prove equal belonging.
 
-Correction 124
+## Correction 124
 
 Busy imagery cannot prove sustainable capacity.
 
-Correction 125
+## Correction 125
 
 Founder visibility must follow operating relevance.
 
-Correction 126
+## Correction 126
 
 Historical images require date, location and programme-state labels.
 
-Correction 127
+## Correction 127
 
 Alternative text must not infer vulnerability.
 
-Correction 128
+## Correction 128
 
 Accessible evidence does not permit unsupported description.
 
-Correction 129
+## Correction 129
 
 The institution should carry the primary evidence burden.
 
-Correction 130
+## Correction 130
 
 Guests should not have to perform hardship to prove the mission.
 
-Correction 131
+## Correction 131
 
 Restaurant-quality proof is not hospitality-equality proof.
 
-Correction 132
+## Correction 132
 
 Activity imagery remains distinct from outcome evidence.
 
-Correction 133
+## Correction 133
 
 Absence of vulnerability imagery can strengthen evidence integrity.
 
-Correction 134
+## Correction 134
 
 Layered evidence does not require photographing every layer.
 
-Strongest Photography / Proof Tensions After Restaurant #19
+---
 
-Tension 31 — System Legibility vs Economic Privacy
+# Strongest Photography / Proof Tensions After Restaurant #19
+
+# Tension 31 — System Legibility vs Economic Privacy
 
 The contribution model must be understandable without sorting visible people by contribution state.
 
-Tension 32 — Capability Proof vs System Completeness
+# Tension 32 — Capability Proof vs System Completeness
 
 Food safely proves restaurant capability while leaving reciprocity and equality unproven.
 
-Tension 33 — Role Clarity vs Economic Classification
+# Tension 33 — Role Clarity vs Economic Classification
 
 Volunteer imagery can explain operations while inviting assumptions about exchange status.
 
-Tension 34 — Emotional Force vs Consent Freedom
+# Tension 34 — Emotional Force vs Consent Freedom
 
 The most persuasive human image may carry the highest coercion and reuse risk.
 
-Tension 35 — Privacy vs Participant Agency
+# Tension 35 — Privacy vs Participant Agency
 
 Anonymity can protect the person while removing their chosen voice.
 
-Tension 36 — Shared Visual Unity vs Different Guest Journeys
+# Tension 36 — Shared Visual Unity vs Different Guest Journeys
 
 One coherent dining-room frame may conceal different economic and emotional conditions.
 
-Tension 37 — Activity Visibility vs Capacity Reliability
+# Tension 37 — Activity Visibility vs Capacity Reliability
 
 Busy frames and milestones can show scale while hiding sustainability and unmet demand.
 
-Tension 38 — Founder Trust vs Local Operating Proof
+# Tension 38 — Founder Trust vs Local Operating Proof
 
 Recognition can build confidence while displacing everyday people and processes.
 
-Tension 39 — Historical Continuity vs Current Accuracy
+# Tension 39 — Historical Continuity vs Current Accuracy
 
 Archival imagery can demonstrate longevity while misrepresenting present service.
 
-Tension 40 — Accessible Description vs Harmful Inference
+# Tension 40 — Accessible Description vs Harmful Inference
 
 Alternative text must carry meaning without assigning need, status or emotion.
 
-Tension 41 — Reciprocity Explanation vs Recipient Exposure
+# Tension 41 — Reciprocity Explanation vs Recipient Exposure
 
 Cross-support must become legible without identifying who receives it.
 
-Tension 42 — Institutional Proof vs Guest Evidence Burden
+# Tension 42 — Institutional Proof vs Guest Evidence Burden
 
 The organisation needs credibility without requiring a guest to become the proof object.
 
-Photography Falsification Programme After Restaurant #19
+---
 
-Audit every published Red Bank image by page, date and claim.
+# Photography Falsification Programme After Restaurant #19
 
-Distinguish Red Bank assets from other JBJ Soul Kitchen locations.
+1. Audit every published Red Bank image by page, date and claim.
 
-Record capture date and programme state for every operational image.
+2. Distinguish Red Bank assets from other JBJ Soul Kitchen locations.
 
-Verify whether food imagery reflects current ordinary service.
+3. Record capture date and programme state for every operational image.
 
-Compare published plates across multiple menu cycles.
+4. Verify whether food imagery reflects current ordinary service.
 
-Test same-meal claims with operational records and service observation.
+5. Compare published plates across multiple menu cycles.
 
-Do not infer universal product parity from selected plate images.
+6. Test same-meal claims with operational records and service observation.
 
-Audit sourcing imagery against harvest, purchase and kitchen-use records.
+7. Do not infer universal product parity from selected plate images.
 
-Test whether process imagery represents routine work.
+8. Audit sourcing imagery against harvest, purchase and kitchen-use records.
 
-Separate event imagery from normal service imagery.
+9. Test whether process imagery represents routine work.
 
-Audit every identifiable person by role and proof purpose.
+10. Separate event imagery from normal service imagery.
 
-Test whether viewers infer economic status from guest imagery.
+11. Audit every identifiable person by role and proof purpose.
 
-Test whether clothing, placement, caption or sequence produces status inference.
+12. Test whether viewers infer economic status from guest imagery.
 
-Audit whether volunteer imagery implies exchange-for-meal status.
+13. Test whether clothing, placement, caption or sequence produces status inference.
 
-Separate general volunteers from exchange-for-meal volunteers in captions and evidence design.
+14. Audit whether volunteer imagery implies exchange-for-meal status.
 
-Verify whether role labels explain accountability without creating hierarchy.
+15. Separate general volunteers from exchange-for-meal volunteers in captions and evidence design.
 
-Review consent for capture, publication, fundraising and reuse separately.
+16. Verify whether role labels explain accountability without creating hierarchy.
 
-Verify consent scope by platform and campaign.
+17. Review consent for capture, publication, fundraising and reuse separately.
 
-Verify consent expiry and renewal rules.
+18. Verify consent scope by platform and campaign.
 
-Verify a practical withdrawal process.
+19. Verify consent expiry and renewal rules.
 
-Audit completed withdrawal cases.
+20. Verify a practical withdrawal process.
 
-Test whether declining photography affects dining, volunteering or support.
+21. Audit completed withdrawal cases.
 
-Test whether consent is freely given where resources or meals are involved.
+22. Test whether declining photography affects dining, volunteering or support.
 
-Review third-party media and partner reuse.
+23. Test whether consent is freely given where resources or meals are involved.
 
-Compare institution-authored and participant-authored representation.
+24. Review third-party media and partner reuse.
 
-Test whether anonymity protects privacy without erasing agency.
+25. Compare institution-authored and participant-authored representation.
 
-Offer participant-controlled visibility options.
+26. Test whether anonymity protects privacy without erasing agency.
 
-Audit whether quiet participation appears in the image system.
+27. Offer participant-controlled visibility options.
 
-Test whether shared-table images create unsupported belonging claims.
+28. Audit whether quiet participation appears in the image system.
 
-Test whether smiling faces produce unsupported satisfaction or dignity claims.
+29. Test whether shared-table images create unsupported belonging claims.
 
-Audit pay-it-forward imagery against financial and operational evidence.
+30. Test whether smiling faces produce unsupported satisfaction or dignity claims.
 
-Verify that donors cannot infer or claim a specific recipient.
+31. Audit pay-it-forward imagery against financial and operational evidence.
 
-Test whether cross-subsidy explanation works without recipient imagery.
+32. Verify that donors cannot infer or claim a specific recipient.
 
-Audit busy frames against throughput and staffing records.
+33. Test whether cross-subsidy explanation works without recipient imagery.
 
-Compare image density with service quality under load.
+34. Audit busy frames against throughput and staffing records.
 
-Separate public activity counts from capacity and outcome claims.
+35. Compare image density with service quality under load.
 
-Audit milestone images for typical-experience implication.
+36. Separate public activity counts from capacity and outcome claims.
 
-Measure founder share of the visual system.
+37. Audit milestone images for typical-experience implication.
 
-Compare founder visibility with claim relevance.
+38. Measure founder share of the visual system.
 
-Test whether local staff, volunteers, food and place remain legible.
+39. Compare founder visibility with claim relevance.
 
-Audit every image alternative text manually.
+40. Test whether local staff, volunteers, food and place remain legible.
 
-Replace filename-style alternatives with evidence-relevant description.
+41. Audit every image alternative text manually.
 
-Confirm that empty alternative text is reserved for decorative images.
+42. Replace filename-style alternatives with evidence-relevant description.
 
-Test keyboard and screen-reader access to visual sequences.
+43. Confirm that empty alternative text is reserved for decorative images.
 
-Ensure alternative text does not infer need, status, emotion or consent.
+44. Test keyboard and screen-reader access to visual sequences.
 
-Verify that captions carry necessary non-visual context.
+45. Ensure alternative text does not infer need, status, emotion or consent.
 
-Compare desktop and mobile evidence order.
+46. Verify that captions carry necessary non-visual context.
 
-Test whether photography increases confidence without increasing stigma.
+47. Compare desktop and mobile evidence order.
 
-Test whether food-first proof adequately explains restaurant quality.
+48. Test whether photography increases confidence without increasing stigma.
 
-Test which non-photographic evidence is needed to explain the model.
+49. Test whether food-first proof adequately explains restaurant quality.
 
-Seek participant review of representative language and imagery.
+50. Test which non-photographic evidence is needed to explain the model.
 
-Seek negative and ambivalent responses to the visual system.
+51. Seek participant review of representative language and imagery.
 
-Compare with Refettorio Felix’s dignity-preserving proof approach.
+52. Seek negative and ambivalent responses to the visual system.
 
-Compare with DAWN’s human-agency explanation problem.
+53. Compare with Refettorio Felix’s dignity-preserving proof approach.
 
-Compare with Dans le Noir?’s unavailable-core problem.
+54. Compare with DAWN’s human-agency explanation problem.
 
-Compare with another pay-what-you-can hospitality model.
+55. Compare with Dans le Noir?’s unavailable-core problem.
 
-Compare with a case using no identifiable guest photography.
+56. Compare with another pay-what-you-can hospitality model.
 
-Compare with participant-authored photography.
+57. Compare with a case using no identifiable guest photography.
 
-Compare with independent impact evaluation using minimal imagery.
+58. Compare with participant-authored photography.
 
-Reject any image whose persuasive value depends on economic classification or hardship performance.
+59. Compare with independent impact evaluation using minimal imagery.
 
-Photography Deduplication Decisions — Restaurant #19
+60. Reject any image whose persuasive value depends on economic classification or hardship performance.
 
-Economic-Status-Blind Photography remains architecture under Photography as Proof.
+---
 
-Contribution-Neutral Representation remains a representation mechanism, not a new pattern.
+# Photography Deduplication Decisions — Restaurant #19
 
-Reciprocity Without Recipient Exposure refines relationship-proof architecture.
+1. Economic-Status-Blind Photography remains architecture under Photography as Proof.
 
-Dignity-Preserving Proof remains shared with Restaurant #18 and is not duplicated.
+2. Contribution-Neutral Representation remains a representation mechanism, not a new pattern.
 
-Capability Before Vulnerability refines system-before-subject photography.
+3. Reciprocity Without Recipient Exposure refines relationship-proof architecture.
 
-Participant-Controlled Visibility extends consent-governed human imagery.
+4. Dignity-Preserving Proof remains shared with Restaurant #18 and is not duplicated.
 
-Consent Persistence is an evidence-governance requirement.
+5. Capability Before Vulnerability refines system-before-subject photography.
 
-Role Without Rank refines role-specific visibility.
+6. Participant-Controlled Visibility extends consent-governed human imagery.
 
-Same-Meal Proof remains a claim-specific evidence stack.
+7. Consent Persistence is an evidence-governance requirement.
 
-Cross-Subsidy Evidence Stack refines Hospitality System Proof.
+8. Role Without Rank refines role-specific visibility.
 
-Place–Process–Product Sequence refines layered evidence.
+9. Same-Meal Proof remains a claim-specific evidence stack.
 
-Activity / Outcome Separation remains a claim-classification rule.
+10. Cross-Subsidy Evidence Stack refines Hospitality System Proof.
 
-Historical Image Labelling extends evidence freshness and durability governance.
+11. Place–Process–Product Sequence refines layered evidence.
 
-Alt Text as Evidence Parity extends accessible visual meaning.
+12. Activity / Outcome Separation remains a claim-classification rule.
 
-Evidentiary Absence extends privacy-compatible evidence.
+13. Historical Image Labelling extends evidence freshness and durability governance.
 
-Founder-Proportion Control refines Biography When It Explains the Experience.
+14. Alt Text as Evidence Parity extends accessible visual meaning.
 
-Institution-Carried Evidence Burden extends Restaurant #18’s evidence-allocation direction.
+15. Evidentiary Absence extends privacy-compatible evidence.
 
-No architecture direction becomes a formal pattern in this file.
+16. Founder-Proportion Control refines Biography When It Explains the Experience.
 
-Restaurant #19 Photography Decision Ledger
+17. Institution-Carried Evidence Burden extends Restaurant #18’s evidence-allocation direction.
 
-Add JBJ Soul Kitchen, Red Bank as the nineteenth independent photography comparison case.
+18. No architecture direction becomes a formal pattern in this file.
 
-Classify it as an economic-status-blind proof contradiction case.
+---
 
-Treat visible economic classification as a proof failure.
+# Restaurant #19 Photography Decision Ledger
 
-Treat food as the safest primary visual subject.
+1. Add JBJ Soul Kitchen, Red Bank as the nineteenth independent photography comparison case.
 
-Do not treat food as complete hospitality-system proof.
+2. Classify it as an economic-status-blind proof contradiction case.
 
-Do not treat a finished plate as same-meal proof.
+3. Treat visible economic classification as a proof failure.
 
-Require representative and operational evidence for product parity.
+4. Treat food as the safest primary visual subject.
 
-Treat pay-it-forward imagery as orientation, not cross-subsidy proof.
+5. Do not treat food as complete hospitality-system proof.
 
-Require financial and operational evidence for reciprocal funding claims.
+6. Do not treat a finished plate as same-meal proof.
 
-Treat volunteer imagery as role evidence only within explicit scope.
+7. Require representative and operational evidence for product parity.
 
-Do not infer exchange status, motivation or empowerment from volunteer imagery.
+8. Treat pay-it-forward imagery as orientation, not cross-subsidy proof.
 
-Treat consent as specific, informed, time-bound, context-bound and withdrawable.
+9. Require financial and operational evidence for reciprocal funding claims.
 
-Do not infer fundraising consent from publication.
+10. Treat volunteer imagery as role evidence only within explicit scope.
 
-Treat guest privacy as potential evidence integrity.
+11. Do not infer exchange status, motivation or empowerment from volunteer imagery.
 
-Preserve participant-controlled visibility.
+12. Treat consent as specific, informed, time-bound, context-bound and withdrawable.
 
-Do not let anonymity erase agency by default.
+13. Do not infer fundraising consent from publication.
 
-Treat shared-table imagery as configuration evidence only.
+14. Treat guest privacy as potential evidence integrity.
 
-Do not infer belonging, equality or contribution neutrality from proximity.
+15. Preserve participant-controlled visibility.
 
-Treat busy frames as activity evidence, not sustainable-capacity proof.
+16. Do not let anonymity erase agency by default.
 
-Treat founder imagery as relevant only to origin, responsibility or operating role.
+17. Treat shared-table imagery as configuration evidence only.
 
-Require date, location and programme-state labels for historical imagery.
+18. Do not infer belonging, equality or contribution neutrality from proximity.
 
-Treat alternative text as evidence parity.
+19. Treat busy frames as activity evidence, not sustainable-capacity proof.
 
-Prohibit unsupported vulnerability inference in alternative text.
+20. Treat founder imagery as relevant only to origin, responsibility or operating role.
 
-Place the primary evidence burden on the institution.
+21. Require date, location and programme-state labels for historical imagery.
 
-Do not require guests to perform hardship, gratitude or transformation.
+22. Treat alternative text as evidence parity.
 
-Separate restaurant-quality proof from hospitality-equality proof.
+23. Prohibit unsupported vulnerability inference in alternative text.
 
-Reinforce Photography as Proof without changing Medium-High confidence.
+24. Place the primary evidence burden on the institution.
 
-Reinforce Photography Through Layers without changing Medium confidence.
+25. Do not require guests to perform hardship, gratitude or transformation.
 
-Reinforce Photography Should Demonstrate Difference without changing Medium-High confidence.
+26. Separate restaurant-quality proof from hospitality-equality proof.
 
-Reinforce Photography as Use-Case Evidence without changing Medium-High confidence.
+27. Reinforce Photography as Proof without changing Medium-High confidence.
 
-Apply capacity boundaries without changing Medium-High confidence.
+28. Reinforce Photography Through Layers without changing Medium confidence.
 
-Reinforce Show the System Behind the Plate without changing High confidence.
+29. Reinforce Photography Should Demonstrate Difference without changing Medium-High confidence.
 
-Reinforce Story Through Hospitality Model without changing High confidence.
+30. Reinforce Photography as Use-Case Evidence without changing Medium-High confidence.
 
-Reinforce Hospitality System Proof without changing High confidence.
+31. Apply capacity boundaries without changing Medium-High confidence.
 
-Reinforce Story Through Place without changing High confidence.
+32. Reinforce Show the System Behind the Plate without changing High confidence.
 
-Reinforce Narrative Coherence Through Organising Logic without changing High confidence.
+33. Reinforce Story Through Hospitality Model without changing High confidence.
 
-Retain Biography When It Explains the Experience at High confidence.
+34. Reinforce Hospitality System Proof without changing High confidence.
 
-Apply very strong pressure to Photography Before Decoration without promotion.
+35. Reinforce Story Through Place without changing High confidence.
 
-Retain The Guest as Participant at Emerging.
+36. Reinforce Narrative Coherence Through Organising Logic without changing High confidence.
 
-Retain Promise Before Proof at Emerging.
+37. Retain Biography When It Explains the Experience at High confidence.
 
-Retain Story Before Features at Emerging.
+38. Apply very strong pressure to Photography Before Decoration without promotion.
 
-Retain Emotion Before Interface at Emerging.
+39. Retain The Guest as Participant at Emerging.
 
-Retain Commitment Without Pressure at Emerging.
+40. Retain Promise Before Proof at Emerging.
 
-Make no promotion, demotion, merge or rename.
+41. Retain Story Before Features at Emerging.
 
-Make no confidence or maturity change.
+42. Retain Emotion Before Interface at Emerging.
 
-Preserve all canonical counts pending governance reconciliation.
+43. Retain Commitment Without Pressure at Emerging.
 
-Count Restaurant #19 once, not once per dimension.
+44. Make no promotion, demotion, merge or rename.
 
-Reserve formal decisions until all five Restaurant #19 comparisons are complete.
+45. Make no confidence or maturity change.
 
-Photography Comparison Conclusion — Post JBJ Soul Kitchen, Red Bank
+46. Preserve all canonical counts pending governance reconciliation.
+
+47. Count Restaurant #19 once, not once per dimension.
+
+48. Reserve formal decisions until all five Restaurant #19 comparisons are complete.
+
+---
+
+# Photography Comparison Conclusion — Post JBJ Soul Kitchen, Red Bank
 
 After:
 
@@ -12237,7 +12568,7 @@ independent restaurant cases,
 
 the photography thesis becomes:
 
-Photography should prove restaurant capability and material visible difference without requiring the person carrying the greatest economic vulnerability to carry the greatest evidence burden.
+> **Photography should prove restaurant capability and material visible difference without requiring the person carrying the greatest economic vulnerability to carry the greatest evidence burden.**
 
 Restaurant #16 established:
 
@@ -12257,6 +12588,7 @@ the person may be visible while their economic state must remain unavailable.
 
 The strongest proof model is:
 
+```text
 Food
 +
 Place
@@ -12274,9 +12606,11 @@ Participant-Controlled Voice
 Independent Outcome Evidence
 ↓
 System Confidence
+```
 
 not:
 
+```text
 Visible Person
 ↓
 Assumed Economic Status
@@ -12284,58 +12618,71 @@ Assumed Economic Status
 Assumed Need
 ↓
 Assumed Impact
+```
 
 The strongest privacy boundary is:
 
+```text
 Visible Person
 ≠
 Visible Economic Status
+```
 
 The strongest product boundary is:
 
+```text
 Finished Plate
 ≠
 Same-Meal Proof
+```
 
 The strongest relationship boundary is:
 
+```text
 Pay-It-Forward Image
 ≠
 Cross-Subsidy Proof
+```
 
 The strongest consent boundary is:
 
+```text
 Guest Photograph
 ≠
 Consent to Fundraising Use
+```
 
 The strongest accessibility boundary is:
 
+```text
 Image Description
 ≠
 Permission to Guess
+```
 
 The strongest governance rule is:
 
+```text
 Evidence Burden
 Belongs Primarily to
 The Institution
+```
 
 Restaurant #19 does not justify:
 
-a Candidate promotion
+- a Candidate promotion
 
-an Emerging promotion
+- an Emerging promotion
 
-a confidence increase
+- a confidence increase
 
-a confidence decrease
+- a confidence decrease
 
-a demotion
+- a demotion
 
-a validation
+- a validation
 
-a research-derived Principle
+- a research-derived Principle
 
 It contributes:
 
@@ -12351,11 +12698,13 @@ Formal maturity decisions remain reserved until all five Restaurant #19 comparis
 
 Evidence wins.
 
-Validation — Post Restaurant #19 Photography Comparison
+---
+
+# Validation — Post Restaurant #19 Photography Comparison
 
 Comparison File:
 
-khds/research/comparison/photography.md
+`khds/research/comparison/photography.md`
 
 Status:
 
@@ -12467,4 +12816,1842 @@ Research-Derived KHDS Principles:
 
 Next Comparison File:
 
-khds/research/comparison/reservation.md
+`khds/research/comparison/reservation.md`
+
+---
+
+# Post–SAME Café Denver Photography Reconciliation
+
+Restaurant #20 adds:
+
+SAME Café Denver
+
+to the independent photography and proof comparison.
+
+This reconciliation begins from:
+
+the completed Post–JBJ Soul Kitchen photography state.
+
+It preserves:
+
+- all nineteen earlier cases
+- the existing visual-evidence hierarchy
+- the Post–JBJ economic-status-blind boundary
+- the separation between photography and proof
+- the separation between activity, experience, outcome and causality
+- current pattern maturity
+- and current Candidate confidence.
+
+It adds:
+
+- explicit time, money and produce representation
+- contribution-state-blind photography
+- visible participation without classification
+- food before vulnerability
+- participant-controlled visibility
+- role depiction without rank
+- work-to-guest visual re-entry
+- contribution-neutral food proof
+- historical-image labelling
+- accessible alternative-text governance
+- proof through absence
+- and revocable story architecture.
+
+Canonical governance decision:
+
+```text
+No Change
+```
+
+---
+
+# Why SAME Café Is a Distinct Photography Case
+
+SAME Café's public difference is:
+
+not only visible food,
+
+visible place
+
+or:
+
+visible people.
+
+Its meaningful difference is:
+
+an explicit contribution system
+
+intended to preserve:
+
+equal guesthood.
+
+The three contribution routes are:
+
+- time
+- money
+- produce.
+
+They are not equally photographable.
+
+Money may be:
+
+visually absent.
+
+Produce may be:
+
+materially visible.
+
+Time may be:
+
+visible as labour.
+
+This creates a representational imbalance.
+
+If the system shows time contribution more often because it is visually active,
+
+it may imply that:
+
+- participation means labour
+- labour identifies need
+- visible work is the moral centre
+- or money and produce routes are less authentic.
+
+The central question is:
+
+```text
+How can photography prove explicit reciprocity
+
+without making contribution status
+
+visually available?
+```
+
+---
+
+# Current Canonical Entry State — Before Restaurant #20 Photography Decision
+
+```text
+Independent restaurants completed: 19
+Restaurant #20: Arrival and Atmosphere Comparisons Complete
+Track B validation cases: 1
+Candidate patterns: 26
+Candidate / High: 9
+Candidate / Medium-High: 8
+Candidate / Medium: 9
+Emerging patterns: 8
+Partially Supported patterns: 1
+Validated patterns: 0
+Research-Derived KHDS Principles: 0
+Implementation patterns pending validation: 1
+Opportunity Themes: 36
+Track B Implementation Learnings: 17
+```
+
+The Post–JBJ photography comparison established:
+
+```text
+Visible Person
+≠
+Visible Economic Status
+```
+
+SAME Café extends that boundary to:
+
+```text
+Visible Contribution
+≠
+Permission to Infer Need
+```
+
+---
+
+# Five Contradiction Cases — Photography Comparison
+
+| Case | Defining Difference | Photography Problem | Required Proof Correction |
+| --- | --- | --- | --- |
+| Dans le Noir? London | The core experience removes sight | The product cannot be shown from the guest's sensory position | Photograph the perimeter, people, procedure and consequence without simulating darkness as proof |
+| Avatar Robot Café DAWN Tokyo | Remote pilots embody service through OriHime robots | Robot imagery can erase the human relationship or imply autonomous AI | Show pilot–robot–guest relationship and disclose the operating model |
+| Refettorio Felix London | Non-transactional hosted community dining | Dignity imagery can expose guests or aestheticise vulnerability | Shift evidence burden toward place, food, accountable people and procedure |
+| JBJ Soul Kitchen, Red Bank | Flexible contribution and volunteering invitation | Images may invite economic-status inference | Preserve participant visibility while withholding contribution classification |
+| SAME Café Denver | Explicit time, money or produce exchange | The routes are unequally visible and may create visual hierarchy | Demonstrate the system without linking a person to a contribution state |
+
+Across the five cases:
+
+photography should demonstrate:
+
+meaningful difference.
+
+But demonstration may occur through:
+
+- direct subject evidence
+- truthful sequence
+- relationship evidence
+- visible perimeter
+- documented procedure
+- aggregate evidence
+- consequences
+- or protected absence.
+
+The correction remains:
+
+```text
+Photography of Difference
+≠
+Literal Exposure of Every Mechanism
+```
+
+---
+
+# Eight Photography Proof Layers — Restaurant #20 Reconciliation
+
+## Layer 1 — Product Proof
+
+Food imagery can establish:
+
+- current culinary capability
+- meal completeness
+- presentation
+- daily variation
+- and restaurant identity.
+
+It cannot establish:
+
+- equal access
+- equal contribution burden
+- equal service
+- or equal guesthood.
+
+## Layer 2 — Ingredient Proof
+
+Ingredient and produce imagery can establish:
+
+- material inputs
+- freshness cues
+- variety
+- and preparation context.
+
+It cannot establish:
+
+- contribution source
+- produce acceptance fairness
+- waste reduction outcome
+- or local economic impact.
+
+## Layer 3 — Process Proof
+
+Preparation imagery can establish:
+
+- work
+- craft
+- kitchen activity
+- and operational capability.
+
+It cannot establish:
+
+- labour conditions
+- volunteer consent
+- task accessibility
+- or contribution neutrality.
+
+## Layer 4 — Place Proof
+
+Interior and exterior imagery can establish:
+
+- existence
+- spatial character
+- seating configuration
+- service environment
+- and some accessibility cues.
+
+It cannot establish:
+
+- felt welcome
+- equal treatment
+- sensory safety
+- or lived belonging.
+
+## Layer 5 — People and Role Proof
+
+Staff and volunteer imagery can establish:
+
+- human presence
+- role existence
+- collaboration
+- and activity.
+
+It must not imply:
+
+- economic need
+- programme status
+- contribution route
+- personal outcome
+- or permanent consent.
+
+## Layer 6 — Relationship Proof
+
+Relational imagery may show:
+
+- service exchange
+- shared work
+- conversation
+- and co-presence.
+
+It cannot establish:
+
+- trust
+- dignity
+- belonging
+- reciprocity without debt
+- or equal power.
+
+## Layer 7 — Capacity and Activity Proof
+
+Aggregate imagery and records may establish:
+
+- meals produced
+- events held
+- volunteer activity
+- training sessions
+- and operational scale.
+
+They cannot establish:
+
+- unique people served
+- participant experience
+- employment outcome
+- housing stability
+- or causality.
+
+## Layer 8 — Outcome Proof
+
+Outcome claims require:
+
+- defined measures
+- time boundaries
+- denominator clarity
+- participant control
+- independent support
+- and causal restraint.
+
+A photograph alone cannot establish:
+
+social outcome.
+
+---
+
+# Proof Subject Versus Proof Claim
+
+| Visible Subject | Defensible Claim | Unsupported Leap |
+| --- | --- | --- |
+| Finished plate | A dish was prepared and photographed | Every guest received the same meal |
+| Multiple plates | Multiple servings existed at one moment | All contribution routes receive identical food |
+| Produce | Produce was present | It was donated, accepted fairly or reduced waste |
+| Dough or preparation | A process occurred | Labour was equitable or training succeeded |
+| Café interior | A physical environment exists | Every guest felt welcome or safe |
+| Staff portrait | A staff member is publicly represented | Service is consistently respectful |
+| Volunteer working | A person performed visible activity | The person needed a meal or experienced agency |
+| Guest eating | A meal interaction occurred | The guest lacked money, felt dignity or achieved an outcome |
+| Founder portrait | An origin figure exists | Current operation depends on that person |
+| Group celebration | A group gathered | The whole community belongs |
+| Organisational chart | Roles are documented | Power is experienced as equal |
+
+The proof rule is:
+
+```text
+Visible Subject
+supports only
+the narrowest defensible visible claim.
+```
+
+---
+
+# Contribution Status Must Remain Visually Unavailable
+
+SAME Café requires operational recognition of:
+
+contribution route.
+
+Photography does not require:
+
+public contribution classification.
+
+The image system should not allow a viewer to conclude that a pictured person:
+
+- could not pay
+- worked for a meal
+- received charity
+- entered training
+- completed community service
+- experienced housing instability
+- or belongs to a beneficiary category.
+
+This applies to:
+
+- image composition
+- sequencing
+- filename
+- alternative text
+- caption
+- page placement
+- metadata
+- campaign context
+- and reuse.
+
+The central visual privacy boundary is:
+
+```text
+Contribution-State Recognition
+≠
+Contribution-State Exposure
+```
+
+---
+
+# Time, Money and Produce Are Not Equally Photographable
+
+## Time
+
+Time becomes visible through:
+
+action.
+
+This can create:
+
+high visual drama
+
+and:
+
+high classification risk.
+
+## Money
+
+Money may be represented through:
+
+- signage
+- payment mechanism
+- aggregate reporting
+- or accountable explanation.
+
+Photographing an individual payment can expose:
+
+amount,
+
+choice
+
+or:
+
+status.
+
+## Produce
+
+Produce is visually rich.
+
+But showing a handoff may imply:
+
+- donor identity
+- route value
+- acceptance
+- or moral priority.
+
+Balanced representation does not require:
+
+equal image counts.
+
+It requires:
+
+equal conceptual legitimacy
+
+without:
+
+person-level classification.
+
+---
+
+# Food Before Vulnerability
+
+Food can carry:
+
+the first proof burden.
+
+It can show:
+
+- restaurant competence
+- current product
+- care
+- preparation
+- and material hospitality.
+
+This allows the organisation to avoid making:
+
+personal hardship
+
+the primary evidence object.
+
+The sequence should prefer:
+
+```text
+Food
+→
+Place
+→
+Process
+→
+Accountable People
+→
+Participation Mechanism
+→
+Relationship
+→
+Aggregate Activity
+→
+Participant-Controlled Voice
+→
+Qualified Outcome
+```
+
+This is not a universal page order.
+
+It is:
+
+an evidence-allocation discipline.
+
+---
+
+# Relationship Proof Without Exposure
+
+SAME Café may need to show:
+
+reciprocity.
+
+Relationship proof can be carried by:
+
+- hands preparing food
+- shared tools
+- spatial proximity without identification
+- service gestures
+- staff explanation
+- process sequence
+- aggregate participation
+- and participant-controlled testimony.
+
+It should not depend on:
+
+- visible hardship
+- tears
+- before-and-after identity
+- contribution-route labels
+- forced gratitude
+- or donor-centred transformation framing.
+
+The correction is:
+
+```text
+Relationship Visibility
+≠
+Participant Exposure
+```
+
+---
+
+# Work-to-Guest Visual Re-entry
+
+The work-for-meal route creates a visual sequence:
+
+```text
+Guest
+→
+Worker
+→
+Guest
+```
+
+Photographing only:
+
+the work stage
+
+can fix a person inside:
+
+labour identity.
+
+Photographing the full sequence may still:
+
+reveal contribution route.
+
+The visual system should therefore show:
+
+the operating possibility
+
+without making an identifiable person's route:
+
+the proof object.
+
+Possible evidence objects include:
+
+- task stations without identity
+- staff demonstration
+- diagrams
+- written procedure
+- aggregate task categories
+- participant-authored accounts
+- and staged instructional content clearly identified as such.
+
+The boundary is:
+
+```text
+Process Proof
+≠
+Permission to Trace a Person's Route
+```
+
+---
+
+# Participant-Controlled Visibility
+
+Consent must be specific to:
+
+- capture
+- subject role
+- caption
+- channel
+- audience
+- duration
+- campaign
+- fundraising use
+- partner reuse
+- and withdrawal.
+
+Consent to appear in:
+
+an event gallery
+
+does not automatically include:
+
+- donation advertising
+- volunteer recruitment
+- annual reporting
+- press distribution
+- or permanent archive use.
+
+The correction is:
+
+```text
+Consent to Capture
+≠
+Consent to Every Reuse
+```
+
+For people whose image may expose:
+
+programme,
+
+contribution
+
+or:
+
+economic status,
+
+withdrawal must be:
+
+operationally real.
+
+---
+
+# Alternative Text as Evidence Parity
+
+Alternative text should communicate:
+
+the image's evidentiary function.
+
+It should avoid:
+
+- inferred emotion
+- inferred need
+- inferred generosity
+- inferred outcome
+- unnecessary race or disability description
+- contribution-route labelling
+- and moral interpretation.
+
+For example:
+
+defensible:
+
+```text
+Two people prepare food at a stainless-steel work surface.
+```
+
+not defensible without explicit context and consent:
+
+```text
+A person in need earns a meal by volunteering.
+```
+
+The access rule is:
+
+```text
+Visual Privacy
+must survive
+non-visual description.
+```
+
+---
+
+# Absence as Evidence Integrity
+
+The absence of:
+
+participant vulnerability imagery
+
+is not:
+
+an evidence failure.
+
+It may be:
+
+evidence discipline.
+
+Photography can yield to:
+
+- procedure
+- data
+- audit
+- participant-controlled testimony
+- accessibility information
+- staff accountability
+- and qualified reporting.
+
+The correction is:
+
+```text
+Image Absence
+≠
+Evidence Absence
+```
+
+Protected absence is especially important when:
+
+the subject itself would disclose:
+
+what the organisation has a duty to protect.
+
+---
+
+# Image Age and Present-Tense Claims
+
+SAME Café's public image set may include:
+
+- current daily menus
+- earlier events
+- founder history
+- programme images
+- and archival organisational moments.
+
+An image may truthfully document:
+
+a past event.
+
+It may not prove:
+
+current operation.
+
+Every consequential image should make clear:
+
+- date
+- location
+- programme
+- role
+- current or historical status
+- and whether the scene was documentary or staged.
+
+The correction is:
+
+```text
+Historical Image
+≠
+Current Capacity Proof
+```
+
+---
+
+# Activity, Experience, Outcome and Causality
+
+## Activity
+
+Visible:
+
+- meal preparation
+- volunteering
+- training
+- event participation
+- and food service.
+
+## Experience
+
+Requires direct evidence of:
+
+- dignity
+- safety
+- welcome
+- pressure
+- belonging
+- and control.
+
+## Outcome
+
+Requires defined evidence of:
+
+- employment
+- skill attainment
+- improved food access
+- durable relationship
+- or another measured change.
+
+## Causality
+
+Requires evidence that:
+
+the organisation contributed to:
+
+the outcome
+
+under:
+
+a defensible method.
+
+The proof ladder is:
+
+```text
+Activity
+≠
+Experience
+≠
+Outcome
+≠
+Causality
+```
+
+Photography primarily supports:
+
+activity
+
+and visible configuration.
+
+---
+
+# Post–SAME Café Photography Architecture Additions
+
+## 1. Contribution-State-Blind Photography
+
+Show operation without identifying contribution state.
+
+## 2. Visible Participation Without Classification
+
+Depict activity without assigning economic meaning.
+
+## 3. Food Before Vulnerability
+
+Move the first proof burden to product and operation.
+
+## 4. Participant-Controlled Visibility
+
+Give the person authority over context and reuse.
+
+## 5. Consent Persistence
+
+Treat consent as maintained governance rather than a one-time release.
+
+## 6. Role Without Rank
+
+Explain operational roles without creating hierarchy.
+
+## 7. Time / Money / Produce Representation Balance
+
+Preserve equal legitimacy across unequally visible routes.
+
+## 8. Work-to-Guest Visual Re-entry
+
+Prevent work imagery from fixing permanent identity.
+
+## 9. Contribution-Neutral Food Proof
+
+Do not link plate quality to route.
+
+## 10. Place–Product–Process Sequence
+
+Build confidence before using identifiable participant evidence.
+
+## 11. Activity / Outcome Separation
+
+Keep visual activity inside its evidentiary level.
+
+## 12. Historical Image Labelling
+
+Prevent past imagery from proving present capacity.
+
+## 13. Alt Text as Evidence Parity
+
+Preserve claim and privacy discipline in non-visual description.
+
+## 14. Evidentiary Absence
+
+Use protected absence where exposure would create harm.
+
+## 15. Founder-Proportion Control
+
+Preserve origin without displacing present participants and operators.
+
+## 16. Event / Ordinary-Service Separation
+
+Do not use event imagery as ordinary lunch proof.
+
+## 17. Programme-Status Privacy
+
+Prevent imagery from revealing training or community-service status.
+
+## 18. Anti-Bias Caption Governance
+
+Apply anti-bias discipline to language surrounding images.
+
+## 19. Revocable Story Architecture
+
+Make withdrawal possible across current channels and archives.
+
+## 20. Proof Without Human Exposure
+
+Let systems, data and accountable institutions carry sensitive claims.
+
+All twenty remain:
+
+research architecture.
+
+None are entered into:
+
+the formal registry
+
+from this comparison.
+
+---
+
+# Post–SAME Café Photography Corrections
+
+## Correction 1
+
+```text
+Visible Contribution
+≠
+Visible Economic Status
+```
+
+## Correction 2
+
+```text
+Visible Activity
+≠
+Verified Agency
+```
+
+## Correction 3
+
+```text
+Finished Plate
+≠
+Equal Meal Access
+```
+
+## Correction 4
+
+```text
+Multiple Plates
+≠
+Contribution-Neutral Service
+```
+
+## Correction 5
+
+```text
+Produce Present
+≠
+Produce Accepted Fairly
+```
+
+## Correction 6
+
+```text
+Volunteer Working
+≠
+Volunteer Empowered
+```
+
+## Correction 7
+
+```text
+Guest Photograph
+≠
+Permission to Infer Need
+```
+
+## Correction 8
+
+```text
+Group Photograph
+≠
+Community Belonging
+```
+
+## Correction 9
+
+```text
+Human Presence
+≠
+Relationship Quality
+```
+
+## Correction 10
+
+```text
+Consent to Capture
+≠
+Consent to Every Reuse
+```
+
+## Correction 11
+
+```text
+Alternative Text
+≠
+Permission to Add Inference
+```
+
+## Correction 12
+
+```text
+Current Page
+≠
+Current Image
+```
+
+## Correction 13
+
+```text
+Historical Image
+≠
+Current Capacity Proof
+```
+
+## Correction 14
+
+```text
+Event Energy
+≠
+Ordinary Service Atmosphere
+```
+
+## Correction 15
+
+```text
+Founder Visibility
+≠
+Current Operating Authority
+```
+
+## Correction 16
+
+```text
+Activity
+≠
+Experience
+```
+
+## Correction 17
+
+```text
+Experience
+≠
+Outcome
+```
+
+## Correction 18
+
+```text
+Outcome
+≠
+Causality
+```
+
+## Correction 19
+
+```text
+Image Absence
+≠
+Evidence Absence
+```
+
+## Correction 20
+
+```text
+Photography as Proof
+≠
+Photography as Complete Proof
+```
+
+---
+
+# Post–SAME Café Candidate Pressure
+
+## Photography as Proof — Candidate / Medium-High
+
+Support:
+
+product, place, process, people and activity images can carry distinct evidence.
+
+Blocker:
+
+photography cannot establish contribution neutrality, dignity or outcome.
+
+Decision:
+
+retain Medium-High.
+
+## Photography Through Layers of Experience — Candidate / Medium
+
+Support:
+
+eight visual-proof layers and multiple non-visual proof layers are required.
+
+Blocker:
+
+layer completeness and sequencing performance remain unverified.
+
+Decision:
+
+retain Medium.
+
+## Photography Should Demonstrate Difference — Candidate / Medium-High
+
+Support:
+
+the defining difference is explicit reciprocity without rank.
+
+Blocker:
+
+literal depiction can expose contribution state.
+
+Decision:
+
+retain Medium-High.
+
+## Photography as Use-Case Evidence — Candidate / Medium-High
+
+Support:
+
+food, dining, volunteering, training, events and catering require distinct evidence.
+
+Blocker:
+
+role imagery may create classification.
+
+Decision:
+
+retain Medium-High.
+
+## Capacity Proof — Candidate / Medium-High
+
+Support:
+
+aggregate and process evidence can support capacity understanding.
+
+Blocker:
+
+static imagery cannot establish live meal, seat or task availability.
+
+Decision:
+
+retain Medium-High.
+
+## Show the System Behind the Plate — Candidate / High
+
+Support:
+
+the contribution and operating system materially explains the meal.
+
+Blocker:
+
+system visibility must not expose participants.
+
+Decision:
+
+retain High.
+
+## Story Through Hospitality Model — Candidate / High
+
+Support:
+
+time, money and produce form the story's operational mechanism.
+
+Blocker:
+
+equality in performance remains unverified.
+
+Decision:
+
+retain High.
+
+## Hospitality System Proof — Candidate / High
+
+Support:
+
+the social promise requires evidence beyond visual atmosphere.
+
+Blocker:
+
+performed, experiential and outcome proof remain incomplete.
+
+Decision:
+
+retain High.
+
+## Story Through Place — Candidate / High
+
+Support:
+
+the Denver and East Colfax context may ground present operation.
+
+Blocker:
+
+place imagery cannot prove current local reciprocity.
+
+Decision:
+
+retain High.
+
+## Narrative Coherence Through Organising Logic — Candidate / High
+
+Support:
+
+time, money and produce supply a coherent visual and verbal structure.
+
+Blocker:
+
+coherence does not resolve route equivalence.
+
+Decision:
+
+retain High.
+
+## Biography When It Explains the Experience — Candidate / High
+
+Support:
+
+founder imagery may explain origin.
+
+Blocker:
+
+founder prominence can displace current operation.
+
+Decision:
+
+retain High.
+
+## Atmosphere Through Worldview — Candidate / High
+
+Support:
+
+imagery can align food, people, place and participation with the worldview.
+
+Blocker:
+
+visual alignment does not establish lived atmosphere.
+
+Decision:
+
+retain High.
+
+Formal photography decision:
+
+```text
+Candidate promotions: 0
+Candidate demotions: 0
+Candidate confidence increases: 0
+Candidate confidence decreases: 0
+```
+
+---
+
+# Post–SAME Café Emerging Pressure
+
+## Photography Before Decoration
+
+Pressure:
+
+high.
+
+Reason:
+
+every image should carry a bounded evidence function.
+
+Decision:
+
+remain Emerging.
+
+## The Guest as Participant
+
+Pressure:
+
+high.
+
+Reason:
+
+participation is visually important and classification-sensitive.
+
+Decision:
+
+remain Emerging.
+
+## Promise Before Proof
+
+Pressure:
+
+medium.
+
+Reason:
+
+the universal promise requires proof that photography cannot complete.
+
+Decision:
+
+remain Emerging.
+
+## Story Before Features
+
+Pressure:
+
+medium.
+
+Reason:
+
+story may organise proof but must not override evidence level.
+
+Decision:
+
+remain Emerging.
+
+## Emotion Before Interface
+
+Pressure:
+
+medium.
+
+Reason:
+
+emotional imagery can increase vulnerability extraction.
+
+Decision:
+
+remain Emerging.
+
+## Commitment Without Pressure
+
+Pressure:
+
+medium.
+
+Reason:
+
+visual celebration of contribution can create moral pressure.
+
+Decision:
+
+remain Emerging.
+
+## Atmosphere as Product
+
+Pressure:
+
+low within photography.
+
+Reason:
+
+atmosphere imagery does not establish an experienced product.
+
+Decision:
+
+remain Emerging.
+
+Formal photography decision:
+
+```text
+Emerging promotions: 0
+Emerging demotions: 0
+Emerging renames: 0
+```
+
+---
+
+# Post–SAME Café Photography Falsification Programme
+
+## Inventory and Currency
+
+1. Inventory every current public image.
+
+2. Record page, placement, filename and source.
+
+3. Determine capture date.
+
+4. Determine depicted programme and location.
+
+5. Separate current and historical imagery.
+
+6. Identify staged, documentary and stock imagery.
+
+## Product and Process
+
+7. Compare menu imagery with current food.
+
+8. Verify whether dates accompany daily menu images.
+
+9. Test whether food images represent ordinary portions.
+
+10. Verify ingredient-source claims separately.
+
+11. Audit preparation images for role and labour claims.
+
+12. Test whether process imagery hides operating variability.
+
+## Contribution-State Privacy
+
+13. Identify images that reveal time contribution.
+
+14. Identify images that imply monetary contribution.
+
+15. Identify images that show produce handoff.
+
+16. Test whether captions expose route.
+
+17. Test whether page placement exposes route.
+
+18. Test whether metadata exposes programme status.
+
+19. Ask participants whether viewers could infer need.
+
+20. Test whether visual balance privileges one route.
+
+## Consent and Control
+
+21. Review capture consent.
+
+22. Review caption consent.
+
+23. Review role-disclosure consent.
+
+24. Review fundraising-use consent.
+
+25. Review partner-reuse consent.
+
+26. Review duration and expiry.
+
+27. Test withdrawal procedure.
+
+28. Verify removal across archives and third parties.
+
+## Alternative Text
+
+29. Audit alternative text completeness.
+
+30. Compare visible claim and text claim.
+
+31. Remove inferred emotion.
+
+32. Remove inferred economic status.
+
+33. Remove unsupported outcome language.
+
+34. Test screen-reader sequence.
+
+## Role and Relationship
+
+35. Distinguish staff, volunteer and guest only where necessary and consented.
+
+36. Test whether role depiction creates hierarchy.
+
+37. Test whether work imagery fixes identity.
+
+38. Verify participant control over testimony.
+
+39. Compare relationship imagery with participant interpretation.
+
+40. Seek negative and ambivalent accounts.
+
+## Activity and Outcome
+
+41. Classify every claim as configuration, activity, experience, outcome or causality.
+
+42. Match every image to its defensible level.
+
+43. Verify meal-count denominators.
+
+44. Separate meals from unique people.
+
+45. Separate training from employment.
+
+46. Separate employment from housing causality.
+
+47. Review before-and-after framing.
+
+48. Remove unsupported transformation claims.
+
+## Founder, Event and Programme Scope
+
+49. Measure founder-image proportion.
+
+50. Compare founder visibility with current operators.
+
+51. Separate event imagery from ordinary lunch.
+
+52. Separate Cook to Work imagery from dining.
+
+53. Separate community-service participation from ordinary volunteering.
+
+54. Separate catering imagery from mission meals.
+
+## Proof Alternatives
+
+55. Test process diagrams as route evidence.
+
+56. Test aggregate data as activity evidence.
+
+57. Test policy evidence for consent and anti-bias claims.
+
+58. Test accountable staff explanation.
+
+59. Test participant-authored, revocable testimony.
+
+60. Determine where image absence is the most ethical evidence choice.
+
+Required evidence:
+
+- full image inventory
+- capture and reuse records
+- alternative-text audit
+- participant interviews
+- contributor-role privacy review
+- dated operational evidence
+- outcome methodology
+- and withdrawal testing.
+
+---
+
+# Post–SAME Café Photography Comparative Decisions
+
+1. Add SAME Café Denver as the twentieth independent photography case.
+
+2. Preserve the complete Post–JBJ photography record.
+
+3. Classify SAME Café as an explicit-contribution visual privacy case.
+
+4. Treat food, place, process, people, relationship, activity and outcome as separate proof layers.
+
+5. Treat photography as partial proof.
+
+6. Do not treat photography as complete proof.
+
+7. Treat time, money and produce as unequally photographable.
+
+8. Do not let visual availability determine route legitimacy.
+
+9. Treat contribution-state blindness as a visual requirement.
+
+10. Do not infer need from visible participation.
+
+11. Treat food as a first proof object.
+
+12. Do not treat food as proof of equal guesthood.
+
+13. Treat process imagery as capability evidence.
+
+14. Do not infer labour conditions from process imagery.
+
+15. Treat people imagery as high-consent evidence.
+
+16. Do not use vulnerability as institutional proof.
+
+17. Treat relationship visibility as distinct from relationship quality.
+
+18. Treat work-to-guest re-entry as classification-sensitive.
+
+19. Do not trace an identifiable person's contribution journey without explicit control.
+
+20. Treat alternative text as part of evidence governance.
+
+21. Preserve visual privacy in non-visual description.
+
+22. Treat historical images as historical evidence.
+
+23. Do not use historical imagery as current capacity proof.
+
+24. Separate events, training, ordinary dining and catering.
+
+25. Treat participant consent as contextual and revocable.
+
+26. Do not infer permanent reuse from capture consent.
+
+27. Preserve absence as an ethical evidence choice.
+
+28. Shift sensitive proof burden toward accountable institutions.
+
+29. Separate activity, experience, outcome and causality.
+
+30. Do not infer transformation from a photograph.
+
+31. Retain Photography as Proof at Candidate / Medium-High.
+
+32. Retain Photography Through Layers of Experience at Candidate / Medium.
+
+33. Retain Photography Should Demonstrate Difference at Candidate / Medium-High.
+
+34. Retain Photography as Use-Case Evidence at Candidate / Medium-High.
+
+35. Retain Capacity Proof at Candidate / Medium-High.
+
+36. Retain Show the System Behind the Plate at Candidate / High.
+
+37. Retain all narrative Candidate confidence levels.
+
+38. Retain Photography Before Decoration as Emerging.
+
+39. Make no maturity or confidence change from the photography comparison.
+
+40. Move Restaurant #20 to reservation comparison.
+
+---
+
+# Post–SAME Café Photography Comparison Conclusion
+
+Across twenty independent restaurant cases,
+
+photography is best understood as:
+
+a bounded evidence layer.
+
+It can show:
+
+- food
+- place
+- process
+- people
+- roles
+- relationships
+- activity
+- and visible difference.
+
+It cannot independently establish:
+
+- equality
+- dignity
+- belonging
+- consent persistence
+- contribution neutrality
+- experience
+- outcome
+- or causality.
+
+Restaurant #20 adds a precise representational challenge.
+
+The contribution model is central.
+
+But the contribution routes are:
+
+unequally visible.
+
+Showing them literally can create:
+
+the classification the hospitality model claims to resist.
+
+The strongest Restaurant #20 photography boundary is:
+
+```text
+Visible Contribution
+≠
+Visible Economic Status
+```
+
+The strongest consent boundary is:
+
+```text
+Consent to Capture
+≠
+Consent to Every Reuse
+```
+
+The strongest outcome boundary is:
+
+```text
+Photographed Activity
+≠
+Verified Outcome
+```
+
+The strongest evidence correction is:
+
+```text
+Image Absence
+≠
+Evidence Absence
+```
+
+The strongest system requirement is:
+
+```text
+Prove the reciprocal system
+
+without making a person's
+
+contribution state
+
+the proof object.
+```
+
+Until consent, reuse, classification and outcome evidence are stronger:
+
+- no Candidate is promoted
+- no Candidate confidence changes
+- no Emerging direction is promoted
+- no pattern is validated
+- and no research-derived Principle is created.
+
+Evidence wins.
+
+---
+
+# Validation — Post Restaurant #20 Photography Comparison
+
+Comparison File:
+
+`khds/research/comparison/photography.md`
+
+Status:
+
+Post–SAME Café Denver Complete
+
+Independent Restaurants Represented:
+
+20
+
+Canonical Completed Independent Restaurants:
+
+19
+
+Latest Case:
+
+SAME Café Denver
+
+Primary Governance Watch:
+
+Photography as Proof — Contribution-State-Blind Boundary
+
+Secondary Governance Watches:
+
+Photography Should Demonstrate Difference
+
+Photography Through Layers of Experience
+
+Photography as Use-Case Evidence
+
+Hospitality System Proof
+
+Photography Before Decoration
+
+Strongest New Proof Direction:
+
+Contribution-State-Blind Photography
+
+Strongest New Relationship Direction:
+
+Relationship Proof Without Exposure
+
+Strongest New Consent Direction:
+
+Participant-Controlled Visibility
+
+Strongest New Evidence-Allocation Direction:
+
+Food Before Vulnerability
+
+Strongest Privacy Boundary:
+
+Visible Contribution
+
+≠
+
+Visible Economic Status
+
+Strongest Product Boundary:
+
+Finished Plate
+
+≠
+
+Equal Meal Access
+
+Strongest Consent Boundary:
+
+Consent to Capture
+
+≠
+
+Consent to Every Reuse
+
+Formal Promotions:
+
+0
+
+Formal Demotions:
+
+0
+
+Confidence Changes:
+
+0
+
+Governance Changes:
+
+0
+
+Canonical Candidate Count:
+
+26
+
+Canonical Candidate / High:
+
+9
+
+Canonical Candidate / Medium-High:
+
+8
+
+Canonical Candidate / Medium:
+
+9
+
+Canonical Emerging Count:
+
+8
+
+Canonical Partially Supported Count:
+
+1
+
+Canonical Validated Count:
+
+0
+
+Research-Derived KHDS Principles:
+
+0
+
+Restaurant #20 Status:
+
+Arrival, Atmosphere and Photography Comparisons Complete / Two Dimension Comparisons Pending
+
+Next Comparison File:
+
+`khds/research/comparison/reservation.md`

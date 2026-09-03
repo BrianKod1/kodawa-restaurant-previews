@@ -1,12 +1,12 @@
-KHDS Cross-Restaurant Comparison — Story / Narrative
+# KHDS Cross-Restaurant Comparison — Story / Narrative
 
-Status
+## Status
 
-Post–JBJ Soul Kitchen, Red Bank Comparison
+Post–SAME Café Denver Comparison
 
 Restaurants Compared:
 
-19
+20
 
 Track:
 
@@ -14,7 +14,7 @@ Track A — Independent Hospitality Research
 
 Latest Added Case:
 
-JBJ Soul Kitchen — Red Bank, New Jersey
+SAME Café — Denver, Colorado
 
 Comparison Status:
 
@@ -90,7 +90,8 @@ belong:
 
 to:
 
-khds/research/validation/candidate-patterns.md
+`khds/research/validation/candidate-patterns.md`
+
 
 after:
 
@@ -98,7 +99,7 @@ all:
 
 five:
 
-post–Restaurant #19:
+post–Restaurant #20:
 
 comparison files
 
@@ -106,11 +107,13 @@ are:
 
 complete.
 
-Purpose
+---
+
+# Purpose
 
 Story / Narrative research asks:
 
-What actually carries hospitality meaning, and how do the different story carriers remain coherent without becoming decorative narrative?
+> **What actually carries hospitality meaning, and how do the different story carriers remain coherent without becoming decorative narrative?**
 
 KHDS does not:
 
@@ -132,29 +135,18 @@ story
 
 through:
 
-founder biography
-
-heritage
-
-place
-
-product
-
-craft
-
-service
-
-ritual
-
-research
-
-ecology
-
-participation
-
-institution
-
-time
+- founder biography
+- heritage
+- place
+- product
+- craft
+- service
+- ritual
+- research
+- ecology
+- participation
+- institution
+- time
 
 Any:
 
@@ -200,47 +192,35 @@ hospitality:
 
 experience.
 
-Restaurants Included
+---
 
-Ankole
+# Restaurants Included
 
-Cultiva
+1. Ankole
+2. Cultiva
+3. Talisman
+4. Mawimbi
+5. Bistro Lolo
+6. FYN
+7. Dishoom Covent Garden
+8. Franklin Barbecue
+9. Alinea
+10. NARISAWA
+11. Haidilao Toronto Downtown
+12. ICHIRAN Shibuya
+13. Din Tai Fung Covent Garden
+14. Noma Copenhagen 2026
+15. Restaurant Pearl Morissette
+16. Dans le Noir? London
+17. Avatar Robot Café DAWN, Tokyo
 
-Talisman
+18. Refettorio Felix, London
 
-Mawimbi
+19. JBJ Soul Kitchen, Red Bank
 
-Bistro Lolo
+---
 
-FYN
-
-Dishoom Covent Garden
-
-Franklin Barbecue
-
-Alinea
-
-NARISAWA
-
-Haidilao Toronto Downtown
-
-ICHIRAN Shibuya
-
-Din Tai Fung Covent Garden
-
-Noma Copenhagen 2026
-
-Restaurant Pearl Morissette
-
-Dans le Noir? London
-
-Avatar Robot Café DAWN, Tokyo
-
-Refettorio Felix, London
-
-JBJ Soul Kitchen, Red Bank
-
-Current Story Thesis
+# Current Story Thesis
 
 The strongest:
 
@@ -250,7 +230,7 @@ story:
 
 finding remains:
 
-Story is an organizing system, not a biography section.
+> **Story is an organizing system, not a biography section.**
 
 A:
 
@@ -266,33 +246,20 @@ carried
 
 by:
 
-place
-
-product
-
-craft
-
-ritual
-
-hospitality model
-
-biography
-
-heritage
-
-ecology
-
-service
-
-participation
-
-operating constraint
-
-research
-
-institution
-
-time
+- place
+- product
+- craft
+- ritual
+- hospitality model
+- biography
+- heritage
+- ecology
+- service
+- participation
+- operating constraint
+- research
+- institution
+- time
 
 The:
 
@@ -316,8 +283,11 @@ the:
 
 experience.
 
-Post–Pearl Morissette Story Architecture
+---
 
+# Post–Pearl Morissette Story Architecture
+
+```text
 What Explains the Hospitality Experience?
 ↓
 Which Narrative Carriers Matter?
@@ -369,6 +339,7 @@ Identity Invariant
 where relevant
 ↓
 Coherent Hospitality Meaning
+```
 
 Not every:
 
@@ -380,7 +351,9 @@ every:
 
 layer.
 
-Major Post–Pearl Morissette Refinement
+---
+
+# Major Post–Pearl Morissette Refinement
 
 Restaurant #15 adds:
 
@@ -392,15 +365,23 @@ story:
 
 ideas:
 
+```text
 Ecosystem as Organising Logic
+```
 
+```text
 Networked Hospitality Model
+```
 
+```text
 Distributed Contribution
+```
 
 and:
 
+```text
 Bounded Product Narrative
+```
 
 It also:
 
@@ -414,329 +395,332 @@ post-Noma:
 
 boundary:
 
+```text
 Variation Within System
 ≠
 System Transformation
+```
 
-Comparison 1 — Story Carriers Differ Materially Across Restaurants
+---
 
-Ankole
+# Comparison 1 — Story Carriers Differ Materially Across Restaurants
+
+---
+
+## Ankole
 
 Primary carriers:
 
-place
-
-regional identity
-
-hospitality identity
+- place
+- regional identity
+- hospitality identity
 
 Story pressure:
 
+```text
 Can place and identity
 carry hospitality meaning
 without overcomplication?
+```
 
-Cultiva
+---
+
+## Cultiva
 
 Primary carriers:
 
-worldview
-
-food
-
-philosophy
-
-environment
+- worldview
+- food
+- philosophy
+- environment
 
 Story pressure:
 
+```text
 Can culinary worldview
 organize the restaurant story?
+```
 
-Talisman
+---
+
+## Talisman
 
 Primary carriers:
 
-heritage
-
-place
-
-continuity
-
-institutional memory
+- heritage
+- place
+- continuity
+- institutional memory
 
 Story pressure:
 
+```text
 Can heritage remain useful
 without becoming nostalgia?
+```
 
-Mawimbi
+---
+
+## Mawimbi
 
 Primary carriers:
 
-atmosphere
-
-place
-
-designed world
-
-destination experience
+- atmosphere
+- place
+- designed world
+- destination experience
 
 Story pressure:
 
+```text
 Can the environment itself
 carry narrative meaning?
+```
 
-Bistro Lolo
+---
+
+## Bistro Lolo
 
 Primary carriers:
 
-social life
-
-neighbourhood
-
-guest use
-
-place
+- social life
+- neighbourhood
+- guest use
+- place
 
 Story pressure:
 
+```text
 Can everyday participation
 be part of the restaurant story?
+```
 
-FYN
+---
+
+## FYN
 
 Primary carriers:
 
-biography
-
-worldview
-
-cultural interpretation
-
-food
-
-authority
+- biography
+- worldview
+- cultural interpretation
+- food
+- authority
 
 Story pressure:
 
+```text
 When does biography
 meaningfully explain the experience?
+```
 
-Dishoom Covent Garden
+---
+
+## Dishoom Covent Garden
 
 Primary carriers:
 
-narrative world
-
-place
-
-cultural memory
-
-service
-
-participation
+- narrative world
+- place
+- cultural memory
+- service
+- participation
 
 Story pressure:
 
+```text
 Can narrative language
 remain rich without reducing clarity?
+```
 
-Franklin Barbecue
+---
+
+## Franklin Barbecue
 
 Primary carriers:
 
-product
-
-craft
-
-process
-
-queue ritual
+- product
+- craft
+- process
+- queue ritual
 
 Story pressure:
 
+```text
 Can the product
 and the system around it
 be the story?
+```
 
-Alinea
+---
+
+## Alinea
 
 Primary carriers:
 
-creative authorship
-
-surprise
-
-product
-
-controlled reveal
-
-institution
+- creative authorship
+- surprise
+- product
+- controlled reveal
+- institution
 
 Story pressure:
 
+```text
 How much story should be told
 without destroying anticipation?
+```
 
-NARISAWA
+---
+
+## NARISAWA
 
 Primary carriers:
 
-ecology
-
-worldview
-
-place
-
-craft
-
-philosophy
+- ecology
+- worldview
+- place
+- craft
+- philosophy
 
 Story pressure:
 
+```text
 Can ecology become
 a hospitality narrative
 without becoming unsupported claims?
+```
 
-Haidilao Toronto Downtown
+---
+
+## Haidilao Toronto Downtown
 
 Primary carriers:
 
-human service
-
-participation
-
-social interaction
-
-hospitality model
+- human service
+- participation
+- social interaction
+- hospitality model
 
 Story pressure:
 
+```text
 Can the service system
 itself carry the story?
+```
 
-ICHIRAN Shibuya
+---
+
+## ICHIRAN Shibuya
 
 Primary carriers:
 
-hospitality system
-
-product
-
-privacy
-
-participation
-
-ritual
+- hospitality system
+- product
+- privacy
+- participation
+- ritual
 
 Story pressure:
 
+```text
 Can system design
 explain hospitality meaning
 more strongly than biography?
+```
 
-Din Tai Fung Covent Garden
+---
+
+## Din Tai Fung Covent Garden
 
 Primary carriers:
 
-product
-
-craft
-
-heritage
-
-standardization
-
-local adaptation
+- product
+- craft
+- heritage
+- standardization
+- local adaptation
 
 Story pressure:
 
+```text
 Can standardized craft
 remain narratively coherent
 across locations?
+```
 
-Noma Copenhagen 2026
+---
+
+## Noma Copenhagen 2026
 
 Primary carriers:
 
-research
-
-institution
-
-change
-
-time
-
-method
-
-adaptation
+- research
+- institution
+- change
+- time
+- method
+- adaptation
 
 Story pressure:
 
+```text
 How does narrative remain coherent
 when the institution itself changes?
+```
 
-Restaurant Pearl Morissette
+---
+
+## Restaurant Pearl Morissette
 
 Primary carriers:
 
-place
-
-productive context
-
-producer relationships
-
-food
-
-wine
-
-hospitality model
-
-ecosystem
+- place
+- productive context
+- producer relationships
+- food
+- wine
+- hospitality model
+- ecosystem
 
 Story pressure:
 
+```text
 Can a distributed ecosystem
 carry one coherent hospitality story?
+```
 
-Dans le Noir? London
+---
+
+## Dans le Noir? London
 
 Primary carriers:
 
-operationalised role reversal
-
-guide authority
-
-darkness as narrative condition
-
-sensory redistribution
-
-participation
-
-shared-table social structure
-
-device surrender
-
-surprise and reveal
-
-inclusion as operating capability
-
-hospitality method
-
-brand history
-
-manifesto and questioning
+- operationalised role reversal
+- guide authority
+- darkness as narrative condition
+- sensory redistribution
+- participation
+- shared-table social structure
+- device surrender
+- surprise and reveal
+- inclusion as operating capability
+- hospitality method
+- brand history
+- manifesto and questioning
 
 Story pressure:
 
+```text
 Can inclusion and social meaning
 be carried by the hospitality model itself
 without turning guides into symbols
 or promising unverified guest transformation?
+```
 
 Primary mechanism:
 
+```text
 Remove Visual Authority
 ↓
 Reassign Expertise
@@ -744,16 +728,21 @@ Reassign Expertise
 Require Human Trust
 ↓
 Invite Reflection
+```
 
 Strongest boundary:
 
+```text
 Story Claim
 ≠
 Story Outcome
+```
 
 Restaurant #16 is a deliberate story-governance test because its operating model can credibly enact role reversal while its marketing language can still overstate sensory, social, or attitudinal results.
 
-Comparison 2 — Story Is Not Biography
+---
+
+# Comparison 2 — Story Is Not Biography
 
 FYN:
 
@@ -853,13 +842,17 @@ biography:
 
 dominating.
 
-Correction
+## Correction
 
+```text
 Strong Hospitality Story
 ≠
 Biography Required
+```
 
-Biography When It Explains the Experience
+---
+
+# Biography When It Explains the Experience
 
 Current Status:
 
@@ -889,7 +882,9 @@ is:
 
 conditional.
 
-Comparison 3 — Narrative Weight Should Follow Explanatory Value
+---
+
+# Comparison 3 — Narrative Weight Should Follow Explanatory Value
 
 The:
 
@@ -899,9 +894,11 @@ cross-case:
 
 rule is:
 
+```text
 Narrative Weight
 ∝
 Explanatory Value
+```
 
 If:
 
@@ -989,7 +986,9 @@ story:
 
 template.
 
-Comparison 4 — Story Through Place Has Very Broad Support
+---
+
+# Comparison 4 — Story Through Place Has Very Broad Support
 
 Current Status:
 
@@ -999,19 +998,13 @@ Strong:
 
 cases include:
 
-Ankole
-
-Talisman
-
-Dishoom
-
-NARISAWA
-
-Din Tai Fung
-
-Noma
-
-Pearl Morissette
+- Ankole
+- Talisman
+- Dishoom
+- NARISAWA
+- Din Tai Fung
+- Noma
+- Pearl Morissette
 
 The:
 
@@ -1021,47 +1014,55 @@ are:
 
 different.
 
-Place Mechanisms Across Cases
+---
 
-Ankole
+# Place Mechanisms Across Cases
+
+## Ankole
 
 Place as hospitality identity.
 
-Talisman
+## Talisman
 
 Place as continuity / heritage context.
 
-Dishoom
+## Dishoom
 
 Place as cultural memory and adaptation.
 
-NARISAWA
+## NARISAWA
 
 Place as ecological relationship.
 
-Din Tai Fung
+## Din Tai Fung
 
 Place as localized brand expression.
 
-Noma
+## Noma
 
 Place as relational and institutional context.
 
-Pearl Morissette
+## Pearl Morissette
 
 Place as productive context.
 
-Story Through Place — Refined Definition
+---
 
-Story Through Place applies when the restaurant's location, region, environment, cultural context, ecological context, or productive context materially explains hospitality meaning rather than functioning as address or scenery alone.
+# Story Through Place — Refined Definition
 
-Core Boundary
+> **Story Through Place applies when the restaurant's location, region, environment, cultural context, ecological context, or productive context materially explains hospitality meaning rather than functioning as address or scenery alone.**
 
+## Core Boundary
+
+```text
 Story Through Place
 ≠
 Story Through Address
+```
 
-Story Through Place Governance Pressure
+---
+
+# Story Through Place Governance Pressure
 
 Entering Status:
 
@@ -1077,7 +1078,9 @@ Strongly Warranted
 
 Potential:
 
+```text
 Candidate / High
+```
 
 Primary:
 
@@ -1113,7 +1116,9 @@ Formal decision:
 
 deferred.
 
-Comparison 5 — Productive Place Is One Mechanism, Not the Place Pattern
+---
+
+# Comparison 5 — Productive Place Is One Mechanism, Not the Place Pattern
 
 Pearl Morissette:
 
@@ -1137,19 +1142,25 @@ around:
 
 agriculture.
 
-Correction
+## Correction
 
+```text
 Strong Story Through Place
 ≠
 Productive Place Required
+```
 
 and:
 
+```text
 Place as Productive Context
 ≠
 Universal Place Mechanism
+```
 
-Comparison 6 — Place as Productive Context Has Strong Cross-Dimensional Support
+---
+
+# Comparison 6 — Place as Productive Context Has Strong Cross-Dimensional Support
 
 Restaurant #15:
 
@@ -1159,33 +1170,26 @@ it
 
 through:
 
-Arrival
+- Arrival
+- Atmosphere
+- Photography
+- Reservation
+- Story
 
-Atmosphere
+## Definition
 
-Photography
+> **Place as Productive Context applies when the location materially helps explain the conditions, relationships, ingredients, or expectations through which hospitality is produced without requiring proof that place determines every operational outcome.**
 
-Reservation
-
-Story
-
-Definition
-
-Place as Productive Context applies when the location materially helps explain the conditions, relationships, ingredients, or expectations through which hospitality is produced without requiring proof that place determines every operational outcome.
-
-Status
+## Status
 
 Architecture Mechanism
 
 Potential Homes:
 
-Story Through Place
-
-Story Through Hospitality Model
-
-Atmosphere Through Worldview
-
-Capacity Proof
+- Story Through Place
+- Story Through Hospitality Model
+- Atmosphere Through Worldview
+- Capacity Proof
 
 Do not:
 
@@ -1197,7 +1201,9 @@ standalone:
 
 pattern.
 
-Comparison 7 — Place as Operating Infrastructure Remains Unproven
+---
+
+# Comparison 7 — Place as Operating Infrastructure Remains Unproven
 
 Pearl Morissette:
 
@@ -1253,19 +1259,23 @@ formal:
 
 claim.
 
-Correction
+## Correction
 
+```text
 Place as Productive Context
 ≠
 Place as Operating Infrastructure
+```
 
 and:
 
+```text
 Place Shapes Hospitality
 ≠
 Place Determines Every Hospitality Outcome
+```
 
-Current Decision
+## Current Decision
 
 Remain:
 
@@ -1279,7 +1289,9 @@ formal:
 
 pattern.
 
-Comparison 8 — Story Through Hospitality Model Has Exceptional Cross-Case Support
+---
+
+# Comparison 8 — Story Through Hospitality Model Has Exceptional Cross-Case Support
 
 Current Status:
 
@@ -1289,15 +1301,11 @@ Strong:
 
 cases include:
 
-Haidilao
-
-ICHIRAN
-
-Din Tai Fung
-
-Noma
-
-Pearl Morissette
+- Haidilao
+- ICHIRAN
+- Din Tai Fung
+- Noma
+- Pearl Morissette
 
 Other:
 
@@ -1329,9 +1337,11 @@ very:
 
 different.
 
-Hospitality-Model Mechanisms Across Cases
+---
 
-Haidilao
+# Hospitality-Model Mechanisms Across Cases
+
+## Haidilao
 
 Human service
 
@@ -1339,7 +1349,7 @@ and:
 
 social support.
 
-ICHIRAN
+## ICHIRAN
 
 Controlled interaction
 
@@ -1347,7 +1357,7 @@ privacy
 
 structured individual participation.
 
-Din Tai Fung
+## Din Tai Fung
 
 Repeatable craft
 
@@ -1355,7 +1365,7 @@ standardization
 
 participation consistency.
 
-Noma
+## Noma
 
 Research
 
@@ -1367,7 +1377,7 @@ institution
 
 method.
 
-Pearl Morissette
+## Pearl Morissette
 
 Networked:
 
@@ -1385,15 +1395,19 @@ productive:
 
 ecosystem.
 
-Story Through Hospitality Model — Refined Definition
+---
 
-Story Through Hospitality Model applies when understanding how the restaurant materially operates helps explain what the hospitality experience means.
+# Story Through Hospitality Model — Refined Definition
 
-Core Boundary
+> **Story Through Hospitality Model applies when understanding how the restaurant materially operates helps explain what the hospitality experience means.**
 
+## Core Boundary
+
+```text
 Operating Model Description
 ≠
 Story Through Hospitality Model
+```
 
 The:
 
@@ -1407,7 +1421,9 @@ carry:
 
 meaning.
 
-Story Through Hospitality Model Governance Pressure
+---
+
+# Story Through Hospitality Model Governance Pressure
 
 Current:
 
@@ -1431,7 +1447,9 @@ architecture:
 
 refinement.
 
-Comparison 9 — Networked Hospitality Model Is a Useful New Mechanism
+---
+
+# Comparison 9 — Networked Hospitality Model Is a Useful New Mechanism
 
 Pearl Morissette:
 
@@ -1445,31 +1463,24 @@ operating:
 
 model.
 
-Definition
+## Definition
 
-A hospitality operating model may be distributed across multiple internal and external contributors while remaining coherent when the relationships among them materially support one hospitality logic.
+> **A hospitality operating model may be distributed across multiple internal and external contributors while remaining coherent when the relationships among them materially support one hospitality logic.**
 
 Potential:
 
 contributors:
 
-restaurant
+- restaurant
+- farm
+- winery
+- producers
+- growers
+- foragers
+- kitchen
+- garden
 
-farm
-
-winery
-
-producers
-
-growers
-
-foragers
-
-kitchen
-
-garden
-
-Status
+## Status
 
 Architecture Direction
 
@@ -1477,11 +1488,15 @@ Potential Home:
 
 Story Through Hospitality Model.
 
-Correction
+---
 
+# Correction
+
+```text
 Hospitality Model
 ≠
 Vertically Integrated System
+```
 
 A:
 
@@ -1495,9 +1510,11 @@ carry:
 
 story.
 
-Comparison 10 — Networked Hospitality Model Is Not Multi-Intent Hospitality
+---
 
-Networked Hospitality Model
+# Comparison 10 — Networked Hospitality Model Is Not Multi-Intent Hospitality
+
+### Networked Hospitality Model
 
 Concerns:
 
@@ -1509,7 +1526,7 @@ is:
 
 produced.
 
-Multi-Intent Hospitality
+### Multi-Intent Hospitality
 
 Concerns:
 
@@ -1525,13 +1542,17 @@ participation:
 
 routes.
 
-Correction
+## Correction
 
+```text
 Networked Production
 ≠
 Multi-Intent Participation
+```
 
-Comparison 11 — Distributed Culinary System Is Nested Inside the Hospitality Model
+---
+
+# Comparison 11 — Distributed Culinary System Is Nested Inside the Hospitality Model
 
 Pearl Morissette:
 
@@ -1555,12 +1576,14 @@ and:
 
 food.
 
-Relationship
+## Relationship
 
+```text
 Distributed Culinary System
 →
 Possible Mechanism Inside
 Networked Hospitality Model
+```
 
 But:
 
@@ -1574,7 +1597,9 @@ not:
 
 identical.
 
-Comparison 12 — Narrative Coherence Through Organising Logic Has Very Broad Support
+---
+
+# Comparison 12 — Narrative Coherence Through Organising Logic Has Very Broad Support
 
 Current Status:
 
@@ -1584,17 +1609,12 @@ Strong:
 
 cases include:
 
-Dishoom
-
-NARISAWA
-
-ICHIRAN
-
-Din Tai Fung
-
-Noma
-
-Pearl Morissette
+- Dishoom
+- NARISAWA
+- ICHIRAN
+- Din Tai Fung
+- Noma
+- Pearl Morissette
 
 The:
 
@@ -1608,13 +1628,15 @@ across:
 
 cases.
 
-Organising Logic Examples
+---
 
-Dishoom
+# Organising Logic Examples
+
+## Dishoom
 
 Cultural / narrative world.
 
-NARISAWA
+## NARISAWA
 
 Ecology
 
@@ -1622,7 +1644,7 @@ craft
 
 worldview.
 
-ICHIRAN
+## ICHIRAN
 
 Hospitality system
 
@@ -1632,7 +1654,7 @@ product
 
 participation.
 
-Din Tai Fung
+## Din Tai Fung
 
 Craft
 
@@ -1642,7 +1664,7 @@ repeatability
 
 heritage.
 
-Noma
+## Noma
 
 Research
 
@@ -1652,7 +1674,7 @@ institution
 
 change.
 
-Pearl Morissette
+## Pearl Morissette
 
 Local ecosystem
 
@@ -1664,23 +1686,31 @@ food
 
 wine.
 
-Narrative Coherence Through Organising Logic — Refined Definition
+---
 
-Multiple story carriers remain coherent when a clear material logic explains why they belong together inside the hospitality experience.
+# Narrative Coherence Through Organising Logic — Refined Definition
 
-Core Boundary
+> **Multiple story carriers remain coherent when a clear material logic explains why they belong together inside the hospitality experience.**
 
+## Core Boundary
+
+```text
 Asset Collection
 ≠
 Narrative Coherence
+```
 
 and:
 
+```text
 Shared Vocabulary
 ≠
 Narrative Coherence
+```
 
-Narrative Coherence Through Organising Logic Governance Pressure
+---
+
+# Narrative Coherence Through Organising Logic Governance Pressure
 
 Entering Status:
 
@@ -1696,7 +1726,9 @@ Strongly Warranted
 
 Potential:
 
+```text
 Candidate / High
+```
 
 Primary:
 
@@ -1724,7 +1756,9 @@ Formal decision:
 
 deferred.
 
-Comparison 13 — Ecosystem as Organising Logic Is a Useful New Mechanism
+---
+
+# Comparison 13 — Ecosystem as Organising Logic Is a Useful New Mechanism
 
 Pearl Morissette:
 
@@ -1740,11 +1774,11 @@ logic
 
 type.
 
-Definition
+## Definition
 
-Multiple hospitality story carriers can become coherent when their material relationships are organized through an ecosystem of place, people, ingredients, products, and practices.
+> **Multiple hospitality story carriers can become coherent when their material relationships are organized through an ecosystem of place, people, ingredients, products, and practices.**
 
-Status
+## Status
 
 Narrative Mechanism
 
@@ -1758,7 +1792,9 @@ formalize:
 
 separately.
 
-Comparison 14 — Ecosystem Narrative Must Not Become Sustainability Proof
+---
+
+# Comparison 14 — Ecosystem Narrative Must Not Become Sustainability Proof
 
 NARISAWA
 
@@ -1788,19 +1824,25 @@ claim:
 
 discipline.
 
-Corrections
+## Corrections
 
+```text
 Ecosystem Narrative
 ≠
 Sustainability Certification
+```
 
+```text
 Ecological Narrative
 ≠
 Environmental Performance Proof
+```
 
+```text
 Regenerative Narrative
 ≠
 Regenerative Performance Proof
+```
 
 Story:
 
@@ -1818,7 +1860,9 @@ proving:
 
 outcomes.
 
-Comparison 15 — Shared Vocabulary Is Not Organising Logic
+---
+
+# Comparison 15 — Shared Vocabulary Is Not Organising Logic
 
 A:
 
@@ -1866,11 +1910,13 @@ materially:
 
 connected.
 
-Correction
+## Correction
 
+```text
 Shared Vocabulary
 ≠
 Narrative Coherence
+```
 
 This:
 
@@ -1890,7 +1936,9 @@ story:
 
 boundaries.
 
-Comparison 16 — Organising Logic Is Stronger Than Shared Ownership
+---
+
+# Comparison 16 — Organising Logic Is Stronger Than Shared Ownership
 
 Pearl Morissette:
 
@@ -1942,15 +1990,19 @@ ownership:
 
 structure.
 
-Corrections
+## Corrections
 
+```text
 Shared Ownership
 ≠
 Narrative Coherence
+```
 
+```text
 Separate Ownership
 ≠
 Narrative Fragmentation
+```
 
 The:
 
@@ -1962,7 +2014,9 @@ matters:
 
 more.
 
-Comparison 17 — Narrative Entity and Narrative Boundary Are Transferable Variables
+---
+
+# Comparison 17 — Narrative Entity and Narrative Boundary Are Transferable Variables
 
 Noma:
 
@@ -1986,95 +2040,89 @@ Potential:
 
 Narrative Subjects:
 
-founder
-
-chef
-
-restaurant
-
-brand
-
-place
-
-institution
-
-ecosystem
-
-product
+- founder
+- chef
+- restaurant
+- brand
+- place
+- institution
+- ecosystem
+- product
 
 Potential:
 
 Narrative Boundaries:
 
-location
+- location
+- parent brand
+- farm
+- winery
+- research institution
+- producer network
+- private dining
+- historical era
 
-parent brand
+---
 
-farm
-
-winery
-
-research institution
-
-producer network
-
-private dining
-
-historical era
-
-Narrative Entity
+# Narrative Entity
 
 Question:
 
-Who or what is actually the subject of the story?
+> **Who or what is actually the subject of the story?**
 
-Narrative Boundary
+---
+
+# Narrative Boundary
 
 Question:
 
-Which related entities, time periods, locations, or activities legitimately belong inside the story being told?
+> **Which related entities, time periods, locations, or activities legitimately belong inside the story being told?**
 
-Comparison 18 — Narrative Ecosystem Scope Is a Useful Pearl Morissette Refinement
+---
 
-Definition
+# Comparison 18 — Narrative Ecosystem Scope Is a Useful Pearl Morissette Refinement
 
-Narrative Ecosystem Scope is the set of related entities, places, people, products, and operations that may legitimately contribute to a hospitality narrative without being treated as one undifferentiated guest experience.
+## Definition
+
+> **Narrative Ecosystem Scope is the set of related entities, places, people, products, and operations that may legitimately contribute to a hospitality narrative without being treated as one undifferentiated guest experience.**
 
 Potential:
 
 scope:
 
-restaurant
+- restaurant
+- winery
+- farm
+- garden
+- producer network
+- private dining
+- wider property
 
-winery
-
-farm
-
-garden
-
-producer network
-
-private dining
-
-wider property
-
-Status
+## Status
 
 Narrative Architecture Variable
 
-Correction
+---
 
+# Correction
+
+```text
 Shared Brand Ecosystem
 ≠
 One Undifferentiated Narrative Entity
+```
 
 and:
 
+```text
 Narrative Ecosystem
 ≠
 Participation Ecosystem
+```
 
-Comparison 19 — Expanded Narrative Boundary Does Not Mean Expanded Guest Experience
+---
+
+# Comparison 19 — Expanded Narrative Boundary Does Not Mean Expanded Guest Experience
 
 A:
 
@@ -2116,11 +2164,13 @@ those:
 
 activities.
 
-Correction
+## Correction
 
+```text
 Narrative Extension
 ≠
 Participation Requirement
+```
 
 This:
 
@@ -2134,9 +2184,11 @@ by:
 
 Pearl Morissette.
 
-Comparison 20 — Narrative Horizon Remains Distinct From Narrative Ecosystem
+---
 
-Narrative Horizon
+# Comparison 20 — Narrative Horizon Remains Distinct From Narrative Ecosystem
+
+### Narrative Horizon
 
 Across:
 
@@ -2156,7 +2208,7 @@ story
 
 operate?
 
-Narrative Ecosystem
+### Narrative Ecosystem
 
 Which:
 
@@ -2172,11 +2224,13 @@ can:
 
 contribute?
 
-Correction
+## Correction
 
+```text
 Narrative Horizon
 ≠
 Narrative Ecosystem
+```
 
 Both:
 
@@ -2186,7 +2240,9 @@ architecture:
 
 variables.
 
-Comparison 21 — Distributed Contribution Is Safer Than Distributed Authorship
+---
+
+# Comparison 21 — Distributed Contribution Is Safer Than Distributed Authorship
 
 Pearl Morissette:
 
@@ -2214,17 +2270,21 @@ creative:
 
 authority.
 
-Definition
+## Definition
 
-Distributed Contribution means multiple internal and external contributors materially support hospitality production or meaning without requiring equal authorship, ownership, or narrative weight.
+> **Distributed Contribution means multiple internal and external contributors materially support hospitality production or meaning without requiring equal authorship, ownership, or narrative weight.**
 
-Correction
+## Correction
 
+```text
 Named Contributor
 ≠
 Co-Author Proven
+```
 
-Comparison 22 — Distributed Contribution Is Different From Distributed Biography
+---
+
+# Comparison 22 — Distributed Contribution Is Different From Distributed Biography
 
 Post-Noma:
 
@@ -2268,23 +2328,25 @@ without:
 
 biography.
 
-Correction
+## Correction
 
+```text
 Distributed Biography
 ≠
 Distributed Contribution
+```
 
-Comparison 23 — Distributed Contribution Should Remain Architecture
+---
+
+# Comparison 23 — Distributed Contribution Should Remain Architecture
 
 Potential:
 
 homes:
 
-Story Through Hospitality Model
-
-Story Through Place
-
-Narrative Coherence Through Organising Logic
+- Story Through Hospitality Model
+- Story Through Place
+- Narrative Coherence Through Organising Logic
 
 Do not:
 
@@ -2296,7 +2358,9 @@ Distributed Authorship:
 
 pattern.
 
-Comparison 24 — Relationship Narrative Depth Is a Useful New Variable
+---
+
+# Comparison 24 — Relationship Narrative Depth Is a Useful New Variable
 
 Not:
 
@@ -2318,7 +2382,7 @@ Potential:
 
 levels:
 
-Presence
+### Presence
 
 Relationship:
 
@@ -2326,7 +2390,7 @@ is:
 
 named.
 
-Relevance
+### Relevance
 
 Its:
 
@@ -2336,7 +2400,7 @@ is:
 
 explained.
 
-Contribution
+### Contribution
 
 Its:
 
@@ -2350,7 +2414,7 @@ is:
 
 shown.
 
-Integration
+### Integration
 
 Its:
 
@@ -2370,17 +2434,23 @@ made:
 
 legible.
 
-Status
+## Status
 
 Story Architecture Variable
 
-Correction
+---
 
+# Correction
+
+```text
 Named Producer
 ≠
 Explained Producer Relationship
+```
 
-Comparison 25 — Narrative Depth and Proof Depth Are Different
+---
+
+# Comparison 25 — Narrative Depth and Proof Depth Are Different
 
 Story:
 
@@ -2418,11 +2488,13 @@ be:
 
 supported.
 
-Correction
+## Correction
 
+```text
 Narrative Depth
 ≠
 Proof Depth
+```
 
 They:
 
@@ -2434,7 +2506,9 @@ without:
 
 merging.
 
-Comparison 26 — Product Can Carry Story in Different Ways
+---
+
+# Comparison 26 — Product Can Carry Story in Different Ways
 
 Franklin:
 
@@ -2510,7 +2584,9 @@ broader:
 
 boundary.
 
-Comparison 27 — Product-Led Story Does Not Require Signature Product
+---
+
+# Comparison 27 — Product-Led Story Does Not Require Signature Product
 
 Pearl Morissette:
 
@@ -2522,11 +2598,13 @@ middle:
 
 condition.
 
-Correction
+## Correction
 
+```text
 Product Narrative
 ≠
 Signature Dish Narrative
+```
 
 A:
 
@@ -2550,11 +2628,13 @@ hero:
 
 product.
 
-Comparison 28 — Bounded Product Narrative Is a Useful New Direction
+---
 
-Definition
+# Comparison 28 — Bounded Product Narrative Is a Useful New Direction
 
-A restaurant can communicate a stable product identity through durable boundaries, methods, values, ingredient logic, or relationships even when exact future dishes remain variable.
+## Definition
+
+> **A restaurant can communicate a stable product identity through durable boundaries, methods, values, ingredient logic, or relationships even when exact future dishes remain variable.**
 
 Strongest:
 
@@ -2570,7 +2650,7 @@ from:
 
 Noma.
 
-Status
+## Status
 
 Architecture Direction
 
@@ -2578,11 +2658,13 @@ Potential Home:
 
 Story Through Hospitality Model
 
-
++
 
 Promise Before Proof.
 
-Comparison 29 — Stable Narrative Identity Does Not Require Stable Narrative Object
+---
+
+# Comparison 29 — Stable Narrative Identity Does Not Require Stable Narrative Object
 
 Noma:
 
@@ -2636,13 +2718,17 @@ institutional:
 
 logic.
 
-Correction
+## Correction
 
+```text
 Stable Narrative Identity
 ≠
 Stable Narrative Object
+```
 
-Comparison 30 — Method as Narrative Anchor Is Transferable Beyond Noma
+---
+
+# Comparison 30 — Method as Narrative Anchor Is Transferable Beyond Noma
 
 Noma:
 
@@ -2686,15 +2772,17 @@ and:
 
 productive place.
 
-Current Status
+## Current Status
 
 Architecture Variable
 
 Strongly Reinforced.
 
-Comparison 31 — Narrative Anchor and Narrative Subject Are Different
+---
 
-Narrative Subject
+# Comparison 31 — Narrative Anchor and Narrative Subject Are Different
+
+### Narrative Subject
 
 Who or what:
 
@@ -2706,7 +2794,7 @@ is:
 
 about.
 
-Narrative Anchor
+### Narrative Anchor
 
 What:
 
@@ -2732,11 +2820,13 @@ Potential Anchor:
 
 place / method.
 
-Correction
+## Correction
 
+```text
 Narrative Subject
 ≠
 Narrative Anchor
+```
 
 This remains:
 
@@ -2744,7 +2834,9 @@ post-Noma:
 
 canonical.
 
-Comparison 32 — Narrative Carrier and Narrative Invariant Are Different
+---
+
+# Comparison 32 — Narrative Carrier and Narrative Invariant Are Different
 
 A:
 
@@ -2768,11 +2860,13 @@ through:
 
 change.
 
-Correction
+## Correction
 
+```text
 Narrative Carrier
 ≠
 Narrative Invariant
+```
 
 A:
 
@@ -2792,7 +2886,9 @@ an:
 
 invariant.
 
-Comparison 33 — Story Through Hospitality Model Can Stabilize Variable Product Narrative
+---
+
+# Comparison 33 — Story Through Hospitality Model Can Stabilize Variable Product Narrative
 
 Noma
 
@@ -2830,13 +2926,15 @@ narratively:
 
 important.
 
-Relationship
+## Relationship
 
+```text
 Variable Product
 +
 Stable Hospitality Logic
 ↓
 Potential Stable Narrative Identity
+```
 
 This:
 
@@ -2856,7 +2954,9 @@ formal:
 
 pattern.
 
-Comparison 34 — Promise Before Proof Receives Strong Cross-Case Support
+---
+
+# Comparison 34 — Promise Before Proof Receives Strong Cross-Case Support
 
 Current Status:
 
@@ -2866,19 +2966,16 @@ Strong:
 
 pressure:
 
-Alinea
-
-Noma
-
-Pearl Morissette
+- Alinea
+- Noma
+- Pearl Morissette
 
 Supporting:
 
 cases:
 
-FYN
-
-NARISAWA
+- FYN
+- NARISAWA
 
 The:
 
@@ -2912,8 +3009,11 @@ the:
 
 promise.
 
-Promise Before Proof — Refined Relationship
+---
 
+# Promise Before Proof — Refined Relationship
+
+```text
 Limited Future Outcome Specificity
 +
 Stable Experience Boundaries
@@ -2923,14 +3023,19 @@ Relevant Meaning
 Relevant Capacity Evidence
 ↓
 Potentially Credible Promise
+```
 
-Core Boundary
+## Core Boundary
 
+```text
 Narrative Explanation
 ≠
 Capacity Proof
+```
 
-Promise Before Proof Governance Pressure
+---
+
+# Promise Before Proof Governance Pressure
 
 Entering Status:
 
@@ -2992,7 +3097,9 @@ clearer:
 
 falsifiability.
 
-Comparison 35 — Capacity Proof and Story Through Hospitality Model Are Distinct
+---
+
+# Comparison 35 — Capacity Proof and Story Through Hospitality Model Are Distinct
 
 Pearl Morissette:
 
@@ -3006,23 +3113,31 @@ especially:
 
 clear.
 
-Story Through Hospitality Model
+### Story Through Hospitality Model
 
+```text
 Does the operating model
 explain hospitality meaning?
+```
 
-Capacity Proof
+### Capacity Proof
 
+```text
 Does the operating evidence
 support future capability?
+```
 
-Correction
+## Correction
 
+```text
 Operational Meaning
 ≠
 Operational Capability Proof
+```
 
-Comparison 36 — Producer Network Can Carry Story Without Proving Capacity
+---
+
+# Comparison 36 — Producer Network Can Carry Story Without Proving Capacity
 
 A:
 
@@ -3056,11 +3171,13 @@ future:
 
 capacity.
 
-Correction
+## Correction
 
+```text
 Producer Network as Story
 ≠
 Producer Network as Capacity Proof
+```
 
 Same:
 
@@ -3070,7 +3187,9 @@ different:
 
 claims.
 
-Comparison 37 — Narrative Coherence Can Help Make Capacity Evidence Legible
+---
+
+# Comparison 37 — Narrative Coherence Can Help Make Capacity Evidence Legible
 
 Even:
 
@@ -3108,21 +3227,27 @@ evidence
 
 matters.
 
-Relationship
+## Relationship
 
+```text
 Narrative Coherence
 ↓
 System Legibility
 ↓
 Capacity Evidence Easier to Interpret
+```
 
 But:
 
+```text
 Narrative Coherence
 ≠
 Capacity Proof
+```
 
-Comparison 38 — Story Through Place and Story Through Hospitality Model Must Stay Separate
+---
+
+# Comparison 38 — Story Through Place and Story Through Hospitality Model Must Stay Separate
 
 Pearl Morissette:
 
@@ -3132,7 +3257,7 @@ supports:
 
 both.
 
-Story Through Place
+### Story Through Place
 
 Place:
 
@@ -3140,7 +3265,7 @@ explains:
 
 meaning.
 
-Story Through Hospitality Model
+### Story Through Hospitality Model
 
 Operating:
 
@@ -3158,13 +3283,17 @@ can:
 
 interact.
 
-Correction
+## Correction
 
+```text
 Place Explains Meaning
 ≠
 Operating Model Explains Meaning
+```
 
-Comparison 39 — Atmosphere Through Worldview and Story Through Place Must Stay Separate
+---
+
+# Comparison 39 — Atmosphere Through Worldview and Story Through Place Must Stay Separate
 
 Pearl Morissette
 
@@ -3182,21 +3311,25 @@ strong:
 
 interaction.
 
-Story Through Place
+### Story Through Place
 
 Meaning.
 
-Atmosphere Through Worldview
+### Atmosphere Through Worldview
 
 Physical environmental expression.
 
-Correction
+## Correction
 
+```text
 Worldview Expression
 ≠
 Place Story
+```
 
-Comparison 40 — Shared Evidence Does Not Mean Shared Pattern
+---
+
+# Comparison 40 — Shared Evidence Does Not Mean Shared Pattern
 
 The:
 
@@ -3208,15 +3341,11 @@ may:
 
 support:
 
-story
-
-atmosphere
-
-proof
-
-capacity
-
-place
+- story
+- atmosphere
+- proof
+- capacity
+- place
 
 without:
 
@@ -3226,11 +3355,13 @@ the:
 
 patterns.
 
-Canonical Correction
+## Canonical Correction
 
+```text
 Shared Evidence
 ≠
 Shared Pattern
+```
 
 Pearl Morissette:
 
@@ -3252,7 +3383,9 @@ this:
 
 discipline.
 
-Comparison 41 — Story Before Features Has Broad Support
+---
+
+# Comparison 41 — Story Before Features Has Broad Support
 
 Current Status:
 
@@ -3262,15 +3395,11 @@ Strong:
 
 cases:
 
-Dishoom
-
-NARISAWA
-
-ICHIRAN
-
-Noma
-
-Pearl Morissette
+- Dishoom
+- NARISAWA
+- ICHIRAN
+- Noma
+- Pearl Morissette
 
 The:
 
@@ -3328,7 +3457,9 @@ too:
 
 broad.
 
-Story Before Features Governance Pressure
+---
+
+# Story Before Features Governance Pressure
 
 Entering Status:
 
@@ -3374,7 +3505,9 @@ hospitality:
 
 pattern.
 
-Comparison 42 — Story Before Features Does Not Mean Story Before Utility
+---
+
+# Comparison 42 — Story Before Features Does Not Mean Story Before Utility
 
 Pearl Morissette:
 
@@ -3390,11 +3523,13 @@ especially:
 
 important.
 
-Correction
+## Correction
 
+```text
 Story Before Features
 ≠
 Story Before Utility
+```
 
 A:
 
@@ -3418,7 +3553,9 @@ instructions
 
 immediately.
 
-Comparison 43 — Utility Can Carry Story
+---
+
+# Comparison 43 — Utility Can Carry Story
 
 Pearl Morissette's:
 
@@ -3458,11 +3595,13 @@ hospitality:
 
 system.
 
-Correction
+## Correction
 
+```text
 Utility
 ≠
 Narrative Absence
+```
 
 Meaning
 
@@ -3476,7 +3615,9 @@ operate:
 
 together.
 
-Comparison 44 — Strong Narrative Does Not Require Literary Narrative
+---
+
+# Comparison 44 — Strong Narrative Does Not Require Literary Narrative
 
 Dishoom:
 
@@ -3524,11 +3665,13 @@ system:
 
 explanation.
 
-Correction
+## Correction
 
+```text
 Strong Narrative
 ≠
 Highly Literary Narrative
+```
 
 This:
 
@@ -3550,7 +3693,9 @@ style:
 
 requirement.
 
-Narrative Language Within Clear Interface
+---
+
+# Narrative Language Within Clear Interface
 
 Current Status:
 
@@ -3560,15 +3705,11 @@ Strong:
 
 cases:
 
-Dishoom
-
-ICHIRAN
-
-Din Tai Fung
-
-Noma
-
-Pearl Morissette
+- Dishoom
+- ICHIRAN
+- Din Tai Fung
+- Noma
+- Pearl Morissette
 
 Different:
 
@@ -3588,7 +3729,7 @@ narrative:
 
 density.
 
-Current Decision
+## Current Decision
 
 No:
 
@@ -3600,7 +3741,9 @@ Candidate already:
 
 High.
 
-Comparison 45 — Heritage Builds Confidence Has Strong but Context-Specific Support
+---
+
+# Comparison 45 — Heritage Builds Confidence Has Strong but Context-Specific Support
 
 Current Status:
 
@@ -3610,11 +3753,9 @@ Strong:
 
 cases:
 
-Talisman
-
-Din Tai Fung
-
-Noma in adaptive form
+- Talisman
+- Din Tai Fung
+- Noma in adaptive form
 
 Pearl Morissette:
 
@@ -3646,11 +3787,13 @@ boundary:
 
 pressure.
 
-Correction
+## Correction
 
+```text
 Strong Authority
 ≠
 Heritage Required
+```
 
 No:
 
@@ -3658,7 +3801,9 @@ confidence:
 
 change.
 
-Comparison 46 — Living Heritage and Future-Facing Heritage Remain Mechanisms
+---
+
+# Comparison 46 — Living Heritage and Future-Facing Heritage Remain Mechanisms
 
 Post-Noma:
 
@@ -3704,7 +3849,7 @@ these:
 
 mechanisms.
 
-Current Decision
+## Current Decision
 
 Remain:
 
@@ -3714,7 +3859,9 @@ inside:
 
 Heritage Builds Confidence.
 
-Comparison 47 — Adaptation as Narrative Remains Distinct From Routine Variation
+---
+
+# Comparison 47 — Adaptation as Narrative Remains Distinct From Routine Variation
 
 Current Status:
 
@@ -3768,13 +3915,17 @@ adaptation:
 
 narrative.
 
-Correction
+## Correction
 
+```text
 Continuous Product Variation
 ≠
 Adaptation as Narrative
+```
 
-Comparison 48 — Variation Within System Is Different From System Transformation
+---
+
+# Comparison 48 — Variation Within System Is Different From System Transformation
 
 This:
 
@@ -3790,7 +3941,7 @@ change:
 
 refinement.
 
-Variation Within System
+### Variation Within System
 
 The:
 
@@ -3808,7 +3959,7 @@ outputs:
 
 vary.
 
-System Transformation
+### System Transformation
 
 The:
 
@@ -3822,13 +3973,17 @@ materially:
 
 changes.
 
-Correction
+## Correction
 
+```text
 Variation Within System
 ≠
 System Transformation
+```
 
-Comparison 49 — Coherence Through Change Needs a Higher Threshold
+---
+
+# Comparison 49 — Coherence Through Change Needs a Higher Threshold
 
 Current Status:
 
@@ -3876,7 +4031,7 @@ by:
 
 default.
 
-Proposed Threshold
+## Proposed Threshold
 
 Coherence Through Change:
 
@@ -3896,21 +4051,14 @@ one or more:
 
 of:
 
-operating model
-
-leadership
-
-participation
-
-place
-
-hospitality structure
-
-institutional role
-
-identity expression
-
-substantial product system
+- operating model
+- leadership
+- participation
+- place
+- hospitality structure
+- institutional role
+- identity expression
+- substantial product system
 
 rather:
 
@@ -3920,7 +4068,9 @@ ordinary:
 
 variation.
 
-Coherence Through Change Governance Pressure
+---
+
+# Coherence Through Change Governance Pressure
 
 Current:
 
@@ -3948,9 +4098,11 @@ high-change:
 
 case.
 
-Comparison 50 — Story of Change and Coherence Through Change Remain Distinct
+---
 
-Story of Change
+# Comparison 50 — Story of Change and Coherence Through Change Remain Distinct
+
+### Story of Change
 
 Narrative:
 
@@ -3958,7 +4110,7 @@ describes:
 
 change.
 
-Coherence Through Change
+### Coherence Through Change
 
 Hospitality:
 
@@ -3974,11 +4126,13 @@ material:
 
 change.
 
-Correction
+## Correction
 
+```text
 Story of Change
 ≠
 Coherence Across Change
+```
 
 Pearl Morissette:
 
@@ -3990,9 +4144,11 @@ change:
 
 this.
 
-Comparison 51 — Adaptation as Narrative and Coherence Through Change Remain Distinct
+---
 
-Adaptation as Narrative
+# Comparison 51 — Adaptation as Narrative and Coherence Through Change Remain Distinct
+
+### Adaptation as Narrative
 
 Change:
 
@@ -4006,7 +4162,7 @@ the:
 
 story.
 
-Coherence Through Change
+### Coherence Through Change
 
 Identity:
 
@@ -4022,11 +4178,13 @@ despite:
 
 change.
 
-Correction
+## Correction
 
+```text
 Adaptation as Narrative
 ≠
 Coherence Through Change
+```
 
 One:
 
@@ -4040,7 +4198,9 @@ the:
 
 other.
 
-Comparison 52 — Temporal Story Remains Below Candidate
+---
+
+# Comparison 52 — Temporal Story Remains Below Candidate
 
 Noma:
 
@@ -4090,17 +4250,21 @@ restaurant:
 
 narrative.
 
-Correction
+## Correction
 
+```text
 Time Is Narrative-Relevant
 ≠
 Temporal Story Dominates
+```
 
-Current Recommendation
+## Current Recommendation
 
 Remain below Candidate.
 
-Comparison 53 — Time Exists Does Not Mean Temporal Hospitality
+---
+
+# Comparison 53 — Time Exists Does Not Mean Temporal Hospitality
 
 This:
 
@@ -4120,11 +4284,13 @@ the:
 
 boundary.
 
-Correction
+## Correction
 
+```text
 Time Exists
 ≠
 Temporal Hospitality
+```
 
 Seasonality:
 
@@ -4134,7 +4300,9 @@ is:
 
 insufficient.
 
-Comparison 54 — Constraint as Narrative Has Strong Architecture-Level Support
+---
+
+# Comparison 54 — Constraint as Narrative Has Strong Architecture-Level Support
 
 Franklin:
 
@@ -4188,11 +4356,13 @@ hospitality:
 
 choices.
 
-Core Boundary
+## Core Boundary
 
+```text
 Constraint Exists
 ≠
 Constraint Is Narrative
+```
 
 The:
 
@@ -4206,7 +4376,9 @@ made:
 
 legible.
 
-Constraint as Narrative Governance Pressure
+---
+
+# Constraint as Narrative Governance Pressure
 
 Current:
 
@@ -4226,7 +4398,9 @@ promote:
 
 yet.
 
-Comparison 55 — Productive Constraint Can Help Explain Variable Product
+---
+
+# Comparison 55 — Productive Constraint Can Help Explain Variable Product
 
 Pearl Morissette:
 
@@ -4236,6 +4410,7 @@ a:
 
 relationship:
 
+```text
 Season
 +
 Region
@@ -4245,6 +4420,7 @@ Ingredient Availability
 Variable Product
 ↓
 Coherent Product Logic
+```
 
 This:
 
@@ -4270,7 +4446,9 @@ Productive Constraint:
 
 pattern.
 
-Comparison 56 — Narrative Coherence Does Not Require Product-System Sameness
+---
+
+# Comparison 56 — Narrative Coherence Does Not Require Product-System Sameness
 
 Pearl Morissette:
 
@@ -4332,13 +4510,17 @@ organising:
 
 logic.
 
-Correction
+## Correction
 
+```text
 Narrative Coherence
 ≠
 Product-System Sameness
+```
 
-Comparison 57 — Narrative Coherence Does Not Require Visual Sameness
+---
+
+# Comparison 57 — Narrative Coherence Does Not Require Visual Sameness
 
 This:
 
@@ -4372,11 +4554,13 @@ visual:
 
 language.
 
-Correction
+## Correction
 
+```text
 Narrative Coherence
 ≠
 Visual Sameness
+```
 
 Coherence:
 
@@ -4388,9 +4572,11 @@ meaningful:
 
 relationship.
 
-Comparison 58 — Narrative Coherence and Atmosphere Through Consistency Are Different
+---
 
-Narrative Coherence Through Organising Logic
+# Comparison 58 — Narrative Coherence and Atmosphere Through Consistency Are Different
+
+### Narrative Coherence Through Organising Logic
 
 How:
 
@@ -4402,7 +4588,7 @@ fit:
 
 together.
 
-Atmosphere Through Consistency
+### Atmosphere Through Consistency
 
 How:
 
@@ -4414,11 +4600,13 @@ fit:
 
 together.
 
-Correction
+## Correction
 
+```text
 Narrative Coherence
 ≠
 Atmospheric Consistency
+```
 
 Pearl Morissette:
 
@@ -4434,7 +4622,9 @@ merging:
 
 them.
 
-Comparison 59 — Story Through Place and Atmosphere Through Worldview Can Share Mechanisms
+---
+
+# Comparison 59 — Story Through Place and Atmosphere Through Worldview Can Share Mechanisms
 
 Pearl Morissette:
 
@@ -4476,13 +4666,17 @@ remain:
 
 different.
 
-Correction
+## Correction
 
+```text
 Shared Mechanism
 ≠
 Shared Pattern
+```
 
-Comparison 60 — Research as Narrative Carrier Remains a Mechanism Inside Story Through Hospitality Model
+---
+
+# Comparison 60 — Research as Narrative Carrier Remains a Mechanism Inside Story Through Hospitality Model
 
 Noma:
 
@@ -4524,7 +4718,7 @@ identity:
 
 pressure.
 
-Current Decision
+## Current Decision
 
 Keep:
 
@@ -4540,7 +4734,9 @@ Do not:
 
 formalize.
 
-Comparison 61 — Research as Narrative and Research as Atmosphere Are Different
+---
+
+# Comparison 61 — Research as Narrative and Research as Atmosphere Are Different
 
 Noma:
 
@@ -4550,11 +4746,13 @@ this:
 
 important.
 
-Correction
+## Correction
 
+```text
 Research as Narrative
 ≠
 Research as Atmosphere
+```
 
 Story:
 
@@ -4574,7 +4772,9 @@ being:
 
 research-led.
 
-Comparison 62 — Productive Ecology and Research Identity Are Different Narrative Models
+---
+
+# Comparison 62 — Productive Ecology and Research Identity Are Different Narrative Models
 
 NARISAWA:
 
@@ -4606,19 +4806,25 @@ high-concept:
 
 pattern.
 
-Correction
+## Correction
 
+```text
 Ecological Narrative
 ≠
 Research Narrative
+```
 
 and:
 
+```text
 Productive Ecosystem Narrative
 ≠
 Research Narrative
+```
 
-Comparison 63 — Authority Does Not Organize the Story by Default
+---
+
+# Comparison 63 — Authority Does Not Organize the Story by Default
 
 FYN
 
@@ -4658,19 +4864,25 @@ organising:
 
 logic.
 
-Correction
+## Correction
 
+```text
 Recognition
 ≠
 Narrative Organising Logic
+```
 
-Comparison 64 — Authority Proof and Hospitality Meaning Are Different
+---
 
-Correction
+# Comparison 64 — Authority Proof and Hospitality Meaning Are Different
 
+## Correction
+
+```text
 Authority Proof
 ≠
 Hospitality Meaning
+```
 
 Awards:
 
@@ -4678,15 +4890,21 @@ can:
 
 answer:
 
+```text
 Why take this seriously?
+```
 
 Story:
 
 answers:
 
+```text
 What does this mean?
+```
 
-Comparison 65 — Story and Proof Must Stay Separate
+---
+
+# Comparison 65 — Story and Proof Must Stay Separate
 
 Narrative:
 
@@ -4720,17 +4938,21 @@ be:
 
 trusted.
 
-Correction
+## Correction
 
+```text
 Meaning Carrier
 ≠
 Confidence Evidence
+```
 
 and:
 
+```text
 Narrative Explanation
 ≠
 Proof
+```
 
 This:
 
@@ -4752,23 +4974,29 @@ producer:
 
 claims.
 
-Comparison 66 — Narrative Can Make Proof Easier to Interpret Without Replacing It
+---
+
+# Comparison 66 — Narrative Can Make Proof Easier to Interpret Without Replacing It
 
 Potential:
 
 relationship:
 
+```text
 Narrative Organising Logic
 ↓
 Claim Becomes Understandable
 ↓
 Evidence Becomes Easier to Interpret
+```
 
 But:
 
+```text
 Interpretability
 ≠
 Validity
+```
 
 A:
 
@@ -4784,7 +5012,9 @@ be:
 
 unsupported.
 
-Comparison 67 — Narrative Ecosystems Need Claim-Scope Discipline
+---
+
+# Comparison 67 — Narrative Ecosystems Need Claim-Scope Discipline
 
 Pearl Morissette:
 
@@ -4828,19 +5058,25 @@ remain:
 
 scoped.
 
-Corrections
+## Corrections
 
+```text
 Winery Practice
 ≠
 Restaurant Practice by Default
+```
 
+```text
 Private-Dining Experience
 ≠
 Standard Dining Experience
+```
 
+```text
 Farm Activity
 ≠
 Every Ingredient Path
+```
 
 These:
 
@@ -4854,17 +5090,17 @@ Narrative Boundary:
 
 discipline.
 
-Comparison 68 — Narrative Boundary Is a Transferable Architecture Variable
+---
+
+# Comparison 68 — Narrative Boundary Is a Transferable Architecture Variable
 
 Strongest:
 
 cases:
 
-Din Tai Fung
-
-Noma
-
-Pearl Morissette
+- Din Tai Fung
+- Noma
+- Pearl Morissette
 
 Potential:
 
@@ -4892,13 +5128,15 @@ or:
 
 entities.
 
-Current Decision
+## Current Decision
 
 Remain:
 
 architecture-level.
 
-Comparison 69 — Narrative Freshness Remains Distinct From Evidence Freshness
+---
+
+# Comparison 69 — Narrative Freshness Remains Distinct From Evidence Freshness
 
 Noma:
 
@@ -4932,11 +5170,13 @@ current:
 
 restaurant.
 
-Correction
+## Correction
 
+```text
 Narrative Freshness
 ≠
 Evidence Freshness
+```
 
 Pearl Morissette:
 
@@ -4968,7 +5208,9 @@ fit
 
 important.
 
-Comparison 70 — Official Does Not Mean Current for Narrative Either
+---
+
+# Comparison 70 — Official Does Not Mean Current for Narrative Either
 
 An:
 
@@ -4988,11 +5230,13 @@ or:
 
 outdated.
 
-Correction
+## Correction
 
+```text
 Official
 ≠
 Current
+```
 
 This:
 
@@ -5016,9 +5260,11 @@ and:
 
 proof.
 
-Comparison 71 — Narrative Temporal Coherence Is Not the Same as Coherence Through Change
+---
 
-Narrative Temporal Coherence
+# Comparison 71 — Narrative Temporal Coherence Is Not the Same as Coherence Through Change
+
+### Narrative Temporal Coherence
 
 Does:
 
@@ -5034,7 +5280,7 @@ across:
 
 time?
 
-Coherence Through Change
+### Coherence Through Change
 
 Does:
 
@@ -5054,11 +5300,13 @@ material:
 
 change?
 
-Correction
+## Correction
 
+```text
 Narrative Temporal Coherence
 ≠
 Coherence Through Change
+```
 
 This:
 
@@ -5068,7 +5316,9 @@ architecture:
 
 discipline.
 
-Comparison 72 — Productive Narrative Tension Remains Below Candidate
+---
+
+# Comparison 72 — Productive Narrative Tension Remains Below Candidate
 
 Noma:
 
@@ -5086,13 +5336,10 @@ potential:
 
 tensions:
 
-modern / rustic
-
-farm / fine dining
-
-local / networked
-
-variable / stable
+- modern / rustic
+- farm / fine dining
+- local / networked
+- variable / stable
 
 But:
 
@@ -5122,11 +5369,13 @@ story:
 
 mechanism.
 
-Current Recommendation
+## Current Recommendation
 
 Remain below Candidate.
 
-Comparison 73 — Local and Global Can Coexist
+---
+
+# Comparison 73 — Local and Global Can Coexist
 
 Din Tai Fung:
 
@@ -5178,13 +5427,17 @@ to:
 
 place.
 
-Correction
+## Correction
 
+```text
 Strong Place Story
 ≠
 Local-Only Brand Required
+```
 
-Comparison 74 — Story Through Hospitality Model Is More General Than Product Focus as Narrative
+---
+
+# Comparison 74 — Story Through Hospitality Model Is More General Than Product Focus as Narrative
 
 Franklin
 
@@ -5230,11 +5483,13 @@ product:
 
 alone.
 
-Correction
+## Correction
 
+```text
 Product Focus
 ≠
 Complete Hospitality Model
+```
 
 This:
 
@@ -5250,17 +5505,17 @@ architecture:
 
 level.
 
-Comparison 75 — Product Focus as Narrative Remains a Direction
+---
+
+# Comparison 75 — Product Focus as Narrative Remains a Direction
 
 Strong:
 
 cases:
 
-Franklin
-
-ICHIRAN
-
-Din Tai Fung
+- Franklin
+- ICHIRAN
+- Din Tai Fung
 
 Pearl Morissette:
 
@@ -5280,7 +5535,7 @@ provides:
 
 counter-pressure.
 
-Current Recommendation
+## Current Recommendation
 
 Remain architecture-level.
 
@@ -5290,7 +5545,9 @@ promote:
 
 yet.
 
-Comparison 76 — Bounded Product Narrative Is More Precise Than Generic Product Story for Variable Menus
+---
+
+# Comparison 76 — Bounded Product Narrative Is More Precise Than Generic Product Story for Variable Menus
 
 Pearl Morissette:
 
@@ -5326,8 +5583,9 @@ product:
 
 knowledge.
 
-Architecture Relationship
+## Architecture Relationship
 
+```text
 Variable Product
 +
 Stable Product Logic
@@ -5337,16 +5595,19 @@ Method
 Context
 ↓
 Bounded Product Narrative
+```
 
 Potential Home:
 
 Story Through Hospitality Model
 
-
++
 
 Promise Before Proof.
 
-Comparison 77 — Stable Narrative Identity Can Be Multi-Anchor
+---
+
+# Comparison 77 — Stable Narrative Identity Can Be Multi-Anchor
 
 A:
 
@@ -5372,29 +5633,26 @@ potentially:
 
 uses:
 
-place
-
-method
-
-producer relationships
-
-food / wine logic
+- place
+- method
+- producer relationships
+- food / wine logic
 
 Noma:
 
 uses:
 
-institution
+- institution
+- research method
+- identity
 
-research method
+## Correction
 
-identity
-
-Correction
-
+```text
 Narrative Stability
 ≠
 Single Anchor Required
+```
 
 This:
 
@@ -5402,7 +5660,9 @@ remains:
 
 architecture.
 
-Comparison 78 — Narrative Invariant Should Be Stronger Than Surface Repetition
+---
+
+# Comparison 78 — Narrative Invariant Should Be Stronger Than Surface Repetition
 
 If:
 
@@ -5438,11 +5698,13 @@ may:
 
 survive.
 
-Correction
+## Correction
 
+```text
 Narrative Invariant
 ≠
 Repeated Copy
+```
 
 This:
 
@@ -5454,7 +5716,9 @@ change:
 
 research.
 
-Comparison 79 — Story Through Place and Story Through Hospitality Model Can Form a Causal Narrative Chain
+---
+
+# Comparison 79 — Story Through Place and Story Through Hospitality Model Can Form a Causal Narrative Chain
 
 Pearl Morissette:
 
@@ -5466,6 +5730,7 @@ possible:
 
 structure:
 
+```text
 Place
 ↓
 Conditions / Relationships
@@ -5475,6 +5740,7 @@ Operating Model
 Product
 ↓
 Hospitality Meaning
+```
 
 But:
 
@@ -5490,13 +5756,17 @@ remain:
 
 evidence-safe.
 
-Correction
+## Correction
 
+```text
 Narrative Sequence
 ≠
 Operational Causality Proven
+```
 
-Comparison 80 — Place Can Sit Upstream of Meaning Without Fully Determining Operations
+---
+
+# Comparison 80 — Place Can Sit Upstream of Meaning Without Fully Determining Operations
 
 This:
 
@@ -5512,11 +5782,13 @@ story:
 
 refinement.
 
+```text
 Place
 can influence
 Operating Logic
 without
 fully determining it
+```
 
 That:
 
@@ -5536,9 +5808,13 @@ than:
 
 Place as Operating Infrastructure.
 
-Current Story Pattern Pressure
+---
 
-Story Through Place
+# Current Story Pattern Pressure
+
+---
+
+# Story Through Place
 
 Status:
 
@@ -5560,7 +5836,9 @@ Primary reason:
 
 broad mechanistic repetition.
 
-Narrative Coherence Through Organising Logic
+---
+
+# Narrative Coherence Through Organising Logic
 
 Status:
 
@@ -5582,7 +5860,9 @@ Strongest new mechanism:
 
 Ecosystem as Organising Logic.
 
-Story Through Hospitality Model
+---
+
+# Story Through Hospitality Model
 
 Status:
 
@@ -5600,7 +5880,9 @@ Strongest new mechanism:
 
 Networked Hospitality Model.
 
-Biography When It Explains the Experience
+---
+
+# Biography When It Explains the Experience
 
 Status:
 
@@ -5614,7 +5896,9 @@ Governance Review:
 
 No change.
 
-Narrative Language Within Clear Interface
+---
+
+# Narrative Language Within Clear Interface
 
 Status:
 
@@ -5628,7 +5912,9 @@ Governance Review:
 
 No change.
 
-Heritage Builds Confidence
+---
+
+# Heritage Builds Confidence
 
 Status:
 
@@ -5642,7 +5928,9 @@ Governance Review:
 
 No change.
 
-Adaptation as Narrative
+---
+
+# Adaptation as Narrative
 
 Status:
 
@@ -5664,7 +5952,9 @@ Continuous Product Variation
 
 Adaptation as Narrative.
 
-Story Before Features
+---
+
+# Story Before Features
 
 Status:
 
@@ -5690,7 +5980,9 @@ Primary risk:
 
 generic content principle.
 
-Promise Before Proof
+---
+
+# Promise Before Proof
 
 Status:
 
@@ -5716,7 +6008,9 @@ and:
 
 Stable Participation / Variable Product.
 
-Temporal Story
+---
+
+# Temporal Story
 
 Status:
 
@@ -5730,7 +6024,9 @@ Governance Review:
 
 Remain below Candidate.
 
-Coherence Through Change
+---
+
+# Coherence Through Change
 
 Status:
 
@@ -5744,7 +6040,9 @@ Governance Review:
 
 Remain below Candidate.
 
-Constraint as Narrative
+---
+
+# Constraint as Narrative
 
 Status:
 
@@ -5758,7 +6056,9 @@ Governance Review:
 
 Remain architecture-level.
 
-Product Focus as Narrative
+---
+
+# Product Focus as Narrative
 
 Status:
 
@@ -5772,7 +6072,9 @@ Governance Review:
 
 Remain architecture-level.
 
-Productive Narrative Tension
+---
+
+# Productive Narrative Tension
 
 Status:
 
@@ -5786,9 +6088,13 @@ Governance Review:
 
 Remain below Candidate.
 
-New Story Architecture After Restaurant #15
+---
 
-Ecosystem as Organising Logic
+# New Story Architecture After Restaurant #15
+
+---
+
+# Ecosystem as Organising Logic
 
 Status:
 
@@ -5798,7 +6104,9 @@ Potential Home:
 
 Narrative Coherence Through Organising Logic.
 
-Networked Hospitality Model
+---
+
+# Networked Hospitality Model
 
 Status:
 
@@ -5808,19 +6116,25 @@ Potential Home:
 
 Story Through Hospitality Model.
 
-Distributed Contribution
+---
+
+# Distributed Contribution
 
 Status:
 
 Story Architecture Variable
 
-Narrative Ecosystem Scope
+---
+
+# Narrative Ecosystem Scope
 
 Status:
 
 Narrative Architecture Variable
 
-Relationship Narrative Depth
+---
+
+# Relationship Narrative Depth
 
 Status:
 
@@ -5828,15 +6142,14 @@ Story Architecture Variable
 
 Levels:
 
-Presence
+1. Presence
+2. Relevance
+3. Contribution
+4. Integration
 
-Relevance
+---
 
-Contribution
-
-Integration
-
-Bounded Product Narrative
+# Bounded Product Narrative
 
 Status:
 
@@ -5846,11 +6159,13 @@ Potential Home:
 
 Story Through Hospitality Model
 
-
++
 
 Promise Before Proof.
 
-Variation Within System / System Transformation
+---
+
+# Variation Within System / System Transformation
 
 Status:
 
@@ -5860,7 +6175,9 @@ Potential Home:
 
 Coherence Through Change.
 
-Place as Productive Context
+---
+
+# Place as Productive Context
 
 Status:
 
@@ -5868,71 +6185,45 @@ Cross-Dimensional Architecture Mechanism
 
 Potential Homes:
 
-Story Through Place
+- Story Through Place
+- Story Through Hospitality Model
+- Atmosphere Through Worldview
+- Capacity Proof
 
-Story Through Hospitality Model
+---
 
-Atmosphere Through Worldview
-
-Capacity Proof
-
-Current Story Architecture Variables
+# Current Story Architecture Variables
 
 Post–Pearl Morissette:
 
 story research now includes:
 
-Narrative Carrier
-
-Narrative Subject
-
-Narrative Anchor
-
-Narrative Invariant
-
-Narrative Boundary
-
-Narrative Horizon
-
-Narrative Era
-
-Narrative Freshness
-
-Narrative Authority Source
-
-Narrative Ecosystem Scope
-
-Relationship Narrative Depth
-
-Distributed Biography
-
-Distributed Contribution
-
-Method as Narrative Anchor
-
-Ecosystem as Organising Logic
-
-Product Focus as Narrative
-
-Bounded Product Narrative
-
-Constraint as Narrative
-
-Temporal Story
-
-Institutional Narrative
-
-Relational Place Narrative
-
-Adaptation as Narrative
-
-Coherence Through Change
-
-Variation Within System
-
-System Transformation
-
-Productive Narrative Tension
+- Narrative Carrier
+- Narrative Subject
+- Narrative Anchor
+- Narrative Invariant
+- Narrative Boundary
+- Narrative Horizon
+- Narrative Era
+- Narrative Freshness
+- Narrative Authority Source
+- Narrative Ecosystem Scope
+- Relationship Narrative Depth
+- Distributed Biography
+- Distributed Contribution
+- Method as Narrative Anchor
+- Ecosystem as Organising Logic
+- Product Focus as Narrative
+- Bounded Product Narrative
+- Constraint as Narrative
+- Temporal Story
+- Institutional Narrative
+- Relational Place Narrative
+- Adaptation as Narrative
+- Coherence Through Change
+- Variation Within System
+- System Transformation
+- Productive Narrative Tension
 
 These:
 
@@ -5966,25 +6257,37 @@ flatten:
 
 them.
 
-Story Deduplication Decisions
+---
 
-Ecosystem as Organising Logic
+# Story Deduplication Decisions
 
+---
+
+# Ecosystem as Organising Logic
+
+```text
 Ecosystem as Organising Logic
 →
 Narrative Coherence Through Organising Logic
+```
 
 Mechanism only.
 
-Networked Hospitality Model
+---
 
+# Networked Hospitality Model
+
+```text
 Networked Hospitality Model
 →
 Story Through Hospitality Model
+```
 
 Architecture direction.
 
-Distributed Authorship
+---
+
+# Distributed Authorship
 
 Preferred:
 
@@ -5992,7 +6295,9 @@ evidence-safe:
 
 replacement:
 
+```text
 Distributed Contribution
+```
 
 Do not:
 
@@ -6004,15 +6309,19 @@ Distributed Authorship:
 
 pattern.
 
-Bounded Product Narrative
+---
+
+# Bounded Product Narrative
 
 Potential:
 
 home:
 
+```text
 Story Through Hospitality Model
 +
 Promise Before Proof
+```
 
 Do not:
 
@@ -6020,12 +6329,15 @@ formalize:
 
 separately.
 
-Place as Productive Context
+---
+
+# Place as Productive Context
 
 Potential:
 
 homes:
 
+```text
 Story Through Place
 +
 Story Through Hospitality Model
@@ -6033,12 +6345,15 @@ Story Through Hospitality Model
 Atmosphere Through Worldview
 +
 Capacity Proof
+```
 
 Cross-dimensional:
 
 mechanism.
 
-Variation Within System
+---
+
+# Variation Within System
 
 Keep:
 
@@ -6060,7 +6375,9 @@ separate:
 
 pattern.
 
-Relationship Narrative Depth
+---
+
+# Relationship Narrative Depth
 
 Remain:
 
@@ -6072,7 +6389,9 @@ Do not:
 
 formalize.
 
-Narrative Ecosystem Scope
+---
+
+# Narrative Ecosystem Scope
 
 Remain:
 
@@ -6084,513 +6403,786 @@ Do not:
 
 formalize.
 
-Story Corrections — Post Restaurant #15
+---
 
-Correction 1
+# Story Corrections — Post Restaurant #15
 
+---
+
+## Correction 1
+
+```text
 Story
 ≠
 Biography
+```
 
-Correction 2
+---
 
+## Correction 2
+
+```text
 Strong Hospitality Story
 ≠
 Biography Required
+```
 
-Correction 3
+---
 
+## Correction 3
+
+```text
 Story Through Place
 ≠
 Story Through Address
+```
 
-Correction 4
+---
 
+## Correction 4
+
+```text
 Strong Story Through Place
 ≠
 Productive Place Required
+```
 
-Correction 5
+---
 
+## Correction 5
+
+```text
 Place as Productive Context
 ≠
 Universal Place Mechanism
+```
 
-Correction 6
+---
 
+## Correction 6
+
+```text
 Place as Productive Context
 ≠
 Place as Operating Infrastructure
+```
 
-Correction 7
+---
 
+## Correction 7
+
+```text
 Place Shapes Hospitality
 ≠
 Place Determines Every Hospitality Outcome
+```
 
-Correction 8
+---
 
+## Correction 8
+
+```text
 Operating Model Description
 ≠
 Story Through Hospitality Model
+```
 
-Correction 9
+---
 
+## Correction 9
+
+```text
 Hospitality Model
 ≠
 Vertically Integrated System
+```
 
-Correction 10
+---
 
+## Correction 10
+
+```text
 Networked Production
 ≠
 Multi-Intent Participation
+```
 
-Correction 11
+---
 
+## Correction 11
+
+```text
 Asset Collection
 ≠
 Narrative Coherence
+```
 
-Correction 12
+---
 
+## Correction 12
+
+```text
 Shared Vocabulary
 ≠
 Narrative Coherence
+```
 
-Correction 13
+---
 
+## Correction 13
+
+```text
 Ecosystem Narrative
 ≠
 Sustainability Certification
+```
 
-Correction 14
+---
 
+## Correction 14
+
+```text
 Ecological Narrative
 ≠
 Environmental Performance Proof
+```
 
-Correction 15
+---
 
+## Correction 15
+
+```text
 Regenerative Narrative
 ≠
 Regenerative Performance Proof
+```
 
-Correction 16
+---
 
+## Correction 16
+
+```text
 Shared Ownership
 ≠
 Narrative Coherence
+```
 
-Correction 17
+---
 
+## Correction 17
+
+```text
 Separate Ownership
 ≠
 Narrative Fragmentation
+```
 
-Correction 18
+---
 
+## Correction 18
+
+```text
 Shared Brand Ecosystem
 ≠
 One Undifferentiated Narrative Entity
+```
 
-Correction 19
+---
 
+## Correction 19
+
+```text
 Narrative Ecosystem
 ≠
 Participation Ecosystem
+```
 
-Correction 20
+---
 
+## Correction 20
+
+```text
 Narrative Extension
 ≠
 Participation Requirement
+```
 
-Correction 21
+---
 
+## Correction 21
+
+```text
 Narrative Horizon
 ≠
 Narrative Ecosystem
+```
 
-Correction 22
+---
 
+## Correction 22
+
+```text
 Named Contributor
 ≠
 Co-Author Proven
+```
 
-Correction 23
+---
 
+## Correction 23
+
+```text
 Distributed Biography
 ≠
 Distributed Contribution
+```
 
-Correction 24
+---
 
+## Correction 24
+
+```text
 Named Producer
 ≠
 Explained Producer Relationship
+```
 
-Correction 25
+---
 
+## Correction 25
+
+```text
 Narrative Depth
 ≠
 Proof Depth
+```
 
-Correction 26
+---
 
+## Correction 26
+
+```text
 Product Narrative
 ≠
 Signature Dish Narrative
+```
 
-Correction 27
+---
 
+## Correction 27
+
+```text
 Stable Narrative Identity
 ≠
 Stable Narrative Object
+```
 
-Correction 28
+---
 
+## Correction 28
+
+```text
 Narrative Subject
 ≠
 Narrative Anchor
+```
 
-Correction 29
+---
 
+## Correction 29
+
+```text
 Narrative Carrier
 ≠
 Narrative Invariant
+```
 
-Correction 30
+---
 
+## Correction 30
+
+```text
 Narrative Explanation
 ≠
 Capacity Proof
+```
 
-Correction 31
+---
 
+## Correction 31
+
+```text
 Operational Meaning
 ≠
 Operational Capability Proof
+```
 
-Correction 32
+---
 
+## Correction 32
+
+```text
 Producer Network as Story
 ≠
 Producer Network as Capacity Proof
+```
 
-Correction 33
+---
 
+## Correction 33
+
+```text
 Place Explains Meaning
 ≠
 Operating Model Explains Meaning
+```
 
-Correction 34
+---
 
+## Correction 34
+
+```text
 Worldview Expression
 ≠
 Place Story
+```
 
-Correction 35
+---
 
+## Correction 35
+
+```text
 Shared Evidence
 ≠
 Shared Pattern
+```
 
-Correction 36
+---
 
+## Correction 36
+
+```text
 Story Before Features
 ≠
 Story Before Utility
+```
 
-Correction 37
+---
 
+## Correction 37
+
+```text
 Utility
 ≠
 Narrative Absence
+```
 
-Correction 38
+---
 
+## Correction 38
+
+```text
 Strong Narrative
 ≠
 Highly Literary Narrative
+```
 
-Correction 39
+---
 
+## Correction 39
+
+```text
 Strong Authority
 ≠
 Heritage Required
+```
 
-Correction 40
+---
 
+## Correction 40
+
+```text
 Continuous Product Variation
 ≠
 Adaptation as Narrative
+```
 
-Correction 41
+---
 
+## Correction 41
+
+```text
 Variation Within System
 ≠
 System Transformation
+```
 
-Correction 42
+---
 
+## Correction 42
+
+```text
 Story of Change
 ≠
 Coherence Across Change
+```
 
-Correction 43
+---
 
+## Correction 43
+
+```text
 Adaptation as Narrative
 ≠
 Coherence Through Change
+```
 
-Correction 44
+---
 
+## Correction 44
+
+```text
 Time Is Narrative-Relevant
 ≠
 Temporal Story Dominates
+```
 
-Correction 45
+---
 
+## Correction 45
+
+```text
 Time Exists
 ≠
 Temporal Hospitality
+```
 
-Correction 46
+---
 
+## Correction 46
+
+```text
 Constraint Exists
 ≠
 Constraint Is Narrative
+```
 
-Correction 47
+---
 
+## Correction 47
+
+```text
 Narrative Coherence
 ≠
 Product-System Sameness
+```
 
-Correction 48
+---
 
+## Correction 48
+
+```text
 Narrative Coherence
 ≠
 Visual Sameness
+```
 
-Correction 49
+---
 
+## Correction 49
+
+```text
 Narrative Coherence
 ≠
 Atmospheric Consistency
+```
 
-Correction 50
+---
 
+## Correction 50
+
+```text
 Shared Mechanism
 ≠
 Shared Pattern
+```
 
-Correction 51
+---
 
+## Correction 51
+
+```text
 Research as Narrative
 ≠
 Research as Atmosphere
+```
 
-Correction 52
+---
 
+## Correction 52
+
+```text
 Ecological Narrative
 ≠
 Research Narrative
+```
 
-Correction 53
+---
 
+## Correction 53
+
+```text
 Productive Ecosystem Narrative
 ≠
 Research Narrative
+```
 
-Correction 54
+---
 
+## Correction 54
+
+```text
 Recognition
 ≠
 Narrative Organising Logic
+```
 
-Correction 55
+---
 
+## Correction 55
+
+```text
 Authority Proof
 ≠
 Hospitality Meaning
+```
 
-Correction 56
+---
 
+## Correction 56
+
+```text
 Meaning Carrier
 ≠
 Confidence Evidence
+```
 
-Correction 57
+---
 
+## Correction 57
+
+```text
 Narrative Explanation
 ≠
 Proof
+```
 
-Correction 58
+---
 
+## Correction 58
+
+```text
 Interpretability
 ≠
 Validity
+```
 
-Correction 59
+---
 
+## Correction 59
+
+```text
 Official
 ≠
 Current
+```
 
-Correction 60
+---
 
+## Correction 60
+
+```text
 Narrative Temporal Coherence
 ≠
 Coherence Through Change
+```
 
-Correction 61
+---
 
+## Correction 61
+
+```text
 Strong Place Story
 ≠
 Local-Only Brand Required
+```
 
-Correction 62
+---
 
+## Correction 62
+
+```text
 Product Focus
 ≠
 Complete Hospitality Model
+```
 
-Correction 63
+---
 
+## Correction 63
+
+```text
 Narrative Stability
 ≠
 Single Anchor Required
+```
 
-Correction 64
+---
 
+## Correction 64
+
+```text
 Narrative Invariant
 ≠
 Repeated Copy
+```
 
-Correction 65
+---
 
+## Correction 65
+
+```text
 Narrative Sequence
 ≠
 Operational Causality Proven
+```
 
-Strongest Story Tensions After Restaurant #15
+---
 
-Tension 1 — Place vs Operating Model
+# Strongest Story Tensions After Restaurant #15
+
+---
+
+# Tension 1 — Place vs Operating Model
 
 Question:
 
-Does place itself carry the story, or does place matter because it materially shapes the operating model?
+> **Does place itself carry the story, or does place matter because it materially shapes the operating model?**
 
 Strong cases:
 
-NARISAWA
+- NARISAWA
+- Noma
+- Pearl Morissette
 
-Noma
+---
 
-Pearl Morissette
-
-Tension 2 — Productive Context vs Operating Infrastructure
+# Tension 2 — Productive Context vs Operating Infrastructure
 
 Question:
 
-How much evidence is needed before place can be described as operationally causal rather than strongly influential?
+> **How much evidence is needed before place can be described as operationally causal rather than strongly influential?**
 
 Strongest case:
 
 Pearl Morissette.
 
-Tension 3 — Biography vs System
+---
+
+# Tension 3 — Biography vs System
 
 Question:
 
-When should individual authorship dominate the story, and when does the hospitality system explain more?
+> **When should individual authorship dominate the story, and when does the hospitality system explain more?**
 
 Strong contrasts:
 
-FYN
+- FYN
+- ICHIRAN
+- Pearl Morissette
 
-ICHIRAN
+---
 
-Pearl Morissette
-
-Tension 4 — Organising Logic vs Asset Collection
+# Tension 4 — Organising Logic vs Asset Collection
 
 Question:
 
-Are multiple story carriers materially related, or simply presented under one brand?
+> **Are multiple story carriers materially related, or simply presented under one brand?**
 
 Strong cases:
 
-Dishoom
+- Dishoom
+- Noma
+- Pearl Morissette
 
-Noma
+---
 
-Pearl Morissette
-
-Tension 5 — Ecosystem vs Shared Vocabulary
+# Tension 5 — Ecosystem vs Shared Vocabulary
 
 Question:
 
-Does the ecosystem materially organize the restaurant story, or do words like place, nature, craft, and regeneration merely create surface consistency?
+> **Does the ecosystem materially organize the restaurant story, or do words like place, nature, craft, and regeneration merely create surface consistency?**
 
 Strongest case:
 
 Pearl Morissette.
 
-Tension 6 — Product Narrative vs Signature Product
+---
+
+# Tension 6 — Product Narrative vs Signature Product
 
 Question:
 
-Can a restaurant remain strongly product-led without one stable hero dish?
+> **Can a restaurant remain strongly product-led without one stable hero dish?**
 
 Strong contrast:
 
-Din Tai Fung
+- Din Tai Fung
+- Franklin
+- Pearl Morissette
+- Noma
 
-Franklin
+---
 
-Pearl Morissette
-
-Noma
-
-Tension 7 — Stable Identity vs Variable Product
+# Tension 7 — Stable Identity vs Variable Product
 
 Question:
 
-What must remain stable for a changing menu to still communicate one coherent restaurant identity?
+> **What must remain stable for a changing menu to still communicate one coherent restaurant identity?**
 
 Strong cases:
 
-Noma
+- Noma
+- Pearl Morissette
 
-Pearl Morissette
+---
 
-Tension 8 — Variation vs Transformation
+# Tension 8 — Variation vs Transformation
 
 Question:
 
-When does repeated variation become material hospitality change rather than normal operation?
+> **When does repeated variation become material hospitality change rather than normal operation?**
 
 Strongest contrast:
 
+```text
 Noma
 vs
 Pearl Morissette
+```
 
-Tension 9 — Adaptation vs Routine Change
+---
+
+# Tension 9 — Adaptation vs Routine Change
 
 Question:
 
-When does change itself become part of the story rather than simply product variation?
+> **When does change itself become part of the story rather than simply product variation?**
 
 Strong cases:
 
-Noma
-
-Din Tai Fung
+- Noma
+- Din Tai Fung
 
 Pearl Morissette:
 
@@ -6598,73 +7190,79 @@ boundary:
 
 case.
 
-Tension 10 — Story vs Proof
+---
+
+# Tension 10 — Story vs Proof
 
 Question:
 
-When does a meaningful story require stronger evidence before it can support claims about capacity, ecology, or operations?
+> **When does a meaningful story require stronger evidence before it can support claims about capacity, ecology, or operations?**
 
 Strong cases:
 
-NARISAWA
+- NARISAWA
+- Noma
+- Pearl Morissette
 
-Noma
+---
 
-Pearl Morissette
-
-Tension 11 — Narrative Ecosystem vs Guest Experience
+# Tension 11 — Narrative Ecosystem vs Guest Experience
 
 Question:
 
-Which related entities legitimately contribute to the story without becoming part of every guest's actual experience?
+> **Which related entities legitimately contribute to the story without becoming part of every guest's actual experience?**
 
 Strongest case:
 
 Pearl Morissette.
 
-Tension 12 — Distributed Contribution vs Authorship
+---
+
+# Tension 12 — Distributed Contribution vs Authorship
 
 Question:
 
-How should narrative weight be allocated when many people materially contribute but creative authority is unequal or unclear?
+> **How should narrative weight be allocated when many people materially contribute but creative authority is unequal or unclear?**
 
 Strongest case:
 
 Pearl Morissette.
 
-Tension 13 — Heritage vs Adaptation
+---
+
+# Tension 13 — Heritage vs Adaptation
 
 Question:
 
-When does continuity build confidence, and when must the story explicitly explain how the institution is changing?
+> **When does continuity build confidence, and when must the story explicitly explain how the institution is changing?**
 
 Strong cases:
 
-Talisman
+- Talisman
+- Din Tai Fung
+- Noma
 
-Din Tai Fung
+---
 
-Noma
-
-Tension 14 — Narrative Richness vs Interface Clarity
+# Tension 14 — Narrative Richness vs Interface Clarity
 
 Question:
 
-How much narrative depth can be introduced before the guest loses the utility required to act?
+> **How much narrative depth can be introduced before the guest loses the utility required to act?**
 
 Strong cases:
 
-Dishoom
+- Dishoom
+- Noma
+- Pearl Morissette
 
-Noma
+---
 
-Pearl Morissette
-
-Tension 15 — Time as Carrier vs Time as Context
+# Tension 15 — Time as Carrier vs Time as Context
 
 Question:
 
-When does time materially organize the story rather than simply describe season, heritage, or chronology?
+> **When does time materially organize the story rather than simply describe season, heritage, or chronology?**
 
 Strongest case:
 
@@ -6676,61 +7274,91 @@ supporting:
 
 boundary.
 
-Strongest Story Falsification Questions
+---
 
-Story Through Place
+# Strongest Story Falsification Questions
 
-If the restaurant moved to a different place while retaining the same team, techniques, and product logic, how much hospitality meaning would materially disappear?
+---
 
-Story Through Hospitality Model
+# Story Through Place
 
-Does understanding how the restaurant operates materially explain the experience, or is the operating model merely background information?
+> **If the restaurant moved to a different place while retaining the same team, techniques, and product logic, how much hospitality meaning would materially disappear?**
 
-Narrative Coherence Through Organising Logic
+---
 
-Can the guest explain why the major story carriers belong together without relying on vague shared language?
+# Story Through Hospitality Model
 
-Ecosystem as Organising Logic
+> **Does understanding how the restaurant operates materially explain the experience, or is the operating model merely background information?**
 
-Does the ecosystem create material relationships among place, producers, food, wine, and hospitality, or merely a strong thematic vocabulary?
+---
 
-Networked Hospitality Model
+# Narrative Coherence Through Organising Logic
 
-Are external contributors materially part of the hospitality model, or simply conventional suppliers?
+> **Can the guest explain why the major story carriers belong together without relying on vague shared language?**
 
-Distributed Contribution
+---
 
-Which contributors materially shape hospitality meaning, and which are only acknowledged?
+# Ecosystem as Organising Logic
 
-Bounded Product Narrative
+> **Does the ecosystem create material relationships among place, producers, food, wine, and hospitality, or merely a strong thematic vocabulary?**
 
-Can the guest understand a stable food identity without exact future dishes, or does the product story become too abstract?
+---
 
-Promise Before Proof
+# Networked Hospitality Model
 
-Does narrative create appropriate expectation boundaries, or does it simply replace missing product specificity with evocative language?
+> **Are external contributors materially part of the hospitality model, or simply conventional suppliers?**
 
-Coherence Through Change
+---
 
-Is the hospitality system materially changing, or only varying inside a stable model?
+# Distributed Contribution
 
-Adaptation as Narrative
+> **Which contributors materially shape hospitality meaning, and which are only acknowledged?**
 
-Does adaptation itself help explain the restaurant's identity, or is change incidental?
+---
 
-Temporal Story
+# Bounded Product Narrative
 
-Would the story materially lose meaning if time and change were removed from the narrative structure?
+> **Can the guest understand a stable food identity without exact future dishes, or does the product story become too abstract?**
 
-Narrative Ecosystem Scope
+---
 
-Which related entities legitimately explain the restaurant and which should remain outside the standard dining narrative?
+# Promise Before Proof
 
-Relationship Narrative Depth
+> **Does narrative create appropriate expectation boundaries, or does it simply replace missing product specificity with evocative language?**
 
-How much explanation is needed before a named relationship actually contributes to guest understanding?
+---
 
-Candidate Review Queue — Story Dimension
+# Coherence Through Change
+
+> **Is the hospitality system materially changing, or only varying inside a stable model?**
+
+---
+
+# Adaptation as Narrative
+
+> **Does adaptation itself help explain the restaurant's identity, or is change incidental?**
+
+---
+
+# Temporal Story
+
+> **Would the story materially lose meaning if time and change were removed from the narrative structure?**
+
+---
+
+# Narrative Ecosystem Scope
+
+> **Which related entities legitimately explain the restaurant and which should remain outside the standard dining narrative?**
+
+---
+
+# Relationship Narrative Depth
+
+> **How much explanation is needed before a named relationship actually contributes to guest understanding?**
+
+---
+
+# Candidate Review Queue — Story Dimension
 
 The following:
 
@@ -6752,7 +7380,9 @@ canonical:
 
 reconciliation.
 
-1. Story Through Place — Confidence Review
+---
+
+# 1. Story Through Place — Confidence Review
 
 Current:
 
@@ -6768,19 +7398,13 @@ Candidate / High
 
 Strongest support:
 
-Ankole
-
-Talisman
-
-Dishoom
-
-NARISAWA
-
-Din Tai Fung
-
-Noma
-
-Pearl Morissette
+- Ankole
+- Talisman
+- Dishoom
+- NARISAWA
+- Din Tai Fung
+- Noma
+- Pearl Morissette
 
 Strongest new mechanism:
 
@@ -6804,7 +7428,9 @@ identify:
 
 location.
 
-2. Narrative Coherence Through Organising Logic — Confidence Review
+---
+
+# 2. Narrative Coherence Through Organising Logic — Confidence Review
 
 Current:
 
@@ -6820,17 +7446,12 @@ Candidate / High
 
 Strongest support:
 
-Dishoom
-
-NARISAWA
-
-ICHIRAN
-
-Din Tai Fung
-
-Noma
-
-Pearl Morissette
+- Dishoom
+- NARISAWA
+- ICHIRAN
+- Din Tai Fung
+- Noma
+- Pearl Morissette
 
 Strongest new mechanism:
 
@@ -6844,7 +7465,9 @@ is:
 
 insufficient.
 
-3. Promise Before Proof
+---
+
+# 3. Promise Before Proof
 
 Current:
 
@@ -6880,9 +7503,13 @@ and:
 
 bounded product narrative.
 
-Existing Candidate Stability
+---
 
-Story Through Hospitality Model
+# Existing Candidate Stability
+
+---
+
+# Story Through Hospitality Model
 
 Current:
 
@@ -6898,7 +7525,9 @@ confidence:
 
 change needed.
 
-Biography When It Explains the Experience
+---
+
+# Biography When It Explains the Experience
 
 Current:
 
@@ -6910,7 +7539,9 @@ Boundary Support
 
 No change.
 
-Narrative Language Within Clear Interface
+---
+
+# Narrative Language Within Clear Interface
 
 Current:
 
@@ -6922,7 +7553,9 @@ Moderate / Strong Support
 
 No change.
 
-Heritage Builds Confidence
+---
+
+# Heritage Builds Confidence
 
 Current:
 
@@ -6934,7 +7567,9 @@ Limited / Neutral
 
 No change.
 
-Adaptation as Narrative
+---
+
+# Adaptation as Narrative
 
 Current:
 
@@ -6946,9 +7581,13 @@ Boundary Support
 
 No change.
 
-Patterns / Directions That Should Not Move From Story Evidence Alone
+---
 
-Coherence Through Change
+# Patterns / Directions That Should Not Move From Story Evidence Alone
+
+---
+
+# Coherence Through Change
 
 Pearl Morissette:
 
@@ -6970,7 +7609,9 @@ promotion.
 
 Remain below Candidate.
 
-Temporal Story
+---
+
+# Temporal Story
 
 Moderate:
 
@@ -6980,7 +7621,9 @@ only.
 
 Remain below Candidate.
 
-Constraint as Narrative
+---
+
+# Constraint as Narrative
 
 Strong:
 
@@ -7000,7 +7643,9 @@ formal:
 
 pattern.
 
-Product Focus as Narrative
+---
+
+# Product Focus as Narrative
 
 Useful:
 
@@ -7016,7 +7661,9 @@ refinement.
 
 Remain architecture-level.
 
-Productive Narrative Tension
+---
+
+# Productive Narrative Tension
 
 Insufficient:
 
@@ -7026,7 +7673,9 @@ support.
 
 Remain below Candidate.
 
-Story Before Features
+---
+
+# Story Before Features
 
 Strong:
 
@@ -7050,7 +7699,9 @@ Review:
 
 carefully.
 
-Story Comparison Conclusion
+---
+
+# Story Comparison Conclusion
 
 After:
 
@@ -7084,7 +7735,7 @@ cross-case:
 
 finding remains:
 
-Story is an organizing system, not a biography section.
+> **Story is an organizing system, not a biography section.**
 
 Restaurant Pearl Morissette:
 
@@ -7154,6 +7805,7 @@ understood
 
 through:
 
+```text
 Place
 +
 Regional Relationships
@@ -7169,6 +7821,7 @@ Hospitality Method
 Ecosystem as Organising Logic
 ↓
 Coherent Hospitality Meaning
+```
 
 Restaurant #15:
 
@@ -7186,7 +7839,9 @@ Candidates.
 
 First:
 
+```text
 Story Through Place
+```
 
 because:
 
@@ -7214,7 +7869,9 @@ identity.
 
 Second:
 
+```text
 Story Through Hospitality Model
+```
 
 because:
 
@@ -7240,7 +7897,9 @@ integration.
 
 Third:
 
+```text
 Narrative Coherence Through Organising Logic
+```
 
 because:
 
@@ -7338,9 +7997,11 @@ change:
 
 lesson is:
 
+```text
 Variation Within System
 ≠
 System Transformation
+```
 
 Its:
 
@@ -7350,9 +8011,11 @@ product-story:
 
 lesson is:
 
+```text
 Product Narrative
 ≠
 Signature Dish Narrative
+```
 
 Its:
 
@@ -7362,9 +8025,11 @@ narrative-scope:
 
 lesson is:
 
+```text
 Narrative Ecosystem
 ≠
 Participation Ecosystem
+```
 
 Its:
 
@@ -7374,9 +8039,11 @@ coherence:
 
 lesson is:
 
+```text
 Shared Vocabulary
 ≠
 Narrative Coherence
+```
 
 The strongest:
 
@@ -7388,15 +8055,15 @@ questions leaving:
 
 Story comparison are:
 
-Has Story Through Place accumulated enough mechanistic breadth and independent support to move from Candidate / Medium-High to Candidate / High?
+> **Has Story Through Place accumulated enough mechanistic breadth and independent support to move from Candidate / Medium-High to Candidate / High?**
 
-Has Narrative Coherence Through Organising Logic accumulated enough independent organizing mechanisms to move from Candidate / Medium-High to Candidate / High?
+> **Has Narrative Coherence Through Organising Logic accumulated enough independent organizing mechanisms to move from Candidate / Medium-High to Candidate / High?**
 
 A secondary:
 
 question is:
 
-Has Promise Before Proof become sufficiently distinct from Capacity Proof and Expectation Clarity to enter Candidate maturity, or should it remain Emerging?
+> **Has Promise Before Proof become sufficiently distinct from Capacity Proof and Expectation Clarity to enter Candidate maturity, or should it remain Emerging?**
 
 With:
 
@@ -7434,111 +8101,37 @@ governance:
 
 reconciliation.
 
-Post–Dans le Noir? London Story Reconciliation
+---
+
+# Post–Dans le Noir? London Story Reconciliation
 
 This section records Restaurant #16 against the complete historical comparison above.
 
 The Post–Pearl Morissette review queue remains visible as an audit record. Canonical reconciliation subsequently increased Story Through Place and Narrative Coherence Through Organising Logic to Candidate / High before Restaurant #16 began.
 
-Pattern
-
-Canonical state entering Restaurant #16
-
-Story comparison decision
-
-Story Through Hospitality Model
-
-Candidate / High
-
-Retain
-
-Narrative Coherence Through Organising Logic
-
-Candidate / High
-
-Retain
-
-Story Through Place
-
-Candidate / High
-
-Retain; boundary case
-
-Atmosphere Through Worldview
-
-Candidate / High
-
-Retain
-
-Hospitality System Proof
-
-Candidate / High
-
-Retain
-
-Narrative Language Within Clear Interface
-
-Candidate / High
-
-Retain
-
-Biography When It Explains the Experience
-
-Candidate / High
-
-Retain
-
-Heritage Builds Confidence
-
-Candidate / Medium-High
-
-Retain
-
-Designed Escape
-
-Candidate / Medium
-
-Retain
-
-Adaptation as Narrative
-
-Candidate / Medium
-
-Retain
-
-Story Before Features
-
-Emerging
-
-Retain; high promotion watch
-
-Emotion Before Interface
-
-Emerging
-
-Retain
-
-Promise Before Proof
-
-Emerging
-
-Retain
-
-The Guest as Participant
-
-Emerging
-
-Retain
-
-Multi-Intent Hospitality
-
-Emerging
-
-Retain
+| Pattern | Canonical state entering Restaurant #16 | Story comparison decision |
+|---|---:|---|
+| Story Through Hospitality Model | Candidate / High | Retain |
+| Narrative Coherence Through Organising Logic | Candidate / High | Retain |
+| Story Through Place | Candidate / High | Retain; boundary case |
+| Atmosphere Through Worldview | Candidate / High | Retain |
+| Hospitality System Proof | Candidate / High | Retain |
+| Narrative Language Within Clear Interface | Candidate / High | Retain |
+| Biography When It Explains the Experience | Candidate / High | Retain |
+| Heritage Builds Confidence | Candidate / Medium-High | Retain |
+| Designed Escape | Candidate / Medium | Retain |
+| Adaptation as Narrative | Candidate / Medium | Retain |
+| Story Before Features | Emerging | Retain; high promotion watch |
+| Emotion Before Interface | Emerging | Retain |
+| Promise Before Proof | Emerging | Retain |
+| The Guest as Participant | Emerging | Retain |
+| Multi-Intent Hospitality | Emerging | Retain |
 
 No maturity or confidence change is made in this comparison file.
 
-Comparison 81 — Story Can Be Strongest When Enacted Rather Than Told
+---
+
+# Comparison 81 — Story Can Be Strongest When Enacted Rather Than Told
 
 Many restaurants explain meaning through biography, heritage, place, or descriptive narrative.
 
@@ -7546,6 +8139,7 @@ Dans le Noir? provides a harder test.
 
 Its strongest inclusion story is not the statement that blind or visually impaired people possess expertise. It is the operating arrangement in which the guide leads and the sighted guest follows.
 
+```text
 Published Inclusion Claim
 ↓
 Guide Holds Operating Authority
@@ -7553,16 +8147,21 @@ Guide Holds Operating Authority
 Guest Relies on That Authority
 ↓
 Story Enacted Through Hospitality
+```
 
-Correction 66
+## Correction 66
 
+```text
 Story Told
 ≠
 Story Operationalised
+```
 
 Story Through Hospitality Model is strongest when the operating role makes the claim legible without requiring explanatory inflation.
 
-Comparison 82 — Role Reversal Is an Operating Relationship
+---
+
+# Comparison 82 — Role Reversal Is an Operating Relationship
 
 The guest temporarily loses visual control and independent navigation.
 
@@ -7570,8 +8169,9 @@ The guide possesses the relevant spatial and non-visual operating expertise.
 
 The story therefore emerges through a real service relationship, not a theatrical inversion alone.
 
-New Architecture Direction
+## New Architecture Direction
 
+```text
 Operationalised Role Reversal
 =
 Authority Reassignment
@@ -7579,94 +8179,102 @@ Authority Reassignment
 Guest Dependence
 +
 Professional Guidance
+```
 
 This is a story architecture model, not a formal pattern.
 
-Comparison 83 — Reassigned Expertise Carries More Meaning Than Disability Symbolism
+---
+
+# Comparison 83 — Reassigned Expertise Carries More Meaning Than Disability Symbolism
 
 The guide could be framed as:
 
-an inclusion symbol
-
-an inspirational figure
-
-a lesson for sighted guests
-
-a service professional with relevant expertise
+- an inclusion symbol
+- an inspirational figure
+- a lesson for sighted guests
+- a service professional with relevant expertise
 
 The fourth framing is the strongest evidence-responsible narrative position.
 
-Correction 67
+## Correction 67
 
+```text
 Guide as Symbol
 ≠
 Guide as Operating Authority
+```
 
 The story should explain who knows, who leads, and how service works without reducing a person to a brand instrument.
 
-Comparison 84 — Temporary Darkness Is Not Lived Visual Impairment
+---
+
+# Comparison 84 — Temporary Darkness Is Not Lived Visual Impairment
 
 The guest experiences a controlled period without sight.
 
 The guest does not acquire:
 
-the life history of blindness
+- the life history of blindness
+- structural barriers outside the restaurant
+- long-term adaptation
+- employment experience
+- social treatment associated with visual impairment
 
-structural barriers outside the restaurant
+## Correction 68
 
-long-term adaptation
-
-employment experience
-
-social treatment associated with visual impairment
-
-Correction 68
-
+```text
 Temporary Darkness
 ≠
 Lived Visual Impairment
+```
 
 The experience may make expertise visible and invite reflection. It cannot establish equivalence.
 
-Comparison 85 — Awareness Opportunity Is Not Guaranteed Transformation
+---
+
+# Comparison 85 — Awareness Opportunity Is Not Guaranteed Transformation
 
 The brand can plausibly claim that the experience creates an opportunity to question visual assumptions.
 
 It cannot prove from operating mechanism alone that every guest achieves:
 
-empathy
+- empathy
+- durable attitude change
+- greater inclusion
+- social connection
+- changed behaviour
 
-durable attitude change
+## Correction 69
 
-greater inclusion
-
-social connection
-
-changed behaviour
-
-Correction 69
-
+```text
 Awareness Opportunity
 ≠
 Transformation
+```
 
 Questioning Without Guaranteed Transformation is a stronger narrative boundary than deterministic social-impact language.
 
-Comparison 86 — Attention Redistribution Is More Defensible Than Heightened Senses
+---
+
+# Comparison 86 — Attention Redistribution Is More Defensible Than Heightened Senses
 
 Removing sight can redistribute attention toward sound, smell, taste, touch, memory, voice, and proximity.
 
 That does not establish physiological enhancement or universal sensory improvement.
 
-Correction 70
+## Correction 70
 
+```text
 Attention Redistribution
 ≠
 Heightened Senses
+```
 
 This correction narrows Atmosphere Through Worldview and the sensory story without weakening the operating mechanism.
 
-Comparison 87 — Darkness Is the Most Visible Proposition but Not the Whole Story
+---
+
+# Comparison 87 — Darkness Is the Most Visible Proposition but Not the Whole Story
 
 Darkness is the clearest novelty hook and the easiest public shorthand.
 
@@ -7674,180 +8282,154 @@ It is insufficient as the organizing meaning.
 
 Without guide expertise, participation rules, shared seating, surprise, reveal, and the inclusion model, darkness would describe a condition rather than a coherent hospitality narrative.
 
-Correction 71
+## Correction 71
 
+```text
 Darkness
 ≠
 Complete Narrative
+```
 
 Darkness is a narrative condition. The hospitality model gives the condition meaning.
 
-Comparison 88 — Story Through Designed Condition Is Different From Story Through Place
+---
+
+# Comparison 88 — Story Through Designed Condition Is Different From Story Through Place
 
 Pearl Morissette strengthened geographic and productive place as narrative.
 
 Dans le Noir? supplies a direct boundary case. The London location identifies the branch and operating context, but the core story travels because it depends on a designed method.
 
-Correction 72
+## Correction 72
 
+```text
 Story Through Designed Condition
 ≠
 Story Through Geographic Place
+```
 
 Story Through Place remains Candidate / High precisely because it is conditional rather than universal.
 
-Comparison 89 — Method Can Make a Story Portable
+---
+
+# Comparison 89 — Method Can Make a Story Portable
 
 The same narrative logic can operate across cities when the core mechanism remains:
 
-complete darkness
+- complete darkness
+- guide authority
+- guest reliance
+- sensory redistribution
+- social participation
+- surprise
+- reveal
 
-guide authority
+## Cross-Case Refinement
 
-guest reliance
-
-sensory redistribution
-
-social participation
-
-surprise
-
-reveal
-
-Cross-Case Refinement
-
+```text
 Portable Story
 can be produced by
 Repeatable Method
 rather than
 Shared Geographic Place
+```
 
 Method-Dependent Story is an architecture variable, not a new pattern.
 
-Comparison 90 — Narrative Coherence Can Span All Five KHDS Dimensions
+---
+
+# Comparison 90 — Narrative Coherence Can Span All Five KHDS Dimensions
 
 Restaurant #16 creates a rare five-dimension organizing logic:
 
-Dimension
+| Dimension | Narrative expression |
+|---|---|
+| Arrival | visual authority is surrendered and transferred to a guide |
+| Atmosphere | enforced darkness redistributes attention |
+| Photography | the visible perimeter surrounds an invisible core |
+| Reservation | consequence clarity enables commitment under outcome uncertainty |
+| Story | role reversal and human expertise organize meaning |
 
-Narrative expression
+## Cross-Case Rule
 
-Arrival
-
-visual authority is surrendered and transferred to a guide
-
-Atmosphere
-
-enforced darkness redistributes attention
-
-Photography
-
-the visible perimeter surrounds an invisible core
-
-Reservation
-
-consequence clarity enables commitment under outcome uncertainty
-
-Story
-
-role reversal and human expertise organize meaning
-
-Cross-Case Rule
-
+```text
 Narrative Coherence
 =
 Same Material Logic
 Across Different Experience Systems
+```
 
 Shared vocabulary alone remains insufficient.
 
-Comparison 91 — Narrative Coherence Can Exceed Outcome Evidence
+---
+
+# Comparison 91 — Narrative Coherence Can Exceed Outcome Evidence
 
 The mechanism is highly coherent across copy, rules, space, service roles, booking, and reveal.
 
 Public evidence is weaker for claimed outcomes such as:
 
-authentic connection
+- authentic connection
+- sensory enhancement
+- empathy
+- durable social change
+- improved inclusion attitudes
 
-sensory enhancement
+## Correction 73
 
-empathy
-
-durable social change
-
-improved inclusion attitudes
-
-Correction 73
-
+```text
 Narrative Coherence
 ≠
 Outcome Proof
+```
 
 A coherent story can still overstate what it produces.
 
-Comparison 92 — Story Claims Need an Evidence Ladder
+---
+
+# Comparison 92 — Story Claims Need an Evidence Ladder
 
 Restaurant #16 supports a five-level claim model.
 
-Level
+| Level | Claim type | Example |
+|---|---|---|
+| 1 | Published fact | dining occurs in complete darkness |
+| 2 | Published mechanism | visually impaired guides accompany guests |
+| 3 | Intended immediate outcome | attention may shift toward non-visual cues |
+| 4 | Experienced outcome | a guest felt stronger connection or enhanced taste |
+| 5 | Durable social outcome | attitudes or behaviour changed beyond the visit |
 
-Claim type
+## Correction 74
 
-Example
-
-1
-
-Published fact
-
-dining occurs in complete darkness
-
-2
-
-Published mechanism
-
-visually impaired guides accompany guests
-
-3
-
-Intended immediate outcome
-
-attention may shift toward non-visual cues
-
-4
-
-Experienced outcome
-
-a guest felt stronger connection or enhanced taste
-
-5
-
-Durable social outcome
-
-attitudes or behaviour changed beyond the visit
-
-Correction 74
-
+```text
 Mechanism Evidence
 does not automatically support
 Experienced or Durable Outcome Claims
+```
 
 Narrative confidence should fall as claims move farther from publicly observable mechanism.
 
-Comparison 93 — Inclusion Is Strongest as Operating Capability
+---
+
+# Comparison 93 — Inclusion Is Strongest as Operating Capability
 
 The guide-waiter model makes blind and visually impaired expertise operationally necessary.
 
 This is stronger than inclusion presented only through campaign language, representation, or charitable framing.
 
-Correction 75
+## Correction 75
 
+```text
 Inclusion as Story
 ≠
 Inclusion as Operating Capability
+```
 
 The public model supports capability. It does not independently verify employment quality, workplace agency, compensation, retention, or individual experience.
 
-Comparison 94 — Guide Representation Does Not Prove Guide Authority
+---
+
+# Comparison 94 — Guide Representation Does Not Prove Guide Authority
 
 Portraits, biographies, and guide-focused copy can make people visible.
 
@@ -7855,92 +8437,101 @@ Authority is more strongly evidenced by the role assigned in the operating syste
 
 Even then, public description cannot verify performance in every service.
 
-Correction 76
+## Correction 76
 
+```text
 Guide Representation
 ≠
 Guide Authority
 ≠
 Guide Experience
+```
 
 This connects Story Through Hospitality Model with Hospitality System Proof and relationship-level evidence discipline.
 
-Comparison 95 — A Guide Must Not Become a Brand Instrument
+---
+
+# Comparison 95 — A Guide Must Not Become a Brand Instrument
 
 The guide is central to the experience and narrative.
 
 That creates a storytelling risk: the professional person can be reduced to an inspirational device for the guest's self-discovery.
 
-Correction 77
+## Correction 77
 
+```text
 Narrative Centrality
 ≠
 Symbolic Availability
+```
 
 Evidence-responsible story should preserve professional identity, authority, plurality, and personhood.
 
-Comparison 96 — Social Conditions Can Be Designed Without Guaranteeing Connection
+---
+
+# Comparison 96 — Social Conditions Can Be Designed Without Guaranteeing Connection
 
 Shared tables, darkness, device removal, voice reliance, and visual anonymity can create conditions for conversation.
 
 They do not guarantee:
 
-comfort
+- comfort
+- authenticity
+- equality
+- intimacy
+- connection
+- belonging
 
-authenticity
+## Correction 78
 
-equality
-
-intimacy
-
-connection
-
-belonging
-
-Correction 78
-
+```text
 Shared Tables
 ≠
 Authentic Connection
+```
 
 and:
 
+```text
 Visual Anonymity
 ≠
 Social Equality
+```
 
 The story may claim designed opportunity more safely than universal outcome.
 
-Comparison 97 — The Social Story Depends on Enforced Rules
+---
+
+# Comparison 97 — The Social Story Depends on Enforced Rules
 
 The marketed social encounter may feel spontaneous.
 
 Its conditions are materially produced through:
 
-shared seating
+- shared seating
+- complete darkness
+- phone removal
+- guide-led movement
+- restrictions on independent navigation
+- surprise structure
 
-complete darkness
+## Cross-Case Refinement
 
-phone removal
-
-guide-led movement
-
-restrictions on independent navigation
-
-surprise structure
-
-Cross-Case Refinement
-
+```text
 Spontaneous Interaction
 can depend on
 Designed Participation Conditions
+```
 
 This reinforces Story Through Hospitality Model and The Guest as Participant.
 
-Comparison 98 — Mystery Is Not Narrative Completion
+---
+
+# Comparison 98 — Mystery Is Not Narrative Completion
 
 The unknown menu creates an arc:
 
+```text
 Expectation
 ↓
 Sensory Encounter
@@ -7950,88 +8541,93 @@ Guessing and Interpretation
 Reveal
 ↓
 Retrospective Comparison
+```
 
 Mystery initiates the product story. The reveal completes one narrative loop.
 
-Correction 79
+## Correction 79
 
+```text
 Mystery
 ≠
 Narrative Completion
+```
 
 Mystery / Reveal Narrative is an architecture direction, not a separate pattern.
 
-Comparison 99 — Reduced Control Can Increase Narrative Participation
+---
+
+# Comparison 99 — Reduced Control Can Increase Narrative Participation
 
 The guest performs fewer visually independent actions and more interpretive ones.
 
 Participation includes:
 
-surrendering visual control
+- surrendering visual control
+- relying on guidance
+- identifying food without sight
+- listening
+- speaking
+- comparing perceptions
+- receiving the reveal
 
-relying on guidance
+## Correction 80
 
-identifying food without sight
-
-listening
-
-speaking
-
-comparing perceptions
-
-receiving the reveal
-
-Correction 80
-
+```text
 Reduced Control
 ≠
 Reduced Participation
+```
 
 This provides strong support for The Guest as Participant while the pattern remains Emerging.
 
-Comparison 100 — A Non-Visual Story Requires Extensive Language
+---
+
+# Comparison 100 — A Non-Visual Story Requires Extensive Language
 
 The defining experience cannot be directly previewed from the guest's perspective.
 
 Story, procedure, role explanation, policy, menu structure, and testimony must carry more explanatory work.
 
-Cross-Case Refinement
+## Cross-Case Refinement
 
+```text
 Lower Visual Representability
 ↓
 Higher Language and Procedure Burden
+```
 
 Narrative Language Within Clear Interface becomes especially important because poetic language must coexist with practical consequence clarity.
 
-Comparison 101 — Story Before Features Requires Later Mechanism Proof
+---
+
+# Comparison 101 — Story Before Features Requires Later Mechanism Proof
 
 The London site can lead with sensory, convivial, and human meaning.
 
 That order is credible only because later surfaces explain:
 
-guide roles
+- guide roles
+- complete darkness
+- booking process
+- access conditions
+- shared seating
+- dietary handling
+- price and menu structure
 
-complete darkness
+## Correction 81
 
-booking process
-
-access conditions
-
-shared seating
-
-dietary handling
-
-price and menu structure
-
-Correction 81
-
+```text
 Story Before Features
 ≠
 Story Instead of Mechanism
+```
 
 This is strong support for the Emerging pattern, not sufficient authority for promotion here.
 
-Comparison 102 — Heritage Builds Confidence but Does Not Prove Current Quality
+---
+
+# Comparison 102 — Heritage Builds Confidence but Does Not Prove Current Quality
 
 The broader brand history exceeds twenty years, and the London operation dates to 2006 according to official materials.
 
@@ -8039,119 +8635,118 @@ Longevity can support confidence in continuity, survival, and operating experien
 
 It does not establish:
 
-current service quality
+- current service quality
+- current staff experience
+- current safety performance
+- current social outcomes
+- current guest satisfaction
 
-current staff experience
+## Correction 82
 
-current safety performance
-
-current social outcomes
-
-current guest satisfaction
-
-Correction 82
-
+```text
 Longevity
 ≠
 Current Quality
+```
 
 Heritage Builds Confidence remains Candidate / Medium-High.
 
-Comparison 103 — Recognition Is Not Primary Hospitality Proof
+---
+
+# Comparison 103 — Recognition Is Not Primary Hospitality Proof
 
 Film appearances, press coverage, awards, and selected testimony can establish cultural recognition and public attention.
 
 They cannot replace direct evidence of the current operating model.
 
-Correction 83
+## Correction 83
 
+```text
 Recognition
 ≠
 Hospitality Proof
+```
 
 Curated External Voice must retain source, date, claim scope, and selection boundaries.
 
-Comparison 104 — Commercial Expansion Can Preserve or Dilute Narrative Logic
+---
+
+# Comparison 104 — Commercial Expansion Can Preserve or Dilute Narrative Logic
 
 The brand extends beyond restaurants into workshops, corporate experiences, spas, games, perfume, and consulting.
 
 Expansion can support Adaptation as Narrative when the same invariant remains:
 
+```text
 Reduce Visual Hierarchy
 +
 Redistribute Attention
 +
 Reassign Expertise
+```
 
 It can also become a portfolio of adjacent products without coherent meaning.
 
-Correction 84
+## Correction 84
 
+```text
 Commercial Expansion
 ≠
 Narrative Coherence
+```
 
 Adaptation as Narrative receives strong support but remains Candidate / Medium.
 
-Comparison 105 — A Question-Led Story Must Preserve Multiple Outcomes
+---
+
+# Comparison 105 — A Question-Led Story Must Preserve Multiple Outcomes
 
 The question mark in the brand name and the manifesto's reflective posture invite inquiry.
 
 Some marketing language can simultaneously imply predetermined sensory, social, or attitudinal results.
 
-Cross-Case Correction
+## Cross-Case Correction
 
+```text
 Invite Questions
 ≠
 Predetermine Answers
+```
 
 Questioning Without Guaranteed Transformation is a narrative discipline that protects guest plurality.
 
-Dans le Noir? Story Architecture Directions
+---
+
+# Dans le Noir? Story Architecture Directions
 
 The following are research variables and mechanisms only:
 
-Operationalised Role Reversal — authority reassignment enacted through service.
-
-Narrative Through Reassigned Expertise — meaning carried by who leads and why.
-
-Darkness as Narrative Condition — enforced visual absence supporting, but not completing, the story.
-
-Guide as Narrative Authority — the guide as professional operating and meaning carrier.
-
-Questioning Without Guaranteed Transformation — reflection invited without promised durable outcome.
-
-Attention Redistribution — shifting attention without claiming heightened senses.
-
-Mystery / Reveal Narrative — protected product identity resolved after experience.
-
-Visual Anonymity Boundary — reduced visual status cues without guaranteed equality.
-
-Expertise Beyond Appearance — operational competence made legible outside visual hierarchy.
-
-Temporary Deprivation / Lived Experience Boundary — preventing simulation claims.
-
-Novelty as Narrative Entry — darkness attracting attention without becoming complete meaning.
-
-Method-Dependent Story — portable narrative produced by repeatable operating logic.
-
-Sensory System Adaptation — identity extended across formats through sensory redistribution.
-
-Manifesto / Mechanism Alignment — evaluating whether declared values become operating rules.
-
-Awareness Opportunity — bounded reflective possibility rather than guaranteed transformation.
-
-Curated External Voice — third-party testimony selected and reframed on owned surfaces.
-
-Narrative Claim Ladder — separating fact, mechanism, intended outcome, experienced outcome, and durable outcome.
-
-Story Through Designed Condition — meaning carried by an enforced condition rather than geographic place.
+1. **Operationalised Role Reversal** — authority reassignment enacted through service.
+2. **Narrative Through Reassigned Expertise** — meaning carried by who leads and why.
+3. **Darkness as Narrative Condition** — enforced visual absence supporting, but not completing, the story.
+4. **Guide as Narrative Authority** — the guide as professional operating and meaning carrier.
+5. **Questioning Without Guaranteed Transformation** — reflection invited without promised durable outcome.
+6. **Attention Redistribution** — shifting attention without claiming heightened senses.
+7. **Mystery / Reveal Narrative** — protected product identity resolved after experience.
+8. **Visual Anonymity Boundary** — reduced visual status cues without guaranteed equality.
+9. **Expertise Beyond Appearance** — operational competence made legible outside visual hierarchy.
+10. **Temporary Deprivation / Lived Experience Boundary** — preventing simulation claims.
+11. **Novelty as Narrative Entry** — darkness attracting attention without becoming complete meaning.
+12. **Method-Dependent Story** — portable narrative produced by repeatable operating logic.
+13. **Sensory System Adaptation** — identity extended across formats through sensory redistribution.
+14. **Manifesto / Mechanism Alignment** — evaluating whether declared values become operating rules.
+15. **Awareness Opportunity** — bounded reflective possibility rather than guaranteed transformation.
+16. **Curated External Voice** — third-party testimony selected and reframed on owned surfaces.
+17. **Narrative Claim Ladder** — separating fact, mechanism, intended outcome, experienced outcome, and durable outcome.
+18. **Story Through Designed Condition** — meaning carried by an enforced condition rather than geographic place.
 
 None is promoted, renamed as a canonical KHDS pattern, or assigned confidence here.
 
-Current Story Pattern Pressure — Post Restaurant #16
+---
 
-Story Through Hospitality Model
+# Current Story Pattern Pressure — Post Restaurant #16
+
+## Story Through Hospitality Model
 
 Canonical status:
 
@@ -8167,7 +8762,7 @@ Retain Candidate / High.
 
 No confidence change.
 
-Narrative Coherence Through Organising Logic
+## Narrative Coherence Through Organising Logic
 
 Canonical status:
 
@@ -8181,7 +8776,7 @@ Decision:
 
 Retain Candidate / High.
 
-Story Through Place
+## Story Through Place
 
 Canonical status:
 
@@ -8197,7 +8792,7 @@ Retain Candidate / High.
 
 The case strengthens conditionality, not universality.
 
-Atmosphere Through Worldview
+## Atmosphere Through Worldview
 
 Canonical status:
 
@@ -8211,7 +8806,7 @@ Decision:
 
 Retain Candidate / High.
 
-Hospitality System Proof
+## Hospitality System Proof
 
 Canonical status:
 
@@ -8229,7 +8824,7 @@ Decision:
 
 Retain Candidate / High.
 
-Narrative Language Within Clear Interface
+## Narrative Language Within Clear Interface
 
 Canonical status:
 
@@ -8243,7 +8838,7 @@ Decision:
 
 Retain Candidate / High.
 
-Biography When It Explains the Experience
+## Biography When It Explains the Experience
 
 Canonical status:
 
@@ -8257,7 +8852,7 @@ Decision:
 
 Retain Candidate / High.
 
-Heritage Builds Confidence
+## Heritage Builds Confidence
 
 Canonical status:
 
@@ -8271,7 +8866,7 @@ Decision:
 
 Retain Candidate / Medium-High.
 
-Designed Escape
+## Designed Escape
 
 Canonical status:
 
@@ -8287,7 +8882,7 @@ Retain Candidate / Medium.
 
 No confidence change.
 
-Adaptation as Narrative
+## Adaptation as Narrative
 
 Canonical status:
 
@@ -8301,7 +8896,7 @@ Decision:
 
 Retain Candidate / Medium.
 
-Story Before Features
+## Story Before Features
 
 Canonical status:
 
@@ -8319,7 +8914,7 @@ Promotion watch:
 
 High.
 
-Emotion Before Interface
+## Emotion Before Interface
 
 Canonical status:
 
@@ -8333,7 +8928,7 @@ Decision:
 
 Retain Emerging.
 
-Promise Before Proof
+## Promise Before Proof
 
 Canonical status:
 
@@ -8347,7 +8942,7 @@ Decision:
 
 Retain Emerging.
 
-The Guest as Participant
+## The Guest as Participant
 
 Canonical status:
 
@@ -8361,7 +8956,7 @@ Decision:
 
 Retain Emerging.
 
-Multi-Intent Hospitality
+## Multi-Intent Hospitality
 
 Canonical status:
 
@@ -8375,360 +8970,231 @@ Decision:
 
 Retain Emerging.
 
-Strongest Story Tensions After Restaurant #16
+---
 
-Story told vs story operationalised — copy can describe inclusion; the service relationship enacts it.
+# Strongest Story Tensions After Restaurant #16
 
-Role reversal vs symbolic reduction — guide authority should not become a lesson-object for guests.
+1. **Story told vs story operationalised** — copy can describe inclusion; the service relationship enacts it.
+2. **Role reversal vs symbolic reduction** — guide authority should not become a lesson-object for guests.
+3. **Temporary darkness vs lived impairment** — controlled sensory deprivation is not equivalence.
+4. **Awareness opportunity vs guaranteed transformation** — reflection is plausible; durability is unverified.
+5. **Attention redistribution vs heightened senses** — changed focus is more defensible than physiological claims.
+6. **Darkness vs complete meaning** — novelty opens the story; method sustains it.
+7. **Designed condition vs geographic place** — story can be method-dependent and portable.
+8. **Narrative coherence vs outcome proof** — a coherent system may still overclaim consequences.
+9. **Inclusion representation vs operating capability** — role structure is stronger than imagery or slogans.
+10. **Shared social conditions vs authentic connection** — opportunity is designed; outcome remains variable.
+11. **Visual anonymity vs equality** — fewer appearance cues do not remove power or difference.
+12. **Mystery vs completion** — concealment starts the arc; reveal resolves it.
+13. **Reduced control vs participation** — reliance and interpretation can increase as control decreases.
+14. **Story before features vs story instead of mechanism** — narrative order must not displace operational clarity.
+15. **Heritage vs current quality** — longevity supports confidence but needs fresh evidence.
+16. **Recognition vs proof** — film, press, and curated testimony do not establish current hospitality performance.
+17. **Commercial expansion vs coherence** — adjacent formats require a stable narrative invariant.
+18. **Questioning vs predetermined answers** — reflective storytelling must preserve multiple valid outcomes.
 
-Temporary darkness vs lived impairment — controlled sensory deprivation is not equivalence.
+---
 
-Awareness opportunity vs guaranteed transformation — reflection is plausible; durability is unverified.
+# Story Falsification Programme After Restaurant #16
 
-Attention redistribution vs heightened senses — changed focus is more defensible than physiological claims.
+## Story Through Hospitality Model
 
-Darkness vs complete meaning — novelty opens the story; method sustains it.
+> Would the inclusion story remain legible if the explanatory marketing copy were removed and only operating roles remained?
 
-Designed condition vs geographic place — story can be method-dependent and portable.
+## Narrative Coherence Through Organising Logic
 
-Narrative coherence vs outcome proof — a coherent system may still overclaim consequences.
+> Does the same material logic genuinely connect arrival, atmosphere, photography, reservation, and story, or are similar words being repeated?
 
-Inclusion representation vs operating capability — role structure is stronger than imagery or slogans.
+## Story Through Place
 
-Shared social conditions vs authentic connection — opportunity is designed; outcome remains variable.
+> How much meaning disappears when the method moves to another city with equivalent operating conditions?
 
-Visual anonymity vs equality — fewer appearance cues do not remove power or difference.
+## Operationalised Role Reversal
 
-Mystery vs completion — concealment starts the arc; reveal resolves it.
+> Do guides themselves describe authority, role reversal, and guest dependence in terms consistent with the public narrative?
 
-Reduced control vs participation — reliance and interpretation can increase as control decreases.
+## Guide as Narrative Authority
 
-Story before features vs story instead of mechanism — narrative order must not displace operational clarity.
+> Does public storytelling preserve guides as professionals with agency rather than symbolic proof of brand virtue?
 
-Heritage vs current quality — longevity supports confidence but needs fresh evidence.
+## Temporary Deprivation Boundary
 
-Recognition vs proof — film, press, and curated testimony do not establish current hospitality performance.
+> Do guests or marketing materials interpret dining in darkness as equivalent to lived blindness?
 
-Commercial expansion vs coherence — adjacent formats require a stable narrative invariant.
+## Attention Redistribution
 
-Questioning vs predetermined answers — reflective storytelling must preserve multiple valid outcomes.
+> Can changes in attention be documented without claiming universal sensory enhancement?
 
-Story Falsification Programme After Restaurant #16
+## Awareness Opportunity
 
-Story Through Hospitality Model
+> What evidence distinguishes immediate reflection from durable attitude or behaviour change?
 
-Would the inclusion story remain legible if the explanatory marketing copy were removed and only operating roles remained?
+## Social Story
 
-Narrative Coherence Through Organising Logic
+> Do shared tables, darkness, and device removal produce connection consistently, selectively, or not at all?
 
-Does the same material logic genuinely connect arrival, atmosphere, photography, reservation, and story, or are similar words being repeated?
+## Narrative Claim Ladder
 
-Story Through Place
+> Does each claim use evidence appropriate to fact, mechanism, intended outcome, experienced outcome, or durable outcome?
 
-How much meaning disappears when the method moves to another city with equivalent operating conditions?
+## Story Before Features
 
-Operationalised Role Reversal
+> Does narrative meaning improve understanding before operational detail, or delay consequence-relevant information?
 
-Do guides themselves describe authority, role reversal, and guest dependence in terms consistent with the public narrative?
+## Heritage Builds Confidence
 
-Guide as Narrative Authority
+> Which current operating evidence must accompany longevity for the claim to remain decision-relevant?
 
-Does public storytelling preserve guides as professionals with agency rather than symbolic proof of brand virtue?
+## Adaptation as Narrative
 
-Temporary Deprivation Boundary
+> Do workshops, spas, games, perfume, and consulting preserve the same narrative invariant or merely share a brand?
 
-Do guests or marketing materials interpret dining in darkness as equivalent to lived blindness?
+## Mystery / Reveal Narrative
 
-Attention Redistribution
+> Does the reveal create retrospective understanding, or only disclose information withheld for novelty?
 
-Can changes in attention be documented without claiming universal sensory enhancement?
+## Curated External Voice
 
-Awareness Opportunity
+> Are testimony, press, and recognition current, representative, attributable, and bounded to the claims they can support?
 
-What evidence distinguishes immediate reflection from durable attitude or behaviour change?
+## The Guest as Participant
 
-Social Story
+> Does reduced visual control create meaningful interpretive participation for most guests or only procedural dependence?
 
-Do shared tables, darkness, and device removal produce connection consistently, selectively, or not at all?
+---
 
-Narrative Claim Ladder
+# Story Deduplication Decisions — Restaurant #16
 
-Does each claim use evidence appropriate to fact, mechanism, intended outcome, experienced outcome, or durable outcome?
-
-Story Before Features
-
-Does narrative meaning improve understanding before operational detail, or delay consequence-relevant information?
-
-Heritage Builds Confidence
-
-Which current operating evidence must accompany longevity for the claim to remain decision-relevant?
-
-Adaptation as Narrative
-
-Do workshops, spas, games, perfume, and consulting preserve the same narrative invariant or merely share a brand?
-
-Mystery / Reveal Narrative
-
-Does the reveal create retrospective understanding, or only disclose information withheld for novelty?
-
-Curated External Voice
-
-Are testimony, press, and recognition current, representative, attributable, and bounded to the claims they can support?
-
-The Guest as Participant
-
-Does reduced visual control create meaningful interpretive participation for most guests or only procedural dependence?
-
-Story Deduplication Decisions — Restaurant #16
-
-Proposed direction
-
-Closest existing concept
-
-Decision
-
-Operationalised Role Reversal
-
-Story Through Hospitality Model
-
-Retain as mechanism of existing Candidate
-
-Narrative Through Reassigned Expertise
-
-Story Through Hospitality Model; Hospitality System Proof
-
-Retain as architecture direction
-
-Darkness as Narrative Condition
-
-Atmosphere Through Worldview; Designed Escape
-
-Retain as story condition, not pattern
-
-Guide as Narrative Authority
-
-Story Through Hospitality Model
-
-Retain as subject and role variable
-
-Questioning Without Guaranteed Transformation
-
-Promise Before Proof; evidence-governance boundaries
-
-Retain as claim discipline
-
-Attention Redistribution
-
-Atmosphere Through Worldview
-
-Retain as safer outcome language
-
-Mystery / Reveal Narrative
-
-Promise Before Proof; product narrative
-
-Retain as temporal mechanism
-
-Visual Anonymity Boundary
-
-atmosphere and social participation
-
-Retain as falsification boundary
-
-Expertise Beyond Appearance
-
-Operationalised Role Reversal
-
-Merge as explanatory mechanism
-
-Temporary Deprivation / Lived Experience Boundary
-
-evidence-governance boundary
-
-Retain; do not make pattern
-
-Novelty as Narrative Entry
-
-Story Before Features
-
-Retain as entry mechanism
-
-Method-Dependent Story
-
-Story Through Hospitality Model
-
-Retain as portability variable
-
-Sensory System Adaptation
-
-Adaptation as Narrative
-
-Treat as mechanism of existing Candidate
-
-Manifesto / Mechanism Alignment
-
-Narrative Coherence Through Organising Logic
-
-Retain as evaluation rule
-
-Awareness Opportunity
-
-Questioning Without Guaranteed Transformation
-
-Merge as bounded outcome direction
-
-Curated External Voice
-
-proof and testimony architecture
-
-Retain as evidence-source variable
-
-Narrative Claim Ladder
-
-story/proof separation
-
-Retain as governance tool
-
-Story Through Designed Condition
-
-Story Through Place boundary
-
-Retain as non-geographic carrier distinction
+| Proposed direction | Closest existing concept | Decision |
+|---|---|---|
+| Operationalised Role Reversal | Story Through Hospitality Model | Retain as mechanism of existing Candidate |
+| Narrative Through Reassigned Expertise | Story Through Hospitality Model; Hospitality System Proof | Retain as architecture direction |
+| Darkness as Narrative Condition | Atmosphere Through Worldview; Designed Escape | Retain as story condition, not pattern |
+| Guide as Narrative Authority | Story Through Hospitality Model | Retain as subject and role variable |
+| Questioning Without Guaranteed Transformation | Promise Before Proof; evidence-governance boundaries | Retain as claim discipline |
+| Attention Redistribution | Atmosphere Through Worldview | Retain as safer outcome language |
+| Mystery / Reveal Narrative | Promise Before Proof; product narrative | Retain as temporal mechanism |
+| Visual Anonymity Boundary | atmosphere and social participation | Retain as falsification boundary |
+| Expertise Beyond Appearance | Operationalised Role Reversal | Merge as explanatory mechanism |
+| Temporary Deprivation / Lived Experience Boundary | evidence-governance boundary | Retain; do not make pattern |
+| Novelty as Narrative Entry | Story Before Features | Retain as entry mechanism |
+| Method-Dependent Story | Story Through Hospitality Model | Retain as portability variable |
+| Sensory System Adaptation | Adaptation as Narrative | Treat as mechanism of existing Candidate |
+| Manifesto / Mechanism Alignment | Narrative Coherence Through Organising Logic | Retain as evaluation rule |
+| Awareness Opportunity | Questioning Without Guaranteed Transformation | Merge as bounded outcome direction |
+| Curated External Voice | proof and testimony architecture | Retain as evidence-source variable |
+| Narrative Claim Ladder | story/proof separation | Retain as governance tool |
+| Story Through Designed Condition | Story Through Place boundary | Retain as non-geographic carrier distinction |
 
 No duplicate canonical pattern is created.
 
-Restaurant #16 Story Decision Ledger
+---
 
-What Changed in the Research Model
+# Restaurant #16 Story Decision Ledger
 
-The comparison now includes 16 independent restaurants.
+## What Changed in the Research Model
 
-Story enactment is distinguished from story description.
+- The comparison now includes 16 independent restaurants.
+- Story enactment is distinguished from story description.
+- Operationalised Role Reversal becomes the primary Restaurant #16 story mechanism.
+- Guide authority is treated as professional operating and narrative authority.
+- Temporary darkness is explicitly separated from lived visual impairment.
+- Awareness opportunity is separated from durable transformation.
+- Attention redistribution replaces unsupported heightened-senses conclusions.
+- Darkness is classified as a narrative condition rather than complete meaning.
+- Story Through Designed Condition is distinguished from Story Through Place.
+- Method-dependent story explains narrative portability across cities.
+- Five-dimension organizing logic is made explicit.
+- Narrative coherence is separated from outcome evidence.
+- A five-level Narrative Claim Ladder is added.
+- Inclusion as representation is separated from inclusion as operating capability.
+- Social opportunity is separated from authentic connection and equality.
+- Mystery is separated from narrative completion.
+- Reduced guest control is separated from reduced participation.
+- Story Before Features is bounded away from Story Instead of Mechanism.
+- Longevity and recognition are bounded away from current hospitality proof.
+- Commercial expansion is separated from narrative coherence.
+- Question-led story is bounded away from predetermined outcomes.
 
-Operationalised Role Reversal becomes the primary Restaurant #16 story mechanism.
+## What Did Not Change
 
-Guide authority is treated as professional operating and narrative authority.
+- No pattern was promoted.
+- No pattern was demoted.
+- No pattern was validated.
+- No pattern confidence changed.
+- No Candidate was renamed or merged.
+- No research direction became a KHDS Principle.
+- The canonical totals remain 23 Candidate, 11 Emerging, 0 Validated, and 0 research-derived Principles.
 
-Temporary darkness is explicitly separated from lived visual impairment.
-
-Awareness opportunity is separated from durable transformation.
-
-Attention redistribution replaces unsupported heightened-senses conclusions.
-
-Darkness is classified as a narrative condition rather than complete meaning.
-
-Story Through Designed Condition is distinguished from Story Through Place.
-
-Method-dependent story explains narrative portability across cities.
-
-Five-dimension organizing logic is made explicit.
-
-Narrative coherence is separated from outcome evidence.
-
-A five-level Narrative Claim Ladder is added.
-
-Inclusion as representation is separated from inclusion as operating capability.
-
-Social opportunity is separated from authentic connection and equality.
-
-Mystery is separated from narrative completion.
-
-Reduced guest control is separated from reduced participation.
-
-Story Before Features is bounded away from Story Instead of Mechanism.
-
-Longevity and recognition are bounded away from current hospitality proof.
-
-Commercial expansion is separated from narrative coherence.
-
-Question-led story is bounded away from predetermined outcomes.
-
-What Did Not Change
-
-No pattern was promoted.
-
-No pattern was demoted.
-
-No pattern was validated.
-
-No pattern confidence changed.
-
-No Candidate was renamed or merged.
-
-No research direction became a KHDS Principle.
-
-The canonical totals remain 23 Candidate, 11 Emerging, 0 Validated, and 0 research-derived Principles.
-
-Why No Maturity Change Is Justified
+## Why No Maturity Change Is Justified
 
 Story completes the five-dimensional Restaurant #16 comparison cycle, but this comparison file does not own canonical governance. Its evidence must now be reconciled across all dimensions before any maturity or confidence decision.
 
 Restaurant #16 contributes unusually strong support and unusually strong boundaries at the same time. Both must survive the governance review.
 
-Story Comparison Conclusion — Post Dans le Noir? London
+---
+
+# Story Comparison Conclusion — Post Dans le Noir? London
 
 After 16 independent restaurants, the strongest story finding remains:
 
-Story is an organizing system, not a biography section.
+> **Story is an organizing system, not a biography section.**
 
 Dans le Noir? London gives that thesis one of its clearest operational demonstrations.
 
 The strongest story is not merely:
 
+```text
 Blind and visually impaired people possess expertise
+```
 
 It is:
 
+```text
 The guide leads
 
 The guest follows
 
 The operating relationship makes expertise necessary
+```
 
-That is Operationalised Role Reversal.
+That is **Operationalised Role Reversal**.
 
 It strengthens Story Through Hospitality Model because the narrative is carried by how service works. It strengthens Narrative Coherence Through Organising Logic because the same authority transfer connects arrival, atmosphere, photography, reservation, and story.
 
 Restaurant #16 also provides a valuable contradiction to Story Through Place. Its meaning is portable because the strongest carrier is a repeatable method, not a unique geography.
 
+```text
 Place can carry story
 
 but
 
 Story does not always require geographic place
+```
 
 The most important governance discipline concerns outcome claims.
 
 The public evidence strongly supports:
 
-complete darkness
-
-guide-led service
-
-shared participation conditions
-
-device surrender
-
-surprise and reveal
-
-a role-reversal mechanism
+- complete darkness
+- guide-led service
+- shared participation conditions
+- device surrender
+- surprise and reveal
+- a role-reversal mechanism
 
 It does not automatically establish:
 
-heightened senses
-
-authentic connection
-
-social equality
-
-empathy
-
-lasting attitude change
-
-verified employment outcomes
+- heightened senses
+- authentic connection
+- social equality
+- empathy
+- lasting attitude change
+- verified employment outcomes
 
 The strongest new claim rule is:
 
+```text
 Fact
 ≠
 Mechanism
@@ -8738,318 +9204,206 @@ Intended Outcome
 Experienced Outcome
 ≠
 Durable Outcome
+```
 
 The inclusion story is most credible when guides are treated as professionals whose expertise produces the hospitality experience. It becomes weaker when the guide is reduced to inspiration, symbolism, or evidence of the guest's transformation.
 
+```text
 Guide as Authority
 >
 Guide as Symbol
+```
 
 Darkness remains an effective narrative entry, but it is not sufficient meaning. The deeper story is produced by reassigned expertise, human trust, participation rules, sensory interpretation, and retrospective reveal.
 
 The strongest leaving question is:
 
-Can the hospitality model invite reflection through real role reversal while preserving guide agency, guest plurality, and strict boundaries around unverified sensory or social outcomes?
+> **Can the hospitality model invite reflection through real role reversal while preserving guide agency, guest plurality, and strict boundaries around unverified sensory or social outcomes?**
 
 Restaurant #16 produces no governance change in this file.
 
 It completes the five comparison dimensions and opens the Post–Dans le Noir? London canonical reconciliation.
 
-Post–Avatar Robot Café DAWN, Tokyo Story Reconciliation
+---
+
+# Post–Avatar Robot Café DAWN, Tokyo Story Reconciliation
 
 Restaurant #17 introduces a story architecture in which:
 
-the most visible character is not the protagonist
-
-the most technical clarification performs the most important human narrative work
-
-physical absence does not prevent local agency
-
-a social mission gains credibility through paid hospitality
-
-one organising story supports several radically different products
+- the most visible character is not the protagonist
+- the most technical clarification performs the most important human narrative work
+- physical absence does not prevent local agency
+- a social mission gains credibility through paid hospitality
+- one organising story supports several radically different products
 
 The strongest Restaurant #17 story boundary is:
 
+~~~text
 Robot Carries the Story
 
 ≠
 
 Robot Is the Story
+~~~
 
 The strongest protagonist boundary is:
 
+~~~text
 Visible Hero Object
 
 ≠
 
 Narrative Protagonist
+~~~
 
 The strongest agency correction is:
 
+~~~text
 Remote Human Presence
 
 ≠
 
 Autonomous AI
+~~~
 
 The strongest social-claim boundary is:
 
+~~~text
 Published Social Purpose
 
 ≠
 
 Verified Social Outcome
+~~~
 
-Current Canonical Entry State — Restaurant #17
+---
+
+# Current Canonical Entry State — Restaurant #17
 
 This comparison begins from the reconciled post–Restaurant #16 governance state.
 
-Pattern
-
-Entry state
-
-DAWN pressure
-
-Decision in this file
-
-Story Through Hospitality Model
-
-Candidate / High
-
-Exceptionally strong operating-model support
-
-Retain
-
-Narrative Coherence Through Organising Logic
-
-Candidate / High
-
-Strong five-dimension support
-
-Retain
-
-Hospitality System Proof
-
-Candidate / High
-
-Strong system-story support
-
-Retain
-
-Biography When It Explains the Experience
-
-Candidate / High
-
-Strong Tele-Barista support with authorship boundary
-
-Retain
-
-Narrative Language Within Clear Interface
-
-Candidate / High
-
-Strong corrective-premise support
-
-Retain
-
-Atmosphere Through Worldview
-
-Candidate / High
-
-Strong interpretive support; outcome unproven
-
-Retain
-
-Adaptation as Narrative
-
-Candidate / Medium
-
-Developmental continuity support
-
-Retain
-
-Story Through Place
-
-Candidate / High
-
-Route-specific place support
-
-Retain
-
-Heritage Builds Confidence
-
-Candidate / Medium-High
-
-Useful contradiction through documented experimentation
-
-Retain
-
-Story Before Features
-
-Emerging
-
-Strong support
-
-Remain Emerging
-
-Emotion Before Interface
-
-Emerging
-
-Support with inspiration-risk boundary
-
-Remain Emerging
-
-Promise Before Proof
-
-Emerging
-
-Strong mechanism/proposition boundary
-
-Remain Emerging
-
-The Guest as Participant
-
-Emerging
-
-Strong co-participation support
-
-Remain Emerging
-
-Multi-Intent Hospitality
-
-Emerging
-
-Strong route-story support
-
-Remain Emerging
+| Pattern | Entry state | DAWN pressure | Decision in this file |
+|---|---|---|---|
+| Story Through Hospitality Model | Candidate / High | Exceptionally strong operating-model support | Retain |
+| Narrative Coherence Through Organising Logic | Candidate / High | Strong five-dimension support | Retain |
+| Hospitality System Proof | Candidate / High | Strong system-story support | Retain |
+| Biography When It Explains the Experience | Candidate / High | Strong Tele-Barista support with authorship boundary | Retain |
+| Narrative Language Within Clear Interface | Candidate / High | Strong corrective-premise support | Retain |
+| Atmosphere Through Worldview | Candidate / High | Strong interpretive support; outcome unproven | Retain |
+| Adaptation as Narrative | Candidate / Medium | Developmental continuity support | Retain |
+| Story Through Place | Candidate / High | Route-specific place support | Retain |
+| Heritage Builds Confidence | Candidate / Medium-High | Useful contradiction through documented experimentation | Retain |
+| Story Before Features | Emerging | Strong support | Remain Emerging |
+| Emotion Before Interface | Emerging | Support with inspiration-risk boundary | Remain Emerging |
+| Promise Before Proof | Emerging | Strong mechanism/proposition boundary | Remain Emerging |
+| The Guest as Participant | Emerging | Strong co-participation support | Remain Emerging |
+| Multi-Intent Hospitality | Emerging | Strong route-story support | Remain Emerging |
 
 No maturity or confidence change is authorized by this story comparison alone.
 
-Comparison 106 — The Most Visible Character Is Not Necessarily the Protagonist
+---
+
+# Comparison 106 — The Most Visible Character Is Not Necessarily the Protagonist
 
 DAWN's robots dominate:
 
-visual recognition
-
-photography
-
-interface novelty
-
-public curiosity
-
-product naming
+- visual recognition
+- photography
+- interface novelty
+- public curiosity
+- product naming
 
 The remote pilot supplies:
 
-intention
-
-biography
-
-hospitality judgment
-
-conversation
-
-craft
-
-work
-
-social aspiration
+- intention
+- biography
+- hospitality judgment
+- conversation
+- craft
+- work
+- social aspiration
 
 The robot is visually central while the person remains narratively central.
 
-Correction 85
+## Correction 85
 
 Narrative prominence must follow human agency rather than object visibility.
 
-Comparison 107 — A Technical Disclaimer Can Be the Primary Human Story
+---
+
+# Comparison 107 — A Technical Disclaimer Can Be the Primary Human Story
 
 DAWN's statement that its robots are not AI performs more than technical clarification.
 
 It:
 
-attributes movement and speech to a person
-
-protects human labour from automation misrepresentation
-
-changes machine novelty into human encounter
-
-explains why personality and variation matter
+- attributes movement and speech to a person
+- protects human labour from automation misrepresentation
+- changes machine novelty into human encounter
+- explains why personality and variation matter
 
 Without that premise, the same visible service can tell the wrong story.
 
-Correction 86
+## Correction 86
 
 A corrective premise belongs before features when it changes who the audience understands to be acting.
 
-Comparison 108 — Physical Absence Can Produce Local Protagonism
+---
+
+# Comparison 108 — Physical Absence Can Produce Local Protagonism
 
 The pilot may not be physically present in the café.
 
 The pilot can still:
 
-greet
-
-guide
-
-converse
-
-prepare
-
-carry
-
-host
-
-interpret place
+- greet
+- guide
+- converse
+- prepare
+- carry
+- host
+- interpret place
 
 Remote location does not remove local narrative agency.
 
-Correction 87
+## Correction 87
 
 Story analysis must distinguish physical presence from attributable action.
 
-Comparison 109 — The Machine Is a Carrier When the Story Is Working
+---
+
+# Comparison 109 — The Machine Is a Carrier When the Story Is Working
 
 The robot can carry:
 
-voice
-
-movement
-
-gesture
-
-tools
-
-product
-
-conversation
-
-local presence
+- voice
+- movement
+- gesture
+- tools
+- product
+- conversation
+- local presence
 
 It is not the independent source of hospitality.
 
 Paradoxically, the machine becomes less narratively important when attribution works well because attention moves from novelty to the person acting through it.
 
-Correction 88
+## Correction 88
 
 Technology should become legible as enabling infrastructure, not remain the permanent narrative hero.
 
-Comparison 110 — A Social Mission Is Most Credible as Paid Hospitality
+---
+
+# Comparison 110 — A Social Mission Is Most Credible as Paid Hospitality
 
 DAWN charges for:
 
-admission
-
-OriHime service
-
-dedicated pilot time
-
-food and beverage
-
-guided movement
-
-hosted cultural experience
+- admission
+- OriHime service
+- dedicated pilot time
+- food and beverage
+- guided movement
+- hosted cultural experience
 
 The guest purchases human-mediated hospitality rather than symbolic awareness alone.
 
@@ -9057,21 +9411,19 @@ Commercial payment establishes public product value.
 
 It does not prove:
 
-fair pay
+- fair pay
+- secure work
+- schedule control
+- career development
+- equal institutional power
 
-secure work
-
-schedule control
-
-career development
-
-equal institutional power
-
-Correction 89
+## Correction 89
 
 Paid inclusion strengthens mechanism credibility while remaining separate from labour-outcome proof.
 
-Comparison 111 — Disability Is Material Context but Insufficient Identity
+---
+
+# Comparison 111 — Disability Is Material Context but Insufficient Identity
 
 Mobility constraint and difficulty leaving home materially explain why remote embodiment matters.
 
@@ -9079,272 +9431,225 @@ They do not explain the whole person.
 
 Pilots may also be:
 
-hosts
+- hosts
+- guides
+- craft practitioners
+- collaborators
+- workers
+- authors
+- individuals with preferences and histories
 
-guides
-
-craft practitioners
-
-collaborators
-
-workers
-
-authors
-
-individuals with preferences and histories
-
-Correction 90
+## Correction 90
 
 Evidence-responsible biography should lead with role, expertise and authorship before using constraint as explanatory context.
 
-Comparison 112 — Biography Can Humanise and Instrumentalise Simultaneously
+---
+
+# Comparison 112 — Biography Can Humanise and Instrumentalise Simultaneously
 
 Pilot biography can:
 
-identify the person behind the robot
-
-explain retained expertise
-
-make agency recognisable
-
-connect a service action to a life history
+- identify the person behind the robot
+- explain retained expertise
+- make agency recognisable
+- connect a service action to a life history
 
 It can also:
 
-convert adversity into brand evidence
+- convert adversity into brand evidence
+- reduce a person to diagnosis
+- transfer authorship to the institution
+- prioritise audience emotion over worker agency
 
-reduce a person to diagnosis
-
-transfer authorship to the institution
-
-prioritise audience emotion over worker agency
-
-Correction 91
+## Correction 91
 
 Biography When It Explains the Experience requires visible consent, currentness, agency and relevance—not merely emotional power.
 
-Comparison 113 — Retained Craft Changes Method Without Removing Human Meaning
+---
+
+# Comparison 113 — Retained Craft Changes Method Without Removing Human Meaning
 
 Tele-Barista presents a person whose prior coffee expertise continues through:
 
-remote operation
-
-robotic embodiment
-
-local tools
-
-collaborative technical design
+- remote operation
+- robotic embodiment
+- local tools
+- collaborative technical design
 
 The making method changes.
 
 The intention of one person preparing something for another remains.
 
-New Architecture Direction
+## New Architecture Direction
 
 Retained Craft describes expertise continuing through adapted embodiment without pretending that method remains unchanged.
 
-Comparison 114 — Experimental Identity Creates Credibility and Responsibility
+---
+
+# Comparison 114 — Experimental Identity Creates Credibility and Responsibility
 
 DAWN presents itself as a permanent experimental café.
 
 The frame permits:
 
-testing
-
-iteration
-
-disclosure of limitation
-
-guest feedback
-
-developmental continuity
+- testing
+- iteration
+- disclosure of limitation
+- guest feedback
+- developmental continuity
 
 It can also create doubt when permanent experimentation becomes an excuse for:
 
-unstable service
+- unstable service
+- unclear responsibility
+- weak labour conditions
+- unsupported claims
 
-unclear responsibility
-
-weak labour conditions
-
-unsupported claims
-
-Correction 92
+## Correction 92
 
 Experimental identity authorizes learning, not unbounded failure or reduced hospitality responsibility.
 
-Comparison 115 — A Future Story Requires Present Mechanism
+---
+
+# Comparison 115 — A Future Story Requires Present Mechanism
 
 DAWN invites the guest to encounter a possible future.
 
 The future proposition becomes credible through:
 
-a named pilot
-
-a responsive interaction
-
-a delivered product
-
-a defined route
-
-a disclosed limitation
-
-a visible operating relationship
+- a named pilot
+- a responsive interaction
+- a delivered product
+- a defined route
+- a disclosed limitation
+- a visible operating relationship
 
 Future language becomes weak when it floats above current mechanism.
 
-Correction 93
+## Correction 93
 
 Promise Before Proof requires enough present-tense mechanism evidence to bound the future claim.
 
-Comparison 116 — One Organising Story Can Support Radically Different Products
+---
+
+# Comparison 116 — One Organising Story Can Support Radically Different Products
 
 DAWN's routes differ materially:
 
-general admission
-
-dedicated Diner service
-
-Tele-Barista
-
-city guide tour
-
-OrySNACK
+- general admission
+- dedicated Diner service
+- Tele-Barista
+- city guide tour
+- OrySNACK
 
 Their common organising logic is:
 
+~~~text
 Human Presence
 
 Through
 
 Technological Embodiment
+~~~
 
 The story is coherent without forcing every product into one interface or one service format.
 
-Correction 94
+## Correction 94
 
 Narrative coherence requires a stable causal logic, not uniform products.
 
-Comparison 117 — Story Through Place Can Be Remotely Authored
+---
+
+# Comparison 117 — Story Through Place Can Be Remotely Authored
 
 The Nihonbashi Guide Tour creates a distinctive place relationship.
 
 A remote pilot interprets:
 
-streets
-
-shrines
-
-food places
-
-movement
-
-cultural context
+- streets
+- shrines
+- food places
+- movement
+- cultural context
 
 The guest carries OriHime through local territory while the pilot supplies guidance.
 
-Correction 95
+## Correction 95
 
 Story Through Place can be mediated across distance, but place knowledge must remain attributable to the guide rather than the device or institution alone.
 
-Comparison 118 — Food and Drink Can Carry Relationship Trace
+---
+
+# Comparison 118 — Food and Drink Can Carry Relationship Trace
 
 At DAWN, food and drink perform different story roles.
 
-Product
-
-Narrative contribution
-
-Diner meal
-
-sustains table-level relationship
-
-Delivered drink
-
-makes remote action locally consequential
-
-Tele-Barista coffee
-
-carries retained craft
-
-Tour drink
-
-completes the return from mobile place experience
-
-OrySNACK sake
-
-gives the pilot a culturally specific host role
+| Product | Narrative contribution |
+|---|---|
+| Diner meal | sustains table-level relationship |
+| Delivered drink | makes remote action locally consequential |
+| Tele-Barista coffee | carries retained craft |
+| Tour drink | completes the return from mobile place experience |
+| OrySNACK sake | gives the pilot a culturally specific host role |
 
 The product is not always the primary narrative subject.
 
 It can be the material trace of one person's action for another.
 
-Correction 96
+## Correction 96
 
 Product narrative should identify the relationship carried by the product rather than relying on product beauty alone.
 
-Comparison 119 — The Guest Co-Completes but Must Not Appropriate the Story
+---
+
+# Comparison 119 — The Guest Co-Completes but Must Not Appropriate the Story
 
 Guests:
 
-converse
-
-order
-
-receive service
-
-carry OriHime
-
-try devices
-
-respond to pilots
-
-provide feedback
+- converse
+- order
+- receive service
+- carry OriHime
+- try devices
+- respond to pilots
+- provide feedback
 
 Their recognition helps complete a worker-centred story.
 
 The guest must not become the moral protagonist through:
 
-inspiration
+- inspiration
+- transformation
+- empathy claims
+- public praise
 
-transformation
-
-empathy claims
-
-public praise
-
-Correction 97
+## Correction 97
 
 The Guest as Participant should preserve the pilot as agent and the guest as relational counterpart.
 
-Comparison 120 — Mechanism Evidence Does Not Automatically Climb to Social Outcome
+---
+
+# Comparison 120 — Mechanism Evidence Does Not Automatically Climb to Social Outcome
 
 The official story strongly supports:
 
-remote human operation
-
-paid hospitality roles
-
-public interaction
-
-route variety
-
-continued experimentation
+- remote human operation
+- paid hospitality roles
+- public interaction
+- route variety
+- continued experimentation
 
 It does not independently prove:
 
-alleviated loneliness
+- alleviated loneliness
+- lasting friendship
+- equitable employment
+- sustained independence
+- changed social norms
 
-lasting friendship
+## Cross-Case Refinement
 
-equitable employment
-
-sustained independence
-
-changed social norms
-
-Cross-Case Refinement
-
+~~~text
 Published Fact
 ↓
 Published Mechanism
@@ -9354,48 +9659,39 @@ Intended Immediate Outcome
 Experienced Outcome
 ↓
 Durable Social Outcome
+~~~
 
 Evidence at one level does not automatically authorize the next.
 
-DAWN Story Architecture Directions
+---
+
+# DAWN Story Architecture Directions
 
 The following are story architecture variables, mechanisms or research directions. They are not formal KHDS patterns.
 
-Human Agency Through Technological Embodiment — a person acts locally through a remote technological body.
-
-Human Protagonist / Machine Carrier — the pilot remains the narrative agent while the robot carries action.
-
-Corrective Premise — a concise statement repairs the audience's default interpretation.
-
-Pilot Identity Proof — the system identifies the person behind the device.
-
-Mediated Biography — biography explains why and how a person acts through technology.
-
-Retained Craft — prior expertise continues through adapted embodiment.
-
-Relationship Trace — a product or action carries evidence of one person's contribution to another.
-
-Experimental Continuity — repeated testing forms a developmental story.
-
-Mission / Mechanism Alignment — institutional purpose is enacted through the operating system.
-
-Social Claim Boundary — mechanism evidence remains separate from durable outcome evidence.
-
-Pilot Authorship — represented people retain voice, identity and contribution.
-
-Collaborative Innovation Story — individual expertise and institutional capability combine.
-
-Remote Place Relationship — a remote guide creates attributable local place meaning.
-
-Commercialised Human Attention — pilot service becomes a paid hospitality inclusion.
-
-Guest as Co-Participant — the guest responds to pilot, interface and experiment without becoming the narrative owner.
+1. **Human Agency Through Technological Embodiment** — a person acts locally through a remote technological body.
+2. **Human Protagonist / Machine Carrier** — the pilot remains the narrative agent while the robot carries action.
+3. **Corrective Premise** — a concise statement repairs the audience's default interpretation.
+4. **Pilot Identity Proof** — the system identifies the person behind the device.
+5. **Mediated Biography** — biography explains why and how a person acts through technology.
+6. **Retained Craft** — prior expertise continues through adapted embodiment.
+7. **Relationship Trace** — a product or action carries evidence of one person's contribution to another.
+8. **Experimental Continuity** — repeated testing forms a developmental story.
+9. **Mission / Mechanism Alignment** — institutional purpose is enacted through the operating system.
+10. **Social Claim Boundary** — mechanism evidence remains separate from durable outcome evidence.
+11. **Pilot Authorship** — represented people retain voice, identity and contribution.
+12. **Collaborative Innovation Story** — individual expertise and institutional capability combine.
+13. **Remote Place Relationship** — a remote guide creates attributable local place meaning.
+14. **Commercialised Human Attention** — pilot service becomes a paid hospitality inclusion.
+15. **Guest as Co-Participant** — the guest responds to pilot, interface and experiment without becoming the narrative owner.
 
 No architecture direction is promoted, assigned confidence, or treated as a KHDS Principle here.
 
-Current Story Pattern Pressure — Post Restaurant #17
+---
 
-Story Through Hospitality Model
+# Current Story Pattern Pressure — Post Restaurant #17
+
+## Story Through Hospitality Model
 
 Canonical state: Candidate / High
 
@@ -9411,7 +9707,7 @@ Decision:
 
 Retain Candidate / High. No confidence change.
 
-Narrative Coherence Through Organising Logic
+## Narrative Coherence Through Organising Logic
 
 Canonical state: Candidate / High
 
@@ -9427,7 +9723,7 @@ Decision:
 
 Retain Candidate / High. No confidence change.
 
-Hospitality System Proof
+## Hospitality System Proof
 
 Canonical state: Candidate / High
 
@@ -9443,7 +9739,7 @@ Decision:
 
 Retain Candidate / High. No confidence change.
 
-Biography When It Explains the Experience
+## Biography When It Explains the Experience
 
 Canonical state: Candidate / High
 
@@ -9459,7 +9755,7 @@ Decision:
 
 Retain Candidate / High. No confidence change.
 
-Narrative Language Within Clear Interface
+## Narrative Language Within Clear Interface
 
 Canonical state: Candidate / High
 
@@ -9475,7 +9771,7 @@ Decision:
 
 Retain Candidate / High. No confidence change.
 
-Atmosphere Through Worldview
+## Atmosphere Through Worldview
 
 Canonical state: Candidate / High
 
@@ -9491,7 +9787,7 @@ Decision:
 
 Retain Candidate / High. No confidence change.
 
-Adaptation as Narrative
+## Adaptation as Narrative
 
 Canonical state: Candidate / Medium
 
@@ -9507,7 +9803,7 @@ Decision:
 
 Retain Candidate / Medium. No confidence change.
 
-Story Through Place
+## Story Through Place
 
 Canonical state: Candidate / High
 
@@ -9523,7 +9819,7 @@ Decision:
 
 Retain Candidate / High. No confidence change.
 
-Heritage Builds Confidence
+## Heritage Builds Confidence
 
 Canonical state: Candidate / Medium-High
 
@@ -9535,7 +9831,7 @@ Decision:
 
 Retain Candidate / Medium-High. No confidence change.
 
-Story Before Features
+## Story Before Features
 
 Canonical state: Emerging
 
@@ -9547,7 +9843,7 @@ Decision:
 
 Remain Emerging.
 
-Emotion Before Interface
+## Emotion Before Interface
 
 Canonical state: Emerging
 
@@ -9559,7 +9855,7 @@ Decision:
 
 Remain Emerging.
 
-Promise Before Proof
+## Promise Before Proof
 
 Canonical state: Emerging
 
@@ -9571,7 +9867,7 @@ Decision:
 
 Remain Emerging.
 
-The Guest as Participant
+## The Guest as Participant
 
 Canonical state: Emerging
 
@@ -9587,7 +9883,7 @@ Decision:
 
 Remain Emerging.
 
-Multi-Intent Hospitality
+## Multi-Intent Hospitality
 
 Canonical state: Emerging
 
@@ -9599,283 +9895,131 @@ Decision:
 
 Remain Emerging.
 
-Strongest Story Tensions After Restaurant #17
-
-Visible robot vs human protagonist — object visibility can outrun agency attribution.
-
-Technical disclaimer vs human story — a non-AI statement performs ethical and narrative work.
-
-Physical absence vs local agency — remote location does not remove protagonism.
-
-Machine carrier vs machine hero — technology enables action without becoming its source.
-
-Social mission vs paid hospitality — commercial value strengthens mechanism credibility without proving labour justice.
-
-Employment opportunity vs employment outcome — visible roles do not establish conditions or security.
-
-Connection opportunity vs loneliness alleviation — encounter does not prove durable social effect.
-
-Disability context vs total identity — constraint explains architecture but not the whole person.
-
-Biography recognition vs biography extraction — humanisation can become instrumentalisation.
-
-Audience inspiration vs pilot agency — guest emotion must not replace worker authorship.
-
-Technology mechanism vs technology saviour — the device participates in a wider human system.
-
-Experimental continuity vs permanent provisionality — learning cannot erase responsibility.
-
-Future proposition vs present proof — possibility needs current operating detail.
-
-One organising logic vs many service routes — coherence does not require uniform products.
-
-Remote guide vs place authorship — mediated knowledge must remain attributable.
-
-Product beauty vs relationship trace — food and drink can carry human contribution.
-
-Guest co-participation vs guest appropriation — interaction should not recentre the moral narrative.
-
-Founder vision vs pilot proof — the founder story is strongest when worker agency becomes visible.
-
-Story Falsification Programme After Restaurant #17
-
-Do guests understand before arrival that the robots are human-operated?
-
-Does the non-AI correction remain visible across every service route?
-
-Does the external booking surface preserve human attribution?
-
-Do local staff consistently identify pilot action?
-
-Are pilots introduced by name and role?
-
-Can guests connect a voice and action to a specific person?
-
-Do guests remember pilots more strongly than robot novelty?
-
-Are pilot biographies current?
-
-Are biography publication and reuse consent-governed?
-
-Do biographies foreground role and expertise before diagnosis?
-
-Do pilots recognise themselves in the public narrative?
-
-Do different pilots have meaningful authorship opportunities?
-
-Does the founder voice remain subordinate to worker agency?
-
-Does the institution avoid treating more than 80 pilots as one abstract collective?
-
-Does Tele-Barista preserve Mika's craft authorship?
-
-Are collaboration partners proportionately represented?
-
-Is retained craft visible in the delivered product?
-
-Do guests interpret the robot as embodiment rather than autonomous replacement?
-
-Does machine imagery maintain human attribution on mobile layouts?
-
-Does the social-purpose story name the mechanism before the outcome?
-
-Are employment claims supported by evidence about work conditions?
-
-Do pilots experience agency rather than symbolic inclusion?
-
-Does remote work expand sustained participation over time?
-
-Are loneliness claims supported by longitudinal evidence?
-
-Are friendship claims supported by participant evidence?
-
-Does disability storytelling avoid pity and inspiration reduction?
-
-Does pandemic framing avoid lived-experience equivalence?
-
-Does technology-saviour language disappear from operating explanations?
-
-Does the permanent-experiment identity produce documented learning?
-
-Are technical failures narrated without reducing pilot capability?
-
-Do experimental limits remain compatible with commercial responsibility?
-
-Are guest questionnaires consented and methodologically governed?
-
-Is customer feedback kept separate from research validation?
-
-Does commercial growth preserve pilot-centred meaning?
-
-Do new service routes retain the same human organising logic?
-
-Is Nihonbashi place knowledge attributable to the pilot?
-
-Are OrySNACK pilots presented as hosts rather than machine operators?
-
-Does translated English content preserve dignity and precision?
-
-Can non-visual users recover who acts, who carries and who benefits?
-
-Does independent evidence support any claimed durable social outcome?
-
-Story Deduplication Decisions — Restaurant #17
-
-Proposed direction
-
-Closest existing concept
-
-Decision
-
-Human Agency Through Technological Embodiment
-
-Story Through Hospitality Model
-
-Retain as primary architecture model
-
-Human Protagonist / Machine Carrier
-
-narrative authority; relationship proof
-
-Retain as story-role model
-
-Corrective Premise
-
-Story Before Features; Narrative Language Within Clear Interface
-
-Retain as narrative mechanism
-
-Pilot Identity Proof
-
-Biography When It Explains the Experience
-
-Retain as attribution requirement
-
-Mediated Biography
-
-Biography When It Explains the Experience
-
-Treat as DAWN application
-
-Retained Craft
-
-Adaptation as Narrative; biography
-
-Retain as architecture variable
-
-Relationship Trace
-
-relationship proof; product narrative
-
-Retain as cross-dimensional mechanism
-
-Experimental Continuity
-
-Adaptation as Narrative
-
-Retain as developmental mechanism
-
-Mission / Mechanism Alignment
-
-Story Through Hospitality Model
-
-Merge into existing Candidate logic
-
-Social Claim Boundary
-
-Narrative Claim Ladder
-
-Retain as governance rule
-
-Pilot Authorship
-
-guide authority; biography agency
-
-Retain as evidence requirement
-
-Collaborative Innovation Story
-
-ecosystem and distributed contribution
-
-Retain as bounded architecture direction
-
-Remote Place Relationship
-
-Story Through Place
-
-Treat as mediated place mechanism
-
-Commercialised Human Attention
-
-Relationship Capacity; hospitality model
-
-Retain as cross-dimensional direction
-
-Guest as Co-Participant
-
-The Guest as Participant
-
-Treat as role refinement
+---
+
+# Strongest Story Tensions After Restaurant #17
+
+1. **Visible robot vs human protagonist** — object visibility can outrun agency attribution.
+2. **Technical disclaimer vs human story** — a non-AI statement performs ethical and narrative work.
+3. **Physical absence vs local agency** — remote location does not remove protagonism.
+4. **Machine carrier vs machine hero** — technology enables action without becoming its source.
+5. **Social mission vs paid hospitality** — commercial value strengthens mechanism credibility without proving labour justice.
+6. **Employment opportunity vs employment outcome** — visible roles do not establish conditions or security.
+7. **Connection opportunity vs loneliness alleviation** — encounter does not prove durable social effect.
+8. **Disability context vs total identity** — constraint explains architecture but not the whole person.
+9. **Biography recognition vs biography extraction** — humanisation can become instrumentalisation.
+10. **Audience inspiration vs pilot agency** — guest emotion must not replace worker authorship.
+11. **Technology mechanism vs technology saviour** — the device participates in a wider human system.
+12. **Experimental continuity vs permanent provisionality** — learning cannot erase responsibility.
+13. **Future proposition vs present proof** — possibility needs current operating detail.
+14. **One organising logic vs many service routes** — coherence does not require uniform products.
+15. **Remote guide vs place authorship** — mediated knowledge must remain attributable.
+16. **Product beauty vs relationship trace** — food and drink can carry human contribution.
+17. **Guest co-participation vs guest appropriation** — interaction should not recentre the moral narrative.
+18. **Founder vision vs pilot proof** — the founder story is strongest when worker agency becomes visible.
+
+---
+
+# Story Falsification Programme After Restaurant #17
+
+1. Do guests understand before arrival that the robots are human-operated?
+2. Does the non-AI correction remain visible across every service route?
+3. Does the external booking surface preserve human attribution?
+4. Do local staff consistently identify pilot action?
+5. Are pilots introduced by name and role?
+6. Can guests connect a voice and action to a specific person?
+7. Do guests remember pilots more strongly than robot novelty?
+8. Are pilot biographies current?
+9. Are biography publication and reuse consent-governed?
+10. Do biographies foreground role and expertise before diagnosis?
+11. Do pilots recognise themselves in the public narrative?
+12. Do different pilots have meaningful authorship opportunities?
+13. Does the founder voice remain subordinate to worker agency?
+14. Does the institution avoid treating more than 80 pilots as one abstract collective?
+15. Does Tele-Barista preserve Mika's craft authorship?
+16. Are collaboration partners proportionately represented?
+17. Is retained craft visible in the delivered product?
+18. Do guests interpret the robot as embodiment rather than autonomous replacement?
+19. Does machine imagery maintain human attribution on mobile layouts?
+20. Does the social-purpose story name the mechanism before the outcome?
+21. Are employment claims supported by evidence about work conditions?
+22. Do pilots experience agency rather than symbolic inclusion?
+23. Does remote work expand sustained participation over time?
+24. Are loneliness claims supported by longitudinal evidence?
+25. Are friendship claims supported by participant evidence?
+26. Does disability storytelling avoid pity and inspiration reduction?
+27. Does pandemic framing avoid lived-experience equivalence?
+28. Does technology-saviour language disappear from operating explanations?
+29. Does the permanent-experiment identity produce documented learning?
+30. Are technical failures narrated without reducing pilot capability?
+31. Do experimental limits remain compatible with commercial responsibility?
+32. Are guest questionnaires consented and methodologically governed?
+33. Is customer feedback kept separate from research validation?
+34. Does commercial growth preserve pilot-centred meaning?
+35. Do new service routes retain the same human organising logic?
+36. Is Nihonbashi place knowledge attributable to the pilot?
+37. Are OrySNACK pilots presented as hosts rather than machine operators?
+38. Does translated English content preserve dignity and precision?
+39. Can non-visual users recover who acts, who carries and who benefits?
+40. Does independent evidence support any claimed durable social outcome?
+
+---
+
+# Story Deduplication Decisions — Restaurant #17
+
+| Proposed direction | Closest existing concept | Decision |
+|---|---|---|
+| Human Agency Through Technological Embodiment | Story Through Hospitality Model | Retain as primary architecture model |
+| Human Protagonist / Machine Carrier | narrative authority; relationship proof | Retain as story-role model |
+| Corrective Premise | Story Before Features; Narrative Language Within Clear Interface | Retain as narrative mechanism |
+| Pilot Identity Proof | Biography When It Explains the Experience | Retain as attribution requirement |
+| Mediated Biography | Biography When It Explains the Experience | Treat as DAWN application |
+| Retained Craft | Adaptation as Narrative; biography | Retain as architecture variable |
+| Relationship Trace | relationship proof; product narrative | Retain as cross-dimensional mechanism |
+| Experimental Continuity | Adaptation as Narrative | Retain as developmental mechanism |
+| Mission / Mechanism Alignment | Story Through Hospitality Model | Merge into existing Candidate logic |
+| Social Claim Boundary | Narrative Claim Ladder | Retain as governance rule |
+| Pilot Authorship | guide authority; biography agency | Retain as evidence requirement |
+| Collaborative Innovation Story | ecosystem and distributed contribution | Retain as bounded architecture direction |
+| Remote Place Relationship | Story Through Place | Treat as mediated place mechanism |
+| Commercialised Human Attention | Relationship Capacity; hospitality model | Retain as cross-dimensional direction |
+| Guest as Co-Participant | The Guest as Participant | Treat as role refinement |
 
 No duplicate canonical pattern is created.
 
-Restaurant #17 Story Decision Ledger
+---
 
-The comparison now includes 17 independent restaurants.
+# Restaurant #17 Story Decision Ledger
 
-The complete post–Dans le Noir? story record remains intact as historical state.
+1. The comparison now includes 17 independent restaurants.
+2. The complete post–Dans le Noir? story record remains intact as historical state.
+3. Human Protagonist / Machine Carrier is the strongest DAWN story model.
+4. Robot Carries the Story is separated from Robot Is the Story.
+5. Visible Hero Object is separated from Narrative Protagonist.
+6. The non-AI statement is classified as a Corrective Premise.
+7. Remote human presence is explicitly separated from autonomous AI.
+8. The pilot is the narrative protagonist; the robot is embodiment and carrier.
+9. Story Through Hospitality Model receives exceptionally strong support without confidence change.
+10. Narrative Coherence Through Organising Logic receives strong five-dimension support.
+11. Biography When It Explains the Experience receives strong Tele-Barista support with consent and agency boundaries.
+12. Retained Craft is classified as architecture, not a formal pattern.
+13. Disability is treated as material operating context, not complete identity.
+14. Audience inspiration is separated from pilot agency.
+15. Technology mechanism is separated from technology-saviour claims.
+16. Published mission and mechanism remain separate from verified social outcomes.
+17. Employment opportunity is separated from employment outcome proof.
+18. Commercial payment establishes public value, not fair labour outcome.
+19. Experimental identity is treated as developmental context, not reduced responsibility.
+20. Pandemic confinement remains a shared reference point, not equivalent lived experience.
+21. Guest feedback establishes participation in inquiry, not research validation.
+22. Story Through Place receives route-specific remote-guide support.
+23. One organising logic is shown to support several different hospitality products.
+24. Pilot authorship remains a required evidence boundary.
+25. All reviewed Emerging patterns remain Emerging.
+26. No pattern is promoted, demoted, renamed, merged or validated.
+27. Canonical totals remain 25 Candidate, 9 Emerging, 1 Partially Supported, 0 Validated and 0 research-derived Principles.
 
-Human Protagonist / Machine Carrier is the strongest DAWN story model.
-
-Robot Carries the Story is separated from Robot Is the Story.
-
-Visible Hero Object is separated from Narrative Protagonist.
-
-The non-AI statement is classified as a Corrective Premise.
-
-Remote human presence is explicitly separated from autonomous AI.
-
-The pilot is the narrative protagonist; the robot is embodiment and carrier.
-
-Story Through Hospitality Model receives exceptionally strong support without confidence change.
-
-Narrative Coherence Through Organising Logic receives strong five-dimension support.
-
-Biography When It Explains the Experience receives strong Tele-Barista support with consent and agency boundaries.
-
-Retained Craft is classified as architecture, not a formal pattern.
-
-Disability is treated as material operating context, not complete identity.
-
-Audience inspiration is separated from pilot agency.
-
-Technology mechanism is separated from technology-saviour claims.
-
-Published mission and mechanism remain separate from verified social outcomes.
-
-Employment opportunity is separated from employment outcome proof.
-
-Commercial payment establishes public value, not fair labour outcome.
-
-Experimental identity is treated as developmental context, not reduced responsibility.
-
-Pandemic confinement remains a shared reference point, not equivalent lived experience.
-
-Guest feedback establishes participation in inquiry, not research validation.
-
-Story Through Place receives route-specific remote-guide support.
-
-One organising logic is shown to support several different hospitality products.
-
-Pilot authorship remains a required evidence boundary.
-
-All reviewed Emerging patterns remain Emerging.
-
-No pattern is promoted, demoted, renamed, merged or validated.
-
-Canonical totals remain 25 Candidate, 9 Emerging, 1 Partially Supported, 0 Validated and 0 research-derived Principles.
-
-Why No Maturity Change Is Justified
+## Why No Maturity Change Is Justified
 
 Story completes the five-dimensional Restaurant #17 comparison set.
 
@@ -9883,27 +10027,24 @@ This file does not own canonical governance.
 
 Its evidence must now be reconciled with:
 
-arrival
-
-atmosphere
-
-photography
-
-reservation
-
-the Restaurant #17 knowledge extraction
-
-the existing cross-case maturity rules
+- arrival
+- atmosphere
+- photography
+- reservation
+- the Restaurant #17 knowledge extraction
+- the existing cross-case maturity rules
 
 The five comparison files supply evidence.
 
 Formal maturity and confidence decisions remain reserved for khds/research/validation/candidate-patterns.md.
 
-Story Comparison Conclusion — Post Avatar Robot Café DAWN, Tokyo
+---
+
+# Story Comparison Conclusion — Post Avatar Robot Café DAWN, Tokyo
 
 After 17 independent restaurants, the strongest story finding remains:
 
-Story is an organizing system, not a biography section.
+> **Story is an organizing system, not a biography section.**
 
 DAWN gives that thesis a new ethical and technological test.
 
@@ -9911,6 +10052,7 @@ The most visible object is not the person whose agency gives the system meaning.
 
 The story must therefore perform continuous attribution:
 
+~~~text
 Human Person
 ↓
 Recognisable Role and Expertise
@@ -9924,6 +10066,7 @@ Paid Hospitality Action
 Guest Relationship Opportunity
 ↓
 Bounded Social Proposition
+~~~
 
 Dans le Noir? established that an operating relationship can reassign authority and make the guide's expertise essential.
 
@@ -9933,6 +10076,7 @@ the pilot can remain the protagonist even when the robot occupies the room.
 
 The combined relationship rule is:
 
+~~~text
 Human Authority
 
 does not require
@@ -9954,34 +10098,26 @@ Agency Proof
 +
 
 Authorship
+~~~
 
 DAWN also strengthens the narrative claim ladder.
 
 The public system can strongly prove:
 
-human-operated robots
-
-paid service roles
-
-multiple service routes
-
-remote participation mechanisms
-
-experimental continuity
+- human-operated robots
+- paid service roles
+- multiple service routes
+- remote participation mechanisms
+- experimental continuity
 
 It cannot automatically prove:
 
-equality
-
-belonging
-
-friendship
-
-reduced loneliness
-
-fair labour
-
-durable social change
+- equality
+- belonging
+- friendship
+- reduced loneliness
+- fair labour
+- durable social change
 
 The story is strongest when the robot becomes less of a spectacle and more of a readable human body.
 
@@ -9989,11 +10125,13 @@ Restaurant #17 produces no governance change in this file.
 
 It completes the five comparison dimensions and opens the Post–Avatar Robot Café DAWN canonical governance reconciliation.
 
-Validation
+---
+
+# Validation
 
 Comparison File:
 
-khds/research/comparison/story.md
+`khds/research/comparison/story.md`
 
 Status:
 
@@ -10101,9 +10239,12 @@ Post–Avatar Robot Café DAWN Canonical Governance Reconciliation
 
 Next File:
 
-khds/research/validation/candidate-patterns.md
+`khds/research/validation/candidate-patterns.md`
 
-Post–Refettorio Felix, London Story Reconciliation
+---
+
+
+# Post–Refettorio Felix, London Story Reconciliation
 
 Restaurant added:
 
@@ -10131,49 +10272,34 @@ Canonical governance decision:
 
 next stage.
 
-Restaurant #18 Story Evidence Input
+---
+
+# Restaurant #18 Story Evidence Input
 
 Restaurant files reconciled:
 
-khds/research/restaurants/refettorio-felix-london/README.md
-
-khds/research/restaurants/refettorio-felix-london/arrival.md
-
-khds/research/restaurants/refettorio-felix-london/atmosphere.md
-
-khds/research/restaurants/refettorio-felix-london/photography.md
-
-khds/research/restaurants/refettorio-felix-london/reservation.md
-
-khds/research/restaurants/refettorio-felix-london/story.md
-
-khds/research/restaurants/refettorio-felix-london/knowledge-extraction.md
+- `khds/research/restaurants/refettorio-felix-london/README.md`
+- `khds/research/restaurants/refettorio-felix-london/arrival.md`
+- `khds/research/restaurants/refettorio-felix-london/atmosphere.md`
+- `khds/research/restaurants/refettorio-felix-london/photography.md`
+- `khds/research/restaurants/refettorio-felix-london/reservation.md`
+- `khds/research/restaurants/refettorio-felix-london/story.md`
+- `khds/research/restaurants/refettorio-felix-london/knowledge-extraction.md`
 
 Published narrative carriers include:
 
-more than three decades of St Cuthbert's local service
-
-the 2017 Refettorio transformation with Food for Soul
-
-the 2021 Green Rooms addition
-
-surplus-food transformation
-
-weekday three-course hospitality
-
-staff and volunteer service
-
-support partners
-
-Ilse Crawford and Minnie Kemp design contributions
-
-guest chefs
-
-venue-hire cross-support
-
-published monthly activity figures
-
-selected testimony
+- more than three decades of St Cuthbert's local service
+- the 2017 Refettorio transformation with Food for Soul
+- the 2021 Green Rooms addition
+- surplus-food transformation
+- weekday three-course hospitality
+- staff and volunteer service
+- support partners
+- Ilse Crawford and Minnie Kemp design contributions
+- guest chefs
+- venue-hire cross-support
+- published monthly activity figures
+- selected testimony
 
 These establish:
 
@@ -10181,23 +10307,18 @@ published history, mechanism, activity and selected voice.
 
 They do not independently establish:
 
-universal dignity
+- universal dignity
+- representative belonging
+- support effectiveness
+- durable wellbeing
+- causal impact
+- fair labour
+- net commercial subsidy
+- transferability.
 
-representative belonging
+---
 
-support effectiveness
-
-durable wellbeing
-
-causal impact
-
-fair labour
-
-net commercial subsidy
-
-transferability.
-
-Current Canonical Entry State — Before Restaurant #18 Decision
+# Current Canonical Entry State — Before Restaurant #18 Decision
 
 Completed independent restaurants:
 
@@ -10225,131 +10346,166 @@ Research-derived KHDS Principles:
 
 No count changes are authorised in this comparison file.
 
-Comparison 121 — Hospitality Without Transaction Can Still Carry a Complete Restaurant Story
+---
+
+# Comparison 121 — Hospitality Without Transaction Can Still Carry a Complete Restaurant Story
 
 Refettorio Felix narrates food, welcome, service, place and relationship without making purchase the organising event.
 
+~~~text
 Guest
 ≠
 Paying Customer
+~~~
 
-Comparison 122 — The Operating Model Is the Strongest Mission Story
+# Comparison 122 — The Operating Model Is the Strongest Mission Story
 
 Surplus sourcing, three-course lunch, shared service, volunteers, support partners and cross-support enact the proposition more credibly than abstract purpose language.
 
+~~~text
 Mission Statement
 ≠
 Mission Performed
+~~~
 
-Comparison 123 — Food Recovery Language Must Stop Before Human Worth
+# Comparison 123 — Food Recovery Language Must Stop Before Human Worth
 
 Surplus food may be recovered as a resource. People must not be narrated as discarded material restored to value by the institution.
 
+~~~text
 Recovering Food Value
 ≠
 Recovering Human Worth
+~~~
 
-Comparison 124 — Dignity Is Recognised, Not Produced
+# Comparison 124 — Dignity Is Recognised, Not Produced
 
 Hospitality may remove degrading friction and enact respect, but it cannot claim to manufacture worth that the guest previously lacked.
 
+~~~text
 Dignity Support
 ≠
 Dignity Production
+~~~
 
-Comparison 125 — Care Beyond the Meal Must Not Make Lunch a Pretext
+# Comparison 125 — Care Beyond the Meal Must Not Make Lunch a Pretext
 
 Advice and therapy can extend relationship while the meal remains intrinsically meaningful hospitality.
 
+~~~text
 Care Continuation
 ≠
 Meal Instrumentalisation
+~~~
 
-Comparison 126 — Local Continuity Can Coexist With Model Transformation
+# Comparison 126 — Local Continuity Can Coexist With Model Transformation
 
 More than three decades of St Cuthbert's service, the 2017 Refettorio transformation and the 2021 Green Rooms addition form continuity through change.
 
+~~~text
 Continuity
 ≠
 Institutional Stasis
+~~~
 
-Comparison 127 — Named Designers Can Explain Change Without Becoming the Protagonists
+# Comparison 127 — Named Designers Can Explain Change Without Becoming the Protagonists
 
 Ilse Crawford and Minnie Kemp help explain spatial transformation, but daily hospitality is carried by guests, staff, volunteers, food and partners.
 
+~~~text
 Design Biography
 ≠
 Narrative Protagonism
+~~~
 
-Comparison 128 — Guest Chefs Can Contribute Without Proving Daily Capacity
+# Comparison 128 — Guest Chefs Can Contribute Without Proving Daily Capacity
 
 Named culinary participation can support the story while remaining episodic rather than evidence of everyday service quality.
 
+~~~text
 Prestige Association
 ≠
 Operating Continuity
+~~~
 
-Comparison 129 — Commercial Activity Can Be Narratively Coherent With Open Access
+# Comparison 129 — Commercial Activity Can Be Narratively Coherent With Open Access
 
 Venue hire can support community dining when the connection is explicit, bounded and real.
 
+~~~text
 Commercial Route
 ≠
 Mission Dilution
+~~~
 
-Comparison 130 — Activity Evidence Must Not Become Impact Narrative
+# Comparison 130 — Activity Evidence Must Not Become Impact Narrative
 
 Meal, guest, volunteer and recovered-food counts establish activity. They cannot independently prove dignity, wellbeing, belonging or durable change.
 
+~~~text
 Published Activity
 ≠
 Verified Impact
+~~~
 
-Comparison 131 — Testimony Can Carry One Voice Without Carrying the Population
+# Comparison 131 — Testimony Can Carry One Voice Without Carrying the Population
 
 A selected account may evidence a reported experience when authorship and consent are protected; it cannot represent every guest.
 
+~~~text
 Individual Testimony
 ≠
 Population Outcome
+~~~
 
-Comparison 132 — Guest Privacy Can Strengthen Narrative Integrity
+# Comparison 132 — Guest Privacy Can Strengthen Narrative Integrity
 
 A mission story can remain legible through process, roles, place and bounded testimony without requiring identifiable vulnerability.
 
+~~~text
 Guest Privacy
 ≠
 Narrative Absence
+~~~
 
-Comparison 133 — Multiple Stakeholder Stories Do Not Equal Multiple Guest Intents
+# Comparison 133 — Multiple Stakeholder Stories Do Not Equal Multiple Guest Intents
 
 Volunteers, donors, hirers, chefs and partners contribute to one ecosystem but should not automatically enlarge guest-intent taxonomy.
 
+~~~text
 Stakeholder Story
 ≠
 Guest Intent
+~~~
 
-Comparison 134 — Free Hospitality Must Not Be Narrated as Lesser Hospitality
+# Comparison 134 — Free Hospitality Must Not Be Narrated as Lesser Hospitality
 
 No price does not reduce culinary, environmental, service or narrative responsibility.
 
+~~~text
 Free Meal
 ≠
 Low-Value Hospitality
+~~~
 
-Comparison 135 — A Coherent Social Story Can Remain Evidentially Incomplete
+# Comparison 135 — A Coherent Social Story Can Remain Evidentially Incomplete
 
 The model can be intelligible across all five KHDS dimensions while guest experience, causal outcome and transferability remain unverified.
 
+~~~text
 Narrative Coherence
 ≠
 Causal Proof
+~~~
 
-Updated Story Thesis — Post Restaurant #18
+
+---
+
+# Updated Story Thesis — Post Restaurant #18
 
 The strongest thesis remains:
 
-Story is an organising system, not a biography section.
+> **Story is an organising system, not a biography section.**
 
 Refettorio Felix adds:
 
@@ -10365,6 +10521,7 @@ the evidence system limits it.
 
 The narrative sequence is:
 
+~~~text
 Local Continuity
 ↓
 Model Transformation
@@ -10378,22 +10535,29 @@ Shared Hospitality
 Optional Care
 ↓
 Bounded Activity and Experience Evidence
+~~~
 
 The ethical boundary is:
 
+~~~text
 Recovering Food Value
 ≠
 Recovering Human Worth
+~~~
 
 The outcome boundary is:
 
+~~~text
 Mission Through Hospitality Model
 ≠
 Verified Mission Outcome
+~~~
 
-Post–Refettorio Felix Story Architecture Additions
+---
 
-Hospitality Without Transaction Narrative
+# Post–Refettorio Felix Story Architecture Additions
+
+## Hospitality Without Transaction Narrative
 
 Guesthood and meaning are organised around hosting rather than purchase.
 
@@ -10405,7 +10569,7 @@ not:
 
 a new pattern.
 
-Mission Through Operating Model
+## Mission Through Operating Model
 
 Purpose is carried by repeated hospitality mechanisms.
 
@@ -10417,7 +10581,7 @@ not:
 
 a new pattern.
 
-Value-Recovery Boundary
+## Value-Recovery Boundary
 
 Resource recovery language is prevented from objectifying people.
 
@@ -10429,7 +10593,7 @@ not:
 
 a new pattern.
 
-Dignity-Recognition Narrative
+## Dignity-Recognition Narrative
 
 The institution supports respect without claiming authorship of human worth.
 
@@ -10441,7 +10605,7 @@ not:
 
 a new pattern.
 
-Meal-and-Care Dual Integrity
+## Meal-and-Care Dual Integrity
 
 Lunch and support remain connected but independently meaningful.
 
@@ -10453,7 +10617,7 @@ not:
 
 a new pattern.
 
-Local Continuity / Model Transformation
+## Local Continuity / Model Transformation
 
 Place history and material adaptation are narrated together.
 
@@ -10465,7 +10629,7 @@ not:
 
 a new pattern.
 
-Supporting Prestige
+## Supporting Prestige
 
 Designers and chefs explain contribution without displacing daily protagonists.
 
@@ -10477,7 +10641,7 @@ not:
 
 a new pattern.
 
-Cross-Support Narrative
+## Cross-Support Narrative
 
 Commercial and contributory routes are connected transparently to open access.
 
@@ -10489,7 +10653,7 @@ not:
 
 a new pattern.
 
-Activity / Experience / Outcome Ladder
+## Activity / Experience / Outcome Ladder
 
 Narrative claims rise only with appropriate evidence.
 
@@ -10501,7 +10665,7 @@ not:
 
 a new pattern.
 
-Privacy-Compatible Story
+## Privacy-Compatible Story
 
 System meaning remains legible without compulsory guest exposure.
 
@@ -10513,7 +10677,7 @@ not:
 
 a new pattern.
 
-Stakeholder Ecosystem / Guest-Intent Separation
+## Stakeholder Ecosystem / Guest-Intent Separation
 
 Contributor stories remain distinct from guest interface categories.
 
@@ -10525,7 +10689,7 @@ not:
 
 a new pattern.
 
-Non-Transactional Value Narrative
+## Non-Transactional Value Narrative
 
 Absence of price is separated from absence of value.
 
@@ -10537,7 +10701,7 @@ not:
 
 a new pattern.
 
-Consent-Compatible Testimony
+## Consent-Compatible Testimony
 
 Individual voice retains authorship, context and bounded scope.
 
@@ -10549,7 +10713,7 @@ not:
 
 a new pattern.
 
-Care Infrastructure Story
+## Care Infrastructure Story
 
 Food, place, service and support form one system without medicalising every guest.
 
@@ -10561,7 +10725,7 @@ not:
 
 a new pattern.
 
-Institutional Humility
+## Institutional Humility
 
 The story explicitly names what published evidence cannot prove.
 
@@ -10573,53 +10737,35 @@ not:
 
 a new pattern.
 
-Story Architecture — Post Restaurant #18 Consolidation
+
+---
+
+# Story Architecture — Post Restaurant #18 Consolidation
 
 The consolidated narrative carrier model now includes:
 
-organising logic
-
-hospitality model
-
-place
-
-heritage
-
-adaptation
-
-biography
-
-product
-
-craft
-
-ritual
-
-service role
-
-relationship
-
-worldview
-
-technology
-
-corrective premise
-
-local continuity
-
-social mission
-
-value-recovery boundary
-
-care infrastructure
-
-cross-support
-
-activity / experience / outcome ladder
-
-privacy-compatible testimony
-
-institutional humility
+1. organising logic
+2. hospitality model
+3. place
+4. heritage
+5. adaptation
+6. biography
+7. product
+8. craft
+9. ritual
+10. service role
+11. relationship
+12. worldview
+13. technology
+14. corrective premise
+15. local continuity
+16. social mission
+17. value-recovery boundary
+18. care infrastructure
+19. cross-support
+20. activity / experience / outcome ladder
+21. privacy-compatible testimony
+22. institutional humility
 
 No case requires:
 
@@ -10631,9 +10777,11 @@ the carriers that materially explain
 
 what the hospitality system is and why it operates that way.
 
-Current Story Pattern Pressure — Post Restaurant #18
+---
 
-Story Through Hospitality Model
+# Current Story Pattern Pressure — Post Restaurant #18
+
+## Story Through Hospitality Model
 
 Current state:
 
@@ -10651,7 +10799,7 @@ Decision:
 
 no confidence or maturity change.
 
-Narrative Coherence Through Organising Logic
+## Narrative Coherence Through Organising Logic
 
 Current state:
 
@@ -10669,7 +10817,7 @@ Decision:
 
 no confidence or maturity change.
 
-Hospitality System Proof
+## Hospitality System Proof
 
 Current state:
 
@@ -10687,7 +10835,7 @@ Decision:
 
 no confidence or maturity change.
 
-Biography When It Explains the Experience
+## Biography When It Explains the Experience
 
 Current state:
 
@@ -10705,7 +10853,7 @@ Decision:
 
 no confidence or maturity change.
 
-Narrative Language Within Clear Interface
+## Narrative Language Within Clear Interface
 
 Current state:
 
@@ -10723,7 +10871,7 @@ Decision:
 
 no confidence or maturity change.
 
-Atmosphere Through Worldview
+## Atmosphere Through Worldview
 
 Current state:
 
@@ -10741,7 +10889,7 @@ Decision:
 
 no confidence or maturity change.
 
-Adaptation as Narrative
+## Adaptation as Narrative
 
 Current state:
 
@@ -10759,7 +10907,7 @@ Decision:
 
 no confidence or maturity change.
 
-Story Through Place
+## Story Through Place
 
 Current state:
 
@@ -10777,7 +10925,7 @@ Decision:
 
 no confidence or maturity change.
 
-Heritage Builds Confidence
+## Heritage Builds Confidence
 
 Current state:
 
@@ -10795,7 +10943,7 @@ Decision:
 
 no confidence or maturity change.
 
-Show the System Behind the Plate
+## Show the System Behind the Plate
 
 Current state:
 
@@ -10813,7 +10961,7 @@ Decision:
 
 no confidence or maturity change.
 
-Story Before Features
+## Story Before Features
 
 Current state:
 
@@ -10831,7 +10979,7 @@ Decision:
 
 no confidence or maturity change.
 
-Emotion Before Interface
+## Emotion Before Interface
 
 Current state:
 
@@ -10849,7 +10997,7 @@ Decision:
 
 no confidence or maturity change.
 
-Promise Before Proof
+## Promise Before Proof
 
 Current state:
 
@@ -10867,7 +11015,7 @@ Decision:
 
 no confidence or maturity change.
 
-The Guest as Participant
+## The Guest as Participant
 
 Current state:
 
@@ -10885,7 +11033,7 @@ Decision:
 
 no confidence or maturity change.
 
-Multi-Intent Hospitality
+## Multi-Intent Hospitality
 
 Current state:
 
@@ -10903,277 +11051,285 @@ Decision:
 
 no confidence or maturity change.
 
-Post–Refettorio Felix Story Corrections
 
-Correction 98
+---
+
+# Post–Refettorio Felix Story Corrections
+
+## Correction 98
 
 A non-transactional model can carry a complete hospitality story.
 
-Correction 99
+## Correction 99
 
 Mission is strongest when enacted through the operating model.
 
-Correction 100
+## Correction 100
 
 Food recovery language must not be transferred to people.
 
-Correction 101
+## Correction 101
 
 Human dignity is recognised, not produced.
 
-Correction 102
+## Correction 102
 
 Care beyond the meal must not make lunch a pretext.
 
-Correction 103
+## Correction 103
 
 Local continuity can coexist with material transformation.
 
-Correction 104
+## Correction 104
 
 Named designers can explain change without becoming protagonists.
 
-Correction 105
+## Correction 105
 
 Guest-chef association does not prove daily capacity.
 
-Correction 106
+## Correction 106
 
 Commercial cross-support can be coherent without being automatically proven.
 
-Correction 107
+## Correction 107
 
 Activity evidence must not become impact narrative.
 
-Correction 108
+## Correction 108
 
 Individual testimony must not become population evidence.
 
-Correction 109
+## Correction 109
 
 Guest privacy can strengthen narrative integrity.
 
-Correction 110
+## Correction 110
 
 Stakeholder stories do not automatically expand guest intent.
 
-Correction 111
+## Correction 111
 
 Free hospitality is not lesser hospitality.
 
-Correction 112
+## Correction 112
 
 Narrative coherence does not equal causal proof.
 
-Correction 113
+## Correction 113
 
 Good intention does not equal verified outcome.
 
-Correction 114
+## Correction 114
 
 People receiving support must retain authorship and non-instrumental worth.
 
-Strongest Story Tensions After Restaurant #18
 
-Tension 23 — Mission Force vs Evidence Restraint
+---
+
+# Strongest Story Tensions After Restaurant #18
+
+# Tension 23 — Mission Force vs Evidence Restraint
 
 A compelling purpose can make overclaiming more persuasive and more dangerous.
 
-Tension 24 — Food Recovery vs Human Objectification
+# Tension 24 — Food Recovery vs Human Objectification
 
 One recovery metaphor is valid for resources and degrading when transferred to people.
 
-Tension 25 — Dignity Support vs Institutional Saviourhood
+# Tension 25 — Dignity Support vs Institutional Saviourhood
 
 Hospitality may enact respect without claiming to bestow human worth.
 
-Tension 26 — Meal Completeness vs Care Continuation
+# Tension 26 — Meal Completeness vs Care Continuation
 
 Lunch must remain intrinsically meaningful while support extends the relationship.
 
-Tension 27 — Local Continuity vs Model Transformation
+# Tension 27 — Local Continuity vs Model Transformation
 
 The story must preserve long service history without hiding material change.
 
-Tension 28 — Prestige Contribution vs Daily Protagonism
+# Tension 28 — Prestige Contribution vs Daily Protagonism
 
 Designers and chefs can attract attention while routine actors carry the system.
 
-Tension 29 — Stakeholder Ecosystem vs Guest-Intent Precision
+# Tension 29 — Stakeholder Ecosystem vs Guest-Intent Precision
 
 Many contributors can form one coherent model without becoming guest categories.
 
-Tension 30 — Narrative Coherence vs Outcome Proof
+# Tension 30 — Narrative Coherence vs Outcome Proof
 
 A well-organised story can remain methodologically incomplete.
 
-Story Falsification Programme After Restaurant #18
 
-Audit every mission claim by evidence category.
+---
 
-Separate stated purpose from operating mechanism.
+# Story Falsification Programme After Restaurant #18
 
-Separate operating mechanism from guest experience.
+1. Audit every mission claim by evidence category.
 
-Separate guest experience from durable outcome.
+2. Separate stated purpose from operating mechanism.
 
-Separate outcome association from causal proof.
+3. Separate operating mechanism from guest experience.
 
-Audit every use of dignity, transformation, inclusion and impact.
+4. Separate guest experience from durable outcome.
 
-Remove any language implying the institution creates human worth.
+5. Separate outcome association from causal proof.
 
-Audit food-recovery metaphors for transfer to people.
+6. Audit every use of dignity, transformation, inclusion and impact.
 
-Test the story without pity, rescue or salvage framing.
+7. Remove any language implying the institution creates human worth.
 
-Verify that lunch remains meaningful without support-service outcomes.
+8. Audit food-recovery metaphors for transfer to people.
 
-Verify that support remains optional and role-clear.
+9. Test the story without pity, rescue or salvage framing.
 
-Map the St Cuthbert's timeline before 2017.
+10. Verify that lunch remains meaningful without support-service outcomes.
 
-Verify changes introduced through the 2017 transformation.
+11. Verify that support remains optional and role-clear.
 
-Verify the 2021 Green Rooms addition.
+12. Map the St Cuthbert's timeline before 2017.
 
-Separate continuity from institutional sameness.
+13. Verify changes introduced through the 2017 transformation.
 
-Audit designer biographies for material explanatory value.
+14. Verify the 2021 Green Rooms addition.
 
-Audit guest-chef stories for episodic versus daily scope.
+15. Separate continuity from institutional sameness.
 
-Identify daily operating protagonists.
+16. Audit designer biographies for material explanatory value.
 
-Protect staff, volunteer, partner and guest authorship.
+17. Audit guest-chef stories for episodic versus daily scope.
 
-Test whether prestige can be removed without collapsing the model story.
+18. Identify daily operating protagonists.
 
-Document the venue-hire cross-support claim.
+19. Protect staff, volunteer, partner and guest authorship.
 
-Seek financial or governance evidence before claiming net subsidy.
+20. Test whether prestige can be removed without collapsing the model story.
 
-Test whether commercial events create narrative or capacity conflict.
+21. Document the venue-hire cross-support claim.
 
-Classify meal, guest, food and volunteer counts as activity.
+22. Seek financial or governance evidence before claiming net subsidy.
 
-Document periods, methods, denominators and uncertainty.
+23. Test whether commercial events create narrative or capacity conflict.
 
-Do not turn activity counts into wellbeing or dignity outcomes.
+24. Classify meal, guest, food and volunteer counts as activity.
 
-Audit every testimony for consent, authorship and context.
+25. Document periods, methods, denominators and uncertainty.
 
-Do not generalise selected testimony.
+26. Do not turn activity counts into wellbeing or dignity outcomes.
 
-Seek negative, neutral and ambivalent accounts.
+27. Audit every testimony for consent, authorship and context.
 
-Test whether guests can decline storytelling without affecting service.
+28. Do not generalise selected testimony.
 
-Build narrative proof without identifiable vulnerability.
+29. Seek negative, neutral and ambivalent accounts.
 
-Separate stakeholder roles from guest intents.
+30. Test whether guests can decline storytelling without affecting service.
 
-Test whether volunteers and donors are framed as supporters rather than saviours.
+31. Build narrative proof without identifiable vulnerability.
 
-Test whether guests are framed as participants without compulsory reciprocity.
+32. Separate stakeholder roles from guest intents.
 
-Compare with a community kitchen without prestige contributors.
+33. Test whether volunteers and donors are framed as supporters rather than saviours.
 
-Compare with independently evaluated social hospitality.
+34. Test whether guests are framed as participants without compulsory reciprocity.
 
-Compare with food recovery without hosted dining.
+35. Compare with a community kitchen without prestige contributors.
 
-Compare with free dining that uses referrals.
+36. Compare with independently evaluated social hospitality.
 
-Test transfer where partner and volunteer density is lower.
+37. Compare with food recovery without hosted dining.
 
-Do not promote a pattern from story coherence alone.
+38. Compare with free dining that uses referrals.
 
-Story Deduplication Decisions — Restaurant #18
+39. Test transfer where partner and volunteer density is lower.
 
-Hospitality Without Transaction Narrative refines Story Through Hospitality Model.
+40. Do not promote a pattern from story coherence alone.
 
-Mission Through Operating Model reinforces Story Through Hospitality Model and Hospitality System Proof.
 
-Value-Recovery Boundary is an ethical narrative rule, not a new pattern.
+---
 
-Dignity-Recognition Narrative is an evidence boundary.
+# Story Deduplication Decisions — Restaurant #18
 
-Meal-and-Care Dual Integrity refines the hospitality-model definition.
+1. Hospitality Without Transaction Narrative refines Story Through Hospitality Model.
+2. Mission Through Operating Model reinforces Story Through Hospitality Model and Hospitality System Proof.
+3. Value-Recovery Boundary is an ethical narrative rule, not a new pattern.
+4. Dignity-Recognition Narrative is an evidence boundary.
+5. Meal-and-Care Dual Integrity refines the hospitality-model definition.
+6. Local Continuity / Model Transformation refines Story Through Place, Heritage and Adaptation.
+7. Supporting Prestige refines Biography When It Explains the Experience.
+8. Activity / Experience / Outcome Ladder refines Promise Before Proof.
+9. Privacy-Compatible Story refines proof and authorship boundaries.
+10. Institutional Humility is a governance direction, not a maturity object.
 
-Local Continuity / Model Transformation refines Story Through Place, Heritage and Adaptation.
+---
 
-Supporting Prestige refines Biography When It Explains the Experience.
+# Restaurant #18 Story Decision Ledger
 
-Activity / Experience / Outcome Ladder refines Promise Before Proof.
+1. Add Refettorio Felix as the eighteenth independent story case.
 
-Privacy-Compatible Story refines proof and authorship boundaries.
+2. Classify it as Hospitality Without Transaction narrative evidence.
 
-Institutional Humility is a governance direction, not a maturity object.
+3. Treat the operating model as the primary mission carrier.
 
-Restaurant #18 Story Decision Ledger
+4. Preserve food recovery / human worth separation.
 
-Add Refettorio Felix as the eighteenth independent story case.
+5. Reject human-salvage metaphors.
 
-Classify it as Hospitality Without Transaction narrative evidence.
+6. Treat dignity as recognised rather than produced.
 
-Treat the operating model as the primary mission carrier.
+7. Preserve the meal as intrinsically meaningful.
 
-Preserve food recovery / human worth separation.
+8. Treat care as optional continuation rather than meal justification.
 
-Reject human-salvage metaphors.
+9. Record local continuity across transformation.
 
-Treat dignity as recognised rather than produced.
+10. Treat 2017 and 2021 changes as adaptation evidence.
 
-Preserve the meal as intrinsically meaningful.
+11. Use designer biography only where it explains experience.
 
-Treat care as optional continuation rather than meal justification.
+12. Use guest-chef biography only within episodic scope.
 
-Record local continuity across transformation.
+13. Do not treat prestige as daily capacity proof.
 
-Treat 2017 and 2021 changes as adaptation evidence.
+14. Treat venue hire as cross-support architecture.
 
-Use designer biography only where it explains experience.
+15. Do not infer net subsidy or absence of mission conflict.
 
-Use guest-chef biography only within episodic scope.
+16. Separate activity, experience and outcome.
 
-Do not treat prestige as daily capacity proof.
+17. Treat selected testimony as individual evidence only.
 
-Treat venue hire as cross-support architecture.
+18. Preserve guest privacy and authorship.
 
-Do not infer net subsidy or absence of mission conflict.
+19. Separate stakeholder ecosystem from guest-intent taxonomy.
 
-Separate activity, experience and outcome.
+20. Preserve free hospitality as full-value hospitality.
 
-Treat selected testimony as individual evidence only.
+21. Reinforce Story Through Hospitality Model without changing High confidence.
 
-Preserve guest privacy and authorship.
+22. Reinforce Narrative Coherence without changing High confidence.
 
-Separate stakeholder ecosystem from guest-intent taxonomy.
+23. Reinforce Adaptation as Narrative without changing confidence.
 
-Preserve free hospitality as full-value hospitality.
+24. Reinforce Story Through Place without changing confidence.
 
-Reinforce Story Through Hospitality Model without changing High confidence.
+25. Reinforce Show the System Behind the Plate without changing confidence.
 
-Reinforce Narrative Coherence without changing High confidence.
+26. Apply strong contradiction pressure to Promise Before Proof.
 
-Reinforce Adaptation as Narrative without changing confidence.
+27. Retain The Guest as Participant at Emerging.
 
-Reinforce Story Through Place without changing confidence.
+28. Make no promotion, demotion, merge or rename.
 
-Reinforce Show the System Behind the Plate without changing confidence.
+29. Make no confidence or maturity change.
 
-Apply strong contradiction pressure to Promise Before Proof.
+30. Mark all five Restaurant #18 comparisons complete and hand off to canonical governance.
 
-Retain The Guest as Participant at Emerging.
 
-Make no promotion, demotion, merge or rename.
+---
 
-Make no confidence or maturity change.
-
-Mark all five Restaurant #18 comparisons complete and hand off to canonical governance.
-
-Story Comparison Conclusion — Post Refettorio Felix, London
+# Story Comparison Conclusion — Post Refettorio Felix, London
 
 After:
 
@@ -11183,7 +11339,7 @@ independent restaurants,
 
 the strongest story finding remains:
 
-Story is an organising system, not a biography section.
+> **Story is an organising system, not a biography section.**
 
 Dans le Noir? showed:
 
@@ -11199,6 +11355,7 @@ a social mission may be carried by non-transactional hospitality while the peopl
 
 The strongest combined rule is:
 
+~~~text
 Operating Model
 +
 Role Legibility
@@ -11208,24 +11365,31 @@ Place and Time
 Bounded Evidence
 ↓
 Narrative Credibility
+~~~
 
 The strongest ethical correction is:
 
+~~~text
 Recovering Food Value
 ≠
 Recovering Human Worth
+~~~
 
 The strongest dignity correction is:
 
+~~~text
 Hospitality Can Support Dignity
 but
 Hospitality Does Not Produce Human Worth
+~~~
 
 The strongest outcome correction is:
 
+~~~text
 Published Activity
 ≠
 Verified Social Outcome
+~~~
 
 Restaurant #18 produces:
 
@@ -11241,11 +11405,13 @@ Post–Refettorio Felix canonical governance reconciliation.
 
 Evidence wins.
 
-Validation — Post Restaurant #18
+---
+
+# Validation — Post Restaurant #18
 
 Comparison File:
 
-khds/research/comparison/story.md
+`khds/research/comparison/story.md`
 
 Status:
 
@@ -11353,9 +11519,11 @@ Post–Refettorio Felix Canonical Governance Reconciliation
 
 Next File:
 
-khds/research/validation/candidate-patterns.md
+`khds/research/validation/candidate-patterns.md`
 
-Post–JBJ Soul Kitchen, Red Bank Story Reconciliation
+---
+
+# Post–JBJ Soul Kitchen, Red Bank Story Reconciliation
 
 Restaurant #19:
 
@@ -11383,37 +11551,37 @@ JBJ Soul Kitchen adds:
 
 a contribution system in which:
 
-some guests make the suggested donation
+- some guests make the suggested donation
 
-some guests pay forward additional support
+- some guests pay forward additional support
 
-some guests cannot donate
+- some guests cannot donate
 
-some people contribute through volunteer labour
+- some people contribute through volunteer labour
 
-some people later enter resource routes
+- some people later enter resource routes
 
 The narrative must make those relationships intelligible
 
 without:
 
-ranking guests
+- ranking guests
 
-turning contribution into deservingness
+- turning contribution into deservingness
 
-turning labour into proof of human worth
+- turning labour into proof of human worth
 
-giving donors ownership of recipients
+- giving donors ownership of recipients
 
-making the founder the daily protagonist
+- making the founder the daily protagonist
 
-treating activity totals as social outcomes
+- treating activity totals as social outcomes
 
-claiming equal experience from the same meal
+- claiming equal experience from the same meal
 
 The central comparative question is:
 
-How can a restaurant tell a coherent story of reciprocal hospitality when contribution varies, while preserving one guest category and preventing money, labour, celebrity or published scale from becoming substitutes for dignity and outcome evidence?
+> **How can a restaurant tell a coherent story of reciprocal hospitality when contribution varies, while preserving one guest category and preventing money, labour, celebrity or published scale from becoming substitutes for dignity and outcome evidence?**
 
 Restaurant #19 is now:
 
@@ -11425,96 +11593,103 @@ the five-dimensional Restaurant #19 comparison set.
 
 Formal governance still belongs to:
 
-khds/research/validation/candidate-patterns.md.
+`khds/research/validation/candidate-patterns.md`.
 
-Restaurant #19 Story Evidence Input
+---
+
+# Restaurant #19 Story Evidence Input
 
 The official evidence establishes:
 
-the organisation’s published origin story
+- the organisation’s published origin story
 
-the October 2011 Red Bank opening
+- the October 2011 Red Bank opening
 
-community-restaurant positioning
+- community-restaurant positioning
 
-restaurant-first language
+- restaurant-first language
 
-no fixed menu prices
+- no fixed menu prices
 
-a suggested donation
+- a suggested donation
 
-pay-it-forward encouragement
+- pay-it-forward encouragement
 
-an unable-to-donate participation route
+- an unable-to-donate participation route
 
-volunteer participation
+- volunteer participation
 
-exchange-for-meal volunteer language
+- exchange-for-meal volunteer language
 
-first-come seating
+- first-come seating
 
-need-based priority
+- need-based priority
 
-a three-course meal structure
+- a three-course meal structure
 
-same-meal and same-experience claims
+- same-meal and same-experience claims
 
-resource continuation
+- resource continuation
 
-founder and staff roles as published
+- founder and staff roles as published
 
-public activity counters
+- public activity counters
 
-network expansion
+- network expansion
 
-current Red Bank participation language
+- current Red Bank participation language
 
 The official evidence does not establish:
 
-founder motivation beyond the published account
+- founder motivation beyond the published account
 
-current operational consistency
+- current operational consistency
 
-freedom from contribution pressure
+- freedom from contribution pressure
 
-whether volunteering is understood as optional
+- whether volunteering is understood as optional
 
-equal service across contribution states
+- equal service across contribution states
 
-equal experience
+- equal experience
 
-dignity
+- dignity
 
-belonging
+- belonging
 
-volunteer empowerment
+- volunteer empowerment
 
-donor interpretation
+- donor interpretation
 
-absence of gratitude debt
+- absence of gratitude debt
 
-live capacity
+- live capacity
 
-audited cross-subsidy
+- audited cross-subsidy
 
-resource outcomes
+- resource outcomes
 
-food-security outcomes
+- food-security outcomes
 
-causal social impact
+- causal social impact
 
-representativeness of selected testimony
+- representativeness of selected testimony
 
 The governing story rule is:
 
+```text
 Narrative Coherence
 ≠
 Outcome Proof
+```
 
-Current Canonical Entry State — Before Restaurant #19 Story Decision
+---
+
+# Current Canonical Entry State — Before Restaurant #19 Story Decision
 
 The completed canonical governance state remains:
 
+```text
 Independent Restaurants: 18
 Track B Validation Cases: 1
 Candidate Patterns: 26
@@ -11526,6 +11701,7 @@ Implementation Patterns Pending Formal Validation: 1
 Opportunity Themes: 36
 Track B Implementation Learnings: 17
 Candidate Confidence: 9 High / 8 Medium-High / 9 Medium
+```
 
 The story comparison now represents:
 
@@ -11533,15 +11709,15 @@ The story comparison now represents:
 
 Restaurant #19 contributes:
 
-narrative evidence
+- narrative evidence
 
-organising logic
+- organising logic
 
-ethical boundaries
+- ethical boundaries
 
-architecture directions
+- architecture directions
 
-falsification targets
+- falsification targets
 
 It does not automatically contribute:
 
@@ -11549,17 +11725,21 @@ a promotion.
 
 The five Restaurant #19 comparison files are now:
 
+```text
 Arrival: Complete
 Atmosphere: Complete
 Photography: Complete
 Reservation: Complete
 Story: Complete
+```
 
 Canonical reconciliation is:
 
 next.
 
-Comparison 136 — The Story Is Contribution Variability With Stable Guesthood
+---
+
+# Comparison 136 — The Story Is Contribution Variability With Stable Guesthood
 
 A weaker reading of JBJ Soul Kitchen is:
 
@@ -11571,21 +11751,23 @@ other people receive.
 
 That framing creates:
 
-giver and recipient classes
+- giver and recipient classes
 
-moral hierarchy
+- moral hierarchy
 
-beneficiary identity
+- beneficiary identity
 
-donor protagonism
+- donor protagonism
 
-gratitude expectation
+- gratitude expectation
 
 The stronger organising logic is:
 
+```text
 Contribution Can Vary
 While
 Guesthood Remains Stable
+```
 
 The story is therefore not:
 
@@ -11601,17 +11783,19 @@ inside:
 
 one guest category.
 
-Comparison 137 — Reciprocity Must Not Become Deservingness
+---
+
+# Comparison 137 — Reciprocity Must Not Become Deservingness
 
 The public story invites:
 
-financial contribution
+- financial contribution
 
-additional pay-it-forward support
+- additional pay-it-forward support
 
-volunteer labour
+- volunteer labour
 
-future participation
+- future participation
 
 These can create:
 
@@ -11631,9 +11815,11 @@ justified.
 
 Therefore:
 
+```text
 Reciprocity
 ≠
 Deservingness
+```
 
 The guest must not need to prove:
 
@@ -11649,7 +11835,9 @@ to remain:
 
 a full guest.
 
-Comparison 138 — Invitation and Exchange Can Describe the Same Route Differently
+---
+
+# Comparison 138 — Invitation and Exchange Can Describe the Same Route Differently
 
 Current official language includes:
 
@@ -11667,13 +11855,13 @@ priority for available volunteer places.
 
 These statements may refer to:
 
-different moments
+- different moments
 
-different programme states
+- different programme states
 
-different participation routes
+- different participation routes
 
-different operating conditions
+- different operating conditions
 
 The relationship is not resolved by:
 
@@ -11681,9 +11869,11 @@ story coherence alone.
 
 The boundary is:
 
+```text
 Invitation to Volunteer
 ≠
 Requirement to Volunteer
+```
 
 This is direct pressure on:
 
@@ -11693,43 +11883,49 @@ It does not justify:
 
 a maturity change without direct verification.
 
-Comparison 139 — No Price Can Strengthen the Story and Weaken Commitment Clarity
+---
+
+# Comparison 139 — No Price Can Strengthen the Story and Weaken Commitment Clarity
 
 No fixed menu prices creates:
 
 a powerful narrative of:
 
-access
+- access
 
-flexibility
+- flexibility
 
-participation
+- participation
 
-shared responsibility
+- shared responsibility
 
 It can also leave the guest uncertain about:
 
-expected payment
+- expected payment
 
-suggested amount
+- suggested amount
 
-non-payment legitimacy
+- non-payment legitimacy
 
-pay-it-forward expectation
+- pay-it-forward expectation
 
-volunteer expectation
+- volunteer expectation
 
 Therefore:
 
+```text
 Narrative Elegance
 ≠
 Participation Clarity
+```
 
 and:
 
+```text
 No Fixed Price
 ≠
 No Economic Expectation
+```
 
 The story must explain:
 
@@ -11739,59 +11935,65 @@ without:
 
 using ambiguity as emotional pressure.
 
-Comparison 140 — Same Meal Is a Product Claim; Same Experience Is an Outcome Claim
+---
+
+# Comparison 140 — Same Meal Is a Product Claim; Same Experience Is an Outcome Claim
 
 Same-meal language may support:
 
-product parity
+- product parity
 
-one restaurant identity
+- one restaurant identity
 
-contribution-neutral menu structure
+- contribution-neutral menu structure
 
-resistance to visible tiering
+- resistance to visible tiering
 
 Same-experience language reaches further.
 
 It implies:
 
-equal service
+- equal service
 
-equal privacy
+- equal privacy
 
-equal social interpretation
+- equal social interpretation
 
-equal contribution pressure
+- equal contribution pressure
 
-equal dignity
+- equal dignity
 
-equal belonging
+- equal belonging
 
 Therefore:
 
+```text
 Same Meal
 ≠
 Same Experience
+```
 
 Product evidence cannot automatically climb to:
 
 experiential outcome.
 
-Comparison 141 — Restaurant-First Positioning Can Protect Dignity and Borrow Quality
+---
+
+# Comparison 141 — Restaurant-First Positioning Can Protect Dignity and Borrow Quality
 
 Restaurant-first language may help communicate:
 
-hosted dining
+- hosted dining
 
-culinary care
+- culinary care
 
-choice
+- choice
 
-table service
+- table service
 
-guesthood
+- guesthood
 
-distance from institutional distribution
+- distance from institutional distribution
 
 It may also borrow:
 
@@ -11803,9 +12005,11 @@ proving current performance.
 
 Therefore:
 
+```text
 Restaurant First
 ≠
 Restaurant Performance Proof
+```
 
 Restaurant form can support:
 
@@ -11815,21 +12019,23 @@ It cannot produce:
 
 human worth.
 
-Comparison 142 — The Founder Can Explain Origin Without Owning the Story
+---
+
+# Comparison 142 — The Founder Can Explain Origin Without Owning the Story
 
 Jon Bon Jovi and Dorothea Bongiovi are:
 
 material to:
 
-origin
+- origin
 
-visibility
+- visibility
 
-resources
+- resources
 
-public recognition
+- public recognition
 
-organisational history
+- organisational history
 
 They are not automatically:
 
@@ -11837,33 +12043,37 @@ the daily hospitality protagonists.
 
 The daily story is also carried by:
 
-guests
+- guests
 
-staff
+- staff
 
-volunteers
+- volunteers
 
-donors
+- donors
 
-partners
+- partners
 
-food
+- food
 
-place
+- place
 
-the operating system
+- the operating system
 
 Therefore:
 
+```text
 Founder Visibility
 ≠
 Operating Proof
+```
 
 The preferred architecture is:
 
 Founder as Supporting Character.
 
-Comparison 143 — The Operating Relationship Is the Strongest Distributed Protagonist
+---
+
+# Comparison 143 — The Operating Relationship Is the Strongest Distributed Protagonist
 
 No single human role can carry:
 
@@ -11895,7 +12105,9 @@ resources.
 
 The strongest protagonist is therefore:
 
+```text
 The Operating Relationship
+```
 
 This preserves:
 
@@ -11905,7 +12117,9 @@ without:
 
 creating one hero.
 
-Comparison 144 — Donor Support Does Not Create Recipient Ownership
+---
+
+# Comparison 144 — Donor Support Does Not Create Recipient Ownership
 
 Pay-it-forward storytelling can invite:
 
@@ -11925,9 +12139,11 @@ a guaranteed outcome.
 
 The boundary is:
 
+```text
 Donor Support
 ≠
 Recipient Ownership
+```
 
 The donor may support:
 
@@ -11935,33 +12151,35 @@ system capacity.
 
 The donor does not purchase:
 
-recipient identity
+- recipient identity
 
-recipient gratitude
+- recipient gratitude
 
-recipient testimony
+- recipient testimony
 
-causal certainty
+- causal certainty
 
-another person’s story
+- another person’s story
 
 This is:
 
 Cross-Support Without Gratitude Debt.
 
-Comparison 145 — Volunteer Labour Can Signal Agency and Conceal Unequal Burden
+---
+
+# Comparison 145 — Volunteer Labour Can Signal Agency and Conceal Unequal Burden
 
 Volunteer participation can be narrated as:
 
-contribution
+- contribution
 
-reciprocity
+- reciprocity
 
-capability
+- capability
 
-relationship
+- relationship
 
-route into community
+- route into community
 
 Time and labour are not:
 
@@ -11973,29 +12191,33 @@ equally available.
 
 Volunteer storytelling may conceal:
 
-health limitations
+- health limitations
 
-caregiving
+- caregiving
 
-transport cost
+- transport cost
 
-schedule conflict
+- schedule conflict
 
-power difference
+- power difference
 
-scarcity of volunteer places
+- scarcity of volunteer places
 
 Therefore:
 
+```text
 Volunteer Hour
 ≠
 Volunteer Empowerment
+```
 
 and:
 
+```text
 Earned Meal
 ≠
 Earned Human Worth
+```
 
 Volunteer agency requires:
 
@@ -12005,19 +12227,21 @@ not:
 
 romanticised narrative.
 
-Comparison 146 — Activity, Experience and Outcome Must Remain Separate
+---
+
+# Comparison 146 — Activity, Experience and Outcome Must Remain Separate
 
 JBJ Soul Kitchen can publish:
 
-meals served
+- meals served
 
-volunteer hours
+- volunteer hours
 
-volunteer shifts
+- volunteer shifts
 
-operating years
+- operating years
 
-locations
+- locations
 
 These establish:
 
@@ -12025,35 +12249,37 @@ activity.
 
 Experience claims concern:
 
-welcome
+- welcome
 
-pressure
+- pressure
 
-dignity
+- dignity
 
-belonging
+- belonging
 
-agency
+- agency
 
 Outcome claims concern:
 
-food-security change
+- food-security change
 
-wellbeing
+- wellbeing
 
-employment
+- employment
 
-stability
+- stability
 
-long-term community effect
+- long-term community effect
 
 Therefore:
 
+```text
 Activity
 ≠
 Experience
 ≠
 Outcome
+```
 
 Each level requires:
 
@@ -12067,39 +12293,43 @@ and:
 
 uncertainty statement.
 
-Comparison 147 — Community Can Be the Central Story and Remain Unverified
+---
+
+# Comparison 147 — Community Can Be the Central Story and Remain Unverified
 
 Community language can explain:
 
-the intended relationship
+- the intended relationship
 
-shared participation
+- shared participation
 
-local continuity
+- local continuity
 
-cross-support
+- cross-support
 
-volunteer involvement
+- volunteer involvement
 
 It cannot independently establish:
 
-belonging
+- belonging
 
-mutual recognition
+- mutual recognition
 
-low stigma
+- low stigma
 
-equal voice
+- equal voice
 
-durable relationships
+- durable relationships
 
-community-level outcome
+- community-level outcome
 
 Therefore:
 
+```text
 Community Restaurant
 ≠
 Verified Community
+```
 
 The narrative may state:
 
@@ -12109,7 +12339,9 @@ It must qualify:
 
 experience and outcome.
 
-Comparison 148 — Priority Can Enact the Mission and Expose the Guest
+---
+
+# Comparison 148 — Priority Can Enact the Mission and Expose the Guest
 
 Need-based priority is:
 
@@ -12125,19 +12357,21 @@ If the process is visible or poorly explained,
 
 it may also:
 
-classify the guest
+- classify the guest
 
-expose need
+- expose need
 
-create social difference
+- create social difference
 
-make vulnerability narratively legible
+- make vulnerability narratively legible
 
 The boundary is:
 
+```text
 Mission Through Priority
 ≠
 Permission to Publish Need
+```
 
 The mission story must be proven through:
 
@@ -12147,7 +12381,9 @@ not:
 
 the exposure of the person receiving priority.
 
-Comparison 149 — A Local Origin Can Support Expansion and Lose Specificity
+---
+
+# Comparison 149 — A Local Origin Can Support Expansion and Lose Specificity
 
 Red Bank is:
 
@@ -12155,93 +12391,103 @@ the October 2011 origin point.
 
 Network expansion can demonstrate:
 
-adaptation
+- adaptation
 
-continuity
+- continuity
 
-transfer
+- transfer
 
-organisational development
+- organisational development
 
 It can also blur:
 
-location-specific rules
+- location-specific rules
 
-local staff
+- local staff
 
-local partners
+- local partners
 
-current hours
+- current hours
 
-current outcomes
+- current outcomes
 
-local history
+- local history
 
 Therefore:
 
+```text
 Network Expansion
 ≠
 Model Improvement
+```
 
 and:
 
+```text
 Network Story
 ≠
 Current Red Bank Story
+```
 
 The correct architecture is:
 
 Place-Anchored Expansion.
 
-Comparison 150 — Guest Voice Can Correct the Institution and Be Curated by It
+---
+
+# Comparison 150 — Guest Voice Can Correct the Institution and Be Curated by It
 
 Testimony can provide:
 
-lived specificity
+- lived specificity
 
-participant authorship
+- participant authorship
 
-contradiction
+- contradiction
 
-emotional truth
+- emotional truth
 
-mechanism interpretation
+- mechanism interpretation
 
 Selected testimony can also be:
 
-unusually positive
+- unusually positive
 
-edited
+- edited
 
-decontextualised
+- decontextualised
 
-reused
+- reused
 
-presented as representative
+- presented as representative
 
-shaped by dependence
+- shaped by dependence
 
 Therefore:
 
+```text
 Guest Story
 ≠
 Representative Experience
+```
 
 Participant-Controlled Testimony requires:
 
-informed consent
+- informed consent
 
-authorship clarity
+- authorship clarity
 
-editorial transparency
+- editorial transparency
 
-reuse limits
+- reuse limits
 
-withdrawal
+- withdrawal
 
-representativeness qualification
+- representativeness qualification
 
-Comparison 151 — A Simple Organising Phrase Can Hide Complex Rules
+---
+
+# Comparison 151 — A Simple Organising Phrase Can Hide Complex Rules
 
 Pay it forward is:
 
@@ -12255,35 +12501,39 @@ portable.
 
 It does not explain:
 
-no reservation
+- no reservation
 
-first-come order
+- first-come order
 
-mission priority
+- mission priority
 
-suggested donation
+- suggested donation
 
-inability to donate
+- inability to donate
 
-volunteer availability
+- volunteer availability
 
-orientation
+- orientation
 
-resource continuation
+- resource continuation
 
-capacity failure
+- capacity failure
 
 Therefore:
 
+```text
 Simple Narrative
 ≠
 Complete Interface
+```
 
 Story Before Features must not become:
 
 story instead of rules.
 
-Comparison 152 — The Guest Can Be Central Without Being Exposed
+---
+
+# Comparison 152 — The Guest Can Be Central Without Being Exposed
 
 The guest is:
 
@@ -12293,39 +12543,43 @@ the hospitality relationship.
 
 The guest does not need to become:
 
-the face of need
+- the face of need
 
-the recipient archetype
+- the recipient archetype
 
-the transformation story
+- the transformation story
 
-the gratitude voice
+- the gratitude voice
 
-the fundraising subject
+- the fundraising subject
 
-the impact statistic
+- the impact statistic
 
 Privacy can preserve:
 
-agency
+- agency
 
-equal status
+- equal status
 
-narrative integrity
+- narrative integrity
 
-consent freedom
+- consent freedom
 
 Therefore:
 
+```text
 Guest Centrality
 ≠
 Guest Exposure
+```
 
 The operating system can carry:
 
 the proof burden.
 
-Comparison 153 — Resource Continuation Can Extend the Story and Reclassify the Diner
+---
+
+# Comparison 153 — Resource Continuation Can Extend the Story and Reclassify the Diner
 
 Resource connection may extend:
 
@@ -12347,21 +12601,23 @@ case.
 
 The story remains coherent when continuation is:
 
-optional
+- optional
 
-private
+- private
 
-separately consented
+- separately consented
 
-role-specific
+- role-specific
 
-non-stigmatising
+- non-stigmatising
 
 The boundary is:
 
+```text
 Resource Referral
 ≠
 Resolved Need
+```
 
 The meal must remain:
 
@@ -12371,23 +12627,25 @@ not:
 
 an intake pretext.
 
-Comparison 154 — Stable Guesthood Requires Operational Difference and Social Neutrality
+---
+
+# Comparison 154 — Stable Guesthood Requires Operational Difference and Social Neutrality
 
 The operating system may need to distinguish:
 
-suggested donation
+- suggested donation
 
-additional contribution
+- additional contribution
 
-no financial contribution
+- no financial contribution
 
-volunteer interest
+- volunteer interest
 
-volunteer exchange
+- volunteer exchange
 
-donor participation
+- donor participation
 
-resource continuation
+- resource continuation
 
 The story should not erase:
 
@@ -12407,11 +12665,13 @@ social rank.
 
 Therefore:
 
+```text
 Operational Difference
 +
 Social Neutrality
 ↓
 Stable Guesthood
+```
 
 This is:
 
@@ -12419,35 +12679,37 @@ the narrative expression of:
 
 Flexible Contribution / Stable Guesthood.
 
-Updated Story Thesis — Post Restaurant #19
+---
+
+# Updated Story Thesis — Post Restaurant #19
 
 The strongest story thesis remains:
 
-Story is an organising system, not a biography section.
+> **Story is an organising system, not a biography section.**
 
 Restaurant #19 shows that story can organise:
 
-contribution
+- contribution
 
-guesthood
+- guesthood
 
-reciprocity
+- reciprocity
 
-service
+- service
 
-food
+- food
 
-place
+- place
 
-volunteering
+- volunteering
 
-capacity
+- capacity
 
-priority
+- priority
 
-resources
+- resources
 
-evidence
+- evidence
 
 without:
 
@@ -12457,10 +12719,11 @@ the hero.
 
 The refined thesis is:
 
-A hospitality story is credible when its organising logic is enacted by the operating model, keeps roles legible without rank, preserves location and time, and never allows emotional coherence to outrun evidence.
+> **A hospitality story is credible when its organising logic is enacted by the operating model, keeps roles legible without rank, preserves location and time, and never allows emotional coherence to outrun evidence.**
 
 The Restaurant #19 narrative equation is:
 
+```text
 Flexible Contribution
 +
 Stable Guesthood
@@ -12474,70 +12737,73 @@ Place and Time
 Evidence Restraint
 ↓
 Reciprocity Without Rank
+```
 
-Post–JBJ Soul Kitchen Story Architecture Additions
+---
 
-Reciprocity Without Rank
+# Post–JBJ Soul Kitchen Story Architecture Additions
+
+## Reciprocity Without Rank
 
 Contribution varies while guest status does not.
 
-Flexible Contribution / Stable Guesthood
+## Flexible Contribution / Stable Guesthood
 
 Money, labour and non-contribution coexist within one hospitality standard.
 
-Distributed Protagonist
+## Distributed Protagonist
 
 The story belongs to the operating relationship rather than one hero.
 
-Founder as Supporting Character
+## Founder as Supporting Character
 
 Founder visibility explains origin and resources without dominating daily operation.
 
-Donor Without Ownership
+## Donor Without Ownership
 
 Contribution supports system capacity without creating personal claim over another guest.
 
-Guest Without Beneficiary Framing
+## Guest Without Beneficiary Framing
 
 The person is first a guest.
 
-Invitation / Obligation Separation
+## Invitation / Obligation Separation
 
 Volunteer opportunity remains distinct from meal eligibility.
 
-Product-Parity / Experience-Parity Separation
+## Product-Parity / Experience-Parity Separation
 
 Same meal and same experience remain different claims.
 
-Activity / Experience / Outcome Ladder
+## Activity / Experience / Outcome Ladder
 
 Every claim is matched to its evidence level.
 
-Contribution-State Narrative
+## Contribution-State Narrative
 
 Different contribution modes are explained without creating status hierarchy.
 
-Cross-Support Without Gratitude Debt
+## Cross-Support Without Gratitude Debt
 
 Pay it forward remains system solidarity rather than personal debt.
 
-Place-Anchored Expansion
+## Place-Anchored Expansion
 
 Network growth retains Red Bank specificity.
 
-Historical State Labelling
+## Historical State Labelling
 
 Past and current rules remain distinct.
 
-Evidence-Calibrated Emotional Language
+## Evidence-Calibrated Emotional Language
 
 Emotional force does not exceed the evidence level.
 
-Participant-Controlled Testimony
+## Participant-Controlled Testimony
 
 People control what, how and for how long their story is used.
 
-Operational Narrative Invariant
+## Operational Narrative Invariant
 
 The stable story is restaurant hospitality with flexible contribution and stable guesthood.
 
@@ -12549,83 +12815,87 @@ They are not:
 
 new formal patterns.
 
-Story Architecture — Post Restaurant #19 Consolidation
+---
+
+# Story Architecture — Post Restaurant #19 Consolidation
 
 The current story architecture includes:
 
-story through hospitality model
+- story through hospitality model
 
-story through place
+- story through place
 
-story through product
+- story through product
 
-story through service
+- story through service
 
-story through research
+- story through research
 
-story through ecology
+- story through ecology
 
-story through designed condition
+- story through designed condition
 
-story through reassigned expertise
+- story through reassigned expertise
 
-story through paid hospitality
+- story through paid hospitality
 
-story through non-transactional hospitality
+- story through non-transactional hospitality
 
-story through flexible-contribution hospitality
+- story through flexible-contribution hospitality
 
-narrative coherence through organising logic
+- narrative coherence through organising logic
 
-biography when it explains experience
+- biography when it explains experience
 
-adaptation as narrative
+- adaptation as narrative
 
-heritage as confidence
+- heritage as confidence
 
-distributed protagonist
+- distributed protagonist
 
-role legibility
+- role legibility
 
-relationship narrative depth
+- relationship narrative depth
 
-activity / experience / outcome ladder
+- activity / experience / outcome ladder
 
-consent-compatible testimony
+- consent-compatible testimony
 
-privacy-compatible story
+- privacy-compatible story
 
-institutional humility
+- institutional humility
 
-supporting prestige
+- supporting prestige
 
-local continuity / model transformation
+- local continuity / model transformation
 
-place-anchored expansion
+- place-anchored expansion
 
-historical state labelling
+- historical state labelling
 
-evidence-calibrated emotional language
+- evidence-calibrated emotional language
 
-reciprocity without rank
+- reciprocity without rank
 
-flexible contribution / stable guesthood
+- flexible contribution / stable guesthood
 
-donor without ownership
+- donor without ownership
 
-guest without beneficiary framing
+- guest without beneficiary framing
 
-invitation / obligation separation
+- invitation / obligation separation
 
-product-parity / experience-parity separation
+- product-parity / experience-parity separation
 
-operational narrative invariant
+- operational narrative invariant
 
 No architecture item is promoted merely because it appears in this consolidated set.
 
-Current Story Pattern Pressure — Post Restaurant #19
+---
 
-Story Through Hospitality Model
+# Current Story Pattern Pressure — Post Restaurant #19
+
+## Story Through Hospitality Model
 
 Current state:
 
@@ -12643,7 +12913,7 @@ Decision:
 
 no confidence or maturity change.
 
-Story Through Place
+## Story Through Place
 
 Current state:
 
@@ -12661,7 +12931,7 @@ Decision:
 
 no confidence or maturity change.
 
-Narrative Coherence Through Organising Logic
+## Narrative Coherence Through Organising Logic
 
 Current state:
 
@@ -12681,7 +12951,7 @@ Decision:
 
 no confidence or maturity change.
 
-Narrative Language Within Clear Interface
+## Narrative Language Within Clear Interface
 
 Current state:
 
@@ -12697,7 +12967,7 @@ Decision:
 
 no confidence or maturity change.
 
-Biography When It Explains the Experience
+## Biography When It Explains the Experience
 
 Current state:
 
@@ -12715,7 +12985,7 @@ Decision:
 
 no confidence or maturity change.
 
-Adaptation as Narrative
+## Adaptation as Narrative
 
 Current state:
 
@@ -12733,7 +13003,7 @@ Decision:
 
 no confidence or maturity change.
 
-Show the System Behind the Plate
+## Show the System Behind the Plate
 
 Current state:
 
@@ -12749,7 +13019,7 @@ Decision:
 
 no confidence or maturity change.
 
-Atmosphere Through Worldview
+## Atmosphere Through Worldview
 
 Current state:
 
@@ -12767,7 +13037,7 @@ Decision:
 
 no confidence or maturity change.
 
-Hospitality System Proof
+## Hospitality System Proof
 
 Current state:
 
@@ -12785,7 +13055,7 @@ Decision:
 
 no confidence or maturity change.
 
-Heritage Builds Confidence
+## Heritage Builds Confidence
 
 Current state:
 
@@ -12803,7 +13073,7 @@ Decision:
 
 no confidence or maturity change.
 
-Participation Rule Consistency
+## Participation Rule Consistency
 
 Current state:
 
@@ -12823,7 +13093,7 @@ no demotion;
 
 retain as a priority governance watch.
 
-Multi-Intent Hospitality
+## Multi-Intent Hospitality
 
 Current state:
 
@@ -12839,7 +13109,7 @@ Decision:
 
 no confidence or maturity change.
 
-Story Before Features
+## Story Before Features
 
 Current state:
 
@@ -12857,7 +13127,7 @@ Decision:
 
 no promotion.
 
-Promise Before Proof
+## Promise Before Proof
 
 Current state:
 
@@ -12873,7 +13143,7 @@ Decision:
 
 no promotion.
 
-Emotion Before Interface
+## Emotion Before Interface
 
 Current state:
 
@@ -12889,7 +13159,7 @@ Decision:
 
 no promotion.
 
-The Guest as Participant
+## The Guest as Participant
 
 Current state:
 
@@ -12905,7 +13175,7 @@ Decision:
 
 no promotion.
 
-Commitment Without Pressure
+## Commitment Without Pressure
 
 Current state:
 
@@ -12921,425 +13191,437 @@ Decision:
 
 no promotion.
 
-Post–JBJ Soul Kitchen Story Corrections
+---
 
-Correction 115
+# Post–JBJ Soul Kitchen Story Corrections
+
+## Correction 115
 
 The story is contribution variability with stable guesthood, not giver and recipient classes.
 
-Correction 116
+## Correction 116
 
 Reciprocity must not become deservingness.
 
-Correction 117
+## Correction 117
 
 Invitation to volunteer does not mean requirement to volunteer.
 
-Correction 118
+## Correction 118
 
 Narrative elegance does not establish participation clarity.
 
-Correction 119
+## Correction 119
 
 No fixed price does not remove economic expectation.
 
-Correction 120
+## Correction 120
 
 Same meal is a product claim; same experience is an outcome claim.
 
-Correction 121
+## Correction 121
 
 Restaurant-first positioning does not prove restaurant performance.
 
-Correction 122
+## Correction 122
 
 Founder visibility does not establish daily operating proof.
 
-Correction 123
+## Correction 123
 
 The operating relationship can be the distributed protagonist.
 
-Correction 124
+## Correction 124
 
 Donor support does not create recipient ownership.
 
-Correction 125
+## Correction 125
 
 Volunteer labour does not prove empowerment.
 
-Correction 126
+## Correction 126
 
 Earned meal language must not imply earned human worth.
 
-Correction 127
+## Correction 127
 
 Activity, experience and outcome require separate evidence.
 
-Correction 128
+## Correction 128
 
 Community narrative does not verify community outcome.
 
-Correction 129
+## Correction 129
 
 Mission priority does not permit public need exposure.
 
-Correction 130
+## Correction 130
 
 Network expansion does not prove model improvement.
 
-Correction 131
+## Correction 131
 
 Guest testimony does not automatically represent the guest population.
 
-Correction 132
+## Correction 132
 
 A simple organising phrase does not replace a complete interface.
 
-Correction 133
+## Correction 133
 
 Guest centrality does not require guest exposure.
 
-Correction 134
+## Correction 134
 
 Resource referral does not prove resolved need.
 
-Correction 135
+## Correction 135
 
 Operational difference and social neutrality can coexist.
 
-Correction 136
+## Correction 136
 
 Emotional narrative must not exceed the evidence level.
 
-Correction 137
+## Correction 137
 
 Historical states and current rules require explicit separation.
 
-Correction 138
+## Correction 138
 
 Flexible contribution requires one stable hospitality standard.
 
-Strongest Story Tensions After Restaurant #19
+---
 
-Tension 31 — Reciprocity vs Deservingness
+# Strongest Story Tensions After Restaurant #19
+
+# Tension 31 — Reciprocity vs Deservingness
 
 Contribution can expand participation while implying that hospitality must be earned.
 
-Tension 32 — Invitation vs Obligation
+# Tension 32 — Invitation vs Obligation
 
 Volunteer opportunity can be narratively welcoming and operationally misread as requirement.
 
-Tension 33 — Product Parity vs Experience Parity
+# Tension 33 — Product Parity vs Experience Parity
 
 The same meal may support equality without proving equal experience.
 
-Tension 34 — Restaurant Identity vs Performance Proof
+# Tension 34 — Restaurant Identity vs Performance Proof
 
 Restaurant-first language can support dignity while borrowing unverified quality.
 
-Tension 35 — Founder Authority vs Distributed Protagonism
+# Tension 35 — Founder Authority vs Distributed Protagonism
 
 Celebrity visibility can establish origin while overshadowing daily roles.
 
-Tension 36 — Donor Solidarity vs Recipient Ownership
+# Tension 36 — Donor Solidarity vs Recipient Ownership
 
 Cross-support can fund capacity while creating a personal claim over another person’s story.
 
-Tension 37 — Volunteer Agency vs Labour Burden
+# Tension 37 — Volunteer Agency vs Labour Burden
 
 Non-cash contribution can create participation while imposing unequal time and capacity costs.
 
-Tension 38 — Activity Scale vs Outcome Proof
+# Tension 38 — Activity Scale vs Outcome Proof
 
 Large numbers can demonstrate continuity while inflating social claims.
 
-Tension 39 — Community Meaning vs Community Evidence
+# Tension 39 — Community Meaning vs Community Evidence
 
 The central brand word may describe intention without proving lived relationship.
 
-Tension 40 — Local Origin vs Network Generalisation
+# Tension 40 — Local Origin vs Network Generalisation
 
 Expansion can extend the model while weakening Red Bank specificity.
 
-Tension 41 — Guest Voice vs Editorial Control
+# Tension 41 — Guest Voice vs Editorial Control
 
 Testimony can correct the institution while remaining selected and shaped by it.
 
-Tension 42 — Narrative Simplicity vs Rule Complexity
+# Tension 42 — Narrative Simplicity vs Rule Complexity
 
 Pay it forward is memorable but does not explain every participation condition.
 
-Tension 43 — Guest Centrality vs Guest Exposure
+# Tension 43 — Guest Centrality vs Guest Exposure
 
 The guest can be narratively central while remaining visually and biographically private.
 
-Tension 44 — Stable Guesthood vs Operational Differentiation
+# Tension 44 — Stable Guesthood vs Operational Differentiation
 
 The system needs role and contribution distinctions without turning them into social rank.
 
-Story Falsification Programme After Restaurant #19
+---
 
-Test whether first-time readers understand the community-restaurant category.
+# Story Falsification Programme After Restaurant #19
 
-Test whether readers understand that the restaurant is not simply pay-what-you-want.
+1. Test whether first-time readers understand the community-restaurant category.
 
-Test whether readers understand that people unable to donate may dine.
+2. Test whether readers understand that the restaurant is not simply pay-what-you-want.
 
-Test whether readers understand whether volunteering is invited or required.
+3. Test whether readers understand that people unable to donate may dine.
 
-Reconcile invitation and exchange language through direct operational verification.
+4. Test whether readers understand whether volunteering is invited or required.
 
-Test whether suggested donation is understood as optional.
+5. Reconcile invitation and exchange language through direct operational verification.
 
-Test whether pay it forward is understood as additional support.
+6. Test whether suggested donation is understood as optional.
 
-Test whether contribution language implies deservingness.
+7. Test whether pay it forward is understood as additional support.
 
-Test the phrase earned meal with affected participants.
+8. Test whether contribution language implies deservingness.
 
-Verify same-meal claims through service records and observation.
+9. Test the phrase earned meal with affected participants.
 
-Test same-experience claims through comparative longitudinal guest research.
+10. Verify same-meal claims through service records and observation.
 
-Separate product parity from experience parity in every public claim.
+11. Test same-experience claims through comparative longitudinal guest research.
 
-Test whether restaurant-first positioning matches guest interpretation.
+12. Separate product parity from experience parity in every public claim.
 
-Test current food and service quality independently from category language.
+13. Test whether restaurant-first positioning matches guest interpretation.
 
-Measure founder share of the narrative system.
+14. Test current food and service quality independently from category language.
 
-Test whether founder biography improves model understanding.
+15. Measure founder share of the narrative system.
 
-Test whether founder visibility displaces local staff, volunteers, guests or place.
+16. Test whether founder biography improves model understanding.
 
-Verify that accountable daily roles are sufficiently visible.
+17. Test whether founder visibility displaces local staff, volunteers, guests or place.
 
-Test whether the operating relationship is understood as the protagonist.
+18. Verify that accountable daily roles are sufficiently visible.
 
-Test donor messages for recipient-ownership assumptions.
+19. Test whether the operating relationship is understood as the protagonist.
 
-Test whether guests experience gratitude debt.
+20. Test donor messages for recipient-ownership assumptions.
 
-Verify that pay-it-forward claims have financial and operational evidence.
+21. Test whether guests experience gratitude debt.
 
-Audit volunteer language for romanticised labour.
+22. Verify that pay-it-forward claims have financial and operational evidence.
 
-Measure volunteer burden, availability, retention and abandonment.
+23. Audit volunteer language for romanticised labour.
 
-Seek exchange-for-meal volunteer accounts with protected privacy.
+24. Measure volunteer burden, availability, retention and abandonment.
 
-Audit every activity counter for date, scope, unit and method.
+25. Seek exchange-for-meal volunteer accounts with protected privacy.
 
-Separate activity, experience and outcome claims.
+26. Audit every activity counter for date, scope, unit and method.
 
-Verify whether outcome claims have defined methods and counterfactual logic.
+27. Separate activity, experience and outcome claims.
 
-Do not infer food-security outcomes from meal totals.
+28. Verify whether outcome claims have defined methods and counterfactual logic.
 
-Test whether community language matches lived relationship evidence.
+29. Do not infer food-security outcomes from meal totals.
 
-Seek negative, neutral and ambivalent guest accounts.
+30. Test whether community language matches lived relationship evidence.
 
-Verify that priority is explained without exposing need.
+31. Seek negative, neutral and ambivalent guest accounts.
 
-Test whether resource continuation remains optional and private.
+32. Verify that priority is explained without exposing need.
 
-Test whether the meal remains complete without resource participation.
+33. Test whether resource continuation remains optional and private.
 
-Audit Red Bank history separately from network history.
+34. Test whether the meal remains complete without resource participation.
 
-Date every historical programme state and rule.
+35. Audit Red Bank history separately from network history.
 
-Compare location-specific participation rules.
+36. Date every historical programme state and rule.
 
-Test whether network expansion improved, preserved or diluted the model.
+37. Compare location-specific participation rules.
 
-Audit guest testimony for consent, authorship and reuse scope.
+38. Test whether network expansion improved, preserved or diluted the model.
 
-Verify practical withdrawal from testimony use.
+39. Audit guest testimony for consent, authorship and reuse scope.
 
-Do not present selected testimony as representative without support.
+40. Verify practical withdrawal from testimony use.
 
-Test whether guests can decline storytelling without affecting hospitality.
+41. Do not present selected testimony as representative without support.
 
-Build narrative proof without identifiable vulnerability.
+42. Test whether guests can decline storytelling without affecting hospitality.
 
-Test whether the narrative interface delivers access information before optional founder depth.
+43. Build narrative proof without identifiable vulnerability.
 
-Test whether pay it forward improves comprehension or hides rules.
+44. Test whether the narrative interface delivers access information before optional founder depth.
 
-Test whether role labels clarify the system without creating rank.
+45. Test whether pay it forward improves comprehension or hides rules.
 
-Audit guest, donor, volunteer and resource data for purpose boundaries.
+46. Test whether role labels clarify the system without creating rank.
 
-Test whether the story preserves the right to dine without public contribution.
+47. Audit guest, donor, volunteer and resource data for purpose boundaries.
 
-Test whether flexible contribution preserves one hospitality standard.
+48. Test whether the story preserves the right to dine without public contribution.
 
-Test the story during full capacity.
+49. Test whether flexible contribution preserves one hospitality standard.
 
-Test the story when no volunteer place is available.
+50. Test the story during full capacity.
 
-Test the story when the menu changes.
+51. Test the story when no volunteer place is available.
 
-Test the story when resource support is unavailable.
+52. Test the story when the menu changes.
 
-Test the story without celebrity recognition.
+53. Test the story when resource support is unavailable.
 
-Compare JBJ Soul Kitchen directly with Refettorio Felix.
+54. Test the story without celebrity recognition.
 
-Compare with another pay-what-you-can restaurant.
+55. Compare JBJ Soul Kitchen directly with Refettorio Felix.
 
-Compare with community dining without a celebrity founder.
+56. Compare with another pay-what-you-can restaurant.
 
-Compare with hospitality using no identifiable guest stories.
+57. Compare with community dining without a celebrity founder.
 
-Compare with independently evaluated social hospitality.
+58. Compare with hospitality using no identifiable guest stories.
 
-Do not promote a pattern from narrative coherence alone.
+59. Compare with independently evaluated social hospitality.
 
-Story Deduplication Decisions — Restaurant #19
+60. Do not promote a pattern from narrative coherence alone.
 
-Reciprocity Without Rank refines Narrative Coherence Through Organising Logic.
+---
 
-Flexible Contribution / Stable Guesthood remains cross-dimensional architecture.
+# Story Deduplication Decisions — Restaurant #19
 
-Distributed Protagonist extends operating-system protagonism from DAWN and Refettorio.
+1. Reciprocity Without Rank refines Narrative Coherence Through Organising Logic.
 
-Founder as Supporting Character refines Biography When It Explains the Experience.
+2. Flexible Contribution / Stable Guesthood remains cross-dimensional architecture.
 
-Donor Without Ownership is a relationship boundary, not a new pattern.
+3. Distributed Protagonist extends operating-system protagonism from DAWN and Refettorio.
 
-Guest Without Beneficiary Framing extends dignity-preserving narrative architecture.
+4. Founder as Supporting Character refines Biography When It Explains the Experience.
 
-Invitation / Obligation Separation refines Participation Rule Consistency.
+5. Donor Without Ownership is a relationship boundary, not a new pattern.
 
-Product-Parity / Experience-Parity Separation refines the evidence ladder.
+6. Guest Without Beneficiary Framing extends dignity-preserving narrative architecture.
 
-Activity / Experience / Outcome Ladder remains a claim-classification rule.
+7. Invitation / Obligation Separation refines Participation Rule Consistency.
 
-Contribution-State Narrative refines flexible-participation architecture.
+8. Product-Parity / Experience-Parity Separation refines the evidence ladder.
 
-Cross-Support Without Gratitude Debt extends reciprocity architecture.
+9. Activity / Experience / Outcome Ladder remains a claim-classification rule.
 
-Place-Anchored Expansion refines Story Through Place and Adaptation as Narrative.
+10. Contribution-State Narrative refines flexible-participation architecture.
 
-Historical State Labelling extends temporal story governance.
+11. Cross-Support Without Gratitude Debt extends reciprocity architecture.
 
-Evidence-Calibrated Emotional Language refines Narrative Language Within Clear Interface.
+12. Place-Anchored Expansion refines Story Through Place and Adaptation as Narrative.
 
-Participant-Controlled Testimony extends consent-compatible testimony.
+13. Historical State Labelling extends temporal story governance.
 
-Operational Narrative Invariant refines Story Through Hospitality Model.
+14. Evidence-Calibrated Emotional Language refines Narrative Language Within Clear Interface.
 
-No architecture direction becomes a formal pattern in this file.
+15. Participant-Controlled Testimony extends consent-compatible testimony.
 
-Restaurant #19 Story Decision Ledger
+16. Operational Narrative Invariant refines Story Through Hospitality Model.
 
-Add JBJ Soul Kitchen, Red Bank as the nineteenth independent story comparison case.
+17. No architecture direction becomes a formal pattern in this file.
 
-Classify Reciprocity Without Rank as the provisional organising logic.
+---
 
-Treat the story as Story Through Hospitality Model evidence.
+# Restaurant #19 Story Decision Ledger
 
-Treat contribution variability and stable guesthood as the core narrative relationship.
+1. Add JBJ Soul Kitchen, Red Bank as the nineteenth independent story comparison case.
 
-Reject giver and recipient as fixed guest classes.
+2. Classify Reciprocity Without Rank as the provisional organising logic.
 
-Preserve reciprocity / deservingness separation.
+3. Treat the story as Story Through Hospitality Model evidence.
 
-Preserve invitation / obligation separation.
+4. Treat contribution variability and stable guesthood as the core narrative relationship.
 
-Record invitation-versus-exchange language as unresolved.
+5. Reject giver and recipient as fixed guest classes.
 
-Treat no-price language as a story and commitment condition.
+6. Preserve reciprocity / deservingness separation.
 
-Treat same meal as a product-parity claim.
+7. Preserve invitation / obligation separation.
 
-Treat same experience as an outcome claim.
+8. Record invitation-versus-exchange language as unresolved.
 
-Treat restaurant-first language as dignity-supporting category architecture.
+9. Treat no-price language as a story and commitment condition.
 
-Do not treat restaurant form as performance proof.
+10. Treat same meal as a product-parity claim.
 
-Keep founder biography only where it explains origin, responsibility, resources or development.
+11. Treat same experience as an outcome claim.
 
-Do not treat celebrity recognition as operating proof.
+12. Treat restaurant-first language as dignity-supporting category architecture.
 
-Treat the operating relationship as the distributed protagonist.
+13. Do not treat restaurant form as performance proof.
 
-Keep the guest central without requiring exposure.
+14. Keep founder biography only where it explains origin, responsibility, resources or development.
 
-Treat donor support as system-capacity support without recipient ownership.
+15. Do not treat celebrity recognition as operating proof.
 
-Do not romanticise volunteer labour.
+16. Treat the operating relationship as the distributed protagonist.
 
-Separate activity, experience and outcome evidence.
+17. Keep the guest central without requiring exposure.
 
-Treat community as intended relationship rather than verified outcome.
+18. Treat donor support as system-capacity support without recipient ownership.
 
-Treat priority as mission enactment and privacy risk.
+19. Do not romanticise volunteer labour.
 
-Preserve Red Bank specificity inside network expansion.
+20. Separate activity, experience and outcome evidence.
 
-Treat expansion as adaptation evidence, not improvement proof.
+21. Treat community as intended relationship rather than verified outcome.
 
-Treat testimony as individual evidence unless representativeness is established.
+22. Treat priority as mission enactment and privacy risk.
 
-Preserve participant control over testimony.
+23. Preserve Red Bank specificity inside network expansion.
 
-Keep resource continuation optional and role-specific.
+24. Treat expansion as adaptation evidence, not improvement proof.
 
-Treat operational difference and social neutrality as compatible.
+25. Treat testimony as individual evidence unless representativeness is established.
 
-Reinforce Story Through Hospitality Model without changing High confidence.
+26. Preserve participant control over testimony.
 
-Reinforce Story Through Place without changing High confidence.
+27. Keep resource continuation optional and role-specific.
 
-Reinforce Narrative Coherence Through Organising Logic without changing High confidence.
+28. Treat operational difference and social neutrality as compatible.
 
-Reinforce Narrative Language Within Clear Interface without changing High confidence.
+29. Reinforce Story Through Hospitality Model without changing High confidence.
 
-Reinforce Biography When It Explains the Experience without changing High confidence.
+30. Reinforce Story Through Place without changing High confidence.
 
-Reinforce Adaptation as Narrative without changing Medium-High confidence.
+31. Reinforce Narrative Coherence Through Organising Logic without changing High confidence.
 
-Reinforce Show the System Behind the Plate without changing High confidence.
+32. Reinforce Narrative Language Within Clear Interface without changing High confidence.
 
-Reinforce Atmosphere Through Worldview without changing High confidence.
+33. Reinforce Biography When It Explains the Experience without changing High confidence.
 
-Reinforce Hospitality System Proof without changing High confidence.
+34. Reinforce Adaptation as Narrative without changing Medium-High confidence.
 
-Reinforce Heritage Builds Confidence without changing Medium-High confidence.
+35. Reinforce Show the System Behind the Plate without changing High confidence.
 
-Apply contradiction pressure to Participation Rule Consistency without changing Medium confidence.
+36. Reinforce Atmosphere Through Worldview without changing High confidence.
 
-Apply definition stress to Multi-Intent Hospitality without changing Medium confidence.
+37. Reinforce Hospitality System Proof without changing High confidence.
 
-Retain Story Before Features at Emerging.
+38. Reinforce Heritage Builds Confidence without changing Medium-High confidence.
 
-Retain Promise Before Proof at Emerging.
+39. Apply contradiction pressure to Participation Rule Consistency without changing Medium confidence.
 
-Retain Emotion Before Interface at Emerging.
+40. Apply definition stress to Multi-Intent Hospitality without changing Medium confidence.
 
-Retain The Guest as Participant at Emerging.
+41. Retain Story Before Features at Emerging.
 
-Retain Commitment Without Pressure at Emerging.
+42. Retain Promise Before Proof at Emerging.
 
-Make no promotion, demotion, merge or rename.
+43. Retain Emotion Before Interface at Emerging.
 
-Make no confidence or maturity change.
+44. Retain The Guest as Participant at Emerging.
 
-Preserve all canonical counts pending governance reconciliation.
+45. Retain Commitment Without Pressure at Emerging.
 
-Count Restaurant #19 once, not once per dimension.
+46. Make no promotion, demotion, merge or rename.
 
-Mark all five Restaurant #19 comparison files complete.
+47. Make no confidence or maturity change.
 
-Hand off to canonical Candidate reconciliation.
+48. Preserve all canonical counts pending governance reconciliation.
 
-Story Comparison Conclusion — Post JBJ Soul Kitchen, Red Bank
+49. Count Restaurant #19 once, not once per dimension.
+
+50. Mark all five Restaurant #19 comparison files complete.
+
+51. Hand off to canonical Candidate reconciliation.
+
+---
+
+# Story Comparison Conclusion — Post JBJ Soul Kitchen, Red Bank
 
 After:
 
@@ -13349,7 +13631,7 @@ independent story comparison cases,
 
 the strongest finding remains:
 
-Story is an organising system, not a biography section.
+> **Story is an organising system, not a biography section.**
 
 Dans le Noir? showed:
 
@@ -13369,6 +13651,7 @@ a reciprocal model may permit varied contribution while preserving stable guesth
 
 The strongest combined rule is:
 
+```text
 Operating Model
 +
 Role Legibility Without Rank
@@ -13380,42 +13663,55 @@ Distributed Protagonism
 Bounded Evidence
 ↓
 Narrative Credibility
+```
 
 The strongest organising logic is:
 
+```text
 Reciprocity Without Rank
+```
 
 The strongest contribution boundary is:
 
+```text
 Reciprocity
 ≠
 Deservingness
+```
 
 The strongest rule boundary is:
 
+```text
 Invitation to Volunteer
 ≠
 Requirement to Volunteer
+```
 
 The strongest equality boundary is:
 
+```text
 Same Meal
 ≠
 Same Experience
+```
 
 The strongest ownership boundary is:
 
+```text
 Donor Support
 ≠
 Recipient Ownership
+```
 
 The strongest evidence boundary is:
 
+```text
 Activity
 ≠
 Experience
 ≠
 Outcome
+```
 
 Restaurant #19 produces:
 
@@ -13431,11 +13727,13 @@ Post–JBJ Soul Kitchen canonical Candidate reconciliation.
 
 Evidence wins.
 
-Validation — Post Restaurant #19 Story Comparison
+---
+
+# Validation — Post Restaurant #19 Story Comparison
 
 Comparison File:
 
-khds/research/comparison/story.md
+`khds/research/comparison/story.md`
 
 Status:
 
@@ -13559,4 +13857,966 @@ Post–JBJ Soul Kitchen Canonical Candidate Reconciliation
 
 Next File:
 
-khds/research/validation/candidate-patterns.md
+`khds/research/validation/candidate-patterns.md`
+
+---
+
+# Post–SAME Café Denver Story Reconciliation
+
+Restaurant #20 adds:
+
+SAME Café Denver
+
+to the independent story comparison.
+
+This reconciliation preserves:
+
+- all nineteen earlier cases
+- the complete Post–JBJ narrative record
+- current pattern maturity
+- current Candidate confidence
+- and the separation between story coherence and verified outcome.
+
+It adds:
+
+- a name functioning as a universal promise
+- time, money and produce as organising logic
+- food as shared protagonist
+- distributed human protagonism
+- founder history with bounded authority
+- East Colfax place continuity
+- replication and closure as adaptation evidence
+- anti-bias language as a proof obligation
+- no-available-route recovery as a narrative test
+- and a five-level evidence ladder from origin to causality.
+
+Canonical governance decision:
+
+```text
+No Change
+```
+
+---
+
+# Current Canonical Entry State
+
+```text
+Independent restaurants completed: 19
+Restaurant #20: Four Comparison Dimensions Complete
+Track B validation cases: 1
+Candidate patterns: 26
+Candidate / High: 9
+Candidate / Medium-High: 8
+Candidate / Medium: 9
+Emerging patterns: 8
+Partially Supported patterns: 1
+Validated patterns: 0
+Research-Derived KHDS Principles: 0
+Implementation patterns pending validation: 1
+Opportunity Themes: 36
+Track B Implementation Learnings: 17
+```
+
+---
+
+# The Name as Promise
+
+SAME means:
+
+So All May Eat.
+
+The name performs four narrative functions.
+
+## 1. Human Need
+
+Eating is framed as:
+
+a shared human requirement.
+
+## 2. Access Ambition
+
+“All” creates:
+
+a universal public horizon.
+
+## 3. Operating Test
+
+The promise becomes measurable when:
+
+a person cannot use:
+
+time,
+
+money
+
+or:
+
+produce.
+
+## 4. Evidence Burden
+
+The stronger the universal claim,
+
+the stronger the obligation to disclose:
+
+- finite capacity
+- route limits
+- exceptions
+- recovery
+- and unresolved outcomes.
+
+The correction is:
+
+```text
+Universal Name
+≠
+Unlimited Live Capacity
+```
+
+---
+
+# Community-Hospitality Story Comparison
+
+| Case | Primary Narrative | Operating Mechanism | Central Story Boundary |
+| --- | --- | --- | --- |
+| Refettorio Felix London | Dignity through food, art and hosted community | Partner-supported non-commercial meal | Designed dignity ≠ experienced dignity |
+| JBJ Soul Kitchen, Red Bank | Community dining without a fixed menu price | Suggested contribution and volunteering invitation | Invitation to volunteer ≠ requirement to volunteer |
+| SAME Café Denver | So All May Eat | Explicit time, money or produce contribution | Participation for every person ≠ equal capacity to participate |
+
+Refettorio Felix asks:
+
+can non-transactional hospitality preserve agency?
+
+JBJ Soul Kitchen asks:
+
+can flexible reciprocity remain free from debt?
+
+SAME Café asks:
+
+can explicit reciprocity remain free from rank?
+
+The shared narrative rule is:
+
+```text
+Hospitality Story
+must be carried by
+the operating model
+without exceeding
+the operating evidence.
+```
+
+---
+
+# Eighteen-Level Public Story Architecture
+
+1. Universal human need.
+
+2. Access claim.
+
+3. Name as promise.
+
+4. Founder encounter with existing systems.
+
+5. The 2006 East Colfax opening.
+
+6. Café form.
+
+7. Food with care.
+
+8. Time, money or produce participation.
+
+9. Belonging.
+
+10. Leadership through service.
+
+11. Physical development.
+
+12. Programme development.
+
+13. Anti-bias commitment.
+
+14. Local partnerships.
+
+15. Replication.
+
+16. Retrenchment.
+
+17. Current Denver operation.
+
+18. Evidence question.
+
+The eighteenth level prevents:
+
+story closure
+
+from becoming:
+
+evidence closure.
+
+---
+
+# Organising Logic
+
+The public model can be expressed as:
+
+```text
+Shared Need
+→
+Healthy Food
+→
+Time / Money / Produce
+→
+Participation
+→
+Community
+→
+Belonging
+```
+
+The sequence is coherent.
+
+Its critical weakness is the transition from:
+
+participation
+
+to:
+
+belonging.
+
+Public evidence does not establish that:
+
+- contribution routes are equally available
+- burdens are equal
+- participation is pressure-free
+- refusal is neutral
+- failure is recoverable
+- or belonging is experienced.
+
+The correction is:
+
+```text
+Mission Coherence
+≠
+Mission Completion
+```
+
+---
+
+# Distributed Protagonist Architecture
+
+The story contains:
+
+- the guest
+- food
+- East Colfax
+- Brad and Libby Birky
+- staff
+- volunteers
+- Cook to Work students
+- donors
+- produce contributors
+- growers
+- community partners
+- and the operating system.
+
+No single actor should own:
+
+the story.
+
+## The Guest
+
+The guest is:
+
+a person receiving hospitality.
+
+Not automatically:
+
+- a beneficiary
+- a person in need
+- a volunteer
+- or an outcome story.
+
+## Food
+
+Food can remain:
+
+the shared protagonist
+
+across contribution differences.
+
+## Founders
+
+Founders explain:
+
+origin and early choices.
+
+They do not automatically prove:
+
+current operation.
+
+## Donors
+
+Donors support:
+
+capacity.
+
+They do not own:
+
+participant stories.
+
+## The Operating System
+
+The system carries:
+
+the strongest institutional proof burden.
+
+---
+
+# Story Through Hospitality Model
+
+SAME Café's story is materially enacted through:
+
+- walk-in weekday dining
+- time, money or produce contribution
+- the half-hour work exchange
+- Menu of the Day
+- volunteer work
+- Cook to Work
+- events
+- catering
+- and contribution recovery.
+
+The model strongly supports:
+
+Story Through Hospitality Model.
+
+But the model is not complete unless it explains:
+
+what happens when:
+
+- no money is available
+- no produce is available
+- time is unavailable
+- work is unsuitable
+- tasks are full
+- produce is rejected
+- or capacity fails.
+
+The no-available-route story is:
+
+not peripheral.
+
+It is:
+
+the strongest test of the name.
+
+---
+
+# Story Through Place
+
+East Colfax contributes:
+
+- geographical specificity
+- local continuity
+- institutional memory
+- partnership context
+- and present accountability.
+
+Place should not become:
+
+a decorative authenticity claim.
+
+The story must distinguish:
+
+- historical presence
+- current neighbourhood relationship
+- current participation
+- and measured local outcome.
+
+The correction is:
+
+```text
+Long Presence
+≠
+Current Local Reciprocity
+```
+
+---
+
+# Adaptation as Narrative
+
+The public timeline includes:
+
+- concept formation
+- Denver opening on 20 October 2006
+- physical expansion in 2012
+- leadership and programme growth from 2017
+- replication approval in 2019
+- Toledo opening on 4 November 2022
+- Toledo closure on 23 April 2025
+- and current Denver concentration.
+
+Closure should not be removed from:
+
+the success story.
+
+It can provide:
+
+- constraint evidence
+- learning evidence
+- governance evidence
+- and limits to replicability claims.
+
+The correction is:
+
+```text
+Replication Attempt
+≠
+Sustainable Replicability
+```
+
+---
+
+# Activity, Experience, Outcome and Causality
+
+## Activity
+
+The organisation may document:
+
+- meals
+- volunteer hours
+- training modules
+- events
+- partnerships
+- and programme participation.
+
+## Experience
+
+Requires evidence of:
+
+- dignity
+- pressure
+- belonging
+- agency
+- comfort
+- and control.
+
+## Outcome
+
+Requires defined measures such as:
+
+- skill attainment
+- employment
+- improved food access
+- or durable relationship.
+
+## Causality
+
+Requires a defensible method linking:
+
+the organisation
+
+to:
+
+the measured change.
+
+The governing boundary is:
+
+```text
+Origin Story
+≠
+Current Operating Proof
+≠
+Participant Experience
+≠
+Measured Outcome
+≠
+Causality
+```
+
+---
+
+# Emotional Language and Claim Discipline
+
+Intention-level language may describe:
+
+- mission
+- hope
+- commitment
+- and purpose.
+
+Mechanism-level language may describe:
+
+- contribution routes
+- food service
+- training
+- and partnerships.
+
+Activity-level language may describe:
+
+documented work.
+
+Experience-level language requires:
+
+participant evidence.
+
+Outcome-level language requires:
+
+defined measurement.
+
+The story should not move between levels through:
+
+emotion alone.
+
+---
+
+# Post–SAME Café Story Architecture Additions
+
+1. Participation Without Rank.
+
+2. Belonging Before Contribution.
+
+3. Distributed Protagonist.
+
+4. Founder as Supporting Character.
+
+5. Guest Without Beneficiary Framing.
+
+6. Donor Without Ownership.
+
+7. Contribution-State Narrative.
+
+8. Universal Promise / Finite Capacity Qualification.
+
+9. Activity / Experience / Outcome / Causality Ladder.
+
+10. Evidence-Calibrated Emotional Language.
+
+11. Participant-Controlled Testimony.
+
+12. Place-Anchored Continuity.
+
+13. Replication With Closure.
+
+14. Operational Narrative Invariant.
+
+15. No-Available-Route Story.
+
+16. Anti-Bias Claim Discipline.
+
+17. Food as Shared Protagonist.
+
+18. Refusal Without Narrative Penalty.
+
+19. Transparent Institutional Learning.
+
+20. Outcome Without Transformation Theatre.
+
+All remain:
+
+research architecture.
+
+---
+
+# Post–SAME Café Story Corrections
+
+1. `Universal Name ≠ Unlimited Capacity`.
+
+2. `Mission Coherence ≠ Mission Completion`.
+
+3. `Participation Supports Belonging ≠ Participation Earns Belonging`.
+
+4. `Contribution Route ≠ Guest Identity`.
+
+5. `Founder Story ≠ Current Operating Proof`.
+
+6. `Long Presence ≠ Current Local Reciprocity`.
+
+7. `Donor Support ≠ Ownership of Guest Story`.
+
+8. `Volunteer Activity ≠ Participant Agency`.
+
+9. `Meal Count ≠ Unique People Served`.
+
+10. `Training Activity ≠ Employment Outcome`.
+
+11. `Employment Outcome ≠ Housing Causality`.
+
+12. `Replication Attempt ≠ Sustainable Replicability`.
+
+13. `Shared Story ≠ Shared Experience`.
+
+14. `Guest Voice ≠ Institutional Permission to Curate Identity`.
+
+15. `Anti-Bias Commitment ≠ Bias-Free Operation`.
+
+16. `Emotional Force ≠ Evidence Strength`.
+
+17. `Contribution Failure ≠ Narrative Failure`.
+
+18. `Refusal to Participate ≠ Refusal of Belonging`.
+
+19. `Activity ≠ Experience ≠ Outcome ≠ Causality`.
+
+20. `One Restaurant Case ≠ Universal Pattern`.
+
+---
+
+# Post–SAME Café Candidate Pressure
+
+| Candidate | Current Confidence | Restaurant #20 Story Decision |
+| --- | --- | --- |
+| Story Through Hospitality Model | High | Strong support; retain High because equality in performance is unverified |
+| Story Through Place | High | Strong East Colfax continuity; retain High because current local reciprocity is unverified |
+| Narrative Coherence Through Organising Logic | High | Time/money/produce is coherent; retain High because equivalence is unresolved |
+| Narrative Language Within Clear Interface | High | Strong name and mission; retain High because exception clarity remains incomplete |
+| Biography When It Explains the Experience | High | Origin support; retain High because current authority remains separate |
+| Adaptation as Narrative | Medium-High | Closure strengthens transparency; retain Medium-High because learning evidence is incomplete |
+| Show the System Behind the Plate | High | Strong system relevance; retain High |
+| Atmosphere Through Worldview | High | Strong worldview support; retain High because lived atmosphere is unverified |
+| Hospitality System Proof | High | Strong proof obligation; retain High |
+| Heritage Builds Confidence | Medium-High | Continuity support; retain Medium-High |
+| Participation Rule Consistency | Medium | High pressure; retain Medium because failed-route recovery is unverified |
+| Multi-Intent Hospitality | Medium | Strong route breadth; retain Medium because performed separation is unverified |
+
+Formal decision:
+
+```text
+Candidate promotions: 0
+Candidate demotions: 0
+Candidate confidence changes: 0
+```
+
+All eight Emerging patterns remain unchanged.
+
+Highest story pressure remains on:
+
+- Story Before Features
+- Promise Before Proof
+- The Guest as Participant
+- Commitment Without Pressure
+- and Emotion Before Interface.
+
+---
+
+# Post–SAME Café Story Falsification Programme
+
+1. Verify founding dates and source provenance.
+
+2. Separate founder account from independent history.
+
+3. Verify current leadership and operating roles.
+
+4. Verify current Denver service model.
+
+5. Test whether “all” language causes self-exclusion.
+
+6. Observe no-available-route recovery.
+
+7. Test contribution-neutral service.
+
+8. Test refusal without narrative penalty.
+
+9. Seek participant-controlled guest testimony.
+
+10. Seek negative and ambivalent evidence.
+
+11. Test testimony withdrawal.
+
+12. Audit donor-centred framing.
+
+13. Audit beneficiary framing.
+
+14. Audit founder-image and story proportion.
+
+15. Verify East Colfax relationship claims.
+
+16. Separate longevity from local outcome.
+
+17. Verify meal-count definitions.
+
+18. Separate meals from unique people.
+
+19. Verify volunteer-hour definitions.
+
+20. Separate training from employment.
+
+21. Verify employment outcome methodology.
+
+22. Remove unsupported housing causality.
+
+23. Verify Toledo opening and closure chronology.
+
+24. Document closure reasons and learning.
+
+25. Test replicability claims against closure.
+
+26. Compare public values with observed service.
+
+27. Audit anti-bias accountability.
+
+28. Review complaint and correction evidence.
+
+29. Separate café, training, event and catering stories.
+
+30. Separate current and historical imagery.
+
+31. Audit emotional claims by evidence level.
+
+32. Audit transformation language.
+
+33. Test whether food remains a restaurant-level protagonist.
+
+34. Test whether mission overwhelms practical clarity.
+
+35. Compare first-time and returning-guest understanding.
+
+36. Verify contribution-route explanation.
+
+37. Verify route-switching freedom.
+
+38. Audit contribution-state privacy.
+
+39. Review participant consent and reuse.
+
+40. Do not infer causality from narrative coherence.
+
+---
+
+# Post–SAME Café Comparative Decisions
+
+1. Add SAME Café Denver as the twentieth independent story case.
+
+2. Preserve the complete Post–JBJ story record.
+
+3. Treat “So All May Eat” as name, promise and evidence burden.
+
+4. Treat time, money and produce as organising logic.
+
+5. Do not treat organising coherence as equal capacity.
+
+6. Treat food as shared protagonist.
+
+7. Use distributed protagonism.
+
+8. Keep founders as supporting characters after origin.
+
+9. Prevent donor ownership of participant story.
+
+10. Preserve guest identity outside beneficiary framing.
+
+11. Treat no-available-route recovery as the decisive narrative test.
+
+12. Preserve refusal without narrative penalty.
+
+13. Retain closure inside the adaptation story.
+
+14. Separate replication attempt from replicability.
+
+15. Separate activity, experience, outcome and causality.
+
+16. Calibrate emotional language to evidence level.
+
+17. Retain all Candidate maturity and confidence states.
+
+18. Retain all Emerging states.
+
+19. Make no validation or Principle promotion.
+
+20. Complete the five-file Restaurant #20 comparison set.
+
+---
+
+# Post–SAME Café Story Comparison Conclusion
+
+Across twenty independent restaurant cases,
+
+story is strongest when:
+
+the public promise,
+
+operating model,
+
+evidence level
+
+and:
+
+guest rights
+
+remain aligned.
+
+SAME Café supplies a highly coherent story:
+
+```text
+So All May Eat
++
+Healthy Food
++
+Time / Money / Produce
++
+Community
+```
+
+But coherence does not establish:
+
+- equal capacity to participate
+- pressure-free contribution
+- equal burden
+- contribution-neutral service
+- experienced belonging
+- measured outcome
+- or causality.
+
+The strongest narrative boundary is:
+
+```text
+Mission Coherence
+≠
+Mission Completion
+```
+
+The strongest participation boundary is:
+
+```text
+Participation Supports Belonging
+≠
+Participation Earns Belonging
+```
+
+The strongest evidence boundary is:
+
+```text
+Origin Story
+≠
+Current Operating Proof
+≠
+Participant Experience
+≠
+Measured Outcome
+≠
+Causality
+```
+
+No maturity or confidence change is justified.
+
+Evidence wins.
+
+---
+
+# Validation — Post Restaurant #20 Story Comparison
+
+Comparison File:
+
+`khds/research/comparison/story.md`
+
+Status:
+
+Post–SAME Café Denver Complete
+
+Independent Restaurants Represented:
+
+20
+
+Canonical Completed Independent Restaurants:
+
+19
+
+Latest Case:
+
+SAME Café Denver
+
+Primary Confidence Watch:
+
+Story Through Hospitality Model — Explicit Reciprocity Without Rank
+
+Secondary Confidence Watch:
+
+Participation Rule Consistency — Failed-Route Recovery
+
+Primary Existing Candidate Support:
+
+Narrative Coherence Through Organising Logic
+
+Primary Emerging Review:
+
+Promise Before Proof — Universal Promise / Finite Capacity Boundary
+
+Strongest New Narrative Mechanism:
+
+Reciprocal Hospitality With Explicit Terms
+
+Strongest New Protagonist Direction:
+
+Distributed Protagonist
+
+Strongest New Promise Boundary:
+
+Universal Name
+
+≠
+
+Unlimited Live Capacity
+
+Strongest New Mission Boundary:
+
+Mission Coherence
+
+≠
+
+Mission Completion
+
+Strongest New Evidence Boundary:
+
+Origin Story
+
+≠
+
+Current Operating Proof
+
+≠
+
+Participant Experience
+
+≠
+
+Measured Outcome
+
+≠
+
+Causality
+
+Formal Promotions: 0
+
+Formal Demotions: 0
+
+Confidence Changes: 0
+
+Governance Changes: 0
+
+Canonical Candidate Count: 26
+
+Canonical Candidate / High: 9
+
+Canonical Candidate / Medium-High: 8
+
+Canonical Candidate / Medium: 9
+
+Canonical Emerging Count: 8
+
+Canonical Partially Supported Count: 1
+
+Canonical Validated Count: 0
+
+Research-Derived KHDS Principles: 0
+
+Post–SAME Café Denver Comparison Set:
+
+5 / 5 Complete
+
+Next Stage:
+
+Post–SAME Café Denver Canonical Candidate Reconciliation
+
+Next File:
+
+`khds/research/validation/candidate-patterns.md`
