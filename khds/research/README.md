@@ -12,6 +12,18 @@ Independent Restaurants Reconciled:
 
 20
 
+Independent Non-Restaurant Hospitality Institutions Reconciled:
+
+0
+
+Research Synthesis Builds Completed:
+
+1
+
+Latest Synthesis Build:
+
+Third Rain
+
 Track B Validation Cases:
 
 1
@@ -88,7 +100,11 @@ to collect:
 
 beautiful:
 
-restaurant websites.
+hospitality websites
+
+or:
+
+digital products.
 
 It is to:
 
@@ -132,7 +148,7 @@ across:
 
 different:
 
-restaurants
+hospitality institutions
 
 and:
 
@@ -152,13 +168,13 @@ Research narrows the decision space. It does not make the decision for us.
 
 Production Rule
 
-Do not force KHDS into the restaurant. Use KHDS to understand what the restaurant needs.
+Do not force KHDS into the institution. Use KHDS to understand what its hospitality model needs.
 
 Research Tracks
 
 KHDS currently has:
 
-two:
+three:
 
 distinct:
 
@@ -206,11 +222,19 @@ falsification
 
 Track A currently contains:
 
-19:
+20:
 
 independent:
 
-restaurants.
+restaurants
+
+and:
+
+0:
+
+independent:
+
+non-restaurant hospitality institutions.
 
 Track B — Production Validation
 
@@ -240,13 +264,125 @@ Track B currently contains:
 
 validation case.
 
+Track C — Research Synthesis Builds
+
+Purpose:
+
+translate:
+
+the findings from:
+
+each completed:
+
+ten-case:
+
+research cycle
+
+into:
+
+an original:
+
+fictional restaurant
+
+and:
+
+a working:
+
+hospitality website.
+
+Track C is responsible for:
+
+research synthesis
+
+fictional restaurant creation
+
+website implementation
+
+selective KHDS application integration
+
+implementation learning
+
+and:
+
+Kodawa Labs Showcase progression.
+
+Track C currently contains:
+
+1:
+
+completed:
+
+synthesis build.
+
+Third Rain
+
+represents:
+
+KHDS Cases #11–20.
+
+Track C Governance Boundary
+
+
+Synthesis Quality
+
+≠
+
+Research Validation
+
+
+A:
+
+successful:
+
+fictional concept
+
+or:
+
+website implementation
+
+cannot:
+
+promote:
+
+a research pattern
+
+by itself.
+
+Track C may reveal:
+
+implementation questions
+
+missing states
+
+app opportunities
+
+and:
+
+new falsification targets.
+
+Those findings must return to:
+
+Track A research
+
+or:
+
+Track B production validation
+
+before:
+
+they can affect:
+
+formal maturity.
+
 Track Separation Rule
+
 
 Production Success
 
 ≠
 
 Research Validation
+
 
 A:
 
@@ -566,11 +702,13 @@ narrative ecosystem boundaries
 
 Primary governance contribution:
 
+
 Thing
 
 ≠
 
 Relationship
+
 
 Restaurant Pearl Morissette:
 
@@ -640,11 +778,13 @@ inclusion as operating capability
 
 Primary governance contribution:
 
+
 Visual Absence
 
 ≠
 
 Evidence Absence
+
 
 Dans le Noir? London strengthens:
 
@@ -710,11 +850,13 @@ employment, agency and inclusion claim boundaries
 
 Primary governance contribution:
 
+
 Human Mediation Through Technology
 
 ≠
 
 Human Replacement by Technology
+
 
 Avatar Robot Café DAWN strengthens:
 
@@ -782,11 +924,13 @@ adaptation through place and operating-model continuity
 
 Primary governance contribution:
 
+
 Guesthood Without Purchase
 
 ≠
 
 Hospitality Without Structure
+
 
 Refettorio Felix strengthens:
 
@@ -860,11 +1004,13 @@ role-bounded data
 
 Primary governance contribution:
 
+
 How a Person Contributes
 
 ≠
 
 Whether the Person Belongs
+
 
 JBJ Soul Kitchen strengthens:
 
@@ -944,9 +1090,11 @@ role-bounded data
 
 Primary governance contribution:
 
+
 Multiple contribution routes are not access
 
 unless failed routes have a dignified recovery.
+
 
 SAME Café strengthens:
 
@@ -1022,6 +1170,7 @@ production success alone.
 
 Current Canonical Research State
 
+
 Independent Restaurants: 20
 
 Track B Validation Cases: 1
@@ -1044,6 +1193,7 @@ Track B Implementation Learnings: 17
 
 Highest Research-Derived Maturity: Candidate
 
+
 Research Maturity Ladder
 
 Current:
@@ -1053,6 +1203,7 @@ formal:
 maturity:
 
 sequence:
+
 
 Observed Research Direction
 
@@ -1072,9 +1223,12 @@ Validated
 
 Research-Derived Principle
 
+
 Additional status:
 
+
 Partially Supported
+
 
 is used when:
 
@@ -1108,19 +1262,23 @@ pattern.
 
 Important Maturity Boundary
 
+
 Strong Support
 
 ≠
 
 Validated
 
+
 and:
+
 
 Repeated Observation
 
 ≠
 
 Principle
+
 
 KHDS currently has:
 
@@ -1270,63 +1428,78 @@ reconciliation.
 
 Story Through Place
 
+
 Emerging
 
 →
 
 Candidate / Medium-High
+
 
 Narrative Coherence Through Organising Logic
 
+
 Emerging
 
 →
 
 Candidate / Medium-High
 
+
 Manageable Commitment
+
 
 Observed Research Direction
 
 →
 
 Candidate / Medium
+
 
 Participation Rule Consistency
 
+
 Observed Research Direction
 
 →
 
 Candidate / Medium
+
 
 Adaptation as Narrative
 
+
 Observed Research Direction
 
 →
 
 Candidate / Medium
+
 
 Post–Noma Confidence Changes
 
 Heritage Builds Confidence
 
+
 Candidate / Medium
 
 →
 
 Candidate / Medium-High
+
 
 Atmosphere Through Continuity
 
+
 Candidate / Medium
 
 →
 
 Candidate / Medium-High
 
+
 Story Through Hospitality Model
+
 
 Candidate / Medium-High
 
@@ -1334,7 +1507,9 @@ Candidate / Medium-High
 
 Candidate / High
 
+
 Hospitality System Proof
+
 
 Candidate / Medium
 
@@ -1342,15 +1517,18 @@ Candidate / Medium
 
 Candidate / Medium-High
 
+
 Post–Noma Review-State Change
 
 Atmosphere Through Worldview:
+
 
 Candidate / Under Review / Medium-High
 
 →
 
 Candidate / Medium-High
+
 
 Under Review:
 
@@ -1396,6 +1574,7 @@ research-derived Principle promotions.
 
 The Candidate distribution remains:
 
+
 Candidate / High: 9
 
 Candidate / Medium-High: 8
@@ -1403,6 +1582,7 @@ Candidate / Medium-High: 8
 Candidate / Medium: 9
 
 Total Candidate: 26
+
 
 Restaurant #19 adds:
 
@@ -1420,11 +1600,13 @@ It does not resolve:
 
 the uncertainties limiting any existing Candidate confidence.
 
+
 Additional Evidence
 
 ≠
 
 Automatic Confidence Movement
+
 
 Historical Post–Refettorio Felix Governance Movement
 
@@ -1442,11 +1624,13 @@ Candidate confidence increases.
 
 Adaptation as Narrative
 
+
 Candidate / Medium
 
 →
 
 Candidate / Medium-High
+
 
 Refettorio Felix adds:
 
@@ -1457,6 +1641,7 @@ place-and-model continuity:
 test.
 
 The case connects:
+
 
 Prior Local Service
 
@@ -1472,11 +1657,13 @@ Expanded Hospitality Model
 
 Continuing Organising Purpose
 
+
 Strongest new mechanism:
 
 Local Continuity / Model Transformation
 
 Primary boundaries:
+
 
 Documented Change
 
@@ -1500,13 +1687,16 @@ Narrative Coherence
 
 Operating Success
 
+
 Stable Participation / Variable Product
+
 
 Candidate / Medium
 
 →
 
 Candidate / Medium-High
+
 
 Refettorio Felix adds:
 
@@ -1522,6 +1712,7 @@ a comparatively stable:
 
 service contract.
 
+
 Unpredictable Product Input
 
 ↓
@@ -1532,11 +1723,13 @@ inside
 
 Stable Access + Timing + Service Rules
 
+
 Strongest new mechanism:
 
 Stable Service Contract / Variable Resource Product
 
 Primary boundaries:
+
 
 Variable Menu
 
@@ -1559,6 +1752,7 @@ Attempted Dietary Accommodation
 ≠
 
 Dietary Safety Guarantee
+
 
 No other:
 
@@ -1722,6 +1916,7 @@ Strong architecture density does not multiply:
 
 independent support.
 
+
 One Restaurant
 
 ×
@@ -1731,6 +1926,7 @@ Five Dimensions
 ≠
 
 Five Independent Cases
+
 
 Candidate Decisions Without Confidence Change — Restaurant #18
 
@@ -1874,11 +2070,13 @@ formal Candidate promotion.
 
 Multi-Intent Hospitality
 
+
 Emerging
 
 →
 
 Candidate / Medium
+
 
 DAWN supplies:
 
@@ -1920,11 +2118,13 @@ different desired outcomes.
 
 Primary boundary:
 
+
 Multiple Offers
 
 ≠
 
 Multiple Hospitality Intents
+
 
 The Candidate applies only when:
 
@@ -1954,11 +2154,13 @@ a confidence increase.
 
 Photography Should Demonstrate Difference
 
+
 Candidate / Medium
 
 →
 
 Candidate / Medium-High
+
 
 DAWN satisfies:
 
@@ -1992,6 +2194,7 @@ the hospitality difference.
 
 Primary boundaries:
 
+
 Visible Robot
 
 ≠
@@ -2005,6 +2208,7 @@ Visible Novelty
 ≠
 
 Demonstrated Difference
+
 
 Post–Avatar Robot Café DAWN Explicit Non-Promotions — Historical Research Layer
 
@@ -2046,11 +2250,13 @@ same-name Foundation risk.
 
 Strongest non-promotion correction:
 
+
 Strong Mission Alignment
 
 ≠
 
 Automatic Pattern Promotion
+
 
 Candidate Decisions Without Confidence Change — Restaurant #17 Historical Research Layer
 
@@ -2094,11 +2300,13 @@ or:
 
 full transferability.
 
+
 Strong Confirmation
 
 ≠
 
 Automatic Confidence Increase
+
 
 Post–Dans le Noir? London Candidate Promotions — Historical Research Layer
 
@@ -2110,11 +2318,13 @@ formal Candidate promotions.
 
 Photography Should Demonstrate Difference
 
+
 Emerging
 
 →
 
 Candidate / Medium
+
 
 Dans le Noir? London satisfied:
 
@@ -2138,6 +2348,7 @@ Non-Visual Difference
 
 Primary boundaries:
 
+
 Material Difference
 
 ≠
@@ -2152,13 +2363,16 @@ Demonstrate Difference
 
 Show Difference Literally
 
+
 Human Assistance Where Structured Self-Service Is Insufficient
+
 
 Emerging
 
 →
 
 Candidate / Medium
+
 
 Dans le Noir? London provides:
 
@@ -2184,6 +2398,7 @@ the core hospitality product
 
 Primary boundaries:
 
+
 Self-Service Availability
 
 ≠
@@ -2198,6 +2413,7 @@ Human Guidance
 
 Fallback Support Only
 
+
 Post–Dans le Noir? London Confidence Changes — Historical Research Layer
 
 Two:
@@ -2210,11 +2426,13 @@ confidence increases.
 
 Photography as Proof
 
+
 Candidate / Medium
 
 →
 
 Candidate / Medium-High
+
 
 Reason:
 
@@ -2230,19 +2448,23 @@ cannot be photographed directly.
 
 Restaurant #16 sharpens:
 
+
 Photography Can Be Proof
 
 without being
 
 Complete Proof
 
+
 Capacity Proof
+
 
 Candidate / Medium
 
 →
 
 Candidate / Medium-High
+
 
 Reason:
 
@@ -2272,11 +2494,13 @@ stable participation infrastructure
 
 Primary boundary:
 
+
 Published Capacity Mechanism
 
 ≠
 
 Verified Capacity Performance
+
 
 Post–Dans le Noir? London Explicit Non-Promotions — Historical Research Layer
 
@@ -2302,11 +2526,13 @@ Photography Before Decoration
 
 Strongest non-promotion correction:
 
+
 Participation Complexity
 
 ≠
 
 Interface Complexity
+
 
 The explanatory mechanism may be:
 
@@ -2350,11 +2576,13 @@ Candidate.
 
 Layered Arrival
 
+
 Emerging
 
 →
 
 Candidate / Medium
+
 
 Pearl Morissette strengthened:
 
@@ -2384,11 +2612,13 @@ experience entry.
 
 Atmosphere Through Consistency
 
+
 Emerging
 
 →
 
 Candidate / Medium
+
 
 Pearl Morissette strengthened:
 
@@ -2416,11 +2646,13 @@ the operating model.
 
 Photography as Proof
 
+
 Emerging
 
 →
 
 Candidate / Medium
+
 
 Pearl Morissette strengthened:
 
@@ -2448,11 +2680,13 @@ productive context.
 
 Photography Through Layers of Experience
 
+
 Emerging
 
 →
 
 Candidate / Medium
+
 
 Pearl Morissette strengthened:
 
@@ -2478,11 +2712,13 @@ participation.
 
 Participation Throughout the Journey
 
+
 Emerging
 
 →
 
 Candidate / Medium
+
 
 Pearl Morissette strengthened:
 
@@ -2516,11 +2752,13 @@ post-visit relationship.
 
 Capacity Proof
 
+
 Observed Research Direction
 
 →
 
 Candidate / Medium
+
 
 Pearl Morissette strengthened:
 
@@ -2552,11 +2790,13 @@ reveal.
 
 Stable Participation / Variable Product
 
+
 Observed Research Direction
 
 →
 
 Candidate / Medium
+
 
 Pearl Morissette strengthened:
 
@@ -2592,35 +2832,43 @@ confidence increases.
 
 Atmosphere Through Worldview
 
+
 Candidate / Medium-High
 
 →
 
 Candidate / High
+
 
 Story Through Place
 
+
 Candidate / Medium-High
 
 →
 
 Candidate / High
+
 
 Narrative Coherence Through Organising Logic
 
+
 Candidate / Medium-High
 
 →
 
 Candidate / High
+
 
 Hospitality System Proof
 
+
 Candidate / Medium-High
 
 →
 
 Candidate / High
+
 
 Post–Pearl Morissette Explicit Non-Promotions — Historical Research Layer
 
@@ -2800,6 +3048,7 @@ complete guest relationship ownership
 
 Key boundaries:
 
+
 Data Controller Status
 
 ≠
@@ -2813,6 +3062,7 @@ Third-Party Booking Surface
 ≠
 
 Guest Relationship Lost
+
 
 Existing Implementation Pattern Pending Formal Validation
 
@@ -2844,11 +3094,13 @@ from:
 
 research maturity.
 
+
 Implementation Pattern
 
 ≠
 
 Research-Derived Pattern
+
 
 unless:
 
@@ -2896,11 +3148,13 @@ Remain below Candidate
 
 Core correction:
 
+
 Coherence
 
 ≠
 
 Sameness
+
 
 Need:
 
@@ -2938,11 +3192,13 @@ Noma
 
 Core boundary:
 
+
 Time Exists
 
 ≠
 
 Time Is Narrative
+
 
 Current decision:
 
@@ -2956,11 +3212,13 @@ Observed Research Direction
 
 Core boundary:
 
+
 Process Exists
 
 ≠
 
 Process Shapes Atmosphere
+
 
 Current decision:
 
@@ -2978,11 +3236,13 @@ Noma
 
 Core boundary:
 
+
 Research Identity
 
 ≠
 
 Research Atmosphere
+
 
 Current decision:
 
@@ -3000,11 +3260,13 @@ Noma
 
 Core boundary:
 
+
 Transferability
 
 ≠
 
 Unrestricted Resale Right
+
 
 Current decision:
 
@@ -3018,11 +3280,13 @@ Architecture Direction
 
 Core boundary:
 
+
 Access Utility
 
 ≠
 
 Hospitality During Waiting
+
 
 Hospitality During Waiting
 
@@ -3032,11 +3296,13 @@ Below Candidate
 
 Core boundary:
 
+
 Waiting Exists
 
 ≠
 
 Hospitality During Waiting
+
 
 Current decision:
 
@@ -3100,11 +3366,13 @@ Noma
 
 Core correction:
 
+
 Signature Product
 
 ≠
 
 Required Narrative Anchor
+
 
 Constraint as Narrative
 
@@ -3120,11 +3388,13 @@ Noma
 
 Core boundary:
 
+
 Operational Constraint
 
 ≠
 
 Narrative
+
 
 Productive Narrative Tension
 
@@ -3138,11 +3408,13 @@ Noma
 
 Core boundary:
 
+
 Narrative Tension
 
 ≠
 
 Narrative Contradiction
+
 
 Current decision:
 
@@ -3350,13 +3622,14 @@ core:
 
 dimensions.
 
-Arrival
+1. Arrival
 
 Core question:
 
 What must the guest understand before making an appropriate hospitality commitment?
 
 Current strongest abstraction:
+
 
 Guest Intent
 
@@ -3376,11 +3649,11 @@ Uncertainty Type
 
 What Is Known?
 
-
++
 
 What Is Variable?
 
-
++
 
 What Is Not Yet Fixed?
 
@@ -3392,15 +3665,15 @@ What Confidence Is Missing?
 
 Relevant Meaning
 
-
++
 
 Relevant Utility
 
-
++
 
 Relevant Evidence
 
-
++
 
 Relevant Explanation
 
@@ -3419,6 +3692,7 @@ Appropriate Certainty
 ↓
 
 Appropriate Participation
+
 
 Arrival — Current Important Variables
 
@@ -3546,19 +3820,22 @@ Noma.
 
 Key correction:
 
+
 Unknown
 
 ≠
 
 Hidden
 
-Atmosphere
+
+2. Atmosphere
 
 Core question:
 
 What actually creates the guest-facing atmospheric condition?
 
 Current strongest abstraction:
+
 
 Hospitality Model
 
@@ -3570,7 +3847,7 @@ Desired Guest State
 
 Primary Atmospheric Mechanism
 
-
++
 
 Supporting Mechanisms
 
@@ -3578,19 +3855,19 @@ Supporting Mechanisms
 
 Relevant Environment
 
-
++
 
 Presence
 
-
++
 
 Absence
 
-
++
 
 Participation
 
-
++
 
 Operating Structure
 
@@ -3598,13 +3875,14 @@ Operating Structure
 
 Relational Coherence
 
-
++
 
 Temporal Coherence where relevant
 
 ↓
 
 Atmospheric Experience
+
 
 Atmosphere — Current Important Variables
 
@@ -3640,19 +3918,22 @@ Atmospheric Experience
 
 Key boundary:
 
+
 Atmospheric Promise
 
 ≠
 
 Atmospheric Experience
 
-Photography / Proof
+
+3. Photography / Proof
 
 Core question:
 
 What must be proven, how deeply, at what scale, and through which medium?
 
 Current strongest abstraction:
+
 
 Guest Decision
 
@@ -3676,15 +3957,15 @@ Proof Depth
 
 Claim Fit
 
-
++
 
 Location Fit
 
-
++
 
 Temporal Fit
 
-
++
 
 State Fit
 
@@ -3699,6 +3980,7 @@ Minimum Sufficient Evidence
 ↓
 
 Appropriate Confidence
+
 
 Proof — Current Important Variables
 
@@ -3730,33 +4012,36 @@ Minimum Sufficient Evidence
 
 Current relationship:
 
+
 Evidence Fit
 
 =
 
 Claim Fit
 
-
++
 
 Location Fit
 
-
++
 
 Temporal Fit
 
-
++
 
 State Fit
 
+
 Architecture hypothesis.
 
-Reservation / Participation
+4. Reservation / Participation
 
 Core question:
 
 How should the hospitality system help the guest enter, understand, manage, and complete participation?
 
 Current strongest abstraction:
+
 
 Guest Intent
 
@@ -3772,11 +4057,11 @@ Relevant State
 
 Relevant Rules
 
-
++
 
 Relevant Time
 
-
++
 
 Relevant Consequence
 
@@ -3784,7 +4069,7 @@ Relevant Consequence
 
 Structured Self-Service where sufficient
 
-
++
 
 Human Assistance where required
 
@@ -3799,6 +4084,7 @@ Participation
 ↓
 
 Completion
+
 
 Participation — Current Important Variables
 
@@ -3882,11 +4168,13 @@ of:
 
 Access Waiting.
 
+
 Access-Release Waiting
 
 →
 
 Access Waiting
+
 
 No:
 
@@ -3896,13 +4184,14 @@ formal:
 
 waiting category.
 
-Story / Narrative
+5. Story / Narrative
 
 Core question:
 
 What best explains what this hospitality experience means?
 
 Current strongest abstraction:
+
 
 Hospitality Meaning
 
@@ -3914,7 +4203,7 @@ What Best Explains It?
 
 Primary Narrative Carrier
 
-
++
 
 Supporting Narrative Carriers
 
@@ -3926,7 +4215,7 @@ What Remains Stable?
 
 Narrative Anchor
 
-
++
 
 Narrative Invariant where relevant
 
@@ -3938,7 +4227,7 @@ Organising Logic
 
 What Has Changed?
 
-
++
 
 What May Change?
 
@@ -3946,13 +4235,14 @@ What May Change?
 
 Relevant Narrative
 
-
++
 
 Relevant Evidence
 
 ↓
 
 Guest Understanding
+
 
 Story — Current Important Variables
 
@@ -4050,11 +4340,13 @@ pattern.
 
 Core boundary:
 
+
 Time Exists
 
 ≠
 
 Temporal Hospitality
+
 
 Change Architecture Family
 
@@ -4358,11 +4650,13 @@ Exception Waiting
 
 Important boundary:
 
+
 Visit Preparation
 
 ≠
 
 Waiting
+
 
 Restaurant #15:
 
@@ -4448,6 +4742,7 @@ Evidence Burden Allocation
 
 The family connects:
 
+
 Guesthood Without Purchase
 
 ↓
@@ -4474,11 +4769,13 @@ Privacy-Compatible Evidence
 
 Activity / Experience / Outcome Separation
 
+
 Primary rule:
 
 When hospitality is offered without transaction, preserve full guesthood, explicit capacity, role-specific participation and evidence proportionality. Prove the institution's system without making the guest's vulnerability carry the proof burden.
 
 Primary boundaries:
+
 
 Guest
 
@@ -4517,6 +4814,7 @@ Good Intention
 ≠
 
 Verified Outcome
+
 
 Canonical decision:
 
@@ -4572,11 +4870,13 @@ arrival structure.
 
 Strongest boundary:
 
+
 Open Door
 
 ≠
 
 Guaranteed Admission
+
 
 Atmosphere
 
@@ -4602,11 +4902,13 @@ ordinary hospitality ritual.
 
 Strongest boundary:
 
+
 Designed Welcome
 
 ≠
 
 Experienced Dignity
+
 
 Photography / Proof
 
@@ -4636,11 +4938,13 @@ the proof object.
 
 Strongest boundary:
 
+
 Photography of Vulnerability
 
 ≠
 
 Proof of Support
+
 
 Reservation / Participation
 
@@ -4666,11 +4970,13 @@ dietary communication.
 
 Strongest boundary:
 
+
 No Reservation
 
 ≠
 
 No Participation Structure
+
 
 Story / Narrative
 
@@ -4700,13 +5006,16 @@ continuing adaptation.
 
 Strongest boundary:
 
+
 Recovering Food Value
 
 ≠
 
 Recovering Human Worth
 
+
 Restaurant #18 Cross-Dimensional Corrections
+
 
 
 
@@ -4906,6 +5215,7 @@ Coherent Story
 
 Causal Proof
 
+
 Post–Avatar Robot Café DAWN Architecture Addition — Historical Research Layer
 
 Restaurant #17 adds:
@@ -4968,13 +5278,16 @@ Recognition Without Substituting for Outcome Evidence
 
 Primary rule:
 
+
 Human Mediation Through Technology
 
 ≠
 
 Human Replacement by Technology
 
+
 Secondary rules:
+
 
 Remote Presence
 
@@ -4997,6 +5310,7 @@ Mission Narrative
 ≠
 
 Mission Outcome Proof
+
 
 Canonical decision:
 
@@ -5062,11 +5376,13 @@ exploring pilot participation or support
 
 Strongest boundary:
 
+
 Arrival at the Venue
 
 ≠
 
 Arrival in the Correct Participation Route
+
 
 Atmosphere
 
@@ -5098,11 +5414,13 @@ mission.
 
 Strongest boundary:
 
+
 Technological Novelty
 
 ≠
 
 Human Atmosphere
+
 
 Photography
 
@@ -5124,11 +5442,13 @@ the difference between automation and mediation
 
 Strongest boundary:
 
+
 Visible Device
 
 ≠
 
 Visible Human Relationship
+
 
 Reservation / Participation
 
@@ -5158,11 +5478,13 @@ belong to each route.
 
 Strongest boundary:
 
+
 Multiple Booking Options
 
 ≠
 
 Multi-Intent Hospitality
+
 
 Story
 
@@ -5186,13 +5508,16 @@ how participation is redistributed.
 
 Strongest boundary:
 
+
 Mission Coherence
 
 ≠
 
 Verified Social Outcome
 
+
 Restaurant #17 Cross-Dimensional Corrections — Historical Research Layer
+
 
 
 
@@ -5292,6 +5617,7 @@ Visible Novelty
 
 Demonstrated Difference
 
+
 Post–Dans le Noir? London Architecture Additions — Historical Research Layer
 
 Restaurant #16 adds or sharpens:
@@ -5330,11 +5656,13 @@ Post-Experience Reveal Proof
 
 Rule:
 
+
 Visual Absence
 
 ≠
 
 Evidence Absence
+
 
 Human-Guided Participation Family
 
@@ -5356,11 +5684,13 @@ Reservation as Operational Brief
 
 Rule:
 
+
 Human Guidance
 
 ≠
 
 Fallback Support
+
 
 Sensory Boundary Family
 
@@ -5378,11 +5708,13 @@ Reveal After Experience
 
 Rule:
 
+
 Temporary Sensory Condition
 
 ≠
 
 Durable Human Outcome
+
 
 Role-Reversal Narrative Family
 
@@ -5402,11 +5734,13 @@ Questioning Without Guaranteed Transformation
 
 Rule:
 
+
 Guide as Authority
 
 ≠
 
 Guide as Symbol
+
 
 Restaurant #16 Five-Dimension Synthesis
 
@@ -5426,11 +5760,13 @@ human handoff.
 
 Strongest boundary:
 
+
 Arrival at the Address
 
 ≠
 
 Arrival in the Experience
+
 
 Atmosphere
 
@@ -5440,11 +5776,13 @@ Enforced Visual Absence.
 
 Strongest boundary:
 
+
 Atmosphere as Infrastructure
 
 ≠
 
 Atmosphere as Guest Outcome
+
 
 Photography
 
@@ -5454,11 +5792,13 @@ Visible Perimeter / Invisible Core.
 
 Strongest boundary:
 
+
 Photography of the Restaurant
 
 ≠
 
 Photography of the Guest Experience
+
 
 Reservation / Participation
 
@@ -5468,11 +5808,13 @@ Consequence Clarity / Outcome Uncertainty.
 
 Strongest boundary:
 
+
 Participation Complexity
 
 ≠
 
 Interface Complexity
+
 
 Story
 
@@ -5482,11 +5824,13 @@ Operationalised Role Reversal.
 
 Strongest boundary:
 
+
 Narrative Coherence
 
 ≠
 
 Outcome Proof
+
 
 Post–Pearl Morissette Architecture Additions — Historical Research Layer
 
@@ -5614,13 +5958,16 @@ boundaries.
 
 1
 
+
 Coherence
 
 ≠
 
 Sameness
 
+
 2
+
 
 Continuity
 
@@ -5628,7 +5975,9 @@ Continuity
 
 Sameness
 
+
 3
+
 
 Expectation Clarity
 
@@ -5636,7 +5985,9 @@ Expectation Clarity
 
 Outcome Specificity
 
+
 4
+
 
 Unknown
 
@@ -5644,7 +5995,9 @@ Unknown
 
 Hidden
 
+
 5
+
 
 Uncertainty
 
@@ -5652,7 +6005,9 @@ Uncertainty
 
 Ambiguity
 
+
 6
+
 
 Historical Evidence
 
@@ -5660,7 +6015,9 @@ Historical Evidence
 
 Current Product Proof
 
+
 7
+
 
 Official
 
@@ -5668,7 +6025,9 @@ Official
 
 Current
 
+
 8
+
 
 Evidence Freshness
 
@@ -5676,7 +6035,9 @@ Evidence Freshness
 
 Evidence Durability
 
+
 9
+
 
 Visual Variety
 
@@ -5684,7 +6045,9 @@ Visual Variety
 
 Proof of Evolution
 
+
 10
+
 
 Research Identity
 
@@ -5692,7 +6055,9 @@ Research Identity
 
 Visible Research Activity
 
+
 11
+
 
 Research as Narrative
 
@@ -5700,7 +6065,9 @@ Research as Narrative
 
 Research as Atmosphere
 
+
 12
+
 
 Process Exists
 
@@ -5708,7 +6075,9 @@ Process Exists
 
 Process Shapes Atmosphere
 
+
 13
+
 
 Stable Narrative Identity
 
@@ -5716,7 +6085,9 @@ Stable Narrative Identity
 
 Stable Narrative Object
 
+
 14
+
 
 Signature Product
 
@@ -5724,7 +6095,9 @@ Signature Product
 
 Required Narrative Anchor
 
+
 15
+
 
 Relevant Biography
 
@@ -5732,7 +6105,9 @@ Relevant Biography
 
 Single Hero Founder
 
+
 16
+
 
 Heritage
 
@@ -5740,7 +6115,9 @@ Heritage
 
 Promise of Sameness
 
+
 17
+
 
 Story Through Place
 
@@ -5748,7 +6125,9 @@ Story Through Place
 
 Story Through Address
 
+
 18
+
 
 Temporal Narrative
 
@@ -5756,7 +6135,9 @@ Temporal Narrative
 
 Timeline
 
+
 19
+
 
 Reservation Commitment
 
@@ -5764,7 +6145,9 @@ Reservation Commitment
 
 Complete Outcome Knowledge
 
+
 20
+
 
 Outcome Uncertainty
 
@@ -5772,7 +6155,9 @@ Outcome Uncertainty
 
 Participation State Uncertainty
 
+
 21
+
 
 Participation State Change
 
@@ -5780,7 +6165,9 @@ Participation State Change
 
 Always User Action
 
+
 22
+
 
 One Primary Route
 
@@ -5788,7 +6175,9 @@ One Primary Route
 
 Simple Participation
 
+
 23
+
 
 Participation Breadth
 
@@ -5796,7 +6185,9 @@ Participation Breadth
 
 Participation Depth
 
+
 24
+
 
 Guest Agency
 
@@ -5804,7 +6195,9 @@ Guest Agency
 
 Unlimited Control
 
+
 25
+
 
 System Participation
 
@@ -5812,7 +6205,9 @@ System Participation
 
 Creative Product Participation
 
+
 26
+
 
 Narrative Participation
 
@@ -5824,7 +6219,9 @@ Operational Participation
 
 Creative Participation
 
+
 27
+
 
 Structural Scarcity
 
@@ -5832,7 +6229,9 @@ Structural Scarcity
 
 Manipulative Pressure
 
+
 28
+
 
 Pre-Commitment Pressure
 
@@ -5840,7 +6239,9 @@ Pre-Commitment Pressure
 
 Post-Commitment Agency
 
+
 29
+
 
 System Visibility
 
@@ -5848,7 +6249,9 @@ System Visibility
 
 System Clarity
 
+
 30
+
 
 Route Visibility
 
@@ -5856,7 +6259,9 @@ Route Visibility
 
 State Clarity
 
+
 31
+
 
 Consistency
 
@@ -5864,7 +6269,9 @@ Consistency
 
 Currency
 
+
 32
+
 
 Data Controller Status
 
@@ -5872,7 +6279,9 @@ Data Controller Status
 
 Complete Guest Relationship Ownership
 
+
 33
+
 
 Story of Change
 
@@ -5880,7 +6289,9 @@ Story of Change
 
 Coherence Across Change
 
+
 34
+
 
 Narrative Adaptation
 
@@ -5888,7 +6299,9 @@ Narrative Adaptation
 
 Narrative Reinvention
 
+
 35
+
 
 Narrative Subject
 
@@ -5896,7 +6309,9 @@ Narrative Subject
 
 Narrative Anchor
 
+
 36
+
 
 Narrative Carrier
 
@@ -5904,7 +6319,9 @@ Narrative Carrier
 
 Narrative Invariant
 
+
 37
+
 
 Narrative Coherence
 
@@ -5912,7 +6329,9 @@ Narrative Coherence
 
 Coherence Through Change
 
+
 38
+
 
 Shared Evidence
 
@@ -5920,7 +6339,9 @@ Shared Evidence
 
 Shared Pattern
 
+
 39
+
 
 Time Exists
 
@@ -5928,13 +6349,16 @@ Time Exists
 
 Temporal Hospitality
 
+
 40
+
 
 Strong Historical Story
 
 ≠
 
 Current Narrative Fit
+
 
 Evidence Discipline
 
@@ -6036,6 +6460,7 @@ previous operating era
 
 Key corrections:
 
+
 Brand Evidence
 
 ≠
@@ -6058,11 +6483,14 @@ Official
 
 Current
 
+
 Current Research Workflow
 
 Each:
 
-restaurant:
+independent:
+
+hospitality case:
 
 should normally:
 
@@ -6071,6 +6499,7 @@ contain:
 the following:
 
 files.
+
 
 README.md
 
@@ -6086,9 +6515,31 @@ story.md
 
 knowledge-extraction.md
 
+
+For:
+
+non-restaurant institutions:
+
+reservation.md
+
+means:
+
+Booking / Access / Participation.
+
+This preserves:
+
+cross-sector comparison
+
+without:
+
+forcing:
+
+a restaurant-specific transaction model.
+
 The sequence is:
 
-Restaurant Selection
+
+Hospitality Case Selection
 
 ↓
 
@@ -6120,13 +6571,31 @@ Knowledge Extraction
 
 ↓
 
-Cross-Restaurant Comparison
+Cross-Hospitality Comparison
 
 ↓
 
 Governance Reconciliation
 
+↓
+
+Ten-Case Cycle Check
+
+↓
+
+Track C Synthesis Build
+
+when:
+
+ten new cases
+
+are:
+
+complete.
+
+
 Research Folder Structure
+
 
 khds/
 
@@ -6143,6 +6612,18 @@ khds/
     │   ├── dans-le-noir-london/
 
     │   └── avatar-robot-cafe-dawn-tokyo/
+
+    │
+
+    ├── institutions/
+
+    │   ├── README.md
+
+    │   ├── hotels/
+
+    │   ├── wellness/
+
+    │   └── venues/
 
     │
 
@@ -6170,7 +6651,14 @@ khds/
 
     │
 
+    ├── synthesis/
+
+    │   └── README.md
+
+    │
+
     └── README.md
+
 
 Governance Hierarchy
 
@@ -6338,11 +6826,13 @@ Craft Over Convenience
 
 Core boundary:
 
+
 Studio Foundation
 
 ≠
 
 Research-Derived Principle
+
 
 Relationship Between Foundations and Research
 
@@ -6382,7 +6872,9 @@ Principle.
 
 Example:
 
+
 Photography Before Decoration
+
 
 exists as:
 
@@ -7394,6 +7886,7 @@ following:
 
 distinctions.
 
+
 Observation
 
 ≠
@@ -7439,6 +7932,7 @@ Repeated Support
 ≠
 
 Validated
+
 
 Research Selection Rule
 
@@ -7536,11 +8030,13 @@ expose hidden assumptions
 
 Therefore:
 
+
 Contradiction
 
 ≠
 
 Research Failure
+
 
 Historical Post–Noma Research Conclusion
 
@@ -7642,15 +8138,18 @@ corrections.
 
 Most importantly:
 
+
 Coherence
 
 ≠
 
 Sameness
 
+
 It also established:
 
 that:
+
 
 Expectation Clarity
 
@@ -7690,13 +8189,16 @@ Story of Change
 
 Coherence Across Change
 
+
 and:
+
 
 Time Exists
 
 ≠
 
 Temporal Hospitality
+
 
 The strongest:
 
@@ -7707,6 +8209,7 @@ formal:
 governance:
 
 state is:
+
 
 14 Independent Restaurants
 
@@ -7725,6 +8228,7 @@ state is:
 36 Opportunity Themes
 
 17 Track B Implementation Learnings
+
 
 The next:
 
@@ -7816,6 +8320,7 @@ operating system.
 
 Its defining condition is:
 
+
 The Human Host
 
 May Be Physically Remote
@@ -7824,17 +8329,20 @@ while remaining
 
 Socially Present
 
+
 The strongest:
 
 cross-dimensional:
 
 finding is:
 
+
 Human Mediation Through Technology
 
 ≠
 
 Human Replacement by Technology
+
 
 The avatar is not:
 
@@ -7902,11 +8410,13 @@ to:
 
 Candidate / Medium-High.
 
+
 Visible Robot
 
 ≠
 
 Visible Human Relationship
+
 
 The visual subject may be:
 
@@ -7952,11 +8462,13 @@ only:
 
 multiple products.
 
+
 Multiple Offers
 
 ≠
 
 Multiple Hospitality Intents
+
 
 This distinction moves:
 
@@ -8032,11 +8544,13 @@ how the venue distributes participation.
 
 The strongest story boundary is:
 
+
 Mission Coherence
 
 ≠
 
 Verified Social Outcome
+
 
 Public evidence can establish:
 
@@ -8074,11 +8588,13 @@ rather than:
 
 a separate accommodation page.
 
+
 Accessibility Infrastructure
 
 ≠
 
 Accommodation Layer Only
+
 
 The research therefore adds:
 
@@ -8110,6 +8626,7 @@ The current:
 
 formal state is:
 
+
 17 Independent Restaurants
 
 26 Candidate Patterns
@@ -8128,7 +8645,9 @@ formal state is:
 
 17 Track B Implementation Learnings
 
+
 Restaurant #17 produced:
+
 
 1 Candidate Promotion
 
@@ -8144,6 +8663,7 @@ Restaurant #17 produced:
 
 0 Research-Derived Principle Promotions
 
+
 The absence of:
 
 Validated promotion
@@ -8153,6 +8673,7 @@ and:
 Principle promotion
 
 is intentional.
+
 
 Architecture Extension
 
@@ -8167,6 +8688,7 @@ Mission Importance
 ≠
 
 Research-Derived Principle
+
 
 The research cycle:
 
@@ -8230,9 +8752,11 @@ prestige destination.
 
 Its defining condition is:
 
+
 The Core Experience
 
 Cannot Be Seen
+
 
 That condition forces KHDS:
 
@@ -8264,11 +8788,13 @@ cross-dimensional:
 
 finding is:
 
+
 Visual Absence
 
 ≠
 
 Evidence Absence
+
 
 Photography remains:
 
@@ -8372,11 +8898,13 @@ and:
 
 the operating product.
 
+
 Human Guidance
 
 ≠
 
 Fallback Support
+
 
 Capacity Proof also:
 
@@ -8414,11 +8942,13 @@ The strongest:
 
 participation correction is:
 
+
 Participation Complexity
 
 ≠
 
 Interface Complexity
+
 
 A complex experience may use:
 
@@ -8464,6 +8994,7 @@ That mechanism remains:
 
 strictly bounded.
 
+
 Temporary Darkness
 
 ≠
@@ -8478,9 +9009,11 @@ Awareness Opportunity
 
 Guaranteed Transformation
 
+
 The current:
 
 formal state is:
+
 
 16 Independent Restaurants
 
@@ -8500,7 +9033,9 @@ formal state is:
 
 17 Track B Implementation Learnings
 
+
 Restaurant #16 produced:
+
 
 2 Candidate Promotions
 
@@ -8516,17 +9051,20 @@ Restaurant #16 produced:
 
 0 Research-Derived Principle Promotions
 
+
 The absence of:
 
 Validated promotion
 
 is intentional.
 
+
 Contradiction Survival
 
 ≠
 
 Validation
+
 
 The research cycle:
 
@@ -8608,11 +9146,13 @@ more legible.
 
 The central correction is:
 
+
 Thing
 
 ≠
 
 Relationship
+
 
 A photograph of:
 
@@ -8738,11 +9278,13 @@ pattern.
 
 The key boundary is:
 
+
 Visit Preparation
 
 ≠
 
 Waiting
+
 
 The waiting taxonomy therefore remains:
 
@@ -9068,19 +9610,23 @@ Candidate / High.
 
 The combined research position is:
 
+
 Capacity Proof
 
 ≠
 
 Authority Alone
 
+
 and:
+
 
 Capacity Proof
 
 ≠
 
 Full Future Outcome Proof
+
 
 Confidence may be built through:
 
@@ -9110,6 +9656,7 @@ Formal Governance Outcome
 
 Restaurant #15 produced:
 
+
 7 Candidate Promotions
 
 4 Confidence Increases
@@ -9123,6 +9670,7 @@ Restaurant #15 produced:
 0 Validated Promotions
 
 0 Research-Derived Principle Promotions
+
 
 The seven Candidate promotions are:
 
@@ -9156,6 +9704,7 @@ post–Pearl Morissette:
 
 formal governance state is:
 
+
 15 Independent Restaurants
 
 11 Emerging Patterns
@@ -9173,6 +9722,7 @@ formal governance state is:
 36 Opportunity Themes
 
 17 Track B Implementation Learnings
+
 
 The increase in:
 
@@ -9260,9 +9810,11 @@ Post–Avatar Robot Café DAWN Count Reconciliation — Historical Research Laye
 
 Post–Dans le Noir? London canonical state:
 
+
 Emerging: 9
 
 Candidate: 25
+
 
 Restaurant #17 promotes:
 
@@ -9274,19 +9826,23 @@ Multi-Intent Hospitality
 
 Therefore:
 
+
 9 Emerging
 
 − 1 Promotion
 
 = 8 Emerging
 
+
 and:
+
 
 25 Candidates
 
-1 Promotion
++ 1 Promotion
 
 = 26 Candidates
+
 
 One:
 
@@ -9300,6 +9856,7 @@ the Candidate count.
 
 Candidate confidence distribution:
 
+
 Candidate / High: 9
 
 Candidate / Medium-High: 6
@@ -9308,6 +9865,7 @@ Candidate / Medium: 11
 
 9 + 6 + 11 = 26
 
+
 All other:
 
 formal counts
@@ -9315,6 +9873,7 @@ formal counts
 remain:
 
 unchanged.
+
 
 Partially Supported: 1
 
@@ -9328,6 +9887,7 @@ Opportunity Themes: 36
 
 Track B Implementation Learnings: 17
 
+
 Research README counts:
 
 reconciled.
@@ -9336,9 +9896,11 @@ Post–Dans le Noir? London Count Reconciliation — Historical Research Layer
 
 Post–Pearl Morissette canonical state:
 
+
 Emerging: 11
 
 Candidate: 23
+
 
 Restaurant #16 promotes:
 
@@ -9352,19 +9914,23 @@ Human Assistance Where Structured Self-Service Is Insufficient
 
 Therefore:
 
+
 11 Emerging
 
 − 2 Promotions
 
 = 9 Emerging
 
+
 and:
+
 
 23 Candidates
 
-2 Promotions
++ 2 Promotions
 
 = 25 Candidates
+
 
 Two:
 
@@ -9384,6 +9950,7 @@ remain:
 
 unchanged.
 
+
 Partially Supported: 1
 
 Validated: 0
@@ -9396,6 +9963,7 @@ Opportunity Themes: 36
 
 Track B Implementation Learnings: 17
 
+
 Research README counts:
 
 reconciled.
@@ -9404,9 +9972,11 @@ Post–Pearl Morissette Count Reconciliation — Historical Research Layer
 
 Post-Noma canonical state:
 
+
 Emerging: 16
 
 Candidate: 16
+
 
 Restaurant #15 promoted:
 
@@ -9420,11 +9990,13 @@ Candidate.
 
 Therefore:
 
+
 16 Emerging
 
 − 5 Emerging Promotions
 
 = 11 Emerging
+
 
 Restaurant #15 also promoted:
 
@@ -9440,13 +10012,15 @@ Stable Participation / Variable Product
 
 Therefore:
 
+
 16 Existing Candidates
 
-5 Emerging Promotions
++ 5 Emerging Promotions
 
-2 Below-Candidate Promotions
++ 2 Below-Candidate Promotions
 
 = 23 Candidates
+
 
 All other:
 
@@ -9455,6 +10029,7 @@ formal counts
 remain:
 
 unchanged.
+
 
 Partially Supported: 1
 
@@ -9467,6 +10042,7 @@ Implementation Patterns Pending Formal Validation: 1
 Opportunity Themes: 36
 
 Track B Implementation Learnings: 17
+
 
 Research README counts:
 
@@ -9526,6 +10102,7 @@ a conventional commercial guest journey.
 
 Its defining condition is:
 
+
 The Principal Guest
 
 May Not Pay
@@ -9536,17 +10113,20 @@ while remaining
 
 Fully a Hospitality Guest
 
+
 The strongest:
 
 cross-dimensional:
 
 finding is:
 
+
 Guesthood Without Purchase
 
 ≠
 
 Hospitality Without Structure
+
 
 Refettorio Felix does not remove:
 
@@ -9598,19 +10178,23 @@ consequence-bearing uncertainty.
 
 This sharpens:
 
+
 Open Door
 
 ≠
 
 Guaranteed Admission
 
+
 and:
+
 
 No Reservation
 
 ≠
 
 No Participation Structure
+
 
 Restaurant #18 strengthens:
 
@@ -9648,19 +10232,23 @@ Local Continuity / Model Transformation.
 
 The confidence increase remains bounded by:
 
+
 Documented Change
 
 ≠
 
 Validated Improvement
 
+
 and:
+
 
 Narrative Coherence
 
 ≠
 
 Operating Success
+
 
 Restaurant #18 also strengthens:
 
@@ -9680,6 +10268,7 @@ recovered surplus availability.
 
 The higher-order service contract remains comparatively stable.
 
+
 Unpredictable Product Input
 
 ↓
@@ -9690,17 +10279,20 @@ inside
 
 Stable Access + Timing + Service Rules
 
+
 The relevant mechanism is:
 
 Stable Service Contract / Variable Resource Product.
 
 The confidence increase remains bounded by:
 
+
 Stable Rule
 
 ≠
 
 Guaranteed Fulfilment
+
 
 The restaurant provides:
 
@@ -9730,11 +10322,13 @@ Strong support is not:
 
 automatic confidence movement.
 
+
 Evidence Density
 
 ≠
 
 Governance Inflation
+
 
 Refettorio Felix is especially important for:
 
@@ -9770,11 +10364,13 @@ holds:
 
 many hospitality intents.
 
+
 Stakeholder Route
 
 ≠
 
 Guest Intent
+
 
 The definition survives:
 
@@ -9814,11 +10410,13 @@ to carry:
 
 the proof burden.
 
+
 Photography of Vulnerability
 
 ≠
 
 Proof of Support
+
 
 Public images cannot automatically establish:
 
@@ -9834,19 +10432,23 @@ or:
 
 outcome.
 
+
 Published Image
 
 ≠
 
 Verified Consent
 
+
 The strongest story correction is:
+
 
 Recovering Food Value
 
 ≠
 
 Recovering Human Worth
+
 
 Recovery language applies to:
 
@@ -9876,11 +10478,13 @@ originate:
 
 human worth.
 
+
 Dignity Support
 
 ≠
 
 Dignity Production
+
 
 The public record can establish:
 
@@ -9904,6 +10508,7 @@ performance under shortage
 
 equitable access burden.
 
+
 Activity
 
 ≠
@@ -9913,6 +10518,7 @@ Experience
 ≠
 
 Outcome
+
 
 This is why:
 
@@ -9946,6 +10552,7 @@ a universal KHDS Principle.
 
 The current formal state is:
 
+
 18 Independent Restaurants
 
 26 Candidate Patterns
@@ -9964,7 +10571,9 @@ The current formal state is:
 
 17 Track B Implementation Learnings
 
+
 Restaurant #18 produced:
+
 
 0 Candidate Promotions
 
@@ -9980,6 +10589,7 @@ Restaurant #18 produced:
 
 0 Research-Derived Principle Promotions
 
+
 The absence of:
 
 promotion
@@ -9991,6 +10601,7 @@ and:
 Principle status
 
 is intentional.
+
 
 Coherent Social-Hospitality Model
 
@@ -10005,6 +10616,7 @@ Ethically Important Architecture
 ≠
 
 Universal KHDS Principle
+
 
 Restaurant #18 expands:
 
@@ -10022,9 +10634,11 @@ Post–Refettorio Felix Count Reconciliation
 
 Post–Avatar Robot Café DAWN canonical state:
 
+
 Emerging: 8
 
 Candidate: 26
+
 
 Restaurant #18 promotes:
 
@@ -10034,19 +10648,23 @@ patterns.
 
 Therefore:
 
+
 8 Emerging
 
 − 0 Promotions
 
 = 8 Emerging
 
+
 and:
+
 
 26 Candidates
 
-0 Promotions
++ 0 Promotions
 
 = 26 Candidates
+
 
 Two:
 
@@ -10060,6 +10678,7 @@ the Candidate count.
 
 Candidate confidence distribution:
 
+
 Candidate / High: 9
 
 Candidate / Medium-High: 6 + 2 = 8
@@ -10068,9 +10687,12 @@ Candidate / Medium: 11 − 2 = 9
 
 9 + 8 + 9 = 26
 
+
 Independent restaurant arithmetic:
 
+
 17 + 1 = 18
+
 
 All other:
 
@@ -10079,6 +10701,7 @@ formal counts
 remain:
 
 unchanged.
+
 
 Partially Supported: 1
 
@@ -10091,6 +10714,7 @@ Implementation Patterns Pending Formal Validation: 1
 Opportunity Themes: 36
 
 Track B Implementation Learnings: 17
+
 
 Research README counts:
 
@@ -10254,11 +10878,15 @@ community hospitality.
 
 Refettorio Felix established:
 
+
 Guesthood Without Purchase
+
 
 JBJ Soul Kitchen adds:
 
+
 Guesthood Across Different Contribution States
+
 
 The distinction is material.
 
@@ -10318,11 +10946,13 @@ cross-dimensional:
 
 finding is:
 
+
 How a Person Contributes
 
 ≠
 
 Whether the Person Belongs
+
 
 This finding produces:
 
@@ -10348,6 +10978,7 @@ The Reciprocity, Contribution and Guest-Role Boundary Case
 
 Primary contradiction:
 
+
 Flexible Contribution
 
 Can Increase Access
@@ -10355,6 +10986,7 @@ Can Increase Access
 while also creating
 
 Visibility, Pressure and Rule Complexity
+
 
 The research therefore refuses to equate:
 
@@ -10364,11 +10996,13 @@ with:
 
 automatic dignity.
 
+
 Flexible Contribution
 
 ≠
 
 Pressure-Free Participation
+
 
 Restaurant #19 Arrival Synthesis
 
@@ -10398,19 +11032,23 @@ capacity-dependent admission.
 
 Primary mechanism:
 
+
 Open Walk-In Route
 
 inside
 
 Live Human Allocation
 
+
 The strongest arrival correction is:
+
 
 First Come
 
 ≠
 
 Only Arrival Rule
+
 
 First-come language may explain:
 
@@ -10430,11 +11068,13 @@ recovery.
 
 The strongest dignity requirement is:
 
+
 Contribution-State Recognition
 
 ≠
 
 Contribution-State Exposure
+
 
 The system may need to know:
 
@@ -10482,13 +11122,16 @@ Contribution-Neutral Atmosphere.
 
 Strongest product boundary:
 
+
 Same Meal
 
 ≠
 
 Same Hospitality
 
+
 Strongest social boundary:
+
 
 Shared Room
 
@@ -10496,7 +11139,9 @@ Shared Room
 
 Equal Belonging
 
+
 Strongest outcome boundary:
+
 
 Designed Equality
 
@@ -10504,13 +11149,16 @@ Designed Equality
 
 Experienced Equality
 
+
 Strongest consistency correction:
+
 
 Stable Respect
 
 ≠
 
 Stable Mood
+
 
 The stable atmospheric responsibility is:
 
@@ -10542,11 +11190,13 @@ Economic-Status-Blind Photography.
 
 The strongest visual boundary is:
 
+
 Visible Person
 
 ≠
 
 Visible Economic Status
+
 
 The evidence system should prioritise:
 
@@ -10582,11 +11232,14 @@ inferred transformation.
 
 Strongest evidence allocation rule:
 
+
 The Institution
 
 Carries the Primary Proof Burden
 
+
 Strongest consent boundary:
+
 
 Guest Photograph
 
@@ -10594,13 +11247,16 @@ Guest Photograph
 
 Consent to Fundraising Use
 
+
 Strongest system boundary:
+
 
 Pay-It-Forward Image
 
 ≠
 
 Cross-Subsidy Proof
+
 
 Restaurant #19 Reservation and Participation Synthesis
 
@@ -10644,13 +11300,16 @@ recovery requirements.
 
 Strongest participation boundary:
 
+
 No Reservation
 
 ≠
 
 No Allocation
 
+
 Strongest capacity boundary:
+
 
 Volunteer Place
 
@@ -10658,7 +11317,9 @@ Volunteer Place
 
 Dining Seat
 
+
 Strongest privacy boundary:
+
 
 Priority
 
@@ -10666,13 +11327,16 @@ Priority
 
 Public Proof of Need
 
+
 Strongest guesthood boundary:
+
 
 Contribution State
 
 ≠
 
 Guest Rank
+
 
 Restaurant #19 Story Synthesis
 
@@ -10730,13 +11394,16 @@ its limits.
 
 Strongest story boundary:
 
+
 Reciprocity
 
 ≠
 
 Deservingness
 
+
 Strongest ownership boundary:
+
 
 Donor Support
 
@@ -10744,7 +11411,9 @@ Donor Support
 
 Recipient Ownership
 
+
 Strongest evidence boundary:
+
 
 Activity
 
@@ -10759,6 +11428,7 @@ Outcome
 ≠
 
 Causality
+
 
 Restaurant #19 Pattern Pressure
 
@@ -10804,11 +11474,13 @@ invitation / exchange:
 
 boundary.
 
+
 Invitation to Volunteer
 
 ≠
 
 Exchange of Volunteer Work for a Meal
+
 
 The public record may describe:
 
@@ -11008,31 +11680,33 @@ Full-Capacity Recovery.
 
 The family connects:
 
+
 Flexible Contribution
 
-
++
 
 Stable Guesthood
 
-
++
 
 Mission-Priority Allocation
 
-
++
 
 Contribution-State Privacy
 
-
++
 
 Human-Routed Participation
 
-
++
 
 Same-Meal Commitment
 
 ↓
 
 Reciprocal Hospitality Without Rank
+
 
 The family remains:
 
@@ -11048,7 +11722,7 @@ a research-derived KHDS Principle.
 
 Restaurant #19 Cross-Dimensional Corrections
 
-
+1.
 
 No Fixed Price
 
@@ -11056,7 +11730,7 @@ No Fixed Price
 
 No Economic Expectation
 
-
+2.
 
 Contribution State
 
@@ -11064,7 +11738,7 @@ Contribution State
 
 Guest Rank
 
-
+3.
 
 Reciprocity
 
@@ -11072,7 +11746,7 @@ Reciprocity
 
 Deservingness
 
-
+4.
 
 Invitation to Volunteer
 
@@ -11080,7 +11754,7 @@ Invitation to Volunteer
 
 Requirement to Volunteer
 
-
+5.
 
 No Reservation
 
@@ -11088,7 +11762,7 @@ No Reservation
 
 No Allocation
 
-
+6.
 
 First Come
 
@@ -11096,7 +11770,7 @@ First Come
 
 Only Allocation Rule
 
-
+7.
 
 Priority
 
@@ -11104,7 +11778,7 @@ Priority
 
 Public Proof of Need
 
-
+8.
 
 Volunteer Place
 
@@ -11112,7 +11786,7 @@ Volunteer Place
 
 Dining Seat
 
-
+9.
 
 Same Meal
 
@@ -11120,7 +11794,7 @@ Same Meal
 
 Same Hospitality
 
-
+10.
 
 Shared Room
 
@@ -11128,7 +11802,7 @@ Shared Room
 
 Equal Belonging
 
-
+11.
 
 Designed Equality
 
@@ -11136,7 +11810,7 @@ Designed Equality
 
 Experienced Equality
 
-
+12.
 
 Visible Person
 
@@ -11144,7 +11818,7 @@ Visible Person
 
 Visible Economic Status
 
-
+13.
 
 Guest Photograph
 
@@ -11152,7 +11826,7 @@ Guest Photograph
 
 Consent to Fundraising Use
 
-
+14.
 
 Finished Plate
 
@@ -11160,7 +11834,7 @@ Finished Plate
 
 Same-Meal Proof
 
-
+15.
 
 Pay-It-Forward Image
 
@@ -11168,7 +11842,7 @@ Pay-It-Forward Image
 
 Cross-Subsidy Proof
 
-
+16.
 
 Donor Support
 
@@ -11176,7 +11850,7 @@ Donor Support
 
 Recipient Ownership
 
-
+17.
 
 Founder Biography
 
@@ -11184,7 +11858,7 @@ Founder Biography
 
 Current Operating Proof
 
-
+18.
 
 Activity
 
@@ -11200,7 +11874,7 @@ Outcome
 
 Causality
 
-
+19.
 
 Stable Respect
 
@@ -11208,7 +11882,7 @@ Stable Respect
 
 Stable Mood
 
-
+20.
 
 Multiple Stakeholder Roles
 
@@ -11266,6 +11940,7 @@ or:
 
 causal impact.
 
+
 Published Mechanism
 
 ≠
@@ -11288,9 +11963,11 @@ Visible Participation
 
 Visible Economic Status
 
+
 Post–JBJ Soul Kitchen Count Reconciliation
 
 Post–Refettorio Felix canonical state:
+
 
 Independent Restaurants: 18
 
@@ -11304,6 +11981,7 @@ Validated: 0
 
 Research-Derived Principles: 0
 
+
 Restaurant #19 promotes:
 
 0:
@@ -11312,19 +11990,23 @@ patterns.
 
 Therefore:
 
+
 8 Emerging
 
 − 0 Promotions
 
 = 8 Emerging
 
+
 and:
+
 
 26 Candidates
 
-0 Promotions
++ 0 Promotions
 
 = 26 Candidates
+
 
 Restaurant #19 changes confidence for:
 
@@ -11334,6 +12016,7 @@ Candidates.
 
 Candidate confidence distribution:
 
+
 Candidate / High: 9
 
 Candidate / Medium-High: 8
@@ -11342,11 +12025,15 @@ Candidate / Medium: 9
 
 9 + 8 + 9 = 26
 
+
 Independent restaurant arithmetic:
+
 
 18 + 1 = 19
 
+
 All other formal counts remain unchanged.
+
 
 Partially Supported: 1
 
@@ -11359,6 +12046,7 @@ Implementation Patterns Pending Formal Validation: 1
 Opportunity Themes: 36
 
 Track B Implementation Learnings: 17
+
 
 Research README counts:
 
@@ -11404,11 +12092,13 @@ It does not create:
 
 automatic maturity movement.
 
+
 Independent Contrast
 
 ≠
 
 Automatic Promotion
+
 
 Why No Confidence Change Occurred — Restaurant #19
 
@@ -11470,11 +12160,13 @@ or:
 
 multi-context causal evidence.
 
+
 Coherent Reciprocal Model
 
 ≠
 
 Validated Outcome
+
 
 Why No Research-Derived Principle Promotion Occurred — Restaurant #19
 
@@ -11504,11 +12196,13 @@ and:
 
 systems without volunteer labour.
 
+
 Ethically Coherent Architecture
 
 ≠
 
 Universal KHDS Principle
+
 
 Current Post–JBJ Soul Kitchen Research Priorities
 
@@ -11844,6 +12538,7 @@ independent restaurants
 
 KHDS contains:
 
+
 26 Candidate Patterns
 
 8 Emerging Patterns
@@ -11853,6 +12548,7 @@ KHDS contains:
 0 Validated Patterns
 
 0 Research-Derived KHDS Principles
+
 
 Restaurant #19 produced:
 
@@ -11878,13 +12574,16 @@ Reciprocal Hospitality Without Rank.
 
 Its strongest arrival correction is:
 
+
 First Come
 
 ≠
 
 Only Arrival Rule
 
+
 Its strongest atmosphere correction is:
+
 
 Contribution Neutrality
 
@@ -11892,7 +12591,9 @@ Contribution Neutrality
 
 Experienced Equality
 
+
 Its strongest photography correction is:
+
 
 Visible Person
 
@@ -11900,7 +12601,9 @@ Visible Person
 
 Visible Economic Status
 
+
 Its strongest reservation correction is:
+
 
 No Reservation
 
@@ -11908,7 +12611,9 @@ No Reservation
 
 No Allocation
 
+
 Its strongest story correction is:
+
 
 Reciprocity
 
@@ -11916,13 +12621,16 @@ Reciprocity
 
 Deservingness
 
+
 Its strongest governance boundary is:
+
 
 Invitation to Volunteer
 
 ≠
 
 Requirement to Volunteer
+
 
 The research system expands:
 
@@ -11938,19 +12646,13 @@ Post–SAME Café Denver Research Conclusion
 
 Restaurant #20 completed:
 
-initial dossier
-
-five dimension dossiers
-
-knowledge extraction
-
-five cross-restaurant comparisons
-
-canonical Candidate reconciliation
-
-pattern registry reconciliation
-
-validation dashboard reconciliation.
+- initial dossier
+- five dimension dossiers
+- knowledge extraction
+- five cross-restaurant comparisons
+- canonical Candidate reconciliation
+- pattern registry reconciliation
+- validation dashboard reconciliation.
 
 The restaurant count moves from:
 
@@ -11958,7 +12660,7 @@ The restaurant count moves from:
 
 to:
 
-
+20.
 
 No pattern maturity changes.
 
@@ -12144,23 +12846,15 @@ in the reviewed public system.
 
 It still requires allocation of:
 
-meals
-
-seats
-
-queues
-
-contribution resolution
-
-tasks
-
-suitable tasks
-
-produce acceptance
-
-human attention
-
-and recovery.
+- meals
+- seats
+- queues
+- contribution resolution
+- tasks
+- suitable tasks
+- produce acceptance
+- human attention
+- and recovery.
 
 The strongest reservation boundary is:
 
@@ -12186,15 +12880,11 @@ So All May Eat.
 
 The name acts as:
 
-identity
-
-mission
-
-promise
-
-operating test
-
-and evidence burden.
+- identity
+- mission
+- promise
+- operating test
+- and evidence burden.
 
 The story is coherent around:
 
@@ -12244,87 +12934,53 @@ Restaurant #20 Pattern Pressure
 
 Candidate patterns receiving strong support include:
 
-Atmosphere Through Worldview
-
-Show the System Behind the Plate
-
-Narrative Language Within Clear Interface
-
-Walk-In as First-Class Participation
-
-Story Through Hospitality Model
-
-Hospitality System Proof
-
-Narrative Coherence Through Organising Logic
-
-Photography as Proof
-
-Capacity Proof
-
-Photography Should Demonstrate Difference
-
-Stable Participation / Variable Product
-
-Manageable Commitment
-
-Participation Rule Consistency
-
-Layered Arrival
-
-Atmosphere Through Consistency
-
-Photography Through Layers of Experience
-
-Participation Throughout the Journey
-
-Human Assistance Where Structured Self-Service Is Insufficient
-
-and Multi-Intent Hospitality.
+- Atmosphere Through Worldview
+- Show the System Behind the Plate
+- Narrative Language Within Clear Interface
+- Walk-In as First-Class Participation
+- Story Through Hospitality Model
+- Hospitality System Proof
+- Narrative Coherence Through Organising Logic
+- Photography as Proof
+- Capacity Proof
+- Photography Should Demonstrate Difference
+- Stable Participation / Variable Product
+- Manageable Commitment
+- Participation Rule Consistency
+- Layered Arrival
+- Atmosphere Through Consistency
+- Photography Through Layers of Experience
+- Participation Throughout the Journey
+- Human Assistance Where Structured Self-Service Is Insufficient
+- and Multi-Intent Hospitality.
 
 None changed confidence.
 
 The strongest blockers are:
 
-performed contribution neutrality
-
-failed-route recovery
-
-suitable-task access
-
-live capacity
-
-human-assistance consistency
-
-contribution-state privacy
-
-consent persistence
-
-guest experience
-
-measured outcome
-
-and causality.
+- performed contribution neutrality
+- failed-route recovery
+- suitable-task access
+- live capacity
+- human-assistance consistency
+- contribution-state privacy
+- consent persistence
+- guest experience
+- measured outcome
+- and causality.
 
 Restaurant #20 Emerging Review
 
 All eight directions remain Emerging:
 
-Emotion Before Interface
-
-Story Before Features
-
-Photography Before Decoration
-
-Commitment Without Pressure
-
-Promise Before Proof
-
-The Guest as Participant
-
-Atmosphere as Product
-
-Escalating Participation Complexity
+1. Emotion Before Interface
+2. Story Before Features
+3. Photography Before Decoration
+4. Commitment Without Pressure
+5. Promise Before Proof
+6. The Guest as Participant
+7. Atmosphere as Product
+8. Escalating Participation Complexity
 
 Own the Guest Relationship remains:
 
@@ -12332,55 +12988,31 @@ Partially Supported / Medium.
 
 Restaurant #20 Architecture Additions
 
-Reciprocal Hospitality With Explicit Terms
-
-Belonging Before Contribution
-
-Explicit Contribution Menu
-
-Contribution Equivalence as Rights
-
-Contribution-State / Guest-Identity Separation
-
-Contribution-Route Capacity
-
-No-Reservation Allocation
-
-Suitable-Task Capacity
-
-Work-for-Meal Handoff
-
-Work-to-Guest Re-entry
-
-Produce-Acceptance Recovery
-
-No-Available-Route Hospitality
-
-Private Human Recovery
-
-Contribution-Neutral Atmosphere
-
-Optional Sociality
-
-Contribution-State-Blind Photography
-
-Proof Without Human Exposure
-
-Participant-Controlled Visibility
-
-Universal Promise / Finite Capacity Qualification
-
-Activity / Experience / Outcome / Causality Ladder
-
-Transparent Institutional Learning
-
-Outcome Without Transformation Theatre
-
-Role-Bounded Data
-
-Event / Café Rule Separation
-
-Commercial / Mission Route Separation
+1. Reciprocal Hospitality With Explicit Terms
+2. Belonging Before Contribution
+3. Explicit Contribution Menu
+4. Contribution Equivalence as Rights
+5. Contribution-State / Guest-Identity Separation
+6. Contribution-Route Capacity
+7. No-Reservation Allocation
+8. Suitable-Task Capacity
+9. Work-for-Meal Handoff
+10. Work-to-Guest Re-entry
+11. Produce-Acceptance Recovery
+12. No-Available-Route Hospitality
+13. Private Human Recovery
+14. Contribution-Neutral Atmosphere
+15. Optional Sociality
+16. Contribution-State-Blind Photography
+17. Proof Without Human Exposure
+18. Participant-Controlled Visibility
+19. Universal Promise / Finite Capacity Qualification
+20. Activity / Experience / Outcome / Causality Ladder
+21. Transparent Institutional Learning
+22. Outcome Without Transformation Theatre
+23. Role-Bounded Data
+24. Event / Café Rule Separation
+25. Commercial / Mission Route Separation
 
 All remain:
 
@@ -12388,55 +13020,31 @@ below formal pattern maturity.
 
 Restaurant #20 Cross-Dimensional Corrections
 
-Participation for Every Person ≠ Equal Capacity to Participate
-
-Contribution Orientation ≠ Contribution Disclosure
-
-Contribution Route ≠ Guest Identity
-
-Contribution Choice ≠ Contribution Neutrality
-
-Explicit Exchange ≠ Human Rank
-
-Participation Supports Belonging ≠ Participation Earns Belonging
-
-Multiple Options ≠ Available Options
-
-Contribution Failure ≠ Guest Failure
-
-Half-Hour Work ≠ Half-Hour Journey
-
-Task Available ≠ Task Accessible
-
-Produce Offered ≠ Produce Accepted
-
-No Dining Reservation ≠ No Participation Structure
-
-Walk-In Access ≠ Guaranteed Meal
-
-Seat Available ≠ Suitable Task Available
-
-Same Food ≠ Same Experienced Burden
-
-Visible Contribution ≠ Visible Economic Status
-
-Community Available ≠ Community Performance Required
-
-One Room ≠ Equal Guesthood
-
-Designed Equality ≠ Experienced Equality
-
-Mission Coherence ≠ Mission Completion
-
-Origin Story ≠ Current Operating Proof
-
-Activity ≠ Experience ≠ Outcome ≠ Causality
-
-Consent to Capture ≠ Consent to Every Reuse
-
-One Person ≠ One Combined Participation Profile
-
-One Restaurant Case ≠ Universal Hospitality Pattern
+1. Participation for Every Person ≠ Equal Capacity to Participate
+2. Contribution Orientation ≠ Contribution Disclosure
+3. Contribution Route ≠ Guest Identity
+4. Contribution Choice ≠ Contribution Neutrality
+5. Explicit Exchange ≠ Human Rank
+6. Participation Supports Belonging ≠ Participation Earns Belonging
+7. Multiple Options ≠ Available Options
+8. Contribution Failure ≠ Guest Failure
+9. Half-Hour Work ≠ Half-Hour Journey
+10. Task Available ≠ Task Accessible
+11. Produce Offered ≠ Produce Accepted
+12. No Dining Reservation ≠ No Participation Structure
+13. Walk-In Access ≠ Guaranteed Meal
+14. Seat Available ≠ Suitable Task Available
+15. Same Food ≠ Same Experienced Burden
+16. Visible Contribution ≠ Visible Economic Status
+17. Community Available ≠ Community Performance Required
+18. One Room ≠ Equal Guesthood
+19. Designed Equality ≠ Experienced Equality
+20. Mission Coherence ≠ Mission Completion
+21. Origin Story ≠ Current Operating Proof
+22. Activity ≠ Experience ≠ Outcome ≠ Causality
+23. Consent to Capture ≠ Consent to Every Reuse
+24. One Person ≠ One Combined Participation Profile
+25. One Restaurant Case ≠ Universal Hospitality Pattern
 
 Post–SAME Café Count Reconciliation
 
@@ -12564,41 +13172,24 @@ Universal Principle.
 
 Current Post–SAME Café Research Priorities
 
-Failed contribution-route recovery
-
-Contribution-neutral service
-
-Suitable-task capacity and accessibility
-
-Produce-rejection recovery
-
-No-route access without worthiness assessment
-
-Walk-in meal, seat and task capacity
-
-Pressure created by explicit exchange
-
-Contribution-state privacy
-
-Work-to-guest re-entry
-
-Route-switching freedom
-
-Optional sociality
-
-Human-assistance failure and bias
-
-Contribution-state-blind photography
-
-Consent persistence and withdrawal
-
-Activity / experience / outcome / causality separation
-
-Universal promise / finite capacity qualification
-
-Role-bounded data
-
-Cross-cultural reciprocity countercases
+1. Failed contribution-route recovery
+2. Contribution-neutral service
+3. Suitable-task capacity and accessibility
+4. Produce-rejection recovery
+5. No-route access without worthiness assessment
+6. Walk-in meal, seat and task capacity
+7. Pressure created by explicit exchange
+8. Contribution-state privacy
+9. Work-to-guest re-entry
+10. Route-switching freedom
+11. Optional sociality
+12. Human-assistance failure and bias
+13. Contribution-state-blind photography
+14. Consent persistence and withdrawal
+15. Activity / experience / outcome / causality separation
+16. Universal promise / finite capacity qualification
+17. Role-bounded data
+18. Cross-cultural reciprocity countercases
 
 Governance Mirror Status — Post Restaurant #20
 
@@ -12614,11 +13205,11 @@ Governance Mirror Status — Post Restaurant #20
 
 | khds/research/README.md | Reconciled / Complete |
 
-| khds/research/validation/README.md | Pending |
+| khds/research/validation/README.md | Reconciled / Complete |
 
-The next governance mirror is:
+The Post–SAME Café governance mirror chain is:
 
-khds/research/validation/README.md.
+complete.
 
 Validation — Post Restaurant #20
 
@@ -12718,9 +13309,13 @@ Highest Research-Derived Maturity:
 
 Candidate
 
-Next Governance Mirror:
+Next Research Action:
 
-khds/research/validation/README.md
+KHDS Case #21
+
+Institution Type:
+
+Boutique Hotel
 
 Final Research Position — Post Restaurant #20
 
@@ -12773,3 +13368,61 @@ lowering:
 its maturity threshold.
 
 Evidence wins.
+
+Next Cycle Position
+
+KHDS Cases #21–30 form:
+
+the third:
+
+ten-case:
+
+research cycle.
+
+Planned case mix:
+
+7 restaurants
+
+1 boutique hotel
+
+1 wellness or spa institution
+
+and:
+
+1 food hall, members' club or hospitality venue.
+
+The exact institution in each category is selected:
+
+when its turn begins
+
+according to:
+
+contradiction value
+
+transferability pressure
+
+evidence availability
+
+and:
+
+research need.
+
+KHDS Case #21 begins with:
+
+a boutique hotel.
+
+After:
+
+KHDS Case #30
+
+the cycle produces:
+
+Fictional Restaurant Synthesis Build #2
+
+a working website
+
+selective KHDS app integration
+
+and:
+
+a new Kodawa Labs Showcase entry.

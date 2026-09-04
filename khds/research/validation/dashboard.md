@@ -264,7 +264,7 @@ Candidate Dashboard
 
 There are 26 Candidate patterns.
 
-#
+**#**
 
 Candidate Pattern
 
@@ -810,7 +810,7 @@ Emerging Dashboard — Historical Restaurant #18 Detail
 
 There are 8 Emerging patterns.
 
-#
+**#**
 
 Emerging Pattern
 
@@ -1076,7 +1076,7 @@ This family remains architecture, not a formal pattern or research-derived KHDS 
 
 Post–Refettorio Felix Corrections — Historical
 
-#
+**#**
 
 Incorrect Equivalence
 
@@ -1214,23 +1214,23 @@ Restaurant #18 promotes 0 patterns.
 
 8 Emerging
 
-- 0 Promotions
+\- 0 Promotions
 
-= 8 Emerging
+\= 8 Emerging
 
 26 Candidates
 
-+ 0 Promotions
+\+ 0 Promotions
 
-= 26 Candidates
+\= 26 Candidates
 
 The two confidence changes occur within the Candidate layer and do not change its count.
 
 17 Independent Restaurants
 
-+ 1 Restaurant
+\+ 1 Restaurant
 
-= 18 Independent Restaurants
+\= 18 Independent Restaurants
 
 Dashboard counts are reconciled.
 
@@ -1684,11 +1684,11 @@ Arithmetic
 
 9 High
 
-
++
 
 8 Medium-High
 
-
++
 
 9 Medium
 
@@ -1700,61 +1700,61 @@ Candidate Dashboard — Post Restaurant #19
 
 Candidate / High — 9
 
-Atmosphere Through Worldview
+1. Atmosphere Through Worldview
 
-Show the System Behind the Plate
+2. Show the System Behind the Plate
 
-Biography When It Explains the Experience
+3. Biography When It Explains the Experience
 
-Narrative Language Within Clear Interface
+4. Narrative Language Within Clear Interface
 
-Walk-In as First-Class Participation
+5. Walk-In as First-Class Participation
 
-Story Through Hospitality Model
+6. Story Through Hospitality Model
 
-Hospitality System Proof
+7. Hospitality System Proof
 
-Story Through Place
+8. Story Through Place
 
-Narrative Coherence Through Organising Logic
+9. Narrative Coherence Through Organising Logic
 
 Candidate / Medium-High — 8
 
-Heritage Builds Confidence
+1. Heritage Builds Confidence
 
-Atmosphere Through Continuity
+2. Atmosphere Through Continuity
 
-Photography as Use-Case Evidence
+3. Photography as Use-Case Evidence
 
-Photography as Proof
+4. Photography as Proof
 
-Capacity Proof
+5. Capacity Proof
 
-Photography Should Demonstrate Difference
+6. Photography Should Demonstrate Difference
 
-Adaptation as Narrative
+7. Adaptation as Narrative
 
-Stable Participation / Variable Product
+8. Stable Participation / Variable Product
 
 Candidate / Medium — 9
 
-Designed Escape
+1. Designed Escape
 
-Manageable Commitment
+2. Manageable Commitment
 
-Participation Rule Consistency
+3. Participation Rule Consistency
 
-Layered Arrival
+4. Layered Arrival
 
-Atmosphere Through Consistency
+5. Atmosphere Through Consistency
 
-Photography Through Layers of Experience
+6. Photography Through Layers of Experience
 
-Participation Throughout the Journey
+7. Participation Throughout the Journey
 
-Human Assistance Where Structured Self-Service Is Insufficient
+8. Human Assistance Where Structured Self-Service Is Insufficient
 
-Multi-Intent Hospitality
+9. Multi-Intent Hospitality
 
 Primary Candidate Watch — Participation Rule Consistency
 
@@ -1854,35 +1854,35 @@ Emerging Dashboard — Post Restaurant #19
 
 There are 8 Emerging patterns.
 
-Emotion Before Interface
+1. Emotion Before Interface
 
 Hold — mission and reciprocity may orient emotion, but may also create pressure, stigma or delayed practical clarity.
 
-Story Before Features
+2. Story Before Features
 
 Hold — the direction remains close to existing narrative Candidates and lacks a distinct mechanism.
 
-Photography Before Decoration
+3. Photography Before Decoration
 
 Hold — economic-status-blind photography adds a strong ethical rule, but the direction remains governed by existing photography Candidates.
 
-Commitment Without Pressure
+4. Commitment Without Pressure
 
 Hold — flexible contribution does not prove pressure-free participation.
 
-Promise Before Proof
+5. Promise Before Proof
 
 Hold — activity, experience, outcome and causality must remain separate; overlap with existing proof Candidates remains unresolved.
 
-The Guest as Participant
+6. The Guest as Participant
 
 Hold — multiple contribution states do not make contribution a condition of guesthood; the direction remains too broad.
 
-Atmosphere as Product
+7. Atmosphere as Product
 
 Hold — a second community-hospitality case adds support, but guest-choice causality and lived atmosphere remain unverified.
 
-Escalating Participation Complexity
+8. Escalating Participation Complexity
 
 Hold — several states exist, but they do not necessarily escalate linearly and human routing may contain complexity.
 
@@ -2046,23 +2046,23 @@ Reciprocal Hospitality Without Rank
 
 Flexible Contribution
 
-
++
 
 Stable Guesthood
 
-
++
 
 Mission-Priority Allocation
 
-
++
 
 Contribution-State Privacy
 
-
++
 
 Human-Routed Participation
 
-
++
 
 Same-Meal Commitment
 
@@ -2092,45 +2092,45 @@ a Research-Derived KHDS Principle.
 
 Post–JBJ Soul Kitchen Corrections
 
-No Fixed Price ≠ No Economic Expectation
+1. No Fixed Price ≠ No Economic Expectation
 
-Contribution State ≠ Guest Rank
+2. Contribution State ≠ Guest Rank
 
-Reciprocity ≠ Deservingness
+3. Reciprocity ≠ Deservingness
 
-Invitation to Volunteer ≠ Requirement to Volunteer
+4. Invitation to Volunteer ≠ Requirement to Volunteer
 
-No Reservation ≠ No Allocation
+5. No Reservation ≠ No Allocation
 
-First Come ≠ Only Allocation Rule
+6. First Come ≠ Only Allocation Rule
 
-Priority ≠ Public Proof of Need
+7. Priority ≠ Public Proof of Need
 
-Volunteer Place ≠ Dining Seat
+8. Volunteer Place ≠ Dining Seat
 
-Same Meal ≠ Same Hospitality
+9. Same Meal ≠ Same Hospitality
 
-Shared Room ≠ Equal Belonging
+10. Shared Room ≠ Equal Belonging
 
-Designed Equality ≠ Experienced Equality
+11. Designed Equality ≠ Experienced Equality
 
-Visible Person ≠ Visible Economic Status
+12. Visible Person ≠ Visible Economic Status
 
-Guest Photograph ≠ Consent to Fundraising Use
+13. Guest Photograph ≠ Consent to Fundraising Use
 
-Finished Plate ≠ Same-Meal Proof
+14. Finished Plate ≠ Same-Meal Proof
 
-Pay-It-Forward Image ≠ Cross-Subsidy Proof
+15. Pay-It-Forward Image ≠ Cross-Subsidy Proof
 
-Donor Support ≠ Recipient Ownership
+16. Donor Support ≠ Recipient Ownership
 
-Founder Biography ≠ Current Operating Proof
+17. Founder Biography ≠ Current Operating Proof
 
-Activity ≠ Experience ≠ Outcome ≠ Causality
+18. Activity ≠ Experience ≠ Outcome ≠ Causality
 
-Stable Respect ≠ Stable Mood
+19. Stable Respect ≠ Stable Mood
 
-Multiple Stakeholder Roles ≠ Multiple Guest Intents
+20. Multiple Stakeholder Roles ≠ Multiple Guest Intents
 
 Count Reconciliation — Restaurant #19
 
@@ -2144,13 +2144,13 @@ Restaurant #19 promotes 0 patterns.
 
 8 Emerging
 
-0 Promotions
+- 0 Promotions
 
 = 8 Emerging
 
 26 Candidates
 
-0 Promotions
++ 0 Promotions
 
 = 26 Candidates
 
@@ -2158,7 +2158,7 @@ Restaurant #19 changes 0 Candidate confidence levels.
 
 18 Independent Restaurants
 
-1 Restaurant
++ 1 Restaurant
 
 = 19 Independent Restaurants
 
@@ -2230,51 +2230,51 @@ Universal KHDS Principle
 
 Current Validation Priorities — Post–JBJ Soul Kitchen
 
-Invitation / Exchange Resolution
+1. Invitation / Exchange Resolution
 
 How are invitation to volunteer and volunteer work in exchange for a meal reconciled operationally?
 
-Full-Capacity Recovery
+2. Full-Capacity Recovery
 
 What happens when dining, mission-priority or volunteer capacity is exhausted?
 
-Contribution-State Privacy
+3. Contribution-State Privacy
 
 Can guests participate without public disclosure of ability to pay, donation amount, volunteer status or priority state?
 
-Performed Equality
+4. Performed Equality
 
 Do contribution states receive equal welcome, service, product, attention and belonging?
 
-Pressure-Free Commitment
+5. Pressure-Free Commitment
 
 Do suggested payment, pay-it-forward or volunteer messages create obligation, shame or avoidance?
 
-Human Assistance Failure
+6. Human Assistance Failure
 
 When does human routing create delay, inconsistency, gatekeeping, privacy loss or safeguarding risk?
 
-Economic-Status-Blind Proof
+7. Economic-Status-Blind Proof
 
 Can photography and story prove the institution without economically classifying participants?
 
-Same-Meal Verification
+8. Same-Meal Verification
 
 Does product parity hold across contribution states, service periods, capacity conditions and dietary requirements?
 
-Activity / Outcome Separation
+9. Activity / Outcome Separation
 
 Are meals served, volunteer activity, guest experience, social outcome and causality reported separately?
 
-Network / Local Rule Difference
+10. Network / Local Rule Difference
 
 Which rules are network-wide, Red Bank-specific, historical, current or discretionary?
 
-Role-Bounded Data
+11. Role-Bounded Data
 
 Are dining, volunteering, donating and support data appropriately separated?
 
-Reciprocal Hospitality Countercase
+12. Reciprocal Hospitality Countercase
 
 Where does flexible contribution create visible rank, pressure or service disparity?
 
@@ -2524,79 +2524,49 @@ Candidate Dashboard — Post Restaurant #20
 
 Candidate / High — 9
 
-Atmosphere Through Worldview
-
-Show the System Behind the Plate
-
-Biography When It Explains the Experience
-
-Narrative Language Within Clear Interface
-
-Walk-In as First-Class Participation
-
-Story Through Hospitality Model
-
-Hospitality System Proof
-
-Story Through Place
-
-Narrative Coherence Through Organising Logic
+1. Atmosphere Through Worldview
+2. Show the System Behind the Plate
+3. Biography When It Explains the Experience
+4. Narrative Language Within Clear Interface
+5. Walk-In as First-Class Participation
+6. Story Through Hospitality Model
+7. Hospitality System Proof
+8. Story Through Place
+9. Narrative Coherence Through Organising Logic
 
 Candidate / Medium-High — 8
 
-Heritage Builds Confidence
-
-Atmosphere Through Continuity
-
-Photography as Use-Case Evidence
-
-Photography as Proof
-
-Capacity Proof
-
-Photography Should Demonstrate Difference
-
-Adaptation as Narrative
-
-Stable Participation / Variable Product
+1. Heritage Builds Confidence
+2. Atmosphere Through Continuity
+3. Photography as Use-Case Evidence
+4. Photography as Proof
+5. Capacity Proof
+6. Photography Should Demonstrate Difference
+7. Adaptation as Narrative
+8. Stable Participation / Variable Product
 
 Candidate / Medium — 9
 
-Designed Escape
-
-Manageable Commitment
-
-Participation Rule Consistency
-
-Layered Arrival
-
-Atmosphere Through Consistency
-
-Photography Through Layers of Experience
-
-Participation Throughout the Journey
-
-Human Assistance Where Structured Self-Service Is Insufficient
-
-Multi-Intent Hospitality
+1. Designed Escape
+2. Manageable Commitment
+3. Participation Rule Consistency
+4. Layered Arrival
+5. Atmosphere Through Consistency
+6. Photography Through Layers of Experience
+7. Participation Throughout the Journey
+8. Human Assistance Where Structured Self-Service Is Insufficient
+9. Multi-Intent Hospitality
 
 Emerging Dashboard — Post Restaurant #20
 
-Emotion Before Interface
-
-Story Before Features
-
-Photography Before Decoration
-
-Commitment Without Pressure
-
-Promise Before Proof
-
-The Guest as Participant
-
-Atmosphere as Product
-
-Escalating Participation Complexity
+1. Emotion Before Interface
+2. Story Before Features
+3. Photography Before Decoration
+4. Commitment Without Pressure
+5. Promise Before Proof
+6. The Guest as Participant
+7. Atmosphere as Product
+8. Escalating Participation Complexity
 
 Restaurant #20 Emerging Promotions
 
@@ -2630,15 +2600,15 @@ Architecture Extension
 
 Reciprocal Hospitality Without Rank
 
-
++
 
 Explicit Terms
 
-
++
 
 Route-Specific Capacity
 
-
++
 
 Failed-Route Recovery
 
@@ -2820,41 +2790,41 @@ Independent Restaurants
 
 Current Validation Priorities — Post–SAME Café Denver
 
-Failed contribution-route recovery
+1. Failed contribution-route recovery
 
-Contribution-neutral service across time, money and produce
+2. Contribution-neutral service across time, money and produce
 
-Suitable-task capacity and accessibility
+3. Suitable-task capacity and accessibility
 
-Produce-rejection recovery
+4. Produce-rejection recovery
 
-No-route access without worthiness assessment
+5. No-route access without worthiness assessment
 
-Walk-in meal, seat and task capacity
+6. Walk-in meal, seat and task capacity
 
-Pressure created by explicit exchange
+7. Pressure created by explicit exchange
 
-Contribution-state privacy
+8. Contribution-state privacy
 
-Work-to-guest re-entry
+9. Work-to-guest re-entry
 
-Route-switching freedom
+10. Route-switching freedom
 
-Optional sociality
+11. Optional sociality
 
-Human-assistance failure and bias
+12. Human-assistance failure and bias
 
-Contribution-state-blind photography
+13. Contribution-state-blind photography
 
-Consent persistence
+14. Consent persistence
 
-Activity / experience / outcome / causality separation
+15. Activity / experience / outcome / causality separation
 
-Universal promise / finite capacity qualification
+16. Universal promise / finite capacity qualification
 
-Role-bounded data
+17. Role-bounded data
 
-Cross-cultural reciprocity countercases
+18. Cross-cultural reciprocity countercases
 
 Mirror Status — Post Restaurant #20
 
@@ -2947,3 +2917,44 @@ no Validated or Principle promotion.
 The threshold remains intact.
 
 Evidence wins.
+
+Research Operations Handoff — Post Restaurant #20
+
+Governance Mirror Chain:
+
+Complete
+
+Track C Synthesis Builds:
+
+1
+
+Latest Synthesis Build:
+
+Third Rain
+
+Represented Research Cycle:
+
+KHDS Cases #11–20
+
+Governance Effect:
+
+None
+
+Next Research Action:
+
+KHDS Case #21
+
+Institution Type:
+
+Boutique Hotel
+
+Next Synthesis Gate:
+
+After KHDS Case #30
+
+
+Synthesis Output
+
+≠
+
+Maturity Evidence
