@@ -1,0 +1,103 @@
+{
+  "schemaVersion": 1,
+  "cases": [
+    {
+      "caseNumber": 21,
+      "institutionName": "Fogo Island Inn",
+      "slug": "fogo-island-inn-newfoundland",
+      "institutionType": "Boutique-scale luxury hotel / inn",
+      "sector": "hotels",
+      "canonicalPath": "khds/research/institutions/hotels/fogo-island-inn-newfoundland/",
+      "dossierComplete": true,
+      "administrativeReconciliation": false,
+      "evidenceCommit": "3e027f8",
+      "completionScope": "public-evidence dossier; administrative closure unresolved"
+    }
+  ],
+  "priorIdentities": [
+    {
+      "slug": "alinea",
+      "institutionName": "Alinea"
+    },
+    {
+      "slug": "ankole",
+      "institutionName": "Ankole"
+    },
+    {
+      "slug": "avatar-robot-cafe-dawn-tokyo",
+      "institutionName": "Avatar Robot Cafe Dawn Tokyo"
+    },
+    {
+      "slug": "bistro-lolo",
+      "institutionName": "Bistro Lolo"
+    },
+    {
+      "slug": "cultiva",
+      "institutionName": "Cultiva"
+    },
+    {
+      "slug": "dans-le-noir-london",
+      "institutionName": "Dans Le Noir London"
+    },
+    {
+      "slug": "din-tai-fung-covent-garden",
+      "institutionName": "Din Tai Fung Covent Garden"
+    },
+    {
+      "slug": "dishoom-covent-garden",
+      "institutionName": "Dishoom Covent Garden"
+    },
+    {
+      "slug": "franklin-barbecue",
+      "institutionName": "Franklin Barbecue"
+    },
+    {
+      "slug": "fyn",
+      "institutionName": "Fyn"
+    },
+    {
+      "slug": "haidilao-toronto",
+      "institutionName": "Haidilao Toronto"
+    },
+    {
+      "slug": "ichiran-shibuya",
+      "institutionName": "Ichiran Shibuya"
+    },
+    {
+      "slug": "jbj-soul-kitchen-red-bank",
+      "institutionName": "JBJ Soul Kitchen"
+    },
+    {
+      "slug": "mawimbi",
+      "institutionName": "Mawimbi"
+    },
+    {
+      "slug": "narisawa",
+      "institutionName": "Narisawa"
+    },
+    {
+      "slug": "noma-copenhagen-2026",
+      "institutionName": "Noma Copenhagen 2026"
+    },
+    {
+      "slug": "pearl-morissette-jordan-station",
+      "institutionName": "Pearl Morissette Jordan Station"
+    },
+    {
+      "slug": "refettorio-felix-london",
+      "institutionName": "Refettorio Felix"
+    },
+    {
+      "slug": "same-cafe-denver",
+      "institutionName": "SAME Caf? Denver"
+    },
+    {
+      "slug": "talisman",
+      "institutionName": "Talisman"
+    },
+    {
+      "slug": "trunk-tandoor",
+      "institutionName": "Trunk & Tandoor"
+    }
+  ]
+}
