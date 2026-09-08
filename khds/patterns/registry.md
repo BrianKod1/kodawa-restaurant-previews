@@ -2,15 +2,19 @@ KHDS Pattern Registry
 
 Status
 
-Post–SAME Café Denver Governance Mirror
+Post–Fogo Island Inn Governance Mirror
 
 Latest Research Cycle:
 
-Restaurant #20 — SAME Café Denver
+KHDS Case #21 — Fogo Island Inn
 
 Independent Restaurants:
 
 20
+
+Completed Institution Transfer Cases:
+
+1
 
 Track B Validation Cases:
 
@@ -100,11 +104,11 @@ Evidence Tracks
 
 Track A — Independent Hospitality Research
 
-Independent restaurants may contribute toward:
+Independent hospitality cases may contribute toward:
 
 research maturity.
 
-Current completed set:
+Current completed restaurant set:
 
 Ankole
 
@@ -143,6 +147,12 @@ Avatar Robot Café DAWN, Tokyo
 Refettorio Felix, London
 
 JBJ Soul Kitchen, Red Bank
+
+SAME Café, Denver
+
+Current completed institution-transfer set:
+
+Fogo Island Inn, Newfoundland and Labrador
 
 Track B — Kodawa Labs Validation
 
@@ -8594,6 +8604,1127 @@ Its strongest governance boundary is:
 
 Multiple contribution routes are not access
 unless failed routes have a dignified recovery.
+
+No new pattern enters the Candidate layer.
+
+No Candidate changes confidence.
+
+There are still no Validated patterns and no research-derived KHDS Principles.
+
+Evidence wins.
+
+Post–Fogo Island Inn Registry Reconciliation
+
+Mirror Authority
+
+This section mirrors:
+
+../research/validation/candidate-patterns.md
+
+It does not create:
+
+maturity,
+
+confidence,
+
+promotion,
+
+demotion,
+
+rename,
+
+merge,
+
+validation,
+
+or Principle status.
+
+If this section conflicts with:
+
+the canonical governance file,
+
+the canonical governance file wins.
+
+Registry Cycle Identity — Case #21
+
+KHDS Case:
+
+21
+
+Institution:
+
+Fogo Island Inn
+
+Institution Type:
+
+Boutique-scale luxury hotel / inn
+
+Location:
+
+Fogo Island, Newfoundland and Labrador, Canada
+
+Research Track:
+
+Track A — Independent Hospitality Research
+
+Research Role:
+
+First hotel-transfer case
+
+Research Status:
+
+Complete at public-evidence level
+
+Institution-Comparison Architecture:
+
+Established
+
+Cross-Institution Recurrence:
+
+Pending a second independent institution case
+
+Registry Evidence Inputs — Case #21
+
+The mirror receives evidence from:
+
+../research/institutions/hotels/fogo-island-inn-newfoundland/README.md
+
+../research/institutions/hotels/fogo-island-inn-newfoundland/discovery.md
+
+../research/institutions/hotels/fogo-island-inn-newfoundland/reservation.md
+
+../research/institutions/hotels/fogo-island-inn-newfoundland/pre-arrival.md
+
+../research/institutions/hotels/fogo-island-inn-newfoundland/arrival.md
+
+../research/institutions/hotels/fogo-island-inn-newfoundland/stay.md
+
+../research/institutions/hotels/fogo-island-inn-newfoundland/dining.md
+
+../research/institutions/hotels/fogo-island-inn-newfoundland/departure.md
+
+../research/institutions/hotels/fogo-island-inn-newfoundland/atmosphere.md
+
+../research/institutions/hotels/fogo-island-inn-newfoundland/photography.md
+
+../research/institutions/hotels/fogo-island-inn-newfoundland/story.md
+
+../research/institutions/hotels/fogo-island-inn-newfoundland/knowledge-extraction.md
+
+../research/institution-comparison/README.md
+
+../research/validation/candidate-patterns.md
+
+Registry Decision Summary — Case #21
+
+Governance action
+
+Result
+
+Candidate promotions
+
+0
+
+Confidence changes
+
+0
+
+Demotions
+
+0
+
+Renames
+
+0
+
+Merges
+
+0
+
+Validated promotions
+
+0
+
+Research-derived Principle promotions
+
+0
+
+Partially Supported changes
+
+0
+
+Completed institution-count movement
+
+0 → 1
+
+The only official count movement is:
+
+Completed Institution Transfer Cases
+0 + 1 = 1
+
+Current Registry Pattern Snapshot — Post Case #21
+
+Candidate / High — 9
+
+Atmosphere Through Worldview
+
+Show the System Behind the Plate
+
+Biography When It Explains the Experience
+
+Narrative Language Within Clear Interface
+
+Walk-In as First-Class Participation
+
+Story Through Hospitality Model
+
+Hospitality System Proof
+
+Story Through Place
+
+Narrative Coherence Through Organising Logic
+
+Candidate / Medium-High — 8
+
+Heritage Builds Confidence
+
+Atmosphere Through Continuity
+
+Photography as Use-Case Evidence
+
+Photography as Proof
+
+Capacity Proof
+
+Photography Should Demonstrate Difference
+
+Adaptation as Narrative
+
+Stable Participation / Variable Product
+
+Candidate / Medium — 9
+
+Designed Escape
+
+Manageable Commitment
+
+Participation Rule Consistency
+
+Layered Arrival
+
+Atmosphere Through Consistency
+
+Photography Through Layers of Experience
+
+Participation Throughout the Journey
+
+Human Assistance Where Structured Self-Service Is Insufficient
+
+Multi-Intent Hospitality
+
+Emerging — 8
+
+Emotion Before Interface
+
+Story Before Features
+
+Photography Before Decoration
+
+Commitment Without Pressure
+
+Promise Before Proof
+
+The Guest as Participant
+
+Atmosphere as Product
+
+Escalating Participation Complexity
+
+Partially Supported — 1
+
+Own the Guest Relationship — Medium
+
+Validated — 0
+
+Research-Derived KHDS Principles — 0
+
+Existing Implementation Pattern Pending Formal Validation — 1
+
+Direct First-Party Booking as Commercial Infrastructure
+
+Fogo Island Inn Candidate Evidence Inclusion
+
+Fogo Island Inn is a named supporting institution case for:
+
+25 of 26 Candidate patterns.
+
+It is not included for:
+
+Walk-In as First-Class Participation.
+
+That exclusion is:
+
+Not Applicable.
+
+It is not:
+
+contradiction,
+
+negative evidence,
+
+demotion pressure,
+
+or proof that hotels cannot support walk-ins.
+
+Candidate / High Evidence
+
+Pattern
+
+Fogo Island Inn contribution
+
+Registry position
+
+Atmosphere Through Worldview
+
+Strong transfer support through place, design, food, hosts and institutional purpose
+
+Included / High unchanged
+
+Show the System Behind the Plate
+
+Strong transfer through full-board, sourcing, packed food and community dining
+
+Included / High unchanged
+
+Biography When It Explains the Experience
+
+Conditional support with founder-to-institution boundary
+
+Included / High unchanged
+
+Narrative Language Within Clear Interface
+
+Strong boundary support across discovery and consequence stages
+
+Included / High unchanged
+
+Walk-In as First-Class Participation
+
+No material evidence from the primary remote overnight journey
+
+Not Applicable / High unchanged
+
+Story Through Hospitality Model
+
+Strong transfer through ownership, sourcing, service and community relationships
+
+Included / High unchanged
+
+Hospitality System Proof
+
+Strong transfer through routes, roles, inclusions and economic mechanisms
+
+Included / High unchanged
+
+Story Through Place
+
+Strong transfer; place organises the full journey
+
+Included / High unchanged
+
+Narrative Coherence Through Organising Logic
+
+Strong transfer across all ten dimensions
+
+Included / High unchanged
+
+High inclusion arithmetic:
+
+8 Included
+1 Not Applicable
+9 Total
+
+Candidate / Medium-High Evidence
+
+Pattern
+
+Fogo Island Inn contribution
+
+Registry position
+
+Heritage Builds Confidence
+
+Conditional support through place, making and foodways
+
+Included / Medium-High unchanged
+
+Atmosphere Through Continuity
+
+Strong transfer across time, spaces, seasons and social modes
+
+Included / Medium-High unchanged
+
+Photography as Use-Case Evidence
+
+Strong transfer to room, route, weather, activity and access
+
+Included / Medium-High unchanged
+
+Photography as Proof
+
+Strong transfer with visible-condition boundary
+
+Included / Medium-High unchanged
+
+Capacity Proof
+
+Strong pressure across room, dining, transport, activity, partner and human stocks
+
+Included / Medium-High unchanged
+
+Photography Should Demonstrate Difference
+
+Strong visual-difference support with operational boundary
+
+Included / Medium-High unchanged
+
+Adaptation as Narrative
+
+Conditional support across economic, cultural and environmental adaptation
+
+Included / Medium-High unchanged
+
+Stable Participation / Variable Product
+
+Strong transfer across seasons, menus, routes and activities
+
+Included / Medium-High unchanged
+
+Medium-High inclusion arithmetic:
+
+8 Included
+0 Not Applicable
+8 Total
+
+Candidate / Medium Evidence
+
+Pattern
+
+Fogo Island Inn contribution
+
+Registry position
+
+Designed Escape
+
+Conditional support through remoteness, landscape and room refuge
+
+Included / Medium unchanged
+
+Manageable Commitment
+
+Strong transfer across price, duration, policy, route and suitability
+
+Included / Medium unchanged
+
+Participation Rule Consistency
+
+Boundary support across dining, activity, transport and partners
+
+Included / Medium unchanged
+
+Layered Arrival
+
+Strong transfer from discovery through settled room state
+
+Included / Medium unchanged
+
+Atmosphere Through Consistency
+
+Strong transfer as stable care beneath variable mood
+
+Included / Medium unchanged
+
+Photography Through Layers of Experience
+
+Strong transfer across destination, route, room, food and activity
+
+Included / Medium unchanged
+
+Participation Throughout the Journey
+
+Strong transfer across multiple days and contexts
+
+Included / Medium unchanged
+
+Human Assistance Where Structured Self-Service Is Insufficient
+
+Strong transfer through Advisor and Community Host roles
+
+Included / Medium unchanged
+
+Multi-Intent Hospitality
+
+Strong transfer across rest, food, wellness, art, activity and place
+
+Included / Medium unchanged
+
+Medium inclusion arithmetic:
+
+9 Included
+0 Not Applicable
+9 Total
+
+Total inclusion arithmetic:
+
+High: 8
+Medium-High: 8
+Medium: 9
+
+Fogo Island Inn Included: 8 + 8 + 9 = 25
+Not Applicable: 1
+Candidate Total: 25 + 1 = 26
+
+Named Evidence Inclusion
+≠
+Confidence Increase
+
+Emerging Decisions — Case #21
+
+Emotion Before Interface
+
+Retain Emerging.
+
+Emotion supports discovery.
+
+It must not precede:
+
+terms,
+
+route,
+
+safety,
+
+access,
+
+or responsibility.
+
+Story Before Features
+
+Retain Emerging.
+
+Story explains purpose.
+
+It cannot replace:
+
+operational consequence.
+
+Photography Before Decoration
+
+Retain Emerging.
+
+Case #21 strongly supports evidence-first photography.
+
+Complete decision coverage remains unverified.
+
+Commitment Without Pressure
+
+Retain Emerging.
+
+Mission, remoteness and deposit create pressure potential.
+
+Guest comprehension is not observed.
+
+Promise Before Proof
+
+Retain Emerging.
+
+Material promises require nearby proof.
+
+The Guest as Participant
+
+Retain Emerging.
+
+The guest may participate.
+
+The guest must not become:
+
+owner,
+
+hero
+
+or:
+
+proof of community outcome.
+
+Atmosphere as Product
+
+Retain Emerging.
+
+Case #21 creates the strongest current transfer pressure.
+
+Lived atmosphere remains unverified.
+
+Escalating Participation Complexity
+
+Retain Emerging.
+
+The hotel expands participation across:
+
+booking,
+
+route,
+
+room,
+
+dining,
+
+activity,
+
+partner,
+
+and departure.
+
+One case cannot establish a universal escalation rule.
+
+Partially Supported Decision — Case #21
+
+Own the Guest Relationship — Partially Supported / Medium
+
+Fogo Island Inn adds:
+
+Owning the Guest Relationship
+≠
+Owning Every Delivery Organisation
+
+Relationship ownership requires:
+
+recognition,
+
+consent,
+
+no-reset information,
+
+explicit responsibility,
+
+partner clarity,
+
+and recovery.
+
+Remaining blockers include:
+
+data ownership,
+
+partner data boundaries,
+
+role-specific consent,
+
+live recovery ownership,
+
+deletion,
+
+portability,
+
+and post-stay purpose separation.
+
+Registry position:
+
+unchanged.
+
+Post–Fogo Island Inn Architecture Family
+
+Primary architecture result:
+
+Place-Extended Hospitality Continuity
+
+Definition:
+
+Hospitality responsibility, necessary guest state, usable care and recovery remain coherent across every institution-owned transition before, during and after the guest's physical presence.
+
+Central sequence:
+
+Desire
+→
+Qualification
+→
+Consequence Consent
+→
+Journey Feasibility
+→
+No-Reset Preparation
+→
+First Owned Handoff
+→
+Settled Arrival
+→
+Sustained Stay Loops
+→
+Distributed Care
+→
+Route-Dependent Departure
+→
+Onward Independence
+→
+Consented Relationship
+
+Core invariant:
+
+Variable Journey.
+Adaptive Service.
+Stable Responsibility.
+
+The architecture family remains:
+
+below pattern level.
+
+Case #21 Architecture Register
+
+The registry retains the following below pattern level:
+
+Place-Extended Hospitality Continuity
+
+Discovery as First Arrival Layer
+
+Suitability Before Desire Escalation
+
+Total Commitment View
+
+Arrival-Ready Reservation
+
+Consequence Consent
+
+Requirement Acknowledgement
+
+Consequence-Based Planning
+
+Route Ownership
+
+External-State Monitor
+
+Living Itinerary
+
+No-Reset Handoff
+
+Moving Arrival Threshold
+
+Live-State Reconciliation
+
+Immediate-Need Triage
+
+Settled-State Check-In
+
+One Legible Request Door
+
+Correct Internal Owner
+
+Visible Request State
+
+Three-Speed Service Memory
+
+Private Refuge Control
+
+Rest as First-Class Stay Use
+
+Room–Island Oscillation
+
+Off-Property Service Continuity
+
+Full-Board Temporal Coverage
+
+Dietary Memory Portability
+
+Distributed Dining Compact
+
+Layered Locality Ledger
+
+Stable Care / Variable Atmosphere
+
+Optional Sociality
+
+Ordinary-Condition Photography
+
+Stay Knowability
+
+Six-Layer Story Stack
+
+Claim-to-Consequence Trace
+
+Founder-to-Institution Handoff
+
+Guest Contribution Boundary
+
+Route-Dependent Departure Boundary
+
+Next Usable Journey State
+
+Consented Post-Stay Relationship
+
+Narrative Drift Detection
+
+Recovery Ownership
+
+Handoff Liability Map
+
+Distributed Entitlement Ledger
+
+Bodily-State Continuity
+
+Weather-Calibrated Service
+
+Partner-State Visibility
+
+Inclusion Availability Matrix
+
+Activity Refusal Without Service Loss
+
+Cross-Shift Memory Boundary
+
+Journey-State Completion Test
+
+Registry rule:
+
+Architecture Utility
+≠
+Pattern Maturity
+
+Post–Fogo Island Inn Registry Corrections
+
+Discovery ≠ Marketing Outside Hospitality.
+
+Destination Desire ≠ Journey Understanding.
+
+Room Confirmation ≠ Arrival-Ready Reservation.
+
+Room Rate ≠ Total Commitment.
+
+Meaningful Story ≠ Consequence Consent.
+
+Prepared for the Hotel ≠ Prepared for the Destination.
+
+Human Assistance ≠ Fallback After Interface Failure.
+
+Arrival Threshold ≠ Building Entrance Only.
+
+Key Delivery ≠ Settled Arrival.
+
+Public Silence About Procedure ≠ Operational Absence.
+
+Service Breadth ≠ Service Continuity.
+
+Remembering What Matters ≠ Remembering Everything.
+
+Activity Participation ≠ Condition of Full Guesthood.
+
+Full Board ≠ Three Isolated Meal Periods.
+
+Distributed Delivery ≠ Distributed Accountability.
+
+Place-Based Food ≠ Geographic Purity.
+
+Local Origin ≠ Fair Relationship Proven.
+
+Room Release ≠ End of Agreed Hospitality Responsibility.
+
+Atmospheric Coherence ≠ One Mood Everywhere.
+
+Designed Conditions ≠ Experienced Atmosphere.
+
+Visible Condition ≠ Experienced Outcome.
+
+Place as Organising Logic ≠ Place as Available Content.
+
+Founder Biography Explains Origin ≠ Founder Biography Proves Present Operation.
+
+Regenerative Intent ≠ Regenerative Outcome.
+
+Guest Contribution ≠ Guest Ownership of Community Outcome.
+
+Land Acknowledgement ≠ Reconciliation Outcome.
+
+Mechanism Exists ≠ Mechanism Performs Reliably.
+
+Activity ≠ Experience.
+
+Experience ≠ Outcome.
+
+Outcome ≠ Causality.
+
+One Hotel Case ≠ Hospitality-Sector Validation.
+
+Count Reconciliation — Case #21
+
+Candidate:
+26 + 0 = 26
+
+Emerging:
+8 - 0 = 8
+
+Partially Supported:
+1
+
+Validated:
+0
+
+Research-Derived KHDS Principles:
+0
+
+Candidate / High:
+9
+
+Candidate / Medium-High:
+8
+
+Candidate / Medium:
+9
+
+Candidate Total:
+9 + 8 + 9 = 26
+
+Independent Restaurants:
+20
+
+Completed Institution Transfer Cases:
+0 + 1 = 1
+
+Track B Validation Cases:
+1
+
+Registry Promotion History — Case #21
+
+Formal Candidate promotions:
+
+0
+
+Confidence changes:
+
+0
+
+Demotions:
+
+0
+
+Renames:
+
+0
+
+Merges:
+
+0
+
+Validated promotions:
+
+0
+
+Research-derived Principle promotions:
+
+0
+
+Why No Registry Maturity Change Occurred — Case #21
+
+Case #21 provides:
+
+independent institution evidence,
+
+a longer hospitality journey,
+
+strong Candidate transfer pressure,
+
+new responsibility boundaries,
+
+and a valid institution-comparison architecture.
+
+It does not provide:
+
+a second independent institution case,
+
+cross-institution recurrence,
+
+observed hotel performance,
+
+live failure testing,
+
+independent guest evidence,
+
+longitudinal consistency,
+
+audited capacity,
+
+verified community outcome,
+
+or causal proof.
+
+Therefore:
+
+First Sector Transfer
+≠
+Cross-Sector Validation
+
+and:
+
+Transfer Pressure
+≠
+Confidence Increase
+
+Current Registry Snapshot — Post Case #21
+
+Latest Completed Track A Case: KHDS Case #21
+Latest Institution: Fogo Island Inn
+Institution Type: Boutique-scale luxury hotel / inn
+
+Independent Restaurants: 20
+Completed Institution Transfer Cases: 1
+Track B Validation Cases: 1
+
+Candidate Patterns: 26
+Candidate / High: 9
+Candidate / Medium-High: 8
+Candidate / Medium: 9
+
+Emerging Patterns: 8
+Partially Supported Patterns: 1
+Validated Patterns: 0
+Research-Derived KHDS Principles: 0
+
+Existing Implementation Patterns Pending Formal Validation: 1
+Opportunity Themes: 36
+Track B Implementation Learnings: 17
+Highest Research-Derived Maturity: Candidate
+
+Next Research Priorities — Post–Fogo Island Inn
+
+Arrival readiness versus commercial confirmation.
+
+Total commitment beyond room rate.
+
+Requirement acknowledgement and propagation.
+
+Live route ownership across external transport.
+
+Moving Arrival Threshold in a non-remote institution.
+
+No-reset handoff across advisor and receiving teams.
+
+Settled-state check-in under disruption.
+
+One legible request door across shifts.
+
+Three-speed service memory and privacy.
+
+Private-space entry and consent.
+
+Rest as first-class participation.
+
+Full-board temporal availability.
+
+Dietary-memory portability.
+
+Independent partner entitlement and recovery.
+
+Live partner and human-assistance capacity.
+
+Route-dependent departure responsibility.
+
+Next usable journey-state confirmation.
+
+Stable care under variable atmosphere.
+
+Ordinary-condition and accessible-route photography.
+
+Founder-to-institution responsibility handoff.
+
+Claim-to-consequence trace.
+
+Regenerative outcome evidence.
+
+Guest contribution without guest heroism.
+
+Land acknowledgement without reconciliation inflation.
+
+Second independent institution countercase.
+
+Registry Status — Case #21
+
+Fogo Island Inn Dossier:
+
+Complete
+
+Knowledge Extraction:
+
+Complete
+
+Institution-Comparison Architecture:
+
+Complete
+
+Canonical Governance:
+
+Complete
+
+Pattern Registry Mirror:
+
+Complete
+
+Validation Dashboard Mirror:
+
+Next
+
+Research README Mirror:
+
+Pending
+
+Validation README Mirror:
+
+Pending
+
+Next Governance File — Case #21
+
+../research/validation/dashboard.md
+
+Final Registry Position — Post Case #21
+
+After:
+
+twenty independent restaurants,
+
+one completed institution-transfer case,
+
+and one Track B validation case,
+
+the registry mirrors:
+
+Candidate: 26
+Emerging: 8
+Partially Supported: 1
+Validated: 0
+Research-Derived KHDS Principles: 0
+
+Fogo Island Inn is named as:
+
+supporting institution evidence
+
+for:
+
+25 of 26 Candidate patterns.
+
+The only not-applicable Candidate is:
+
+Walk-In as First-Class Participation.
+
+Case #21 produced:
+
+no Candidate promotions
+
+and:
+
+no confidence changes.
+
+Its strongest architecture result is:
+
+Place-Extended Hospitality Continuity.
+
+Its strongest governance boundary is:
+
+Hospitality Responsibility
+Must Travel With the Guest.
 
 No new pattern enters the Candidate layer.
 
