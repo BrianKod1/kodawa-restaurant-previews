@@ -9470,7 +9470,7 @@ It produces a more rigorous reservation model in which capacity, commitment and 
 
 Comparison File:
 
-`khds/research/comparison/reservation.md`
+`khds/research/restaurant-comparison/reservation.md`
 
 Status:
 
@@ -9570,7 +9570,7 @@ Governance Changes:
 
 Next Comparison File:
 
-`khds/research/comparison/story.md`
+`khds/research/restaurant-comparison/story.md`
 
 # Post–Refettorio Felix, London Reservation Reconciliation
 
@@ -10665,7 +10665,7 @@ Evidence wins.
 
 Comparison File:
 
-`khds/research/comparison/reservation.md`
+`khds/research/restaurant-comparison/reservation.md`
 
 Status:
 
@@ -10761,7 +10761,7 @@ Research-Derived KHDS Principles:
 
 Next Comparison File:
 
-`khds/research/comparison/story.md`
+`khds/research/restaurant-comparison/story.md`
 
 ---
 
@@ -12940,7 +12940,7 @@ Evidence wins.
 
 Comparison File:
 
-`khds/research/comparison/reservation.md`
+`khds/research/restaurant-comparison/reservation.md`
 
 Status:
 
@@ -13048,7 +13048,7 @@ Research-Derived KHDS Principles:
 
 Next Comparison File:
 
-`khds/research/comparison/story.md`
+`khds/research/restaurant-comparison/story.md`
 
 ---
 
@@ -13871,7 +13871,7 @@ Evidence wins.
 
 Comparison File:
 
-`khds/research/comparison/reservation.md`
+`khds/research/restaurant-comparison/reservation.md`
 
 Status:
 
@@ -13959,4 +13959,4 @@ Four Comparison Dimensions Complete / Story Comparison Pending
 
 Next Comparison File:
 
-`khds/research/comparison/story.md`
+`khds/research/restaurant-comparison/story.md`

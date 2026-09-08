@@ -1,5 +1,9 @@
 # KHDS Candidate Pattern Governance
 
+> Active status: Case #21 — Fogo Island Inn. Public-evidence dossier complete; comparison architecture established; no maturity or confidence change. Administrative closure is complete at public-evidence scope, with unresolved validation outcomes recorded in `khds/state/current-case.json`. Case #22 is only the expected next number: no institution selected and no research authorized.
+>
+> Historical status rule: restaurant-cycle status, count and handoff sections are retained snapshots, including any old “current”, “pending” or “next” wording. They do not supersede this opening status or the Post–Fogo Island Inn section. Existing findings and historical evidence remain unchanged.
+
 ## Status
 
 Post–Fogo Island Inn Canonical Governance Reconciliation
@@ -343,7 +347,7 @@ Candidate
 
 ---
 
-# Current Post–JBJ Soul Kitchen Governance Changes
+# Historical — Current Post–JBJ Soul Kitchen Governance Changes
 
 Restaurant #19 produces:
 
@@ -6272,7 +6276,7 @@ reputation.
 
 ---
 
-# Post–Pearl Morissette Governance Interpretation
+# Historical — Post–Pearl Morissette Governance Interpretation
 
 Restaurant #15:
 
@@ -6950,7 +6954,7 @@ Candidate patterns.
 
 ---
 
-# Post–Dans le Noir? London Canonical Reconciliation
+# Historical — Post–Dans le Noir? London Canonical Reconciliation
 
 Restaurant #16 was selected as a deliberate contradiction case.
 
@@ -6992,11 +6996,11 @@ The decision uses the completed Track A dossier:
 
 and the five completed cross-restaurant comparisons:
 
-1. `khds/research/comparison/arrival.md`
-2. `khds/research/comparison/atmosphere.md`
-3. `khds/research/comparison/photography.md`
-4. `khds/research/comparison/reservation.md`
-5. `khds/research/comparison/story.md`
+1. `khds/research/restaurant-comparison/arrival.md`
+2. `khds/research/restaurant-comparison/atmosphere.md`
+3. `khds/research/restaurant-comparison/photography.md`
+4. `khds/research/restaurant-comparison/reservation.md`
+5. `khds/research/restaurant-comparison/story.md`
 
 All five comparison dimensions are complete.
 
@@ -7874,7 +7878,7 @@ They are not formal patterns.
 
 ---
 
-# Post–Dans le Noir? London Canonical Pattern Snapshot
+# Historical — Post–Dans le Noir? London Canonical Pattern Snapshot
 
 ## Candidate / High
 
@@ -8474,7 +8478,7 @@ the defining experience cannot be seen
 
 Evidence wins.
 
-# Post–Avatar Robot Café DAWN, Tokyo Canonical Reconciliation
+# Historical — Post–Avatar Robot Café DAWN, Tokyo Canonical Reconciliation
 
 Restaurant #17 was selected as a deliberate human-agency, participation and proof contradiction case.
 
@@ -8513,11 +8517,11 @@ The decision uses the completed Track A dossier:
 
 and the five completed cross-restaurant comparisons:
 
-1. khds/research/comparison/arrival.md
-2. khds/research/comparison/atmosphere.md
-3. khds/research/comparison/photography.md
-4. khds/research/comparison/reservation.md
-5. khds/research/comparison/story.md
+1. khds/research/restaurant-comparison/arrival.md
+2. khds/research/restaurant-comparison/atmosphere.md
+3. khds/research/restaurant-comparison/photography.md
+4. khds/research/restaurant-comparison/reservation.md
+5. khds/research/restaurant-comparison/story.md
 
 All five comparison dimensions are complete.
 
@@ -9595,7 +9599,7 @@ It is not:
 
 ---
 
-# Post–Avatar Robot Café DAWN Canonical Pattern Snapshot
+# Historical — Post–Avatar Robot Café DAWN Canonical Pattern Snapshot
 
 ## Candidate / High
 
@@ -10120,7 +10124,7 @@ The next Track A case should pressure:
 
 ---
 
-# Reconciliation Status — Restaurant #17
+# Historical — Reconciliation Status — Restaurant #17
 
 Restaurant #17 Dossier:
 
@@ -10172,7 +10176,7 @@ Pending
 
 ---
 
-# Next Governance File — Restaurant #17
+# Historical — Next Governance File — Restaurant #17
 
 khds/patterns/registry.md
 
@@ -10239,7 +10243,7 @@ It is not validated truth.
 
 Evidence wins.
 
-# Post–Refettorio Felix, London Canonical Reconciliation
+# Historical — Post–Refettorio Felix, London Canonical Reconciliation
 
 Restaurant #18 was selected as a deliberate:
 
@@ -10269,11 +10273,11 @@ The decision uses the completed Track A dossier:
 
 and the five completed cross-restaurant comparisons:
 
-1. `khds/research/comparison/arrival.md`
-2. `khds/research/comparison/atmosphere.md`
-3. `khds/research/comparison/photography.md`
-4. `khds/research/comparison/reservation.md`
-5. `khds/research/comparison/story.md`
+1. `khds/research/restaurant-comparison/arrival.md`
+2. `khds/research/restaurant-comparison/atmosphere.md`
+3. `khds/research/restaurant-comparison/photography.md`
+4. `khds/research/restaurant-comparison/reservation.md`
+5. `khds/research/restaurant-comparison/story.md`
 
 All five comparison dimensions are complete.
 
@@ -11112,7 +11116,7 @@ Narrative coherence must not be elevated into verified causality.
 
 ---
 
-# Post–Refettorio Felix Canonical Pattern Snapshot
+# Historical — Post–Refettorio Felix Canonical Pattern Snapshot
 
 ## Candidate / High
 
@@ -11551,7 +11555,7 @@ Verified Mission Outcome
 
 ---
 
-# Reconciliation Status — Restaurant #18
+# Historical — Reconciliation Status — Restaurant #18
 
 Restaurant #18 Dossier:
 
@@ -11603,7 +11607,7 @@ Pending
 
 ---
 
-# Next Governance File — Restaurant #18
+# Historical — Next Governance File — Restaurant #18
 
 `khds/patterns/registry.md`
 
@@ -11673,7 +11677,7 @@ Evidence wins.
 
 ---
 
-# Post–JBJ Soul Kitchen, Red Bank Canonical Governance Reconciliation
+# Historical — Post–JBJ Soul Kitchen, Red Bank Canonical Governance Reconciliation
 
 ## Cycle Identity
 
@@ -11721,11 +11725,11 @@ The following Restaurant #19 files are complete:
 
 The following cross-restaurant comparison files are also complete through Restaurant #19:
 
-1. `khds/research/comparison/arrival.md`
-2. `khds/research/comparison/atmosphere.md`
-3. `khds/research/comparison/photography.md`
-4. `khds/research/comparison/reservation.md`
-5. `khds/research/comparison/story.md`
+1. `khds/research/restaurant-comparison/arrival.md`
+2. `khds/research/restaurant-comparison/atmosphere.md`
+3. `khds/research/restaurant-comparison/photography.md`
+4. `khds/research/restaurant-comparison/reservation.md`
+5. `khds/research/restaurant-comparison/story.md`
 
 Therefore:
 
@@ -12909,7 +12913,7 @@ Multiple Guest Intents
 
 ---
 
-# Post–JBJ Soul Kitchen Canonical Pattern Snapshot
+# Historical — Post–JBJ Soul Kitchen Canonical Pattern Snapshot
 
 ## Candidate / High
 
@@ -13433,7 +13437,7 @@ Requirement to Volunteer
 
 ---
 
-# Reconciliation Status — Restaurant #19
+# Historical — Reconciliation Status — Restaurant #19
 
 Restaurant #19 Dossier:
 
@@ -13485,7 +13489,7 @@ Pending
 
 ---
 
-# Next Governance File — Restaurant #19
+# Historical — Next Governance File — Restaurant #19
 
 `khds/patterns/registry.md`
 
@@ -13677,7 +13681,7 @@ The following files are complete:
 
 The institution-comparison architecture is established in:
 
-`khds/research/institution-comparison/README.md`
+`khds/research/institutions-comparison/README.md`
 
 Case #21 is therefore:
 
@@ -15368,7 +15372,7 @@ KHDS now separates:
 
 Institution comparison is governed by:
 
-`khds/research/institution-comparison/README.md`
+`khds/research/institutions-comparison/README.md`
 
 It uses:
 
@@ -15529,25 +15533,25 @@ Complete
 
 Registry Mirror:
 
-Pending
+Updated locally; administratively reconciled at public-evidence scope
 
 Dashboard Mirror:
 
-Pending
+Updated locally; administratively reconciled at public-evidence scope
 
 Research README Mirror:
 
-Pending
+Updated locally; administratively reconciled at public-evidence scope
 
 Validation README Mirror:
 
-Pending
+Updated locally; administratively reconciled at public-evidence scope
 
 ---
 
-# Next Governance File — Case #21
+# Next Administrative Action — Case #21
 
-`khds/patterns/registry.md`
+Review the completed disposition in the Fogo knowledge extraction; do not select or start Case #22.
 
 ---
 
@@ -15623,7 +15627,9 @@ Evidence wins.
 
 ---
 
-# Post–SAME Café Denver Canonical Governance Reconciliation
+<!-- KHDS-HISTORY-START -->
+
+# Historical — Post–SAME Café Denver Canonical Governance Reconciliation
 
 Restaurant added:
 
@@ -16189,7 +16195,7 @@ Principle total remains:
 
 ---
 
-# Post–SAME Café Canonical Pattern Snapshot
+# Historical — Post–SAME Café Canonical Pattern Snapshot
 
 ## Candidate / High
 
@@ -16386,7 +16392,7 @@ unless failed routes have a dignified recovery.
 
 ---
 
-# Reconciliation Status — Restaurant #20
+# Historical — Reconciliation Status — Restaurant #20
 
 Restaurant #20 Dossier:
 
@@ -16438,7 +16444,7 @@ Pending
 
 ---
 
-# Next Governance File — Restaurant #20
+# Historical — Next Governance File — Restaurant #20
 
 `khds/patterns/registry.md`
 
@@ -16493,6 +16499,8 @@ Evidence wins.
 
 ---
 
+<!-- KHDS-HISTORY-END -->
+
 # Canonical Current-State Override — Post Case #21
 
 The Post–SAME Café section immediately above is retained as:
@@ -16541,7 +16549,7 @@ Research-Derived Principle Promotions: 0
 
 The institution-comparison architecture is established at:
 
-`khds/research/institution-comparison/README.md`
+`khds/research/institutions-comparison/README.md`
 
 The complete hotel dossier is located at:
 
@@ -16574,10 +16582,10 @@ Current canonical reconciliation status:
 
 ```text
 candidate-patterns.md: Complete
-patterns/registry.md: Next
-validation/dashboard.md: Pending
-research/README.md: Pending
-validation/README.md: Pending
+patterns/registry.md: Updated locally; administratively reconciled at public-evidence scope
+validation/dashboard.md: Updated locally; administratively reconciled at public-evidence scope
+research/README.md: Updated locally; administratively reconciled at public-evidence scope
+validation/README.md: Updated locally; administratively reconciled at public-evidence scope
 ```
 
 ---

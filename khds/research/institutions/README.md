@@ -2,7 +2,7 @@
 
 ## Status
 
-Planned expansion beginning with **KHDS Case #21**.
+Expansion began with **KHDS Case #21 — Fogo Island Inn**. Its public-evidence dossier is complete; administrative closure is complete at public-evidence scope as recorded in `khds/state/current-case.json`.
 
 First institution type: **Boutique Hotel**.
 
@@ -123,7 +123,7 @@ The research must establish:
 
 ## Case #21 Direction
 
-KHDS Case #21 will study a boutique hotel.
+KHDS Case #21 studied Fogo Island Inn, a boutique-scale hotel / inn in Newfoundland and Labrador, Canada.
 
 Primary transfer question:
 
@@ -142,5 +142,5 @@ Priority pressure areas include:
 - service recovery;
 - and post-stay relationship design.
 
-The exact boutique hotel will be selected when Case #21 begins.
+The selected institution is [Fogo Island Inn](hotels/fogo-island-inn-newfoundland/README.md). Case #22 has no selected institution and is not authorized.
 

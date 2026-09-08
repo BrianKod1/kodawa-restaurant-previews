@@ -1,5 +1,9 @@
 KHDS Research Validation
 
+> Active status: Case #21 — Fogo Island Inn. Public-evidence dossier complete; comparison architecture established; no maturity or confidence change. Administrative closure is complete at public-evidence scope, with unresolved validation outcomes recorded in `khds/state/current-case.json`. Case #22 is only the expected next number: no institution selected and no research authorized.
+>
+> Historical status rule: restaurant-cycle status, count and handoff sections are retained snapshots, including any old “current”, “pending” or “next” wording. They do not supersede this opening status or the Post–Fogo Island Inn section. Existing findings and historical evidence remain unchanged.
+
 Status
 
 Post–Fogo Island Inn Governance Mirror
@@ -284,7 +288,7 @@ Fogo Island Inn — boutique-scale luxury hotel / inn
 
 Institution-comparison architecture:
 
-khds/research/institution-comparison/README.md
+khds/research/institutions-comparison/README.md
 
 Cross-institution recurrence:
 
@@ -1874,7 +1878,7 @@ more than:
 
 the direction.
 
-Post–JBJ Soul Kitchen Governance Decisions
+Historical — Post–JBJ Soul Kitchen Governance Decisions
 
 Restaurant #19 produced:
 
@@ -7548,15 +7552,15 @@ comparison:
 
 dimensions:
 
-khds/research/comparison/arrival.md
+khds/research/restaurant-comparison/arrival.md
 
-khds/research/comparison/atmosphere.md
+khds/research/restaurant-comparison/atmosphere.md
 
-khds/research/comparison/photography.md
+khds/research/restaurant-comparison/photography.md
 
-khds/research/comparison/reservation.md
+khds/research/restaurant-comparison/reservation.md
 
-khds/research/comparison/story.md
+khds/research/restaurant-comparison/story.md
 
 These:
 
@@ -7858,7 +7862,7 @@ Research question:
 
 How little system proof can still create sufficient understanding?
 
-Current Post–Refettorio Felix Research Priorities
+Historical — Current Post–Refettorio Felix Research Priorities
 
 Priority 1 — Multi-Intent Countercase Continuation
 
@@ -9810,7 +9814,7 @@ All counts are:
 
 reconciled.
 
-Post–Refettorio Felix Governance Summary
+Historical — Post–Refettorio Felix Governance Summary
 
 Restaurant #18 was selected as a deliberate:
 
@@ -10106,7 +10110,7 @@ Track B Learning Changes:
 
 0
 
-Post–Refettorio Felix Count Reconciliation
+Historical — Post–Refettorio Felix Count Reconciliation
 
 Post–Avatar Robot Café DAWN canonical state:
 
@@ -10806,7 +10810,7 @@ khds/research/validation/README.md
 
 Status:
 
-Post–Refettorio Felix, London Reconciled Mirror
+Historical — Post–Refettorio Felix, London Reconciled Mirror
 
 Canonical Source:
 
@@ -12310,7 +12314,7 @@ Ethically Coherent Architecture
 
 Universal KHDS Principle
 
-Post–JBJ Soul Kitchen Count Reconciliation
+Historical — Post–JBJ Soul Kitchen Count Reconciliation
 
 Previous canonical state:
 
@@ -12460,7 +12464,7 @@ khds/research/validation/README.md
 
 Status:
 
-Post–JBJ Soul Kitchen, Red Bank Reconciled Mirror
+Historical — Post–JBJ Soul Kitchen, Red Bank Reconciled Mirror
 
 Canonical Source:
 
@@ -12644,11 +12648,11 @@ The maturity threshold remains intact.
 
 Evidence wins.
 
-Post–SAME Café Denver Validation Reconciliation
+Historical — Post–SAME Café Denver Validation Reconciliation
 
 Status
 
-Post–Restaurant #20 Governance Mirror
+Historical — Post–Restaurant #20 Governance Mirror
 
 Restaurant:
 
@@ -12948,15 +12952,15 @@ khds/research/restaurants/same-cafe-denver/knowledge-extraction.md
 
 The completed comparison set contains:
 
-khds/research/comparison/arrival.md
+khds/research/restaurant-comparison/arrival.md
 
-khds/research/comparison/atmosphere.md
+khds/research/restaurant-comparison/atmosphere.md
 
-khds/research/comparison/photography.md
+khds/research/restaurant-comparison/photography.md
 
-khds/research/comparison/reservation.md
+khds/research/restaurant-comparison/reservation.md
 
-khds/research/comparison/story.md
+khds/research/restaurant-comparison/story.md
 
 Comparison Coverage:
 
@@ -14514,7 +14518,7 @@ khds/research/validation/README.md
 
 Status:
 
-Post–SAME Café Denver Reconciled Mirror
+Historical — Post–SAME Café Denver Reconciled Mirror
 
 Canonical Source:
 
@@ -14776,23 +14780,23 @@ Complete
 
 Registry Mirror:
 
-Complete
+Pattern decision mirrored; administratively reconciled at public-evidence scope
 
 Validation Dashboard Mirror:
 
-Complete
+Pattern decision mirrored; administratively reconciled at public-evidence scope
 
 Research README Mirror:
 
-Complete
+Pattern decision mirrored; administratively reconciled at public-evidence scope
 
 Validation README Mirror:
 
-Complete
+Pattern decision mirrored; administratively reconciled at public-evidence scope
 
 Governance Mirror Chain:
 
-Fully Reconciled Through Case #21
+Pattern Decision Recorded Through Case #21 — Administrative Closure Complete at Public-Evidence Scope
 
 Current Canonical State — Post Case #21
 
@@ -14950,7 +14954,7 @@ knowledge-extraction.md
 
 Institution-comparison architecture:
 
-khds/research/institution-comparison/README.md
+khds/research/institutions-comparison/README.md
 
 Input status:
 
@@ -16354,7 +16358,7 @@ Institution-Comparison Architecture Status
 
 Location:
 
-khds/research/institution-comparison/README.md
+khds/research/institutions-comparison/README.md
 
 Architecture Status:
 
@@ -16562,29 +16566,29 @@ khds/patterns/registry.md
 
 Pattern registry mirror
 
-Reconciled / Complete
+Pattern decision mirrored; administratively reconciled at public-evidence scope
 
 khds/research/validation/dashboard.md
 
 Validation dashboard mirror
 
-Reconciled / Complete
+Pattern decision mirrored; administratively reconciled at public-evidence scope
 
 khds/research/README.md
 
 Research-system overview mirror
 
-Reconciled / Complete
+Pattern decision mirrored; administratively reconciled at public-evidence scope
 
 khds/research/validation/README.md
 
 Validation-system overview mirror
 
-Reconciled / Complete
+Pattern decision mirrored; administratively reconciled at public-evidence scope
 
 Governance Mirror Reconciliation:
 
-Complete
+Local corrections recorded; administratively reconciled at public-evidence scope
 
 All Five Governance Files:
 
@@ -16682,31 +16686,31 @@ Complete
 
 Pattern Registry Mirror:
 
-Complete
+Pattern decision mirrored; administratively reconciled at public-evidence scope
 
 Validation Dashboard Mirror:
 
-Complete
+Pattern decision mirrored; administratively reconciled at public-evidence scope
 
 Research README Mirror:
 
-Complete
+Pattern decision mirrored; administratively reconciled at public-evidence scope
 
 Validation README Mirror:
 
-Complete
+Pattern decision mirrored; administratively reconciled at public-evidence scope
 
 Governance Mirror Chain:
 
-Complete
+Local status and path corrections recorded; administratively reconciled at public-evidence scope
 
 Cross-Institution Recurrence:
 
 Pending a second institution case
 
-Next Research Action:
+Next Administrative Action:
 
-KHDS Case #22
+Review the recorded public-evidence dispositions. Case #22 remains unselected and unauthorized.
 
 Next Synthesis Gate:
 
@@ -16792,12 +16796,10 @@ First Sector Transfer
 ≠
 Cross-Sector Validation
 
-The full Post–Fogo Island Inn governance mirror chain is:
-
-complete.
+The Post–Fogo Island Inn pattern decision is mirrored across the governance files. Administrative closure is complete at public-evidence scope; the disposition table in the Fogo knowledge extraction preserves unresolved validation outcomes.
 
 The maturity threshold remains intact.
 
 Evidence wins.
 
-KHDS is ready for Case #22.
+Expected next case: #22. No institution is selected and research is not authorized; a separate authorization is required before starting it.

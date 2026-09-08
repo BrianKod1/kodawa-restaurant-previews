@@ -1,5 +1,9 @@
 KHDS Validation Dashboard
 
+> Active status: Case #21 — Fogo Island Inn. Public-evidence dossier complete; comparison architecture established; no maturity or confidence change. Administrative closure is complete at public-evidence scope, with unresolved validation outcomes recorded in `khds/state/current-case.json`. Case #22 is only the expected next number: no institution selected and no research authorized.
+>
+> Historical status rule: restaurant-cycle status, count and handoff sections are retained snapshots, including any old “current”, “pending” or “next” wording. They do not supersede this opening status or the Post–Fogo Island Inn section. Existing findings and historical evidence remain unchanged.
+
 Status
 
 Post–Fogo Island Inn Governance Mirror
@@ -26,7 +30,7 @@ Track B Validation Cases:
 
 Dashboard Status:
 
-Reconciled
+Pattern decision mirrored; administratively reconciled at public-evidence scope
 
 Canonical Governance Source:
 
@@ -212,7 +216,7 @@ cross-institution recurrence.
 
 The institution-comparison architecture is established at:
 
-khds/research/institution-comparison/README.md
+khds/research/institutions-comparison/README.md
 
 Fogo Island Inn seeds that architecture.
 
@@ -1506,7 +1510,7 @@ unless new independent research or formal canonical governance review justifies 
 
 Historical Final Dashboard Position — Post–Refettorio Felix
 
-Post–Refettorio Felix, London governance is reconciled.
+Historical — Post–Refettorio Felix, London governance is reconciled.
 
 KHDS currently contains:
 
@@ -1554,7 +1558,7 @@ The threshold remains intact.
 
 Evidence wins.
 
-Post–JBJ Soul Kitchen, Red Bank Dashboard Reconciliation
+Historical — Post–JBJ Soul Kitchen, Red Bank Dashboard Reconciliation
 
 Dashboard Cycle
 
@@ -1580,7 +1584,7 @@ khds/patterns/registry.md
 
 It does not create governance.
 
-Current Research State — Post Restaurant #19
+Historical — Current Research State — Post Restaurant #19
 
 Measure
 
@@ -2182,7 +2186,7 @@ Post–JBJ Soul Kitchen Corrections
 
 20. Multiple Stakeholder Roles ≠ Multiple Guest Intents
 
-Count Reconciliation — Restaurant #19
+Historical — Count Reconciliation — Restaurant #19
 
 Post–Refettorio Felix canonical state:
 
@@ -2278,7 +2282,7 @@ Ethically Coherent Architecture
 
 Universal KHDS Principle
 
-Current Validation Priorities — Post–JBJ Soul Kitchen
+Historical — Current Validation Priorities — Post–JBJ Soul Kitchen
 
 1. Invitation / Exchange Resolution
 
@@ -2354,7 +2358,7 @@ khds/research/validation/README.md
 
 Pending
 
-Next Step — Post Restaurant #19
+Historical — Next Step — Post Restaurant #19
 
 Reconcile:
 
@@ -2376,9 +2380,9 @@ Research-Derived KHDS Principle count: 0
 
 unless new independent research or formal canonical governance review justifies a maturity change.
 
-Final Dashboard Position — Post Restaurant #19
+Historical — Final Dashboard Position — Post Restaurant #19
 
-Post–JBJ Soul Kitchen, Red Bank governance is reconciled.
+Historical — Post–JBJ Soul Kitchen, Red Bank governance is reconciled.
 
 KHDS currently contains:
 
@@ -2426,7 +2430,7 @@ The threshold remains intact.
 
 Evidence wins.
 
-Post–SAME Café Denver Dashboard Reconciliation
+Historical — Post–SAME Café Denver Dashboard Reconciliation
 
 Latest Research Cycle
 
@@ -2440,7 +2444,7 @@ Canonical Governance Decision
 
 No Change
 
-Current Research State — Post Restaurant #20
+Historical — Current Research State — Post Restaurant #20
 
 Measure
 
@@ -2842,7 +2846,7 @@ Ethical Strength
 
 Universal KHDS Principle
 
-Count Reconciliation — Restaurant #20
+Historical — Count Reconciliation — Restaurant #20
 
 Candidate
 
@@ -2868,7 +2872,7 @@ Independent Restaurants
 
 19 + 1 = 20
 
-Current Validation Priorities — Post–SAME Café Denver
+Historical — Current Validation Priorities — Post–SAME Café Denver
 
 1. Failed contribution-route recovery
 
@@ -2932,7 +2936,7 @@ khds/research/validation/README.md
 
 Pending
 
-Next Step — Post Restaurant #20
+Historical — Next Step — Post Restaurant #20
 
 Reconcile:
 
@@ -2956,9 +2960,9 @@ Research-Derived KHDS Principle count: 0
 
 unless new independent research or formal canonical governance review justifies a maturity change.
 
-Final Dashboard Position — Post Restaurant #20
+Historical — Final Dashboard Position — Post Restaurant #20
 
-Post–SAME Café Denver governance is reconciled.
+Historical — Post–SAME Café Denver governance is reconciled.
 
 KHDS currently contains:
 
@@ -3328,7 +3332,7 @@ knowledge-extraction.md
 
 Institution-comparison architecture:
 
-khds/research/institution-comparison/README.md
+khds/research/institutions-comparison/README.md
 
 Status:
 
@@ -4482,7 +4486,7 @@ and cross-institution comparison.
 
 Institution comparison is governed by:
 
-khds/research/institution-comparison/README.md
+khds/research/institutions-comparison/README.md
 
 Its core comparison fields are:
 
@@ -4544,25 +4548,25 @@ khds/patterns/registry.md
 
 Pattern registry mirror
 
-Reconciled / Complete
+Pattern decision mirrored; administratively reconciled at public-evidence scope
 
 khds/research/validation/dashboard.md
 
 Validation dashboard mirror
 
-Reconciled / Complete
+Pattern decision mirrored; administratively reconciled at public-evidence scope
 
 khds/research/README.md
 
 Research-system overview mirror
 
-Pending Case #21 reconciliation
+Updated locally; administratively reconciled at public-evidence scope
 
 khds/research/validation/README.md
 
 Validation-system overview mirror
 
-Pending Case #21 reconciliation
+Updated locally; administratively reconciled at public-evidence scope
 
 Institution Research Files:
 
@@ -4576,15 +4580,9 @@ Cross-Institution Recurrence:
 
 Pending a second independent institution case
 
-Next Governance Step — Post Case #21
+Next Administrative Step — Post Case #21
 
-Reconcile:
-
-khds/research/README.md
-
-then:
-
-khds/research/validation/README.md
+Review the recorded public-evidence dispositions. Case #22 has no selected institution and no research authorization.
 
 Do not change:
 

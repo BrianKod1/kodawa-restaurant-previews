@@ -1,5 +1,7 @@
 KHDS Case #21 — Fogo Island Inn
 
+> Status interpretation: this file preserves the original Case #21 drafting sequence. Case-level in-progress statements, next-file instructions and pre-reconciliation counts below are historical checkpoints, not current instructions. The public-evidence dossier is complete and administratively reconciled; unresolved operational outcomes do not become validated findings. See [the current extraction status](knowledge-extraction.md) and `khds/state/current-case.json`.
+
 Discovery Research
 
 Institution: Fogo Island Inn
@@ -1866,7 +1868,7 @@ pattern rename,
 
 or pattern merge.
 
-The canonical Post–SAME Café state remains:
+Historical canonical baseline at this drafting stage — Post–SAME Café:
 
 Measure
 
@@ -1902,7 +1904,7 @@ Research-derived KHDS Principles
 
 Case #21 remains in progress.
 
-38. Discovery completion state
+38. Historical drafting checkpoint — Discovery completion state
 
 Case #21
 Fogo Island Inn
@@ -1924,11 +1926,11 @@ Canonical reconciliation pending
 
 Research In Progress
 
-39. Next file
+39. Historical drafting checkpoint — Next file
 
 The next file is:
 
-khds/research/institutions/fogo-island-inn-newfoundland/reservation.md
+khds/research/institutions/hotels/fogo-island-inn-newfoundland/reservation.md
 
 It will examine the transition from informed interest to binding commitment across:
 

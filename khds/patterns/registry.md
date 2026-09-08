@@ -1,5 +1,9 @@
 KHDS Pattern Registry
 
+> Active status: Case #21 — Fogo Island Inn. Public-evidence dossier complete; comparison architecture established; no maturity or confidence change. Administrative closure is complete at public-evidence scope, with unresolved validation outcomes recorded in `khds/state/current-case.json`. Case #22 is only the expected next number: no institution selected and no research authorized.
+>
+> Historical status rule: restaurant-cycle status, count and handoff sections are retained snapshots, including any old “current”, “pending” or “next” wording. They do not supersede this opening status or the Post–Fogo Island Inn section. Existing findings and historical evidence remain unchanged.
+
 Status
 
 Post–Fogo Island Inn Governance Mirror
@@ -22,7 +26,7 @@ Track B Validation Cases:
 
 Registry Status:
 
-Reconciled
+Pattern decision mirrored; administratively reconciled at public-evidence scope
 
 Canonical Governance Source:
 
@@ -278,7 +282,7 @@ Highest Research-Derived Maturity
 
 Candidate
 
-Current Post–JBJ Soul Kitchen Governance Changes
+Historical — Current Post–JBJ Soul Kitchen Governance Changes
 
 Restaurant #19 produces:
 
@@ -3730,7 +3734,7 @@ Track B Learning Changes
 
 0
 
-Count Reconciliation — Restaurant #16
+Historical — Count Reconciliation — Restaurant #16
 
 Post–Pearl Morissette canonical state:
 
@@ -4400,7 +4404,7 @@ Human Assistance Where Structured Self-Service Is Insufficient
 
 Multi-Intent Hospitality
 
-Current Post–Refettorio Felix Candidate Confidence Grouping
+Historical — Current Post–Refettorio Felix Candidate Confidence Grouping
 
 This section supersedes:
 
@@ -4882,7 +4886,7 @@ Published Social Purpose ≠ Verified Social Outcome
 
 Commercial Value ≠ Fair Labour Outcome Proven
 
-Count Reconciliation — Restaurant #17
+Historical — Count Reconciliation — Restaurant #17
 
 Post–Dans le Noir? London:
 
@@ -4998,7 +5002,7 @@ Track B Learning Changes
 
 0
 
-Current Registry Snapshot — Post Restaurant #17
+Historical — Current Registry Snapshot — Post Restaurant #17
 
 
 Independent Restaurants:
@@ -5046,7 +5050,7 @@ Highest Research-Derived Maturity:
 Candidate
 
 
-Next Research Priorities — Post–Avatar Robot Café DAWN
+Historical — Next Research Priorities — Post–Avatar Robot Café DAWN
 
 Priority 1 — Multi-Intent Hospitality Falsification
 
@@ -5166,7 +5170,7 @@ Validation Overview:
 
 Comparison Research:
 
-../research/comparison/
+../research/restaurant-comparison/
 
 Restaurant Research:
 
@@ -5249,7 +5253,7 @@ There are still no Validated patterns and no research-derived KHDS Principles.
 
 Evidence wins.
 
-Post–Refettorio Felix, London Registry Reconciliation
+Historical — Post–Refettorio Felix, London Registry Reconciliation
 
 Restaurant #18 was selected as a deliberate:
 
@@ -6126,7 +6130,7 @@ Correction 20 — Coherent Story / Causal Proof
 
 Narrative coherence must not be elevated into verified causality.
 
-Current Registry Pattern Snapshot — Post Restaurant #18
+Historical — Current Registry Pattern Snapshot — Post Restaurant #18
 
 Candidate / High — 9
 
@@ -6216,7 +6220,7 @@ Existing Implementation Pattern Pending Formal Validation — 1
 
 Invitation
 
-Count Reconciliation — Restaurant #18
+Historical — Count Reconciliation — Restaurant #18
 
 Post–Avatar Robot Café DAWN:
 
@@ -6350,7 +6354,7 @@ Track B Learning Changes
 
 0
 
-Current Registry Snapshot — Post Restaurant #18
+Historical — Current Registry Snapshot — Post Restaurant #18
 
 
 Independent Restaurants:
@@ -6447,7 +6451,7 @@ Ethically Important Architecture
 Universal KHDS Principle
 
 
-Next Research Priorities — Post–Refettorio Felix
+Historical — Next Research Priorities — Post–Refettorio Felix
 
 Priority 1 — Multi-Intent Countercase Continuation
 
@@ -6523,11 +6527,11 @@ Validation README Mirror:
 
 Pending
 
-Next Governance File — Restaurant #18
+Historical — Next Governance File — Restaurant #18
 
 ../research/validation/dashboard.md
 
-Final Registry Position — Post Restaurant #18
+Historical — Final Registry Position — Post Restaurant #18
 
 After 18 independent restaurants, the registry mirrors:
 
@@ -6632,7 +6636,7 @@ There are still no Validated patterns and no research-derived KHDS Principles.
 
 Evidence wins.
 
-Post–JBJ Soul Kitchen, Red Bank Registry Reconciliation
+Historical — Post–JBJ Soul Kitchen, Red Bank Registry Reconciliation
 
 Restaurant #19 was selected as a deliberate:
 
@@ -7437,7 +7441,7 @@ Correction 20 — Roles / Intents
 
 Multiple Stakeholder Roles ≠ Multiple Guest Intents.
 
-Current Registry Pattern Snapshot — Post Restaurant #19
+Historical — Current Registry Pattern Snapshot — Post Restaurant #19
 
 Candidate / High — 9
 
@@ -7527,7 +7531,7 @@ Existing Implementation Pattern Pending Formal Validation — 1
 
 Invitation
 
-Count Reconciliation — Restaurant #19
+Historical — Count Reconciliation — Restaurant #19
 
 Post–Refettorio Felix canonical state:
 
@@ -7651,7 +7655,7 @@ Track B Learning Changes
 
 0
 
-Current Registry Snapshot — Post Restaurant #19
+Historical — Current Registry Snapshot — Post Restaurant #19
 
 
 Independent Restaurants:
@@ -7760,7 +7764,7 @@ Ethically Coherent Architecture
 Universal KHDS Principle
 
 
-Next Research Priorities — Post–JBJ Soul Kitchen
+Historical — Next Research Priorities — Post–JBJ Soul Kitchen
 
 Priority 1 — Invitation / Exchange Resolution
 
@@ -7844,11 +7848,11 @@ Validation README Mirror:
 
 Pending
 
-Next Governance File — Restaurant #19
+Historical — Next Governance File — Restaurant #19
 
 ../research/validation/dashboard.md
 
-Final Registry Position — Post Restaurant #19
+Historical — Final Registry Position — Post Restaurant #19
 
 After 19 independent restaurants, the registry mirrors:
 
@@ -7951,7 +7955,7 @@ There are still no Validated patterns and no research-derived KHDS Principles.
 
 Evidence wins.
 
-Post–SAME Café Denver Registry Reconciliation
+Historical — Post–SAME Café Denver Registry Reconciliation
 
 Restaurant #20:
 
@@ -7991,7 +7995,7 @@ Knowledge extraction.
 
 Five cross-restaurant comparison files.
 
-Post–SAME Café canonical Candidate reconciliation.
+Historical — Post–SAME Café canonical Candidate reconciliation.
 
 All twelve research stages are complete.
 
@@ -8045,7 +8049,7 @@ Only the completed independent restaurant count changes:
 
 19 + 1 = 20
 
-Current Registry Pattern Snapshot — Post Restaurant #20
+Historical — Current Registry Pattern Snapshot — Post Restaurant #20
 
 Candidate / High — 9
 
@@ -8389,7 +8393,7 @@ One Person ≠ One Combined Participation Profile.
 
 One Restaurant Case ≠ Universal Hospitality Pattern.
 
-Count Reconciliation — Restaurant #20
+Historical — Count Reconciliation — Restaurant #20
 
 Candidate:
 26 + 0 = 26
@@ -8485,7 +8489,7 @@ Architecture Volume
 ≠
 Pattern Maturity
 
-Current Registry Snapshot — Post Restaurant #20
+Historical — Current Registry Snapshot — Post Restaurant #20
 
 Independent Restaurants: 20
 Track B Validation Cases: 1
@@ -8502,7 +8506,7 @@ Opportunity Themes: 36
 Track B Implementation Learnings: 17
 Highest Research-Derived Maturity: Candidate
 
-Next Research Priorities — Post–SAME Café Denver
+Historical — Next Research Priorities — Post–SAME Café Denver
 
 Failed contribution-route recovery.
 
@@ -8574,11 +8578,11 @@ Validation README Mirror:
 
 Pending
 
-Next Governance File — Restaurant #20
+Historical — Next Governance File — Restaurant #20
 
 ../research/validation/dashboard.md
 
-Final Registry Position — Post Restaurant #20
+Historical — Final Registry Position — Post Restaurant #20
 
 After twenty independent restaurants, the registry mirrors:
 
@@ -8711,7 +8715,7 @@ The mirror receives evidence from:
 
 ../research/institutions/hotels/fogo-island-inn-newfoundland/knowledge-extraction.md
 
-../research/institution-comparison/README.md
+../research/institutions-comparison/README.md
 
 ../research/validation/candidate-patterns.md
 
@@ -9661,23 +9665,23 @@ Complete
 
 Pattern Registry Mirror:
 
-Complete
+Pattern decision mirrored; administratively reconciled at public-evidence scope
 
 Validation Dashboard Mirror:
 
-Next
+Updated locally; administratively reconciled at public-evidence scope
 
 Research README Mirror:
 
-Pending
+Updated locally; administratively reconciled at public-evidence scope
 
 Validation README Mirror:
 
-Pending
+Updated locally; administratively reconciled at public-evidence scope
 
-Next Governance File — Case #21
+Next Administrative Action — Case #21
 
-../research/validation/dashboard.md
+Review the recorded public-evidence dispositions; Case #22 remains unauthorized.
 
 Final Registry Position — Post Case #21
 

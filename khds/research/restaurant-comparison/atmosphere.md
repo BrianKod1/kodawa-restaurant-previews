@@ -9186,7 +9186,7 @@ Validation
 
 Comparison File:
 
-khds/research/comparison/atmosphere.md
+khds/research/restaurant-comparison/atmosphere.md
 
 Status:
 
@@ -9290,7 +9290,7 @@ Research-Derived KHDS Principles:
 
 Next Comparison File:
 
-khds/research/comparison/photography.md
+khds/research/restaurant-comparison/photography.md
 
 Post–Refettorio Felix, London Reconciliation
 
@@ -10438,7 +10438,7 @@ Validation — Post Restaurant #18
 
 Comparison File:
 
-khds/research/comparison/atmosphere.md
+khds/research/restaurant-comparison/atmosphere.md
 
 Status:
 
@@ -10530,7 +10530,7 @@ Research-Derived KHDS Principles:
 
 Next Comparison File:
 
-khds/research/comparison/photography.md
+khds/research/restaurant-comparison/photography.md
 
 Post–JBJ Soul Kitchen, Red Bank Reconciliation
 
@@ -12646,7 +12646,7 @@ Validation — Post Restaurant #19 Atmosphere Comparison
 
 Comparison File:
 
-khds/research/comparison/atmosphere.md
+khds/research/restaurant-comparison/atmosphere.md
 
 Status:
 
@@ -12758,7 +12758,7 @@ Research-Derived KHDS Principles:
 
 Next Comparison File:
 
-khds/research/comparison/photography.md
+khds/research/restaurant-comparison/photography.md
 
 Post–SAME Café Denver Reconciliation
 
@@ -14774,7 +14774,7 @@ Validation — Post Restaurant #20 Atmosphere Comparison
 
 Comparison File:
 
-khds/research/comparison/atmosphere.md
+khds/research/restaurant-comparison/atmosphere.md
 
 Status:
 
@@ -14894,4 +14894,4 @@ Arrival and Atmosphere Comparisons Complete / Three Dimension Comparisons Pendin
 
 Next Comparison File:
 
-khds/research/comparison/photography.md
+khds/research/restaurant-comparison/photography.md

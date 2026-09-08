@@ -10,4 +10,4 @@ Validation failure stops publication. Obtain explicit user approval of the succe
 
 Preserve historical material and distinguish it from active state. Use focused governance updates, never append a whole historical snapshot when a focused update suffices. Identity, numbering, paths, required files, prior-case contamination, active-state conflicts, duplicate substantial sections, unexpected Git changes and excessive growth must pass validation.
 
-Current baseline: Case #21 dossier complete; administrative reconciliation unresolved; Case #22 unauthorized. Control validation does not certify legacy reconciliation. Do not repair historical files or authorize research without a separately approved task.
+Read current completion and authorization from state/current-case.json, not a hard-coded baseline here. Administrative closure of public-evidence research does not validate operational outcomes or promote patterns. Control validation does not itself certify research closure. Do not repair historical files or authorize a new case without a separately approved task.

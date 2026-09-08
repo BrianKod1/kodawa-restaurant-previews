@@ -8,7 +8,7 @@ First completed research case: KHDS Case #21 — Fogo Island Inn
 Completed hotel dossiers: 1
 Latest hotel case: Fogo Island Inn, Newfoundland and Labrador, Canada
 Institution comparison status: Architecture established; recurrence pending
-Canonical reconciliation status: Pending
+Canonical reconciliation status: No-promotion decision recorded; administratively reconciled at public-evidence scope
 Pattern maturity changes from Case #21: None
 Confidence changes from Case #21: None
 
@@ -285,7 +285,7 @@ Hotel comparison position
 
 Institution comparison is governed by:
 
-khds/research/institution-comparison/README.md
+khds/research/institutions-comparison/README.md
 
 Case #21 seeds that architecture.
 
@@ -509,7 +509,7 @@ Case #21 produced:
 
 and 0 research-derived Principle promotions.
 
-The canonical reconciliation following Case #21 should record:
+The recorded Case #21 canonical pattern decision has these totals; they do not certify administrative closure:
 
 State
 
@@ -599,33 +599,33 @@ Complete
 
 Canonical candidate reconciliation
 
-Next
+Decision/status recorded; administratively reconciled at public-evidence scope
 
 Registry reconciliation
 
-Pending
+Decision/status recorded; administratively reconciled at public-evidence scope
 
 Dashboard reconciliation
 
-Pending
+Decision/status recorded; administratively reconciled at public-evidence scope
 
 Research README reconciliation
 
-Pending
+Decision/status recorded; administratively reconciled at public-evidence scope
 
 Validation README reconciliation
 
-Pending
+Decision/status recorded; administratively reconciled at public-evidence scope
 
 Second independent institution comparison
 
 Pending future institution case
 
-Next required file
+Next administrative action
 
-khds/research/validation/candidate-patterns.md
+Review the completed disposition in the Fogo knowledge extraction. Case #22 remains unselected and unauthorized.
 
-That reconciliation should record:
+The recorded canonical decision covers:
 
 Case #21 as the first completed institution transfer case,
 

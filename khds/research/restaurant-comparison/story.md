@@ -10131,7 +10131,7 @@ It completes the five comparison dimensions and opens the Post–Avatar Robot Ca
 
 Comparison File:
 
-`khds/research/comparison/story.md`
+`khds/research/restaurant-comparison/story.md`
 
 Status:
 
@@ -11411,7 +11411,7 @@ Evidence wins.
 
 Comparison File:
 
-`khds/research/comparison/story.md`
+`khds/research/restaurant-comparison/story.md`
 
 Status:
 
@@ -13733,7 +13733,7 @@ Evidence wins.
 
 Comparison File:
 
-`khds/research/comparison/story.md`
+`khds/research/restaurant-comparison/story.md`
 
 Status:
 
@@ -14707,7 +14707,7 @@ Evidence wins.
 
 Comparison File:
 
-`khds/research/comparison/story.md`
+`khds/research/restaurant-comparison/story.md`
 
 Status:
 

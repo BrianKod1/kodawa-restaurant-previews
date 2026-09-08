@@ -1,5 +1,7 @@
 KHDS Case #21 — Fogo Island Inn
 
+> Status interpretation: this file preserves the original Case #21 drafting sequence. Case-level in-progress statements, next-file instructions and pre-reconciliation counts below are historical checkpoints, not current instructions. The public-evidence dossier is complete and administratively reconciled; unresolved operational outcomes do not become validated findings. See [the current extraction status](knowledge-extraction.md) and `khds/state/current-case.json`.
+
 Story Research
 
 Institution: Fogo Island Inn
@@ -3601,7 +3603,7 @@ Research-derived KHDS Principles
 
 Case #21 remains research in progress.
 
-62. Story completion state
+62. Historical drafting checkpoint — Story completion state
 
 Case #21 file
 
@@ -3659,11 +3661,11 @@ The story dimension is complete at public-evidence level.
 
 Case #21 is not complete.
 
-63. Next file
+63. Historical drafting checkpoint — Next file
 
 The next required file is:
 
-khds/research/institutions/fogo-island-inn-newfoundland/knowledge-extraction.md
+khds/research/institutions/hotels/fogo-island-inn-newfoundland/knowledge-extraction.md
 
 That file should:
 

@@ -1,5 +1,7 @@
 KHDS Case #21 — Fogo Island Inn
 
+> Status interpretation: this file preserves the original Case #21 drafting sequence. Case-level in-progress statements, next-file instructions and pre-reconciliation counts below are historical checkpoints, not current instructions. The public-evidence dossier is complete and administratively reconciled; unresolved operational outcomes do not become validated findings. See [the current extraction status](knowledge-extraction.md) and `khds/state/current-case.json`.
+
 Departure Research
 
 Institution: Fogo Island Inn
@@ -2707,7 +2709,7 @@ The canonical authority remains:
 
 khds/research/validation/candidate-patterns.md
 
-58. Departure completion state
+58. Historical drafting checkpoint — Departure completion state
 
 This file is complete at public-evidence level.
 
@@ -2767,11 +2769,11 @@ Pending
 
 No comparison or governance mirror should be reconciled yet.
 
-59. Next file
+59. Historical drafting checkpoint — Next file
 
 The next dimension is:
 
-khds/research/institutions/fogo-island-inn-newfoundland/atmosphere.md
+khds/research/institutions/hotels/fogo-island-inn-newfoundland/atmosphere.md
 
 That file should test how atmosphere persists across:
 

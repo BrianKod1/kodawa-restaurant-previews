@@ -1,5 +1,7 @@
 KHDS Case #21 — Fogo Island Inn
 
+> Status interpretation: this file preserves the original Case #21 drafting sequence. Case-level in-progress statements, next-file instructions and pre-reconciliation counts below are historical checkpoints, not current instructions. The public-evidence dossier is complete and administratively reconciled; unresolved operational outcomes do not become validated findings. See [the current extraction status](knowledge-extraction.md) and `khds/state/current-case.json`.
+
 Arrival Research
 
 Institution: Fogo Island Inn
@@ -3407,6 +3409,24 @@ They are not evidence of current 2026 procedure.
 
 55. Source-conflict ledger
 
+55.1 Current road-duration disposition — accessed 2026-09-08
+
+[Getting Here](https://fogoislandinn.ca/destination/getting-here/) places the traveller in Gander, then gives a one-hour road leg to Farewell and a separate 45-minute ferry leg. Its context is Gander International Airport, but the precise road origin is not specified. Shuttle and rental-car options are listed without a duration distinction.
+
+[The FAQ](https://fogoislandinn.ca/frequently-asked-questions/) gives 1.5 hours by road from Gander to the Farewell terminal, separately followed by an approximately 45-minute ferry. No different road origin, route, stops or operating conditions explain the discrepancy.
+
+[The provincial ferry route page](https://www.gov.nl.ca/ti/ferryservices/schedules/c-fogo/) lists 45 minutes for direct Farewell–Fogo service and 1 hour 15 minutes for combined service. Those are sea segments; they do not reconcile the road estimates.
+
+Finding: the Inn pages describe the same named endpoints, road mode and pre-ferry segment. Exact pickup locations are unspecified, so identical door-to-door routes cannot be proved. No documented segment or mode distinction resolves one hour versus 1.5 hours. Duration remains uncertain; neither figure, nor an invented average or guaranteed range, is adopted. Obtain current route-specific timing and ferry buffer from the travel operator/Inn for actual planning.
+
+Closure consequence: README §§2,20,23 distinguish public-source research from live service performance and expressly require preserving both figures with planning confirmation. The source-reconciliation task is satisfied by this comparison and bounded uncertainty, not by declaring a correct duration. The discrepancy remains an operational planning limitation and cannot support timing-confidence or pattern promotion.
+
+All three URLs above were accessed on 2026-09-08. This is an intentional primary-source recheck; earlier observations are preserved below.
+
+<!-- KHDS-HISTORY-START -->
+
+Historical observations from the original Case #21 drafting review:
+
 55.1 Gander-to-Farewell duration
 
 Current official source
@@ -3430,6 +3450,8 @@ do not silently choose one,
 do not calculate a reliable ferry connection from either without current operational confirmation,
 
 and flag the discrepancy for institutional reconciliation.
+
+<!-- KHDS-HISTORY-END -->
 
 55.2 Ferry duration
 
@@ -3593,7 +3615,7 @@ Principle promotion,
 
 or canonical count change.
 
-The canonical Post–SAME Café state remains:
+Historical canonical baseline at this drafting stage — Post–SAME Café:
 
 Measure
 
@@ -3647,7 +3669,7 @@ Case #21 remains in progress.
 
 No hotel-transfer conclusion is justified until the complete institutional case and reconciliation sequence is finished.
 
-58. Arrival completion state
+58. Historical drafting checkpoint — Arrival completion state
 
 Case #21
 Fogo Island Inn
@@ -3669,11 +3691,11 @@ Canonical reconciliation pending
 
 Research In Progress
 
-59. Next file
+59. Historical drafting checkpoint — Next file
 
 The next file is:
 
-khds/research/institutions/fogo-island-inn-newfoundland/stay.md
+khds/research/institutions/hotels/fogo-island-inn-newfoundland/stay.md
 
 It will examine whether the arrival promise remains coherent across:
 

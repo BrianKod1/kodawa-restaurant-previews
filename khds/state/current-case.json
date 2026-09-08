@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "expectedBranch": "main",
-  "workflowStatus": "reconciliation-required",
+  "workflowStatus": "idle",
   "latestCompletedCase": {
     "caseNumber": 21,
     "institutionName": "Fogo Island Inn",
@@ -10,33 +10,61 @@
     "sector": "hotels",
     "canonicalPath": "khds/research/institutions/hotels/fogo-island-inn-newfoundland/",
     "dossierComplete": true,
-    "administrativeReconciliation": false
+    "administrativeReconciliation": true
   },
   "expectedNextCase": 22,
   "researchAuthorized": false,
   "authorization": null,
   "activeCase": null,
-  "disagreements": [
-    {
-      "path": "khds/research/institutions/hotels/fogo-island-inn-newfoundland/knowledge-extraction.md",
-      "reason": "Lines 14-15 and 3761-3763 say comparison and reconciliation pending; comparison and governance records say complete."
-    },
-    {
-      "path": "khds/research/institutions/README.md",
-      "reason": "Line 145 still defers selection of Case #21 institution."
-    },
-    {
-      "path": "khds/research/validation/README.md",
-      "reason": "Line 14703 says next Case #21; line 16803 says next Case #22."
-    },
-    {
-      "path": "khds/research/README.md",
-      "reason": "Validation README mirror remains Next at line 15284 despite its completion claim."
-    },
-    {
-      "path": "khds/research/institutions/hotels/fogo-island-inn-newfoundland/",
-      "reason": "22 dossier path references omit hotels/; legacy comparison/ references also survive the directory rename."
-    }
-  ],
-  "publication": null
+  "disagreements": [],
+  "publication": null,
+  "reconciliationRecord": {
+    "scope": "Case #21 administratively closed at public-evidence scope; local changes uncommitted for review",
+    "controlCheckpoint": "5259bf1",
+    "correctedIssues": [
+      {
+        "path": "khds/research/institutions/hotels/fogo-island-inn-newfoundland/knowledge-extraction.md",
+        "reason": "Lines 14-15 and 3761-3763 say comparison and reconciliation pending; comparison and governance records say complete."
+      },
+      {
+        "path": "khds/research/institutions/README.md",
+        "reason": "Line 145 still defers selection of Case #21 institution."
+      },
+      {
+        "path": "khds/research/validation/README.md",
+        "reason": "Line 14703 says next Case #21; line 16803 says next Case #22."
+      },
+      {
+        "path": "khds/research/README.md",
+        "reason": "Validation README mirror remains Next at line 15284 despite its completion claim."
+      },
+      {
+        "path": "khds/research/institutions/hotels/fogo-island-inn-newfoundland/",
+        "reason": "22 dossier path references omit hotels/; legacy comparison/ references also survive the directory rename."
+      }
+    ],
+    "verifiedStages": [
+      "12-file public-evidence dossier",
+      "Institution comparison units, sector adapters and Case #21 seed",
+      "Canonical no-promotion decision and unchanged 26/8/1/0/0 maturity totals",
+      "Local canonical path and active-status corrections",
+      "Original completion checklist and F01-F12 dispositions recorded without claiming resolved operational outcomes",
+      "Current primary road/ferry sources compared; exact road duration remains uncertain"
+    ],
+    "unverified": [
+      "F01-F12 empirical outcomes and detailed operational tests remain unresolved; no positive promotion or validation",
+      "Exact Gander-to-Farewell road duration; current primary estimates conflict",
+      "Cross-institution recurrence; no second institution researched"
+    ]
+  },
+  "administrativeReview": {
+    "date": "2026-09-08",
+    "dispositionPath": "khds/research/institutions/hotels/fogo-island-inn-newfoundland/knowledge-extraction.md",
+    "travelReviewPath": "khds/research/institutions/hotels/fogo-island-inn-newfoundland/arrival.md",
+    "basis": "README public-evidence scope and non-inference rules; complete research dispositions, not operational proof",
+    "durationStatus": "uncertain",
+    "patternDecision": "no-promotion",
+    "patternValidated": false,
+    "confidenceChanges": 0
+  }
 }

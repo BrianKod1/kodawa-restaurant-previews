@@ -9,9 +9,9 @@
       "sector": "hotels",
       "canonicalPath": "khds/research/institutions/hotels/fogo-island-inn-newfoundland/",
       "dossierComplete": true,
-      "administrativeReconciliation": false,
+      "administrativeReconciliation": true,
       "evidenceCommit": "3e027f8",
-      "completionScope": "public-evidence dossier; administrative closure unresolved"
+      "completionScope": "Public-evidence dossier administratively reconciled on 2026-09-08; F01-F12 outcomes, operational validation and exact road duration remain unresolved. No pattern promotion or confidence change."
     }
   ],
   "priorIdentities": [

@@ -1,5 +1,39 @@
 KHDS Case #21 — Fogo Island Inn
 
+> Administrative review, 2026-09-08: Case #21 is closed at public-evidence research scope. The disposition below accounts for every original completion requirement and F01–F12 falsification target. Operational outcomes, recurrence and the exact Gander-to-Farewell duration remain unresolved. No pattern is promoted or validated; no confidence changes. Case #22 remains unselected, unstarted and unauthorized.
+
+## Closure and falsification disposition
+
+Read the original README §34 completion checklist together with §2 (public architecture, not actual service performance), §20 (unverified outcomes), §23 (retain conflicting estimates; confirm for real planning), §29 (attempt falsification) and §30 (non-inference). “Satisfied” on a closure row means the required research work or disposition is evidenced; it never means a hypothesis was empirically proved. An “unresolved” F-row is the explicit public-evidence answer, not a positive result. No-promotion is its consequence, not a substitute for evidence. The A–Q operational programme remains open before any positive maturity decision. Sources below refer to files in this dossier unless a repository path is given.
+
+| ID / original requirement or target | Supporting evidence and location | Status | Reason and consequence |
+|---|---|---|---|
+| C01 All institution files complete | README §33; all 12 files present; ten dimension source ledgers, gap registers and extraction “Research inputs” | satisfied | Public-evidence analyses exist across the full journey. Unobserved live operations remain limitations, not fabricated findings. |
+| C02 All sources reconciled | README §§20–23; reservation §47; pre-arrival §50; arrival §55 dated primary-source recheck; departure §55 | satisfied | Sources are attributed, dated, scoped and compared; conflict is explicitly uncertain. Reconciliation does not make primary sources agree or certify a usable itinerary. |
+| C03 Discrepancies recorded | README §23; arrival §55.1 historical and current records; pre-arrival §50 | satisfied | The road-time conflict and direct/combined ferry distinction are retained. Actual travel still requires current confirmation. |
+| C04 Transfer claims bounded | README §30; extraction “Evidence risks”, “Cross-dimensional contradiction findings”; canonical Case #21 no-promotion rationale | satisfied | Published mechanisms are separated from experience, performance, outcomes and causality. No universal hotel claim is made. |
+| C05 Longitudinal stages compared | Extraction “Cross-dimensional contradiction findings” and “Institution-comparison requirements”; discovery through departure dimension analyses | satisfied | Dependencies across booking, planning, arrival, stay, dining and departure are compared analytically. This is not observed multi-day performance. |
+| C06 Restaurant-to-hotel transfer explicitly assessed | Extraction Candidate/ Emerging/Partially Supported assessments; `khds/research/institutions-comparison/README.md`, “Case #21 seed record” and transfer-pressure register | satisfied | First-institution seed and sector differences exist; one hotel cannot establish recurrence. Restaurant-only comparison files are not misrepresented as hotel validation. |
+| C07 Falsification targets answered | F01–F12 dispositions below; README §§2,20,29–30; extraction “Falsification programme” and canonical no-promotion decision | satisfied | Every original target receives an evidence-bounded answer. Unresolved hypotheses stay unresolved. The required attempt and disposition are complete; positive operational answers are not asserted. |
+| C08 Non-promotions recorded | `khds/research/validation/candidate-patterns.md`, “Why No Candidate Promotion Occurred — Case #21”, confidence/demotion/Validated/Principle decisions | satisfied | No promotion, demotion or confidence change. Candidate 26, Emerging 8, Partially Supported 1, Validated 0, research-derived Principles 0 remain unchanged. |
+| C09 Canonical Candidate file reconciled | Same canonical file: Case #21 ledger, current-state override and Fogo evidence-inclusion table | satisfied | Case #21 identity and the no-promotion decision agree; 25 supporting Candidate records and one not-applicable walk-in record do not imply validation. |
+| C10 All governance mirrors agree | Research README, validation README/dashboard, pattern registry, hotel index and `khds/state/current-case.json`; local validation report | satisfied | Current status is administrative closure at public-evidence scope, with unresolved outcomes retained. Historical drafting and restaurant-cycle snapshots remain labelled. |
+| F01 Could a simple sequence replace many digital layers? | discovery §29; arrival §52; extraction contradictions 1–2 | unresolved | No comparative usability observation establishes the necessary number of layers. Retain the boundary; no promotion. |
+| F02 Could advisors create dependence, delay or unequal access? | pre-arrival §48; arrival §52.1; extraction contradiction 4 | unresolved | Named assistance is a published mechanism; workload, delay and equitable access are not measured. No confidence increase. |
+| F03 Could destination content obscure booking consequences? | discovery §29; reservation §45; extraction contradiction 2 | unresolved | Content breadth and commitment risks are identified, but no task-completion study proves the effect. No promotion. |
+| F04 Could a long inclusion list reduce understanding? | dining §§49,54; reservation §45; extraction contradiction 3 | unresolved | Published inclusions do not measure comprehension against a shorter explanation. No promotion. |
+| F05 Could imagery increase desire while reducing practical understanding? | photography §46 and falsification programme; extraction contradiction 13 | unresolved | Coverage and representation risks are analysed; audience comprehension is unmeasured. No proof or confidence upgrade. |
+| F06 Could enterprise story be weakly connected to the actual guest journey? | story §53; dining §49; extraction contradictions 15–17 | unresolved | Published ownership, hosts and dining connect story to mechanisms; actual guest-journey delivery is not observed. No validated story pattern. |
+| F07 Could local sourcing be mistaken for equitable distribution? | story §53.6; dining §49.4; extraction contradictions 17–18 | unresolved | Source visibility is not compensation, distribution or causal outcome evidence; no audience inference test exists. No outcome claim or promotion. |
+| F08 Could continuous choice burden the guest? | stay §§49,54; atmosphere §55; extraction contradiction 11 | unresolved | Optionality and privacy boundaries are assessed; burden and agency outcomes are not measured. No promotion. |
+| F09 Could multiple intentions weaken the central promise? | discovery §29; stay §49; extraction “Multi-Intent Hospitality” assessment | unresolved | Several guest intents are visible, but their effect on coherence is not independently tested. Retain existing maturity. |
+| F10 Could capacity disclosure reduce aspiration without preparation benefit? | reservation §45; pre-arrival §48; extraction “Capacity Proof” assessment | unresolved | Capacity stocks are decomposed; no comparative aspiration/preparation evidence establishes the tradeoff. No confidence increase. |
+| F11 Could the meaningful relationship end at departure? | departure §§48,53; extraction programme P | unresolved | Post-stay consent and ending boundaries are explicit; preference and follow-up outcomes are unobserved. Do not require continued engagement or promote a retention pattern. |
+| F12 Could apparent transfer depend on overbroad definitions? | Extraction risk 34 and programme Q; institution-comparison population rules and seed limits | unresolved | Single-case architecture exposes definition risks but cannot establish recurrence across institutions. No universal transfer or promotion. |
+| V01 Operational/independent proof before positive pattern promotion | Extraction programme A–Q; ten dimension falsification/gap registers; canonical Case #21 promotion integrity check | unresolved | The detailed test programme remains open. It is not completed by this table and blocks positive promotion/validation, not closure of explicitly limited public-evidence research. |
+
+This review resolves the earlier administrative blocker by documenting the missing dispositions, not by obtaining new operational outcomes. No original falsification question or completion requirement has been removed. The retained A–Q questions and dimension-specific test programmes remain the research backlog for any future positive maturity proposal.
+
 Cross-Dimensional Knowledge Extraction
 
 Institution: Fogo Island Inn
@@ -11,8 +45,8 @@ Case number: 21
 Research date: 2026-09-08
 Institution dossier status: Complete at public-evidence level
 Ten-dimension research status: Complete
-Institution comparison status: Pending
-Canonical reconciliation status: Pending
+Institution comparison status: Architecture and Case #21 seed established; cross-institution recurrence remains untested
+Canonical reconciliation status: Administratively reconciled at public-evidence scope; no-promotion decision retained
 Pattern governance status: No promotions, demotions or confidence changes
 Canonical authority: khds/research/validation/candidate-patterns.md
 
@@ -98,27 +132,27 @@ Governance Promotion
 
 Research inputs
 
-khds/research/institutions/fogo-island-inn-newfoundland/README.md
+khds/research/institutions/hotels/fogo-island-inn-newfoundland/README.md
 
-khds/research/institutions/fogo-island-inn-newfoundland/discovery.md
+khds/research/institutions/hotels/fogo-island-inn-newfoundland/discovery.md
 
-khds/research/institutions/fogo-island-inn-newfoundland/reservation.md
+khds/research/institutions/hotels/fogo-island-inn-newfoundland/reservation.md
 
-khds/research/institutions/fogo-island-inn-newfoundland/pre-arrival.md
+khds/research/institutions/hotels/fogo-island-inn-newfoundland/pre-arrival.md
 
-khds/research/institutions/fogo-island-inn-newfoundland/arrival.md
+khds/research/institutions/hotels/fogo-island-inn-newfoundland/arrival.md
 
-khds/research/institutions/fogo-island-inn-newfoundland/stay.md
+khds/research/institutions/hotels/fogo-island-inn-newfoundland/stay.md
 
-khds/research/institutions/fogo-island-inn-newfoundland/dining.md
+khds/research/institutions/hotels/fogo-island-inn-newfoundland/dining.md
 
-khds/research/institutions/fogo-island-inn-newfoundland/departure.md
+khds/research/institutions/hotels/fogo-island-inn-newfoundland/departure.md
 
-khds/research/institutions/fogo-island-inn-newfoundland/atmosphere.md
+khds/research/institutions/hotels/fogo-island-inn-newfoundland/atmosphere.md
 
-khds/research/institutions/fogo-island-inn-newfoundland/photography.md
+khds/research/institutions/hotels/fogo-island-inn-newfoundland/photography.md
 
-khds/research/institutions/fogo-island-inn-newfoundland/story.md
+khds/research/institutions/hotels/fogo-island-inn-newfoundland/story.md
 
 Primary official-source families already recorded in the dimension files include:
 
@@ -3534,7 +3568,9 @@ Limited-service property
 
 Tests which continuity components are universal and which depend on service breadth.
 
-Initial knowledge decisions
+<!-- KHDS-HISTORY-START -->
+
+Historical initial knowledge decisions — before comparison and governance recording
 
 Decision 1
 
@@ -3704,7 +3740,9 @@ reconcile khds/research/validation/README.md.
 
 No mirror should imply a maturity change before the canonical authority records it.
 
-Case #21 completion record
+<!-- KHDS-HISTORY-END -->
+
+Current Case #21 completion record
 
 Research file
 
@@ -3758,9 +3796,9 @@ knowledge-extraction.md
 
 Complete
 
-Institution comparison: Pending
-Canonical governance: Pending
-Mirror reconciliation: Pending
+Institution comparison: Architecture and first-case seed established; recurrence awaits independent cases
+Canonical governance: Case #21 no-promotion decision recorded
+Mirror reconciliation: Administratively reconciled at public-evidence scope; unresolved validation outcomes retained
 
 Final knowledge position
 
@@ -3894,7 +3932,13 @@ or hospitality institutions generally.
 
 No maturity changes are justified yet.
 
-Next research stage
+Current next action
+
+Review the documented dispositions and uncertain travel duration. Any future positive pattern-maturity proposal requires additional evidence. No Case #22 institution is selected or authorized.
+
+<!-- KHDS-HISTORY-START -->
+
+Historical next-stage plan — superseded by the established comparison architecture
 
 The next required work is the Case #21 institution-comparison architecture.
 
@@ -3937,3 +3981,5 @@ Partially Supported count remains 1,
 Validated count remains 0,
 
 and research-derived KHDS Principle count remains 0.
+
+<!-- KHDS-HISTORY-END -->

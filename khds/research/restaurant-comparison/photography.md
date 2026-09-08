@@ -9237,7 +9237,7 @@ It produces a more demanding account of what an image must prove when the visibl
 
 Comparison File:
 
-`khds/research/comparison/photography.md`
+`khds/research/restaurant-comparison/photography.md`
 
 Status:
 
@@ -9343,7 +9343,7 @@ Governance Changes:
 
 Next Comparison File:
 
-`khds/research/comparison/reservation.md`
+`khds/research/restaurant-comparison/reservation.md`
 
 # Post–Refettorio Felix, London Photography Reconciliation
 
@@ -10428,7 +10428,7 @@ Evidence wins.
 
 Comparison File:
 
-`khds/research/comparison/photography.md`
+`khds/research/restaurant-comparison/photography.md`
 
 Status:
 
@@ -10532,7 +10532,7 @@ Research-Derived KHDS Principles:
 
 Next Comparison File:
 
-`khds/research/comparison/reservation.md`
+`khds/research/restaurant-comparison/reservation.md`
 
 ---
 
@@ -12704,7 +12704,7 @@ Evidence wins.
 
 Comparison File:
 
-`khds/research/comparison/photography.md`
+`khds/research/restaurant-comparison/photography.md`
 
 Status:
 
@@ -12816,7 +12816,7 @@ Research-Derived KHDS Principles:
 
 Next Comparison File:
 
-`khds/research/comparison/reservation.md`
+`khds/research/restaurant-comparison/reservation.md`
 
 ---
 
@@ -14526,7 +14526,7 @@ Evidence wins.
 
 Comparison File:
 
-`khds/research/comparison/photography.md`
+`khds/research/restaurant-comparison/photography.md`
 
 Status:
 
@@ -14654,4 +14654,4 @@ Arrival, Atmosphere and Photography Comparisons Complete / Two Dimension Compari
 
 Next Comparison File:
 
-`khds/research/comparison/reservation.md`
+`khds/research/restaurant-comparison/reservation.md`

@@ -115,15 +115,15 @@ Why the restaurant comparison files remain separate
 
 The existing files:
 
-khds/research/comparison/arrival.md,
+khds/research/restaurant-comparison/arrival.md,
 
-khds/research/comparison/atmosphere.md,
+khds/research/restaurant-comparison/atmosphere.md,
 
-khds/research/comparison/photography.md,
+khds/research/restaurant-comparison/photography.md,
 
-khds/research/comparison/reservation.md,
+khds/research/restaurant-comparison/reservation.md,
 
-and khds/research/comparison/story.md
+and khds/research/restaurant-comparison/story.md
 
 compare twenty independent restaurant cases.
 
@@ -1991,7 +1991,7 @@ Comparison-file architecture
 
 The institution comparison system will use the following files as cases accumulate.
 
-khds/research/institutions/comparison/
+khds/research/institutions-comparison/
 ├── README.md
 ├── case-ledger.md
 ├── journey.md
@@ -3151,7 +3151,13 @@ the creation of the institution-comparison architecture,
 
 and no maturity or confidence change.
 
-Next required sequence
+Current next action
+
+The canonical no-promotion decision and first-case architecture are recorded. Administrative closure is complete at public-evidence scope; the disposition table in the Fogo knowledge extraction preserves unresolved validation outcomes. No Case #22 institution is selected or authorized.
+
+<!-- KHDS-HISTORY-START -->
+
+Historical sequence at architecture completion — not current instructions
 
 The comparison architecture is established.
 
@@ -3188,3 +3194,5 @@ The canonical reconciliation should record:
 and 0 research-derived KHDS Principles.
 
 No pattern maturity or confidence movement is justified by Case #21 alone.
+
+<!-- KHDS-HISTORY-END -->
