@@ -24,23 +24,31 @@ History has schemaVersion, cases (audited completed identities and status) and p
 
 ## Preflight and start
 
-Every run: confirm Git root and branch, git status --short, read manifest, verify identity, type, sector, canonical path, case sequence and workflow status against disk. Repository evidence governs; chat history does not authorize work.
+Every run: confirm Git root and branch, git status --short, read manifest, verify identity, type, sector, canonical path, case sequence and workflow status against disk. Explicit user authorization is recorded by start; historical case permission never authorizes another case.
 
-Run node scripts/khds-validate.mjs --control-only. It may PASS with the explicit unresolved-reconciliation notice. Research remains blocked until authorized reconciliation resolves the disagreements and actual user approval is recorded in research-authorized state.
+Run node scripts/khds-validate.mjs --control-only. It may PASS with an unresolved-reconciliation notice; that still blocks research. After reconciliation, start accepts actual user authorization through `--authorize-by "<approving user>"` with all six exact identity fields. The operator asserts that the user actually approved that identity; the flag cannot authenticate approval.
 
 Start requires a clean tree and no active or unfinished case:
 
-node scripts/khds-start-case.mjs --case <number> --name "<name>" --slug <slug> --type "<type>" --sector <sector> --destination khds/research/institutions/<sector>/<slug>/ --dry-run
+node scripts/khds-start-case.mjs --case <number> --name "<name>" --slug <slug> --type "<type>" --sector <sector> --destination khds/research/institutions/<sector>/<slug>/ --authorize-by "<approving user>" --dry-run
 
 Remove --dry-run only for an authorized start. Optional --tracking takes a JSON array of {path,beforeSha256} for proposed tracking changes, locked at start. Only the six tracking destinations defined by validation are supported. Empty means dossier-only; administrative review must confirm sufficient scope before marking publishable.
 
-Start creates khds/staging/case-<number>-<slug>/lock.json, dossier/ and active manifest state. Lock adds stagingPath, trackingChanges, lockedAt and baseCommit; it must exactly equal activeCase. Do not change locked identity. Never overwrite completed staged files. Use node scripts/khds-start-case.mjs --resume to read and verify the lock and inventory without writing. Existing state and locked staging changes are allowed; unrelated changes and identity changes block resume. Missing files do not block resume, but still fail publication validation. New destinations must be absent and resolve safely within the canonical institution directory; only the latest completed dossier must already exist. An orphaned lock after interruption blocks restart; preserve it and request scoped recovery instead of regenerating.
+Start checks the initial clean tree, branch, reconciliation, exact identity, duplicate names/slugs/numbers, destination and tracking baselines before writing. It records authorization and staging state without an intermediate commit. Existing committed research-authorized manifests remain supported without the flag.
+
+Start first atomically writes `khds/state/start-pending.json`, containing previous manifest bytes, next state and baseline hashes. It creates dossier/, atomically writes lock.json, atomically updates the manifest, then moves the journal to staging/start.json. Lock adds stagingPath, trackingChanges, requiredFiles, lockedAt and baseCommit; it must exactly equal activeCase. Final resume validation must pass before success is returned. This is recoverable, not multi-file crash-atomic.
+
+Use `node scripts/khds-start-case.mjs --recover-start --dry-run` to inspect an interrupted start without writes, then `--recover-start` to finish it. Recovery verifies HEAD, branch, source hashes, manifest bytes and every existing artifact, allows only transaction-owned changes and never overwrites conflicting data. A fully written journal .tmp or lock/state .tmp can be finalized; truncated or conflicting bytes are preserved and require scoped review. Completed start.json remains audit evidence. Legacy orphaned locks without a journal require scoped recovery, not regeneration.
+
+After successful start, `node scripts/khds-start-case.mjs --resume` verifies the lock and existing inventory without writes. Missing files do not block resume but do block publication. Unrelated changes and identity changes block resume. Do not edit lock identity or regenerate completed files.
 
 ## Content contract
 
 Required files: README.md, discovery.md, reservation.md, pre-arrival.md, arrival.md, stay.md, dining.md, departure.md, atmosphere.md, photography.md, story.md, knowledge-extraction.md.
 
 Every staged Markdown file begins with <!-- KHDS {identity JSON} --> on one line, followed by a newline. Include all six identity fields. Put research under dossier/. Put tracking replacements under tracking/0.md, tracking/1.md, etc. in locked list order. Never modify live governance during generation.
+
+For focused governance edits, a tracking lock may additionally contain `anchors`, an ordered array of unique exact baseline passages. Each must exist exactly once and not overlap another. The corresponding staged Markdown contains the normal identity metadata followed by one replacement per anchor, separated by a line `<!-- KHDS-EDIT -->`. Validation checks all new text using the normal identity, link, duplicate and 100000-byte rules, verifies the full baseline hash, assembles the proposed file and enforces the existing total growth limits. Publication replaces only those locked passages, preserving all other bytes. Without anchors, legacy whole-file replacement remains supported with unchanged checks. This avoids copying historical governance into new findings. Review the assembled diff as well as the fragments.
 
 Active identity and status declarations must use the locked institution and case number. Ordinary comparisons mentioning older institutions and case numbers are allowed without special markers. Mark retained historical status snapshots between <!-- KHDS-HISTORY-START --> and <!-- KHDS-HISTORY-END -->. Historical blocks cannot contain active current/next instructions or conceal new content. Relative dossier links resolve against canonical destination with staging substituted until publication. Use repository-relative paths in tracking replacements.
 
@@ -50,11 +58,11 @@ Checks include identity metadata, known prior names/slugs in identity declaratio
 
 node scripts/khds-validate.mjs --resume checks existing staged content without requiring all files. Control, resume and publication reports have distinct modes and digests. node scripts/khds-validate.mjs validates all staged content and exits nonzero on failure with exact paths/reasons. --control-only uses an explicit control-file allowlist, verifies a staged lock if present, and never certifies research completion. For an authorized local reconciliation, repeat --allow-path <exact-repository-file> to declare additional changed files. Extra allowlist paths are rejected in publication and resume modes. Full validation permits only state files and exact locked staging files. Establish a clean control baseline separately before research; scripts never stage, commit, push or deploy. An explicit user request may separately authorize an agent to create a local checkpoint; it does not authorize a push or research.
 
-After completion and administrative review, set workflowStatus to publishable within the authorized workflow. Present the successful report and exact proposed content to the user. Only after explicit approval:
+After full validation, preview staged content without changing status or asserting publication approval:
 
-node scripts/khds-publish.mjs --confirm --report <validation-digest> --dry-run
+node scripts/khds-publish.mjs --dry-run --report <validation-digest>
 
-Then run without --dry-run. The digest binds state, history, controls and staged content. The flag asserts actual user approval; it does not itself grant permission. Publication revalidates and rejects a stale digest, wrong state or existing destination.
+Actual publication still requires publishable state with administrative reconciliation review and explicit user approval of the exact content/report, then `node scripts/khds-publish.mjs --confirm --report <validation-digest>`. The digest binds state, history, controls, start journal and staged content. Dry-run does not create that approval, mark publishable, or complete the case. Publication revalidates and rejects stale digests or existing destinations.
 
 All operations are checked before writing. Publication writes a durable journal containing source/destination hashes, previous state/history and original tracking bytes, marks publishing, renames the dossier, replaces approved tracking files, then updates history and active state. Authorization resets false. Lock and journal remain recovery evidence.
 

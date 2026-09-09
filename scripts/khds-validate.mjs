@@ -5,9 +5,23 @@ import {execFileSync} from 'node:child_process';
 import {fileURLToPath} from 'node:url';
 export const statePath = 'khds/state/current-case.json';
 export const historyPath = 'khds/state/case-history.json';
+export const startPendingPath = 'khds/state/start-pending.json';
+export const trackingPaths = ['khds/research/README.md','khds/research/validation/README.md','khds/research/validation/dashboard.md','khds/research/validation/candidate-patterns.md','khds/patterns/registry.md','khds/research/institutions-comparison/README.md'];
 export const controls = ['khds/AGENTS.md','.codex/skills/khds-research/SKILL.md','.codex/skills/khds-research/references/case-schema.md',statePath,historyPath,'scripts/khds-start-case.mjs','scripts/khds-validate.mjs','scripts/khds-publish.mjs','scripts/tests/khds-control.test.mjs'];
 export const required = ['README.md','discovery.md','reservation.md','pre-arrival.md','arrival.md','stay.md','dining.md','departure.md','atmosphere.md','photography.md','story.md','knowledge-extraction.md'];
 export const hash = data => crypto.createHash('sha256').update(data).digest('hex');
+export function trackingAnchors(text,anchors){
+ if(!Array.isArray(anchors)||!anchors.length||anchors.some(x=>typeof x!=='string'||!x.length))throw Error('Tracking anchors must be nonempty strings');
+ let end=0;return anchors.map(anchor=>{const at=text.indexOf(anchor);if(at<end||at<0||text.indexOf(anchor,at+1)!==-1)throw Error('Tracking anchor missing, ambiguous or out of order');end=at+anchor.length;return {at,end};});
+}
+export function trackingData(root,a,i){
+ const t=a.trackingChanges[i],old=fs.readFileSync(safe(root,t.path)),data=fs.readFileSync(safe(root,a.stagingPath+`/tracking/${i}.md`));
+ if(hash(old)!==t.beforeSha256)throw Error('Tracking source changed since lock');
+ let result=data;
+ if(t.anchors){const original=old.toString('utf8'),ranges=trackingAnchors(original,t.anchors);const chunks=data.toString('utf8').replace(/^<!-- KHDS \{[^\n]+\} -->\r?\n/,'').split('\n<!-- KHDS-EDIT -->\n');if(chunks.length!==ranges.length)throw Error('Tracking replacement count differs from locked anchors');let text=original;for(let n=ranges.length-1;n>=0;n--)text=text.slice(0,ranges[n].at)+chunks[n]+text.slice(ranges[n].end);result=Buffer.from(text);}
+ if(result.length-old.length>20000||result.length>Math.max(old.length*1.5,10000))throw Error('unusually large tracking growth');
+ return result;
+}
 export function git(root,...args) {return execFileSync('git',args,{cwd:root,encoding:'utf8'}).trim();}
 export function read(root,p) {return JSON.parse(fs.readFileSync(safe(root,p),'utf8'));}
 export function safe(root,p) {
@@ -32,6 +46,7 @@ export function validate(root,{controlOnly=false,resumeOnly=false,allowedChanges
  try {
   root=path.resolve(root);if(path.resolve(git(root,'rev-parse','--show-toplevel'))!==root)throw Error('Run at repository root');
   s=read(root,statePath);h=read(root,historyPath);
+  for(const p of [startPendingPath,startPendingPath+'.tmp',statePath+'.tmp'])if(fs.existsSync(safe(root,p)))add(p,'interrupted operation requires recovery');
   if(s.schemaVersion!==1||h.schemaVersion!==1)throw Error('Unsupported schema');
   if(git(root,'branch','--show-current')!==s.expectedBranch)add(statePath,'branch mismatch');
   identity(s.latestCompletedCase);if(!fs.existsSync(safe(root,s.latestCompletedCase.canonicalPath)))add(statePath,'canonical dossier does not exist');
@@ -52,9 +67,12 @@ export function validate(root,{controlOnly=false,resumeOnly=false,allowedChanges
    if(h.cases.some(c=>c.caseNumber===a.caseNumber||c.slug===a.slug))add(statePath,'active identity duplicates history');
    if(a.stagingPath!==`khds/staging/case-${a.caseNumber}-${a.slug}`)add(statePath,'incorrect staging path');
    const lock=read(root,a.stagingPath+'/lock.json');if(JSON.stringify(lock)!==JSON.stringify(a))add(a.stagingPath+'/lock.json','locked identity/state mismatch');
+   for(const k of ['caseNumber','institutionName','slug','institutionType','sector','canonicalPath'])if(s.authorization?.identity?.[k]!==a[k])add(statePath,`authorization identity mismatch: ${k}`);
+   if(a.requiredFiles&&JSON.stringify(a.requiredFiles)!==JSON.stringify(required))add(statePath,'locked required files mismatch');
+   if(a.requiredFiles){const journal=read(root,a.stagingPath+'/start.json');if(JSON.stringify(journal.nextState.activeCase)!==JSON.stringify(a)||JSON.stringify(journal.nextState.authorization)!==JSON.stringify(s.authorization))add(statePath,'start journal differs from active lock/authorization');digest.push([a.stagingPath+'/start.json',hash(JSON.stringify(journal))]);}
    if(fs.existsSync(safe(root,a.canonicalPath)))add(a.canonicalPath,'destination already exists');
    const staged=files(root,a.stagingPath);for(const p of staged)allowed.add(p);
-   const expected=new Set(['lock.json',...required.map(f=>'dossier/'+f),...(a.trackingChanges||[]).map((_,i)=>`tracking/${i}.md`)]);
+   const expected=new Set(['lock.json',...(a.requiredFiles?['start.json']:[]),...required.map(f=>'dossier/'+f),...(a.trackingChanges||[]).map((_,i)=>`tracking/${i}.md`)]);
    for(const p of staged)if(!expected.has(p.slice(a.stagingPath.length+1)))add(p,'unexpected staging file');
    if(!controlOnly&&!resumeOnly)for(const f of required)if(!fs.existsSync(safe(root,a.stagingPath+'/dossier/'+f)))add(a.stagingPath+'/dossier/'+f,'missing required dossier file');
    const prior=[...h.cases,...h.priorIdentities].filter(x=>x.slug!==a.slug);
@@ -80,7 +98,7 @@ export function validate(root,{controlOnly=false,resumeOnly=false,allowedChanges
      try{let target=ref.startsWith('khds/')?ref:path.posix.normalize(path.posix.join(a.canonicalPath,decodeURIComponent(ref)));if(target.startsWith(a.canonicalPath))target=a.stagingPath+'/dossier/'+target.slice(a.canonicalPath.length);if(!fs.existsSync(safe(root,target)))add(p,`missing internal path: ${ref}`);}catch(e){add(p,e.message);}
     }
    }
-   for(const t of a.trackingChanges||[]){safe(root,t.path);if(!['khds/research/README.md','khds/research/validation/README.md','khds/research/validation/dashboard.md','khds/research/validation/candidate-patterns.md','khds/patterns/registry.md','khds/research/institutions-comparison/README.md'].includes(t.path))add(t.path,'tracking destination not permitted');const old=fs.readFileSync(safe(root,t.path));const replacement=a.stagingPath+`/tracking/${a.trackingChanges.indexOf(t)}.md`;if(!fs.existsSync(safe(root,replacement))){if(!controlOnly&&!resumeOnly)add(replacement,'missing tracking replacement');}else {const size=fs.statSync(safe(root,replacement)).size;if(size-old.length>20000||size>Math.max(old.length*1.5,10000))add(replacement,'unusually large tracking growth');}if(hash(old)!==t.beforeSha256)add(t.path,'tracking source changed since lock');}
+   for(const [i,t] of (a.trackingChanges||[]).entries()){safe(root,t.path);if(!trackingPaths.includes(t.path))add(t.path,'tracking destination not permitted');const old=fs.readFileSync(safe(root,t.path));const replacement=a.stagingPath+`/tracking/${i}.md`;if(!fs.existsSync(safe(root,replacement))){if(!controlOnly&&!resumeOnly)add(replacement,'missing tracking replacement');}else {try{trackingData(root,a,i);}catch(e){add(replacement,e.message);}}if(hash(old)!==t.beforeSha256)add(t.path,'tracking source changed since lock');}
   }else if(!controlOnly)add(statePath,'no active staged case');
   if(['staging','publishable','publishing'].includes(s.workflowStatus)&&!a)add(statePath,'workflow requires an active case');
   if(a&&!['staging','publishable','publishing'].includes(s.workflowStatus))add(statePath,'active case incompatible with workflow');
