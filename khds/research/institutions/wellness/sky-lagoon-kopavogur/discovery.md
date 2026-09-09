@@ -1,24 +1,34 @@
 <!-- KHDS {"caseNumber":22,"institutionName":"Sky Lagoon","slug":"sky-lagoon-kopavogur","institutionType":"Geothermal bathing and wellness venue","sector":"wellness","canonicalPath":"khds/research/institutions/wellness/sky-lagoon-kopavogur/"} -->
 # Sky Lagoon — discovery
 
-Case #22
+Case #22. Research access: 2026-09-09.
 
-Research disposition saved 2026-09-09. Scope: public discovery of a day-visit wellness institution; no live conversion or guest study.
+Public-evidence coverage: sufficient
 
-## Observations
+## Research question
 
-Business Iceland's official directory classifies Sky Lagoon as geothermal baths / wellness and spa, lists Vesturvör 44, and links to skylagoon.com. Its description still anticipates a 2021 opening: the listing verifies identity and an official link, not current operational details. [Business Iceland listing](https://www.visiticeland.com/service-provider/608684d3a99d67000a838aed), accessed 2026-09-09. Evidence state: verified public fact about the listing; temporal uncertainty in its promotional copy.
+Which institution, official website and source/seller roles can be established?
 
-Direct reads of the institution's homepage returned a loading shell. No browser was available after supported connection and discovery attempts. This is an observation about this research environment, not evidence that ordinary visitors encounter a broken site. [Homepage attempted](https://www.skylagoon.com/), accessed 2026-09-09.
+Scope: Question is newly explicit. Before rating is retrospective using this same question. Sufficient applies only to this stated public-source question, not the whole dimension or operational outcomes.
+
+## Supported observations
+
+Two tourism directories identify Sky Lagoon in Kópavogur and link skylagoon.com; the Icelandair offer is a separate seller channel. [S1](https://www.visiticeland.com/service-provider/608684d3a99d67000a838aed) [S16](https://visitreykjavik.is/service/sky-lagoon) [S4](https://www.icelandair.com/vacations/tours/sky-lagoon-pure-pass-without-transfers/) Accessed 2026-09-09.
+
+The original directory gives Vesturvör 44 but still anticipates a 2021 opening. [S1](https://www.visiticeland.com/service-provider/608684d3a99d67000a838aed) Earlier inspection 2026-09-09: useful identity evidence, stale operating copy. Venue recognition, fit, seller recognition and offer comprehension are different guest tasks. Test whether first-time readers can name who handles changes; no conversion or usability result is implied.
 
 ## Interpretation
 
-The first discovery responsibility is distinguishing an institution from a similarly named reseller. The directory's outgoing link gives a stronger identity chain than a search title. The year mismatch demonstrates why an authoritative publisher can still carry stale supplier copy.
+A verified identity chain does not imply adequate practical service evidence.
 
-For this case, desired guest states are: identify the venue, decide whether a bathing visit fits, identify the seller, then inspect a relevant offer. Those states should be compared separately. Finding the venue does not establish that a guest understood the transport, privacy or cancellation consequences of an offer.
+## Material unanswered questions
 
-## Unverified outcomes and falsification
+None within the stated bounded question; operational outcomes remain separate.
 
-Brand recognition, mobile comprehension, language coverage, accessibility of navigation, page timing and booking conversion were not observed. Test whether first-time users can distinguish the direct institution from an intermediary and name who handles changes. Failure would challenge a simple assumption that clear destination identity creates clear contractual responsibility.
+Rating reason: The inspected identity chain and attributed seller answer this bounded question, not a website-use audit.
 
-No inference about service quality follows from source-access failure. No pattern promotion or confidence change is proposed.
+Next evidence: Recheck identity and seller roles when their records change.
+
+## Evidence boundary and history
+
+Operational validation and pattern maturity are unchanged. Original 2026-09-09 observations remain byte-exact in the revision workflow archive identified in README; they are dated history, not additional corroboration. [Coverage](coverage.json) · [Sources](sources.json) · [Research summary](README.md#research-summary).

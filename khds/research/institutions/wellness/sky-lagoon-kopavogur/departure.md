@@ -1,24 +1,37 @@
 <!-- KHDS {"caseNumber":22,"institutionName":"Sky Lagoon","slug":"sky-lagoon-kopavogur","institutionType":"Geothermal bathing and wellness venue","sector":"wellness","canonicalPath":"khds/research/institutions/wellness/sky-lagoon-kopavogur/"} -->
-# Sky Lagoon — departure and relationship closure
+# Sky Lagoon — departure
 
-Case #22
+Case #22. Research access: 2026-09-09.
 
-Research disposition saved 2026-09-09. A day visit still needs an explicit completion condition; a hotel checkout template is not assumed.
+Public-evidence coverage: partial
 
-## Observations
+## Research question
 
-Icelandair directs offer inquiries and change requests to its online contact route. Opening that destination showed a contact heading but did not expose usable form fields in the retrieved page. [Icelandair package enquiry page](https://www.icelandair.com/support/contact/package-enquiry/), accessed 2026-09-09. Evidence state: visible route destination; submission and response not observed.
+What return-transport instructions and unresolved exit responsibilities are publicly described?
 
-The transfer offer describes transport between accommodation and venue, but the text reviewed did not give a complete return-departure procedure. [Icelandair transfer offer](https://www.icelandair.com/vacations/tours/sky-lagoon-pure-pass-with-transfer/), accessed 2026-09-09. A round-trip promise is not a verified dispatch process.
+Scope: Question is newly explicit. Before rating is retrospective using this same question. Sufficient applies only to this stated public-source question, not the whole dimension or operational outcomes.
+
+## Supported observations
+
+Icelandia SRE01 publishes returns at 11:30 and hourly from 13:30 through 21:30 for 21 June–20 October 2026. [S14](https://www.icelandia.com/tours/sky-lagoon-pure-pass-with-transfer) Accessed 2026-09-09.
+
+The transfer FAQ describes flexible lagoon returns on scheduled buses. [S15](https://www.icelandia.com/things-to-do/transfers) Accessed 2026-09-09.
+
+The previously inspected Icelandair enquiry destination exposed a contact heading, not usable form fields. [S7](https://www.icelandair.com/support/contact/package-enquiry/) Earlier inspection 2026-09-09. Its offer directs changes there [S5](https://www.icelandair.com/vacations/tours/sky-lagoon-pure-pass-with-transfer/); this is a visible route, not acknowledged issue ownership. Venue exit, financial/issue closure and onward transport remain separate responsibilities. Test a disputed charge or missed return using a simulated handoff to a named recipient; a link alone cannot establish resolution.
 
 ## Interpretation
 
-Closure has at least three separable responsibilities to test: ending venue participation, resolving purchases or problems, and making any agreed onward handoff usable. The absence of an overnight room removes one stock, not the need to return custody of belongings or explain where unresolved issues belong. Belongings and payment workflows here are analytical questions, not observed Sky Lagoon mechanisms.
+A timetable still needs a boarding location, applicability check and exception route.
 
-A successful end does not require continued marketing contact. Consent to a service, consent to follow-up about a problem, and consent to promotion should remain distinguishable. No actual Sky Lagoon post-visit messaging was inspected.
+## Material unanswered questions
 
-## Evidence gaps and falsification
+- Exact venue boarding position, last-bus failure route and individual ticket applicability remain unconfirmed.
+- Wristband settlement and unresolved-charge handoff are not documented in inspected sources.
 
-Receipts, wristband or locker procedures, lost-property routes, on-site dispute escalation, missed-return recovery and data retention are unknown. A support page's presence cannot establish that it is usable with assistive technology or that the venue receives the inquiry.
+Rating reason: A dated operator timetable improves planning evidence; it is not proof of boarding or resolution.
 
-Test whether a guest with a disputed charge or missed transfer receives a named next owner before leaving the current service. Completion means a usable onward route and an acknowledged unresolved issue where relevant, not merely physical exit. Reliability and relationship outcomes remain unverified.
+Next evidence: Inspect venue exit/payment instructions and operator boarding/last-service contingencies.
+
+## Evidence boundary and history
+
+Operational validation and pattern maturity are unchanged. Original 2026-09-09 observations remain byte-exact in the revision workflow archive identified in README; they are dated history, not additional corroboration. [Coverage](coverage.json) · [Sources](sources.json) · [Research summary](README.md#research-summary).

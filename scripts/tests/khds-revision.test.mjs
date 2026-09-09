@@ -1,4 +1,4 @@
-﻿import test from 'node:test';
+import test from 'node:test';
 import assert from 'node:assert/strict';
 import fs from 'node:fs';
 import os from 'node:os';
@@ -19,6 +19,7 @@ function fixture(t){
  for(const n of required){write(id.canonicalPath+n,`<!-- KHDS ${JSON.stringify(id)} -->\n# Test Lagoon\n${n}\n`);write(old.canonicalPath+n,'Prior case '+n);}
  for(const p of trackingPaths)write(p,'Latest completed case: #22\nCompleted institution dossiers: 2\nWellness dossiers: 1\nNext case: #23 unselected and unstarted\n');
  for(const n of ['khds-start-case.mjs','khds-validate.mjs','khds-publish.mjs','khds-review.mjs','khds-revise.mjs','khds-evidence.mjs'])write('scripts/'+n,fs.readFileSync(new URL('../'+n,import.meta.url),'utf8'));
+ write('scripts/tests/khds-revision.test.mjs',fs.readFileSync(new URL('./khds-revision.test.mjs',import.meta.url),'utf8'));
  git('init','-b','main');git('add','.');git('-c','user.name=Test','-c','user.email=test@example.invalid','commit','-m','Published fixture');
  const begin={case:22,slug:id.slug,'authorize-by':'fixture-user'};
  const cli=(action,o={})=>JSON.parse(execFileSync(process.execPath,['scripts/khds-revise.mjs',action,...Object.entries(o).flatMap(([k,v])=>v===true?['--'+k]:['--'+k,String(v)])],{cwd:root,encoding:'utf8'}));
@@ -32,3 +33,25 @@ test('coverage is independent of file inventory and relative links resolve corre
 test('new digest cannot approve changes after review; renewed review is required',t=>{const f=fixture(t);revise(f.root,'begin',f.begin);const r=f.fill();const v=validateRevision(f.root),before=snap(f.root);assert.throws(()=>revise(f.root,'review',{report:v.digest}),/approval/);assert.deepEqual(snap(f.root),before);revise(f.root,'review',{case:22,slug:id.slug,'approve-by':'fixture-user',report:v.digest});fs.appendFileSync(path.join(f.root,r.stagingPath+'/dossier/dining.md'),'\nLater observation.');const changed=validateRevision(f.root);assert.equal(changed.ok,false);assert.throws(()=>revise(f.root,'publish',{confirm:true,report:changed.digest}),/Validation failed/);const newReview=validateRevision(f.root,{forReview:true});revise(f.root,'review',{case:22,slug:id.slug,'approve-by':'fixture-user',report:newReview.digest});assert.equal(validateRevision(f.root).ok,true);});
 for(const point of ['metadata','copy'])test('interrupted revision begin recovers at '+point,t=>{const f=fixture(t),rename=fs.renameSync,copy=fs.copyFileSync;let failed=false;if(point==='metadata')fs.renameSync=(a,b)=>{if(b===path.join(f.root,revisionPath)&&!failed){failed=true;throw Error('Injected');}return rename(a,b);};else fs.copyFileSync=(a,b,o)=>{if(!failed){failed=true;throw Error('Injected');}return copy(a,b,o);};try{assert.throws(()=>revise(f.root,'begin',f.begin),/Injected/);}finally{fs.renameSync=rename;fs.copyFileSync=copy;}revise(f.root,'recover',{});const r=f.fill(),p=r.stagingPath+'/dossier/story.md';fs.appendFileSync(path.join(f.root,p),'\nSaved work');const h=hash(fs.readFileSync(path.join(f.root,p)));revise(f.root,'resume');assert.equal(hash(fs.readFileSync(path.join(f.root,p))),h);});
 test('interrupted revision publication is recoverable without incrementing cases',t=>{const f=fixture(t);revise(f.root,'begin',f.begin);f.fill();revise(f.root,'review',{case:22,slug:id.slug,'approve-by':'fixture-user',report:validateRevision(f.root).digest});const digest=validateRevision(f.root).digest,rename=fs.renameSync;fs.renameSync=(a,b)=>{if(a.endsWith(path.sep+'dossier'))throw Error('Injected');return rename(a,b);};try{assert.throws(()=>revise(f.root,'publish',{confirm:true,report:digest}),/Injected/);}finally{fs.renameSync=rename;}assert(revise(f.root,'recover',{'dry-run':true}).recoverable);assert(revise(f.root,'recover').published);assert.equal(JSON.parse(fs.readFileSync(path.join(f.root,'khds/state/case-history.json'))).cases.length,2);});
+
+test('authorized export exception preserves lock, rejects other inputs and invalidates reports',t=>{
+ const f=fixture(t),zip=id.canonicalPath.replace(/\/$/,'')+'.zip';f.write(zip,'duplicate export');
+ revise(f.root,'begin',{...f.begin,'preserve-path':zip});const r=f.fill(),lock=fs.readFileSync(path.join(f.root,revisionPath));
+ const old=validateRevision(f.root);assert(old.ok);fs.unlinkSync(path.join(f.root,zip));
+ const o={case:22,slug:id.slug,path:zip,'authorize-path':zip,'expected-hash':r.preserved[zip],'authorize-hash':r.preserved[zip],'authorize-by':'fixture-user',reason:'Intentionally deleted duplicate research export; files already exist.','review-controls':'yes'};
+ assert.throws(()=>revise(f.root,'amend-preserved',{...o,path:'other.zip'}),/Matching/);
+ assert.throws(()=>revise(f.root,'amend-preserved',{...o,'authorize-by':''}),/Matching/);
+ const before=snap(f.root);revise(f.root,'amend-preserved',{...o,'dry-run':true});assert.deepEqual(snap(f.root),before);
+ revise(f.root,'amend-preserved',o);assert.deepEqual(fs.readFileSync(path.join(f.root,revisionPath)),lock);
+ const fresh=validateRevision(f.root);assert(fresh.ok,fresh.errors.join());assert.notEqual(old.digest,fresh.digest);
+ assert.throws(()=>revise(f.root,'publish',{'dry-run':true,report:old.digest}),/stale/);
+ assert(revise(f.root,'publish',{'dry-run':true,report:fresh.digest}).dryRun);
+ const protectedPath=trackingPaths[0],saved=fs.readFileSync(path.join(f.root,protectedPath));fs.unlinkSync(path.join(f.root,protectedPath));assert.equal(validateRevision(f.root).ok,false);f.write(protectedPath,saved.toString());
+ fs.appendFileSync(path.join(f.root,r.stagingPath+'/dossier/story.md'),'\nLater change');assert.throws(()=>revise(f.root,'publish',{'dry-run':true,report:fresh.digest}),/stale/);
+});
+test('interrupted export amendment recovers only with matching authorization',t=>{
+ const f=fixture(t),zip=id.canonicalPath.replace(/\/$/,'')+'.zip';f.write(zip,'export');revise(f.root,'begin',{...f.begin,'preserve-path':zip});const r=f.fill();fs.unlinkSync(path.join(f.root,zip));
+ const o={case:22,slug:id.slug,path:zip,'authorize-path':zip,'expected-hash':r.preserved[zip],'authorize-hash':r.preserved[zip],'authorize-by':'fixture-user',reason:'Intentional duplicate deletion','review-controls':'yes'};
+ const rename=fs.renameSync;fs.renameSync=(a,b)=>{if(b.endsWith('preserved-input-amendment.json'))throw Error('Injected');return rename(a,b);};try{assert.throws(()=>revise(f.root,'amend-preserved',o),/Injected/);}finally{fs.renameSync=rename;}
+ assert.equal(validateRevision(f.root).ok,false);assert.throws(()=>revise(f.root,'amend-preserved',{...o,reason:'different'}),/Conflicting/);assert(revise(f.root,'amend-preserved',o).recovered);assert(validateRevision(f.root).ok);
+});

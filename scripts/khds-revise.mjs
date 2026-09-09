@@ -11,7 +11,19 @@ const snapshot=(root,paths)=>Object.fromEntries(paths.map(p=>[p,sha(root,p)]));
 const same=(a,b)=>JSON.stringify(a)===JSON.stringify(b);
 function assertSame(root,values){for(const [p,h] of Object.entries(values))if(sha(root,p)!==h)throw Error('Baseline changed: '+p);}
 function dossierHashes(root,p){return Object.fromEntries(files(root,p).map(f=>[f.slice(p.replace(/\/$/,'').length+1),sha(root,f)]));}
-function checkRecord(root,r){
+const amendmentName='workflow/preserved-input-amendment.json';
+const amendmentControls=['scripts/khds-revise.mjs','scripts/tests/khds-revision.test.mjs'];
+const lockInputs=r=>hash(JSON.stringify([r.identity,r.revision,r.original,r.baselines,r.preserved]));
+function amendment(root,r){const p=r.stagingPath+'/'+amendmentName;if(fs.existsSync(safe(root,p+'.tmp')))throw Error('Interrupted amendment; rerun amend-preserved with the same authorization');return fs.existsSync(safe(root,p))?read(root,p):null;}
+function verifyAmendment(root,r,a){
+ if(!a)return;
+ const exportPath=r.identity.canonicalPath.replace(/\/$/,'')+'.zip';
+ if(a.schemaVersion!==1||a.lockInputs!==lockInputs(r)||a.path!==exportPath||a.expectedHash!==r.preserved[a.path]||!a.expectedHash||!a.authorizedBy?.trim()||!a.reason?.trim()||!a.date||a.authorizationPath!==a.path||a.authorizationHash!==a.expectedHash)throw Error('Invalid preserved-input authorization');
+ if(fs.existsSync(safe(root,a.path)))throw Error('Intentionally removed export exists again');
+ if(!same(Object.keys(a.controls),amendmentControls))throw Error('Unexpected amendment controls');
+ assertSame(root,a.controls);
+}
+function checkRecord(root,r,exception=amendment(root,r)){
  if(r.schemaVersion!==1||!r.approvedBy?.trim()||!r.approvedAt||!['staging','reviewed','publishing','published'].includes(r.status))throw Error('Invalid revision record');
  identity(r.identity);
  if(r.stagingPath!==`khds/revisions/case-${r.identity.caseNumber}-${r.identity.slug}-r${r.revision}`||!Number.isSafeInteger(r.revision)||r.revision<1)throw Error('Invalid revision path');
@@ -20,8 +32,9 @@ function checkRecord(root,r){
  for(const k of Object.keys(r.identity))if(s.latestCompletedCase[k]!==r.identity[k])throw Error('Revision identity differs from latest completed case');
  if(!h.cases.some(c=>Object.keys(r.identity).every(k=>c[k]===r.identity[k])&&c.dossierComplete))throw Error('Revision identity absent from completed history');
  if(git(root,'branch','--show-current')!==s.expectedBranch||path.resolve(git(root,'rev-parse','--show-toplevel'))!==path.resolve(root))throw Error('Repository/branch mismatch');
- assertSame(root,r.baselines);assertSame(root,r.preserved);
- const allowed=new Set([revisionPath,...Object.keys(r.preserved)]);
+ verifyAmendment(root,r,exception);
+ assertSame(root,Object.fromEntries(Object.entries(r.baselines).filter(([p])=>!exception||!amendmentControls.includes(p))));assertSame(root,Object.fromEntries(Object.entries(r.preserved).filter(([p])=>p!==exception?.path)));
+ const allowed=new Set([revisionPath,...Object.keys(r.preserved),...(exception?amendmentControls:[])]);
  for(const p of changed(root))if(!allowed.has(p)&&!p.startsWith(r.stagingPath+'/')&&!(r.status==='publishing'&&(p.startsWith(r.identity.canonicalPath)||[revisionHistory,revisionHistory+'.tmp'].includes(p))))throw Error('Unrelated change: '+p);
 }
 function content(root,r){return hash(JSON.stringify([r.identity,r.revision,r.baselines,r.preserved,files(root,r.stagingPath).map(p=>[p,sha(root,p)])]));}
@@ -50,7 +63,7 @@ export function validateRevision(root,{forReview=false,resume=false}={}){
    const readme=fs.readFileSync(safe(root,base+'README.md'),'utf8');
    for(const d of c.dimensions||[]){const expectedRow=`| [${d.dimension}](${d.dimension}.md) | ${d.rating} |`;if(!readme.includes(expectedRow))errors.push('README coverage disagrees: '+d.dimension);const text=fs.readFileSync(safe(root,base+d.dimension+'.md'),'utf8');if(!text.includes('Public-evidence coverage: '+d.rating))errors.push('Dimension coverage disagrees: '+d.dimension);}
   }
-  const expectedWorkflow=new Set(['REVIEW.md','source-access.json',...Object.keys(r.original).map(n=>'original-dossier/'+n)]);
+  const expectedWorkflow=new Set(['REVIEW.md','source-access.json','deferred-agents.patch','preserved-input-amendment.json',...Object.keys(r.original).map(n=>'original-dossier/'+n)]);
   for(const p of files(root,r.stagingPath+'/workflow'))if(!expectedWorkflow.has(p.slice((r.stagingPath+'/workflow/').length)))errors.push('Unexpected workflow artifact '+p);
   for(const p of files(root,r.stagingPath))if(!p.startsWith(base)&&!p.startsWith(r.stagingPath+'/workflow/'))errors.push('Unexpected revision artifact '+p);
   const bound=content(root,r);if(r.status==='reviewed'&&!forReview&&r.review?.contentDigest!==bound)errors.push('Unreviewed content changed; renewed review required');
@@ -83,6 +96,17 @@ function recoverPublication(root,r,dryRun){
  atomic(root,revisionPath,{...r,status:'published'});return {published:true,canonicalPath:r.identity.canonicalPath,caseNumber:r.identity.caseNumber,completionCountsChanged:false};
 }
 export function revise(root,action,o={}){
+ if(action==='amend-preserved'){
+  const r=read(root,revisionPath),p=r.stagingPath+'/'+amendmentName;
+  if(r.status!=='staging'||fs.existsSync(safe(root,revisionPath+'.tmp')))throw Error('Amendment requires uninterrupted staging');
+  if(!o['authorize-by']?.trim()||!o.reason?.trim()||+o.case!==r.identity.caseNumber||o.slug!==r.identity.slug||o.path!==o['authorize-path']||o['expected-hash']!==o['authorize-hash']||o['review-controls']!=='yes')throw Error('Matching explicit identity, path/hash authorization and reviewed controls required');
+  const a={schemaVersion:1,lockInputs:lockInputs(r),path:o.path,expectedHash:o['expected-hash'],authorizationPath:o['authorize-path'],authorizationHash:o['authorize-hash'],authorizedBy:o['authorize-by'].trim(),reason:o.reason.trim(),date:new Date().toISOString(),controls:snapshot(root,amendmentControls)};
+  checkRecord(root,r,a);
+  if(fs.existsSync(safe(root,p)))throw Error('Amendment already recorded');
+  if(fs.existsSync(safe(root,p+'.tmp'))){const pending=read(root,p+'.tmp');if(!same({...pending,date:a.date},a))throw Error('Conflicting interrupted amendment');if(o['dry-run'])return {recoverable:true};fs.renameSync(safe(root,p+'.tmp'),safe(root,p));return {amended:true,record:p,recovered:true};}
+  if(o['dry-run'])return {dryRun:true,record:p};
+  atomic(root,p,a);return {amended:true,record:p};
+ }
  if(action==='begin'){
   if(!o['authorize-by']?.trim())throw Error('Explicit revision authorization required');
   if(fs.existsSync(safe(root,revisionPath+'.tmp')))throw Error('Interrupted revision; recover first');

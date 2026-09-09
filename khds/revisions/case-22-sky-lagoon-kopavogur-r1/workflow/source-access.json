@@ -1,0 +1,70 @@
+{
+  "accessDate": "2026-09-09",
+  "browser": {
+    "method": "Supported getForUrl, troubleshooting and browsers.list",
+    "result": "No browser is available; []",
+    "realPageRead": false,
+    "requirement": "Host must expose a supported browser connection; exact installation/credential requirement not established",
+    "desktop": false,
+    "mobile": false
+  },
+  "fallbackOrder": [
+    "browser-rendered official",
+    "official documents/operator materials",
+    "attributed authoritative third parties"
+  ],
+  "newInspected": [
+    "S11",
+    "S12",
+    "S13",
+    "S14",
+    "S15",
+    "S16",
+    "S17",
+    "S18",
+    "S19",
+    "S20"
+  ],
+  "reopened": [
+    "S5",
+    "S8"
+  ],
+  "blocked": [
+    "S21",
+    "S22",
+    "S23",
+    "S24",
+    "S25",
+    "S26",
+    "S27",
+    "S28",
+    "S29"
+  ],
+  "images": [
+    {
+      "source": "S18",
+      "sha256": "a12b5099847da705b24f8e7657c06d34118efd39acede9e899e3f68901fae5cc",
+      "bundled": false
+    },
+    {
+      "source": "S19",
+      "sha256": "2dac882dfcbb88ea80264ff76014d1c3964a6824bdf8c14e6d8c88eecdee8dae",
+      "bundled": false
+    },
+    {
+      "source": "S20",
+      "sha256": "3d4b9e5052a6510661730477b2b14e19686b041b0b7ba423efd7f6ab7226e972",
+      "bundled": false
+    }
+  ],
+  "focusedCorrection": {
+    "accessDate": "2026-09-09",
+    "method": "Direct HTML text, not browser-rendered",
+    "reinspected": [
+      "S6",
+      "S13"
+    ],
+    "sections": "S6 Contract, Standard Tours, Special Request; S13 Arrival and changing rooms/Tip, Ylur, comparison/repeat entry",
+    "scope": "No broad search; other restored claims retain previous inspection dates. Browser was not retried."
+  }
+}

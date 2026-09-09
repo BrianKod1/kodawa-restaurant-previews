@@ -1,24 +1,38 @@
 <!-- KHDS {"caseNumber":22,"institutionName":"Sky Lagoon","slug":"sky-lagoon-kopavogur","institutionType":"Geothermal bathing and wellness venue","sector":"wellness","canonicalPath":"khds/research/institutions/wellness/sky-lagoon-kopavogur/"} -->
-# Sky Lagoon — service delivery and participation
+# Sky Lagoon — stay
 
-Case #22
+Case #22. Research access: 2026-09-09.
 
-Research disposition saved 2026-09-09. The shared stay dimension is adapted to a bathing visit. Overnight room custody is not applicable to this selected day-visit route; care during participation remains applicable.
+Public-evidence coverage: partial
 
-## Observations
+## Research question
 
-The admission seller describes a sequence comprising lagoon, cold pool, sauna, cold mist, scrub, steam and shower. This documents its advertised ritual, not the current layout or required participation in every step. [Icelandair admission offer](https://www.icelandair.com/vacations/tours/sky-lagoon-pure-pass-without-transfers/), accessed 2026-09-09; published offer, levels 1–2.
+How is ritual participation described, including alternatives and refusal?
 
-Pursuit's fiscal-2025 annual report says the expanded Skjól Ritual and Turf House opened in 2024. [Pursuit annual report, printed page 5](https://www.sec.gov/Archives/edgar/data/884219/000119312526156067/prsu_2026_ars.pdf), accessed 2026-09-09; reported activity, level 6 for the expansion claim only. It is not a present-day service audit.
+Scope: Question is newly explicit. Before rating is retrospective using this same question. Sufficient applies only to this stated public-source question, not the whole dimension or operational outcomes.
+
+## Supported observations
+
+The brochure lists seven stages ending in Saft; the earlier airline offer ends with shower. These descriptions should not be silently merged. [S12](https://pub-mediabox-storage.rxweb-prd.com/exhibitor/document/exh-b418eda1-3201-4177-859b-809de7da96ac/8bd30938-933e-4b46-82e0-5ba3c9c18294.pdf) [S5](https://www.icelandair.com/vacations/tours/sky-lagoon-pure-pass-with-transfer/) Accessed 2026-09-09.
+
+Icelandia describes cool air as an alternative to immersion at its cold-plunge step. [S14](https://www.icelandia.com/tours/sky-lagoon-pure-pass-with-transfer) Accessed 2026-09-09.
+
+The guide limits admission to one ritual journey. [S13](https://www.icelandair.com/arora/sky-lagoon-guide/) Sky Lagoon versus Blue Lagoon section, reread 2026-09-09; displayed 2025-02-06, comparison table scoped to April 2026. This is seller guidance, not current venue confirmation.
+
+Pursuit reports the expanded ritual and Turf House opening in 2024. [S2](https://www.sec.gov/Archives/edgar/data/884219/000119312526156067/prsu_2026_ars.pdf) FY2025 report p. 5, earlier inspection 2026-09-09. This is reported activity (level 6), not evidence that bottlenecks disappeared. Admission, changing, ritual occupancy, assistance and recovery are separate unmeasured capacities. Inclusion does not require completion: test whether declining a step preserves dignity, help and a usable finish. No therapeutic or operational benefit is established.
 
 ## Interpretation
 
-A sequence can organise a short visit while introducing dependencies: a guest may accept the general experience but decline one component. Inclusion in a ticket and an obligation to participate are different propositions. No policy about skipping, substituting, repeating or refunding a step was directly verified.
+Inclusion and mandatory participation differ. One alternative should not be generalized to all stages.
 
-The relevant capacity stocks to investigate are admission, changing space, ritual-room occupancy, assistance and recovery options. These are analytical categories, not measured inventory or claims about a particular staffing model. An advertised expansion cannot demonstrate that bottlenecks have disappeared.
+## Material unanswered questions
 
-## Unverified operational outcomes
+- Direct venue confirmation of seller repeat-entry guidance and comprehensive skipping, substitution or refund rules remain missing.
 
-Staff handoffs, pause routes, private assistance, temperature control, crowding, emergency response and freedom to decline were not observed. No therapeutic, physiological or lasting wellbeing benefit is asserted.
+Rating reason: One published alternative narrows a gap; it does not establish universal opt-out policy.
 
-Falsification target: can a guest omit a step without losing dignity, ordinary assistance or the ability to finish the visit? A published sequence alone cannot answer this. Service completion must be defined around the guest's agreed and usable route, not counted ritual steps. No promotion or confidence increase.
+Next evidence: Read current venue participation rules and alternatives for each stage.
+
+## Evidence boundary and history
+
+Operational validation and pattern maturity are unchanged. Original 2026-09-09 observations remain byte-exact in the revision workflow archive identified in README; they are dated history, not additional corroboration. [Coverage](coverage.json) · [Sources](sources.json) · [Research summary](README.md#research-summary).

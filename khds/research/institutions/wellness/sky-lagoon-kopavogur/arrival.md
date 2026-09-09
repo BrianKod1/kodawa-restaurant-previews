@@ -1,24 +1,40 @@
 <!-- KHDS {"caseNumber":22,"institutionName":"Sky Lagoon","slug":"sky-lagoon-kopavogur","institutionType":"Geothermal bathing and wellness venue","sector":"wellness","canonicalPath":"khds/research/institutions/wellness/sky-lagoon-kopavogur/"} -->
 # Sky Lagoon — arrival
 
-Case #22
+Case #22. Research access: 2026-09-09.
 
-Research disposition saved 2026-09-09. Separate the self-arranged route from the purchased transfer route; do not substitute one for the other.
+Public-evidence coverage: partial
 
-## Observations
+## Research question
 
-Icelandair's transfer offer names Reykjavik Excursions as operator. It describes a pickup window beginning 30 minutes before the tour, designated alternatives to ineligible accommodation stops, a voucher requirement, and a telephone escalation if pickup has not arrived 20 minutes after the window begins. [Icelandair transfer offer, Included and Conditions](https://www.icelandair.com/vacations/tours/sky-lagoon-pure-pass-with-transfer/), accessed 2026-09-09. Visible published procedure, proof level 3; no pickup was observed.
+How are transfer pickup, admission and changing transitions described?
 
-The transport operator's own product page names Saman with Transfer, but its detailed inclusion section remained loading in the retrieved page. It confirms an advertised product identity, not the full partner procedure. [Reykjavik Excursions offer](https://www.re.is/tour/sky-lagoon-pure-pass-with-transfer/), accessed 2026-09-09.
+Scope: Question is newly explicit. Before rating is retrospective using this same question. Sufficient applies only to this stated public-source question, not the whole dimension or operational outcomes.
+
+## Supported observations
+
+Icelandair publishes voucher preparation and a delayed-pickup escalation route. [S5](https://www.icelandair.com/vacations/tours/sky-lagoon-pure-pass-with-transfer/) Accessed 2026-09-09.
+
+Its guide describes a wristband for lockers/payment and distinguishes Saman shower cubicles from private Sér showers. [S13](https://www.icelandair.com/arora/sky-lagoon-guide/) Accessed 2026-09-09.
+
+The old official map labels entrances and changing areas using legacy pass names. [S17](https://www.skylagoon.com/getmedia/7ce073d7-4bde-498f-ad6a-8f8ac3a4656a/Sky-Lagoon-Interactive-Aerial-Map.pdf) Accessed 2026-09-09.
+
+Focused reread 2026-09-09: Icelandair’s guide describes reception explaining the ticket, shoe removal, changing/lockers and showering without swimwear before entry; it states a 30-minute arrival grace period. [S13](https://www.icelandair.com/arora/sky-lagoon-guide/) Arrival and changing rooms, paragraphs 1–4 and Tip. The page displays 2025-02-06; its comparison table alone mentions April 2026. These are seller instructions, not newly confirmed venue policy or observed execution.
+
+Restore the earlier transfer-specific procedure: Reykjavik Excursions is named; pickup begins 30 minutes before the tour, designated stops may replace accommodation pickup, and a missing pickup triggers telephone escalation 20 minutes after that window begins. [S5](https://www.icelandair.com/vacations/tours/sky-lagoon-pure-pass-with-transfer/) Included and Conditions, inspected 2026-09-09, undated. Self-arranged arrival is a distinct route. The guide’s grace statement does not show admission protection after transfer failure. A simulated missed-pickup test should trace responsibility to an explicit venue acceptance or refusal; no recovery was observed.
 
 ## Interpretation
 
-Layered Arrival applies here as a testable responsibility chain: booking acknowledgement, pickup readiness, transport receipt, admission and orientation. It is not a claim that Sky Lagoon has implemented every layer successfully. The published late-pickup trigger provides a specific recovery contact; it does not show an admission hold or a rebooking entitlement when transport fails.
+Preparation instructions do not demonstrate a protected handoff when transport or admission fails.
 
-The first live handoff in a transfer itinerary belongs to the transport route. In a self-arranged itinerary, the first venue-owned interaction may instead be reception. Neither route's live boundary was observed.
+## Material unanswered questions
 
-## Failure and completion conditions
+- Current direct venue confirmation of seller check-in/grace guidance, late-transfer admission protection and actual execution remain missing.
 
-Potential failure: guest waits at the wrong stop, misses pickup, or arrives after a booked slot. Known public recovery: the seller's transport escalation instruction. Unknown: acknowledgement time, admission protection, authority to reallocate and accessibility of the substitute route.
+Rating reason: Preparation is documented; the cross-provider handoff is not fully specified.
 
-Proposed test: trace a simulated missed pickup through both organisations and require an explicit acceptance or refusal of responsibility. Settled arrival means the guest can proceed with the agreed service and knows where to obtain help. No reliability, queue-length or equitable-recovery outcome is claimed.
+Next evidence: Confirm seller instructions with dated venue policy; separately test cross-provider recovery.
+
+## Evidence boundary and history
+
+Operational validation and pattern maturity are unchanged. Original 2026-09-09 observations remain byte-exact in the revision workflow archive identified in README; they are dated history, not additional corroboration. [Coverage](coverage.json) · [Sources](sources.json) · [Research summary](README.md#research-summary).

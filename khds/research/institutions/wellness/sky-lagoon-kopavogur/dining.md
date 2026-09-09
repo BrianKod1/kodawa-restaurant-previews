@@ -1,24 +1,36 @@
 <!-- KHDS {"caseNumber":22,"institutionName":"Sky Lagoon","slug":"sky-lagoon-kopavogur","institutionType":"Geothermal bathing and wellness venue","sector":"wellness","canonicalPath":"khds/research/institutions/wellness/sky-lagoon-kopavogur/"} -->
-# Sky Lagoon — dining and refreshments
+# Sky Lagoon — dining
 
-Case #22
+Case #22. Research access: 2026-09-09.
 
-Research disposition saved 2026-09-09. Dining is applicable as an adjacent service, not assumed to be part of every admission entitlement.
+Public-evidence coverage: partial
 
-## Observations
+## Research question
 
-The operator's brochure names Lagoon Bar, Sky Cafe and Smakk Bar as three food-and-drink experiences. [Pursuit brochure, Sky Lagoon section](https://brochure.pursuitcollection.com/iceland/), accessed 2026-09-09; published institutional claim, level 1, undated.
+What current dining choices, inclusions and dietary information can visitors verify?
 
-Icelandair's transfer tour excludes lunch and refreshments. [Transfer offer, Conditions](https://www.icelandair.com/vacations/tours/sky-lagoon-pure-pass-with-transfer/), accessed 2026-09-09; seller's entitlement rule, level 2. This exclusion does not describe all direct or bundled Sky Lagoon products.
+Scope: Question is newly explicit. Before rating is retrospective using this same question. Sufficient applies only to this stated public-source question, not the whole dimension or operational outcomes.
+
+## Supported observations
+
+The undated trade brochure names tasting platters at Smakk and sandwiches/soups at Keimur. [S12](https://pub-mediabox-storage.rxweb-prd.com/exhibitor/document/exh-b418eda1-3201-4177-859b-809de7da96ac/8bd30938-933e-4b46-82e0-5ba3c9c18294.pdf) Accessed 2026-09-09.
+
+The airline transfer offer excludes refreshments. [S5](https://www.icelandair.com/vacations/tours/sky-lagoon-pure-pass-with-transfer/) Accessed 2026-09-09.
+
+The earlier undated Pursuit brochure named Lagoon Bar, Sky Cafe and Smakk Bar. [S3](https://brochure.pursuitcollection.com/iceland/) Inspection 2026-09-09; retained as naming history, not a current outlet inventory or a proven rename to Keimur. Outlet presence, paid extras and bundled meals must remain distinct. Test whether a guest identifies what creates a charge and who accepts a dietary question. Supplier benefit, alcohol controls and safe preparation remain unverified; no operational test was conducted.
 
 ## Interpretation
 
-The presence of several outlets is proof of a published service proposition, not an inclusion list. A guest moving from bathing to refreshments needs to understand what creates a new charge and who can answer a dietary question. A useful comparison separates admission entitlement, an optional purchase and a specifically bundled meal.
+Dining presence, ticket inclusion, a current menu and allergen safety are different claims.
 
-Against the full-board context retained in the [Case #21 comparison evidence](khds/research/institutions/hotels/fogo-island-inn-newfoundland/dining.md), the question is whether inclusion clarity survives a change of service model. Sky Lagoon is not evidence that a hotel-style all-inclusive explanation transfers unchanged.
+## Material unanswered questions
 
-## Gaps and verification plan
+- Current menu items, prices, hours and allergen handling remain unverified.
 
-The current direct dining page returned a shell. [Dining page attempted](https://www.skylagoon.com/food-drink/), accessed 2026-09-09. Current menus, opening times, ingredients, allergen controls, supplier relationships, alcohol limits, payment devices and reconciliation of on-site purchases remain unverified. A named bar cannot support claims about safe service or local economic benefit.
+Rating reason: Brochure context improved, but current-menu coverage did not. Search-extract menus are excluded.
 
-Test whether a guest can distinguish included from optional food before arrival and whether a dietary inquiry reaches an accountable service role. Compare the answer with the delivered item only in a separately authorised operational study. No outcome or pattern promotion is proposed.
+Next evidence: Read a dated official menu and dietary-information page; advertised options do not demonstrate safe preparation.
+
+## Evidence boundary and history
+
+Operational validation and pattern maturity are unchanged. Original 2026-09-09 observations remain byte-exact in the revision workflow archive identified in README; they are dated history, not additional corroboration. [Coverage](coverage.json) · [Sources](sources.json) · [Research summary](README.md#research-summary).

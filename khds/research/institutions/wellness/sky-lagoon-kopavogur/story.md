@@ -1,24 +1,36 @@
 <!-- KHDS {"caseNumber":22,"institutionName":"Sky Lagoon","slug":"sky-lagoon-kopavogur","institutionType":"Geothermal bathing and wellness venue","sector":"wellness","canonicalPath":"khds/research/institutions/wellness/sky-lagoon-kopavogur/"} -->
-# Sky Lagoon — institutional story
+# Sky Lagoon — story
 
-Case #22
+Case #22. Research access: 2026-09-09.
 
-Research disposition saved 2026-09-09. Distinguish operating identity, cultural positioning, reported activity and demonstrated outcomes.
+Public-evidence coverage: sufficient
 
-## Observations
+## Research question
 
-Pursuit's fiscal-2025 report locates Sky Lagoon in Kársnes Harbour, Kópavogur and connects its ritual proposition with Icelandic heritage. The same report lists the venue in its attractions business. [Pursuit annual report, printed pages 5–6](https://www.sec.gov/Archives/edgar/data/884219/000119312526156067/prsu_2026_ars.pdf), accessed 2026-09-09; verified identity/location in a primary filing, with cultural positioning treated as an institutional claim.
+What cultural narrative and corporate context do the inspected public sources explicitly communicate?
 
-Pursuit's investor site explicitly presents shareholder value and growth as corporate objectives. [Pursuit investor overview](https://investors.pursuit.com/pursuit/), accessed 2026-09-09. This is evidence of the parent's stated commercial framing, not a finding about local distribution or staff experience.
+Scope: Question is newly explicit. Before rating is retrospective using this same question. Sufficient applies only to this stated public-source question, not the whole dimension or operational outcomes.
+
+## Supported observations
+
+Pursuit reports Sky Lagoon in its portfolio and frames the parent commercially. [S2](https://www.sec.gov/Archives/edgar/data/884219/000119312526156067/prsu_2026_ars.pdf) [S9](https://investors.pursuit.com/pursuit/) Accessed 2026-09-09.
+
+The tourism listing frames the venue through Icelandic bathing culture. [S16](https://visitreykjavik.is/service/sky-lagoon) Accessed 2026-09-09.
+
+The FY2025 filing locates the venue at Kársnes Harbour, Kópavogur and associates its ritual with Icelandic heritage; the investor overview frames shareholder value and growth. [S2](https://www.sec.gov/Archives/edgar/data/884219/000119312526156067/prsu_2026_ars.pdf) [S9](https://investors.pursuit.com/pursuit/) Earlier inspection 2026-09-09. Cultural reference, ownership and distribution of benefits require separate evidence; Fogo’s social-business model cannot transfer by analogy. Local procurement, labour conditions, community decision-making and environmental/health outcomes remain unestablished outside this bounded narrative question. Test whether readers infer benefits the narrative cannot substantiate.
 
 ## Interpretation
 
-The case challenges an assumption that place-led storytelling implies the same governance model across institutions. Sky Lagoon's corporate context must not inherit Fogo's social-business propositions merely because both connect hospitality with place. Culture, ownership, service delivery and distribution of benefit require different evidence.
+Cultural positioning remains attributed. Parent objectives do not establish local benefit or durable outcomes.
 
-A useful story claim has an attributable owner and a bounded consequence. A cultural reference can explain design intent without proving community endorsement. A reported investment can show activity without demonstrating improved access or lasting wellbeing. These distinctions preserve the existing methodology rather than treating sector expansion as validation.
+## Material unanswered questions
 
-## Unverified outcomes and counterevidence sought
+None within the stated bounded question; operational outcomes remain separate.
 
-Local procurement terms, cultural participation in decision-making, labour conditions, community benefit, environmental measurements and health outcomes were not established. No sustainability or therapeutic claim is promoted from promotional language. Financial reporting at parent level is not a substitute for guest-level service evidence.
+Rating reason: This bounded public-narrative question is supported; independent legitimacy, local benefit and guest outcomes are separate unresolved hypotheses.
 
-Falsification target: would guests infer social or environmental benefits that the available claims cannot substantiate? Compare comprehension of a scenic narrative with an accountable explanation of ownership and limits. This remains an unperformed study; no pattern confidence changes.
+Next evidence: Test benefit and legitimacy claims separately before treating narrative as an outcome.
+
+## Evidence boundary and history
+
+Operational validation and pattern maturity are unchanged. Original 2026-09-09 observations remain byte-exact in the revision workflow archive identified in README; they are dated history, not additional corroboration. [Coverage](coverage.json) · [Sources](sources.json) · [Research summary](README.md#research-summary).

@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "status": "published",
+  "identity": {
+    "caseNumber": 22,
+    "institutionName": "Sky Lagoon",
+    "slug": "sky-lagoon-kopavogur",
+    "institutionType": "Geothermal bathing and wellness venue",
+    "sector": "wellness",
+    "canonicalPath": "khds/research/institutions/wellness/sky-lagoon-kopavogur/"
+  },
+  "revision": 1,
+  "stagingPath": "khds/revisions/case-22-sky-lagoon-kopavogur-r1",
+  "approvedBy": "Brian Kodawa",
+  "approvedAt": "2026-09-09T18:40:42.955Z",
+  "baseCommit": "19d49b34da3565882c595899d7ff58778fbeab5a",
+  "original": {
+    "README.md": "629547e4be6ef8cf4ffed27268c7bec8563925b06e0f9f1533a7d77d1fab5868",
+    "arrival.md": "0c974a5278ad7be2e54dbffed4062fa694acc455c741c1c137806d602a150bb5",
+    "atmosphere.md": "7021b76eacf18849e2bff79bdada31a3797ded8d8ccff44c565344b56ed5e04e",
+    "departure.md": "9dbc82eb35e948e8afb86c6a9484ee8ae07c3ecc620dc67eb09bd6e566947652",
+    "dining.md": "809f1c16bfa5aa8b54826c5a86c0db3e383c65a6c3290d38898218d54f3e3e9d",
+    "discovery.md": "faf46bdb24fe81a51a25565895faf81e2526048595fe0b41c50b5347d2faf89e",
+    "knowledge-extraction.md": "5b4ee245fc63abeb4fdd3ccb19c93b364ba1f19e6b1824f2caf9603709705993",
+    "photography.md": "09b900e93d8a5f3d93f451541359863c743b0863880dd49d3c87f024ff51ead1",
+    "pre-arrival.md": "c8d930cc80e257d4a3aec691fa6b050d0e52b7f4ee902336bdf250435c5f9f94",
+    "reservation.md": "169fc785f29f1eb9857481fa7a5841b4d7908d807e9c0babc743bf5a7f1ef058",
+    "stay.md": "f73838f239bfae3163361dff9875cb5e638a4cd47f529751ea0aeb2c9f79926d",
+    "story.md": "b046d4be9f4e12f4e48e215e4b082d257f104c612a7b27acf684fa45054001a0"
+  },
+  "baselines": {
+    "khds/AGENTS.md": "5578c99ed17c5d392866d9b5c5c20b9ce5fc0d47620e658b5ccfa9aacc77af63",
+    ".codex/skills/khds-research/SKILL.md": "ac3c21bb238bc3a1baf4254fa556690fc3394d5861cc3fe4e7d8506337676cdf",
+    ".codex/skills/khds-research/references/case-schema.md": "a4839f87785e6f5a59af2c7777b7ea46972cf5287e0812197f4b30803139596a",
+    "khds/state/current-case.json": "2e69080ea5f93c6f6b77290ae3e1801f545e935699906290b8d4c973702b4194",
+    "khds/state/case-history.json": "6917b095ebaaaf7d1d404e3bc5a903209f7d46d138c67d34172403f162806b93",
+    "scripts/khds-start-case.mjs": "f93fc54b277ff9f5f0945bcc500d0ba26e0ac43bae5deb794f4dcca81df68109",
+    "scripts/khds-validate.mjs": "e40925443cea8cb9b735b0196fa3eb1c3cc0e63b222def3c0550180386091ed5",
+    "scripts/khds-publish.mjs": "516b9df5f4be1e9db4b782502017a97a5d4b83fa40f5af91757d8b33efbed582",
+    "scripts/khds-review.mjs": "2c5dec1d2ecf0194c5a171c0f6a0fedb6e143ece7fb037c428f987fae04733a7",
+    "scripts/khds-revise.mjs": "5a5fc97eb28834f56bbe533011b447c30a6bf32ccb9800f829b574dfe10dfaf6",
+    "scripts/khds-evidence.mjs": "5dc1c795c40c7b58ee516883ace3ff95ca3485866f8a6a051003485cc547aafb",
+    "scripts/tests/khds-revision.test.mjs": "034e17d8b47180d994e8080971ae3efe65eeb808461916acbae38cda8a1677ee",
+    "scripts/tests/khds-control.test.mjs": "f4909659b5cfd958c7eef751cc3651c97550768e7c24339825d5b9f6811c7e49",
+    "khds/research/README.md": "24471f8393d73704bdb09ebc681cd8985185fe2a530eaac9c86dcebd35180991",
+    "khds/research/validation/README.md": "48929c1bcf90618103b53742f33e447cdd21afd2693c69a555d44d4c01601722",
+    "khds/research/validation/dashboard.md": "9673f2cb8051ce5fc330dbcacd28943841d6b9365aea7a9496517a74a414f29b",
+    "khds/research/validation/candidate-patterns.md": "79052f404b9d2c36a1d5ba9bc5a5cb6bbe022ce7185eb60d9adf48693faaa008",
+    "khds/patterns/registry.md": "c9eaf8be260a9bd43acdc259b73ab1f24aa58066eb93e171f18017d2e7df1b84",
+    "khds/research/institutions-comparison/README.md": "2a37a0050c26d4cb087cd293b280519991c3114fff6629e2dc999c2abc6c4034",
+    "khds/research/institutions/README.md": "d3fccc3bb7647de48c20dfffbc0aa633da6bcf69cb2300a35b184e671d305e0d",
+    "khds/research/institutions/wellness/README.md": "39f0921e29605d0d20372cb35fd333b6c32b2acc8b4c05ec0a559f04edc95dd5",
+    "khds/research/institutions/hotels/README.md": "6a5d7c5c362afac6633d98afb1c377076d4db9b8c9ceb8ffb807d99cbc3756cf",
+    "khds/research/institutions/hotels/fogo-island-inn-newfoundland/README.md": "d58d6b0ab0d88e7e9b8ee2cd5af01f1620e33630497d4fc955ad709b9e33dfdf",
+    "khds/research/institutions/hotels/fogo-island-inn-newfoundland/arrival.md": "1f1cb7693c2782b7953dbb9eb44c081f763261faf536620aa5776e0a1e8070ad",
+    "khds/research/institutions/hotels/fogo-island-inn-newfoundland/atmosphere.md": "5fb4fb1cda1b8129905e029c3d264ccbb66534caef1a61ab33b465e93e548945",
+    "khds/research/institutions/hotels/fogo-island-inn-newfoundland/departure.md": "9fa85ac5b9714e656dcee406690de40254f53058a70dcde362da76746002decd",
+    "khds/research/institutions/hotels/fogo-island-inn-newfoundland/dining.md": "2fb841902b4faba886b74c61e1b61cb22b478827b7b7f25352253ebca5185f15",
+    "khds/research/institutions/hotels/fogo-island-inn-newfoundland/discovery.md": "54718b51be355f1a730da16e305bf004fe10f5b7734f0af99c70d0ea761a926f",
+    "khds/research/institutions/hotels/fogo-island-inn-newfoundland/knowledge-extraction.md": "2a3849c940ee9a7683fb82520a47fa085fe84e71b4d0e7acee12b07eec8db6d3",
+    "khds/research/institutions/hotels/fogo-island-inn-newfoundland/photography.md": "d861e468886d47fbc7a338045b09a5d306ae353fc263d0f08df4b1f09dc466e5",
+    "khds/research/institutions/hotels/fogo-island-inn-newfoundland/pre-arrival.md": "1b29209917cbda278cb884bcd385d6b9aeedeb1bb416d746c11bb1e658b91960",
+    "khds/research/institutions/hotels/fogo-island-inn-newfoundland/reservation.md": "cf3cc28fc416551330b9f247ae07ae4ed9acf6ce25448350a2ce95927987fa14",
+    "khds/research/institutions/hotels/fogo-island-inn-newfoundland/stay.md": "03c25e904387aeab7801ae44b7b927a72914f1a399ea1d143ad31f28a4027b68",
+    "khds/research/institutions/hotels/fogo-island-inn-newfoundland/story.md": "c7730d9d55c5d159e6b8b2d36d8b866134427cfad79b5bd79511b9b0d0b1e198"
+  },
+  "preserved": {
+    "khds/research/institutions/wellness/sky-lagoon-kopavogur.zip": "0ea684556c167f9e85a66c02b4c24984e596a0e74c02bf93df47471f67facfbf"
+  },
+  "previousRevisionHistory": {
+    "schemaVersion": 1,
+    "revisions": []
+  },
+  "review": {
+    "approvedBy": "Brian Kodawa",
+    "approvedAt": "2026-09-09T21:29:08.244Z",
+    "contentDigest": "6cd01377afd46f95f6d7bce5a0b8a9bcc143f2dc8b56d6bf8e614290c0fda4d0"
+  },
+  "publication": {
+    "approvedDigest": "9094c6ee55957a96d1208584ba92e1c0419fc7f5916a8bdf8a909ac8e38fe134",
+    "approvedAt": "2026-09-09T21:29:09.261Z",
+    "files": {
+      "README.md": "69e7ddeee49c6a9dc9fe02738bb7efbcd0c0c6c59242139a92954c679a1c410f",
+      "arrival.md": "ca66c0b6fedca545ac6f0e7373a69620c33fd2070aa8722bab383b5f6ea52a01",
+      "atmosphere.md": "aaccad8470a643edf0834916cac26f33b4166e10b21cdcf6f73e919f5c3acf14",
+      "coverage.json": "41011438e59b97c771e8e2c3e799746ce808a4fbf8f759b4d8d13479b2ef1306",
+      "departure.md": "85fc7b5cc5ca9aa9c3c54186595f031c78183269c1afe24d7f0a8fe00e405b68",
+      "dining.md": "358b12003bebb713e45c4696cd8fb051745db861a6c48fba47acbf279b13fba0",
+      "discovery.md": "1ac801368741d375a8b64f693186254d85e385034658b851babf1c5b165e286e",
+      "knowledge-extraction.md": "34bac44ddb8128b0c7992cff2161a038d5cabf7aa951984d3a00634512e4e27b",
+      "photography.md": "10330d7fc2ed7c47e350f7549665ead8fd3a0a545b9fed3fcdd421510d769b89",
+      "pre-arrival.md": "903602c1b86184288801a271ff8156b2f54238a05f7e8cfa3fc8fe622ce3d415",
+      "reservation.md": "3f479bb001d31df8b2825139277086feba0fbdd36d1d6ea0e4f1ff06734bf499",
+      "sources.json": "dc5db826636c398f98e7821ba13115fc6422500dde9b408a6f0b2f3ab5927413",
+      "stay.md": "814607de27e1c82a5bb01cf16e3ccd78705c8a74844f1faf0950abef13cb1627",
+      "story.md": "e1fd6943332d68a0adf11c0e14379bfacc1efb287820e774aa00a44a10fb97c0"
+    }
+  }
+}

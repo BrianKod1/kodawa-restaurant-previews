@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "revisions": [
+    {
+      "caseNumber": 22,
+      "revision": 1,
+      "review": {
+        "approvedBy": "Brian Kodawa",
+        "approvedAt": "2026-09-09T21:29:08.244Z",
+        "contentDigest": "6cd01377afd46f95f6d7bce5a0b8a9bcc143f2dc8b56d6bf8e614290c0fda4d0"
+      },
+      "publication": {
+        "approvedDigest": "9094c6ee55957a96d1208584ba92e1c0419fc7f5916a8bdf8a909ac8e38fe134",
+        "approvedAt": "2026-09-09T21:29:09.261Z",
+        "files": {
+          "README.md": "69e7ddeee49c6a9dc9fe02738bb7efbcd0c0c6c59242139a92954c679a1c410f",
+          "arrival.md": "ca66c0b6fedca545ac6f0e7373a69620c33fd2070aa8722bab383b5f6ea52a01",
+          "atmosphere.md": "aaccad8470a643edf0834916cac26f33b4166e10b21cdcf6f73e919f5c3acf14",
+          "coverage.json": "41011438e59b97c771e8e2c3e799746ce808a4fbf8f759b4d8d13479b2ef1306",
+          "departure.md": "85fc7b5cc5ca9aa9c3c54186595f031c78183269c1afe24d7f0a8fe00e405b68",
+          "dining.md": "358b12003bebb713e45c4696cd8fb051745db861a6c48fba47acbf279b13fba0",
+          "discovery.md": "1ac801368741d375a8b64f693186254d85e385034658b851babf1c5b165e286e",
+          "knowledge-extraction.md": "34bac44ddb8128b0c7992cff2161a038d5cabf7aa951984d3a00634512e4e27b",
+          "photography.md": "10330d7fc2ed7c47e350f7549665ead8fd3a0a545b9fed3fcdd421510d769b89",
+          "pre-arrival.md": "903602c1b86184288801a271ff8156b2f54238a05f7e8cfa3fc8fe622ce3d415",
+          "reservation.md": "3f479bb001d31df8b2825139277086feba0fbdd36d1d6ea0e4f1ff06734bf499",
+          "sources.json": "dc5db826636c398f98e7821ba13115fc6422500dde9b408a6f0b2f3ab5927413",
+          "stay.md": "814607de27e1c82a5bb01cf16e3ccd78705c8a74844f1faf0950abef13cb1627",
+          "story.md": "e1fd6943332d68a0adf11c0e14379bfacc1efb287820e774aa00a44a10fb97c0"
+        }
+      },
+      "record": "khds/revisions/case-22-sky-lagoon-kopavogur-r1/workflow/REVIEW.md"
+    }
+  ]
+}

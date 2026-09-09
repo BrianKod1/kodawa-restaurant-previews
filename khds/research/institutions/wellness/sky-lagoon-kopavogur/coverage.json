@@ -1,0 +1,377 @@
+{
+  "schemaVersion": 1,
+  "assessmentDate": "2026-09-09",
+  "dimensions": [
+    {
+      "dimension": "discovery",
+      "question": "Which institution, official website and source/seller roles can be established?",
+      "scopeChange": "Question is newly explicit. Before rating is retrospective using this same question. Sufficient applies only to this stated public-source question, not the whole dimension or operational outcomes.",
+      "sources": [
+        "S1",
+        "S16",
+        "S4"
+      ],
+      "observations": [
+        {
+          "text": "Two tourism directories identify Sky Lagoon in Kópavogur and link skylagoon.com; the Icelandair offer is a separate seller channel.",
+          "sources": [
+            "S1",
+            "S16",
+            "S4"
+          ]
+        },
+        {
+          "text": "S1 retains stale 2021 opening wording; identity corroboration does not validate current operational copy.",
+          "sources": [
+            "S1"
+          ]
+        }
+      ],
+      "unanswered": [],
+      "rating": "sufficient",
+      "reason": "The inspected identity chain and attributed seller answer this bounded question, not a website-use audit.",
+      "nextEvidence": "Recheck identity and seller roles when their records change."
+    },
+    {
+      "dimension": "reservation",
+      "question": "What direct booking options, inclusions and terms can a prospective visitor verify?",
+      "scopeChange": "Question is newly explicit. Before rating is retrospective using this same question. Sufficient applies only to this stated public-source question, not the whole dimension or operational outcomes.",
+      "sources": [
+        "S12",
+        "S13",
+        "S4",
+        "S6"
+      ],
+      "observations": [
+        {
+          "text": "The operator-branded brochure distinguishes Saman public changing and Sér private changing. Its two-person option pairs passes with drinks and a shared platter.",
+          "sources": [
+            "S12"
+          ]
+        },
+        {
+          "text": "The Icelandair guide describes both pass types; its offer remains a separate seller channel.",
+          "sources": [
+            "S13",
+            "S4"
+          ]
+        },
+        {
+          "text": "Historical S4 eligibility/inclusions and S6 seller/package distinctions are restored in reservation.md; they do not establish direct-sale terms.",
+          "sources": [
+            "S4",
+            "S6"
+          ]
+        }
+      ],
+      "unanswered": [
+        "Direct current prices, cancellation windows and contractual seller wording remain uninspected.",
+        "No inventory, checkout, confirmation or refund tested."
+      ],
+      "rating": "partial",
+      "reason": "Package context improved; indirect descriptions do not establish the direct contract.",
+      "nextEvidence": "Read the official booking comparison and direct terms through a rendered page or current official document."
+    },
+    {
+      "dimension": "pre-arrival",
+      "question": "What accessibility, changing and assistance information is published, and what must be confirmed?",
+      "scopeChange": "Question is newly explicit. Before rating is retrospective using this same question. Sufficient applies only to this stated public-source question, not the whole dimension or operational outcomes.",
+      "sources": [
+        "S11",
+        "S6"
+      ],
+      "observations": [
+        {
+          "text": "The Icelandic operator PDF describes a private accessible suite with lockers, help alarm, supported shower/toilet and a movable shower chair. It describes lifts for lagoon and cold-pool/turf-house access, loan wheelchairs and radio coordination for help.",
+          "sources": [
+            "S11"
+          ]
+        },
+        {
+          "text": "S6 distinguishes request documentation/forwarding from fulfilment confirmation; individual venue acceptance remains unverified.",
+          "sources": [
+            "S6"
+          ]
+        }
+      ],
+      "unanswered": [
+        "Document date, present equipment configuration, lift limits and assistance reservation route remain unclear.",
+        "Independent use, companion arrangements and non-mobility access needs are not established."
+      ],
+      "rating": "partial",
+      "reason": "Primary equipment documentation now exists; current individual suitability remains unverified.",
+      "nextEvidence": "Obtain a dated access guide with restrictions and confirmation route. Equipment names do not establish suitability."
+    },
+    {
+      "dimension": "arrival",
+      "question": "How are transfer pickup, admission and changing transitions described?",
+      "scopeChange": "Question is newly explicit. Before rating is retrospective using this same question. Sufficient applies only to this stated public-source question, not the whole dimension or operational outcomes.",
+      "sources": [
+        "S5",
+        "S13",
+        "S17"
+      ],
+      "observations": [
+        {
+          "text": "Icelandair publishes voucher preparation and a delayed-pickup escalation route.",
+          "sources": [
+            "S5"
+          ]
+        },
+        {
+          "text": "Its guide describes a wristband for lockers/payment and distinguishes Saman shower cubicles from private Sér showers.",
+          "sources": [
+            "S13"
+          ]
+        },
+        {
+          "text": "The old official map labels entrances and changing areas using legacy pass names.",
+          "sources": [
+            "S17"
+          ]
+        },
+        {
+          "text": "Seller arrival/preparation guidance and grace wording were retrieved; see arrival.md for exact scope. Direct venue confirmation and execution remain missing.",
+          "sources": [
+            "S13"
+          ]
+        },
+        {
+          "text": "S5 provides a transfer-specific pickup window, stop alternatives and escalation trigger; these do not guarantee venue admission.",
+          "sources": [
+            "S5"
+          ]
+        }
+      ],
+      "unanswered": [
+        "Current direct venue confirmation of seller check-in/grace guidance, late-transfer admission protection and actual execution remain missing."
+      ],
+      "rating": "partial",
+      "reason": "Preparation is documented; the cross-provider handoff is not fully specified.",
+      "nextEvidence": "Confirm seller instructions with dated venue policy; separately test cross-provider recovery."
+    },
+    {
+      "dimension": "stay",
+      "question": "How is ritual participation described, including alternatives and refusal?",
+      "scopeChange": "Question is newly explicit. Before rating is retrospective using this same question. Sufficient applies only to this stated public-source question, not the whole dimension or operational outcomes.",
+      "sources": [
+        "S12",
+        "S5",
+        "S14",
+        "S13",
+        "S2"
+      ],
+      "observations": [
+        {
+          "text": "The brochure lists seven stages ending in Saft; the earlier airline offer ends with shower. These descriptions should not be silently merged.",
+          "sources": [
+            "S12",
+            "S5"
+          ]
+        },
+        {
+          "text": "Icelandia describes cool air as an alternative to immersion at its cold-plunge step.",
+          "sources": [
+            "S14"
+          ]
+        },
+        {
+          "text": "S13 addresses repeat participation at seller-guidance scope; S2 reports a 2024 expansion, not capacity or outcome validation.",
+          "sources": [
+            "S13",
+            "S2"
+          ]
+        }
+      ],
+      "unanswered": [
+        "Direct venue confirmation of seller repeat-entry guidance and comprehensive skipping, substitution or refund rules remain missing."
+      ],
+      "rating": "partial",
+      "reason": "One published alternative narrows a gap; it does not establish universal opt-out policy.",
+      "nextEvidence": "Read current venue participation rules and alternatives for each stage."
+    },
+    {
+      "dimension": "dining",
+      "question": "What current dining choices, inclusions and dietary information can visitors verify?",
+      "scopeChange": "Question is newly explicit. Before rating is retrospective using this same question. Sufficient applies only to this stated public-source question, not the whole dimension or operational outcomes.",
+      "sources": [
+        "S12",
+        "S5",
+        "S3"
+      ],
+      "observations": [
+        {
+          "text": "The undated trade brochure names tasting platters at Smakk and sandwiches/soups at Keimur.",
+          "sources": [
+            "S12"
+          ]
+        },
+        {
+          "text": "The airline transfer offer excludes refreshments.",
+          "sources": [
+            "S5"
+          ]
+        },
+        {
+          "text": "S3 historical outlet names are retained separately from S12; neither establishes current menus or dietary performance.",
+          "sources": [
+            "S3"
+          ]
+        }
+      ],
+      "unanswered": [
+        "Current menu items, prices, hours and allergen handling remain unverified."
+      ],
+      "rating": "partial",
+      "reason": "Brochure context improved, but current-menu coverage did not. Search-extract menus are excluded.",
+      "nextEvidence": "Read a dated official menu and dietary-information page; advertised options do not demonstrate safe preparation."
+    },
+    {
+      "dimension": "departure",
+      "question": "What return-transport instructions and unresolved exit responsibilities are publicly described?",
+      "scopeChange": "Question is newly explicit. Before rating is retrospective using this same question. Sufficient applies only to this stated public-source question, not the whole dimension or operational outcomes.",
+      "sources": [
+        "S14",
+        "S15",
+        "S7",
+        "S5"
+      ],
+      "observations": [
+        {
+          "text": "Icelandia SRE01 publishes returns at 11:30 and hourly from 13:30 through 21:30 for 21 June–20 October 2026.",
+          "sources": [
+            "S14"
+          ]
+        },
+        {
+          "text": "The transfer FAQ describes flexible lagoon returns on scheduled buses.",
+          "sources": [
+            "S15"
+          ]
+        },
+        {
+          "text": "S7 exposes an enquiry destination only; submission, receipt and issue ownership were not observed.",
+          "sources": [
+            "S7",
+            "S5"
+          ]
+        }
+      ],
+      "unanswered": [
+        "Exact venue boarding position, last-bus failure route and individual ticket applicability remain unconfirmed.",
+        "Wristband settlement and unresolved-charge handoff are not documented in inspected sources."
+      ],
+      "rating": "partial",
+      "reason": "A dated operator timetable improves planning evidence; it is not proof of boarding or resolution.",
+      "nextEvidence": "Inspect venue exit/payment instructions and operator boarding/last-service contingencies."
+    },
+    {
+      "dimension": "atmosphere",
+      "question": "How do public materials represent atmosphere and explain practical conditions that could affect it?",
+      "scopeChange": "Question is newly explicit. Before rating is retrospective using this same question. Sufficient applies only to this stated public-source question, not the whole dimension or operational outcomes.",
+      "sources": [
+        "S12",
+        "S19",
+        "S20",
+        "S13"
+      ],
+      "observations": [
+        {
+          "text": "The brochure presents ocean-edge bathing through Icelandic bathing culture.",
+          "sources": [
+            "S12"
+          ]
+        },
+        {
+          "text": "The sampled sauna image frames water through a large window; the mist-room image shows dark timber and two bathers.",
+          "sources": [
+            "S19",
+            "S20"
+          ]
+        },
+        {
+          "text": "S13 supplies a published phone-related room distinction; venue confirmation and enforcement are unverified.",
+          "sources": [
+            "S13"
+          ]
+        }
+      ],
+      "unanswered": [
+        "Direct venue confirmation of seller phone guidance, crowd/noise conditions, sensory access, other guest controls and execution remain unverified."
+      ],
+      "rating": "partial",
+      "reason": "Promotional representation is visible; practical atmosphere information remains incomplete. No on-site calm is inferred.",
+      "nextEvidence": "Confirm the seller-described distinction with the venue; inspect other practical policies and test adaptation separately."
+    },
+    {
+      "dimension": "photography",
+      "question": "Do imagery and desktop/mobile practical-information presentation explain the visit as well as promote it?",
+      "scopeChange": "Question is newly explicit. Before rating is retrospective using this same question. Sufficient applies only to this stated public-source question, not the whole dimension or operational outcomes.",
+      "sources": [
+        "S18",
+        "S19",
+        "S20",
+        "S10"
+      ],
+      "observations": [
+        {
+          "text": "Three directly viewed operator-linked frames depict entrance signage and turf facade, a mist room, and a timber sauna with a water-facing window.",
+          "sources": [
+            "S18",
+            "S19",
+            "S20"
+          ]
+        },
+        {
+          "text": "S10 original composition is restored alongside the three newer frames; the four-asset history remains an unrepresentative sample.",
+          "sources": [
+            "S10"
+          ]
+        }
+      ],
+      "unanswered": [
+        "Official website sequence, responsive crops and desktop/mobile hierarchy were not observed.",
+        "Changing access, assistance, boarding and exit are not represented in this new sample."
+      ],
+      "rating": "partial",
+      "reason": "Three additional frames widen the sample; it remains purposive rather than representative of the whole website or physical experience.",
+      "nextEvidence": "Connect an available browser and inspect real desktop/mobile pages, including practical-information imagery."
+    },
+    {
+      "dimension": "story",
+      "question": "What cultural narrative and corporate context do the inspected public sources explicitly communicate?",
+      "scopeChange": "Question is newly explicit. Before rating is retrospective using this same question. Sufficient applies only to this stated public-source question, not the whole dimension or operational outcomes.",
+      "sources": [
+        "S2",
+        "S9",
+        "S16"
+      ],
+      "observations": [
+        {
+          "text": "Pursuit reports Sky Lagoon in its portfolio and frames the parent commercially.",
+          "sources": [
+            "S2",
+            "S9"
+          ]
+        },
+        {
+          "text": "The tourism listing frames the venue through Icelandic bathing culture.",
+          "sources": [
+            "S16"
+          ]
+        },
+        {
+          "text": "S2 and S9 distinguish attributed cultural framing from corporate commercial objectives; neither proves local benefit.",
+          "sources": [
+            "S2",
+            "S9"
+          ]
+        }
+      ],
+      "unanswered": [],
+      "rating": "sufficient",
+      "reason": "This bounded public-narrative question is supported; independent legitimacy, local benefit and guest outcomes are separate unresolved hypotheses.",
+      "nextEvidence": "Test benefit and legitimacy claims separately before treating narrative as an outcome."
+    }
+  ]
+}

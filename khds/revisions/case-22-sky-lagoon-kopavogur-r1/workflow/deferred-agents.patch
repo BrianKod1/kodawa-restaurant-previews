@@ -1,0 +1,10 @@
+--- a/khds/AGENTS.md
++++ b/khds/AGENTS.md
+@@ -58,3 +58,7 @@
+ node scripts/khds-revise.mjs publish --confirm --report <fresh-reviewed-digest>
+ ```
+ Review and reports bind revision identity, control/state/history baselines, canonical source bytes and all revised dossier/workflow bytes. Later edits require renewed review. Publication journals its reviewed file hashes in the revision record before moving the old canonical directory into `previous`, promotes the revised dossier, and appends revision-history.json without incrementing completed cases. On interruption use `node scripts/khds-revise.mjs recover --dry-run`, then `node scripts/khds-revise.mjs recover`. Conflicting files or truncated pending metadata stop recovery. Retain the revision record and backup for audit; no automatic deletion occurs. The original new-case publication commands do not publish revisions.
++
++### Preserve substance during research rewrites
++
++Before rewriting, inventory substantive findings, source connections, scope/date limits and mechanism analysis that must survive. Restore concise claim-to-source links; record specific omissions as superseded, contradicted, duplicate, unsupported or outside the explicit scope. Readability alone is not grounds for deleting findings. Before declaring a gap, check relevant already-inspected sources: distinguish evidence absent from evidence available only through a seller or historical source. Preserve original questions and distinguish source coverage from operational outcomes. Automated validation checks declared consistency, not source truth. Instruction changes during a locked revision must respect its bound control baseline; never edit the lock manually to accommodate them.

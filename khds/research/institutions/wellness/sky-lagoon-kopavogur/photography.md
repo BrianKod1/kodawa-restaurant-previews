@@ -1,22 +1,35 @@
 <!-- KHDS {"caseNumber":22,"institutionName":"Sky Lagoon","slug":"sky-lagoon-kopavogur","institutionType":"Geothermal bathing and wellness venue","sector":"wellness","canonicalPath":"khds/research/institutions/wellness/sky-lagoon-kopavogur/"} -->
-# Sky Lagoon — photography and proof
+# Sky Lagoon — photography
 
-Case #22
+Case #22. Research access: 2026-09-09.
 
-Research disposition saved 2026-09-09. One promotional asset was directly downloaded and visually inspected. It is evidence of the image's content, not verified conditions at the venue.
+Public-evidence coverage: partial
 
-## Observed image
+## Research question
 
-The image linked from Reykjavik Excursions' Sky Lagoon offer shows one foreground bather leaning back in water, mist across the surface, dark rock forms at right and warm low-angle light. The distant horizon remains open at left. No staff, admission interface, changing facility or access device is visible in this frame. [Inspected offer image](https://images.ctfassets.net/a68ipajj4t9l/6yOp3JOrnFxmXesV9hALZQ/233aa9b7456c03d80ea2640b61c532eb/SkyLagoon_2.jpg?q=60&w=2400), accessed 2026-09-09; [publishing offer](https://www.re.is/tour/sky-lagoon-pure-pass-with-transfer/).
+Do imagery and desktop/mobile practical-information presentation explain the visit as well as promote it?
+
+Scope: Question is newly explicit. Before rating is retrospective using this same question. Sufficient applies only to this stated public-source question, not the whole dimension or operational outcomes.
+
+## Supported observations
+
+Three directly viewed operator-linked frames depict entrance signage and turf facade, a mist room, and a timber sauna with a water-facing window. [S18](https://cdn.sanity.io/images/lf2d8f6r/production/2876578bc0f6f718a4033561a0c710ba3d143d66-2500x1667.jpg?auto=format&fit=max&q=75&w=3840) [S19](https://cdn.sanity.io/images/lf2d8f6r/production/03f58cddadfbf34fcc7b596193b10c7f5056d99a-2500x1667.jpg?auto=format&fit=max&q=75&w=3840) [S20](https://cdn.sanity.io/images/lf2d8f6r/production/7dcdd0f324066ba0597d5d590e74bc9acb2739f4-2500x1667.jpg?auto=format&fit=max&q=75&w=3840) Accessed 2026-09-09.
+
+The original inspected photograph shows a foreground bather leaning back, surface mist, dark rocks at right, low-angle warm light and an open horizon at left. [S10](https://images.ctfassets.net/a68ipajj4t9l/6yOp3JOrnFxmXesV9hALZQ/233aa9b7456c03d80ea2640b61c532eb/SkyLagoon_2.jpg?q=60&w=2400) Earlier direct image inspection 2026-09-09; not re-viewed in this correction. No staff, changing area or access device is visible in that frame; absence from a photograph is not absence at the venue. Solitary relaxation is a plausible compositional reading, not the subject’s verified emotion. Ask readers what practical claims they infer, then compare with verified route information; no comprehension result is available.
 
 ## Interpretation
 
-The frame isolates a bodily pose and expansive setting, making solitary relaxation a plausible intended reading. That is a compositional interpretation, not a claim about the person's emotions or the photographer's intent. The image does not establish quietness, temperature, visitor density, privacy or restorative benefit.
+A practical image inventory could include preparation, assistance and departure alongside aspirational frames. This is a proposed content need, not a proven conversion improvement.
 
-Photography as Proof needs a narrower claim than general attraction imagery. This asset can illustrate a marketed scene but cannot prove a complete accessible route, consent practice, staffing coverage or what an admission includes. The absence of an access device from one image is not proof that no device exists.
+## Material unanswered questions
 
-## Coverage and gaps
+- Official website sequence, responsive crops and desktop/mobile hierarchy were not observed.
+- Changing access, assistance, boarding and exit are not represented in this new sample.
 
-Only one image was inspected; the full institutional gallery, mobile crops, carousel order, alternative text and responsive page were not observed. The browser was unavailable and the institutional pages returned shells. No whole-site photographic verdict is warranted.
+Rating reason: Three additional frames widen the sample; it remains purposive rather than representative of the whole website or physical experience.
 
-To falsify the useful-proof hypothesis, ask prospective guests which practical questions the image answers, then compare their inferences with verified service information. Add route and facility evidence only if permission and suitable sources are obtained. No image is republished in this dossier; it remains a cited public source. No confidence increase or demonstrated guest outcome follows from this inspection.
+Next evidence: Connect an available browser and inspect real desktop/mobile pages, including practical-information imagery.
+
+## Evidence boundary and history
+
+Operational validation and pattern maturity are unchanged. Original 2026-09-09 observations remain byte-exact in the revision workflow archive identified in README; they are dated history, not additional corroboration. [Coverage](coverage.json) · [Sources](sources.json) · [Research summary](README.md#research-summary).

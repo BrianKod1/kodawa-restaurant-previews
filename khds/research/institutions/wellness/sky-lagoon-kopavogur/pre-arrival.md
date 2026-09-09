@@ -1,24 +1,39 @@
 <!-- KHDS {"caseNumber":22,"institutionName":"Sky Lagoon","slug":"sky-lagoon-kopavogur","institutionType":"Geothermal bathing and wellness venue","sector":"wellness","canonicalPath":"khds/research/institutions/wellness/sky-lagoon-kopavogur/"} -->
 # Sky Lagoon — pre-arrival
 
-Case #22
+Case #22. Research access: 2026-09-09.
 
-Research disposition saved 2026-09-09. Focus: translating a purchased route into usable preparation without assuming that every guest has the same needs.
+Public-evidence coverage: partial
 
-## Observations
+## Research question
 
-Pursuit's public brochure names public and private changing options. It does not explain accommodation allocation or assistance procedures. [Operator brochure, Sky Lagoon section](https://brochure.pursuitcollection.com/iceland/), accessed 2026-09-09; published institutional claim, proof level 1, undated content.
+What accessibility, changing and assistance information is published, and what must be confirmed?
 
-Icelandair's package terms say that a recorded special request does not guarantee fulfilment and ask customers to raise relevant needs before confirmation. [Package terms, Special Request / Fitness to Travel / Impaired mobility](https://www.icelandair.com/support/terms-and-conditions/packages/), accessed 2026-09-09; seller's rule, level 2. This does not establish Sky Lagoon's own accommodation policy.
+Scope: Question is newly explicit. Before rating is retrospective using this same question. Sufficient applies only to this stated public-source question, not the whole dimension or operational outcomes.
+
+## Supported observations
+
+The Icelandic operator PDF describes a private accessible suite with lockers, help alarm, supported shower/toilet and a movable shower chair. It describes lifts for lagoon and cold-pool/turf-house access, loan wheelchairs and radio coordination for help. [S11](https://www.skylagoon.com/getmedia/943731c9-ded9-4487-ab0d-911889ce61ce/Sky-Lagoon-Accessibility-Islenska.pdf) Accessed 2026-09-09.
+
+S11 is an English research paraphrase of Icelandic text, not a certified translation or safety assessment. Its publication date was not established.
+
+Icelandair’s US-facing package terms state: “we cannot guarantee that they will be fulfilled.” The surrounding Special Request / Fitness to Travel / Impaired mobility section distinguishes a documented or supplier-forwarded request from confirmation it will be met, and asks that needs be raised before booking confirmation. [S6](https://www.icelandair.com/support/terms-and-conditions/packages/) Original inspection and focused reread 2026-09-09; undated seller terms, not venue policy.
+
+Recording, forwarding and accountable acceptance are separate states. The PDF equipment list does not confirm an individual request. Nor does a paid private-changing option prove that an upgrade is necessary for accessibility. A proposed consented simulation should distinguish receipt from acceptance, identify the responsible recipient and disclose only necessary information; fulfilment, language support and information retention remain unverified.
 
 ## Interpretation
 
-The consequential preparation question is whether a requested arrangement has been accepted by the party delivering it. Recording a preference, forwarding it and confirming fulfilment are distinct states. A useful service record would show an accountable recipient and the limits of the answer, without exposing unnecessary personal detail to each intermediary.
+An equipment list is preparation evidence, not an accepted accommodation. Confirmation ownership and equipment limits remain separate.
 
-Privacy choice should also be distinguished from accessible provision. The existence of a private changing option cannot establish that a guest must buy an upgrade to obtain a necessary accommodation. No such pricing or entitlement conclusion is supported here.
+## Material unanswered questions
 
-## Gaps and falsification
+- Document date, present equipment configuration, lift limits and assistance reservation route remain unclear.
+- Independent use, companion arrangements and non-mobility access needs are not established.
 
-The official accessibility PDF found in search returned 404 on direct retrieval. Detailed chairlift, wheelchair, companion and route claims from that extract are excluded. [PDF attempted](https://www.skylagoon.com/getmedia/c3d03421-f9cc-4a2c-969f-0a1a4432e33c/Sky-Lagoon-Accessibility.pdf), accessed 2026-09-09.
+Rating reason: Primary equipment documentation now exists; current individual suitability remains unverified.
 
-Pre-visit messages, accepted accommodations, language support, allergy preparation and disclosure retention were not observed. Test a hypothetical request across seller and venue, with consent and no real sensitive data, and check whether receipt is distinguishable from acceptance. Unresolved fulfilment blocks positive claims about inclusive operations; it does not establish their absence.
+Next evidence: Obtain a dated access guide with restrictions and confirmation route. Equipment names do not establish suitability.
+
+## Evidence boundary and history
+
+Operational validation and pattern maturity are unchanged. Original 2026-09-09 observations remain byte-exact in the revision workflow archive identified in README; they are dated history, not additional corroboration. [Coverage](coverage.json) · [Sources](sources.json) · [Research summary](README.md#research-summary).

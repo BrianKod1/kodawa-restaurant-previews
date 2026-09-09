@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 1,
+  "lockInputs": "f1713063b11cb141535dc3e0748c6e24a47e7566c571e2b3ccf970bab03dd54d",
+  "path": "khds/research/institutions/wellness/sky-lagoon-kopavogur.zip",
+  "expectedHash": "0ea684556c167f9e85a66c02b4c24984e596a0e74c02bf93df47471f67facfbf",
+  "authorizationPath": "khds/research/institutions/wellness/sky-lagoon-kopavogur.zip",
+  "authorizationHash": "0ea684556c167f9e85a66c02b4c24984e596a0e74c02bf93df47471f67facfbf",
+  "authorizedBy": "Brian Kodawa",
+  "reason": "Intentionally deleted the duplicate ZIP because the research files already exist.",
+  "date": "2026-09-09T21:25:01.541Z",
+  "controls": {
+    "scripts/khds-revise.mjs": "8e0ba79637691d425bb8f882648db9ca4db4dd3ca5e10b1d5127268573046f1d",
+    "scripts/tests/khds-revision.test.mjs": "39f2493e9d4795d22c4cff0fd601fc3efd77b6306286cb8947a61d283395a7ce"
+  }
+}
