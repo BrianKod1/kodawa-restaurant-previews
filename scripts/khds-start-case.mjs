@@ -34,6 +34,7 @@ function finishStart(root,j,{dryRun=false}={}){
  return a;
 }
 export function start(root,options){
+ if(fs.existsSync(safe(root,'khds/state/revision.json.tmp'))||(fs.existsSync(safe(root,'khds/state/revision.json'))&&read(root,'khds/state/revision.json').status!=='published'))throw Error('Active revision blocks new-case workflow');
  const s=read(root,statePath),h=read(root,historyPath);
  if(options['append-tracking-file']){
   if(!s.activeCase||s.workflowStatus!=='staging')throw Error('Tracking amendment requires an active staging case');
@@ -81,6 +82,7 @@ export function start(root,options){
  if(new Set(a.trackingChanges.map(t=>t.path)).size!==a.trackingChanges.length)throw Error('Duplicate tracking destination');
  for(const t of a.trackingChanges){if(!trackingPaths.includes(t.path))throw Error('Tracking destination not permitted');const old=fs.readFileSync(safe(root,t.path));if(hash(old)!==t.beforeSha256)throw Error("Tracking baseline hash mismatch");if(t.anchors)trackingAnchors(old.toString('utf8'),t.anchors);}
  a.requiredFiles=[...required];
+ if(options['evidence-coverage']==='yes')a.evidenceCoverageVersion=1;
  a.lockedAt=new Date().toISOString();a.baseCommit=git(root,'rev-parse','HEAD');
  if(fs.existsSync(safe(root,a.stagingPath)))throw Error('Existing staging must be recovered, never replaced');
  if(options['dry-run'])return a;

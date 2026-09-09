@@ -1,4 +1,5 @@
 import fs from 'node:fs';
+import {coverageErrors,markdownLinkErrors} from './khds-evidence.mjs';
 import path from 'node:path';
 import crypto from 'node:crypto';
 import {execFileSync} from 'node:child_process';
@@ -7,7 +8,7 @@ export const statePath = 'khds/state/current-case.json';
 export const historyPath = 'khds/state/case-history.json';
 export const startPendingPath = 'khds/state/start-pending.json';
 export const trackingPaths = ['khds/research/README.md','khds/research/validation/README.md','khds/research/validation/dashboard.md','khds/research/validation/candidate-patterns.md','khds/patterns/registry.md','khds/research/institutions-comparison/README.md','khds/research/institutions/README.md','khds/research/institutions/wellness/README.md'];
-export const controls = ['khds/AGENTS.md','.codex/skills/khds-research/SKILL.md','.codex/skills/khds-research/references/case-schema.md',statePath,historyPath,'scripts/khds-start-case.mjs','scripts/khds-validate.mjs','scripts/khds-publish.mjs','scripts/khds-review.mjs','scripts/tests/khds-control.test.mjs'];
+export const controls = ['khds/AGENTS.md','.codex/skills/khds-research/SKILL.md','.codex/skills/khds-research/references/case-schema.md',statePath,historyPath,'scripts/khds-start-case.mjs','scripts/khds-validate.mjs','scripts/khds-publish.mjs','scripts/khds-review.mjs','scripts/khds-revise.mjs','scripts/khds-evidence.mjs','scripts/tests/khds-revision.test.mjs','scripts/tests/khds-control.test.mjs'];
 export const required = ['README.md','discovery.md','reservation.md','pre-arrival.md','arrival.md','stay.md','dining.md','departure.md','atmosphere.md','photography.md','story.md','knowledge-extraction.md'];
 export const hash = data => crypto.createHash('sha256').update(data).digest('hex');
 export function trackingPlan(root,a,reviewedControls){
@@ -79,6 +80,7 @@ export function validate(root,{controlOnly=false,resumeOnly=false,allowedChanges
  const errors=[],warnings=[],add=(p,r)=>errors.push(`${p}: ${r}`);let s,h;const digest=[];
  try {
   root=path.resolve(root);if(path.resolve(git(root,'rev-parse','--show-toplevel'))!==root)throw Error('Run at repository root');
+  if(fs.existsSync(safe(root,'khds/state/revision.json.tmp'))||(fs.existsSync(safe(root,'khds/state/revision.json'))&&read(root,'khds/state/revision.json').status!=='published'))throw Error('Active revision: use khds-revise.mjs validate/resume/recover');
   s=read(root,statePath);h=read(root,historyPath);
   for(const p of [startPendingPath,startPendingPath+'.tmp',...(!reviewTransition?[statePath+'.tmp']:[])])if(fs.existsSync(safe(root,p)))add(p,'interrupted operation requires recovery');
   if(s.schemaVersion!==1||h.schemaVersion!==1)throw Error('Unsupported schema');
@@ -110,9 +112,11 @@ export function validate(root,{controlOnly=false,resumeOnly=false,allowedChanges
    if(a.requiredFiles){const journal=read(root,a.stagingPath+'/start.json');if(JSON.stringify(journal.nextState.activeCase)!==JSON.stringify(a)||JSON.stringify(journal.nextState.authorization)!==JSON.stringify(s.authorization))add(statePath,'start journal differs from active lock/authorization');digest.push([a.stagingPath+'/start.json',hash(JSON.stringify(journal))]);}
    if(fs.existsSync(safe(root,a.canonicalPath)))add(a.canonicalPath,'destination already exists');
    const staged=files(root,a.stagingPath);for(const p of staged)allowed.add(p);
-   const expected=new Set(['lock.json','tracking-plan.json','review.json',...(reviewTransition?['review.json.tmp']:[]),...(a.requiredFiles?['start.json']:[]),...required.map(f=>'dossier/'+f),...plan.trackingChanges.map((_,i)=>`tracking/${i}.md`)]);
+   const expected=new Set(['lock.json','tracking-plan.json','dossier/coverage.json','dossier/sources.json','review.json',...(reviewTransition?['review.json.tmp']:[]),...(a.requiredFiles?['start.json']:[]),...required.map(f=>'dossier/'+f),...plan.trackingChanges.map((_,i)=>`tracking/${i}.md`)]);
    for(const p of staged)if(!expected.has(p.slice(a.stagingPath.length+1)))add(p,'unexpected staging file');
    if(!controlOnly&&!resumeOnly)for(const f of required)if(!fs.existsSync(safe(root,a.stagingPath+'/dossier/'+f)))add(a.stagingPath+'/dossier/'+f,'missing required dossier file');
+   if(!controlOnly&&!resumeOnly&&(a.evidenceCoverageVersion===1||fs.existsSync(safe(root,a.stagingPath+'/dossier/coverage.json'))))for(const error of coverageErrors(read(root,a.stagingPath+'/dossier/coverage.json'),read(root,a.stagingPath+'/dossier/sources.json')))add(a.stagingPath,error);
+   for(const n of ['coverage.json','sources.json']){const p=a.stagingPath+'/dossier/'+n;if(fs.existsSync(safe(root,p)))digest.push([p,hash(fs.readFileSync(safe(root,p)))]);}
    const prior=[...h.cases,...h.priorIdentities].filter(x=>x.slug!==a.slug);
    for(const p of staged.filter(x=>!controlOnly&&x.endsWith('.md'))){
     const content=fs.readFileSync(safe(root,p),'utf8');digest.push([p,hash(content)]);
@@ -131,10 +135,9 @@ export function validate(root,{controlOnly=false,resumeOnly=false,allowedChanges
     for(const m of active.matchAll(/(?:current|next)\s+(?:research\s+)?case\s*[:#-]?\s*(\d+)/gi))if(+m[1]!==a.caseNumber+(m[0].toLowerCase().startsWith('next')?1:0))add(p,`conflicting active statement: ${m[0]}`);
     const lines=content.split(/\r?\n/).map(x=>x.trim()).filter(Boolean),seen=new Set();for(let i=0;i<=lines.length-12;i++){const block=lines.slice(i,i+12).join('\n');if(block.length<400)continue;if(seen.has(block)){add(p,'duplicate substantial section (12 nonblank lines)');break;}seen.add(block);}
     if(Buffer.byteLength(content)>100000)add(p,'file exceeds 100000-byte growth limit');
-    const refs=[...content.matchAll(/\]\(([^)]+)\)/g)].map(m=>m[1]);refs.push(...[...content.matchAll(/\bkhds\/[a-zA-Z0-9_./-]+/g)].map(m=>m[0]));
-    for(let ref of refs){ref=ref.replace(/^<|>$/g,'').split('#')[0];if(!ref||/^(https?:|mailto:)/.test(ref))continue;
-     try{let target=ref.startsWith('khds/')?ref:path.posix.normalize(path.posix.join(a.canonicalPath,decodeURIComponent(ref)));if(target.startsWith(a.canonicalPath))target=a.stagingPath+'/dossier/'+target.slice(a.canonicalPath.length);if(!fs.existsSync(safe(root,target)))add(p,`missing internal path: ${ref}`);}catch(e){add(p,e.message);}
-    }
+    const location=p.includes('/dossier/')?a.canonicalPath+p.split('/dossier/')[1]:plan.trackingChanges[Number(path.basename(p,'.md'))]?.path;
+    if(location)for(const error of markdownLinkErrors(root,content,location,target=>target.startsWith(a.canonicalPath)?a.stagingPath+'/dossier/'+target.slice(a.canonicalPath.length):target))add(p,error);
+
    }
    for(const [i,t] of plan.trackingChanges.entries()){safe(root,t.path);if(!trackingPaths.includes(t.path))add(t.path,'tracking destination not permitted');const old=fs.readFileSync(safe(root,t.path));const replacement=a.stagingPath+`/tracking/${i}.md`;if(!fs.existsSync(safe(root,replacement))){if(!controlOnly&&!resumeOnly)add(replacement,'missing tracking replacement');}else {try{const assembled=trackingData(root,effective,i);if(!controlOnly&&!resumeOnly){const newText=fs.readFileSync(safe(root,replacement),'utf8');for(const error of publicationSummaryErrors(newText,a,h))add(replacement,error);const summary=assembled.toString('utf8').match(/<!-- KHDS-CURRENT-START -->[\s\S]*?<!-- KHDS-CURRENT-END -->/g)||[];if(summary.length!==1)add(t.path,'assembled canonical current summary missing or duplicated');}}catch(e){add(replacement,e.message);}}if(hash(old)!==t.beforeSha256)add(t.path,'tracking source changed since lock');}
   }else if(!controlOnly)add(statePath,'no active staged case');
