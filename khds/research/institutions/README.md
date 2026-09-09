@@ -2,10 +2,22 @@
 
 ## Status
 
-Expansion began with **KHDS Case #21 — Fogo Island Inn**. Its public-evidence dossier is complete; administrative closure is complete at public-evidence scope as recorded in `khds/state/current-case.json`.
+<!-- KHDS-CURRENT-START -->
+Latest completed case: #22 — Sky Lagoon
+Completed institution dossiers: 2
+Prior closure: Case #21 remains closed at public-evidence scope.
+Next case: #23 — unselected and unstarted; research not authorized.
+Pattern totals: 26/8/1/0/0 (Candidate/Emerging/Partially Supported/Validated/research-derived Principles).
+Pattern confidence: unchanged.
+Research completion scope: public-evidence dossier; operational performance and outcomes remain unverified.
+<!-- KHDS-CURRENT-END -->
 
-First institution type: **Boutique Hotel**.
+Completed cases:
 
+- [Case #21 — Fogo Island Inn](khds/research/institutions/hotels/fogo-island-inn-newfoundland/README.md): closed at public-evidence scope.
+- [Sky Lagoon dossier](khds/research/institutions/wellness/sky-lagoon-kopavogur/README.md): Case #22, geothermal bathing and wellness venue, Kópavogur, Iceland; public-evidence scope.
+
+The earlier Case #21 direction below is retained historical research context.
 ## Purpose
 
 KHDS began with restaurants because dining provides a concentrated hospitality journey: discovery, arrival, atmosphere, participation, service, payment and memory.
@@ -142,5 +154,5 @@ Priority pressure areas include:
 - service recovery;
 - and post-stay relationship design.
 
-The selected institution is [Fogo Island Inn](hotels/fogo-island-inn-newfoundland/README.md). Case #22 has no selected institution and is not authorized.
+Case #21 remains closed. Case #22 is recorded above. Case #23 remains unselected and unstarted; no new research is authorized.
 

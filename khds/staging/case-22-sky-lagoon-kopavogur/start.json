@@ -1,0 +1,217 @@
+{
+  "schemaVersion": 1,
+  "baseCommit": "7714eacc8844dd4bc4741a632268f684ad59dede",
+  "previousState": "{\r\n  \"schemaVersion\": 1,\r\n  \"expectedBranch\": \"main\",\r\n  \"workflowStatus\": \"idle\",\r\n  \"latestCompletedCase\": {\r\n    \"caseNumber\": 21,\r\n    \"institutionName\": \"Fogo Island Inn\",\r\n    \"slug\": \"fogo-island-inn-newfoundland\",\r\n    \"institutionType\": \"Boutique-scale luxury hotel / inn\",\r\n    \"sector\": \"hotels\",\r\n    \"canonicalPath\": \"khds/research/institutions/hotels/fogo-island-inn-newfoundland/\",\r\n    \"dossierComplete\": true,\r\n    \"administrativeReconciliation\": true\r\n  },\r\n  \"expectedNextCase\": 22,\r\n  \"researchAuthorized\": false,\r\n  \"authorization\": null,\r\n  \"activeCase\": null,\r\n  \"disagreements\": [],\r\n  \"publication\": null,\r\n  \"reconciliationRecord\": {\r\n    \"scope\": \"Case #21 administratively closed at public-evidence scope; local changes uncommitted for review\",\r\n    \"controlCheckpoint\": \"5259bf1\",\r\n    \"correctedIssues\": [\r\n      {\r\n        \"path\": \"khds/research/institutions/hotels/fogo-island-inn-newfoundland/knowledge-extraction.md\",\r\n        \"reason\": \"Lines 14-15 and 3761-3763 say comparison and reconciliation pending; comparison and governance records say complete.\"\r\n      },\r\n      {\r\n        \"path\": \"khds/research/institutions/README.md\",\r\n        \"reason\": \"Line 145 still defers selection of Case #21 institution.\"\r\n      },\r\n      {\r\n        \"path\": \"khds/research/validation/README.md\",\r\n        \"reason\": \"Line 14703 says next Case #21; line 16803 says next Case #22.\"\r\n      },\r\n      {\r\n        \"path\": \"khds/research/README.md\",\r\n        \"reason\": \"Validation README mirror remains Next at line 15284 despite its completion claim.\"\r\n      },\r\n      {\r\n        \"path\": \"khds/research/institutions/hotels/fogo-island-inn-newfoundland/\",\r\n        \"reason\": \"22 dossier path references omit hotels/; legacy comparison/ references also survive the directory rename.\"\r\n      }\r\n    ],\r\n    \"verifiedStages\": [\r\n      \"12-file public-evidence dossier\",\r\n      \"Institution comparison units, sector adapters and Case #21 seed\",\r\n      \"Canonical no-promotion decision and unchanged 26/8/1/0/0 maturity totals\",\r\n      \"Local canonical path and active-status corrections\",\r\n      \"Original completion checklist and F01-F12 dispositions recorded without claiming resolved operational outcomes\",\r\n      \"Current primary road/ferry sources compared; exact road duration remains uncertain\"\r\n    ],\r\n    \"unverified\": [\r\n      \"F01-F12 empirical outcomes and detailed operational tests remain unresolved; no positive promotion or validation\",\r\n      \"Exact Gander-to-Farewell road duration; current primary estimates conflict\",\r\n      \"Cross-institution recurrence; no second institution researched\"\r\n    ]\r\n  },\r\n  \"administrativeReview\": {\r\n    \"date\": \"2026-09-08\",\r\n    \"dispositionPath\": \"khds/research/institutions/hotels/fogo-island-inn-newfoundland/knowledge-extraction.md\",\r\n    \"travelReviewPath\": \"khds/research/institutions/hotels/fogo-island-inn-newfoundland/arrival.md\",\r\n    \"basis\": \"README public-evidence scope and non-inference rules; complete research dispositions, not operational proof\",\r\n    \"durationStatus\": \"uncertain\",\r\n    \"patternDecision\": \"no-promotion\",\r\n    \"patternValidated\": false,\r\n    \"confidenceChanges\": 0\r\n  }\r\n}\r\n",
+  "nextState": {
+    "schemaVersion": 1,
+    "expectedBranch": "main",
+    "workflowStatus": "staging",
+    "latestCompletedCase": {
+      "caseNumber": 21,
+      "institutionName": "Fogo Island Inn",
+      "slug": "fogo-island-inn-newfoundland",
+      "institutionType": "Boutique-scale luxury hotel / inn",
+      "sector": "hotels",
+      "canonicalPath": "khds/research/institutions/hotels/fogo-island-inn-newfoundland/",
+      "dossierComplete": true,
+      "administrativeReconciliation": true
+    },
+    "expectedNextCase": 22,
+    "researchAuthorized": true,
+    "authorization": {
+      "approvedBy": "Brian Kodawa (explicit Case #22 pilot authorization, 2026-09-09)",
+      "approvedAt": "2026-09-09T17:20:21.270Z",
+      "identity": {
+        "caseNumber": 22,
+        "institutionName": "Sky Lagoon",
+        "slug": "sky-lagoon-kopavogur",
+        "institutionType": "Geothermal bathing and wellness venue",
+        "sector": "wellness",
+        "canonicalPath": "khds/research/institutions/wellness/sky-lagoon-kopavogur/"
+      }
+    },
+    "activeCase": {
+      "caseNumber": 22,
+      "institutionName": "Sky Lagoon",
+      "slug": "sky-lagoon-kopavogur",
+      "institutionType": "Geothermal bathing and wellness venue",
+      "sector": "wellness",
+      "canonicalPath": "khds/research/institutions/wellness/sky-lagoon-kopavogur/",
+      "stagingPath": "khds/staging/case-22-sky-lagoon-kopavogur",
+      "trackingChanges": [
+        {
+          "path": "khds/research/README.md",
+          "beforeSha256": "eaa0b8172426cc5a6fb76ce50d9645c8aca7721a37a42e8c6833bf3e9bd46f8c",
+          "anchors": [
+            "> Active status: Case #21 — Fogo Island Inn. Public-evidence dossier complete; comparison architecture established; no maturity or confidence change. Administrative closure is complete at public-evidence scope, with unresolved validation outcomes recorded in `khds/state/current-case.json`. Case #22 is only the expected next number: no institution selected and no research authorized.\n>\n> Historical status rule: restaurant-cycle status, count and handoff sections are retained snapshots, including any old “current”, “pending” or “next” wording. They do not supersede this opening status or the Post–Fogo Island Inn section. Existing findings and historical evidence remain unchanged.",
+            "Review the recorded public-evidence dispositions; Case #22 remains unauthorized."
+          ]
+        },
+        {
+          "path": "khds/research/validation/README.md",
+          "beforeSha256": "de93fcb6d1a3eb5500bdc6efbae7fe3c3d21979b9c815af45e09e407769c89fd",
+          "anchors": [
+            "> Active status: Case #21 — Fogo Island Inn. Public-evidence dossier complete; comparison architecture established; no maturity or confidence change. Administrative closure is complete at public-evidence scope, with unresolved validation outcomes recorded in `khds/state/current-case.json`. Case #22 is only the expected next number: no institution selected and no research authorized.\n>\n> Historical status rule: restaurant-cycle status, count and handoff sections are retained snapshots, including any old “current”, “pending” or “next” wording. They do not supersede this opening status or the Post–Fogo Island Inn section. Existing findings and historical evidence remain unchanged.",
+            "Review the recorded public-evidence dispositions. Case #22 remains unselected and unauthorized."
+          ]
+        },
+        {
+          "path": "khds/research/validation/dashboard.md",
+          "beforeSha256": "e4c35235aaab900f988f02d5b8cd7f03295138eb28734a7d96ef99a2e0bca5f2",
+          "anchors": [
+            "> Active status: Case #21 — Fogo Island Inn. Public-evidence dossier complete; comparison architecture established; no maturity or confidence change. Administrative closure is complete at public-evidence scope, with unresolved validation outcomes recorded in `khds/state/current-case.json`. Case #22 is only the expected next number: no institution selected and no research authorized.\n>\n> Historical status rule: restaurant-cycle status, count and handoff sections are retained snapshots, including any old “current”, “pending” or “next” wording. They do not supersede this opening status or the Post–Fogo Island Inn section. Existing findings and historical evidence remain unchanged.",
+            "Review the recorded public-evidence dispositions. Case #22 has no selected institution and no research authorization."
+          ]
+        },
+        {
+          "path": "khds/research/validation/candidate-patterns.md",
+          "beforeSha256": "20b449243dfb25136a1e71c31851c0cbbbb42348643d7b5e02af3604680c5dbb",
+          "anchors": [
+            "> Active status: Case #21 — Fogo Island Inn. Public-evidence dossier complete; comparison architecture established; no maturity or confidence change. Administrative closure is complete at public-evidence scope, with unresolved validation outcomes recorded in `khds/state/current-case.json`. Case #22 is only the expected next number: no institution selected and no research authorized.\r\n>\r\n> Historical status rule: restaurant-cycle status, count and handoff sections are retained snapshots, including any old “current”, “pending” or “next” wording. They do not supersede this opening status or the Post–Fogo Island Inn section. Existing findings and historical evidence remain unchanged."
+          ]
+        },
+        {
+          "path": "khds/patterns/registry.md",
+          "beforeSha256": "768d239529058efd087905b4ac6f13ba15bd06fb1af40bdcef2ea378f9bd371c",
+          "anchors": [
+            "> Active status: Case #21 — Fogo Island Inn. Public-evidence dossier complete; comparison architecture established; no maturity or confidence change. Administrative closure is complete at public-evidence scope, with unresolved validation outcomes recorded in `khds/state/current-case.json`. Case #22 is only the expected next number: no institution selected and no research authorized.\r\n>\r\n> Historical status rule: restaurant-cycle status, count and handoff sections are retained snapshots, including any old “current”, “pending” or “next” wording. They do not supersede this opening status or the Post–Fogo Island Inn section. Existing findings and historical evidence remain unchanged.",
+            "Review the recorded public-evidence dispositions; Case #22 remains unauthorized."
+          ]
+        },
+        {
+          "path": "khds/research/institutions-comparison/README.md",
+          "beforeSha256": "9fa507480e76a9d6db30662b0cd38c83225f51d4fb51c0935bee0403316c87ab",
+          "anchors": [
+            "KHDS Institution-Comparison Architecture\r\n\r\nStatus\r\n\r\nArchitecture status: Established\r\nEstablished after: KHDS Case #21 — Fogo Island Inn\r\nResearch track: Track A — Independent Hospitality Institution Research\r\nComparison type: Cross-institution and cross-sector comparison\r\nFirst seeded case: Fogo Island Inn, Newfoundland and Labrador\r\nCompleted institution cases represented: 1 locally complete case\r\nCross-institution recurrence status: Not yet testable\r\nCanonical governance changes: None\r\nCanonical authority: khds/research/validation/candidate-patterns.md\r\nArchitecture date: 2026-09-08\r\n\r\n",
+            "The canonical no-promotion decision and first-case architecture are recorded. Administrative closure is complete at public-evidence scope; the disposition table in the Fogo knowledge extraction preserves unresolved validation outcomes. No Case #22 institution is selected or authorized."
+          ]
+        }
+      ],
+      "requiredFiles": [
+        "README.md",
+        "discovery.md",
+        "reservation.md",
+        "pre-arrival.md",
+        "arrival.md",
+        "stay.md",
+        "dining.md",
+        "departure.md",
+        "atmosphere.md",
+        "photography.md",
+        "story.md",
+        "knowledge-extraction.md"
+      ],
+      "lockedAt": "2026-09-09T17:20:21.278Z",
+      "baseCommit": "7714eacc8844dd4bc4741a632268f684ad59dede"
+    },
+    "disagreements": [],
+    "publication": null,
+    "reconciliationRecord": {
+      "scope": "Case #21 administratively closed at public-evidence scope; local changes uncommitted for review",
+      "controlCheckpoint": "5259bf1",
+      "correctedIssues": [
+        {
+          "path": "khds/research/institutions/hotels/fogo-island-inn-newfoundland/knowledge-extraction.md",
+          "reason": "Lines 14-15 and 3761-3763 say comparison and reconciliation pending; comparison and governance records say complete."
+        },
+        {
+          "path": "khds/research/institutions/README.md",
+          "reason": "Line 145 still defers selection of Case #21 institution."
+        },
+        {
+          "path": "khds/research/validation/README.md",
+          "reason": "Line 14703 says next Case #21; line 16803 says next Case #22."
+        },
+        {
+          "path": "khds/research/README.md",
+          "reason": "Validation README mirror remains Next at line 15284 despite its completion claim."
+        },
+        {
+          "path": "khds/research/institutions/hotels/fogo-island-inn-newfoundland/",
+          "reason": "22 dossier path references omit hotels/; legacy comparison/ references also survive the directory rename."
+        }
+      ],
+      "verifiedStages": [
+        "12-file public-evidence dossier",
+        "Institution comparison units, sector adapters and Case #21 seed",
+        "Canonical no-promotion decision and unchanged 26/8/1/0/0 maturity totals",
+        "Local canonical path and active-status corrections",
+        "Original completion checklist and F01-F12 dispositions recorded without claiming resolved operational outcomes",
+        "Current primary road/ferry sources compared; exact road duration remains uncertain"
+      ],
+      "unverified": [
+        "F01-F12 empirical outcomes and detailed operational tests remain unresolved; no positive promotion or validation",
+        "Exact Gander-to-Farewell road duration; current primary estimates conflict",
+        "Cross-institution recurrence; no second institution researched"
+      ]
+    },
+    "administrativeReview": {
+      "date": "2026-09-08",
+      "dispositionPath": "khds/research/institutions/hotels/fogo-island-inn-newfoundland/knowledge-extraction.md",
+      "travelReviewPath": "khds/research/institutions/hotels/fogo-island-inn-newfoundland/arrival.md",
+      "basis": "README public-evidence scope and non-inference rules; complete research dispositions, not operational proof",
+      "durationStatus": "uncertain",
+      "patternDecision": "no-promotion",
+      "patternValidated": false,
+      "confidenceChanges": 0
+    }
+  },
+  "baselines": [
+    [
+      "khds/AGENTS.md",
+      "e42b63dfedbfddbee43fdd8d53cbf4a731ac6e53a81debfae2e6c5070e4552dd"
+    ],
+    [
+      ".codex/skills/khds-research/SKILL.md",
+      "071fa2705126e3338ed57ccd18c4a95dd1c501465f517f0ce4816249884224f9"
+    ],
+    [
+      ".codex/skills/khds-research/references/case-schema.md",
+      "4fbc6f9a9ed9e7a33f2fff859f3f840088908e7d66909d41ca093a9e365cd5ef"
+    ],
+    [
+      "khds/state/case-history.json",
+      "492f3334aecf29ac8103801e1c12c1ae08f66b39815fbebf20c59ff9cfd967de"
+    ],
+    [
+      "scripts/khds-start-case.mjs",
+      "e930f2a94d4610297460d49615ccac169191234d8048c55c7dd98625ff465ff3"
+    ],
+    [
+      "scripts/khds-validate.mjs",
+      "877cb6cd3b19379fe7e050ee5eae2103a4163d04d2f39633b60456b18d5553a6"
+    ],
+    [
+      "scripts/khds-publish.mjs",
+      "a8afcba579054c5db35819b5aeb9d60a88dacd7a23fb6d98fb5b25cb2c9f552f"
+    ],
+    [
+      "scripts/tests/khds-control.test.mjs",
+      "9f7378aaf345a835c9e2f3c9004142cac501e246030fd56250a96c0825b801b8"
+    ],
+    [
+      "khds/research/README.md",
+      "eaa0b8172426cc5a6fb76ce50d9645c8aca7721a37a42e8c6833bf3e9bd46f8c"
+    ],
+    [
+      "khds/research/validation/README.md",
+      "de93fcb6d1a3eb5500bdc6efbae7fe3c3d21979b9c815af45e09e407769c89fd"
+    ],
+    [
+      "khds/research/validation/dashboard.md",
+      "e4c35235aaab900f988f02d5b8cd7f03295138eb28734a7d96ef99a2e0bca5f2"
+    ],
+    [
+      "khds/research/validation/candidate-patterns.md",
+      "20b449243dfb25136a1e71c31851c0cbbbb42348643d7b5e02af3604680c5dbb"
+    ],
+    [
+      "khds/patterns/registry.md",
+      "768d239529058efd087905b4ac6f13ba15bd06fb1af40bdcef2ea378f9bd371c"
+    ],
+    [
+      "khds/research/institutions-comparison/README.md",
+      "9fa507480e76a9d6db30662b0cd38c83225f51d4fb51c0935bee0403316c87ab"
+    ]
+  ]
+}

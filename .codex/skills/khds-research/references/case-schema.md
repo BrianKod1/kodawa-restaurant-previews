@@ -32,7 +32,7 @@ Start requires a clean tree and no active or unfinished case:
 
 node scripts/khds-start-case.mjs --case <number> --name "<name>" --slug <slug> --type "<type>" --sector <sector> --destination khds/research/institutions/<sector>/<slug>/ --authorize-by "<approving user>" --dry-run
 
-Remove --dry-run only for an authorized start. Optional --tracking takes a JSON array of {path,beforeSha256} for proposed tracking changes, locked at start. Only the six tracking destinations defined by validation are supported. Empty means dossier-only; administrative review must confirm sufficient scope before marking publishable.
+Remove --dry-run only for an authorized start. Optional --tracking takes a JSON array of {path,beforeSha256} for proposed tracking changes, locked at start. The six governance destinations plus institution and wellness indexes defined by validation are supported. Empty means dossier-only; administrative review must confirm sufficient scope before marking publishable.
 
 Start checks the initial clean tree, branch, reconciliation, exact identity, duplicate names/slugs/numbers, destination and tracking baselines before writing. It records authorization and staging state without an intermediate commit. Existing committed research-authorized manifests remain supported without the flag.
 
@@ -41,6 +41,16 @@ Start first atomically writes `khds/state/start-pending.json`, containing previo
 Use `node scripts/khds-start-case.mjs --recover-start --dry-run` to inspect an interrupted start without writes, then `--recover-start` to finish it. Recovery verifies HEAD, branch, source hashes, manifest bytes and every existing artifact, allows only transaction-owned changes and never overwrites conflicting data. A fully written journal .tmp or lock/state .tmp can be finalized; truncated or conflicting bytes are preserved and require scoped review. Completed start.json remains audit evidence. Legacy orphaned locks without a journal require scoped recovery, not regeneration.
 
 After successful start, `node scripts/khds-start-case.mjs --resume` verifies the lock and existing inventory without writes. Missing files do not block resume but do block publication. Unrelated changes and identity changes block resume. Do not edit lock identity or regenerate completed files.
+
+## Append-only tracking-plan amendment
+
+During staging, extend the original plan with `node scripts/khds-start-case.mjs --append-tracking-file <JSON-file> --authorize-by "<actual approving user>" --dry-run`, then remove `--dry-run`. The input is an array of additional existing tracking destinations with exact beforeSha256 and optional unique anchors. This cannot replace or reorder the original plan, change case identity, or target paths outside the allowlist. Institution and wellness indexes are supported destinations. Existing source bytes must match their declared hashes.
+
+The command first runs control validation, rejecting unrelated changes. It writes a single atomic staging/tracking-plan.json containing the original lock hash, appended records and authorization. Original lock, manifest and start journal are unchanged. Existing or interrupted amendments cannot be overwritten; preserve a leftover .tmp for scoped recovery. No general automatic amendment recovery is provided. Resume/publication read the effective plan as original records followed by additions and bind the amendment bytes into their report.
+
+When the user authorizes focused control changes during staging, this same amendment records each changed control file's current SHA256 and original HEAD blob. Only those exact reviewed bytes are allowed by subsequent full validation; later edits or changes to their baseline invalidate the review. This grants neither a commit nor publication approval. Unrelated files remain forbidden. Run regression tests and review controls before recording the amendment.
+
+Every tracking fragment must contain exactly one `<!-- KHDS-CURRENT-START -->` / `<!-- KHDS-CURRENT-END -->` block. Required lines describe the successful publication result: `Latest completed case: #<case> — <institution>`, `Completed institution dossiers: <audited institution history count + 1>`, and `Next case: #<case+1> — unselected and unstarted; research not authorized.` Earlier closure references belong outside active identity declarations or in explicit KHDS-HISTORY blocks. Full publication validation rejects stale latest/count fields and actionable staging-only language in new text; historical blocks are excluded. The assembled file must retain exactly one current summary. Resume permits incomplete editing, but never confers publication validity. Existing unchanged baseline bodies remain historical under the explicit summary rule; inspect the assembled diff to verify that interpretation.
 
 ## Content contract
 
@@ -71,3 +81,6 @@ Multi-file publication is not crash-atomic. On interruption STOP and compare jou
 ## Limits
 
 Known names/slugs and deterministic patterns cannot detect every alias, paraphrased conflict or semantic duplicate; human review remains required. Scripts do not externally verify research claims. Initial disagreements are recorded, not repaired. The skill and flags cannot authenticate human approval. Tests use isolated temporary Git repositories; commits there only create test baselines and never touch the user's Git index.
+
+## Supported review transition
+Use the complete review/validate/publish command sequence in khds/AGENTS.md. khds-review.mjs records previous/next state and bound content in staging/review.json, then advances publishable state atomically. Explicit approval and exact identity/report are required. Changed content requires renewed review. See AGENTS.md for exact control-review and interrupted-review recovery options.

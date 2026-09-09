@@ -1,11 +1,11 @@
 import fs from 'node:fs';
 import path from 'node:path';
 import {fileURLToPath} from 'node:url';
-import {validate,report,read,safe,files,hash,atomic,statePath,historyPath,trackingData} from './khds-validate.mjs';
+import {validate,report,read,safe,files,hash,atomic,statePath,historyPath,trackingData,trackingPlan} from './khds-validate.mjs';
 import {args} from './khds-start-case.mjs';
 export function publish(root,options){
  const result=validate(root);report(result);if(!result.ok)throw Error('Validation failed; publication blocked');
- const s=result.state,a=s.activeCase;
+ const s=result.state,a={...s.activeCase,trackingChanges:trackingPlan(root,s.activeCase).trackingChanges};
  if(!options['dry-run']&&s.workflowStatus!=='publishable')throw Error('Manifest is not publishable');
  if(!options['dry-run']&&!options.confirm)throw Error('Explicit --confirm requires user approval after the validation report');
  if(options.report!==result.digest)throw Error('Approval report digest missing or stale');

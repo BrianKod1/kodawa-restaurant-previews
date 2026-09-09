@@ -3,21 +3,24 @@
   "expectedBranch": "main",
   "workflowStatus": "idle",
   "latestCompletedCase": {
-    "caseNumber": 21,
-    "institutionName": "Fogo Island Inn",
-    "slug": "fogo-island-inn-newfoundland",
-    "institutionType": "Boutique-scale luxury hotel / inn",
-    "sector": "hotels",
-    "canonicalPath": "khds/research/institutions/hotels/fogo-island-inn-newfoundland/",
+    "caseNumber": 22,
+    "institutionName": "Sky Lagoon",
+    "slug": "sky-lagoon-kopavogur",
+    "institutionType": "Geothermal bathing and wellness venue",
+    "sector": "wellness",
+    "canonicalPath": "khds/research/institutions/wellness/sky-lagoon-kopavogur/",
     "dossierComplete": true,
     "administrativeReconciliation": true
   },
-  "expectedNextCase": 22,
+  "expectedNextCase": 23,
   "researchAuthorized": false,
   "authorization": null,
   "activeCase": null,
   "disagreements": [],
-  "publication": null,
+  "publication": {
+    "journalPath": "khds/staging/case-22-sky-lagoon-kopavogur/publication.json",
+    "status": "promoted"
+  },
   "reconciliationRecord": {
     "scope": "Case #21 administratively closed at public-evidence scope; local changes uncommitted for review",
     "controlCheckpoint": "5259bf1",
@@ -66,5 +69,52 @@
     "patternDecision": "no-promotion",
     "patternValidated": false,
     "confidenceChanges": 0
+  },
+  "reconciliationReview": {
+    "approvedBy": "Brian Kodawa",
+    "approvedAt": "2026-09-09T17:54:59.253Z",
+    "contentDigest": "0d1148a404e6d02f2bb18e5b862b8bae5bc8a84769c9493e1c6ff47c042208df",
+    "controlChanges": [
+      {
+        "path": ".codex/skills/khds-research/SKILL.md",
+        "baseBlob": "ffb61fdc4a1def630f54a06165e4f4c23c6603bd",
+        "sha256": "952d99d513812db56159c0d1e05bf0cb39c022a183161f151f0ac7e5baf6ce6c"
+      },
+      {
+        "path": ".codex/skills/khds-research/references/case-schema.md",
+        "baseBlob": "904c972e51eeb154fc5164f2feeab2f591a1d36d",
+        "sha256": "98c5ef5da9521f5e02da4e934696d12e172e065c0abada83eaf2a6627b3fd0a6"
+      },
+      {
+        "path": "khds/AGENTS.md",
+        "baseBlob": "0c4ff4de4a2fa5369ee93096e816860b4aa35783",
+        "sha256": "d0692703557e513dc3220cf92107c9a5e8c787d6bebfd6adcdf7bb3d8be9e137"
+      },
+      {
+        "path": "scripts/khds-publish.mjs",
+        "baseBlob": "0e59a387c5670f792bbdccc0b28b5840b9387436",
+        "sha256": "516b9df5f4be1e9db4b782502017a97a5d4b83fa40f5af91757d8b33efbed582"
+      },
+      {
+        "path": "scripts/khds-review.mjs",
+        "baseBlob": null,
+        "sha256": "2c5dec1d2ecf0194c5a171c0f6a0fedb6e143ece7fb037c428f987fae04733a7"
+      },
+      {
+        "path": "scripts/khds-start-case.mjs",
+        "baseBlob": "76f1e5802eba4c8ea5744c2e4ea720c2cea7ee31",
+        "sha256": "121243642f9ef42d5a24ec8daca257e1dbee148bd8f7ee5af1b49766935f1902"
+      },
+      {
+        "path": "scripts/khds-validate.mjs",
+        "baseBlob": "4b8415e42efee4e8215c01e224252dbc764f9220",
+        "sha256": "ebd1aec1a330cb0ad543761ec3feebe7b4b8d323f9bd9c9abf283df0776b0ae3"
+      },
+      {
+        "path": "scripts/tests/khds-control.test.mjs",
+        "baseBlob": "1d2a4d6a6bb4c3de6b20ed21b7f3963bf2ea64fc",
+        "sha256": "80bdefb79c871e55b6d3541c156c1fdc1d970c6c27ba52cb3a495d184735524f"
+      }
+    ]
   }
 }

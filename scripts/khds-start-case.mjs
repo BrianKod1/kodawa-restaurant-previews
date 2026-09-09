@@ -35,6 +35,22 @@ function finishStart(root,j,{dryRun=false}={}){
 }
 export function start(root,options){
  const s=read(root,statePath),h=read(root,historyPath);
+ if(options['append-tracking-file']){
+  if(!s.activeCase||s.workflowStatus!=='staging')throw Error('Tracking amendment requires an active staging case');
+  if(!options['authorize-by']?.trim())throw Error('Tracking amendment requires explicit authorization');
+  const a=s.activeCase,p=a.stagingPath+'/tracking-plan.json';
+  if(fs.existsSync(safe(root,p))||fs.existsSync(safe(root,p+'.tmp')))throw Error('Existing or interrupted amendment requires review; never overwrite');
+  const preflight=validate(root,{controlOnly:true});if(!preflight.ok)throw Error(preflight.errors.join('\n'));
+  const additions=JSON.parse(fs.readFileSync(options['append-tracking-file'],'utf8').replace(/^\uFEFF/,''));
+  if(!Array.isArray(additions)||!additions.length)throw Error('Expected nonempty tracking additions');
+  const combined=[...(a.trackingChanges||[]),...additions];
+  if(new Set(combined.map(t=>t.path)).size!==combined.length)throw Error('Duplicate tracking destination');
+  for(const t of combined){if(!trackingPaths.includes(t.path))throw Error('Tracking destination not permitted');const old=fs.readFileSync(safe(root,t.path));if(hash(old)!==t.beforeSha256)throw Error('Tracking baseline hash mismatch');if(t.anchors)trackingAnchors(old.toString('utf8'),t.anchors);}
+  const controlChanges=changed(root).filter(p=>controls.includes(p)&&![statePath,historyPath].includes(p)).map(p=>({path:p,baseBlob:git(root,'rev-parse','HEAD:'+p),sha256:hash(fs.readFileSync(safe(root,p)))}));
+  const plan={schemaVersion:1,baseLockSha256:hash(JSON.stringify(a)),approvedBy:options['authorize-by'].trim(),approvedAt:new Date().toISOString(),additions,controlChanges};
+  if(!options['dry-run'])atomic(root,p,plan);
+  return {dryRun:!!options['dry-run'],trackingPlan:plan};
+ }
  if(options['recover-start']){
   if(Object.keys(options).some(k=>!['recover-start','dry-run'].includes(k)))throw Error('Recovery uses the journal identity; do not supply start options');
   const p=fs.existsSync(safe(root,startPendingPath))?startPendingPath:startPendingPath+'.tmp';

@@ -1,0 +1,74 @@
+{
+  "caseNumber": 22,
+  "institutionName": "Sky Lagoon",
+  "slug": "sky-lagoon-kopavogur",
+  "institutionType": "Geothermal bathing and wellness venue",
+  "sector": "wellness",
+  "canonicalPath": "khds/research/institutions/wellness/sky-lagoon-kopavogur/",
+  "stagingPath": "khds/staging/case-22-sky-lagoon-kopavogur",
+  "trackingChanges": [
+    {
+      "path": "khds/research/README.md",
+      "beforeSha256": "eaa0b8172426cc5a6fb76ce50d9645c8aca7721a37a42e8c6833bf3e9bd46f8c",
+      "anchors": [
+        "> Active status: Case #21 — Fogo Island Inn. Public-evidence dossier complete; comparison architecture established; no maturity or confidence change. Administrative closure is complete at public-evidence scope, with unresolved validation outcomes recorded in `khds/state/current-case.json`. Case #22 is only the expected next number: no institution selected and no research authorized.\n>\n> Historical status rule: restaurant-cycle status, count and handoff sections are retained snapshots, including any old “current”, “pending” or “next” wording. They do not supersede this opening status or the Post–Fogo Island Inn section. Existing findings and historical evidence remain unchanged.",
+        "Review the recorded public-evidence dispositions; Case #22 remains unauthorized."
+      ]
+    },
+    {
+      "path": "khds/research/validation/README.md",
+      "beforeSha256": "de93fcb6d1a3eb5500bdc6efbae7fe3c3d21979b9c815af45e09e407769c89fd",
+      "anchors": [
+        "> Active status: Case #21 — Fogo Island Inn. Public-evidence dossier complete; comparison architecture established; no maturity or confidence change. Administrative closure is complete at public-evidence scope, with unresolved validation outcomes recorded in `khds/state/current-case.json`. Case #22 is only the expected next number: no institution selected and no research authorized.\n>\n> Historical status rule: restaurant-cycle status, count and handoff sections are retained snapshots, including any old “current”, “pending” or “next” wording. They do not supersede this opening status or the Post–Fogo Island Inn section. Existing findings and historical evidence remain unchanged.",
+        "Review the recorded public-evidence dispositions. Case #22 remains unselected and unauthorized."
+      ]
+    },
+    {
+      "path": "khds/research/validation/dashboard.md",
+      "beforeSha256": "e4c35235aaab900f988f02d5b8cd7f03295138eb28734a7d96ef99a2e0bca5f2",
+      "anchors": [
+        "> Active status: Case #21 — Fogo Island Inn. Public-evidence dossier complete; comparison architecture established; no maturity or confidence change. Administrative closure is complete at public-evidence scope, with unresolved validation outcomes recorded in `khds/state/current-case.json`. Case #22 is only the expected next number: no institution selected and no research authorized.\n>\n> Historical status rule: restaurant-cycle status, count and handoff sections are retained snapshots, including any old “current”, “pending” or “next” wording. They do not supersede this opening status or the Post–Fogo Island Inn section. Existing findings and historical evidence remain unchanged.",
+        "Review the recorded public-evidence dispositions. Case #22 has no selected institution and no research authorization."
+      ]
+    },
+    {
+      "path": "khds/research/validation/candidate-patterns.md",
+      "beforeSha256": "20b449243dfb25136a1e71c31851c0cbbbb42348643d7b5e02af3604680c5dbb",
+      "anchors": [
+        "> Active status: Case #21 — Fogo Island Inn. Public-evidence dossier complete; comparison architecture established; no maturity or confidence change. Administrative closure is complete at public-evidence scope, with unresolved validation outcomes recorded in `khds/state/current-case.json`. Case #22 is only the expected next number: no institution selected and no research authorized.\r\n>\r\n> Historical status rule: restaurant-cycle status, count and handoff sections are retained snapshots, including any old “current”, “pending” or “next” wording. They do not supersede this opening status or the Post–Fogo Island Inn section. Existing findings and historical evidence remain unchanged."
+      ]
+    },
+    {
+      "path": "khds/patterns/registry.md",
+      "beforeSha256": "768d239529058efd087905b4ac6f13ba15bd06fb1af40bdcef2ea378f9bd371c",
+      "anchors": [
+        "> Active status: Case #21 — Fogo Island Inn. Public-evidence dossier complete; comparison architecture established; no maturity or confidence change. Administrative closure is complete at public-evidence scope, with unresolved validation outcomes recorded in `khds/state/current-case.json`. Case #22 is only the expected next number: no institution selected and no research authorized.\r\n>\r\n> Historical status rule: restaurant-cycle status, count and handoff sections are retained snapshots, including any old “current”, “pending” or “next” wording. They do not supersede this opening status or the Post–Fogo Island Inn section. Existing findings and historical evidence remain unchanged.",
+        "Review the recorded public-evidence dispositions; Case #22 remains unauthorized."
+      ]
+    },
+    {
+      "path": "khds/research/institutions-comparison/README.md",
+      "beforeSha256": "9fa507480e76a9d6db30662b0cd38c83225f51d4fb51c0935bee0403316c87ab",
+      "anchors": [
+        "KHDS Institution-Comparison Architecture\r\n\r\nStatus\r\n\r\nArchitecture status: Established\r\nEstablished after: KHDS Case #21 — Fogo Island Inn\r\nResearch track: Track A — Independent Hospitality Institution Research\r\nComparison type: Cross-institution and cross-sector comparison\r\nFirst seeded case: Fogo Island Inn, Newfoundland and Labrador\r\nCompleted institution cases represented: 1 locally complete case\r\nCross-institution recurrence status: Not yet testable\r\nCanonical governance changes: None\r\nCanonical authority: khds/research/validation/candidate-patterns.md\r\nArchitecture date: 2026-09-08\r\n\r\n",
+        "The canonical no-promotion decision and first-case architecture are recorded. Administrative closure is complete at public-evidence scope; the disposition table in the Fogo knowledge extraction preserves unresolved validation outcomes. No Case #22 institution is selected or authorized."
+      ]
+    }
+  ],
+  "requiredFiles": [
+    "README.md",
+    "discovery.md",
+    "reservation.md",
+    "pre-arrival.md",
+    "arrival.md",
+    "stay.md",
+    "dining.md",
+    "departure.md",
+    "atmosphere.md",
+    "photography.md",
+    "story.md",
+    "knowledge-extraction.md"
+  ],
+  "lockedAt": "2026-09-09T17:20:21.278Z",
+  "baseCommit": "7714eacc8844dd4bc4741a632268f684ad59dede"
+}

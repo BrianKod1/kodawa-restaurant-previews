@@ -1,18 +1,36 @@
 KHDS Institution-Comparison Architecture
 
-Status
+<!-- KHDS-CURRENT-START -->
+Latest completed case: #22 — Sky Lagoon
+Completed institution dossiers: 2
+Prior closure: Case #21 remains closed at public-evidence scope.
+Next case: #23 — unselected and unstarted; research not authorized.
+Pattern totals: 26/8/1/0/0 (Candidate/Emerging/Partially Supported/Validated/research-derived Principles).
+Pattern confidence: unchanged.
+Research completion scope: public-evidence dossier; operational performance and outcomes remain unverified.
+<!-- KHDS-CURRENT-END -->
 
-Architecture status: Established
-Established after: KHDS Case #21 — Fogo Island Inn
-Research track: Track A — Independent Hospitality Institution Research
-Comparison type: Cross-institution and cross-sector comparison
-First seeded case: Fogo Island Inn, Newfoundland and Labrador
-Completed institution cases represented: 1 locally complete case
-Cross-institution recurrence status: Not yet testable
-Canonical governance changes: None
-Canonical authority: khds/research/validation/candidate-patterns.md
-Architecture date: 2026-09-08
+Historical status rule: earlier restaurant-cycle and Post–Fogo Island Inn status/count/handoff sections are preserved historical records. This current summary supersedes their prior active instructions; existing evidence and unresolved outcomes remain unchanged.
 
+Architecture established: 2026-09-08, after Case #21.
+Historical first seed: Fogo Island Inn, Newfoundland and Labrador.
+
+## Comparison with Fogo Island Inn
+
+[Sky Lagoon dossier](khds/research/institutions/wellness/sky-lagoon-kopavogur/README.md) uses the existing shared responsibility and guest-state methodology. The earlier Case #21 evidence remains historical comparator material; Sky Lagoon's facts were researched separately.
+
+| Comparison field | Case #22 entry |
+|---|---|
+| Identity and era | Sky Lagoon; geothermal bathing and wellness venue; Kópavogur, Iceland; sources accessed 2026-09-09, including FY2025 reporting and undated offers |
+| Scope | Day visitor, guardian and intermediary purchaser; bathing visit and onward travel; exact live duration unverified |
+| Mechanism / owner | Seller offer, published transport escalation and venue participation proposition; operating receipt not observed |
+| Stocks and entitlement | Admission, transport, changing and assistance are separate analytical stocks; offer-specific entitlement, no inventory measured |
+| Evidence | Published claims/rules/procedure, one inspected image and reported expansion activity; no demonstrated guest performance or outcomes |
+| Failure and recovery | Missed transport, unaccepted accommodation, unwanted participation and unclear closure are test questions; the public pickup escalation is not proof of successful recovery |
+| Transfer boundary | Compare responsibility across guest states, not room-nights with ritual steps; do not import full-board, ferry or social-business findings |
+| Governance | No maturity or confidence movement; completed institution count is 2; independently observed recurrence still unestablished |
+
+The complete mechanism records, source locations, proof levels, confidence boundaries and falsification dispositions are in [Sky Lagoon extraction](khds/research/institutions/wellness/sky-lagoon-kopavogur/knowledge-extraction.md). Earlier sections remain historical architecture and Case #21 snapshots; the current summary governs completion status.
 Purpose
 
 This file establishes how KHDS compares hospitality institutions that do not share one operating format.
@@ -3153,7 +3171,7 @@ and no maturity or confidence change.
 
 Current next action
 
-The canonical no-promotion decision and first-case architecture are recorded. Administrative closure is complete at public-evidence scope; the disposition table in the Fogo knowledge extraction preserves unresolved validation outcomes. No Case #22 institution is selected or authorized.
+Case #23 remains unselected and unstarted. No research is authorized for that case. Future positive maturity proposals require additional evidence; operational falsification targets remain unresolved.
 
 <!-- KHDS-HISTORY-START -->
 

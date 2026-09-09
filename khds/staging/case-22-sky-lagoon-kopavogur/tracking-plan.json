@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "baseLockSha256": "ff85202bdf7d7baaa5fe23954f15cb0ad9055f1bd3f0b5bed5eb80ecd7d5e5f8",
+  "approvedBy": "Brian Kodawa (Case #22 post-publication tracking corrections and regression tests)",
+  "approvedAt": "2026-09-09T17:43:57.794Z",
+  "additions": [
+    {
+      "path": "khds/research/institutions/README.md",
+      "beforeSha256": "47d9cafc81123a9086022fca2cf005439c8fa97df3b537a8554d1756d4ea79f5",
+      "anchors": [
+        "## Status\n\nExpansion began with **KHDS Case #21 — Fogo Island Inn**. Its public-evidence dossier is complete; administrative closure is complete at public-evidence scope as recorded in `khds/state/current-case.json`.\n\nFirst institution type: **Boutique Hotel**.\n\n",
+        "The selected institution is [Fogo Island Inn](hotels/fogo-island-inn-newfoundland/README.md). Case #22 has no selected institution and is not authorized."
+      ]
+    },
+    {
+      "path": "khds/research/institutions/wellness/README.md",
+      "beforeSha256": "e477fa0fb9478793eda2e96a0aa02023c0d9c127039f55c7f54a843dff394dce"
+    }
+  ],
+  "controlChanges": [
+    {
+      "path": ".codex/skills/khds-research/SKILL.md",
+      "baseBlob": "ffb61fdc4a1def630f54a06165e4f4c23c6603bd",
+      "sha256": "db9581fdbb13751180b8881d3e78965675cf8c7225f3046ae0bb0f0597253e36"
+    },
+    {
+      "path": ".codex/skills/khds-research/references/case-schema.md",
+      "baseBlob": "904c972e51eeb154fc5164f2feeab2f591a1d36d",
+      "sha256": "31974acd794b607f0143702a5a4303abdc0ed26bc04991a830bd4ce18fb96ec7"
+    },
+    {
+      "path": "khds/AGENTS.md",
+      "baseBlob": "0c4ff4de4a2fa5369ee93096e816860b4aa35783",
+      "sha256": "7507fa2acee0fdba06e7cd591bb1eda7f0405f2c6c53ea36e039b44622ee3019"
+    },
+    {
+      "path": "scripts/khds-publish.mjs",
+      "baseBlob": "0e59a387c5670f792bbdccc0b28b5840b9387436",
+      "sha256": "516b9df5f4be1e9db4b782502017a97a5d4b83fa40f5af91757d8b33efbed582"
+    },
+    {
+      "path": "scripts/khds-start-case.mjs",
+      "baseBlob": "76f1e5802eba4c8ea5744c2e4ea720c2cea7ee31",
+      "sha256": "121243642f9ef42d5a24ec8daca257e1dbee148bd8f7ee5af1b49766935f1902"
+    },
+    {
+      "path": "scripts/khds-validate.mjs",
+      "baseBlob": "4b8415e42efee4e8215c01e224252dbc764f9220",
+      "sha256": "a27dd84fcac5dc2d44eb30713f88aba5a95c3eefb3c1ba6abe133f191896e163"
+    },
+    {
+      "path": "scripts/tests/khds-control.test.mjs",
+      "baseBlob": "1d2a4d6a6bb4c3de6b20ed21b7f3963bf2ea64fc",
+      "sha256": "3263b3ee9b62d4826da6339d3e34ddc2145d321cb015f97d67a16776b9190800"
+    }
+  ]
+}

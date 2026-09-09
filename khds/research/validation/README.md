@@ -1,8 +1,18 @@
 KHDS Research Validation
 
-> Active status: Case #21 — Fogo Island Inn. Public-evidence dossier complete; comparison architecture established; no maturity or confidence change. Administrative closure is complete at public-evidence scope, with unresolved validation outcomes recorded in `khds/state/current-case.json`. Case #22 is only the expected next number: no institution selected and no research authorized.
->
-> Historical status rule: restaurant-cycle status, count and handoff sections are retained snapshots, including any old “current”, “pending” or “next” wording. They do not supersede this opening status or the Post–Fogo Island Inn section. Existing findings and historical evidence remain unchanged.
+<!-- KHDS-CURRENT-START -->
+Latest completed case: #22 — Sky Lagoon
+Completed institution dossiers: 2
+Prior closure: Case #21 remains closed at public-evidence scope.
+Next case: #23 — unselected and unstarted; research not authorized.
+Pattern totals: 26/8/1/0/0 (Candidate/Emerging/Partially Supported/Validated/research-derived Principles).
+Pattern confidence: unchanged.
+Research completion scope: public-evidence dossier; operational performance and outcomes remain unverified.
+<!-- KHDS-CURRENT-END -->
+
+Historical status rule: earlier restaurant-cycle and Post–Fogo Island Inn status/count/handoff sections are preserved historical records. This current summary supersedes their prior active instructions; existing evidence and unresolved outcomes remain unchanged.
+
+Case #22 research dispositions and source limitations are recorded in [Sky Lagoon dossier](khds/research/institutions/wellness/sky-lagoon-kopavogur/README.md). Administrative closure does not establish operational reliability, accessibility fulfilment or causal outcomes.
 
 Status
 
@@ -16710,7 +16720,7 @@ Pending a second institution case
 
 Next Administrative Action:
 
-Review the recorded public-evidence dispositions. Case #22 remains unselected and unauthorized.
+Case #23 remains unselected and unstarted. No research is authorized for that case. Future positive maturity proposals require additional evidence; operational falsification targets remain unresolved.
 
 Next Synthesis Gate:
 

@@ -12,6 +12,17 @@
       "administrativeReconciliation": true,
       "evidenceCommit": "3e027f8",
       "completionScope": "Public-evidence dossier administratively reconciled on 2026-09-08; F01-F12 outcomes, operational validation and exact road duration remain unresolved. No pattern promotion or confidence change."
+    },
+    {
+      "caseNumber": 22,
+      "institutionName": "Sky Lagoon",
+      "slug": "sky-lagoon-kopavogur",
+      "institutionType": "Geothermal bathing and wellness venue",
+      "sector": "wellness",
+      "canonicalPath": "khds/research/institutions/wellness/sky-lagoon-kopavogur/",
+      "dossierComplete": true,
+      "administrativeReconciliation": true,
+      "publicationJournal": "khds/staging/case-22-sky-lagoon-kopavogur/publication.json"
     }
   ],
   "priorIdentities": [
