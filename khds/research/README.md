@@ -1,18 +1,23 @@
 KHDS Research
 
 <!-- KHDS-CURRENT-START -->
-Latest completed case: #22 — Sky Lagoon
-Completed institution dossiers: 2
-Prior closure: Case #21 remains closed at public-evidence scope.
-Next case: #23 — unselected and unstarted; research not authorized.
+
+Latest completed case: #23 — Reffen, Copenhagen
+Completed institution dossiers: 3
+Prior closures: Cases #21 and #22 remain closed at public-evidence scope.
+Institution comparison: complete through Cases #21–23.
+Next case: #24 — unselected and unstarted; research not authorized.
 Pattern totals: 26/8/1/0/0 (Candidate/Emerging/Partially Supported/Validated/research-derived Principles).
 Pattern confidence: unchanged.
 Research completion scope: public-evidence dossier; operational performance and outcomes remain unverified.
+
 <!-- KHDS-CURRENT-END -->
 
 Historical status rule: earlier restaurant-cycle and Post–Fogo Island Inn status/count/handoff sections are preserved historical records. This current summary supersedes their prior active instructions; existing evidence and unresolved outcomes remain unchanged.
 
-Case #22 public-evidence research is complete: ten dimensions, an index and cross-dimensional extraction. [Sky Lagoon dossier](khds/research/institutions/wellness/sky-lagoon-kopavogur/README.md). Completed institution dossiers: 2. Direct-source access gaps remain documented.
+Case #22 public-evidence research is complete: ten dimensions, an index and cross-dimensional extraction. Sky Lagoon dossier. Completed institution dossiers: 2. Direct-source access gaps remain documented.
+
+Case #23 public-evidence research is complete: eleven dimensions, an index, cross-dimensional extraction and institution comparison. Reffen dossier. Completed institution dossiers: 3. Shared-Venue / Distributed-Responsibility Architecture is retained below formal pattern maturity; no pattern or confidence changes occur.
 
 Status
 
@@ -13455,7 +13460,7 @@ Formal Pattern
 
 Ten-Dimension Research Synthesis — Case #21
 
-1. Discovery
+Discovery
 
 Discovery is not merely:
 
@@ -13504,7 +13509,7 @@ Maturity effect:
 
 none.
 
-2. Reservation
+Reservation
 
 A hotel reservation is not only:
 
@@ -13572,7 +13577,7 @@ Maturity effect:
 
 none.
 
-3. Pre-Arrival
+Pre-Arrival
 
 Pre-arrival is the operational bridge between:
 
@@ -13622,7 +13627,7 @@ Maturity effect:
 
 none.
 
-4. Arrival
+Arrival
 
 Arrival does not begin automatically:
 
@@ -13683,7 +13688,7 @@ Maturity effect:
 
 none.
 
-5. Stay
+Stay
 
 The stay adds:
 
@@ -13745,7 +13750,7 @@ Maturity effect:
 
 none.
 
-6. Dining
+Dining
 
 Full-board dining is not:
 
@@ -13809,7 +13814,7 @@ Maturity effect:
 
 none.
 
-7. Departure
+Departure
 
 Departure is not complete when:
 
@@ -13872,7 +13877,7 @@ Maturity effect:
 
 none.
 
-8. Atmosphere
+Atmosphere
 
 Hotel atmosphere must survive:
 
@@ -13932,7 +13937,7 @@ Maturity effect:
 
 none.
 
-9. Photography
+Photography
 
 Hotel photography carries unusually consequential proof responsibility.
 
@@ -14001,7 +14006,7 @@ Maturity effect:
 
 none.
 
-10. Story
+Story
 
 The public story spans:
 
@@ -14982,51 +14987,51 @@ Current Research Folder Structure — Post Case #21
 
 khds/
 └── research/
-    ├── README.md
-    ├── restaurants/
-    │   └── twenty completed restaurant dossiers
-    ├── institutions/
-    │   ├── README.md
-    │   ├── hotels/
-    │   │   ├── README.md
-    │   │   └── fogo-island-inn-newfoundland/
-    │   │       ├── README.md
-    │   │       ├── discovery.md
-    │   │       ├── reservation.md
-    │   │       ├── pre-arrival.md
-    │   │       ├── arrival.md
-    │   │       ├── stay.md
-    │   │       ├── dining.md
-    │   │       ├── departure.md
-    │   │       ├── atmosphere.md
-    │   │       ├── photography.md
-    │   │       ├── story.md
-    │   │       └── knowledge-extraction.md
-    │   ├── wellness/
-    │   └── venues/
-    ├── institutions-comparison/
-    │   └── README.md
-    ├── comparison/
-    │   ├── arrival.md
-    │   ├── atmosphere.md
-    │   ├── photography.md
-    │   ├── reservation.md
-    │   └── story.md
-    ├── synthesis/
-    │   └── README.md
-    └── validation/
-        ├── candidate-patterns.md
-        ├── dashboard.md
-        └── README.md
+├── README.md
+├── restaurants/
+│   └── twenty completed restaurant dossiers
+├── institutions/
+│   ├── README.md
+│   ├── hotels/
+│   │   ├── README.md
+│   │   └── fogo-island-inn-newfoundland/
+│   │       ├── README.md
+│   │       ├── discovery.md
+│   │       ├── reservation.md
+│   │       ├── pre-arrival.md
+│   │       ├── arrival.md
+│   │       ├── stay.md
+│   │       ├── dining.md
+│   │       ├── departure.md
+│   │       ├── atmosphere.md
+│   │       ├── photography.md
+│   │       ├── story.md
+│   │       └── knowledge-extraction.md
+│   ├── wellness/
+│   └── venues/
+├── institutions-comparison/
+│   └── README.md
+├── comparison/
+│   ├── arrival.md
+│   ├── atmosphere.md
+│   ├── photography.md
+│   ├── reservation.md
+│   └── story.md
+├── synthesis/
+│   └── README.md
+└── validation/
+├── candidate-patterns.md
+├── dashboard.md
+└── README.md
 
 Directory distinction:
 
 institutions/
-=
+
 individual institution dossiers by category
 
 institutions-comparison/
-=
+
 cross-institution comparison architecture and future ledgers
 
 Current Research Priorities — Post Case #21
@@ -15406,6 +15411,577 @@ from restaurant comparison
 into:
 
 institution transfer research.
+
+The maturity threshold remains intact.
+
+Evidence wins.
+
+Current Research Position — Post Case #23
+
+Research-cycle identity
+
+Latest completed Track A case:
+
+KHDS Case #23 — Reffen, Copenhagen
+
+Institution type:
+
+Open-air street-food market and cultural hospitality venue
+
+Completed institution dossiers:
+
+3
+
+Institution comparison status:
+
+Complete through Cases #21–23
+
+Canonical governance source:
+
+khds/research/validation/candidate-patterns.md
+
+Research README governance role:
+
+Research-system overview and governance mirror
+
+Current KHDS research population
+
+Research population
+
+Current state
+
+Case #23 movement
+
+Independent restaurants
+
+20
+
+0
+
+Completed institution dossiers
+
+3
+
++1
+
+Track B production-validation cases
+
+1
+
+0
+
+Track C synthesis builds
+
+1
+
+0
+
+Completed institution cases:
+
+KHDS Case #21 — Fogo Island Inn — hotel / inn
+
+KHDS Case #22 — Sky Lagoon — wellness venue
+
+KHDS Case #23 — Reffen — multi-operator food-and-cultural venue
+
+Case #23 research completion
+
+Research component
+
+Status
+
+Institution README
+
+Complete
+
+Discovery
+
+Complete
+
+Reservation / access
+
+Complete
+
+Pre-arrival
+
+Complete
+
+Arrival
+
+Complete
+
+Participation
+
+Complete
+
+Dining
+
+Complete
+
+Events
+
+Complete
+
+Departure
+
+Complete
+
+Atmosphere
+
+Complete
+
+Photography
+
+Complete
+
+Story
+
+Complete
+
+Knowledge extraction
+
+Complete
+
+Institution comparison
+
+Complete
+
+Canonical reconciliation
+
+Complete
+
+Pattern Registry mirror
+
+Complete
+
+Validation Dashboard mirror
+
+Complete
+
+Research README mirror
+
+Complete
+
+Completion scope:
+
+Public evidence.
+
+Operational performance and outcomes remain unverified.
+
+Case #23 research contribution
+
+Reffen tests KHDS in a hospitality environment where one guest-facing place is delivered through:
+
+independent food and beverage operators,
+
+shared seating,
+
+venue-managed infrastructure,
+
+operator-specific inventories and queues,
+
+temporary event states,
+
+external transport,
+
+and several responsibility owners.
+
+The decisive boundary is:
+
+One Guest-Facing Place
+
+≠
+
+One Hospitality Operator
+
+The strongest transferable rule is:
+
+Preserve operator difference, but never make the guest discover responsibility only after something fails.
+
+Architecture added below pattern maturity
+
+Shared-Venue / Distributed-Responsibility Architecture
+
+Definition:
+
+One guest-facing place whose products, transactions, inventories, programmes and recovery responsibilities are distributed across independent or semi-independent actors.
+
+Status:
+
+Architecture family below formal pattern maturity
+
+It does not enter:
+
+Emerging,
+
+Candidate,
+
+Validated,
+
+or research-derived Principle maturity.
+
+It requires another independent same-class case and stronger operational evidence.
+
+Institution-comparison position
+
+Cases #21–23 now allow comparison across:
+
+a multi-day hotel / inn journey,
+
+a bounded wellness visit,
+
+and an open, distributed multi-operator venue visit.
+
+Provisional recurrence appears in:
+
+responsibility continuity through changing guest states,
+
+decomposed capacity,
+
+entitlement / fulfilment separation,
+
+and published recovery route / verified recovery performance separation.
+
+Three Cross-Sector Cases
+
+Enable Comparison.
+
+They Do Not Establish Validation.
+
+Sector-specific differences remain explicit.
+
+The comparison does not collapse:
+
+overnight custody into day participation,
+
+bounded admission into open access,
+
+one institutional operator into many independent operators,
+
+room inventory into vendor inventory,
+
+or private-room states into shared-space states.
+
+Current canonical research state
+
+Pattern state
+
+Count
+
+Case #23 movement
+
+Candidate
+
+26
+
+0
+
+Emerging
+
+8
+
+0
+
+Partially Supported
+
+1
+
+0
+
+Validated
+
+0
+
+0
+
+Research-derived KHDS Principles
+
+0
+
+0
+
+Candidate confidence:
+
+Confidence
+
+Count
+
+Case #23 movement
+
+High
+
+9
+
+0
+
+Medium-High
+
+8
+
+0
+
+Medium
+
+9
+
+0
+
+Total
+
+26
+
+0
+
+Formal Case #23 movement:
+
+Candidate Promotions: 0
+Confidence Changes: 0
+Review-State Changes: 0
+Demotions: 0
+Renames: 0
+Merges: 0
+Validated Promotions: 0
+Research-Derived Principle Promotions: 0
+
+All 26 Candidates retain their existing maturity and confidence.
+
+All 8 Emerging patterns remain Emerging.
+
+Own the Guest Relationship remains Partially Supported / Medium.
+
+Evidence boundary — Case #23
+
+Public research supports findings about:
+
+visible venue structure,
+
+operator plurality,
+
+published routes and rules,
+
+selected procedures,
+
+shared-resource dependencies,
+
+event overlays,
+
+capacity-object differences,
+
+and responsibility-boundary pressure.
+
+It does not verify:
+
+live capacity accuracy,
+
+cross-operator service consistency,
+
+recovery performance,
+
+dietary safety,
+
+accessibility outcomes,
+
+representative guest experience,
+
+operator outcomes,
+
+or causality.
+
+Public Mechanism Evidence
+
+≠
+
+Verified Institutional Performance
+
+Track separation — Post Case #23
+
+Track A — Independent Hospitality Research
+
+Current completed evidence:
+
+20 independent restaurant cases,
+
+3 independent institution cases.
+
+Track A may affect formal research maturity only through canonical governance.
+
+Track B — Production Validation
+
+Current case:
+
+Trunk & Tandoor
+
+Track B contributes implementation learning.
+
+Production success does not independently promote Track A patterns.
+
+Track C — Research Synthesis Builds
+
+Current completed synthesis:
+
+Third Rain
+
+Represented cycle:
+
+KHDS Cases #11–20
+
+Next synthesis gate:
+
+After KHDS Case #30
+
+Synthesis Quality
+
+≠
+
+Research Validation
+
+Research folder state — Post Case #23
+
+Research area
+
+Current role
+
+Status
+
+khds/research/restaurants/
+
+Independent restaurant dossiers
+
+Complete through Restaurant #20
+
+khds/research/institutions/hotels/
+
+Hotel and inn research
+
+Case #21 complete
+
+khds/research/institutions/wellness/
+
+Wellness research
+
+Case #22 complete
+
+khds/research/institutions/venues/
+
+Venue research
+
+Case #23 complete
+
+khds/research/institutions-comparison/
+
+Cross-institution comparison
+
+Complete through Cases #21–23
+
+khds/research/validation/
+
+Canonical governance and validation mirrors
+
+Reconciled through dashboard; final README next
+
+khds/research/synthesis/
+
+Ten-case fictional synthesis
+
+Third Rain complete
+
+Governance mirror chain — Post Case #23
+
+Governance file
+
+Role
+
+Status
+
+khds/research/validation/candidate-patterns.md
+
+Canonical maturity authority
+
+Reconciled / Complete
+
+khds/patterns/registry.md
+
+Pattern Registry mirror
+
+Reconciled / Complete
+
+khds/research/validation/dashboard.md
+
+Validation Dashboard mirror
+
+Reconciled / Complete
+
+khds/research/README.md
+
+Research-system overview mirror
+
+Reconciled / Complete
+
+khds/research/validation/README.md
+
+Validation-system overview mirror
+
+Next
+
+If any mirror conflicts with candidate-patterns.md, the canonical file wins.
+
+Next governance file
+
+khds/research/validation/README.md
+
+It must mirror:
+
+latest completed case #23,
+
+3 completed institution dossiers,
+
+institution comparison complete through Cases #21–23,
+
+unchanged pattern totals and confidence,
+
+Shared-Venue / Distributed-Responsibility Architecture below formal pattern maturity,
+
+Case #24 unselected and unstarted,
+
+and the next synthesis gate after Case #30.
+
+Active research handoff
+
+Next research state:
+
+KHDS Case #24 — unselected and unstarted.
+
+Research is not authorised until Case #24 is selected.
+
+Next synthesis gate:
+
+After KHDS Case #30.
+
+Final research statement — Post Case #23
+
+After:
+
+twenty independent restaurant cases,
+
+three completed hospitality-institution cases,
+
+one Track B production-validation case,
+
+and one Track C synthesis build,
+
+KHDS contains:
+
+26 Candidate Patterns
+8 Emerging Patterns
+1 Partially Supported Pattern
+0 Validated Patterns
+0 Research-Derived KHDS Principles
+
+The governing Case #23 boundary is:
+
+Hospitality Difference May Remain Distributed.
+
+Guest Responsibility Must Remain Continuous.
 
 The maturity threshold remains intact.
 

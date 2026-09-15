@@ -1,10 +1,11 @@
 # KHDS Candidate Pattern Governance
 
 <!-- KHDS-CURRENT-START -->
-Latest completed case: #22 — Sky Lagoon
-Completed institution dossiers: 2
-Prior closure: Case #21 remains closed at public-evidence scope.
-Next case: #23 — unselected and unstarted; research not authorized.
+Latest completed case: #23 — Reffen, Copenhagen
+Completed institution dossiers: 3
+Prior closures: Cases #21 and #22 remain closed at public-evidence scope.
+Institution comparison: complete through Cases #21–23.
+Next case: #24 — unselected and unstarted; research not authorized.
 Pattern totals: 26/8/1/0/0 (Candidate/Emerging/Partially Supported/Validated/research-derived Principles).
 Pattern confidence: unchanged.
 Research completion scope: public-evidence dossier; operational performance and outcomes remain unverified.
@@ -13,6 +14,8 @@ Research completion scope: public-evidence dossier; operational performance and 
 Historical status rule: earlier restaurant-cycle and Post–Fogo Island Inn status/count/handoff sections are preserved historical records. This current summary supersedes their prior active instructions; existing evidence and unresolved outcomes remain unchanged.
 
 Case #22 governance decision: no promotions, demotions, renames, merges or confidence changes. Layered Arrival, Capacity Proof, Human Assistance Where Structured Self-Service Is Insufficient and Photography as Proof retain their status. Atmosphere as Product and Multi-Intent Hospitality remain Emerging. See [extraction](khds/research/institutions/wellness/sky-lagoon-kopavogur/knowledge-extraction.md). Public procedure and promotional evidence do not establish operational recurrence.
+
+Case #23 governance decision: no promotions, demotions, renames, merges, review-state changes or confidence changes. All 26 Candidates retain their maturity and confidence; all 8 Emerging patterns remain Emerging; Own the Guest Relationship remains Partially Supported / Medium. Shared-Venue / Distributed-Responsibility Architecture is recorded below formal pattern maturity. See [Reffen extraction](khds/research/institutions/venues/reffen-copenhagen/knowledge-extraction.md) and [institution comparison](khds/research/institutions-comparison/README.md). Three cross-sector cases enable comparison; they do not establish validation.
 
 ## Status
 
@@ -16753,5 +16756,570 @@ The case now appears in:
 - the current Candidate evidence register,
 - the institution-comparison seed record,
 - and the final canonical checkpoint.
+
+---
+
+# Post–Reffen Canonical Governance Reconciliation
+
+## Cycle identity
+
+Latest completed Track A case:
+
+**KHDS Case #23 — Reffen, Copenhagen**
+
+Institution type:
+
+Open-air street-food market and cultural hospitality venue.
+
+Research role:
+
+First food-hall and multi-operator venue transfer case.
+
+Research completion scope:
+
+Public-evidence dossier.
+
+Institution comparison status:
+
+Complete through Cases #21–23.
+
+Canonical decision date:
+
+2026-09-15.
+
+---
+
+# Case #23 canonical evidence inputs
+
+Canonical reconciliation uses:
+
+1. `khds/research/institutions/venues/reffen-copenhagen/README.md`
+2. `khds/research/institutions/venues/reffen-copenhagen/discovery.md`
+3. `khds/research/institutions/venues/reffen-copenhagen/reservation.md`
+4. `khds/research/institutions/venues/reffen-copenhagen/pre-arrival.md`
+5. `khds/research/institutions/venues/reffen-copenhagen/arrival.md`
+6. `khds/research/institutions/venues/reffen-copenhagen/participation.md`
+7. `khds/research/institutions/venues/reffen-copenhagen/dining.md`
+8. `khds/research/institutions/venues/reffen-copenhagen/events.md`
+9. `khds/research/institutions/venues/reffen-copenhagen/departure.md`
+10. `khds/research/institutions/venues/reffen-copenhagen/atmosphere.md`
+11. `khds/research/institutions/venues/reffen-copenhagen/photography.md`
+12. `khds/research/institutions/venues/reffen-copenhagen/story.md`
+13. `khds/research/institutions/venues/reffen-copenhagen/knowledge-extraction.md`
+14. `khds/research/institutions-comparison/README.md`
+
+Cases #21 and #22 remain independent comparison evidence.
+
+No production or synthesis result is counted as independent Track A validation evidence.
+
+---
+
+# Current canonical state — Post Case #23
+
+| Measure | Previous state | Case #23 movement | Current state |
+|---|---:|---:|---:|
+| Independent restaurants | 20 | 0 | 20 |
+| Completed institution dossiers | 2 | +1 | 3 |
+| Track B validation cases | 1 | 0 | 1 |
+| Candidate patterns | 26 | 0 | 26 |
+| Candidate / High | 9 | 0 | 9 |
+| Candidate / Medium-High | 8 | 0 | 8 |
+| Candidate / Medium | 9 | 0 | 9 |
+| Emerging patterns | 8 | 0 | 8 |
+| Partially Supported patterns | 1 | 0 | 1 |
+| Validated patterns | 0 | 0 | 0 |
+| Research-derived KHDS Principles | 0 | 0 | 0 |
+
+```text
+Institution Dossiers: 2 + 1 = 3
+
+Candidate Patterns: 26 + 0 = 26
+Emerging Patterns: 8 + 0 = 8
+Partially Supported Patterns: 1 + 0 = 1
+Validated Patterns: 0 + 0 = 0
+Research-Derived Principles: 0 + 0 = 0
+```
+
+---
+
+# Case #23 formal governance decision
+
+| Governance action | Decision |
+|---|---:|
+| Candidate promotions | 0 |
+| Confidence changes | 0 |
+| Review-state changes | 0 |
+| Demotions | 0 |
+| Renames | 0 |
+| Merges | 0 |
+| Validated promotions | 0 |
+| Research-derived Principle promotions | 0 |
+
+Case #23 adds:
+
+- one completed institution dossier,
+- one first multi-operator venue case,
+- distributed-responsibility evidence,
+- cross-operator handoff pressure,
+- capacity-object decomposition,
+- entitlement / fulfilment separation,
+- ethical evidence boundaries,
+- architecture additions,
+- and new falsification targets.
+
+It does not establish:
+
+- live capacity performance,
+- consistent cross-operator routing,
+- successful exception recovery,
+- dietary safety,
+- accessibility performance,
+- representative guest experience,
+- operator outcomes,
+- or causality.
+
+```text
+Additional Evidence
+
+≠
+
+Automatic Governance Movement
+```
+
+---
+
+# Primary architecture decision — Case #23
+
+Case #23 introduces:
+
+## Shared-Venue / Distributed-Responsibility Architecture
+
+Definition:
+
+> One guest-facing place whose products, transactions, inventories, programmes and recovery responsibilities are distributed across independent or semi-independent actors.
+
+Primary boundary:
+
+```text
+One Guest-Facing Place
+
+≠
+
+One Hospitality Operator
+```
+
+Primary architecture rule:
+
+> Preserve operator difference, but never make the guest discover responsibility only after something fails.
+
+Canonical classification:
+
+**Architecture family below formal pattern maturity.**
+
+It is not:
+
+- Emerging,
+- Candidate,
+- Validated,
+- or a research-derived KHDS Principle.
+
+Reason:
+
+Reffen provides one strong public-evidence case within the multi-operator venue class.
+
+One case can establish useful architecture and falsification requirements.
+
+It cannot establish independent same-class recurrence.
+
+---
+
+# Institution-comparison decision — Cases #21–23
+
+The institution population now includes:
+
+1. Fogo Island Inn — hotel / inn
+2. Sky Lagoon — wellness venue
+3. Reffen — multi-operator food-and-cultural venue
+
+The strongest provisional cross-institution recurrence is:
+
+```text
+Guest State Changes
+↓
+Responsibility Remains Legible
+↓
+Failure Has an Identifiable Owner
+↓
+Recovery or Completion Remains Possible
+```
+
+Additional provisional recurrence appears in:
+
+- decomposed capacity,
+- entitlement / fulfilment separation,
+- and published recovery route / verified recovery performance separation.
+
+Canonical interpretation:
+
+```text
+Three Cross-Sector Cases
+
+Enable Comparison.
+
+They Do Not Establish Validation.
+```
+
+The institution-comparison architecture gains evidence.
+
+No formal pattern gains maturity or confidence.
+
+---
+
+# Candidate reconciliation — Case #23
+
+## Candidate / High
+
+| Candidate | Reffen pressure | Canonical decision |
+|---|---|---|
+| Atmosphere Through Worldview | Curated plurality and shared-place identity pressure worldview coherence | Retain High |
+| Show the System Behind the Plate | Independent operators and shared infrastructure expose a distributed food system | Retain High |
+| Biography When It Explains the Experience | Institutional and operator biographies require separate narrative scope | Retain High |
+| Narrative Language Within Clear Interface | Venue narrative must yield to operator, event and consequence-bearing rules | Retain High |
+| Walk-In as First-Class Participation | Open general access coexists with operator queues and bounded event routes | Retain High |
+| Story Through Hospitality Model | Curatorial and multi-operator structure carries the venue story | Retain High |
+| Hospitality System Proof | Guest understanding depends on visible shared systems and responsibility boundaries | Retain High |
+| Story Through Place | Refshaleøen and the waterfront setting materially organise the venue story | Retain High |
+| Narrative Coherence Through Organising Logic | Curated plurality provides coherence without one narrative owner | Retain High |
+
+High-confidence Candidate movement:
+
+**None.**
+
+## Candidate / Medium-High
+
+| Candidate | Reffen pressure | Canonical decision |
+|---|---|---|
+| Heritage Builds Confidence | Industrial-place history may support identity without proving current experience | Retain Medium-High |
+| Atmosphere Through Continuity | Seasonal, temporal and event changes test continuity | Retain Medium-High |
+| Photography as Use-Case Evidence | Imagery must support routes, shared space, ordinary use and operator choice | Retain Medium-High |
+| Photography as Proof | Venue-level imagery cannot independently prove operator-level claims | Retain Medium-High |
+| Capacity Proof | Venue, operator, seating, event, service and recovery capacity remain separate | Retain Medium-High |
+| Photography Should Demonstrate Difference | Photography must demonstrate distributed operation, not only visual novelty | Retain Medium-High |
+| Adaptation as Narrative | Industrial-site reuse and evolving venue states pressure adaptation boundaries | Retain Medium-High |
+| Stable Participation / Variable Product | Shared venue rules coexist with variable operators, products and programmes | Retain Medium-High |
+
+Medium-High Candidate movement:
+
+**None.**
+
+## Candidate / Medium
+
+| Candidate | Reffen pressure | Canonical decision |
+|---|---|---|
+| Designed Escape | Waterfront leisure can create escape conditions without proving restoration | Retain Medium |
+| Manageable Commitment | General access, events, groups and operator purchases create different commitment objects | Retain Medium |
+| Participation Rule Consistency | Venue rules and operator-specific terms must remain distinguishable and coherent | Retain Medium |
+| Layered Arrival | Discovery, transport, threshold, internal orientation and operator selection form layers | Retain Medium |
+| Atmosphere Through Consistency | Coherence must survive operator, weather, crowd and event variability | Retain Medium |
+| Photography Through Layers of Experience | Proof must span place, threshold, shared space, operators, participation and events | Retain Medium |
+| Participation Throughout the Journey | Planning, access, ordering, shared use, events and departure create multiple states | Retain Medium |
+| Human Assistance Where Structured Self-Service Is Insufficient | Cross-operator exceptions require a legible human-help route | Retain Medium |
+| Multi-Intent Hospitality | Food, drink, events, leisure and group use create materially different intents | Retain Medium |
+
+Medium-confidence Candidate movement:
+
+**None.**
+
+## Candidate decision
+
+All 26 Candidates retain:
+
+- their canonical names,
+- their Candidate maturity,
+- and their existing confidence.
+
+Reason:
+
+Reffen adds strong architecture and boundary evidence.
+
+It does not resolve the operational, outcome, causality or transferability uncertainties that currently limit confidence.
+
+```text
+Named Supporting Evidence
+
+≠
+
+Confidence Threshold Crossing
+```
+
+---
+
+# Emerging reconciliation — Case #23
+
+| Emerging pattern | Reffen pressure | Decision |
+|---|---|---|
+| Emotion Before Interface | Venue energy and belonging claims remain experience-dependent | Remain Emerging |
+| Story Before Features | Place story can orient discovery but remains close to existing narrative patterns | Remain Emerging |
+| Photography Before Decoration | Evidence ethics are strengthened without resolving overlap with photography Candidates | Remain Emerging |
+| Commitment Without Pressure | Open access lowers some commitment while events and groups create bounded pressure | Remain Emerging |
+| Promise Before Proof | Venue promise still requires claim-proportionate evidence | Remain Emerging |
+| The Guest as Participant | Guests compose visits, but material operating dependency remains unproven | Remain Emerging |
+| Atmosphere as Product | Atmosphere is prominent, but lived outcome and decision causality remain unverified | Remain Emerging |
+| Escalating Participation Complexity | Multiple operators increase consequence complexity without necessarily increasing interface complexity | Remain Emerging |
+
+Emerging promotions:
+
+**0**
+
+The eight-pattern Emerging count remains unchanged.
+
+---
+
+# Partially Supported reconciliation — Case #23
+
+## Own the Guest Relationship — Partially Supported / Medium
+
+Reffen sharpens the distinction among:
+
+- venue relationship,
+- operator transaction,
+- event participation,
+- intermediary purchase,
+- and shared-place identity.
+
+Public evidence does not establish:
+
+- complete CRM ownership,
+- transaction-data ownership across operators,
+- consent propagation,
+- integrated customer history,
+- remarketing rights,
+- or longitudinal relationship control.
+
+```text
+Shared Venue Identity
+
+≠
+
+Unified Guest Relationship Ownership
+```
+
+Canonical decision:
+
+**Retain Partially Supported / Medium.**
+
+---
+
+# Evidence boundary — Case #23
+
+The completed dossier can support findings about:
+
+- published identity,
+- visible operating structure,
+- documented participation routes,
+- stated rules,
+- public procedures,
+- operator plurality,
+- selected event surfaces,
+- and bounded visual evidence.
+
+It cannot independently prove:
+
+- operational consistency,
+- service quality,
+- experienced atmosphere,
+- successful recovery,
+- equitable participation,
+- accessibility outcomes,
+- commercial performance,
+- or causal social impact.
+
+```text
+Public Mechanism Evidence
+
+≠
+
+Verified Institutional Performance
+```
+
+---
+
+# Why no Candidate promotion occurred — Case #23
+
+Case #23 provides one new venue operating class.
+
+The strongest new result is architecture-level.
+
+No below-Candidate direction receives:
+
+- sufficient definition precision,
+- sufficient independent recurrence,
+- sufficient contradiction survival,
+- and sufficient outcome-bounded evidence
+
+to cross the Candidate threshold.
+
+Candidate promotions:
+
+**0**
+
+---
+
+# Why no confidence change occurred — Case #23
+
+Additional support does not increase confidence unless it resolves the uncertainty limiting the existing assignment.
+
+Reffen does not verify:
+
+- live responsibility continuity,
+- cross-operator exception performance,
+- representative guest decisions,
+- atmosphere outcomes,
+- accessibility performance,
+- or recovery success.
+
+Confidence changes:
+
+**0**
+
+---
+
+# Why no Validated promotion occurred — Case #23
+
+Three institution cases provide useful cross-sector comparison.
+
+They remain public-evidence dossiers.
+
+Validation requires stronger evidence of:
+
+- recurring mechanism,
+- performed behaviour,
+- failure survival,
+- outcome boundaries,
+- and independent transferability.
+
+Validated promotions:
+
+**0**
+
+---
+
+# Why no research-derived Principle promotion occurred — Case #23
+
+A research-derived KHDS Principle requires maturity beyond Candidate and evidence robust enough to govern implementation broadly.
+
+KHDS still has:
+
+- no Validated pattern,
+- incomplete operational evidence,
+- unresolved falsification requirements,
+- and insufficient cross-sector performance evidence.
+
+Research-derived Principle promotions:
+
+**0**
+
+---
+
+# Post–Reffen falsification priorities
+
+1. Test responsibility continuity in another independently operated food hall or market.
+2. Observe whether guests can identify the responsible actor before a failure occurs.
+3. Test venue-to-operator exception routing under live pressure.
+4. Separate venue capacity from operator, seating, event and recovery capacity.
+5. Test whether open access remains usable during peak demand and adverse weather.
+6. Verify how dietary responsibility crosses venue and operator boundaries.
+7. Verify accessibility routes under ordinary operating conditions.
+8. Test whether event overlays preserve general visitor legibility.
+9. Compare unified payment with separate operator transactions.
+10. Compare centralised service recovery with distributed recovery.
+11. Test photography that proves shared operation without appropriating operator evidence.
+12. Test institutional story coherence without one narrative owner.
+13. Verify operator-roster and practical-information freshness.
+14. Observe distributed departure and unresolved transaction recovery.
+15. Test whether responsibility continuity predicts completion better than brand coherence.
+
+---
+
+# Governance mirror handoff — Post Case #23
+
+Canonical governance source:
+
+`khds/research/validation/candidate-patterns.md`
+
+Canonical reconciliation status:
+
+**Complete**
+
+Next mirror:
+
+`khds/patterns/registry.md`
+
+The registry must mirror:
+
+- latest completed case #23,
+- 20 independent restaurants,
+- 3 completed institution dossiers,
+- 26 Candidate patterns,
+- 8 Emerging patterns,
+- 1 Partially Supported pattern,
+- 0 Validated patterns,
+- 0 research-derived KHDS Principles,
+- unchanged Candidate confidence distribution,
+- Shared-Venue / Distributed-Responsibility Architecture below formal pattern maturity,
+- and no formal governance movement.
+
+---
+
+# Final canonical statement — Post Case #23
+
+KHDS Case #23 is canonically reconciled.
+
+The canonical state is:
+
+```text
+20 Independent Restaurants
+3 Completed Institution Dossiers
+1 Track B Validation Case
+
+26 Candidate Patterns
+8 Emerging Patterns
+1 Partially Supported Pattern
+0 Validated Patterns
+0 Research-Derived KHDS Principles
+```
+
+The Candidate confidence distribution remains:
+
+```text
+High: 9
+Medium-High: 8
+Medium: 9
+Total: 26
+```
+
+The institution-comparison architecture is reconciled through Cases #21–23.
+
+The active next research state is:
+
+**KHDS Case #24 — unselected and unstarted.**
+
+Research is not authorised until Case #24 is selected.
+
+The next synthesis gate remains:
+
+**After KHDS Case #30.**
+
+The governing Case #23 boundary is:
+
+```text
+Hospitality Difference May Remain Distributed.
+
+Guest Responsibility Must Remain Continuous.
+```
+
+The maturity threshold remains intact.
+
+Evidence wins.
 
 ---

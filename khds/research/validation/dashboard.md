@@ -1,19 +1,22 @@
 KHDS Validation Dashboard
 
 <!-- KHDS-CURRENT-START -->
-Latest completed case: #22 — Sky Lagoon
-Completed institution dossiers: 2
-Prior closure: Case #21 remains closed at public-evidence scope.
-Next case: #23 — unselected and unstarted; research not authorized.
+
+Latest completed case: #23 — Reffen, Copenhagen
+Completed institution dossiers: 3
+Prior closures: Cases #21 and #22 remain closed at public-evidence scope.
+Institution comparison: complete through Cases #21–23.
+Next case: #24 — unselected and unstarted; research not authorized.
 Pattern totals: 26/8/1/0/0 (Candidate/Emerging/Partially Supported/Validated/research-derived Principles).
 Pattern confidence: unchanged.
 Research completion scope: public-evidence dossier; operational performance and outcomes remain unverified.
+
 <!-- KHDS-CURRENT-END -->
 
 Historical status rule: earlier restaurant-cycle and Post–Fogo Island Inn status/count/handoff sections are preserved historical records. This current summary supersedes their prior active instructions; existing evidence and unresolved outcomes remain unchanged.
 
-Completed institution dossiers: 2. Latest completed case: #22 — Sky Lagoon
-Case #21 remains closed. Twelve Case #22 dossier files and the institution/wellness index entries are recorded. No promotions or confidence changes.
+Completed institution dossiers: 3. Latest completed case: #23 — Reffen, Copenhagen.
+Cases #21 and #22 remain closed. Case #23's venue dossier, knowledge extraction and institution comparison are recorded. No promotions or confidence changes.
 
 Status
 
@@ -329,7 +332,7 @@ Candidate Dashboard
 
 There are 26 Candidate patterns.
 
-**#**
+#
 
 Candidate Pattern
 
@@ -875,7 +878,7 @@ Emerging Dashboard — Historical Restaurant #18 Detail
 
 There are 8 Emerging patterns.
 
-**#**
+#
 
 Emerging Pattern
 
@@ -1141,7 +1144,7 @@ This family remains architecture, not a formal pattern or research-derived KHDS 
 
 Post–Refettorio Felix Corrections — Historical
 
-**#**
+#
 
 Incorrect Equivalence
 
@@ -1279,23 +1282,23 @@ Restaurant #18 promotes 0 patterns.
 
 8 Emerging
 
-\- 0 Promotions
+- 0 Promotions
 
-\= 8 Emerging
+= 8 Emerging
 
 26 Candidates
 
-\+ 0 Promotions
++ 0 Promotions
 
-\= 26 Candidates
+= 26 Candidates
 
 The two confidence changes occur within the Candidate layer and do not change its count.
 
 17 Independent Restaurants
 
-\+ 1 Restaurant
++ 1 Restaurant
 
-\= 18 Independent Restaurants
+= 18 Independent Restaurants
 
 Dashboard counts are reconciled.
 
@@ -1749,11 +1752,11 @@ Arithmetic
 
 9 High
 
-+
+
 
 8 Medium-High
 
-+
+
 
 9 Medium
 
@@ -1765,61 +1768,61 @@ Candidate Dashboard — Post Restaurant #19
 
 Candidate / High — 9
 
-1. Atmosphere Through Worldview
+Atmosphere Through Worldview
 
-2. Show the System Behind the Plate
+Show the System Behind the Plate
 
-3. Biography When It Explains the Experience
+Biography When It Explains the Experience
 
-4. Narrative Language Within Clear Interface
+Narrative Language Within Clear Interface
 
-5. Walk-In as First-Class Participation
+Walk-In as First-Class Participation
 
-6. Story Through Hospitality Model
+Story Through Hospitality Model
 
-7. Hospitality System Proof
+Hospitality System Proof
 
-8. Story Through Place
+Story Through Place
 
-9. Narrative Coherence Through Organising Logic
+Narrative Coherence Through Organising Logic
 
 Candidate / Medium-High — 8
 
-1. Heritage Builds Confidence
+Heritage Builds Confidence
 
-2. Atmosphere Through Continuity
+Atmosphere Through Continuity
 
-3. Photography as Use-Case Evidence
+Photography as Use-Case Evidence
 
-4. Photography as Proof
+Photography as Proof
 
-5. Capacity Proof
+Capacity Proof
 
-6. Photography Should Demonstrate Difference
+Photography Should Demonstrate Difference
 
-7. Adaptation as Narrative
+Adaptation as Narrative
 
-8. Stable Participation / Variable Product
+Stable Participation / Variable Product
 
 Candidate / Medium — 9
 
-1. Designed Escape
+Designed Escape
 
-2. Manageable Commitment
+Manageable Commitment
 
-3. Participation Rule Consistency
+Participation Rule Consistency
 
-4. Layered Arrival
+Layered Arrival
 
-5. Atmosphere Through Consistency
+Atmosphere Through Consistency
 
-6. Photography Through Layers of Experience
+Photography Through Layers of Experience
 
-7. Participation Throughout the Journey
+Participation Throughout the Journey
 
-8. Human Assistance Where Structured Self-Service Is Insufficient
+Human Assistance Where Structured Self-Service Is Insufficient
 
-9. Multi-Intent Hospitality
+Multi-Intent Hospitality
 
 Primary Candidate Watch — Participation Rule Consistency
 
@@ -1919,35 +1922,35 @@ Emerging Dashboard — Post Restaurant #19
 
 There are 8 Emerging patterns.
 
-1. Emotion Before Interface
+Emotion Before Interface
 
 Hold — mission and reciprocity may orient emotion, but may also create pressure, stigma or delayed practical clarity.
 
-2. Story Before Features
+Story Before Features
 
 Hold — the direction remains close to existing narrative Candidates and lacks a distinct mechanism.
 
-3. Photography Before Decoration
+Photography Before Decoration
 
 Hold — economic-status-blind photography adds a strong ethical rule, but the direction remains governed by existing photography Candidates.
 
-4. Commitment Without Pressure
+Commitment Without Pressure
 
 Hold — flexible contribution does not prove pressure-free participation.
 
-5. Promise Before Proof
+Promise Before Proof
 
 Hold — activity, experience, outcome and causality must remain separate; overlap with existing proof Candidates remains unresolved.
 
-6. The Guest as Participant
+The Guest as Participant
 
 Hold — multiple contribution states do not make contribution a condition of guesthood; the direction remains too broad.
 
-7. Atmosphere as Product
+Atmosphere as Product
 
 Hold — a second community-hospitality case adds support, but guest-choice causality and lived atmosphere remain unverified.
 
-8. Escalating Participation Complexity
+Escalating Participation Complexity
 
 Hold — several states exist, but they do not necessarily escalate linearly and human routing may contain complexity.
 
@@ -2111,23 +2114,23 @@ Reciprocal Hospitality Without Rank
 
 Flexible Contribution
 
-+
+
 
 Stable Guesthood
 
-+
+
 
 Mission-Priority Allocation
 
-+
+
 
 Contribution-State Privacy
 
-+
+
 
 Human-Routed Participation
 
-+
+
 
 Same-Meal Commitment
 
@@ -2157,45 +2160,45 @@ a Research-Derived KHDS Principle.
 
 Post–JBJ Soul Kitchen Corrections
 
-1. No Fixed Price ≠ No Economic Expectation
+No Fixed Price ≠ No Economic Expectation
 
-2. Contribution State ≠ Guest Rank
+Contribution State ≠ Guest Rank
 
-3. Reciprocity ≠ Deservingness
+Reciprocity ≠ Deservingness
 
-4. Invitation to Volunteer ≠ Requirement to Volunteer
+Invitation to Volunteer ≠ Requirement to Volunteer
 
-5. No Reservation ≠ No Allocation
+No Reservation ≠ No Allocation
 
-6. First Come ≠ Only Allocation Rule
+First Come ≠ Only Allocation Rule
 
-7. Priority ≠ Public Proof of Need
+Priority ≠ Public Proof of Need
 
-8. Volunteer Place ≠ Dining Seat
+Volunteer Place ≠ Dining Seat
 
-9. Same Meal ≠ Same Hospitality
+Same Meal ≠ Same Hospitality
 
-10. Shared Room ≠ Equal Belonging
+Shared Room ≠ Equal Belonging
 
-11. Designed Equality ≠ Experienced Equality
+Designed Equality ≠ Experienced Equality
 
-12. Visible Person ≠ Visible Economic Status
+Visible Person ≠ Visible Economic Status
 
-13. Guest Photograph ≠ Consent to Fundraising Use
+Guest Photograph ≠ Consent to Fundraising Use
 
-14. Finished Plate ≠ Same-Meal Proof
+Finished Plate ≠ Same-Meal Proof
 
-15. Pay-It-Forward Image ≠ Cross-Subsidy Proof
+Pay-It-Forward Image ≠ Cross-Subsidy Proof
 
-16. Donor Support ≠ Recipient Ownership
+Donor Support ≠ Recipient Ownership
 
-17. Founder Biography ≠ Current Operating Proof
+Founder Biography ≠ Current Operating Proof
 
-18. Activity ≠ Experience ≠ Outcome ≠ Causality
+Activity ≠ Experience ≠ Outcome ≠ Causality
 
-19. Stable Respect ≠ Stable Mood
+Stable Respect ≠ Stable Mood
 
-20. Multiple Stakeholder Roles ≠ Multiple Guest Intents
+Multiple Stakeholder Roles ≠ Multiple Guest Intents
 
 Historical — Count Reconciliation — Restaurant #19
 
@@ -2209,13 +2212,13 @@ Restaurant #19 promotes 0 patterns.
 
 8 Emerging
 
-- 0 Promotions
+0 Promotions
 
 = 8 Emerging
 
 26 Candidates
 
-+ 0 Promotions
+0 Promotions
 
 = 26 Candidates
 
@@ -2223,7 +2226,7 @@ Restaurant #19 changes 0 Candidate confidence levels.
 
 18 Independent Restaurants
 
-+ 1 Restaurant
+1 Restaurant
 
 = 19 Independent Restaurants
 
@@ -2295,51 +2298,51 @@ Universal KHDS Principle
 
 Historical — Current Validation Priorities — Post–JBJ Soul Kitchen
 
-1. Invitation / Exchange Resolution
+Invitation / Exchange Resolution
 
 How are invitation to volunteer and volunteer work in exchange for a meal reconciled operationally?
 
-2. Full-Capacity Recovery
+Full-Capacity Recovery
 
 What happens when dining, mission-priority or volunteer capacity is exhausted?
 
-3. Contribution-State Privacy
+Contribution-State Privacy
 
 Can guests participate without public disclosure of ability to pay, donation amount, volunteer status or priority state?
 
-4. Performed Equality
+Performed Equality
 
 Do contribution states receive equal welcome, service, product, attention and belonging?
 
-5. Pressure-Free Commitment
+Pressure-Free Commitment
 
 Do suggested payment, pay-it-forward or volunteer messages create obligation, shame or avoidance?
 
-6. Human Assistance Failure
+Human Assistance Failure
 
 When does human routing create delay, inconsistency, gatekeeping, privacy loss or safeguarding risk?
 
-7. Economic-Status-Blind Proof
+Economic-Status-Blind Proof
 
 Can photography and story prove the institution without economically classifying participants?
 
-8. Same-Meal Verification
+Same-Meal Verification
 
 Does product parity hold across contribution states, service periods, capacity conditions and dietary requirements?
 
-9. Activity / Outcome Separation
+Activity / Outcome Separation
 
 Are meals served, volunteer activity, guest experience, social outcome and causality reported separately?
 
-10. Network / Local Rule Difference
+Network / Local Rule Difference
 
 Which rules are network-wide, Red Bank-specific, historical, current or discretionary?
 
-11. Role-Bounded Data
+Role-Bounded Data
 
 Are dining, volunteering, donating and support data appropriately separated?
 
-12. Reciprocal Hospitality Countercase
+Reciprocal Hospitality Countercase
 
 Where does flexible contribution create visible rank, pressure or service disparity?
 
@@ -2589,79 +2592,79 @@ Candidate Dashboard — Post Restaurant #20
 
 Candidate / High — 9
 
-1. Atmosphere Through Worldview
+Atmosphere Through Worldview
 
-2. Show the System Behind the Plate
+Show the System Behind the Plate
 
-3. Biography When It Explains the Experience
+Biography When It Explains the Experience
 
-4. Narrative Language Within Clear Interface
+Narrative Language Within Clear Interface
 
-5. Walk-In as First-Class Participation
+Walk-In as First-Class Participation
 
-6. Story Through Hospitality Model
+Story Through Hospitality Model
 
-7. Hospitality System Proof
+Hospitality System Proof
 
-8. Story Through Place
+Story Through Place
 
-9. Narrative Coherence Through Organising Logic
+Narrative Coherence Through Organising Logic
 
 Candidate / Medium-High — 8
 
-1. Heritage Builds Confidence
+Heritage Builds Confidence
 
-2. Atmosphere Through Continuity
+Atmosphere Through Continuity
 
-3. Photography as Use-Case Evidence
+Photography as Use-Case Evidence
 
-4. Photography as Proof
+Photography as Proof
 
-5. Capacity Proof
+Capacity Proof
 
-6. Photography Should Demonstrate Difference
+Photography Should Demonstrate Difference
 
-7. Adaptation as Narrative
+Adaptation as Narrative
 
-8. Stable Participation / Variable Product
+Stable Participation / Variable Product
 
 Candidate / Medium — 9
 
-1. Designed Escape
+Designed Escape
 
-2. Manageable Commitment
+Manageable Commitment
 
-3. Participation Rule Consistency
+Participation Rule Consistency
 
-4. Layered Arrival
+Layered Arrival
 
-5. Atmosphere Through Consistency
+Atmosphere Through Consistency
 
-6. Photography Through Layers of Experience
+Photography Through Layers of Experience
 
-7. Participation Throughout the Journey
+Participation Throughout the Journey
 
-8. Human Assistance Where Structured Self-Service Is Insufficient
+Human Assistance Where Structured Self-Service Is Insufficient
 
-9. Multi-Intent Hospitality
+Multi-Intent Hospitality
 
 Emerging Dashboard — Post Restaurant #20
 
-1. Emotion Before Interface
+Emotion Before Interface
 
-2. Story Before Features
+Story Before Features
 
-3. Photography Before Decoration
+Photography Before Decoration
 
-4. Commitment Without Pressure
+Commitment Without Pressure
 
-5. Promise Before Proof
+Promise Before Proof
 
-6. The Guest as Participant
+The Guest as Participant
 
-7. Atmosphere as Product
+Atmosphere as Product
 
-8. Escalating Participation Complexity
+Escalating Participation Complexity
 
 Restaurant #20 Emerging Promotions
 
@@ -2695,15 +2698,15 @@ Architecture Extension
 
 Reciprocal Hospitality Without Rank
 
-+
+
 
 Explicit Terms
 
-+
+
 
 Route-Specific Capacity
 
-+
+
 
 Failed-Route Recovery
 
@@ -2885,41 +2888,41 @@ Independent Restaurants
 
 Historical — Current Validation Priorities — Post–SAME Café Denver
 
-1. Failed contribution-route recovery
+Failed contribution-route recovery
 
-2. Contribution-neutral service across time, money and produce
+Contribution-neutral service across time, money and produce
 
-3. Suitable-task capacity and accessibility
+Suitable-task capacity and accessibility
 
-4. Produce-rejection recovery
+Produce-rejection recovery
 
-5. No-route access without worthiness assessment
+No-route access without worthiness assessment
 
-6. Walk-in meal, seat and task capacity
+Walk-in meal, seat and task capacity
 
-7. Pressure created by explicit exchange
+Pressure created by explicit exchange
 
-8. Contribution-state privacy
+Contribution-state privacy
 
-9. Work-to-guest re-entry
+Work-to-guest re-entry
 
-10. Route-switching freedom
+Route-switching freedom
 
-11. Optional sociality
+Optional sociality
 
-12. Human-assistance failure and bias
+Human-assistance failure and bias
 
-13. Contribution-state-blind photography
+Contribution-state-blind photography
 
-14. Consent persistence
+Consent persistence
 
-15. Activity / experience / outcome / causality separation
+Activity / experience / outcome / causality separation
 
-16. Universal promise / finite capacity qualification
+Universal promise / finite capacity qualification
 
-17. Role-bounded data
+Role-bounded data
 
-18. Cross-cultural reciprocity countercases
+Cross-cultural reciprocity countercases
 
 Mirror Status — Post Restaurant #20
 
@@ -3469,7 +3472,7 @@ Candidate Dashboard — Post Case #21
 
 Candidate / High
 
-#
+
 
 Candidate pattern
 
@@ -3559,7 +3562,7 @@ Fogo Inclusion:
 
 Candidate / Medium-High
 
-#
+
 
 Candidate pattern
 
@@ -3641,7 +3644,7 @@ Fogo Inclusion:
 
 Candidate / Medium
 
-#
+
 
 Candidate pattern
 
@@ -3766,7 +3769,7 @@ Confidence Increase
 
 Emerging Dashboard — Post Case #21
 
-#
+
 
 Emerging pattern
 
@@ -4686,5 +4689,527 @@ First Sector Transfer
 Cross-Sector Validation
 
 The threshold remains intact.
+
+Evidence wins.
+
+Current Dashboard Position — Post Case #23
+
+Dashboard cycle identity
+
+Latest completed Track A case:
+
+KHDS Case #23 — Reffen, Copenhagen
+
+Institution type:
+
+Open-air street-food market and cultural hospitality venue
+
+Completed institution dossiers:
+
+3
+
+Institution comparison status:
+
+Complete through Cases #21–23
+
+Canonical governance source:
+
+khds/research/validation/candidate-patterns.md
+
+Registry mirror:
+
+khds/patterns/registry.md
+
+Dashboard governance role:
+
+Governance mirror only
+
+Current research state
+
+Measure
+
+Current state
+
+Case #23 movement
+
+Independent restaurants
+
+20
+
+0
+
+Completed institution dossiers
+
+3
+
++1
+
+Track B validation cases
+
+1
+
+0
+
+Candidate patterns
+
+26
+
+0
+
+Candidate / High
+
+9
+
+0
+
+Candidate / Medium-High
+
+8
+
+0
+
+Candidate / Medium
+
+9
+
+0
+
+Emerging patterns
+
+8
+
+0
+
+Partially Supported patterns
+
+1
+
+0
+
+Validated patterns
+
+0
+
+0
+
+Research-derived KHDS Principles
+
+0
+
+0
+
+Implementation patterns pending formal validation
+
+1
+
+0
+
+Opportunity themes
+
+36
+
+0
+
+Track B implementation learnings
+
+17
+
+0
+
+Institution Dossiers: 2 + 1 = 3
+
+Candidate Patterns: 26 + 0 = 26
+Emerging Patterns: 8 + 0 = 8
+Partially Supported Patterns: 1 + 0 = 1
+Validated Patterns: 0 + 0 = 0
+Research-Derived Principles: 0 + 0 = 0
+
+Case #23 completion dashboard
+
+Case component
+
+Status
+
+Institution index
+
+Complete
+
+Discovery
+
+Complete
+
+Reservation / access
+
+Complete
+
+Pre-arrival
+
+Complete
+
+Arrival
+
+Complete
+
+Participation
+
+Complete
+
+Dining
+
+Complete
+
+Events
+
+Complete
+
+Departure
+
+Complete
+
+Atmosphere
+
+Complete
+
+Photography
+
+Complete
+
+Story
+
+Complete
+
+Cross-dimensional knowledge extraction
+
+Complete
+
+Institution comparison
+
+Complete
+
+Canonical Candidate reconciliation
+
+Complete
+
+Pattern Registry mirror
+
+Complete
+
+Validation Dashboard mirror
+
+Complete
+
+Completion scope:
+
+Public evidence.
+
+Operational performance and outcomes remain unverified.
+
+Formal governance movement — Case #23
+
+Governance action
+
+Movement
+
+Candidate promotions
+
+0
+
+Confidence changes
+
+0
+
+Review-state changes
+
+0
+
+Demotions
+
+0
+
+Renames
+
+0
+
+Merges
+
+0
+
+Validated promotions
+
+0
+
+Research-derived Principle promotions
+
+0
+
+All 26 Candidate patterns retain their canonical names, maturity and confidence.
+
+All 8 Emerging patterns remain Emerging.
+
+Own the Guest Relationship remains Partially Supported / Medium.
+
+Architecture dashboard — Case #23
+
+New architecture:
+
+Shared-Venue / Distributed-Responsibility Architecture
+
+Status:
+
+Architecture family below formal pattern maturity
+
+Primary boundary:
+
+One Guest-Facing Place
+
+≠
+
+One Hospitality Operator
+
+Primary operating rule:
+
+Preserve operator difference, but never make the guest discover responsibility only after something fails.
+
+No new Emerging, Candidate, Validated or Principle entry is created.
+
+Institution-comparison dashboard
+
+Case
+
+Institution
+
+Type
+
+Comparison status
+
+21
+
+Fogo Island Inn
+
+Hotel / inn
+
+Complete public-evidence comparator
+
+22
+
+Sky Lagoon
+
+Wellness venue
+
+Complete public-evidence comparator
+
+23
+
+Reffen
+
+Multi-operator food-and-cultural venue
+
+Complete public-evidence comparator
+
+Provisional recurrence:
+
+responsibility continuity,
+
+decomposed capacity,
+
+entitlement / fulfilment separation,
+
+and published recovery route / verified recovery performance separation.
+
+Three Cross-Sector Cases
+
+Enable Comparison.
+
+They Do Not Establish Validation.
+
+Candidate confidence dashboard
+
+Confidence
+
+Count
+
+Case #23 movement
+
+High
+
+9
+
+0
+
+Medium-High
+
+8
+
+0
+
+Medium
+
+9
+
+0
+
+Total
+
+26
+
+0
+
+Strong Case #23 pressure includes:
+
+Layered Arrival,
+
+Manageable Commitment,
+
+Participation Rule Consistency,
+
+Multi-Intent Hospitality,
+
+Human Assistance Where Structured Self-Service Is Insufficient,
+
+Capacity Proof,
+
+Stable Participation / Variable Product,
+
+Photography as Proof,
+
+Story Through Hospitality Model,
+
+Hospitality System Proof,
+
+and Narrative Coherence Through Organising Logic.
+
+Pressure does not cross a confidence threshold because live performance, representative outcomes and failure recovery remain unverified.
+
+Evidence dashboard — Case #23
+
+Public evidence supports:
+
+documented venue structure,
+
+operator plurality,
+
+published participation routes,
+
+selected rules and procedures,
+
+shared-resource dependencies,
+
+event overlays,
+
+capacity-object distinctions,
+
+and responsibility-boundary analysis.
+
+Public evidence does not verify:
+
+live capacity accuracy,
+
+cross-operator service consistency,
+
+recovery success,
+
+dietary safety,
+
+accessibility performance,
+
+representative guest experience,
+
+operator outcomes,
+
+or causality.
+
+Public Mechanism Evidence
+
+≠
+
+Verified Institutional Performance
+
+Governance-chain dashboard — Post Case #23
+
+Governance file
+
+Role
+
+Status
+
+khds/research/validation/candidate-patterns.md
+
+Canonical governance authority
+
+Reconciled / Complete
+
+khds/patterns/registry.md
+
+Pattern Registry mirror
+
+Reconciled / Complete
+
+khds/research/validation/dashboard.md
+
+Validation Dashboard mirror
+
+Reconciled / Complete
+
+khds/research/README.md
+
+Research-system overview mirror
+
+Next
+
+khds/research/validation/README.md
+
+Validation-system overview mirror
+
+Pending
+
+Next governance file
+
+khds/research/README.md
+
+It must mirror:
+
+latest completed case #23,
+
+3 completed institution dossiers,
+
+institution comparison complete through Cases #21–23,
+
+unchanged pattern totals and confidence,
+
+Shared-Venue / Distributed-Responsibility Architecture below pattern maturity,
+
+Case #24 unselected and unstarted,
+
+and the synthesis gate after Case #30.
+
+Final dashboard statement — Post Case #23
+
+The active state is:
+
+20 Independent Restaurants
+3 Completed Institution Dossiers
+1 Track B Validation Case
+
+26 Candidate Patterns
+8 Emerging Patterns
+1 Partially Supported Pattern
+0 Validated Patterns
+0 Research-Derived KHDS Principles
+
+The active next research state is:
+
+KHDS Case #24 — unselected and unstarted.
+
+Research is not authorised until Case #24 is selected.
+
+The next synthesis gate remains after KHDS Case #30.
+
+The governing Case #23 boundary is:
+
+Hospitality Difference May Remain Distributed.
+
+Guest Responsibility Must Remain Continuous.
+
+The maturity threshold remains intact.
 
 Evidence wins.
