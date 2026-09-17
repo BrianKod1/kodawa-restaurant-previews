@@ -1,21 +1,28 @@
 # KHDS Candidate Pattern Governance
 
+## Status
+
 <!-- KHDS-CURRENT-START -->
-Latest completed case: #23 — Reffen, Copenhagen
-Completed institution dossiers: 3
-Prior closures: Cases #21 and #22 remain closed at public-evidence scope.
-Institution comparison: complete through Cases #21–23.
-Next case: #24 — unselected and unstarted; research not authorized.
-Pattern totals: 26/8/1/0/0 (Candidate/Emerging/Partially Supported/Validated/research-derived Principles).
-Pattern confidence: unchanged.
-Research completion scope: public-evidence dossier; operational performance and outcomes remain unverified.
+
+**Canonical decision:** Post–Reffen reconciliation remains authoritative  
+**Latest completed case:** #23 — Reffen, Copenhagen  
+**Completed institution dossiers:** 3 (#21 Fogo Island Inn, #22 Sky Lagoon, #23 Reffen)  
+**Current research:** #24 — Time Out Market Lisboa; dimensions and extraction written, not administratively closed  
+**Institution comparison:** Complete for Cases #21–23; Case #24 is provisional and not counted  
+**Canonical movement:** None  
+**Pattern totals:** 26 Candidate / 8 Emerging / 1 Partially Supported / 0 Validated / 0 research-derived Principles  
+**Pattern confidence:** Unchanged  
+**Track:** Track A — Independent Hospitality Research  
+**Research scope:** Public evidence; service performance, guest outcomes and recovery remain unverified  
+**Canonical update:** 2026-09-16
+
 <!-- KHDS-CURRENT-END -->
 
-Historical status rule: earlier restaurant-cycle and Post–Fogo Island Inn status/count/handoff sections are preserved historical records. This current summary supersedes their prior active instructions; existing evidence and unresolved outcomes remain unchanged.
+Earlier cycle-status and handoff sections are historical records. This current block governs active research status; the final Post–Reffen reconciliation remains the latest formal canonical decision. The Case #22 section added below repairs a missing evidence ledger without retroactively moving maturity or confidence. Case #24 remains provisional and cannot change the canonical state before closure, completed-population comparison and explicit reconciliation.
 
-Case #22 governance decision: no promotions, demotions, renames, merges or confidence changes. Layered Arrival, Capacity Proof, Human Assistance Where Structured Self-Service Is Insufficient and Photography as Proof retain their status. Atmosphere as Product and Multi-Intent Hospitality remain Emerging. See [extraction](khds/research/institutions/wellness/sky-lagoon-kopavogur/knowledge-extraction.md). Public procedure and promotional evidence do not establish operational recurrence.
+Sky Lagoon's canonical result is **no movement**. Layered Arrival, Capacity Proof, Human Assistance Where Structured Self-Service Is Insufficient and Photography as Proof retain their status; Atmosphere as Product remains Emerging. **Multi-Intent Hospitality remains Candidate / Medium**, consistent with its earlier Restaurant #17 promotion. Public procedure and promotional evidence do not establish operational recurrence.
 
-Case #23 governance decision: no promotions, demotions, renames, merges, review-state changes or confidence changes. All 26 Candidates retain their maturity and confidence; all 8 Emerging patterns remain Emerging; Own the Guest Relationship remains Partially Supported / Medium. Shared-Venue / Distributed-Responsibility Architecture is recorded below formal pattern maturity. See [Reffen extraction](khds/research/institutions/venues/reffen-copenhagen/knowledge-extraction.md) and [institution comparison](khds/research/institutions-comparison/README.md). Three cross-sector cases enable comparison; they do not establish validation.
+Case #23 also produces no movement. All 26 Candidates retain maturity and confidence; all 8 Emerging patterns remain Emerging; Own the Guest Relationship remains Partially Supported / Medium. Shared-Venue / Distributed-Responsibility Architecture remains below formal pattern maturity. Three cross-sector cases enable comparison; they do not establish validation.
 
 ## Status
 
@@ -16759,6 +16766,192 @@ The case now appears in:
 
 ---
 
+# Retrospective Case #22 Canonical Evidence Reconciliation — Sky Lagoon
+
+## Reconciliation purpose
+
+Case #22 — **Sky Lagoon, Kópavogur** — was already counted as the second completed institution-transfer dossier and retained in the Case #23 cross-institution population. Its completed extraction, however, was not given a standalone canonical evidence ledger in this file. This section repairs that omission. It records the evidence that informed the already-retained governance decision; it does **not** reopen Case #22 or manufacture a later maturity event.
+
+Canonical evidence inputs:
+
+1. `../institutions/wellness/sky-lagoon-kopavogur/README.md`
+2. `../institutions/wellness/sky-lagoon-kopavogur/knowledge-extraction.md`
+3. `../institutions-comparison/README.md`
+
+Case #22 status:
+
+- geothermal bathing and wellness venue;
+- complete at public-evidence scope;
+- second independent institution-transfer case;
+- first wellness-sector comparator;
+- no participant, staff member or institution contacted;
+- no booking, payment, form submission or live failure test performed.
+
+```text
+Missing Canonical Ledger
+
+≠
+
+Missing Completed Case
+```
+
+---
+
+## Case #22 formal governance decision
+
+| Governance action | Decision |
+|---|---:|
+| Candidate promotions | 0 |
+| Confidence changes | 0 |
+| Demotions | 0 |
+| Renames | 0 |
+| Merges | 0 |
+| Review-state changes | 0 |
+| Validated promotions | 0 |
+| Research-derived Principle promotions | 0 |
+
+The completed institution count moved from **1 to 2**. Formal pattern counts did not move:
+
+```text
+Institution Transfer Cases: 1 + 1 = 2
+Candidate Patterns: 26 + 0 = 26
+Emerging Patterns: 8 + 0 = 8
+Partially Supported Patterns: 1 + 0 = 1
+Validated Patterns: 0 + 0 = 0
+Research-Derived Principles: 0 + 0 = 0
+```
+
+---
+
+## Case #22 canonical mechanism record
+
+Sky Lagoon separates a seemingly bounded admission product into distinct guest states and responsibility objects:
+
+- institutional discovery;
+- intermediary offer selection;
+- pre-arrival needs request;
+- transport pickup;
+- venue admission;
+- changing and ritual participation;
+- refreshment or dining;
+- exit, onward transport and unresolved inquiry.
+
+The canonical comparison unit is not “wellness venue” as a score. It is the responsible role carrying a defined guest state under known conditions and a recoverable failure route.
+
+| Guest state | Case #22 evidence | Canonical boundary |
+|---|---|---|
+| Discovery | Business Iceland directory points to the named institution | Listing identity does not establish current operation, live inventory or sale ownership |
+| Offer / booking | An Icelandair offer defines seller-specific admission | One intermediary's rules do not establish direct-sale terms or every Sky Lagoon product |
+| Needs request | Seller publishes a request route toward a service provider | Request receipt or forwarding does not establish acknowledged and fulfilled accommodation |
+| Pickup / arrival | A named transport operator and telephone escalation are published | Published escalation does not establish response, protected admission or successful handoff |
+| Changing / ritual | A sequential ritual and one seller-described cold-step alternative are visible | Inclusion does not establish mandatory completion, venue-wide optionality or dignified substitution |
+| Refreshment | Venue claims and seller exclusions show product-dependent inclusion | Outlet visibility does not prove menu availability, dietary safety, payment or entitlement |
+| Exit / onward travel | A seasonal timetable is published | Physical exit and timetable publication do not establish boarding recovery, dispute closure or accepted inquiry |
+| Atmosphere / photography / story | Scenic claims, four dated seller frames and corporate framing provide bounded positioning | Promotional assets do not prove quiet, accessibility, consent, service performance, cultural legitimacy or equitable local outcome |
+
+Admission, transport, changing and assistance are therefore separate capacity stocks. Purchase or public availability of one stock does not establish readiness of the others.
+
+```text
+One Purchased Visit
+
+≠
+
+One Undifferentiated Entitlement
+```
+
+and:
+
+```text
+Published Recovery Route
+
+≠
+
+Verified Recovery Performance
+```
+
+---
+
+## Candidate and Emerging reconciliation — Case #22
+
+| Existing pattern | Canonical Case #22 pressure | Decision |
+|---|---|---|
+| Layered Arrival — Candidate / Medium | Separates transport readiness, admission proof, changing and experience entry | Retain maturity and confidence |
+| Capacity Proof — Candidate / Medium-High | Distinguishes offer availability from admission, transport, changing and assistance stocks | No positive validation; retain |
+| Human Assistance Where Structured Self-Service Is Insufficient — Candidate / Medium | Supplies a published escalation trigger while acceptance and successful help remain unknown | Retain |
+| Photography as Proof — Candidate / Medium-High | Dated frames support bounded positioning but not practical route or service claims | Retain |
+| Multi-Intent Hospitality — Candidate / Medium | Buying, travelling, bathing, declining a step, obtaining help and leaving create distinct intents/states | Analytical pressure only; retain |
+| Atmosphere as Product — Emerging | Scenic ritual pressures guest control and care under mismatch | No lived outcome or promotion |
+
+All other formal patterns retain their pre-existing maturity and confidence.
+
+### Correction of the historical label
+
+The Case #22 extraction's pressure table described **Multi-Intent Hospitality** as Emerging. Canonical KHDS history had already promoted it after Restaurant #17 — Avatar Robot Café DAWN. Its correct Case #22 state is therefore:
+
+**Multi-Intent Hospitality — Candidate / Medium.**
+
+```text
+Historical Extraction Label
+
+≠
+
+Canonical Maturity
+```
+
+This correction is not a Case #22 promotion or a new confidence movement. It restores the canonical status that already governed when Case #22 was completed.
+
+---
+
+## Case #22 falsification disposition
+
+The extraction records ten bounded or unresolved tests:
+
+1. **S01:** institutional identity versus sale owner;
+2. **S02:** public offer availability versus all service capacities;
+3. **S03:** forwarded access request versus accepted accommodation;
+4. **S04:** pickup telephone route versus successful recovery;
+5. **S05:** ritual inclusion versus mandatory completion;
+6. **S06:** attractive imagery versus accessible or quiet visit;
+7. **S07:** named outlets versus dietary safety and product inclusion;
+8. **S08:** physical exit versus service-relationship closure;
+9. **S09:** place-led story versus equitable local outcome;
+10. **S10:** short duration versus low responsibility complexity.
+
+None is a completed operational falsification experiment. Required evidence includes current route-specific terms, measured allocation, acknowledged needs, observed receiving roles and remedies, permissioned staff/guest evidence, and independently supportable outcomes.
+
+Reported expansion is **level 6 activity evidence only**. The reviewed evidence does not establish level 7 service performance, level 8 bounded guest experience, level 9 durable outcome or level 10 causality. Repeated venue and seller marketing language is not independent corroboration.
+
+---
+
+## Final canonical decision — Case #22
+
+Sky Lagoon strengthens the institution-comparison architecture by showing that a short, time-bounded wellness visit can still cross intermediary, transport, venue, changing, ritual, refreshment and onward-travel responsibilities.
+
+It does not establish:
+
+- live capacity performance;
+- accepted accommodation;
+- successful recovery;
+- comprehensive ritual optionality;
+- dietary or accessibility performance;
+- lived atmospheric outcome;
+- equitable local benefit;
+- or causality.
+
+Canonical result:
+
+```text
+26 Candidate Patterns
+8 Emerging Patterns
+1 Partially Supported Pattern
+0 Validated Patterns
+0 Research-Derived KHDS Principles
+```
+
+Case #22 produces no maturity or confidence movement. Its completed evidence remains one of the three inputs to the Post–Reffen comparison below.
+
+---
+
 # Post–Reffen Canonical Governance Reconciliation
 
 ## Cycle identity
@@ -17300,11 +17493,11 @@ Total: 26
 
 The institution-comparison architecture is reconciled through Cases #21–23.
 
-The active next research state is:
+The historical next research state at the Post–Reffen reconciliation was:
 
 **KHDS Case #24 — unselected and unstarted.**
 
-Research is not authorised until Case #24 is selected.
+Case #24 has since been selected as **Time Out Market Lisboa**. Its dimensions and cross-dimensional extraction are written, and its institution comparison is provisional. It is not yet administratively closed or part of the completed comparison population. That later research status does not alter this Post–Reffen canonical decision.
 
 The next synthesis gate remains:
 
@@ -17323,3 +17516,20 @@ The maturity threshold remains intact.
 Evidence wins.
 
 ---
+
+# Current provisional handoff — Case #24
+
+Time Out Market Lisboa currently tests the Shared-Venue / Distributed-Responsibility Architecture against an indoor, publisher-curated market whose seller, shared-seating, event, Academy, card and group states may have different responsible roles.
+
+The provisional comparison asks whether one institution-facing brand supplies a real receiving and recovery bridge across those states, or whether it only redirects the guest among distributed actors. Public pages cannot resolve either branch.
+
+Canonical decision:
+
+- no fourth completed institution dossier yet;
+- no Candidate promotion or confidence movement;
+- no Emerging promotion;
+- no change to `Own the Guest Relationship`;
+- no validation or research-derived Principle;
+- no canonical adoption of a new Case #24 architecture before closure and reconciliation.
+
+Case-level consistency, explicit public-evidence closure and completed-population comparison must precede the next canonical governance pass. The active totals remain **26/8/1/0/0**.

@@ -2,16 +2,31 @@ KHDS Institution-Comparison Architecture
 
 Status
 
-Architecture status: Established
+<!-- KHDS-CURRENT-START -->
+
+Architecture status: Established and populated
 Established after: KHDS Case #21 — Fogo Island Inn
 Research track: Track A — Independent Hospitality Institution Research
 Comparison type: Cross-institution and cross-sector comparison
 First seeded case: Fogo Island Inn, Newfoundland and Labrador
-Completed institution cases represented: 1 locally complete case
-Cross-institution recurrence status: Not yet testable
+Latest completed case: KHDS Case #23 — Reffen, Copenhagen
+Completed institution cases represented: 3 public-evidence dossiers
+Active research case: KHDS Case #24 — Time Out Market Lisboa; eleven dimensions and cross-dimensional extraction written, case not closed
+Case #24 comparison state: Provisional, explicitly segregated from the completed three-case population
+Institution types represented: Hotel / inn, wellness venue, and multi-operator food-and-cultural venue
+Cross-institution recurrence status: Provisionally testable; insufficient for validation
 Canonical governance changes: None
+Pattern totals retained: 26 Candidate / 8 Emerging / 1 Partially Supported / 0 Validated / 0 research-derived Principles
 Canonical authority: khds/research/validation/candidate-patterns.md
-Architecture date: 2026-09-08
+Architecture established: 2026-09-08
+Latest comparison update: 2026-09-16
+Research completion scope: Public evidence; operational performance and outcomes remain unverified
+
+<!-- KHDS-CURRENT-END -->
+
+Earlier case-specific status and handoff statements are historical records. This current block supersedes them as the active institution-comparison status.
+
+Case #24 has an open index and public-evidence knowledge extraction. The completed-case comparison and three-dossier count remain those of Cases #21–23. The Case #24 record below supplies provisional same-class falsification, not a fourth completed case or a governance event.
 
 Purpose
 
@@ -2672,6 +2687,1038 @@ Distributed delivery tests relationship ownership
 
 No change
 
+Case #22 comparison record
+
+Institution
+
+Sky Lagoon
+
+Type
+
+Geothermal bathing and wellness venue
+
+Location
+
+Kópavogur, Iceland
+
+Local research status
+
+Complete at public-evidence level
+
+Comparison status
+
+Second independent institution case; first wellness-sector comparator
+
+Primary guest roles
+
+day visitor,
+
+guardian,
+
+intermediary purchaser,
+
+and onward traveller.
+
+Primary intent
+
+A time-bounded bathing and wellness visit whose participation may include purchased admission, ritual sequence, changing, transport and onward travel.
+
+Duration
+
+Day visit; exact live duration remains unverified.
+
+Strongest comparison contribution
+
+Sky Lagoon separates:
+
+offer,
+
+admission,
+
+transport,
+
+changing,
+
+assistance,
+
+ritual participation,
+
+and onward-travel readiness
+
+as distinct hospitality states and responsibility objects.
+
+One Purchased Visit
+
+≠
+
+One Undifferentiated Entitlement
+
+Capacity and entitlement boundary
+
+Admission, transport, changing and assistance are analytically separate stocks.
+
+Published offer terms can establish entitlement structure.
+
+They do not establish:
+
+measured inventory,
+
+operating performance,
+
+successful assistance,
+
+or guest outcome.
+
+Failure and recovery boundary
+
+Missed transport, unsuitable accommodation, unwanted participation and unclear closure remain comparison questions.
+
+A published escalation route is evidence of a recovery mechanism.
+
+It is not proof that recovery succeeds in operation.
+
+Published Recovery Route
+
+≠
+
+Verified Recovery Performance
+
+Transfer boundary
+
+Compare responsibility across guest states.
+
+Do not import:
+
+hotel room-night logic,
+
+full-board responsibility,
+
+ferry dependency,
+
+or Fogo Island Inn's social-business conclusions.
+
+Governance decision
+
+Case #22 created no pattern maturity or confidence movement.
+
+Extraction-grounded responsibility and evidence register
+
+The Case #22 knowledge extraction supplies the following bounded units. A named owner here is a published role or responsibility hypothesis, not an observed assignment; proof levels describe the claim and do not score Sky Lagoon. The underlying Case #22 dimension files and evidence ledger retain the source dates and product-specific applicability.
+
+Guest state
+
+Capacity, entitlement and handoff
+
+Available evidence
+
+Unresolved failure / recovery
+
+Discovery
+
+Business Iceland directory points to the named venue; it does not expose live admission inventory
+
+Public identity/listing fact, level 1
+
+Historic listing copy cannot verify present operation or who sells a particular offer
+
+Selection / booking
+
+Icelandair's selected offer defines a seller-specific admission entitlement
+
+Published seller rule, level 2
+
+Direct-sale terms and live stock remain unmeasured; an intermediary offer cannot stand for every Sky Lagoon booking
+
+Pre-arrival needs
+
+Request moves from seller toward service provider; forwarding is distinct from acceptance
+
+Published seller rule, level 2
+
+Acknowledged, route-specific accommodation and available assistance have not been observed
+
+Pickup and arrival
+
+Seller names a transport operator and telephone escalation; transport and bathing admission are separate stocks
+
+Visible published procedure, level 3
+
+A named number does not verify response, protected admission or successful vehicle-to-venue handoff
+
+Changing and ritual
+
+Ritual is sequential, but purchased inclusion does not prove every step mandatory
+
+Published offer, levels 1–2; one seller-described cold-step alternative
+
+Venue-wide opt-out, substitution, changing support and dignified refusal need direct evidence
+
+Refreshment / dining
+
+A visible refreshment offer is not automatically included in every package
+
+Institutional claim, level 1; seller exclusion, level 2
+
+Menu, allergen handling, payment and actual service access are unverified
+
+Exit / onward travel
+
+Seasonal timetable is published; issue closure can cross venue, seller and transport roles
+
+Published timetable, level 2; other receiving routes remain gaps
+
+Boarding failure, disputed charge and acknowledgement of an unresolved issue are not observed
+
+Atmospheric, visual and institutional claims
+
+Scenery and dated promotional frames show positioning, not crowd, accessible route, service or local benefit
+
+Institutional claims and direct observation of four seller images, level 1
+
+Guest-state compatibility, image consent, service reliability and equitable outcomes require different evidence
+
+Reported expansion is activity evidence only (level 6). No reviewed evidence establishes level 7 service performance, level 8 bounded guest experience, level 9 durable outcome or level 10 causality for this case. Repeated seller/venue marketing copy is not independent operational corroboration. Case #22 extraction.
+
+Controlled comparison with Case #21 and Case #23
+
+Transfer question
+
+Case #21 — Fogo Island Inn
+
+Case #22 — Sky Lagoon
+
+Case #23 — Reffen
+
+Shared test, without copying sector facts
+
+Arrival / handoff
+
+Multi-stage destination and overnight handoff
+
+Intermediary sale, separate pickup and admission, then changing
+
+Open venue entry, individual operator and shared-resource handoffs
+
+Name the accepting role at each guest-state transition; do not transfer Fogo's ferry or room facts
+
+Capacity
+
+Room-night, transport, dining and human-support stocks
+
+Admission, transport, changing and assistance stocks
+
+Operator inventory, shared seats, queues and event stocks
+
+Published availability of one stock cannot prove readiness of the others
+
+Entitlement
+
+Product-specific stay and inclusions
+
+Seller-specific admission, ritual and extras
+
+Ordinary entry, purchases and event/group commitments
+
+Inspect what was actually purchased before asserting inclusion, eligibility or fulfilment
+
+Privacy / agency
+
+Room and multi-day personal-service states
+
+Changing privacy and ability to decline a ritual step
+
+Public seating and variable social/event participation
+
+Test the relevant guest state's privacy and alternatives; an upscale/private option is not the only possible accommodation
+
+Recovery / closure
+
+Checkout may leave travel or service obligations
+
+Pickup phone and seasonal onward timetable do not prove resolution
+
+Seller, venue and event responsibilities may split after failure
+
+Trace the receiving owner and unresolved obligations beyond physical exit
+
+Place / story
+
+Island place and social-business account
+
+Icelandic scenic and corporate framing
+
+Former industrial place and entrepreneur platform
+
+Similar place language does not transfer ownership, cultural legitimacy or benefit-distribution evidence
+
+This is a conceptual comparison of three already researched institutions, not three independent tests of live responsibility continuity. Sky Lagoon's short visit does not establish lower responsibility complexity than an overnight stay or multi-operator venue. Case #21 extraction, Case #22 extraction, Case #23 extraction.
+
+Case #22 falsification and canonical boundary
+
+The extraction records ten unresolved or bounded tests: S01 institutional identity versus sale owner; S02 availability versus all service stocks; S03 forwarded access need versus accepted accommodation; S04 pickup contact versus successful recovery; S05 ritual inclusion versus mandatory completion; S06 imagery versus accessible/quiet visit; S07 outlet presence versus dietary safety and inclusion; S08 exit versus relationship closure; S09 place-led story versus equitable local outcome; and S10 visit length versus responsibility complexity. None is a successful operational falsification experiment. Required evidence includes current route-specific terms, measured allocation, acknowledged needs and remedies, staff/guest observations with permission, and independently supportable outcomes. Case #22 extraction.
+
+Existing Candidate pressure applies especially to Layered Arrival, Capacity Proof, Human Assistance Where Structured Self-Service Is Insufficient and Photography as Proof; Atmosphere as Product remains Emerging. The historical Case #22 extraction labels Multi-Intent Hospitality Emerging in its pressure table; the current canonical governance labels it Candidate / Medium. That earlier label is not a present demotion or a reason to infer a new maturity decision from one purchase-to-bathing journey. Totals and confidence remain unchanged. A completed public-evidence dossier is not a verified operational journey or pattern validation.
+
+Case #23 comparison record
+
+Institution
+
+Reffen — Copenhagen Street Food
+
+Type
+
+Open-air street-food market and cultural hospitality venue
+
+Location
+
+Refshaleøen, Copenhagen, Denmark
+
+Local research status
+
+Complete at public-evidence level across eleven dimensions and cross-dimensional extraction
+
+Comparison status
+
+Third independent institution case; first multi-operator venue comparator
+
+Primary guest roles
+
+general visitor,
+
+diner,
+
+event participant,
+
+group organiser,
+
+group member,
+
+intermediary purchaser,
+
+and operator-facing applicant where relevant.
+
+These roles must not be collapsed into one generic visitor state.
+
+Primary intents
+
+eat or drink,
+
+meet socially,
+
+attend an event,
+
+explore the venue,
+
+use shared leisure space,
+
+organise a group visit,
+
+or participate in a temporary programme.
+
+Duration
+
+Short visit, extended day visit or event-dependent visit without overnight custody.
+
+Dominant organising logic
+
+Curated plurality inside a shared place.
+
+Strongest transfer finding
+
+Hospitality Difference May Remain Distributed.
+
+Guest Responsibility Must Remain Continuous.
+
+Central architecture family
+
+Shared-Venue / Distributed-Responsibility Architecture
+
+This architecture describes one guest-facing place whose:
+
+products,
+
+transactions,
+
+inventories,
+
+programmes,
+
+queues,
+
+service clocks,
+
+stories,
+
+and recovery responsibilities
+
+are distributed across independent or semi-independent actors.
+
+It remains comparison architecture.
+
+It is not a formal pattern.
+
+Strongest case boundary
+
+One Guest-Facing Place
+
+≠
+
+One Hospitality Operator
+
+Strongest dimension boundaries
+
+Dimension
+
+Reffen boundary
+
+Discovery
+
+Many Reasons to Visit ≠ One Universal Visit Route
+
+Reservation / Access
+
+One Visit ≠ One Reservation
+
+Pre-arrival
+
+Spontaneous Participation ≠ Unprepared Participation
+
+Arrival
+
+Open Threshold ≠ Self-Explanatory Arrival
+
+Participation
+
+Self-Directed ≠ Self-Supported
+
+Dining
+
+One Place ≠ One Dining System
+
+Events
+
+Free Place ≠ Unbounded Event
+
+Departure
+
+Guest Gone ≠ Guest Complete
+
+Atmosphere
+
+Atmospheric Coherence ≠ Atmospheric Sameness
+
+Photography
+
+One Venue Image System ≠ One Operator's Evidence
+
+Story
+
+One Coherent Venue Story ≠ One Institutional Narrative Owner
+
+Responsibility finding
+
+Operator difference does not need to be erased.
+
+The guest must still be able to determine:
+
+which participation object is active,
+
+whose rules apply,
+
+which capacity stock controls access,
+
+who owns the next handoff,
+
+where assistance comes from,
+
+and how the current route completes or recovers.
+
+The strongest reusable rule is:
+
+Preserve operator difference, but never make the guest discover responsibility only after something fails.
+
+Evidence boundary
+
+Public evidence establishes:
+
+venue structure,
+
+published routes,
+
+operator plurality,
+
+practical information,
+
+event surfaces,
+
+selected terms,
+
+and visible participation mechanisms.
+
+It does not independently establish:
+
+live capacity accuracy,
+
+operator consistency,
+
+handoff performance,
+
+dietary safety,
+
+accessibility performance,
+
+representative guest experience,
+
+operator outcomes,
+
+or causality.
+
+Governance decision
+
+Case #23 adds architecture, contradiction evidence and falsification requirements.
+
+It creates:
+
+no promotion,
+
+no demotion,
+
+no rename,
+
+no merge,
+
+no confidence change,
+
+no validation,
+
+and no research-derived Principle.
+
+Cross-institution comparison — Cases #21–23
+
+The comparison population now contains three institution types.
+
+Comparison field
+
+Case #21 — Fogo Island Inn
+
+Case #22 — Sky Lagoon
+
+Case #23 — Reffen
+
+Institution type
+
+Boutique hotel / inn
+
+Geothermal wellness venue
+
+Multi-operator food-and-cultural venue
+
+Primary duration
+
+Overnight / multi-day
+
+Time-bounded day visit
+
+Short, extended or event-dependent visit
+
+Dominant responsibility form
+
+Institution carries the guest through a long journey
+
+Venue carries participation through a bounded ritual and visit
+
+Venue and operators divide responsibility across a shared place
+
+Primary capacity objects
+
+Room, transport, dining, activity, human support
+
+Admission, transport, changing, assistance, participation
+
+Operator inventory, queues, seating, shared resources, events and assistance
+
+Strongest handoff pressure
+
+Remote travel to property, room, dining and island participation
+
+Arrival, changing, ritual participation and onward travel
+
+Venue-to-operator, operator-to-shared-resource and event overlays
+
+Strongest continuity question
+
+Does responsibility travel with the guest?
+
+Does responsibility remain legible through each guest state?
+
+Does responsibility remain continuous across independent operators?
+
+Primary recovery risk
+
+Guest crosses a geographic or service boundary without a clear owner
+
+Published escalation exists but may not work in live operation
+
+The guest discovers fragmented ownership only after failure
+
+Outcome evidence
+
+Unverified
+
+Unverified
+
+Unverified
+
+Governance effect
+
+No change
+
+No change
+
+No change
+
+Provisional recurrence 1 — Responsibility continuity
+
+All three cases pressure the need for responsibility to remain legible across changing guest states.
+
+The delivery form differs:
+
+Fogo Island Inn extends responsibility across place and time.
+
+Sky Lagoon sequences responsibility through a bounded wellness visit.
+
+Reffen distributes responsibility across operators and shared infrastructure.
+
+The recurring mechanism is:
+
+Guest State Changes
+↓
+Responsibility Remains Legible
+↓
+Failure Has an Identifiable Owner
+↓
+Recovery or Completion Remains Possible
+
+This is provisional cross-institution recurrence.
+
+It is not pattern validation because public evidence does not establish live performance or outcomes.
+
+Provisional recurrence 2 — Capacity must be decomposed
+
+Each institution contains more than one capacity stock.
+
+A hotel is not adequately represented by room inventory alone.
+
+A wellness venue is not adequately represented by admission alone.
+
+A shared venue is not adequately represented by total physical occupancy alone.
+
+Institution Capacity
+
+≠
+
+One Inventory Number
+
+The recurring comparison requirement is to identify the capacity object controlling the guest's present state.
+
+Provisional recurrence 3 — Entitlement and experience remain separate
+
+Across all three cases, purchase, eligibility or admission does not establish:
+
+operational availability,
+
+successful handoff,
+
+experienced atmosphere,
+
+satisfactory participation,
+
+or outcome.
+
+Entitlement
+
+≠
+
+Fulfilment
+
+Provisional recurrence 4 — Published recovery is not recovery performance
+
+Each case can expose public procedures or assistance routes.
+
+None of the three public-evidence dossiers can establish that these routes:
+
+respond consistently,
+
+possess sufficient capacity,
+
+preserve dignity,
+
+resolve the failure,
+
+or restore the intended guest state.
+
+Sector-specific differences retained
+
+The comparison does not collapse:
+
+overnight custody into day admission,
+
+day admission into open access,
+
+one institutional operator into many independent operators,
+
+room inventory into vendor stock,
+
+ritual sequence into free-form exploration,
+
+destination transport into local venue wayfinding,
+
+or private room states into shared seating states.
+
+Recurring Responsibility Need
+
+≠
+
+Identical Hospitality System
+
+Case #24 provisional comparison record — Time Out Market Lisboa
+
+Population and evidence rule
+
+Time Out Market Lisboa is selected and researched, with eleven dimension files and a cross-dimensional extraction. It is not yet administratively closed. This section gives the existing three-case architecture a fourth provisional test column without changing the completed institution count of 3, the latest completed case #23, or canonical governance. Its evidence is official public material and local dimension analysis; no visit, purchase, course, event admission, operator interview or service-recovery outcome was observed. Time Out concept, Portuguese FAQ, Academy store, Case #24 extraction.
+
+Comparison Candidate
+
+≠
+
+Completed Comparison Case
+
+Why this is a controlled Reffen contrast
+
+Case #23 Reffen introduced shared-venue/distributed-responsibility architecture below pattern maturity. Time Out tests whether the same guest-facing responsibility issue survives stronger editorial selection and one branded indoor hall, or whether a genuinely effective shared institution role can bridge more failures. Do not presume either that all Time Out sellers share one contract or that every complaint requires separate vendor recovery. Reffen knowledge extraction, Time Out's own curated-market account.
+
+Comparison condition
+
+Case #23 — Reffen (completed)
+
+Case #24 — Time Out (open)
+
+Falsification requirement
+
+Environment
+
+Open-air, seasonally exposed, geographically dispersed venue
+
+Indoor market in the older Mercado da Ribeira
+
+Indoor setting cannot be equated with quiet, access or stable sensory outcome
+
+Institutional carrier
+
+Destination/platform with visibly differentiated entrepreneurs
+
+Time Out Portugal presents editorially selected Lisbon food and culture
+
+Test whether guests understand seller authorship and responsibility despite a unifying publisher brand
+
+Place history
+
+Former industrial/waterfront setting as Reffen's venue context
+
+Older market building with traditional fresh-product traders in another wing; Time Out layer since 2014
+
+Co-location must not transfer traditional traders' history to every Time Out counter
+
+Everyday admission
+
+Visit with seller- and venue-dependent offers
+
+No ordinary table reservations; common tables under the Time Out food-hall proposition
+
+Entering cannot be treated as securing a suitable seat or preferred item
+
+Product relationship
+
+Named traders, shared venue activity
+
+Named curated restaurants/bars and seller-specific food descriptions
+
+Current menu, seller terms, allergy assessment and remedy need their own evidence
+
+Programme
+
+Open-air events and other venue activities
+
+Hall Salsa/Bingo and separate first-floor Studio; ground-floor Academy courses
+
+Show ticket, hall event, course ticket and ordinary dining are not one entitlement
+
+Value instruments
+
+Distinct Reffen gift-card and purchase questions
+
+General TOM-card terms, Academy vouchers and advertised preloaded group-event cards
+
+Establish group-card identity and eligible use before carrying general terms over
+
+Guest exit
+
+Different seller/event commitments can end at different times
+
+Meal, ticket, class, card balance, group or claim can stay open independently
+
+Physical departure cannot be treated as automatic financial/help closure
+
+Responsibility
+
+Venue, operators and organisers may hold different parts; live recovery not verified
+
+Curated brand may unify orientation; seller, shared seat, Academy, card and organiser duties remain to be tested
+
+A successful centralised service bridge might falsify the assumption of always-fragmented recourse
+
+Time Out evidence: historic place and traditional wing, selection and communal seating FAQ, food guide, Studio, Academy store, event index, general TOM-card terms and group proposals. Reffen detail remains in its extraction. This table compares published mechanisms and test needs, not observed performance or legal operator status.
+
+Provisional cross-institution mechanism pressure
+
+Architecture question from Cases #21–23
+
+What open Case #24 adds
+
+What remains unproved
+
+Responsibility continuity
+
+One publisher identity encompasses counter purchases, common seating, learning, events and card/group states
+
+Actual person with authority to resolve each failed state; whether a shared receiving role succeeds
+
+Capacity decomposition
+
+Separates physical entry, suitable seat, seller item, class edition, show place, group allocation and loaded card value
+
+Current stock, safe occupancy, suitable access and real allocation outcomes
+
+Entitlement versus fulfilment
+
+A workshop listing can be Coming Soon/Out of Stock; a voucher is not yet an edition ticket; market entry is not a table
+
+Which issued rights are fulfilled and what happens when they fail
+
+Published procedure versus live recovery
+
+Public card and course terms, enquiry routes and event contacts can be inspected
+
+Enforceable/current terms, response, assistance quality, remedy and guest outcome
+
+Place, story and proof attribution
+
+Historic traditional wing and modern curator relate spatially; named sellers retain their own histories
+
+Whether guests understand the distinction, current claims are accurate, or claimed neighbourhood benefit is causal
+
+These four existing provisional recurrences (and the attribution question) stay provisional, not validated or confidence-raised. The best test unit remains a responsible role carried through a defined guest state under known conditions with an evidenced failure route, not a generic brand, dish or building. Case #24 extraction, Time Out FAQ, card terms.
+
+Publication conflicts and case-level repair before promotion to completed population
+
+The same listed Salsa occurrence has a Portuguese-versus-English weekday/time publication conflict; official Time Out payment descriptions also differ across dated English FAQ and other market-facing material. These are documented publication states, not evidence anyone was turned away, denied payment or missed an event. A current occurrence-specific organiser answer and present seller-level payment evidence must precede a reliable guest instruction. Portuguese Salsa page, English Salsa page, 2019 English FAQ, Portuguese FAQ, Case #24 events file.
+
+The Portuguese FAQ places Academia Time Out on piso zero beside A Vida Portuguesa and Time Out Bar; the initial arrival.md and departure.md versions had said its floor was unverified. Correct those individual Case #24 files one at a time, but keep exact door, teaching room, step-free route and onsite reception unverified. The digital accessibility statement cannot fill the physical-access gap. Portuguese FAQ, Case #24 arrival, departure.
+
+The Case #24 index also needs an individual status pass before administrative public-evidence closure. After these passes and case review, this provisional record can be reconciled into the completed cross-institution population in this same comparison file as a later task. Case #24 would then become a fourth completed dossier only if closure is explicitly recorded; nothing in the present section changes that number. Case #24 index, Case #24 extraction.
+
+Falsification and governance decision
+
+An actual Time Out staff/service bridge that resolves seller, shared-seating, card and event failures might contradict a claim that distributed venue delivery always leaves distributed recourse. Conversely, a branded central contact that only redirects guests without a recoverable handoff could strengthen the guest-facing legibility question without proving a worse operational outcome. Test both possibilities under permission with current agreements, receiving-role observation and affected guest accounts. Neither branch is resolved by public pages. Case #24 extraction.
+
+Case #24 produces provisional same-class comparison pressure and evidence-repair work only:
+
+no newly named formal pattern;
+
+no pattern promotion, demotion, rename, merge or confidence change;
+
+no validation or research-derived Principle;
+
+no increase from three completed institution dossiers;
+
+no change to completed Cases #21–23 comparison judgments.
+
+The canonical authority remains khds/research/validation/candidate-patterns.md and is not edited in this one-file pass.
+
+Case #23 transfer-pressure register
+
+Pattern
+
+Current state
+
+Reffen pressure
+
+Current decision
+
+Layered Arrival
+
+Candidate / Medium
+
+Expands across discovery, transport, open threshold, internal orientation and operator selection
+
+No change
+
+Manageable Commitment
+
+Candidate / Medium
+
+Tests low-commitment general access beside event, group and operator-specific commitments
+
+No change
+
+Human Assistance Where Structured Self-Service Is Insufficient
+
+Candidate / Medium
+
+Tests cross-operator help and exception routing
+
+No change
+
+Participation Throughout the Journey
+
+Candidate / Medium
+
+Extends from visit planning through distributed ordering, events and departure
+
+No change
+
+Multi-Intent Hospitality
+
+Candidate / Medium
+
+Food, drink, events, leisure and group use create materially different intents
+
+No change
+
+Participation Rule Consistency
+
+Candidate / Medium
+
+Pressures consistency across venue rules and operator-specific terms
+
+No change
+
+Atmosphere Through Consistency
+
+Candidate / Medium
+
+Tests coherence without requiring atmospheric sameness
+
+No change
+
+Atmosphere Through Continuity
+
+Candidate / Medium-High
+
+Seasonal, temporal and event states test continuity across change
+
+No change
+
+Photography as Use-Case Evidence
+
+Candidate / Medium-High
+
+Requires proof of ordinary use, routes, shared space and operator difference
+
+No change
+
+Photography as Proof
+
+Candidate / Medium-High
+
+Tests venue-level proof against operator-level claims
+
+No change
+
+Capacity Proof
+
+Candidate / Medium-High
+
+Splits venue, operator, seating, event, service and recovery capacity
+
+No change
+
+Stable Participation / Variable Product
+
+Candidate / Medium-High
+
+Shared venue rules coexist with changing operator products and programmes
+
+No change
+
+Photography Should Demonstrate Difference
+
+Candidate / Medium-High
+
+Must demonstrate distributed operation rather than only visual novelty
+
+No change
+
+Story Through Hospitality Model
+
+Candidate / High
+
+The venue's curatorial and multi-operator model carries the story
+
+No change
+
+Hospitality System Proof
+
+Candidate / High
+
+Requires visibility of shared systems and responsibility boundaries
+
+No change
+
+Narrative Coherence Through Organising Logic
+
+Candidate / High
+
+Curated plurality supplies coherence without one narrative owner
+
+No change
+
+Atmosphere as Product
+
+Emerging
+
+Strong venue-level pressure; lived atmosphere and decision causality remain unverified
+
+No change
+
+Escalating Participation Complexity
+
+Emerging
+
+Multiple operators increase consequence complexity without necessarily increasing interface complexity
+
+No change
+
+The Guest as Participant
+
+Emerging
+
+The guest composes a visit across options, but material operating dependency remains unproven
+
+No change
+
+Own the Guest Relationship
+
+Partially Supported / Medium
+
+Distributed transactions and operator relationships sharpen the ownership boundary
+
+No change
+
+Reffen's remaining Candidate-pattern inclusion review is retained in:
+
+khds/research/institutions/venues/reffen-copenhagen/knowledge-extraction.md
+
 Cross-institution falsification programme
 
 The architecture should be revised if future cases show that:
@@ -2824,7 +3871,7 @@ and no mirror moves before canonical authority.
 
 Canonical state retained
 
-The architecture makes no canonical change.
+The completed comparison makes no canonical pattern-maturity or confidence change.
 
 State
 
@@ -2836,7 +3883,7 @@ Completed independent restaurants
 
 Completed institution transfer cases
 
-0
+3
 
 Track B validation cases
 
@@ -2874,9 +3921,9 @@ Research-derived KHDS Principles
 
 0
 
-Case #21 is locally complete.
+Cases #21, #22 and #23 are complete at public-evidence level.
 
-Its canonical completion count may be reconciled next.
+Case #23's completion and comparison status may now be mirrored into the canonical governance files.
 
 That count reconciliation must not be presented as a maturity promotion.
 
@@ -2936,15 +3983,27 @@ No single numeric institution score will be created.
 
 Decision 13
 
-Case #21 seeds the comparison architecture but does not establish recurrence.
+Case #21 remains the seed case; Cases #22 and #23 create provisional cross-institution recurrence without establishing validation.
 
 Decision 14
 
-Actual comparison files begin after a second independent institution case.
+The first three institution cases are compared in this architecture ledger. Dedicated dimension files may be created when comparison density makes them necessary.
 
 Decision 15
 
 No pattern or confidence change occurs.
+
+Decision 16
+
+Responsibility continuity is the strongest provisional cross-institution mechanism.
+
+Decision 17
+
+Shared-Venue / Distributed-Responsibility Architecture remains below formal pattern maturity.
+
+Decision 18
+
+Sector-specific custody, capacity and participation differences remain explicit rather than being normalised away.
 
 Completion state
 
@@ -3072,6 +4131,34 @@ Case #21 transfer-pressure register
 
 Complete
 
+Case #22 comparison record
+
+Complete
+
+Case #23 comparison record
+
+Complete
+
+Cases #21–23 cross-institution comparison
+
+Complete
+
+Case #23 transfer-pressure register
+
+Complete
+
+Case #24 same-class provisional comparison record
+
+Recorded; open case, not counted as completed
+
+Case #24 case-level consistency and closure
+
+Pending in its own dossier files
+
+Case #24 incorporation into completed comparison population
+
+Pending after explicit closure and review
+
 Architecture falsification programme
 
 Complete
@@ -3139,21 +4226,43 @@ Sector Transfer Pressure
 Does Not Mean
 Pattern Promotion.
 
-Case #21 now has a valid destination for its transfer findings.
+Cases #21–23 now occupy the institution-comparison architecture as independent hotel, wellness and venue cases.
 
-The comparison system is ready to receive the next independent hospitality institution.
+Case #24 — Time Out Market Lisboa — is a provisional fourth comparator, not yet a fourth completed dossier. It contrasts Reffen's open-air, distributed venue with an indoor, publisher-curated shared market and tests whether a unified brand also supplies an accountable recovery bridge. Its published routes do not verify the answer. Case #24 extraction, Time Out concept.
 
-Before that next case, canonical files may record:
+The comparison identifies provisional recurrence around:
 
-the completion of Case #21,
+responsibility continuity,
 
-the creation of the institution-comparison architecture,
+decomposed capacity,
+
+entitlement / fulfilment separation,
+
+and recovery-route evidence boundaries.
+
+It also identifies a new venue-specific architecture:
+
+Shared-Venue / Distributed-Responsibility Architecture
+
+Neither result creates formal pattern movement.
+
+Historical Case #23 reconciliation: canonical files could record:
+
+completion of Case #23,
+
+three completed institution dossiers,
+
+completion of the first three-case institution comparison,
+
+the new comparison architecture and falsification targets,
 
 and no maturity or confidence change.
 
 Next required sequence
 
-The comparison architecture is established.
+Historical Post–Case #23 handoff
+
+Institution comparison for Case #23 was complete when the following sequence was written. That handoff has since been superseded as the active sequence; it is retained here to preserve the audit trail.
 
 The next sequence is:
 
@@ -3167,13 +4276,13 @@ reconcile khds/research/README.md,
 
 reconcile khds/research/validation/README.md,
 
-then select KHDS Case #22.
+then select KHDS Case #24.
 
 The canonical reconciliation should record:
 
 20 completed independent restaurants,
 
-1 completed institution transfer case,
+3 completed institution transfer cases,
 
 1 Track B validation case,
 
@@ -3185,6 +4294,30 @@ The canonical reconciliation should record:
 
 0 Validated patterns,
 
-and 0 research-derived KHDS Principles.
+0 research-derived KHDS Principles,
 
-No pattern maturity or confidence movement is justified by Case #21 alone.
+Shared-Venue / Distributed-Responsibility Architecture below formal pattern maturity,
+
+and no pattern maturity or confidence movement.
+
+Three Cross-Sector Cases
+
+Enable Comparison.
+
+They Do Not Establish Validation.
+
+Current Post–Case #24 provisional handoff — 2026-09-16
+
+The active task is case-level consistency and closure, followed by a deliberate upgrade of this provisional comparator; do not make a fourth-case count or canonical decision ahead of those steps:
+
+Correct Case #24 arrival.md's Academy floor/location wording from the Portuguese FAQ; keep door and accessible route unverified.
+
+Correct Case #24 departure.md's unmapped Academy floor wording as a separate file pass.
+
+Update Case #24 README.md as a separate index pass, then review the whole dossier at public-evidence scope.
+
+If that review authorises administrative closure, revise this comparison file to place Case #24 in the completed population, with its Reffen and cross-sector contradictions explicit.
+
+Only afterward consider canonical candidate-patterns.md reconciliation and its mirrors; evidence pressure alone does not move maturity or confidence.
+
+As of this comparison update, latest completed case remains #23, completed institution dossiers remain 3, and patterns remain 26/8/1/0/0 (Candidate/Emerging/Partially Supported/Validated/research-derived Principles). Current Case #24 index, Case #24 extraction, canonical authority.

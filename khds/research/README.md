@@ -1,23 +1,27 @@
 KHDS Research
 
+Status
+
 <!-- KHDS-CURRENT-START -->
 
 Latest completed case: #23 — Reffen, Copenhagen
-Completed institution dossiers: 3
-Prior closures: Cases #21 and #22 remain closed at public-evidence scope.
-Institution comparison: complete through Cases #21–23.
-Next case: #24 — unselected and unstarted; research not authorized.
-Pattern totals: 26/8/1/0/0 (Candidate/Emerging/Partially Supported/Validated/research-derived Principles).
-Pattern confidence: unchanged.
-Research completion scope: public-evidence dossier; operational performance and outcomes remain unverified.
+Completed institution dossiers: 3 (#21 Fogo Island Inn, #22 Sky Lagoon, #23 Reffen)
+Current research: #24 — Time Out Market Lisboa; dimensions and extraction written, not administratively closed
+Institution comparison: Complete for Cases #21–23; Case #24 is provisionally compared and not counted
+Canonical governance: Post–Reffen; no formal movement
+Pattern totals: 26 Candidate / 8 Emerging / 1 Partially Supported / 0 Validated / 0 research-derived Principles
+Candidate confidence: 9 High / 8 Medium-High / 9 Medium; unchanged
+Track B validation cases: 1
+Track C synthesis builds: 1 — Third Rain, representing Cases #11–20
+Next synthesis gate: After Case #30
+Research scope: Public evidence; operational performance, guest outcomes and recovery remain unverified
+Overview update: 2026-09-16
 
 <!-- KHDS-CURRENT-END -->
 
-Historical status rule: earlier restaurant-cycle and Post–Fogo Island Inn status/count/handoff sections are preserved historical records. This current summary supersedes their prior active instructions; existing evidence and unresolved outcomes remain unchanged.
+Earlier research-cycle status and handoff sections are historical records. This current block governs the active research-system overview. The Post–Reffen reconciliation remains the latest formal governance event. Case #24 cannot increment the completed population or affect maturity before explicit closure, completed-population comparison and canonical reconciliation.
 
-Case #22 public-evidence research is complete: ten dimensions, an index and cross-dimensional extraction. Sky Lagoon dossier. Completed institution dossiers: 2. Direct-source access gaps remain documented.
-
-Case #23 public-evidence research is complete: eleven dimensions, an index, cross-dimensional extraction and institution comparison. Reffen dossier. Completed institution dossiers: 3. Shared-Venue / Distributed-Responsibility Architecture is retained below formal pattern maturity; no pattern or confidence changes occur.
+Case #22 — Sky Lagoon — is complete at public-evidence scope. Its repaired canonical ledger records no maturity or confidence movement and retains Multi-Intent Hospitality as Candidate / Medium. Case #23 — Reffen — remains the latest completed case and establishes Shared-Venue / Distributed-Responsibility Architecture below formal pattern maturity. Case #24 — Time Out Market Lisboa — supplies provisional same-class pressure only.
 
 Status
 
@@ -15416,6 +15420,128 @@ The maturity threshold remains intact.
 
 Evidence wins.
 
+Case #22 Research-System Mirror — Sky Lagoon
+
+Completed-case position
+
+Field
+
+Research-system state
+
+Case
+
+#22 — Sky Lagoon, Kópavogur, Iceland
+
+Institution type
+
+Geothermal bathing and wellness venue
+
+Research role
+
+Second institution case; first wellness-sector comparator
+
+Dossier status
+
+Complete at public-evidence scope
+
+Completed institution movement
+
+1 → 2
+
+Pattern movement
+
+None
+
+Confidence movement
+
+None
+
+Canonical record
+
+candidate-patterns.md
+
+Knowledge extraction
+
+Sky Lagoon extraction
+
+Comparison record
+
+Institution comparison
+
+Sky Lagoon extends KHDS beyond overnight hospitality into a bounded wellness visit. The short duration does not eliminate responsibility complexity: institutional discovery, intermediary purchase, needs communication, transport pickup, admission, changing, ritual participation, refreshments, exit and onward travel may have different responsible roles and failure states.
+
+One Purchased Visit
+
+≠
+
+One Undifferentiated Entitlement
+
+Case #22 reusable research knowledge
+
+Capacity must be decomposed. Admission, transport, changing and human assistance are different stocks.
+
+Request forwarding is not acceptance. A published needs route does not prove that an accommodation was acknowledged or fulfilled.
+
+Published escalation is not recovery performance. A pickup telephone number does not establish response, protected admission or successful handoff.
+
+Ritual inclusion is not mandatory completion. One advertised alternative does not establish comprehensive, dignified venue-wide choice.
+
+Exit is not automatic closure. Seasonal transport information does not prove boarding recovery, dispute resolution or issue acknowledgement.
+
+Promotional proof remains bounded. Scenic claims and dated frames do not demonstrate accessibility, quiet conditions, consent, service performance or equitable local outcomes.
+
+Case #22 governance mirror
+
+Pattern
+
+Current state
+
+Case #22 result
+
+Layered Arrival
+
+Candidate / Medium
+
+Retain
+
+Capacity Proof
+
+Candidate / Medium-High
+
+Retain
+
+Human Assistance Where Structured Self-Service Is Insufficient
+
+Candidate / Medium
+
+Retain
+
+Photography as Proof
+
+Candidate / Medium-High
+
+Retain
+
+Multi-Intent Hospitality
+
+Candidate / Medium
+
+Retain; the extraction's older Emerging label is superseded by canonical history
+
+Atmosphere as Product
+
+Emerging
+
+Retain
+
+All ten Case #22 falsification questions remain bounded or unresolved: sale owner, service stocks, accepted accommodation, pickup recovery, ritual choice, image proof, dietary safety, exit closure, equitable place benefit and visit-length complexity. No operational performance, representative guest experience, durable outcome or causality is established.
+
+Completed Public-Evidence Case
+
+≠
+
+Validated Hospitality Performance
+
 Current Research Position — Post Case #23
 
 Research-cycle identity
@@ -15865,19 +15991,19 @@ khds/research/institutions/venues/
 
 Venue research
 
-Case #23 complete
+Case #23 complete; Case #24 open and not administratively closed
 
 khds/research/institutions-comparison/
 
 Cross-institution comparison
 
-Complete through Cases #21–23
+Complete through Cases #21–23; Case #24 provisional and not counted
 
 khds/research/validation/
 
 Canonical governance and validation mirrors
 
-Reconciled through dashboard; final README next
+Reconciled through Research README; Validation README next
 
 khds/research/synthesis/
 
@@ -15941,7 +16067,9 @@ unchanged pattern totals and confidence,
 
 Shared-Venue / Distributed-Responsibility Architecture below formal pattern maturity,
 
-Case #24 unselected and unstarted,
+Sky Lagoon's repaired Case #22 canonical ledger with no maturity movement,
+
+Case #24 — Time Out Market Lisboa — open and provisionally compared but not counted as completed,
 
 and the next synthesis gate after Case #30.
 
@@ -15949,13 +16077,73 @@ Active research handoff
 
 Next research state:
 
-KHDS Case #24 — unselected and unstarted.
+KHDS Case #24 — Time Out Market Lisboa — selected, researched and provisionally compared.
 
-Research is not authorised until Case #24 is selected.
+Case #24 is not yet administratively closed. Its case-level consistency corrections, explicit closure, completed-population comparison and canonical reconciliation remain pending.
 
 Next synthesis gate:
 
 After KHDS Case #30.
+
+Current Open-Case Position — Case #24
+
+Field
+
+Current state
+
+Institution
+
+Time Out Market Lisboa
+
+Operating class
+
+Indoor, publisher-curated multi-operator food-and-cultural market
+
+Dimension files
+
+Written
+
+Cross-dimensional extraction
+
+Written
+
+Institution comparison
+
+Provisional
+
+Administrative closure
+
+Pending
+
+Completed institution count
+
+Remains 3
+
+Canonical movement
+
+None
+
+Case #24 provides a controlled same-class contrast with Reffen. It tests whether a unified institutional brand supplies a usable receiving and recovery bridge across seller, shared-seating, event, Academy, card and group states. Public evidence cannot yet establish either successful central recovery or inevitable fragmented recourse.
+
+Required sequence:
+
+complete the documented case-level consistency corrections;
+
+update and review the Case #24 index;
+
+explicitly close the dossier at public-evidence scope if justified;
+
+incorporate Case #24 into the completed comparison population;
+
+perform canonical reconciliation;
+
+update mirrors only from that canonical decision.
+
+Open Research Case
+
+≠
+
+Completed Governance Cycle
 
 Final research statement — Post Case #23
 
