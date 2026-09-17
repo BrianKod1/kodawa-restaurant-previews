@@ -12,10 +12,12 @@ Research status: Dimension research and knowledge extraction complete at public-
 Canonical maturity authority: khds/research/validation/candidate-patterns.md
 Opened: 2026-09-15
 Index reviewed: 2026-09-16
+Case-level review passed: 2026-09-17
+Administratively closed: 2026-09-17
 
-1. Case declaration
+Case declaration
 
-Time Out Market Lisboa is KHDS Case #24. Cases #21–23 remain the three completed institution dossiers at public-evidence scope. All eleven planned dimension files and the cross-dimensional extraction now exist, but that file completion does not make Case #24 administratively closed or canonically reconciled.
+Time Out Market Lisboa is KHDS Case #24. Cases #21–24 are the four completed institution dossiers at public-evidence scope. All eleven planned dimension files and the cross-dimensional extraction are complete. The case-level review passed and Case #24 is administratively closed. Canonical reconciliation remains pending.
 
 The market occupies Mercado da Ribeira and presents food, drink and cultural programming under one Time Out identity. Time Out describes it as the original market, opened in 2014, and publicly describes its selection as editorially curated. Its market material presents multiple eateries, communal tables without ordinary table reservations, a cooking academy, a first-floor Studio, and group event cards. The Portuguese FAQ places Academia Time Out on piso zero beside A Vida Portuguesa and Time Out Bar. That floor-and-landmark evidence does not establish the exact Academy door, internal route, reception handoff, teaching room or step-free access. These are descriptions of the published offer, not verified operating outcomes. Market overview, concept, Portuguese FAQ, Studio, events and groups.
 
@@ -23,7 +25,7 @@ The case is a controlled comparison with Reffen, not another restaurant review. 
 
 When one curated market contains many food choices and several guest routes, which rules and responsibilities belong to the shared venue, which to a particular eatery or programme, and how can a guest find an appropriate recovery route?
 
-2. Why this case now
+Why this case now
 
 Case #23 made the shared-venue responsibility problem visible, but one venue cannot establish same-class recurrence. Case #24 holds the broad venue class relatively stable while changing the conditions that might explain the result:
 
@@ -71,7 +73,7 @@ Does stronger brand and event coordination change that need, or only its appeara
 
 This table identifies comparison questions; it does not assert equal legal structures or operational performance. The Lisboa market's published venue and event routes are documented by its FAQ and events-and-groups page.
 
-3. Research questions
+Research questions
 
 Discovery: Does editorial curation help guests choose a route, or obscure which offer belongs to which eatery and when it is available?
 
@@ -91,7 +93,7 @@ Departure: Does a food purchase, event, workshop or delivery route end the insti
 
 The decisive transfer test is whether the same guest-facing need for a recoverable responsibility route survives a more unified editorial identity. A different result, or an evidence gap, must be recorded rather than forced into the Reffen model.
 
-4. Guest routes and capacity objects to separate
+Guest routes and capacity objects to separate
 
 Route
 
@@ -137,7 +139,7 @@ Platform availability, fulfillment, complaint channel, and the boundary with an 
 
 The completed dimension research establishes published route distinctions, including general TOM-card terms, occurrence-specific event pages, sample Academy terms and the Academy/Studio floor distinction. It does not establish seller contracts, live entitlement, delivery terms, accessible internal routes or successful recovery outcomes. Market overview, Portuguese FAQ, general TOM-card terms, Studio, events and groups.
 
-5. Falsification and claim boundaries
+Falsification and claim boundaries
 
 A unified market brand may improve orientation while leaving transaction responsibility distributed. Conversely, a published shared support route may genuinely bridge some operator boundaries. Test both possibilities.
 
@@ -158,7 +160,7 @@ Shared Seating ≠ Guaranteed Seat
 One Market Identity ≠ One Contract for Every Route
 Published Recovery Route ≠ Verified Recovery Outcome
 
-6. Dossier structure and sequence
+Dossier structure and sequence
 
 The Case #24 folder was built one file at a time. Current file state:
 
@@ -190,19 +192,19 @@ knowledge-extraction.md — cross-dimensional mechanisms, contradictions and fal
 
 For this institution, reservation.md means Booking / Access / Participation, not a claim that a walk-in diner can reserve a communal table.
 
-The institution-comparison file, khds/research/institutions-comparison/README.md, stays separate from the case dossier. Do not add Case #24 as a completed comparator until case-level review and administrative closure are agreed. Comparison reconciliation and canonical governance remain later, separate actions.
+The institution-comparison file, khds/research/institutions-comparison/README.md, stays separate from the case dossier. Case #24 is now eligible to be recorded there as a completed comparator. Comparison reconciliation and canonical governance remain later, separate actions.
 
-7. Current governance state
+Current governance state
 
-Completed institution dossiers: 3 (#21 Fogo Island Inn, #22 Sky Lagoon, #23 Reffen).
-Case #24: eleven dimension files and knowledge extraction complete at public-evidence scope; case-level review, administrative closure, completed-comparator inclusion and canonical reconciliation remain pending.
+Completed institution dossiers: 4 (#21 Fogo Island Inn, #22 Sky Lagoon, #23 Reffen, #24 Time Out Market Lisboa).
+Case #24: eleven dimension files and knowledge extraction complete at public-evidence scope; case-level review passed and administrative closure complete. Completed-comparator inclusion and canonical reconciliation remain pending.
 Pattern totals: 26 Candidate / 8 Emerging / 1 Partially Supported / 0 Validated / 0 research-derived Principles.
 Pattern confidence: unchanged.
 Canonical source: khds/research/validation/candidate-patterns.md.
 
 This public-evidence dossier does not authorize a promotion, demotion, rename, confidence change, production claim or showcase build. One Lisboa market and one Copenhagen market can pressure same-class transfer, but cannot validate a universal hospitality rule.
 
-8. Official source register and review note
+Official source register and review note
 
 Core pages were accessed on 2026-09-15; the Portuguese FAQ and its Academy location were rechecked on 2026-09-16. Each dimension file retains its own directly supporting sources and records stale, contradictory or unavailable evidence.
 
@@ -228,4 +230,4 @@ General TOM-card terms
 
 Private and corporate events, Academy, Studio and cards
 
-Next action: perform Case #24's case-level review and administrative closure as a separate pass. Only after closure should khds/research/institutions-comparison/README.md treat Case #24 as a completed comparator, followed by separate canonical reconciliation.
+Next action: update khds/research/institutions-comparison/README.md to treat Case #24 as a completed comparator. Then perform canonical reconciliation as a separate governance pass; administrative closure alone does not authorize pattern or confidence movement.

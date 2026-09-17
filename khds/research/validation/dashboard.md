@@ -4,23 +4,23 @@ Status
 
 <!-- KHDS-CURRENT-START -->
 
-Canonical decision: Post–Reffen reconciliation remains authoritative
-Latest completed case: #23 — Reffen, Copenhagen
-Completed institution dossiers: 3 (#21 Fogo Island Inn, #22 Sky Lagoon, #23 Reffen)
-Current research: #24 — Time Out Market Lisboa; dimensions and extraction written, not administratively closed
-Institution comparison: Complete for Cases #21–23; Case #24 is provisional and not counted
+Canonical decision: Post–Time Out Market Lisboa reconciliation complete
+Latest completed case: #24 — Time Out Market Lisboa
+Completed institution dossiers: 4 (#21 Fogo Island Inn, #22 Sky Lagoon, #23 Reffen, #24 Time Out Market Lisboa)
+Current research: None; Case #25 is unselected and unstarted, and research is not authorized
+Institution comparison: Complete for Cases #21–24
 Canonical movement: None
 Pattern totals: 26 Candidate / 8 Emerging / 1 Partially Supported / 0 Validated / 0 research-derived Principles
 Candidate confidence: 9 High / 8 Medium-High / 9 Medium; unchanged
 Track B validation cases: 1
 Research scope: Public evidence; service performance, guest outcomes and recovery remain unverified
-Dashboard update: 2026-09-16
+Dashboard update: 2026-09-17
 
 <!-- KHDS-CURRENT-END -->
 
-Earlier dashboard-cycle status and handoff sections are historical records. This current block governs the active dashboard state. The Post–Reffen reconciliation remains the latest formal canonical decision; the Case #22 section below repairs a missing mirror without changing governance. Case #24 remains provisional until case closure, completed-population comparison and explicit canonical reconciliation.
+Earlier dashboard-cycle status and handoff sections are historical records. This current block governs the active dashboard state. The Post–Time Out Market Lisboa reconciliation is the latest formal canonical decision; the Case #22 section below repairs a missing mirror without changing governance. Case #24 is closed, compared and canonically reconciled with no pattern or confidence movement.
 
-Sky Lagoon's dashboard result is no movement. Multi-Intent Hospitality remains Candidate / Medium, consistent with its Restaurant #17 promotion. Reffen remains the latest completed case. Time Out Market Lisboa does not yet increment the completed-dossier count.
+Sky Lagoon's dashboard result remains no movement. Multi-Intent Hospitality remains Candidate / Medium, consistent with its Restaurant #17 promotion. Reffen remains the first shared-venue comparator. Time Out Market Lisboa is the fourth completed institution dossier and produces no formal pattern or confidence movement.
 
 Status
 
@@ -4935,7 +4935,7 @@ Completed Public-Evidence Dossier
 
 Validated Operational Journey
 
-Current Dashboard Position — Post Case #23
+Historical — Current Dashboard Position — Post Case #23
 
 Dashboard cycle identity
 
@@ -5457,66 +5457,532 @@ Guest Responsibility Must Remain Continuous.
 
 The maturity threshold remains intact.
 
-Current Provisional Dashboard — Case #24
+Current Dashboard Position — Post Case #24
+
+Dashboard cycle identity
+
+Latest completed Track A case:
+
+KHDS Case #24 — Time Out Market Lisboa
+
+Institution type:
+
+Indoor, publisher-curated, multi-operator food-and-cultural market
+
+Completed institution dossiers:
+
+4
+
+Institution comparison status:
+
+Complete through Cases #21–24
+
+Canonical governance source:
+
+khds/research/validation/candidate-patterns.md
+
+Registry mirror:
+
+khds/patterns/registry.md
+
+Dashboard governance role:
+
+Governance mirror only
+
+Current research state
 
 Measure
 
-Current dashboard state
+Current state
 
-Institution
+Case #24 movement
 
-Time Out Market Lisboa
+Independent restaurants
 
-Case status
+20
 
-Open; not administratively closed
-
-Dimension research
-
-Written
-
-Cross-dimensional extraction
-
-Written
-
-Institution comparison
-
-Provisional
+0
 
 Completed institution dossiers
 
-Remains 3
+4
 
-Canonical movement
++1
 
-None
+Track B validation cases
 
-Pattern totals
+1
 
-26/8/1/0/0
+0
 
-Case #24 tests whether an indoor, publisher-curated market provides a genuine receiving and recovery bridge across seller, shared seating, event, Academy, card and group states, or whether it only redirects the guest among distributed actors. Public evidence cannot resolve either branch.
+Candidate patterns
 
-Before another canonical governance cycle, Case #24 requires:
+26
 
-case-level consistency corrections;
+0
 
-explicit public-evidence closure;
+Candidate / High
 
-incorporation into the completed comparison population;
+9
 
-explicit canonical reconciliation;
+0
 
-then new registry and dashboard mirrors if the canonical state changes.
+Candidate / Medium-High
 
-Until then:
+8
 
-Provisional Comparison Pressure
+0
+
+Candidate / Medium
+
+9
+
+0
+
+Emerging patterns
+
+8
+
+0
+
+Partially Supported patterns
+
+1
+
+0
+
+Validated patterns
+
+0
+
+0
+
+Research-derived KHDS Principles
+
+0
+
+0
+
+Implementation patterns pending formal validation
+
+1
+
+0
+
+Opportunity themes
+
+36
+
+0
+
+Track B implementation learnings
+
+17
+
+0
+
+Institution Dossiers: 3 + 1 = 4
+
+Candidate Patterns: 26 + 0 = 26
+Emerging Patterns: 8 + 0 = 8
+Partially Supported Patterns: 1 + 0 = 1
+Validated Patterns: 0 + 0 = 0
+Research-Derived Principles: 0 + 0 = 0
+
+Case #24 completion dashboard
+
+Case component
+
+Status
+
+Institution index
+
+Complete; reviewed and administratively closed
+
+Discovery
+
+Complete
+
+Reservation / access
+
+Complete
+
+Pre-arrival
+
+Complete
+
+Arrival
+
+Complete; Academy location correction applied
+
+Participation
+
+Complete
+
+Dining
+
+Complete
+
+Events
+
+Complete
+
+Departure
+
+Complete; Academy location correction applied
+
+Atmosphere
+
+Complete
+
+Photography
+
+Complete
+
+Story
+
+Complete
+
+Cross-dimensional knowledge extraction
+
+Complete
+
+Institution comparison
+
+Complete
+
+Canonical Candidate reconciliation
+
+Complete
+
+Pattern Registry mirror
+
+Complete
+
+Validation Dashboard mirror
+
+Complete
+
+Completion scope:
+
+Public evidence.
+
+Operational performance, staff behaviour, guest outcomes and successful recovery remain unverified.
+
+Formal governance movement — Case #24
+
+Governance action
+
+Movement
+
+Candidate promotions
+
+0
+
+Confidence changes
+
+0
+
+Review-state changes
+
+0
+
+Demotions
+
+0
+
+Renames
+
+0
+
+Merges
+
+0
+
+Emerging promotions
+
+0
+
+Validated promotions
+
+0
+
+Research-derived Principle promotions
+
+0
+
+New formally counted patterns
+
+0
+
+All 26 Candidate patterns retain their canonical names, maturity and confidence.
+
+All 8 Emerging patterns remain Emerging.
+
+Own the Guest Relationship remains Partially Supported / Medium.
+
+Candidate confidence dashboard
+
+Confidence
+
+Count
+
+Case #24 movement
+
+High
+
+9
+
+0
+
+Medium-High
+
+8
+
+0
+
+Medium
+
+9
+
+0
+
+Total
+
+26
+
+0
+
+Architecture dashboard — Case #24
+
+Architecture:
+
+Shared-Venue / Distributed-Responsibility Architecture
+
+Status:
+
+Architecture family below formal pattern maturity
+
+Case #24 result:
+
+The responsibility question survives a controlled change from Reffen's open-air, seasonal and visibly distributed setting to an indoor, editorially unified market. Public evidence still does not verify live responsibility transfer or successful recovery.
+
+Primary boundaries:
+
+One Market Identity
 
 ≠
 
-Fourth Completed Dossier
+One Contract for Every Route
 
-The next governance mirror is khds/research/README.md, followed by khds/research/validation/README.md.
+Published Recovery Route
+
+≠
+
+Verified Recovery Outcome
+
+Same-Class Recurrence
+
+≠
+
+Verified Operational Recurrence
+
+No new Emerging, Candidate, Validated or Principle entry is created.
+
+Institution-comparison dashboard
+
+Case
+
+Institution
+
+Type
+
+Comparison status
+
+21
+
+Fogo Island Inn
+
+Hotel / inn
+
+Complete public-evidence comparator
+
+22
+
+Sky Lagoon
+
+Wellness venue
+
+Complete public-evidence comparator
+
+23
+
+Reffen
+
+Open-air, multi-operator food-and-cultural venue
+
+Complete public-evidence comparator
+
+24
+
+Time Out Market Lisboa
+
+Indoor, publisher-curated, multi-operator food-and-cultural market
+
+Complete public-evidence comparator
+
+Comparison recurrence remains provisional around:
+
+responsibility continuity,
+
+decomposed capacity,
+
+entitlement / fulfilment separation,
+
+route-specific recovery,
+
+and published recovery route / verified recovery performance separation.
+
+Four Completed Institution Cases
+
+Enable Stronger Comparison.
+
+They Do Not Establish Validation.
+
+Evidence dashboard — Case #24
+
+Public evidence supports:
+
+editorial selection and named seller structure,
+
+ordinary communal-table access,
+
+distinct dining, event, Academy, Studio, card and group routes,
+
+separate capacity objects,
+
+published route and contact distinctions,
+
+and same-class comparison with Reffen.
+
+Public evidence does not verify:
+
+live seat or seller availability,
+
+seller-level contractual responsibility across the hall,
+
+dietary or accessibility performance,
+
+accepted assistance,
+
+successful event, card, purchase or service recovery,
+
+representative guest experience,
+
+neighbourhood outcomes,
+
+or causality.
+
+Public Mechanism Evidence
+
+≠
+
+Verified Institutional Performance
+
+Governance-chain dashboard — Post Case #24
+
+Governance file
+
+Role
+
+Status
+
+khds/research/validation/candidate-patterns.md
+
+Canonical governance authority
+
+Reconciled / Complete
+
+khds/patterns/registry.md
+
+Pattern Registry mirror
+
+Reconciled / Complete
+
+khds/research/validation/dashboard.md
+
+Validation Dashboard mirror
+
+Reconciled / Complete
+
+khds/research/README.md
+
+Research-system overview mirror
+
+Next
+
+khds/research/validation/README.md
+
+Validation-system overview mirror
+
+Pending
+
+Next governance file
+
+khds/research/README.md
+
+It must mirror:
+
+latest completed case #24,
+
+4 completed institution dossiers,
+
+institution comparison complete through Cases #21–24,
+
+unchanged 26/8/1/0/0 pattern totals and Candidate confidence,
+
+Shared-Venue / Distributed-Responsibility Architecture below pattern maturity,
+
+no formal governance movement,
+
+Case #25 unselected and unauthorized,
+
+and the synthesis gate after Case #30.
+
+Final dashboard statement — Post Case #24
+
+The active state is:
+
+20 Independent Restaurants
+4 Completed Institution Dossiers
+1 Track B Validation Case
+
+26 Candidate Patterns
+8 Emerging Patterns
+1 Partially Supported Pattern
+0 Validated Patterns
+0 Research-Derived KHDS Principles
+
+The next research state is:
+
+KHDS Case #25 — unselected and unstarted; research not authorized.
+
+The next synthesis gate remains after KHDS Case #30.
+
+The governing Case #24 boundaries are:
+
+One Market Identity
+
+≠
+
+One Contract for Every Route
+
+Published Recovery Route
+
+≠
+
+Verified Recovery Outcome
+
+The maturity threshold remains intact.
 
 Evidence wins.

@@ -4,19 +4,19 @@ Status
 
 <!-- KHDS-CURRENT-START -->
 
-Latest completed case: #23 — Reffen, Copenhagen
-Completed institution dossiers: 3 (#21 Fogo Island Inn, #22 Sky Lagoon, #23 Reffen)
-Current research: #24 — Time Out Market Lisboa; dimensions and extraction written, not administratively closed
-Institution comparison: Complete for Cases #21–23; Case #24 is provisional and not counted
-Canonical governance: Post–Reffen, no formal movement or confidence change
+Latest completed case: #24 — Time Out Market Lisboa
+Completed institution dossiers: 4 (#21 Fogo Island Inn, #22 Sky Lagoon, #23 Reffen, #24 Time Out Market Lisboa)
+Current research: None; Case #25 is unselected and unstarted, and research is not authorized
+Institution comparison: Complete for Cases #21–24
+Canonical governance: Post–Time Out Market Lisboa, no formal pattern movement or confidence change
 Pattern totals: 26 Candidate / 8 Emerging / 1 Partially Supported / 0 Validated / 0 research-derived Principles
 Research scope: Public evidence; service performance, guest outcomes and failure recovery remain unverified
 Canonical source: ../research/validation/candidate-patterns.md
-Registry update: 2026-09-16
+Registry update: 2026-09-17
 
 <!-- KHDS-CURRENT-END -->
 
-Earlier registry-cycle status and handoff sections, including their former instruction to select Case #24, are historical records. This current block governs the registry's active research status. The Post–Reffen canonical mirror below remains the latest formal governance event; provisional Case #24 comparison does not make it a fourth completed case or a new canonical decision.
+Earlier registry-cycle status and handoff sections, including their former instruction to select Case #24, are historical records. This current block governs the registry's active research status. The Post–Time Out Market Lisboa mirror at the end of this file reflects the latest canonical decision. Case #24 is the fourth completed institution dossier, but it creates no formal pattern or confidence movement.
 
 Purpose
 
@@ -9728,7 +9728,7 @@ There are still no Validated patterns and no research-derived KHDS Principles.
 
 Evidence wins.
 
-Post–Reffen Registry Mirror
+Historical — Post–Reffen Registry Mirror
 
 Active research state
 
@@ -9888,7 +9888,7 @@ It does not independently create governance.
 
 Historical next state — at the Post–Reffen reconciliation
 
-KHDS Case #24 — unselected and unstarted was the next state at that time. Case #24 has since been selected and researched, but is not yet closed; see the current status block and the provisional mirror below.
+KHDS Case #24 — unselected and unstarted was the next state at that time. Case #24 was subsequently selected, completed, closed, compared and canonically reconciled. That later state is recorded in the current status block and the Post–Time Out Market Lisboa mirror below.
 
 The next synthesis gate remains after KHDS Case #30.
 
@@ -9942,8 +9942,226 @@ The extraction's ten S01–S10 tests remain bounded or unresolved: sale owner, s
 
 The historical Sky Lagoon extraction describes Multi-Intent Hospitality as Emerging; current canonical governance records it as Candidate / Medium. The registry mirrors the canonical status and does not treat that historical description as a demotion. A short wellness visit can cross several responsible organisations without proving that short visits are operationally simpler than overnight stays or multi-operator venues.
 
-Case #24 provisional research mirror — not a governance event
+Post–Time Out Market Lisboa Registry Mirror
 
-The Time Out Market Lisboa extraction is being compared provisionally with Reffen's shared-venue model in the institution comparison. It tests whether one publisher-curated indoor brand bridges seller, seating, event, Academy and card-related failures, or only makes fragmented recourse easier to encounter. Published pages cannot settle either branch. Case-level consistency and administrative closure are still pending; the completed population remains three. Do not infer a fourth-case promotion, confidence increase or implementation pattern from this comparison.
+Canonical source:
 
-The authoritative pattern record is candidate-patterns.md, still Post–Reffen. The next registry governance pass belongs after Case #24 closure, completed-population comparison and explicit canonical reconciliation; it is not undertaken in this one-file registry update.
+../research/validation/candidate-patterns.md
+
+Canonical reconciliation status:
+
+Complete through KHDS Case #24.
+
+Active research state
+
+Measure
+
+Current state
+
+Independent restaurants
+
+20
+
+Completed institution-transfer cases
+
+4
+
+Track B validation cases
+
+1
+
+Candidate patterns
+
+26
+
+Candidate / High
+
+9
+
+Candidate / Medium-High
+
+8
+
+Candidate / Medium
+
+9
+
+Emerging patterns
+
+8
+
+Partially Supported patterns
+
+1
+
+Validated patterns
+
+0
+
+Research-derived KHDS Principles
+
+0
+
+Implementation patterns pending formal validation
+
+1
+
+Latest completed case
+
+KHDS Case #24 — Time Out Market Lisboa
+
+Institution type:
+
+Indoor, publisher-curated, multi-operator food-and-cultural market.
+
+Comparison status:
+
+Complete through Cases #21–24.
+
+Canonical movement
+
+Registry action
+
+Movement
+
+Candidate promotions
+
+0
+
+Confidence changes
+
+0
+
+Review-state changes
+
+0
+
+Demotions
+
+0
+
+Renames
+
+0
+
+Merges
+
+0
+
+Emerging promotions
+
+0
+
+Validated promotions
+
+0
+
+Research-derived Principle promotions
+
+0
+
+New formally counted patterns
+
+0
+
+Case #24 pattern mirror
+
+The following existing Candidates receive additional same-class or cross-sector pressure without maturity or confidence movement:
+
+Walk-In as First-Class Participation — retain Candidate / High.
+
+Multi-Intent Hospitality — retain Candidate / Medium.
+
+Participation Rule Consistency — retain Candidate / Medium.
+
+Layered Arrival — retain Candidate / Medium.
+
+Capacity Proof — retain Candidate / Medium-High.
+
+Hospitality System Proof — retain Candidate / High.
+
+Human Assistance Where Structured Self-Service Is Insufficient — retain Candidate / Medium.
+
+Stable Participation / Variable Product — retain Candidate / Medium-High.
+
+Story Through Hospitality Model — retain Candidate / High.
+
+Narrative Coherence Through Organising Logic — retain Candidate / High.
+
+Photography as Proof — retain Candidate / Medium-High.
+
+Photography as Use-Case Evidence — retain Candidate / Medium-High.
+
+Escalating Participation Complexity remains Emerging.
+
+Own the Guest Relationship remains Partially Supported / Medium.
+
+All other formal pattern states remain unchanged.
+
+Architecture registered below pattern maturity
+
+Shared-Venue / Distributed-Responsibility Architecture
+
+Case #24 strengthens this architecture through a controlled comparison with Reffen. It changes the environment from open-air, seasonal and visibly distributed to indoor, editorially unified and multi-route. The recurring question survives, but public evidence does not establish live responsibility transfer or successful recovery.
+
+Registry classification:
+
+Architecture family — not a formal pattern.
+
+Primary boundaries:
+
+One Market Identity
+
+≠
+
+One Contract for Every Route
+
+Published Recovery Route
+
+≠
+
+Verified Recovery Outcome
+
+Same-Class Recurrence
+
+≠
+
+Verified Operational Recurrence
+
+Registry authority boundary
+
+The complete decision is maintained in:
+
+../research/validation/candidate-patterns.md
+
+The comparison evidence is maintained in:
+
+../research/institutions-comparison/README.md
+
+This registry mirrors those decisions. It does not independently create governance.
+
+Mirror handoff
+
+The next mirror is:
+
+../research/validation/dashboard.md
+
+It must record:
+
+latest completed case #24,
+
+4 completed institution dossiers,
+
+26/8/1/0/0 formal pattern totals,
+
+unchanged Candidate confidence distribution,
+
+Shared-Venue / Distributed-Responsibility Architecture below formal pattern maturity,
+
+and no formal pattern or confidence movement.
+
+The next research state is:
+
+KHDS Case #25 — unselected and unstarted; research not authorized.
+
+The next synthesis gate remains after KHDS Case #30.

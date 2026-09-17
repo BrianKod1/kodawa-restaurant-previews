@@ -9,24 +9,24 @@ Established after: KHDS Case #21 — Fogo Island Inn
 Research track: Track A — Independent Hospitality Institution Research
 Comparison type: Cross-institution and cross-sector comparison
 First seeded case: Fogo Island Inn, Newfoundland and Labrador
-Latest completed case: KHDS Case #23 — Reffen, Copenhagen
-Completed institution cases represented: 3 public-evidence dossiers
-Active research case: KHDS Case #24 — Time Out Market Lisboa; eleven dimensions and cross-dimensional extraction written, case not closed
-Case #24 comparison state: Provisional, explicitly segregated from the completed three-case population
+Latest completed case: KHDS Case #24 — Time Out Market Lisboa
+Completed institution cases represented: 4 public-evidence dossiers
+Active research case: None; Case #25 is unselected and unstarted, and research is not authorized
+Case #24 comparison state: Completed at public-evidence scope and incorporated into the completed four-case population; canonical reconciliation pending
 Institution types represented: Hotel / inn, wellness venue, and multi-operator food-and-cultural venue
 Cross-institution recurrence status: Provisionally testable; insufficient for validation
 Canonical governance changes: None
 Pattern totals retained: 26 Candidate / 8 Emerging / 1 Partially Supported / 0 Validated / 0 research-derived Principles
 Canonical authority: khds/research/validation/candidate-patterns.md
 Architecture established: 2026-09-08
-Latest comparison update: 2026-09-16
+Latest comparison update: 2026-09-17
 Research completion scope: Public evidence; operational performance and outcomes remain unverified
 
 <!-- KHDS-CURRENT-END -->
 
 Earlier case-specific status and handoff statements are historical records. This current block supersedes them as the active institution-comparison status.
 
-Case #24 has an open index and public-evidence knowledge extraction. The completed-case comparison and three-dossier count remain those of Cases #21–23. The Case #24 record below supplies provisional same-class falsification, not a fourth completed case or a governance event.
+Case #24 passed case-level review and is administratively closed at public-evidence scope. The completed comparison population now contains four dossiers, Cases #21–24. The Case #24 record below supplies same-class falsification pressure and cross-sector comparison evidence; administrative closure and comparison inclusion do not by themselves create a canonical maturity or confidence change.
 
 Purpose
 
@@ -3381,17 +3381,17 @@ Recurring Responsibility Need
 
 Identical Hospitality System
 
-Case #24 provisional comparison record — Time Out Market Lisboa
+Case #24 completed comparison record — Time Out Market Lisboa
 
 Population and evidence rule
 
-Time Out Market Lisboa is selected and researched, with eleven dimension files and a cross-dimensional extraction. It is not yet administratively closed. This section gives the existing three-case architecture a fourth provisional test column without changing the completed institution count of 3, the latest completed case #23, or canonical governance. Its evidence is official public material and local dimension analysis; no visit, purchase, course, event admission, operator interview or service-recovery outcome was observed. Time Out concept, Portuguese FAQ, Academy store, Case #24 extraction.
+Time Out Market Lisboa is researched through eleven dimension files and a cross-dimensional extraction. Its case-level review passed and it is administratively closed at public-evidence scope. This section gives the institution architecture a fourth completed comparison column, increasing the completed institution count from 3 to 4 and making Case #24 the latest completed case. Canonical governance remains unchanged pending a separate reconciliation pass. Its evidence is official public material and local dimension analysis; no visit, purchase, course, event admission, operator interview or service-recovery outcome was observed. Time Out concept, Portuguese FAQ, Academy store, Case #24 extraction.
 
-Comparison Candidate
+Completed Comparison Case
 
 ≠
 
-Completed Comparison Case
+Canonical Governance Change
 
 Why this is a controlled Reffen contrast
 
@@ -3401,7 +3401,7 @@ Comparison condition
 
 Case #23 — Reffen (completed)
 
-Case #24 — Time Out (open)
+Case #24 — Time Out (completed at public-evidence scope)
 
 Falsification requirement
 
@@ -3479,11 +3479,11 @@ A successful centralised service bridge might falsify the assumption of always-f
 
 Time Out evidence: historic place and traditional wing, selection and communal seating FAQ, food guide, Studio, Academy store, event index, general TOM-card terms and group proposals. Reffen detail remains in its extraction. This table compares published mechanisms and test needs, not observed performance or legal operator status.
 
-Provisional cross-institution mechanism pressure
+Cross-institution mechanism pressure after Case #24
 
 Architecture question from Cases #21–23
 
-What open Case #24 adds
+What completed Case #24 adds
 
 What remains unproved
 
@@ -3519,19 +3519,19 @@ Whether guests understand the distinction, current claims are accurate, or claim
 
 These four existing provisional recurrences (and the attribution question) stay provisional, not validated or confidence-raised. The best test unit remains a responsible role carried through a defined guest state under known conditions with an evidenced failure route, not a generic brand, dish or building. Case #24 extraction, Time Out FAQ, card terms.
 
-Publication conflicts and case-level repair before promotion to completed population
+Publication conflicts and retained evidence boundaries
 
 The same listed Salsa occurrence has a Portuguese-versus-English weekday/time publication conflict; official Time Out payment descriptions also differ across dated English FAQ and other market-facing material. These are documented publication states, not evidence anyone was turned away, denied payment or missed an event. A current occurrence-specific organiser answer and present seller-level payment evidence must precede a reliable guest instruction. Portuguese Salsa page, English Salsa page, 2019 English FAQ, Portuguese FAQ, Case #24 events file.
 
-The Portuguese FAQ places Academia Time Out on piso zero beside A Vida Portuguesa and Time Out Bar; the initial arrival.md and departure.md versions had said its floor was unverified. Correct those individual Case #24 files one at a time, but keep exact door, teaching room, step-free route and onsite reception unverified. The digital accessibility statement cannot fill the physical-access gap. Portuguese FAQ, Case #24 arrival, departure.
+The Portuguese FAQ places Academia Time Out on piso zero beside A Vida Portuguesa and Time Out Bar; the initial arrival.md and departure.md versions had said its floor was unverified. Those individual files now contain the corrected floor-and-landmark wording while keeping the exact door, teaching room, step-free route and onsite reception unverified. The digital accessibility statement cannot fill the physical-access gap. Portuguese FAQ, Case #24 arrival, departure.
 
-The Case #24 index also needs an individual status pass before administrative public-evidence closure. After these passes and case review, this provisional record can be reconciled into the completed cross-institution population in this same comparison file as a later task. Case #24 would then become a fourth completed dossier only if closure is explicitly recorded; nothing in the present section changes that number. Case #24 index, Case #24 extraction.
+The Case #24 index received its individual status pass, the whole dossier passed case-level review, and administrative public-evidence closure is explicitly recorded. This comparison record therefore incorporates Case #24 into the completed cross-institution population as the fourth completed dossier. Canonical reconciliation remains a later, separate task. Case #24 index, Case #24 extraction.
 
 Falsification and governance decision
 
 An actual Time Out staff/service bridge that resolves seller, shared-seating, card and event failures might contradict a claim that distributed venue delivery always leaves distributed recourse. Conversely, a branded central contact that only redirects guests without a recoverable handoff could strengthen the guest-facing legibility question without proving a worse operational outcome. Test both possibilities under permission with current agreements, receiving-role observation and affected guest accounts. Neither branch is resolved by public pages. Case #24 extraction.
 
-Case #24 produces provisional same-class comparison pressure and evidence-repair work only:
+Case #24 produces completed same-class comparison pressure at public-evidence scope only:
 
 no newly named formal pattern;
 
@@ -3539,7 +3539,7 @@ no pattern promotion, demotion, rename, merge or confidence change;
 
 no validation or research-derived Principle;
 
-no increase from three completed institution dossiers;
+one administrative increase from three to four completed institution dossiers;
 
 no change to completed Cases #21–23 comparison judgments.
 
@@ -3873,9 +3873,11 @@ Canonical state retained
 
 The completed comparison makes no canonical pattern-maturity or confidence change.
 
+The administrative comparison count is now 4. The canonical authority still records 3 completed institution transfer cases until the next candidate-patterns.md reconciliation; this temporary mirror lag is explicit and does not reopen Case #24.
+
 State
 
-Current canonical total
+Current canonical total before Case #24 reconciliation
 
 Completed independent restaurants
 
@@ -4139,7 +4141,7 @@ Case #23 comparison record
 
 Complete
 
-Cases #21–23 cross-institution comparison
+Cases #21–24 cross-institution comparison
 
 Complete
 
@@ -4147,17 +4149,17 @@ Case #23 transfer-pressure register
 
 Complete
 
-Case #24 same-class provisional comparison record
+Case #24 same-class comparison record
 
-Recorded; open case, not counted as completed
+Complete; counted as the fourth completed public-evidence dossier
 
 Case #24 case-level consistency and closure
 
-Pending in its own dossier files
+Complete; review passed and administrative closure recorded
 
 Case #24 incorporation into completed comparison population
 
-Pending after explicit closure and review
+Complete
 
 Architecture falsification programme
 
@@ -4226,9 +4228,9 @@ Sector Transfer Pressure
 Does Not Mean
 Pattern Promotion.
 
-Cases #21–23 now occupy the institution-comparison architecture as independent hotel, wellness and venue cases.
+Cases #21–24 now occupy the institution-comparison architecture as independent hotel, wellness and venue cases.
 
-Case #24 — Time Out Market Lisboa — is a provisional fourth comparator, not yet a fourth completed dossier. It contrasts Reffen's open-air, distributed venue with an indoor, publisher-curated shared market and tests whether a unified brand also supplies an accountable recovery bridge. Its published routes do not verify the answer. Case #24 extraction, Time Out concept.
+Case #24 — Time Out Market Lisboa — is the fourth completed comparator at public-evidence scope. It contrasts Reffen's open-air, distributed venue with an indoor, publisher-curated shared market and tests whether a unified brand also supplies an accountable recovery bridge. Its published routes do not verify the answer, and closure does not convert that unresolved question into an operational finding. Case #24 extraction, Time Out concept.
 
 The comparison identifies provisional recurrence around:
 
@@ -4306,18 +4308,22 @@ Enable Comparison.
 
 They Do Not Establish Validation.
 
-Current Post–Case #24 provisional handoff — 2026-09-16
+Current Post–Case #24 closure handoff — 2026-09-17
 
-The active task is case-level consistency and closure, followed by a deliberate upgrade of this provisional comparator; do not make a fourth-case count or canonical decision ahead of those steps:
+Case #24's Academy-location corrections, index pass, case-level review, administrative closure and incorporation into the completed comparison population are complete.
 
-Correct Case #24 arrival.md's Academy floor/location wording from the Portuguese FAQ; keep door and accessible route unverified.
+The next task is canonical reconciliation, performed one file at a time in this order:
 
-Correct Case #24 departure.md's unmapped Academy floor wording as a separate file pass.
+khds/research/validation/candidate-patterns.md,
 
-Update Case #24 README.md as a separate index pass, then review the whole dossier at public-evidence scope.
+khds/patterns/registry.md,
 
-If that review authorises administrative closure, revise this comparison file to place Case #24 in the completed population, with its Reffen and cross-sector contradictions explicit.
+khds/research/validation/dashboard.md,
 
-Only afterward consider canonical candidate-patterns.md reconciliation and its mirrors; evidence pressure alone does not move maturity or confidence.
+khds/research/README.md,
 
-As of this comparison update, latest completed case remains #23, completed institution dossiers remain 3, and patterns remain 26/8/1/0/0 (Candidate/Emerging/Partially Supported/Validated/research-derived Principles). Current Case #24 index, Case #24 extraction, canonical authority.
+khds/research/validation/README.md.
+
+The reconciliation should record Case #24 and four completed institution dossiers while preserving the current 26/8/1/0/0 pattern totals and unchanged confidence unless the canonical evidence review explicitly supports a different decision. Evidence pressure alone does not move maturity or confidence.
+
+As of this comparison update, the latest completed case is #24, the completed institution comparison contains 4 dossiers, and patterns remain 26/8/1/0/0 (Candidate/Emerging/Partially Supported/Validated/research-derived Principles). The canonical authority still requires its separate reconciliation pass. Current Case #24 index, Case #24 extraction, canonical authority.
