@@ -8,7 +8,7 @@ Location: Mercado da Ribeira, Lisbon, Portugal
 Research track: Track A — Independent Hospitality Institution Research
 Transfer phase: KHDS Cases #21–30
 Case role: Second shared-venue comparator; a contrast to Case #23 — Reffen
-Research status: Dimension research and knowledge extraction complete at public-evidence scope; case-level review and administrative closure pending
+Research status: Dimension research and knowledge extraction complete at public-evidence scope; case-level review and administrative closure complete
 Canonical maturity authority: khds/research/validation/candidate-patterns.md
 Opened: 2026-09-15
 Index reviewed: 2026-09-16
