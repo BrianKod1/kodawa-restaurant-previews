@@ -3,16 +3,16 @@
   "expectedBranch": "main",
   "workflowStatus": "idle",
   "latestCompletedCase": {
-    "caseNumber": 24,
-    "institutionName": "Time Out Market Lisboa",
-    "slug": "time-out-market-lisboa",
-    "institutionType": "Indoor food-and-cultural market with multiple eateries and event spaces",
-    "sector": "venues",
-    "canonicalPath": "khds/research/institutions/venues/time-out-market-lisboa/",
+    "caseNumber": 25,
+    "institutionName": "Generator Copenhagen",
+    "slug": "generator-copenhagen",
+    "institutionType": "Hostel / Social Stay",
+    "sector": "hostels",
+    "canonicalPath": "khds/research/institutions/hostels/generator-copenhagen/",
     "dossierComplete": true,
     "administrativeReconciliation": true
   },
-  "expectedNextCase": 25,
+  "expectedNextCase": 26,
   "researchAuthorized": false,
   "authorization": null,
   "activeCase": null,
@@ -133,5 +133,13 @@
         "scriptedPublicationJournal": null
       }
     ]
+  },
+  "case25Registration": {
+    "approvedBy": "Brian Kodawa",
+    "approvedAt": "2026-09-22T20:50:09.232Z",
+    "scope": "Administrative machine-readable registration of completed KHDS Case #25 Generator Copenhagen only; canonical research remains unchanged and Case #26 is unselected and unstarted.",
+    "mode": "retrospective-canonical-registration",
+    "evidenceCommit": "e8c3f72",
+    "scriptedPublicationJournal": null
   }
 }

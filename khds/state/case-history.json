@@ -47,6 +47,18 @@
       "administrativeReconciliation": true,
       "evidenceCommit": "fdebc1c",
       "completionScope": "Canonical public-evidence dossier and governance closure committed in fdebc1c. Retrospectively registered in KHDS machine-readable history because Cases #23-24 were completed outside the scripted staging/publication state transition. Legacy filename depature.md retained unchanged."
+    },
+    {
+      "caseNumber": 25,
+      "institutionName": "Generator Copenhagen",
+      "slug": "generator-copenhagen",
+      "institutionType": "Hostel / Social Stay",
+      "sector": "hostels",
+      "canonicalPath": "khds/research/institutions/hostels/generator-copenhagen/",
+      "dossierComplete": true,
+      "administrativeReconciliation": true,
+      "evidenceCommit": "e8c3f72",
+      "completionScope": "Canonical public-evidence research, case-level review, administrative closure and governance reconciliation committed in e8c3f72. Retrospectively registered in KHDS machine-readable history after the Cases #23-24 control-lineage repair. No scripted staging/publication journal exists for Case #25."
     }
   ],
   "priorIdentities": [
