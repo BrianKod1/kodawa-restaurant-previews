@@ -3,24 +3,21 @@
   "expectedBranch": "main",
   "workflowStatus": "idle",
   "latestCompletedCase": {
-    "caseNumber": 22,
-    "institutionName": "Sky Lagoon",
-    "slug": "sky-lagoon-kopavogur",
-    "institutionType": "Geothermal bathing and wellness venue",
-    "sector": "wellness",
-    "canonicalPath": "khds/research/institutions/wellness/sky-lagoon-kopavogur/",
+    "caseNumber": 24,
+    "institutionName": "Time Out Market Lisboa",
+    "slug": "time-out-market-lisboa",
+    "institutionType": "Indoor food-and-cultural market with multiple eateries and event spaces",
+    "sector": "venues",
+    "canonicalPath": "khds/research/institutions/venues/time-out-market-lisboa/",
     "dossierComplete": true,
     "administrativeReconciliation": true
   },
-  "expectedNextCase": 23,
+  "expectedNextCase": 25,
   "researchAuthorized": false,
   "authorization": null,
   "activeCase": null,
   "disagreements": [],
-  "publication": {
-    "journalPath": "khds/staging/case-22-sky-lagoon-kopavogur/publication.json",
-    "status": "promoted"
-  },
+  "publication": null,
   "reconciliationRecord": {
     "scope": "Case #21 administratively closed at public-evidence scope; local changes uncommitted for review",
     "controlCheckpoint": "5259bf1",
@@ -114,6 +111,26 @@
         "path": "scripts/tests/khds-control.test.mjs",
         "baseBlob": "1d2a4d6a6bb4c3de6b20ed21b7f3963bf2ea64fc",
         "sha256": "80bdefb79c871e55b6d3541c156c1fdc1d970c6c27ba52cb3a495d184735524f"
+      }
+    ]
+  },
+  "historyReconciliation": {
+    "approvedBy": "Brian Kodawa",
+    "approvedAt": "2026-09-22T20:13:40.949Z",
+    "scope": "Administrative machine-readable history reconciliation for completed KHDS Cases #23 and #24 only; no research content altered and Case #25 not started.",
+    "mode": "retrospective-canonical-registration",
+    "cases": [
+      {
+        "caseNumber": 23,
+        "slug": "reffen-copenhagen",
+        "evidenceCommit": "cc5d586",
+        "scriptedPublicationJournal": null
+      },
+      {
+        "caseNumber": 24,
+        "slug": "time-out-market-lisboa",
+        "evidenceCommit": "fdebc1c",
+        "scriptedPublicationJournal": null
       }
     ]
   }

@@ -23,6 +23,30 @@
       "dossierComplete": true,
       "administrativeReconciliation": true,
       "publicationJournal": "khds/staging/case-22-sky-lagoon-kopavogur/publication.json"
+    },
+    {
+      "caseNumber": 23,
+      "institutionName": "Reffen",
+      "slug": "reffen-copenhagen",
+      "institutionType": "Open-air street-food market and cultural hospitality venue",
+      "sector": "venues",
+      "canonicalPath": "khds/research/institutions/venues/reffen-copenhagen/",
+      "dossierComplete": true,
+      "administrativeReconciliation": true,
+      "evidenceCommit": "cc5d586",
+      "completionScope": "Canonical public-evidence dossier and governance reconciliation committed in cc5d586. Retrospectively registered in KHDS machine-readable history because Cases #23-24 were completed outside the scripted staging/publication state transition."
+    },
+    {
+      "caseNumber": 24,
+      "institutionName": "Time Out Market Lisboa",
+      "slug": "time-out-market-lisboa",
+      "institutionType": "Indoor food-and-cultural market with multiple eateries and event spaces",
+      "sector": "venues",
+      "canonicalPath": "khds/research/institutions/venues/time-out-market-lisboa/",
+      "dossierComplete": true,
+      "administrativeReconciliation": true,
+      "evidenceCommit": "fdebc1c",
+      "completionScope": "Canonical public-evidence dossier and governance closure committed in fdebc1c. Retrospectively registered in KHDS machine-readable history because Cases #23-24 were completed outside the scripted staging/publication state transition. Legacy filename depature.md retained unchanged."
     }
   ],
   "priorIdentities": [
