@@ -4,37 +4,53 @@ Status
 
 <!-- KHDS-CURRENT-START -->
 
-Latest completed case: #23 — Reffen, Copenhagen
+Latest completed case: #25 — Generator Copenhagen
 
-Completed institution dossiers: 3
+Completed institution dossiers: 5
 
-Prior closures: Cases #21 and #22 remain closed at public-evidence scope.
+Cases #21–25 are closed at public-evidence scope.
 
-Institution comparison: complete through Cases #21–23.
+Institution comparison: complete through Cases #21–25.
 
-Next case: #24 — unselected and unstarted; research not authorized.
+Canonical reconciliation: complete through Case #25.
+
+Pattern Registry and Validation Dashboard mirrors: complete through Case #25.
+
+Current research: none.
+
+Next case: #26 — unselected and unstarted; research not authorized.
 
 Pattern totals: 26/8/1/0/0 (Candidate/Emerging/Partially Supported/Validated/research-derived Principles).
 
-Pattern confidence: unchanged.
+Candidate confidence: 9 High / 8 Medium-High / 9 Medium; unchanged.
 
-Research completion scope: public-evidence dossier; operational performance and outcomes remain unverified.
+Formal maturity movement: none.
+
+Confidence movement: none.
+
+Research completion scope: public evidence; operational performance, enforcement, representative guest experience, accessibility fulfilment, safety, affordability, belonging, dietary suitability, recovery effectiveness and causal outcomes remain unverified.
+
+Institution overview update: 2026-09-19
 
 <!-- KHDS-CURRENT-END -->
 
 Completed cases:
 
-Case #21 — Fogo Island Inn: boutique-scale hotel / inn; closed at public-evidence scope.
+Case #21 — Fogo Island Inn: boutique-scale hotel / inn; public-evidence scope.
 
-Case #22 — Sky Lagoon: geothermal bathing and wellness venue in Kópavogur, Iceland; closed at public-evidence scope.
+Case #22 — Sky Lagoon: geothermal bathing and wellness venue; public-evidence scope.
 
-Case #23 — Reffen: multi-operator street-food market and cultural hospitality venue in Copenhagen, Denmark; closed at public-evidence scope.
+Case #23 — Reffen: open-air, multi-operator food-and-cultural venue; public-evidence scope.
+
+Case #24 — Time Out Market Lisboa: indoor, publisher-curated, multi-operator food-and-cultural market; public-evidence scope.
+
+Case #25 — Generator Copenhagen: hostel / social-stay institution; public-evidence scope.
 
 Cross-institution comparison:
 
-KHDS Institution-Comparison Architecture: populated through Cases #21–23.
+KHDS Institution-Comparison Architecture: populated through Cases #21–25.
 
-Earlier Case #21 and Case #22 directions below remain historical research context. This current status supersedes their earlier handoffs.
+Older Case #21–24 directions and handoffs retained elsewhere in this file are historical records. This current block supersedes their earlier active states.
 
 Purpose
 
@@ -111,7 +127,8 @@ khds/research/
 │   ├── README.md
 │   ├── hotels/
 │   ├── wellness/
-│   └── venues/
+│   ├── venues/
+│   └── hostels/
 └── institutions-comparison/
     └── README.md
 
@@ -471,117 +488,313 @@ Status:
 
 Closed at public-evidence scope.
 
+Case #24 — Time Out Market Lisboa
+
+Institution type:
+
+Indoor, publisher-curated, multi-operator food-and-cultural market.
+
+Primary transfer pressure:
+
+shared identity across multiple operators, products, event routes, group routes, Academy and Studio routes, capacity stocks, transaction objects, responsibility owners and recovery paths;
+
+and a same-class contrast with Reffen's open-air, distributed multi-operator setting.
+
+Architecture contribution:
+
+Case #24 strengthens Shared-Venue / Distributed-Responsibility Architecture without validating it or verifying operational performance.
+
+Primary boundaries:
+
+One Market Identity
+
+≠
+
+One Contract for Every Route
+
+Published Recovery Route
+
+≠
+
+Verified Recovery Outcome
+
+Same-Class Recurrence
+
+≠
+
+Verified Operational Recurrence
+
+Status:
+
+Closed at public-evidence scope.
+
+Case #25 — Generator Copenhagen
+
+Institution type:
+
+Hostel / social stay.
+
+Research role:
+
+First hostel / social-stay institution in the comparison population.
+
+Primary transfer pressure:
+
+overnight shared accommodation;
+
+bed-level entitlement inside shared rooms;
+
+changing and unknown peers;
+
+institutional rules versus peer conduct;
+
+private and shared states;
+
+room, bed, dining, event, luggage, access and assistance responsibilities;
+
+staff-controlled infrastructure;
+
+enforcement and escalation;
+
+belonging and optional social participation;
+
+departure and unresolved shared-stay conditions;
+
+and recovery when the institution controls only part of the experienced condition.
+
+Architecture contribution:
+
+Case #25 introduces or sharpens the provisional Shared-Stay / Peer-Variable Responsibility Architecture.
+
+Strongest rule:
+
+Hospitality responsibility persists when the institution cannot fully control the peer conditions shaping the guest’s stay.
+
+Primary boundaries:
+
+Shared Accommodation
+
+≠
+
+Shared Control
+
+Guest-to-Guest Condition
+
+≠
+
+Institutional Responsibility Absent
+
+One Bed Available
+
+≠
+
+One Appropriate Stay Available
+
+Twenty-Four-Hour Reception
+
+≠
+
+Verified Twenty-Four-Hour Recovery
+
+Optional Event
+
+≠
+
+Optional Stay Consequence
+
+Evidence limitations:
+
+Public evidence does not verify rule enforcement, peer conditions, peer compatibility, safety, quiet, cleanliness, accessibility fulfilment, affordability, belonging, staff enforcement, successful intervention, representative guest experience, recovery success or causal outcomes.
+
+Status:
+
+Closed at public-evidence scope.
+
 Current Cross-Institution Position
 
-Cases #21–23 provide provisional recurrence around:
+Cases #21–25 cover:
 
-responsibility continuity through changing guest states;
+one hotel / inn;
+
+one wellness venue;
+
+two multi-operator food-and-cultural venues;
+
+and one hostel / social-stay institution.
+
+The comparison identifies provisional recurrence around:
+
+responsibility continuity;
 
 decomposed capacity;
 
 entitlement / fulfilment separation;
 
-and published recovery route / verified recovery performance separation.
+and recovery-route evidence boundaries.
 
-Three Cross-Sector Cases
+It also adds pressure around privacy as distributed control and institutional responsibility under variable peer conditions.
 
-Enable Comparison.
+Five Completed Institution Cases
+
+Enable Stronger Comparison.
 
 They Do Not Establish Validation.
 
-The strongest new architecture is:
-
 Shared-Venue / Distributed-Responsibility Architecture
+
+Strengthened through the Reffen and Time Out Market Lisboa comparison.
 
 Status:
 
 Architecture family below formal pattern maturity.
 
+Shared-Stay / Peer-Variable Responsibility Architecture
+
+Introduced or sharpened through Generator Copenhagen.
+
+> A hospitality structure in which the institution allocates guests into shared overnight conditions whose live quality depends partly on other guests, while the institution retains responsibility for legibility, boundaries, assistance and recovery.
+
+Status:
+
+Architecture family below formal pattern maturity.
+
+Architecture Recurrence
+
+≠
+
+Pattern Validation
+
+Published Responsibility
+
+≠
+
+Verified Fulfilment
+
+Published Rules
+
+≠
+
+Verified Enforcement
+
+Shared Identity
+
+≠
+
+One Responsibility Owner
+
+Peer-Variable Conditions
+
+≠
+
+Guaranteed Guest Outcomes
+
 Current Governance State
 
-State
-
-Count
-
-Candidate patterns
-
-26
-
-Emerging patterns
-
-8
-
-Partially Supported patterns
-
-1
-
-Validated patterns
-
-0
-
-Research-derived KHDS Principles
-
-0
+| State | Count |
+| --- | ---: |
+| Candidate patterns | 26 |
+| Emerging patterns | 8 |
+| Partially Supported patterns | 1 |
+| Validated patterns | 0 |
+| Research-derived KHDS Principles | 0 |
 
 Candidate confidence remains:
 
-Confidence
+| Confidence | Count |
+| --- | ---: |
+| High | 9 |
+| Medium-High | 8 |
+| Medium | 9 |
+| Total | 26 |
 
-Count
+Formal Post–Case #25 result:
 
-High
+Candidate promotions: 0
 
-9
+Confidence changes: 0
 
-Medium-High
+Review-state changes: 0
 
-8
+Demotions: 0
 
-Medium
+Renames: 0
 
-9
+Merges: 0
 
-Total
+Emerging promotions: 0
 
-26
+Validated promotions: 0
 
-Case #23 produced:
+Research-derived Principle promotions: 0
 
-0 Candidate promotions;
+New formally counted patterns: 0
 
-0 confidence changes;
+All 26 Candidates retain their maturity and confidence.
 
-0 review-state changes;
+All 8 Emerging patterns remain Emerging.
 
-0 demotions;
+Own the Guest Relationship remains Partially Supported / Medium.
 
-0 renames;
+Both responsibility architectures remain below formal pattern maturity.
 
-0 merges;
+All 21 Case #25 pattern-pressure decisions resulted in No change.
 
-0 Validated promotions;
+All 12 Case #25 research directions remain non-canonical:
 
-and 0 research-derived Principle promotions.
+1. Privacy as Distributed Control
+2. Shared-Condition Legibility
+3. Accommodation Compatibility
+4. Rest / Social Dual Integrity
+5. Optional Activity / Non-Optional Consequence
+6. Resident / Visitor Boundary
+7. Restricted Alternative / Provision Responsibility
+8. Guest Not Narrative Labour
+9. Accommodation Release / Relationship Closure
+10. Global Brand / Local Operating Proof
+11. Social Invitation / Private Recovery
+12. Peer-Variable Hospitality
+
+Research Direction
+
+≠
+
+Formal Pattern
 
 Evidence Boundary
 
-All three institution dossiers are complete at public-evidence scope.
+All five institution dossiers are complete at public-evidence scope.
 
 Completion does not establish:
 
 live operational performance;
 
+rule enforcement;
+
+successful staff intervention;
+
 successful service recovery;
 
 accessibility fulfilment;
 
+safety;
+
+affordability;
+
+belonging;
+
+dietary suitability;
+
+peer compatibility;
+
 representative guest experience;
 
-staff or operator outcomes;
+staff, operator or guest outcomes;
 
 commercial performance;
 
 or causality.
+
+Case #25 additionally leaves peer behaviour, roommate compatibility, sleep quality, house-rule enforcement, recovery performance and cross-hostel transferability unverified.
 
 Completed Public-Evidence Dossier
 
@@ -591,41 +804,71 @@ Verified Institutional Outcome
 
 Next Research State
 
-KHDS Case #24 is:
+Current research is none.
+
+KHDS Case #26 is:
 
 unselected and unstarted.
 
-Research is not authorized until the institution is selected.
+Research is not authorized.
 
-The next selected case should either:
+Case #26 must not be selected merely to confirm either responsibility architecture.
 
-test Shared-Venue / Distributed-Responsibility Architecture in another operating context;
-
-pressure responsibility continuity through a materially different institution type;
-
-contradict one of the current provisional recurrence findings;
-
-or expose a new hospitality responsibility boundary.
+Any future selection must expose a meaningful transfer question, contradiction, failure condition or materially different responsibility structure.
 
 The next fictional synthesis gate remains:
 
 After KHDS Case #30.
 
+## Governance Mirror Status
+
+| Governance file                                  | Status                |
+| ------------------------------------------------ | --------------------- |
+| `khds/research/validation/candidate-patterns.md` | Reconciled / Complete |
+| `khds/patterns/registry.md`                      | Reconciled / Complete |
+| `khds/research/validation/dashboard.md`          | Reconciled / Complete |
+| `khds/research/README.md`                        | Reconciled / Complete |
+| `khds/research/institutions/README.md`           | Reconciled / Complete |
+| `khds/research/validation/README.md`             | Reconciled / Complete |
+
+All six governance files are aligned with the Post–Generator Copenhagen canonical decision.
+
+If any mirror conflicts with `khds/research/validation/candidate-patterns.md`, the canonical file wins.
+
+No governance mirror remains pending.
+
+Next governance file:
+
+`khds/research/validation/README.md`
+
 Final Institution-Research Position
 
 KHDS institution research now contains:
 
-3 Completed Institution Dossiers
+5 Completed Institution Dossiers
 
 1 Hotel / Inn Case
 1 Wellness Case
-1 Multi-Operator Venue Case
+2 Multi-Operator Venue Cases
+1 Hostel / Social-Stay Case
 
-The active governing boundary from Case #23 is:
+Shared-Venue / Distributed-Responsibility Architecture remains below formal pattern maturity.
 
-Hospitality Difference May Remain Distributed.
+Shared-Stay / Peer-Variable Responsibility Architecture remains below formal pattern maturity.
 
-Guest Responsibility Must Remain Continuous.
+No formal pattern or confidence movement occurred.
+
+The strongest established Case #25 responsibility boundary is:
+
+Guest-to-Guest Condition
+
+≠
+
+Institutional Responsibility Absent
+
+Five completed institution cases enable stronger comparison.
+
+They do not establish validation.
 
 The maturity threshold remains intact.
 

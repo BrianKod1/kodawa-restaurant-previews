@@ -4,27 +4,42 @@
 
 <!-- KHDS-CURRENT-START -->
 
-**Canonical decision:** Post–Time Out Market Lisboa reconciliation complete  
-**Latest completed case:** #24 — Time Out Market Lisboa  
-**Completed institution dossiers:** 4 (#21 Fogo Island Inn, #22 Sky Lagoon, #23 Reffen, #24 Time Out Market Lisboa)  
-**Current research:** None; Case #25 is unselected and unstarted, and research is not authorized  
-**Institution comparison:** Complete for Cases #21–24  
-**Canonical movement:** None  
-**Pattern totals:** 26 Candidate / 8 Emerging / 1 Partially Supported / 0 Validated / 0 research-derived Principles  
-**Pattern confidence:** Unchanged  
-**Track:** Track A — Independent Hospitality Research  
-**Research scope:** Public evidence; service performance, guest outcomes and recovery remain unverified  
-**Canonical update:** 2026-09-17
+**Canonical decision:** Post–Generator Copenhagen reconciliation complete
+
+**Latest completed case:** #25 — Generator Copenhagen
+
+**Completed institution dossiers:** 5 (#21 Fogo Island Inn, #22 Sky Lagoon, #23 Reffen, #24 Time Out Market Lisboa, #25 Generator Copenhagen)
+
+**Current research:** None
+
+**Next case:** #26 — unselected and unstarted; research not authorized
+
+**Institution comparison:** Complete for Cases #21–25
+
+**Canonical movement:** None
+
+**Pattern totals:** 26 Candidate / 8 Emerging / 1 Partially Supported / 0 Validated / 0 research-derived Principles
+
+**Pattern confidence:** Unchanged
+
+**Track:** Track A — Independent Hospitality Research
+
+**Research scope:** Public evidence; operational performance, enforcement, recovery and guest outcomes remain unverified
+
+**Canonical update:** 2026-09-19
 
 <!-- KHDS-CURRENT-END -->
 
-Earlier cycle-status and handoff sections are historical records. This current block governs active research status; the Post–Time Out Market Lisboa reconciliation below is the latest formal canonical decision. The Case #22 section repairs a missing evidence ledger without retroactively moving maturity or confidence. Case #24 is closed, incorporated into the completed comparison population and canonically reconciled.
+
+Earlier cycle-status and handoff sections are historical records. This current block governs active research status; the Post–Generator Copenhagen reconciliation below is the latest formal canonical decision. The Case #22 section repairs a missing evidence ledger without retroactively moving maturity or confidence. Case #25 is closed and incorporated into the completed five-case comparison population.
 
 Sky Lagoon's canonical result is **no movement**. Layered Arrival, Capacity Proof, Human Assistance Where Structured Self-Service Is Insufficient and Photography as Proof retain their status; Atmosphere as Product remains Emerging. **Multi-Intent Hospitality remains Candidate / Medium**, consistent with its earlier Restaurant #17 promotion. Public procedure and promotional evidence do not establish operational recurrence.
 
 Case #23 also produces no movement. All 26 Candidates retain maturity and confidence; all 8 Emerging patterns remain Emerging; Own the Guest Relationship remains Partially Supported / Medium. Shared-Venue / Distributed-Responsibility Architecture remains below formal pattern maturity. Three cross-sector cases enable comparison; they do not establish validation.
 
 Case #24 also produces no maturity or confidence movement. Its controlled comparison with Reffen strengthens same-class falsification around shared-venue responsibility, decomposed capacity, entitlement versus fulfilment and recovery-route evidence. Public evidence does not establish live responsibility transfer, successful recovery, guest outcomes or a transferable universal rule. Administrative completion increases the institution-dossier count to four; it does not increase pattern maturity.
+
+Case #25 produces no maturity or confidence movement. Shared-Stay / Peer-Variable Responsibility Architecture remains below formal pattern maturity, and its twelve case-level directions remain non-canonical. Administrative completion increases the institution-dossier count from four to five; it does not create independent recurrence or pattern maturity movement.
 
 ## Status
 
@@ -17822,3 +17837,509 @@ Verified Recovery Outcome
 The maturity threshold remains intact.
 
 Evidence wins.
+
+# Post–Generator Copenhagen Canonical Governance Reconciliation
+
+## Cycle identity
+
+Latest completed Track A case:
+
+**KHDS Case #25 — Generator Copenhagen**
+
+Institution type:
+
+**Hostel / Social Stay**
+
+Operating class:
+
+**Design-led, mixed-accommodation urban hostel with public social spaces.**
+
+Research role:
+
+**First hostel and shared-stay comparator.**
+
+Completion scope:
+
+**Public-evidence dossier.**
+
+Institution comparison:
+
+**Complete through Cases #21–25.**
+
+Canonical decision date:
+
+**2026-09-19.**
+
+Operational performance, staff behaviour, rule enforcement, safety, accessibility fulfilment, recovery and guest outcomes remain unverified.
+
+---
+
+## Canonical evidence inputs
+
+Canonical reconciliation uses:
+
+1. `khds/research/institutions/hostels/generator-copenhagen/README.md`
+2. `khds/research/institutions/hostels/generator-copenhagen/discovery.md`
+3. `khds/research/institutions/hostels/generator-copenhagen/reservation.md`
+4. `khds/research/institutions/hostels/generator-copenhagen/pre-arrival.md`
+5. `khds/research/institutions/hostels/generator-copenhagen/arrival.md`
+6. `khds/research/institutions/hostels/generator-copenhagen/stay.md`
+7. `khds/research/institutions/hostels/generator-copenhagen/participation.md`
+8. `khds/research/institutions/hostels/generator-copenhagen/dining.md`
+9. `khds/research/institutions/hostels/generator-copenhagen/events.md`
+10. `khds/research/institutions/hostels/generator-copenhagen/departure.md`
+11. `khds/research/institutions/hostels/generator-copenhagen/atmosphere.md`
+12. `khds/research/institutions/hostels/generator-copenhagen/photography.md`
+13. `khds/research/institutions/hostels/generator-copenhagen/story.md`
+14. `khds/research/institutions/hostels/generator-copenhagen/knowledge-extraction.md`
+15. `khds/research/institutions-comparison/README.md`
+
+Cases #21–24 remain independent comparison evidence. Production and synthesis work are not counted as independent Track A evidence.
+
+```text
+One Institution
+×
+Twelve Dimensions
+≠
+Twelve Independent Confirmations
+```
+
+---
+
+## Current canonical state — Post Case #25
+
+| Measure | Previous state | Case #25 movement | Current state |
+| --- | ---: | ---: | ---: |
+| Independent restaurants | 20 | 0 | 20 |
+| Completed institution dossiers | 4 | +1 | 5 |
+| Track B validation cases | 1 | 0 | 1 |
+| Candidate patterns | 26 | 0 | 26 |
+| Candidate / High | 9 | 0 | 9 |
+| Candidate / Medium-High | 8 | 0 | 8 |
+| Candidate / Medium | 9 | 0 | 9 |
+| Emerging patterns | 8 | 0 | 8 |
+| Partially Supported patterns | 1 | 0 | 1 |
+| Validated patterns | 0 | 0 | 0 |
+| Research-derived KHDS Principles | 0 | 0 | 0 |
+
+```text
+Institution Dossiers: 4 + 1 = 5
+
+Candidate Patterns: 26 + 0 = 26
+Emerging Patterns: 8 + 0 = 8
+Partially Supported Patterns: 1 + 0 = 1
+Validated Patterns: 0 + 0 = 0
+Research-Derived Principles: 0 + 0 = 0
+
+Candidate Confidence: 9 High + 8 Medium-High + 9 Medium = 26
+```
+
+The only count movement is administrative completion of one institution dossier.
+
+---
+
+## Formal governance decision
+
+| Governance action | Decision |
+| --- | ---: |
+| Candidate promotions | 0 |
+| Emerging promotions | 0 |
+| Confidence increases | 0 |
+| Confidence decreases | 0 |
+| Review-state changes | 0 |
+| Demotions | 0 |
+| Renames | 0 |
+| Merges | 0 |
+| Validated promotions | 0 |
+| Research-derived Principle promotions | 0 |
+| New formally counted patterns | 0 |
+| Completed institution dossiers | +1 |
+
+```text
+Additional Evidence
+≠
+Automatic Confidence Movement
+```
+
+```text
+Sector Transfer Pressure
+≠
+Pattern Promotion
+```
+
+```text
+Completed Dossier
+≠
+Validated Mechanism
+```
+
+```text
+Strong Cross-Dimensional Support
+≠
+Independent Recurrence
+```
+
+---
+
+## Candidate reconciliation
+
+Case #25 pressures existing Candidates through bed-versus-room inventory, shared-condition disclosure, accommodation compatibility, private and shared sleeping states, optional social participation, rest-versus-event conditions, public-versus-resident access, peer variability, published twenty-four-hour reception, private recovery, bounded photography of shared use and the distinction between global-brand claims and property-level evidence.
+
+### Candidate / High
+
+| Candidate | Case #25 pressure | Canonical decision |
+| --- | --- | --- |
+| Atmosphere Through Worldview | The social-stay worldview is visible in shared accommodation, common spaces and optional participation; experienced atmosphere remains unverified | Retain Candidate / High — No change |
+| Story Through Hospitality Model | Mixed accommodation and optional social infrastructure carry the operating story | Retain Candidate / High — No change |
+| Hospitality System Proof | Room types, allocation, rules, reception, resident boundaries and recovery require system-level legibility | Retain Candidate / High — No change |
+| Story Through Place | Central Copenhagen location provides context but does not establish a locally rooted narrative or outcome | Retain Candidate / High — No change |
+| Narrative Coherence Through Organising Logic | The private/shared and rest/social spectrum provides organising logic without proving guest interpretation | Retain Candidate / High — No change |
+| Narrative Language Within Clear Interface | Social and design language must remain subordinate to room, rule, access and consequence clarity | Retain Candidate / High — No change |
+
+### Candidate / Medium-High
+
+| Candidate | Case #25 pressure | Canonical decision |
+| --- | --- | --- |
+| Atmosphere Through Continuity | Sleeping, social and event conditions change across time and space while institutional responsibility must remain legible | Retain Candidate / Medium-High — No change |
+| Photography as Use-Case Evidence | Images can distinguish rooms, beds, lockers, privacy features and shared-space use | Retain Candidate / Medium-High — No change |
+| Adaptation as Narrative | Global Generator identity requires Copenhagen property-level operating proof | Retain Candidate / Medium-High — No change |
+| Photography as Proof | Visible room and social conditions can reduce uncertainty but cannot establish live operation, safety or guest outcome | Retain Candidate / Medium-High — No change |
+| Capacity Proof | Bed inventory is distinct from room capacity, compatible placement, accessible provision, staff attention and recovery capacity | Retain Candidate / Medium-High — No change |
+| Stable Participation / Variable Product | Stable stay rules must survive variable rooms, peers, events and food availability | Retain Candidate / Medium-High — No change |
+| Photography Should Demonstrate Difference | Hostel imagery must explain shared and private conditions rather than only design distinction | Retain Candidate / Medium-High — No change |
+
+### Candidate / Medium
+
+| Candidate | Case #25 pressure | Canonical decision |
+| --- | --- | --- |
+| Manageable Commitment | Shared sleeping, possible group separation and social exposure create material post-booking commitment pressure | Retain Candidate / Medium — No change |
+| Participation Rule Consistency | Room, visitor, event, group, age and identification rules must remain coherent across routes | Retain Candidate / Medium — No change |
+| Layered Arrival | Booking, eligibility, preparation, reception, allocation and bed settlement remain distinct arrival states | Retain Candidate / Medium — No change |
+| Atmosphere Through Consistency | Design, house rules, events, staff authority, quiet conditions and recovery must remain relationally coherent | Retain Candidate / Medium — No change |
+| Photography Through Layers of Experience | City, threshold, room, bed, storage, common-space and participation claims require distinct evidence layers | Retain Candidate / Medium — No change |
+| Participation Throughout the Journey | Participation choices and consequences extend from discovery and booking through stay, departure and closure | Retain Candidate / Medium — No change |
+| Human Assistance Where Structured Self-Service Is Insufficient | Published twenty-four-hour reception may receive allocation, disturbance, safety and access exceptions; response performance is unverified | Retain Candidate / Medium — No change |
+| Multi-Intent Hospitality | Residents, group organisers, individual guests, public-space visitors and event users have materially different intents and boundaries | Retain Candidate / Medium — No change |
+
+The five Candidates not materially pressured by the required Case #25 review also remain unchanged:
+
+| Candidate | Canonical decision |
+| --- | --- |
+| Show the System Behind the Plate | Retain Candidate / High — No change |
+| Biography When It Explains the Experience | Retain Candidate / High — No change |
+| Walk-In as First-Class Participation | Retain Candidate / High — No change |
+| Heritage Builds Confidence | Retain Candidate / Medium-High — No change |
+| Designed Escape | Retain Candidate / Medium — No change |
+
+No Candidate receives a confidence increase. Only one hostel/social-stay case has been studied; operational performance and peer-variable recovery have not been observed; representative guest experience is unavailable; accessibility and safety outcomes remain unverified; several directions overlap existing capacity, participation, proof, atmosphere and recovery architecture; and transferability across other hostel models remains untested.
+
+```text
+Strong Case Support
+≠
+Confidence Increase Required
+```
+
+---
+
+## Emerging reconciliation
+
+| Emerging pattern | Case #25 pressure | Canonical decision |
+| --- | --- | --- |
+| Emotion Before Interface | Social and design language may orient interest, but suitability and consequence clarity cannot be deferred | Retain Emerging — No change |
+| Story Before Features | The social-stay story can explain why beds, games and events coexist, but it cannot replace operational detail | Retain Emerging — No change |
+| Photography Before Decoration | Shared-use imagery should perform ethical and decision-relevant proof work; existing photography Candidates govern most of the mechanism | Retain Emerging — No change |
+| Commitment Without Pressure | Optional sociality coexists with dormitory exposure, availability pressure and material shared-stay consequences | Retain Emerging — No change |
+| Promise Before Proof | Social promise remains separate from property-level mechanism, operational performance and outcome proof | Retain Emerging — No change |
+| The Guest as Participant | Guests partly shape shared conditions, but participation remains optional and the direction remains too broad | Retain Emerging — No change |
+| Atmosphere as Product | Atmosphere may influence selection, but representative experience and choice causality remain unverified | Retain Emerging — No change |
+| Escalating Participation Complexity | Multiple room, role, access and participation states do not establish linear escalation | Retain Emerging — No change |
+
+```text
+Social Infrastructure
+≠
+Social Outcome
+```
+
+```text
+Optional Participation
+≠
+Absence of Participation Pressure
+```
+
+```text
+Multiple Guest States
+≠
+Linear Escalation
+```
+
+```text
+Lifestyle Photography
+≠
+Representative Guest Experience
+```
+
+Visible alignment with an Emerging direction does not authorize promotion.
+
+---
+
+## Partially Supported reconciliation
+
+### Own the Guest Relationship — Partially Supported / Medium
+
+Case #25 exposes direct and third-party booking, distinction between the booking customer and staying guest, group-organiser and individual-guest roles, payment and identification requirements, and possible third-party booking infrastructure.
+
+Public evidence still does not establish complete CRM ownership, payment-data control, consent architecture, internal role permissions, customer-history ownership or longitudinal relationship control.
+
+Decision:
+
+**Retain Partially Supported / Medium.**
+
+---
+
+## Architecture reconciliation
+
+### Shared-Stay / Peer-Variable Responsibility Architecture
+
+> A hospitality structure in which the institution allocates guests into shared overnight conditions whose live quality depends partly on other guests, while the institution retains responsibility for legibility, boundaries, assistance and recovery.
+
+Canonical decision:
+
+**Retain below formal pattern maturity.**
+
+Only one hostel/social-stay case currently supplies direct evidence. No live recovery was observed, peer behaviour remains unverified, transferability across other hostel types is unknown, and the architecture may ultimately resolve into existing capacity, participation, privacy, atmosphere and recovery mechanisms.
+
+Primary boundaries:
+
+```text
+Shared Accommodation
+≠
+Shared Control
+```
+
+```text
+Guest-to-Guest Condition
+≠
+Institutional Responsibility Absent
+```
+
+```text
+One Bed Available
+≠
+One Appropriate Stay Available
+```
+
+```text
+Twenty-Four-Hour Reception
+≠
+Verified Twenty-Four-Hour Recovery
+```
+
+```text
+Optional Event
+≠
+Optional Stay Consequence
+```
+
+**Shared-Venue / Distributed-Responsibility Architecture** also remains below formal pattern maturity. Case #25 neither replaces nor merges it with the shared-stay architecture.
+
+```text
+Comparison Architecture
+≠
+Formal Pattern
+```
+
+---
+
+## Comparison-unit refinement
+
+Established comparison unit:
+
+> A Hospitality Responsibility Carried Through a Defined Guest State Under Known Conditions With a Recoverable Failure Route.
+
+Case #25 refinement:
+
+> A Hospitality Responsibility Carried Through a Defined Guest State Under Published Institutional and Variable Peer Conditions With a Recoverable Failure Route.
+
+Classification:
+
+**Provisional comparison refinement — not a canonical pattern and not a replacement definition.**
+
+---
+
+## Case-level directions
+
+| Non-canonical research direction | Provisional definition |
+| --- | --- |
+| Privacy as Distributed Control | Privacy in shared hospitality is control over exposure, participation, property and recovery |
+| Shared-Condition Legibility | The structure and variability of sharing should be understandable before commitment |
+| Accommodation Compatibility | Bed availability must be evaluated against material exposure and accommodation requirements |
+| Rest / Social Dual Integrity | Social participation and protected rest must remain simultaneously viable |
+| Optional Activity / Non-Optional Consequence | Optional events may produce unavoidable effects for non-participants |
+| Resident / Visitor Boundary | Public hospitality access must remain distinct from protected sleeping-space access |
+| Restricted Alternative / Provision Responsibility | Removing self-provision increases responsibility for workable alternatives |
+| Guest Not Narrative Labour | Guests cannot be required to perform sociability or visibility to prove the institutional story |
+| Accommodation Release / Relationship Closure | Releasing a bed and closing the guest relationship are separate states |
+| Global Brand / Local Operating Proof | Brand-level promise requires property-level evidence where local conditions govern delivery |
+| Social Invitation / Private Recovery | Increased interaction opportunity requires equally legible withdrawal and assistance routes |
+| Peer-Variable Hospitality | Institutional responsibility persists when guest conditions depend partly on other guests |
+
+None is Emerging, Candidate, Validated or a research-derived Principle. None contributes to formal pattern totals.
+
+```text
+Named Research Direction
+≠
+Formally Counted Pattern
+```
+
+---
+
+## Explicit non-findings
+
+Case #25 does not establish:
+
+- representative safety;
+- effective CCTV;
+- consistent house-rule enforcement;
+- successful room reassignment;
+- roommate compatibility;
+- reliable sleep;
+- accessibility fulfilment;
+- successful safeguarding;
+- successful harassment response;
+- dietary suitability or safety;
+- affordability;
+- value;
+- social inclusion;
+- friendship;
+- belonging;
+- successful event containment;
+- successful recovery;
+- complete guest-relationship ownership;
+- operational causality;
+- cross-hostel recurrence;
+- or hospitality-wide transferability.
+
+Published provision does not establish fulfilment, and published policy does not establish enforcement.
+
+---
+
+## Falsification programme
+
+Future research should test whether:
+
+1. shared-condition disclosure improves appropriate commitment;
+2. bed availability can be separated from accommodation suitability;
+3. privacy requires distributed control rather than spatial separation alone;
+4. private recovery materially preserves agency;
+5. social programming and protected rest can coexist;
+6. optional activities create unavoidable consequences for non-participants;
+7. public social access remains distinct from protected resident access;
+8. human assistance can resolve peer-variable failures;
+9. another independent hostel reproduces the same mechanism;
+10. a materially different hostel contradicts it;
+11. existing KHDS patterns already explain the mechanism without a new formal pattern;
+12. and observed operations support the published responsibility structure.
+
+---
+
+## Governance mirror status — Post Case #25
+
+Canonical reconciliation status:
+
+**Complete**
+
+Governance chain:
+
+* `khds/research/validation/candidate-patterns.md` — canonical authority — complete;
+* `khds/patterns/registry.md` — Pattern Registry mirror — complete;
+* `khds/research/validation/dashboard.md` — Validation Dashboard mirror — complete;
+* `khds/research/README.md` — research-system overview mirror — complete;
+* `khds/research/institutions/README.md` — institution-category overview mirror — complete;
+* `khds/research/validation/README.md` — validation-system overview mirror — complete.
+
+The reconciled governance state records:
+
+* latest completed case #25;
+* 20 independent restaurants;
+* 5 completed institution dossiers;
+* 26 Candidate patterns;
+* 8 Emerging patterns;
+* 1 Partially Supported pattern;
+* 0 Validated patterns;
+* 0 research-derived KHDS Principles;
+* Candidate confidence of 9 High / 8 Medium-High / 9 Medium;
+* Shared-Venue / Distributed-Responsibility Architecture below formal pattern maturity;
+* Shared-Stay / Peer-Variable Responsibility Architecture below formal pattern maturity;
+* all 12 Case #25 research directions remaining non-canonical;
+* and no maturity or confidence movement.
+
+Current research:
+
+None.
+
+Next case:
+
+Case #26 — unselected and unstarted; research not authorized.
+
+If any governance mirror conflicts with this canonical file, this canonical file wins.
+
+---
+
+## Final canonical statement
+
+KHDS Case #25 is canonically reconciled.
+
+Institution comparison is reconciled through Cases #21–25.
+
+The canonical state is:
+
+```text
+20 Independent Restaurants
+5 Completed Institution Dossiers
+1 Track B Validation Case
+
+26 Candidate Patterns
+8 Emerging Patterns
+1 Partially Supported Pattern
+0 Validated Patterns
+0 Research-Derived KHDS Principles
+
+Candidate Confidence:
+9 High
+8 Medium-High
+9 Medium
+```
+
+Current research is none.
+
+**Case #26 is unselected and unstarted. Research for Case #26 is not authorized until governance mirrors are complete.**
+
+The next synthesis gate remains:
+
+**After KHDS Case #30.**
+
+The governing Case #25 boundaries are:
+
+```text
+Shared Accommodation
+≠
+Shared Control
+```
+
+```text
+Guest-to-Guest Condition
+≠
+Institutional Responsibility Absent
+```
+
+```text
+Social Infrastructure
+≠
+Social Outcome
+```
+
+Operational performance, enforcement, recovery, representative guest experience and outcomes remain unverified.
+
+**The maturity threshold remains intact.**
+
+**Evidence wins.**

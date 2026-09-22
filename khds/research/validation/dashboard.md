@@ -4,23 +4,28 @@ Status
 
 <!-- KHDS-CURRENT-START -->
 
-Canonical decision: Post–Time Out Market Lisboa reconciliation complete
-Latest completed case: #24 — Time Out Market Lisboa
-Completed institution dossiers: 4 (#21 Fogo Island Inn, #22 Sky Lagoon, #23 Reffen, #24 Time Out Market Lisboa)
-Current research: None; Case #25 is unselected and unstarted, and research is not authorized
-Institution comparison: Complete for Cases #21–24
+Canonical decision: Post–Generator Copenhagen reconciliation complete
+Latest completed case: #25 — Generator Copenhagen
+Completed institution dossiers: 5 (#21 Fogo Island Inn, #22 Sky Lagoon, #23 Reffen, #24 Time Out Market Lisboa, #25 Generator Copenhagen)
+Current research: None
+Next case: #26 — unselected and unstarted; research not authorized
+Institution comparison: Complete for Cases #21–25
+Independent restaurants: 20
 Canonical movement: None
 Pattern totals: 26 Candidate / 8 Emerging / 1 Partially Supported / 0 Validated / 0 research-derived Principles
 Candidate confidence: 9 High / 8 Medium-High / 9 Medium; unchanged
 Track B validation cases: 1
-Research scope: Public evidence; service performance, guest outcomes and recovery remain unverified
-Dashboard update: 2026-09-17
+Formal maturity movement: None
+Confidence movement: None
+Research scope: Public evidence; operational performance, enforcement, recovery and guest outcomes remain unverified
+Dashboard update: 2026-09-19
 
 <!-- KHDS-CURRENT-END -->
 
-Earlier dashboard-cycle status and handoff sections are historical records. This current block governs the active dashboard state. The Post–Time Out Market Lisboa reconciliation is the latest formal canonical decision; the Case #22 section below repairs a missing mirror without changing governance. Case #24 is closed, compared and canonically reconciled with no pattern or confidence movement.
+Earlier dashboard-cycle status and handoff sections are historical records. This current block governs the active dashboard state. The Post–Generator Copenhagen reconciliation is the latest canonical decision. Case #25 is the fifth completed institution dossier and the first hostel / social-stay comparator. Institution comparison, canonical reconciliation, the Pattern Registry mirror and all remaining governance mirrors are complete, with no pattern or confidence movement. Shared-Venue / Distributed-Responsibility Architecture and Shared-Stay / Peer-Variable Responsibility Architecture remain below formal pattern maturity. Case #26 is unselected, unstarted and not authorized.
 
-Sky Lagoon's dashboard result remains no movement. Multi-Intent Hospitality remains Candidate / Medium, consistent with its Restaurant #17 promotion. Reffen remains the first shared-venue comparator. Time Out Market Lisboa is the fourth completed institution dossier and produces no formal pattern or confidence movement.
+
+Sky Lagoon's dashboard result remains no movement. Multi-Intent Hospitality remains Candidate / Medium, consistent with its Restaurant #17 promotion. Reffen remains the first shared-venue comparator. Time Out Market Lisboa is the fourth completed institution dossier. Generator Copenhagen is the fifth. Neither Case #24 nor Case #25 produces formal pattern or confidence movement.
 
 Status
 
@@ -5986,3 +5991,285 @@ Verified Recovery Outcome
 The maturity threshold remains intact.
 
 Evidence wins.
+
+# Current Dashboard Position — Post Case #25
+
+## Dashboard cycle identity
+
+| Field | Dashboard state |
+| --- | --- |
+| Latest completed Track A case | KHDS Case #25 — Generator Copenhagen |
+| Institution type | Hostel / Social Stay |
+| Operating class | Design-led, mixed-accommodation urban hostel with public social spaces |
+| Completed institution dossiers | 5 |
+| Institution comparison | Complete through Cases #21–25 |
+| Canonical reconciliation | Complete |
+| Registry mirror | Complete |
+| Dashboard role | Governance mirror only |
+
+## Current research state
+
+| Measure | Current state | Case #25 movement |
+| --- | ---: | ---: |
+| Independent restaurants | 20 | 0 |
+| Completed institution dossiers | 5 | +1 |
+| Track B validation cases | 1 | 0 |
+| Candidate patterns | 26 | 0 |
+| Candidate / High | 9 | 0 |
+| Candidate / Medium-High | 8 | 0 |
+| Candidate / Medium | 9 | 0 |
+| Emerging patterns | 8 | 0 |
+| Partially Supported patterns | 1 | 0 |
+| Validated patterns | 0 | 0 |
+| Research-derived KHDS Principles | 0 | 0 |
+| Implementation patterns pending formal validation | 1 | 0 |
+| Opportunity themes | 36 | 0 |
+| Track B implementation learnings | 17 | 0 |
+
+```text
+Institution Dossiers: 4 + 1 = 5
+
+Candidate Patterns: 26 + 0 = 26
+Emerging Patterns: 8 + 0 = 8
+Partially Supported Patterns: 1 + 0 = 1
+Validated Patterns: 0 + 0 = 0
+Research-Derived Principles: 0 + 0 = 0
+```
+
+## Case #25 completion dashboard
+
+| Case component | Status |
+| --- | --- |
+| Institution index | Complete; reviewed and administratively closed |
+| Discovery | Complete |
+| Reservation / access | Complete |
+| Pre-arrival | Complete |
+| Arrival | Complete |
+| Stay | Complete |
+| Participation | Complete |
+| Dining | Complete |
+| Events | Complete |
+| Departure | Complete |
+| Atmosphere | Complete |
+| Photography | Complete |
+| Story | Complete |
+| Cross-dimensional knowledge extraction | Complete |
+| Case-level review | Passed with corrections |
+| Administrative closure | Complete |
+| Institution comparison | Complete |
+| Canonical Candidate reconciliation | Complete |
+| Pattern Registry mirror | Complete |
+| Validation Dashboard mirror | Complete |
+
+Completion scope is public evidence. Operational performance, guest outcomes, recovery performance, accessibility fulfilment and safety outcomes remain unverified.
+
+## Formal governance movement
+
+| Governance action | Movement |
+| --- | ---: |
+| Candidate promotions | 0 |
+| Confidence increases | 0 |
+| Confidence decreases | 0 |
+| Review-state changes | 0 |
+| Demotions | 0 |
+| Renames | 0 |
+| Merges | 0 |
+| Emerging promotions | 0 |
+| Validated promotions | 0 |
+| Research-derived Principle promotions | 0 |
+| New formally counted patterns | 0 |
+| Administrative completed-dossier movement | +1 |
+
+All 26 Candidate patterns retain their canonical names, maturity and confidence. All 8 Emerging patterns remain Emerging. Own the Guest Relationship remains Partially Supported / Medium.
+
+```text
+Administrative Completion
+≠
+Pattern Movement
+```
+
+## Candidate confidence dashboard
+
+| Confidence | Count | Case #25 movement |
+| --- | ---: | ---: |
+| High | 9 | 0 |
+| Medium-High | 8 | 0 |
+| Medium | 9 | 0 |
+| Total | 26 | 0 |
+
+## Case #25 pattern-pressure dashboard
+
+| Canonical state | Pattern | Decision |
+| --- | --- | --- |
+| Candidate / High | Atmosphere Through Worldview | No change |
+| Candidate / High | Narrative Language Within Clear Interface | No change |
+| Candidate / High | Story Through Hospitality Model | No change |
+| Candidate / High | Hospitality System Proof | No change |
+| Candidate / High | Story Through Place | No change |
+| Candidate / High | Narrative Coherence Through Organising Logic | No change |
+| Candidate / Medium-High | Atmosphere Through Continuity | No change |
+| Candidate / Medium-High | Photography as Use-Case Evidence | No change |
+| Candidate / Medium-High | Adaptation as Narrative | No change |
+| Candidate / Medium-High | Photography as Proof | No change |
+| Candidate / Medium-High | Capacity Proof | No change |
+| Candidate / Medium-High | Stable Participation / Variable Product | No change |
+| Candidate / Medium-High | Photography Should Demonstrate Difference | No change |
+| Candidate / Medium | Manageable Commitment | No change |
+| Candidate / Medium | Participation Rule Consistency | No change |
+| Candidate / Medium | Layered Arrival | No change |
+| Candidate / Medium | Atmosphere Through Consistency | No change |
+| Candidate / Medium | Photography Through Layers of Experience | No change |
+| Candidate / Medium | Participation Throughout the Journey | No change |
+| Candidate / Medium | Human Assistance Where Structured Self-Service Is Insufficient | No change |
+| Candidate / Medium | Multi-Intent Hospitality | No change |
+
+All other Candidates remain unchanged: Show the System Behind the Plate, Biography When It Explains the Experience and Walk-In as First-Class Participation remain Candidate / High; Heritage Builds Confidence remains Candidate / Medium-High; and Designed Escape remains Candidate / Medium.
+
+## Emerging and Partially Supported dashboard
+
+| Emerging pattern | Decision |
+| --- | --- |
+| Emotion Before Interface | Remain Emerging |
+| Story Before Features | Remain Emerging |
+| Photography Before Decoration | Remain Emerging |
+| Commitment Without Pressure | Remain Emerging |
+| Promise Before Proof | Remain Emerging |
+| The Guest as Participant | Remain Emerging |
+| Atmosphere as Product | Remain Emerging |
+| Escalating Participation Complexity | Remain Emerging |
+
+**Own the Guest Relationship — Partially Supported / Medium — unchanged.**
+
+## Architecture dashboard
+
+### Shared-Venue / Distributed-Responsibility Architecture
+
+Status: **Architecture family below formal pattern maturity.**
+
+### Shared-Stay / Peer-Variable Responsibility Architecture
+
+> A hospitality structure in which the institution allocates guests into shared overnight conditions whose live quality depends partly on other guests, while the institution retains responsibility for legibility, boundaries, assistance and recovery.
+
+Status: **Architecture family below formal pattern maturity.**
+
+```text
+Shared Accommodation
+≠
+Shared Control
+```
+
+```text
+Guest-to-Guest Condition
+≠
+Institutional Responsibility Absent
+```
+
+```text
+One Bed Available
+≠
+One Appropriate Stay Available
+```
+
+```text
+Twenty-Four-Hour Reception
+≠
+Verified Twenty-Four-Hour Recovery
+```
+
+```text
+Optional Event
+≠
+Optional Stay Consequence
+```
+
+Neither architecture is a formal pattern or changes formal totals. Both remain subject to falsification.
+
+## Non-canonical direction dashboard
+
+Classification: **Research directions — not formal patterns.** Formal-count contribution: **0**.
+
+1. Privacy as Distributed Control
+2. Shared-Condition Legibility
+3. Accommodation Compatibility
+4. Rest / Social Dual Integrity
+5. Optional Activity / Non-Optional Consequence
+6. Resident / Visitor Boundary
+7. Restricted Alternative / Provision Responsibility
+8. Guest Not Narrative Labour
+9. Accommodation Release / Relationship Closure
+10. Global Brand / Local Operating Proof
+11. Social Invitation / Private Recovery
+12. Peer-Variable Hospitality
+
+## Institution-comparison dashboard
+
+| Case | Institution | Type | Comparison status |
+| ---: | --- | --- | --- |
+| 21 | Fogo Island Inn | Hotel / inn | Complete public-evidence comparator |
+| 22 | Sky Lagoon | Wellness venue | Complete public-evidence comparator |
+| 23 | Reffen | Open-air, multi-operator food-and-cultural venue | Complete public-evidence comparator |
+| 24 | Time Out Market Lisboa | Indoor, publisher-curated, multi-operator food-and-cultural market | Complete public-evidence comparator |
+| 25 | Generator Copenhagen | Hostel / Social Stay | Complete public-evidence comparator |
+
+Recurrence remains provisional around responsibility continuity, decomposed capacity, entitlement / fulfilment separation, route-specific recovery, published recovery versus verified recovery, privacy as distributed control and responsibility under variable peer conditions.
+
+```text
+Five Completed Institution Cases
+Enable Stronger Comparison.
+
+They Do Not Establish Validation.
+```
+
+## Evidence dashboard
+
+Public evidence supports published room and bed types; room-level and bed-level amenities; booking and group routes; eligibility and identification rules; accessibility provisions; social spaces; events and games; dining routes; house rules; luggage and departure routes; and published human-assistance availability.
+
+Public evidence does not verify live allocation; roommate compatibility; sleep quality; safety; house-rule enforcement; CCTV effectiveness; accessibility fulfilment; dietary safety; affordability; representative social experience; belonging; staff-response quality; event containment; successful recovery; or causality.
+
+```text
+Published Mechanism
+≠
+Verified Institutional Performance
+```
+
+## Governance-chain dashboard
+
+| Governance file                                  | Role                              | Status                |
+| ------------------------------------------------ | --------------------------------- | --------------------- |
+| `khds/research/validation/candidate-patterns.md` | Canonical governance authority    | Reconciled / Complete |
+| `khds/patterns/registry.md`                      | Pattern Registry mirror           | Reconciled / Complete |
+| `khds/research/validation/dashboard.md`          | Validation Dashboard mirror       | Reconciled / Complete |
+| `khds/research/README.md`                        | Research-system overview mirror   | Reconciled / Complete |
+| `khds/research/institutions/README.md`           | Institution-research index mirror | Reconciled / Complete |
+| `khds/research/validation/README.md`             | Validation-system overview mirror | Reconciled / Complete |
+
+All six governance files are aligned with the Post–Generator Copenhagen canonical decision.
+
+The completed governance state records the latest completed case as #25; five completed institution dossiers; comparison complete through Cases #21–25; canonical reconciliation complete; unchanged `26/8/1/0/0` pattern totals; unchanged Candidate confidence of `9/8/9`; both responsibility architecture families below formal pattern maturity; all twelve Case #25 directions as non-canonical; Case #26 unselected, unstarted and unauthorized; and the next synthesis gate after Case #30.
+
+If any mirror conflicts with `khds/research/validation/candidate-patterns.md`, the canonical file wins.
+
+
+## Final dashboard statement
+
+```text
+20 Independent Restaurants
+5 Completed Institution Dossiers
+1 Track B Validation Case
+
+26 Candidate Patterns
+8 Emerging Patterns
+1 Partially Supported Pattern
+0 Validated Patterns
+0 Research-Derived KHDS Principles
+```
+
+Current research: none.
+
+Case #26: unselected and unstarted. Research is not authorized.
+
+Next synthesis gate: after Case #30.
+
+Maturity threshold: intact.
+
+**Evidence wins.**
