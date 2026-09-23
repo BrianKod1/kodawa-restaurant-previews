@@ -4,29 +4,18 @@
 
 <!-- KHDS-CURRENT-START -->
 
-**Canonical decision:** Post–Generator Copenhagen reconciliation complete
-
-**Latest completed case:** #25 — Generator Copenhagen
-
-**Completed institution dossiers:** 5 (#21 Fogo Island Inn, #22 Sky Lagoon, #23 Reffen, #24 Time Out Market Lisboa, #25 Generator Copenhagen)
-
-**Current research:** None
-
-**Next case:** #26 — unselected and unstarted; research not authorized
-
-**Institution comparison:** Complete for Cases #21–25
-
-**Canonical movement:** None
-
-**Pattern totals:** 26 Candidate / 8 Emerging / 1 Partially Supported / 0 Validated / 0 research-derived Principles
-
-**Pattern confidence:** Unchanged
-
-**Track:** Track A — Independent Hospitality Research
-
-**Research scope:** Public evidence; operational performance, enforcement, recovery and guest outcomes remain unverified
-
-**Canonical update:** 2026-09-19
+Latest completed case: #26 — Scarlet Lady
+Completed institution dossiers: 6
+Current research: None
+Next case: #27 — unselected and unstarted; research not authorized.
+Institution comparison: Complete through Cases #21–26
+Canonical governance: Post–Scarlet Lady reconciliation complete; no formal pattern movement or confidence change
+Pattern totals: 26 Candidate / 8 Emerging / 1 Partially Supported / 0 Validated / 0 research-derived Principles
+Candidate confidence: 9 High / 8 Medium-High / 9 Medium; unchanged
+Track B validation cases: 1
+Next synthesis gate: After Case #30
+Research scope: Public evidence; operational performance, enforcement, representative guest experience, accessibility fulfilment, safety, affordability, belonging, dietary suitability, recovery effectiveness and causal outcomes remain unverified
+Canonical update: 2026-09-23
 
 <!-- KHDS-CURRENT-END -->
 
@@ -18339,6 +18328,85 @@ Social Outcome
 ```
 
 Operational performance, enforcement, recovery, representative guest experience and outcomes remain unverified.
+
+**The maturity threshold remains intact.**
+
+**Evidence wins.**
+
+
+## Post–Case #26 canonical reconciliation — Scarlet Lady
+
+Case #26 is canonically incorporated as the sixth completed institution dossier.
+
+The case introduces cruise / mobile multi-system hospitality pressure without lowering the maturity threshold.
+
+Strongest bounded comparison statements:
+
+```text
+One Branded Journey
+≠
+One Operational Owner
+
+Commercial Coordination
+≠
+Operational Control
+
+Digital First
+≠
+Digital Only
+
+Physical Departure
+≠
+Service Relationship End
+```
+
+The Case #26 comparison architecture is:
+
+**Mobile / Multi-System Hospitality Architecture**
+
+> A hospitality structure in which a guest moves through multiple digital, physical and operational systems while the branded journey must preserve legible identity, entitlement, responsibility and recovery across those handoffs.
+
+This remains comparison architecture below formal pattern maturity.
+
+Formal governance decision:
+
+- 0 Candidate promotions;
+- 0 Emerging promotions;
+- 0 confidence increases;
+- 0 confidence decreases;
+- 0 demotions;
+- 0 renames;
+- 0 merges;
+- 0 Validated promotions;
+- 0 research-derived Principle promotions;
+- 0 newly counted formal patterns.
+
+Canonical state:
+
+```text
+20 Independent Restaurants
+6 Completed Institution Dossiers
+1 Track B Validation Case
+
+26 Candidate Patterns
+8 Emerging Patterns
+1 Partially Supported Pattern
+0 Validated Patterns
+0 Research-Derived KHDS Principles
+
+Candidate Confidence:
+9 High
+8 Medium-High
+9 Medium
+```
+
+All Case #26 research directions remain non-canonical.
+
+Current research: none.
+
+Case #27 is unselected and unstarted; research is not authorized.
+
+The next synthesis gate remains after Case #30.
 
 **The maturity threshold remains intact.**
 

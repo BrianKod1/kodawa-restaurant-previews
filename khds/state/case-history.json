@@ -59,6 +59,17 @@
       "administrativeReconciliation": true,
       "evidenceCommit": "e8c3f72",
       "completionScope": "Canonical public-evidence research, case-level review, administrative closure and governance reconciliation committed in e8c3f72. Retrospectively registered in KHDS machine-readable history after the Cases #23-24 control-lineage repair. No scripted staging/publication journal exists for Case #25."
+    },
+    {
+      "caseNumber": 26,
+      "institutionName": "Scarlet Lady",
+      "slug": "scarlet-lady",
+      "institutionType": "Adults-only cruise ship / integrated hospitality vessel",
+      "sector": "cruises",
+      "canonicalPath": "khds/research/institutions/cruises/scarlet-lady/",
+      "dossierComplete": true,
+      "administrativeReconciliation": true,
+      "publicationJournal": "khds/staging/case-26-scarlet-lady/publication.json"
     }
   ],
   "priorIdentities": [

@@ -4,22 +4,18 @@ Status
 
 <!-- KHDS-CURRENT-START -->
 
-Latest completed case: #25 — Generator Copenhagen
-Completed institution dossiers: 5 (#21 Fogo Island Inn, #22 Sky Lagoon, #23 Reffen, #24 Time Out Market Lisboa, #25 Generator Copenhagen)
+Latest completed case: #26 — Scarlet Lady
+Completed institution dossiers: 6
 Current research: None
-Next case: #26 — unselected and unstarted; research not authorized
-Institution comparison: Complete for Cases #21–25
-Canonical governance: Post–Generator Copenhagen reconciliation complete
-Independent restaurants: 20
-Track B validation cases: 1
+Next case: #27 — unselected and unstarted; research not authorized.
+Institution comparison: Complete through Cases #21–26
+Canonical governance: Post–Scarlet Lady reconciliation complete; no formal pattern movement or confidence change
 Pattern totals: 26 Candidate / 8 Emerging / 1 Partially Supported / 0 Validated / 0 research-derived Principles
-Candidate confidence: 9 High / 8 Medium-High / 9 Medium
-Existing implementation patterns pending formal validation: 1
-Formal pattern movement: None
-Confidence movement: None
-Research scope: Public evidence; operational performance and outcomes remain unverified
-Canonical source: ../research/validation/candidate-patterns.md
-Registry update: 2026-09-19
+Candidate confidence: 9 High / 8 Medium-High / 9 Medium; unchanged
+Track B validation cases: 1
+Next synthesis gate: After Case #30
+Research scope: Public evidence; operational performance, enforcement, representative guest experience, accessibility fulfilment, safety, affordability, belonging, dietary suitability, recovery effectiveness and causal outcomes remain unverified
+Canonical update: 2026-09-23
 
 <!-- KHDS-CURRENT-END -->
 
@@ -10512,3 +10508,30 @@ None.
 The next synthesis gate remains after KHDS Case #30.
 
 If this registry conflicts with `khds/research/validation/candidate-patterns.md`, the canonical file wins.
+
+
+## Pattern Registry mirror — Post Case #26
+
+The Pattern Registry mirrors the Post–Scarlet Lady canonical decision.
+
+Case #26 is the sixth completed institution dossier and the first cruise / mobile multi-system hospitality comparator.
+
+The provisional **Mobile / Multi-System Hospitality Architecture** is recorded as comparison architecture only. It is not a formal pattern and does not increase the registry count.
+
+Registry totals remain:
+
+- 26 Candidate;
+- 8 Emerging;
+- 1 Partially Supported;
+- 0 Validated;
+- 0 research-derived Principles.
+
+Candidate confidence remains 9 High / 8 Medium-High / 9 Medium.
+
+Formal maturity movement: none.
+
+Confidence movement: none.
+
+Canonical authority remains `../research/validation/candidate-patterns.md`.
+
+Case #27 is unselected and unstarted; research is not authorized.

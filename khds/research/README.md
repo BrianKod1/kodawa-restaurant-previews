@@ -4,18 +4,18 @@ Status
 
 <!-- KHDS-CURRENT-START -->
 
-Latest completed case: #25 — Generator Copenhagen
-Completed institution dossiers: 5 (#21 Fogo Island Inn, #22 Sky Lagoon, #23 Reffen, #24 Time Out Market Lisboa, #25 Generator Copenhagen)
-Current research: None; Case #26 is unselected and unstarted, and research is not authorized
-Institution comparison: Complete through Cases #21–25
-Canonical governance: Post–Generator Copenhagen reconciliation complete; no formal pattern movement or confidence change
+Latest completed case: #26 — Scarlet Lady
+Completed institution dossiers: 6
+Current research: None
+Next case: #27 — unselected and unstarted; research not authorized.
+Institution comparison: Complete through Cases #21–26
+Canonical governance: Post–Scarlet Lady reconciliation complete; no formal pattern movement or confidence change
 Pattern totals: 26 Candidate / 8 Emerging / 1 Partially Supported / 0 Validated / 0 research-derived Principles
 Candidate confidence: 9 High / 8 Medium-High / 9 Medium; unchanged
 Track B validation cases: 1
-Track C synthesis builds: 1 — Third Rain, representing Cases #11–20
 Next synthesis gate: After Case #30
 Research scope: Public evidence; operational performance, enforcement, representative guest experience, accessibility fulfilment, safety, affordability, belonging, dietary suitability, recovery effectiveness and causal outcomes remain unverified
-Overview update: 2026-09-19
+Canonical update: 2026-09-23
 
 <!-- KHDS-CURRENT-END -->
 
@@ -16943,3 +16943,24 @@ They do not establish validation.
 The maturity threshold remains intact.
 
 **Evidence wins.**
+
+
+## Post–Case #26 research-system reconciliation — 2026-09-23
+
+Case #26 — Scarlet Lady — is the sixth completed institution dossier and the first cruise / mobile multi-system hospitality case.
+
+Institution comparison is complete through Cases #21–26.
+
+Case #26 creates no formal pattern maturity or confidence movement.
+
+The provisional Mobile / Multi-System Hospitality Architecture remains comparison architecture below formal pattern maturity.
+
+Pattern totals remain 26 Candidate / 8 Emerging / 1 Partially Supported / 0 Validated / 0 research-derived Principles.
+
+Candidate confidence remains 9 High / 8 Medium-High / 9 Medium.
+
+Current research: none.
+
+Next case: #27 — unselected and unstarted; research not authorized.
+
+Next synthesis gate: after Case #30.

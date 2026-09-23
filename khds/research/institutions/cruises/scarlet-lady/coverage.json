@@ -1,0 +1,342 @@
+{
+    "schemaVersion":  1,
+    "assessmentDate":  "2026-09-23",
+    "dimensions":  [
+                       {
+                           "dimension":  "discovery",
+                           "question":  "What can a prospective Sailor establish about Scarlet Lady, its current offer and the physical/digital structure of the ship before booking?",
+                           "scopeChange":  "Case #26 applies the standard public-evidence question to a mobile, ship-based hospitality institution. Sufficient applies only to public identity and offer representation, not to operational quality or guest outcomes.",
+                           "sources":  [
+                                           "S1"
+                                       ],
+                           "observations":  [
+                                                {
+                                                    "text":  "Virgin Voyages identifies Scarlet Lady as its first ship and publishes current itinerary options, 3D deck plans, refreshed onboard spaces, dining, entertainment and a photo gallery.",
+                                                    "sources":  [
+                                                                    "S1"
+                                                                ]
+                                                },
+                                                {
+                                                    "text":  "The deck-plan presentation explicitly supports pre-voyage orientation by helping prospective Sailors locate cabins, pool areas, bars and restaurants.",
+                                                    "sources":  [
+                                                                    "S1"
+                                                                ]
+                                                }
+                                            ],
+                           "unanswered":  [
+                                              "Search, comparison and booking usability across desktop and mobile were not tested.",
+                                              "Marketing representation does not establish actual onboard wayfinding performance."
+                                          ],
+                           "rating":  "partial",
+                           "reason":  "Identity and the broad public offer are supported, but booking usability, responsive presentation and operational wayfinding remain untested.",
+                           "nextEvidence":  "Test live itinerary comparison, booking entry points and responsive presentation separately."
+                       },
+                       {
+                           "dimension":  "reservation",
+                           "question":  "Which pre-voyage choices can be reserved, when do they unlock, and how do fare or cabin categories affect access?",
+                           "scopeChange":  "The case emphasizes time-gated access because dining and other experiences unlock at different stages of the journey.",
+                           "sources":  [
+                                           "S3",
+                                           "S4",
+                                           "S8"
+                                       ],
+                           "observations":  [
+                                                {
+                                                    "text":  "Dining reservation access varies by booking date, fare option and accommodation class; for bookings on or after 7 October 2025, published windows range from 15 days for some standard-cabin fares to 120 days for RockStar and Mega RockStar quarters.",
+                                                    "sources":  [
+                                                                    "S3",
+                                                                    "S4"
+                                                                ]
+                                                },
+                                                {
+                                                    "text":  "Other onboard experiences such as spa, entertainment and tattoos are published as reservable once onboard rather than during the same pre-voyage window.",
+                                                    "sources":  [
+                                                                    "S3"
+                                                                ]
+                                                },
+                                                {
+                                                    "text":  "Shore Things can be booked before sailing through the app, My Account, Sailor Services or a travel partner.",
+                                                    "sources":  [
+                                                                    "S8"
+                                                                ]
+                                                }
+                                            ],
+                           "unanswered":  [
+                                              "Live inventory, booking friction, modification and cancellation flows were not tested.",
+                                              "The practical effect of unequal reservation windows on availability was not measured."
+                                          ],
+                           "rating":  "partial",
+                           "reason":  "Published entitlement and timing rules are clear, but availability and execution are untested.",
+                           "nextEvidence":  "Inspect live booking flows and record how inventory, modifications, cancellation and waitlist recovery behave."
+                       },
+                       {
+                           "dimension":  "pre-arrival",
+                           "question":  "What must a Sailor prepare before reaching the terminal, including check-in, accessibility and special-assistance needs?",
+                           "scopeChange":  "The ship context makes identity, documentation, arrival-slot selection and advance assistance part of the pre-arrival system.",
+                           "sources":  [
+                                           "S2",
+                                           "S3",
+                                           "S10"
+                                       ],
+                           "observations":  [
+                                                {
+                                                    "text":  "Virgin directs Sailors to complete Ready to Sail check-in in the app and select a Terminal Arrival Time before embarkation.",
+                                                    "sources":  [
+                                                                    "S2",
+                                                                    "S3"
+                                                                ]
+                                                },
+                                                {
+                                                    "text":  "Virgin publishes advance channels for accessibility and medical requests, including accessible cabins, embarkation/disembarkation assistance, dietary needs and other accommodations.",
+                                                    "sources":  [
+                                                                    "S10"
+                                                                ]
+                                                },
+                                                {
+                                                    "text":  "The accessibility FAQ asks Sailors needing certain accommodations to contact the Accessibility Team and, for accessible-cabin needs, to complete the relevant request process in advance.",
+                                                    "sources":  [
+                                                                    "S10"
+                                                                ]
+                                                }
+                                            ],
+                           "unanswered":  [
+                                              "Document-verification failure, incomplete check-in and late assistance-request recovery were not tested.",
+                                              "Individual accommodation acceptance and fulfilment cannot be inferred from published request channels."
+                                          ],
+                           "rating":  "partial",
+                           "reason":  "Preparation requirements and assistance routes are documented, but execution and exception handling remain unverified.",
+                           "nextEvidence":  "Inspect travel-document requirements, failed-check-in recovery and accommodation-confirmation workflows."
+                       },
+                       {
+                           "dimension":  "arrival",
+                           "question":  "How are terminal arrival, luggage, check-in, boarding and the transition onto the ship coordinated?",
+                           "scopeChange":  "Arrival is treated as a timed cross-boundary transition between terminal operations and ship operations.",
+                           "sources":  [
+                                           "S2",
+                                           "S6"
+                                       ],
+                           "observations":  [
+                                                {
+                                                    "text":  "General boarding is published as generally beginning at 2:15 p.m., while Sailors must follow their selected Terminal Arrival Time to complete terminal check-in.",
+                                                    "sources":  [
+                                                                    "S2"
+                                                                ]
+                                                },
+                                                {
+                                                    "text":  "Virgin publishes port-specific luggage handling and notes that early luggage drop does not create earlier terminal access.",
+                                                    "sources":  [
+                                                                    "S2"
+                                                                ]
+                                                },
+                                                {
+                                                    "text":  "The Band becomes a voyage-specific credential for cabin access and touchless payment after embarkation.",
+                                                    "sources":  [
+                                                                    "S6"
+                                                                ]
+                                                }
+                                            ],
+                           "unanswered":  [
+                                              "Queueing, missed arrival slots, document exceptions and real transfer time from terminal to cabin were not observed.",
+                                              "Band issuance, replacement and first-use friction were not tested."
+                                          ],
+                           "rating":  "partial",
+                           "reason":  "The intended arrival sequence is well described, but real handoff performance and recovery remain unobserved.",
+                           "nextEvidence":  "Inspect port-specific embarkation instructions and test or observe exception handling and credential activation."
+                       },
+                       {
+                           "dimension":  "stay",
+                           "question":  "How do digital identity, cabin access, onboard account, service channels and physical ship spaces operate together during the voyage?",
+                           "scopeChange":  "The stay dimension tests a multi-day mobile institution in which one Sailor identity spans app, Band, cabin and crew-facing systems.",
+                           "sources":  [
+                                           "S1",
+                                           "S5",
+                                           "S6",
+                                           "S7"
+                                       ],
+                           "observations":  [
+                                                {
+                                                    "text":  "The Band is published as the cabin-access and touchless-payment credential for a specific voyage, with an encrypted ID linked to the Sailor\u0027s security photo.",
+                                                    "sources":  [
+                                                                    "S6"
+                                                                ]
+                                                },
+                                                {
+                                                    "text":  "Onboard expenses are attached to a personal onboard account, with Band charges linked to the payment method on file and Sailor Services handling billing concerns.",
+                                                    "sources":  [
+                                                                    "S7"
+                                                                ]
+                                                },
+                                                {
+                                                    "text":  "The ship page and app-related guidance indicate that physical spaces and digital service channels are intended to work as one continuous onboard environment.",
+                                                    "sources":  [
+                                                                    "S1",
+                                                                    "S5"
+                                                                ]
+                                                }
+                                            ],
+                           "unanswered":  [
+                                              "App reliability, connectivity failure, lost-device recovery and cross-system synchronization were not tested.",
+                                              "Actual cabin-service, housekeeping and service-recovery performance remain outside the current evidence."
+                                          ],
+                           "rating":  "partial",
+                           "reason":  "The orchestration model is documented, but its operational reliability has not been observed.",
+                           "nextEvidence":  "Inspect cabin, housekeeping, Sailor Services and connectivity guidance, then test fallback routes when app or Band access fails."
+                       },
+                       {
+                           "dimension":  "dining",
+                           "question":  "How are dining discovery, reservation access, waitlists and dietary needs represented and coordinated?",
+                           "scopeChange":  "Dining is examined as both a scarce reservable resource and an accessibility/dietary service.",
+                           "sources":  [
+                                           "S1",
+                                           "S3",
+                                           "S4",
+                                           "S10"
+                                       ],
+                           "observations":  [
+                                                {
+                                                    "text":  "Scarlet Lady\u0027s public ship page names and describes dining venues, while the dining FAQ publishes reservation windows and channels.",
+                                                    "sources":  [
+                                                                    "S1",
+                                                                    "S4"
+                                                                ]
+                                                },
+                                                {
+                                                    "text":  "Virgin advises Sailors to recheck for cancellations and permits onboard waitlist handling through restaurants or Sailor Services when reservations are unavailable.",
+                                                    "sources":  [
+                                                                    "S4"
+                                                                ]
+                                                },
+                                                {
+                                                    "text":  "Virgin states that crews ask about allergies and can guide menu choices, while also stating that ships are not allergen-free environments and do not have allergen-free kitchens.",
+                                                    "sources":  [
+                                                                    "S10"
+                                                                ]
+                                                }
+                                            ],
+                           "unanswered":  [
+                                              "Live menu availability, waitlist wait times, dietary-request execution and cross-contamination controls were not tested.",
+                                              "The impact of fare-based reservation timing on dining access remains unmeasured."
+                                          ],
+                           "rating":  "partial",
+                           "reason":  "Booking and dietary guidance are documented, but actual availability and safe execution remain unverified.",
+                           "nextEvidence":  "Inspect current menus and test reservation, waitlist and dietary escalation paths."
+                       },
+                       {
+                           "dimension":  "departure",
+                           "question":  "How are final settlement, disembarkation and unresolved service responsibilities closed at the end of the voyage?",
+                           "scopeChange":  "Departure includes financial closure and the transition from ship systems back to land-side travel.",
+                           "sources":  [
+                                           "S2",
+                                           "S7"
+                                       ],
+                           "observations":  [
+                                                {
+                                                    "text":  "Virgin states that Band-linked onboard purchases are charged through the onboard account and ultimately to the card on file, with Sailor Services handling billing concerns.",
+                                                    "sources":  [
+                                                                    "S7"
+                                                                ]
+                                                },
+                                                {
+                                                    "text":  "Terminal wheelchair assistance is published for embarkation and disembarkation at home ports.",
+                                                    "sources":  [
+                                                                    "S2"
+                                                                ]
+                                                }
+                                            ],
+                           "unanswered":  [
+                                              "Final folio review, dispute timing, luggage release, disembarkation sequencing and missed onward-travel recovery remain uninspected.",
+                                              "No post-voyage support workflow has yet been added to the evidence set."
+                                          ],
+                           "rating":  "partial",
+                           "reason":  "Some financial and accessibility closure responsibilities are documented, but the full disembarkation journey is not.",
+                           "nextEvidence":  "Inspect current disembarkation and post-voyage support FAQs, including folio disputes, luggage and onward-travel guidance."
+                       },
+                       {
+                           "dimension":  "atmosphere",
+                           "question":  "How does Virgin publicly represent the intended social and sensory atmosphere of Scarlet Lady, and what practical controls are documented?",
+                           "scopeChange":  "Atmosphere is treated as advertised intent rather than proof of the lived onboard environment.",
+                           "sources":  [
+                                           "S1"
+                                       ],
+                           "observations":  [
+                                                {
+                                                    "text":  "The Scarlet Lady page presents the ship through refreshed social spaces, restaurants, pool areas, nightlife and entertainment, framing the vessel as an active adult leisure environment.",
+                                                    "sources":  [
+                                                                    "S1"
+                                                                ]
+                                                },
+                                                {
+                                                    "text":  "The public narrative emphasizes visual spectacle, nightlife and varied entertainment rather than a single uniform onboard mood.",
+                                                    "sources":  [
+                                                                    "S1"
+                                                                ]
+                                                }
+                                            ],
+                           "unanswered":  [
+                                              "Noise, crowding, sensory load, quiet-space availability and atmosphere across time of day were not observed.",
+                                              "No accessibility-specific sensory environment evidence has yet been inspected."
+                                          ],
+                           "rating":  "partial",
+                           "reason":  "Promotional atmosphere is clear, but practical sensory conditions and guest experience are unverified.",
+                           "nextEvidence":  "Inspect ship-space policies, quiet-area information and accessibility guidance relevant to sensory conditions."
+                       },
+                       {
+                           "dimension":  "photography",
+                           "question":  "Do Scarlet Lady\u0027s public images and visual presentation help explain the ship and guest journey as well as promote it?",
+                           "scopeChange":  "This rating is intentionally narrow because image assets have not yet been directly inspected as a representative sample.",
+                           "sources":  [
+                                           "S1"
+                                       ],
+                           "observations":  [
+                                                {
+                                                    "text":  "The Scarlet Lady page includes a dedicated photo gallery and image-led sections for dining, entertainment and ship spaces.",
+                                                    "sources":  [
+                                                                    "S1"
+                                                                ]
+                                                },
+                                                {
+                                                    "text":  "The same page provides 3D deck-plan orientation alongside promotional imagery, separating some practical navigation from visual marketing.",
+                                                    "sources":  [
+                                                                    "S1"
+                                                                ]
+                                                }
+                                            ],
+                           "unanswered":  [
+                                              "Individual image composition, sequence, responsive crops and mobile presentation have not been directly inspected.",
+                                              "It is not yet established whether practical transitions such as terminal arrival, accessibility, port return or disembarkation are visually explained."
+                                          ],
+                           "rating":  "partial",
+                           "reason":  "A substantial visual layer is present, but the imagery has not yet been audited closely enough to make stronger claims.",
+                           "nextEvidence":  "Inspect a purposive desktop/mobile image sample and record which stages of the guest journey are visually represented."
+                       },
+                       {
+                           "dimension":  "story",
+                           "question":  "What institutional story and brand narrative does Virgin explicitly attach to Scarlet Lady?",
+                           "scopeChange":  "Story is limited to attributable public narrative and does not treat brand claims as guest outcomes or cultural legitimacy.",
+                           "sources":  [
+                                           "S1"
+                                       ],
+                           "observations":  [
+                                                {
+                                                    "text":  "Virgin identifies Scarlet Lady as its first ship and gives the Scarlet Lady mermaid a specific symbolic narrative tied to power, leadership and women at the helm.",
+                                                    "sources":  [
+                                                                    "S1"
+                                                                ]
+                                                },
+                                                {
+                                                    "text":  "The ship page connects the vessel\u0027s current identity to both its original flagship status and a later refresh of spaces and programming.",
+                                                    "sources":  [
+                                                                    "S1"
+                                                                ]
+                                                }
+                                            ],
+                           "unanswered":  [
+                                              "Independent reception of this narrative and its effect on guest understanding are not established.",
+                                              "The relationship between brand story and actual service behavior remains untested."
+                                          ],
+                           "rating":  "partial",
+                           "reason":  "Virgin\u0027s public narrative is directly documented, but independent reception, guest interpretation and operational consistency remain untested.",
+                           "nextEvidence":  "Keep independent reception and operational consistency as separate hypotheses rather than treating brand story as proof."
+                       }
+                   ]
+}

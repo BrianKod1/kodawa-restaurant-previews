@@ -4,17 +4,18 @@ Status
 
 <!-- KHDS-CURRENT-START -->
 
-Canonical decision: Post–Generator Copenhagen reconciliation is authoritative
-Latest completed case: #25 — Generator Copenhagen
-Completed institution dossiers: 5 (#21 Fogo Island Inn, #22 Sky Lagoon, #23 Reffen, #24 Time Out Market Lisboa, #25 Generator Copenhagen)
-Current research: None; Case #26 is unselected and unstarted, and research is not authorized
-Institution comparison: Complete through Cases #21–25
-Canonical movement: None
+Latest completed case: #26 — Scarlet Lady
+Completed institution dossiers: 6
+Current research: None
+Next case: #27 — unselected and unstarted; research not authorized.
+Institution comparison: Complete through Cases #21–26
+Canonical governance: Post–Scarlet Lady reconciliation complete; no formal pattern movement or confidence change
 Pattern totals: 26 Candidate / 8 Emerging / 1 Partially Supported / 0 Validated / 0 research-derived Principles
 Candidate confidence: 9 High / 8 Medium-High / 9 Medium; unchanged
-Governance mirrors: All six aligned with the Post–Generator Copenhagen canonical decision
+Track B validation cases: 1
+Next synthesis gate: After Case #30
 Research scope: Public evidence; operational performance, enforcement, representative guest experience, accessibility fulfilment, safety, affordability, belonging, dietary suitability, recovery effectiveness and causal outcomes remain unverified
-Validation update: 2026-09-19
+Canonical update: 2026-09-23
 
 <!-- KHDS-CURRENT-END -->
 
@@ -18566,3 +18567,18 @@ Shared Control
 The maturity threshold remains intact.
 
 Evidence wins.
+
+
+## Post–Case #26 validation reconciliation — 2026-09-23
+
+Canonical authority remains `candidate-patterns.md`.
+
+Scarlet Lady is incorporated as the sixth completed institution dossier.
+
+Case #26 contributes comparison pressure around mobile hospitality, multi-system identity, timed access, digital-to-human recovery, commercial coordination versus operational control, and post-departure service responsibility.
+
+No Candidate or Emerging promotion, demotion, rename, merge, validation, Principle promotion or confidence movement is authorized.
+
+Canonical totals remain 26/8/1/0/0 with Candidate confidence 9 High / 8 Medium-High / 9 Medium.
+
+Case #27 is unselected and unstarted; research is not authorized.

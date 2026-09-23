@@ -4,26 +4,18 @@ Status
 
 <!-- KHDS-CURRENT-START -->
 
-Architecture status: Established and populated
-Established after: KHDS Case #21 — Fogo Island Inn
-Research track: Track A — Independent Hospitality Institution Research
-Comparison type: Cross-institution and cross-sector comparison
-First seeded case: Fogo Island Inn, Newfoundland and Labrador
-Latest completed case: KHDS Case #25 — Generator Copenhagen
-Completed institution cases represented: 5 public-evidence dossiers
-Active research case: None
-Next case: Case #26 — unselected and unstarted; research not authorized
-Case #25 comparison state: Completed at public-evidence scope and incorporated into the completed five-case population; canonical reconciliation complete
-Institution types represented: Hotel / inn, wellness venue, two multi-operator food-and-cultural venue cases, and hostel / social stay
-Cross-institution recurrence status: Provisionally testable; insufficient for validation
-Canonical governance changes: None
-Pattern totals retained: 26 Candidate / 8 Emerging / 1 Partially Supported / 0 Validated / 0 research-derived Principles
-Candidate confidence retained: 9 High / 8 Medium-High / 9 Medium
-Governance mirror state: All six governance files reconciled and complete through Case #25
-Canonical authority: khds/research/validation/candidate-patterns.md
-Architecture established: 2026-09-08
-Latest comparison update: 2026-09-19
-Research completion scope: Public evidence; operational performance and outcomes remain unverified
+Latest completed case: #26 — Scarlet Lady
+Completed institution dossiers: 6
+Current research: None
+Next case: #27 — unselected and unstarted; research not authorized.
+Institution comparison: Complete through Cases #21–26
+Canonical governance: Post–Scarlet Lady reconciliation complete; no formal pattern movement or confidence change
+Pattern totals: 26 Candidate / 8 Emerging / 1 Partially Supported / 0 Validated / 0 research-derived Principles
+Candidate confidence: 9 High / 8 Medium-High / 9 Medium; unchanged
+Track B validation cases: 1
+Next synthesis gate: After Case #30
+Research scope: Public evidence; operational performance, enforcement, representative guest experience, accessibility fulfilment, safety, affordability, belonging, dietary suitability, recovery effectiveness and causal outcomes remain unverified
+Canonical update: 2026-09-23
 
 <!-- KHDS-CURRENT-END -->
 
@@ -4606,3 +4598,141 @@ Completed Governance Reconciliation
 ≠
 
 Verified Institutional Outcome
+
+
+## Case #26 completed comparison record — Scarlet Lady
+
+### Population and evidence rule
+
+Scarlet Lady is the sixth completed comparator and the first cruise / mobile multi-system hospitality institution in the current KHDS institution population.
+
+The dossier is based on public operator evidence. It does not verify representative onboard experience, operational performance, accessibility fulfilment, safety outcomes, recovery effectiveness or causal effects.
+
+```text
+Completed Comparison Case
+≠
+Canonical Governance Change
+```
+
+### Controlled comparison purpose
+
+Cases #21–25 test destination stay, wellness admission, shared multi-operator venues and hostel / social-stay conditions.
+
+Case #26 adds a moving institution in which accommodation, dining, entertainment, reservations, payments, identity, navigation, shore transitions and departure must remain coordinated across changing physical and digital states.
+
+The comparison is structural, not a ranking.
+
+### Sixth-case comparison contribution
+
+Scarlet Lady adds pressure around:
+
+- multi-system identity continuity;
+- timed access;
+- entitlement versus inventory opportunity;
+- digital-to-human recovery;
+- responsibility transfer across port, terminal, ship and shore states;
+- commercial coordination versus operational control;
+- atmosphere as dynamic information;
+- and service responsibility after physical departure.
+
+The strongest bounded finding is:
+
+> Guest continuity can exceed operator control.
+
+```text
+One Branded Journey
+≠
+One Operational Owner
+
+Commercial Coordination
+≠
+Operational Control
+
+Digital First
+≠
+Digital Only
+
+Fallback Available
+≠
+Original Need Recovered
+
+Physical Departure
+≠
+Service Relationship End
+```
+
+### Provisional architecture
+
+**Mobile / Multi-System Hospitality Architecture**
+
+> A hospitality structure in which a guest moves through multiple digital, physical and operational systems while the branded journey must preserve legible identity, entitlement, responsibility and recovery across those handoffs.
+
+```text
+Comparison Architecture
+≠
+Formal Pattern
+```
+
+The architecture is not counted as Candidate, Emerging or Principle material.
+
+### Case #26 research directions
+
+The following remain non-canonical:
+
+1. Orchestrated Journey Continuity
+2. Timed-Access Legibility
+3. Multi-System Identity Continuity
+4. Digital-to-Human Recovery
+5. Commercial Coordination / Operational Control Boundary
+6. Port-to-Ship Responsibility Transfer
+7. Access Entitlement versus Inventory Opportunity
+8. Atmosphere as Dynamic Information
+9. Physical Departure / Persistent Service Responsibility
+10. Alternative Service / Original Need Equivalence
+11. Mobile-Institution Narrative Continuity
+12. Cross-System Recovery Visibility
+
+### Governance decision
+
+Case #26 produces:
+
+- 0 Candidate promotions;
+- 0 Emerging promotions;
+- 0 confidence increases;
+- 0 confidence decreases;
+- 0 demotions;
+- 0 renames;
+- 0 merges;
+- 0 Validated promotions;
+- 0 research-derived Principle promotions;
+- 0 newly counted formal patterns;
+- and one administrative increase from five to six completed institution dossiers.
+
+Pattern totals remain 26 Candidate / 8 Emerging / 1 Partially Supported / 0 Validated / 0 research-derived Principles.
+
+Candidate confidence remains 9 High / 8 Medium-High / 9 Medium.
+
+### Research decisions
+
+**Decision 21**
+
+Mobile / Multi-System Hospitality Architecture is retained as provisional comparison architecture below formal pattern maturity.
+
+**Decision 22**
+
+Case #26 extends the comparison model across a moving institution without treating one branded journey as proof of one operational owner or one continuous control boundary.
+
+### Falsification requirements
+
+Future cases should test whether:
+
+- cross-system identity remains legible when digital channels fail;
+- published fallback routes provide equivalent recovery;
+- coordinated commercial offers create operational responsibility or only commercial linkage;
+- timed access can remain understandable across multiple inventory systems;
+- physical departure actually closes service responsibility;
+- and the same mechanisms recur in another independent cruise or mobile hospitality institution.
+
+Public evidence does not resolve these operational questions.
+
+Administrative closure remains distinct from operational validation.

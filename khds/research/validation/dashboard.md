@@ -4,21 +4,18 @@ Status
 
 <!-- KHDS-CURRENT-START -->
 
-Canonical decision: Post–Generator Copenhagen reconciliation complete
-Latest completed case: #25 — Generator Copenhagen
-Completed institution dossiers: 5 (#21 Fogo Island Inn, #22 Sky Lagoon, #23 Reffen, #24 Time Out Market Lisboa, #25 Generator Copenhagen)
+Latest completed case: #26 — Scarlet Lady
+Completed institution dossiers: 6
 Current research: None
-Next case: #26 — unselected and unstarted; research not authorized
-Institution comparison: Complete for Cases #21–25
-Independent restaurants: 20
-Canonical movement: None
+Next case: #27 — unselected and unstarted; research not authorized.
+Institution comparison: Complete through Cases #21–26
+Canonical governance: Post–Scarlet Lady reconciliation complete; no formal pattern movement or confidence change
 Pattern totals: 26 Candidate / 8 Emerging / 1 Partially Supported / 0 Validated / 0 research-derived Principles
 Candidate confidence: 9 High / 8 Medium-High / 9 Medium; unchanged
 Track B validation cases: 1
-Formal maturity movement: None
-Confidence movement: None
-Research scope: Public evidence; operational performance, enforcement, recovery and guest outcomes remain unverified
-Dashboard update: 2026-09-19
+Next synthesis gate: After Case #30
+Research scope: Public evidence; operational performance, enforcement, representative guest experience, accessibility fulfilment, safety, affordability, belonging, dietary suitability, recovery effectiveness and causal outcomes remain unverified
+Canonical update: 2026-09-23
 
 <!-- KHDS-CURRENT-END -->
 
@@ -6273,3 +6270,31 @@ Next synthesis gate: after Case #30.
 Maturity threshold: intact.
 
 **Evidence wins.**
+
+
+## Case #26 dashboard reconciliation — Scarlet Lady
+
+| Case | Institution | Type | Comparison status |
+| ---: | --- | --- | --- |
+| 26 | Scarlet Lady | Adults-only cruise ship / integrated hospitality vessel | Complete public-evidence comparator |
+
+Scarlet Lady extends the institution population from five to six completed dossiers.
+
+Primary comparison pressure:
+
+- identity continuity across account, app, terminal, Band, cabin and onboard-service states;
+- entitlement versus inventory opportunity;
+- timed access across dining, embarkation and Shore Things;
+- digital-first service with human recovery requirements;
+- commercial coordination versus operational control;
+- responsibility that may persist after physical departure.
+
+Provisional comparison architecture: **Mobile / Multi-System Hospitality Architecture**.
+
+This architecture is not a formal Candidate, Emerging pattern or Principle.
+
+Governance movement: none.
+
+Pattern totals remain 26/8/1/0/0.
+
+Candidate confidence remains 9 High / 8 Medium-High / 9 Medium.

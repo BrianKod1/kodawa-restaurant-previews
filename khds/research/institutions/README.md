@@ -4,33 +4,18 @@ Status
 
 <!-- KHDS-CURRENT-START -->
 
-Latest completed case: #25 — Generator Copenhagen
-
-Completed institution dossiers: 5
-
-Cases #21–25 are closed at public-evidence scope.
-
-Institution comparison: complete through Cases #21–25.
-
-Canonical reconciliation: complete through Case #25.
-
-Pattern Registry and Validation Dashboard mirrors: complete through Case #25.
-
-Current research: none.
-
-Next case: #26 — unselected and unstarted; research not authorized.
-
-Pattern totals: 26/8/1/0/0 (Candidate/Emerging/Partially Supported/Validated/research-derived Principles).
-
-Candidate confidence: 9 High / 8 Medium-High / 9 Medium; unchanged.
-
-Formal maturity movement: none.
-
-Confidence movement: none.
-
-Research completion scope: public evidence; operational performance, enforcement, representative guest experience, accessibility fulfilment, safety, affordability, belonging, dietary suitability, recovery effectiveness and causal outcomes remain unverified.
-
-Institution overview update: 2026-09-19
+Latest completed case: #26 — Scarlet Lady
+Completed institution dossiers: 6
+Current research: None
+Next case: #27 — unselected and unstarted; research not authorized.
+Institution comparison: Complete through Cases #21–26
+Canonical governance: Post–Scarlet Lady reconciliation complete; no formal pattern movement or confidence change
+Pattern totals: 26 Candidate / 8 Emerging / 1 Partially Supported / 0 Validated / 0 research-derived Principles
+Candidate confidence: 9 High / 8 Medium-High / 9 Medium; unchanged
+Track B validation cases: 1
+Next synthesis gate: After Case #30
+Research scope: Public evidence; operational performance, enforcement, representative guest experience, accessibility fulfilment, safety, affordability, belonging, dietary suitability, recovery effectiveness and causal outcomes remain unverified
+Canonical update: 2026-09-23
 
 <!-- KHDS-CURRENT-END -->
 
@@ -873,3 +858,28 @@ They do not establish validation.
 The maturity threshold remains intact.
 
 Evidence wins.
+
+
+## Post–Case #26 institution-research reconciliation — 2026-09-23
+
+Case #26 — Scarlet Lady — is complete at public-evidence scope and incorporated as the sixth institution comparator.
+
+Cases #21–26 are closed at public-evidence scope.
+
+Institution comparison is complete through Cases #21–26.
+
+Scarlet Lady adds the first cruise / mobile multi-system hospitality institution.
+
+The provisional Mobile / Multi-System Hospitality Architecture remains below formal pattern maturity.
+
+Canonical totals remain 26/8/1/0/0.
+
+Candidate confidence remains 9 High / 8 Medium-High / 9 Medium.
+
+Formal maturity movement: none.
+
+Confidence movement: none.
+
+Current research: none.
+
+Next case: #27 — unselected and unstarted; research not authorized.

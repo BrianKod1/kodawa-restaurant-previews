@@ -1,0 +1,27 @@
+{
+  "caseNumber": 26,
+  "institutionName": "Scarlet Lady",
+  "slug": "scarlet-lady",
+  "institutionType": "Adults-only cruise ship / integrated hospitality vessel",
+  "sector": "cruises",
+  "canonicalPath": "khds/research/institutions/cruises/scarlet-lady/",
+  "stagingPath": "khds/staging/case-26-scarlet-lady",
+  "trackingChanges": [],
+  "requiredFiles": [
+    "README.md",
+    "discovery.md",
+    "reservation.md",
+    "pre-arrival.md",
+    "arrival.md",
+    "stay.md",
+    "dining.md",
+    "departure.md",
+    "atmosphere.md",
+    "photography.md",
+    "story.md",
+    "knowledge-extraction.md"
+  ],
+  "evidenceCoverageVersion": 1,
+  "lockedAt": "2026-09-23T14:02:51.063Z",
+  "baseCommit": "5d67fd372b35b896c7417976bbbae1349f0d9b65"
+}
