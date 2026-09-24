@@ -4,18 +4,18 @@ Status
 
 <!-- KHDS-CURRENT-START -->
 
-Latest completed case: #26 — Scarlet Lady
-Completed institution dossiers: 6
+Latest completed case: #27 — Soho House Toronto
+Completed institution dossiers: 7
 Current research: None
-Next case: #27 — unselected and unstarted; research not authorized.
-Institution comparison: Complete through Cases #21–26
-Canonical governance: Post–Scarlet Lady reconciliation complete; no formal pattern movement or confidence change
+Next case: #28 — unselected and unstarted; research not authorized.
+Institution comparison: Complete through Cases #21–27
+Canonical governance: Post–Soho House Toronto reconciliation complete; no formal pattern movement or confidence change
 Pattern totals: 26 Candidate / 8 Emerging / 1 Partially Supported / 0 Validated / 0 research-derived Principles
 Candidate confidence: 9 High / 8 Medium-High / 9 Medium; unchanged
 Track B validation cases: 1
 Next synthesis gate: After Case #30
-Research scope: Public evidence; operational performance, enforcement, representative guest experience, accessibility fulfilment, safety, affordability, belonging, dietary suitability, recovery effectiveness and causal outcomes remain unverified
-Canonical update: 2026-09-23
+Research scope: Public evidence; operational performance, enforcement, representative member/guest experience, accessibility fulfilment, belonging, privacy outcomes, recovery effectiveness and causal outcomes remain unverified
+Canonical update: 2026-09-24
 
 <!-- KHDS-CURRENT-END -->
 
@@ -16936,7 +16936,8 @@ Peer-Variable Conditions
 Guaranteed Guest Outcomes
 ```
 
-Five completed institution cases enable stronger comparison.
+Five completed instit<!-- KHDS-HISTORY-START -->
+ution cases enable stronger comparison.
 
 They do not establish validation.
 
@@ -16945,7 +16946,7 @@ The maturity threshold remains intact.
 **Evidence wins.**
 
 
-## Post–Case #26 research-system reconciliation — 2026-09-23
+## Historical Post-Case #26 research-system reconciliation — 2026-09-23
 
 Case #26 — Scarlet Lady — is the sixth completed institution dossier and the first cruise / mobile multi-system hospitality case.
 
@@ -16959,8 +16960,31 @@ Pattern totals remain 26 Candidate / 8 Emerging / 1 Partially Supported / 0 Vali
 
 Candidate confidence remains 9 High / 8 Medium-High / 9 Medium.
 
+At the Case #26 checkpoint, current research was none.
+
+At the Case #26 checkpoint, Case #27 was unselected and unstarted; research was not authorized.
+
+Next synthesis gate: after Case #30.
+
+
+<!-- KHDS-HISTORY-END -->
+
+## Post–Case #27 research-system reconciliation — 2026-09-24
+
+Case #27 — Soho House Toronto — is the seventh completed institution dossier and the first private-members' club / recurring-membership hospitality case in the current institution set.
+
+Institution comparison is complete through Cases #21–27.
+
+Case #27 creates no formal pattern maturity or confidence movement.
+
+The provisional Membership-Gated / Recurring-Entitlement Hospitality Architecture remains comparison architecture below formal pattern maturity.
+
+Pattern totals remain 26 Candidate / 8 Emerging / 1 Partially Supported / 0 Validated / 0 research-derived Principles.
+
+Candidate confidence remains 9 High / 8 Medium-High / 9 Medium.
+
 Current research: none.
 
-Next case: #27 — unselected and unstarted; research not authorized.
+Next case: #28 — unselected and unstarted; research not authorized.
 
 Next synthesis gate: after Case #30.

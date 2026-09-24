@@ -4,18 +4,18 @@ Status
 
 <!-- KHDS-CURRENT-START -->
 
-Latest completed case: #26 — Scarlet Lady
-Completed institution dossiers: 6
+Latest completed case: #27 — Soho House Toronto
+Completed institution dossiers: 7
 Current research: None
-Next case: #27 — unselected and unstarted; research not authorized.
-Institution comparison: Complete through Cases #21–26
-Canonical governance: Post–Scarlet Lady reconciliation complete; no formal pattern movement or confidence change
+Next case: #28 — unselected and unstarted; research not authorized.
+Institution comparison: Complete through Cases #21–27
+Canonical governance: Post–Soho House Toronto reconciliation complete; no formal pattern movement or confidence change
 Pattern totals: 26 Candidate / 8 Emerging / 1 Partially Supported / 0 Validated / 0 research-derived Principles
 Candidate confidence: 9 High / 8 Medium-High / 9 Medium; unchanged
 Track B validation cases: 1
 Next synthesis gate: After Case #30
-Research scope: Public evidence; operational performance, enforcement, representative guest experience, accessibility fulfilment, safety, affordability, belonging, dietary suitability, recovery effectiveness and causal outcomes remain unverified
-Canonical update: 2026-09-23
+Research scope: Public evidence; operational performance, enforcement, representative member/guest experience, accessibility fulfilment, belonging, privacy outcomes, recovery effectiveness and causal outcomes remain unverified
+Canonical update: 2026-09-24
 
 <!-- KHDS-CURRENT-END -->
 
@@ -18582,3 +18582,18 @@ No Candidate or Emerging promotion, demotion, rename, merge, validation, Princip
 Canonical totals remain 26/8/1/0/0 with Candidate confidence 9 High / 8 Medium-High / 9 Medium.
 
 Case #27 is unselected and unstarted; research is not authorized.
+
+
+## Post–Case #27 validation reconciliation — 2026-09-24
+
+Canonical authority remains `candidate-patterns.md`.
+
+Soho House Toronto is incorporated as the seventh completed institution dossier.
+
+Case #27 contributes comparison pressure around recurring entitlement, member identity, sponsored-guest dependency, service-specific capacity, behavioural governance, privacy and persistent responsibility after a visit.
+
+No Candidate or Emerging promotion, demotion, rename, merge, validation, Principle promotion or confidence movement is authorized.
+
+Canonical totals remain 26/8/1/0/0 with Candidate confidence 9 High / 8 Medium-High / 9 Medium.
+
+Case #28 is unselected and unstarted; research is not authorized.

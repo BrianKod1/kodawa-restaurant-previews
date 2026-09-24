@@ -4,18 +4,18 @@ Status
 
 <!-- KHDS-CURRENT-START -->
 
-Latest completed case: #26 — Scarlet Lady
-Completed institution dossiers: 6
+Latest completed case: #27 — Soho House Toronto
+Completed institution dossiers: 7
 Current research: None
-Next case: #27 — unselected and unstarted; research not authorized.
-Institution comparison: Complete through Cases #21–26
-Canonical governance: Post–Scarlet Lady reconciliation complete; no formal pattern movement or confidence change
+Next case: #28 — unselected and unstarted; research not authorized.
+Institution comparison: Complete through Cases #21–27
+Canonical governance: Post–Soho House Toronto reconciliation complete; no formal pattern movement or confidence change
 Pattern totals: 26 Candidate / 8 Emerging / 1 Partially Supported / 0 Validated / 0 research-derived Principles
 Candidate confidence: 9 High / 8 Medium-High / 9 Medium; unchanged
 Track B validation cases: 1
 Next synthesis gate: After Case #30
-Research scope: Public evidence; operational performance, enforcement, representative guest experience, accessibility fulfilment, safety, affordability, belonging, dietary suitability, recovery effectiveness and causal outcomes remain unverified
-Canonical update: 2026-09-23
+Research scope: Public evidence; operational performance, enforcement, representative member/guest experience, accessibility fulfilment, belonging, privacy outcomes, recovery effectiveness and causal outcomes remain unverified
+Canonical update: 2026-09-24
 
 <!-- KHDS-CURRENT-END -->
 
@@ -4732,6 +4732,146 @@ Future cases should test whether:
 - timed access can remain understandable across multiple inventory systems;
 - physical departure actually closes service responsibility;
 - and the same mechanisms recur in another independent cruise or mobile hospitality institution.
+
+Public evidence does not resolve these operational questions.
+
+Administrative closure remains distinct from operational validation.
+
+
+## Case #27 completed comparison record — Soho House Toronto
+
+### Population and evidence rule
+
+Soho House Toronto is the seventh completed comparator and the first private-members' club / recurring-membership hospitality institution in the current KHDS institution population.
+
+The dossier is based on public operator evidence. It does not verify representative member experience, application decision behaviour, operational enforcement, accessibility fulfilment, privacy outcomes, belonging, recovery effectiveness or causal effects.
+
+```text
+Completed Comparison Case
+!=
+Canonical Governance Change
+```
+
+### Controlled comparison purpose
+
+Cases #21–26 test destination stay, wellness admission, shared multi-operator venues, hostel/social-stay conditions and mobile multi-system hospitality.
+
+Case #27 adds a recurring institutional relationship in which participation depends on membership identity, sponsorship, behavioural rules and service-specific capacity.
+
+The comparison is structural, not a ranking.
+
+### Seventh-case comparison contribution
+
+Soho House Toronto adds pressure around:
+
+- recurring entitlement;
+- identity-to-access conversion;
+- sponsored-guest dependency;
+- access-route legibility;
+- House access versus local service inventory;
+- behavioural governance;
+- member responsibility versus operator responsibility;
+- privacy;
+- atmosphere as governed participation;
+- and persistent responsibility after physical departure.
+
+The strongest bounded finding is:
+
+> Membership can preserve a continuing hospitality relationship while access remains conditional, role-dependent and service-specific.
+
+```text
+Membership Continuity
+!=
+Uniform Access Continuity
+
+Member Guest
+!=
+Independent Member
+
+Membership Payment
+!=
+Guaranteed Space Access
+
+Guest Responsibility
+!=
+Operator Responsibility Absent
+
+Behaviour Rules
+!=
+Verified Enforcement
+```
+
+### Provisional architecture
+
+**Membership-Gated / Recurring-Entitlement Hospitality Architecture**
+
+> A hospitality structure in which an ongoing membership relationship creates recurring entitlement while actual participation remains conditional on identity, sponsorship, current rules and service-specific capacity.
+
+```text
+Comparison Architecture
+!=
+Formal Pattern
+```
+
+The architecture is not counted as Candidate, Emerging or Principle material.
+
+### Case #27 research directions
+
+The following remain non-canonical:
+
+1. Membership-Governed Hospitality Continuity
+2. Access-Route Legibility
+3. Recurring Entitlement / Local Inventory Separation
+4. Sponsored-Guest Dependency
+5. Identity-to-Access Conversion
+6. Rule-Governed Participation
+7. Member Responsibility / Operator Responsibility Boundary
+8. Atmosphere as Governed Participation
+9. Persistent Relationship After Visit
+10. Community Narrative / Outcome Separation
+11. Visible Place / Invisible Governance Boundary
+12. Membership Continuity / Uniform Access Discontinuity
+
+### Governance decision
+
+Case #27 produces:
+
+- 0 Candidate promotions;
+- 0 Emerging promotions;
+- 0 confidence increases;
+- 0 confidence decreases;
+- 0 demotions;
+- 0 renames;
+- 0 merges;
+- 0 Validated promotions;
+- 0 research-derived Principle promotions;
+- 0 newly counted formal patterns;
+- and one administrative increase from six to seven completed institution dossiers.
+
+Pattern totals remain 26 Candidate / 8 Emerging / 1 Partially Supported / 0 Validated / 0 research-derived Principles.
+
+Candidate confidence remains 9 High / 8 Medium-High / 9 Medium.
+
+### Research decisions
+
+**Decision 23**
+
+Membership-Gated / Recurring-Entitlement Hospitality Architecture is retained as provisional comparison architecture below formal pattern maturity.
+
+**Decision 24**
+
+Case #27 extends the comparison model into recurring membership without treating continuing entitlement as proof of uniform access, service capacity or verified belonging.
+
+### Falsification requirements
+
+Future cases should test whether:
+
+- membership status consistently creates service-specific rather than universal entitlement;
+- sponsored guests remain meaningfully dependent on member identity;
+- membership access and local capacity continue to diverge;
+- behavioural governance materially shapes participation;
+- physical departure leaves meaningful membership, payment, conduct or data responsibilities active;
+- and the same mechanisms recur in another independent membership-based hospitality institution.
 
 Public evidence does not resolve these operational questions.
 

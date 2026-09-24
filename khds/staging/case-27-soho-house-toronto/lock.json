@@ -1,0 +1,27 @@
+{
+  "caseNumber": 27,
+  "institutionName": "Soho House Toronto",
+  "slug": "soho-house-toronto",
+  "institutionType": "Private members' club / membership-based hospitality institution",
+  "sector": "members-clubs",
+  "canonicalPath": "khds/research/institutions/members-clubs/soho-house-toronto/",
+  "stagingPath": "khds/staging/case-27-soho-house-toronto",
+  "trackingChanges": [],
+  "requiredFiles": [
+    "README.md",
+    "discovery.md",
+    "reservation.md",
+    "pre-arrival.md",
+    "arrival.md",
+    "stay.md",
+    "dining.md",
+    "departure.md",
+    "atmosphere.md",
+    "photography.md",
+    "story.md",
+    "knowledge-extraction.md"
+  ],
+  "evidenceCoverageVersion": 1,
+  "lockedAt": "2026-09-24T12:38:57.290Z",
+  "baseCommit": "e4a747bc38fb29d72193de281bd2276efd344bd9"
+}

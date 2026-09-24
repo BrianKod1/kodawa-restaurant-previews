@@ -4,18 +4,18 @@ Status
 
 <!-- KHDS-CURRENT-START -->
 
-Latest completed case: #26 — Scarlet Lady
-Completed institution dossiers: 6
+Latest completed case: #27 — Soho House Toronto
+Completed institution dossiers: 7
 Current research: None
-Next case: #27 — unselected and unstarted; research not authorized.
-Institution comparison: Complete through Cases #21–26
-Canonical governance: Post–Scarlet Lady reconciliation complete; no formal pattern movement or confidence change
+Next case: #28 — unselected and unstarted; research not authorized.
+Institution comparison: Complete through Cases #21–27
+Canonical governance: Post–Soho House Toronto reconciliation complete; no formal pattern movement or confidence change
 Pattern totals: 26 Candidate / 8 Emerging / 1 Partially Supported / 0 Validated / 0 research-derived Principles
 Candidate confidence: 9 High / 8 Medium-High / 9 Medium; unchanged
 Track B validation cases: 1
 Next synthesis gate: After Case #30
-Research scope: Public evidence; operational performance, enforcement, representative guest experience, accessibility fulfilment, safety, affordability, belonging, dietary suitability, recovery effectiveness and causal outcomes remain unverified
-Canonical update: 2026-09-23
+Research scope: Public evidence; operational performance, enforcement, representative member/guest experience, accessibility fulfilment, belonging, privacy outcomes, recovery effectiveness and causal outcomes remain unverified
+Canonical update: 2026-09-24
 
 <!-- KHDS-CURRENT-END -->
 
@@ -6290,6 +6290,36 @@ Primary comparison pressure:
 - responsibility that may persist after physical departure.
 
 Provisional comparison architecture: **Mobile / Multi-System Hospitality Architecture**.
+
+This architecture is not a formal Candidate, Emerging pattern or Principle.
+
+Governance movement: none.
+
+Pattern totals remain 26/8/1/0/0.
+
+Candidate confidence remains 9 High / 8 Medium-High / 9 Medium.
+
+
+## Case #27 dashboard reconciliation — Soho House Toronto
+
+| Case | Institution | Type | Comparison status |
+| ---: | --- | --- | --- |
+| 27 | Soho House Toronto | Private members' club / membership-based hospitality institution | Complete public-evidence comparator |
+
+Soho House Toronto extends the institution population from six to seven completed dossiers.
+
+Primary comparison pressure:
+
+- recurring membership entitlement;
+- identity-to-access conversion;
+- sponsored-guest dependency;
+- House access versus service-specific capacity;
+- member responsibility versus operator responsibility;
+- rule-governed participation;
+- privacy as both behavioural and data governance;
+- and persistent institutional responsibility after physical departure.
+
+Provisional comparison architecture: **Membership-Gated / Recurring-Entitlement Hospitality Architecture**.
 
 This architecture is not a formal Candidate, Emerging pattern or Principle.
 

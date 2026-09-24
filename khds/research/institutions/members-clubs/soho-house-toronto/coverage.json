@@ -1,0 +1,394 @@
+{
+    "schemaVersion":  1,
+    "assessmentDate":  "2026-09-24",
+    "dimensions":  [
+                       {
+                           "dimension":  "discovery",
+                           "question":  "Can a prospective member or guest understand what Soho House Toronto is, who it is for and which access model applies?",
+                           "scopeChange":  "Tests discovery of a membership-gated hospitality institution rather than an open public venue.",
+                           "sources":  [
+                                           "S1",
+                                           "S4",
+                                           "S8"
+                                       ],
+                           "observations":  [
+                                                {
+                                                    "text":  "The Toronto House publicly identifies itself as a members\u0027 club with dining, events, guest access and private-event space.",
+                                                    "sources":  [
+                                                                    "S1"
+                                                                ]
+                                                },
+                                                {
+                                                    "text":  "Membership is presented as an ongoing access relationship with multiple membership types and application requirements.",
+                                                    "sources":  [
+                                                                    "S4"
+                                                                ]
+                                                },
+                                                {
+                                                    "text":  "Toronto also supports member and non-member private-event booking, creating a second commercial access route.",
+                                                    "sources":  [
+                                                                    "S8"
+                                                                ]
+                                                }
+                                            ],
+                           "unanswered":  [
+                                              "How clearly do prospective users distinguish ordinary House membership from non-member private-event access before contacting Soho House?",
+                                              "How accurately does public discovery material communicate live capacity or area restrictions?"
+                                          ],
+                           "rating":  "partial",
+                           "reason":  "The institution and principal access models are documented, but live eligibility, availability and user comprehension are untested.",
+                           "nextEvidence":  "Compare membership, event-hire and House-entry routes with observed or transaction-level evidence."
+                       },
+                       {
+                           "dimension":  "reservation",
+                           "question":  "How are membership, event, dining and other participation rights allocated or booked?",
+                           "scopeChange":  "Reservation expands into continuing membership entitlement plus separate booking and capacity systems.",
+                           "sources":  [
+                                           "S3",
+                                           "S4",
+                                           "S5",
+                                           "S7",
+                                           "S11"
+                                       ],
+                           "observations":  [
+                                                {
+                                                    "text":  "Membership requires an application and committee decision rather than immediate transactional admission.",
+                                                    "sources":  [
+                                                                    "S3",
+                                                                    "S4"
+                                                                ]
+                                                },
+                                                {
+                                                    "text":  "The member app supports booking events and other services.",
+                                                    "sources":  [
+                                                                    "S5"
+                                                                ]
+                                                },
+                                                {
+                                                    "text":  "Toronto event spaces include both members-only spaces and spaces available for public hire.",
+                                                    "sources":  [
+                                                                    "S7"
+                                                                ]
+                                                }
+                                            ],
+                           "unanswered":  [
+                                              "What Toronto dining inventory can be reserved versus accessed on arrival?",
+                                              "How are waitlists, sold-out member events and area-capacity conflicts recovered?",
+                                              "How does private-hire entitlement interact with ordinary member access?"
+                                          ],
+                           "rating":  "partial",
+                           "reason":  "Multiple allocation routes are documented, but their live inventory, priority and recovery behaviour are not.",
+                           "nextEvidence":  "Collect Toronto-specific booking, waitlist, cancellation and capacity evidence."
+                       },
+                       {
+                           "dimension":  "pre-arrival",
+                           "question":  "What must a member or sponsored guest know before arriving?",
+                           "scopeChange":  "Preparation includes identity, membership status, sponsorship and location-specific behavioural/access rules.",
+                           "sources":  [
+                                           "S2",
+                                           "S3",
+                                           "S5",
+                                           "S6",
+                                           "S9"
+                                       ],
+                           "observations":  [
+                                                {
+                                                    "text":  "Toronto publishes time- and area-specific rules for laptops, calls, children and rooftop availability.",
+                                                    "sources":  [
+                                                                    "S2"
+                                                                ]
+                                                },
+                                                {
+                                                    "text":  "House Rules require a valid member relationship and impose guest-responsibility obligations.",
+                                                    "sources":  [
+                                                                    "S3"
+                                                                ]
+                                                },
+                                                {
+                                                    "text":  "Membership information and guest/reservation data form part of the digital relationship.",
+                                                    "sources":  [
+                                                                    "S9"
+                                                                ]
+                                                }
+                                            ],
+                           "unanswered":  [
+                                              "What arrival instructions are actually sent to Toronto members and guests before a visit?",
+                                              "What accessibility guidance is provided before arrival?",
+                                              "How are temporary rule or capacity changes communicated?"
+                                          ],
+                           "rating":  "partial",
+                           "reason":  "Published preparation rules exist, but Toronto-specific pre-arrival communications and accessibility preparation remain incomplete.",
+                           "nextEvidence":  "Find Toronto arrival/accessibility guidance and member-facing pre-visit communications."
+                       },
+                       {
+                           "dimension":  "arrival",
+                           "question":  "How is entitlement converted into physical admission at Soho House Toronto?",
+                           "scopeChange":  "Arrival becomes an identity-and-sponsorship verification event rather than simple public entry.",
+                           "sources":  [
+                                           "S3",
+                                           "S6",
+                                           "S9"
+                                       ],
+                           "observations":  [
+                                                {
+                                                    "text":  "Members are expected to present a physical or digital membership card for House entry.",
+                                                    "sources":  [
+                                                                    "S3",
+                                                                    "S6"
+                                                                ]
+                                                },
+                                                {
+                                                    "text":  "Guests cannot independently enter under the ordinary member-guest route without the sponsoring member present.",
+                                                    "sources":  [
+                                                                    "S3"
+                                                                ]
+                                                },
+                                                {
+                                                    "text":  "The privacy framework includes visit logs and membership-related identity data.",
+                                                    "sources":  [
+                                                                    "S9"
+                                                                ]
+                                                }
+                                            ],
+                           "unanswered":  [
+                                              "What Toronto reception sequence is used for members, guests and private-event attendees?",
+                                              "What happens when a member cannot access their digital or physical membership credential?",
+                                              "What accessibility assistance is available at the physical threshold?"
+                                          ],
+                           "rating":  "partial",
+                           "reason":  "The identity requirement is documented, but the full Toronto admission and exception-recovery sequence is not.",
+                           "nextEvidence":  "Find Toronto reception, credential-failure and accessibility evidence."
+                       },
+                       {
+                           "dimension":  "stay",
+                           "question":  "How are access, conduct, privacy and service responsibilities maintained during a member visit?",
+                           "scopeChange":  "The visit is governed by membership status, sponsored guests, behavioural rules and area-specific access.",
+                           "sources":  [
+                                           "S2",
+                                           "S3",
+                                           "S5",
+                                           "S6",
+                                           "S9"
+                                       ],
+                           "observations":  [
+                                                {
+                                                    "text":  "A member remains responsible for sponsored guests and their compliance with House rules.",
+                                                    "sources":  [
+                                                                    "S3"
+                                                                ]
+                                                },
+                                                {
+                                                    "text":  "Member and guest access may be restricted in particular areas during busy periods.",
+                                                    "sources":  [
+                                                                    "S3"
+                                                                ]
+                                                },
+                                                {
+                                                    "text":  "Digital systems support bookings and membership functions across the continuing relationship.",
+                                                    "sources":  [
+                                                                    "S5",
+                                                                    "S6"
+                                                                ]
+                                                },
+                                                {
+                                                    "text":  "Toronto applies space-specific laptop, call, rooftop and child-access rules.",
+                                                    "sources":  [
+                                                                    "S2"
+                                                                ]
+                                                }
+                                            ],
+                           "unanswered":  [
+                                              "How consistently are rules explained and enforced in practice?",
+                                              "How are service failures escalated during a visit?",
+                                              "What accessibility accommodations are available inside the Toronto House?"
+                                          ],
+                           "rating":  "partial",
+                           "reason":  "Governance mechanisms are published, but live enforcement, recovery and accessibility fulfilment are unverified.",
+                           "nextEvidence":  "Seek operator guidance on assistance/escalation plus observation or independent operational evidence."
+                       },
+                       {
+                           "dimension":  "dining",
+                           "question":  "How does membership affect dining access, payment and responsibility?",
+                           "scopeChange":  "Dining occurs inside a member-governed institution rather than as a standalone restaurant transaction.",
+                           "sources":  [
+                                           "S1",
+                                           "S3"
+                                       ],
+                           "observations":  [
+                                                {
+                                                    "text":  "The Toronto House publicly describes a members-only restaurant.",
+                                                    "sources":  [
+                                                                    "S1"
+                                                                ]
+                                                },
+                                                {
+                                                    "text":  "House Rules require bills to be settled and make members responsible for guest bills.",
+                                                    "sources":  [
+                                                                    "S3"
+                                                                ]
+                                                }
+                                            ],
+                           "unanswered":  [
+                                              "Which Toronto dining areas require reservations?",
+                                              "What dietary and allergen procedures apply at Soho House Toronto?",
+                                              "How are unavailable tables or dining-service failures recovered?"
+                                          ],
+                           "rating":  "partial",
+                           "reason":  "Dining existence and payment responsibility are documented, but operational dining access and dietary handling remain incomplete.",
+                           "nextEvidence":  "Find Toronto menus, reservation guidance, dietary policies and recovery procedures."
+                       },
+                       {
+                           "dimension":  "departure",
+                           "question":  "When does responsibility end after a member or guest leaves the House?",
+                           "scopeChange":  "Departure may close a visit while membership, payment, conduct and data responsibilities continue.",
+                           "sources":  [
+                                           "S3",
+                                           "S6",
+                                           "S9"
+                                       ],
+                           "observations":  [
+                                                {
+                                                    "text":  "Bills must be settled before leaving unless an authorized House Pay mechanism applies.",
+                                                    "sources":  [
+                                                                    "S3"
+                                                                ]
+                                                },
+                                                {
+                                                    "text":  "Membership and account relationships continue beyond an individual visit.",
+                                                    "sources":  [
+                                                                    "S6"
+                                                                ]
+                                                },
+                                                {
+                                                    "text":  "Visit, purchase, reservation and membership records may persist as part of the continuing data relationship.",
+                                                    "sources":  [
+                                                                    "S9"
+                                                                ]
+                                                }
+                                            ],
+                           "unanswered":  [
+                                              "What Toronto-specific lost-property or post-visit recovery route exists?",
+                                              "How are billing disputes or conduct issues handled after departure?",
+                                              "When does a guest-related responsibility transfer back from the member to the institution?"
+                                          ],
+                           "rating":  "partial",
+                           "reason":  "Continuing membership and payment obligations are documented, but Toronto post-visit recovery routes are incomplete.",
+                           "nextEvidence":  "Find post-visit contact, lost-property and billing-dispute procedures."
+                       },
+                       {
+                           "dimension":  "atmosphere",
+                           "question":  "How is the intended private-club atmosphere produced and governed?",
+                           "scopeChange":  "Atmosphere includes explicit behavioural, privacy and device-use rules alongside design and programming.",
+                           "sources":  [
+                                           "S1",
+                                           "S2",
+                                           "S3",
+                                           "S10",
+                                           "S11"
+                                       ],
+                           "observations":  [
+                                                {
+                                                    "text":  "House Rules frame the environment through conduct, privacy and non-disclosure expectations.",
+                                                    "sources":  [
+                                                                    "S3"
+                                                                ]
+                                                },
+                                                {
+                                                    "text":  "Toronto restricts laptop and call use by area and time.",
+                                                    "sources":  [
+                                                                    "S2"
+                                                                ]
+                                                },
+                                                {
+                                                    "text":  "Art, events, dining and the restored building are presented as parts of the House experience.",
+                                                    "sources":  [
+                                                                    "S1",
+                                                                    "S10",
+                                                                    "S11"
+                                                                ]
+                                                }
+                                            ],
+                           "unanswered":  [
+                                              "How consistently do members experience the intended environment?",
+                                              "How are conflicting member uses mediated?",
+                                              "How do capacity and enforcement affect atmosphere in practice?"
+                                          ],
+                           "rating":  "partial",
+                           "reason":  "Atmosphere-producing mechanisms are explicit, but representative experience and enforcement effects remain unverified.",
+                           "nextEvidence":  "Compare public rules with observation and member-experience evidence without treating anecdotes as representative."
+                       },
+                       {
+                           "dimension":  "photography",
+                           "question":  "What can public visual evidence establish about Soho House Toronto?",
+                           "scopeChange":  "Photography must distinguish visible design from proof of privacy, belonging, access or service performance.",
+                           "sources":  [
+                                           "S1",
+                                           "S10"
+                                       ],
+                           "observations":  [
+                                                {
+                                                    "text":  "Official imagery and art material can document visible spaces, design and art presentation.",
+                                                    "sources":  [
+                                                                    "S1",
+                                                                    "S10"
+                                                                ]
+                                                },
+                                                {
+                                                    "text":  "Visual material cannot by itself establish membership enforcement, privacy fulfilment, belonging or recovery quality.",
+                                                    "sources":  [
+                                                                    "S1",
+                                                                    "S10"
+                                                                ]
+                                                }
+                                            ],
+                           "unanswered":  [
+                                              "How representative are published images of ordinary member use?",
+                                              "Do visual materials clearly distinguish member-only, private-event and other access states?"
+                                          ],
+                           "rating":  "partial",
+                           "reason":  "Visual evidence supports place and design claims but not operational or social outcomes.",
+                           "nextEvidence":  "Use photographs only for visible-condition claims and seek separate evidence for access and service mechanisms."
+                       },
+                       {
+                           "dimension":  "story",
+                           "question":  "What institutional story organizes Soho House Toronto\u0027s proposition?",
+                           "scopeChange":  "Story is tested as an ongoing membership relationship rather than a one-time hospitality purchase.",
+                           "sources":  [
+                                           "S1",
+                                           "S3",
+                                           "S4",
+                                           "S10",
+                                           "S11"
+                                       ],
+                           "observations":  [
+                                                {
+                                                    "text":  "Soho House frames membership around creative community, recurring House access and member experiences.",
+                                                    "sources":  [
+                                                                    "S4",
+                                                                    "S11"
+                                                                ]
+                                                },
+                                                {
+                                                    "text":  "Toronto combines the restored Bishop\u0027s Building, art, dining and programming within that membership story.",
+                                                    "sources":  [
+                                                                    "S1",
+                                                                    "S10"
+                                                                ]
+                                                },
+                                                {
+                                                    "text":  "The continuing relationship is governed by membership rules and review rather than access alone.",
+                                                    "sources":  [
+                                                                    "S3"
+                                                                ]
+                                                }
+                                            ],
+                           "unanswered":  [
+                                              "How members themselves interpret or experience the stated community narrative is not established.",
+                                              "Whether the institutional story produces belonging or other outcomes is unverified."
+                                          ],
+                           "rating":  "partial",
+                           "reason":  "The operator\u0027s narrative and governance model are documented, but reception and outcomes are not.",
+                           "nextEvidence":  "Preserve operator attribution and test narrative claims separately from observed outcomes."
+                       }
+                   ]
+}

@@ -3,22 +3,22 @@
   "expectedBranch": "main",
   "workflowStatus": "idle",
   "latestCompletedCase": {
-    "caseNumber": 26,
-    "institutionName": "Scarlet Lady",
-    "slug": "scarlet-lady",
-    "institutionType": "Adults-only cruise ship / integrated hospitality vessel",
-    "sector": "cruises",
-    "canonicalPath": "khds/research/institutions/cruises/scarlet-lady/",
+    "caseNumber": 27,
+    "institutionName": "Soho House Toronto",
+    "slug": "soho-house-toronto",
+    "institutionType": "Private members' club / membership-based hospitality institution",
+    "sector": "members-clubs",
+    "canonicalPath": "khds/research/institutions/members-clubs/soho-house-toronto/",
     "dossierComplete": true,
     "administrativeReconciliation": true
   },
-  "expectedNextCase": 27,
+  "expectedNextCase": 28,
   "researchAuthorized": false,
   "authorization": null,
   "activeCase": null,
   "disagreements": [],
   "publication": {
-    "journalPath": "khds/staging/case-26-scarlet-lady/publication.json",
+    "journalPath": "khds/staging/case-27-soho-house-toronto/publication.json",
     "status": "promoted"
   },
   "reconciliationRecord": {
@@ -72,8 +72,8 @@
   },
   "reconciliationReview": {
     "approvedBy": "Brian Kodawa",
-    "approvedAt": "2026-09-23T16:38:43.810Z",
-    "contentDigest": "5caf1c27f352c417bfb7965c64950508b34f9a0f4eb6793b82374af4b00b7584",
+    "approvedAt": "2026-09-24T13:44:17.689Z",
+    "contentDigest": "9b651c0eefc6dfd85edd143a4b8809513f75c4064c7f74d91357edbcba0e2c16",
     "controlChanges": []
   },
   "historyReconciliation": {

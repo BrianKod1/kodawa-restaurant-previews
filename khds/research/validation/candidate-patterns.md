@@ -4,18 +4,18 @@
 
 <!-- KHDS-CURRENT-START -->
 
-Latest completed case: #26 — Scarlet Lady
-Completed institution dossiers: 6
+Latest completed case: #27 — Soho House Toronto
+Completed institution dossiers: 7
 Current research: None
-Next case: #27 — unselected and unstarted; research not authorized.
-Institution comparison: Complete through Cases #21–26
-Canonical governance: Post–Scarlet Lady reconciliation complete; no formal pattern movement or confidence change
+Next case: #28 — unselected and unstarted; research not authorized.
+Institution comparison: Complete through Cases #21–27
+Canonical governance: Post–Soho House Toronto reconciliation complete; no formal pattern movement or confidence change
 Pattern totals: 26 Candidate / 8 Emerging / 1 Partially Supported / 0 Validated / 0 research-derived Principles
 Candidate confidence: 9 High / 8 Medium-High / 9 Medium; unchanged
 Track B validation cases: 1
 Next synthesis gate: After Case #30
-Research scope: Public evidence; operational performance, enforcement, representative guest experience, accessibility fulfilment, safety, affordability, belonging, dietary suitability, recovery effectiveness and causal outcomes remain unverified
-Canonical update: 2026-09-23
+Research scope: Public evidence; operational performance, enforcement, representative member/guest experience, accessibility fulfilment, belonging, privacy outcomes, recovery effectiveness and causal outcomes remain unverified
+Canonical update: 2026-09-24
 
 <!-- KHDS-CURRENT-END -->
 
@@ -18405,6 +18405,93 @@ All Case #26 research directions remain non-canonical.
 Current research: none.
 
 Case #27 is unselected and unstarted; research is not authorized.
+
+The next synthesis gate remains after Case #30.
+
+**The maturity threshold remains intact.**
+
+**Evidence wins.**
+
+
+## Post–Case #27 canonical reconciliation — Soho House Toronto
+
+Case #27 is canonically incorporated as the seventh completed institution dossier.
+
+The case introduces recurring-membership hospitality pressure without lowering the maturity threshold.
+
+Strongest bounded comparison statements:
+
+```text
+Membership Continuity
+!=
+Uniform Access Continuity
+
+Member Guest
+!=
+Independent Member
+
+Membership Payment
+!=
+Guaranteed Space Access
+
+Guest Responsibility
+!=
+Operator Responsibility Absent
+
+Behaviour Rules
+!=
+Verified Enforcement
+
+Community Narrative
+!=
+Verified Community Outcome
+```
+
+The Case #27 comparison architecture is:
+
+**Membership-Gated / Recurring-Entitlement Hospitality Architecture**
+
+> A hospitality structure in which an ongoing membership relationship creates recurring entitlement while actual participation remains conditional on identity, sponsorship, current rules and service-specific capacity.
+
+This remains comparison architecture below formal pattern maturity.
+
+Formal governance decision:
+
+- 0 Candidate promotions;
+- 0 Emerging promotions;
+- 0 confidence increases;
+- 0 confidence decreases;
+- 0 demotions;
+- 0 renames;
+- 0 merges;
+- 0 Validated promotions;
+- 0 research-derived Principle promotions;
+- 0 newly counted formal patterns.
+
+Canonical state:
+
+```text
+20 Independent Restaurants
+7 Completed Institution Dossiers
+1 Track B Validation Case
+
+26 Candidate Patterns
+8 Emerging Patterns
+1 Partially Supported Pattern
+0 Validated Patterns
+0 Research-Derived KHDS Principles
+
+Candidate Confidence:
+9 High
+8 Medium-High
+9 Medium
+```
+
+All Case #27 research directions remain non-canonical.
+
+Current research: none.
+
+Case #28 is unselected and unstarted; research is not authorized.
 
 The next synthesis gate remains after Case #30.
 

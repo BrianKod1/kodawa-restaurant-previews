@@ -4,18 +4,18 @@ Status
 
 <!-- KHDS-CURRENT-START -->
 
-Latest completed case: #26 — Scarlet Lady
-Completed institution dossiers: 6
+Latest completed case: #27 — Soho House Toronto
+Completed institution dossiers: 7
 Current research: None
-Next case: #27 — unselected and unstarted; research not authorized.
-Institution comparison: Complete through Cases #21–26
-Canonical governance: Post–Scarlet Lady reconciliation complete; no formal pattern movement or confidence change
+Next case: #28 — unselected and unstarted; research not authorized.
+Institution comparison: Complete through Cases #21–27
+Canonical governance: Post–Soho House Toronto reconciliation complete; no formal pattern movement or confidence change
 Pattern totals: 26 Candidate / 8 Emerging / 1 Partially Supported / 0 Validated / 0 research-derived Principles
 Candidate confidence: 9 High / 8 Medium-High / 9 Medium; unchanged
 Track B validation cases: 1
 Next synthesis gate: After Case #30
-Research scope: Public evidence; operational performance, enforcement, representative guest experience, accessibility fulfilment, safety, affordability, belonging, dietary suitability, recovery effectiveness and causal outcomes remain unverified
-Canonical update: 2026-09-23
+Research scope: Public evidence; operational performance, enforcement, representative member/guest experience, accessibility fulfilment, belonging, privacy outcomes, recovery effectiveness and causal outcomes remain unverified
+Canonical update: 2026-09-24
 
 <!-- KHDS-CURRENT-END -->
 
@@ -849,7 +849,8 @@ Guest-to-Guest Condition
 
 ≠
 
-Institutional Responsibility Absent
+Institutional Responsibilit<!-- KHDS-HISTORY-START -->
+y Absent
 
 Five completed institution cases enable stronger comparison.
 
@@ -860,7 +861,7 @@ The maturity threshold remains intact.
 Evidence wins.
 
 
-## Post–Case #26 institution-research reconciliation — 2026-09-23
+## Historical Post-Case #26 institution-research reconciliation — 2026-09-23
 
 Case #26 — Scarlet Lady — is complete at public-evidence scope and incorporated as the sixth institution comparator.
 
@@ -880,6 +881,33 @@ Formal maturity movement: none.
 
 Confidence movement: none.
 
+At the Case #26 checkpoint, current research was none.
+
+At the Case #26 checkpoint, Case #27 was unselected and unstarted; research was not authorized.
+
+
+<!-- KHDS-HISTORY-END -->
+
+## Post–Case #27 institution-research reconciliation — 2026-09-24
+
+Case #27 — Soho House Toronto — is complete at public-evidence scope and incorporated as the seventh institution comparator.
+
+Cases #21–27 are closed at public-evidence scope.
+
+Institution comparison is complete through Cases #21–27.
+
+Soho House Toronto adds the first private-members' club / recurring-entitlement hospitality institution.
+
+The provisional Membership-Gated / Recurring-Entitlement Hospitality Architecture remains below formal pattern maturity.
+
+Canonical totals remain 26/8/1/0/0.
+
+Candidate confidence remains 9 High / 8 Medium-High / 9 Medium.
+
+Formal maturity movement: none.
+
+Confidence movement: none.
+
 Current research: none.
 
-Next case: #27 — unselected and unstarted; research not authorized.
+Next case: #28 — unselected and unstarted; research not authorized.

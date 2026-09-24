@@ -1,0 +1,129 @@
+{
+    "schemaVersion":  1,
+    "institution":  "Soho House Toronto",
+    "caseNumber":  27,
+    "assessmentDate":  "2026-09-24",
+    "sources":  [
+                    {
+                        "id":  "S1",
+                        "url":  "https://www.sohohouse.com/en-us/houses/toronto",
+                        "title":  "Soho House Toronto",
+                        "sections":  "discovery; stay; dining; atmosphere; story",
+                        "sourceDate":  "Undated; update date not established",
+                        "method":  "Direct HTML inspection",
+                        "access":  "inspected",
+                        "accessDate":  "2026-09-24",
+                        "note":  "Toronto House overview; location, opening hours, members-only restaurant, guest allowance, events, membership pricing and building context."
+                    },
+                    {
+                        "id":  "S2",
+                        "url":  "https://www.sohohouse.com/ca/houses/soho-house-toronto/important-information",
+                        "title":  "Soho House Toronto â€” Important Information",
+                        "sections":  "pre-arrival; arrival; stay; atmosphere",
+                        "sourceDate":  "Undated; update date not established",
+                        "method":  "Direct HTML inspection",
+                        "access":  "inspected",
+                        "accessDate":  "2026-09-24",
+                        "note":  "Toronto-specific laptop, call, rooftop, weather and children-access rules plus House contacts."
+                    },
+                    {
+                        "id":  "S3",
+                        "url":  "https://www.sohohouse.com/terms-and-policies/house-rules",
+                        "title":  "Soho House â€” House Rules",
+                        "sections":  "reservation; pre-arrival; arrival; stay; dining; departure; atmosphere; story",
+                        "sourceDate":  "Undated; update date not established",
+                        "method":  "Direct HTML inspection",
+                        "access":  "inspected",
+                        "accessDate":  "2026-09-24",
+                        "note":  "Membership application, renewal, cards, guest sponsorship, bills, privacy, behaviour, access restrictions and enforcement framework."
+                    },
+                    {
+                        "id":  "S4",
+                        "url":  "https://qr.sohohouse.com/membership",
+                        "title":  "Soho House Membership",
+                        "sections":  "discovery; reservation; pre-arrival; stay; story",
+                        "sourceDate":  "Undated; update date not established",
+                        "method":  "Direct HTML inspection",
+                        "access":  "inspected",
+                        "accessDate":  "2026-09-24",
+                        "note":  "Membership benefits, application requirements, membership types, House access, events and guest benefits."
+                    },
+                    {
+                        "id":  "S5",
+                        "url":  "https://www.sohohouse.com/download",
+                        "title":  "The Soho House App",
+                        "sections":  "reservation; pre-arrival; stay",
+                        "sourceDate":  "Undated; update date not established",
+                        "method":  "Direct HTML inspection",
+                        "access":  "inspected",
+                        "accessDate":  "2026-09-24",
+                        "note":  "Official app supports member booking of bedrooms, events, fitness classes and screenings and member connection functions."
+                    },
+                    {
+                        "id":  "S6",
+                        "url":  "https://qr.sohohouse.com/faq",
+                        "title":  "Soho House FAQ",
+                        "sections":  "reservation; pre-arrival; arrival; stay; departure",
+                        "sourceDate":  "Undated; update date not established",
+                        "method":  "Direct HTML inspection",
+                        "access":  "inspected",
+                        "accessDate":  "2026-09-24",
+                        "note":  "Membership card access, membership start, renewal, partner restrictions, payment updates and cross-House access guidance."
+                    },
+                    {
+                        "id":  "S7",
+                        "url":  "https://qr.sohohouse.com/houses/soho-house-toronto/event-spaces",
+                        "title":  "Soho House Toronto â€” Event Spaces",
+                        "sections":  "reservation; stay; atmosphere",
+                        "sourceDate":  "Undated; update date not established",
+                        "method":  "Direct HTML inspection",
+                        "access":  "inspected",
+                        "accessDate":  "2026-09-24",
+                        "note":  "Toronto event-space capacities and distinction between members-only and publicly hireable spaces."
+                    },
+                    {
+                        "id":  "S8",
+                        "url":  "https://www.sohohouse.com/event-spaces/the-americas",
+                        "title":  "Soho House Event Spaces â€” The Americas",
+                        "sections":  "discovery; reservation; stay",
+                        "sourceDate":  "Undated; update date not established",
+                        "method":  "Direct HTML inspection",
+                        "access":  "inspected",
+                        "accessDate":  "2026-09-24",
+                        "note":  "Lists Soho House Toronto as supporting member and non-member event-space booking."
+                    },
+                    {
+                        "id":  "S9",
+                        "url":  "https://qr.sohohouse.com/terms-and-policies/privacy-policy",
+                        "title":  "Soho House Privacy Notice",
+                        "sections":  "pre-arrival; arrival; stay; departure",
+                        "sourceDate":  "2026-01-22",
+                        "method":  "Direct HTML inspection",
+                        "access":  "inspected",
+                        "accessDate":  "2026-09-24",
+                        "note":  "Membership, visit-log, guest, reservation, purchase, event, CCTV, keycard, payment and other personal-data handling."
+                    },
+                    {
+                        "id":  "S10",
+                        "url":  "https://www.sohohouse.com/houses/soho-house-toronto/art-collection",
+                        "title":  "Soho House Toronto â€” Art Collection",
+                        "sections":  "atmosphere; photography; story",
+                        "sourceDate":  "2026",
+                        "method":  "Direct HTML inspection",
+                        "access":  "inspected",
+                        "accessDate":  "2026-09-24",
+                        "note":  "Toronto House art-collection framing, restored Georgian building and 2026 collection refresh."
+                    },
+                    {
+                        "id":  "S11",
+                        "url":  "https://qr.sohohouse.com/events-and-experiences",
+                        "title":  "Soho House â€” Events and Experiences",
+                        "sections":  "reservation; stay; atmosphere; story",
+                        "sourceDate":  "Undated; update date not established",
+                        "method":  "Direct HTML inspection",
+                        "access":  "inspected",
+                        "accessDate":  "2026-09-24",
+                        "note":  "Member events, priority booking and broader programming model."
+                    }
+                ]
+}
