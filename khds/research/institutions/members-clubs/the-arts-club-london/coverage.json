@@ -1,0 +1,313 @@
+{
+    "schemaVersion":  1,
+    "dimensions":  [
+                       {
+                           "dimension":  "discovery",
+                           "question":  "Can a prospective participant distinguish membership, hotel, dining, cultural and wellness routes before committing?",
+                           "scopeChange":  "Adds a recurring-membership institution with hotel and service-specific access pathways.",
+                           "sources":  [
+                                           "S1",
+                                           "S2",
+                                           "S6"
+                                       ],
+                           "observations":  [
+                                                {
+                                                    "text":  "The institution presents membership, hotel accommodation, food and drink, cultural programming and wellness as distinct but related routes.",
+                                                    "sources":  [
+                                                                    "S1",
+                                                                    "S2",
+                                                                    "S6"
+                                                                ]
+                                                }
+                                            ],
+                           "unanswered":  [
+                                              "How consistently can non-members distinguish what requires membership from what can be accessed through hotel or other routes?",
+                                              "How clearly are consequences of each access route understood before commitment?"
+                                          ],
+                           "rating":  "partial",
+                           "reason":  "Official material establishes multiple access routes and propositions, but not representative user comprehension or conversion outcomes.",
+                           "nextEvidence":  "Independent journey testing across membership, hotel, dining and wellness discovery routes."
+                       },
+                       {
+                           "dimension":  "reservation",
+                           "question":  "What exactly is being reserved or granted when membership, hotel, dining, event or wellness access is requested?",
+                           "scopeChange":  "Tests separation between recurring membership entitlement and service-specific inventory.",
+                           "sources":  [
+                                           "S2",
+                                           "S3",
+                                           "S6"
+                                       ],
+                           "observations":  [
+                                                {
+                                                    "text":  "Membership, hotel stays and service reservations operate as distinct access objects; a hotel reservation can include a membership number where applicable.",
+                                                    "sources":  [
+                                                                    "S2",
+                                                                    "S6"
+                                                                ]
+                                                },
+                                                {
+                                                    "text":  "Hotel reservations carry separate cancellation, amendment and no-show conditions.",
+                                                    "sources":  [
+                                                                    "S3",
+                                                                    "S6"
+                                                                ]
+                                                }
+                                            ],
+                           "unanswered":  [
+                                              "Does active membership improve availability for every service?",
+                                              "How are conflicts between member entitlement and full service inventory resolved?"
+                                          ],
+                           "rating":  "partial",
+                           "reason":  "Public evidence defines multiple reservation and access objects but does not expose live capacity or recovery performance.",
+                           "nextEvidence":  "Live reservation testing across member, hotel and event pathways."
+                       },
+                       {
+                           "dimension":  "pre-arrival",
+                           "question":  "What must members, guests and hotel residents know or prepare before arrival?",
+                           "scopeChange":  "Adds role-dependent preparation, guest sponsorship, dress, age and wellness conditions.",
+                           "sources":  [
+                                           "S3",
+                                           "S4",
+                                           "S5",
+                                           "S6"
+                                       ],
+                           "observations":  [
+                                                {
+                                                    "text":  "Members are expected to make guests aware of club rules and privacy expectations before visiting.",
+                                                    "sources":  [
+                                                                    "S3",
+                                                                    "S4"
+                                                                ]
+                                                },
+                                                {
+                                                    "text":  "Hotel and wellness use introduces separate timing, cancellation, dress and health-questionnaire requirements.",
+                                                    "sources":  [
+                                                                    "S3",
+                                                                    "S6"
+                                                                ]
+                                                }
+                                            ],
+                           "unanswered":  [
+                                              "How consistently are role-specific instructions delivered before arrival?",
+                                              "How effectively are accessibility requirements surfaced before commitment?"
+                                          ],
+                           "rating":  "partial",
+                           "reason":  "Preparation requirements are published, but delivery quality and user understanding are not verified.",
+                           "nextEvidence":  "Member, guest and hotel-resident pre-arrival message testing."
+                       },
+                       {
+                           "dimension":  "arrival",
+                           "question":  "How is identity converted into permitted access on arrival?",
+                           "scopeChange":  "Tests active-member verification, guest sponsorship and hotel-resident identity at the front desk.",
+                           "sources":  [
+                                           "S3",
+                                           "S4",
+                                           "S6"
+                                       ],
+                           "observations":  [
+                                                {
+                                                    "text":  "Members and their guests are required to check in at the front desk, supporting active-member and invited-guest verification.",
+                                                    "sources":  [
+                                                                    "S3"
+                                                                ]
+                                                },
+                                                {
+                                                    "text":  "Guest access remains dependent on the host member; hotel residents use a distinct admission pathway.",
+                                                    "sources":  [
+                                                                    "S4",
+                                                                    "S6"
+                                                                ]
+                                                }
+                                            ],
+                           "unanswered":  [
+                                              "What happens operationally when credentials are missing or disputed?",
+                                              "How are accessibility or exceptional-arrival needs handled in practice?"
+                                          ],
+                           "rating":  "partial",
+                           "reason":  "Published arrival rules establish identity and sponsorship controls but not exception handling or operational performance.",
+                           "nextEvidence":  "Observed arrival and failed-credential testing."
+                       },
+                       {
+                           "dimension":  "stay",
+                           "question":  "How are participation rights, restrictions and responsibilities maintained during use of the club?",
+                           "scopeChange":  "Tests recurring entitlement under role, time, space, guest and behaviour constraints.",
+                           "sources":  [
+                                           "S2",
+                                           "S3",
+                                           "S4",
+                                           "S5",
+                                           "S6"
+                                       ],
+                           "observations":  [
+                                                {
+                                                    "text":  "Access inside the institution remains governed by rules covering guests, devices, privacy, conduct and service-specific conditions.",
+                                                    "sources":  [
+                                                                    "S3",
+                                                                    "S4"
+                                                                ]
+                                                },
+                                                {
+                                                    "text":  "Members remain responsible for guest behaviour, while hotel residents operate under additional room and facility conditions.",
+                                                    "sources":  [
+                                                                    "S3",
+                                                                    "S6"
+                                                                ]
+                                                }
+                                            ],
+                           "unanswered":  [
+                                              "How consistently are rules enforced across spaces and member categories?",
+                                              "What recovery route exists when a member or guest disputes a restriction?"
+                                          ],
+                           "rating":  "partial",
+                           "reason":  "Governance is explicit, but enforcement consistency and recovery outcomes remain unverified.",
+                           "nextEvidence":  "Observed service use and documented dispute/recovery cases."
+                       },
+                       {
+                           "dimension":  "dining",
+                           "question":  "How does membership or hotel status interact with dining access, reservation and capacity?",
+                           "scopeChange":  "Tests dining as service-specific inventory inside a broader membership relationship.",
+                           "sources":  [
+                                           "S1",
+                                           "S3",
+                                           "S6"
+                                       ],
+                           "observations":  [
+                                                {
+                                                    "text":  "Dining is one component of the club proposition and is subject to space-specific rules, including restrictions on device use.",
+                                                    "sources":  [
+                                                                    "S1",
+                                                                    "S3"
+                                                                ]
+                                                }
+                                            ],
+                           "unanswered":  [
+                                              "Does membership guarantee table access?",
+                                              "How are dietary, allergy and capacity failures recovered?",
+                                              "How does hotel status affect dining entitlement?"
+                                          ],
+                           "rating":  "partial",
+                           "reason":  "Dining existence and behavioural conditions are clear, but capacity, dietary safety and recovery are not sufficiently evidenced.",
+                           "nextEvidence":  "Dining reservation and dietary-requirement testing."
+                       },
+                       {
+                           "dimension":  "departure",
+                           "question":  "What obligations or relationships persist after a visit or hotel stay ends?",
+                           "scopeChange":  "Tests the difference between physical departure and continuing membership, data, payment and conduct relationships.",
+                           "sources":  [
+                                           "S3",
+                                           "S4",
+                                           "S5",
+                                           "S6"
+                                       ],
+                           "observations":  [
+                                                {
+                                                    "text":  "Hotel checkout ends room occupancy but does not necessarily end the wider membership, payment, privacy or conduct relationship.",
+                                                    "sources":  [
+                                                                    "S5",
+                                                                    "S6"
+                                                                ]
+                                                }
+                                            ],
+                           "unanswered":  [
+                                              "How are unresolved charges, complaints or conduct issues handled after departure?",
+                                              "How long do membership and visit records remain operationally relevant?"
+                                          ],
+                           "rating":  "partial",
+                           "reason":  "Public rules show continuing obligations, but post-visit recovery and closure performance are not verified.",
+                           "nextEvidence":  "Post-stay billing, complaint and data-retention journey testing."
+                       },
+                       {
+                           "dimension":  "atmosphere",
+                           "question":  "How is the desired social environment produced through rules as well as design?",
+                           "scopeChange":  "Tests atmosphere as governed participation within a private club.",
+                           "sources":  [
+                                           "S1",
+                                           "S3",
+                                           "S4"
+                                       ],
+                           "observations":  [
+                                                {
+                                                    "text":  "Device restrictions, privacy rules, dress expectations and guest-responsibility rules actively shape the club environment.",
+                                                    "sources":  [
+                                                                    "S3",
+                                                                    "S4"
+                                                                ]
+                                                }
+                                            ],
+                           "unanswered":  [
+                                              "How consistently do members experience the intended atmosphere?",
+                                              "How do enforcement choices affect belonging or exclusion?"
+                                          ],
+                           "rating":  "partial",
+                           "reason":  "Rules support atmosphere design, but representative social outcomes are not established.",
+                           "nextEvidence":  "Independent observation and member-experience evidence."
+                       },
+                       {
+                           "dimension":  "photography",
+                           "question":  "What can visual evidence prove when photography itself is restricted?",
+                           "scopeChange":  "Adds a case where visual proof is materially constrained by institutional privacy rules.",
+                           "sources":  [
+                                           "S1",
+                                           "S3",
+                                           "S4",
+                                           "S6"
+                                       ],
+                           "observations":  [
+                                                {
+                                                    "text":  "The club enforces strict restrictions on photography, videography and social-media use, limiting what visual evidence can establish about ordinary participation.",
+                                                    "sources":  [
+                                                                    "S3",
+                                                                    "S4"
+                                                                ]
+                                                },
+                                                {
+                                                    "text":  "Official hotel imagery can show physical configuration but cannot verify entitlement, privacy, enforcement or belonging outcomes.",
+                                                    "sources":  [
+                                                                    "S6"
+                                                                ]
+                                                }
+                                            ],
+                           "unanswered":  [
+                                              "How representative is official imagery of ordinary operating conditions?",
+                                              "How are privacy rules enforced when visual capture occurs?"
+                                          ],
+                           "rating":  "partial",
+                           "reason":  "Visual evidence exists, but the institution\u0027s own privacy model sharply limits its evidentiary scope.",
+                           "nextEvidence":  "Operator-approved visual audit paired with non-visual operational evidence."
+                       },
+                       {
+                           "dimension":  "story",
+                           "question":  "How does the institution connect cultural identity, membership and hospitality without overstating verified outcomes?",
+                           "scopeChange":  "Tests community narrative inside a selective recurring-membership model.",
+                           "sources":  [
+                                           "S1",
+                                           "S2",
+                                           "S4",
+                                           "S6"
+                                       ],
+                           "observations":  [
+                                                {
+                                                    "text":  "The institution presents itself through membership, culture, art, dining, hotel and wellness propositions under one club identity.",
+                                                    "sources":  [
+                                                                    "S1",
+                                                                    "S2",
+                                                                    "S6"
+                                                                ]
+                                                },
+                                                {
+                                                    "text":  "Formal membership and conduct rules show that belonging is governed rather than unconditional.",
+                                                    "sources":  [
+                                                                    "S4"
+                                                                ]
+                                                }
+                                            ],
+                           "unanswered":  [
+                                              "Whether the stated community identity corresponds to representative member outcomes.",
+                                              "How inclusion, exclusion and belonging vary across membership categories and guest roles."
+                                          ],
+                           "rating":  "partial",
+                           "reason":  "Narrative and governance are documented, but community and belonging outcomes are not independently verified.",
+                           "nextEvidence":  "Independent member research across categories and guest roles."
+                       }
+                   ]
+}

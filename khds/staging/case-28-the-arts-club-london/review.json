@@ -1,0 +1,292 @@
+{
+  "schemaVersion": 1,
+  "contentDigest": "7edf3b756c7e5d370f86948c8e726c111f0d24debc47809df5eef718faab6c72",
+  "previousState": {
+    "schemaVersion": 1,
+    "expectedBranch": "main",
+    "workflowStatus": "publishable",
+    "latestCompletedCase": {
+      "caseNumber": 27,
+      "institutionName": "Soho House Toronto",
+      "slug": "soho-house-toronto",
+      "institutionType": "Private members' club / membership-based hospitality institution",
+      "sector": "members-clubs",
+      "canonicalPath": "khds/research/institutions/members-clubs/soho-house-toronto/",
+      "dossierComplete": true,
+      "administrativeReconciliation": true
+    },
+    "expectedNextCase": 28,
+    "researchAuthorized": true,
+    "authorization": {
+      "approvedBy": "Brian Kodawa",
+      "approvedAt": "2026-09-25T13:04:32.729Z",
+      "identity": {
+        "caseNumber": 28,
+        "institutionName": "The Arts Club London",
+        "slug": "the-arts-club-london",
+        "institutionType": "Private members' club with integrated hotel, dining, cultural programming and wellness access",
+        "sector": "members-clubs",
+        "canonicalPath": "khds/research/institutions/members-clubs/the-arts-club-london/"
+      }
+    },
+    "activeCase": {
+      "caseNumber": 28,
+      "institutionName": "The Arts Club London",
+      "slug": "the-arts-club-london",
+      "institutionType": "Private members' club with integrated hotel, dining, cultural programming and wellness access",
+      "sector": "members-clubs",
+      "canonicalPath": "khds/research/institutions/members-clubs/the-arts-club-london/",
+      "stagingPath": "khds/staging/case-28-the-arts-club-london",
+      "trackingChanges": [],
+      "requiredFiles": [
+        "README.md",
+        "discovery.md",
+        "reservation.md",
+        "pre-arrival.md",
+        "arrival.md",
+        "stay.md",
+        "dining.md",
+        "departure.md",
+        "atmosphere.md",
+        "photography.md",
+        "story.md",
+        "knowledge-extraction.md"
+      ],
+      "evidenceCoverageVersion": 1,
+      "lockedAt": "2026-09-25T13:04:32.730Z",
+      "baseCommit": "498e65fe80e1e8b293d85a1cd6dae0ea3eaaabed"
+    },
+    "disagreements": [],
+    "publication": {
+      "journalPath": "khds/staging/case-27-soho-house-toronto/publication.json",
+      "status": "promoted"
+    },
+    "reconciliationRecord": {
+      "scope": "Case #21 administratively closed at public-evidence scope; local changes uncommitted for review",
+      "controlCheckpoint": "5259bf1",
+      "correctedIssues": [
+        {
+          "path": "khds/research/institutions/hotels/fogo-island-inn-newfoundland/knowledge-extraction.md",
+          "reason": "Lines 14-15 and 3761-3763 say comparison and reconciliation pending; comparison and governance records say complete."
+        },
+        {
+          "path": "khds/research/institutions/README.md",
+          "reason": "Line 145 still defers selection of Case #21 institution."
+        },
+        {
+          "path": "khds/research/validation/README.md",
+          "reason": "Line 14703 says next Case #21; line 16803 says next Case #22."
+        },
+        {
+          "path": "khds/research/README.md",
+          "reason": "Validation README mirror remains Next at line 15284 despite its completion claim."
+        },
+        {
+          "path": "khds/research/institutions/hotels/fogo-island-inn-newfoundland/",
+          "reason": "22 dossier path references omit hotels/; legacy comparison/ references also survive the directory rename."
+        }
+      ],
+      "verifiedStages": [
+        "12-file public-evidence dossier",
+        "Institution comparison units, sector adapters and Case #21 seed",
+        "Canonical no-promotion decision and unchanged 26/8/1/0/0 maturity totals",
+        "Local canonical path and active-status corrections",
+        "Original completion checklist and F01-F12 dispositions recorded without claiming resolved operational outcomes",
+        "Current primary road/ferry sources compared; exact road duration remains uncertain"
+      ],
+      "unverified": [
+        "F01-F12 empirical outcomes and detailed operational tests remain unresolved; no positive promotion or validation",
+        "Exact Gander-to-Farewell road duration; current primary estimates conflict",
+        "Cross-institution recurrence; no second institution researched"
+      ]
+    },
+    "administrativeReview": {
+      "date": "2026-09-08",
+      "dispositionPath": "khds/research/institutions/hotels/fogo-island-inn-newfoundland/knowledge-extraction.md",
+      "travelReviewPath": "khds/research/institutions/hotels/fogo-island-inn-newfoundland/arrival.md",
+      "basis": "README public-evidence scope and non-inference rules; complete research dispositions, not operational proof",
+      "durationStatus": "uncertain",
+      "patternDecision": "no-promotion",
+      "patternValidated": false,
+      "confidenceChanges": 0
+    },
+    "reconciliationReview": {
+      "approvedBy": "Brian Kodawa",
+      "approvedAt": "2026-09-25T13:29:58.860Z",
+      "contentDigest": "598e73c3a54b68c72b815559b9245109f53b1d436190c2f7059c2653892d5b8a",
+      "controlChanges": []
+    },
+    "historyReconciliation": {
+      "approvedBy": "Brian Kodawa",
+      "approvedAt": "2026-09-22T20:13:40.949Z",
+      "scope": "Administrative machine-readable history reconciliation for completed KHDS Cases #23 and #24 only; no research content altered and Case #25 not started.",
+      "mode": "retrospective-canonical-registration",
+      "cases": [
+        {
+          "caseNumber": 23,
+          "slug": "reffen-copenhagen",
+          "evidenceCommit": "cc5d586",
+          "scriptedPublicationJournal": null
+        },
+        {
+          "caseNumber": 24,
+          "slug": "time-out-market-lisboa",
+          "evidenceCommit": "fdebc1c",
+          "scriptedPublicationJournal": null
+        }
+      ]
+    },
+    "case25Registration": {
+      "approvedBy": "Brian Kodawa",
+      "approvedAt": "2026-09-22T20:50:09.232Z",
+      "scope": "Administrative machine-readable registration of completed KHDS Case #25 Generator Copenhagen only; canonical research remains unchanged and Case #26 is unselected and unstarted.",
+      "mode": "retrospective-canonical-registration",
+      "evidenceCommit": "e8c3f72",
+      "scriptedPublicationJournal": null
+    }
+  },
+  "nextState": {
+    "schemaVersion": 1,
+    "expectedBranch": "main",
+    "workflowStatus": "publishable",
+    "latestCompletedCase": {
+      "caseNumber": 27,
+      "institutionName": "Soho House Toronto",
+      "slug": "soho-house-toronto",
+      "institutionType": "Private members' club / membership-based hospitality institution",
+      "sector": "members-clubs",
+      "canonicalPath": "khds/research/institutions/members-clubs/soho-house-toronto/",
+      "dossierComplete": true,
+      "administrativeReconciliation": true
+    },
+    "expectedNextCase": 28,
+    "researchAuthorized": true,
+    "authorization": {
+      "approvedBy": "Brian Kodawa",
+      "approvedAt": "2026-09-25T13:04:32.729Z",
+      "identity": {
+        "caseNumber": 28,
+        "institutionName": "The Arts Club London",
+        "slug": "the-arts-club-london",
+        "institutionType": "Private members' club with integrated hotel, dining, cultural programming and wellness access",
+        "sector": "members-clubs",
+        "canonicalPath": "khds/research/institutions/members-clubs/the-arts-club-london/"
+      }
+    },
+    "activeCase": {
+      "caseNumber": 28,
+      "institutionName": "The Arts Club London",
+      "slug": "the-arts-club-london",
+      "institutionType": "Private members' club with integrated hotel, dining, cultural programming and wellness access",
+      "sector": "members-clubs",
+      "canonicalPath": "khds/research/institutions/members-clubs/the-arts-club-london/",
+      "stagingPath": "khds/staging/case-28-the-arts-club-london",
+      "trackingChanges": [],
+      "requiredFiles": [
+        "README.md",
+        "discovery.md",
+        "reservation.md",
+        "pre-arrival.md",
+        "arrival.md",
+        "stay.md",
+        "dining.md",
+        "departure.md",
+        "atmosphere.md",
+        "photography.md",
+        "story.md",
+        "knowledge-extraction.md"
+      ],
+      "evidenceCoverageVersion": 1,
+      "lockedAt": "2026-09-25T13:04:32.730Z",
+      "baseCommit": "498e65fe80e1e8b293d85a1cd6dae0ea3eaaabed"
+    },
+    "disagreements": [],
+    "publication": {
+      "journalPath": "khds/staging/case-27-soho-house-toronto/publication.json",
+      "status": "promoted"
+    },
+    "reconciliationRecord": {
+      "scope": "Case #21 administratively closed at public-evidence scope; local changes uncommitted for review",
+      "controlCheckpoint": "5259bf1",
+      "correctedIssues": [
+        {
+          "path": "khds/research/institutions/hotels/fogo-island-inn-newfoundland/knowledge-extraction.md",
+          "reason": "Lines 14-15 and 3761-3763 say comparison and reconciliation pending; comparison and governance records say complete."
+        },
+        {
+          "path": "khds/research/institutions/README.md",
+          "reason": "Line 145 still defers selection of Case #21 institution."
+        },
+        {
+          "path": "khds/research/validation/README.md",
+          "reason": "Line 14703 says next Case #21; line 16803 says next Case #22."
+        },
+        {
+          "path": "khds/research/README.md",
+          "reason": "Validation README mirror remains Next at line 15284 despite its completion claim."
+        },
+        {
+          "path": "khds/research/institutions/hotels/fogo-island-inn-newfoundland/",
+          "reason": "22 dossier path references omit hotels/; legacy comparison/ references also survive the directory rename."
+        }
+      ],
+      "verifiedStages": [
+        "12-file public-evidence dossier",
+        "Institution comparison units, sector adapters and Case #21 seed",
+        "Canonical no-promotion decision and unchanged 26/8/1/0/0 maturity totals",
+        "Local canonical path and active-status corrections",
+        "Original completion checklist and F01-F12 dispositions recorded without claiming resolved operational outcomes",
+        "Current primary road/ferry sources compared; exact road duration remains uncertain"
+      ],
+      "unverified": [
+        "F01-F12 empirical outcomes and detailed operational tests remain unresolved; no positive promotion or validation",
+        "Exact Gander-to-Farewell road duration; current primary estimates conflict",
+        "Cross-institution recurrence; no second institution researched"
+      ]
+    },
+    "administrativeReview": {
+      "date": "2026-09-08",
+      "dispositionPath": "khds/research/institutions/hotels/fogo-island-inn-newfoundland/knowledge-extraction.md",
+      "travelReviewPath": "khds/research/institutions/hotels/fogo-island-inn-newfoundland/arrival.md",
+      "basis": "README public-evidence scope and non-inference rules; complete research dispositions, not operational proof",
+      "durationStatus": "uncertain",
+      "patternDecision": "no-promotion",
+      "patternValidated": false,
+      "confidenceChanges": 0
+    },
+    "reconciliationReview": {
+      "approvedBy": "Brian Kodawa",
+      "approvedAt": "2026-09-25T13:45:11.529Z",
+      "contentDigest": "7edf3b756c7e5d370f86948c8e726c111f0d24debc47809df5eef718faab6c72",
+      "controlChanges": []
+    },
+    "historyReconciliation": {
+      "approvedBy": "Brian Kodawa",
+      "approvedAt": "2026-09-22T20:13:40.949Z",
+      "scope": "Administrative machine-readable history reconciliation for completed KHDS Cases #23 and #24 only; no research content altered and Case #25 not started.",
+      "mode": "retrospective-canonical-registration",
+      "cases": [
+        {
+          "caseNumber": 23,
+          "slug": "reffen-copenhagen",
+          "evidenceCommit": "cc5d586",
+          "scriptedPublicationJournal": null
+        },
+        {
+          "caseNumber": 24,
+          "slug": "time-out-market-lisboa",
+          "evidenceCommit": "fdebc1c",
+          "scriptedPublicationJournal": null
+        }
+      ]
+    },
+    "case25Registration": {
+      "approvedBy": "Brian Kodawa",
+      "approvedAt": "2026-09-22T20:50:09.232Z",
+      "scope": "Administrative machine-readable registration of completed KHDS Case #25 Generator Copenhagen only; canonical research remains unchanged and Case #26 is unselected and unstarted.",
+      "mode": "retrospective-canonical-registration",
+      "evidenceCommit": "e8c3f72",
+      "scriptedPublicationJournal": null
+    }
+  }
+}

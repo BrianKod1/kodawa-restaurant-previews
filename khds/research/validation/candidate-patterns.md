@@ -4,18 +4,18 @@
 
 <!-- KHDS-CURRENT-START -->
 
-Latest completed case: #27 — Soho House Toronto
-Completed institution dossiers: 7
+Latest completed case: #28 — The Arts Club London
+Completed institution dossiers: 8
 Current research: None
-Next case: #28 — unselected and unstarted; research not authorized.
-Institution comparison: Complete through Cases #21–27
-Canonical governance: Post–Soho House Toronto reconciliation complete; no formal pattern movement or confidence change
+Next case: #29 — unselected and unstarted; research not authorized.
+Institution comparison: Complete through Cases #21–28
+Canonical governance: Post–The Arts Club London reconciliation complete; independent replication of membership-gated / recurring-entitlement hospitality architecture recorded; no formal pattern movement or confidence change
 Pattern totals: 26 Candidate / 8 Emerging / 1 Partially Supported / 0 Validated / 0 research-derived Principles
 Candidate confidence: 9 High / 8 Medium-High / 9 Medium; unchanged
 Track B validation cases: 1
 Next synthesis gate: After Case #30
-Research scope: Public evidence; operational performance, enforcement, representative member/guest experience, accessibility fulfilment, belonging, privacy outcomes, recovery effectiveness and causal outcomes remain unverified
-Canonical update: 2026-09-24
+Research scope: Public evidence; operational performance, enforcement consistency, representative member and guest experience, accessibility fulfilment, belonging, privacy outcomes, recovery effectiveness and causal outcomes remain unverified
+Canonical update: 2026-09-25
 
 <!-- KHDS-CURRENT-END -->
 
@@ -18453,7 +18453,8 @@ The Case #27 comparison architecture is:
 
 > A hospitality structure in which an ongoing membership relationship creates recurring entitlement while actual participation remains conditional on identity, sponsorship, current rules and service-specific capacity.
 
-This remains comparison architecture below formal pattern maturity.
+This <!-- KHDS-HISTORY-START -->
+remains comparison architecture below formal pattern maturity.
 
 Formal governance decision:
 
@@ -18492,6 +18493,98 @@ All Case #27 research directions remain non-canonical.
 Current research: none.
 
 Case #28 is unselected and unstarted; research is not authorized.
+
+The next synthesis gate remains after Case #30.
+
+**The maturity threshold remains intact.**
+
+**Evidence wins.**
+
+<!-- KHDS-HISTORY-END -->
+
+## Post–Case #28 canonical reconciliation — The Arts Club London
+
+Case #28 is canonically incorporated as the eighth completed institution dossier.
+
+The Arts Club London independently replicates public-evidence mechanisms observed in Case #27.
+
+```text
+Membership Continuity
+!=
+Uniform Access Continuity
+
+Invited Guest
+!=
+Independent Member
+
+Membership Status
+!=
+Guaranteed Service Inventory
+
+Member Responsibility
+!=
+Operator Responsibility Absent
+
+Physical Departure
+!=
+Membership Relationship End
+
+Included Benefit
+!=
+Automatically Activated Access
+
+Hotel Stay
+!=
+Full Club Entitlement
+
+Independent Replication
+!=
+Formal Pattern Promotion
+```
+
+The provisional comparison architecture remains:
+
+**Membership-Gated / Recurring-Entitlement Hospitality Architecture**
+
+Case #28 provides independent replication pressure but does not cross the formal maturity threshold.
+
+Formal governance decision:
+
+- 0 Candidate promotions;
+- 0 Emerging promotions;
+- 0 confidence increases;
+- 0 confidence decreases;
+- 0 demotions;
+- 0 renames;
+- 0 merges;
+- 0 Validated promotions;
+- 0 research-derived Principle promotions;
+- 0 newly counted formal patterns.
+
+Canonical state:
+
+```text
+20 Independent Restaurants
+8 Completed Institution Dossiers
+1 Track B Validation Case
+
+26 Candidate Patterns
+8 Emerging Patterns
+1 Partially Supported Pattern
+0 Validated Patterns
+0 Research-Derived KHDS Principles
+
+Candidate Confidence:
+9 High
+8 Medium-High
+9 Medium
+```
+
+All Case #28 research directions remain non-canonical.
+
+Current research: none.
+
+Case #29 is unselected and unstarted; research is not authorized.
 
 The next synthesis gate remains after Case #30.
 

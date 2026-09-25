@@ -4,18 +4,18 @@ Status
 
 <!-- KHDS-CURRENT-START -->
 
-Latest completed case: #27 — Soho House Toronto
-Completed institution dossiers: 7
+Latest completed case: #28 — The Arts Club London
+Completed institution dossiers: 8
 Current research: None
-Next case: #28 — unselected and unstarted; research not authorized.
-Institution comparison: Complete through Cases #21–27
-Canonical governance: Post–Soho House Toronto reconciliation complete; no formal pattern movement or confidence change
+Next case: #29 — unselected and unstarted; research not authorized.
+Institution comparison: Complete through Cases #21–28
+Canonical governance: Post–The Arts Club London reconciliation complete; independent replication of membership-gated / recurring-entitlement hospitality architecture recorded; no formal pattern movement or confidence change
 Pattern totals: 26 Candidate / 8 Emerging / 1 Partially Supported / 0 Validated / 0 research-derived Principles
 Candidate confidence: 9 High / 8 Medium-High / 9 Medium; unchanged
 Track B validation cases: 1
 Next synthesis gate: After Case #30
-Research scope: Public evidence; operational performance, enforcement, representative member/guest experience, accessibility fulfilment, belonging, privacy outcomes, recovery effectiveness and causal outcomes remain unverified
-Canonical update: 2026-09-24
+Research scope: Public evidence; operational performance, enforcement consistency, representative member and guest experience, accessibility fulfilment, belonging, privacy outcomes, recovery effectiveness and causal outcomes remain unverified
+Canonical update: 2026-09-25
 
 <!-- KHDS-CURRENT-END -->
 
@@ -4856,7 +4856,8 @@ Candidate confidence remains 9 High / 8 Medium-High / 9 Medium.
 
 **Decision 23**
 
-Membership-Gated / Recurring-Entitlement Hospitality Architecture is retained as provisional comparison architecture below formal pattern maturity.
+Membership-Gated / Recurring-Entitlement Hospitality Architecture is retained as provisional comparison architecture <!-- KHDS-HISTORY-START -->
+below formal pattern maturity.
 
 **Decision 24**
 
@@ -4874,5 +4875,59 @@ Future cases should test whether:
 - and the same mechanisms recur in another independent membership-based hospitality institution.
 
 Public evidence does not resolve these operational questions.
+
+Administrative closure remains distinct from operational validation.
+
+<!-- KHDS-HISTORY-END -->
+
+## Case #28 completed comparison record — The Arts Club London
+
+The Arts Club London is the eighth completed institution comparator and the second private-membership / recurring-entitlement hospitality institution in the current KHDS population.
+
+Case #28 tests whether the Case #27 membership architecture recurs independently.
+
+```text
+Membership Continuity
+!=
+Uniform Access Continuity
+```
+
+This boundary recurs across Cases #27 and #28.
+
+Case #28 adds:
+
+```text
+Club Membership
++
+Hotel Stay
++
+Dining / Events / Wellness
+!=
+One Uniform Entitlement
+
+Included Benefit
+!=
+Automatically Activated Access
+
+Independent Replication
+!=
+Formal Pattern Promotion
+```
+
+The provisional **Membership-Gated / Recurring-Entitlement Hospitality Architecture** remains below formal pattern maturity.
+
+Case #28 produces zero formal pattern or confidence movement and one administrative increase from seven to eight completed institution dossiers.
+
+Pattern totals remain 26 Candidate / 8 Emerging / 1 Partially Supported / 0 Validated / 0 research-derived Principles.
+
+Candidate confidence remains 9 High / 8 Medium-High / 9 Medium.
+
+**Decision 25**
+
+Membership-Gated / Recurring-Entitlement Hospitality Architecture now has independent replication pressure from Cases #27 and #28 but remains below formal pattern maturity.
+
+**Decision 26**
+
+Case #28 demonstrates that continuing club identity can coexist with hotel, dining, event and wellness routes without creating one uniform entitlement.
 
 Administrative closure remains distinct from operational validation.

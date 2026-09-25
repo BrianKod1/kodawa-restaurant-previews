@@ -1,0 +1,59 @@
+{
+    "schemaVersion":  1,
+    "sources":  [
+                    {
+                        "id":  "S1",
+                        "url":  "https://www.theartsclub.co.uk/",
+                        "accessDate":  "2026-09-25",
+                        "sourceDate":  "Undated; update date not established",
+                        "method":  "Direct HTML inspection",
+                        "sections":  "discovery; atmosphere; dining; story",
+                        "access":  "inspected"
+                    },
+                    {
+                        "id":  "S2",
+                        "url":  "https://theartsclub.co.uk/membership/",
+                        "accessDate":  "2026-09-25",
+                        "sourceDate":  "Undated; update date not established",
+                        "method":  "Direct HTML inspection",
+                        "sections":  "discovery; reservation; pre-arrival; stay; story",
+                        "access":  "inspected"
+                    },
+                    {
+                        "id":  "S3",
+                        "url":  "https://theartsclub.co.uk/resources/",
+                        "accessDate":  "2026-09-25",
+                        "sourceDate":  "Undated; update date not established",
+                        "method":  "Direct HTML inspection",
+                        "sections":  "reservation; pre-arrival; arrival; stay; dining; departure; atmosphere; photography",
+                        "access":  "inspected"
+                    },
+                    {
+                        "id":  "S4",
+                        "url":  "https://theartsclub.co.uk/membership/club-rules/",
+                        "accessDate":  "2026-09-25",
+                        "sourceDate":  "Undated; update date not established",
+                        "method":  "Direct HTML inspection",
+                        "sections":  "pre-arrival; arrival; stay; departure; atmosphere; story",
+                        "access":  "inspected"
+                    },
+                    {
+                        "id":  "S5",
+                        "url":  "https://www.theartsclub.co.uk/resources/privacy-policy/",
+                        "accessDate":  "2026-09-25",
+                        "sourceDate":  "Undated; update date not established",
+                        "method":  "Direct HTML inspection",
+                        "sections":  "pre-arrival; arrival; stay; departure",
+                        "access":  "inspected"
+                    },
+                    {
+                        "id":  "S6",
+                        "url":  "https://www.theartsclub.co.uk/hotel/",
+                        "accessDate":  "2026-09-25",
+                        "sourceDate":  "Undated; update date not established",
+                        "method":  "Direct HTML inspection",
+                        "sections":  "discovery; reservation; pre-arrival; arrival; stay; dining; departure; atmosphere; photography; story",
+                        "access":  "inspected"
+                    }
+                ]
+}

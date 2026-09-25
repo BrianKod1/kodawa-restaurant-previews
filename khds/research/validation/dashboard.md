@@ -4,18 +4,18 @@ Status
 
 <!-- KHDS-CURRENT-START -->
 
-Latest completed case: #27 — Soho House Toronto
-Completed institution dossiers: 7
+Latest completed case: #28 — The Arts Club London
+Completed institution dossiers: 8
 Current research: None
-Next case: #28 — unselected and unstarted; research not authorized.
-Institution comparison: Complete through Cases #21–27
-Canonical governance: Post–Soho House Toronto reconciliation complete; no formal pattern movement or confidence change
+Next case: #29 — unselected and unstarted; research not authorized.
+Institution comparison: Complete through Cases #21–28
+Canonical governance: Post–The Arts Club London reconciliation complete; independent replication of membership-gated / recurring-entitlement hospitality architecture recorded; no formal pattern movement or confidence change
 Pattern totals: 26 Candidate / 8 Emerging / 1 Partially Supported / 0 Validated / 0 research-derived Principles
 Candidate confidence: 9 High / 8 Medium-High / 9 Medium; unchanged
 Track B validation cases: 1
 Next synthesis gate: After Case #30
-Research scope: Public evidence; operational performance, enforcement, representative member/guest experience, accessibility fulfilment, belonging, privacy outcomes, recovery effectiveness and causal outcomes remain unverified
-Canonical update: 2026-09-24
+Research scope: Public evidence; operational performance, enforcement consistency, representative member and guest experience, accessibility fulfilment, belonging, privacy outcomes, recovery effectiveness and causal outcomes remain unverified
+Canonical update: 2026-09-25
 
 <!-- KHDS-CURRENT-END -->
 
@@ -6304,7 +6304,8 @@ Candidate confidence remains 9 High / 8 Medium-High / 9 Medium.
 
 | Case | Institution | Type | Comparison status |
 | ---: | --- | --- | --- |
-| 27 | Soho House Toronto | Private members' club / membership-based hospitality institution | Complete public-evidence comparator |
+| 27 | Soho House Toronto | P<!-- KHDS-HISTORY-START -->
+rivate members' club / membership-based hospitality institution | Complete public-evidence comparator |
 
 Soho House Toronto extends the institution population from six to seven completed dossiers.
 
@@ -6322,6 +6323,34 @@ Primary comparison pressure:
 Provisional comparison architecture: **Membership-Gated / Recurring-Entitlement Hospitality Architecture**.
 
 This architecture is not a formal Candidate, Emerging pattern or Principle.
+
+Governance movement: none.
+
+Pattern totals remain 26/8/1/0/0.
+
+Candidate confidence remains 9 High / 8 Medium-High / 9 Medium.
+
+<!-- KHDS-HISTORY-END -->
+
+## Case #28 dashboard reconciliation — The Arts Club London
+
+The Arts Club London extends the completed institution population from seven to eight dossiers.
+
+Primary comparison pressure includes recurring membership entitlement, membership renewal as access governance, front-desk identity-to-access conversion, sponsored-guest dependency, service-specific capacity, hotel stay versus club entitlement, included benefit versus activated access, behavioural governance, privacy infrastructure and persistent relationship after physical departure.
+
+```text
+Membership Continuity
+!=
+Uniform Access Continuity
+
+Club Membership
++
+Hotel Stay
++
+Dining / Events / Wellness
+!=
+One Uniform Entitlement
+```
 
 Governance movement: none.
 

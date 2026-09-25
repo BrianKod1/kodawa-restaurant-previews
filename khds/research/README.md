@@ -4,18 +4,18 @@ Status
 
 <!-- KHDS-CURRENT-START -->
 
-Latest completed case: #27 — Soho House Toronto
-Completed institution dossiers: 7
+Latest completed case: #28 — The Arts Club London
+Completed institution dossiers: 8
 Current research: None
-Next case: #28 — unselected and unstarted; research not authorized.
-Institution comparison: Complete through Cases #21–27
-Canonical governance: Post–Soho House Toronto reconciliation complete; no formal pattern movement or confidence change
+Next case: #29 — unselected and unstarted; research not authorized.
+Institution comparison: Complete through Cases #21–28
+Canonical governance: Post–The Arts Club London reconciliation complete; independent replication of membership-gated / recurring-entitlement hospitality architecture recorded; no formal pattern movement or confidence change
 Pattern totals: 26 Candidate / 8 Emerging / 1 Partially Supported / 0 Validated / 0 research-derived Principles
 Candidate confidence: 9 High / 8 Medium-High / 9 Medium; unchanged
 Track B validation cases: 1
 Next synthesis gate: After Case #30
-Research scope: Public evidence; operational performance, enforcement, representative member/guest experience, accessibility fulfilment, belonging, privacy outcomes, recovery effectiveness and causal outcomes remain unverified
-Canonical update: 2026-09-24
+Research scope: Public evidence; operational performance, enforcement consistency, representative member and guest experience, accessibility fulfilment, belonging, privacy outcomes, recovery effectiveness and causal outcomes remain unverified
+Canonical update: 2026-09-25
 
 <!-- KHDS-CURRENT-END -->
 
@@ -16964,10 +16964,11 @@ At the Case #26 checkpoint, current research was none.
 
 At the Case #26 checkpoint, Case #27 was unselected and unstarted; research was not authorized.
 
-Next synthesis gate: after Case #30.
+Nex<!-- KHDS-HISTORY-START -->
+t synthesis gate: after Case #30.
 
 
-<!-- KHDS-HISTORY-END -->
+
 
 ## Post–Case #27 research-system reconciliation — 2026-09-24
 
@@ -16986,5 +16987,36 @@ Candidate confidence remains 9 High / 8 Medium-High / 9 Medium.
 Current research: none.
 
 Next case: #28 — unselected and unstarted; research not authorized.
+
+Next synthesis gate: after Case #30.
+<!-- KHDS-HISTORY-END -->
+
+## Post–Case #28 research-system reconciliation — 2026-09-25
+
+Case #28 — The Arts Club London — is the eighth completed institution dossier and the second private-membership / recurring-entitlement hospitality comparator.
+
+Institution comparison is complete through Cases #21–28.
+
+Case #28 independently replicates parts of the provisional Membership-Gated / Recurring-Entitlement Hospitality Architecture identified in Case #27.
+
+```text
+Membership Continuity
+!=
+Uniform Access Continuity
+
+Independent Replication
+!=
+Formal Pattern Promotion
+```
+
+No formal pattern maturity or confidence movement is authorized.
+
+Pattern totals remain 26 Candidate / 8 Emerging / 1 Partially Supported / 0 Validated / 0 research-derived Principles.
+
+Candidate confidence remains 9 High / 8 Medium-High / 9 Medium.
+
+Current research: none.
+
+Next case: #29 — unselected and unstarted; research not authorized.
 
 Next synthesis gate: after Case #30.

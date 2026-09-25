@@ -3,22 +3,22 @@
   "expectedBranch": "main",
   "workflowStatus": "idle",
   "latestCompletedCase": {
-    "caseNumber": 27,
-    "institutionName": "Soho House Toronto",
-    "slug": "soho-house-toronto",
-    "institutionType": "Private members' club / membership-based hospitality institution",
+    "caseNumber": 28,
+    "institutionName": "The Arts Club London",
+    "slug": "the-arts-club-london",
+    "institutionType": "Private members' club with integrated hotel, dining, cultural programming and wellness access",
     "sector": "members-clubs",
-    "canonicalPath": "khds/research/institutions/members-clubs/soho-house-toronto/",
+    "canonicalPath": "khds/research/institutions/members-clubs/the-arts-club-london/",
     "dossierComplete": true,
     "administrativeReconciliation": true
   },
-  "expectedNextCase": 28,
+  "expectedNextCase": 29,
   "researchAuthorized": false,
   "authorization": null,
   "activeCase": null,
   "disagreements": [],
   "publication": {
-    "journalPath": "khds/staging/case-27-soho-house-toronto/publication.json",
+    "journalPath": "khds/staging/case-28-the-arts-club-london/publication.json",
     "status": "promoted"
   },
   "reconciliationRecord": {
@@ -72,8 +72,8 @@
   },
   "reconciliationReview": {
     "approvedBy": "Brian Kodawa",
-    "approvedAt": "2026-09-24T13:44:17.689Z",
-    "contentDigest": "9b651c0eefc6dfd85edd143a4b8809513f75c4064c7f74d91357edbcba0e2c16",
+    "approvedAt": "2026-09-25T13:45:11.529Z",
+    "contentDigest": "7edf3b756c7e5d370f86948c8e726c111f0d24debc47809df5eef718faab6c72",
     "controlChanges": []
   },
   "historyReconciliation": {
