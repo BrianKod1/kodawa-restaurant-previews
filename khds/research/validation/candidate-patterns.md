@@ -4,18 +4,18 @@
 
 <!-- KHDS-CURRENT-START -->
 
-Latest completed case: #28 — The Arts Club London
-Completed institution dossiers: 8
+Latest completed case: #29 — Casa Cipriani New York
+Completed institution dossiers: 9
 Current research: None
-Next case: #29 — unselected and unstarted; research not authorized.
-Institution comparison: Complete through Cases #21–28
-Canonical governance: Post–The Arts Club London reconciliation complete; independent replication of membership-gated / recurring-entitlement hospitality architecture recorded; no formal pattern movement or confidence change
+Next case: #30 — unselected and unstarted; research not authorized.
+Institution comparison: Complete through Cases #21–29
+Canonical governance: Post–Casa Cipriani New York reconciliation complete; third independent comparator for membership-gated / recurring-entitlement hospitality architecture recorded; no formal pattern movement or confidence change
 Pattern totals: 26 Candidate / 8 Emerging / 1 Partially Supported / 0 Validated / 0 research-derived Principles
 Candidate confidence: 9 High / 8 Medium-High / 9 Medium; unchanged
 Track B validation cases: 1
 Next synthesis gate: After Case #30
-Research scope: Public evidence; operational performance, enforcement consistency, representative member and guest experience, accessibility fulfilment, belonging, privacy outcomes, recovery effectiveness and causal outcomes remain unverified
-Canonical update: 2026-09-25
+Research scope: Public evidence; representative member experience, membership-decision fairness, operational enforcement, accessibility fulfilment, dietary safety, belonging, privacy outcomes, live inventory, recovery effectiveness and causal outcomes remain unverified
+Canonical update: 2026-09-26
 
 <!-- KHDS-CURRENT-END -->
 
@@ -18546,7 +18546,8 @@ The provisional comparison architecture remains:
 
 **Membership-Gated / Recurring-Entitlement Hospitality Architecture**
 
-Case #28 provides independent replication pressure but does not cross the formal maturity threshold.
+Case #28 provides independent replicat<!-- KHDS-HISTORY-START -->
+ion pressure but does not cross the formal maturity threshold.
 
 Formal governance decision:
 
@@ -18585,6 +18586,105 @@ All Case #28 research directions remain non-canonical.
 Current research: none.
 
 Case #29 is unselected and unstarted; research is not authorized.
+
+The next synthesis gate remains after Case #30.
+
+**The maturity threshold remains intact.**
+
+**Evidence wins.**
+<!-- KHDS-HISTORY-END -->
+
+## Post–Case #29 canonical reconciliation — Casa Cipriani New York
+
+Case #29 is canonically incorporated as the ninth completed institution dossier.
+
+Casa Cipriani New York creates third-case replication pressure for the provisional Membership-Gated / Recurring-Entitlement Hospitality Architecture.
+
+Across Cases #27–29, the strongest recurring boundary remains:
+
+```text
+Membership Continuity
+!=
+Uniform Access Continuity
+```
+
+Additional Case #29 bounded findings:
+
+```text
+Membership Status
+!=
+Guaranteed Service Inventory
+
+Hotel Stay
+!=
+Full Membership Entitlement
+
+Prepaid Value
+!=
+Guaranteed Eligibility or Availability
+
+Physical Departure
+!=
+Relationship Closure
+
+Private Community Narrative
+!=
+Verified Belonging Outcome
+
+Published Privacy Policy
+!=
+Verified Privacy Outcome
+```
+
+The provisional comparison architecture remains:
+
+**Membership-Gated / Recurring-Entitlement Hospitality Architecture**
+
+Case #29 creates a third independent comparison point but does not itself cross the formal maturity threshold.
+
+```text
+Third Independent Comparator
+!=
+Formal Pattern Promotion
+```
+
+Formal governance decision:
+
+- 0 Candidate promotions;
+- 0 Emerging promotions;
+- 0 confidence increases;
+- 0 confidence decreases;
+- 0 demotions;
+- 0 renames;
+- 0 merges;
+- 0 Validated promotions;
+- 0 research-derived Principle promotions;
+- 0 newly counted formal patterns.
+
+Canonical state:
+
+```text
+20 Independent Restaurants
+9 Completed Institution Dossiers
+1 Track B Validation Case
+
+26 Candidate Patterns
+8 Emerging Patterns
+1 Partially Supported Pattern
+0 Validated Patterns
+0 Research-Derived KHDS Principles
+
+Candidate Confidence:
+9 High
+8 Medium-High
+9 Medium
+```
+
+All Case #29 research directions remain non-canonical.
+
+Current research: none.
+
+Case #30 is unselected and unstarted; research is not authorized.
 
 The next synthesis gate remains after Case #30.
 

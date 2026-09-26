@@ -1,0 +1,27 @@
+{
+  "caseNumber": 29,
+  "institutionName": "Casa Cipriani New York",
+  "slug": "casa-cipriani-new-york",
+  "institutionType": "Private members' club with hotel accommodation, dining, events and wellness",
+  "sector": "members-clubs",
+  "canonicalPath": "khds/research/institutions/members-clubs/casa-cipriani-new-york/",
+  "stagingPath": "khds/staging/case-29-casa-cipriani-new-york",
+  "trackingChanges": [],
+  "requiredFiles": [
+    "README.md",
+    "discovery.md",
+    "reservation.md",
+    "pre-arrival.md",
+    "arrival.md",
+    "stay.md",
+    "dining.md",
+    "departure.md",
+    "atmosphere.md",
+    "photography.md",
+    "story.md",
+    "knowledge-extraction.md"
+  ],
+  "evidenceCoverageVersion": 1,
+  "lockedAt": "2026-09-26T17:18:46.387Z",
+  "baseCommit": "07aa4ab3f0d786bf496d2eb2cb899474da4c12c6"
+}

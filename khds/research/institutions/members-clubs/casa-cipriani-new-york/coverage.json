@@ -1,0 +1,290 @@
+{
+    "schemaVersion":  1,
+    "dimensions":  [
+                       {
+                           "dimension":  "discovery",
+                           "question":  "Can a prospective participant distinguish membership, hotel accommodation, dining, events, wellness and gift-value routes before committing?",
+                           "scopeChange":  "Adds a third recurring-membership comparator with a strong luxury hotel and brand-extension layer.",
+                           "sources":  [
+                                           "S1",
+                                           "S3",
+                                           "S4"
+                                       ],
+                           "observations":  [
+                                                {
+                                                    "text":  "Casa Cipriani presents membership, accommodations, dining, wellness, cultural/social programming and gift-card value as related but distinct propositions.",
+                                                    "sources":  [
+                                                                    "S1",
+                                                                    "S3",
+                                                                    "S4"
+                                                                ]
+                                                }
+                                            ],
+                           "unanswered":  [
+                                              "How clearly are member-only and non-member pathways distinguished before commitment?",
+                                              "How well do prospective users understand which services require membership, hotel status, reservation or separate purchase?"
+                                          ],
+                           "rating":  "partial",
+                           "reason":  "Public material establishes multiple propositions but not representative comprehension or conversion outcomes.",
+                           "nextEvidence":  "Independent journey testing across membership, hotel, dining, wellness and gift-card discovery routes."
+                       },
+                       {
+                           "dimension":  "reservation",
+                           "question":  "What exactly is being reserved, purchased or granted across membership, hotel, dining, events and gift-card routes?",
+                           "scopeChange":  "Tests recurring entitlement against service-specific booking and prepaid-value objects.",
+                           "sources":  [
+                                           "S1",
+                                           "S4",
+                                           "S5"
+                                       ],
+                           "observations":  [
+                                                {
+                                                    "text":  "The institution supports multiple commitment objects including membership, accommodation, hospitality services and gift-card value.",
+                                                    "sources":  [
+                                                                    "S1",
+                                                                    "S4",
+                                                                    "S5"
+                                                                ]
+                                                }
+                                            ],
+                           "unanswered":  [
+                                              "Does active membership guarantee availability for specific services?",
+                                              "How are capacity failures, sold-out services, refunds or substitutions handled?",
+                                              "How does prepaid gift value interact with membership or service eligibility?"
+                                          ],
+                           "rating":  "partial",
+                           "reason":  "Public evidence confirms multiple commitment mechanisms but not live capacity, priority or failed-booking recovery.",
+                           "nextEvidence":  "Reservation testing across member, hotel and prepaid-value pathways."
+                       },
+                       {
+                           "dimension":  "pre-arrival",
+                           "question":  "What must members, hotel guests and other participants know or prepare before arrival?",
+                           "scopeChange":  "Adds a luxury accommodation pathway alongside continuing membership and data-governance obligations.",
+                           "sources":  [
+                                           "S1",
+                                           "S2"
+                                       ],
+                           "observations":  [
+                                                {
+                                                    "text":  "The operator presents accommodations, dining, wellness and membership as distinct participation contexts, while the privacy policy establishes continuing data-processing conditions before and during use.",
+                                                    "sources":  [
+                                                                    "S1",
+                                                                    "S2"
+                                                                ]
+                                                }
+                                            ],
+                           "unanswered":  [
+                                              "What role-specific instructions are delivered before arrival?",
+                                              "How are guest sponsorship, accessibility, wellness requirements or service restrictions communicated in advance?"
+                                          ],
+                           "rating":  "partial",
+                           "reason":  "The public proposition and privacy layer are visible, but detailed pre-arrival operational instructions are not sufficiently evidenced.",
+                           "nextEvidence":  "Member and hotel pre-arrival communications, confirmation messages and accessibility guidance."
+                       },
+                       {
+                           "dimension":  "arrival",
+                           "question":  "How is identity converted into permitted access at Casa Cipriani New York?",
+                           "scopeChange":  "Tests whether membership, hotel reservation and other service relationships produce different arrival states.",
+                           "sources":  [
+                                           "S1",
+                                           "S2"
+                                       ],
+                           "observations":  [
+                                                {
+                                                    "text":  "The public site distinguishes membership and accommodations as separate institutional relationships, implying different identity and entitlement routes at arrival.",
+                                                    "sources":  [
+                                                                    "S1"
+                                                                ]
+                                                },
+                                                {
+                                                    "text":  "The privacy policy establishes that personal and transactional data may be processed during the service relationship.",
+                                                    "sources":  [
+                                                                    "S2"
+                                                                ]
+                                                }
+                                            ],
+                           "unanswered":  [
+                                              "What credentials are checked for members, hotel guests and visitors?",
+                                              "How are sponsored guests or exceptional arrivals handled?",
+                                              "How are accessibility needs handled at the point of entry?"
+                                          ],
+                           "rating":  "partial",
+                           "reason":  "Role separation is visible, but front-desk and exception-handling mechanics are not sufficiently public.",
+                           "nextEvidence":  "Observed arrival testing and operator documentation on credential and guest handling."
+                       },
+                       {
+                           "dimension":  "stay",
+                           "question":  "How are rights, restrictions, privacy and responsibilities maintained during participation?",
+                           "scopeChange":  "Tests recurring membership alongside hotel, dining, wellness and brand-wide service use.",
+                           "sources":  [
+                                           "S1",
+                                           "S2",
+                                           "S3",
+                                           "S4",
+                                           "S5"
+                                       ],
+                           "observations":  [
+                                                {
+                                                    "text":  "Membership, accommodations, dining, wellness and programming coexist inside one institutional and brand relationship.",
+                                                    "sources":  [
+                                                                    "S1",
+                                                                    "S3"
+                                                                ]
+                                                },
+                                                {
+                                                    "text":  "The privacy policy establishes continuing data-processing and third-party service relationships.",
+                                                    "sources":  [
+                                                                    "S2"
+                                                                ]
+                                                },
+                                                {
+                                                    "text":  "Gift-card value creates an additional prepaid relationship distinct from immediate service delivery.",
+                                                    "sources":  [
+                                                                    "S4",
+                                                                    "S5"
+                                                                ]
+                                                }
+                                            ],
+                           "unanswered":  [
+                                              "How are member and hotel-guest rights differentiated during use?",
+                                              "How consistently are privacy, conduct and access rules enforced?",
+                                              "How are disputes or service failures recovered?"
+                                          ],
+                           "rating":  "partial",
+                           "reason":  "Public evidence establishes a multi-route relationship but not operational consistency or recovery performance.",
+                           "nextEvidence":  "Observed use, member terms, hotel conditions and service-recovery evidence."
+                       },
+                       {
+                           "dimension":  "dining",
+                           "question":  "How does membership or hotel status interact with dining access and capacity?",
+                           "scopeChange":  "Tests Cipriani dining as service-specific inventory inside a broader membership and accommodation relationship.",
+                           "sources":  [
+                                           "S1"
+                                       ],
+                           "observations":  [
+                                                {
+                                                    "text":  "Cipriani cuisine is presented as a core part of the Casa Cipriani proposition alongside membership and accommodations.",
+                                                    "sources":  [
+                                                                    "S1"
+                                                                ]
+                                                }
+                                            ],
+                           "unanswered":  [
+                                              "Does membership guarantee dining access?",
+                                              "How are tables allocated between members, hotel guests and other permitted users?",
+                                              "How are dietary, allergy or capacity failures handled?"
+                                          ],
+                           "rating":  "partial",
+                           "reason":  "Dining is clearly part of the proposition, but allocation, safety and recovery mechanisms are not sufficiently public.",
+                           "nextEvidence":  "Dining reservation testing and service terms."
+                       },
+                       {
+                           "dimension":  "departure",
+                           "question":  "What relationships persist after a visit, stay or prepaid-value purchase ends?",
+                           "scopeChange":  "Adds continuing membership, data and prepaid-value states after physical departure.",
+                           "sources":  [
+                                           "S2",
+                                           "S4",
+                                           "S5"
+                                       ],
+                           "observations":  [
+                                                {
+                                                    "text":  "Privacy and data relationships can continue beyond a single visit.",
+                                                    "sources":  [
+                                                                    "S2"
+                                                                ]
+                                                },
+                                                {
+                                                    "text":  "Gift-card value can persist independently of one completed visit or stay.",
+                                                    "sources":  [
+                                                                    "S4",
+                                                                    "S5"
+                                                                ]
+                                                }
+                                            ],
+                           "unanswered":  [
+                                              "How are unresolved charges, complaints, memberships or prepaid balances handled after departure?",
+                                              "What operational retention or closure rules apply to visit, membership and purchase records?"
+                                          ],
+                           "rating":  "partial",
+                           "reason":  "Continuing relationship states are visible, but post-visit closure and recovery processes are not sufficiently evidenced.",
+                           "nextEvidence":  "Post-stay billing, complaint, membership and gift-card redemption testing."
+                       },
+                       {
+                           "dimension":  "atmosphere",
+                           "question":  "How is the Casa Cipriani environment produced through membership identity, hospitality design and programming?",
+                           "scopeChange":  "Tests atmosphere as a combination of luxury hospitality, private membership and brand culture.",
+                           "sources":  [
+                                           "S1",
+                                           "S3"
+                                       ],
+                           "observations":  [
+                                                {
+                                                    "text":  "Casa Cipriani presents a defined global community alongside accommodations, dining, wellness and cultural/social programming.",
+                                                    "sources":  [
+                                                                    "S1",
+                                                                    "S3"
+                                                                ]
+                                                }
+                                            ],
+                           "unanswered":  [
+                                              "How consistently do participants experience the intended atmosphere?",
+                                              "How do membership and access controls shape belonging or exclusion?",
+                                              "How much of the atmosphere depends on operational enforcement rather than design and branding?"
+                                          ],
+                           "rating":  "partial",
+                           "reason":  "The atmosphere proposition is visible, but representative social outcomes are not independently verified.",
+                           "nextEvidence":  "Independent observation and member/guest experience evidence."
+                       },
+                       {
+                           "dimension":  "photography",
+                           "question":  "What can official imagery prove about the institution\u0027s operation and access model?",
+                           "scopeChange":  "Tests visual evidence in a highly branded luxury-membership environment.",
+                           "sources":  [
+                                           "S1",
+                                           "S3"
+                                       ],
+                           "observations":  [
+                                                {
+                                                    "text":  "Official visual presentation can demonstrate architecture, accommodations, dining, wellness and curated social settings.",
+                                                    "sources":  [
+                                                                    "S1",
+                                                                    "S3"
+                                                                ]
+                                                }
+                                            ],
+                           "unanswered":  [
+                                              "How representative is official imagery of ordinary operations?",
+                                              "What visual evidence exists for access governance, service recovery, privacy or accessibility?"
+                                          ],
+                           "rating":  "partial",
+                           "reason":  "Visual evidence supports physical and narrative claims but not operational entitlement or outcomes.",
+                           "nextEvidence":  "Operator-approved operational photography paired with non-visual evidence."
+                       },
+                       {
+                           "dimension":  "story",
+                           "question":  "How does Casa Cipriani connect membership, luxury hospitality, Cipriani heritage and community without overstating verified outcomes?",
+                           "scopeChange":  "Tests brand heritage and international community narrative inside a recurring-membership institution.",
+                           "sources":  [
+                                           "S1",
+                                           "S3"
+                                       ],
+                           "observations":  [
+                                                {
+                                                    "text":  "The public story connects Casa Cipriani New York to Cipriani hospitality, a private global community, accommodations, cuisine, wellness and programming.",
+                                                    "sources":  [
+                                                                    "S1",
+                                                                    "S3"
+                                                                ]
+                                                }
+                                            ],
+                           "unanswered":  [
+                                              "Whether the stated community identity corresponds to representative member outcomes.",
+                                              "How belonging, exclusivity and brand identity vary by participant role."
+                                          ],
+                           "rating":  "partial",
+                           "reason":  "Narrative and proposition are documented, but community and belonging outcomes are not independently verified.",
+                           "nextEvidence":  "Independent member and guest research across participation routes."
+                       }
+                   ]
+}

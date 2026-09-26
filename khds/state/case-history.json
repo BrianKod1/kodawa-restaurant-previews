@@ -92,6 +92,17 @@
       "dossierComplete": true,
       "administrativeReconciliation": true,
       "publicationJournal": "khds/staging/case-28-the-arts-club-london/publication.json"
+    },
+    {
+      "caseNumber": 29,
+      "institutionName": "Casa Cipriani New York",
+      "slug": "casa-cipriani-new-york",
+      "institutionType": "Private members' club with hotel accommodation, dining, events and wellness",
+      "sector": "members-clubs",
+      "canonicalPath": "khds/research/institutions/members-clubs/casa-cipriani-new-york/",
+      "dossierComplete": true,
+      "administrativeReconciliation": true,
+      "publicationJournal": "khds/staging/case-29-casa-cipriani-new-york/publication.json"
     }
   ],
   "priorIdentities": [

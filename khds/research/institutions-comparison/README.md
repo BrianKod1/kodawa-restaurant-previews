@@ -4,18 +4,18 @@ Status
 
 <!-- KHDS-CURRENT-START -->
 
-Latest completed case: #28 — The Arts Club London
-Completed institution dossiers: 8
+Latest completed case: #29 — Casa Cipriani New York
+Completed institution dossiers: 9
 Current research: None
-Next case: #29 — unselected and unstarted; research not authorized.
-Institution comparison: Complete through Cases #21–28
-Canonical governance: Post–The Arts Club London reconciliation complete; independent replication of membership-gated / recurring-entitlement hospitality architecture recorded; no formal pattern movement or confidence change
+Next case: #30 — unselected and unstarted; research not authorized.
+Institution comparison: Complete through Cases #21–29
+Canonical governance: Post–Casa Cipriani New York reconciliation complete; third independent comparator for membership-gated / recurring-entitlement hospitality architecture recorded; no formal pattern movement or confidence change
 Pattern totals: 26 Candidate / 8 Emerging / 1 Partially Supported / 0 Validated / 0 research-derived Principles
 Candidate confidence: 9 High / 8 Medium-High / 9 Medium; unchanged
 Track B validation cases: 1
 Next synthesis gate: After Case #30
-Research scope: Public evidence; operational performance, enforcement consistency, representative member and guest experience, accessibility fulfilment, belonging, privacy outcomes, recovery effectiveness and causal outcomes remain unverified
-Canonical update: 2026-09-25
+Research scope: Public evidence; representative member experience, membership-decision fairness, operational enforcement, accessibility fulfilment, dietary safety, belonging, privacy outcomes, live inventory, recovery effectiveness and causal outcomes remain unverified
+Canonical update: 2026-09-26
 
 <!-- KHDS-CURRENT-END -->
 
@@ -4911,7 +4911,8 @@ Automatically Activated Access
 
 Independent Replication
 !=
-Formal Pattern Promotion
+Formal Pattern Pr<!-- KHDS-HISTORY-START -->
+omotion
 ```
 
 The provisional **Membership-Gated / Recurring-Entitlement Hospitality Architecture** remains below formal pattern maturity.
@@ -4929,5 +4930,146 @@ Membership-Gated / Recurring-Entitlement Hospitality Architecture now has indepe
 **Decision 26**
 
 Case #28 demonstrates that continuing club identity can coexist with hotel, dining, event and wellness routes without creating one uniform entitlement.
+
+Administrative closure remains distinct from operational validation.
+<!-- KHDS-HISTORY-END -->
+
+## Case #29 completed comparison record — Casa Cipriani New York
+
+### Population and evidence rule
+
+Casa Cipriani New York is the ninth completed institution comparator and the third private-membership / recurring-entitlement hospitality institution in the current KHDS population.
+
+The dossier is based on public operator evidence.
+
+It does not verify representative member experience, membership-decision fairness, operational enforcement, accessibility fulfilment, dietary safety, belonging, privacy outcomes, live inventory, recovery effectiveness or causal effects.
+
+```text
+Completed Comparison Case
+!=
+Canonical Governance Change
+```
+
+### Third-comparator purpose
+
+Case #27 introduced the provisional Membership-Gated / Recurring-Entitlement Hospitality Architecture.
+
+Case #28 provided independent replication pressure.
+
+Case #29 tests the architecture again through a membership institution that also combines hotel accommodation, dining, wellness, brand continuity, data relationships and prepaid value.
+
+### Recurring boundary
+
+Across Cases #27–29:
+
+```text
+Membership Continuity
+!=
+Uniform Access Continuity
+```
+
+Case #29 adds:
+
+```text
+Hotel Stay
+!=
+Full Membership Entitlement
+
+Prepaid Value
+!=
+Guaranteed Eligibility or Availability
+
+Physical Departure
+!=
+Relationship Closure
+```
+
+### Provisional architecture
+
+**Membership-Gated / Recurring-Entitlement Hospitality Architecture**
+
+> A hospitality structure in which an ongoing membership relationship creates recurring entitlement while actual participation remains conditional on identity, role, current rules and service-specific capacity.
+
+Case #29 provides third-comparator pressure.
+
+```text
+Third Independent Comparator
+!=
+Formal Pattern Promotion
+```
+
+The architecture remains below formal pattern maturity pending the next synthesis gate after Case #30.
+
+### Case #29 research directions
+
+The following remain non-canonical:
+
+1. Multi-Relationship Hospitality Continuity
+2. Membership / Hotel Entitlement Separation
+3. Prepaid Value / Service Eligibility Separation
+4. Brand Continuity / Local Capacity Separation
+5. Community Narrative / Belonging Outcome Separation
+6. Data Relationship Before Physical Arrival
+7. Persistent Data After Physical Departure
+8. Stored Value / Visit Closure Separation
+9. Service-Specific Capacity under Membership
+10. Luxury Narrative / Operating Proof Separation
+11. Membership-Gated / Brand-Wide Continuity
+12. Persistent Relationship / Transactional Commitment Separation
+
+### Cross-case replication record
+
+Cases #27–29 collectively support public-evidence pressure around:
+
+- recurring institutional relationships;
+- role-dependent access;
+- service-specific capacity;
+- membership versus local inventory;
+- persistent responsibilities beyond a physical visit;
+- community narrative;
+- and privacy/data governance.
+
+Case #29 broadens the comparison through prepaid value and brand-wide continuity.
+
+### Governance decision
+
+Case #29 produces:
+
+- 0 Candidate promotions;
+- 0 Emerging promotions;
+- 0 confidence increases;
+- 0 confidence decreases;
+- 0 demotions;
+- 0 renames;
+- 0 merges;
+- 0 Validated promotions;
+- 0 research-derived Principle promotions;
+- 0 newly counted formal patterns;
+- and one administrative increase from eight to nine completed institution dossiers.
+
+Pattern totals remain 26 Candidate / 8 Emerging / 1 Partially Supported / 0 Validated / 0 research-derived Principles.
+
+Candidate confidence remains 9 High / 8 Medium-High / 9 Medium.
+
+### Research decisions
+
+**Decision 27**
+
+Membership-Gated / Recurring-Entitlement Hospitality Architecture now has three independent public-evidence comparators but remains below formal pattern maturity pending the next synthesis gate.
+
+**Decision 28**
+
+Case #29 extends the recurring-entitlement comparison model through hotel/member separation, prepaid value, persistent data relationships and brand continuity without treating any of those states as uniform service entitlement.
+
+### Falsification requirements
+
+Future evidence should test whether:
+
+- membership and local service capacity continue to diverge;
+- hotel accommodation and membership remain structurally distinct;
+- prepaid value remains separate from service eligibility;
+- community narratives remain bounded by role-specific permissions;
+- privacy and data relationships remain active independently of physical visits;
+- and the same mechanisms survive the synthesis gate after Case #30.
 
 Administrative closure remains distinct from operational validation.

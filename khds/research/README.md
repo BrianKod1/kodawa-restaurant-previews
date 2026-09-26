@@ -4,18 +4,18 @@ Status
 
 <!-- KHDS-CURRENT-START -->
 
-Latest completed case: #28 — The Arts Club London
-Completed institution dossiers: 8
+Latest completed case: #29 — Casa Cipriani New York
+Completed institution dossiers: 9
 Current research: None
-Next case: #29 — unselected and unstarted; research not authorized.
-Institution comparison: Complete through Cases #21–28
-Canonical governance: Post–The Arts Club London reconciliation complete; independent replication of membership-gated / recurring-entitlement hospitality architecture recorded; no formal pattern movement or confidence change
+Next case: #30 — unselected and unstarted; research not authorized.
+Institution comparison: Complete through Cases #21–29
+Canonical governance: Post–Casa Cipriani New York reconciliation complete; third independent comparator for membership-gated / recurring-entitlement hospitality architecture recorded; no formal pattern movement or confidence change
 Pattern totals: 26 Candidate / 8 Emerging / 1 Partially Supported / 0 Validated / 0 research-derived Principles
 Candidate confidence: 9 High / 8 Medium-High / 9 Medium; unchanged
 Track B validation cases: 1
 Next synthesis gate: After Case #30
-Research scope: Public evidence; operational performance, enforcement consistency, representative member and guest experience, accessibility fulfilment, belonging, privacy outcomes, recovery effectiveness and causal outcomes remain unverified
-Canonical update: 2026-09-25
+Research scope: Public evidence; representative member experience, membership-decision fairness, operational enforcement, accessibility fulfilment, dietary safety, belonging, privacy outcomes, live inventory, recovery effectiveness and causal outcomes remain unverified
+Canonical update: 2026-09-26
 
 <!-- KHDS-CURRENT-END -->
 
@@ -16991,7 +16991,8 @@ Next case: #28 — unselected and unstarted; research not authorized.
 Next synthesis gate: after Case #30.
 <!-- KHDS-HISTORY-END -->
 
-## Post–Case #28 research-system reconciliation — 2026-09-25
+## Post–Case #28 research-syst<!-- KHDS-HISTORY-START -->
+em reconciliation — 2026-09-25
 
 Case #28 — The Arts Club London — is the eighth completed institution dossier and the second private-membership / recurring-entitlement hospitality comparator.
 
@@ -17018,5 +17019,42 @@ Candidate confidence remains 9 High / 8 Medium-High / 9 Medium.
 Current research: none.
 
 Next case: #29 — unselected and unstarted; research not authorized.
+
+Next synthesis gate: after Case #30.
+<!-- KHDS-HISTORY-END -->
+
+## Post–Case #29 research-system reconciliation — 2026-09-26
+
+Case #29 — Casa Cipriani New York — is the ninth completed institution dossier and the third private-membership / recurring-entitlement hospitality comparator.
+
+Institution comparison is complete through Cases #21–29.
+
+Casa Cipriani New York adds third-case replication pressure to the provisional Membership-Gated / Recurring-Entitlement Hospitality Architecture identified across Cases #27 and #28.
+
+The strongest recurring boundary remains:
+
+```text
+Membership Continuity
+!=
+Uniform Access Continuity
+```
+
+Case #29 adds stronger pressure around hotel/member separation, prepaid value, persistent data relationships and brand continuity.
+
+```text
+Third Independent Comparator
+!=
+Formal Pattern Promotion
+```
+
+No formal pattern maturity or confidence movement is authorized.
+
+Pattern totals remain 26 Candidate / 8 Emerging / 1 Partially Supported / 0 Validated / 0 research-derived Principles.
+
+Candidate confidence remains 9 High / 8 Medium-High / 9 Medium.
+
+Current research: none.
+
+Next case: #30 — unselected and unstarted; research not authorized.
 
 Next synthesis gate: after Case #30.
