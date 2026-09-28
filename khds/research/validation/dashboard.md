@@ -4,18 +4,18 @@ Status
 
 <!-- KHDS-CURRENT-START -->
 
-Latest completed case: #29 — Casa Cipriani New York
-Completed institution dossiers: 9
+Latest completed case: #30 — The Social Hub Amsterdam City
+Completed institution dossiers: 10
 Current research: None
-Next case: #30 — unselected and unstarted; research not authorized.
-Institution comparison: Complete through Cases #21–29
-Canonical governance: Post–Casa Cipriani New York reconciliation complete; third independent comparator for membership-gated / recurring-entitlement hospitality architecture recorded; no formal pattern movement or confidence change
+Next case: #31 — unselected and unstarted; research not authorized.
+Institution comparison: Complete through Cases #21–30
+Canonical governance: Post–Case #30 synthesis gate complete; Role-Partitioned / Multi-Relationship Hospitality Architecture retained as provisional comparison architecture below formal pattern maturity; Membership-Gated / Recurring-Entitlement Hospitality Architecture retained as a narrower subtype; no formal pattern or confidence movement
 Pattern totals: 26 Candidate / 8 Emerging / 1 Partially Supported / 0 Validated / 0 research-derived Principles
 Candidate confidence: 9 High / 8 Medium-High / 9 Medium; unchanged
 Track B validation cases: 1
-Next synthesis gate: After Case #30
-Research scope: Public evidence; representative member experience, membership-decision fairness, operational enforcement, accessibility fulfilment, dietary safety, belonging, privacy outcomes, live inventory, recovery effectiveness and causal outcomes remain unverified
-Canonical update: 2026-09-26
+Next synthesis gate: After Case #40
+Research scope: Public evidence; representative experience, operational enforcement, accessibility fulfilment, dietary safety, belonging, privacy/security outcomes, live inventory, recovery effectiveness, financial performance, AI discoverability and causal outcomes remain unverified
+Canonical update: 2026-09-28
 
 <!-- KHDS-CURRENT-END -->
 
@@ -6362,7 +6362,8 @@ Candidate confidence remains 9 High / 8 Medium-High / 9 Medium.
 
 ## Case #29 dashboard reconciliation — Casa Cipriani New York
 
-Casa Cipriani New York extends the completed institution population from eight to nine dossiers.
+Casa Cipriani New York extends the completed institution population from eight to nin<!-- KHDS-HISTORY-START -->
+e dossiers.
 
 It is the third private-membership / recurring-entitlement comparator after Soho House Toronto and The Arts Club London.
 
@@ -6408,3 +6409,71 @@ Pattern totals remain 26/8/1/0/0.
 Candidate confidence remains 9 High / 8 Medium-High / 9 Medium.
 
 The next synthesis gate remains after Case #30.
+<!-- KHDS-HISTORY-END -->
+
+## Case #30 synthesis-gate dashboard reconciliation — The Social Hub Amsterdam City
+
+Case #30 extends the completed institution population from nine to ten dossiers.
+
+It is the first mixed-use hospitality hub in the institution-comparison population and the planned synthesis-gate case after Cases #21–29.
+
+Primary Case #30 pressure:
+
+- hotel / student / coworking relationship separation;
+- public-space / controlled-space separation;
+- role-specific access;
+- product-specific commitment;
+- cross-property entitlement subject to local availability;
+- persistent pre-arrival and post-departure relationships;
+- community infrastructure versus belonging outcome;
+- and one institutional identity spanning multiple commercial and participation states.
+
+Synthesis result:
+
+**Role-Partitioned / Multi-Relationship Hospitality Architecture**
+
+The Cases #27–29 architecture is retained as a subtype:
+
+**Membership-Gated / Recurring-Entitlement Hospitality Architecture**
+
+Core boundary:
+
+```text
+Shared Institutional Identity
+!=
+Uniform Entitlement
+```
+
+Supporting boundaries:
+
+```text
+Physical Co-location
+!=
+Uniform Access
+
+Hotel Stay
+!=
+Coworking Membership
+
+Membership Benefit
+!=
+Guaranteed Capacity
+
+Cross-Property Access Right
+!=
+Guaranteed Local Availability
+
+Physical Departure
+!=
+Relationship Closure
+```
+
+Formal governance movement: none.
+
+Pattern totals remain 26/8/1/0/0.
+
+Candidate confidence remains 9 High / 8 Medium-High / 9 Medium.
+
+Multi-Intent Hospitality remains Candidate / Medium because structural support increased but live coexistence, user comprehension, conflict resolution, operational performance and outcomes remain unverified.
+
+Next synthesis gate: after Case #40.

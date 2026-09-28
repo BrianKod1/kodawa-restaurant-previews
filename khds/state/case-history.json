@@ -103,6 +103,17 @@
       "dossierComplete": true,
       "administrativeReconciliation": true,
       "publicationJournal": "khds/staging/case-29-casa-cipriani-new-york/publication.json"
+    },
+    {
+      "caseNumber": 30,
+      "institutionName": "The Social Hub Amsterdam City",
+      "slug": "the-social-hub-amsterdam-city",
+      "institutionType": "Mixed-use hospitality hub with hotel accommodation, student and extended stays, coworking, meetings/events, food & beverage, community programming and membership",
+      "sector": "mixed-use-hospitality",
+      "canonicalPath": "khds/research/institutions/mixed-use-hospitality/the-social-hub-amsterdam-city/",
+      "dossierComplete": true,
+      "administrativeReconciliation": true,
+      "publicationJournal": "khds/staging/case-30-the-social-hub-amsterdam-city/publication.json"
     }
   ],
   "priorIdentities": [

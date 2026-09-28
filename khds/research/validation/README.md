@@ -4,18 +4,18 @@ Status
 
 <!-- KHDS-CURRENT-START -->
 
-Latest completed case: #29 — Casa Cipriani New York
-Completed institution dossiers: 9
+Latest completed case: #30 — The Social Hub Amsterdam City
+Completed institution dossiers: 10
 Current research: None
-Next case: #30 — unselected and unstarted; research not authorized.
-Institution comparison: Complete through Cases #21–29
-Canonical governance: Post–Casa Cipriani New York reconciliation complete; third independent comparator for membership-gated / recurring-entitlement hospitality architecture recorded; no formal pattern movement or confidence change
+Next case: #31 — unselected and unstarted; research not authorized.
+Institution comparison: Complete through Cases #21–30
+Canonical governance: Post–Case #30 synthesis gate complete; Role-Partitioned / Multi-Relationship Hospitality Architecture retained as provisional comparison architecture below formal pattern maturity; Membership-Gated / Recurring-Entitlement Hospitality Architecture retained as a narrower subtype; no formal pattern or confidence movement
 Pattern totals: 26 Candidate / 8 Emerging / 1 Partially Supported / 0 Validated / 0 research-derived Principles
 Candidate confidence: 9 High / 8 Medium-High / 9 Medium; unchanged
 Track B validation cases: 1
-Next synthesis gate: After Case #30
-Research scope: Public evidence; representative member experience, membership-decision fairness, operational enforcement, accessibility fulfilment, dietary safety, belonging, privacy outcomes, live inventory, recovery effectiveness and causal outcomes remain unverified
-Canonical update: 2026-09-26
+Next synthesis gate: After Case #40
+Research scope: Public evidence; representative experience, operational enforcement, accessibility fulfilment, dietary safety, belonging, privacy/security outcomes, live inventory, recovery effectiveness, financial performance, AI discoverability and causal outcomes remain unverified
+Canonical update: 2026-09-28
 
 <!-- KHDS-CURRENT-END -->
 
@@ -18629,7 +18629,8 @@ Canonical authority remains `candidate-patterns.md`.
 
 Casa Cipriani New York is incorporated as the ninth completed institution dossier.
 
-Case #29 provides a third independent public-evidence comparator for membership-gated / recurring-entitlement hospitality.
+Case #29 provides a third independent public-evidence comparator for membership-gated / recurring<!-- KHDS-HISTORY-START -->
+-entitlement hospitality.
 
 Recurring comparison pressure now includes:
 
@@ -18665,3 +18666,65 @@ Canonical totals remain 26/8/1/0/0.
 Candidate confidence remains 9 High / 8 Medium-High / 9 Medium.
 
 Case #30 is unselected and unstarted; research is not authorized.
+<!-- KHDS-HISTORY-END -->
+
+## Post–Case #30 synthesis validation reconciliation — 2026-09-28
+
+Canonical authority remains `candidate-patterns.md`.
+
+The Social Hub Amsterdam City is incorporated as the tenth completed institution dossier and the Case #30 synthesis-gate falsification case.
+
+Case #30 materially broadens the comparison architecture without creating a formal pattern.
+
+The synthesis result is:
+
+**Role-Partitioned / Multi-Relationship Hospitality Architecture**
+
+with:
+
+**Membership-Gated / Recurring-Entitlement Hospitality Architecture**
+
+retained as a narrower subtype.
+
+The decisive boundary is:
+
+```text
+Shared Institutional Identity
+!=
+Uniform Entitlement
+```
+
+Case #30 demonstrates that the broader relationship-partitioning mechanism can remain visible in a mixed-use institution containing both public and controlled participation states.
+
+This does not verify operational performance, successful recovery, belonging, privacy/security outcomes or causal value.
+
+```text
+Cross-Sector Structural Recurrence
+!=
+Validated Operating Pattern
+```
+
+Formal governance decision:
+
+- 0 Candidate promotions;
+- 0 Emerging promotions;
+- 0 confidence increases;
+- 0 confidence decreases;
+- 0 demotions;
+- 0 renames;
+- 0 merges;
+- 0 Validated promotions;
+- 0 research-derived Principle promotions;
+- 0 newly counted formal patterns.
+
+Canonical totals remain 26/8/1/0/0.
+
+Candidate confidence remains 9 High / 8 Medium-High / 9 Medium.
+
+Multi-Intent Hospitality remains Candidate / Medium.
+
+External practitioner and industry evidence remains question-setting material unless independently supported through the KHDS research-evidence process.
+
+Case #31 is unselected and unstarted; research is not authorized.
+
+Next synthesis gate: after Case #40.

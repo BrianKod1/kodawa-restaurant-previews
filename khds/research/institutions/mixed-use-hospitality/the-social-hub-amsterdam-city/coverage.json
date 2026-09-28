@@ -1,0 +1,399 @@
+{
+  "schemaVersion": 1,
+  "dimensions": [
+    {
+      "dimension": "discovery",
+      "question": "How does The Social Hub Amsterdam City present its hybrid offer, audiences and access pathways before a user chooses a product?",
+      "scopeChange": "Expands discovery from a lodging funnel to a mixed-use institution with hotel, student, extended-stay, coworking, meetings/events, food and public/community pathways.",
+      "sources": [
+        "S1",
+        "S3",
+        "S5",
+        "S9"
+      ],
+      "observations": [
+        {
+          "text": "The operator presents Amsterdam City as a place to stay, work, meet, eat and participate in community activity rather than as a hotel-only product.",
+          "sources": [
+            "S1"
+          ]
+        },
+        {
+          "text": "Different audiences can enter through hotel, student, coworking and meetings/events pathways.",
+          "sources": [
+            "S1",
+            "S5"
+          ]
+        },
+        {
+          "text": "The brand explicitly frames its model as hybrid hospitality.",
+          "sources": [
+            "S9"
+          ]
+        }
+      ],
+      "unanswered": [
+        "How users distinguish product eligibility before entering each booking or membership flow.",
+        "How often users misunderstand boundaries between public, guest, student and member access.",
+        "Which discovery channel contributes most to each product line."
+      ],
+      "rating": "partial",
+      "reason": "Operator evidence establishes the multi-product architecture but not representative user comprehension or channel performance.",
+      "nextEvidence": "Direct journey testing across hotel, student, coworking and meetings/events discovery routes, plus independent evidence of comprehension and cross-product conversion."
+    },
+    {
+      "dimension": "reservation",
+      "question": "How are hotel, student, coworking and meeting/event commitments created, and where do eligibility, capacity and availability remain separate?",
+      "scopeChange": "Adds parallel reservation and membership pathways with different entitlement and inventory rules.",
+      "sources": [
+        "S1",
+        "S2",
+        "S3",
+        "S4",
+        "S8"
+      ],
+      "observations": [
+        {
+          "text": "Hotel rooms, student accommodation, coworking products and meeting rooms use distinct commitment mechanisms.",
+          "sources": [
+            "S1",
+            "S2",
+            "S8"
+          ]
+        },
+        {
+          "text": "Coworking access varies by membership type and cross-property use is subject to availability.",
+          "sources": [
+            "S4"
+          ]
+        },
+        {
+          "text": "Student-room availability alerts do not themselves guarantee a room.",
+          "sources": [
+            "S8"
+          ]
+        }
+      ],
+      "unanswered": [
+        "Live inventory allocation across product categories.",
+        "Waitlist, oversell and exception-handling rules.",
+        "How conflicting demand between hotel, student, coworking and event use is prioritized."
+      ],
+      "rating": "partial",
+      "reason": "Public evidence shows distinct reservation pathways and conditional access but not internal inventory governance.",
+      "nextEvidence": "Terms and observed testing across hotel, student and coworking commitments, including unavailable inventory, waitlist, capacity-conflict and recovery scenarios."
+    },
+    {
+      "dimension": "pre-arrival",
+      "question": "What information, identity, access and data relationships begin before physical arrival for each user role?",
+      "scopeChange": "Tests whether multiple role-specific relationships begin digitally before a physical visit.",
+      "sources": [
+        "S1",
+        "S2",
+        "S3",
+        "S4",
+        "S7",
+        "S8"
+      ],
+      "observations": [
+        {
+          "text": "Hotel and student users can enter digital booking flows before arrival.",
+          "sources": [
+            "S2",
+            "S8"
+          ]
+        },
+        {
+          "text": "Coworking membership defines access rights, guest rules and facility conditions before or during use.",
+          "sources": [
+            "S4"
+          ]
+        },
+        {
+          "text": "The privacy policy describes personal-data processing and sharing with operational and technology partners.",
+          "sources": [
+            "S7"
+          ]
+        }
+      ],
+      "unanswered": [
+        "Exact identity-verification and access-provisioning sequence for each product.",
+        "How accessibility, dietary or special-request information is operationalized before arrival.",
+        "Whether data is synchronized across product systems in real time."
+      ],
+      "rating": "partial",
+      "reason": "Pre-arrival relationships and data processing are visible, but internal orchestration is not.",
+      "nextEvidence": "Pre-arrival communications, confirmation messages, accessibility guidance and system-level evidence showing how identity, requests and access rights are provisioned."
+    },
+    {
+      "dimension": "arrival",
+      "question": "How does arrival differ for hotel guests, students, coworkers, meeting attendees and public visitors?",
+      "scopeChange": "Moves arrival from one front-desk event to role-specific entry and access control.",
+      "sources": [
+        "S2",
+        "S4"
+      ],
+      "observations": [
+        {
+          "text": "Hotel reception is available 24/7.",
+          "sources": [
+            "S4"
+          ]
+        },
+        {
+          "text": "Coworking access is controlled by membership type and key-card permissions.",
+          "sources": [
+            "S4"
+          ]
+        },
+        {
+          "text": "Guests of members face different rules from members, and public lobby/restaurant access differs from coworking access.",
+          "sources": [
+            "S4"
+          ]
+        }
+      ],
+      "unanswered": [
+        "Student arrival and onboarding sequence.",
+        "Hotel-versus-cowork identity handoff at reception.",
+        "How exceptional access failures are resolved outside staffed coworking hours."
+      ],
+      "rating": "partial",
+      "reason": "Role-based access is explicit, but the complete arrival journey is not publicly documented.",
+      "nextEvidence": "Arrival instructions and observed check-in/access-recovery procedures for hotel guests, students, coworkers and visitors."
+    },
+    {
+      "dimension": "stay",
+      "question": "How are simultaneous hotel, student, coworking and community relationships governed during use of the property?",
+      "scopeChange": "Tests persistent and transactional relationships within the same physical institution.",
+      "sources": [
+        "S1",
+        "S2",
+        "S3",
+        "S4",
+        "S7",
+        "S8"
+      ],
+      "observations": [
+        {
+          "text": "The property combines short stay, longer stay, student accommodation and coworking.",
+          "sources": [
+            "S1"
+          ]
+        },
+        {
+          "text": "Coworking entitlements differ by membership type, with access and some services constrained by role, hours or availability.",
+          "sources": [
+            "S4"
+          ]
+        },
+        {
+          "text": "Shared and public spaces coexist with controlled member-only or role-specific areas.",
+          "sources": [
+            "S1",
+            "S4"
+          ]
+        }
+      ],
+      "unanswered": [
+        "How conflicts between resident, guest, coworker and event uses are resolved.",
+        "Representative satisfaction by user role.",
+        "Operational performance of housekeeping, maintenance, access control and recovery."
+      ],
+      "rating": "partial",
+      "reason": "The governance structure is visible, but outcome quality and internal coordination are not.",
+      "nextEvidence": "Operational policies, independent experience evidence and service-recovery records showing how cross-role conflicts and failures are handled."
+    },
+    {
+      "dimension": "dining",
+      "question": "How does food and beverage operate across public visitors, hotel guests, students, coworkers and events?",
+      "scopeChange": "Treats dining as both a public venue and a benefit/discount layer attached to other relationships.",
+      "sources": [
+        "S1",
+        "S4",
+        "S5",
+        "S6"
+      ],
+      "observations": [
+        {
+          "text": "The restaurant and bar are open to the public as well as users of other Social Hub products.",
+          "sources": [
+            "S4"
+          ]
+        },
+        {
+          "text": "Coworking members receive food-and-drink benefits while event catering is separately bookable.",
+          "sources": [
+            "S4",
+            "S5"
+          ]
+        },
+        {
+          "text": "Published menus include allergen-related guidance but do not establish dietary-safety outcomes.",
+          "sources": [
+            "S6"
+          ]
+        }
+      ],
+      "unanswered": [
+        "How dining capacity is prioritized during high-demand events.",
+        "Whether member or guest discounts create different service flows.",
+        "Actual dietary-safety and service-recovery performance."
+      ],
+      "rating": "partial",
+      "reason": "Public evidence establishes multiple dining relationships but not operational outcomes.",
+      "nextEvidence": "Restaurant operating procedures, event-versus-public capacity rules and independent evidence on dietary handling and service recovery."
+    },
+    {
+      "dimension": "departure",
+      "question": "Which obligations and relationships end at physical departure, and which persist afterward?",
+      "scopeChange": "Tests departure across hotel checkout, membership continuity, student relationships, stored data and ongoing communications.",
+      "sources": [
+        "S2",
+        "S4",
+        "S7"
+      ],
+      "observations": [
+        {
+          "text": "Hotel stays have a defined physical endpoint.",
+          "sources": [
+            "S2"
+          ]
+        },
+        {
+          "text": "Coworking membership and associated access obligations can persist independently of a hotel stay or individual visit.",
+          "sources": [
+            "S4"
+          ]
+        },
+        {
+          "text": "Personal-data relationships may continue beyond a single physical visit.",
+          "sources": [
+            "S7"
+          ]
+        }
+      ],
+      "unanswered": [
+        "Retention periods for operational records tied to each product.",
+        "How membership cancellation, access-card return and digital revocation are coordinated.",
+        "Post-stay recovery and loyalty processes."
+      ],
+      "rating": "partial",
+      "reason": "Multiple persistent relationships are evident, but full lifecycle closure is not public.",
+      "nextEvidence": "Cancellation, offboarding, access-revocation, retention and post-departure communication evidence across hotel, student and coworking relationships."
+    },
+    {
+      "dimension": "atmosphere",
+      "question": "How is the claimed social/community atmosphere produced across public and controlled spaces?",
+      "scopeChange": "Tests whether community is an operating structure rather than only a design or brand narrative.",
+      "sources": [
+        "S1",
+        "S3",
+        "S4",
+        "S5",
+        "S9",
+        "S10"
+      ],
+      "observations": [
+        {
+          "text": "The operator emphasizes shared spaces, events, coworking and public food-and-beverage areas as mechanisms for interaction.",
+          "sources": [
+            "S1",
+            "S9"
+          ]
+        },
+        {
+          "text": "House rules explicitly differentiate public, member and guest access.",
+          "sources": [
+            "S4"
+          ]
+        },
+        {
+          "text": "The hybrid-hospitality story is central to brand positioning.",
+          "sources": [
+            "S9"
+          ]
+        }
+      ],
+      "unanswered": [
+        "Whether users actually experience belonging across role groups.",
+        "How conflict, exclusion or overcrowding affects the intended atmosphere.",
+        "Whether programmed events produce durable social connection."
+      ],
+      "rating": "partial",
+      "reason": "The designed and governed environment is visible, but belonging and community outcomes remain unverified.",
+      "nextEvidence": "Independent user evidence, event-participation data and conflict/inclusion evidence across hotel guests, students, coworkers and public visitors."
+    },
+    {
+      "dimension": "photography",
+      "question": "What does official visual material establish about the property, and what operating claims remain outside photographic proof?",
+      "scopeChange": "Uses operator media assets to document physical spaces without treating curated imagery as operational validation.",
+      "sources": [
+        "S1",
+        "S10"
+      ],
+      "observations": [
+        {
+          "text": "Official imagery documents hotel rooms, restaurant/bar areas and other property spaces.",
+          "sources": [
+            "S1",
+            "S10"
+          ]
+        },
+        {
+          "text": "The media kit provides a structured visual record of the Amsterdam City property.",
+          "sources": [
+            "S10"
+          ]
+        }
+      ],
+      "unanswered": [
+        "How representative official images are of ordinary occupancy and use.",
+        "How spaces perform during peak demand.",
+        "Whether visual quality corresponds to maintenance or service quality."
+      ],
+      "rating": "partial",
+      "reason": "Photography verifies visible design features but not representative operating performance.",
+      "nextEvidence": "Independent current photography and observed peak-use conditions paired with maintenance, cleanliness and operating evidence."
+    },
+    {
+      "dimension": "story",
+      "question": "How does The Social Hub explain the purpose of its hybrid model and the relationship between hotel, student, coworking and community functions?",
+      "scopeChange": "Tests the institution's explicit hybrid-hospitality narrative against its role and access architecture.",
+      "sources": [
+        "S1",
+        "S3",
+        "S9",
+        "S10"
+      ],
+      "observations": [
+        {
+          "text": "The brand describes itself as a hybrid hospitality model designed to connect guests, coworkers, students and local communities.",
+          "sources": [
+            "S9"
+          ]
+        },
+        {
+          "text": "The rebrand from The Student Hotel to The Social Hub explicitly broadened the institutional identity beyond student lodging.",
+          "sources": [
+            "S9"
+          ]
+        },
+        {
+          "text": "The physical and commercial offer combines several hospitality, work and community functions under one brand.",
+          "sources": [
+            "S1"
+          ]
+        }
+      ],
+      "unanswered": [
+        "Whether the hybrid story is experienced consistently by different user groups.",
+        "Which parts of the model create measurable commercial or social value.",
+        "Whether cross-product participation is common or mostly a brand narrative."
+      ],
+      "rating": "partial",
+      "reason": "The institutional story is well documented, but its claimed community and business outcomes require independent evidence.",
+      "nextEvidence": "Cross-product usage data, independent research on user outcomes and evidence connecting hybrid participation to retention, revenue or belonging."
+    }
+  ]
+}

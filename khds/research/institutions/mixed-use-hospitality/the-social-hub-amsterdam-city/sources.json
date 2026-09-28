@@ -1,0 +1,95 @@
+{
+  "schemaVersion": 1,
+  "sources": [
+    {
+      "id": "S1",
+      "url": "https://www.thesocialhub.co/amsterdam-city/",
+      "accessDate": "2026-09-28",
+      "sourceDate": "Undated; page current at access",
+      "method": "Direct HTML inspection",
+      "sections": "discovery; reservation; pre-arrival; stay; dining; atmosphere; story",
+      "access": "inspected"
+    },
+    {
+      "id": "S2",
+      "url": "https://www.thesocialhub.co/amsterdam-city/stay/hotel-stay/group-booking/",
+      "accessDate": "2026-09-28",
+      "sourceDate": "Undated; page current at access",
+      "method": "Direct HTML inspection",
+      "sections": "reservation; pre-arrival; arrival; stay; departure",
+      "access": "inspected"
+    },
+    {
+      "id": "S3",
+      "url": "https://www.thesocialhub.co/497182/globalassets/00.-shared-components/cowork-2026/cowork-factsheets--jan-2026/Cowork_Factsheet_Amsterdam_City_2026.pdf",
+      "accessDate": "2026-09-28",
+      "sourceDate": "2026",
+      "method": "Indexed PDF text inspected; direct URL returned 404 during verification",
+      "sections": "discovery; reservation; pre-arrival; stay; atmosphere; story",
+      "access": "partial"
+    },
+    {
+      "id": "S4",
+      "url": "https://www.thesocialhub.co/490470/globalassets/09.-downloads--video/downloads/house-rules/cowork-house-rules-2026/coworking-houserules---amsterdam-city-jan2026.pdf",
+      "accessDate": "2026-09-28",
+      "sourceDate": "2026",
+      "method": "Direct PDF inspection",
+      "sections": "reservation; pre-arrival; arrival; stay; dining; departure; atmosphere",
+      "access": "inspected"
+    },
+    {
+      "id": "S5",
+      "url": "https://www.thesocialhub.co/4942ca/globalassets/03.-property-pages/amsterdam-city/pdf/me-factsheet/fact-sheet_amsterdam-city_meeting--events.pdf",
+      "accessDate": "2026-09-28",
+      "sourceDate": "Undated; current operator factsheet at access",
+      "method": "Direct PDF inspection",
+      "sections": "discovery; reservation; pre-arrival; stay; dining; atmosphere",
+      "access": "inspected"
+    },
+    {
+      "id": "S6",
+      "url": "https://www.thesocialhub.co/4a3243/globalassets/03.-property-pages/amsterdam-city/pdf/menu/ams_city_menu_breakfast_drinks_bar_menu.pdf",
+      "accessDate": "2026-09-28",
+      "sourceDate": "Summer 2025",
+      "method": "Direct PDF inspection",
+      "sections": "dining; atmosphere",
+      "access": "inspected"
+    },
+    {
+      "id": "S7",
+      "url": "https://www.thesocialhub.co/4adf78/globalassets/06.-footer-pages/privacy-statement/tsh-privacy-policy---november-2022-2.pdf",
+      "accessDate": "2026-09-28",
+      "sourceDate": "November 2022",
+      "method": "Direct PDF inspection",
+      "sections": "pre-arrival; arrival; stay; departure",
+      "access": "inspected"
+    },
+    {
+      "id": "S8",
+      "url": "https://www.thesocialhub.co/book-student-room/?hotelId=AMS02",
+      "accessDate": "2026-09-28",
+      "sourceDate": "Undated; live booking flow at access",
+      "method": "Direct HTML inspection",
+      "sections": "reservation; pre-arrival; stay",
+      "access": "inspected"
+    },
+    {
+      "id": "S9",
+      "url": "https://news.thesocialhub.co/219181-the-student-hotel-rebrands-as-the-social-hub/",
+      "accessDate": "2026-09-28",
+      "sourceDate": "2022-10-13",
+      "method": "Direct HTML inspection",
+      "sections": "discovery; atmosphere; story",
+      "access": "inspected"
+    },
+    {
+      "id": "S10",
+      "url": "https://news.thesocialhub.co/assets/228813/",
+      "accessDate": "2026-09-28",
+      "sourceDate": "Undated; media kit current at access",
+      "method": "Direct HTML/media-kit inspection",
+      "sections": "atmosphere; photography; story",
+      "access": "inspected"
+    }
+  ]
+}

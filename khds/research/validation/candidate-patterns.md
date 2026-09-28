@@ -4,18 +4,18 @@
 
 <!-- KHDS-CURRENT-START -->
 
-Latest completed case: #29 — Casa Cipriani New York
-Completed institution dossiers: 9
+Latest completed case: #30 — The Social Hub Amsterdam City
+Completed institution dossiers: 10
 Current research: None
-Next case: #30 — unselected and unstarted; research not authorized.
-Institution comparison: Complete through Cases #21–29
-Canonical governance: Post–Casa Cipriani New York reconciliation complete; third independent comparator for membership-gated / recurring-entitlement hospitality architecture recorded; no formal pattern movement or confidence change
+Next case: #31 — unselected and unstarted; research not authorized.
+Institution comparison: Complete through Cases #21–30
+Canonical governance: Post–Case #30 synthesis gate complete; Role-Partitioned / Multi-Relationship Hospitality Architecture retained as provisional comparison architecture below formal pattern maturity; Membership-Gated / Recurring-Entitlement Hospitality Architecture retained as a narrower subtype; no formal pattern or confidence movement
 Pattern totals: 26 Candidate / 8 Emerging / 1 Partially Supported / 0 Validated / 0 research-derived Principles
 Candidate confidence: 9 High / 8 Medium-High / 9 Medium; unchanged
 Track B validation cases: 1
-Next synthesis gate: After Case #30
-Research scope: Public evidence; representative member experience, membership-decision fairness, operational enforcement, accessibility fulfilment, dietary safety, belonging, privacy outcomes, live inventory, recovery effectiveness and causal outcomes remain unverified
-Canonical update: 2026-09-26
+Next synthesis gate: After Case #40
+Research scope: Public evidence; representative experience, operational enforcement, accessibility fulfilment, dietary safety, belonging, privacy/security outcomes, live inventory, recovery effectiveness, financial performance, AI discoverability and causal outcomes remain unverified
+Canonical update: 2026-09-28
 
 <!-- KHDS-CURRENT-END -->
 
@@ -18642,7 +18642,8 @@ The provisional comparison architecture remains:
 
 Case #29 creates a third independent comparison point but does not itself cross the formal maturity threshold.
 
-```text
+```tex<!-- KHDS-HISTORY-START -->
+t
 Third Independent Comparator
 !=
 Formal Pattern Promotion
@@ -18687,6 +18688,183 @@ Current research: none.
 Case #30 is unselected and unstarted; research is not authorized.
 
 The next synthesis gate remains after Case #30.
+
+**The maturity threshold remains intact.**
+
+**Evidence wins.**
+<!-- KHDS-HISTORY-END -->
+
+## Post–Case #30 synthesis-gate canonical reconciliation — The Social Hub Amsterdam City
+
+Case #30 is canonically incorporated as the tenth completed institution dossier.
+
+The Social Hub Amsterdam City was selected as the synthesis-gate falsification case for the recurring-entitlement architecture developed through Cases #27–29.
+
+### Synthesis question
+
+Did Cases #27–29 reveal a mechanism that depends specifically on private membership, or does a broader relationship-partitioning mechanism survive in a mixed-use institution containing hotel, student, coworking, events, dining, public-space and community participation?
+
+Case #30 supports the broader interpretation.
+
+### Broader provisional comparison architecture
+
+**Role-Partitioned / Multi-Relationship Hospitality Architecture**
+
+> A hospitality structure in which one institution supports multiple persistent or transactional relationships while actual participation remains conditional on role, product, current rules, time, capacity and access state.
+
+Strongest bounded synthesis statement:
+
+```text
+Shared Institutional Identity
+!=
+Uniform Entitlement
+```
+
+Additional bounded findings:
+
+```text
+Physical Co-location
+!=
+Uniform Access
+
+Relationship Continuity
+!=
+Uniform Access Continuity
+
+Hotel Stay
+!=
+Coworking Membership
+
+Product Relationship
+!=
+Service-Specific Capacity
+
+Membership Benefit
+!=
+Guaranteed Capacity
+
+Cross-Property Access Right
+!=
+Guaranteed Local Availability
+
+Public Space
+!=
+Controlled Workspace
+
+Community Infrastructure
+!=
+Verified Belonging Outcome
+
+Physical Arrival
+!=
+Relationship Start
+
+Physical Departure
+!=
+Relationship Closure
+```
+
+### Membership subtype
+
+The prior:
+
+**Membership-Gated / Recurring-Entitlement Hospitality Architecture**
+
+is retained as a narrower subtype strongly evidenced through Cases #27–29.
+
+Case #30 does not invalidate that subtype.
+
+It shows that membership gating is not required for the broader relationship-partitioning mechanism to appear.
+
+```text
+Broader Architecture
+!=
+Formal Pattern Promotion
+```
+
+### Existing Candidate review
+
+Case #30 gives strong structural pressure to:
+
+- Multi-Intent Hospitality;
+- Participation Rule Consistency;
+- Layered Arrival;
+- Participation Throughout the Journey;
+- Capacity Proof;
+- Hospitality System Proof;
+- Human Assistance Where Structured Self-Service Is Insufficient;
+- Stable Participation / Variable Product;
+- Story Through Hospitality Model;
+- Narrative Coherence Through Organising Logic;
+- and relevant photography/atmosphere Candidates.
+
+No Candidate confidence changes.
+
+Multi-Intent Hospitality remains Candidate / Medium.
+
+Reason:
+
+Case #30 establishes distinct intents, roles and access states but does not verify representative comprehension, live route coexistence, conflict resolution, recovery performance or user outcomes.
+
+```text
+Strong Cross-Sector Structural Support
+!=
+Confidence Increase Required
+```
+
+### External evidence boundary
+
+Practitioner Signals, Industry References / Field Maps and Industry Benchmarks may identify questions, gaps and falsification targets.
+
+They are not independent Case #30 evidence and do not count toward formal pattern maturity unless supported through the governed KHDS evidence process.
+
+```text
+External Industry Signal
+!=
+Independent Case Evidence
+```
+
+### Formal governance decision
+
+- 0 Candidate promotions;
+- 0 Emerging promotions;
+- 0 confidence increases;
+- 0 confidence decreases;
+- 0 demotions;
+- 0 renames;
+- 0 merges;
+- 0 Validated promotions;
+- 0 research-derived Principle promotions;
+- 0 newly counted formal patterns.
+
+Canonical state:
+
+```text
+20 Independent Restaurants
+10 Completed Institution Dossiers
+1 Track B Validation Case
+
+26 Candidate Patterns
+8 Emerging Patterns
+1 Partially Supported Pattern
+0 Validated Patterns
+0 Research-Derived KHDS Principles
+
+Candidate Confidence:
+9 High
+8 Medium-High
+9 Medium
+```
+
+All Case #30 research directions remain non-canonical unless explicitly represented by the provisional comparison architectures above.
+
+Current research: none.
+
+Case #31 is unselected and unstarted; research is not authorized.
+
+The Case #30 synthesis gate is complete.
+
+The next synthesis gate is after Case #40.
 
 **The maturity threshold remains intact.**
 

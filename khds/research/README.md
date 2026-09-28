@@ -4,18 +4,18 @@ Status
 
 <!-- KHDS-CURRENT-START -->
 
-Latest completed case: #29 — Casa Cipriani New York
-Completed institution dossiers: 9
+Latest completed case: #30 — The Social Hub Amsterdam City
+Completed institution dossiers: 10
 Current research: None
-Next case: #30 — unselected and unstarted; research not authorized.
-Institution comparison: Complete through Cases #21–29
-Canonical governance: Post–Casa Cipriani New York reconciliation complete; third independent comparator for membership-gated / recurring-entitlement hospitality architecture recorded; no formal pattern movement or confidence change
+Next case: #31 — unselected and unstarted; research not authorized.
+Institution comparison: Complete through Cases #21–30
+Canonical governance: Post–Case #30 synthesis gate complete; Role-Partitioned / Multi-Relationship Hospitality Architecture retained as provisional comparison architecture below formal pattern maturity; Membership-Gated / Recurring-Entitlement Hospitality Architecture retained as a narrower subtype; no formal pattern or confidence movement
 Pattern totals: 26 Candidate / 8 Emerging / 1 Partially Supported / 0 Validated / 0 research-derived Principles
 Candidate confidence: 9 High / 8 Medium-High / 9 Medium; unchanged
 Track B validation cases: 1
-Next synthesis gate: After Case #30
-Research scope: Public evidence; representative member experience, membership-decision fairness, operational enforcement, accessibility fulfilment, dietary safety, belonging, privacy outcomes, live inventory, recovery effectiveness and causal outcomes remain unverified
-Canonical update: 2026-09-26
+Next synthesis gate: After Case #40
+Research scope: Public evidence; representative experience, operational enforcement, accessibility fulfilment, dietary safety, belonging, privacy/security outcomes, live inventory, recovery effectiveness, financial performance, AI discoverability and causal outcomes remain unverified
+Canonical update: 2026-09-28
 
 <!-- KHDS-CURRENT-END -->
 
@@ -17027,7 +17027,8 @@ Next synthesis gate: after Case #30.
 
 Case #29 — Casa Cipriani New York — is the ninth completed institution dossier and the third private-membership / recurring-entitlement hospitality comparator.
 
-Institution comparison is complete through Cases #21–29.
+Institution comparison is comple<!-- KHDS-HISTORY-START -->
+te through Cases #21–29.
 
 Casa Cipriani New York adds third-case replication pressure to the provisional Membership-Gated / Recurring-Entitlement Hospitality Architecture identified across Cases #27 and #28.
 
@@ -17058,3 +17059,76 @@ Current research: none.
 Next case: #30 — unselected and unstarted; research not authorized.
 
 Next synthesis gate: after Case #30.
+<!-- KHDS-HISTORY-END -->
+
+## Post–Case #30 synthesis-gate reconciliation — 2026-09-28
+
+Case #30 — The Social Hub Amsterdam City — is the tenth completed institution dossier.
+
+Institution comparison is complete through Cases #21–30.
+
+The Case #30 synthesis gate tested whether the recurring entitlement-separation mechanism identified most clearly in Cases #27–29 required a fully membership-gated institution.
+
+It did not.
+
+The Social Hub Amsterdam City combines hotel accommodation, student accommodation, coworking, meetings/events, food and beverage, public/shared spaces and community programming while preserving role-specific permissions, product-specific commitments and service-specific capacity.
+
+The broader provisional comparison architecture is now:
+
+**Role-Partitioned / Multi-Relationship Hospitality Architecture**
+
+> A hospitality structure in which one institution supports multiple persistent or transactional relationships while actual participation remains conditional on role, product, current rules, time, capacity and access state.
+
+The narrower:
+
+**Membership-Gated / Recurring-Entitlement Hospitality Architecture**
+
+is retained as a subtype evidenced especially by Cases #27–29.
+
+Strongest synthesis boundary:
+
+```text
+Shared Institutional Identity
+!=
+Uniform Entitlement
+```
+
+Additional retained boundaries:
+
+```text
+Physical Co-location
+!=
+Uniform Access
+
+Relationship Continuity
+!=
+Uniform Access Continuity
+
+Product Relationship
+!=
+Service-Specific Capacity
+
+Cross-Property Entitlement
+!=
+Guaranteed Local Availability
+
+Physical Departure
+!=
+Relationship Closure
+```
+
+Architecture refinement is not formal pattern promotion.
+
+Formal governance movement: none.
+
+Pattern totals remain 26 Candidate / 8 Emerging / 1 Partially Supported / 0 Validated / 0 research-derived Principles.
+
+Candidate confidence remains 9 High / 8 Medium-High / 9 Medium.
+
+External practitioner signals, industry references and industry benchmarks remain hypothesis-setting evidence classes rather than substitutes for independent case evidence.
+
+Current research: none.
+
+Case #31 is unselected and unstarted; research is not authorized.
+
+Next synthesis gate: after Case #40.

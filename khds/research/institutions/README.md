@@ -4,18 +4,18 @@ Status
 
 <!-- KHDS-CURRENT-START -->
 
-Latest completed case: #29 — Casa Cipriani New York
-Completed institution dossiers: 9
+Latest completed case: #30 — The Social Hub Amsterdam City
+Completed institution dossiers: 10
 Current research: None
-Next case: #30 — unselected and unstarted; research not authorized.
-Institution comparison: Complete through Cases #21–29
-Canonical governance: Post–Casa Cipriani New York reconciliation complete; third independent comparator for membership-gated / recurring-entitlement hospitality architecture recorded; no formal pattern movement or confidence change
+Next case: #31 — unselected and unstarted; research not authorized.
+Institution comparison: Complete through Cases #21–30
+Canonical governance: Post–Case #30 synthesis gate complete; Role-Partitioned / Multi-Relationship Hospitality Architecture retained as provisional comparison architecture below formal pattern maturity; Membership-Gated / Recurring-Entitlement Hospitality Architecture retained as a narrower subtype; no formal pattern or confidence movement
 Pattern totals: 26 Candidate / 8 Emerging / 1 Partially Supported / 0 Validated / 0 research-derived Principles
 Candidate confidence: 9 High / 8 Medium-High / 9 Medium; unchanged
 Track B validation cases: 1
-Next synthesis gate: After Case #30
-Research scope: Public evidence; representative member experience, membership-decision fairness, operational enforcement, accessibility fulfilment, dietary safety, belonging, privacy outcomes, live inventory, recovery effectiveness and causal outcomes remain unverified
-Canonical update: 2026-09-26
+Next synthesis gate: After Case #40
+Research scope: Public evidence; representative experience, operational enforcement, accessibility fulfilment, dietary safety, belonging, privacy/security outcomes, live inventory, recovery effectiveness, financial performance, AI discoverability and causal outcomes remain unverified
+Canonical update: 2026-09-28
 
 <!-- KHDS-CURRENT-END -->
 
@@ -946,7 +946,8 @@ Next case: #29 — unselected and unstarted; research not authorized.
 
 ## Post–Case #29 institution-research reconciliation — 2026-09-26
 
-Case #29 — Casa Cipriani New York — is complete at public-evidence scope and incorporated as the ninth institution comparator.
+Case #29<!-- KHDS-HISTORY-START -->
+— Casa Cipriani New York — is complete at public-evidence scope and incorporated as the ninth institution comparator.
 
 Cases #21–29 are closed at public-evidence scope.
 
@@ -975,3 +976,56 @@ Confidence movement: none.
 Current research: none.
 
 Next case: #30 — unselected and unstarted; research not authorized.
+<!-- KHDS-HISTORY-END -->
+
+## Post–Case #30 institution-research synthesis reconciliation — 2026-09-28
+
+Case #30 — The Social Hub Amsterdam City — is complete at public-evidence scope and incorporated as the tenth institution comparator.
+
+Cases #21–30 are closed at public-evidence scope.
+
+Institution comparison is complete through Cases #21–30.
+
+Case #30 completes the planned synthesis gate after the first ten institution dossiers.
+
+The broader provisional comparison architecture is:
+
+**Role-Partitioned / Multi-Relationship Hospitality Architecture**
+
+The prior:
+
+**Membership-Gated / Recurring-Entitlement Hospitality Architecture**
+
+is retained as a narrower subtype evidenced especially through Cases #27–29.
+
+Primary synthesis boundary:
+
+```text
+Shared Institutional Identity
+!=
+Uniform Entitlement
+```
+
+The ten completed institution cases strengthen cross-sector comparison without establishing verified operating performance or a universal hospitality principle.
+
+```text
+Ten Completed Institution Cases
+!=
+Universal Hospitality Principle
+```
+
+Canonical totals remain 26/8/1/0/0.
+
+Candidate confidence remains 9 High / 8 Medium-High / 9 Medium.
+
+Multi-Intent Hospitality remains Candidate / Medium.
+
+Formal maturity movement: none.
+
+Confidence movement: none.
+
+Current research: none.
+
+Next case: #31 — unselected and unstarted; research not authorized.
+
+Next synthesis gate: after Case #40.

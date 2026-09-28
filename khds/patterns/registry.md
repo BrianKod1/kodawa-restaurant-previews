@@ -4,18 +4,18 @@ Status
 
 <!-- KHDS-CURRENT-START -->
 
-Latest completed case: #29 — Casa Cipriani New York
-Completed institution dossiers: 9
+Latest completed case: #30 — The Social Hub Amsterdam City
+Completed institution dossiers: 10
 Current research: None
-Next case: #30 — unselected and unstarted; research not authorized.
-Institution comparison: Complete through Cases #21–29
-Canonical governance: Post–Casa Cipriani New York reconciliation complete; third independent comparator for membership-gated / recurring-entitlement hospitality architecture recorded; no formal pattern movement or confidence change
+Next case: #31 — unselected and unstarted; research not authorized.
+Institution comparison: Complete through Cases #21–30
+Canonical governance: Post–Case #30 synthesis gate complete; Role-Partitioned / Multi-Relationship Hospitality Architecture retained as provisional comparison architecture below formal pattern maturity; Membership-Gated / Recurring-Entitlement Hospitality Architecture retained as a narrower subtype; no formal pattern or confidence movement
 Pattern totals: 26 Candidate / 8 Emerging / 1 Partially Supported / 0 Validated / 0 research-derived Principles
 Candidate confidence: 9 High / 8 Medium-High / 9 Medium; unchanged
 Track B validation cases: 1
-Next synthesis gate: After Case #30
-Research scope: Public evidence; representative member experience, membership-decision fairness, operational enforcement, accessibility fulfilment, dietary safety, belonging, privacy outcomes, live inventory, recovery effectiveness and causal outcomes remain unverified
-Canonical update: 2026-09-26
+Next synthesis gate: After Case #40
+Research scope: Public evidence; representative experience, operational enforcement, accessibility fulfilment, dietary safety, belonging, privacy/security outcomes, live inventory, recovery effectiveness, financial performance, AI discoverability and causal outcomes remain unverified
+Canonical update: 2026-09-28
 
 <!-- KHDS-CURRENT-END -->
 
@@ -10592,7 +10592,8 @@ Canonical authority remains `../research/validation/candidate-patterns.md`.
 Case #29 is unselected and unstarted; research is not authorized.
 <!-- KHDS-HISTORY-END -->
 
-## Pattern Registry mirror — Post Case #29
+## Pattern Registry mi<!-- KHDS-HISTORY-START -->
+rror — Post Case #29
 
 Case #29 is the ninth completed institution dossier and the third private-membership / recurring-entitlement hospitality comparator.
 
@@ -10627,3 +10628,50 @@ Confidence movement: none.
 Canonical authority remains `../research/validation/candidate-patterns.md`.
 
 Case #30 is unselected and unstarted; research is not authorized.
+<!-- KHDS-HISTORY-END -->
+
+## Pattern Registry mirror — Post Case #30 synthesis gate
+
+Case #30 is the tenth completed institution dossier and the planned synthesis-gate falsification case.
+
+The broader provisional comparison architecture is now:
+
+**Role-Partitioned / Multi-Relationship Hospitality Architecture**
+
+The prior:
+
+**Membership-Gated / Recurring-Entitlement Hospitality Architecture**
+
+is retained as a narrower subtype evidenced especially through Cases #27–29.
+
+```text
+Shared Institutional Identity
+!=
+Uniform Entitlement
+```
+
+Architecture refinement does not alter the formal pattern registry.
+
+Registry totals remain:
+
+- 26 Candidate;
+- 8 Emerging;
+- 1 Partially Supported;
+- 0 Validated;
+- 0 research-derived Principles.
+
+Candidate confidence remains 9 High / 8 Medium-High / 9 Medium.
+
+Multi-Intent Hospitality remains Candidate / Medium.
+
+Formal maturity movement: none.
+
+Confidence movement: none.
+
+Formal rename count: zero because provisional comparison architectures are not formal patterns.
+
+Canonical authority remains `../research/validation/candidate-patterns.md`.
+
+Case #31 is unselected and unstarted; research is not authorized.
+
+Next synthesis gate: after Case #40.

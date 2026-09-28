@@ -1,0 +1,27 @@
+{
+  "caseNumber": 30,
+  "institutionName": "The Social Hub Amsterdam City",
+  "slug": "the-social-hub-amsterdam-city",
+  "institutionType": "Mixed-use hospitality hub with hotel accommodation, student and extended stays, coworking, meetings/events, food & beverage, community programming and membership",
+  "sector": "mixed-use-hospitality",
+  "canonicalPath": "khds/research/institutions/mixed-use-hospitality/the-social-hub-amsterdam-city/",
+  "stagingPath": "khds/staging/case-30-the-social-hub-amsterdam-city",
+  "trackingChanges": [],
+  "requiredFiles": [
+    "README.md",
+    "discovery.md",
+    "reservation.md",
+    "pre-arrival.md",
+    "arrival.md",
+    "stay.md",
+    "dining.md",
+    "departure.md",
+    "atmosphere.md",
+    "photography.md",
+    "story.md",
+    "knowledge-extraction.md"
+  ],
+  "evidenceCoverageVersion": 1,
+  "lockedAt": "2026-09-28T17:39:12.980Z",
+  "baseCommit": "1ac1002c4d10be8dc0736e4dcaf70bbbf5f9c872"
+}
