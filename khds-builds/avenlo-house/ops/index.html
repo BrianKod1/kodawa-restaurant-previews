@@ -1,0 +1,721 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <meta
+    name="description"
+    content="Avenlo Operations Console — a fictional KHDS hospitality operations prototype by Kodawa Labs."
+  >
+
+  <title>Avenlo Ops | Kodawa Labs</title>
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+  <link
+    href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Manrope:wght@400;500;600&family=Playfair+Display:wght@500;600&display=swap"
+    rel="stylesheet"
+  >
+
+  <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+
+  <aside class="sidebar">
+
+    <a class="ops-brand" href="../">
+      <span class="brand-mark">A</span>
+
+      <span>
+        <strong>Avenlo</strong>
+        <small>Operations</small>
+      </span>
+    </a>
+
+    <nav class="ops-nav">
+      <button class="nav-item is-active" data-view="today">
+        <span>01</span>
+        Today
+      </button>
+
+      <button class="nav-item" data-view="arrivals">
+        <span>02</span>
+        Arrivals
+      </button>
+
+      <button class="nav-item" data-view="rooms">
+        <span>03</span>
+        Rooms
+      </button>
+
+      <button class="nav-item" data-view="dining">
+        <span>04</span>
+        Dining
+      </button>
+
+      <button class="nav-item" data-view="events">
+        <span>05</span>
+        Events
+      </button>
+
+      <button class="nav-item" data-view="members">
+        <span>06</span>
+        Members
+      </button>
+
+      <button class="nav-item" data-view="service">
+        <span>07</span>
+        Service
+      </button>
+
+      <button class="nav-item" data-view="revenue">
+        <span>08</span>
+        Revenue
+      </button>
+    </nav>
+
+    <div class="sidebar-bottom">
+      <div class="system-status">
+        <span class="status-dot"></span>
+
+        <div>
+          <strong>Systems online</strong>
+          <small>Prototype environment</small>
+        </div>
+      </div>
+
+      <a href="../" class="guest-link">
+        Guest experience &rarr;
+      </a>
+    </div>
+
+  </aside>
+
+
+  <main class="ops-main">
+
+    <header class="ops-header">
+
+      <div>
+        <p class="eyebrow">Avenlo House / Toronto</p>
+
+        <h1>Today</h1>
+
+        <p class="date-line" id="currentDate">
+          Tuesday, September 29
+        </p>
+      </div>
+
+      <div class="header-actions">
+        <div class="shift-status">
+          <span>Live operations</span>
+          <strong>Day shift</strong>
+        </div>
+
+        <button class="command-button" id="commandButton">
+          Ask Avenlo Ops
+        </button>
+      </div>
+
+    </header>
+
+
+    <section class="prototype-banner">
+
+      <strong>Fictional property. Prototype operational data.</strong>
+
+      <p>
+        This console demonstrates how Kodawa Labs translates hospitality
+        research into decision support. No real guest or property data is shown.
+      </p>
+
+    </section>
+
+
+    <section class="metrics-grid">
+
+      <article class="metric">
+        <span>Rooms</span>
+        <strong>31 / 38</strong>
+        <p>Occupied tonight</p>
+      </article>
+
+      <article class="metric">
+        <span>Arrivals</span>
+        <strong>12</strong>
+        <p>3 before 15:00</p>
+      </article>
+
+      <article class="metric">
+        <span>Luma</span>
+        <strong>46</strong>
+        <p>Covers tonight</p>
+      </article>
+
+      <article class="metric">
+        <span>Gather</span>
+        <strong>1</strong>
+        <p>Event / 40 guests</p>
+      </article>
+
+      <article class="metric">
+        <span>Members</span>
+        <strong>17</strong>
+        <p>Currently in-house</p>
+      </article>
+
+    </section>
+
+
+    <section class="operations-layout">
+
+      <div class="primary-column">
+
+        <section class="panel attention-panel">
+
+          <div class="panel-heading">
+            <div>
+              <p class="eyebrow">Exception management</p>
+              <h2>Needs attention</h2>
+            </div>
+
+            <span class="count-pill" id="attentionCount">4</span>
+          </div>
+
+
+          <div class="attention-list" id="attentionList">
+
+            <article
+              class="attention-card priority-medium"
+              data-issue="arrival"
+            >
+
+              <div class="attention-time">
+                <strong>12:15</strong>
+                <span>Arrival</span>
+              </div>
+
+              <div class="attention-content">
+
+                <div class="issue-type">
+                  <span>Early arrival</span>
+                  <small>Room 318</small>
+                </div>
+
+                <h3>Maya Thompson</h3>
+
+                <p>
+                  Guest arrived 2h45 before standard check-in and asked
+                  for somewhere to work.
+                </p>
+
+                <div class="context-row">
+                  <span>Room readiness <strong>72%</strong></span>
+                  <span>Member <strong>No</strong></span>
+                  <span>Luggage <strong>2 bags</strong></span>
+                </div>
+
+                <div class="recommendation">
+                  <span>Recommended next step</span>
+
+                  <p>
+                    Offer lounge access, notify housekeeping of early
+                    presence, and message Maya when the room is ready.
+                  </p>
+                </div>
+
+                <div class="card-actions">
+                  <button
+                    data-action="resolve"
+                    data-label="Lounge access arranged"
+                  >
+                    Offer lounge access
+                  </button>
+
+                  <button
+                    class="secondary-action"
+                    data-action="note"
+                  >
+                    View guest context
+                  </button>
+                </div>
+
+              </div>
+
+            </article>
+
+
+            <article
+              class="attention-card priority-high"
+              data-issue="allergy"
+            >
+
+              <div class="attention-time">
+                <strong>18:30</strong>
+                <span>Dining</span>
+              </div>
+
+              <div class="attention-content">
+
+                <div class="issue-type">
+                  <span>Safety acknowledgement</span>
+                  <small>Luma / Table 14</small>
+                </div>
+
+                <h3>Jordan Lee +2</h3>
+
+                <p>
+                  Shellfish allergy was captured during the guest
+                  conversation. Kitchen acknowledgement is still pending.
+                </p>
+
+                <div class="context-row">
+                  <span>Severity <strong>Serious</strong></span>
+                  <span>Kitchen <strong class="warning">Pending</strong></span>
+                  <span>Reservation <strong>18:30</strong></span>
+                </div>
+
+                <div class="recommendation">
+                  <span>Required action</span>
+
+                  <p>
+                    Confirm the restaurant team has reviewed the allergy
+                    information before service begins.
+                  </p>
+                </div>
+
+                <div class="card-actions">
+                  <button
+                    data-action="resolve"
+                    data-label="Kitchen acknowledgement received"
+                  >
+                    Request acknowledgement
+                  </button>
+
+                  <button
+                    class="secondary-action"
+                    data-action="note"
+                  >
+                    Open reservation
+                  </button>
+                </div>
+
+              </div>
+
+            </article>
+
+
+            <article
+              class="attention-card"
+              data-issue="event"
+            >
+
+              <div class="attention-time">
+                <strong>17:45</strong>
+                <span>Gather</span>
+              </div>
+
+              <div class="attention-content">
+
+                <div class="issue-type">
+                  <span>Event arrival</span>
+                  <small>Garden Room</small>
+                </div>
+
+                <h3>North & Vale Workshop</h3>
+
+                <p>
+                  Forty-person workshop begins at 18:30. Client host is
+                  expected in 30 minutes.
+                </p>
+
+                <div class="context-row">
+                  <span>Guests <strong>40</strong></span>
+                  <span>Room <strong>Ready</strong></span>
+                  <span>AV check <strong>Complete</strong></span>
+                </div>
+
+                <div class="recommendation">
+                  <span>Next checkpoint</span>
+
+                  <p>
+                    Confirm host arrival and hand the event lead the final
+                    guest-count context.
+                  </p>
+                </div>
+
+                <div class="card-actions">
+                  <button
+                    data-action="resolve"
+                    data-label="Event handoff complete"
+                  >
+                    Confirm handoff
+                  </button>
+
+                  <button
+                    class="secondary-action"
+                    data-action="note"
+                  >
+                    Event brief
+                  </button>
+                </div>
+
+              </div>
+
+            </article>
+
+
+            <article
+              class="attention-card"
+              data-issue="service"
+            >
+
+              <div class="attention-time">
+                <strong>11:42</strong>
+                <span>Service</span>
+              </div>
+
+              <div class="attention-content">
+
+                <div class="issue-type">
+                  <span>AI handoff</span>
+                  <small>Guest services</small>
+                </div>
+
+                <h3>Transfer request</h3>
+
+                <p>
+                  Guest asked whether Avenlo can arrange a helicopter
+                  transfer. The AI did not have verified information and
+                  escalated the conversation.
+                </p>
+
+                <div class="context-row">
+                  <span>AI answer <strong>Withheld</strong></span>
+                  <span>Context <strong>Preserved</strong></span>
+                  <span>Status <strong>Open</strong></span>
+                </div>
+
+                <div class="recommendation">
+                  <span>Why this matters</span>
+
+                  <p>
+                    The operator receives the original request and context
+                    without requiring the guest to repeat the conversation.
+                  </p>
+                </div>
+
+                <div class="card-actions">
+                  <button
+                    data-action="resolve"
+                    data-label="Guest services took ownership"
+                  >
+                    Take ownership
+                  </button>
+
+                  <button
+                    class="secondary-action"
+                    data-action="note"
+                  >
+                    Read conversation
+                  </button>
+                </div>
+
+              </div>
+
+            </article>
+
+          </div>
+
+        </section>
+
+      </div>
+
+
+      <aside class="secondary-column">
+
+        <section class="panel revenue-panel">
+
+          <div class="panel-heading compact">
+            <div>
+              <p class="eyebrow">Direct revenue</p>
+              <h2>Opportunities</h2>
+            </div>
+          </div>
+
+
+          <article class="opportunity-card">
+
+            <div class="opportunity-top">
+              <span>Room upgrade</span>
+              <strong>+$120</strong>
+            </div>
+
+            <h3>Chris Morgan</h3>
+
+            <p>
+              Viewed Corner King three times after booking a Standard King.
+            </p>
+
+            <dl>
+              <div>
+                <dt>Current</dt>
+                <dd>Standard King</dd>
+              </div>
+
+              <div>
+                <dt>Upgrade</dt>
+                <dd>+$60 / night</dd>
+              </div>
+
+              <div>
+                <dt>Stay</dt>
+                <dd>2 nights</dd>
+              </div>
+            </dl>
+
+            <button
+              data-revenue-action
+              data-label="Upgrade offer sent"
+            >
+              Send upgrade offer
+            </button>
+
+          </article>
+
+
+          <article class="opportunity-card">
+
+            <div class="opportunity-top">
+              <span>Dining conversion</span>
+              <strong>+$160 est.</strong>
+            </div>
+
+            <h3>Room 221</h3>
+
+            <p>
+              Two-night direct guest has no dining reservation and viewed
+              the Luma menu twice today.
+            </p>
+
+            <button
+              data-revenue-action
+              data-label="Dining invitation sent"
+            >
+              Invite to Luma
+            </button>
+
+          </article>
+
+        </section>
+
+
+        <section class="panel capacity-panel">
+
+          <div class="panel-heading compact">
+            <div>
+              <p class="eyebrow">Capacity</p>
+              <h2>Tonight</h2>
+            </div>
+          </div>
+
+
+          <div class="capacity-item">
+            <div>
+              <span>Rooms</span>
+              <strong>82%</strong>
+            </div>
+
+            <div class="capacity-bar">
+              <span style="width:82%"></span>
+            </div>
+
+            <small>31 of 38 occupied</small>
+          </div>
+
+
+          <div class="capacity-item">
+            <div>
+              <span>Luma</span>
+              <strong>76%</strong>
+            </div>
+
+            <div class="capacity-bar">
+              <span style="width:76%"></span>
+            </div>
+
+            <small>46 confirmed covers</small>
+          </div>
+
+
+          <div class="capacity-item">
+            <div>
+              <span>Garden Room</span>
+              <strong>100%</strong>
+            </div>
+
+            <div class="capacity-bar">
+              <span style="width:100%"></span>
+            </div>
+
+            <small>Private workshop / 40</small>
+          </div>
+
+
+          <div class="capacity-item">
+            <div>
+              <span>Member workspace</span>
+              <strong>68%</strong>
+            </div>
+
+            <div class="capacity-bar">
+              <span style="width:68%"></span>
+            </div>
+
+            <small>17 active members</small>
+          </div>
+
+        </section>
+
+
+        <section class="panel principle-panel">
+
+          <span class="panel-index">KHDS</span>
+
+          <blockquote>
+            More data is not the goal.
+            Better decisions are.
+          </blockquote>
+
+          <p>
+            Avenlo surfaces exceptions, context and recommended actions
+            instead of treating every metric as equally important.
+          </p>
+
+        </section>
+
+      </aside>
+
+    </section>
+
+
+    <section class="decision-strip">
+
+      <article>
+        <span>01</span>
+        <strong>AI when it knows.</strong>
+      </article>
+
+      <article>
+        <span>02</span>
+        <strong>Human when it matters.</strong>
+      </article>
+
+      <article>
+        <span>03</span>
+        <strong>Context preserved either way.</strong>
+      </article>
+
+    </section>
+
+
+    <footer class="ops-footer">
+
+      <div>
+        <strong>Kodawa Labs</strong>
+        <span>KHDS synthesis build 02</span>
+      </div>
+
+      <p>
+        Hospitality technology designed around decisions, service and revenue.
+      </p>
+
+      <a href="../">
+        Return to Avenlo House
+      </a>
+
+    </footer>
+
+  </main>
+
+
+  <div class="context-drawer" id="contextDrawer" aria-hidden="true">
+
+    <button
+      class="context-backdrop"
+      data-close-context
+      aria-label="Close guest context"
+    ></button>
+
+    <aside class="context-panel">
+
+      <button class="context-close" data-close-context>
+        Close
+      </button>
+
+      <p class="eyebrow">Connected context</p>
+
+      <h2 id="contextTitle">
+        Guest context
+      </h2>
+
+      <div id="contextBody" class="context-body"></div>
+
+    </aside>
+
+  </div>
+
+
+  <div class="command-palette" id="commandPalette" aria-hidden="true">
+
+    <button
+      class="command-backdrop"
+      data-close-command
+      aria-label="Close Avenlo Ops"
+    ></button>
+
+    <div class="command-dialog">
+
+      <div class="command-heading">
+        <span class="status-dot"></span>
+
+        <div>
+          <strong>Ask Avenlo Ops</strong>
+          <small>Prototype decision assistant</small>
+        </div>
+      </div>
+
+      <form id="opsAssistantForm">
+        <input
+          id="opsAssistantInput"
+          type="text"
+          placeholder="Ask what needs attention..."
+          autocomplete="off"
+        >
+
+        <button type="submit">
+          Ask
+        </button>
+      </form>
+
+      <div class="command-response" id="opsAssistantResponse">
+        Try: “What needs attention before dinner?”
+      </div>
+
+    </div>
+
+  </div>
+
+
+  <div class="toast" id="toast">
+    Action completed
+  </div>
+
+
+  <script src="script.js"></script>
+
+</body>
+</html>
