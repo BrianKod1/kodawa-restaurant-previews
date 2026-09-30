@@ -114,6 +114,17 @@
       "dossierComplete": true,
       "administrativeReconciliation": true,
       "publicationJournal": "khds/staging/case-30-the-social-hub-amsterdam-city/publication.json"
+    },
+    {
+      "caseNumber": 31,
+      "institutionName": "Moxy NYC Times Square",
+      "slug": "moxy-nyc-times-square",
+      "institutionType": "Lifestyle hotel with public social, dining, coworking and event spaces",
+      "sector": "hotels",
+      "canonicalPath": "khds/research/institutions/hotels/moxy-nyc-times-square/",
+      "dossierComplete": true,
+      "administrativeReconciliation": true,
+      "publicationJournal": "khds/staging/case-31-moxy-nyc-times-square/publication.json"
     }
   ],
   "priorIdentities": [

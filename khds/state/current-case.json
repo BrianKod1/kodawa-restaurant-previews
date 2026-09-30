@@ -3,22 +3,22 @@
   "expectedBranch": "main",
   "workflowStatus": "idle",
   "latestCompletedCase": {
-    "caseNumber": 30,
-    "institutionName": "The Social Hub Amsterdam City",
-    "slug": "the-social-hub-amsterdam-city",
-    "institutionType": "Mixed-use hospitality hub with hotel accommodation, student and extended stays, coworking, meetings/events, food & beverage, community programming and membership",
-    "sector": "mixed-use-hospitality",
-    "canonicalPath": "khds/research/institutions/mixed-use-hospitality/the-social-hub-amsterdam-city/",
+    "caseNumber": 31,
+    "institutionName": "Moxy NYC Times Square",
+    "slug": "moxy-nyc-times-square",
+    "institutionType": "Lifestyle hotel with public social, dining, coworking and event spaces",
+    "sector": "hotels",
+    "canonicalPath": "khds/research/institutions/hotels/moxy-nyc-times-square/",
     "dossierComplete": true,
     "administrativeReconciliation": true
   },
-  "expectedNextCase": 31,
+  "expectedNextCase": 32,
   "researchAuthorized": false,
   "authorization": null,
   "activeCase": null,
   "disagreements": [],
   "publication": {
-    "journalPath": "khds/staging/case-30-the-social-hub-amsterdam-city/publication.json",
+    "journalPath": "khds/staging/case-31-moxy-nyc-times-square/publication.json",
     "status": "promoted"
   },
   "reconciliationRecord": {
@@ -72,8 +72,8 @@
   },
   "reconciliationReview": {
     "approvedBy": "Brian Kodawa",
-    "approvedAt": "2026-09-28T18:21:20.283Z",
-    "contentDigest": "41946b4cd5a283cbcf83e26f7caaef879e2839c0619a80a711e973f4e946cc2b",
+    "approvedAt": "2026-09-30T18:06:51.684Z",
+    "contentDigest": "21da61b470913f6335102aeee68269bc24055e9eaf90ab3b7c186aaffa24cf6a",
     "controlChanges": []
   },
   "historyReconciliation": {

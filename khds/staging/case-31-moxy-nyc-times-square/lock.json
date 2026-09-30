@@ -1,0 +1,26 @@
+{
+  "caseNumber": 31,
+  "institutionName": "Moxy NYC Times Square",
+  "slug": "moxy-nyc-times-square",
+  "institutionType": "Lifestyle hotel with public social, dining, coworking and event spaces",
+  "sector": "hotels",
+  "canonicalPath": "khds/research/institutions/hotels/moxy-nyc-times-square/",
+  "stagingPath": "khds/staging/case-31-moxy-nyc-times-square",
+  "trackingChanges": [],
+  "requiredFiles": [
+    "README.md",
+    "discovery.md",
+    "reservation.md",
+    "pre-arrival.md",
+    "arrival.md",
+    "stay.md",
+    "dining.md",
+    "departure.md",
+    "atmosphere.md",
+    "photography.md",
+    "story.md",
+    "knowledge-extraction.md"
+  ],
+  "lockedAt": "2026-09-30T16:01:55.533Z",
+  "baseCommit": "a5f117d3ee229ce420c89461b8cde02ae2d9b287"
+}
