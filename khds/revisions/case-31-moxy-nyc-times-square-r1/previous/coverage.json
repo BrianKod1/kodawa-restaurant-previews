@@ -1,0 +1,409 @@
+{
+    "schemaVersion":  1,
+    "dimensions":  [
+                       {
+                           "dimension":  "discovery",
+                           "question":  "How does Moxy NYC Times Square present hotel stays, dining, social space, coworking, events and local participation before a user chooses a relationship with the property?",
+                           "scopeChange":  "Tests whether a lifestyle hotel presents one lodging funnel or multiple participation pathways under the same institutional identity.",
+                           "sources":  [
+                                           "S1",
+                                           "S2",
+                                           "S3"
+                                       ],
+                           "observations":  [
+                                                {
+                                                    "text":  "The property presents accommodation alongside multiple dining, rooftop, event and social-space experiences rather than as a room-only hotel.",
+                                                    "sources":  [
+                                                                    "S1",
+                                                                    "S2",
+                                                                    "S3"
+                                                                ]
+                                                },
+                                                {
+                                                    "text":  "Bar Moxy is explicitly described as part bar, part lounge and part coworking space.",
+                                                    "sources":  [
+                                                                    "S1",
+                                                                    "S2"
+                                                                ]
+                                                },
+                                                {
+                                                    "text":  "The event proposition addresses both hotel-related groups and local or external users.",
+                                                    "sources":  [
+                                                                    "S3"
+                                                                ]
+                                                }
+                                            ],
+                           "unanswered":  [
+                                              "How users distinguish hotel-guest benefits from generally public venue access before booking.",
+                                              "Whether users understand which services are hotel-operated, partner-operated or independent.",
+                                              "Which discovery pathways produce hotel bookings versus dining, event or local visitation."
+                                          ],
+                           "rating":  "partial",
+                           "reason":  "Public operator evidence establishes multiple participation pathways but not representative user comprehension or conversion behavior.",
+                           "nextEvidence":  "Test the room, dining, rooftop and event discovery journeys separately and capture boundary language shown before commitment."
+                       },
+                       {
+                           "dimension":  "reservation",
+                           "question":  "Which Moxy experiences use separate booking, reservation or inquiry mechanisms, and does one relationship guarantee access or capacity in another?",
+                           "scopeChange":  "Tests parallel commitment systems across hotel rooms, restaurants, rooftop access, events and group business.",
+                           "sources":  [
+                                           "S1",
+                                           "S2",
+                                           "S4",
+                                           "S5",
+                                           "S7"
+                                       ],
+                           "observations":  [
+                                                {
+                                                    "text":  "Hotel rooms, restaurant tables, rooftop tables and special events use distinct commitment pathways.",
+                                                    "sources":  [
+                                                                    "S1",
+                                                                    "S2",
+                                                                    "S5",
+                                                                    "S7"
+                                                                ]
+                                                },
+                                                {
+                                                    "text":  "Magic Hour accepts reservations and walk-ins, while hotel-guest priority remains subject to capacity, private events and doorman discretion.",
+                                                    "sources":  [
+                                                                    "S4"
+                                                                ]
+                                                },
+                                                {
+                                                    "text":  "Magic Hour event and bottle-service inquiries do not themselves guarantee a reservation.",
+                                                    "sources":  [
+                                                                    "S5",
+                                                                    "S7"
+                                                                ]
+                                                }
+                                            ],
+                           "unanswered":  [
+                                              "How competing hotel-guest, public, table-service and event demand is prioritized internally.",
+                                              "Whether hotel packages ever create guaranteed dining or rooftop inventory.",
+                                              "How failed or oversubscribed reservation attempts are recovered."
+                                          ],
+                           "rating":  "partial",
+                           "reason":  "Separate reservation systems and conditional access are publicly visible, but internal inventory and prioritization rules are not.",
+                           "nextEvidence":  "Test live hotel, restaurant and event commitment flows, including unavailable dates and capacity-conflict conditions."
+                       },
+                       {
+                           "dimension":  "pre-arrival",
+                           "question":  "What access rules, expectations, benefits and responsibility boundaries are established before a hotel guest or event customer physically arrives?",
+                           "scopeChange":  "Adds pre-arrival entitlement and routing questions across hotel, dining, rooftop and event relationships.",
+                           "sources":  [
+                                           "S4",
+                                           "S5",
+                                           "S7",
+                                           "S8"
+                                       ],
+                           "observations":  [
+                                                {
+                                                    "text":  "Hotel guest information establishes venue-access conditions and key-card-linked benefits before or during the stay.",
+                                                    "sources":  [
+                                                                    "S4"
+                                                                ]
+                                                },
+                                                {
+                                                    "text":  "Event customers enter a separate inquiry process with event-specific contact and availability handling.",
+                                                    "sources":  [
+                                                                    "S5",
+                                                                    "S7"
+                                                                ]
+                                                },
+                                                {
+                                                    "text":  "Published hotel information specifies check-in, checkout and luggage handling conditions.",
+                                                    "sources":  [
+                                                                    "S8"
+                                                                ]
+                                                }
+                                            ],
+                           "unanswered":  [
+                                              "Which guest instructions are delivered automatically after booking.",
+                                              "Whether restaurant or event bookings are recognized in the hotel guest profile.",
+                                              "How responsibility is explained when a guest uses partner-operated venues."
+                                          ],
+                           "rating":  "partial",
+                           "reason":  "Public pages establish several pre-arrival rules but do not expose the complete digital communication or identity-linking sequence.",
+                           "nextEvidence":  "Inspect confirmation flows, terms, pre-arrival communications and any cross-system identity or reservation linking visible to a customer."
+                       },
+                       {
+                           "dimension":  "arrival",
+                           "question":  "How are hotel guests, visitors, diners, rooftop customers and event attendees distinguished or routed when they reach the property?",
+                           "scopeChange":  "Tests whether physical arrival at one address creates uniform access or role-specific routing.",
+                           "sources":  [
+                                           "S1",
+                                           "S4",
+                                           "S7"
+                                       ],
+                           "observations":  [
+                                                {
+                                                    "text":  "Bar Moxy performs a dual social and hotel-arrival role, including hotel check-in.",
+                                                    "sources":  [
+                                                                    "S1"
+                                                                ]
+                                                },
+                                                {
+                                                    "text":  "Hotel guests use a room key to demonstrate priority status for Magic Hour, but entry remains conditional.",
+                                                    "sources":  [
+                                                                    "S4"
+                                                                ]
+                                                },
+                                                {
+                                                    "text":  "Magic Hour has a dedicated entry and elevator path distinct from ordinary hotel circulation.",
+                                                    "sources":  [
+                                                                    "S7"
+                                                                ]
+                                                }
+                                            ],
+                           "unanswered":  [
+                                              "How staff distinguish overlapping user roles during peak periods.",
+                                              "What happens when hotel guests expect access that cannot be provided.",
+                                              "How event attendees and general public visitors are routed relative to hotel guests."
+                                          ],
+                           "rating":  "partial",
+                           "reason":  "Public evidence establishes differentiated arrival and access mechanisms, but not representative frontline routing or exception handling.",
+                           "nextEvidence":  "Observe or document public arrival instructions for hotel, rooftop, dining and event users and capture exception scenarios."
+                       },
+                       {
+                           "dimension":  "stay",
+                           "question":  "What does the hotel-room relationship actually entitle a guest to, and which co-located experiences remain separate or conditional?",
+                           "scopeChange":  "Separates the room product from public, social, dining, visitor and partner-operated services within the property.",
+                           "sources":  [
+                                           "S1",
+                                           "S2",
+                                           "S4"
+                                       ],
+                           "observations":  [
+                                                {
+                                                    "text":  "The hotel stay provides a room relationship while many prominent social and dining experiences remain separately governed.",
+                                                    "sources":  [
+                                                                    "S1",
+                                                                    "S2",
+                                                                    "S4"
+                                                                ]
+                                                },
+                                                {
+                                                    "text":  "Hotel guests receive some role-specific benefits, including Magic Hour priority and complimentary drip coffee during stated hours.",
+                                                    "sources":  [
+                                                                    "S4"
+                                                                ]
+                                                },
+                                                {
+                                                    "text":  "Visitors of hotel guests must be registered with the hotel rather than receiving automatic access through the guest relationship.",
+                                                    "sources":  [
+                                                                    "S4"
+                                                                ]
+                                                }
+                                            ],
+                           "unanswered":  [
+                                              "Which property spaces require a room key beyond guest-room circulation.",
+                                              "How guest status is recognized across partner-operated services.",
+                                              "Which guest benefits are contractual entitlements versus discretionary privileges."
+                                          ],
+                           "rating":  "partial",
+                           "reason":  "Public material demonstrates differentiated benefits and access rules but not the complete entitlement architecture.",
+                           "nextEvidence":  "Map every publicly documented guest benefit, access restriction and partner-service condition against the hotel room relationship."
+                       },
+                       {
+                           "dimension":  "dining",
+                           "question":  "How are Moxy\u0027s food-and-beverage venues related to the hotel, and where do reservation, entitlement, capacity and operator responsibility remain separate?",
+                           "scopeChange":  "Tests dining as a set of distinct commercial and operational relationships rather than a single hotel amenity.",
+                           "sources":  [
+                                           "S2",
+                                           "S4",
+                                           "S5",
+                                           "S7"
+                                       ],
+                           "observations":  [
+                                                {
+                                                    "text":  "Bar Moxy, Legasea, Magic Hour and CafÃ© d\u0027Avignon use different service and reservation conditions.",
+                                                    "sources":  [
+                                                                    "S2",
+                                                                    "S4"
+                                                                ]
+                                                },
+                                                {
+                                                    "text":  "CafÃ© d\u0027Avignon is physically on-site but Marriott explicitly describes it as unaffiliated with Moxy Times Square.",
+                                                    "sources":  [
+                                                                    "S2"
+                                                                ]
+                                                },
+                                                {
+                                                    "text":  "Restaurant, rooftop and event contacts route through TAO Group addresses rather than the hotel\u0027s general contact channel.",
+                                                    "sources":  [
+                                                                    "S5",
+                                                                    "S7"
+                                                                ]
+                                                }
+                                            ],
+                           "unanswered":  [
+                                              "Exact contractual responsibility across Moxy, TAO Group and other on-site operators.",
+                                              "How hotel complaints involving partner-operated dining are resolved.",
+                                              "Whether guest-spend data crosses hotel and restaurant systems."
+                                          ],
+                           "rating":  "partial",
+                           "reason":  "Public evidence strongly establishes distinct venue relationships and responsibility signals but not internal contracts or recovery processes.",
+                           "nextEvidence":  "Inspect terms, booking interfaces and responsibility language for each on-site food-and-beverage operator."
+                       },
+                       {
+                           "dimension":  "departure",
+                           "question":  "Which Moxy relationships end at checkout and which can continue through luggage handling, loyalty, dining, events or future engagement?",
+                           "scopeChange":  "Tests whether physical hotel departure closes the wider institutional relationship.",
+                           "sources":  [
+                                           "S4",
+                                           "S8"
+                                       ],
+                           "observations":  [
+                                                {
+                                                    "text":  "The hotel publishes a defined checkout time while separately supporting luggage storage.",
+                                                    "sources":  [
+                                                                    "S4",
+                                                                    "S8"
+                                                                ]
+                                                },
+                                                {
+                                                    "text":  "Luggage storage has its own stated responsibility limitation.",
+                                                    "sources":  [
+                                                                    "S4"
+                                                                ]
+                                                },
+                                                {
+                                                    "text":  "The public evidence reviewed does not establish that dining, event or wider brand relationships terminate when the room stay ends.",
+                                                    "sources":  [
+                                                                    "S4",
+                                                                    "S8"
+                                                                ]
+                                                }
+                                            ],
+                           "unanswered":  [
+                                              "How post-stay marketing, loyalty and return-visit relationships are handled.",
+                                              "Whether restaurant or event relationships remain linked to the former hotel guest.",
+                                              "How post-checkout service recovery is routed between hotel and partner operators."
+                                          ],
+                           "rating":  "partial",
+                           "reason":  "Checkout and luggage rules are visible, but post-stay relationship continuity is not sufficiently documented.",
+                           "nextEvidence":  "Inspect Marriott Bonvoy, post-stay communication and venue-specific retention pathways without assuming cross-system continuity."
+                       },
+                       {
+                           "dimension":  "atmosphere",
+                           "question":  "How does Moxy use shared social space, programming and event activity to serve both hotel guests and non-guests?",
+                           "scopeChange":  "Treats atmosphere as an operating layer that may deliberately mix user roles within shared physical space.",
+                           "sources":  [
+                                           "S1",
+                                           "S3",
+                                           "S6",
+                                           "S7"
+                                       ],
+                           "observations":  [
+                                                {
+                                                    "text":  "Bar Moxy is positioned as a combined work, play and social environment rather than a conventional hotel lobby.",
+                                                    "sources":  [
+                                                                    "S1",
+                                                                    "S3"
+                                                                ]
+                                                },
+                                                {
+                                                    "text":  "The property explicitly markets Bar Moxy to both guests and locals.",
+                                                    "sources":  [
+                                                                    "S3"
+                                                                ]
+                                                },
+                                                {
+                                                    "text":  "Rooftop and social spaces support both ordinary hospitality use and private event conversion.",
+                                                    "sources":  [
+                                                                    "S3",
+                                                                    "S7"
+                                                                ]
+                                                }
+                                            ],
+                           "unanswered":  [
+                                              "How public and hotel-guest use compete during high-demand periods.",
+                                              "Whether event conversion materially displaces ordinary guest use.",
+                                              "How atmosphere changes across daytime coworking, dining, nightlife and private-event modes."
+                                          ],
+                           "rating":  "partial",
+                           "reason":  "The intended mixed-role atmosphere is well documented, but actual user mix, displacement and operational effects are not.",
+                           "nextEvidence":  "Compare published operating modes, event schedules and access conditions across different times and uses."
+                       },
+                       {
+                           "dimension":  "photography",
+                           "question":  "What relationships and spaces does Moxy emphasize visually, and do those images clarify or blur the distinction between lodging and public social hospitality?",
+                           "scopeChange":  "Tests visual communication as evidence of how the institution wants users to understand hotel, dining, social and event functions.",
+                           "sources":  [
+                                           "S1",
+                                           "S2",
+                                           "S3",
+                                           "S9"
+                                       ],
+                           "observations":  [
+                                                {
+                                                    "text":  "Official imagery prominently features Bar Moxy, Magic Hour, dining and event environments alongside hotel accommodation.",
+                                                    "sources":  [
+                                                                    "S1",
+                                                                    "S2",
+                                                                    "S3",
+                                                                    "S9"
+                                                                ]
+                                                },
+                                                {
+                                                    "text":  "The visual emphasis presents social and shared spaces as central components of the property identity rather than peripheral amenities.",
+                                                    "sources":  [
+                                                                    "S1",
+                                                                    "S3",
+                                                                    "S9"
+                                                                ]
+                                                }
+                                            ],
+                           "unanswered":  [
+                                              "Whether prospective guests accurately infer access conditions from the imagery.",
+                                              "Whether photography distinguishes public, guest-priority and privately reservable spaces.",
+                                              "How room imagery compares quantitatively with social and event imagery across discovery channels."
+                                          ],
+                           "rating":  "partial",
+                           "reason":  "Official visual emphasis is observable, but audience interpretation and quantitative image balance have not been tested.",
+                           "nextEvidence":  "Perform a bounded gallery review and record which user roles, spaces and access states are represented or omitted."
+                       },
+                       {
+                           "dimension":  "story",
+                           "question":  "What institutional story connects rooms, social space, dining, work and events, and where does the unified brand narrative mask distinct access or responsibility structures?",
+                           "scopeChange":  "Tests whether one hospitality story overlays several operationally distinct relationships.",
+                           "sources":  [
+                                           "S1",
+                                           "S2",
+                                           "S3",
+                                           "S5"
+                                       ],
+                           "observations":  [
+                                                {
+                                                    "text":  "Moxy presents the property as an unconventional hotel built around social interaction, work, play, dining and events.",
+                                                    "sources":  [
+                                                                    "S1",
+                                                                    "S3"
+                                                                ]
+                                                },
+                                                {
+                                                    "text":  "The unified property story includes services with materially different booking and operating relationships.",
+                                                    "sources":  [
+                                                                    "S2",
+                                                                    "S5"
+                                                                ]
+                                                },
+                                                {
+                                                    "text":  "The public-facing brand can appear institutionally unified even where contact routing or affiliation indicates separate responsibility.",
+                                                    "sources":  [
+                                                                    "S2",
+                                                                    "S5"
+                                                                ]
+                                                }
+                                            ],
+                           "unanswered":  [
+                                              "How clearly customers understand the distinction between Moxy, Marriott, TAO Group and unaffiliated on-site operators.",
+                                              "Whether the unified brand story creates service expectations that exceed actual entitlement.",
+                                              "How responsibility is communicated when a cross-service experience fails."
+                                          ],
+                           "rating":  "partial",
+                           "reason":  "The unified brand narrative and several responsibility boundaries are visible, but customer interpretation and operational consequences remain untested.",
+                           "nextEvidence":  "Compare brand language, venue terms, contact routing and customer-facing responsibility statements across services."
+                       }
+                   ]
+}

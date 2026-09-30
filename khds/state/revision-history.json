@@ -30,6 +30,36 @@
         }
       },
       "record": "khds/revisions/case-22-sky-lagoon-kopavogur-r1/workflow/REVIEW.md"
+    },
+    {
+      "caseNumber": 31,
+      "revision": 1,
+      "review": {
+        "approvedBy": "Brian Kodawa",
+        "approvedAt": "2026-09-30T19:27:58.382Z",
+        "contentDigest": "da356dd50f8e084aaa8076a7b740484918bf5baa210003353618a136745270f0"
+      },
+      "publication": {
+        "approvedDigest": "fa668343db6e452a3c05d4292dcd805cb264fea74fd5ddb9532e6a90500172a8",
+        "approvedAt": "2026-09-30T19:31:31.774Z",
+        "files": {
+          "README.md": "4f38a40420e9cea4b4390ca81427e6a59c15bb39c80529966c7d559d4e5da4c5",
+          "arrival.md": "f729dd5b460ac6f3500f9af2edc0995a71d9548c8ec976f96490febfe8d478c1",
+          "atmosphere.md": "189f0c0c34a4cd4a7f341c52fd4c3c8d1e7b4361b5f78ac18aae9afcabb4963c",
+          "coverage.json": "a7b5df451c5736aa2c928f0f0c8dbeb41312dd97fecde3687837000e8d080ea7",
+          "departure.md": "216cc00c3e41f0dbeb346154968cbd1db0d73c272457dc5f801df9615bb328b9",
+          "dining.md": "de926442c23db487dc3ba347583252923db0f2e75ad19db5c4e43adc348b9c08",
+          "discovery.md": "d75a39e409175f505b20361542d2a57a98fa56b2c9a9212c751e4888f9ee179d",
+          "knowledge-extraction.md": "79eb895628ff962d9a2d1b46565366b2249aeb390d171a3e8aa65619370c94f8",
+          "photography.md": "16b45a7def844098f18809a7c506dd8ccbfd455aeb7239a9749fcb5e073e443a",
+          "pre-arrival.md": "610873c9e15fb6b181b5ad9c6664ff1ca92f626f74df3defa7b966054a83f75a",
+          "reservation.md": "44fed930565fb722e84e7f5b6a4298663d0f10972717b5826b1f63fb84a9c34c",
+          "sources.json": "0329a8ddee47ceb5d377cc0cf447ff2d53124c49339b4ed3977132e1d43c4054",
+          "stay.md": "62d411bc7f0102ab90578eb0b3c6d2fe2d85790400fb469392da5e2db8b0d6b9",
+          "story.md": "15718cd9c937b379d615bec2c6e3cabea8ad6833ade8f6e7f89163de3fde9b1b"
+        }
+      },
+      "record": "khds/revisions/case-31-moxy-nyc-times-square-r1/workflow/REVIEW.md"
     }
   ]
 }

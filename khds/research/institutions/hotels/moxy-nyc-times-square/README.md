@@ -3,7 +3,7 @@
 
 ## Status
 
-Case #31 staging scaffold. Public-evidence research has not yet begun.
+Revision r1 in progress at public-evidence scope.
 
 ## Institution
 
@@ -11,12 +11,35 @@ Moxy NYC Times Square.
 
 ## Research role
 
-Transfer and falsification case following Case #30.
+Case #31 is the first post-Case #30 transfer and falsification case.
+
+It tests whether Role-Partitioned / Multi-Relationship Hospitality Architecture recurs in a lifestyle hotel without private membership as the primary organizing mechanism.
+
+## Coverage
+
+| Dimension | Coverage |
+| --- | --- |
+| [discovery](discovery.md) | partial |
+| [reservation](reservation.md) | partial |
+| [pre-arrival](pre-arrival.md) | partial |
+| [arrival](arrival.md) | partial |
+| [stay](stay.md) | partial |
+| [dining](dining.md) | partial |
+| [departure](departure.md) | partial |
+| [atmosphere](atmosphere.md) | partial |
+| [photography](photography.md) | partial |
+| [story](story.md) | partial |
 
 ## Working boundaries
 
-To be locked before evidence collection.
+Public evidence may establish documented booking pathways, access rules, guest benefits, capacity restrictions, venue states, contact routing and affiliation statements.
+
+It does not establish internal contracts, backend integration, representative customer experience, financial outcomes or legal responsibility beyond what sources explicitly state.
 
 ## Evidence boundary
 
-Public-evidence scope only.
+External practitioner commentary and general hospitality-industry material are not canonical Case #31 evidence.
+
+External Research Signal != Case Evidence
+
+Formal governance movement remains deferred to the scheduled synthesis gate after Case #40.

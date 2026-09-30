@@ -1,0 +1,86 @@
+{
+    "schemaVersion":  1,
+    "sources":  [
+                    {
+                        "id":  "S1",
+                        "url":  "https://www.marriott.com/en-us/hotels/nycox-moxy-nyc-times-square/overview/",
+                        "accessDate":  "2026-09-30",
+                        "sourceDate":  "Undated; page current at access",
+                        "method":  "Direct HTML inspection",
+                        "sections":  "discovery; stay; dining; atmosphere; photography; story",
+                        "access":  "inspected"
+                    },
+                    {
+                        "id":  "S2",
+                        "url":  "https://www.marriott.com/en-us/hotels/nycox-moxy-nyc-times-square/dining/",
+                        "accessDate":  "2026-09-30",
+                        "sourceDate":  "Undated; page current at access",
+                        "method":  "Direct HTML inspection",
+                        "sections":  "discovery; reservation; stay; dining; atmosphere; story",
+                        "access":  "inspected"
+                    },
+                    {
+                        "id":  "S3",
+                        "url":  "https://www.marriott.com/en-us/hotels/nycox-moxy-nyc-times-square/events/",
+                        "accessDate":  "2026-09-30",
+                        "sourceDate":  "Undated; page current at access",
+                        "method":  "Direct HTML inspection",
+                        "sections":  "discovery; reservation; pre-arrival; arrival; stay; atmosphere; story",
+                        "access":  "inspected"
+                    },
+                    {
+                        "id":  "S4",
+                        "url":  "https://moxytimessquare.com/check-in/",
+                        "accessDate":  "2026-09-30",
+                        "sourceDate":  "Undated; live guest-information page current at access",
+                        "method":  "Direct HTML inspection",
+                        "sections":  "pre-arrival; arrival; stay; dining; departure",
+                        "access":  "inspected"
+                    },
+                    {
+                        "id":  "S5",
+                        "url":  "https://moxytimessquare.com/contact/",
+                        "accessDate":  "2026-09-30",
+                        "sourceDate":  "Undated; page current at access",
+                        "method":  "Direct HTML inspection",
+                        "sections":  "discovery; reservation; pre-arrival; dining; story",
+                        "access":  "inspected"
+                    },
+                    {
+                        "id":  "S6",
+                        "url":  "https://moxytimessquare.com/calendar/",
+                        "accessDate":  "2026-09-30",
+                        "sourceDate":  "Undated; live events page current at access",
+                        "method":  "Direct HTML inspection",
+                        "sections":  "discovery; reservation; pre-arrival; atmosphere; story",
+                        "access":  "inspected"
+                    },
+                    {
+                        "id":  "S7",
+                        "url":  "https://moxytimessquare.com/meetings-events/magic-hour-events/",
+                        "accessDate":  "2026-09-30",
+                        "sourceDate":  "Undated; page current at access",
+                        "method":  "Direct HTML inspection",
+                        "sections":  "reservation; pre-arrival; dining; atmosphere",
+                        "access":  "inspected"
+                    },
+                    {
+                        "id":  "S8",
+                        "url":  "https://www.marriott.com/en-us/hotels/nycox-moxy-nyc-times-square/experiences/explore-times-square/",
+                        "accessDate":  "2026-09-30",
+                        "sourceDate":  "Undated; page current at access",
+                        "method":  "Direct HTML inspection",
+                        "sections":  "pre-arrival; arrival; stay; departure",
+                        "access":  "inspected"
+                    },
+                    {
+                        "id":  "S9",
+                        "url":  "https://moxytimessquare.com/gallery/",
+                        "accessDate":  "2026-09-30",
+                        "sourceDate":  "Undated; gallery current at access",
+                        "method":  "Direct HTML and image-gallery inspection",
+                        "sections":  "discovery; stay; dining; atmosphere; photography; story",
+                        "access":  "inspected"
+                    }
+                ]
+}
