@@ -1,0 +1,82 @@
+{
+    "sources":  [
+                    {
+                        "url":  "https://www.plazapremiumlounge.com/en-uk/find/americas/canada/toronto/toronto-pearson-international-airport/plaza-premium-lounge-domestic-departures-terminal",
+                        "id":  "S1",
+                        "method":  "Direct HTML inspection",
+                        "accessDate":  "2026-10-02",
+                        "sections":  "Overview; opening hours; location; capacity and seating zones; lounge features; available services; booking and group-booking factsheet",
+                        "sourceDate":  "Undated; current page inspected 2026-10-02",
+                        "access":  "inspected",
+                        "title":  "Plaza Premium Lounge - Domestic Departures, Terminal 1, Toronto Pearson",
+                        "note":  "Operator page states 05:30-01:00 daily; conflicts with Pearson S2. Also states 4,900 sq ft, up to 110 guests, three seating zones, booking at least one hour ahead, walk-in alternative, group-booking route for 10+, and shower charges/availability conditions."
+                    },
+                    {
+                        "url":  "https://www.torontopearson.com/en/while-you-are-here/toronto-airport-services/plaza-premium-lounge-t1-after-can-d20",
+                        "id":  "S2",
+                        "method":  "Direct HTML inspection",
+                        "accessDate":  "2026-10-02",
+                        "sections":  "Passenger eligibility; location; opening hours; rates; child pricing; VIP-section upgrade",
+                        "sourceDate":  "Undated; current page inspected 2026-10-02",
+                        "access":  "inspected",
+                        "title":  "Toronto Pearson - Plaza Premium Lounge Terminal 1 Domestic",
+                        "note":  "Airport page states 05:30-22:30 daily, conflicting with S1. Describes the lounge as open to all passengers and lists 2-, 3- and 6-hour direct-pay packages plus an optional VIP-section upgrade."
+                    },
+                    {
+                        "url":  "https://www.plazapremiumlounge.com/terms-and-conditions",
+                        "id":  "S3",
+                        "method":  "Direct HTML inspection",
+                        "accessDate":  "2026-10-02",
+                        "sections":  "Lounge access requirements; order confirmation; walk-in treatment; service availability; group-booking cancellation rules",
+                        "sourceDate":  "Last updated 2025-09-29",
+                        "access":  "inspected",
+                        "title":  "Plaza Premium Lounge Terms and Conditions",
+                        "note":  "Distinguishes confirmed prepaid orders from walk-ins; services requested on arrival are subject to availability. Defines group booking as 10 or more persons and sets separate cancellation conditions."
+                    },
+                    {
+                        "url":  "https://www.plazapremiumlounge.com/en-uk/discover/faqs/lounge-access-entitlement",
+                        "id":  "S4",
+                        "method":  "Direct HTML inspection",
+                        "accessDate":  "2026-10-02",
+                        "sections":  "Eligible credit-card access; travel-pass access; reservation requirements; capacity limitations",
+                        "sourceDate":  "Undated; current page inspected 2026-10-02",
+                        "access":  "inspected",
+                        "title":  "Plaza Premium Lounge - Lounge Access Entitlement FAQ",
+                        "note":  "Credit-card and travel-pass users may walk in with the relevant credential and boarding pass; reservation is not required, but entrance is not guaranteed and remains subject to lounge capacity. Partner quotas and visit limits may apply."
+                    },
+                    {
+                        "url":  "https://www.plazapremiumlounge.com/en-uk/discover/faqs/ppl-pass",
+                        "id":  "S5",
+                        "method":  "Direct HTML inspection",
+                        "accessDate":  "2026-10-02",
+                        "sections":  "Pass purchase; voucher entry; sharing; validity; included services; visit duration",
+                        "sourceDate":  "Undated; current page inspected 2026-10-02",
+                        "access":  "inspected",
+                        "title":  "Plaza Premium Lounge - PPL Pass FAQ",
+                        "note":  "PPL Pass creates voucher-based lounge entitlement, can be shared, is generally valid for 12 months after activation, and typically provides up to three hours per visit. Facilities vary by location and some remain chargeable or subject to availability."
+                    },
+                    {
+                        "url":  "https://www.plazapremiumlounge.com/en-uk/eligible-lounges",
+                        "id":  "S6",
+                        "method":  "Direct HTML inspection",
+                        "accessDate":  "2026-10-02",
+                        "sections":  "Lounge Pass Canada eligible locations; Toronto Pearson Terminal 1 Domestic listing",
+                        "sourceDate":  "Undated; current page inspected 2026-10-02",
+                        "access":  "inspected",
+                        "title":  "Plaza Premium Lounge - Eligible Lounges",
+                        "note":  "Confirms Plaza Premium Lounge Domestic Departures, Terminal 1 at Toronto Pearson as an eligible Lounge Pass Canada location."
+                    },
+                    {
+                        "url":  "https://www.plazapremiumlounge.com/en-uk/find/americas/canada/toronto/toronto-pearson-international-airport/plaza-premium-lounge-%28lounge-to-go-service%2C-terminal-1%29",
+                        "id":  "S7",
+                        "method":  "Direct HTML inspection",
+                        "accessDate":  "2026-10-02",
+                        "sections":  "Service description; T1 Domestic location; access boundary",
+                        "sourceDate":  "Undated; current page inspected 2026-10-02",
+                        "access":  "inspected",
+                        "title":  "Plaza Premium Lounge - Lounge To Go Service, Terminal 1",
+                        "note":  "Adjacent operator product used as a boundary source: its booking provides Lounge To Go only and explicitly does not include lounge access or lounge services."
+                    }
+                ],
+    "schemaVersion":  1
+}

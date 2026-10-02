@@ -1,0 +1,465 @@
+{
+  "status": "promoted",
+  "approvedReport": "f1b7e1582ceeffc1c2092fd00b2e9d251f5b8377438d0d7df1e84caf511a14cd",
+  "approvedAt": "2026-10-02T04:12:13.736Z",
+  "case": {
+    "caseNumber": 32,
+    "institutionName": "Plaza Premium Lounge Toronto Pearson Terminal 1 Domestic",
+    "slug": "plaza-premium-lounge-toronto-pearson-t1-domestic",
+    "institutionType": "Airport lounge with paid, pass-based, walk-in, group and optional-service access pathways",
+    "sector": "airport-lounges",
+    "canonicalPath": "khds/research/institutions/airport-lounges/plaza-premium-lounge-toronto-pearson-t1-domestic/",
+    "stagingPath": "khds/staging/case-32-plaza-premium-lounge-toronto-pearson-t1-domestic",
+    "trackingChanges": [],
+    "requiredFiles": [
+      "README.md",
+      "discovery.md",
+      "reservation.md",
+      "pre-arrival.md",
+      "arrival.md",
+      "stay.md",
+      "dining.md",
+      "departure.md",
+      "atmosphere.md",
+      "photography.md",
+      "story.md",
+      "knowledge-extraction.md"
+    ],
+    "evidenceCoverageVersion": 1,
+    "lockedAt": "2026-10-02T03:50:54.205Z",
+    "baseCommit": "ee0fab598a7c88070b8778e484e31467ca8b0475"
+  },
+  "promoted": [
+    {
+      "from": "khds/staging/case-32-plaza-premium-lounge-toronto-pearson-t1-domestic/dossier/README.md",
+      "to": "khds/research/institutions/airport-lounges/plaza-premium-lounge-toronto-pearson-t1-domestic/README.md",
+      "sha256": "2d0fbf86969978d76799cf1ad0c420dfd223989a026b60d708ab7724f317a0ee"
+    },
+    {
+      "from": "khds/staging/case-32-plaza-premium-lounge-toronto-pearson-t1-domestic/dossier/arrival.md",
+      "to": "khds/research/institutions/airport-lounges/plaza-premium-lounge-toronto-pearson-t1-domestic/arrival.md",
+      "sha256": "57942585eed1fefe1d4f4ffde7f89546d604633be09cf040d83fe442c3b9c28c"
+    },
+    {
+      "from": "khds/staging/case-32-plaza-premium-lounge-toronto-pearson-t1-domestic/dossier/atmosphere.md",
+      "to": "khds/research/institutions/airport-lounges/plaza-premium-lounge-toronto-pearson-t1-domestic/atmosphere.md",
+      "sha256": "3dc02df6018e84b2c0b57ea70d9566553c05681c3f593fa59877fa3eba103a80"
+    },
+    {
+      "from": "khds/staging/case-32-plaza-premium-lounge-toronto-pearson-t1-domestic/dossier/coverage.json",
+      "to": "khds/research/institutions/airport-lounges/plaza-premium-lounge-toronto-pearson-t1-domestic/coverage.json",
+      "sha256": "79f0d1e1bb950ae323524f34f4acbbd5c3dc9802afb26e8a08db733be065fb9c"
+    },
+    {
+      "from": "khds/staging/case-32-plaza-premium-lounge-toronto-pearson-t1-domestic/dossier/departure.md",
+      "to": "khds/research/institutions/airport-lounges/plaza-premium-lounge-toronto-pearson-t1-domestic/departure.md",
+      "sha256": "615bee46238df070f21d5ca2d29361a6efc441be47422cbd6a708baa2776e9c3"
+    },
+    {
+      "from": "khds/staging/case-32-plaza-premium-lounge-toronto-pearson-t1-domestic/dossier/dining.md",
+      "to": "khds/research/institutions/airport-lounges/plaza-premium-lounge-toronto-pearson-t1-domestic/dining.md",
+      "sha256": "7a33a51158cd7ac7c884ca3dc7c48c4de9481f0794a2727fc09115e620d81447"
+    },
+    {
+      "from": "khds/staging/case-32-plaza-premium-lounge-toronto-pearson-t1-domestic/dossier/discovery.md",
+      "to": "khds/research/institutions/airport-lounges/plaza-premium-lounge-toronto-pearson-t1-domestic/discovery.md",
+      "sha256": "48b54efdace769e292170439c5adea06f8e725126e01e10425a911ac16c62a5f"
+    },
+    {
+      "from": "khds/staging/case-32-plaza-premium-lounge-toronto-pearson-t1-domestic/dossier/knowledge-extraction.md",
+      "to": "khds/research/institutions/airport-lounges/plaza-premium-lounge-toronto-pearson-t1-domestic/knowledge-extraction.md",
+      "sha256": "057d491fbc4dc89dc18ae00fbff981f6158d2e6ee788b0d6248f2fd8e7a45e54"
+    },
+    {
+      "from": "khds/staging/case-32-plaza-premium-lounge-toronto-pearson-t1-domestic/dossier/photography.md",
+      "to": "khds/research/institutions/airport-lounges/plaza-premium-lounge-toronto-pearson-t1-domestic/photography.md",
+      "sha256": "be3fcdbf4e1619708a75594408845435f0695a918eaf5149b8e291746a52f228"
+    },
+    {
+      "from": "khds/staging/case-32-plaza-premium-lounge-toronto-pearson-t1-domestic/dossier/pre-arrival.md",
+      "to": "khds/research/institutions/airport-lounges/plaza-premium-lounge-toronto-pearson-t1-domestic/pre-arrival.md",
+      "sha256": "c445faf7a0b8775e6220f78ba9d429e5b096a32106818915ecfb204c6ad17a9d"
+    },
+    {
+      "from": "khds/staging/case-32-plaza-premium-lounge-toronto-pearson-t1-domestic/dossier/reservation.md",
+      "to": "khds/research/institutions/airport-lounges/plaza-premium-lounge-toronto-pearson-t1-domestic/reservation.md",
+      "sha256": "7a3283fe7dedc3b1973ec0d2466c0dfb2a094162288d1d7cb301be57d719993a"
+    },
+    {
+      "from": "khds/staging/case-32-plaza-premium-lounge-toronto-pearson-t1-domestic/dossier/sources.json",
+      "to": "khds/research/institutions/airport-lounges/plaza-premium-lounge-toronto-pearson-t1-domestic/sources.json",
+      "sha256": "623d82e3919278f517b27ef4eed2c0e5e34919a630619dfce6bd54c341977743"
+    },
+    {
+      "from": "khds/staging/case-32-plaza-premium-lounge-toronto-pearson-t1-domestic/dossier/stay.md",
+      "to": "khds/research/institutions/airport-lounges/plaza-premium-lounge-toronto-pearson-t1-domestic/stay.md",
+      "sha256": "7434d794fe16f872cdf97e1a8bee92feec803e8b15c8680884e8acede73fb433"
+    },
+    {
+      "from": "khds/staging/case-32-plaza-premium-lounge-toronto-pearson-t1-domestic/dossier/story.md",
+      "to": "khds/research/institutions/airport-lounges/plaza-premium-lounge-toronto-pearson-t1-domestic/story.md",
+      "sha256": "4913b33cd159697603466911e0487509239ff79fbd05cec96ae42566fe661e8e"
+    }
+  ],
+  "tracking": [],
+  "previousState": {
+    "schemaVersion": 1,
+    "expectedBranch": "main",
+    "workflowStatus": "publishable",
+    "latestCompletedCase": {
+      "caseNumber": 31,
+      "institutionName": "Moxy NYC Times Square",
+      "slug": "moxy-nyc-times-square",
+      "institutionType": "Lifestyle hotel with public social, dining, coworking and event spaces",
+      "sector": "hotels",
+      "canonicalPath": "khds/research/institutions/hotels/moxy-nyc-times-square/",
+      "dossierComplete": true,
+      "administrativeReconciliation": true
+    },
+    "expectedNextCase": 32,
+    "researchAuthorized": true,
+    "authorization": {
+      "approvedBy": "Brian Kodawa",
+      "approvedAt": "2026-10-02T03:50:54.204Z",
+      "identity": {
+        "caseNumber": 32,
+        "institutionName": "Plaza Premium Lounge Toronto Pearson Terminal 1 Domestic",
+        "slug": "plaza-premium-lounge-toronto-pearson-t1-domestic",
+        "institutionType": "Airport lounge with paid, pass-based, walk-in, group and optional-service access pathways",
+        "sector": "airport-lounges",
+        "canonicalPath": "khds/research/institutions/airport-lounges/plaza-premium-lounge-toronto-pearson-t1-domestic/"
+      }
+    },
+    "activeCase": {
+      "caseNumber": 32,
+      "institutionName": "Plaza Premium Lounge Toronto Pearson Terminal 1 Domestic",
+      "slug": "plaza-premium-lounge-toronto-pearson-t1-domestic",
+      "institutionType": "Airport lounge with paid, pass-based, walk-in, group and optional-service access pathways",
+      "sector": "airport-lounges",
+      "canonicalPath": "khds/research/institutions/airport-lounges/plaza-premium-lounge-toronto-pearson-t1-domestic/",
+      "stagingPath": "khds/staging/case-32-plaza-premium-lounge-toronto-pearson-t1-domestic",
+      "trackingChanges": [],
+      "requiredFiles": [
+        "README.md",
+        "discovery.md",
+        "reservation.md",
+        "pre-arrival.md",
+        "arrival.md",
+        "stay.md",
+        "dining.md",
+        "departure.md",
+        "atmosphere.md",
+        "photography.md",
+        "story.md",
+        "knowledge-extraction.md"
+      ],
+      "evidenceCoverageVersion": 1,
+      "lockedAt": "2026-10-02T03:50:54.205Z",
+      "baseCommit": "ee0fab598a7c88070b8778e484e31467ca8b0475"
+    },
+    "disagreements": [],
+    "publication": {
+      "journalPath": "khds/staging/case-31-moxy-nyc-times-square/publication.json",
+      "status": "promoted"
+    },
+    "reconciliationRecord": {
+      "scope": "Case #21 administratively closed at public-evidence scope; local changes uncommitted for review",
+      "controlCheckpoint": "5259bf1",
+      "correctedIssues": [
+        {
+          "path": "khds/research/institutions/hotels/fogo-island-inn-newfoundland/knowledge-extraction.md",
+          "reason": "Lines 14-15 and 3761-3763 say comparison and reconciliation pending; comparison and governance records say complete."
+        },
+        {
+          "path": "khds/research/institutions/README.md",
+          "reason": "Line 145 still defers selection of Case #21 institution."
+        },
+        {
+          "path": "khds/research/validation/README.md",
+          "reason": "Line 14703 says next Case #21; line 16803 says next Case #22."
+        },
+        {
+          "path": "khds/research/README.md",
+          "reason": "Validation README mirror remains Next at line 15284 despite its completion claim."
+        },
+        {
+          "path": "khds/research/institutions/hotels/fogo-island-inn-newfoundland/",
+          "reason": "22 dossier path references omit hotels/; legacy comparison/ references also survive the directory rename."
+        }
+      ],
+      "verifiedStages": [
+        "12-file public-evidence dossier",
+        "Institution comparison units, sector adapters and Case #21 seed",
+        "Canonical no-promotion decision and unchanged 26/8/1/0/0 maturity totals",
+        "Local canonical path and active-status corrections",
+        "Original completion checklist and F01-F12 dispositions recorded without claiming resolved operational outcomes",
+        "Current primary road/ferry sources compared; exact road duration remains uncertain"
+      ],
+      "unverified": [
+        "F01-F12 empirical outcomes and detailed operational tests remain unresolved; no positive promotion or validation",
+        "Exact Gander-to-Farewell road duration; current primary estimates conflict",
+        "Cross-institution recurrence; no second institution researched"
+      ]
+    },
+    "administrativeReview": {
+      "date": "2026-09-08",
+      "dispositionPath": "khds/research/institutions/hotels/fogo-island-inn-newfoundland/knowledge-extraction.md",
+      "travelReviewPath": "khds/research/institutions/hotels/fogo-island-inn-newfoundland/arrival.md",
+      "basis": "README public-evidence scope and non-inference rules; complete research dispositions, not operational proof",
+      "durationStatus": "uncertain",
+      "patternDecision": "no-promotion",
+      "patternValidated": false,
+      "confidenceChanges": 0
+    },
+    "reconciliationReview": {
+      "approvedBy": "Brian Kodawa",
+      "approvedAt": "2026-10-02T04:08:58.591Z",
+      "contentDigest": "cd822e15e02be67ae1277e183dc9328b2dd3a398bcbbc454b839f372fcf0a70f",
+      "controlChanges": []
+    },
+    "historyReconciliation": {
+      "approvedBy": "Brian Kodawa",
+      "approvedAt": "2026-09-22T20:13:40.949Z",
+      "scope": "Administrative machine-readable history reconciliation for completed KHDS Cases #23 and #24 only; no research content altered and Case #25 not started.",
+      "mode": "retrospective-canonical-registration",
+      "cases": [
+        {
+          "caseNumber": 23,
+          "slug": "reffen-copenhagen",
+          "evidenceCommit": "cc5d586",
+          "scriptedPublicationJournal": null
+        },
+        {
+          "caseNumber": 24,
+          "slug": "time-out-market-lisboa",
+          "evidenceCommit": "fdebc1c",
+          "scriptedPublicationJournal": null
+        }
+      ]
+    },
+    "case25Registration": {
+      "approvedBy": "Brian Kodawa",
+      "approvedAt": "2026-09-22T20:50:09.232Z",
+      "scope": "Administrative machine-readable registration of completed KHDS Case #25 Generator Copenhagen only; canonical research remains unchanged and Case #26 is unselected and unstarted.",
+      "mode": "retrospective-canonical-registration",
+      "evidenceCommit": "e8c3f72",
+      "scriptedPublicationJournal": null
+    }
+  },
+  "previousHistory": {
+    "schemaVersion": 1,
+    "cases": [
+      {
+        "caseNumber": 21,
+        "institutionName": "Fogo Island Inn",
+        "slug": "fogo-island-inn-newfoundland",
+        "institutionType": "Boutique-scale luxury hotel / inn",
+        "sector": "hotels",
+        "canonicalPath": "khds/research/institutions/hotels/fogo-island-inn-newfoundland/",
+        "dossierComplete": true,
+        "administrativeReconciliation": true,
+        "evidenceCommit": "3e027f8",
+        "completionScope": "Public-evidence dossier administratively reconciled on 2026-09-08; F01-F12 outcomes, operational validation and exact road duration remain unresolved. No pattern promotion or confidence change."
+      },
+      {
+        "caseNumber": 22,
+        "institutionName": "Sky Lagoon",
+        "slug": "sky-lagoon-kopavogur",
+        "institutionType": "Geothermal bathing and wellness venue",
+        "sector": "wellness",
+        "canonicalPath": "khds/research/institutions/wellness/sky-lagoon-kopavogur/",
+        "dossierComplete": true,
+        "administrativeReconciliation": true,
+        "publicationJournal": "khds/staging/case-22-sky-lagoon-kopavogur/publication.json"
+      },
+      {
+        "caseNumber": 23,
+        "institutionName": "Reffen",
+        "slug": "reffen-copenhagen",
+        "institutionType": "Open-air street-food market and cultural hospitality venue",
+        "sector": "venues",
+        "canonicalPath": "khds/research/institutions/venues/reffen-copenhagen/",
+        "dossierComplete": true,
+        "administrativeReconciliation": true,
+        "evidenceCommit": "cc5d586",
+        "completionScope": "Canonical public-evidence dossier and governance reconciliation committed in cc5d586. Retrospectively registered in KHDS machine-readable history because Cases #23-24 were completed outside the scripted staging/publication state transition."
+      },
+      {
+        "caseNumber": 24,
+        "institutionName": "Time Out Market Lisboa",
+        "slug": "time-out-market-lisboa",
+        "institutionType": "Indoor food-and-cultural market with multiple eateries and event spaces",
+        "sector": "venues",
+        "canonicalPath": "khds/research/institutions/venues/time-out-market-lisboa/",
+        "dossierComplete": true,
+        "administrativeReconciliation": true,
+        "evidenceCommit": "fdebc1c",
+        "completionScope": "Canonical public-evidence dossier and governance closure committed in fdebc1c. Retrospectively registered in KHDS machine-readable history because Cases #23-24 were completed outside the scripted staging/publication state transition. Legacy filename depature.md retained unchanged."
+      },
+      {
+        "caseNumber": 25,
+        "institutionName": "Generator Copenhagen",
+        "slug": "generator-copenhagen",
+        "institutionType": "Hostel / Social Stay",
+        "sector": "hostels",
+        "canonicalPath": "khds/research/institutions/hostels/generator-copenhagen/",
+        "dossierComplete": true,
+        "administrativeReconciliation": true,
+        "evidenceCommit": "e8c3f72",
+        "completionScope": "Canonical public-evidence research, case-level review, administrative closure and governance reconciliation committed in e8c3f72. Retrospectively registered in KHDS machine-readable history after the Cases #23-24 control-lineage repair. No scripted staging/publication journal exists for Case #25."
+      },
+      {
+        "caseNumber": 26,
+        "institutionName": "Scarlet Lady",
+        "slug": "scarlet-lady",
+        "institutionType": "Adults-only cruise ship / integrated hospitality vessel",
+        "sector": "cruises",
+        "canonicalPath": "khds/research/institutions/cruises/scarlet-lady/",
+        "dossierComplete": true,
+        "administrativeReconciliation": true,
+        "publicationJournal": "khds/staging/case-26-scarlet-lady/publication.json"
+      },
+      {
+        "caseNumber": 27,
+        "institutionName": "Soho House Toronto",
+        "slug": "soho-house-toronto",
+        "institutionType": "Private members' club / membership-based hospitality institution",
+        "sector": "members-clubs",
+        "canonicalPath": "khds/research/institutions/members-clubs/soho-house-toronto/",
+        "dossierComplete": true,
+        "administrativeReconciliation": true,
+        "publicationJournal": "khds/staging/case-27-soho-house-toronto/publication.json"
+      },
+      {
+        "caseNumber": 28,
+        "institutionName": "The Arts Club London",
+        "slug": "the-arts-club-london",
+        "institutionType": "Private members' club with integrated hotel, dining, cultural programming and wellness access",
+        "sector": "members-clubs",
+        "canonicalPath": "khds/research/institutions/members-clubs/the-arts-club-london/",
+        "dossierComplete": true,
+        "administrativeReconciliation": true,
+        "publicationJournal": "khds/staging/case-28-the-arts-club-london/publication.json"
+      },
+      {
+        "caseNumber": 29,
+        "institutionName": "Casa Cipriani New York",
+        "slug": "casa-cipriani-new-york",
+        "institutionType": "Private members' club with hotel accommodation, dining, events and wellness",
+        "sector": "members-clubs",
+        "canonicalPath": "khds/research/institutions/members-clubs/casa-cipriani-new-york/",
+        "dossierComplete": true,
+        "administrativeReconciliation": true,
+        "publicationJournal": "khds/staging/case-29-casa-cipriani-new-york/publication.json"
+      },
+      {
+        "caseNumber": 30,
+        "institutionName": "The Social Hub Amsterdam City",
+        "slug": "the-social-hub-amsterdam-city",
+        "institutionType": "Mixed-use hospitality hub with hotel accommodation, student and extended stays, coworking, meetings/events, food & beverage, community programming and membership",
+        "sector": "mixed-use-hospitality",
+        "canonicalPath": "khds/research/institutions/mixed-use-hospitality/the-social-hub-amsterdam-city/",
+        "dossierComplete": true,
+        "administrativeReconciliation": true,
+        "publicationJournal": "khds/staging/case-30-the-social-hub-amsterdam-city/publication.json"
+      },
+      {
+        "caseNumber": 31,
+        "institutionName": "Moxy NYC Times Square",
+        "slug": "moxy-nyc-times-square",
+        "institutionType": "Lifestyle hotel with public social, dining, coworking and event spaces",
+        "sector": "hotels",
+        "canonicalPath": "khds/research/institutions/hotels/moxy-nyc-times-square/",
+        "dossierComplete": true,
+        "administrativeReconciliation": true,
+        "publicationJournal": "khds/staging/case-31-moxy-nyc-times-square/publication.json"
+      }
+    ],
+    "priorIdentities": [
+      {
+        "slug": "alinea",
+        "institutionName": "Alinea"
+      },
+      {
+        "slug": "ankole",
+        "institutionName": "Ankole"
+      },
+      {
+        "slug": "avatar-robot-cafe-dawn-tokyo",
+        "institutionName": "Avatar Robot Cafe Dawn Tokyo"
+      },
+      {
+        "slug": "bistro-lolo",
+        "institutionName": "Bistro Lolo"
+      },
+      {
+        "slug": "cultiva",
+        "institutionName": "Cultiva"
+      },
+      {
+        "slug": "dans-le-noir-london",
+        "institutionName": "Dans Le Noir London"
+      },
+      {
+        "slug": "din-tai-fung-covent-garden",
+        "institutionName": "Din Tai Fung Covent Garden"
+      },
+      {
+        "slug": "dishoom-covent-garden",
+        "institutionName": "Dishoom Covent Garden"
+      },
+      {
+        "slug": "franklin-barbecue",
+        "institutionName": "Franklin Barbecue"
+      },
+      {
+        "slug": "fyn",
+        "institutionName": "Fyn"
+      },
+      {
+        "slug": "haidilao-toronto",
+        "institutionName": "Haidilao Toronto"
+      },
+      {
+        "slug": "ichiran-shibuya",
+        "institutionName": "Ichiran Shibuya"
+      },
+      {
+        "slug": "jbj-soul-kitchen-red-bank",
+        "institutionName": "JBJ Soul Kitchen"
+      },
+      {
+        "slug": "mawimbi",
+        "institutionName": "Mawimbi"
+      },
+      {
+        "slug": "narisawa",
+        "institutionName": "Narisawa"
+      },
+      {
+        "slug": "noma-copenhagen-2026",
+        "institutionName": "Noma Copenhagen 2026"
+      },
+      {
+        "slug": "pearl-morissette-jordan-station",
+        "institutionName": "Pearl Morissette Jordan Station"
+      },
+      {
+        "slug": "refettorio-felix-london",
+        "institutionName": "Refettorio Felix"
+      },
+      {
+        "slug": "same-cafe-denver",
+        "institutionName": "SAME Caf? Denver"
+      },
+      {
+        "slug": "talisman",
+        "institutionName": "Talisman"
+      },
+      {
+        "slug": "trunk-tandoor",
+        "institutionName": "Trunk & Tandoor"
+      }
+    ]
+  }
+}

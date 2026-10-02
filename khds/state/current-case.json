@@ -3,22 +3,22 @@
   "expectedBranch": "main",
   "workflowStatus": "idle",
   "latestCompletedCase": {
-    "caseNumber": 31,
-    "institutionName": "Moxy NYC Times Square",
-    "slug": "moxy-nyc-times-square",
-    "institutionType": "Lifestyle hotel with public social, dining, coworking and event spaces",
-    "sector": "hotels",
-    "canonicalPath": "khds/research/institutions/hotels/moxy-nyc-times-square/",
+    "caseNumber": 32,
+    "institutionName": "Plaza Premium Lounge Toronto Pearson Terminal 1 Domestic",
+    "slug": "plaza-premium-lounge-toronto-pearson-t1-domestic",
+    "institutionType": "Airport lounge with paid, pass-based, walk-in, group and optional-service access pathways",
+    "sector": "airport-lounges",
+    "canonicalPath": "khds/research/institutions/airport-lounges/plaza-premium-lounge-toronto-pearson-t1-domestic/",
     "dossierComplete": true,
     "administrativeReconciliation": true
   },
-  "expectedNextCase": 32,
+  "expectedNextCase": 33,
   "researchAuthorized": false,
   "authorization": null,
   "activeCase": null,
   "disagreements": [],
   "publication": {
-    "journalPath": "khds/staging/case-31-moxy-nyc-times-square/publication.json",
+    "journalPath": "khds/staging/case-32-plaza-premium-lounge-toronto-pearson-t1-domestic/publication.json",
     "status": "promoted"
   },
   "reconciliationRecord": {
@@ -72,8 +72,8 @@
   },
   "reconciliationReview": {
     "approvedBy": "Brian Kodawa",
-    "approvedAt": "2026-09-30T18:06:51.684Z",
-    "contentDigest": "21da61b470913f6335102aeee68269bc24055e9eaf90ab3b7c186aaffa24cf6a",
+    "approvedAt": "2026-10-02T04:08:58.591Z",
+    "contentDigest": "cd822e15e02be67ae1277e183dc9328b2dd3a398bcbbc454b839f372fcf0a70f",
     "controlChanges": []
   },
   "historyReconciliation": {

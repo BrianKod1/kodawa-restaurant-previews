@@ -1,0 +1,358 @@
+{
+    "dimensions":  [
+                       {
+                           "dimension":  "discovery",
+                           "observations":  [
+                                                {
+                                                    "text":  "The operator and airport present the lounge as accessible beyond a single airline or cabin class, while public materials expose direct purchase, credential/pass and adjacent Lounge To Go pathways.",
+                                                    "sources":  [
+                                                                    "S1",
+                                                                    "S2",
+                                                                    "S4",
+                                                                    "S5",
+                                                                    "S6",
+                                                                    "S7"
+                                                                ]
+                                                },
+                                                {
+                                                    "text":  "Lounge To Go is explicitly separated from lounge admission, establishing a discoverable product boundary within the same operator environment.",
+                                                    "sources":  [
+                                                                    "S7"
+                                                                ]
+                                                }
+                                            ],
+                           "nextEvidence":  "Inspect the complete booking/discovery journey on desktop and mobile and test whether access distinctions remain clear before purchase.",
+                           "question":  "How is the Terminal 1 Domestic lounge presented, who is told they may use it, and how clearly are distinct access relationships exposed before booking?",
+                           "sources":  [
+                                           "S1",
+                                           "S2",
+                                           "S4",
+                                           "S5",
+                                           "S6",
+                                           "S7"
+                                       ],
+                           "reason":  "Multiple public access pathways are identifiable, but discoverability and comprehension have not been tested.",
+                           "rating":  "partial",
+                           "unanswered":  [
+                                              "The prominence and ordering of access pathways across desktop/mobile discovery were not systematically inspected.",
+                                              "The evidence does not establish whether passengers consistently understand the distinction among direct purchase, pass, partner credential and Lounge To Go before arrival."
+                                          ],
+                           "scopeChange":  "None. Initial Case #32 public-evidence scope. Rating applies only to the stated question and inspected sources, not operational execution or representative guest outcomes."
+                       },
+                       {
+                           "dimension":  "reservation",
+                           "observations":  [
+                                                {
+                                                    "text":  "The operator distinguishes advance booking from walk-in access and states that some services requested at arrival remain subject to availability.",
+                                                    "sources":  [
+                                                                    "S1",
+                                                                    "S3"
+                                                                ]
+                                                },
+                                                {
+                                                    "text":  "Credit-card and travel-pass users may arrive without a reservation, but admission remains capacity-dependent.",
+                                                    "sources":  [
+                                                                    "S4"
+                                                                ]
+                                                },
+                                                {
+                                                    "text":  "PPL Pass creates a voucher-based access relationship, while group bookings of ten or more people have separate conditions.",
+                                                    "sources":  [
+                                                                    "S3",
+                                                                    "S5"
+                                                                ]
+                                                }
+                                            ],
+                           "nextEvidence":  "Inspect booking-specific cancellation, denied-entry and capacity-priority rules for each access channel.",
+                           "question":  "How do advance booking, walk-in, pass, partner-card, group and optional-service pathways differ in commitment, capacity and cancellation conditions?",
+                           "sources":  [
+                                           "S1",
+                                           "S3",
+                                           "S4",
+                                           "S5",
+                                           "S6"
+                                       ],
+                           "reason":  "Several distinct commitment mechanisms are documented, but their interaction under capacity pressure is not fully specified.",
+                           "rating":  "partial",
+                           "unanswered":  [
+                                              "The inspected sources do not establish whether every access channel shares the same capacity pool or priority order.",
+                                              "Exact individual no-show, change, refund and denied-entry handling across all channels remains incomplete."
+                                          ],
+                           "scopeChange":  "None. Initial Case #32 public-evidence scope. Rating applies only to the stated question and inspected sources, not operational execution or representative guest outcomes."
+                       },
+                       {
+                           "dimension":  "pre-arrival",
+                           "observations":  [
+                                                {
+                                                    "text":  "Advance booking, boarding-pass or credential requirements, pass use and capacity conditions create different preparation needs depending on access route.",
+                                                    "sources":  [
+                                                                    "S1",
+                                                                    "S4",
+                                                                    "S5"
+                                                                ]
+                                                },
+                                                {
+                                                    "text":  "The operator and airport publish conflicting daily closing times: S1 states 05:30-01:00 while S2 states 05:30-22:30.",
+                                                    "sources":  [
+                                                                    "S1",
+                                                                    "S2"
+                                                                ]
+                                                }
+                                            ],
+                           "nextEvidence":  "Obtain a dated authoritative hours confirmation and inspect booking confirmations and pre-arrival notices for disruption and capacity messaging.",
+                           "question":  "What must a passenger know or possess before arriving, and how much uncertainty remains before physical lounge entry?",
+                           "sources":  [
+                                           "S1",
+                                           "S2",
+                                           "S4",
+                                           "S5"
+                                       ],
+                           "reason":  "Core preparation requirements are visible, but conflicting hours and unresolved capacity/service uncertainty remain material.",
+                           "rating":  "partial",
+                           "unanswered":  [
+                                              "The current source set does not resolve the opening-hours conflict.",
+                                              "Pre-arrival messaging for full-capacity conditions, delays, changed flight timing or unavailable optional services is not established."
+                                          ],
+                           "scopeChange":  "None. Initial Case #32 public-evidence scope. Rating applies only to the stated question and inspected sources, not operational execution or representative guest outcomes."
+                       },
+                       {
+                           "dimension":  "arrival",
+                           "observations":  [
+                                                {
+                                                    "text":  "The lounge is presented as a post-security Terminal 1 Domestic facility with multiple valid arrival pathways.",
+                                                    "sources":  [
+                                                                    "S1",
+                                                                    "S2"
+                                                                ]
+                                                },
+                                                {
+                                                    "text":  "Partner-card and travel-pass entry requires the relevant credential and boarding pass, while admission remains subject to capacity.",
+                                                    "sources":  [
+                                                                    "S4"
+                                                                ]
+                                                },
+                                                {
+                                                    "text":  "PPL Pass uses voucher-based entry rather than the direct-pay relationship.",
+                                                    "sources":  [
+                                                                    "S5"
+                                                                ]
+                                                }
+                                            ],
+                           "nextEvidence":  "Inspect arrival signage and official denied-entry/waitlist guidance; separately observe or test admission handling if permitted.",
+                           "question":  "How are location, eligibility verification, credential checking, walk-in admission and capacity decisions handled at physical arrival?",
+                           "sources":  [
+                                           "S1",
+                                           "S2",
+                                           "S4",
+                                           "S5"
+                                       ],
+                           "reason":  "Entry routes are documented, but the actual admission decision process under congestion remains unclear.",
+                           "rating":  "partial",
+                           "unanswered":  [
+                                              "Queue rules, priority among access types, waitlisting and denied-entry recovery are not publicly established in the inspected sources.",
+                                              "Frontline verification and exception handling were not observed."
+                                          ],
+                           "scopeChange":  "None. Initial Case #32 public-evidence scope. Rating applies only to the stated question and inspected sources, not operational execution or representative guest outcomes."
+                       },
+                       {
+                           "dimension":  "stay",
+                           "observations":  [
+                                                {
+                                                    "text":  "The lounge publishes a finite capacity and multiple seating zones rather than an undifferentiated room.",
+                                                    "sources":  [
+                                                                    "S1"
+                                                                ]
+                                                },
+                                                {
+                                                    "text":  "Pearson lists time-bounded direct-pay packages, while PPL Pass typically provides a separate visit-duration entitlement.",
+                                                    "sources":  [
+                                                                    "S2",
+                                                                    "S5"
+                                                                ]
+                                                },
+                                                {
+                                                    "text":  "Optional services such as showers may be chargeable or subject to availability rather than automatically included with admission.",
+                                                    "sources":  [
+                                                                    "S1",
+                                                                    "S3",
+                                                                    "S5"
+                                                                ]
+                                                }
+                                            ],
+                           "nextEvidence":  "Inspect detailed service-inclusion rules, extension/re-entry policy and any zone-specific access conditions.",
+                           "question":  "Once admitted, how do visit duration, seating, capacity and optional services shape different lounge-use relationships?",
+                           "sources":  [
+                                           "S1",
+                                           "S2",
+                                           "S3",
+                                           "S5"
+                                       ],
+                           "reason":  "Time, capacity and optional-service layers are visible, but actual entitlement enforcement and in-lounge differentiation remain incomplete.",
+                           "rating":  "partial",
+                           "unanswered":  [
+                                              "How visit-duration limits are enforced, extended or recovered after disruption is not established.",
+                                              "The inspected sources do not establish whether every seating zone or optional service is equally available to every admitted user."
+                                          ],
+                           "scopeChange":  "None. Initial Case #32 public-evidence scope. Rating applies only to the stated question and inspected sources, not operational execution or representative guest outcomes."
+                       },
+                       {
+                           "dimension":  "dining",
+                           "observations":  [
+                                                {
+                                                    "text":  "Food and beverage are presented as lounge features within the operator proposition.",
+                                                    "sources":  [
+                                                                    "S1"
+                                                                ]
+                                                },
+                                                {
+                                                    "text":  "PPL Pass guidance warns that facilities and inclusions vary by location, preventing a universal inclusion assumption.",
+                                                    "sources":  [
+                                                                    "S5"
+                                                                ]
+                                                }
+                                            ],
+                           "nextEvidence":  "Inspect current lounge-specific food-and-beverage menus, dietary guidance, service hours and inclusion/exclusion terms.",
+                           "question":  "What food-and-beverage services are represented as part of lounge admission, and where do entitlement, availability or dietary limits remain unclear?",
+                           "sources":  [
+                                           "S1",
+                                           "S5"
+                                       ],
+                           "reason":  "Dining is part of the public proposition, but detailed entitlement and service execution remain under-specified.",
+                           "rating":  "partial",
+                           "unanswered":  [
+                                              "Current menu, service periods, dietary handling, alcohol conditions and replenishment/capacity behaviour were not established.",
+                                              "The evidence does not prove that every food-and-beverage item is included for every access pathway."
+                                          ],
+                           "scopeChange":  "None. Initial Case #32 public-evidence scope. Rating applies only to the stated question and inspected sources, not operational execution or representative guest outcomes."
+                       },
+                       {
+                           "dimension":  "departure",
+                           "observations":  [
+                                                {
+                                                    "text":  "Direct-pay products and PPL Pass describe time-bounded lounge use rather than indefinite access.",
+                                                    "sources":  [
+                                                                    "S2",
+                                                                    "S5"
+                                                                ]
+                                                },
+                                                {
+                                                    "text":  "The unresolved S1/S2 closing-time conflict creates a material boundary question for late-evening users.",
+                                                    "sources":  [
+                                                                    "S1",
+                                                                    "S2"
+                                                                ]
+                                                }
+                                            ],
+                           "nextEvidence":  "Inspect extension, re-entry, delayed-flight and closing-time policies and any customer-support escalation path.",
+                           "question":  "How does the lounge relationship end, and what happens when visit duration, lounge hours or flight timing no longer align?",
+                           "sources":  [
+                                           "S1",
+                                           "S2",
+                                           "S5"
+                                       ],
+                           "reason":  "Time boundaries are visible, but closure and recovery mechanisms remain unclear.",
+                           "rating":  "partial",
+                           "unanswered":  [
+                                              "Extension, re-entry, early closure, delayed-flight and overstay handling are not established.",
+                                              "The inspected sources do not describe a formal departure handoff or recovery route when lounge access ends before the passenger journey does."
+                                          ],
+                           "scopeChange":  "None. Initial Case #32 public-evidence scope. Rating applies only to the stated question and inspected sources, not operational execution or representative guest outcomes."
+                       },
+                       {
+                           "dimension":  "atmosphere",
+                           "observations":  [
+                                                {
+                                                    "text":  "S1 describes a 4,900-square-foot lounge for up to 110 guests with three seating zones.",
+                                                    "sources":  [
+                                                                    "S1"
+                                                                ]
+                                                },
+                                                {
+                                                    "text":  "S2 describes an optional VIP-section upgrade, indicating at least one differentiated spatial or service layer.",
+                                                    "sources":  [
+                                                                    "S2"
+                                                                ]
+                                                }
+                                            ],
+                           "nextEvidence":  "Inspect detailed space descriptions and representative current imagery; separately test crowding/noise claims rather than inferring them from design.",
+                           "question":  "How do the public materials describe the lounge environment, spatial segmentation and conditions that may affect comfort or social use?",
+                           "sources":  [
+                                           "S1",
+                                           "S2"
+                                       ],
+                           "reason":  "Spatial differentiation is documented, but lived atmosphere and operating conditions are not.",
+                           "rating":  "partial",
+                           "unanswered":  [
+                                              "Representative crowding, noise, privacy, sensory conditions and actual use of the different zones were not observed.",
+                                              "The practical difference between ordinary seating zones and the VIP upgrade is not fully documented in the inspected source set."
+                                          ],
+                           "scopeChange":  "None. Initial Case #32 public-evidence scope. Rating applies only to the stated question and inspected sources, not operational execution or representative guest outcomes."
+                       },
+                       {
+                           "dimension":  "photography",
+                           "observations":  [
+                                                {
+                                                    "text":  "The inspected textual pages establish multiple seating zones and a VIP layer, giving spatial questions for later image review.",
+                                                    "sources":  [
+                                                                    "S1",
+                                                                    "S2"
+                                                                ]
+                                                }
+                                            ],
+                           "nextEvidence":  "Directly inspect official lounge imagery and record individual frames, captions, page placement and practical information conveyed.",
+                           "question":  "Does official visual material explain spatial layout, access boundaries and service differences, or primarily promote the lounge?",
+                           "sources":  [
+                                           "S1",
+                                           "S2"
+                                       ],
+                           "reason":  "The current source set identifies visual questions but does not yet provide a completed photographic analysis.",
+                           "rating":  "partial",
+                           "unanswered":  [
+                                              "No systematic image-by-image inspection has yet established what the official photography actually shows.",
+                                              "Desktop/mobile image sequence, crops, practical wayfinding evidence and representation of congestion or access boundaries remain untested."
+                                          ],
+                           "scopeChange":  "None. Initial Case #32 public-evidence scope. Rating applies only to the stated question and inspected sources, not operational execution or representative guest outcomes."
+                       },
+                       {
+                           "dimension":  "story",
+                           "observations":  [
+                                                {
+                                                    "text":  "The public proposition presents a single lounge brand while allowing several materially different ways to qualify, commit and enter.",
+                                                    "sources":  [
+                                                                    "S1",
+                                                                    "S2",
+                                                                    "S3",
+                                                                    "S4",
+                                                                    "S5",
+                                                                    "S6"
+                                                                ]
+                                                },
+                                                {
+                                                    "text":  "Lounge To Go remains under the same broader operator environment while explicitly excluding lounge admission, creating a useful boundary against treating every Plaza Premium product as the same hospitality relationship.",
+                                                    "sources":  [
+                                                                    "S7"
+                                                                ]
+                                                }
+                                            ],
+                           "nextEvidence":  "Test whether access pathways materially change entitlement, priority, service recovery or responsibility rather than merely payment method.",
+                           "question":  "What institutional story is created when one lounge identity supports direct-pay, walk-in, credential, pass, group and adjacent product relationships?",
+                           "sources":  [
+                                           "S1",
+                                           "S2",
+                                           "S3",
+                                           "S4",
+                                           "S5",
+                                           "S6",
+                                           "S7"
+                                       ],
+                           "reason":  "A shared institutional identity with differentiated relationships is visible, but the stronger architecture claim still requires operational and cross-case falsification.",
+                           "rating":  "partial",
+                           "unanswered":  [
+                                              "The evidence does not yet establish whether these relationships are operationally coordinated through one capacity and service system or simply coexist as commercial access products.",
+                                              "Independent guest understanding, service recovery and backend responsibility allocation remain unverified."
+                                          ],
+                           "scopeChange":  "None. Initial Case #32 public-evidence scope. Rating applies only to the stated question and inspected sources, not operational execution or representative guest outcomes."
+                       }
+                   ],
+    "schemaVersion":  1
+}
