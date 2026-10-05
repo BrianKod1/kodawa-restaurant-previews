@@ -1,0 +1,387 @@
+{
+    "dimensions":  [
+                       {
+                           "dimension":  "discovery",
+                           "observations":  [
+                                                {
+                                                    "text":  "YOTEL publicly distinguishes YOTELAIR Airside from its separate Landside sister hotel, with materially different airport-access conditions.",
+                                                    "sources":  [
+                                                                    "S1",
+                                                                    "S2",
+                                                                    "S5"
+                                                                ]
+                                                },
+                                                {
+                                                    "text":  "Within the airside environment, public material exposes conventional overnight stays, hourly accommodation, Sleep Cabins and separately purchasable Revolve Lounge access rather than one undifferentiated hotel product.",
+                                                    "sources":  [
+                                                                    "S1",
+                                                                    "S2",
+                                                                    "S3"
+                                                                ]
+                                                }
+                                            ],
+                           "nextEvidence":  "Inspect the complete desktop and mobile discovery paths and record how clearly airside eligibility, hourly stays, overnight stays, Sleep Cabins and lounge-only use are distinguished before booking.",
+                           "question":  "How is YOTELAIR Airside presented to travellers, and how clearly are its different accommodation, lounge and airport-access relationships exposed before commitment?",
+                           "sources":  [
+                                           "S1",
+                                           "S2",
+                                           "S3",
+                                           "S5"
+                                       ],
+                           "reason":  "Several distinct public products and access boundaries are identifiable, but their discoverability and comprehension have not been systematically tested.",
+                           "rating":  "partial",
+                           "unanswered":  [
+                                              "The prominence and ordering of hourly, overnight, Sleep Cabin and lounge-only pathways across desktop and mobile have not been systematically inspected.",
+                                              "The evidence does not establish whether travellers consistently understand the Airside versus Landside distinction before committing to a booking."
+                                          ],
+                           "scopeChange":  "None. Initial Case #33 public-evidence scope. Rating applies only to the stated question and inspected sources, not operational execution or representative guest outcomes."
+                       },
+                       {
+                           "dimension":  "reservation",
+                           "observations":  [
+                                                {
+                                                    "text":  "The operator distinguishes hourly accommodation from overnight stays, while Sleep Cabins are separately bookable as a single-guest short-stay product.",
+                                                    "sources":  [
+                                                                    "S1",
+                                                                    "S3",
+                                                                    "S4"
+                                                                ]
+                                                },
+                                                {
+                                                    "text":  "The inspected operator material contains an unresolved duration conflict: S2 describes Sleep Cabins as bookable for a maximum of four hours, while S3 states a minimum of four hours.",
+                                                    "sources":  [
+                                                                    "S2",
+                                                                    "S3"
+                                                                ]
+                                                },
+                                                {
+                                                    "text":  "General YOTEL terms distinguish direct reservations from authorised OTA bookings and apply separate group conditions when more than five rooms, cabins or pads are booked.",
+                                                    "sources":  [
+                                                                    "S6"
+                                                                ]
+                                                }
+                                            ],
+                           "nextEvidence":  "Inspect live booking paths for hourly rooms, overnight rooms and Sleep Cabins, including rate rules, inventory interaction, payment, modification and cancellation conditions.",
+                           "question":  "How do hourly, overnight, Sleep Cabin, direct, OTA and group reservations differ in commitment, duration, inventory and cancellation conditions?",
+                           "sources":  [
+                                           "S1",
+                                           "S2",
+                                           "S3",
+                                           "S4",
+                                           "S6"
+                                       ],
+                           "reason":  "Multiple reservation relationships are documented, but their inventory interaction and rate-specific conditions are incomplete and one published duration rule is internally inconsistent.",
+                           "rating":  "partial",
+                           "unanswered":  [
+                                              "The inspected sources do not establish whether hourly and overnight products draw from the same room inventory or use different capacity rules.",
+                                              "The maximum-versus-minimum four-hour Sleep Cabin conflict remains unresolved.",
+                                              "Rate-specific change, refund, no-show and early-arrival rules are not fully established across all booking channels."
+                                          ],
+                           "scopeChange":  "None. Initial Case #33 public-evidence scope. Rating applies only to the stated question and inspected sources, not operational execution or representative guest outcomes."
+                       },
+                       {
+                           "dimension":  "pre-arrival",
+                           "observations":  [
+                                                {
+                                                    "text":  "YOTELAIR Airside requires a valid boarding pass for an international flight because the property is located inside the secure international transit area.",
+                                                    "sources":  [
+                                                                    "S1",
+                                                                    "S2",
+                                                                    "S3",
+                                                                    "S4"
+                                                                ]
+                                                },
+                                                {
+                                                    "text":  "The Sleep Cabin booking material adds a baggage constraint by stating that only hand luggage is permitted rather than large checked luggage.",
+                                                    "sources":  [
+                                                                    "S4"
+                                                                ]
+                                                },
+                                                {
+                                                    "text":  "The Landside sister property has different eligibility and is accessible before security and passport control, making airport journey state part of hotel selection.",
+                                                    "sources":  [
+                                                                    "S2",
+                                                                    "S5"
+                                                                ]
+                                                }
+                                            ],
+                           "nextEvidence":  "Inspect booking confirmations and pre-arrival guidance for boarding-pass eligibility, baggage handling, security, passport control, transfer conditions and recovery when a traveller selects the wrong property.",
+                           "question":  "What must a traveller know or possess before arrival, and how strongly does airport journey state determine whether the airside hotel can actually be reached?",
+                           "sources":  [
+                                           "S1",
+                                           "S2",
+                                           "S3",
+                                           "S4",
+                                           "S5"
+                                       ],
+                           "reason":  "Core access prerequisites are public, but several transfer, baggage and exception scenarios remain unresolved.",
+                           "rating":  "partial",
+                           "unanswered":  [
+                                              "The inspected sources do not fully establish handling for passengers who must collect checked baggage, change terminal status or pass immigration before reaching the property.",
+                                              "Pre-arrival recovery when a guest books Airside but is operationally unable to reach the secure area has not been established."
+                                          ],
+                           "scopeChange":  "None. Initial Case #33 public-evidence scope. Rating applies only to the stated question and inspected sources, not operational execution or representative guest outcomes."
+                       },
+                       {
+                           "dimension":  "arrival",
+                           "observations":  [
+                                                {
+                                                    "text":  "The hotel is positioned within Istanbul Airport\u0027s international airside area, so physical hotel arrival occurs only after the traveller satisfies airport-side eligibility.",
+                                                    "sources":  [
+                                                                    "S1",
+                                                                    "S2"
+                                                                ]
+                                                },
+                                                {
+                                                    "text":  "Sleep Cabin use also requires a valid international-flight boarding pass and occurs within the secure transit environment.",
+                                                    "sources":  [
+                                                                    "S3",
+                                                                    "S4"
+                                                                ]
+                                                },
+                                                {
+                                                    "text":  "The Landside property provides a separate arrival pathway for travellers who cannot or should not remain airside.",
+                                                    "sources":  [
+                                                                    "S5"
+                                                                ]
+                                                }
+                                            ],
+                           "nextEvidence":  "Inspect official wayfinding, physical check-in instructions, credential verification and exception handling for delayed, misdirected or ineligible travellers.",
+                           "question":  "How are airport eligibility, wayfinding, boarding-pass verification and accommodation check-in combined at physical arrival?",
+                           "sources":  [
+                                           "S1",
+                                           "S2",
+                                           "S3",
+                                           "S4",
+                                           "S5"
+                                       ],
+                           "reason":  "Location and eligibility are documented, but the actual frontline arrival and exception process remains incomplete.",
+                           "rating":  "partial",
+                           "unanswered":  [
+                                              "Physical wayfinding from gates, transfer routes and security checkpoints was not systematically inspected.",
+                                              "Frontline handling when a traveller lacks the correct boarding pass, has checked-baggage requirements or arrives through the wrong side of the terminal is not established."
+                                          ],
+                           "scopeChange":  "None. Initial Case #33 public-evidence scope. Rating applies only to the stated question and inspected sources, not operational execution or representative guest outcomes."
+                       },
+                       {
+                           "dimension":  "stay",
+                           "observations":  [
+                                                {
+                                                    "text":  "The airside institution supports both hourly accommodation and conventional overnight stays rather than one fixed-duration lodging relationship.",
+                                                    "sources":  [
+                                                                    "S1",
+                                                                    "S2"
+                                                                ]
+                                                },
+                                                {
+                                                    "text":  "Sleep Cabins form a separate single-guest product with shared bathroom and shower facilities rather than the same accommodation configuration as a standard hotel room.",
+                                                    "sources":  [
+                                                                    "S2",
+                                                                    "S3",
+                                                                    "S4"
+                                                                ]
+                                                },
+                                                {
+                                                    "text":  "Revolve Lounge access and some ancillary services can be purchased separately, so accommodation does not automatically establish entitlement to every service in the broader hospitality environment.",
+                                                    "sources":  [
+                                                                    "S1",
+                                                                    "S6"
+                                                                ]
+                                                }
+                                            ],
+                           "nextEvidence":  "Inspect room-category inclusions, hourly extension rules, lounge entitlement, shower entitlement, re-entry conditions and any operational boundary between standard rooms and Sleep Cabins.",
+                           "question":  "Once inside the institution, how do duration, accommodation type, shared facilities and separately purchasable services create different guest relationships?",
+                           "sources":  [
+                                           "S1",
+                                           "S2",
+                                           "S3",
+                                           "S4",
+                                           "S6"
+                                       ],
+                           "reason":  "Meaningful duration, accommodation and ancillary-service layers are visible, but entitlement and operational enforcement remain incomplete.",
+                           "rating":  "partial",
+                           "unanswered":  [
+                                              "The inspected sources do not establish how hourly stays are extended or converted into longer stays when availability changes.",
+                                              "The complete entitlement difference among standard rooms, Sleep Cabins, lounge-only users and separately purchased ancillary services is not established."
+                                          ],
+                           "scopeChange":  "None. Initial Case #33 public-evidence scope. Rating applies only to the stated question and inspected sources, not operational execution or representative guest outcomes."
+                       },
+                       {
+                           "dimension":  "dining",
+                           "observations":  [
+                                                {
+                                                    "text":  "The airside property publicly presents food-and-drink service through the Revolve Lounge as part of the wider hospitality environment.",
+                                                    "sources":  [
+                                                                    "S1"
+                                                                ]
+                                                },
+                                                {
+                                                    "text":  "Sleep Cabin material also references a Grab+Go offer, indicating that food access is not represented solely through the accommodation product.",
+                                                    "sources":  [
+                                                                    "S3"
+                                                                ]
+                                                },
+                                                {
+                                                    "text":  "General YOTEL terms allow complementary or ancillary facilities to carry separate conditions or charges rather than being universally included in accommodation.",
+                                                    "sources":  [
+                                                                    "S6"
+                                                                ]
+                                                }
+                                            ],
+                           "nextEvidence":  "Inspect current menus, opening periods, lounge package inclusions, Grab+Go conditions and whether dining entitlement differs among room guests, Sleep Cabin users and lounge-only visitors.",
+                           "question":  "How are food-and-beverage services distributed across accommodation and lounge relationships, and what is included versus separately purchased?",
+                           "sources":  [
+                                           "S1",
+                                           "S3",
+                                           "S6"
+                                       ],
+                           "reason":  "Multiple food-and-beverage touchpoints are visible, but their exact inclusion, availability and customer-group boundaries remain incomplete.",
+                           "rating":  "partial",
+                           "unanswered":  [
+                                              "Current menu, service hours, dietary handling and exact inclusion rules were not comprehensively established.",
+                                              "The evidence does not establish whether room guests, Sleep Cabin users and lounge-only visitors receive identical food-and-beverage access."
+                                          ],
+                           "scopeChange":  "None. Initial Case #33 public-evidence scope. Rating applies only to the stated question and inspected sources, not operational execution or representative guest outcomes."
+                       },
+                       {
+                           "dimension":  "departure",
+                           "observations":  [
+                                                {
+                                                    "text":  "Hourly accommodation and overnight accommodation create different expected endpoints to the lodging relationship.",
+                                                    "sources":  [
+                                                                    "S1",
+                                                                    "S2",
+                                                                    "S3"
+                                                                ]
+                                                },
+                                                {
+                                                    "text":  "The Sleep Cabin booking flow publishes a cancellation rule, while broader reservation conditions vary by selected rate and Special Conditions.",
+                                                    "sources":  [
+                                                                    "S4",
+                                                                    "S6"
+                                                                ]
+                                                },
+                                                {
+                                                    "text":  "Because the property is airside, departure from the hotel remains embedded in an onward international-airport journey rather than functioning only as a conventional hotel checkout.",
+                                                    "sources":  [
+                                                                    "S1",
+                                                                    "S2"
+                                                                ]
+                                                }
+                                            ],
+                           "nextEvidence":  "Inspect checkout, extension, missed-flight, re-entry, cancellation and disruption procedures across hourly rooms, overnight rooms and Sleep Cabins.",
+                           "question":  "How does each lodging relationship end, and what happens when booked duration and the traveller\u0027s onward flight no longer align?",
+                           "sources":  [
+                                           "S1",
+                                           "S2",
+                                           "S3",
+                                           "S4",
+                                           "S6"
+                                       ],
+                           "reason":  "Different stay endpoints are visible, but extension and disruption recovery mechanisms are not fully documented.",
+                           "rating":  "partial",
+                           "unanswered":  [
+                                              "Hourly-stay extension, overstay and conversion to overnight accommodation are not established.",
+                                              "The inspected sources do not fully describe recovery when a delayed, cancelled or missed flight disrupts the expected checkout and onward-airport journey."
+                                          ],
+                           "scopeChange":  "None. Initial Case #33 public-evidence scope. Rating applies only to the stated question and inspected sources, not operational execution or representative guest outcomes."
+                       },
+                       {
+                           "dimension":  "atmosphere",
+                           "observations":  [
+                                                {
+                                                    "text":  "Public material distinguishes private hotel accommodation, compact single-guest Sleep Cabins and a shared Revolve Lounge, indicating several spatially different hospitality settings within the wider airside proposition.",
+                                                    "sources":  [
+                                                                    "S1",
+                                                                    "S2",
+                                                                    "S3"
+                                                                ]
+                                                }
+                                            ],
+                           "nextEvidence":  "Inspect current official imagery and spatial descriptions for standard rooms, Sleep Cabins, shared facilities and Revolve Lounge, while keeping promotional representation separate from observed operating conditions.",
+                           "question":  "How do private accommodation, compact cabin space and shared lounge space create different environmental and social conditions within the airside hospitality system?",
+                           "sources":  [
+                                           "S1",
+                                           "S2",
+                                           "S3"
+                                       ],
+                           "reason":  "Distinct spatial products are documented, but lived atmosphere, crowding, privacy and sensory conditions have not been observed.",
+                           "rating":  "partial",
+                           "unanswered":  [
+                                              "Representative noise, crowding, privacy, lighting and social-use conditions were not observed.",
+                                              "The practical environmental difference between the various room types, Sleep Cabins and Revolve Lounge has not been systematically documented."
+                                          ],
+                           "scopeChange":  "None. Initial Case #33 public-evidence scope. Rating applies only to the stated question and inspected sources, not operational execution or representative guest outcomes."
+                       },
+                       {
+                           "dimension":  "photography",
+                           "observations":  [
+                                                {
+                                                    "text":  "The inspected textual material identifies standard accommodation, Sleep Cabins, shared facilities and Revolve Lounge as separate visual questions for later image review.",
+                                                    "sources":  [
+                                                                    "S1",
+                                                                    "S2",
+                                                                    "S3"
+                                                                ]
+                                                }
+                                            ],
+                           "nextEvidence":  "Directly inspect official images and record individual frames, captions, page placement, room scale, shared-facility representation, wayfinding information and whether access boundaries are visually communicated.",
+                           "question":  "Does official visual material clarify accommodation types, shared-space differences and airport-access boundaries, or primarily promote the property?",
+                           "sources":  [
+                                           "S1",
+                                           "S2",
+                                           "S3"
+                                       ],
+                           "reason":  "The current source set identifies the visual subjects but does not constitute a completed photographic analysis.",
+                           "rating":  "partial",
+                           "unanswered":  [
+                                              "No systematic image-by-image inspection has yet established what the official photography actually shows.",
+                                              "Desktop and mobile image sequencing, cropping, wayfinding value and representation of real operating conditions remain untested."
+                                          ],
+                           "scopeChange":  "None. Initial Case #33 public-evidence scope. Rating applies only to the stated question and inspected sources, not operational execution or representative guest outcomes."
+                       },
+                       {
+                           "dimension":  "story",
+                           "observations":  [
+                                                {
+                                                    "text":  "One YOTEL airport ecosystem supports airside overnight lodging, hourly accommodation, standalone Sleep Cabins, separately purchasable lounge use and a distinct Landside sister hotel with different eligibility.",
+                                                    "sources":  [
+                                                                    "S1",
+                                                                    "S2",
+                                                                    "S3",
+                                                                    "S5"
+                                                                ]
+                                                },
+                                                {
+                                                    "text":  "Airport eligibility, duration, accommodation form, ancillary-service entitlement and booking channel vary without eliminating the shared operator identity.",
+                                                    "sources":  [
+                                                                    "S1",
+                                                                    "S2",
+                                                                    "S3",
+                                                                    "S4",
+                                                                    "S5",
+                                                                    "S6"
+                                                                ]
+                                                }
+                                            ],
+                           "nextEvidence":  "Test whether these differences materially change entitlement, operational responsibility, service recovery and capacity allocation rather than merely representing product packaging or booking-channel variation.",
+                           "question":  "Does YOTELAIR Airside demonstrate a genuinely role-partitioned, multi-relationship hospitality architecture, or is it better explained as one conventional airport hotel selling several durations and ancillary products?",
+                           "sources":  [
+                                           "S1",
+                                           "S2",
+                                           "S3",
+                                           "S4",
+                                           "S5",
+                                           "S6"
+                                       ],
+                           "reason":  "A shared operator environment with differentiated relationships is visible, but the stronger architecture claim still requires operational and cross-case falsification.",
+                           "rating":  "partial",
+                           "unanswered":  [
+                                              "The evidence does not establish whether room guests, Sleep Cabin users and lounge-only visitors are coordinated through one operational capacity and responsibility system or several loosely connected products.",
+                                              "Independent guest understanding, frontline exception handling, service recovery and backend responsibility allocation remain unverified."
+                                          ],
+                           "scopeChange":  "None. Initial Case #33 public-evidence scope. Rating applies only to the stated question and inspected sources, not operational execution or representative guest outcomes."
+                       }
+                   ],
+    "schemaVersion":  1
+}

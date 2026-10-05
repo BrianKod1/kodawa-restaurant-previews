@@ -1,0 +1,71 @@
+{
+  "sources": [
+    {
+      "url": "https://www.yotel.com/en/hotels/yotelair-istanbul-airport-airside",
+      "id": "S1",
+      "method": "Direct HTML inspection",
+      "accessDate": "2026-10-05",
+      "sections": "Overview; room options; hourly bookings; overnight stays; airside access; location; Revolve Lounge; food and drink; FAQs",
+      "sourceDate": "Undated; current page inspected 2026-10-05",
+      "access": "inspected",
+      "title": "YOTELAIR Istanbul Airport (Airside)",
+      "note": "Primary operator page. States that the hotel is inside the international Duty Free airside area and requires a valid boarding pass for an international flight. Distinguishes hourly stays with a four-hour minimum from overnight stays and solo Sleep Cabins. Lounge access is separately purchasable by hotel guests and non-hotel travellers, and shower access is separately charged. The page contains an unresolved internal duration discrepancy: its Food & Drink section describes the EUR 80 Revolve Lounge package as four hours, while its Offers section describes 24-hour lounge access from EUR 80."
+    },
+    {
+      "url": "https://www.yotel.com/en/hotels/istanbul",
+      "id": "S2",
+      "method": "Direct HTML inspection",
+      "accessDate": "2026-10-05",
+      "sections": "Airside versus landside hotel distinction; YOTELAIR access; Sleep Cabins; short-stay positioning",
+      "sourceDate": "Undated; current page inspected 2026-10-05",
+      "access": "inspected",
+      "title": "Hotels in Istanbul Airport - YOTEL",
+      "note": "Operator comparison page identifies YOTELAIR Airside and YOTEL Landside as two separate hotels in separate terminal locations with different access conditions. It describes airside access as requiring an international-flight boarding pass. It also describes Sleep Cabins as a short-layover product with private bed, TV and desk plus shared shower and bathroom access. This page says Sleep Cabins are bookable by the hour for a maximum of four hours, conflicting with S3, which states a minimum of four hours."
+    },
+    {
+      "url": "https://www.yotel.com/en/hotels/yotelair-sleep-cabins",
+      "id": "S3",
+      "method": "Direct HTML inspection",
+      "accessDate": "2026-10-05",
+      "sections": "Hourly booking; cabin characteristics; airside eligibility; product boundary; shared facilities; Grab+Go",
+      "sourceDate": "Undated; current page inspected 2026-10-05",
+      "access": "inspected",
+      "title": "Sleep Cabins by YOTELAIR",
+      "note": "Operator explicitly describes Sleep Cabins as a separate standalone product from the full-service YOTELAIR Istanbul Airport Airside hotel. Cabins are for one guest, use shared showers and bathrooms, and are stated here to be bookable by the hour with a minimum of four hours. Airside access still requires a valid international-flight boarding pass. This minimum-four-hour statement conflicts with S2's maximum-four-hour wording."
+    },
+    {
+      "url": "https://www.yotel.com/en/booking/7126",
+      "id": "S4",
+      "method": "Direct HTML inspection",
+      "accessDate": "2026-10-05",
+      "sections": "Sleep Cabin booking conditions; airside access; baggage restriction; cabin features; cancellation policy",
+      "sourceDate": "Undated; current booking page inspected 2026-10-05",
+      "access": "inspected",
+      "title": "YOTEL Booking - Sleep Cabins by YOTELAIR",
+      "note": "Booking-flow evidence confirms the Sleep Cabin product is inside the secure international transit area, requires a valid boarding pass, and permits only hand luggage rather than large checked luggage. It lists the single-guest Sleep Cabin as bookable by the hour and states a specific cancellation rule providing a full refund when cancelled before 15:00 on the day before arrival."
+    },
+    {
+      "url": "https://www.yotel.com/en/hotels/yotel-istanbul-airport-landside",
+      "id": "S5",
+      "method": "Direct HTML inspection",
+      "accessDate": "2026-10-05",
+      "sections": "Landside location; hourly and overnight stays; airside comparison; passenger access; visa and boarding-pass boundary",
+      "sourceDate": "Undated; current page inspected 2026-10-05",
+      "access": "inspected",
+      "title": "YOTEL Istanbul Airport (Landside)",
+      "note": "Boundary source for the sister property. YOTEL Landside is before security and passport control and can be accessed without a flight ticket or boarding pass. The page directs international transit passengers with onward international flights toward YOTELAIR Airside, while passengers who need to collect luggage or remain landside have a different access path. Both properties offer hourly and overnight accommodation, so the airside-versus-landside distinction cannot be reduced to stay duration alone."
+    },
+    {
+      "url": "https://www.yotel.com/en/terms",
+      "id": "S6",
+      "method": "Direct HTML inspection",
+      "accessDate": "2026-10-05",
+      "sections": "Service definition; reservations; special conditions; partner bookings; optional facilities; payment; groups; check-in and check-out",
+      "sourceDate": "Undated; current terms inspected 2026-10-05",
+      "access": "inspected",
+      "title": "YOTEL - General Terms and Conditions",
+      "note": "General operator terms distinguish rooms, cabins and other accommodation from complementary or ancillary services and separately bookable facilities. Reservation conditions can vary by selected rate and property-specific Special Conditions. Direct YOTEL reservations and authorised OTA bookings follow different booking relationships, and bookings beyond five rooms, cabins or pads become subject to group conditions. Optional services not included in the reservation may be priced and paid separately."
+    }
+  ],
+  "schemaVersion": 1
+}

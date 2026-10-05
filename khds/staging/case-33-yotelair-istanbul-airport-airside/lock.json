@@ -1,0 +1,27 @@
+{
+  "caseNumber": 33,
+  "institutionName": "YOTELAIR Istanbul Airport (Airside)",
+  "slug": "yotelair-istanbul-airport-airside",
+  "institutionType": "Airside transit hotel with short-stay and overnight cabin accommodation, shared lounge and airport-dependent access conditions",
+  "sector": "transit-hotels",
+  "canonicalPath": "khds/research/institutions/transit-hotels/yotelair-istanbul-airport-airside/",
+  "stagingPath": "khds/staging/case-33-yotelair-istanbul-airport-airside",
+  "trackingChanges": [],
+  "requiredFiles": [
+    "README.md",
+    "discovery.md",
+    "reservation.md",
+    "pre-arrival.md",
+    "arrival.md",
+    "stay.md",
+    "dining.md",
+    "departure.md",
+    "atmosphere.md",
+    "photography.md",
+    "story.md",
+    "knowledge-extraction.md"
+  ],
+  "evidenceCoverageVersion": 1,
+  "lockedAt": "2026-10-05T17:25:45.962Z",
+  "baseCommit": "f601830d1a27b9b78ab83b39a36393fc0f5d2f1c"
+}

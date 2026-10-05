@@ -3,22 +3,22 @@
   "expectedBranch": "main",
   "workflowStatus": "idle",
   "latestCompletedCase": {
-    "caseNumber": 32,
-    "institutionName": "Plaza Premium Lounge Toronto Pearson Terminal 1 Domestic",
-    "slug": "plaza-premium-lounge-toronto-pearson-t1-domestic",
-    "institutionType": "Airport lounge with paid, pass-based, walk-in, group and optional-service access pathways",
-    "sector": "airport-lounges",
-    "canonicalPath": "khds/research/institutions/airport-lounges/plaza-premium-lounge-toronto-pearson-t1-domestic/",
+    "caseNumber": 33,
+    "institutionName": "YOTELAIR Istanbul Airport (Airside)",
+    "slug": "yotelair-istanbul-airport-airside",
+    "institutionType": "Airside transit hotel with short-stay and overnight cabin accommodation, shared lounge and airport-dependent access conditions",
+    "sector": "transit-hotels",
+    "canonicalPath": "khds/research/institutions/transit-hotels/yotelair-istanbul-airport-airside/",
     "dossierComplete": true,
     "administrativeReconciliation": true
   },
-  "expectedNextCase": 33,
+  "expectedNextCase": 34,
   "researchAuthorized": false,
   "authorization": null,
   "activeCase": null,
   "disagreements": [],
   "publication": {
-    "journalPath": "khds/staging/case-32-plaza-premium-lounge-toronto-pearson-t1-domestic/publication.json",
+    "journalPath": "khds/staging/case-33-yotelair-istanbul-airport-airside/publication.json",
     "status": "promoted"
   },
   "reconciliationRecord": {
@@ -72,8 +72,8 @@
   },
   "reconciliationReview": {
     "approvedBy": "Brian Kodawa",
-    "approvedAt": "2026-10-02T04:08:58.591Z",
-    "contentDigest": "cd822e15e02be67ae1277e183dc9328b2dd3a398bcbbc454b839f372fcf0a70f",
+    "approvedAt": "2026-10-05T18:20:58.392Z",
+    "contentDigest": "1c750ee36d19cdb9e483f75a85774560a1040dc9b6a357f75700871f53f84324",
     "controlChanges": []
   },
   "historyReconciliation": {

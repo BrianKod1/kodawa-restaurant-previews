@@ -136,6 +136,17 @@
       "dossierComplete": true,
       "administrativeReconciliation": true,
       "publicationJournal": "khds/staging/case-32-plaza-premium-lounge-toronto-pearson-t1-domestic/publication.json"
+    },
+    {
+      "caseNumber": 33,
+      "institutionName": "YOTELAIR Istanbul Airport (Airside)",
+      "slug": "yotelair-istanbul-airport-airside",
+      "institutionType": "Airside transit hotel with short-stay and overnight cabin accommodation, shared lounge and airport-dependent access conditions",
+      "sector": "transit-hotels",
+      "canonicalPath": "khds/research/institutions/transit-hotels/yotelair-istanbul-airport-airside/",
+      "dossierComplete": true,
+      "administrativeReconciliation": true,
+      "publicationJournal": "khds/staging/case-33-yotelair-istanbul-airport-airside/publication.json"
     }
   ],
   "priorIdentities": [
