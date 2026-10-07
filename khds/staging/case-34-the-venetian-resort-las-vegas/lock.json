@@ -1,0 +1,27 @@
+{
+  "caseNumber": 34,
+  "institutionName": "The Venetian Resort Las Vegas",
+  "slug": "the-venetian-resort-las-vegas",
+  "institutionType": "Integrated resort with hotel accommodation, gaming, dining, entertainment, spa, loyalty tiers and guest-restricted amenities",
+  "sector": "integrated-resorts",
+  "canonicalPath": "khds/research/institutions/integrated-resorts/the-venetian-resort-las-vegas/",
+  "stagingPath": "khds/staging/case-34-the-venetian-resort-las-vegas",
+  "trackingChanges": [],
+  "requiredFiles": [
+    "README.md",
+    "discovery.md",
+    "reservation.md",
+    "pre-arrival.md",
+    "arrival.md",
+    "stay.md",
+    "dining.md",
+    "departure.md",
+    "atmosphere.md",
+    "photography.md",
+    "story.md",
+    "knowledge-extraction.md"
+  ],
+  "evidenceCoverageVersion": 1,
+  "lockedAt": "2026-10-07T16:28:48.875Z",
+  "baseCommit": "5f6c8be2d15d86f5cbd01b13a40739bbb97ccf85"
+}

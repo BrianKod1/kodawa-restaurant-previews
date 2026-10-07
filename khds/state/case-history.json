@@ -147,6 +147,17 @@
       "dossierComplete": true,
       "administrativeReconciliation": true,
       "publicationJournal": "khds/staging/case-33-yotelair-istanbul-airport-airside/publication.json"
+    },
+    {
+      "caseNumber": 34,
+      "institutionName": "The Venetian Resort Las Vegas",
+      "slug": "the-venetian-resort-las-vegas",
+      "institutionType": "Integrated resort with hotel accommodation, gaming, dining, entertainment, spa, loyalty tiers and guest-restricted amenities",
+      "sector": "integrated-resorts",
+      "canonicalPath": "khds/research/institutions/integrated-resorts/the-venetian-resort-las-vegas/",
+      "dossierComplete": true,
+      "administrativeReconciliation": true,
+      "publicationJournal": "khds/staging/case-34-the-venetian-resort-las-vegas/publication.json"
     }
   ],
   "priorIdentities": [

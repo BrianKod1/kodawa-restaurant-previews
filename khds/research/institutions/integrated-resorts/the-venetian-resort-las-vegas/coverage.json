@@ -1,0 +1,420 @@
+{
+    "dimensions":  [
+                       {
+                           "dimension":  "discovery",
+                           "observations":  [
+                                                {
+                                                    "text":  "The resort presents accommodation, gaming, dining, entertainment, spa, pools and loyalty as parts of one broader Venetian Resort environment.",
+                                                    "sources":  [
+                                                                    "S1",
+                                                                    "S6"
+                                                                ]
+                                                },
+                                                {
+                                                    "text":  "Public material also exposes relationship-specific products including Prestige, hotel-guest-only pool access, Canyon Ranch day passes and conditional TAO Beach hotel-guest benefits.",
+                                                    "sources":  [
+                                                                    "S4",
+                                                                    "S5",
+                                                                    "S8",
+                                                                    "S10"
+                                                                ]
+                                                }
+                                            ],
+                           "nextEvidence":  "Inspect desktop and mobile discovery paths to determine how early hotel-guest, loyalty-tier, Prestige, spa, dining and venue-specific access distinctions become visible.",
+                           "question":  "How does The Venetian present one integrated resort while exposing materially different guest, member and venue-access relationships?",
+                           "sources":  [
+                                           "S1",
+                                           "S4",
+                                           "S5",
+                                           "S6",
+                                           "S8",
+                                           "S9",
+                                           "S10"
+                                       ],
+                           "reason":  "Multiple resort relationships are publicly visible, but their prominence and comprehensibility across the full discovery journey have not been systematically tested.",
+                           "rating":  "partial",
+                           "unanswered":  [
+                                              "The ordering and prominence of guest-only, loyalty-tier and independently purchasable experiences across desktop and mobile have not been systematically inspected.",
+                                              "The evidence does not establish whether first-time visitors understand which resort spaces require accommodation, loyalty status, reservation, separate payment or venue-specific eligibility."
+                                          ],
+                           "scopeChange":  "None. Initial Case #34 public-evidence scope. Rating applies only to the stated question and inspected sources, not operational execution or representative guest outcomes."
+                       },
+                       {
+                           "dimension":  "reservation",
+                           "observations":  [
+                                                {
+                                                    "text":  "Hotel reservations carry rate, cancellation, resort-fee, check-in, checkout and availability conditions, while larger accommodation groups are routed to Group Sales.",
+                                                    "sources":  [
+                                                                    "S2",
+                                                                    "S3"
+                                                                ]
+                                                },
+                                                {
+                                                    "text":  "Dining can involve reservations, walk-ins or separate group arrangements, while cabanas, daybeds, spa access and other products create additional reservation relationships.",
+                                                    "sources":  [
+                                                                    "S4",
+                                                                    "S8",
+                                                                    "S9",
+                                                                    "S10"
+                                                                ]
+                                                },
+                                                {
+                                                    "text":  "Third-party hotel bookings are distinguished from direct reservations in the operator\u0027s published hotel guidance.",
+                                                    "sources":  [
+                                                                    "S2"
+                                                                ]
+                                                }
+                                            ],
+                           "nextEvidence":  "Inspect live reservation paths for suites, Prestige, spa access, dining, pool products and entertainment to determine whether capacity, cancellation and payment rules materially differ.",
+                           "question":  "How do hotel, Prestige, dining, spa, pool, entertainment, group and third-party reservation relationships differ in commitment, capacity and cancellation conditions?",
+                           "sources":  [
+                                           "S2",
+                                           "S3",
+                                           "S4",
+                                           "S5",
+                                           "S8",
+                                           "S9",
+                                           "S10"
+                                       ],
+                           "reason":  "Several separate commitment mechanisms are documented, but their interaction with shared resort capacity and service recovery is not fully established.",
+                           "rating":  "partial",
+                           "unanswered":  [
+                                              "The inspected sources do not establish whether different resort products share reservation infrastructure or capacity controls.",
+                                              "Complete cancellation, no-show, modification and denied-service rules are not established across all resort relationships."
+                                          ],
+                           "scopeChange":  "None. Initial Case #34 public-evidence scope. Rating applies only to the stated question and inspected sources, not operational execution or representative guest outcomes."
+                       },
+                       {
+                           "dimension":  "pre-arrival",
+                           "observations":  [
+                                                {
+                                                    "text":  "Hotel check-in requires the coded guest, valid identification and the booking credit card, while deposit and incidental requirements can vary by reservation and suite type.",
+                                                    "sources":  [
+                                                                    "S3"
+                                                                ]
+                                                },
+                                                {
+                                                    "text":  "Prestige, Venetian Rewards, TAO Beach and other resort relationships can require different proofs of entitlement, including upgraded booking status, loyalty tier or valid suite-key verification.",
+                                                    "sources":  [
+                                                                    "S5",
+                                                                    "S6",
+                                                                    "S7",
+                                                                    "S10"
+                                                                ]
+                                                },
+                                                {
+                                                    "text":  "Dining, spa and other venue conditions can add age, dress, reservation or product-specific requirements before use.",
+                                                    "sources":  [
+                                                                    "S8",
+                                                                    "S9",
+                                                                    "S10"
+                                                                ]
+                                                }
+                                            ],
+                           "nextEvidence":  "Inspect confirmations and pre-arrival communications for hotel, Prestige, spa, dining and venue bookings to identify what credentials, restrictions and recovery information are communicated before arrival.",
+                           "question":  "What must different resort users know, possess or verify before arrival, and how much does preparation depend on their specific resort relationship?",
+                           "sources":  [
+                                           "S3",
+                                           "S5",
+                                           "S6",
+                                           "S7",
+                                           "S8",
+                                           "S9",
+                                           "S10"
+                                       ],
+                           "reason":  "Several relationship-specific prerequisites are visible, but complete pre-arrival communication and exception handling remain under-specified.",
+                           "rating":  "partial",
+                           "unanswered":  [
+                                              "The current source set does not establish how consistently entitlement restrictions are communicated in confirmations and reminders.",
+                                              "Recovery when a guest arrives without the correct credential, tier status, reservation or venue eligibility remains incomplete."
+                                          ],
+                           "scopeChange":  "None. Initial Case #34 public-evidence scope. Rating applies only to the stated question and inspected sources, not operational execution or representative guest outcomes."
+                       },
+                       {
+                           "dimension":  "arrival",
+                           "observations":  [
+                                                {
+                                                    "text":  "Hotel arrival uses formal check-in requirements, while Prestige adds private check-in and concierge service.",
+                                                    "sources":  [
+                                                                    "S3",
+                                                                    "S5"
+                                                                ]
+                                                },
+                                                {
+                                                    "text":  "Other resort environments use different arrival proofs: hotel status for the Venetian Pool Deck, valid suite-key conditions at TAO Beach and product-specific access at Canyon Ranch.",
+                                                    "sources":  [
+                                                                    "S4",
+                                                                    "S8",
+                                                                    "S10"
+                                                                ]
+                                                }
+                                            ],
+                           "nextEvidence":  "Inspect physical arrival, credential-checking, queue, priority and denied-entry guidance across hotel check-in, Prestige, pool, spa, dining and entertainment environments.",
+                           "question":  "How do different resort relationships converge on physical spaces while requiring different forms of verification, priority or admission?",
+                           "sources":  [
+                                           "S3",
+                                           "S4",
+                                           "S5",
+                                           "S8",
+                                           "S10"
+                                       ],
+                           "reason":  "Distinct arrival and verification mechanisms are documented, but frontline processing and exception handling are not.",
+                           "rating":  "partial",
+                           "unanswered":  [
+                                              "Queue priority and exception handling among ordinary hotel guests, Prestige users, loyalty members and venue customers are not established.",
+                                              "The inspected sources do not establish whether identity and entitlement are verified through shared or separate operational systems."
+                                          ],
+                           "scopeChange":  "None. Initial Case #34 public-evidence scope. Rating applies only to the stated question and inspected sources, not operational execution or representative guest outcomes."
+                       },
+                       {
+                           "dimension":  "stay",
+                           "observations":  [
+                                                {
+                                                    "text":  "An ordinary hotel stay does not create uniform entitlement across the resort: the pool requires hotel-guest status, Prestige adds exclusive benefits, and TAO Beach hotel-guest entry remains conditional.",
+                                                    "sources":  [
+                                                                    "S4",
+                                                                    "S5",
+                                                                    "S10"
+                                                                ]
+                                                },
+                                                {
+                                                    "text":  "Venetian Rewards tier status can add benefits such as upgrades, priority, late checkout, transport and other cross-resort advantages.",
+                                                    "sources":  [
+                                                                    "S6",
+                                                                    "S7"
+                                                                ]
+                                                },
+                                                {
+                                                    "text":  "Canyon Ranch can serve both hotel and non-hotel guests through separate access relationships.",
+                                                    "sources":  [
+                                                                    "S8"
+                                                                ]
+                                                }
+                                            ],
+                           "nextEvidence":  "Inspect exact entitlement matrices for ordinary hotel guests, Prestige guests, loyalty tiers, spa users and venue customers, including overlap, exclusions and service-recovery responsibility.",
+                           "question":  "Once inside the resort, how do hotel status, Prestige status, loyalty tier and separately purchased products alter access and service entitlement?",
+                           "sources":  [
+                                           "S4",
+                                           "S5",
+                                           "S6",
+                                           "S7",
+                                           "S8",
+                                           "S10"
+                                       ],
+                           "reason":  "Role-dependent entitlement is visible, but the complete operational boundary among guest classes and products remains incomplete.",
+                           "rating":  "partial",
+                           "unanswered":  [
+                                              "The evidence does not establish whether all differentiated benefits are coordinated through one guest profile or multiple operational systems.",
+                                              "The exact overlap among Prestige, Venetian Rewards tiers, standard hotel status and separately purchased products is not fully documented."
+                                          ],
+                           "scopeChange":  "None. Initial Case #34 public-evidence scope. Rating applies only to the stated question and inspected sources, not operational execution or representative guest outcomes."
+                       },
+                       {
+                           "dimension":  "dining",
+                           "observations":  [
+                                                {
+                                                    "text":  "The resort supports fine-dining reservations, casual walk-ins and separate group-dining arrangements.",
+                                                    "sources":  [
+                                                                    "S9"
+                                                                ]
+                                                },
+                                                {
+                                                    "text":  "Participating dining activity can interact with Venetian Rewards earning and redemption, while Diamond tier includes dining-related benefits.",
+                                                    "sources":  [
+                                                                    "S6",
+                                                                    "S7",
+                                                                    "S9"
+                                                                ]
+                                                },
+                                                {
+                                                    "text":  "Prestige includes food-and-beverage benefits within its upgraded lounge relationship rather than as a universal hotel entitlement.",
+                                                    "sources":  [
+                                                                    "S5"
+                                                                ]
+                                                }
+                                            ],
+                           "nextEvidence":  "Inspect restaurant-specific reservation, loyalty, room-charge, group and Prestige dining rules and determine where entitlement differs from ordinary restaurant purchase.",
+                           "question":  "How do ordinary restaurant customers, hotel guests, Prestige guests, loyalty members and groups relate differently to dining within the resort?",
+                           "sources":  [
+                                           "S5",
+                                           "S6",
+                                           "S7",
+                                           "S9"
+                                       ],
+                           "reason":  "Dining supports several customer relationships, but the degree of operational integration across those relationships remains incomplete.",
+                           "rating":  "partial",
+                           "unanswered":  [
+                                              "The evidence does not establish whether loyalty, hotel and Prestige dining benefits are processed through one shared entitlement system.",
+                                              "Restaurant-level differences in deposits, cancellation, priority, room charging and loyalty redemption have not been comprehensively inspected."
+                                          ],
+                           "scopeChange":  "None. Initial Case #34 public-evidence scope. Rating applies only to the stated question and inspected sources, not operational execution or representative guest outcomes."
+                       },
+                       {
+                           "dimension":  "departure",
+                           "observations":  [
+                                                {
+                                                    "text":  "Hotel checkout follows published timing and rate conditions, while late checkout may depend on availability, fees or loyalty-tier benefit.",
+                                                    "sources":  [
+                                                                    "S2",
+                                                                    "S7"
+                                                                ]
+                                                },
+                                                {
+                                                    "text":  "Ending the hotel stay does not necessarily end loyalty membership or every independent resort relationship.",
+                                                    "sources":  [
+                                                                    "S6",
+                                                                    "S7"
+                                                                ]
+                                                },
+                                                {
+                                                    "text":  "Venue, dining and spa relationships can have their own temporal boundaries independent of hotel checkout.",
+                                                    "sources":  [
+                                                                    "S8",
+                                                                    "S9",
+                                                                    "S10"
+                                                                ]
+                                                }
+                                            ],
+                           "nextEvidence":  "Inspect checkout, late-departure, folio settlement, loyalty continuation and independently booked venue/service departure rules.",
+                           "question":  "How do hotel, loyalty and venue relationships end, and which relationships persist after accommodation checkout?",
+                           "sources":  [
+                                           "S2",
+                                           "S6",
+                                           "S7",
+                                           "S8",
+                                           "S9",
+                                           "S10"
+                                       ],
+                           "reason":  "Several relationship endpoints are visible, but handoff, settlement and recovery across them are not fully documented.",
+                           "rating":  "partial",
+                           "unanswered":  [
+                                              "The inspected sources do not establish how unresolved venue or service charges are coordinated with hotel checkout.",
+                                              "The transition from active hotel guest to continuing loyalty member or non-hotel resort visitor has not been operationally observed."
+                                          ],
+                           "scopeChange":  "None. Initial Case #34 public-evidence scope. Rating applies only to the stated question and inspected sources, not operational execution or representative guest outcomes."
+                       },
+                       {
+                           "dimension":  "atmosphere",
+                           "observations":  [
+                                                {
+                                                    "text":  "The resort publicly combines hotel accommodation, casino activity, pools, Prestige lounge, spa, dining and entertainment under one broader institutional identity.",
+                                                    "sources":  [
+                                                                    "S1",
+                                                                    "S4",
+                                                                    "S5",
+                                                                    "S8",
+                                                                    "S9"
+                                                                ]
+                                                },
+                                                {
+                                                    "text":  "Some environments are explicitly access-restricted or relationship-specific, including hotel-guest-only pool space and Prestige lounge access.",
+                                                    "sources":  [
+                                                                    "S4",
+                                                                    "S5"
+                                                                ]
+                                                }
+                                            ],
+                           "nextEvidence":  "Inspect official spatial descriptions and current imagery for ordinary hotel, gaming, pool, Prestige, spa, dining and entertainment environments without inferring representative conditions from promotional material.",
+                           "question":  "How does one resort identity contain environments with different privacy, access, social and service conditions?",
+                           "sources":  [
+                                           "S1",
+                                           "S4",
+                                           "S5",
+                                           "S8",
+                                           "S9",
+                                           "S10"
+                                       ],
+                           "reason":  "Distinct spatial and social environments are documented, but representative crowding, privacy, noise and lived atmosphere are not.",
+                           "rating":  "partial",
+                           "unanswered":  [
+                                              "Representative occupancy, noise, privacy and movement between public and restricted environments were not observed.",
+                                              "The evidence does not establish how strongly entitlement boundaries are perceptible in the lived resort environment."
+                                          ],
+                           "scopeChange":  "None. Initial Case #34 public-evidence scope. Rating applies only to the stated question and inspected sources, not operational execution or representative guest outcomes."
+                       },
+                       {
+                           "dimension":  "photography",
+                           "observations":  [
+                                                {
+                                                    "text":  "The textual source set identifies suites, guest-only pools, Prestige lounge, spa, dining and TAO Beach as distinct visual subjects for later review.",
+                                                    "sources":  [
+                                                                    "S1",
+                                                                    "S4",
+                                                                    "S5",
+                                                                    "S8",
+                                                                    "S9",
+                                                                    "S10"
+                                                                ]
+                                                }
+                                            ],
+                           "nextEvidence":  "Perform a direct image-by-image inspection of official resort material, recording subject, entitlement context, practical information, page placement and whether restricted versus public spaces are visually distinguished.",
+                           "question":  "Does official visual material clarify the resort\u0027s access and entitlement layers, or visually flatten them into one seamless luxury environment?",
+                           "sources":  [
+                                           "S1",
+                                           "S4",
+                                           "S5",
+                                           "S8",
+                                           "S9",
+                                           "S10"
+                                       ],
+                           "reason":  "The current source set establishes visual questions but does not constitute a completed photographic analysis.",
+                           "rating":  "partial",
+                           "unanswered":  [
+                                              "No systematic image-by-image inspection has established what the official photography actually communicates about access boundaries.",
+                                              "Image dates, mobile ordering, crowd representation and practical wayfinding value remain untested."
+                                          ],
+                           "scopeChange":  "None. Initial Case #34 public-evidence scope. Rating applies only to the stated question and inspected sources, not operational execution or representative guest outcomes."
+                       },
+                       {
+                           "dimension":  "story",
+                           "observations":  [
+                                                {
+                                                    "text":  "The Venetian presents one integrated resort while public evidence distinguishes ordinary hotel guests, Prestige guests, loyalty tiers, spa users, diners, pool users and venue customers.",
+                                                    "sources":  [
+                                                                    "S1",
+                                                                    "S4",
+                                                                    "S5",
+                                                                    "S6",
+                                                                    "S7",
+                                                                    "S8",
+                                                                    "S9",
+                                                                    "S10"
+                                                                ]
+                                                },
+                                                {
+                                                    "text":  "Venetian Rewards cuts across multiple domains, while other entitlements remain tied to hotel status, Prestige status, separate purchase or venue-specific conditions.",
+                                                    "sources":  [
+                                                                    "S4",
+                                                                    "S5",
+                                                                    "S6",
+                                                                    "S7",
+                                                                    "S8",
+                                                                    "S10"
+                                                                ]
+                                                }
+                                            ],
+                           "nextEvidence":  "Test whether the differentiated relationships materially alter operational responsibility, customer identity, capacity allocation, recovery and cross-domain coordination rather than merely reflecting normal resort segmentation.",
+                           "question":  "Does The Venetian demonstrate Role-Partitioned / Multi-Relationship Hospitality Architecture, or is it better explained as one conventional integrated resort with ordinary amenity and loyalty segmentation?",
+                           "sources":  [
+                                           "S1",
+                                           "S2",
+                                           "S3",
+                                           "S4",
+                                           "S5",
+                                           "S6",
+                                           "S7",
+                                           "S8",
+                                           "S9",
+                                           "S10"
+                                       ],
+                           "reason":  "The shared institution contains numerous differentiated relationships, but the stronger architecture claim still requires operational and cross-case falsification.",
+                           "rating":  "partial",
+                           "unanswered":  [
+                                              "The evidence does not establish whether accommodation, loyalty, gaming, dining, spa and venue relationships are coordinated through one integrated responsibility architecture.",
+                                              "The simpler explanation of conventional resort segmentation remains viable."
+                                          ],
+                           "scopeChange":  "None. Initial Case #34 public-evidence scope. Rating applies only to the stated question and inspected sources, not operational execution or representative guest outcomes."
+                       }
+                   ],
+    "schemaVersion":  1
+}

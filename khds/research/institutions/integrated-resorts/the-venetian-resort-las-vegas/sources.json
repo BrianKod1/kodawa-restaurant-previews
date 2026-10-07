@@ -1,0 +1,115 @@
+{
+  "sources": [
+    {
+      "url": "https://www.venetianlasvegas.com/resort.html",
+      "id": "S1",
+      "method": "Direct HTML inspection",
+      "accessDate": "2026-10-07",
+      "sections": "Resort overview; Venetian and Palazzo accommodation; entertainment; Venetian Rewards; resort-scale positioning",
+      "sourceDate": "Undated; current page inspected 2026-10-07",
+      "access": "inspected",
+      "title": "The Venetian Resort Las Vegas",
+      "note": "Primary resort overview. Describes a resort spanning The Venetian and The Palazzo with 7,167 suites plus entertainment and other resort experiences. It also presents Venetian Rewards as a cross-resort relationship connecting play, dining, shopping and other spending."
+    },
+    {
+      "url": "https://www.venetianlasvegas.com/hotel/suites.html",
+      "id": "S2",
+      "method": "Direct HTML inspection",
+      "accessDate": "2026-10-07",
+      "sections": "Suite reservation; resort fee; cancellation; check-in and check-out; early/late departure; group bookings; third-party bookings",
+      "sourceDate": "Undated; current page inspected 2026-10-07",
+      "access": "inspected",
+      "title": "Las Vegas Suites - The Venetian Resort",
+      "note": "Hotel source distinguishes the mandatory resort fee from optional add-ons, publishes standard check-in and checkout times, states that early check-in and late checkout are availability-dependent and may carry fees, identifies some non-cancellable rates, separates third-party booking obligations from direct bookings, and routes groups of 20 or more suites to Group Sales."
+    },
+    {
+      "url": "https://www.venetianlasvegas.com/legal/hotel-terms-and-conditions.html",
+      "id": "S3",
+      "method": "Direct HTML inspection",
+      "accessDate": "2026-10-07",
+      "sections": "Check-in requirements; payment and deposits; suite assignment; resort fee; additional guests; early departure; parking; Venetian Rewards parking benefits",
+      "sourceDate": "Undated; current page inspected 2026-10-07",
+      "access": "inspected",
+      "title": "Hotel Terms and Conditions - The Venetian Resort Las Vegas",
+      "note": "Hotel terms require the coded guest, valid identification and booking credit card at check-in, distinguish deposit and incidental requirements by reservation and suite type, and state that requested suite type/location/amenities remain requests until assignment. The terms also distinguish hotel-guest and non-hotel parking charges and identify different parking benefits for higher Venetian Rewards tiers."
+    },
+    {
+      "url": "https://www.venetianlasvegas.com/resort/pools/venetian-pools.html",
+      "id": "S4",
+      "method": "Direct HTML inspection",
+      "accessDate": "2026-10-07",
+      "sections": "Pool access; operating hours; cabanas and daybeds; poolside dining",
+      "sourceDate": "Undated; current page inspected 2026-10-07",
+      "access": "inspected",
+      "title": "The Venetian Pool Deck",
+      "note": "The operator explicitly states that Venetian Pool Deck access is reserved for hotel guests only. The same environment also supports separately reservable cabanas/daybeds and poolside dining, creating a boundary between general resort presence, hotel-guest eligibility and additional paid pool products."
+    },
+    {
+      "url": "https://www.venetianlasvegas.com/resort/prestige-club-lounge.html",
+      "id": "S5",
+      "method": "Direct HTML inspection",
+      "accessDate": "2026-10-07",
+      "sections": "Prestige access; private check-in; concierge; breakfast; cocktails; lounge locations; additional guest fees; Prestige suites",
+      "sourceDate": "Undated; current page inspected 2026-10-07",
+      "access": "inspected",
+      "title": "Prestige Club Lounge - The Venetian Resort Las Vegas",
+      "note": "Prestige is presented as an upgraded stay relationship with exclusive lounge access, private check-in and personal concierge service plus breakfast, evening cocktails and food. Additional lounge guests carry per-person nightly charges, so an ordinary hotel stay does not establish identical Prestige entitlement."
+    },
+    {
+      "url": "https://www.venetianlasvegas.com/venetian-rewards.html",
+      "id": "S6",
+      "method": "Direct HTML inspection",
+      "accessDate": "2026-10-07",
+      "sections": "Rewards membership; tiers; earning; redemption; gaming; hotel; dining; entertainment; spa; mobile app",
+      "sourceDate": "Undated; current page inspected 2026-10-07",
+      "access": "inspected",
+      "title": "Venetian Rewards - The Venetian Resort Las Vegas",
+      "note": "Venetian Rewards spans gaming, hotel, dining, entertainment, retail and spa activity. Tier Points determine tier level and benefit eligibility while Rewards Points are redeemable, creating a loyalty relationship that crosses several resort products rather than mapping only to accommodation or casino play."
+    },
+    {
+      "url": "https://www.venetianlasvegas.com/venetian-rewards/diamond.html",
+      "id": "S7",
+      "method": "Direct HTML inspection",
+      "accessDate": "2026-10-07",
+      "sections": "Diamond-tier hotel benefits; priority; suite benefits; late checkout; transport; dining; spa; entertainment; gaming",
+      "sourceDate": "Undated; current page inspected 2026-10-07",
+      "access": "inspected",
+      "title": "Venetian Rewards Diamond Tier",
+      "note": "Diamond membership adds benefits not presented as universal resort entitlements, including suite nights, suite upgrades subject to availability, priority line access, 4 p.m. late checkout, airport transportation, dining credit, spa discount/credit and entertainment benefits. This provides a public example of loyalty status altering rights across multiple resort domains."
+    },
+    {
+      "url": "https://www.venetianlasvegas.com/resort/spas/canyon-ranch-spa.html",
+      "id": "S8",
+      "method": "Direct HTML inspection",
+      "accessDate": "2026-10-07",
+      "sections": "Spa access; hotel and non-hotel day passes; qualifying treatment access; age conditions; cancellation; rewards",
+      "sourceDate": "Undated; current page inspected 2026-10-07",
+      "access": "inspected",
+      "title": "Canyon Ranch Spa Las Vegas - The Venetian Resort",
+      "note": "Canyon Ranch publishes day-pass access for both hotel and non-hotel guests with different weekday pricing. Qualifying spa services can include Aquavana thermal-suite, fitness-center and relaxation-lounge access. Full facility access carries age conditions, and Venetian Rewards points can be earned or redeemed on eligible spa and salon services."
+    },
+    {
+      "url": "https://www.venetianlasvegas.com/dining/restaurants.html",
+      "id": "S9",
+      "method": "Direct HTML inspection",
+      "accessDate": "2026-10-07",
+      "sections": "Restaurant discovery; reservations; walk-ins; dress codes; age restrictions; group dining; Venetian Rewards",
+      "sourceDate": "Undated; current page inspected 2026-10-07",
+      "access": "inspected",
+      "title": "Restaurants, Bars and Lounges at The Venetian Resort",
+      "note": "The resort dining page recommends reservations for fine-dining and celebrity-chef venues while noting that some casual venues accept walk-ins. Dress and age conditions can vary by venue, groups from 12 to 600 can use separate group-dining arrangements, and participating restaurants interact with Venetian Rewards earning and redemption."
+    },
+    {
+      "url": "https://www.venetianlasvegas.com/resort/pools/tao-beach.html",
+      "id": "S10",
+      "method": "Direct HTML inspection",
+      "accessDate": "2026-10-07",
+      "sections": "TAO Beach access; hotel-guest offer; suite-key verification; availability; blackout conditions; cabana products; dress code",
+      "sourceDate": "Undated; current page inspected 2026-10-07",
+      "access": "inspected",
+      "title": "TAO Beach - The Venetian Resort Las Vegas",
+      "note": "TAO Beach publishes a conditional hotel-guest benefit: complimentary entry for up to two guests with a valid suite key on specified days and times, subject to availability and blackout dates. This establishes that hotel-guest status can create a benefit without guaranteeing unlimited or unconditional access to every resort venue."
+    }
+  ],
+  "schemaVersion": 1
+}
