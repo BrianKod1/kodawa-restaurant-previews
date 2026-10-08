@@ -1,0 +1,115 @@
+{
+  "sources": [
+    {
+      "url": "https://www.greatwolf.com/niagara",
+      "id": "S1",
+      "method": "Direct HTML inspection",
+      "accessDate": "2026-10-08",
+      "sections": "Resort overview; stay inclusions; water park; family activities; dining; attractions; accommodation",
+      "sourceDate": "Undated; current page inspected 2026-10-08",
+      "access": "inspected",
+      "title": "Indoor Water Park & Resort in Niagara Falls - Great Wolf Lodge",
+      "note": "Primary resort overview. Presents the overnight stay as including a family suite, water-park access for every day of the visit and complimentary family activities, while dining, arcade games and other attractions exist as additional resort experiences."
+    },
+    {
+      "url": "https://www.greatwolf.com/niagara/faq",
+      "id": "S2",
+      "method": "Direct HTML inspection",
+      "accessDate": "2026-10-08",
+      "sections": "Registered-guest water-park access; arrival and departure access window; check-in; cancellation; RFID wristbands; cabanas; suite inclusions; food restrictions; housekeeping",
+      "sourceDate": "Undated; current page inspected 2026-10-08",
+      "access": "inspected",
+      "title": "FAQ - Great Wolf Lodge Niagara Falls",
+      "note": "Core entitlement source. States that the water park is reserved exclusively for registered guests, water-park passes are included for each registered guest, and access is available from water-park opening on arrival day through closing on departure day. It also documents check-in timing, cancellation fees, RFID wristbands, cabanas, housekeeping and other operating conditions."
+    },
+    {
+      "url": "https://www.greatwolf.com/niagara/suites",
+      "id": "S3",
+      "method": "Direct HTML inspection",
+      "accessDate": "2026-10-08",
+      "sections": "Suite categories; occupancy; water-park passes; included family events; room features",
+      "sourceDate": "Undated; current page inspected 2026-10-08",
+      "access": "inspected",
+      "title": "Niagara Resort Hotel Rooms & Suites - Great Wolf Lodge",
+      "note": "Accommodation source. Publicly presents different suite types and occupancies while describing water-park passes and kids' events as included with an overnight stay."
+    },
+    {
+      "url": "https://www.greatwolf.com/niagara/waterpark-attractions/attractions",
+      "id": "S4",
+      "method": "Direct HTML inspection",
+      "accessDate": "2026-10-08",
+      "sections": "Paid attractions; Wolf Pass; Paw Pass; Pup Pass; attraction eligibility; meal and birthday packages",
+      "sourceDate": "Undated; current page inspected 2026-10-08",
+      "access": "inspected",
+      "title": "Add-On Attractions - Great Wolf Lodge Niagara Falls",
+      "note": "Distinguishes the included water-park relationship from separately paid attractions. Wolf, Paw and Pup passes bundle different attraction sets, while individual paid attractions and additional dining or birthday packages are also offered."
+    },
+    {
+      "url": "https://www.greatwolf.com/niagara/deals/packages",
+      "id": "S5",
+      "method": "Direct HTML inspection",
+      "accessDate": "2026-10-08",
+      "sections": "Attraction passes; dining deals; birthday packages; cabanas; late checkout; extras and add-ons",
+      "sourceDate": "Undated; current page inspected 2026-10-08",
+      "access": "inspected",
+      "title": "Niagara Falls Resort Packages & Savings - Great Wolf Lodge",
+      "note": "Package catalogue showing multiple optional pre-purchasable relationships layered onto a stay, including attraction passes, dining deals, birthday products, cabanas and late checkout."
+    },
+    {
+      "url": "https://www.greatwolf.com/niagara/deals/packages/cabanas",
+      "id": "S6",
+      "method": "Direct HTML inspection",
+      "accessDate": "2026-10-08",
+      "sections": "Cabana reservation; private seating; occupancy; food and beverage; included amenities; water-park location",
+      "sourceDate": "Undated; current page inspected 2026-10-08",
+      "access": "inspected",
+      "title": "Cabana Rentals - Great Wolf Lodge Niagara Falls",
+      "note": "Cabanas are separately reservable spaces inside the water park with defined occupancy and included amenities. The product adds private seating, refreshments and other benefits to a guest who already has water-park eligibility."
+    },
+    {
+      "url": "https://www.greatwolf.com/niagara/arrival-tips",
+      "id": "S7",
+      "method": "Direct HTML inspection",
+      "accessDate": "2026-10-08",
+      "sections": "Registered guest check-in; ID and booking card; cashless resort; RFID wristband; room key; water-park ticket; purchases; stayover service",
+      "sourceDate": "Undated; current page inspected 2026-10-08",
+      "access": "inspected",
+      "title": "Arrival Tips - Great Wolf Lodge Niagara Falls",
+      "note": "Arrival source states that the registered guest checks in with valid ID and the booking credit card. The resort is described as cashless, and the wristband functions as water-park ticket and room key while also supporting purchases when configured."
+    },
+    {
+      "url": "https://www.greatwolf.com/niagara/dining-shopping/dining",
+      "id": "S8",
+      "method": "Direct HTML inspection",
+      "accessDate": "2026-10-08",
+      "sections": "Dining outlets; reservations; dining packages; buffet and casual dining; app information; food ordering",
+      "sourceDate": "Undated; current page inspected 2026-10-08",
+      "access": "inspected",
+      "title": "Family Dining Options Niagara Falls - Great Wolf Lodge",
+      "note": "Dining source documents multiple dining formats and states that certain outlets take reservations. Dining packages can be purchased in advance, while the app can be used to browse menus, hours and availability even though mobile food ordering is not currently offered."
+    },
+    {
+      "url": "https://www.greatwolf.com/terms",
+      "id": "S9",
+      "method": "Direct HTML inspection",
+      "accessDate": "2026-10-08",
+      "sections": "Suite booking policy; deposit; occupancy; additional guest fees; reservation requirements",
+      "sourceDate": "Undated; current page inspected 2026-10-08",
+      "access": "inspected",
+      "title": "Privacy Policy and Terms and Conditions - Great Wolf Lodge",
+      "note": "Booking-policy source states that Great Wolf is a pre-deposit resort. For Niagara Falls, additional-person charges apply when the base occupancy of a suite is exceeded, subject to maximum suite occupancy, and all occupants regardless of age must be included on the reservation."
+    },
+    {
+      "url": "https://www.greatwolf.com/niagara/deals/packages/inclusive-meal-package-adult",
+      "id": "S10",
+      "method": "Direct HTML inspection",
+      "accessDate": "2026-10-08",
+      "sections": "Inclusive Meal Deal; pre-arrival purchase; per-person per-day entitlement; breakfast; lunch; dinner; age restrictions; exclusions",
+      "sourceDate": "Undated; current page inspected 2026-10-08",
+      "access": "inspected",
+      "title": "Inclusive Meal Deal - Adult - Great Wolf Lodge Niagara Falls",
+      "note": "Illustrates a separately purchased dining entitlement layered onto the stay. The package is sold per person per day for eligible ages, covers specified breakfast, lunch and dinner components, has exclusions, and is added after selecting stay dates, guests and suite."
+    }
+  ],
+  "schemaVersion": 1
+}

@@ -158,6 +158,17 @@
       "dossierComplete": true,
       "administrativeReconciliation": true,
       "publicationJournal": "khds/staging/case-34-the-venetian-resort-las-vegas/publication.json"
+    },
+    {
+      "caseNumber": 35,
+      "institutionName": "Great Wolf Lodge Niagara Falls",
+      "slug": "great-wolf-lodge-niagara-falls",
+      "institutionType": "Family waterpark resort with overnight lodging, registered-guest-only waterpark access, attraction passes, dining packages and reservable cabanas",
+      "sector": "waterpark-resorts",
+      "canonicalPath": "khds/research/institutions/waterpark-resorts/great-wolf-lodge-niagara-falls/",
+      "dossierComplete": true,
+      "administrativeReconciliation": true,
+      "publicationJournal": "khds/staging/case-35-great-wolf-lodge-niagara-falls/publication.json"
     }
   ],
   "priorIdentities": [

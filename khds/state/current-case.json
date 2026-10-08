@@ -3,22 +3,22 @@
   "expectedBranch": "main",
   "workflowStatus": "idle",
   "latestCompletedCase": {
-    "caseNumber": 34,
-    "institutionName": "The Venetian Resort Las Vegas",
-    "slug": "the-venetian-resort-las-vegas",
-    "institutionType": "Integrated resort with hotel accommodation, gaming, dining, entertainment, spa, loyalty tiers and guest-restricted amenities",
-    "sector": "integrated-resorts",
-    "canonicalPath": "khds/research/institutions/integrated-resorts/the-venetian-resort-las-vegas/",
+    "caseNumber": 35,
+    "institutionName": "Great Wolf Lodge Niagara Falls",
+    "slug": "great-wolf-lodge-niagara-falls",
+    "institutionType": "Family waterpark resort with overnight lodging, registered-guest-only waterpark access, attraction passes, dining packages and reservable cabanas",
+    "sector": "waterpark-resorts",
+    "canonicalPath": "khds/research/institutions/waterpark-resorts/great-wolf-lodge-niagara-falls/",
     "dossierComplete": true,
     "administrativeReconciliation": true
   },
-  "expectedNextCase": 35,
+  "expectedNextCase": 36,
   "researchAuthorized": false,
   "authorization": null,
   "activeCase": null,
   "disagreements": [],
   "publication": {
-    "journalPath": "khds/staging/case-34-the-venetian-resort-las-vegas/publication.json",
+    "journalPath": "khds/staging/case-35-great-wolf-lodge-niagara-falls/publication.json",
     "status": "promoted"
   },
   "reconciliationRecord": {
@@ -72,8 +72,8 @@
   },
   "reconciliationReview": {
     "approvedBy": "Brian Kodawa",
-    "approvedAt": "2026-10-07T16:56:10.727Z",
-    "contentDigest": "4699878968494ea458e209d7be5ee02f0389dfaaf8cbb27d02351df3eef8ae0a",
+    "approvedAt": "2026-10-08T15:42:26.546Z",
+    "contentDigest": "fee380173ed183a5ec3b098d3d797fa49cbd3c3aa399aaa0518ad5694ec537da",
     "controlChanges": []
   },
   "historyReconciliation": {

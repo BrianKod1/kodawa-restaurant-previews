@@ -1,0 +1,27 @@
+{
+  "caseNumber": 35,
+  "institutionName": "Great Wolf Lodge Niagara Falls",
+  "slug": "great-wolf-lodge-niagara-falls",
+  "institutionType": "Family waterpark resort with overnight lodging, registered-guest-only waterpark access, attraction passes, dining packages and reservable cabanas",
+  "sector": "waterpark-resorts",
+  "canonicalPath": "khds/research/institutions/waterpark-resorts/great-wolf-lodge-niagara-falls/",
+  "stagingPath": "khds/staging/case-35-great-wolf-lodge-niagara-falls",
+  "trackingChanges": [],
+  "requiredFiles": [
+    "README.md",
+    "discovery.md",
+    "reservation.md",
+    "pre-arrival.md",
+    "arrival.md",
+    "stay.md",
+    "dining.md",
+    "departure.md",
+    "atmosphere.md",
+    "photography.md",
+    "story.md",
+    "knowledge-extraction.md"
+  ],
+  "evidenceCoverageVersion": 1,
+  "lockedAt": "2026-10-08T15:07:34.531Z",
+  "baseCommit": "fdc34867f97ff2122277e15b1d7bd3d9bb6f6e94"
+}

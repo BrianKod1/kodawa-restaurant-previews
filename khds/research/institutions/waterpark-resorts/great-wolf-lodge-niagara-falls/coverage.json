@@ -1,0 +1,412 @@
+{
+    "dimensions":  [
+                       {
+                           "dimension":  "discovery",
+                           "observations":  [
+                                                {
+                                                    "text":  "The resort presents overnight lodging, included water-park access and complimentary family activities as a bundled stay proposition.",
+                                                    "sources":  [
+                                                                    "S1",
+                                                                    "S3"
+                                                                ]
+                                                },
+                                                {
+                                                    "text":  "Optional attraction passes, dining packages, cabanas, birthday products and other add-ons are discoverable as additional purchases layered onto the stay.",
+                                                    "sources":  [
+                                                                    "S4",
+                                                                    "S5",
+                                                                    "S6",
+                                                                    "S10"
+                                                                ]
+                                                }
+                                            ],
+                           "nextEvidence":  "Inspect desktop and mobile discovery paths to determine how clearly included entitlements are separated from optional paid products before booking.",
+                           "question":  "How clearly does Great Wolf distinguish the base lodging-plus-water-park relationship from narrower paid attraction, dining and cabana relationships?",
+                           "sources":  [
+                                           "S1",
+                                           "S3",
+                                           "S4",
+                                           "S5",
+                                           "S6",
+                                           "S10"
+                                       ],
+                           "reason":  "The base bundle and optional products are publicly distinguishable, but the clarity and prominence of those boundaries across the full discovery journey have not been systematically tested.",
+                           "rating":  "partial",
+                           "unanswered":  [
+                                              "The evidence does not establish whether first-time guests consistently understand what is included versus separately chargeable before beginning a booking.",
+                                              "Desktop and mobile ordering, prominence and comparative presentation have not been systematically inspected."
+                                          ],
+                           "scopeChange":  "None. Initial Case #35 public-evidence scope. Rating applies only to the stated question and inspected sources, not operational execution or representative guest outcomes."
+                       },
+                       {
+                           "dimension":  "reservation",
+                           "observations":  [
+                                                {
+                                                    "text":  "Great Wolf operates as a pre-deposit resort, and all occupants regardless of age must be included on the reservation.",
+                                                    "sources":  [
+                                                                    "S9"
+                                                                ]
+                                                },
+                                                {
+                                                    "text":  "Water-park passes are included for registered guests, while attraction passes, cabanas, dining packages and other extras can create additional separately purchased commitments.",
+                                                    "sources":  [
+                                                                    "S2",
+                                                                    "S4",
+                                                                    "S5",
+                                                                    "S6",
+                                                                    "S10"
+                                                                ]
+                                                },
+                                                {
+                                                    "text":  "Suite occupancy and additional-person charges can affect the accommodation relationship and associated registered-guest entitlement.",
+                                                    "sources":  [
+                                                                    "S3",
+                                                                    "S9"
+                                                                ]
+                                                }
+                                            ],
+                           "nextEvidence":  "Inspect live suite, attraction-pass, cabana and meal-package purchase flows for deposit, cancellation, modification, capacity and entitlement rules.",
+                           "question":  "How does the core suite reservation establish registered-guest entitlement, and how do optional products create separate commitment and capacity relationships?",
+                           "sources":  [
+                                           "S2",
+                                           "S3",
+                                           "S4",
+                                           "S5",
+                                           "S6",
+                                           "S9",
+                                           "S10"
+                                       ],
+                           "reason":  "The public evidence distinguishes base accommodation entitlement from ancillary purchases, but complete cross-product commitment and recovery rules remain incomplete.",
+                           "rating":  "partial",
+                           "unanswered":  [
+                                              "The inspected sources do not establish whether ancillary products share inventory or cancellation logic with the lodging reservation.",
+                                              "Modification, refund and no-show rules are not established across every add-on product."
+                                          ],
+                           "scopeChange":  "None. Initial Case #35 public-evidence scope. Rating applies only to the stated question and inspected sources, not operational execution or representative guest outcomes."
+                       },
+                       {
+                           "dimension":  "pre-arrival",
+                           "observations":  [
+                                                {
+                                                    "text":  "The registered guest is expected to arrive with valid identification and the booking credit card.",
+                                                    "sources":  [
+                                                                    "S7"
+                                                                ]
+                                                },
+                                                {
+                                                    "text":  "Optional attraction, dining and cabana products can be purchased before arrival, creating opportunities to add narrower entitlements onto the base stay.",
+                                                    "sources":  [
+                                                                    "S4",
+                                                                    "S5",
+                                                                    "S6",
+                                                                    "S10"
+                                                                ]
+                                                },
+                                                {
+                                                    "text":  "All occupants must be included on the reservation, which matters because registered-guest status is tied to included water-park access.",
+                                                    "sources":  [
+                                                                    "S2",
+                                                                    "S9"
+                                                                ]
+                                                }
+                                            ],
+                           "nextEvidence":  "Inspect confirmation and pre-arrival communications for how included access, registered occupants, optional purchases, arrival timing and credential requirements are communicated.",
+                           "question":  "What information and entitlements are established between booking and arrival, and how are optional resort purchases layered onto the confirmed stay?",
+                           "sources":  [
+                                           "S2",
+                                           "S4",
+                                           "S5",
+                                           "S6",
+                                           "S7",
+                                           "S9",
+                                           "S10"
+                                       ],
+                           "reason":  "The sources establish important pre-arrival conditions and purchasable add-ons, but the actual communication sequence and guest-confidence journey have not been inspected.",
+                           "rating":  "partial",
+                           "unanswered":  [
+                                              "The current evidence does not establish how Great Wolf sequences pre-arrival communication after confirmation.",
+                                              "It does not establish how clearly guests are reminded which people are registered, what access they receive, or which products remain optional."
+                                          ],
+                           "scopeChange":  "None. Initial Case #35 public-evidence scope. Rating applies only to the stated question and inspected sources, not operational execution or representative guest outcomes."
+                       },
+                       {
+                           "dimension":  "arrival",
+                           "observations":  [
+                                                {
+                                                    "text":  "The registered guest checks in using valid identification and the booking credit card.",
+                                                    "sources":  [
+                                                                    "S7"
+                                                                ]
+                                                },
+                                                {
+                                                    "text":  "The RFID wristband can function as water-park ticket and room key and can also support purchases when configured.",
+                                                    "sources":  [
+                                                                    "S7"
+                                                                ]
+                                                },
+                                                {
+                                                    "text":  "Water-park access can begin on arrival day before the guest room itself is necessarily available.",
+                                                    "sources":  [
+                                                                    "S2"
+                                                                ]
+                                                }
+                                            ],
+                           "nextEvidence":  "Inspect the physical and digital check-in journey, wristband issuance, registered-guest verification and handling of guests arriving before room availability.",
+                           "question":  "How does arrival convert a lodging reservation into active room, water-park and payment entitlements?",
+                           "sources":  [
+                                           "S2",
+                                           "S7",
+                                           "S9"
+                                       ],
+                           "reason":  "The wristband appears to consolidate several entitlements, but issuance, exception handling and underlying system coordination are not established.",
+                           "rating":  "partial",
+                           "unanswered":  [
+                                              "The evidence does not establish whether all registered occupants receive identical wristband permissions.",
+                                              "It does not establish how missing credentials, unregistered occupants or failed wristbands are operationally resolved."
+                                          ],
+                           "scopeChange":  "None. Initial Case #35 public-evidence scope. Rating applies only to the stated question and inspected sources, not operational execution or representative guest outcomes."
+                       },
+                       {
+                           "dimension":  "stay",
+                           "observations":  [
+                                                {
+                                                    "text":  "Registered-guest status creates the base water-park entitlement, with passes included for each registered guest.",
+                                                    "sources":  [
+                                                                    "S2",
+                                                                    "S3"
+                                                                ]
+                                                },
+                                                {
+                                                    "text":  "Paid attraction passes create additional activity entitlements beyond the included water park.",
+                                                    "sources":  [
+                                                                    "S4",
+                                                                    "S5"
+                                                                ]
+                                                },
+                                                {
+                                                    "text":  "Cabanas create separately reservable private-space benefits inside an environment the guest is already entitled to enter.",
+                                                    "sources":  [
+                                                                    "S6"
+                                                                ]
+                                                },
+                                                {
+                                                    "text":  "Meal packages create per-person, per-day dining entitlements layered onto the stay.",
+                                                    "sources":  [
+                                                                    "S10"
+                                                                ]
+                                                }
+                                            ],
+                           "nextEvidence":  "Map the exact entitlement stack for registered guests, attraction-pass holders, meal-plan users and cabana renters, including overlap, capacity and recovery.",
+                           "question":  "How does a base registered-guest entitlement differ from additional attraction, dining and cabana entitlements during the stay?",
+                           "sources":  [
+                                           "S2",
+                                           "S3",
+                                           "S4",
+                                           "S5",
+                                           "S6",
+                                           "S10"
+                                       ],
+                           "reason":  "Base versus incremental entitlement is unusually visible in this case, but the operational relationship among those entitlements remains incomplete.",
+                           "rating":  "partial",
+                           "unanswered":  [
+                                              "The evidence does not establish whether optional entitlements are attached to a single guest profile or managed independently.",
+                                              "The evidence does not establish how overlapping entitlements are recovered if one component fails."
+                                          ],
+                           "scopeChange":  "None. Initial Case #35 public-evidence scope. Rating applies only to the stated question and inspected sources, not operational execution or representative guest outcomes."
+                       },
+                       {
+                           "dimension":  "dining",
+                           "observations":  [
+                                                {
+                                                    "text":  "The resort offers multiple dining formats, and certain outlets accept reservations.",
+                                                    "sources":  [
+                                                                    "S8"
+                                                                ]
+                                                },
+                                                {
+                                                    "text":  "Dining packages can be purchased before arrival as add-ons to the stay.",
+                                                    "sources":  [
+                                                                    "S5",
+                                                                    "S8",
+                                                                    "S10"
+                                                                ]
+                                                },
+                                                {
+                                                    "text":  "The Inclusive Meal Deal creates a defined per-person, per-day entitlement with specified meal components and exclusions.",
+                                                    "sources":  [
+                                                                    "S10"
+                                                                ]
+                                                }
+                                            ],
+                           "nextEvidence":  "Inspect restaurant reservation flows, meal-package redemption, exclusions, age rules, payment and service-recovery responsibility.",
+                           "question":  "How do ordinary food purchases, restaurant reservations and prepaid meal entitlements differ within the same stay?",
+                           "sources":  [
+                                           "S5",
+                                           "S8",
+                                           "S10"
+                                       ],
+                           "reason":  "The evidence distinguishes ordinary dining from prepaid dining entitlement, but operational redemption and exception handling remain under-specified.",
+                           "rating":  "partial",
+                           "unanswered":  [
+                                              "The evidence does not establish whether every dining outlet participates in prepaid packages.",
+                                              "It does not establish how unused, unavailable or disputed meal entitlements are handled."
+                                          ],
+                           "scopeChange":  "None. Initial Case #35 public-evidence scope. Rating applies only to the stated question and inspected sources, not operational execution or representative guest outcomes."
+                       },
+                       {
+                           "dimension":  "departure",
+                           "observations":  [
+                                                {
+                                                    "text":  "Water-park entitlement can continue through closing on departure day even after the overnight accommodation period is ending.",
+                                                    "sources":  [
+                                                                    "S2"
+                                                                ]
+                                                },
+                                                {
+                                                    "text":  "Late checkout is available as an optional purchasable add-on, indicating that room-possession duration can be extended separately from the base stay.",
+                                                    "sources":  [
+                                                                    "S5"
+                                                                ]
+                                                },
+                                                {
+                                                    "text":  "Water-park access duration and room-use duration are therefore not necessarily identical.",
+                                                    "sources":  [
+                                                                    "S2",
+                                                                    "S5"
+                                                                ]
+                                                }
+                                            ],
+                           "nextEvidence":  "Inspect room-key expiration, wristband access after checkout, late-checkout handling, ancillary entitlement expiry and final settlement.",
+                           "question":  "How do room occupancy, water-park access and optional product entitlements end relative to one another on departure day?",
+                           "sources":  [
+                                           "S2",
+                                           "S5",
+                                           "S7"
+                                       ],
+                           "reason":  "The published access window establishes a meaningful separation between lodging possession and water-park use, but credential and settlement mechanics remain incomplete.",
+                           "rating":  "partial",
+                           "unanswered":  [
+                                              "The evidence does not establish exactly when room-key functionality ends relative to water-park access.",
+                                              "It does not establish when separately purchased attraction, dining or cabana entitlements expire."
+                                          ],
+                           "scopeChange":  "None. Initial Case #35 public-evidence scope. Rating applies only to the stated question and inspected sources, not operational execution or representative guest outcomes."
+                       },
+                       {
+                           "dimension":  "atmosphere",
+                           "observations":  [
+                                                {
+                                                    "text":  "The resort combines overnight accommodation, an indoor water park, family activities, dining and paid attractions within one family-oriented institutional environment.",
+                                                    "sources":  [
+                                                                    "S1",
+                                                                    "S3",
+                                                                    "S4",
+                                                                    "S8"
+                                                                ]
+                                                },
+                                                {
+                                                    "text":  "Cabanas create a more private reservable zone inside the shared water-park environment.",
+                                                    "sources":  [
+                                                                    "S6"
+                                                                ]
+                                                }
+                                            ],
+                           "nextEvidence":  "Inspect current official spatial descriptions and imagery for differences among suites, water-park areas, cabanas, attractions and dining without inferring representative conditions.",
+                           "question":  "How does a shared family-resort environment contain spaces with different privacy, access and paid-entitlement conditions?",
+                           "sources":  [
+                                           "S1",
+                                           "S3",
+                                           "S4",
+                                           "S6",
+                                           "S8"
+                                       ],
+                           "reason":  "Distinct spatial relationships are publicly documented, but actual crowding, privacy, noise and lived atmosphere are not.",
+                           "rating":  "partial",
+                           "unanswered":  [
+                                              "Representative occupancy, noise, queueing, privacy and movement between spaces were not observed.",
+                                              "The evidence does not establish how visibly optional or restricted entitlements are communicated within the physical environment."
+                                          ],
+                           "scopeChange":  "None. Initial Case #35 public-evidence scope. Rating applies only to the stated question and inspected sources, not operational execution or representative guest outcomes."
+                       },
+                       {
+                           "dimension":  "photography",
+                           "observations":  [
+                                                {
+                                                    "text":  "The textual source set identifies suites, the water park, attractions, cabanas and dining as relevant visual subjects for later inspection.",
+                                                    "sources":  [
+                                                                    "S1",
+                                                                    "S3",
+                                                                    "S4",
+                                                                    "S6",
+                                                                    "S8"
+                                                                ]
+                                                }
+                                            ],
+                           "nextEvidence":  "Perform direct image-by-image inspection of official material and record whether included versus optional experiences are visually distinguished.",
+                           "question":  "Does official photography clarify what is included with the stay versus what requires additional purchase?",
+                           "sources":  [
+                                           "S1",
+                                           "S3",
+                                           "S4",
+                                           "S6",
+                                           "S8"
+                                       ],
+                           "reason":  "The current source set establishes visual questions but does not constitute completed photographic analysis.",
+                           "rating":  "partial",
+                           "unanswered":  [
+                                              "No systematic image-by-image review has established what official photography communicates about entitlement boundaries.",
+                                              "Image dates, desktop/mobile ordering, crowd representation and practical wayfinding value remain untested."
+                                          ],
+                           "scopeChange":  "None. Initial Case #35 public-evidence scope. Rating applies only to the stated question and inspected sources, not operational execution or representative guest outcomes."
+                       },
+                       {
+                           "dimension":  "story",
+                           "observations":  [
+                                                {
+                                                    "text":  "The central public relationship is an overnight family stay that includes water-park access for registered guests.",
+                                                    "sources":  [
+                                                                    "S1",
+                                                                    "S2",
+                                                                    "S3"
+                                                                ]
+                                                },
+                                                {
+                                                    "text":  "Paid attraction passes, cabanas, meal packages and other add-ons create narrower entitlements layered onto that base relationship.",
+                                                    "sources":  [
+                                                                    "S4",
+                                                                    "S5",
+                                                                    "S6",
+                                                                    "S10"
+                                                                ]
+                                                },
+                                                {
+                                                    "text":  "The RFID wristband can consolidate room, water-park and payment functions at arrival.",
+                                                    "sources":  [
+                                                                    "S7"
+                                                                ]
+                                                }
+                                            ],
+                           "nextEvidence":  "Test whether the layered entitlements materially alter customer identity, capacity, responsibility and recovery or are fully explained by conventional resort bundling.",
+                           "question":  "Does Great Wolf Lodge demonstrate Role-Partitioned / Multi-Relationship Hospitality Architecture, or is it better explained as one conventional family resort with bundled admission and ancillary upsells?",
+                           "sources":  [
+                                           "S1",
+                                           "S2",
+                                           "S3",
+                                           "S4",
+                                           "S5",
+                                           "S6",
+                                           "S7",
+                                           "S8",
+                                           "S9",
+                                           "S10"
+                                       ],
+                           "reason":  "The case provides a clean base-entitlement-versus-add-on structure, but a conventional bundling explanation remains strong.",
+                           "rating":  "partial",
+                           "unanswered":  [
+                                              "The evidence does not establish whether room, water-park, attraction, dining and payment entitlements are coordinated through one responsibility architecture.",
+                                              "The simpler explanation of conventional lodging bundle plus ancillary revenue products remains viable."
+                                          ],
+                           "scopeChange":  "None. Initial Case #35 public-evidence scope. Rating applies only to the stated question and inspected sources, not operational execution or representative guest outcomes."
+                       }
+                   ],
+    "schemaVersion":  1
+}
