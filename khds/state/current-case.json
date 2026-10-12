@@ -3,22 +3,22 @@
   "expectedBranch": "main",
   "workflowStatus": "idle",
   "latestCompletedCase": {
-    "caseNumber": 35,
-    "institutionName": "Great Wolf Lodge Niagara Falls",
-    "slug": "great-wolf-lodge-niagara-falls",
-    "institutionType": "Family waterpark resort with overnight lodging, registered-guest-only waterpark access, attraction passes, dining packages and reservable cabanas",
-    "sector": "waterpark-resorts",
-    "canonicalPath": "khds/research/institutions/waterpark-resorts/great-wolf-lodge-niagara-falls/",
+    "caseNumber": 36,
+    "institutionName": "Disney's Grand Floridian Resort & Spa",
+    "slug": "disneys-grand-floridian-resort-and-spa",
+    "institutionType": "Deluxe theme-park resort hotel with lodging, resort-guest benefits, separate theme-park admission, dining reservations, transportation and tiered access privileges",
+    "sector": "theme-park-resorts",
+    "canonicalPath": "khds/research/institutions/theme-park-resorts/disneys-grand-floridian-resort-and-spa/",
     "dossierComplete": true,
     "administrativeReconciliation": true
   },
-  "expectedNextCase": 36,
+  "expectedNextCase": 37,
   "researchAuthorized": false,
   "authorization": null,
   "activeCase": null,
   "disagreements": [],
   "publication": {
-    "journalPath": "khds/staging/case-35-great-wolf-lodge-niagara-falls/publication.json",
+    "journalPath": "khds/staging/case-36-disneys-grand-floridian-resort-and-spa/publication.json",
     "status": "promoted"
   },
   "reconciliationRecord": {
@@ -72,8 +72,8 @@
   },
   "reconciliationReview": {
     "approvedBy": "Brian Kodawa",
-    "approvedAt": "2026-10-08T15:42:26.546Z",
-    "contentDigest": "fee380173ed183a5ec3b098d3d797fa49cbd3c3aa399aaa0518ad5694ec537da",
+    "approvedAt": "2026-10-12T15:54:45.662Z",
+    "contentDigest": "6cac11356649fe05d84482ecbb67a19e693890fafab7fa0cfb45e0da5104c8ea",
     "controlChanges": []
   },
   "historyReconciliation": {

@@ -1,0 +1,27 @@
+{
+  "caseNumber": 36,
+  "institutionName": "Disney's Grand Floridian Resort & Spa",
+  "slug": "disneys-grand-floridian-resort-and-spa",
+  "institutionType": "Deluxe theme-park resort hotel with lodging, resort-guest benefits, separate theme-park admission, dining reservations, transportation and tiered access privileges",
+  "sector": "theme-park-resorts",
+  "canonicalPath": "khds/research/institutions/theme-park-resorts/disneys-grand-floridian-resort-and-spa/",
+  "stagingPath": "khds/staging/case-36-disneys-grand-floridian-resort-and-spa",
+  "trackingChanges": [],
+  "requiredFiles": [
+    "README.md",
+    "discovery.md",
+    "reservation.md",
+    "pre-arrival.md",
+    "arrival.md",
+    "stay.md",
+    "dining.md",
+    "departure.md",
+    "atmosphere.md",
+    "photography.md",
+    "story.md",
+    "knowledge-extraction.md"
+  ],
+  "evidenceCoverageVersion": 1,
+  "lockedAt": "2026-10-12T14:55:26.552Z",
+  "baseCommit": "ff0f9ade51860341264bbd1ca5dd6977017397e7"
+}

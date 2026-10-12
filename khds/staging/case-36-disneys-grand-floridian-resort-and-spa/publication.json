@@ -1,0 +1,509 @@
+{
+  "status": "promoted",
+  "approvedReport": "06ac30ef1e8aaebebedb041e6c4e79319a9e0c61ea8469b3084c0b95baa870a6",
+  "approvedAt": "2026-10-12T15:59:20.325Z",
+  "case": {
+    "caseNumber": 36,
+    "institutionName": "Disney's Grand Floridian Resort & Spa",
+    "slug": "disneys-grand-floridian-resort-and-spa",
+    "institutionType": "Deluxe theme-park resort hotel with lodging, resort-guest benefits, separate theme-park admission, dining reservations, transportation and tiered access privileges",
+    "sector": "theme-park-resorts",
+    "canonicalPath": "khds/research/institutions/theme-park-resorts/disneys-grand-floridian-resort-and-spa/",
+    "stagingPath": "khds/staging/case-36-disneys-grand-floridian-resort-and-spa",
+    "trackingChanges": [],
+    "requiredFiles": [
+      "README.md",
+      "discovery.md",
+      "reservation.md",
+      "pre-arrival.md",
+      "arrival.md",
+      "stay.md",
+      "dining.md",
+      "departure.md",
+      "atmosphere.md",
+      "photography.md",
+      "story.md",
+      "knowledge-extraction.md"
+    ],
+    "evidenceCoverageVersion": 1,
+    "lockedAt": "2026-10-12T14:55:26.552Z",
+    "baseCommit": "ff0f9ade51860341264bbd1ca5dd6977017397e7"
+  },
+  "promoted": [
+    {
+      "from": "khds/staging/case-36-disneys-grand-floridian-resort-and-spa/dossier/README.md",
+      "to": "khds/research/institutions/theme-park-resorts/disneys-grand-floridian-resort-and-spa/README.md",
+      "sha256": "15e4ca3c329c807cf3e9e0f8423d1eb93249b9203d41671b12620765a71b6978"
+    },
+    {
+      "from": "khds/staging/case-36-disneys-grand-floridian-resort-and-spa/dossier/arrival.md",
+      "to": "khds/research/institutions/theme-park-resorts/disneys-grand-floridian-resort-and-spa/arrival.md",
+      "sha256": "ea598b5a32151b7ab23fe6f07969ee0595fc8e0de2391849fcb4d6e0e229bcad"
+    },
+    {
+      "from": "khds/staging/case-36-disneys-grand-floridian-resort-and-spa/dossier/atmosphere.md",
+      "to": "khds/research/institutions/theme-park-resorts/disneys-grand-floridian-resort-and-spa/atmosphere.md",
+      "sha256": "6785494a2aa0171b9ecaec4475b25e354186cad77e13897f834b55934b68ca86"
+    },
+    {
+      "from": "khds/staging/case-36-disneys-grand-floridian-resort-and-spa/dossier/coverage.json",
+      "to": "khds/research/institutions/theme-park-resorts/disneys-grand-floridian-resort-and-spa/coverage.json",
+      "sha256": "2ea6524b4e98dcdb1958ac9d0ea957923a61c4d8aa7576132eee8173fb39ffab"
+    },
+    {
+      "from": "khds/staging/case-36-disneys-grand-floridian-resort-and-spa/dossier/departure.md",
+      "to": "khds/research/institutions/theme-park-resorts/disneys-grand-floridian-resort-and-spa/departure.md",
+      "sha256": "6240d35e7d538355b9e9f353372123c90df5fc30aade0458f49a0cf01afcfe92"
+    },
+    {
+      "from": "khds/staging/case-36-disneys-grand-floridian-resort-and-spa/dossier/dining.md",
+      "to": "khds/research/institutions/theme-park-resorts/disneys-grand-floridian-resort-and-spa/dining.md",
+      "sha256": "6da2d95145039e9ab32c419c7d987ecfd98f475b9fe72387ce2e83030e1c5ea5"
+    },
+    {
+      "from": "khds/staging/case-36-disneys-grand-floridian-resort-and-spa/dossier/discovery.md",
+      "to": "khds/research/institutions/theme-park-resorts/disneys-grand-floridian-resort-and-spa/discovery.md",
+      "sha256": "560c2be9c5b3e1743c9e2c8d603e44136677647ac668f7ef6fc9fea8062afcca"
+    },
+    {
+      "from": "khds/staging/case-36-disneys-grand-floridian-resort-and-spa/dossier/knowledge-extraction.md",
+      "to": "khds/research/institutions/theme-park-resorts/disneys-grand-floridian-resort-and-spa/knowledge-extraction.md",
+      "sha256": "b524c8f0ca9df7fd32a8d5edda6a565b3e3fe489cdc2088b4d8474ea014b984d"
+    },
+    {
+      "from": "khds/staging/case-36-disneys-grand-floridian-resort-and-spa/dossier/photography.md",
+      "to": "khds/research/institutions/theme-park-resorts/disneys-grand-floridian-resort-and-spa/photography.md",
+      "sha256": "b0c5883579a8e300a89c0399be6d19a5827221355d59c8a4526e946ab9d33480"
+    },
+    {
+      "from": "khds/staging/case-36-disneys-grand-floridian-resort-and-spa/dossier/pre-arrival.md",
+      "to": "khds/research/institutions/theme-park-resorts/disneys-grand-floridian-resort-and-spa/pre-arrival.md",
+      "sha256": "cd38501163432b512f061a32959ab9579d6cc6871567d8f5ba577f7cba249f68"
+    },
+    {
+      "from": "khds/staging/case-36-disneys-grand-floridian-resort-and-spa/dossier/reservation.md",
+      "to": "khds/research/institutions/theme-park-resorts/disneys-grand-floridian-resort-and-spa/reservation.md",
+      "sha256": "3fc01e80d01f6ffa91306f278e53beb59bb3bac06c403bd6580b4ab59a0856a7"
+    },
+    {
+      "from": "khds/staging/case-36-disneys-grand-floridian-resort-and-spa/dossier/sources.json",
+      "to": "khds/research/institutions/theme-park-resorts/disneys-grand-floridian-resort-and-spa/sources.json",
+      "sha256": "dfedfcb1cb68c503a632fcf3e185ad88013e664c0309a5e0fe2816983426a118"
+    },
+    {
+      "from": "khds/staging/case-36-disneys-grand-floridian-resort-and-spa/dossier/stay.md",
+      "to": "khds/research/institutions/theme-park-resorts/disneys-grand-floridian-resort-and-spa/stay.md",
+      "sha256": "b06aee7a8ae6c9cd97c81bffa1c2a49ecc386a1ab8ba20b1dfd84b9808bc1041"
+    },
+    {
+      "from": "khds/staging/case-36-disneys-grand-floridian-resort-and-spa/dossier/story.md",
+      "to": "khds/research/institutions/theme-park-resorts/disneys-grand-floridian-resort-and-spa/story.md",
+      "sha256": "54794dc52c72dffef1f88383c395874ed13f79b86fd14cd747f7acfd8790036c"
+    }
+  ],
+  "tracking": [],
+  "previousState": {
+    "schemaVersion": 1,
+    "expectedBranch": "main",
+    "workflowStatus": "publishable",
+    "latestCompletedCase": {
+      "caseNumber": 35,
+      "institutionName": "Great Wolf Lodge Niagara Falls",
+      "slug": "great-wolf-lodge-niagara-falls",
+      "institutionType": "Family waterpark resort with overnight lodging, registered-guest-only waterpark access, attraction passes, dining packages and reservable cabanas",
+      "sector": "waterpark-resorts",
+      "canonicalPath": "khds/research/institutions/waterpark-resorts/great-wolf-lodge-niagara-falls/",
+      "dossierComplete": true,
+      "administrativeReconciliation": true
+    },
+    "expectedNextCase": 36,
+    "researchAuthorized": true,
+    "authorization": {
+      "approvedBy": "Brian Kodawa",
+      "approvedAt": "2026-10-12T14:55:26.551Z",
+      "identity": {
+        "caseNumber": 36,
+        "institutionName": "Disney's Grand Floridian Resort & Spa",
+        "slug": "disneys-grand-floridian-resort-and-spa",
+        "institutionType": "Deluxe theme-park resort hotel with lodging, resort-guest benefits, separate theme-park admission, dining reservations, transportation and tiered access privileges",
+        "sector": "theme-park-resorts",
+        "canonicalPath": "khds/research/institutions/theme-park-resorts/disneys-grand-floridian-resort-and-spa/"
+      }
+    },
+    "activeCase": {
+      "caseNumber": 36,
+      "institutionName": "Disney's Grand Floridian Resort & Spa",
+      "slug": "disneys-grand-floridian-resort-and-spa",
+      "institutionType": "Deluxe theme-park resort hotel with lodging, resort-guest benefits, separate theme-park admission, dining reservations, transportation and tiered access privileges",
+      "sector": "theme-park-resorts",
+      "canonicalPath": "khds/research/institutions/theme-park-resorts/disneys-grand-floridian-resort-and-spa/",
+      "stagingPath": "khds/staging/case-36-disneys-grand-floridian-resort-and-spa",
+      "trackingChanges": [],
+      "requiredFiles": [
+        "README.md",
+        "discovery.md",
+        "reservation.md",
+        "pre-arrival.md",
+        "arrival.md",
+        "stay.md",
+        "dining.md",
+        "departure.md",
+        "atmosphere.md",
+        "photography.md",
+        "story.md",
+        "knowledge-extraction.md"
+      ],
+      "evidenceCoverageVersion": 1,
+      "lockedAt": "2026-10-12T14:55:26.552Z",
+      "baseCommit": "ff0f9ade51860341264bbd1ca5dd6977017397e7"
+    },
+    "disagreements": [],
+    "publication": {
+      "journalPath": "khds/staging/case-35-great-wolf-lodge-niagara-falls/publication.json",
+      "status": "promoted"
+    },
+    "reconciliationRecord": {
+      "scope": "Case #21 administratively closed at public-evidence scope; local changes uncommitted for review",
+      "controlCheckpoint": "5259bf1",
+      "correctedIssues": [
+        {
+          "path": "khds/research/institutions/hotels/fogo-island-inn-newfoundland/knowledge-extraction.md",
+          "reason": "Lines 14-15 and 3761-3763 say comparison and reconciliation pending; comparison and governance records say complete."
+        },
+        {
+          "path": "khds/research/institutions/README.md",
+          "reason": "Line 145 still defers selection of Case #21 institution."
+        },
+        {
+          "path": "khds/research/validation/README.md",
+          "reason": "Line 14703 says next Case #21; line 16803 says next Case #22."
+        },
+        {
+          "path": "khds/research/README.md",
+          "reason": "Validation README mirror remains Next at line 15284 despite its completion claim."
+        },
+        {
+          "path": "khds/research/institutions/hotels/fogo-island-inn-newfoundland/",
+          "reason": "22 dossier path references omit hotels/; legacy comparison/ references also survive the directory rename."
+        }
+      ],
+      "verifiedStages": [
+        "12-file public-evidence dossier",
+        "Institution comparison units, sector adapters and Case #21 seed",
+        "Canonical no-promotion decision and unchanged 26/8/1/0/0 maturity totals",
+        "Local canonical path and active-status corrections",
+        "Original completion checklist and F01-F12 dispositions recorded without claiming resolved operational outcomes",
+        "Current primary road/ferry sources compared; exact road duration remains uncertain"
+      ],
+      "unverified": [
+        "F01-F12 empirical outcomes and detailed operational tests remain unresolved; no positive promotion or validation",
+        "Exact Gander-to-Farewell road duration; current primary estimates conflict",
+        "Cross-institution recurrence; no second institution researched"
+      ]
+    },
+    "administrativeReview": {
+      "date": "2026-09-08",
+      "dispositionPath": "khds/research/institutions/hotels/fogo-island-inn-newfoundland/knowledge-extraction.md",
+      "travelReviewPath": "khds/research/institutions/hotels/fogo-island-inn-newfoundland/arrival.md",
+      "basis": "README public-evidence scope and non-inference rules; complete research dispositions, not operational proof",
+      "durationStatus": "uncertain",
+      "patternDecision": "no-promotion",
+      "patternValidated": false,
+      "confidenceChanges": 0
+    },
+    "reconciliationReview": {
+      "approvedBy": "Brian Kodawa",
+      "approvedAt": "2026-10-12T15:54:45.662Z",
+      "contentDigest": "6cac11356649fe05d84482ecbb67a19e693890fafab7fa0cfb45e0da5104c8ea",
+      "controlChanges": []
+    },
+    "historyReconciliation": {
+      "approvedBy": "Brian Kodawa",
+      "approvedAt": "2026-09-22T20:13:40.949Z",
+      "scope": "Administrative machine-readable history reconciliation for completed KHDS Cases #23 and #24 only; no research content altered and Case #25 not started.",
+      "mode": "retrospective-canonical-registration",
+      "cases": [
+        {
+          "caseNumber": 23,
+          "slug": "reffen-copenhagen",
+          "evidenceCommit": "cc5d586",
+          "scriptedPublicationJournal": null
+        },
+        {
+          "caseNumber": 24,
+          "slug": "time-out-market-lisboa",
+          "evidenceCommit": "fdebc1c",
+          "scriptedPublicationJournal": null
+        }
+      ]
+    },
+    "case25Registration": {
+      "approvedBy": "Brian Kodawa",
+      "approvedAt": "2026-09-22T20:50:09.232Z",
+      "scope": "Administrative machine-readable registration of completed KHDS Case #25 Generator Copenhagen only; canonical research remains unchanged and Case #26 is unselected and unstarted.",
+      "mode": "retrospective-canonical-registration",
+      "evidenceCommit": "e8c3f72",
+      "scriptedPublicationJournal": null
+    }
+  },
+  "previousHistory": {
+    "schemaVersion": 1,
+    "cases": [
+      {
+        "caseNumber": 21,
+        "institutionName": "Fogo Island Inn",
+        "slug": "fogo-island-inn-newfoundland",
+        "institutionType": "Boutique-scale luxury hotel / inn",
+        "sector": "hotels",
+        "canonicalPath": "khds/research/institutions/hotels/fogo-island-inn-newfoundland/",
+        "dossierComplete": true,
+        "administrativeReconciliation": true,
+        "evidenceCommit": "3e027f8",
+        "completionScope": "Public-evidence dossier administratively reconciled on 2026-09-08; F01-F12 outcomes, operational validation and exact road duration remain unresolved. No pattern promotion or confidence change."
+      },
+      {
+        "caseNumber": 22,
+        "institutionName": "Sky Lagoon",
+        "slug": "sky-lagoon-kopavogur",
+        "institutionType": "Geothermal bathing and wellness venue",
+        "sector": "wellness",
+        "canonicalPath": "khds/research/institutions/wellness/sky-lagoon-kopavogur/",
+        "dossierComplete": true,
+        "administrativeReconciliation": true,
+        "publicationJournal": "khds/staging/case-22-sky-lagoon-kopavogur/publication.json"
+      },
+      {
+        "caseNumber": 23,
+        "institutionName": "Reffen",
+        "slug": "reffen-copenhagen",
+        "institutionType": "Open-air street-food market and cultural hospitality venue",
+        "sector": "venues",
+        "canonicalPath": "khds/research/institutions/venues/reffen-copenhagen/",
+        "dossierComplete": true,
+        "administrativeReconciliation": true,
+        "evidenceCommit": "cc5d586",
+        "completionScope": "Canonical public-evidence dossier and governance reconciliation committed in cc5d586. Retrospectively registered in KHDS machine-readable history because Cases #23-24 were completed outside the scripted staging/publication state transition."
+      },
+      {
+        "caseNumber": 24,
+        "institutionName": "Time Out Market Lisboa",
+        "slug": "time-out-market-lisboa",
+        "institutionType": "Indoor food-and-cultural market with multiple eateries and event spaces",
+        "sector": "venues",
+        "canonicalPath": "khds/research/institutions/venues/time-out-market-lisboa/",
+        "dossierComplete": true,
+        "administrativeReconciliation": true,
+        "evidenceCommit": "fdebc1c",
+        "completionScope": "Canonical public-evidence dossier and governance closure committed in fdebc1c. Retrospectively registered in KHDS machine-readable history because Cases #23-24 were completed outside the scripted staging/publication state transition. Legacy filename depature.md retained unchanged."
+      },
+      {
+        "caseNumber": 25,
+        "institutionName": "Generator Copenhagen",
+        "slug": "generator-copenhagen",
+        "institutionType": "Hostel / Social Stay",
+        "sector": "hostels",
+        "canonicalPath": "khds/research/institutions/hostels/generator-copenhagen/",
+        "dossierComplete": true,
+        "administrativeReconciliation": true,
+        "evidenceCommit": "e8c3f72",
+        "completionScope": "Canonical public-evidence research, case-level review, administrative closure and governance reconciliation committed in e8c3f72. Retrospectively registered in KHDS machine-readable history after the Cases #23-24 control-lineage repair. No scripted staging/publication journal exists for Case #25."
+      },
+      {
+        "caseNumber": 26,
+        "institutionName": "Scarlet Lady",
+        "slug": "scarlet-lady",
+        "institutionType": "Adults-only cruise ship / integrated hospitality vessel",
+        "sector": "cruises",
+        "canonicalPath": "khds/research/institutions/cruises/scarlet-lady/",
+        "dossierComplete": true,
+        "administrativeReconciliation": true,
+        "publicationJournal": "khds/staging/case-26-scarlet-lady/publication.json"
+      },
+      {
+        "caseNumber": 27,
+        "institutionName": "Soho House Toronto",
+        "slug": "soho-house-toronto",
+        "institutionType": "Private members' club / membership-based hospitality institution",
+        "sector": "members-clubs",
+        "canonicalPath": "khds/research/institutions/members-clubs/soho-house-toronto/",
+        "dossierComplete": true,
+        "administrativeReconciliation": true,
+        "publicationJournal": "khds/staging/case-27-soho-house-toronto/publication.json"
+      },
+      {
+        "caseNumber": 28,
+        "institutionName": "The Arts Club London",
+        "slug": "the-arts-club-london",
+        "institutionType": "Private members' club with integrated hotel, dining, cultural programming and wellness access",
+        "sector": "members-clubs",
+        "canonicalPath": "khds/research/institutions/members-clubs/the-arts-club-london/",
+        "dossierComplete": true,
+        "administrativeReconciliation": true,
+        "publicationJournal": "khds/staging/case-28-the-arts-club-london/publication.json"
+      },
+      {
+        "caseNumber": 29,
+        "institutionName": "Casa Cipriani New York",
+        "slug": "casa-cipriani-new-york",
+        "institutionType": "Private members' club with hotel accommodation, dining, events and wellness",
+        "sector": "members-clubs",
+        "canonicalPath": "khds/research/institutions/members-clubs/casa-cipriani-new-york/",
+        "dossierComplete": true,
+        "administrativeReconciliation": true,
+        "publicationJournal": "khds/staging/case-29-casa-cipriani-new-york/publication.json"
+      },
+      {
+        "caseNumber": 30,
+        "institutionName": "The Social Hub Amsterdam City",
+        "slug": "the-social-hub-amsterdam-city",
+        "institutionType": "Mixed-use hospitality hub with hotel accommodation, student and extended stays, coworking, meetings/events, food & beverage, community programming and membership",
+        "sector": "mixed-use-hospitality",
+        "canonicalPath": "khds/research/institutions/mixed-use-hospitality/the-social-hub-amsterdam-city/",
+        "dossierComplete": true,
+        "administrativeReconciliation": true,
+        "publicationJournal": "khds/staging/case-30-the-social-hub-amsterdam-city/publication.json"
+      },
+      {
+        "caseNumber": 31,
+        "institutionName": "Moxy NYC Times Square",
+        "slug": "moxy-nyc-times-square",
+        "institutionType": "Lifestyle hotel with public social, dining, coworking and event spaces",
+        "sector": "hotels",
+        "canonicalPath": "khds/research/institutions/hotels/moxy-nyc-times-square/",
+        "dossierComplete": true,
+        "administrativeReconciliation": true,
+        "publicationJournal": "khds/staging/case-31-moxy-nyc-times-square/publication.json"
+      },
+      {
+        "caseNumber": 32,
+        "institutionName": "Plaza Premium Lounge Toronto Pearson Terminal 1 Domestic",
+        "slug": "plaza-premium-lounge-toronto-pearson-t1-domestic",
+        "institutionType": "Airport lounge with paid, pass-based, walk-in, group and optional-service access pathways",
+        "sector": "airport-lounges",
+        "canonicalPath": "khds/research/institutions/airport-lounges/plaza-premium-lounge-toronto-pearson-t1-domestic/",
+        "dossierComplete": true,
+        "administrativeReconciliation": true,
+        "publicationJournal": "khds/staging/case-32-plaza-premium-lounge-toronto-pearson-t1-domestic/publication.json"
+      },
+      {
+        "caseNumber": 33,
+        "institutionName": "YOTELAIR Istanbul Airport (Airside)",
+        "slug": "yotelair-istanbul-airport-airside",
+        "institutionType": "Airside transit hotel with short-stay and overnight cabin accommodation, shared lounge and airport-dependent access conditions",
+        "sector": "transit-hotels",
+        "canonicalPath": "khds/research/institutions/transit-hotels/yotelair-istanbul-airport-airside/",
+        "dossierComplete": true,
+        "administrativeReconciliation": true,
+        "publicationJournal": "khds/staging/case-33-yotelair-istanbul-airport-airside/publication.json"
+      },
+      {
+        "caseNumber": 34,
+        "institutionName": "The Venetian Resort Las Vegas",
+        "slug": "the-venetian-resort-las-vegas",
+        "institutionType": "Integrated resort with hotel accommodation, gaming, dining, entertainment, spa, loyalty tiers and guest-restricted amenities",
+        "sector": "integrated-resorts",
+        "canonicalPath": "khds/research/institutions/integrated-resorts/the-venetian-resort-las-vegas/",
+        "dossierComplete": true,
+        "administrativeReconciliation": true,
+        "publicationJournal": "khds/staging/case-34-the-venetian-resort-las-vegas/publication.json"
+      },
+      {
+        "caseNumber": 35,
+        "institutionName": "Great Wolf Lodge Niagara Falls",
+        "slug": "great-wolf-lodge-niagara-falls",
+        "institutionType": "Family waterpark resort with overnight lodging, registered-guest-only waterpark access, attraction passes, dining packages and reservable cabanas",
+        "sector": "waterpark-resorts",
+        "canonicalPath": "khds/research/institutions/waterpark-resorts/great-wolf-lodge-niagara-falls/",
+        "dossierComplete": true,
+        "administrativeReconciliation": true,
+        "publicationJournal": "khds/staging/case-35-great-wolf-lodge-niagara-falls/publication.json"
+      }
+    ],
+    "priorIdentities": [
+      {
+        "slug": "alinea",
+        "institutionName": "Alinea"
+      },
+      {
+        "slug": "ankole",
+        "institutionName": "Ankole"
+      },
+      {
+        "slug": "avatar-robot-cafe-dawn-tokyo",
+        "institutionName": "Avatar Robot Cafe Dawn Tokyo"
+      },
+      {
+        "slug": "bistro-lolo",
+        "institutionName": "Bistro Lolo"
+      },
+      {
+        "slug": "cultiva",
+        "institutionName": "Cultiva"
+      },
+      {
+        "slug": "dans-le-noir-london",
+        "institutionName": "Dans Le Noir London"
+      },
+      {
+        "slug": "din-tai-fung-covent-garden",
+        "institutionName": "Din Tai Fung Covent Garden"
+      },
+      {
+        "slug": "dishoom-covent-garden",
+        "institutionName": "Dishoom Covent Garden"
+      },
+      {
+        "slug": "franklin-barbecue",
+        "institutionName": "Franklin Barbecue"
+      },
+      {
+        "slug": "fyn",
+        "institutionName": "Fyn"
+      },
+      {
+        "slug": "haidilao-toronto",
+        "institutionName": "Haidilao Toronto"
+      },
+      {
+        "slug": "ichiran-shibuya",
+        "institutionName": "Ichiran Shibuya"
+      },
+      {
+        "slug": "jbj-soul-kitchen-red-bank",
+        "institutionName": "JBJ Soul Kitchen"
+      },
+      {
+        "slug": "mawimbi",
+        "institutionName": "Mawimbi"
+      },
+      {
+        "slug": "narisawa",
+        "institutionName": "Narisawa"
+      },
+      {
+        "slug": "noma-copenhagen-2026",
+        "institutionName": "Noma Copenhagen 2026"
+      },
+      {
+        "slug": "pearl-morissette-jordan-station",
+        "institutionName": "Pearl Morissette Jordan Station"
+      },
+      {
+        "slug": "refettorio-felix-london",
+        "institutionName": "Refettorio Felix"
+      },
+      {
+        "slug": "same-cafe-denver",
+        "institutionName": "SAME Caf? Denver"
+      },
+      {
+        "slug": "talisman",
+        "institutionName": "Talisman"
+      },
+      {
+        "slug": "trunk-tandoor",
+        "institutionName": "Trunk & Tandoor"
+      }
+    ]
+  }
+}

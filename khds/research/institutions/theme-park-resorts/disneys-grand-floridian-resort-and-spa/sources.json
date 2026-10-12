@@ -1,0 +1,115 @@
+{
+    "sources":  [
+                    {
+                        "url":  "https://disneyworld.disney.go.com/en_CA/resorts/grand-floridian-resort-and-spa/",
+                        "id":  "S1",
+                        "method":  "Direct HTML inspection",
+                        "accessDate":  "2026-10-12",
+                        "sections":  "Resort overview; Deluxe Resort classification; transportation; My Disney Experience; Lightning Lane advance purchase; Disney Signature Services; dining; recreation",
+                        "sourceDate":  "Undated; current page inspected 2026-10-12",
+                        "access":  "inspected",
+                        "title":  "Disney\u0027s Grand Floridian Resort \u0026 Spa",
+                        "note":  "Primary institution overview. Identifies Grand Floridian as a Deluxe Resort in the Magic Kingdom Resort Area and describes monorail, watercraft, motorcoach and walking access. It also presents My Disney Experience functions, Disney Signature Services for eligible Club-level guests and the Resort-hotel Lightning Lane advance-purchase window."
+                    },
+                    {
+                        "url":  "https://disneyworld.disney.go.com/en_CA/resorts/grand-floridian-resort-and-spa/rates-rooms/",
+                        "id":  "S2",
+                        "method":  "Direct HTML inspection",
+                        "accessDate":  "2026-10-12",
+                        "sections":  "Room categories; suites; occupancy; Club Level; Royal Palm Club; secured lounge access; personalized guest services",
+                        "sourceDate":  "Undated; current page inspected 2026-10-12",
+                        "access":  "inspected",
+                        "title":  "Room Rates at Disney\u0027s Grand Floridian Resort \u0026 Spa",
+                        "note":  "Accommodation and internal-tier source. Standard accommodation categories are distinguished from Club Level rooms and suites. Club Level adds specified benefits including secured key access to the Royal Palm Club lounge, refreshments during stated hours and Personalized Guest Services."
+                    },
+                    {
+                        "url":  "https://disneyworld.disney.go.com/en_CA/resorts/grand-floridian-resort-and-spa/amenities/",
+                        "id":  "S3",
+                        "method":  "Direct HTML inspection",
+                        "accessDate":  "2026-10-12",
+                        "sections":  "Monorail; watercraft; buses; Disney Signature Services; concierge; in-room services; Resort amenities",
+                        "sourceDate":  "Undated; current page inspected 2026-10-12",
+                        "access":  "inspected",
+                        "title":  "Amenities at Disney\u0027s Grand Floridian Resort \u0026 Spa",
+                        "note":  "Operational amenities source. Documents complimentary monorail, watercraft and bus transportation and identifies Disney Signature Services as personalized vacation-planning support available to guests staying in Club-level rooms and suites."
+                    },
+                    {
+                        "url":  "https://disneyworld.disney.go.com/en_CA/resorts/grand-floridian-resort-and-spa/dining/",
+                        "id":  "S4",
+                        "method":  "Direct HTML inspection",
+                        "accessDate":  "2026-10-12",
+                        "sections":  "Resort dining; table-service dining; dining reservations; theme-park admission boundary; restaurants; bars",
+                        "sourceDate":  "Undated; current page inspected 2026-10-12",
+                        "access":  "inspected",
+                        "title":  "Dining at Disney\u0027s Grand Floridian Resort \u0026 Spa",
+                        "note":  "Dining source lists multiple Grand Floridian dining relationships and states the broader Disney rule that an in-park dining reservation does not itself provide park access. Valid admission is separately required for in-park dining, and dining reservations do not guarantee access to a theme park."
+                    },
+                    {
+                        "url":  "https://disneyworld.disney.go.com/en_CA/resort-hotels-benefits/",
+                        "id":  "S5",
+                        "method":  "Direct HTML inspection",
+                        "accessDate":  "2026-10-12",
+                        "sections":  "Disney Resort hotel benefits; complimentary transportation; early theme-park entry; Deluxe Resort benefits; extended evening hours; Lightning Lane advance purchase",
+                        "sourceDate":  "Undated; current page inspected 2026-10-12",
+                        "access":  "inspected",
+                        "title":  "Benefits of Staying at Disney Resort Hotels",
+                        "note":  "Cross-resort entitlement source. Distinguishes benefits available to Disney Resort hotel guests generally from benefits associated with Deluxe Resort status. It also states that Early Theme Park Entry requires valid admission and that eligible Resort-hotel guests receive an earlier Lightning Lane purchase window."
+                    },
+                    {
+                        "url":  "https://disneyworld.disney.go.com/en_CA/guest-services/early-entry/",
+                        "id":  "S6",
+                        "method":  "Direct HTML inspection",
+                        "accessDate":  "2026-10-12",
+                        "sections":  "Early Theme Park Entry; registered hotel guests; check-in and check-out days; valid park admission; participating hotels",
+                        "sourceDate":  "Undated; current page inspected 2026-10-12",
+                        "access":  "inspected",
+                        "title":  "Early Theme Park Entry for Disney Resort Hotel Guests",
+                        "note":  "Entitlement-boundary source. Registered guests staying at Disney Resort hotels and other participating hotels can receive 30-minute Early Theme Park Entry during eligible stay dates, but valid theme-park admission remains separately required and reservations may also be required depending on admission type."
+                    },
+                    {
+                        "url":  "https://disneyworld.disney.go.com/en_CA/guest-services/extended-evening/",
+                        "id":  "S7",
+                        "method":  "Direct HTML inspection",
+                        "accessDate":  "2026-10-12",
+                        "sections":  "Extended Evening Theme Park Hours; Deluxe Resort eligibility; registered guests; participating hotels; select parks and nights",
+                        "sourceDate":  "Undated; current page inspected 2026-10-12",
+                        "access":  "inspected",
+                        "title":  "Extended Evening Theme Park Hours",
+                        "note":  "Tiered-benefit source. Extended evening hours are available on select nights in select parks to registered guests of Disney Deluxe Resorts, Disney Deluxe Villa Resorts and other select hotels. Disney\u0027s Grand Floridian Resort \u0026 Spa is explicitly listed as a participating Deluxe Resort."
+                    },
+                    {
+                        "url":  "https://disneyworld.disney.go.com/en_CA/lightning-lane-passes/",
+                        "id":  "S8",
+                        "method":  "Direct HTML inspection",
+                        "accessDate":  "2026-10-12",
+                        "sections":  "Lightning Lane passes; Resort-hotel advance purchase; valid theme-park admission; purchase timing; My Disney Experience",
+                        "sourceDate":  "Undated; current page inspected 2026-10-12",
+                        "access":  "inspected",
+                        "title":  "Plan Ahead and Save Time in Line with Lightning Lane Passes",
+                        "note":  "Advance-purchase entitlement source. Eligible Disney Resort hotel guests may purchase Lightning Lane passes beginning 7 days before the first day of their Resort stay for eligible stay dates, while other guests generally receive a shorter window. Valid theme-park admission is still required, and Lightning Lane passes are purchased through My Disney Experience."
+                    },
+                    {
+                        "url":  "https://disneyworld.disney.go.com/en_CA/recreation/cabanas/",
+                        "id":  "S9",
+                        "method":  "Direct HTML inspection",
+                        "accessDate":  "2026-10-12",
+                        "sections":  "Grand Floridian poolside cabanas; Resort-guest eligibility; reservations; amenities; check-in credential; cancellation",
+                        "sourceDate":  "Undated; current page inspected 2026-10-12",
+                        "access":  "inspected",
+                        "title":  "Cabana Rentals - Walt Disney World Resort",
+                        "note":  "Narrow resort-only entitlement source. Grand Floridian poolside cabanas are separately reservable full-day products and can only be booked by guests of Disney\u0027s Grand Floridian Resort \u0026 Spa. A MagicBand or Key to the World Card is required at cabana check-in, and private dining is available at additional cost."
+                    },
+                    {
+                        "url":  "https://disneyworld.disney.go.com/en_CA/guest-services/hotels-accessibility/",
+                        "id":  "S10",
+                        "method":  "Direct HTML inspection",
+                        "accessDate":  "2026-10-12",
+                        "sections":  "Accessible rooms; wheelchair accessibility; hearing accessibility; accessible paths of travel; Grand Floridian convention spaces",
+                        "sourceDate":  "Undated; current page inspected 2026-10-12",
+                        "access":  "inspected",
+                        "title":  "Services for Guests with Disabilities at Disney Resort Hotels",
+                        "note":  "Accessibility source. Disney Resort hotels offer accessible-room features and accessible paths from arrival areas to guest rooms, restaurants, shops, pools and other facilities. Grand Floridian is specifically identified among convention properties with accessible paths of travel."
+                    }
+                ],
+    "schemaVersion":  1
+}

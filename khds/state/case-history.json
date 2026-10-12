@@ -169,6 +169,17 @@
       "dossierComplete": true,
       "administrativeReconciliation": true,
       "publicationJournal": "khds/staging/case-35-great-wolf-lodge-niagara-falls/publication.json"
+    },
+    {
+      "caseNumber": 36,
+      "institutionName": "Disney's Grand Floridian Resort & Spa",
+      "slug": "disneys-grand-floridian-resort-and-spa",
+      "institutionType": "Deluxe theme-park resort hotel with lodging, resort-guest benefits, separate theme-park admission, dining reservations, transportation and tiered access privileges",
+      "sector": "theme-park-resorts",
+      "canonicalPath": "khds/research/institutions/theme-park-resorts/disneys-grand-floridian-resort-and-spa/",
+      "dossierComplete": true,
+      "administrativeReconciliation": true,
+      "publicationJournal": "khds/staging/case-36-disneys-grand-floridian-resort-and-spa/publication.json"
     }
   ],
   "priorIdentities": [

@@ -1,0 +1,259 @@
+{
+  "dimensions": [
+    {
+      "dimension": "discovery",
+      "observations": [
+        {
+          "text": "Disney's Grand Floridian Resort & Spa is publicly presented as a Deluxe Resort hotel combining accommodation, dining, transportation, recreation and proximity to Walt Disney World theme parks.",
+          "sources": ["S1", "S3", "S4", "S7"]
+        },
+        {
+          "text": "Public discovery material distinguishes narrower relationships including Club Level benefits, Extended Evening Theme Park Hours and separately reservable Grand Floridian cabanas.",
+          "sources": ["S2", "S7", "S9"]
+        }
+      ],
+      "nextEvidence": "Inspect desktop and mobile discovery and booking paths to determine how clearly lodging, park admission, Club Level benefits, Deluxe Resort privileges and separately purchased products are distinguished before commitment.",
+      "question": "How clearly does Grand Floridian distinguish the base lodging relationship from theme-park admission, tier-specific Resort benefits and separately reservable experiences?",
+      "sources": ["S1", "S2", "S3", "S4", "S7", "S9"],
+      "reason": "The public source set exposes several eligibility and product boundaries, but their prominence and clarity across the complete guest discovery journey have not been systematically tested.",
+      "rating": "partial",
+      "unanswered": [
+        "The evidence does not establish whether first-time guests consistently understand which benefits arise from lodging, Deluxe Resort status, Club Level status, park admission or separate purchase.",
+        "Desktop and mobile ordering, comparative presentation and decision friction have not been systematically inspected."
+      ],
+      "scopeChange": "None. Initial Case #36 public-evidence scope. Rating applies only to the stated question and inspected sources, not operational execution or representative guest outcomes."
+    },
+    {
+      "dimension": "reservation",
+      "observations": [
+        {
+          "text": "A valid Disney Resort hotel reservation establishes the accommodation relationship and can also create an earlier or broader planning window for certain dining reservations.",
+          "sources": ["S1", "S4"]
+        },
+        {
+          "text": "Eligible Resort-hotel guests receive an earlier Lightning Lane purchase window, but Lightning Lane remains separately purchased and valid theme-park admission is still required.",
+          "sources": ["S5", "S8"]
+        },
+        {
+          "text": "Grand Floridian cabanas are separately reservable full-day products restricted to guests of that Resort hotel.",
+          "sources": ["S9"]
+        }
+      ],
+      "nextEvidence": "Inspect live room, package, dining, Lightning Lane and cabana reservation flows for payment, cancellation, modification, capacity and entitlement dependencies.",
+      "question": "How does the lodging reservation create base status and planning privileges while park admission, dining, Lightning Lane and cabana commitments remain distinct?",
+      "sources": ["S1", "S4", "S5", "S8", "S9"],
+      "reason": "The public evidence shows several commitments and eligibility gates layered around the hotel reservation, but their complete contractual and recovery relationships are not established.",
+      "rating": "partial",
+      "unanswered": [
+        "The evidence does not establish whether lodging, park admission, dining, Lightning Lane and cabana products share inventory, modification or cancellation logic.",
+        "The operational consequences of changing or cancelling one component of a multi-product trip remain incomplete."
+      ],
+      "scopeChange": "None. Initial Case #36 public-evidence scope. Rating applies only to the stated question and inspected sources, not operational execution or representative guest outcomes."
+    },
+    {
+      "dimension": "pre-arrival",
+      "observations": [
+        {
+          "text": "Guests with a valid Disney Resort hotel reservation can make select dining reservations for their length of stay, up to 10 nights, beginning 60 days before arrival.",
+          "sources": ["S4"]
+        },
+        {
+          "text": "Eligible Disney Resort hotel guests receive a 7-day advance-purchase window for Lightning Lane passes for eligible stay dates.",
+          "sources": ["S5", "S8"]
+        },
+        {
+          "text": "Club Level accommodation adds Personalized Guest Services and Disney Signature Services beyond the standard room relationship.",
+          "sources": ["S2", "S3"]
+        }
+      ],
+      "nextEvidence": "Inspect actual confirmation and pre-arrival communication sequences for how lodging, admission, dining, transportation, Lightning Lane and Club Level privileges are communicated and coordinated.",
+      "question": "What planning privileges and service relationships become available before arrival, and how are they connected to the confirmed lodging relationship?",
+      "sources": ["S2", "S3", "S4", "S5", "S8"],
+      "reason": "The public evidence identifies meaningful advance-planning privileges, but the actual communication sequence, personalization and cross-product coordination have not been inspected.",
+      "rating": "partial",
+      "unanswered": [
+        "The current evidence does not establish the actual sequence of pre-arrival messages sent to Grand Floridian guests.",
+        "It does not establish whether the Resort proactively reconciles room status, park admission, dining, transportation and experience selections before arrival."
+      ],
+      "scopeChange": "None. Initial Case #36 public-evidence scope. Rating applies only to the stated question and inspected sources, not operational execution or representative guest outcomes."
+    },
+    {
+      "dimension": "arrival",
+      "observations": [
+        {
+          "text": "Early Theme Park Entry is available to eligible registered Resort-hotel guests on check-in and check-out days, but valid theme-park admission remains separately required.",
+          "sources": ["S5", "S6"]
+        },
+        {
+          "text": "Grand Floridian provides complimentary monorail, watercraft and bus transportation connecting the Resort with parts of Walt Disney World.",
+          "sources": ["S3"]
+        },
+        {
+          "text": "Disney Resort hotels provide accessible paths from arrival areas to the lobby and to accessible guest rooms and other major hotel facilities.",
+          "sources": ["S10"]
+        }
+      ],
+      "nextEvidence": "Inspect digital and physical check-in, credential activation, transportation wayfinding, admission verification and accessibility handling at arrival.",
+      "question": "How does arrival activate the lodging relationship while preserving separate admission, credential, transportation and accessibility requirements?",
+      "sources": ["S3", "S5", "S6", "S10"],
+      "reason": "The public evidence establishes several arrival-day privileges and requirements, but credential issuance, exception handling and operational handoffs remain incomplete.",
+      "rating": "partial",
+      "unanswered": [
+        "The evidence does not establish how room status, park admission and eligible Resort benefits are reconciled when credentials fail or trip components are missing.",
+        "The physical arrival and accessibility journey has not been directly observed."
+      ],
+      "scopeChange": "None. Initial Case #36 public-evidence scope. Rating applies only to the stated question and inspected sources, not operational execution or representative guest outcomes."
+    },
+    {
+      "dimension": "stay",
+      "observations": [
+        {
+          "text": "Club Level rooms and suites create narrower benefits including Royal Palm Club access and Personalized Guest Services.",
+          "sources": ["S2", "S3"]
+        },
+        {
+          "text": "Early Theme Park Entry requires eligible hotel status plus valid theme-park admission; lodging status alone does not satisfy the park-entry requirement.",
+          "sources": ["S5", "S6"]
+        },
+        {
+          "text": "Extended Evening Theme Park Hours create a narrower benefit associated with registered guests of Disney Deluxe Resorts and other eligible hotels, and Grand Floridian is explicitly listed as participating.",
+          "sources": ["S7"]
+        },
+        {
+          "text": "Grand Floridian cabanas create a separately reserved, Resort-guest-only private-space entitlement inside the broader Resort relationship.",
+          "sources": ["S9"]
+        },
+        {
+          "text": "Lightning Lane passes remain separately purchased products even when Resort-hotel status creates an earlier purchase window.",
+          "sources": ["S8"]
+        }
+      ],
+      "nextEvidence": "Map the exact entitlement stack for standard-room guests, Club Level guests, park-admission holders, Extended Evening Hours users, Lightning Lane purchasers and cabana renters.",
+      "question": "How do lodging status, accommodation tier, park admission and separately purchased products combine into different guest entitlements during the stay?",
+      "sources": ["S2", "S3", "S5", "S6", "S7", "S8", "S9"],
+      "reason": "The case exposes multiple overlapping eligibility layers, but public evidence does not establish whether they represent a unified responsibility architecture or conventional Disney Resort product segmentation.",
+      "rating": "partial",
+      "unanswered": [
+        "The evidence does not establish whether these entitlements are operationally managed through one guest profile and one recovery structure.",
+        "The simpler explanation of conventional resort tiers, admission requirements and ancillary products remains viable."
+      ],
+      "scopeChange": "None. Initial Case #36 public-evidence scope. Rating applies only to the stated question and inspected sources, not operational execution or representative guest outcomes."
+    },
+    {
+      "dimension": "dining",
+      "observations": [
+        {
+          "text": "Grand Floridian offers multiple dining formats and select restaurants support advance reservations.",
+          "sources": ["S4"]
+        },
+        {
+          "text": "Guests with a valid Disney Resort hotel reservation can make select dining reservations for their entire stay, up to 10 nights, beginning 60 days before arrival.",
+          "sources": ["S4"]
+        },
+        {
+          "text": "An in-park dining reservation does not provide theme-park access: valid admission is separately required and a dining reservation does not guarantee access to the park.",
+          "sources": ["S4"]
+        }
+      ],
+      "nextEvidence": "Inspect Resort and in-park dining reservation flows, deposits, cancellation terms, admission checks and responsibility when a dining reservation exists but park access fails.",
+      "question": "How do Resort dining reservations, hotel-based advance booking privileges and separate theme-park admission interact without becoming the same entitlement?",
+      "sources": ["S4"],
+      "reason": "Disney explicitly separates dining reservation from park-entry entitlement, but the operational handling of conflicts, failures and cross-system recovery is not established.",
+      "rating": "partial",
+      "unanswered": [
+        "The evidence does not establish who owns recovery when a guest has a valid dining reservation but lacks or loses the required park access.",
+        "The degree of integration between hotel, dining and park-admission systems is not established by public evidence."
+      ],
+      "scopeChange": "None. Initial Case #36 public-evidence scope. Rating applies only to the stated question and inspected sources, not operational execution or representative guest outcomes."
+    },
+    {
+      "dimension": "departure",
+      "observations": [
+        {
+          "text": "Early Theme Park Entry explicitly applies on both check-in and check-out days for eligible registered hotel guests, subject to valid theme-park admission.",
+          "sources": ["S6"]
+        }
+      ],
+      "nextEvidence": "Inspect checkout timing, room-access expiration, Resort-benefit expiration, park-benefit eligibility, stored luggage and transportation access after room departure.",
+      "question": "Which lodging-linked benefits end with room possession, and which can continue through the guest's check-out day?",
+      "sources": ["S6"],
+      "reason": "The Early Entry rule demonstrates that at least one lodging-linked eligibility can extend across the check-out day, but the end points of other Resort entitlements are not established.",
+      "rating": "partial",
+      "unanswered": [
+        "The evidence does not establish the exact expiration time for Club Level access, Resort credentials or other lodging-linked privileges on departure day.",
+        "It does not establish whether separately purchased experiences retain independent validity after room checkout."
+      ],
+      "scopeChange": "None. Initial Case #36 public-evidence scope. Rating applies only to the stated question and inspected sources, not operational execution or representative guest outcomes."
+    },
+    {
+      "dimension": "atmosphere",
+      "observations": [
+        {
+          "text": "Grand Floridian publicly presents an upscale Victorian-inspired Resort environment combining accommodation, pools, spa, dining and transportation within the larger Walt Disney World destination.",
+          "sources": ["S1", "S3", "S4"]
+        },
+        {
+          "text": "Club Level lounge access and separately reserved poolside cabanas create more restricted or private zones within the broader shared Resort environment.",
+          "sources": ["S2", "S9"]
+        }
+      ],
+      "nextEvidence": "Inspect current official spatial descriptions and imagery for differences among standard accommodation, Club Level areas, dining, pools, cabanas, transport nodes and theme-park interfaces.",
+      "question": "How does one visually coherent Deluxe Resort contain spaces and experiences with materially different access, privacy and entitlement conditions?",
+      "sources": ["S1", "S2", "S3", "S4", "S9"],
+      "reason": "Distinct shared and restricted environments are publicly documented, but actual crowding, privacy, noise, wayfinding and lived atmosphere were not observed.",
+      "rating": "partial",
+      "unanswered": [
+        "Representative occupancy, queueing, privacy and movement between entitlement zones have not been directly observed.",
+        "The evidence does not establish how clearly eligibility boundaries are communicated inside the physical Resort."
+      ],
+      "scopeChange": "None. Initial Case #36 public-evidence scope. Rating applies only to the stated question and inspected sources, not operational execution or representative guest outcomes."
+    },
+    {
+      "dimension": "photography",
+      "observations": [
+        {
+          "text": "The inspected textual source set identifies rooms, Club Level accommodation, restaurants, pools, cabanas and transportation as relevant visual subjects for later photographic inspection.",
+          "sources": ["S1", "S2", "S3", "S4", "S9"]
+        }
+      ],
+      "nextEvidence": "Perform direct image-by-image inspection of current official material and record whether standard, restricted, separately reservable and park-linked experiences are visually distinguished.",
+      "question": "Does official photography clarify the difference between the base Resort experience and narrower Club Level, cabana, dining or theme-park-linked entitlements?",
+      "sources": ["S1", "S2", "S3", "S4", "S9"],
+      "reason": "The source set establishes visual questions but does not constitute completed photographic analysis.",
+      "rating": "partial",
+      "unanswered": [
+        "No systematic image-by-image review has established what Disney's official photography communicates about entitlement boundaries.",
+        "Image dates, ordering, representative crowd conditions and practical wayfinding value remain untested."
+      ],
+      "scopeChange": "None. Initial Case #36 public-evidence scope. Rating applies only to the stated question and inspected sources, not operational execution or representative guest outcomes."
+    },
+    {
+      "dimension": "story",
+      "observations": [
+        {
+          "text": "The core public relationship is a Deluxe Resort hotel stay supported by dining, recreation and complimentary Disney transportation.",
+          "sources": ["S1", "S3", "S4"]
+        },
+        {
+          "text": "Narrower eligibility layers include Club Level services, valid-admission-dependent Early Theme Park Entry, Deluxe-specific Extended Evening Theme Park Hours, separately purchased Lightning Lane passes and Resort-guest-only cabanas.",
+          "sources": ["S2", "S6", "S7", "S8", "S9"]
+        },
+        {
+          "text": "Disney explicitly demonstrates that one confirmed relationship does not automatically satisfy another: a dining reservation does not guarantee theme-park access.",
+          "sources": ["S4"]
+        }
+      ],
+      "nextEvidence": "Test whether these overlapping statuses materially divide customer identity, capacity, responsibility and recovery, or whether they are fully explained by conventional destination-resort segmentation and ancillary products.",
+      "question": "Does Disney's Grand Floridian Resort & Spa demonstrate Role-Partitioned / Multi-Relationship Hospitality Architecture, or is it better explained as a conventional Deluxe destination resort embedded in a larger separately ticketed theme-park ecosystem?",
+      "sources": ["S1", "S2", "S3", "S4", "S5", "S6", "S7", "S8", "S9", "S10"],
+      "reason": "The case provides unusually visible layered eligibility boundaries, but conventional destination-resort segmentation remains a strong competing explanation.",
+      "rating": "partial",
+      "unanswered": [
+        "The evidence does not establish whether lodging, park admission, dining, Club Level, Lightning Lane, cabana and transportation relationships are coordinated through one responsibility architecture.",
+        "The simpler explanation of one Deluxe hotel operating inside a larger Disney destination ecosystem with conventional tiers and ancillary products remains viable."
+      ],
+      "scopeChange": "None. Initial Case #36 public-evidence scope. Rating applies only to the stated question and inspected sources, not operational execution or representative guest outcomes."
+    }
+  ],
+  "schemaVersion": 1
+}
