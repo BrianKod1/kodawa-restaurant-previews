@@ -1,0 +1,431 @@
+{
+    "dimensions":  [
+                       {
+                           "dimension":  "discovery",
+                           "observations":  [
+                                                {
+                                                    "text":  "Esalen presents itself as a residential learning and retreat institution rather than only an accommodation provider.",
+                                                    "sources":  [
+                                                                    "S1"
+                                                                ]
+                                                },
+                                                {
+                                                    "text":  "Public material distinguishes structured workshop participation from Self-Guided Exploration, where guests can use open classes, campus facilities and optional services without enrolling in one preregistered workshop.",
+                                                    "sources":  [
+                                                                    "S7",
+                                                                    "S8",
+                                                                    "S9"
+                                                                ]
+                                                },
+                                                {
+                                                    "text":  "Healing Arts and some partner-led programs introduce additional participation and payment routes beyond the core overnight relationship.",
+                                                    "sources":  [
+                                                                    "S6",
+                                                                    "S12"
+                                                                ]
+                                                }
+                                            ],
+                           "nextEvidence":  "Inspect desktop and mobile discovery routes and compare how eligibility, inclusions, price, accommodation and participation requirements are presented before booking.",
+                           "question":  "How clearly does Esalen distinguish workshop-based stays, Self-Guided Explorations, Healing Arts, day access and other participation routes before a guest makes a commitment?",
+                           "sources":  [
+                                           "S1",
+                                           "S2",
+                                           "S6",
+                                           "S7",
+                                           "S8",
+                                           "S9",
+                                           "S10",
+                                           "S12"
+                                       ],
+                           "reason":  "Distinct public participation routes are visible, but the clarity of their boundaries across the full discovery journey has not been systematically inspected.",
+                           "rating":  "partial",
+                           "unanswered":  [
+                                              "The evidence does not establish how clearly a first-time visitor understands the differences among workshop guest, Self-Guided guest, Healing Arts client, day visitor and partner-program participant before starting a booking.",
+                                              "Desktop and mobile discovery ordering, prominence and comparative presentation have not been systematically tested."
+                                          ],
+                           "scopeChange":  "None. Initial Case #37 public-evidence scope. Rating applies only to the stated question and inspected sources, not operational execution, representative guest outcomes, accessibility fulfilment, workshop outcomes or internal systems."
+                       },
+                       {
+                           "dimension":  "reservation",
+                           "observations":  [
+                                                {
+                                                    "text":  "Overnight accommodation carries lodging, meal, campus-facility and program-related inclusions, with price varying by accommodation category.",
+                                                    "sources":  [
+                                                                    "S2"
+                                                                ]
+                                                },
+                                                {
+                                                    "text":  "Healing Arts requires a separate reservation and payment relationship and is capacity-sensitive.",
+                                                    "sources":  [
+                                                                    "S6"
+                                                                ]
+                                                },
+                                                {
+                                                    "text":  "Some partner-led programs can separate workshop tuition registration from Esalen accommodation booking.",
+                                                    "sources":  [
+                                                                    "S12"
+                                                                ]
+                                                },
+                                                {
+                                                    "text":  "Published policy material describes deposits, final payment, changes and cancellation conditions for Esalen stays.",
+                                                    "sources":  [
+                                                                    "S3"
+                                                                ]
+                                                }
+                                            ],
+                           "nextEvidence":  "Inspect live booking flows for one workshop stay, one Self-Guided stay and one Healing Arts service, recording inventory, deposit, payment, modification, cancellation and confirmation boundaries.",
+                           "question":  "What exactly is being reserved or paid for across lodging, workshop participation, Self-Guided stays, Healing Arts and partner-led programs?",
+                           "sources":  [
+                                           "S2",
+                                           "S3",
+                                           "S6",
+                                           "S7",
+                                           "S9",
+                                           "S12"
+                                       ],
+                           "reason":  "Public evidence clearly exposes more than one commitment object, but the operational relationship among lodging, programs and ancillary services remains incomplete.",
+                           "rating":  "partial",
+                           "unanswered":  [
+                                              "The inspected sources do not establish whether all reservation objects share one inventory, customer record, modification process or recovery owner.",
+                                              "No live booking transaction was completed.",
+                                              "Cross-product refund, transfer, no-show and exception handling are not fully established."
+                                          ],
+                           "scopeChange":  "None. Initial Case #37 public-evidence scope. Rating applies only to the stated question and inspected sources, not operational execution, representative guest outcomes, accessibility fulfilment, workshop outcomes or internal systems."
+                       },
+                       {
+                           "dimension":  "pre-arrival",
+                           "observations":  [
+                                                {
+                                                    "text":  "Planning guidance communicates arrival timing, room-key timing, meal windows, road-access conditions, limited communications infrastructure and distance from some health services.",
+                                                    "sources":  [
+                                                                    "S3"
+                                                                ]
+                                                },
+                                                {
+                                                    "text":  "Accessibility and accommodation needs may require direct contact with Esalen rather than being fully resolved through ordinary public booking information.",
+                                                    "sources":  [
+                                                                    "S2",
+                                                                    "S4"
+                                                                ]
+                                                },
+                                                {
+                                                    "text":  "Healing Arts has its own booking and timing conditions that can affect the guest\u0027s broader visit plan.",
+                                                    "sources":  [
+                                                                    "S6"
+                                                                ]
+                                                }
+                                            ],
+                           "nextEvidence":  "Inspect confirmation and pre-arrival communications or public samples for travel preparation, schedule, meals, accommodation, accessibility, health, workshop and ancillary-service information.",
+                           "question":  "What preparation does Esalen require between confirmation and arrival, especially for remote access, schedules, health needs, accommodation and program participation?",
+                           "sources":  [
+                                           "S2",
+                                           "S3",
+                                           "S4",
+                                           "S6",
+                                           "S10"
+                                       ],
+                           "reason":  "Important preparation requirements are public, but the actual communication sequence and information continuity after booking remain unverified.",
+                           "rating":  "partial",
+                           "unanswered":  [
+                                              "The actual post-booking email and reminder sequence has not been inspected.",
+                                              "The evidence does not establish how consistently road conditions, health limitations, accommodation needs, workshop schedules and optional services are consolidated into one pre-arrival communication journey.",
+                                              "Accessibility fulfilment was not tested."
+                                          ],
+                           "scopeChange":  "None. Initial Case #37 public-evidence scope. Rating applies only to the stated question and inspected sources, not operational execution, representative guest outcomes, accessibility fulfilment, workshop outcomes or internal systems."
+                       },
+                       {
+                           "dimension":  "arrival",
+                           "observations":  [
+                                                {
+                                                    "text":  "Guests may arrive after 2 PM while room keys become available later at 4 PM, creating a period in which campus presence and room possession are not identical states.",
+                                                    "sources":  [
+                                                                    "S3"
+                                                                ]
+                                                },
+                                                {
+                                                    "text":  "Arrival occurs through a defined gate/check-in process rather than unrestricted visitor access.",
+                                                    "sources":  [
+                                                                    "S3",
+                                                                    "S4"
+                                                                ]
+                                                },
+                                                {
+                                                    "text":  "Healing Arts timing can create additional arrival or access conditions beyond the ordinary overnight schedule.",
+                                                    "sources":  [
+                                                                    "S6"
+                                                                ]
+                                                }
+                                            ],
+                           "nextEvidence":  "Inspect arrival instructions, check-in materials and any available guest communications for identity verification, room assignment, orientation, meal access, workshop handoff and exception handling.",
+                           "question":  "How does arrival convert a reservation into campus access, room access, meal entitlement and program participation?",
+                           "sources":  [
+                                           "S2",
+                                           "S3",
+                                           "S6",
+                                           "S10",
+                                           "S4"
+                                       ],
+                           "reason":  "Published timing exposes meaningful separation between property access and room possession, but the operational handoff into an active guest state remains unobserved.",
+                           "rating":  "partial",
+                           "unanswered":  [
+                                              "The evidence does not establish the exact credential, identity or entitlement checks performed at arrival.",
+                                              "Exception handling for late arrival, missing booking information, accessibility support or road disruption has not been observed.",
+                                              "No physical arrival was observed."
+                                          ],
+                           "scopeChange":  "None. Initial Case #37 public-evidence scope. Rating applies only to the stated question and inspected sources, not operational execution, representative guest outcomes, accessibility fulfilment, workshop outcomes or internal systems."
+                       },
+                       {
+                           "dimension":  "stay",
+                           "observations":  [
+                                                {
+                                                    "text":  "An overnight stay can combine accommodation, three daily meals, hot-spring access, open classes and either workshop-based or self-directed participation.",
+                                                    "sources":  [
+                                                                    "S2",
+                                                                    "S7"
+                                                                ]
+                                                },
+                                                {
+                                                    "text":  "Open classes are available to registered guests but remain first-come, first-served and schedule-dependent.",
+                                                    "sources":  [
+                                                                    "S8"
+                                                                ]
+                                                },
+                                                {
+                                                    "text":  "Healing Arts creates an optional separately booked service within or alongside the broader retreat stay.",
+                                                    "sources":  [
+                                                                    "S6"
+                                                                ]
+                                                },
+                                                {
+                                                    "text":  "Some partner programs separate program tuition from Esalen lodging while the guest remains physically within one retreat environment.",
+                                                    "sources":  [
+                                                                    "S12"
+                                                                ]
+                                                }
+                                            ],
+                           "nextEvidence":  "Map the entitlement and responsibility stack for workshop guests, Self-Guided guests and Healing Arts clients, including capacity, ownership, escalation and recovery.",
+                           "question":  "How do accommodation, workshop participation, open classes, Healing Arts, hot springs and self-directed time coexist during a residential retreat?",
+                           "sources":  [
+                                           "S2",
+                                           "S5",
+                                           "S6",
+                                           "S7",
+                                           "S8",
+                                           "S9",
+                                           "S12"
+                                       ],
+                           "reason":  "The public evidence supports layered participation and entitlement, but does not establish whether those layers operate as one coordinated responsibility system.",
+                           "rating":  "partial",
+                           "unanswered":  [
+                                              "The evidence does not establish how guest information, program participation, lodging, meals and Healing Arts are coordinated operationally.",
+                                              "It does not establish how service failures in one component affect the remaining stay.",
+                                              "No representative experience, staff handoff or service-recovery observation was conducted."
+                                          ],
+                           "scopeChange":  "None. Initial Case #37 public-evidence scope. Rating applies only to the stated question and inspected sources, not operational execution, representative guest outcomes, accessibility fulfilment, workshop outcomes or internal systems."
+                       },
+                       {
+                           "dimension":  "dining",
+                           "observations":  [
+                                                {
+                                                    "text":  "Three meals per day are included with overnight stays described in the accommodation and tuition material.",
+                                                    "sources":  [
+                                                                    "S2"
+                                                                ]
+                                                },
+                                                {
+                                                    "text":  "Planning material publishes meal windows that structure when the included dining entitlement can be used.",
+                                                    "sources":  [
+                                                                    "S3"
+                                                                ]
+                                                },
+                                                {
+                                                    "text":  "Dining is presented as part of the shared campus experience rather than only an independent restaurant transaction.",
+                                                    "sources":  [
+                                                                    "S5"
+                                                                ]
+                                                }
+                                            ],
+                           "nextEvidence":  "Inspect current dining, dietary and guest-preparation guidance for dietary declarations, allergy responsibility, meal substitutions, missed-meal handling and escalation.",
+                           "question":  "How does included communal dining function as a retreat entitlement, and what dietary, timing and recovery conditions apply?",
+                           "sources":  [
+                                           "S2",
+                                           "S3",
+                                           "S5",
+                                           "S12"
+                                       ],
+                           "reason":  "Meal entitlement and communal context are public, but dietary safety, exception handling and operational delivery remain unverified.",
+                           "rating":  "partial",
+                           "unanswered":  [
+                                              "The inspected evidence does not establish complete dietary-allergy intake, kitchen communication, cross-contact controls or service-recovery procedures.",
+                                              "It does not establish what happens when a guest misses a meal window or requires an alternative outside normal service.",
+                                              "No meal service was observed or tested."
+                                          ],
+                           "scopeChange":  "None. Initial Case #37 public-evidence scope. Rating applies only to the stated question and inspected sources, not operational execution, representative guest outcomes, accessibility fulfilment, workshop outcomes or internal systems."
+                       },
+                       {
+                           "dimension":  "departure",
+                           "observations":  [
+                                                {
+                                                    "text":  "Rooms must be vacated by 10 AM while guests may remain on the property until 2 PM, so room possession and campus access have different ending times.",
+                                                    "sources":  [
+                                                                    "S3"
+                                                                ]
+                                                },
+                                                {
+                                                    "text":  "Healing Arts can create additional timing conditions or extension arrangements around the ordinary arrival and departure boundaries.",
+                                                    "sources":  [
+                                                                    "S6"
+                                                                ]
+                                                },
+                                                {
+                                                    "text":  "Different contact routes exist for reservations, Healing Arts, general inquiries and lost property, indicating several possible post-service responsibility paths.",
+                                                    "sources":  [
+                                                                    "S10"
+                                                                ]
+                                                }
+                                            ],
+                           "nextEvidence":  "Inspect cancellation, early-departure, lost-property and program-withdrawal guidance and map when each entitlement and responsibility actually ends.",
+                           "question":  "How do room possession, campus access, program participation, meals and optional services end relative to one another?",
+                           "sources":  [
+                                           "S3",
+                                           "S6",
+                                           "S10"
+                                       ],
+                           "reason":  "Published timing clearly separates room departure from property departure, but complete closure and early-exit mechanics remain incomplete.",
+                           "rating":  "partial",
+                           "unanswered":  [
+                                              "The evidence does not establish exact credential expiration or how remaining meal, workshop or facility entitlements terminate.",
+                                              "Early-exit procedures, interrupted-program recovery and refund handling were not fully established.",
+                                              "No checkout or departure handoff was observed."
+                                          ],
+                           "scopeChange":  "None. Initial Case #37 public-evidence scope. Rating applies only to the stated question and inspected sources, not operational execution, representative guest outcomes, accessibility fulfilment, workshop outcomes or internal systems."
+                       },
+                       {
+                           "dimension":  "atmosphere",
+                           "observations":  [
+                                                {
+                                                    "text":  "The institution combines shared dining, classes, baths, outdoor campus spaces and accommodation within one residential retreat environment.",
+                                                    "sources":  [
+                                                                    "S2",
+                                                                    "S5"
+                                                                ]
+                                                },
+                                                {
+                                                    "text":  "Accommodation categories differ in privacy and occupancy conditions, while Self-Guided participation explicitly allows guests to choose between activity and personal time.",
+                                                    "sources":  [
+                                                                    "S2",
+                                                                    "S7"
+                                                                ]
+                                                },
+                                                {
+                                                    "text":  "The baths carry explicit privacy rules, including prohibition of photography and video.",
+                                                    "sources":  [
+                                                                    "S5"
+                                                                ]
+                                                }
+                                            ],
+                           "nextEvidence":  "Inspect current spatial descriptions and first-party visual material, then seek bounded practitioner or guest evidence without treating anecdote as representative proof.",
+                           "question":  "How does Esalen manage the boundary between communal retreat life, private accommodation, optional social participation, embodied wellness and personal refuge?",
+                           "sources":  [
+                                           "S2",
+                                           "S4",
+                                           "S5",
+                                           "S7"
+                                       ],
+                           "reason":  "The public material exposes important communal/private boundaries, but actual atmosphere and guest control cannot be established from textual public evidence alone.",
+                           "rating":  "partial",
+                           "unanswered":  [
+                                              "Representative noise, crowding, privacy, social pressure, sensory conditions and ability to withdraw were not observed.",
+                                              "The evidence does not establish whether optional participation feels operationally optional for all guests.",
+                                              "Accessibility of the physical environment was not audited."
+                                          ],
+                           "scopeChange":  "None. Initial Case #37 public-evidence scope. Rating applies only to the stated question and inspected sources, not operational execution, representative guest outcomes, accessibility fulfilment, workshop outcomes or internal systems."
+                       },
+                       {
+                           "dimension":  "photography",
+                           "observations":  [
+                                                {
+                                                    "text":  "The current textual source set identifies accommodation, baths, communal campus spaces, classes and the Big Sur setting as material visual subjects requiring direct review.",
+                                                    "sources":  [
+                                                                    "S1",
+                                                                    "S2",
+                                                                    "S5",
+                                                                    "S7"
+                                                                ]
+                                                },
+                                                {
+                                                    "text":  "Bath privacy rules make photographic representation itself a material responsibility boundary.",
+                                                    "sources":  [
+                                                                    "S5"
+                                                                ]
+                                                }
+                                            ],
+                           "nextEvidence":  "Perform direct image-by-image review of official accommodation, campus, dining, workshop and access imagery, recording source, date where available, subject and decision value.",
+                           "question":  "Does Esalen\u0027s official visual material accurately distinguish accommodation, communal life, program participation, baths, landscape and practical access conditions?",
+                           "sources":  [
+                                           "S1",
+                                           "S2",
+                                           "S5",
+                                           "S7"
+                                       ],
+                           "reason":  "The source set establishes what visual questions matter, but not a completed photographic analysis.",
+                           "rating":  "partial",
+                           "unanswered":  [
+                                              "No systematic image-by-image inspection has been completed.",
+                                              "Image recency, ordinary occupancy, accommodation configuration, accessibility evidence and desktop/mobile image ordering remain untested.",
+                                              "The current evidence cannot establish whether marketing imagery accurately represents ordinary guest conditions."
+                                          ],
+                           "scopeChange":  "None. Initial Case #37 public-evidence scope. Rating applies only to the stated question and inspected sources, not operational execution, representative guest outcomes, accessibility fulfilment, workshop outcomes or internal systems."
+                       },
+                       {
+                           "dimension":  "story",
+                           "observations":  [
+                                                {
+                                                    "text":  "Esalen publicly frames its institutional purpose around learning, exploration and personal, spiritual and social transformation.",
+                                                    "sources":  [
+                                                                    "S1"
+                                                                ]
+                                                },
+                                                {
+                                                    "text":  "The operating proposition includes several different participation states: workshop attendance, Self-Guided Exploration, open classes, accommodation, Healing Arts and partner-led programs.",
+                                                    "sources":  [
+                                                                    "S2",
+                                                                    "S6",
+                                                                    "S7",
+                                                                    "S8",
+                                                                    "S12"
+                                                                ]
+                                                },
+                                                {
+                                                    "text":  "These participation states can differ in eligibility, capacity, payment and timing while occurring within the same physical institution.",
+                                                    "sources":  [
+                                                                    "S2",
+                                                                    "S6",
+                                                                    "S8",
+                                                                    "S12"
+                                                                ]
+                                                }
+                                            ],
+                           "nextEvidence":  "Test whether role differences materially change responsibility ownership, capacity, data handling, recovery, identity and entitlement rather than only price or program choice.",
+                           "question":  "Does Esalen\u0027s transformational narrative correspond to a distinct hospitality architecture, or can the observed structure be sufficiently explained as ordinary residential retreat packaging with optional services?",
+                           "sources":  [
+                                           "S1",
+                                           "S2",
+                                           "S6",
+                                           "S7",
+                                           "S8",
+                                           "S9",
+                                           "S12"
+                                       ],
+                           "reason":  "The case is directionally compatible with role-partitioned hospitality, but conventional residential-retreat packaging remains a strong competing explanation.",
+                           "rating":  "partial",
+                           "unanswered":  [
+                                              "The evidence does not establish that Esalen\u0027s organizational systems treat these routes as separate institutional relationships rather than ordinary retreat products.",
+                                              "Transformational claims are institutional narrative and are not evidence of participant outcomes or causality.",
+                                              "Internal responsibility, data, capacity and recovery architecture remains unverified."
+                                          ],
+                           "scopeChange":  "None. Initial Case #37 public-evidence scope. Rating applies only to the stated question and inspected sources, not operational execution, representative guest outcomes, accessibility fulfilment, workshop outcomes or internal systems."
+                       }
+                   ],
+    "schemaVersion":  1
+}

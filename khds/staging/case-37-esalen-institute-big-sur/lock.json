@@ -1,0 +1,27 @@
+{
+  "caseNumber": 37,
+  "institutionName": "Esalen Institute",
+  "slug": "esalen-institute-big-sur",
+  "institutionType": "Residential retreat and workshop institution with overnight lodging, included meals, hot springs, open classes and program-based participation",
+  "sector": "retreats",
+  "canonicalPath": "khds/research/institutions/retreats/esalen-institute-big-sur/",
+  "stagingPath": "khds/staging/case-37-esalen-institute-big-sur",
+  "trackingChanges": [],
+  "requiredFiles": [
+    "README.md",
+    "discovery.md",
+    "reservation.md",
+    "pre-arrival.md",
+    "arrival.md",
+    "stay.md",
+    "dining.md",
+    "departure.md",
+    "atmosphere.md",
+    "photography.md",
+    "story.md",
+    "knowledge-extraction.md"
+  ],
+  "evidenceCoverageVersion": 1,
+  "lockedAt": "2026-10-13T16:22:51.282Z",
+  "baseCommit": "9f61eb5d25b08c176f056e401182148c12d33b16"
+}

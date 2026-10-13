@@ -180,6 +180,17 @@
       "dossierComplete": true,
       "administrativeReconciliation": true,
       "publicationJournal": "khds/staging/case-36-disneys-grand-floridian-resort-and-spa/publication.json"
+    },
+    {
+      "caseNumber": 37,
+      "institutionName": "Esalen Institute",
+      "slug": "esalen-institute-big-sur",
+      "institutionType": "Residential retreat and workshop institution with overnight lodging, included meals, hot springs, open classes and program-based participation",
+      "sector": "retreats",
+      "canonicalPath": "khds/research/institutions/retreats/esalen-institute-big-sur/",
+      "dossierComplete": true,
+      "administrativeReconciliation": true,
+      "publicationJournal": "khds/staging/case-37-esalen-institute-big-sur/publication.json"
     }
   ],
   "priorIdentities": [

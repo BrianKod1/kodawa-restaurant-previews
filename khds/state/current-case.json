@@ -3,22 +3,22 @@
   "expectedBranch": "main",
   "workflowStatus": "idle",
   "latestCompletedCase": {
-    "caseNumber": 36,
-    "institutionName": "Disney's Grand Floridian Resort & Spa",
-    "slug": "disneys-grand-floridian-resort-and-spa",
-    "institutionType": "Deluxe theme-park resort hotel with lodging, resort-guest benefits, separate theme-park admission, dining reservations, transportation and tiered access privileges",
-    "sector": "theme-park-resorts",
-    "canonicalPath": "khds/research/institutions/theme-park-resorts/disneys-grand-floridian-resort-and-spa/",
+    "caseNumber": 37,
+    "institutionName": "Esalen Institute",
+    "slug": "esalen-institute-big-sur",
+    "institutionType": "Residential retreat and workshop institution with overnight lodging, included meals, hot springs, open classes and program-based participation",
+    "sector": "retreats",
+    "canonicalPath": "khds/research/institutions/retreats/esalen-institute-big-sur/",
     "dossierComplete": true,
     "administrativeReconciliation": true
   },
-  "expectedNextCase": 37,
+  "expectedNextCase": 38,
   "researchAuthorized": false,
   "authorization": null,
   "activeCase": null,
   "disagreements": [],
   "publication": {
-    "journalPath": "khds/staging/case-36-disneys-grand-floridian-resort-and-spa/publication.json",
+    "journalPath": "khds/staging/case-37-esalen-institute-big-sur/publication.json",
     "status": "promoted"
   },
   "reconciliationRecord": {
@@ -72,8 +72,8 @@
   },
   "reconciliationReview": {
     "approvedBy": "Brian Kodawa",
-    "approvedAt": "2026-10-12T15:54:45.662Z",
-    "contentDigest": "6cac11356649fe05d84482ecbb67a19e693890fafab7fa0cfb45e0da5104c8ea",
+    "approvedAt": "2026-10-13T17:07:37.933Z",
+    "contentDigest": "5663c24b36bb7a9746bd3655ea7c77fb6a65c9297ab19402e4b7b749b4beb37c",
     "controlChanges": []
   },
   "historyReconciliation": {

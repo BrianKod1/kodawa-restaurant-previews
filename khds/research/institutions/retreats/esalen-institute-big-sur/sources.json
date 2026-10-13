@@ -1,0 +1,137 @@
+{
+    "sources":  [
+                    {
+                        "url":  "https://www.esalen.org/about",
+                        "id":  "S1",
+                        "method":  "Direct HTML inspection",
+                        "accessDate":  "2026-10-13",
+                        "sections":  "Institution identity; history; mission; vision; Big Sur campus; public workshop and private conference programming",
+                        "sourceDate":  "Undated; current page inspected 2026-10-13",
+                        "access":  "inspected",
+                        "title":  "About Esalen: History, Mission, Vision, and Leadership",
+                        "note":  "Primary institutional identity source. Describes Esalen as a nonprofit holistic learning and retreat center founded in 1962, with programming oriented toward personal, spiritual and social transformation."
+                    },
+                    {
+                        "url":  "https://www.esalen.org/visit/accommodations-and-tuition",
+                        "id":  "S2",
+                        "method":  "Direct HTML inspection",
+                        "accessDate":  "2026-10-13",
+                        "sections":  "Overnight inclusions; accommodation categories; tuition; shared accommodation; ADA contact; meals; hot springs; pool; open classes; workshop inclusion; partner fees",
+                        "sourceDate":  "Undated; current page inspected 2026-10-13",
+                        "access":  "inspected",
+                        "title":  "Accommodations \u0026 Tuition",
+                        "note":  "Core overnight-entitlement source. Overnight stays include accommodation, three meals per day, open classes and/or workshop access, 24-hour hot-spring use and other campus facilities. Accommodation type changes price, occupancy and privacy conditions. Some course fees may be paid separately to a partner organization."
+                    },
+                    {
+                        "url":  "https://www.esalen.org/visit/planning-your-visit",
+                        "id":  "S3",
+                        "method":  "Direct HTML inspection",
+                        "accessDate":  "2026-10-13",
+                        "sections":  "Arrival; departure; Gate check-in; room keys; workshops; meals; communications; health services; road access; deposits; payments; changes; cancellations",
+                        "sourceDate":  "Undated; current page inspected 2026-10-13",
+                        "access":  "inspected",
+                        "title":  "Planning Your Visit",
+                        "note":  "Primary lifecycle and policy source. Establishes arrival after 2 PM, room-key availability at 4 PM, room vacation by 10 AM, continued property access through 2 PM, meal windows, remote-service constraints, deposits, final payment and cancellation rules."
+                    },
+                    {
+                        "url":  "https://www.esalen.org/visit/faq",
+                        "id":  "S4",
+                        "method":  "Direct HTML inspection",
+                        "accessDate":  "2026-10-13",
+                        "sections":  "Visitor access; tours; transportation; camping; accessibility; guest policies; creator visits",
+                        "sourceDate":  "Undated; current page inspected 2026-10-13",
+                        "access":  "inspected",
+                        "title":  "Frequently Asked Questions",
+                        "note":  "Clarifies access boundaries. Esalen does not offer casual tours or walkabouts, identifies property-access and accommodation constraints and acknowledges that parts of the cliffside property remain challenging for accessibility."
+                    },
+                    {
+                        "url":  "https://www.esalen.org/visit/campus-features",
+                        "id":  "S5",
+                        "method":  "Direct HTML inspection",
+                        "accessDate":  "2026-10-13",
+                        "sections":  "Lodge; meals; baths; pool; shared campus spaces; photography restrictions",
+                        "sourceDate":  "Undated; current page inspected 2026-10-13",
+                        "access":  "inspected",
+                        "title":  "Campus Features",
+                        "note":  "Campus and spatial source. Documents communal dining, hot-spring and bath environments and relevant privacy rules, including prohibition of photography and video at the baths."
+                    },
+                    {
+                        "url":  "https://www.esalen.org/visit/massage",
+                        "id":  "S6",
+                        "method":  "Direct HTML inspection",
+                        "accessDate":  "2026-10-13",
+                        "sections":  "Healing Arts; workshop guest route; day-pass route; booking; pricing; arrival/departure extensions; access; cancellation; practitioner services",
+                        "sourceDate":  "Undated; current page inspected 2026-10-13",
+                        "access":  "inspected",
+                        "title":  "Healing Arts at Esalen",
+                        "note":  "Documents a distinct ancillary-service relationship. Overnight guests and day-pass visitors use different access and pricing routes; sessions require separate reservations and payment, capacity can sell out, and an extension fee can expand property access beyond ordinary arrival/departure windows."
+                    },
+                    {
+                        "url":  "https://www.esalen.org/learn/self-guided-explorations",
+                        "id":  "S7",
+                        "method":  "Direct HTML inspection",
+                        "accessDate":  "2026-10-13",
+                        "sections":  "Self-Guided Exploration proposition; open classes; optional participation; campus features; Healing Arts; schedule",
+                        "sourceDate":  "Undated; current page inspected 2026-10-13",
+                        "access":  "inspected",
+                        "title":  "Self Guided Explorations",
+                        "note":  "Primary optional-participation source. Self-Guided Exploration allows guests to shape their own experience through open classes, activities, solitude and optional Healing Arts rather than participation in one preregistered workshop."
+                    },
+                    {
+                        "url":  "https://www.esalen.org/visit/open-classes",
+                        "id":  "S8",
+                        "method":  "Direct HTML inspection",
+                        "accessDate":  "2026-10-13",
+                        "sections":  "Open-class eligibility; first-come first-served access; schedule variability; registered guests",
+                        "sourceDate":  "Undated; current page inspected 2026-10-13",
+                        "access":  "inspected",
+                        "title":  "Open Classes",
+                        "note":  "Establishes a shared but capacity-sensitive participation layer. Open classes are available to registered guests on a first-come, first-served basis and schedules may change."
+                    },
+                    {
+                        "url":  "https://www.esalen.org/workshops/self-guided-explorations-week-of-october-19---23-2026",
+                        "id":  "S9",
+                        "method":  "Direct HTML inspection",
+                        "accessDate":  "2026-10-13",
+                        "sections":  "Current program availability; Self-Guided Exploration; registration routes; availability; program dates",
+                        "sourceDate":  "Program dated 2026-10-19 through 2026-10-23; inspected 2026-10-13",
+                        "access":  "inspected",
+                        "title":  "Self-Guided Explorations Week of October 19 - 23, 2026",
+                        "note":  "Time-bounded program example showing live program capacity and multiple registration pathways. Used only as a current example, not as evidence that availability remains unchanged after the access date."
+                    },
+                    {
+                        "url":  "https://www.esalen.org/contact",
+                        "id":  "S10",
+                        "method":  "Direct HTML inspection",
+                        "accessDate":  "2026-10-13",
+                        "sections":  "Workshop reservations; Healing Arts contact; public night bathing; general inquiries; lost property",
+                        "sourceDate":  "Undated; current page inspected 2026-10-13",
+                        "access":  "inspected",
+                        "title":  "Contact Us",
+                        "note":  "Responsibility-routing source. Workshop reservations, Healing Arts and general inquiries have distinct contact routes. Public night-bathing reservations are currently listed as closed."
+                    },
+                    {
+                        "url":  "https://massage.esalen.org/privacy-policy",
+                        "id":  "S11",
+                        "method":  "Direct HTML inspection",
+                        "accessDate":  "2026-10-13",
+                        "sections":  "Personal information; transactions; email; third parties; payment data; cookies; analytics",
+                        "sourceDate":  "Policy states last modified 2024-10-10; inspected 2026-10-13",
+                        "access":  "inspected",
+                        "title":  "Privacy Policy",
+                        "note":  "Digital relationship source describing personal-information collection for registration and transactions, transactional and marketing email use, payment processing and third-party service relationships. It does not establish every offline or institution-wide data practice."
+                    },
+                    {
+                        "url":  "https://www.esalen.org/workshops/being-whole-ritual-respect-and-regulation-09282026",
+                        "id":  "S12",
+                        "method":  "Direct HTML inspection",
+                        "accessDate":  "2026-10-13",
+                        "sections":  "Workshop; accommodations and tuition; partner registration; lodging; meals; campus access",
+                        "sourceDate":  "Program dated 2026-09-28 through 2026-10-02; inspected 2026-10-13",
+                        "access":  "inspected",
+                        "title":  "Being Whole: Ritual, Respect, and Regulation",
+                        "note":  "Program-specific example showing that some workshop relationships can require tuition registration/payment outside Esalen followed by a separate Esalen accommodation booking, while lodging continues to carry meals, open classes and campus-facility entitlement."
+                    }
+                ],
+    "schemaVersion":  1
+}
