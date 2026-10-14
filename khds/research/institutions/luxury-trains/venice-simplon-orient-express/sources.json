@@ -1,0 +1,159 @@
+{
+  "schemaVersion": 1,
+  "sources": [
+    {
+      "id": "S1",
+      "url": "https://www.belmond.com/en/trains/europe/venice-simplon-orient-express",
+      "accessDate": "2026-10-14",
+      "sourceDate": "Undated; current page inspected 2026-10-14",
+      "method": "Direct web-page inspection",
+      "sections": "Institution identity; routes; accommodation inventory; dining; steward service; live music; restored carriages",
+      "access": "inspected",
+      "title": "Venice Simplon-Orient-Express",
+      "note": "Primary institution source. Presents the train as a luxury overnight rail-hospitality product with restored sleeper carriages, fully inclusive dining, 24-hour steward service and routes across multiple European cities."
+    },
+    {
+      "id": "S2",
+      "url": "https://www.belmond.com/en/trains/europe/venice-simplon-orient-express/journeys",
+      "accessDate": "2026-10-14",
+      "sourceDate": "Current 2026-2027 journey inventory inspected 2026-10-14",
+      "method": "Direct web-page inspection",
+      "sections": "Journey inventory; route; duration; cabin-linked pricing; availability-sensitive pricing",
+      "access": "inspected",
+      "title": "Venice Simplon-Orient-Express Journeys",
+      "note": "Discovery and commitment source showing multiple routes, durations, cabin types and price states rather than one uniform train product."
+    },
+    {
+      "id": "S3",
+      "url": "https://www.belmond.com/en/trains/europe/venice-simplon-orient-express/journeys/paris-to-venice-2026",
+      "accessDate": "2026-10-14",
+      "sourceDate": "2026 journey page; inspected 2026-10-14",
+      "method": "Direct web-page inspection",
+      "sections": "Paris-Venice itinerary; approximate timings; railway constraints; accommodation; transfers; steward service; dining",
+      "access": "inspected",
+      "title": "Paris to Venice 2026",
+      "note": "Representative overnight journey. Includes one night aboard, station/accommodation transfers, 24-hour steward service and specified meals. Published timings are approximate because the train is subject to national railway constraints."
+    },
+    {
+      "id": "S4",
+      "url": "https://www.belmond.com/en/trains/europe/venice-simplon-orient-express/journeys/paris-to-istanbul-2026",
+      "accessDate": "2026-10-14",
+      "sourceDate": "2026 journey page; inspected 2026-10-14",
+      "method": "Direct web-page inspection",
+      "sections": "Paris-Istanbul itinerary; nights aboard; cities; excursions; dining; steward service; railway constraints",
+      "access": "inspected",
+      "title": "Paris to Istanbul 2026",
+      "note": "Multi-day comparator showing that one sold journey can combine nights aboard with city tours, a Danube cruise and other off-train components while railway timing remains externally constrained."
+    },
+    {
+      "id": "S5",
+      "url": "https://www.belmond.com/en/trains/europe/venice-simplon-orient-express/faqs",
+      "accessDate": "2026-10-14",
+      "sourceDate": "Undated; current FAQ inspected 2026-10-14",
+      "method": "Direct web-page inspection",
+      "sections": "Journey duration; luggage; dress; Wi-Fi; dietary requirements; passports; children; dining seating; insurance; accessibility",
+      "access": "inspected",
+      "title": "Venice Simplon-Orient-Express FAQs",
+      "note": "Primary practical-boundary source. Distinguishes hand, cabin and through luggage; identifies unavailable-through-journey baggage; requires advance dietary notice; makes dining seating confirmation onboard; places passport readiness on travellers; and directs reduced-mobility guests to journey-specific assistance."
+    },
+    {
+      "id": "S6",
+      "url": "https://www.belmond.com/en/trains/europe/venice-simplon-orient-express/accommodation",
+      "accessDate": "2026-10-14",
+      "sourceDate": "Undated; current page inspected 2026-10-14",
+      "method": "Direct web-page inspection",
+      "sections": "Historic Cabins; Suites; Grand Suites; L'Observatoire; bathrooms; privacy; space",
+      "access": "inspected",
+      "title": "Venice Simplon-Orient-Express Accommodation",
+      "note": "Accommodation-tier source. Historic Cabins use shared restrooms, Suites add private en-suite facilities, Grand Suites add larger residential spaces, and L'Observatoire constitutes an exclusive private carriage."
+    },
+    {
+      "id": "S7",
+      "url": "https://www.belmond.com/en/trains/europe/venice-simplon-orient-express/accommodation/grand-suites",
+      "accessDate": "2026-10-14",
+      "sourceDate": "Undated; current page inspected 2026-10-14",
+      "method": "Direct web-page inspection",
+      "sections": "Grand Suite configuration; private dining; butler service; pre-journey planning; transfers",
+      "access": "inspected",
+      "title": "Grand Suites",
+      "note": "Shows that cabin tier changes more than physical accommodation: Grand Suites include private in-cabin dining, 24-hour butler service, personalised pre-journey planning and private arrival/departure transfers."
+    },
+    {
+      "id": "S8",
+      "url": "https://www.belmond.com/en/trains/europe/venice-simplon-orient-express/accommodation/l-observatoire-by-jr",
+      "accessDate": "2026-10-14",
+      "sourceDate": "Undated; current page inspected 2026-10-14",
+      "method": "Direct web-page inspection",
+      "sections": "Exclusive carriage; steward service; private dining; beverages; transfers; private spaces",
+      "access": "inspected",
+      "title": "L'Observatoire",
+      "note": "Highest-tier accommodation source. L'Observatoire is an entire private carriage with 24-hour service, private dining and transfers to/from the train and accommodation within the published radius."
+    },
+    {
+      "id": "S9",
+      "url": "https://www.belmond.com/en/trains/europe/venice-simplon-orient-express/dining",
+      "accessDate": "2026-10-14",
+      "sourceDate": "Undated; current page inspected 2026-10-14",
+      "method": "Direct web-page inspection",
+      "sections": "Breakfast; lunch; dinner; wines; Bar Car; cabin service; restaurant cars; entertainment",
+      "access": "inspected",
+      "title": "Dining & Entertainment",
+      "note": "Dining source documenting onboard restaurant cars, cabin service, included meal formats, wine service, the Bar Car and live entertainment."
+    },
+    {
+      "id": "S10",
+      "url": "https://www.belmond.com/en/legal/consumer-booking-conditions-eea-uk",
+      "accessDate": "2026-10-14",
+      "sourceDate": "Current EEA and UK consumer booking conditions inspected 2026-10-14",
+      "method": "Direct web-page inspection",
+      "sections": "Contract formation; deposits; final payment; special requests; changes; cancellations; independent providers; passport and visa obligations",
+      "access": "inspected",
+      "title": "Trains & Cruises EEA & UK Consumer Booking Conditions",
+      "note": "Jurisdiction-bounded booking source. Deposit and balance rules vary by journey type; a binding contract follows confirmation; special requests are not guaranteed; changes are classified; independent travel providers can supply components; passport and visa compliance remains the traveller's responsibility."
+    },
+    {
+      "id": "S11",
+      "url": "https://www.belmond.com/de/legal/conditions-of-carriage-uk",
+      "accessDate": "2026-10-14",
+      "sourceDate": "Last updated 2026-02-11; inspected 2026-10-14",
+      "method": "Direct web-page inspection",
+      "sections": "Applicability; carriers; force majeure; changes; complaints; luggage; liability; supplier and railway conditions",
+      "access": "inspected",
+      "title": "Trains & Cruises Conditions of Carriage",
+      "note": "Responsibility-boundary source. Identifies VSOE, national/local railway bodies and other carriers; defines complaint routes and luggage claims; and incorporates operating-carrier and international-convention responsibilities into carriage."
+    },
+    {
+      "id": "S12",
+      "url": "https://www.belmond.com/en/legal/privacy-policy",
+      "accessDate": "2026-10-14",
+      "sourceDate": "Last updated 2026-03-19; inspected 2026-10-14",
+      "method": "Direct web-page inspection",
+      "sections": "Travel data; passport and visa data; preferences; dietary and mobility information; personalisation; third-party providers; retention",
+      "access": "inspected",
+      "title": "Belmond Privacy Policy",
+      "note": "Data-relationship source. Covers booking and travel information, passport/visa data, preferences, sensitive dietary or mobility information, personalisation and sharing with Belmond entities and third-party providers involved in transfers, excursions and other requested services."
+    },
+    {
+      "id": "S13",
+      "url": "https://www.belmond.com/en/booking/select-cabin?departureDate=2027-10-28&packageCode=VPEUR&passengers=2&productId=VSO",
+      "accessDate": "2026-10-14",
+      "sourceDate": "Sample 2027 booking state inspected 2026-10-14",
+      "method": "Direct web-page inspection",
+      "sections": "Reservation identity; route; passengers; departure/arrival; cabin selection; price; Historic Cabin facilities",
+      "access": "inspected",
+      "title": "Sample Venice Simplon-Orient-Express Cabin Selection",
+      "note": "Time-bounded booking-flow example only. Shows route/date/passenger/cabin objects and a Historic Cabin price state; it is not evidence that inventory or price remains unchanged."
+    },
+    {
+      "id": "S14",
+      "url": "https://www.belmond.com/it/stories/history-of-the-venice-simplon-orient-express",
+      "accessDate": "2026-10-14",
+      "sourceDate": "Undated current editorial history; inspected 2026-10-14",
+      "method": "Direct web-page inspection",
+      "sections": "Carriage history; restoration; relaunch; individual carriage provenance; heritage narrative",
+      "access": "inspected",
+      "title": "Venice Simplon-Orient-Express: Our History",
+      "note": "First-party historical/editorial source. Documents the provenance and restoration narrative of individual carriages and the 1982 relaunch. Useful for story and heritage analysis, not independent historical verification."
+    }
+  ]
+}

@@ -3,22 +3,22 @@
   "expectedBranch": "main",
   "workflowStatus": "idle",
   "latestCompletedCase": {
-    "caseNumber": 37,
-    "institutionName": "Esalen Institute",
-    "slug": "esalen-institute-big-sur",
-    "institutionType": "Residential retreat and workshop institution with overnight lodging, included meals, hot springs, open classes and program-based participation",
-    "sector": "retreats",
-    "canonicalPath": "khds/research/institutions/retreats/esalen-institute-big-sur/",
+    "caseNumber": 38,
+    "institutionName": "Venice Simplon-Orient-Express",
+    "slug": "venice-simplon-orient-express",
+    "institutionType": "Luxury overnight rail-hospitality institution with private cabin accommodation, inclusive dining, steward service, scheduled multi-city journeys and journey-specific transfers or excursions",
+    "sector": "luxury-trains",
+    "canonicalPath": "khds/research/institutions/luxury-trains/venice-simplon-orient-express/",
     "dossierComplete": true,
     "administrativeReconciliation": true
   },
-  "expectedNextCase": 38,
+  "expectedNextCase": 39,
   "researchAuthorized": false,
   "authorization": null,
   "activeCase": null,
   "disagreements": [],
   "publication": {
-    "journalPath": "khds/staging/case-37-esalen-institute-big-sur/publication.json",
+    "journalPath": "khds/staging/case-38-venice-simplon-orient-express/publication.json",
     "status": "promoted"
   },
   "reconciliationRecord": {
@@ -72,8 +72,8 @@
   },
   "reconciliationReview": {
     "approvedBy": "Brian Kodawa",
-    "approvedAt": "2026-10-13T17:07:37.933Z",
-    "contentDigest": "5663c24b36bb7a9746bd3655ea7c77fb6a65c9297ab19402e4b7b749b4beb37c",
+    "approvedAt": "2026-10-14T16:31:17.290Z",
+    "contentDigest": "a35b9f462e570c21a44a86fcba40aebcbc57f5a6107b485d900003384d2f539f",
     "controlChanges": []
   },
   "historyReconciliation": {

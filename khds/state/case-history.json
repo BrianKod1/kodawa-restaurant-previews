@@ -191,6 +191,17 @@
       "dossierComplete": true,
       "administrativeReconciliation": true,
       "publicationJournal": "khds/staging/case-37-esalen-institute-big-sur/publication.json"
+    },
+    {
+      "caseNumber": 38,
+      "institutionName": "Venice Simplon-Orient-Express",
+      "slug": "venice-simplon-orient-express",
+      "institutionType": "Luxury overnight rail-hospitality institution with private cabin accommodation, inclusive dining, steward service, scheduled multi-city journeys and journey-specific transfers or excursions",
+      "sector": "luxury-trains",
+      "canonicalPath": "khds/research/institutions/luxury-trains/venice-simplon-orient-express/",
+      "dossierComplete": true,
+      "administrativeReconciliation": true,
+      "publicationJournal": "khds/staging/case-38-venice-simplon-orient-express/publication.json"
     }
   ],
   "priorIdentities": [

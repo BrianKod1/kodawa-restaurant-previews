@@ -1,0 +1,531 @@
+{
+  "status": "promoted",
+  "approvedReport": "cbebdaee8661066be654c9e3230a68d2cc01c7411bbe025b24ef6a908aa9b21a",
+  "approvedAt": "2026-10-14T16:35:31.535Z",
+  "case": {
+    "caseNumber": 38,
+    "institutionName": "Venice Simplon-Orient-Express",
+    "slug": "venice-simplon-orient-express",
+    "institutionType": "Luxury overnight rail-hospitality institution with private cabin accommodation, inclusive dining, steward service, scheduled multi-city journeys and journey-specific transfers or excursions",
+    "sector": "luxury-trains",
+    "canonicalPath": "khds/research/institutions/luxury-trains/venice-simplon-orient-express/",
+    "stagingPath": "khds/staging/case-38-venice-simplon-orient-express",
+    "trackingChanges": [],
+    "requiredFiles": [
+      "README.md",
+      "discovery.md",
+      "reservation.md",
+      "pre-arrival.md",
+      "arrival.md",
+      "stay.md",
+      "dining.md",
+      "departure.md",
+      "atmosphere.md",
+      "photography.md",
+      "story.md",
+      "knowledge-extraction.md"
+    ],
+    "evidenceCoverageVersion": 1,
+    "lockedAt": "2026-10-13T17:34:01.421Z",
+    "baseCommit": "bbe434f58e6a3234bdb49c09f8cfdcf5f16b3d43"
+  },
+  "promoted": [
+    {
+      "from": "khds/staging/case-38-venice-simplon-orient-express/dossier/README.md",
+      "to": "khds/research/institutions/luxury-trains/venice-simplon-orient-express/README.md",
+      "sha256": "72a92ab0231db25a520083419129c723ba7fc07c368f50389d712add1d4904c4"
+    },
+    {
+      "from": "khds/staging/case-38-venice-simplon-orient-express/dossier/arrival.md",
+      "to": "khds/research/institutions/luxury-trains/venice-simplon-orient-express/arrival.md",
+      "sha256": "3ffd12188533816978da81371f08ffd706bac778022860ff7e325d1dcb28d8c6"
+    },
+    {
+      "from": "khds/staging/case-38-venice-simplon-orient-express/dossier/atmosphere.md",
+      "to": "khds/research/institutions/luxury-trains/venice-simplon-orient-express/atmosphere.md",
+      "sha256": "42fe888222c584808e3a3e7a85f8ed875f29c9df5e46a7cd731da7ff7f7dccac"
+    },
+    {
+      "from": "khds/staging/case-38-venice-simplon-orient-express/dossier/coverage.json",
+      "to": "khds/research/institutions/luxury-trains/venice-simplon-orient-express/coverage.json",
+      "sha256": "9f36202b92515339693d07f95d13740e56b532ab273bc482b2c80622e72ac5af"
+    },
+    {
+      "from": "khds/staging/case-38-venice-simplon-orient-express/dossier/departure.md",
+      "to": "khds/research/institutions/luxury-trains/venice-simplon-orient-express/departure.md",
+      "sha256": "344a8c0fe69dbbd7dae31edaab234f0892da0aecfaa633382f05120c66ae6986"
+    },
+    {
+      "from": "khds/staging/case-38-venice-simplon-orient-express/dossier/dining.md",
+      "to": "khds/research/institutions/luxury-trains/venice-simplon-orient-express/dining.md",
+      "sha256": "5d2e677c1511d89a227f27735ec9cbaff960a95fbbb600cc3f8cbdc4bbeb8293"
+    },
+    {
+      "from": "khds/staging/case-38-venice-simplon-orient-express/dossier/discovery.md",
+      "to": "khds/research/institutions/luxury-trains/venice-simplon-orient-express/discovery.md",
+      "sha256": "ff2e8ffea2ee7976ca56f4f3dcb2c40ece3242601e69ad0dbccb2a0037015dc1"
+    },
+    {
+      "from": "khds/staging/case-38-venice-simplon-orient-express/dossier/knowledge-extraction.md",
+      "to": "khds/research/institutions/luxury-trains/venice-simplon-orient-express/knowledge-extraction.md",
+      "sha256": "d5bfdc3a85b98ca79cfc97088e07ca50a11aa9d50b383daa151db58f785eada8"
+    },
+    {
+      "from": "khds/staging/case-38-venice-simplon-orient-express/dossier/photography.md",
+      "to": "khds/research/institutions/luxury-trains/venice-simplon-orient-express/photography.md",
+      "sha256": "4d4b5e7e88337f5d9bf38cb143e29d1acdf09e17735dcd6895a296d4b6fab6ef"
+    },
+    {
+      "from": "khds/staging/case-38-venice-simplon-orient-express/dossier/pre-arrival.md",
+      "to": "khds/research/institutions/luxury-trains/venice-simplon-orient-express/pre-arrival.md",
+      "sha256": "9cf968a4f936ac7063abcf4cef8b9ef0cd73557df65f8a513b9544be05f8d335"
+    },
+    {
+      "from": "khds/staging/case-38-venice-simplon-orient-express/dossier/reservation.md",
+      "to": "khds/research/institutions/luxury-trains/venice-simplon-orient-express/reservation.md",
+      "sha256": "16c9bda0c236b1a2eb2e5c1b788e48e65228db32b398625d02410d096d59277f"
+    },
+    {
+      "from": "khds/staging/case-38-venice-simplon-orient-express/dossier/sources.json",
+      "to": "khds/research/institutions/luxury-trains/venice-simplon-orient-express/sources.json",
+      "sha256": "7f36d15819cb4fa5af35abd4b3e3e0ca66120909b678501de842e110c1d69c1c"
+    },
+    {
+      "from": "khds/staging/case-38-venice-simplon-orient-express/dossier/stay.md",
+      "to": "khds/research/institutions/luxury-trains/venice-simplon-orient-express/stay.md",
+      "sha256": "054996b3307fdb38cf95a67680768563375453958485a0679506a946b5138f9b"
+    },
+    {
+      "from": "khds/staging/case-38-venice-simplon-orient-express/dossier/story.md",
+      "to": "khds/research/institutions/luxury-trains/venice-simplon-orient-express/story.md",
+      "sha256": "2f37710f3cb1cc7cb571c1c22934fe8407996d85125a0eb21d2814d3e26d81ae"
+    }
+  ],
+  "tracking": [],
+  "previousState": {
+    "schemaVersion": 1,
+    "expectedBranch": "main",
+    "workflowStatus": "publishable",
+    "latestCompletedCase": {
+      "caseNumber": 37,
+      "institutionName": "Esalen Institute",
+      "slug": "esalen-institute-big-sur",
+      "institutionType": "Residential retreat and workshop institution with overnight lodging, included meals, hot springs, open classes and program-based participation",
+      "sector": "retreats",
+      "canonicalPath": "khds/research/institutions/retreats/esalen-institute-big-sur/",
+      "dossierComplete": true,
+      "administrativeReconciliation": true
+    },
+    "expectedNextCase": 38,
+    "researchAuthorized": true,
+    "authorization": {
+      "approvedBy": "Brian Kodawa",
+      "approvedAt": "2026-10-13T17:34:01.420Z",
+      "identity": {
+        "caseNumber": 38,
+        "institutionName": "Venice Simplon-Orient-Express",
+        "slug": "venice-simplon-orient-express",
+        "institutionType": "Luxury overnight rail-hospitality institution with private cabin accommodation, inclusive dining, steward service, scheduled multi-city journeys and journey-specific transfers or excursions",
+        "sector": "luxury-trains",
+        "canonicalPath": "khds/research/institutions/luxury-trains/venice-simplon-orient-express/"
+      }
+    },
+    "activeCase": {
+      "caseNumber": 38,
+      "institutionName": "Venice Simplon-Orient-Express",
+      "slug": "venice-simplon-orient-express",
+      "institutionType": "Luxury overnight rail-hospitality institution with private cabin accommodation, inclusive dining, steward service, scheduled multi-city journeys and journey-specific transfers or excursions",
+      "sector": "luxury-trains",
+      "canonicalPath": "khds/research/institutions/luxury-trains/venice-simplon-orient-express/",
+      "stagingPath": "khds/staging/case-38-venice-simplon-orient-express",
+      "trackingChanges": [],
+      "requiredFiles": [
+        "README.md",
+        "discovery.md",
+        "reservation.md",
+        "pre-arrival.md",
+        "arrival.md",
+        "stay.md",
+        "dining.md",
+        "departure.md",
+        "atmosphere.md",
+        "photography.md",
+        "story.md",
+        "knowledge-extraction.md"
+      ],
+      "evidenceCoverageVersion": 1,
+      "lockedAt": "2026-10-13T17:34:01.421Z",
+      "baseCommit": "bbe434f58e6a3234bdb49c09f8cfdcf5f16b3d43"
+    },
+    "disagreements": [],
+    "publication": {
+      "journalPath": "khds/staging/case-37-esalen-institute-big-sur/publication.json",
+      "status": "promoted"
+    },
+    "reconciliationRecord": {
+      "scope": "Case #21 administratively closed at public-evidence scope; local changes uncommitted for review",
+      "controlCheckpoint": "5259bf1",
+      "correctedIssues": [
+        {
+          "path": "khds/research/institutions/hotels/fogo-island-inn-newfoundland/knowledge-extraction.md",
+          "reason": "Lines 14-15 and 3761-3763 say comparison and reconciliation pending; comparison and governance records say complete."
+        },
+        {
+          "path": "khds/research/institutions/README.md",
+          "reason": "Line 145 still defers selection of Case #21 institution."
+        },
+        {
+          "path": "khds/research/validation/README.md",
+          "reason": "Line 14703 says next Case #21; line 16803 says next Case #22."
+        },
+        {
+          "path": "khds/research/README.md",
+          "reason": "Validation README mirror remains Next at line 15284 despite its completion claim."
+        },
+        {
+          "path": "khds/research/institutions/hotels/fogo-island-inn-newfoundland/",
+          "reason": "22 dossier path references omit hotels/; legacy comparison/ references also survive the directory rename."
+        }
+      ],
+      "verifiedStages": [
+        "12-file public-evidence dossier",
+        "Institution comparison units, sector adapters and Case #21 seed",
+        "Canonical no-promotion decision and unchanged 26/8/1/0/0 maturity totals",
+        "Local canonical path and active-status corrections",
+        "Original completion checklist and F01-F12 dispositions recorded without claiming resolved operational outcomes",
+        "Current primary road/ferry sources compared; exact road duration remains uncertain"
+      ],
+      "unverified": [
+        "F01-F12 empirical outcomes and detailed operational tests remain unresolved; no positive promotion or validation",
+        "Exact Gander-to-Farewell road duration; current primary estimates conflict",
+        "Cross-institution recurrence; no second institution researched"
+      ]
+    },
+    "administrativeReview": {
+      "date": "2026-09-08",
+      "dispositionPath": "khds/research/institutions/hotels/fogo-island-inn-newfoundland/knowledge-extraction.md",
+      "travelReviewPath": "khds/research/institutions/hotels/fogo-island-inn-newfoundland/arrival.md",
+      "basis": "README public-evidence scope and non-inference rules; complete research dispositions, not operational proof",
+      "durationStatus": "uncertain",
+      "patternDecision": "no-promotion",
+      "patternValidated": false,
+      "confidenceChanges": 0
+    },
+    "reconciliationReview": {
+      "approvedBy": "Brian Kodawa",
+      "approvedAt": "2026-10-14T16:31:17.290Z",
+      "contentDigest": "a35b9f462e570c21a44a86fcba40aebcbc57f5a6107b485d900003384d2f539f",
+      "controlChanges": []
+    },
+    "historyReconciliation": {
+      "approvedBy": "Brian Kodawa",
+      "approvedAt": "2026-09-22T20:13:40.949Z",
+      "scope": "Administrative machine-readable history reconciliation for completed KHDS Cases #23 and #24 only; no research content altered and Case #25 not started.",
+      "mode": "retrospective-canonical-registration",
+      "cases": [
+        {
+          "caseNumber": 23,
+          "slug": "reffen-copenhagen",
+          "evidenceCommit": "cc5d586",
+          "scriptedPublicationJournal": null
+        },
+        {
+          "caseNumber": 24,
+          "slug": "time-out-market-lisboa",
+          "evidenceCommit": "fdebc1c",
+          "scriptedPublicationJournal": null
+        }
+      ]
+    },
+    "case25Registration": {
+      "approvedBy": "Brian Kodawa",
+      "approvedAt": "2026-09-22T20:50:09.232Z",
+      "scope": "Administrative machine-readable registration of completed KHDS Case #25 Generator Copenhagen only; canonical research remains unchanged and Case #26 is unselected and unstarted.",
+      "mode": "retrospective-canonical-registration",
+      "evidenceCommit": "e8c3f72",
+      "scriptedPublicationJournal": null
+    }
+  },
+  "previousHistory": {
+    "schemaVersion": 1,
+    "cases": [
+      {
+        "caseNumber": 21,
+        "institutionName": "Fogo Island Inn",
+        "slug": "fogo-island-inn-newfoundland",
+        "institutionType": "Boutique-scale luxury hotel / inn",
+        "sector": "hotels",
+        "canonicalPath": "khds/research/institutions/hotels/fogo-island-inn-newfoundland/",
+        "dossierComplete": true,
+        "administrativeReconciliation": true,
+        "evidenceCommit": "3e027f8",
+        "completionScope": "Public-evidence dossier administratively reconciled on 2026-09-08; F01-F12 outcomes, operational validation and exact road duration remain unresolved. No pattern promotion or confidence change."
+      },
+      {
+        "caseNumber": 22,
+        "institutionName": "Sky Lagoon",
+        "slug": "sky-lagoon-kopavogur",
+        "institutionType": "Geothermal bathing and wellness venue",
+        "sector": "wellness",
+        "canonicalPath": "khds/research/institutions/wellness/sky-lagoon-kopavogur/",
+        "dossierComplete": true,
+        "administrativeReconciliation": true,
+        "publicationJournal": "khds/staging/case-22-sky-lagoon-kopavogur/publication.json"
+      },
+      {
+        "caseNumber": 23,
+        "institutionName": "Reffen",
+        "slug": "reffen-copenhagen",
+        "institutionType": "Open-air street-food market and cultural hospitality venue",
+        "sector": "venues",
+        "canonicalPath": "khds/research/institutions/venues/reffen-copenhagen/",
+        "dossierComplete": true,
+        "administrativeReconciliation": true,
+        "evidenceCommit": "cc5d586",
+        "completionScope": "Canonical public-evidence dossier and governance reconciliation committed in cc5d586. Retrospectively registered in KHDS machine-readable history because Cases #23-24 were completed outside the scripted staging/publication state transition."
+      },
+      {
+        "caseNumber": 24,
+        "institutionName": "Time Out Market Lisboa",
+        "slug": "time-out-market-lisboa",
+        "institutionType": "Indoor food-and-cultural market with multiple eateries and event spaces",
+        "sector": "venues",
+        "canonicalPath": "khds/research/institutions/venues/time-out-market-lisboa/",
+        "dossierComplete": true,
+        "administrativeReconciliation": true,
+        "evidenceCommit": "fdebc1c",
+        "completionScope": "Canonical public-evidence dossier and governance closure committed in fdebc1c. Retrospectively registered in KHDS machine-readable history because Cases #23-24 were completed outside the scripted staging/publication state transition. Legacy filename depature.md retained unchanged."
+      },
+      {
+        "caseNumber": 25,
+        "institutionName": "Generator Copenhagen",
+        "slug": "generator-copenhagen",
+        "institutionType": "Hostel / Social Stay",
+        "sector": "hostels",
+        "canonicalPath": "khds/research/institutions/hostels/generator-copenhagen/",
+        "dossierComplete": true,
+        "administrativeReconciliation": true,
+        "evidenceCommit": "e8c3f72",
+        "completionScope": "Canonical public-evidence research, case-level review, administrative closure and governance reconciliation committed in e8c3f72. Retrospectively registered in KHDS machine-readable history after the Cases #23-24 control-lineage repair. No scripted staging/publication journal exists for Case #25."
+      },
+      {
+        "caseNumber": 26,
+        "institutionName": "Scarlet Lady",
+        "slug": "scarlet-lady",
+        "institutionType": "Adults-only cruise ship / integrated hospitality vessel",
+        "sector": "cruises",
+        "canonicalPath": "khds/research/institutions/cruises/scarlet-lady/",
+        "dossierComplete": true,
+        "administrativeReconciliation": true,
+        "publicationJournal": "khds/staging/case-26-scarlet-lady/publication.json"
+      },
+      {
+        "caseNumber": 27,
+        "institutionName": "Soho House Toronto",
+        "slug": "soho-house-toronto",
+        "institutionType": "Private members' club / membership-based hospitality institution",
+        "sector": "members-clubs",
+        "canonicalPath": "khds/research/institutions/members-clubs/soho-house-toronto/",
+        "dossierComplete": true,
+        "administrativeReconciliation": true,
+        "publicationJournal": "khds/staging/case-27-soho-house-toronto/publication.json"
+      },
+      {
+        "caseNumber": 28,
+        "institutionName": "The Arts Club London",
+        "slug": "the-arts-club-london",
+        "institutionType": "Private members' club with integrated hotel, dining, cultural programming and wellness access",
+        "sector": "members-clubs",
+        "canonicalPath": "khds/research/institutions/members-clubs/the-arts-club-london/",
+        "dossierComplete": true,
+        "administrativeReconciliation": true,
+        "publicationJournal": "khds/staging/case-28-the-arts-club-london/publication.json"
+      },
+      {
+        "caseNumber": 29,
+        "institutionName": "Casa Cipriani New York",
+        "slug": "casa-cipriani-new-york",
+        "institutionType": "Private members' club with hotel accommodation, dining, events and wellness",
+        "sector": "members-clubs",
+        "canonicalPath": "khds/research/institutions/members-clubs/casa-cipriani-new-york/",
+        "dossierComplete": true,
+        "administrativeReconciliation": true,
+        "publicationJournal": "khds/staging/case-29-casa-cipriani-new-york/publication.json"
+      },
+      {
+        "caseNumber": 30,
+        "institutionName": "The Social Hub Amsterdam City",
+        "slug": "the-social-hub-amsterdam-city",
+        "institutionType": "Mixed-use hospitality hub with hotel accommodation, student and extended stays, coworking, meetings/events, food & beverage, community programming and membership",
+        "sector": "mixed-use-hospitality",
+        "canonicalPath": "khds/research/institutions/mixed-use-hospitality/the-social-hub-amsterdam-city/",
+        "dossierComplete": true,
+        "administrativeReconciliation": true,
+        "publicationJournal": "khds/staging/case-30-the-social-hub-amsterdam-city/publication.json"
+      },
+      {
+        "caseNumber": 31,
+        "institutionName": "Moxy NYC Times Square",
+        "slug": "moxy-nyc-times-square",
+        "institutionType": "Lifestyle hotel with public social, dining, coworking and event spaces",
+        "sector": "hotels",
+        "canonicalPath": "khds/research/institutions/hotels/moxy-nyc-times-square/",
+        "dossierComplete": true,
+        "administrativeReconciliation": true,
+        "publicationJournal": "khds/staging/case-31-moxy-nyc-times-square/publication.json"
+      },
+      {
+        "caseNumber": 32,
+        "institutionName": "Plaza Premium Lounge Toronto Pearson Terminal 1 Domestic",
+        "slug": "plaza-premium-lounge-toronto-pearson-t1-domestic",
+        "institutionType": "Airport lounge with paid, pass-based, walk-in, group and optional-service access pathways",
+        "sector": "airport-lounges",
+        "canonicalPath": "khds/research/institutions/airport-lounges/plaza-premium-lounge-toronto-pearson-t1-domestic/",
+        "dossierComplete": true,
+        "administrativeReconciliation": true,
+        "publicationJournal": "khds/staging/case-32-plaza-premium-lounge-toronto-pearson-t1-domestic/publication.json"
+      },
+      {
+        "caseNumber": 33,
+        "institutionName": "YOTELAIR Istanbul Airport (Airside)",
+        "slug": "yotelair-istanbul-airport-airside",
+        "institutionType": "Airside transit hotel with short-stay and overnight cabin accommodation, shared lounge and airport-dependent access conditions",
+        "sector": "transit-hotels",
+        "canonicalPath": "khds/research/institutions/transit-hotels/yotelair-istanbul-airport-airside/",
+        "dossierComplete": true,
+        "administrativeReconciliation": true,
+        "publicationJournal": "khds/staging/case-33-yotelair-istanbul-airport-airside/publication.json"
+      },
+      {
+        "caseNumber": 34,
+        "institutionName": "The Venetian Resort Las Vegas",
+        "slug": "the-venetian-resort-las-vegas",
+        "institutionType": "Integrated resort with hotel accommodation, gaming, dining, entertainment, spa, loyalty tiers and guest-restricted amenities",
+        "sector": "integrated-resorts",
+        "canonicalPath": "khds/research/institutions/integrated-resorts/the-venetian-resort-las-vegas/",
+        "dossierComplete": true,
+        "administrativeReconciliation": true,
+        "publicationJournal": "khds/staging/case-34-the-venetian-resort-las-vegas/publication.json"
+      },
+      {
+        "caseNumber": 35,
+        "institutionName": "Great Wolf Lodge Niagara Falls",
+        "slug": "great-wolf-lodge-niagara-falls",
+        "institutionType": "Family waterpark resort with overnight lodging, registered-guest-only waterpark access, attraction passes, dining packages and reservable cabanas",
+        "sector": "waterpark-resorts",
+        "canonicalPath": "khds/research/institutions/waterpark-resorts/great-wolf-lodge-niagara-falls/",
+        "dossierComplete": true,
+        "administrativeReconciliation": true,
+        "publicationJournal": "khds/staging/case-35-great-wolf-lodge-niagara-falls/publication.json"
+      },
+      {
+        "caseNumber": 36,
+        "institutionName": "Disney's Grand Floridian Resort & Spa",
+        "slug": "disneys-grand-floridian-resort-and-spa",
+        "institutionType": "Deluxe theme-park resort hotel with lodging, resort-guest benefits, separate theme-park admission, dining reservations, transportation and tiered access privileges",
+        "sector": "theme-park-resorts",
+        "canonicalPath": "khds/research/institutions/theme-park-resorts/disneys-grand-floridian-resort-and-spa/",
+        "dossierComplete": true,
+        "administrativeReconciliation": true,
+        "publicationJournal": "khds/staging/case-36-disneys-grand-floridian-resort-and-spa/publication.json"
+      },
+      {
+        "caseNumber": 37,
+        "institutionName": "Esalen Institute",
+        "slug": "esalen-institute-big-sur",
+        "institutionType": "Residential retreat and workshop institution with overnight lodging, included meals, hot springs, open classes and program-based participation",
+        "sector": "retreats",
+        "canonicalPath": "khds/research/institutions/retreats/esalen-institute-big-sur/",
+        "dossierComplete": true,
+        "administrativeReconciliation": true,
+        "publicationJournal": "khds/staging/case-37-esalen-institute-big-sur/publication.json"
+      }
+    ],
+    "priorIdentities": [
+      {
+        "slug": "alinea",
+        "institutionName": "Alinea"
+      },
+      {
+        "slug": "ankole",
+        "institutionName": "Ankole"
+      },
+      {
+        "slug": "avatar-robot-cafe-dawn-tokyo",
+        "institutionName": "Avatar Robot Cafe Dawn Tokyo"
+      },
+      {
+        "slug": "bistro-lolo",
+        "institutionName": "Bistro Lolo"
+      },
+      {
+        "slug": "cultiva",
+        "institutionName": "Cultiva"
+      },
+      {
+        "slug": "dans-le-noir-london",
+        "institutionName": "Dans Le Noir London"
+      },
+      {
+        "slug": "din-tai-fung-covent-garden",
+        "institutionName": "Din Tai Fung Covent Garden"
+      },
+      {
+        "slug": "dishoom-covent-garden",
+        "institutionName": "Dishoom Covent Garden"
+      },
+      {
+        "slug": "franklin-barbecue",
+        "institutionName": "Franklin Barbecue"
+      },
+      {
+        "slug": "fyn",
+        "institutionName": "Fyn"
+      },
+      {
+        "slug": "haidilao-toronto",
+        "institutionName": "Haidilao Toronto"
+      },
+      {
+        "slug": "ichiran-shibuya",
+        "institutionName": "Ichiran Shibuya"
+      },
+      {
+        "slug": "jbj-soul-kitchen-red-bank",
+        "institutionName": "JBJ Soul Kitchen"
+      },
+      {
+        "slug": "mawimbi",
+        "institutionName": "Mawimbi"
+      },
+      {
+        "slug": "narisawa",
+        "institutionName": "Narisawa"
+      },
+      {
+        "slug": "noma-copenhagen-2026",
+        "institutionName": "Noma Copenhagen 2026"
+      },
+      {
+        "slug": "pearl-morissette-jordan-station",
+        "institutionName": "Pearl Morissette Jordan Station"
+      },
+      {
+        "slug": "refettorio-felix-london",
+        "institutionName": "Refettorio Felix"
+      },
+      {
+        "slug": "same-cafe-denver",
+        "institutionName": "SAME Caf? Denver"
+      },
+      {
+        "slug": "talisman",
+        "institutionName": "Talisman"
+      },
+      {
+        "slug": "trunk-tandoor",
+        "institutionName": "Trunk & Tandoor"
+      }
+    ]
+  }
+}

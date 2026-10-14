@@ -1,0 +1,320 @@
+{
+  "schemaVersion": 1,
+  "dimensions": [
+    {
+      "dimension": "discovery",
+      "question": "How clearly does Venice Simplon-Orient-Express distinguish route, journey duration, cabin class, onboard inclusions and off-train components before a guest commits?",
+      "scopeChange": "None. Initial Case #38 public-evidence scope. Rating applies only to the stated question and inspected sources, not live operational execution, representative guest outcomes, accessibility fulfilment, safety, railway performance or causal effects.",
+      "sources": ["S1", "S2", "S3", "S4", "S6", "S14"],
+      "observations": [
+        {
+          "text": "The institution is presented as both transportation and overnight hospitality, with restored sleeper accommodation, dining, steward service and multi-city routes.",
+          "sources": ["S1"]
+        },
+        {
+          "text": "Public journey inventory varies by route, duration, cabin type, date and price rather than presenting one uniform service object.",
+          "sources": ["S2"]
+        },
+        {
+          "text": "The Paris-Istanbul journey adds excursions and off-train components to the onboard relationship, while the Paris-Venice route is primarily an overnight rail journey with transfers.",
+          "sources": ["S3", "S4"]
+        },
+        {
+          "text": "Heritage and restored-carriage provenance form a material part of the discovery narrative.",
+          "sources": ["S14"]
+        }
+      ],
+      "unanswered": [
+        "The evidence does not establish how clearly a first-time visitor distinguishes transport, accommodation, package components and cabin-specific entitlements across the full discovery funnel.",
+        "Desktop and mobile ordering, comparison clarity and abandonment points have not been systematically tested."
+      ],
+      "rating": "partial",
+      "reason": "The product structure is publicly visible, but full comparative clarity across routes, cabins and bundled components has not been systematically inspected.",
+      "nextEvidence": "Inspect representative desktop and mobile discovery routes for one overnight journey and one multi-day journey, recording how route, cabin, inclusions, transfers and off-train components are compared."
+    },
+    {
+      "dimension": "reservation",
+      "question": "What exactly becomes contractually or operationally committed when a guest reserves a Venice Simplon-Orient-Express journey?",
+      "scopeChange": "None. Initial Case #38 public-evidence scope. EEA/UK booking-condition findings are jurisdiction-bounded and must not be generalized beyond their stated scope.",
+      "sources": ["S2", "S7", "S8", "S10", "S13"],
+      "observations": [
+        {
+          "text": "A sample live booking state binds a route, date, passenger count and cabin selection, while public journey prices remain availability-sensitive.",
+          "sources": ["S2", "S13"]
+        },
+        {
+          "text": "For the inspected EEA/UK conditions, deposit and final-payment requirements vary by journey type, including different treatment for Paris-Istanbul, L'Observatoire and other journeys.",
+          "sources": ["S10"]
+        },
+        {
+          "text": "The inspected EEA/UK terms state that a binding contract follows issuance of the confirmation invoice and that special requests are not automatically guaranteed.",
+          "sources": ["S10"]
+        },
+        {
+          "text": "Grand Suite and L'Observatoire products attach additional service and transfer entitlements to accommodation tier.",
+          "sources": ["S7", "S8"]
+        }
+      ],
+      "unanswered": [
+        "No reservation was completed, paid or modified.",
+        "The evidence does not establish the internal inventory relationship among route, carriage, cabin, dining, transfer and excursion components.",
+        "Global booking conditions outside the inspected EEA/UK scope were not compared."
+      ],
+      "rating": "partial",
+      "reason": "Public evidence exposes several commitment objects and tier-specific entitlements, but internal inventory, modification and recovery mechanics remain unverified.",
+      "nextEvidence": "Inspect additional booking states without completing purchase, compare cabin availability, confirmation language, special-request handling and modification/cancellation pathways."
+    },
+    {
+      "dimension": "pre-arrival",
+      "question": "What responsibilities must the guest and institution resolve before departure, including documents, luggage, dietary needs, mobility, transfers and journey-specific preparation?",
+      "scopeChange": "None. Initial Case #38 public-evidence scope.",
+      "sources": ["S5", "S7", "S8", "S10", "S12"],
+      "observations": [
+        {
+          "text": "Passengers are instructed to prepare distinct hand, cabin and through-luggage categories, with through luggage inaccessible until destination.",
+          "sources": ["S5"]
+        },
+        {
+          "text": "Dietary requirements should be supplied in advance, while reduced-mobility or special-assistance needs require direct journey-specific contact.",
+          "sources": ["S5"]
+        },
+        {
+          "text": "Passport, visa and immigration compliance remains the traveller's responsibility under the inspected booking terms.",
+          "sources": ["S10"]
+        },
+        {
+          "text": "Premium accommodation can add personalised pre-journey planning and private transfer arrangements.",
+          "sources": ["S7", "S8"]
+        },
+        {
+          "text": "Belmond may process passport, visa, dietary, mobility, preference and joint-traveller information and may share relevant data with providers supplying requested components.",
+          "sources": ["S12"]
+        }
+      ],
+      "unanswered": [
+        "Actual confirmation emails, reminder sequences and pre-departure documents were not inspected.",
+        "The evidence does not establish how consistently guest information propagates among reservations, train staff, transfer providers, excursion providers and railway partners.",
+        "Accessibility fulfilment and special-request success were not tested."
+      ],
+      "rating": "partial",
+      "reason": "Public preparation duties are substantial and role-specific, but information continuity and fulfilment across providers remain unverified.",
+      "nextEvidence": "Inspect available pre-departure documentation and map each declared guest requirement to the party responsible for receiving, acting on and confirming it."
+    },
+    {
+      "dimension": "arrival",
+      "question": "Where does institutional responsibility begin across accommodation transfer, station arrival, luggage handoff, identity/document checks and boarding?",
+      "scopeChange": "None. Initial Case #38 public-evidence scope.",
+      "sources": ["S3", "S5", "S7", "S8", "S10", "S11"],
+      "observations": [
+        {
+          "text": "The Paris-Venice journey publishes transfers between accommodation and the train station as part of the journey inclusions.",
+          "sources": ["S3"]
+        },
+        {
+          "text": "Cabin luggage can be taken at check-in and delivered to the cabin, while through luggage is transferred into a separate baggage state that remains inaccessible until destination.",
+          "sources": ["S5"]
+        },
+        {
+          "text": "Grand Suites and L'Observatoire can attach private transfer entitlements beyond the ordinary cabin relationship.",
+          "sources": ["S7", "S8"]
+        },
+        {
+          "text": "The legal sources distinguish VSOE from other carriers and providers rather than establishing one universal responsibility owner across the entire movement chain.",
+          "sources": ["S10", "S11"]
+        }
+      ],
+      "unanswered": [
+        "The exact station check-in, document-verification, porter, platform and boarding sequence has not been observed.",
+        "The evidence does not establish recovery ownership for missed transfer, delayed passenger, lost luggage handoff or railway-platform disruption.",
+        "No physical arrival or boarding was observed."
+      ],
+      "rating": "partial",
+      "reason": "The public evidence establishes several arrival handoffs, but not the live transition of responsibility among guest, transfer provider, VSOE and railway infrastructure.",
+      "nextEvidence": "Seek current departure/check-in instructions and map the exact handoff sequence from accommodation pickup through station arrival, luggage acceptance and cabin access."
+    },
+    {
+      "dimension": "stay",
+      "question": "How do cabin class, private/shared facilities, steward service, railway movement and ancillary service entitlements coexist during the onboard stay?",
+      "scopeChange": "None. Initial Case #38 public-evidence scope.",
+      "sources": ["S1", "S5", "S6", "S7", "S8", "S9"],
+      "observations": [
+        {
+          "text": "Historic Cabins, Suites, Grand Suites and L'Observatoire create materially different privacy, space and bathroom conditions.",
+          "sources": ["S6", "S8"]
+        },
+        {
+          "text": "The base onboard proposition includes 24-hour steward service, while Grand Suites add 24-hour butler service and private dining.",
+          "sources": ["S1", "S7"]
+        },
+        {
+          "text": "Wi-Fi availability remains dependent on mobile signal and device use is asked to remain restricted to cabins to protect the shared atmosphere.",
+          "sources": ["S5"]
+        },
+        {
+          "text": "Dining, bar service and entertainment occupy separate shared service spaces within the moving institution.",
+          "sources": ["S9"]
+        }
+      ],
+      "unanswered": [
+        "The evidence does not establish staff allocation, service-response times, cabin defect recovery or coordination with railway operations.",
+        "It does not establish how service failure in one carriage or infrastructure component affects the rest of the journey.",
+        "No representative onboard experience was observed."
+      ],
+      "rating": "partial",
+      "reason": "Public evidence supports differentiated onboard entitlements and shared/private states, but operational coordination and recovery remain unverified.",
+      "nextEvidence": "Map cabin-tier entitlements and identify which responsibilities belong to steward, butler, Train Manager, dining staff, VSOE, railway carrier or third-party provider."
+    },
+    {
+      "dimension": "dining",
+      "question": "How does inclusive dining operate when restaurant capacity, seating time, dietary preparation and cabin-specific private dining create different service states?",
+      "scopeChange": "None. Initial Case #38 public-evidence scope.",
+      "sources": ["S1", "S5", "S7", "S8", "S9"],
+      "observations": [
+        {
+          "text": "Dining is marketed as included in the core train proposition and delivered through multiple restaurant cars, cabin service and the Bar Car.",
+          "sources": ["S1", "S9"]
+        },
+        {
+          "text": "Meals use multiple seating times; preferences may be noted in advance but final reservation confirmation occurs onboard.",
+          "sources": ["S5"]
+        },
+        {
+          "text": "Advance notice materially affects the institution's ability to meet special dietary requirements.",
+          "sources": ["S5"]
+        },
+        {
+          "text": "Grand Suites and L'Observatoire provide stronger private-dining entitlements than ordinary accommodation classes.",
+          "sources": ["S7", "S8"]
+        }
+      ],
+      "unanswered": [
+        "The evidence does not establish allergy cross-contact controls, kitchen escalation, missed-seating recovery or capacity-allocation rules.",
+        "It does not establish how dining disruption caused by railway delays is handled.",
+        "No meal service or dietary fulfilment was observed."
+      ],
+      "rating": "partial",
+      "reason": "Inclusive dining is clearly not one unrestricted service state, but capacity, dietary safety and recovery mechanics remain unverified.",
+      "nextEvidence": "Inspect current menus and dietary guidance, then map ordinary, special-dietary and private-dining entitlement and recovery paths."
+    },
+    {
+      "dimension": "departure",
+      "question": "Where does the hospitality relationship end when luggage release, destination arrival, transfers, excursions, onward hotels and complaints can continue beyond leaving the train?",
+      "scopeChange": "None. Initial Case #38 public-evidence scope.",
+      "sources": ["S3", "S4", "S5", "S7", "S8", "S11"],
+      "observations": [
+        {
+          "text": "Representative journeys can include destination transfers after the onboard portion ends.",
+          "sources": ["S3", "S7", "S8"]
+        },
+        {
+          "text": "The Paris-Istanbul product demonstrates that one journey can include off-train excursions within the broader itinerary.",
+          "sources": ["S4"]
+        },
+        {
+          "text": "Through luggage remains inaccessible until destination, making luggage release a distinct closure event.",
+          "sources": ["S5"]
+        },
+        {
+          "text": "The Conditions of Carriage preserve post-trip complaint and luggage-loss reporting routes rather than treating physical disembarkation as complete relationship closure.",
+          "sources": ["S11"]
+        }
+      ],
+      "unanswered": [
+        "The exact luggage-return, transfer handoff and destination-assistance sequence has not been observed.",
+        "The evidence does not establish how missed onward connections or delayed arrival are recovered in practice.",
+        "No disembarkation or post-trip complaint was observed."
+      ],
+      "rating": "partial",
+      "reason": "Physical disembarkation is visibly not the only possible end state, but live closure and recovery ownership remain incomplete.",
+      "nextEvidence": "Map the destination handoff for one simple overnight journey and one multi-component journey, including luggage, transfer, hotel/excursion and complaint responsibilities."
+    },
+    {
+      "dimension": "atmosphere",
+      "question": "How is the promised heritage-luxury atmosphere produced and governed through dress, shared-space conduct, technology use, live entertainment and carriage design?",
+      "scopeChange": "None. Initial Case #38 public-evidence scope.",
+      "sources": ["S1", "S5", "S6", "S9", "S14"],
+      "observations": [
+        {
+          "text": "Formal evening attire and smart daytime dress are explicitly requested, while jeans are stated to be unacceptable.",
+          "sources": ["S5"]
+        },
+        {
+          "text": "Guests are asked to restrict mobile-phone and electronic-device use to cabins to preserve the shared onboard ambiance.",
+          "sources": ["S5"]
+        },
+        {
+          "text": "Live music, restaurant cars, the Bar Car and restored Art Deco accommodation are central to the published experience.",
+          "sources": ["S1", "S6", "S9"]
+        },
+        {
+          "text": "Belmond's institutional story treats restoration and individual carriage provenance as part of the experience itself.",
+          "sources": ["S14"]
+        }
+      ],
+      "unanswered": [
+        "Representative noise, crowding, privacy, enforcement of dress/device expectations and ability to withdraw from social atmosphere were not observed.",
+        "The evidence does not establish whether heritage expectations create exclusion or service-recovery issues for some guests.",
+        "No onboard atmosphere was directly observed."
+      ],
+      "rating": "partial",
+      "reason": "Atmosphere is clearly operationalized through rules, design and programming, but actual enforcement and guest experience cannot be established from public material alone.",
+      "nextEvidence": "Inspect first-party visual material and bounded independent experience evidence while keeping anecdotal atmosphere separate from representative proof."
+    },
+    {
+      "dimension": "photography",
+      "question": "What can official imagery establish about cabin classes, dining, shared spaces, heritage and service, and what remains unverified about ordinary operating conditions?",
+      "scopeChange": "None. Initial Case #38 public-evidence scope.",
+      "sources": ["S1", "S6", "S7", "S8", "S9", "S14"],
+      "observations": [
+        {
+          "text": "The official source set identifies cabin classes, restaurant cars, bar space, private-carriage environments and restored heritage details as material visual subjects.",
+          "sources": ["S1", "S6", "S7", "S8", "S9", "S14"]
+        },
+        {
+          "text": "The accommodation pages establish meaningful spatial differences that require image-by-image review rather than treating all published interiors as one cabin type.",
+          "sources": ["S6", "S7", "S8"]
+        }
+      ],
+      "unanswered": [
+        "No systematic image-by-image photographic audit has yet been completed.",
+        "Official imagery does not establish representative occupancy, nighttime conditions, accessibility, luggage congestion, platform boarding or disruption states.",
+        "Image recency and ordinary-versus-promotional operating conditions remain incompletely established."
+      ],
+      "rating": "partial",
+      "reason": "The source set establishes the visual questions and differentiated spaces, but not a completed photographic analysis.",
+      "nextEvidence": "Perform a direct image-by-image review of official cabin, corridor, dining, bar, platform and transfer imagery, recording subject, source and decision value."
+    },
+    {
+      "dimension": "story",
+      "question": "Does Venice Simplon-Orient-Express exhibit a distinct mobile multi-system hospitality responsibility architecture, or can the observed complexity be sufficiently explained as bundled premium passenger transport?",
+      "scopeChange": "None. Initial Case #38 public-evidence scope. The ordinary premium-transport explanation remains an active competing explanation.",
+      "sources": ["S1", "S3", "S4", "S6", "S7", "S8", "S10", "S11", "S14"],
+      "observations": [
+        {
+          "text": "One institutional journey can combine rail carriage, accommodation, dining, steward service, luggage custody, transfers and in some products excursions or other destination components.",
+          "sources": ["S1", "S3", "S4"]
+        },
+        {
+          "text": "Accommodation tier can alter service relationships through butler service, private dining, pre-journey planning and private transfers rather than changing only room quality.",
+          "sources": ["S6", "S7", "S8"]
+        },
+        {
+          "text": "National railway constraints and incorporated carrier/supplier conditions prevent the published journey from being treated as one wholly operator-controlled system.",
+          "sources": ["S3", "S4", "S10", "S11"]
+        },
+        {
+          "text": "Heritage and individual carriage provenance are deliberately integrated into the value proposition.",
+          "sources": ["S14"]
+        }
+      ],
+      "unanswered": [
+        "The evidence does not establish whether internal operating systems actually coordinate these relationships as one architecture or merely package conventional transport and hospitality components.",
+        "Responsibility ownership during disruption, missed connections, service failure, luggage problems and cross-provider recovery remains unverified.",
+        "No operational or representative guest outcome evidence establishes superiority, causality or architecture-level performance."
+      ],
+      "rating": "partial",
+      "reason": "The case strongly pressures the Mobile / Multi-System and Role-Partitioned comparison models, but ordinary bundled premium transport remains a sufficient competing explanation at this evidence stage.",
+      "nextEvidence": "Test responsibility ownership and recovery across VSOE, railway carriers, transfers, excursions, cabin service and destination components before drawing any architecture conclusion."
+    }
+  ]
+}
