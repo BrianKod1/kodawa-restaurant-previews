@@ -1,0 +1,325 @@
+{
+  "schemaVersion": 1,
+  "dimensions": [
+    {
+      "dimension": "discovery",
+      "question": "How clearly does Tottenham Hotspur Stadium distinguish event type, ordinary ticket access, Premium hospitality, seasonal relationships, accommodation-independent hospitality products and event-specific operating rules before commitment?",
+      "scopeChange": "None. Initial Case #39 public-evidence scope. Commercial Journey Economics is hypothesis-generating only and does not establish comparative profitability, acquisition efficiency or financial performance.",
+      "sources": ["S1", "S2", "S3", "S4", "S7", "S17"],
+      "observations": [
+        {
+          "text": "The institution operates across football and multiple non-football event types rather than presenting one stable event model.",
+          "sources": ["S1"]
+        },
+        {
+          "text": "Premium discovery separates Seasonal Membership, Matchday Hospitality and Concerts & Events into different participation categories.",
+          "sources": ["S2"]
+        },
+        {
+          "text": "Seasonal Premium products vary substantially in private space, seating, dining, access periods and additional privileges.",
+          "sources": ["S3"]
+        },
+        {
+          "text": "Direct club purchase, membership-linked ticketing, Ticket Exchange and authorised reseller routes create multiple acquisition pathways.",
+          "sources": ["S7", "S17"]
+        }
+      ],
+      "unanswered": [
+        "The evidence does not establish how clearly a first-time visitor understands the difference among General Admission, ordinary membership, Premium matchday hospitality, seasonal Premium membership and authorised reseller packages.",
+        "Desktop/mobile comparison and abandonment points have not been systematically tested.",
+        "No public evidence establishes which acquisition path produces the highest net contribution."
+      ],
+      "rating": "partial",
+      "reason": "The public product taxonomy is rich, but cross-product comparison clarity and economic consequences remain unverified.",
+      "nextEvidence": "Inspect representative discovery routes for General Admission, one Premium matchday product, one seasonal Premium product and one authorised reseller pathway without inferring comparative profitability."
+    },
+    {
+      "dimension": "reservation",
+      "question": "What exactly becomes committed when a guest purchases a match ticket, Premium hospitality package, seasonal Premium relationship or resale/transfer-based entitlement?",
+      "scopeChange": "None. Initial Case #39 public-evidence scope.",
+      "sources": ["S3", "S4", "S5", "S6", "S7", "S16", "S17"],
+      "observations": [
+        {
+          "text": "Premium hospitality packages can bind seats, private or shared hospitality space, dining and defined pre/post-match access windows.",
+          "sources": ["S4"]
+        },
+        {
+          "text": "Seasonal Premium relationships may add recurring home-match access, ticket transferability, Ticket Exchange access, account management and priority access to other events.",
+          "sources": ["S5", "S6"]
+        },
+        {
+          "text": "Membership, Premium Package and Match Ticket are treated as distinct contractual objects within the current ticketing terms.",
+          "sources": ["S16"]
+        },
+        {
+          "text": "Official resellers create a separate authorised acquisition route, including some ticket-and-hotel package relationships.",
+          "sources": ["S7"]
+        }
+      ],
+      "unanswered": [
+        "No purchase, payment, transfer, resale, cancellation or refund was executed.",
+        "The evidence does not establish internal inventory coupling among seat, lounge, suite, meal, parking and event capacity.",
+        "Comparative commercial contribution by direct, membership, exchange, Premium or reseller route is not publicly established."
+      ],
+      "rating": "partial",
+      "reason": "Multiple commitment objects and entitlement bundles are visible, but inventory, modification, cancellation, recovery and economics remain incomplete.",
+      "nextEvidence": "Inspect non-purchase booking states, current package terms, transfer/exchange conditions and cancellation/refund pathways while keeping profitability as an unverified research question."
+    },
+    {
+      "dimension": "pre-arrival",
+      "question": "What must the guest and institution resolve before an event, including digital ticket readiness, event-specific rules, transport, bags, accessibility, hospitality timing and dietary requirements?",
+      "scopeChange": "None. Initial Case #39 public-evidence scope.",
+      "sources": ["S8", "S9", "S11", "S12", "S13", "S15", "S16"],
+      "observations": [
+        {
+          "text": "Digital-ticket readiness, correct entrance and event access information are material pre-arrival requirements.",
+          "sources": ["S8", "S16"]
+        },
+        {
+          "text": "Bag rules and prohibited-item requirements must be understood before arrival, and football-specific rules may not transfer unchanged to non-football events.",
+          "sources": ["S9"]
+        },
+        {
+          "text": "Matchday transport is time- and event-dependent, including road restrictions, public transport, shuttle and coach relationships.",
+          "sources": ["S11"]
+        },
+        {
+          "text": "Accessibility can require pre-registration, supporting information or advance arrangements, while the football Disability Access Scheme does not automatically apply to non-football events.",
+          "sources": ["S12", "S13"]
+        },
+        {
+          "text": "Premium suite guests can submit dietary/allergy requirements and pre-order enhancements before stated deadlines.",
+          "sources": ["S15"]
+        }
+      ],
+      "unanswered": [
+        "Actual confirmation emails, event-day reminders, ticket-delivery timing and Premium guest communications have not been inspected.",
+        "The evidence does not establish information continuity across ticketing, hospitality, security, accessibility, catering and event-specific operators.",
+        "Accessibility fulfilment, dietary fulfilment and disruption communication remain untested."
+      ],
+      "rating": "partial",
+      "reason": "Pre-arrival responsibilities are substantial and role-specific, but live communication and cross-team fulfilment remain unverified.",
+      "nextEvidence": "Inspect current event guides and pre-event communications where publicly available and map each required guest action to the responsible operating team."
+    },
+    {
+      "dimension": "arrival",
+      "question": "Where does responsibility shift across perimeter approach, security screening, digital-ticket validation, assigned entrance, turnstile access, accessible entry and Premium-space admission?",
+      "scopeChange": "None. Initial Case #39 public-evidence scope.",
+      "sources": ["S8", "S9", "S10", "S12", "S13", "S16"],
+      "observations": [
+        {
+          "text": "A digital ticket specifies an entrance, and supporters are instructed to use that entrance rather than treating the stadium perimeter as universally interchangeable.",
+          "sources": ["S8"]
+        },
+        {
+          "text": "Ticket/pass checks can occur at the perimeter before turnstile entry, and each ticket normally works only once at the turnstile.",
+          "sources": ["S8"]
+        },
+        {
+          "text": "Bag inspection and prohibited-item control occur before entry and can create a separate security state from ticket validity.",
+          "sources": ["S9"]
+        },
+        {
+          "text": "Premium and General Admission guests can have different gate-opening times.",
+          "sources": ["S8"]
+        },
+        {
+          "text": "Accessible participation can involve dedicated entrances, assistance rules or scheme-specific states rather than ordinary entrance logic.",
+          "sources": ["S12", "S13"]
+        }
+      ],
+      "unanswered": [
+        "No perimeter queue, search, ticket failure, accessible arrival or hospitality-space credential check was directly observed.",
+        "The evidence does not establish the recovery owner for a valid guest at the wrong entrance, failed mobile ticket, denied bag, identity mismatch or inaccessible route.",
+        "The exact transition from stadium admission to Premium lounge or suite admission remains incompletely mapped."
+      ],
+      "rating": "partial",
+      "reason": "The arrival chain clearly contains independent validation and security states, but live handoffs and failure recovery remain unverified.",
+      "nextEvidence": "Map one General Admission and one Premium arrival path from public realm to seat/hospitality space, including failure branches for ticket, bag, accessibility and credential issues."
+    },
+    {
+      "dimension": "stay",
+      "question": "How do seat entitlement, lounge or suite access, internal circulation, accessibility, payment, hospitality timing and event-specific rules coexist during participation inside the stadium?",
+      "scopeChange": "The required KHDS stay dimension is interpreted as event participation for this non-overnight institution.",
+      "sources": ["S3", "S4", "S5", "S6", "S8", "S10", "S13"],
+      "observations": [
+        {
+          "text": "A guest can simultaneously hold a seat entitlement and a separate hospitality-space entitlement with its own access period and service package.",
+          "sources": ["S3", "S4", "S5", "S6"]
+        },
+        {
+          "text": "The stadium contains distinct internal levels, circulation states and controlled lift use rather than universal access to every operational route.",
+          "sources": ["S10"]
+        },
+        {
+          "text": "Cashless payment is an operating condition for purchases inside the stadium.",
+          "sources": ["S10"]
+        },
+        {
+          "text": "Accessibility entitlements can alter the participation path and assistance relationship.",
+          "sources": ["S13"]
+        }
+      ],
+      "unanswered": [
+        "The evidence does not establish lounge re-entry rules, live crowd routing, seat-to-lounge handoffs, queue recovery or service escalation.",
+        "No Premium or General Admission participation was directly observed.",
+        "The effect of event type on internal access and hospitality-space entitlement remains incompletely established."
+      ],
+      "rating": "partial",
+      "reason": "Multiple simultaneous entitlement and spatial states are visible, but operational coordination and recovery remain unverified.",
+      "nextEvidence": "Map seat, lounge, suite, concourse, lift, payment and assistance states for representative Premium and General Admission participants."
+    },
+    {
+      "dimension": "dining",
+      "question": "How does food-and-beverage access differ across General Admission concessions, included Premium dining, paid enhancements, dietary requirements and event-specific hospitality packages?",
+      "scopeChange": "None. Initial Case #39 public-evidence scope.",
+      "sources": ["S4", "S5", "S6", "S14", "S15"],
+      "observations": [
+        {
+          "text": "General Admission dining operates through a large network of concessions with multiple food formats.",
+          "sources": ["S14"]
+        },
+        {
+          "text": "Premium packages can include materially different dining states, ranging from light food to buffet, bowl food, private dining or three-course experiences.",
+          "sources": ["S4", "S5", "S6"]
+        },
+        {
+          "text": "Suite guests can add paid enhancements beyond included package content and can submit dietary/allergy information through the ordering process.",
+          "sources": ["S15"]
+        },
+        {
+          "text": "Premium ordering can have a pre-event deadline, while some additional purchases remain possible on the day.",
+          "sources": ["S15"]
+        }
+      ],
+      "unanswered": [
+        "The evidence does not establish allergy cross-contact controls, actual dietary fulfilment, queue times, concession availability or sold-out states.",
+        "No meal, concession purchase or Premium dining experience was observed.",
+        "The economics of included dining versus separately purchased food are not established."
+      ],
+      "rating": "partial",
+      "reason": "Dining clearly varies by guest role and package, but capacity, safety, execution and financial contribution remain unverified.",
+      "nextEvidence": "Inspect representative General Admission menus and Premium package menus, then map included, optional, dietary and failed-service states without inferring food safety outcomes."
+    },
+    {
+      "dimension": "departure",
+      "question": "Where does the hospitality relationship end when Premium access can continue after full-time, transport systems change by event phase, billing questions persist and future membership or event entitlements remain active?",
+      "scopeChange": "None. Initial Case #39 public-evidence scope.",
+      "sources": ["S4", "S5", "S6", "S11", "S15", "S17"],
+      "observations": [
+        {
+          "text": "Several Premium products advertise hospitality access extending after full-time rather than ending when the sporting event itself ends.",
+          "sources": ["S4", "S5", "S6"]
+        },
+        {
+          "text": "Transport and surrounding-road conditions change again around final whistle, creating a distinct departure operating phase.",
+          "sources": ["S11"]
+        },
+        {
+          "text": "Premium billing questions can persist after the event through the Premium Experience Team.",
+          "sources": ["S15"]
+        },
+        {
+          "text": "Seasonal membership and Ticket Exchange relationships persist beyond a single event.",
+          "sources": ["S5", "S17"]
+        }
+      ],
+      "unanswered": [
+        "No egress, post-match hospitality closure, shuttle departure, billing dispute or post-event complaint was observed.",
+        "The evidence does not establish how guest responsibility transitions among hospitality staff, security, transport partners and customer service during closure.",
+        "Event-specific differences in post-event hospitality and transport remain incomplete."
+      ],
+      "rating": "partial",
+      "reason": "Physical event end is visibly not identical to all hospitality and relationship closure, but live egress and recovery remain unverified.",
+      "nextEvidence": "Map full-time through final hospitality closure and onward transport for one football event and compare with a non-football event where public evidence permits."
+    },
+    {
+      "dimension": "atmosphere",
+      "question": "How is atmosphere produced differently across general concourses, premium lounges, private suites, membership spaces and event types while security and crowd operations remain active?",
+      "scopeChange": "None. Initial Case #39 public-evidence scope.",
+      "sources": ["S1", "S3", "S4", "S5", "S6", "S10", "S14"],
+      "observations": [
+        {
+          "text": "The stadium deliberately supports different event types, meaning atmosphere cannot be assumed to be football-identical across the institution.",
+          "sources": ["S1"]
+        },
+        {
+          "text": "Premium products explicitly differentiate atmosphere through private, semi-private, lounge, dining and members-club environments.",
+          "sources": ["S3", "S4", "S5", "S6"]
+        },
+        {
+          "text": "General Admission concourses include food, bars, promotions and entertainment rather than functioning only as circulation space.",
+          "sources": ["S10", "S14"]
+        }
+      ],
+      "unanswered": [
+        "Representative crowding, noise, privacy, social comfort and atmosphere under different event types were not directly observed.",
+        "The evidence does not establish how security or operational restrictions affect intended atmosphere during disruption.",
+        "No systematic comparison of Premium versus General Admission atmosphere has been completed."
+      ],
+      "rating": "partial",
+      "reason": "The institution intentionally creates differentiated social environments, but representative guest experience and enforcement remain unverified.",
+      "nextEvidence": "Perform bounded comparison of visual and published operating evidence for General Admission, one shared Premium lounge and one private/semi-private hospitality product."
+    },
+    {
+      "dimension": "photography",
+      "question": "What can official imagery establish about seats, lounges, suites, concourses, dining, access routes and event variety, and what operational realities remain invisible?",
+      "scopeChange": "None. Initial Case #39 public-evidence scope.",
+      "sources": ["S1", "S2", "S3", "S4", "S10", "S14"],
+      "observations": [
+        {
+          "text": "The official source set identifies materially different visual environments including ordinary stadium spaces, Premium lounges, private/semi-private suites, dining environments and multi-event configurations.",
+          "sources": ["S1", "S2", "S3", "S4", "S14"]
+        },
+        {
+          "text": "Published package distinctions imply that imagery must be interpreted by specific product and access state rather than as generic stadium hospitality imagery.",
+          "sources": ["S3", "S4"]
+        }
+      ],
+      "unanswered": [
+        "No systematic image-by-image photographic audit has yet been completed.",
+        "Official imagery does not by itself establish queueing, crowding, accessibility fulfilment, security screening, sold-out conditions or service recovery.",
+        "Image recency and representative ordinary-event conditions remain incompletely established."
+      ],
+      "rating": "partial",
+      "reason": "The relevant visual subjects are clear, but the photographic evidence has not yet been systematically audited.",
+      "nextEvidence": "Perform an image-by-image review of representative entry, seating, lounge, suite, dining, concourse and accessibility imagery with explicit product/state labels."
+    },
+    {
+      "dimension": "story",
+      "question": "Does Tottenham Hotspur Stadium require a distinct hospitality responsibility architecture because ticketing, security, seat entitlement, Premium-space access, membership, dining and event-specific rules operate as separate but interdependent states, or is this adequately explained as ordinary event ticketing with premium hospitality added on top?",
+      "scopeChange": "None. Initial Case #39 public-evidence scope. Ordinary event ticketing plus premium upsell remains an active competing explanation. Commercial Journey Economics remains hypothesis-generating only.",
+      "sources": ["S1", "S2", "S3", "S4", "S5", "S6", "S7", "S8", "S9", "S13", "S15", "S16", "S17"],
+      "observations": [
+        {
+          "text": "One venue supports multiple event types and guest relationships rather than one uniform hospitality operating model.",
+          "sources": ["S1", "S2"]
+        },
+        {
+          "text": "A valid event relationship can contain separate seat, hospitality-space, dining, timing, membership, transferability and event-priority entitlements.",
+          "sources": ["S3", "S4", "S5", "S6"]
+        },
+        {
+          "text": "Venue entry itself depends on additional security, entrance and ticket-validation states that are not equivalent to hospitality entitlement.",
+          "sources": ["S8", "S9", "S16"]
+        },
+        {
+          "text": "Football accessibility rules and event-specific bag/policy boundaries show that one building does not automatically imply one rule system.",
+          "sources": ["S9", "S13"]
+        },
+        {
+          "text": "Direct, membership-linked, exchange and authorised reseller acquisition pathways create potentially different commercial relationships, but their comparative contribution is not established.",
+          "sources": ["S7", "S17"]
+        }
+      ],
+      "unanswered": [
+        "The evidence does not establish whether internal systems coordinate these guest states as one architecture or whether they remain conventional ticketing, security and hospitality subsystems.",
+        "Cross-team recovery for ticket failure, wrong entitlement, security denial, hospitality-space denial, dietary failure or event change remains unverified.",
+        "No evidence establishes comparative net contribution, causal financial impact or superiority of one acquisition route."
+      ],
+      "rating": "partial",
+      "reason": "The stadium strongly exposes layered entitlement and event-specific responsibility questions, but ordinary event ticketing plus premium hospitality remains a sufficient competing explanation at this stage.",
+      "nextEvidence": "Test responsibility ownership across ticketing, security, Premium hospitality, dining, accessibility and event operations, and keep commercial contribution as a separate unverified research question."
+    }
+  ]
+}

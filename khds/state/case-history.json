@@ -202,6 +202,17 @@
       "dossierComplete": true,
       "administrativeReconciliation": true,
       "publicationJournal": "khds/staging/case-38-venice-simplon-orient-express/publication.json"
+    },
+    {
+      "caseNumber": 39,
+      "institutionName": "Tottenham Hotspur Stadium",
+      "slug": "tottenham-hotspur-stadium",
+      "institutionType": "Multi-event stadium hospitality institution with ticketed event access, premium seating, lounges and private suites, recurring memberships, food-and-beverage service, digital ticketing, security-controlled entry and event-specific operating rules",
+      "sector": "stadium-hospitality",
+      "canonicalPath": "khds/research/institutions/stadium-hospitality/tottenham-hotspur-stadium/",
+      "dossierComplete": true,
+      "administrativeReconciliation": true,
+      "publicationJournal": "khds/staging/case-39-tottenham-hotspur-stadium/publication.json"
     }
   ],
   "priorIdentities": [

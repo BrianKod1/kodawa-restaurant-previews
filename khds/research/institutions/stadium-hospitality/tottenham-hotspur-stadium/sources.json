@@ -1,0 +1,192 @@
+{
+  "schemaVersion": 1,
+  "sources": [
+    {
+      "id": "S1",
+      "url": "https://www.tottenhamhotspur.com/the-stadium",
+      "accessDate": "2026-10-19",
+      "sourceDate": "Undated; current page inspected 2026-10-19",
+      "method": "Direct web-page inspection",
+      "sections": "Stadium identity; multi-use operating model; football; NFL; boxing; rugby; concerts; visitor attractions; conferences and events",
+      "access": "inspected",
+      "title": "The Stadium",
+      "note": "Primary institution source. Establishes Tottenham Hotspur Stadium as a multi-use venue rather than a football-only environment and identifies football, NFL, boxing, rugby, concerts, visitor attractions and conference/events activity."
+    },
+    {
+      "id": "S2",
+      "url": "https://hospitality.tottenhamhotspur.com/",
+      "accessDate": "2026-10-19",
+      "sourceDate": "Current hospitality inventory inspected 2026-10-19",
+      "method": "Direct web-page inspection",
+      "sections": "Premium Hospitality; fixture selection; Seasonal Membership; Matchday Hospitality; Concerts & Events; Premium experience categories",
+      "access": "inspected",
+      "title": "Spurs Premium Hospitality",
+      "note": "Primary premium-hospitality discovery source. Separates seasonal membership, matchday hospitality and concert/event VIP experiences rather than presenting one universal premium object."
+    },
+    {
+      "id": "S3",
+      "url": "https://hospitality.tottenhamhotspur.com/seasonal-memberships/seasonal-memberships",
+      "accessDate": "2026-10-19",
+      "sourceDate": "Current seasonal-membership page inspected 2026-10-19",
+      "method": "Direct web-page inspection",
+      "sections": "Premium Seats; Stratus; Broadcast Booths; Loge Suites; Sideline Suites; H Club; Loge on Four; Suites on Four; Tunnel Club",
+      "access": "inspected",
+      "title": "Seasonal Memberships",
+      "note": "Shows substantial variation among recurring Premium relationships, including private/semi-private space, lounge access, dining, seats, business use and event-priority benefits."
+    },
+    {
+      "id": "S4",
+      "url": "https://hospitality.tottenhamhotspur.com/experiences",
+      "accessDate": "2026-10-19",
+      "sourceDate": "Current matchday inventory and price states inspected 2026-10-19",
+      "method": "Direct web-page inspection",
+      "sections": "Loge Suites; Residency East; Broadcast Booths; Premium Seats; guest counts; included dining; access windows; indicative live pricing",
+      "access": "inspected",
+      "title": "Matchday Experiences",
+      "note": "Representative hospitality inventory. Packages differ by per-person versus box pricing, private-space access, seating, included food and pre/post-match access duration. Prices are time-sensitive and should not be treated as stable."
+    },
+    {
+      "id": "S5",
+      "url": "https://hospitality.tottenhamhotspur.com/seasonal-memberships/stratus",
+      "accessDate": "2026-10-19",
+      "sourceDate": "Current page inspected 2026-10-19",
+      "method": "Direct web-page inspection",
+      "sections": "Seasonal access; padded seating; three-hour pre-match and two-hour post-match access; included food/drink; account management; Ticket Exchange; transferability; event priority",
+      "access": "inspected",
+      "title": "Stratus",
+      "note": "Role-and-entitlement source. A Stratus relationship includes home-match access, lounge/seat access windows, food and drink, account management, ticket exchange, ticket transferability and priority access for other events."
+    },
+    {
+      "id": "S6",
+      "url": "https://hospitality.tottenhamhotspur.com/seasonal-memberships/the-tunnel-club",
+      "accessDate": "2026-10-19",
+      "sourceDate": "Current page inspected 2026-10-19",
+      "method": "Direct web-page inspection",
+      "sections": "Tunnel Club membership; private members-club environment; seating; access window; dining; drinks; parking; programme; concerts/events priority",
+      "access": "inspected",
+      "title": "The Tunnel Club",
+      "note": "Premium-tier source showing that seasonal hospitality can combine seat entitlement, a private club environment, dining, drinks, parking, event priority and extended matchday access."
+    },
+    {
+      "id": "S7",
+      "url": "https://hospitality.tottenhamhotspur.com/official-club-resellers",
+      "accessDate": "2026-10-19",
+      "sourceDate": "Current reseller list inspected 2026-10-19",
+      "method": "Direct web-page inspection",
+      "sections": "Official Club Resellers; overseas premium/ticket-and-hotel package route; authorised reseller inventory",
+      "access": "inspected",
+      "title": "Official Club Resellers",
+      "note": "Acquisition-channel source. Establishes an authorised third-party pathway for overseas premium/ticket and hotel packages, creating a distinct commercial and responsibility relationship from direct club purchase."
+    },
+    {
+      "id": "S8",
+      "url": "https://www.tottenhamhotspur.com/the-stadium/attending-matches/entering-the-stadium",
+      "accessDate": "2026-10-19",
+      "sourceDate": "Undated; current page inspected 2026-10-19",
+      "method": "Direct web-page inspection",
+      "sections": "Digital tickets; specified entrance; perimeter checks; one-time turnstile use; Premium and General Admission opening times; apps; bag guidance",
+      "access": "inspected",
+      "title": "Entering the Stadium",
+      "note": "Core arrival source. The digital ticket specifies an entrance; supporters are subject to perimeter ticket/pass checks; each ticket works once at the turnstile; Premium gates open earlier than General Admission gates."
+    },
+    {
+      "id": "S9",
+      "url": "https://www.tottenhamhotspur.com/fans/policies/bag-policy-and-prohibited-items",
+      "accessDate": "2026-10-19",
+      "sourceDate": "Undated; current policy inspected 2026-10-19",
+      "method": "Direct web-page inspection",
+      "sections": "Bag size; outer-cordon checks; searches; prohibited items; medical exemptions; football-event scope boundary",
+      "access": "inspected",
+      "title": "Bag Policy & Prohibited Items",
+      "note": "Security-boundary source. Bags are checked before entrance and restrictions apply, but the page explicitly states that its policy is specific to football fixtures and may differ for other stadium events."
+    },
+    {
+      "id": "S10",
+      "url": "https://www.tottenhamhotspur.com/the-stadium/attending-matches/inside-the-stadium",
+      "accessDate": "2026-10-19",
+      "sourceDate": "Undated; current page inspected 2026-10-19",
+      "method": "Direct web-page inspection",
+      "sections": "General Admission levels; circulation; pop-up activity; lift policy; accessibility relationship; cashless payments",
+      "access": "inspected",
+      "title": "Inside the Stadium",
+      "note": "Participation source showing internal spatial states, lift-access rules and a fully cashless stadium. Lift use is specifically prioritised for Disability Access Scheme users or Lift Pass holders."
+    },
+    {
+      "id": "S11",
+      "url": "https://www.tottenhamhotspur.com/the-stadium/attending-matches/getting-here/",
+      "accessDate": "2026-10-19",
+      "sourceDate": "Undated; current matchday travel page inspected 2026-10-19",
+      "method": "Direct web-page inspection",
+      "sections": "Public transport; four stations; road closures; Controlled Parking Zone; event-day phases; shuttle buses; regional coaches; post-match transport",
+      "access": "inspected",
+      "title": "Getting to the Stadium",
+      "note": "Pre-arrival and departure source. Matchday mobility changes by time phase; surrounding roads can close; shuttle and coach services create additional scheduled transport relationships around the venue."
+    },
+    {
+      "id": "S12",
+      "url": "https://www.tottenhamhotspur.com/the-club/accessibility/",
+      "accessDate": "2026-10-19",
+      "sourceDate": "Undated; current accessibility hub inspected 2026-10-19",
+      "method": "Direct web-page inspection",
+      "sections": "Website accessibility; stadium accessibility; accessible facilities; parking/transport; Disability Access Scheme; accessible ticketing",
+      "access": "inspected",
+      "title": "Accessibility",
+      "note": "Primary accessibility hub linking digital and physical accessibility, ticketing, transport and the Disability Access Scheme."
+    },
+    {
+      "id": "S13",
+      "url": "https://www.tottenhamhotspur.com/the-stadium/disability-access-scheme",
+      "accessDate": "2026-10-19",
+      "sourceDate": "Undated; current page inspected 2026-10-19",
+      "method": "Direct web-page inspection",
+      "sections": "Scheme eligibility; accessible viewing; personal-assistant relationship; supporting information; football/non-football scope boundary",
+      "access": "inspected",
+      "title": "Disability Access Scheme",
+      "note": "Important role-state source. The Scheme can unlock accessible facilities and personal-assistance arrangements for football matches, but the page explicitly states that the Scheme is not applicable to non-football events."
+    },
+    {
+      "id": "S14",
+      "url": "https://www.tottenhamhotspur.com/the-stadium/attending-matches/food-and-drink/",
+      "accessDate": "2026-10-19",
+      "sourceDate": "Current food-and-drink page inspected 2026-10-19",
+      "method": "Direct web-page inspection",
+      "sections": "General Admission outlets; Marketplace; food formats; plant-based/halal/gluten-free examples; Premium dining categories",
+      "access": "inspected",
+      "title": "Food & Drink",
+      "note": "Dining source showing a large General Admission concession network alongside materially different Premium dining formats such as fine dining, fast-casual and chef-led buffet experiences."
+    },
+    {
+      "id": "S15",
+      "url": "https://hospitality.tottenhamhotspur.com/faq",
+      "accessDate": "2026-10-19",
+      "sourceDate": "Current Premium Hospitality FAQ inspected 2026-10-19",
+      "method": "Direct web-page inspection",
+      "sections": "Suite enhancements; payment; billing; ordering deadline; dietary/allergy requirements; Premium Experience Team",
+      "access": "inspected",
+      "title": "Spurs Premium Hospitality FAQs",
+      "note": "Operational Premium source. Suite guests can purchase enhancements before an ordering deadline, provide dietary/allergy requirements in the order process, make day-of-event purchases and use host/team channels for billing or service queries."
+    },
+    {
+      "id": "S16",
+      "url": "https://www.tottenhamhotspur.com/news/1003861/membership-ticketing-terms-static-article",
+      "accessDate": "2026-10-19",
+      "sourceDate": "2026-03-10",
+      "method": "Direct web-page inspection",
+      "sections": "2026/27 membership; Premium Packages; Match Tickets; digital-ticket requirements; identity validation; sanctions; access-ticket conditions",
+      "access": "inspected",
+      "title": "2026/27 Membership, Premium Package and Ticketing Terms and Conditions",
+      "note": "Commitment and identity source. Distinguishes membership, Premium Package and Match Ticket relationships; normally requires individual digital tickets on individual smartphones with bounded exceptions; permits identity validation in specified circumstances."
+    },
+    {
+      "id": "S17",
+      "url": "https://www.tottenhamhotspur.com/tickets/mens-home-tickets/",
+      "accessDate": "2026-10-19",
+      "sourceDate": "Current 2026/27 ticketing page inspected 2026-10-19",
+      "method": "Direct web-page inspection",
+      "sections": "One Hotspur Membership; ticket priority; one-ticket-per-membership rule; Ticket Exchange; season/premium resale pathway",
+      "access": "inspected",
+      "title": "Home Tickets",
+      "note": "General ticketing source. One Hotspur membership affects purchase priority and Ticket Exchange access, while the Club's exchange allows eligible Season Ticket and Premium members to resell designated seats under stated conditions."
+    }
+  ]
+}
