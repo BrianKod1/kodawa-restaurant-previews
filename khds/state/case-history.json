@@ -213,6 +213,17 @@
       "dossierComplete": true,
       "administrativeReconciliation": true,
       "publicationJournal": "khds/staging/case-39-tottenham-hotspur-stadium/publication.json"
+    },
+    {
+      "caseNumber": 40,
+      "institutionName": "Singapore Changi Airport",
+      "slug": "singapore-changi-airport",
+      "institutionType": "Multi-terminal airport hospitality ecosystem combining passenger processing, airside and landside access states, transfer flows, lounges, transit hotels, dining, retail, attractions, baggage services and third-party airline/operator relationships",
+      "sector": "airport-hospitality",
+      "canonicalPath": "khds/research/institutions/airport-hospitality/singapore-changi-airport/",
+      "dossierComplete": true,
+      "administrativeReconciliation": true,
+      "publicationJournal": "khds/staging/case-40-singapore-changi-airport/publication.json"
     }
   ],
   "priorIdentities": [

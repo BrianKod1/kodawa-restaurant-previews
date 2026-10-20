@@ -3,22 +3,22 @@
   "expectedBranch": "main",
   "workflowStatus": "idle",
   "latestCompletedCase": {
-    "caseNumber": 39,
-    "institutionName": "Tottenham Hotspur Stadium",
-    "slug": "tottenham-hotspur-stadium",
-    "institutionType": "Multi-event stadium hospitality institution with ticketed event access, premium seating, lounges and private suites, recurring memberships, food-and-beverage service, digital ticketing, security-controlled entry and event-specific operating rules",
-    "sector": "stadium-hospitality",
-    "canonicalPath": "khds/research/institutions/stadium-hospitality/tottenham-hotspur-stadium/",
+    "caseNumber": 40,
+    "institutionName": "Singapore Changi Airport",
+    "slug": "singapore-changi-airport",
+    "institutionType": "Multi-terminal airport hospitality ecosystem combining passenger processing, airside and landside access states, transfer flows, lounges, transit hotels, dining, retail, attractions, baggage services and third-party airline/operator relationships",
+    "sector": "airport-hospitality",
+    "canonicalPath": "khds/research/institutions/airport-hospitality/singapore-changi-airport/",
     "dossierComplete": true,
     "administrativeReconciliation": true
   },
-  "expectedNextCase": 40,
+  "expectedNextCase": 41,
   "researchAuthorized": false,
   "authorization": null,
   "activeCase": null,
   "disagreements": [],
   "publication": {
-    "journalPath": "khds/staging/case-39-tottenham-hotspur-stadium/publication.json",
+    "journalPath": "khds/staging/case-40-singapore-changi-airport/publication.json",
     "status": "promoted"
   },
   "reconciliationRecord": {
@@ -72,8 +72,8 @@
   },
   "reconciliationReview": {
     "approvedBy": "Brian Kodawa",
-    "approvedAt": "2026-10-19T17:19:24.273Z",
-    "contentDigest": "b5b29e90ea495bd0b78ab576e88e9e4929cb7d099dc69ffbffc9d413b159451d",
+    "approvedAt": "2026-10-20T16:35:09.542Z",
+    "contentDigest": "e0810352beef0a7f63e6474d58ea3dd81cc8acf7b25b72b2e12379573f0f90fb",
     "controlChanges": []
   },
   "historyReconciliation": {

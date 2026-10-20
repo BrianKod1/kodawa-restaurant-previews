@@ -1,0 +1,192 @@
+{
+    "schemaVersion":  1,
+    "sources":  [
+                    {
+                        "id":  "S1",
+                        "url":  "https://www.changiairport.com/en.html",
+                        "accessDate":  "2026-10-20",
+                        "sourceDate":  "Undated; current page inspected 2026-10-20",
+                        "method":  "Direct web-page inspection",
+                        "sections":  "Passenger-state navigation; arriving; departing; transiting; visiting; Fly; At Changi; Dine \u0026 Shop; Experience; App \u0026 Help",
+                        "access":  "inspected",
+                        "title":  "Changi Airport",
+                        "note":  "Primary institutional-discovery source. The airport explicitly separates arriving, departing, transiting and visiting user states and presents flight, terminal, hospitality, retail, attraction and assistance functions within one airport-facing ecosystem."
+                    },
+                    {
+                        "id":  "S2",
+                        "url":  "https://www.changiairport.com/en/fly/transit-guide.html",
+                        "accessDate":  "2026-10-20",
+                        "sourceDate":  "Undated; current page inspected 2026-10-20",
+                        "method":  "Direct web-page inspection",
+                        "sections":  "Transit eligibility; same-itinerary requirement; through-checked baggage; onward boarding pass; transfer desks; security; transit hotels; lounges; rest areas; attractions",
+                        "access":  "inspected",
+                        "title":  "Transit Guide at Changi Airport",
+                        "note":  "Core transit-state source. Transit eligibility depends on itinerary and baggage state; passengers without onward boarding passes are directed to transfer desks; onward passengers still pass security before the next gate."
+                    },
+                    {
+                        "id":  "S3",
+                        "url":  "https://www.changiairport.com/en/at-changi/transport-and-directions/transferring-between-terminals-jewel.html",
+                        "accessDate":  "2026-10-20",
+                        "sourceDate":  "Current terminal-transfer page inspected 2026-10-20",
+                        "method":  "Direct web-page inspection",
+                        "sections":  "Jewel access; public versus transit areas; Skytrain; link bridges; T4 public shuttle; T4 transit shuttle; through-checked requirement; operating hours",
+                        "access":  "inspected",
+                        "title":  "Transfer Between Terminals \u0026 Jewel",
+                        "note":  "Primary spatial-state source. Jewel is in the public area and transit passengers must clear arrival immigration to visit it. Public and transit inter-terminal routes differ, and transit transfer to T4 depends on through-checked status."
+                    },
+                    {
+                        "id":  "S4",
+                        "url":  "https://www.changiairport.com/en/at-changi/facilities-and-services-directory/transit-hotels.html",
+                        "accessDate":  "2026-10-20",
+                        "sourceDate":  "Current hotel inventory inspected 2026-10-20",
+                        "method":  "Direct web-page inspection",
+                        "sections":  "T1 transit hotel; T2 transit hotel; T3 transit hotel; Jewel YOTELAIR; public/transit labels; immigration boundary; operating hours; booking",
+                        "access":  "inspected",
+                        "title":  "Changi Airport Transit Hotels",
+                        "note":  "Accommodation-state source. T1/T2/T3 hotel inventory is located in transit areas while YOTELAIR is listed at Jewel. The transit-hotel guidance explicitly tells qualifying guests not to clear immigration before using the airside hotel."
+                    },
+                    {
+                        "id":  "S5",
+                        "url":  "https://www.changiairport.com/en/at-changi/facilities-and-services-directory/blossom-sats-and-plaza-premium-lounge.html",
+                        "accessDate":  "2026-10-20",
+                        "sourceDate":  "Current lounge page and rates inspected 2026-10-20",
+                        "method":  "Direct web-page inspection",
+                        "sections":  "T4 transit location; lounge rates; boarding-pass/travel-pass/credit-card access; capacity; food and beverage; showers; operator contact",
+                        "access":  "inspected",
+                        "title":  "Blossom – SATS \u0026 Plaza Premium Lounge",
+                        "note":  "Representative lounge-entitlement source. Access is not limited to premium cabin class; walk-in entry can rely on several credential/payment routes, but remains capacity-dependent and requires the relevant transit-area state."
+                    },
+                    {
+                        "id":  "S6",
+                        "url":  "https://www.changiairport.com/en/at-changi/facilities-and-services-directory/hub-and-spoke.html",
+                        "accessDate":  "2026-10-20",
+                        "sourceDate":  "Current page and rates inspected 2026-10-20",
+                        "method":  "Direct web-page inspection",
+                        "sections":  "T2 public area; non-traveller access; boarding-pass discount; pay-per-use showers; gym; fitness; bicycle rental; café and bar",
+                        "access":  "inspected",
+                        "title":  "Hub \u0026 Spoke",
+                        "note":  "Public-area comparison source. The facility is available to non-flyers, while eligible travellers can receive a separate benefit by presenting a valid boarding pass or itinerary within the stated time window."
+                    },
+                    {
+                        "id":  "S7",
+                        "url":  "https://www.changiairport.com/en/at-changi/special-assistance.html",
+                        "accessDate":  "2026-10-20",
+                        "sourceDate":  "Current accessibility page inspected 2026-10-20",
+                        "method":  "Direct web-page inspection",
+                        "sections":  "Care@Changi; airline advance arrangements; Special Assistance immigration lanes; Care Ambassadors; information counters; onboard medical assistance",
+                        "access":  "inspected",
+                        "title":  "Special Assistance \u0026 Traveller Accessibility Support",
+                        "note":  "Responsibility-boundary source. Changi provides airport assistance infrastructure and Care Ambassadors, while travellers needing specified onboard or pre-arranged assistance are directed to coordinate with their airline."
+                    },
+                    {
+                        "id":  "S8",
+                        "url":  "https://www.changiairport.com/en/at-changi/special-assistance/reduced-mobility.html",
+                        "accessDate":  "2026-10-20",
+                        "sourceDate":  "Current page inspected 2026-10-20",
+                        "method":  "Direct web-page inspection",
+                        "sections":  "Barrier-free MRT access; ramps; lifts; accessible toilets; tactile guidance; audio/visual information; service animals; related Care@Changi services",
+                        "access":  "inspected",
+                        "title":  "Travelling with Reduced Mobility",
+                        "note":  "Accessibility-journey source. Public transport and airport-related movement expose several accessibility states and assistance mechanisms, but the page does not verify live fulfilment for an individual passenger."
+                    },
+                    {
+                        "id":  "S9",
+                        "url":  "https://www.changiairport.com/en/experience/tours/free-singapore-tour.html",
+                        "accessDate":  "2026-10-20",
+                        "sourceDate":  "Current tour rules inspected 2026-10-20",
+                        "method":  "Direct web-page inspection",
+                        "sections":  "Transit eligibility; layover duration; immigration constraint; entry visa; through-checked baggage; registration; capacity; tour timing; baggage storage; return responsibility",
+                        "access":  "inspected",
+                        "title":  "Free Singapore Tours",
+                        "note":  "Strong entitlement-state source. A transit passenger can become eligible for a city experience only if flight, layover, baggage, immigration and documentation states align; eligibility does not equal unlimited availability."
+                    },
+                    {
+                        "id":  "S10",
+                        "url":  "https://www.changiairport.com/en/dine-and-shop/dining-directory.html",
+                        "accessDate":  "2026-10-20",
+                        "sourceDate":  "Current dining directory inspected 2026-10-20",
+                        "method":  "Direct web-page inspection",
+                        "sections":  "Dining inventory; terminal; public/transit location filters; operating hours; dietary preference filters; outlet categories",
+                        "access":  "inspected",
+                        "title":  "Dining Directory: Restaurants \u0026 Food",
+                        "note":  "Dining-discovery source. Airport dining is distributed across terminals, Jewel, public and transit areas rather than constituting one universally accessible dining inventory."
+                    },
+                    {
+                        "id":  "S11",
+                        "url":  "https://www.changiairport.com/en/help/changi-app.html",
+                        "accessDate":  "2026-10-20",
+                        "sourceDate":  "Current app page inspected 2026-10-20",
+                        "method":  "Direct web-page inspection",
+                        "sections":  "Real-time flight updates; attractions; dining reservations; payments; rewards; account; flight saving; baggage tracking; bookings",
+                        "access":  "inspected",
+                        "title":  "Changi App",
+                        "note":  "Digital-journey source. The app combines flight information, attraction booking, dining reservations, payments, rewards, account state and baggage tracking but does not establish that every underlying service shares one operational system."
+                    },
+                    {
+                        "id":  "S12",
+                        "url":  "https://www.changiairport.com/en/help/changi-app/baggage-tracker.html",
+                        "accessDate":  "2026-10-20",
+                        "sourceDate":  "Current baggage-tracker page inspected 2026-10-20",
+                        "method":  "Direct web-page inspection",
+                        "sections":  "Departure tracking; arrival tracking; transfer tracking; participating airlines; first/last bag; airline information; airport baggage-system information",
+                        "access":  "inspected",
+                        "title":  "Baggage Tracker on Changi App",
+                        "note":  "Baggage-state source. Tracking spans departure, arrival and transfer but depends on participating airlines and combines airline-provided information with Changi Airport baggage-system information."
+                    },
+                    {
+                        "id":  "S13",
+                        "url":  "https://www.changiairport.com/en/help/contact-us.html",
+                        "accessDate":  "2026-10-20",
+                        "sourceDate":  "Current contact page inspected 2026-10-20",
+                        "method":  "Direct web-page inspection",
+                        "sections":  "Flight status; airline contacts; ground handlers; airline lost baggage; airport lost and found; general feedback; Jewel enquiries; partner follow-up",
+                        "access":  "inspected",
+                        "title":  "Changi Airport Contact Information",
+                        "note":  "Recovery-ownership source. Flight/baggage matters can route to airlines or ground handlers, airport-premises lost property follows an airport route, and Jewel enquiries have a separate contact path."
+                    },
+                    {
+                        "id":  "S14",
+                        "url":  "https://www.changiairport.com/en/fly/flight-information.html",
+                        "accessDate":  "2026-10-20",
+                        "sourceDate":  "Current flight-information page inspected 2026-10-20",
+                        "method":  "Direct web-page inspection",
+                        "sections":  "Arrival/departure status; real-time updates; delays; cancellations; airline responsibility; destination requirements; recommended arrival timing",
+                        "access":  "inspected",
+                        "title":  "Flight Information: Arrivals \u0026 Departures",
+                        "note":  "Disruption-information source. Changi provides real-time airport flight information while directing passengers to their airline for the most current rescheduling or compensation information."
+                    },
+                    {
+                        "id":  "S15",
+                        "url":  "https://nowboarding.changiairport.com/content/jca/en/travellers-information.html",
+                        "accessDate":  "2026-10-20",
+                        "sourceDate":  "Undated; current Jewel traveller page inspected 2026-10-20",
+                        "method":  "Direct web-page inspection",
+                        "sections":  "Jewel attractions; dining; YOTELAIR; baggage storage; early check-in; participating airlines; concierge; GST refund",
+                        "access":  "inspected",
+                        "title":  "Traveller\u0027s Information - Jewel Changi Airport",
+                        "note":  "Jewel participation source. Public-area hospitality includes attractions, hotel, dining, baggage storage and early check-in, but individual services can have their own access, luggage and airline-eligibility conditions."
+                    },
+                    {
+                        "id":  "S16",
+                        "url":  "https://rewards.changiairport.com/en/privacy-policy.html",
+                        "accessDate":  "2026-10-20",
+                        "sourceDate":  "Updated 2026-05-11; inspected 2026-10-20",
+                        "method":  "Direct web-page inspection",
+                        "sections":  "CAG Group; identity; payment; physical access; immigration-related data; customer touchpoints; airlines; government agencies; service providers; lounge operators; Jewel",
+                        "access":  "inspected",
+                        "title":  "Changi Airport Privacy Policy",
+                        "note":  "Data-relationship source. CAG identifies passenger and physical-access data and describes potential information relationships across CAG Group entities, airlines, government agencies, lounge operators, concessionaires and service providers."
+                    },
+                    {
+                        "id":  "S17",
+                        "url":  "https://www.changiairport.com/content/dam/cag/footer/conditions-of-use/CAG%20Conditions%20of%20Use%202017.pdf",
+                        "accessDate":  "2026-10-20",
+                        "sourceDate":  "2017 document; current official link inspected 2026-10-20",
+                        "method":  "Direct PDF text inspection",
+                        "sections":  "Airport/air-carrier responsibilities; reduced-capacity operations; passenger contact; disruption management; welfare; food; accommodation; re-ticketing; lost-baggage arrangements",
+                        "access":  "inspected",
+                        "title":  "CAG Conditions of Use 2017",
+                        "note":  "Role-boundary document. It places specified disruption-management, passenger welfare, accommodation, re-ticketing and lost-baggage planning obligations on air carriers while also describing CAG control responsibilities. The document is dated 2017 and is not treated as proof that every current operational procedure is unchanged."
+                    }
+                ]
+}

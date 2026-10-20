@@ -1,0 +1,558 @@
+{
+    "schemaVersion":  1,
+    "dimensions":  [
+                       {
+                           "dimension":  "discovery",
+                           "question":  "How clearly can a prospective Changi user determine which airport experience is actually available to them based on passenger state, terminal, public/transit location, immigration status, itinerary, baggage state and service-specific eligibility?",
+                           "scopeChange":  "None. Initial Case #40 public-evidence scope. The airport ecosystem is studied as hospitality infrastructure around passenger movement rather than as an airline product.",
+                           "sources":  [
+                                           "S1",
+                                           "S2",
+                                           "S3",
+                                           "S4",
+                                           "S5",
+                                           "S6",
+                                           "S9",
+                                           "S10",
+                                           "S15"
+                                       ],
+                           "observations":  [
+                                                {
+                                                    "text":  "The public airport interface explicitly distinguishes arriving, departing, transiting and visiting user states.",
+                                                    "sources":  [
+                                                                    "S1"
+                                                                ]
+                                                },
+                                                {
+                                                    "text":  "Transit eligibility depends on same-itinerary and through-checked-baggage conditions rather than physical presence in the airport alone.",
+                                                    "sources":  [
+                                                                    "S2"
+                                                                ]
+                                                },
+                                                {
+                                                    "text":  "Jewel, transit hotels, lounges and public-area facilities occupy materially different access states.",
+                                                    "sources":  [
+                                                                    "S3",
+                                                                    "S4",
+                                                                    "S5",
+                                                                    "S6"
+                                                                ]
+                                                },
+                                                {
+                                                    "text":  "Dining and experiences are distributed by terminal and public/transit location rather than forming one universally accessible inventory.",
+                                                    "sources":  [
+                                                                    "S9",
+                                                                    "S10",
+                                                                    "S15"
+                                                                ]
+                                                }
+                                            ],
+                           "unanswered":  [
+                                              "The evidence does not establish how successfully a first-time passenger understands public versus transit access before selecting a facility.",
+                                              "No systematic mobile-versus-desktop discovery audit has been completed.",
+                                              "No evidence establishes which hospitality discovery pathway creates the highest commercial contribution."
+                                          ],
+                           "rating":  "partial",
+                           "reason":  "Public information exposes passenger, terminal and access-state distinctions, but decision clarity and commercial consequences remain unverified.",
+                           "nextEvidence":  "Compare representative discovery paths for a transit hotel, public-area hotel/service, lounge, dining outlet, Jewel attraction and transit-only experience."
+                       },
+                       {
+                           "dimension":  "reservation",
+                           "question":  "What exactly becomes committed when a traveller books or accesses airport hospitality whose eligibility also depends on flight, itinerary, immigration, terminal, baggage, capacity or passenger-status conditions?",
+                           "scopeChange":  "The airport does not own the underlying airline reservation in this study. Reservation scope focuses on airport hospitality commitments and entitlement dependencies.",
+                           "sources":  [
+                                           "S2",
+                                           "S4",
+                                           "S5",
+                                           "S6",
+                                           "S9",
+                                           "S11",
+                                           "S15",
+                                           "S17"
+                                       ],
+                           "observations":  [
+                                                {
+                                                    "text":  "A transit-hotel booking remains conditional on the guest preserving the correct airside immigration state.",
+                                                    "sources":  [
+                                                                    "S4"
+                                                                ]
+                                                },
+                                                {
+                                                    "text":  "Representative lounge access can be walk-in and credential-based while still remaining subject to capacity.",
+                                                    "sources":  [
+                                                                    "S5"
+                                                                ]
+                                                },
+                                                {
+                                                    "text":  "The Free Singapore Tour supports advance reservation but retains passenger, documentation, baggage, timing and availability conditions.",
+                                                    "sources":  [
+                                                                    "S9"
+                                                                ]
+                                                },
+                                                {
+                                                    "text":  "The Changi App supports booking or reservation functions for attractions and dining without establishing one shared inventory architecture across those services.",
+                                                    "sources":  [
+                                                                    "S11"
+                                                                ]
+                                                },
+                                                {
+                                                    "text":  "Air-carrier disruption and re-ticketing responsibility is separately identified in the official airport conditions document.",
+                                                    "sources":  [
+                                                                    "S17"
+                                                                ]
+                                                }
+                                            ],
+                           "unanswered":  [
+                                              "No transit-hotel, lounge, attraction, dining or tour transaction was completed.",
+                                              "Cancellation, refund, no-show, capacity-failure and wrong-access-state recovery were not systematically tested.",
+                                              "The evidence does not establish whether separate airport hospitality reservations share one inventory, identity or recovery system."
+                                          ],
+                           "rating":  "partial",
+                           "reason":  "Multiple airport hospitality commitments are visible, but their technical coupling, modification rules and failure recovery remain incomplete.",
+                           "nextEvidence":  "Inspect booking conditions for representative hotel, lounge and attraction/tour products while keeping airline reservation ownership separate."
+                       },
+                       {
+                           "dimension":  "pre-arrival",
+                           "question":  "What must a passenger resolve before reaching a Changi hospitality service, including flight status, terminal, itinerary, baggage, immigration, accessibility, onward boarding pass and service eligibility?",
+                           "scopeChange":  "None. Initial Case #40 public-evidence scope.",
+                           "sources":  [
+                                           "S2",
+                                           "S3",
+                                           "S7",
+                                           "S8",
+                                           "S11",
+                                           "S12",
+                                           "S14",
+                                           "S15"
+                                       ],
+                           "observations":  [
+                                                {
+                                                    "text":  "Transit status requires specific itinerary and checked-baggage conditions, and some connecting passengers may instead need to enter Singapore and re-check.",
+                                                    "sources":  [
+                                                                    "S2"
+                                                                ]
+                                                },
+                                                {
+                                                    "text":  "Jewel access for a transit passenger requires arrival-immigration clearance, while some transit hospitality requires remaining airside.",
+                                                    "sources":  [
+                                                                    "S3"
+                                                                ]
+                                                },
+                                                {
+                                                    "text":  "Special-assistance preparation can require advance airline coordination even though airport assistance infrastructure is also available.",
+                                                    "sources":  [
+                                                                    "S7",
+                                                                    "S8"
+                                                                ]
+                                                },
+                                                {
+                                                    "text":  "Flight, terminal and baggage information can be surfaced digitally before or during the airport journey.",
+                                                    "sources":  [
+                                                                    "S11",
+                                                                    "S12",
+                                                                    "S14"
+                                                                ]
+                                                },
+                                                {
+                                                    "text":  "Jewel early check-in and baggage services depend on their own eligibility and participating-airline conditions.",
+                                                    "sources":  [
+                                                                    "S15"
+                                                                ]
+                                                }
+                                            ],
+                           "unanswered":  [
+                                              "Actual airline confirmations, hotel confirmations, lounge confirmations and airport notifications were not inspected end-to-end for one passenger journey.",
+                                              "The evidence does not establish whether accessibility, baggage, hotel and flight-status data remain synchronized across organisations.",
+                                              "Live disruption communication before airport arrival remains untested."
+                                          ],
+                           "rating":  "partial",
+                           "reason":  "Pre-arrival preparation is visibly multi-party and state-dependent, but cross-system continuity remains unverified.",
+                           "nextEvidence":  "Map one departing, one arriving and one connecting passenger\u0027s required pre-arrival information and responsible parties."
+                       },
+                       {
+                           "dimension":  "arrival",
+                           "question":  "Where does responsibility shift when a passenger arrives at Changi and must resolve immigration, transit status, terminal movement, baggage, onward boarding, accessibility and hospitality access?",
+                           "scopeChange":  "Arrival includes both arrival into Singapore and arrival into a connecting/transit operating state.",
+                           "sources":  [
+                                           "S2",
+                                           "S3",
+                                           "S7",
+                                           "S8",
+                                           "S12",
+                                           "S13",
+                                           "S15"
+                                       ],
+                           "observations":  [
+                                                {
+                                                    "text":  "A connecting passenger with an onward boarding pass can proceed toward the next gate, while one without it may first need a transfer desk.",
+                                                    "sources":  [
+                                                                    "S2"
+                                                                ]
+                                                },
+                                                {
+                                                    "text":  "Terminal movement differs by public/transit state and by terminal, with T4 requiring different transfer infrastructure from T1-T3.",
+                                                    "sources":  [
+                                                                    "S3"
+                                                                ]
+                                                },
+                                                {
+                                                    "text":  "Passenger assistance can involve airport Care Ambassadors, information counters and airline-arranged services rather than one universal assistance owner.",
+                                                    "sources":  [
+                                                                    "S7",
+                                                                    "S8"
+                                                                ]
+                                                },
+                                                {
+                                                    "text":  "Baggage information can cross airport and airline systems, while baggage enquiries and airport-premises lost property route through different recovery channels.",
+                                                    "sources":  [
+                                                                    "S12",
+                                                                    "S13"
+                                                                ]
+                                                }
+                                            ],
+                           "unanswered":  [
+                                              "No immigration queue, transfer desk, baggage failure, terminal-transfer failure or assistance handoff was directly observed.",
+                                              "Recovery ownership for a passenger with a valid flight but incompatible baggage or access state remains incompletely mapped.",
+                                              "Actual transition from flight arrival to a lounge, hotel, Jewel or onward gate has not been observed."
+                                          ],
+                           "rating":  "partial",
+                           "reason":  "Arrival clearly contains independent identity, baggage, mobility and access states, but live handoff quality remains unverified.",
+                           "nextEvidence":  "Map a same-itinerary transfer, a self-managed transfer and a passenger entering Singapore to use Jewel, including failure branches."
+                       },
+                       {
+                           "dimension":  "stay",
+                           "question":  "How do public/transit location, terminal, flight state, lounge access, hotel access, attractions, assistance and digital services coexist while a traveller spends time within the airport ecosystem?",
+                           "scopeChange":  "The required KHDS stay dimension is interpreted as airport dwell/participation for the airport institution, including layover, waiting and hospitality use.",
+                           "sources":  [
+                                           "S2",
+                                           "S3",
+                                           "S4",
+                                           "S5",
+                                           "S6",
+                                           "S7",
+                                           "S9",
+                                           "S11",
+                                           "S15"
+                                       ],
+                           "observations":  [
+                                                {
+                                                    "text":  "Airport dwell can include hotels, lounges, rest areas, attractions, dining and tours, but access depends on passenger and location state.",
+                                                    "sources":  [
+                                                                    "S2",
+                                                                    "S4",
+                                                                    "S5",
+                                                                    "S9",
+                                                                    "S15"
+                                                                ]
+                                                },
+                                                {
+                                                    "text":  "Public and transit areas can provide different mobility and hospitality options even within the same airport.",
+                                                    "sources":  [
+                                                                    "S3",
+                                                                    "S6"
+                                                                ]
+                                                },
+                                                {
+                                                    "text":  "The Changi App can provide one digital surface across several journey and commercial functions without proving that the underlying operating systems are unified.",
+                                                    "sources":  [
+                                                                    "S11"
+                                                                ]
+                                                },
+                                                {
+                                                    "text":  "Assistance during airport participation can cross airport and airline responsibility boundaries.",
+                                                    "sources":  [
+                                                                    "S7"
+                                                                ]
+                                                }
+                                            ],
+                           "unanswered":  [
+                                              "No representative layover or airport-dwell journey was observed.",
+                                              "The evidence does not establish re-entry, queue, capacity or recovery behaviour across all hospitality spaces.",
+                                              "Cross-terminal service continuity and handoff performance remain unverified."
+                                          ],
+                           "rating":  "partial",
+                           "reason":  "The airport offers a broad hospitality ecosystem, but service continuity across access states and operators is not operationally established.",
+                           "nextEvidence":  "Compare one airside layover journey and one landside/public-area airport-dwell journey with explicit entitlement and responsibility states."
+                       },
+                       {
+                           "dimension":  "dining",
+                           "question":  "How does dining access vary by terminal, public/transit state, lounge entitlement, traveller status, operating hours and reservation/payment pathway?",
+                           "scopeChange":  "None. Initial Case #40 public-evidence scope.",
+                           "sources":  [
+                                           "S5",
+                                           "S6",
+                                           "S9",
+                                           "S10",
+                                           "S11",
+                                           "S15"
+                                       ],
+                           "observations":  [
+                                                {
+                                                    "text":  "Dining inventory is distributed across terminals, Jewel and public/transit operating areas.",
+                                                    "sources":  [
+                                                                    "S10",
+                                                                    "S15"
+                                                                ]
+                                                },
+                                                {
+                                                    "text":  "A lounge can bundle food and beverage with a separate lounge-access entitlement.",
+                                                    "sources":  [
+                                                                    "S5"
+                                                                ]
+                                                },
+                                                {
+                                                    "text":  "A public-area venue can serve non-travellers while giving travellers a separate boarding-pass-linked commercial benefit.",
+                                                    "sources":  [
+                                                                    "S6"
+                                                                ]
+                                                },
+                                                {
+                                                    "text":  "The Changi App advertises dining discovery and reservation functions, creating a digital layer over separately operated outlets.",
+                                                    "sources":  [
+                                                                    "S11"
+                                                                ]
+                                                }
+                                            ],
+                           "unanswered":  [
+                                              "No meal, lounge dining service or restaurant reservation was completed.",
+                                              "The evidence does not establish queue times, sold-out states, dietary-safety execution or cross-terminal dining recovery.",
+                                              "No comparative contribution data exists for public-area, transit, lounge or app-mediated dining."
+                                          ],
+                           "rating":  "partial",
+                           "reason":  "Dining availability is visibly state- and location-dependent, but fulfilment, safety, capacity and economics remain unverified.",
+                           "nextEvidence":  "Inspect representative public, transit and lounge dining pathways and separate discovery, reservation, access and fulfilment states."
+                       },
+                       {
+                           "dimension":  "departure",
+                           "question":  "Where does the airport hospitality relationship end when flight departure, baggage, terminal transfer, disruption, airline recovery, digital tracking and post-service enquiries can continue beyond one physical space?",
+                           "scopeChange":  "Departure includes departure from a hospitality service, departure from Changi on a flight and unresolved responsibilities that can persist after physical movement.",
+                           "sources":  [
+                                           "S2",
+                                           "S3",
+                                           "S11",
+                                           "S12",
+                                           "S13",
+                                           "S14",
+                                           "S17"
+                                       ],
+                           "observations":  [
+                                                {
+                                                    "text":  "A departing or connecting passenger may still need security, terminal movement and onward-gate activity after leaving a hospitality service.",
+                                                    "sources":  [
+                                                                    "S2",
+                                                                    "S3"
+                                                                ]
+                                                },
+                                                {
+                                                    "text":  "Baggage tracking can continue through loading and transfer states beyond the passenger\u0027s direct possession of the bag.",
+                                                    "sources":  [
+                                                                    "S12"
+                                                                ]
+                                                },
+                                                {
+                                                    "text":  "For flight delay or cancellation, Changi provides status information while rescheduling and compensation remain airline-facing matters.",
+                                                    "sources":  [
+                                                                    "S14"
+                                                                ]
+                                                },
+                                                {
+                                                    "text":  "The official conditions document assigns air carriers specified disruption, welfare, accommodation, re-ticketing and lost-baggage planning responsibilities.",
+                                                    "sources":  [
+                                                                    "S17"
+                                                                ]
+                                                },
+                                                {
+                                                    "text":  "Post-service enquiries can route differently to airlines, airport lost-and-found, Jewel or other channels.",
+                                                    "sources":  [
+                                                                    "S13"
+                                                                ]
+                                                }
+                                            ],
+                           "unanswered":  [
+                                              "No missed connection, cancelled flight, missing bag, failed transfer or post-departure complaint was observed.",
+                                              "The evidence does not establish how quickly responsibility transfers among CAG, airlines, handlers and hospitality operators during disruption.",
+                                              "The 2017 Conditions of Use document requires current operational corroboration before being treated as a complete present-day operating description."
+                                          ],
+                           "rating":  "partial",
+                           "reason":  "Departure strongly exposes persistent and distributed responsibility, but actual recovery performance remains unverified.",
+                           "nextEvidence":  "Map disruption ownership for delay, cancellation, missed connection and baggage failure using current public evidence and operator-specific routes."
+                       },
+                       {
+                           "dimension":  "atmosphere",
+                           "question":  "How is the airport\u0027s hospitality atmosphere produced across transit hotels, lounges, public facilities, dining, Jewel, attractions and passenger-only spaces while access control remains active?",
+                           "scopeChange":  "None. Initial Case #40 public-evidence scope.",
+                           "sources":  [
+                                           "S4",
+                                           "S5",
+                                           "S6",
+                                           "S9",
+                                           "S10",
+                                           "S15"
+                                       ],
+                           "observations":  [
+                                                {
+                                                    "text":  "The institution contains materially different rest, lounge, public recreation, dining and attraction environments rather than one uniform airport atmosphere.",
+                                                    "sources":  [
+                                                                    "S4",
+                                                                    "S5",
+                                                                    "S6",
+                                                                    "S10",
+                                                                    "S15"
+                                                                ]
+                                                },
+                                                {
+                                                    "text":  "Some hospitality environments are inseparable from passenger or immigration state, while public-area environments can also serve non-travellers.",
+                                                    "sources":  [
+                                                                    "S4",
+                                                                    "S5",
+                                                                    "S6",
+                                                                    "S9"
+                                                                ]
+                                                },
+                                                {
+                                                    "text":  "Jewel intentionally combines attractions, retail, dining, hotel and luggage-related services in a public-area hospitality environment.",
+                                                    "sources":  [
+                                                                    "S15"
+                                                                ]
+                                                }
+                                            ],
+                           "unanswered":  [
+                                              "Representative crowding, noise, privacy, rest quality and atmosphere across terminals were not directly observed.",
+                                              "No comparison of disruption-state versus normal-state atmosphere was completed.",
+                                              "The evidence does not establish whether intended atmosphere remains hospitable under high congestion or access failure."
+                                          ],
+                           "rating":  "partial",
+                           "reason":  "Distinct hospitality environments are visible, but representative lived conditions remain unverified.",
+                           "nextEvidence":  "Compare one transit rest environment, one paid lounge, one public-area facility and Jewel using bounded public evidence."
+                       },
+                       {
+                           "dimension":  "photography",
+                           "question":  "What can official imagery establish about terminal relationships, public/transit access, hotels, lounges, dining, Jewel, attractions and mobility, and what operational conditions remain invisible?",
+                           "scopeChange":  "None. Initial Case #40 public-evidence scope.",
+                           "sources":  [
+                                           "S1",
+                                           "S3",
+                                           "S4",
+                                           "S5",
+                                           "S6",
+                                           "S9",
+                                           "S10",
+                                           "S15"
+                                       ],
+                           "observations":  [
+                                                {
+                                                    "text":  "The inspected source set identifies materially different visual subjects including terminals, transfer infrastructure, transit hotels, lounges, public facilities, dining and Jewel attractions.",
+                                                    "sources":  [
+                                                                    "S1",
+                                                                    "S3",
+                                                                    "S4",
+                                                                    "S5",
+                                                                    "S6",
+                                                                    "S10",
+                                                                    "S15"
+                                                                ]
+                                                },
+                                                {
+                                                    "text":  "Product and location distinctions require imagery to be interpreted by terminal and public/transit state rather than as generic Changi imagery.",
+                                                    "sources":  [
+                                                                    "S3",
+                                                                    "S4",
+                                                                    "S5",
+                                                                    "S9"
+                                                                ]
+                                                }
+                                            ],
+                           "unanswered":  [
+                                              "No systematic image-by-image photographic audit has been completed.",
+                                              "Official imagery does not establish queueing, crowding, security processing, accessibility fulfilment, baggage handoff or disruption recovery.",
+                                              "Image recency and representative ordinary operating conditions remain incompletely established."
+                                          ],
+                           "rating":  "partial",
+                           "reason":  "The visual subjects are clear, but photographic evidence has not yet been systematically audited.",
+                           "nextEvidence":  "Perform a bounded image audit with terminal, public/transit, passenger-state and service-state labels."
+                       },
+                       {
+                           "dimension":  "story",
+                           "question":  "Does Singapore Changi Airport require a distinct hospitality responsibility architecture because passenger identity, flight status, terminal, airside/landside access, immigration, security, baggage and hospitality services cross multiple control boundaries, or can the observed structure be sufficiently explained as ordinary airport operations with passenger amenities layered on top?",
+                           "scopeChange":  "None. Initial Case #40 public-evidence scope. Ordinary airport operations plus passenger amenities remains the active competing explanation.",
+                           "sources":  [
+                                           "S1",
+                                           "S2",
+                                           "S3",
+                                           "S4",
+                                           "S5",
+                                           "S6",
+                                           "S7",
+                                           "S8",
+                                           "S9",
+                                           "S10",
+                                           "S11",
+                                           "S12",
+                                           "S13",
+                                           "S14",
+                                           "S15",
+                                           "S16",
+                                           "S17"
+                                       ],
+                           "observations":  [
+                                                {
+                                                    "text":  "One airport brand contains materially different arriving, departing, transiting and visiting passenger or visitor states.",
+                                                    "sources":  [
+                                                                    "S1"
+                                                                ]
+                                                },
+                                                {
+                                                    "text":  "Physical presence at Changi does not create universal entitlement because itinerary, baggage, immigration, terminal and public/transit state can alter what the person may access.",
+                                                    "sources":  [
+                                                                    "S2",
+                                                                    "S3",
+                                                                    "S4",
+                                                                    "S5",
+                                                                    "S9"
+                                                                ]
+                                                },
+                                                {
+                                                    "text":  "Airport hospitality can cross CAG, airline, government, lounge, hotel, concessionaire and other provider relationships rather than remaining under one apparent service owner.",
+                                                    "sources":  [
+                                                                    "S7",
+                                                                    "S12",
+                                                                    "S13",
+                                                                    "S16",
+                                                                    "S17"
+                                                                ]
+                                                },
+                                                {
+                                                    "text":  "A unified digital surface can expose flight, baggage, booking, dining, payment and reward functions without proving one underlying operational system.",
+                                                    "sources":  [
+                                                                    "S11",
+                                                                    "S12"
+                                                                ]
+                                                },
+                                                {
+                                                    "text":  "Flight disruption, baggage recovery and passenger welfare expose explicit responsibility boundaries between airport and airline functions.",
+                                                    "sources":  [
+                                                                    "S13",
+                                                                    "S14",
+                                                                    "S17"
+                                                                ]
+                                                },
+                                                {
+                                                    "text":  "Public-area hospitality can serve visitors with no flight while other services require specific passenger and access states.",
+                                                    "sources":  [
+                                                                    "S6",
+                                                                    "S15"
+                                                                ]
+                                                }
+                                            ],
+                           "unanswered":  [
+                                              "The evidence does not establish whether Changi internally coordinates these states through one architecture or through conventional airport, airline and concession systems.",
+                                              "Live recovery across immigration, security, transfer, baggage, accessibility, lounge, hotel and flight disruption remains unverified.",
+                                              "No public evidence establishes causal performance superiority, comparative profitability or net contribution across hospitality pathways.",
+                                              "The 2017 Conditions of Use document requires bounded interpretation and current corroboration for any present-day operational claim."
+                                          ],
+                           "rating":  "partial",
+                           "reason":  "Changi strongly exposes cross-system identity, entitlement and responsibility questions, but ordinary airport operations plus passenger amenities remains a sufficient competing explanation at public-evidence scope.",
+                           "nextEvidence":  "Test whether passenger identity, entitlement, information and recovery remain legible across airline, airport, immigration, baggage, terminal and hospitality transitions without assuming one integrated architecture."
+                       }
+                   ]
+}
