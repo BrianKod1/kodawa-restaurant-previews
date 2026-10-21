@@ -5550,13 +5550,13 @@ They should not be treated as substitutes for operational evidence.
 
 ### Track C boundary
 
-The post–Case #40 research synthesis decision does not complete a Track C build.
+The post–Case #40 research synthesis decision does not itself complete the Cases #31–40 Track C build.
 
-The Cases #21–30 Track C build remains pending.
+Avenlo House is the completed Track C synthesis build representing KHDS Cases #21–30.
 
-The Cases #31–40 Track C build is also pending.
+The Cases #31–40 Track C build remains pending.
 
-No fictional synthesis build can independently change research maturity.
+Track C implementation status does not independently change research maturity.
 
 ### Next synthesis gate
 

@@ -4,13 +4,13 @@
 
 Active
 
-Completed synthesis builds: **1**
+Completed synthesis builds: **2**
 
-Latest synthesis build: **Third Rain**
+Latest synthesis build: **Avenlo House**
 
 Completed research synthesis gates: **Cases #21–30 and #31–40**
 
-Track C build queue: **Cases #21–30 pending; Cases #31–40 pending**
+Track C build queue: **Cases #31–40 pending**
 
 Next synthesis gate: **After KHDS Case #50**
 
@@ -168,7 +168,7 @@ The intended result is:
 |---|---:|---|---|---|
 | Foundation cycle | #1–10 | No formal Track C build | Not applicable | Historical research foundation |
 | Cycle 2 | #11–20 | Third Rain | Direct reservation demonstration | Ready for Showcase integration |
-| Cycle 3 | #21–30 | Pending Track C build | Not selected | Research synthesis complete; build pending |
+| Cycle 3 | #21–30 | Avenlo House | Not reconciled in KHDS record | Build complete; OUniverse case study created |
 | Cycle 4 | #31–40 | Pending Track C build | Not selected | Research synthesis complete; build pending |
 
 ## Synthesis Build #1 — Third Rain
@@ -197,17 +197,33 @@ Third Rain does not change any formal KHDS pattern maturity or confidence.
 
 **Research status:** Complete
 **Research synthesis gate:** Complete
-**Track C build:** Pending
-**Application integration:** Not selected
-**Showcase status:** Not started
+**Track C build:** Avenlo House — Complete
+**Application integration:** Not reconciled in KHDS record
+**Showcase status:** OUniverse case study built; live publication status not reconciled here
 
 Cases #21–30 established the first institution-transfer cycle beyond the original restaurant research base.
 
 The post–Case #30 research synthesis retained Role-Partitioned / Multi-Relationship Hospitality Architecture as provisional comparison architecture and retained Membership-Gated / Recurring-Entitlement Hospitality Architecture as a narrower subtype.
 
-The fictional hospitality synthesis build required by Track C has not yet been created.
+Avenlo House is the completed Track C synthesis build for KHDS Cases #21–30.
 
-Research synthesis completion must not be confused with Track C implementation completion.
+The implementation record supplied for the build is OUniverse commit `156aa7f` — `Add Avenlo House case study`.
+
+Build completion does not independently change formal KHDS pattern maturity or confidence.
+
+## Synthesis Build #2 — Avenlo House
+
+**Research basis:** KHDS Cases #21–30
+**Status:** Website / case-study build complete
+**Implementation record:** OUniverse commit `156aa7f` — `Add Avenlo House case study`
+**Application integration:** Not reconciled in the KHDS record
+**Live / Showcase status:** Not reconciled in the KHDS record
+
+Avenlo House is the Track C implementation produced from the Cases #21–30 research cycle.
+
+Its production completion is implementation evidence only.
+
+It does not independently promote, validate or change confidence for any KHDS research pattern.
 
 ## Cycle 4 — Cases #31–40
 
@@ -230,20 +246,18 @@ The Track C build for Cases #31–40 has not yet been created.
 The next research synthesis gate is after Case #50.
 ## Current Boundary
 
-Third Rain is the only completed formal Track C synthesis build.
+Two formal Track C synthesis builds are complete:
 
-Third Rain is:
+- Third Rain — KHDS Cases #11–20;
+- Avenlo House — KHDS Cases #21–30.
 
-- a fictional restaurant;
-- a KHDS Track C synthesis build;
-- a working hospitality website;
-- and a Kodawa Labs Showcase candidate.
+Third Rain is a working hospitality website and Kodawa Labs Showcase candidate.
 
-The Cases #21–30 Track C build is pending.
+Avenlo House has a completed OUniverse case-study build. Its application-integration and live / Showcase metadata have not yet been reconciled into the KHDS record.
 
 The Cases #31–40 Track C build is pending.
 
-Neither pending build has:
+That pending build does not yet have:
 
 - a locked concept;
 - an application selection;
