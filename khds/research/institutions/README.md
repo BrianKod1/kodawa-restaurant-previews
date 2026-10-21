@@ -4,38 +4,61 @@ Status
 
 <!-- KHDS-CURRENT-START -->
 
-Latest completed case: #30 — The Social Hub Amsterdam City
-Completed institution dossiers: 10
+Latest completed case: #40 — Singapore Changi Airport
+Completed institution dossiers: 20
 Current research: None
-Next case: #31 — unselected and unstarted; research not authorized.
-Institution comparison: Complete through Cases #21–30
-Canonical governance: Post–Case #30 synthesis gate complete; Role-Partitioned / Multi-Relationship Hospitality Architecture retained as provisional comparison architecture below formal pattern maturity; Membership-Gated / Recurring-Entitlement Hospitality Architecture retained as a narrower subtype; no formal pattern or confidence movement
+Next case: #41 — unselected and unstarted; research not authorized.
+Institution comparison: Complete through Cases #21–40
+Canonical governance: Post–Case #40 synthesis gate complete; Role-Partitioned / Multi-Relationship Hospitality Architecture retained as provisional comparison architecture below formal pattern maturity; Membership-Gated / Recurring-Entitlement Hospitality Architecture retained as a narrower subtype; Mobile / Multi-System Hospitality Architecture retained as provisional comparison architecture; Nested Hospitality Dependency and Journey-State / Service-State Separation retained as non-canonical research directions; no formal pattern or confidence movement
 Pattern totals: 26 Candidate / 8 Emerging / 1 Partially Supported / 0 Validated / 0 research-derived Principles
 Candidate confidence: 9 High / 8 Medium-High / 9 Medium; unchanged
 Track B validation cases: 1
-Next synthesis gate: After Case #40
-Research scope: Public evidence; representative experience, operational enforcement, accessibility fulfilment, dietary safety, belonging, privacy/security outcomes, live inventory, recovery effectiveness, financial performance, AI discoverability and causal outcomes remain unverified
-Canonical update: 2026-09-28
+Next synthesis gate: After Case #50
+Research scope: Public evidence remains structurally informative but does not verify representative experience, operational enforcement, accessibility fulfilment, dietary safety, belonging, privacy/security outcomes, live inventory, cross-system identity continuity, recovery ownership or effectiveness, financial performance, AI discoverability or causal outcomes
+Canonical update: 2026-10-21
 
 <!-- KHDS-CURRENT-END -->
 
 Completed cases:
 
-Case #21 — Fogo Island Inn: boutique-scale hotel / inn; public-evidence scope.
-
-Case #22 — Sky Lagoon: geothermal bathing and wellness venue; public-evidence scope.
-
-Case #23 — Reffen: open-air, multi-operator food-and-cultural venue; public-evidence scope.
-
-Case #24 — Time Out Market Lisboa: indoor, publisher-curated, multi-operator food-and-cultural market; public-evidence scope.
-
-Case #25 — Generator Copenhagen: hostel / social-stay institution; public-evidence scope.
+Case #21 — Fogo Island Inn — hotels.
+Case #22 — Sky Lagoon — wellness.
+Case #23 — Reffen — venues.
+Case #24 — Time Out Market Lisboa — venues.
+Case #25 — Generator Copenhagen — hostels.
+Case #26 — Scarlet Lady — cruises.
+Case #27 — Soho House Toronto — members-clubs.
+Case #28 — The Arts Club London — members-clubs.
+Case #29 — Casa Cipriani New York — members-clubs.
+Case #30 — The Social Hub Amsterdam City — mixed-use-hospitality.
+Case #31 — Moxy NYC Times Square — hotels.
+Case #32 — Plaza Premium Lounge Toronto Pearson Terminal 1 Domestic — airport-lounges.
+Case #33 — YOTELAIR Istanbul Airport (Airside) — transit-hotels.
+Case #34 — The Venetian Resort Las Vegas — integrated-resorts.
+Case #35 — Great Wolf Lodge Niagara Falls — waterpark-resorts.
+Case #36 — Disney's Grand Floridian Resort & Spa — theme-park-resorts.
+Case #37 — Esalen Institute — retreats.
+Case #38 — Venice Simplon-Orient-Express — luxury-trains.
+Case #39 — Tottenham Hotspur Stadium — stadium-hospitality.
+Case #40 — Singapore Changi Airport — airport-hospitality.
 
 Cross-institution comparison:
 
-KHDS Institution-Comparison Architecture: populated through Cases #21–25.
+KHDS Institution-Comparison Architecture is populated through Cases #21–40.
 
-Older Case #21–24 directions and handoffs retained elsewhere in this file are historical records. This current block supersedes their earlier active states.
+The post–Case #40 synthesis gate is complete.
+
+Role-Partitioned / Multi-Relationship Hospitality Architecture remains provisional below formal pattern maturity.
+
+Membership-Gated / Recurring-Entitlement Hospitality Architecture remains a narrower subtype.
+
+Mobile / Multi-System Hospitality Architecture remains provisional below formal pattern maturity.
+
+No formal pattern or confidence movement occurred.
+
+Case #41 remains unselected, unstarted and unauthorized.
+
+Older case-specific directions and handoffs retained elsewhere in this file are historical records. The KHDS current block supersedes their earlier active states.
 
 Purpose
 

@@ -4,18 +4,18 @@
 
 <!-- KHDS-CURRENT-START -->
 
-Latest completed case: #30 — The Social Hub Amsterdam City
-Completed institution dossiers: 10
+Latest completed case: #40 — Singapore Changi Airport
+Completed institution dossiers: 20
 Current research: None
-Next case: #31 — unselected and unstarted; research not authorized.
-Institution comparison: Complete through Cases #21–30
-Canonical governance: Post–Case #30 synthesis gate complete; Role-Partitioned / Multi-Relationship Hospitality Architecture retained as provisional comparison architecture below formal pattern maturity; Membership-Gated / Recurring-Entitlement Hospitality Architecture retained as a narrower subtype; no formal pattern or confidence movement
+Next case: #41 — unselected and unstarted; research not authorized.
+Institution comparison: Complete through Cases #21–40
+Canonical governance: Post–Case #40 synthesis gate complete; Role-Partitioned / Multi-Relationship Hospitality Architecture retained as provisional comparison architecture below formal pattern maturity; Membership-Gated / Recurring-Entitlement Hospitality Architecture retained as a narrower subtype; Mobile / Multi-System Hospitality Architecture retained as provisional comparison architecture; Nested Hospitality Dependency and Journey-State / Service-State Separation retained as non-canonical research directions; no formal pattern or confidence movement
 Pattern totals: 26 Candidate / 8 Emerging / 1 Partially Supported / 0 Validated / 0 research-derived Principles
 Candidate confidence: 9 High / 8 Medium-High / 9 Medium; unchanged
 Track B validation cases: 1
-Next synthesis gate: After Case #40
-Research scope: Public evidence; representative experience, operational enforcement, accessibility fulfilment, dietary safety, belonging, privacy/security outcomes, live inventory, recovery effectiveness, financial performance, AI discoverability and causal outcomes remain unverified
-Canonical update: 2026-09-28
+Next synthesis gate: After Case #50
+Research scope: Public evidence remains structurally informative but does not verify representative experience, operational enforcement, accessibility fulfilment, dietary safety, belonging, privacy/security outcomes, live inventory, cross-system identity continuity, recovery ownership or effectiveness, financial performance, AI discoverability or causal outcomes
+Canonical update: 2026-10-21
 
 <!-- KHDS-CURRENT-END -->
 
@@ -18869,3 +18869,114 @@ The next synthesis gate is after Case #40.
 **The maturity threshold remains intact.**
 
 **Evidence wins.**
+
+## Post–Case #40 synthesis gate — canonical governance decision
+
+### Formal movement
+
+The approved Cases #31–40 synthesis produces no formal pattern or confidence movement.
+
+Candidate promotions: 0
+Emerging promotions: 0
+Confidence increases: 0
+Confidence decreases: 0
+Demotions: 0
+Renames: 0
+Merges: 0
+Validated promotions: 0
+Research-derived Principle promotions: 0
+New formal patterns: 0
+
+Canonical totals remain:
+
+Candidate: 26
+Emerging: 8
+Partially Supported: 1
+Validated: 0
+Research-Derived Principles: 0
+
+Candidate confidence remains:
+
+High: 9
+Medium-High: 8
+Medium: 9
+
+### Decision 31
+
+Role-Partitioned / Multi-Relationship Hospitality Architecture is retained as provisional comparison architecture below formal pattern maturity.
+
+Cases #31–40 provide broad cross-sector public-evidence recurrence across hotel, airport lounge, transit hotel, integrated resort, waterpark resort, theme-park resort, retreat, luxury rail, stadium and airport hospitality.
+
+This supports structural transfer.
+
+It does not establish operational recurrence.
+
+### Decision 32
+
+The principal evidence gap for Role-Partitioned / Multi-Relationship Hospitality Architecture changes after Case #40.
+
+The primary unresolved question is no longer whether differentiated relationship, entitlement and access states recur across institution types.
+
+The primary unresolved question is whether those states materially alter operational responsibility, identity continuity, information continuity, recovery, escalation, capacity handling and service ownership.
+
+No formal maturity or confidence increase is authorized.
+
+### Decision 33
+
+Mobile / Multi-System Hospitality Architecture is retained as provisional comparison architecture below formal pattern maturity.
+
+Scarlet Lady and Venice Simplon-Orient-Express provide meaningful cross-mode cruise and rail recurrence pressure.
+
+Singapore Changi Airport provides related distributed-control evidence but is not counted as a mobile-institution replication.
+
+Cross-mode recurrence does not establish operational validation.
+
+### Decision 34
+
+Membership-Gated / Recurring-Entitlement Hospitality Architecture is retained as a narrower subtype of Role-Partitioned / Multi-Relationship Hospitality Architecture.
+
+Cases #31–40 do not invalidate the subtype.
+
+No independent maturity movement is authorized.
+
+### Decision 35
+
+Nested Hospitality Dependency and Journey-State / Service-State Separation are retained as non-canonical research directions.
+
+They do not enter Candidate, Emerging, Validated or Principle counts.
+
+They should be tested through operational evidence where local service entitlement depends on a wider operating system or journey state.
+
+### Decision 36
+
+The next major validation burden shifts toward operational evidence.
+
+Priority tests should include failed entitlement, failed access, cross-system identity continuity, live capacity conflict, responsibility handoff, recovery ownership, human escalation, information synchronization and post-departure responsibility.
+
+Further public-evidence institution research remains useful for contradiction and transfer testing.
+
+It is not a substitute for operational validation.
+
+### Canonical boundary
+
+Structural Recurrence
+!=
+Operational Validation.
+
+Multiple Entitlements
+!=
+Distinct Responsibility Architecture Automatically.
+
+One Guest Journey
+!=
+One Operating Owner.
+
+Local Service Entitlement
+!=
+Global Journey Eligibility.
+
+Physical Departure
+!=
+Automatic Relationship Closure.
+
+The next research synthesis gate is after Case #50.

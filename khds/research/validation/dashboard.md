@@ -4,18 +4,18 @@ Status
 
 <!-- KHDS-CURRENT-START -->
 
-Latest completed case: #30 — The Social Hub Amsterdam City
-Completed institution dossiers: 10
+Latest completed case: #40 — Singapore Changi Airport
+Completed institution dossiers: 20
 Current research: None
-Next case: #31 — unselected and unstarted; research not authorized.
-Institution comparison: Complete through Cases #21–30
-Canonical governance: Post–Case #30 synthesis gate complete; Role-Partitioned / Multi-Relationship Hospitality Architecture retained as provisional comparison architecture below formal pattern maturity; Membership-Gated / Recurring-Entitlement Hospitality Architecture retained as a narrower subtype; no formal pattern or confidence movement
+Next case: #41 — unselected and unstarted; research not authorized.
+Institution comparison: Complete through Cases #21–40
+Canonical governance: Post–Case #40 synthesis gate complete; Role-Partitioned / Multi-Relationship Hospitality Architecture retained as provisional comparison architecture below formal pattern maturity; Membership-Gated / Recurring-Entitlement Hospitality Architecture retained as a narrower subtype; Mobile / Multi-System Hospitality Architecture retained as provisional comparison architecture; Nested Hospitality Dependency and Journey-State / Service-State Separation retained as non-canonical research directions; no formal pattern or confidence movement
 Pattern totals: 26 Candidate / 8 Emerging / 1 Partially Supported / 0 Validated / 0 research-derived Principles
 Candidate confidence: 9 High / 8 Medium-High / 9 Medium; unchanged
 Track B validation cases: 1
-Next synthesis gate: After Case #40
-Research scope: Public evidence; representative experience, operational enforcement, accessibility fulfilment, dietary safety, belonging, privacy/security outcomes, live inventory, recovery effectiveness, financial performance, AI discoverability and causal outcomes remain unverified
-Canonical update: 2026-09-28
+Next synthesis gate: After Case #50
+Research scope: Public evidence remains structurally informative but does not verify representative experience, operational enforcement, accessibility fulfilment, dietary safety, belonging, privacy/security outcomes, live inventory, cross-system identity continuity, recovery ownership or effectiveness, financial performance, AI discoverability or causal outcomes
+Canonical update: 2026-10-21
 
 <!-- KHDS-CURRENT-END -->
 
@@ -6477,3 +6477,33 @@ Candidate confidence remains 9 High / 8 Medium-High / 9 Medium.
 Multi-Intent Hospitality remains Candidate / Medium because structural support increased but live coexistence, user comprehension, conflict resolution, operational performance and outcomes remain unverified.
 
 Next synthesis gate: after Case #40.
+
+## Validation Dashboard mirror — Post Case #40 synthesis gate
+
+Cases #31–40 complete the second ten-case institution comparison cycle.
+
+The cycle materially strengthens public-evidence transfer of differentiated role, entitlement, access, lifecycle and responsibility states across institution types.
+
+No formal pattern or confidence movement occurs.
+
+Role-Partitioned / Multi-Relationship Hospitality Architecture remains provisional.
+
+Membership-Gated / Recurring-Entitlement Hospitality Architecture remains a narrower subtype.
+
+Mobile / Multi-System Hospitality Architecture remains provisional.
+
+Nested Hospitality Dependency and Journey-State / Service-State Separation remain non-canonical.
+
+Current formal totals remain 26 / 8 / 1 / 0 / 0.
+
+Candidate confidence remains 9 High / 8 Medium-High / 9 Medium.
+
+Current highest research-derived maturity remains Emerging.
+
+Current validated research-derived patterns remain 0.
+
+Current research-derived Principles remain 0.
+
+The next validation priority is operational evidence around failure, handoff, recovery, responsibility and cross-system continuity.
+
+The next synthesis gate is after Case #50.

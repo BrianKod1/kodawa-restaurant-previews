@@ -4,18 +4,18 @@ Status
 
 <!-- KHDS-CURRENT-START -->
 
-Latest completed case: #30 — The Social Hub Amsterdam City
-Completed institution dossiers: 10
+Latest completed case: #40 — Singapore Changi Airport
+Completed institution dossiers: 20
 Current research: None
-Next case: #31 — unselected and unstarted; research not authorized.
-Institution comparison: Complete through Cases #21–30
-Canonical governance: Post–Case #30 synthesis gate complete; Role-Partitioned / Multi-Relationship Hospitality Architecture retained as provisional comparison architecture below formal pattern maturity; Membership-Gated / Recurring-Entitlement Hospitality Architecture retained as a narrower subtype; no formal pattern or confidence movement
+Next case: #41 — unselected and unstarted; research not authorized.
+Institution comparison: Complete through Cases #21–40
+Canonical governance: Post–Case #40 synthesis gate complete; Role-Partitioned / Multi-Relationship Hospitality Architecture retained as provisional comparison architecture below formal pattern maturity; Membership-Gated / Recurring-Entitlement Hospitality Architecture retained as a narrower subtype; Mobile / Multi-System Hospitality Architecture retained as provisional comparison architecture; Nested Hospitality Dependency and Journey-State / Service-State Separation retained as non-canonical research directions; no formal pattern or confidence movement
 Pattern totals: 26 Candidate / 8 Emerging / 1 Partially Supported / 0 Validated / 0 research-derived Principles
 Candidate confidence: 9 High / 8 Medium-High / 9 Medium; unchanged
 Track B validation cases: 1
-Next synthesis gate: After Case #40
-Research scope: Public evidence; representative experience, operational enforcement, accessibility fulfilment, dietary safety, belonging, privacy/security outcomes, live inventory, recovery effectiveness, financial performance, AI discoverability and causal outcomes remain unverified
-Canonical update: 2026-09-28
+Next synthesis gate: After Case #50
+Research scope: Public evidence remains structurally informative but does not verify representative experience, operational enforcement, accessibility fulfilment, dietary safety, belonging, privacy/security outcomes, live inventory, cross-system identity continuity, recovery ownership or effectiveness, financial performance, AI discoverability or causal outcomes
+Canonical update: 2026-10-21
 
 <!-- KHDS-CURRENT-END -->
 
@@ -5282,3 +5282,284 @@ Administrative closure remains distinct from operational validation.
 The Case #30 synthesis gate is complete.
 
 Next synthesis gate: after Case #40.
+
+## Post–Case #40 synthesis gate — Cases #31–40
+
+### Population and evidence boundary
+
+Cases #31–40 form the second completed ten-case institution comparison cycle after Cases #21–30.
+
+The cycle contains:
+
+- Moxy NYC Times Square;
+- Plaza Premium Lounge Toronto Pearson Terminal 1 Domestic;
+- YOTELAIR Istanbul Airport Airside;
+- The Venetian Resort Las Vegas;
+- Great Wolf Lodge Niagara Falls;
+- Disney's Grand Floridian Resort & Spa;
+- Esalen Institute;
+- Venice Simplon-Orient-Express;
+- Tottenham Hotspur Stadium;
+- Singapore Changi Airport.
+
+The cases are based primarily on public evidence.
+
+They establish useful structural distinctions.
+
+They do not establish representative guest outcomes, internal system architecture, operational enforcement, live recovery effectiveness, accessibility fulfilment, financial performance or causal effects.
+
+Public Structural Recurrence
+!=
+Operational Validation.
+
+### Comparison 1 — Shared institution versus uniform relationship
+
+Cases #31, #34, #37, #39 and #40 provide particularly strong pressure around one institution supporting multiple guest or participant relationships.
+
+Across the cycle:
+
+Shared Institutional Identity
+!=
+Uniform Guest Relationship.
+
+Physical Co-location
+!=
+Uniform Entitlement.
+
+One Brand
+!=
+One Responsibility State.
+
+The recurrence is visible across hotel, resort, retreat, stadium and airport settings.
+
+### Comparison 2 — Entitlement versus fulfilment
+
+Cases #32, #35, #36, #39 and #40 provide the strongest cycle-wide pressure around entitlement separation.
+
+Across those cases:
+
+Credential
+!=
+Guaranteed Admission.
+
+Reservation
+!=
+Guaranteed Practical Access.
+
+Status
+!=
+Universal Service Eligibility.
+
+Ticket
+!=
+Hospitality Entitlement.
+
+Facility Availability
+!=
+Passenger Eligibility.
+
+The strongest recurring cycle boundary is:
+
+Entitlement
+!=
+Fulfilment.
+
+Capacity, time, location, controlled state, product and service eligibility can remain independent variables.
+
+### Comparison 3 — Layered products versus architectural partition
+
+Cases #35, #36 and #37 provide important falsification control.
+
+Great Wolf Lodge can still be explained through conventional resort bundling.
+
+Grand Floridian can still be explained through conventional destination-resort segmentation.
+
+Esalen can still be explained through conventional residential-retreat packaging.
+
+Therefore:
+
+Layered Products
+!=
+Distinct Hospitality Architecture Automatically.
+
+Additional Charge
+!=
+Independent Responsibility Relationship.
+
+Premium Tier
+!=
+Independent Institution.
+
+This comparison prevents ordinary product complexity from being misclassified as architectural evidence.
+
+### Comparison 4 — One journey versus one operating owner
+
+Cases #33, #38 and #40 provide the strongest pressure around distributed operating control.
+
+Case #38 independently extends the mobile-system question from cruise into luxury rail.
+
+Case #40 provides a stationary but highly distributed comparator through airport, airline, baggage, immigration, security, lounge, hotel and terminal states.
+
+The strongest recurring boundary is:
+
+One Guest Journey
+!=
+One Operating Owner.
+
+A stronger architectural conclusion still requires operational evidence showing that distributed responsibility materially affects identity, entitlement, information continuity, recovery, escalation or service ownership.
+
+### Comparison 5 — Physical departure versus relationship closure
+
+Cases #31, #33, #34, #38, #39 and #40 show repeated reasons that a hospitality relationship may continue after physical departure.
+
+Potential persistent states include:
+
+- membership;
+- billing;
+- baggage;
+- digital identity;
+- disruption;
+- complaint recovery;
+- future entitlement;
+- support;
+- stored or continuing relationship data.
+
+Therefore:
+
+Physical Departure
+!=
+Automatic Relationship Closure.
+
+This finding is structurally recurrent but operational persistence remains incompletely verified.
+
+### Post–Case #40 architecture synthesis
+
+The broader provisional architecture survives the ten-case transfer test:
+
+**Role-Partitioned / Multi-Relationship Hospitality Architecture**
+
+Its current synthesis definition remains:
+
+A hospitality structure in which one institution supports multiple persistent or transactional relationships while actual participation remains conditional on role, product, current rules, time, capacity and access state.
+
+Cases #31–40 materially broaden cross-sector structural recurrence.
+
+The principal unresolved problem is no longer whether differentiated role, entitlement and access states appear across different institution types.
+
+The principal unresolved problem is whether those states create distinct operational responsibility, identity, information-continuity and recovery requirements in practice.
+
+Therefore:
+
+Cross-Sector Structural Recurrence
+=
+Supported at Public-Evidence Level.
+
+Operational Recurrence
+=
+Not Yet Verified.
+
+### Provisional architecture taxonomy
+
+**Role-Partitioned / Multi-Relationship Hospitality Architecture**
+
+Retained as the parent provisional comparison architecture below formal pattern maturity.
+
+**Membership-Gated / Recurring-Entitlement Hospitality Architecture**
+
+Retained as a narrower subtype particularly useful for recurring membership relationships.
+
+**Mobile / Multi-System Hospitality Architecture**
+
+Retained as provisional comparison architecture.
+
+Scarlet Lady and Venice Simplon-Orient-Express provide cross-mode cruise and rail recurrence pressure.
+
+Singapore Changi Airport adds related distributed-control pressure without itself being a mobile institution.
+
+### Non-canonical synthesis directions
+
+Two cycle-level research directions are retained without formal promotion:
+
+**Nested Hospitality Dependency**
+
+A locally valid hospitality service can remain dependent on a larger operating system's access, journey or eligibility state.
+
+**Journey-State / Service-State Separation**
+
+A service reservation or entitlement can be locally valid while the wider journey state prevents or alters practical use.
+
+A related operational validation target is:
+
+**Multi-Owner Recovery / Responsibility Continuity**
+
+The next evidence phase should test what happens when responsibility crosses operators, systems or controlled states during failure.
+
+These remain research directions only.
+
+### Governance result
+
+Case #40 synthesis produces:
+
+- 0 Candidate promotions;
+- 0 Emerging promotions;
+- 0 confidence increases;
+- 0 confidence decreases;
+- 0 demotions;
+- 0 renames;
+- 0 merges;
+- 0 Validated promotions;
+- 0 research-derived Principle promotions;
+- 0 newly counted formal patterns.
+
+Canonical totals remain:
+
+Candidate: 26
+Emerging: 8
+Partially Supported: 1
+Validated: 0
+Research-Derived Principles: 0
+
+Candidate confidence remains:
+
+High: 9
+Medium-High: 8
+Medium: 9
+
+### Evidence-burden shift
+
+Cases #31–40 materially reduce the value of simply accumulating additional similar public structural examples.
+
+The next major validation burden is operational.
+
+Priority evidence should test:
+
+- failed entitlement;
+- failed access;
+- cross-system identity continuity;
+- live capacity conflict;
+- handoff responsibility;
+- recovery ownership;
+- human escalation;
+- information synchronization;
+- post-departure responsibility;
+- whether fallback routes preserve the original guest need.
+
+Additional public examples can still provide contradiction value.
+
+They should not be treated as substitutes for operational evidence.
+
+### Track C boundary
+
+The post–Case #40 research synthesis decision does not complete a Track C build.
+
+The Cases #21–30 Track C build remains pending.
+
+The Cases #31–40 Track C build is also pending.
+
+No fictional synthesis build can independently change research maturity.
+
+### Next synthesis gate
+
+The next ten-case research synthesis gate is after Case #50.
+
+Case #41 remains unselected, unstarted and unauthorized.

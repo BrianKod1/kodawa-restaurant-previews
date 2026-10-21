@@ -8,7 +8,11 @@ Completed synthesis builds: **1**
 
 Latest synthesis build: **Third Rain**
 
-Next synthesis gate: **After KHDS Case #30**
+Completed research synthesis gates: **Cases #21–30 and #31–40**
+
+Track C build queue: **Cases #21–30 pending; Cases #31–40 pending**
+
+Next synthesis gate: **After KHDS Case #50**
 
 ## Purpose
 
@@ -164,7 +168,8 @@ The intended result is:
 |---|---:|---|---|---|
 | Foundation cycle | #1–10 | No formal Track C build | Not applicable | Historical research foundation |
 | Cycle 2 | #11–20 | Third Rain | Direct reservation demonstration | Ready for Showcase integration |
-| Cycle 3 | #21–30 | To be created after Case #30 | Determined by findings | Planned |
+| Cycle 3 | #21–30 | Pending Track C build | Not selected | Research synthesis complete; build pending |
+| Cycle 4 | #31–40 | Pending Track C build | Not selected | Research synthesis complete; build pending |
 
 ## Synthesis Build #1 — Third Rain
 
@@ -190,20 +195,42 @@ Third Rain does not change any formal KHDS pattern maturity or confidence.
 
 ## Cycle 3 — Cases #21–30
 
-Planned composition:
+**Research status:** Complete
+**Research synthesis gate:** Complete
+**Track C build:** Pending
+**Application integration:** Not selected
+**Showcase status:** Not started
 
-- seven restaurants;
-- one boutique hotel;
-- one wellness or spa institution;
-- and one food hall, members' club or hospitality venue.
+Cases #21–30 established the first institution-transfer cycle beyond the original restaurant research base.
 
-The exact businesses will be selected at the start of their respective cases according to contradiction value, evidence availability and the pressure they place on current KHDS patterns.
+The post–Case #30 research synthesis retained Role-Partitioned / Multi-Relationship Hospitality Architecture as provisional comparison architecture and retained Membership-Gated / Recurring-Entitlement Hospitality Architecture as a narrower subtype.
 
-Case #21 begins with a boutique hotel.
+The fictional hospitality synthesis build required by Track C has not yet been created.
 
-The fictional restaurant produced after Case #30 must synthesize the findings of Cases #21–30, including what the non-restaurant institutions reveal about longer guest journeys, access, care, recovery and hospitality beyond dining.
+Research synthesis completion must not be confused with Track C implementation completion.
 
+## Cycle 4 — Cases #31–40
+
+**Research status:** Complete
+**Research synthesis gate:** Complete
+**Track C build:** Pending
+**Application integration:** Not selected
+**Showcase status:** Not started
+
+Cases #31–40 tested transfer across lifestyle hotel, airport lounge, airside transit hotel, integrated resort, waterpark resort, theme-park resort, retreat, luxury rail, stadium hospitality and airport hospitality.
+
+The post–Case #40 synthesis concludes that Role-Partitioned / Multi-Relationship Hospitality Architecture has broad cross-sector public-evidence recurrence while operational recurrence remains unverified.
+
+The cycle retains Mobile / Multi-System Hospitality Architecture as provisional comparison architecture and retains Nested Hospitality Dependency and Journey-State / Service-State Separation as non-canonical research directions.
+
+No formal pattern maturity or confidence movement results from the cycle.
+
+The Track C build for Cases #31–40 has not yet been created.
+
+The next research synthesis gate is after Case #50.
 ## Current Boundary
+
+Third Rain is the only completed formal Track C synthesis build.
 
 Third Rain is:
 
@@ -212,10 +239,18 @@ Third Rain is:
 - a working hospitality website;
 - and a Kodawa Labs Showcase candidate.
 
-Third Rain is not:
+The Cases #21–30 Track C build is pending.
 
-- an independent Track A research case;
-- a Track B client validation case;
-- evidence for a pattern promotion;
-- or a real operating restaurant.
+The Cases #31–40 Track C build is pending.
 
+Neither pending build has:
+
+- a locked concept;
+- an application selection;
+- a completed website;
+- Showcase status;
+- or authority to change formal research maturity.
+
+Research synthesis quality and implementation quality remain separate from research validation.
+
+The next research synthesis gate is after Case #50.
