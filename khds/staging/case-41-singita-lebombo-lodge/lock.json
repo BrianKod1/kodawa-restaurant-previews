@@ -1,0 +1,27 @@
+{
+  "caseNumber": 41,
+  "institutionName": "Singita Lebombo Lodge",
+  "slug": "singita-lebombo-lodge",
+  "institutionType": "luxury-safari-lodge",
+  "sector": "safari-lodges",
+  "canonicalPath": "khds/research/institutions/safari-lodges/singita-lebombo-lodge/",
+  "stagingPath": "khds/staging/case-41-singita-lebombo-lodge",
+  "trackingChanges": [],
+  "requiredFiles": [
+    "README.md",
+    "discovery.md",
+    "reservation.md",
+    "pre-arrival.md",
+    "arrival.md",
+    "stay.md",
+    "dining.md",
+    "departure.md",
+    "atmosphere.md",
+    "photography.md",
+    "story.md",
+    "knowledge-extraction.md"
+  ],
+  "evidenceCoverageVersion": 1,
+  "lockedAt": "2026-11-03T09:58:31.054Z",
+  "baseCommit": "5329d438a3877d763af53acd44b7d1af9ea68ce5"
+}

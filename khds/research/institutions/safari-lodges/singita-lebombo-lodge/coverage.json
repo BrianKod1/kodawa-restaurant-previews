@@ -1,0 +1,476 @@
+{
+  "schemaVersion": 1,
+  "dimensions": [
+    {
+      "dimension": "discovery",
+      "question": "How clearly can a prospective Singita Lebombo Lodge guest determine which accommodation, safari, transfer, dining, family and wellness experiences are included, separately charged, capacity-constrained or eligibility-dependent before committing to the stay?",
+      "scopeChange": "None. Initial Case #41 public-evidence scope. Discovery is studied as a bundled remote-hospitality proposition rather than room discovery alone.",
+      "sources": [
+        "S1",
+        "S2",
+        "S3",
+        "S4"
+      ],
+      "observations": [
+        {
+          "text": "The property proposition combines accommodation, meals, beverages, safari activity, airstrip transfer, wellness, family and other experiences rather than presenting only a room product.",
+          "sources": [
+            "S1",
+            "S2"
+          ]
+        },
+        {
+          "text": "The standard stay includes some services while transport to the reserve, wellness and other items remain excluded or separately committed.",
+          "sources": [
+            "S1"
+          ]
+        },
+        {
+          "text": "Family composition and guide discretion can change accommodation, private-vehicle and activity eligibility.",
+          "sources": [
+            "S1",
+            "S3"
+          ]
+        },
+        {
+          "text": "Lebombo operates within Kruger National Park and a private-concession context.",
+          "sources": [
+            "S4"
+          ]
+        }
+      ],
+      "unanswered": [
+        "The evidence does not establish whether every booking channel communicates inclusions and exclusions consistently.",
+        "No representative guest-comprehension test has been performed.",
+        "No mobile-versus-desktop discovery audit has been completed."
+      ],
+      "rating": "partial",
+      "reason": "Public information exposes the bundled proposition and several eligibility boundaries, but comprehension, channel consistency and live availability remain unverified.",
+      "nextEvidence": "Compare direct and intermediary booking paths, test how transport exclusions and family/activity conditions are surfaced, and inspect mobile presentation."
+    },
+    {
+      "dimension": "reservation",
+      "question": "What exactly becomes committed when a guest reserves Singita Lebombo Lodge, and which parts of the stay remain conditional on guest composition, separate transport, guide discretion, timing, capacity or additional payment?",
+      "scopeChange": "Reservation scope separates the lodge accommodation commitment from external transport and service-specific commitments such as private vehicles or separately priced experiences.",
+      "sources": [
+        "S1",
+        "S3",
+        "S5"
+      ],
+      "observations": [
+        {
+          "text": "Accommodation inventory and pricing differ across standard suites, two-bedroom suites and villa configurations.",
+          "sources": [
+            "S1"
+          ]
+        },
+        {
+          "text": "The lodge rate includes several services but external transport remains outside the standard accommodation entitlement.",
+          "sources": [
+            "S1",
+            "S5"
+          ]
+        },
+        {
+          "text": "Family composition can change both accommodation and private-vehicle conditions.",
+          "sources": [
+            "S1",
+            "S5"
+          ]
+        },
+        {
+          "text": "Activity participation can remain subject to guide discretion after the stay has been commercially committed.",
+          "sources": [
+            "S3",
+            "S5"
+          ]
+        }
+      ],
+      "unanswered": [
+        "No direct transaction was completed.",
+        "Deposit, modification, no-show and refund workflows were not tested end-to-end.",
+        "The technical coupling among accommodation, vehicle, activity and transport commitments is unknown."
+      ],
+      "rating": "partial",
+      "reason": "The public record exposes multiple commitment objects and conditional entitlements, but transaction mechanics and system coupling remain incomplete.",
+      "nextEvidence": "Inspect representative confirmation, amendment and cancellation flows and test whether changes to one commitment propagate to the others."
+    },
+    {
+      "dimension": "pre-arrival",
+      "question": "What must a Lebombo guest resolve before reaching the lodge, including transport mode, daylight/access restrictions, luggage, health, family eligibility, activity expectations, weather and the airstrip-to-lodge handoff?",
+      "scopeChange": "Pre-arrival includes external transport and access preparation because the remote-lodge relationship depends on reaching the concession and transfer handoff.",
+      "sources": [
+        "S1",
+        "S3",
+        "S4",
+        "S5"
+      ],
+      "observations": [
+        {
+          "text": "Flights are constrained by daylight and private-charter access requires permission and approved operators.",
+          "sources": [
+            "S1"
+          ]
+        },
+        {
+          "text": "Luggage and health preparation can matter before the guest reaches the property.",
+          "sources": [
+            "S1"
+          ]
+        },
+        {
+          "text": "Family composition can change room and activity expectations before arrival.",
+          "sources": [
+            "S1",
+            "S3",
+            "S5"
+          ]
+        },
+        {
+          "text": "The lodge operates inside a protected-area concession rather than as an isolated roadside property.",
+          "sources": [
+            "S4"
+          ]
+        }
+      ],
+      "unanswered": [
+        "Pre-arrival email and confirmation sequences were not inspected.",
+        "Transfer-manifest and flight-status handoff processes are unknown.",
+        "No evidence establishes how disrupted inbound transport is re-planned across parties."
+      ],
+      "rating": "partial",
+      "reason": "Pre-arrival dependencies are clearly declared, but operational information continuity and disruption handling are not publicly verified.",
+      "nextEvidence": "Inspect guest confirmation materials and seek evidence of transfer manifests, flight-change communication, dietary capture and missed-connection recovery."
+    },
+    {
+      "dimension": "arrival",
+      "question": "Where does responsibility shift when a Lebombo guest reaches the reserve, airstrip or lodge, and how do transport completion, check-in state, environmental access and service readiness differ?",
+      "scopeChange": "Arrival is decomposed into external arrival, Satara handoff, Singita transfer, lodge arrival and room-readiness state.",
+      "sources": [
+        "S1",
+        "S4",
+        "S5"
+      ],
+      "observations": [
+        {
+          "text": "Guests arriving by air are collected at Satara by Singita staff for the onward road transfer to the lodge.",
+          "sources": [
+            "S1"
+          ]
+        },
+        {
+          "text": "External transport is commercially separate from the included Satara-to-lodge road transfer.",
+          "sources": [
+            "S1",
+            "S5"
+          ]
+        },
+        {
+          "text": "Check-in time creates a room-readiness state distinct from physical arrival at the property.",
+          "sources": [
+            "S1",
+            "S5"
+          ]
+        },
+        {
+          "text": "The property operates within Kruger/concession conditions that can affect movement and access.",
+          "sources": [
+            "S4"
+          ]
+        }
+      ],
+      "unanswered": [
+        "Live arrival monitoring and pickup-failure procedures are not public.",
+        "Early-arrival waiting entitlement is not established.",
+        "No public evidence establishes exact recovery ownership after a missed daylight arrival."
+      ],
+      "rating": "partial",
+      "reason": "The public record clearly exposes multiple arrival states and an operational handoff, but recovery and live coordination remain unverified.",
+      "nextEvidence": "Seek transfer-operation, early-arrival and disruption evidence, including responsibility when upstream transport fails."
+    },
+    {
+      "dimension": "stay",
+      "question": "How does the guest relationship operate during a stay at Singita Lebombo Lodge when accommodation, game drives, walks, wellness, wine, family activities, private vehicles, shared facilities and environmental conditions each have different eligibility, capacity or operating rules?",
+      "scopeChange": "Stay is treated as participation across multiple service states rather than occupancy alone.",
+      "sources": [
+        "S1",
+        "S3",
+        "S5",
+        "S6",
+        "S7"
+      ],
+      "observations": [
+        {
+          "text": "Game-drive capacity, walking eligibility and guide discretion create service states separate from room entitlement.",
+          "sources": [
+            "S3",
+            "S5",
+            "S6"
+          ]
+        },
+        {
+          "text": "Private-vehicle entitlement depends on availability, payment and family configuration.",
+          "sources": [
+            "S1",
+            "S5"
+          ]
+        },
+        {
+          "text": "Some facilities are shared across Lebombo and Sweni rather than belonging exclusively to one booked lodge.",
+          "sources": [
+            "S6"
+          ]
+        },
+        {
+          "text": "The Community Culinary School creates a separately committed on-site experience.",
+          "sources": [
+            "S7"
+          ]
+        }
+      ],
+      "unanswered": [
+        "Guide and vehicle allocation logic is unknown.",
+        "Waitlists, utilisation and service-recovery processes are not public.",
+        "The technical relationship between shared-facility inventory and the guest profile is unknown."
+      ],
+      "rating": "partial",
+      "reason": "Public evidence shows multiple simultaneous service states and capacities, but live scheduling and recovery are not verified.",
+      "nextEvidence": "Inspect activity scheduling, vehicle/guide assignment, waitlists, shared-facility allocation and service-recovery evidence."
+    },
+    {
+      "dimension": "dining",
+      "question": "How does dining operate within the Lebombo stay when meals and beverages are included in the rate, wine and culinary experiences can have distinct formats, and special requests or separately booked cooking classes create additional service states?",
+      "scopeChange": "Dining scope separates the included meal entitlement from special-request handling, wine experiences and the separately arranged Community Culinary School experience.",
+      "sources": [
+        "S1",
+        "S5",
+        "S6",
+        "S7",
+        "S8"
+      ],
+      "observations": [
+        {
+          "text": "Meals and beverages are included in the standard stay.",
+          "sources": [
+            "S1",
+            "S5"
+          ]
+        },
+        {
+          "text": "Dietary and celebration requests are expected before arrival, creating a pre-arrival-to-dining information dependency.",
+          "sources": [
+            "S5"
+          ]
+        },
+        {
+          "text": "The Community Culinary School is separately arranged, availability-dependent and carries a separate donation/price structure.",
+          "sources": [
+            "S7"
+          ]
+        },
+        {
+          "text": "Official imagery shows multiple dining contexts but does not prove capacity or universal choice.",
+          "sources": [
+            "S8"
+          ]
+        }
+      ],
+      "unanswered": [
+        "Meal schedules, table inventory and kitchen throughput are unknown.",
+        "Allergy and dietary handoff reliability are not established.",
+        "Wine-experience capacity and pricing are incomplete."
+      ],
+      "rating": "partial",
+      "reason": "The public record distinguishes bundled dining from separate culinary experiences, but operational capacity and dietary fulfilment remain unverified.",
+      "nextEvidence": "Seek menus, reservation rules, dietary-handling evidence, culinary-school capacity and recovery procedures."
+    },
+    {
+      "dimension": "departure",
+      "question": "What ends when a guest departs Singita Lebombo Lodge, and which financial, transport, data, delivery or recovery relationships can remain active after physical checkout?",
+      "scopeChange": "Departure includes physical checkout, onward movement, financial settlement, insurance/recovery and post-stay fulfilment.",
+      "sources": [
+        "S1",
+        "S5",
+        "S6",
+        "S9"
+      ],
+      "observations": [
+        {
+          "text": "Check-out and external departure are separate states, and some payment relationships can remain open after guest departure.",
+          "sources": [
+            "S5"
+          ]
+        },
+        {
+          "text": "External flight cancellation does not automatically determine lodge refund entitlement outside specified exceptional circumstances.",
+          "sources": [
+            "S5"
+          ]
+        },
+        {
+          "text": "Travel insurance is expected to cover specified risks beyond Singita's control.",
+          "sources": [
+            "S5"
+          ]
+        },
+        {
+          "text": "Post-stay fulfilment and personal-data relationships can persist beyond physical departure.",
+          "sources": [
+            "S6",
+            "S9"
+          ]
+        }
+      ],
+      "unanswered": [
+        "Missed-flight and delayed-departure operating procedures are not public.",
+        "On-property waiting rights after checkout are unknown.",
+        "Insurance coordination and complaint-recovery workflows are unverified."
+      ],
+      "rating": "partial",
+      "reason": "The public record clearly shows that physical departure is not universal relationship closure, but operational recovery and settlement by channel remain incomplete.",
+      "nextEvidence": "Seek evidence on missed departures, waiting arrangements, settlement by booking channel, insurance support and post-stay complaint recovery."
+    },
+    {
+      "dimension": "atmosphere",
+      "question": "How is atmosphere at Singita Lebombo Lodge created and maintained when the guest experience deliberately blurs interior/exterior boundaries, depends on a live wilderness environment, and can change with light, weather, wildlife, season and the operating state of shared spaces?",
+      "scopeChange": "Atmosphere is treated as a combination of design, environmental state, sensory conditions and service ritual rather than interior styling alone.",
+      "sources": [
+        "S1",
+        "S2",
+        "S8",
+        "S10"
+      ],
+      "observations": [
+        {
+          "text": "Current design material explicitly connects landscape, wildlife, sound, light and material palette to the guest experience.",
+          "sources": [
+            "S2",
+            "S10"
+          ]
+        },
+        {
+          "text": "The 2026 refurbishment combines environmental openness with controlled interior comfort such as cross-ventilation and double glazing.",
+          "sources": [
+            "S10"
+          ]
+        },
+        {
+          "text": "Time-of-day, fire and night-sky conditions are part of the experience proposition.",
+          "sources": [
+            "S2",
+            "S8"
+          ]
+        },
+        {
+          "text": "Weather can alter both atmosphere and operating routes.",
+          "sources": [
+            "S1"
+          ]
+        }
+      ],
+      "unanswered": [
+        "Representative guest perception is not established.",
+        "Accessibility and sensory outcomes are not verified.",
+        "Atmosphere during disruption or high occupancy is unknown."
+      ],
+      "rating": "partial",
+      "reason": "Design intent and environmental mechanisms are well documented, but lived experience and operational performance remain unverified.",
+      "nextEvidence": "Seek independent guest evidence, accessibility information and operating responses under adverse weather or disruption."
+    },
+    {
+      "dimension": "photography",
+      "question": "What does Singita's public photography make visible about Lebombo's actual hospitality architecture, and where does curated imagery stop short of proving operational availability, capacity, accessibility or recovery?",
+      "scopeChange": "Photography is used as evidence of spatial and experiential presentation, not as proof of live operating state.",
+      "sources": [
+        "S2",
+        "S8",
+        "S10"
+      ],
+      "observations": [
+        {
+          "text": "Current official imagery covers accommodation, communal space, dining and safari experiences.",
+          "sources": [
+            "S2",
+            "S8"
+          ]
+        },
+        {
+          "text": "The 2026 design material provides current visual evidence after a material refurbishment.",
+          "sources": [
+            "S10"
+          ]
+        },
+        {
+          "text": "Photography creates a visually continuous hospitality story across operationally separate services.",
+          "sources": [
+            "S2",
+            "S8",
+            "S10"
+          ]
+        }
+      ],
+      "unanswered": [
+        "No independent image audit has been completed.",
+        "Mobile-versus-desktop image presentation has not been tested.",
+        "Arrival, accessibility, failure and recovery states are underrepresented visually."
+      ],
+      "rating": "partial",
+      "reason": "Current imagery supports spatial and narrative understanding but cannot establish capacity, eligibility, recovery or representative operating conditions.",
+      "nextEvidence": "Compare official imagery with independent recent guest imagery and inspect visual evidence of arrival, accessibility and disruption states."
+    },
+    {
+      "dimension": "story",
+      "question": "What institutional story does Singita Lebombo Lodge tell about wilderness, design, conservation and hospitality, and how much of that story is supported by observable operating relationships rather than brand narrative alone?",
+      "scopeChange": "Story scope includes concession history, design evolution, conservation/community framing and the difference between coherent brand narrative and partitioned operational responsibility.",
+      "sources": [
+        "S2",
+        "S5",
+        "S7",
+        "S10",
+        "S11",
+        "S12",
+        "S13"
+      ],
+      "observations": [
+        {
+          "text": "Lebombo's public narrative connects wilderness, design, conservation, community, art, food and hospitality.",
+          "sources": [
+            "S2",
+            "S10",
+            "S12"
+          ]
+        },
+        {
+          "text": "The property has materially evolved while preserving a stable narrative around openness, landscape and environmental connection.",
+          "sources": [
+            "S10",
+            "S11",
+            "S13"
+          ]
+        },
+        {
+          "text": "The Community Culinary School creates a guest-facing relationship that also serves a community-development purpose.",
+          "sources": [
+            "S7",
+            "S12"
+          ]
+        },
+        {
+          "text": "The coherent guest story sits over distinct transport, lodge, protected-area, service-team and insurance responsibilities.",
+          "sources": [
+            "S5",
+            "S12"
+          ]
+        }
+      ],
+      "unanswered": [
+        "Conservation and community impact are not independently verified in this case.",
+        "Guest perception of the institutional story is unknown.",
+        "No evidence establishes the commercial effect of the story or design evolution."
+      ],
+      "rating": "partial",
+      "reason": "The institutional narrative and design continuity are well documented, but impact, perception and operational integration remain incomplete.",
+      "nextEvidence": "Seek independent conservation/community evidence, guest perception and cross-team operating evidence before assigning stronger institutional conclusions."
+    }
+  ]
+}

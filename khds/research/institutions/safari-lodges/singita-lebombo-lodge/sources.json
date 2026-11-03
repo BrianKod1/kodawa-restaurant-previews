@@ -1,0 +1,148 @@
+{
+    "schemaVersion":  1,
+    "sources":  [
+                    {
+                        "id":  "S1",
+                        "url":  "https://singita.com/lodge/singita-lebombo-lodge/information/",
+                        "accessDate":  "2026-11-03",
+                        "sourceDate":  "Current page inspected 2026-11-03; 2026 rates selected on page",
+                        "method":  "Direct web-page inspection",
+                        "sections":  "Accommodation and amenities; 2026 rates; inclusions and exclusions; children; flights; festive season; check-in/out; health and travel; packing; map and directions; Satara airstrip transfer",
+                        "access":  "inspected",
+                        "title":  "Lebombo Lodge Information | Rates, Check-In \u0026 Amenities | Singita",
+                        "note":  "Primary Case #41 operational source."
+                    },
+                    {
+                        "id":  "S2",
+                        "url":  "https://singita.com/lodge/singita-lebombo-lodge/",
+                        "accessDate":  "2026-11-03",
+                        "sourceDate":  "Current lodge page inspected 2026-11-03",
+                        "method":  "Direct web-page inspection",
+                        "sections":  "Lodge positioning; spaces; experience inventory; game drives; wine; pool; family; guided walks; fitness; wellness; yoga; boutique; stargazing; bird watching",
+                        "access":  "inspected",
+                        "title":  "Lebombo Luxury Safari Lodge | Kruger National Park | Singita",
+                        "note":  "Primary discovery and experience source."
+                    },
+                    {
+                        "id":  "S3",
+                        "url":  "https://singita.com/region/kruger-national-park/experience-guided-safari-walks/",
+                        "accessDate":  "2026-11-03",
+                        "sourceDate":  "Current experience page inspected 2026-11-03",
+                        "method":  "Direct web-page inspection",
+                        "sections":  "Guided safari walks; guide/tracker role; recommended age; younger guest participation at guide discretion",
+                        "access":  "inspected",
+                        "title":  "Guided Safari Walks | Singita",
+                        "note":  "Service-eligibility source."
+                    },
+                    {
+                        "id":  "S4",
+                        "url":  "https://www.sanparks.org/parks/kruger/camps/luxury-lodges/singita-lebombo-lodge",
+                        "accessDate":  "2026-11-03",
+                        "sourceDate":  "Current SANParks page inspected 2026-11-03",
+                        "method":  "Direct web-page inspection",
+                        "sections":  "Singita Lebombo Lodge; Kruger National Park; private concession; accommodation and lodge facilities",
+                        "access":  "inspected",
+                        "title":  "Singita Lebombo Lodge – Kruger National Park – SANParks",
+                        "note":  "Independent institutional source confirming Kruger and concession context."
+                    },
+                    {
+                        "id":  "S5",
+                        "url":  "https://library.singita.com/download/public/assets/174353062611844.pdf",
+                        "accessDate":  "2026-11-03",
+                        "sourceDate":  "6 January 2026 – 5 January 2027",
+                        "method":  "Direct PDF inspection",
+                        "sections":  "General inclusions/exclusions; check-in/out; road and charter; groups; special requests; festive terms; children; private vehicles; payment policy; cancellation; exceptional circumstances; travel insurance",
+                        "access":  "inspected",
+                        "title":  "Singita General Terms \u0026 Conditions 2026",
+                        "note":  "Primary policy source for Case #41. Supports bundled entitlements, private-vehicle availability, guest special-request timing, departure/contact requirements, cancellation categories, financial settlement and travel-insurance responsibility."
+                    },
+                    {
+                        "id":  "S6",
+                        "url":  "https://library.singita.com/download/public/assets/175084561358687.pdf",
+                        "accessDate":  "2026-11-03",
+                        "sourceDate":  "Last updated April 2026",
+                        "method":  "Direct PDF inspection",
+                        "sections":  "Daily game drives; guided bush walks; swimming; wellness; yoga; fitness; wine experiences; Conservation Lounge; Community Culinary School; family experiences",
+                        "access":  "inspected",
+                        "title":  "Singita Kruger National Park Experiences Guide",
+                        "note":  "Primary in-stay service source. Establishes vehicle capacity, guide discretion, shared Lebombo/Sweni facilities, wine experiences, family experiences and pre-arranged Community Culinary School classes."
+                    },
+                    {
+                        "id":  "S7",
+                        "url":  "https://singita.com/region/kruger-national-park/experience-singita-community-culinary-school/",
+                        "accessDate":  "2026-11-03",
+                        "sourceDate":  "Current page inspected 2026-11-03",
+                        "method":  "Direct web-page inspection",
+                        "sections":  "Lebombo demonstration studio; cooking class; professional chef; advance booking; availability; reservations/on-site booking; donation",
+                        "access":  "inspected",
+                        "title":  "Singita Community Culinary School – Kruger National Park",
+                        "note":  "Nested culinary-experience source. The guest class has a separate commitment, availability condition and donation structure from the included lodge meal entitlement."
+                    },
+                    {
+                        "id":  "S8",
+                        "url":  "https://singita.com/lodge/singita-lebombo-lodge/gallery/",
+                        "accessDate":  "2026-11-03",
+                        "sourceDate":  "Current gallery inspected 2026-11-03",
+                        "method":  "Direct web-page inspection",
+                        "sections":  "Accommodation; lodge; food and wine; dining; breakfast; lunch; experiences",
+                        "access":  "inspected",
+                        "title":  "Lebombo Lodge Gallery | Photos \u0026 Videos | Singita",
+                        "note":  "Visual dining and experience source. Used only to establish the range of publicly depicted dining contexts, not to infer operational availability or capacity."
+                    },
+                    {
+                        "id":  "S9",
+                        "url":  "https://singita.com/privacy-policy/",
+                        "accessDate":  "2026-11-03",
+                        "sourceDate":  "Current policy inspected 2026-11-03",
+                        "method":  "Direct web-page inspection",
+                        "sections":  "Guest personal information; booking/enquiry data; consent; access/correction/deletion; cross-border processing",
+                        "access":  "inspected",
+                        "title":  "Privacy Policy | Singita",
+                        "note":  "Post-stay data-relationship source. Used narrowly to establish that the guest information relationship can persist beyond physical departure."
+                    },
+                    {
+                        "id":  "S10",
+                        "url":  "https://singita.com/2026/04/outside-in-a-new-season-dawns-at-lebombo/",
+                        "accessDate":  "2026-11-03",
+                        "sourceDate":  "April 2026",
+                        "method":  "Direct web-page inspection",
+                        "sections":  "2026 refurbishment; Conservation Lounge; Gallery of Treasures; materials; landscape-derived palette; sensory design; Wine Studio; architecture; cross-ventilation and double glazing",
+                        "access":  "inspected",
+                        "title":  "Outside in – a new season dawns at Lebombo",
+                        "note":  "Primary atmosphere and current-design source. Supports the refreshed environmental, sensory and interpretive design state."
+                    },
+                    {
+                        "id":  "S11",
+                        "url":  "https://singita.com/2016/05/singita-lebombo-lodge-evolved/",
+                        "accessDate":  "2026-11-03",
+                        "sourceDate":  "May 2016",
+                        "method":  "Direct web-page inspection",
+                        "sections":  "2016 major lodge evolution; 13 suites; open-plan design; N\u0027Wanetsi River; continuity of light, space, openness and connection with nature",
+                        "access":  "inspected",
+                        "title":  "Singita Lebombo Lodge - Evolved",
+                        "note":  "Historical design source used to establish institutional evolution and continuity rather than current operating state."
+                    },
+                    {
+                        "id":  "S12",
+                        "url":  "https://singita.com/region/kruger-national-park/",
+                        "accessDate":  "2026-11-03",
+                        "sourceDate":  "Current page inspected 2026-11-03",
+                        "method":  "Direct web-page inspection",
+                        "sections":  "2001 concession; conservation/community/ecotourism mission; touch-the-earth-lightly philosophy; Lebombo and Sweni; 33,000-acre concession; ecological context",
+                        "access":  "inspected",
+                        "title":  "Singita Kruger National Park, South Africa",
+                        "note":  "Institutional-story and protected-area context source."
+                    },
+                    {
+                        "id":  "S13",
+                        "url":  "https://singita.com/2025/10/singita-kruger-in-south-africa-named-no-40-in-the-worlds-50-best-hotels-2025/",
+                        "accessDate":  "2026-11-03",
+                        "sourceDate":  "October 2025",
+                        "method":  "Direct web-page inspection",
+                        "sections":  "Design recognition; Singita CEO statement; more-than-20-year design continuity; internal design team; Cécile \u0026 Boyd; architects Andrew Makin and Janina Masojada",
+                        "access":  "inspected",
+                        "title":  "Singita Kruger in South Africa named No. 40 in The World\u0027s 50 Best Hotels 2025",
+                        "note":  "Design-history source used to identify credited creative partners and continuity claims. Award status is not treated as operational-performance evidence."
+                    }
+                ]
+}

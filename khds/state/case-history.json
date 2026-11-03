@@ -224,6 +224,17 @@
       "dossierComplete": true,
       "administrativeReconciliation": true,
       "publicationJournal": "khds/staging/case-40-singapore-changi-airport/publication.json"
+    },
+    {
+      "caseNumber": 41,
+      "institutionName": "Singita Lebombo Lodge",
+      "slug": "singita-lebombo-lodge",
+      "institutionType": "luxury-safari-lodge",
+      "sector": "safari-lodges",
+      "canonicalPath": "khds/research/institutions/safari-lodges/singita-lebombo-lodge/",
+      "dossierComplete": true,
+      "administrativeReconciliation": true,
+      "publicationJournal": "khds/staging/case-41-singita-lebombo-lodge/publication.json"
     }
   ],
   "priorIdentities": [

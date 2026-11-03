@@ -3,22 +3,22 @@
   "expectedBranch": "main",
   "workflowStatus": "idle",
   "latestCompletedCase": {
-    "caseNumber": 40,
-    "institutionName": "Singapore Changi Airport",
-    "slug": "singapore-changi-airport",
-    "institutionType": "Multi-terminal airport hospitality ecosystem combining passenger processing, airside and landside access states, transfer flows, lounges, transit hotels, dining, retail, attractions, baggage services and third-party airline/operator relationships",
-    "sector": "airport-hospitality",
-    "canonicalPath": "khds/research/institutions/airport-hospitality/singapore-changi-airport/",
+    "caseNumber": 41,
+    "institutionName": "Singita Lebombo Lodge",
+    "slug": "singita-lebombo-lodge",
+    "institutionType": "luxury-safari-lodge",
+    "sector": "safari-lodges",
+    "canonicalPath": "khds/research/institutions/safari-lodges/singita-lebombo-lodge/",
     "dossierComplete": true,
     "administrativeReconciliation": true
   },
-  "expectedNextCase": 41,
+  "expectedNextCase": 42,
   "researchAuthorized": false,
   "authorization": null,
   "activeCase": null,
   "disagreements": [],
   "publication": {
-    "journalPath": "khds/staging/case-40-singapore-changi-airport/publication.json",
+    "journalPath": "khds/staging/case-41-singita-lebombo-lodge/publication.json",
     "status": "promoted"
   },
   "reconciliationRecord": {
@@ -72,8 +72,8 @@
   },
   "reconciliationReview": {
     "approvedBy": "Brian Kodawa",
-    "approvedAt": "2026-10-20T16:35:09.542Z",
-    "contentDigest": "e0810352beef0a7f63e6474d58ea3dd81cc8acf7b25b72b2e12379573f0f90fb",
+    "approvedAt": "2026-11-03T10:41:15.659Z",
+    "contentDigest": "4fd9acb9337bfaa41224ac150da1f51d1c522e4d70771da19202dd9507e6bae9",
     "controlChanges": []
   },
   "historyReconciliation": {
