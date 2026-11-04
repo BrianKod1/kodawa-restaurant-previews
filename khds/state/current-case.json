@@ -3,22 +3,22 @@
   "expectedBranch": "main",
   "workflowStatus": "idle",
   "latestCompletedCase": {
-    "caseNumber": 41,
-    "institutionName": "Singita Lebombo Lodge",
-    "slug": "singita-lebombo-lodge",
-    "institutionType": "luxury-safari-lodge",
-    "sector": "safari-lodges",
-    "canonicalPath": "khds/research/institutions/safari-lodges/singita-lebombo-lodge/",
+    "caseNumber": 42,
+    "institutionName": "Tomorrowland Belgium + DreamVille",
+    "slug": "tomorrowland-belgium",
+    "institutionType": "multi-day festival hospitality ecosystem",
+    "sector": "festival-hospitality",
+    "canonicalPath": "khds/research/institutions/festival-hospitality/tomorrowland-belgium/",
     "dossierComplete": true,
     "administrativeReconciliation": true
   },
-  "expectedNextCase": 42,
+  "expectedNextCase": 43,
   "researchAuthorized": false,
   "authorization": null,
   "activeCase": null,
   "disagreements": [],
   "publication": {
-    "journalPath": "khds/staging/case-41-singita-lebombo-lodge/publication.json",
+    "journalPath": "khds/staging/case-42-tomorrowland-belgium/publication.json",
     "status": "promoted"
   },
   "reconciliationRecord": {
@@ -72,8 +72,8 @@
   },
   "reconciliationReview": {
     "approvedBy": "Brian Kodawa",
-    "approvedAt": "2026-11-03T10:41:15.659Z",
-    "contentDigest": "4fd9acb9337bfaa41224ac150da1f51d1c522e4d70771da19202dd9507e6bae9",
+    "approvedAt": "2026-11-04T15:43:17.926Z",
+    "contentDigest": "376d645a361d5f6bb93ad1123ee3d364d16dae28604db3fcaf32ffe5a1289551",
     "controlChanges": []
   },
   "historyReconciliation": {

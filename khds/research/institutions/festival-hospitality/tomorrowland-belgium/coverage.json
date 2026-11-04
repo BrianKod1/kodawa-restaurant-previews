@@ -1,0 +1,515 @@
+{
+  "schemaVersion": 1,
+  "dimensions": [
+    {
+      "dimension": "discovery",
+      "question": "How clearly can a prospective Tomorrowland Belgium visitor understand the difference among festival passes, DreamVille accommodation, premium access, Global Journey travel, cashless payment and zone-specific rights before committing?",
+      "scopeChange": "Discovery is treated as a package-and-entitlement problem rather than ticket discovery alone.",
+      "sources": [
+        "S2",
+        "S6",
+        "S7",
+        "S9",
+        "S15",
+        "S16",
+        "S17",
+        "S18"
+      ],
+      "observations": [
+        {
+          "text": "The public offer contains materially different products including festival passes, DreamVille packages, premium access and Global Journey packages.",
+          "sources": [
+            "S9",
+            "S15",
+            "S16",
+            "S18"
+          ]
+        },
+        {
+          "text": "Festival access does not automatically include DreamVille access.",
+          "sources": [
+            "S6",
+            "S17"
+          ]
+        },
+        {
+          "text": "DreamVille package type can determine access to restricted internal zones.",
+          "sources": [
+            "S7"
+          ]
+        },
+        {
+          "text": "Pre-registration does not guarantee successful purchase.",
+          "sources": [
+            "S15"
+          ]
+        }
+      ],
+      "unanswered": [
+        "Representative buyer comprehension is not established.",
+        "Sale-success probability and conversion by package are not public.",
+        "Mobile-versus-desktop discovery quality has not been tested."
+      ],
+      "rating": "partial",
+      "reason": "The public product structure is well exposed, but comprehension, availability dynamics and buyer outcomes remain unverified.",
+      "nextEvidence": "Compare representative purchase paths and test how ticket, DreamVille, premium and Global Journey rights are communicated at decision time."
+    },
+    {
+      "dimension": "reservation",
+      "question": "What becomes committed when a visitor purchases a Tomorrowland Pass or Package, and which rights remain conditional on payment, personalization, identity, Bracelet state, package type, provider or programme conditions?",
+      "scopeChange": "Reservation is decomposed into order, Main Buyer role, individual personalization and downstream service entitlements.",
+      "sources": [
+        "S2",
+        "S3",
+        "S4",
+        "S6",
+        "S7",
+        "S9",
+        "S18"
+      ],
+      "observations": [
+        {
+          "text": "Selected inventory is not secured until payment is completed.",
+          "sources": [
+            "S3"
+          ]
+        },
+        {
+          "text": "A paid order still requires individual personalization and identity-linked entitlement.",
+          "sources": [
+            "S4"
+          ]
+        },
+        {
+          "text": "The Main Buyer and individual visitors can be different roles.",
+          "sources": [
+            "S3",
+            "S4"
+          ]
+        },
+        {
+          "text": "DreamVille and Global Journey packages create commitments beyond simple festival admission.",
+          "sources": [
+            "S6",
+            "S9",
+            "S18"
+          ]
+        }
+      ],
+      "unanswered": [
+        "Internal reservation identifiers across package components are unknown.",
+        "Oversell and payment-failure recovery are not public.",
+        "Cross-provider modification propagation is unverified."
+      ],
+      "rating": "partial",
+      "reason": "The reservation sequence and role separation are explicit, but system coupling and failure handling remain incomplete.",
+      "nextEvidence": "Inspect confirmation, modification and cancellation behavior across ticket, accommodation and transport components."
+    },
+    {
+      "dimension": "pre-arrival",
+      "question": "What must a visitor resolve before arrival, including personalization, Bracelet delivery/activation, travel-provider rules, cashless setup, identity, accessibility and schedule information?",
+      "scopeChange": "Pre-arrival includes credential fulfilment, Global Journey preparation and cashless state because these materially affect later service use.",
+      "sources": [
+        "S2",
+        "S4",
+        "S5",
+        "S9",
+        "S10",
+        "S11",
+        "S12",
+        "S14",
+        "S20",
+        "S21",
+        "S22",
+        "S23"
+      ],
+      "observations": [
+        {
+          "text": "Personalization and identity matching are required before the visitor can safely rely on access entitlement.",
+          "sources": [
+            "S2",
+            "S4"
+          ]
+        },
+        {
+          "text": "Bracelet delivery can fail without eliminating the underlying entitlement because on-site pickup exists.",
+          "sources": [
+            "S5",
+            "S12"
+          ]
+        },
+        {
+          "text": "Cashless top-up behavior before arrival can alter the later refund workflow.",
+          "sources": [
+            "S20",
+            "S21"
+          ]
+        },
+        {
+          "text": "Global Journey travel rules remain transport-mode/provider specific after purchase.",
+          "sources": [
+            "S9",
+            "S10",
+            "S11"
+          ]
+        }
+      ],
+      "unanswered": [
+        "Bracelet delivery and activation failure rates are unknown.",
+        "Carrier-change recovery is not operationally verified.",
+        "Accessibility fulfilment quality is not established."
+      ],
+      "rating": "partial",
+      "reason": "Pre-arrival dependencies are clearly declared, but live recovery and cross-provider information continuity are not verified.",
+      "nextEvidence": "Seek operational evidence on Bracelet failure, carrier change, accessibility preparation and arrival-day recovery."
+    },
+    {
+      "dimension": "arrival",
+      "question": "At what point does a visitor become operationally admitted to the festival or DreamVille, and how do identity, Bracelet, time, package, zone, re-entry and accessibility affect admission?",
+      "scopeChange": "Arrival is treated as multiple access-validation events rather than one gate crossing.",
+      "sources": [
+        "S1",
+        "S2",
+        "S5",
+        "S7",
+        "S8",
+        "S12",
+        "S14",
+        "S17"
+      ],
+      "observations": [
+        {
+          "text": "Festival admission remains subject to stated check-in cutoffs even where the visitor holds valid entry rights.",
+          "sources": [
+            "S1",
+            "S8"
+          ]
+        },
+        {
+          "text": "Festival and DreamVille have distinct arrival windows and access rights.",
+          "sources": [
+            "S1",
+            "S8",
+            "S17"
+          ]
+        },
+        {
+          "text": "A missing Bracelet can be replaced at arrival using e-ticket and photo ID.",
+          "sources": [
+            "S12"
+          ]
+        },
+        {
+          "text": "DreamVille zone access remains package-specific after admission.",
+          "sources": [
+            "S7"
+          ]
+        }
+      ],
+      "unanswered": [
+        "Queue and ID-check performance are unknown.",
+        "Denied-entry and zone-dispute recovery are not public.",
+        "Live capacity state at entry is not established."
+      ],
+      "rating": "partial",
+      "reason": "The access states are explicit, but admission performance and recovery quality remain unverified.",
+      "nextEvidence": "Seek entrance-performance, denied-entry, Bracelet-failure and accessibility-arrival evidence."
+    },
+    {
+      "dimension": "stay",
+      "question": "How does participation operate after admission when festival access, DreamVille accommodation, zones, stages, premium areas, cashless payment, health support and temporary services each have different rules or capacities?",
+      "scopeChange": "Stay is treated as participation across event and accommodation service states rather than occupancy alone.",
+      "sources": [
+        "S1",
+        "S5",
+        "S16",
+        "S24",
+        "S25",
+        "S26",
+        "S27",
+        "S28"
+      ],
+      "observations": [
+        {
+          "text": "DreamVille functions as a temporary living environment with shared and area-specific services.",
+          "sources": [
+            "S24",
+            "S25"
+          ]
+        },
+        {
+          "text": "Area-specific sanitary, dining and support services differ within DreamVille.",
+          "sources": [
+            "S26",
+            "S27",
+            "S28"
+          ]
+        },
+        {
+          "text": "Festival admission does not guarantee premium-area access.",
+          "sources": [
+            "S16"
+          ]
+        },
+        {
+          "text": "Programme/stage state can change while overall admission remains valid.",
+          "sources": [
+            "S1"
+          ]
+        }
+      ],
+      "unanswered": [
+        "Live stage and facility capacity are unknown.",
+        "Service utilisation and wait times are not public.",
+        "Medical and support outcomes are not verified."
+      ],
+      "rating": "partial",
+      "reason": "Multiple service states are well documented, but live capacity, utilisation and recovery remain unverified.",
+      "nextEvidence": "Seek capacity, wait-time, service-recovery and medical-support performance evidence."
+    },
+    {
+      "dimension": "dining",
+      "question": "How does food and beverage operate across Tomorrowland and DreamVille when visitors can self-provision, buy from shared or area-specific outlets, purchase add-on meals and pay through cashless Bracelets?",
+      "scopeChange": "Dining separates food availability, accommodation-zone eligibility and cashless-payment state.",
+      "sources": [
+        "S5",
+        "S20",
+        "S21",
+        "S25",
+        "S26",
+        "S29"
+      ],
+      "observations": [
+        {
+          "text": "DreamVille permits self-provisioning while also offering commercial food and beverage services.",
+          "sources": [
+            "S25",
+            "S29"
+          ]
+        },
+        {
+          "text": "Some dining is area-specific and can inherit accommodation-zone restrictions.",
+          "sources": [
+            "S26"
+          ]
+        },
+        {
+          "text": "Breakfast can be a separately purchased add-on rather than part of accommodation entitlement.",
+          "sources": [
+            "S26"
+          ]
+        },
+        {
+          "text": "Bracelet access state and Pearl balance/refund state are separate.",
+          "sources": [
+            "S5",
+            "S20",
+            "S21"
+          ]
+        }
+      ],
+      "unanswered": [
+        "Allergen and dietary-safety handling are incomplete.",
+        "Live queues and outlet capacity are unknown.",
+        "Payment-outage and vendor-level recovery are not public."
+      ],
+      "rating": "partial",
+      "reason": "The dining/payment architecture is visible, but operational reliability, dietary safety and economics are unverified.",
+      "nextEvidence": "Seek representative allergen guidance, cashless-outage handling, queue data and vendor responsibility evidence."
+    },
+    {
+      "dimension": "departure",
+      "question": "What ends when a visitor leaves the festival or DreamVille, and which transport, cashless, refund, lost-property, account or identity relationships remain open afterward?",
+      "scopeChange": "Departure includes physical checkout, return transport, refunds, lost property and digital/account persistence.",
+      "sources": [
+        "S8",
+        "S9",
+        "S10",
+        "S11",
+        "S30",
+        "S31",
+        "S32",
+        "S33",
+        "S34"
+      ],
+      "observations": [
+        {
+          "text": "DreamVille has a final mandatory checkout while Global Journey return transport can continue afterward.",
+          "sources": [
+            "S8",
+            "S9",
+            "S10",
+            "S11"
+          ]
+        },
+        {
+          "text": "Cashless refunds can remain active after physical departure and use different automatic/manual workflows.",
+          "sources": [
+            "S31",
+            "S32",
+            "S33"
+          ]
+        },
+        {
+          "text": "Lost-property claims can continue after the visitor has left.",
+          "sources": [
+            "S30"
+          ]
+        },
+        {
+          "text": "Cashless balances are time-scoped by event/weekend rather than one continuous relationship.",
+          "sources": [
+            "S34"
+          ]
+        }
+      ],
+      "unanswered": [
+        "Refund success rates are unknown.",
+        "Missed-return transport recovery is not public.",
+        "Post-event complaint ownership is incomplete."
+      ],
+      "rating": "partial",
+      "reason": "Physical departure is clearly separate from financial, property and travel closure, but outcome performance remains unverified.",
+      "nextEvidence": "Seek refund outcomes, lost-property recovery rates, return-transport recovery and post-event support evidence."
+    },
+    {
+      "dimension": "atmosphere",
+      "question": "How is atmosphere created when the institution is temporary, themed, divided across stages and DreamVille spaces, and dependent on crowd, music, light, weather, time and access rights?",
+      "scopeChange": "Atmosphere is treated as an engineered, time-dependent service state rather than decoration alone.",
+      "sources": [
+        "S1",
+        "S35",
+        "S37",
+        "S41",
+        "S42",
+        "S43",
+        "S44"
+      ],
+      "observations": [
+        {
+          "text": "The Gathering creates an entitled pre-festival atmosphere for DreamVille visitors.",
+          "sources": [
+            "S37"
+          ]
+        },
+        {
+          "text": "The 2026 Consciencia theme was translated from narrative into physical MainStage architecture.",
+          "sources": [
+            "S41",
+            "S42"
+          ]
+        },
+        {
+          "text": "DreamVille functions as a distinct living/recovery atmosphere from the main festival.",
+          "sources": [
+            "S43"
+          ]
+        },
+        {
+          "text": "Weather and programme conditions can change the available atmospheric experience.",
+          "sources": [
+            "S1"
+          ]
+        }
+      ],
+      "unanswered": [
+        "Representative emotional response is not established.",
+        "Crowd-density comfort and sensory accessibility are unknown.",
+        "Atmosphere during failure or disruption is not independently verified."
+      ],
+      "rating": "partial",
+      "reason": "Atmosphere design and narrative intent are strong, but lived outcome and operational resilience remain unverified.",
+      "nextEvidence": "Compare official claims with independent visitor evidence and adverse-weather/disruption experience."
+    },
+    {
+      "dimension": "photography",
+      "question": "What does current Tomorrowland photography reveal about the temporary hospitality ecosystem, and where does curated imagery stop short of proving access, capacity, safety, service quality or recovery?",
+      "scopeChange": "Photography is used to establish current visual presentation across festival, DreamVille, food and Global Journey, not live operating performance.",
+      "sources": [
+        "S38",
+        "S39",
+        "S40",
+        "S42"
+      ],
+      "observations": [
+        {
+          "text": "Official 2026 media galleries cover festival, DreamVille, food and Global Journey categories.",
+          "sources": [
+            "S38"
+          ]
+        },
+        {
+          "text": "Current festival and DreamVille galleries provide substantial visual evidence for the 2026 edition.",
+          "sources": [
+            "S39",
+            "S40"
+          ]
+        },
+        {
+          "text": "The MainStage production story supports that the photographed 2026 environment was physically built.",
+          "sources": [
+            "S42"
+          ]
+        }
+      ],
+      "unanswered": [
+        "Official imagery is not a representative operating sample.",
+        "Queues, denied entry, sanitation, accessibility and recovery states are underrepresented.",
+        "No independent image comparison has been completed."
+      ],
+      "rating": "partial",
+      "reason": "Current visual coverage is strong for presentation but weak for access, failure and operational performance.",
+      "nextEvidence": "Compare official imagery with independent visitor imagery focused on arrival, queues, sanitation, accessibility and recovery."
+    },
+    {
+      "dimension": "story",
+      "question": "How does Tomorrowland construct one coherent institutional story across ticketing, travel, DreamVille, festival admission, temporary architecture, media and post-event memory, and how much of that continuity reflects operational integration?",
+      "scopeChange": "Story includes pre-event narrative, temporary physical institution, travel/accommodation, post-event media and persistent digital/financial relationships.",
+      "sources": [
+        "S35",
+        "S37",
+        "S38",
+        "S41",
+        "S42",
+        "S43",
+        "S44"
+      ],
+      "observations": [
+        {
+          "text": "Tomorrowland has maintained institutional continuity across repeated temporary events since 2005.",
+          "sources": [
+            "S35"
+          ]
+        },
+        {
+          "text": "The 2026 Consciencia narrative began before the event and was embedded physically in the MainStage.",
+          "sources": [
+            "S41",
+            "S42"
+          ]
+        },
+        {
+          "text": "DreamVille extends the story from event attendance into temporary living.",
+          "sources": [
+            "S43"
+          ]
+        },
+        {
+          "text": "Media and narrative continue after the physical event closes.",
+          "sources": [
+            "S38",
+            "S44"
+          ]
+        }
+      ],
+      "unanswered": [
+        "Visitor narrative comprehension is not established.",
+        "Internal integration behind the seamless story is unknown.",
+        "Theme-driven commercial effect is unverified."
+      ],
+      "rating": "partial",
+      "reason": "Institutional continuity and narrative translation are well documented, but operational integration and commercial effect remain incomplete.",
+      "nextEvidence": "Seek independent visitor perception and cross-provider operating evidence before assigning stronger institutional conclusions."
+    }
+  ]
+}

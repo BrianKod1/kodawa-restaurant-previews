@@ -1,0 +1,27 @@
+{
+  "caseNumber": 42,
+  "institutionName": "Tomorrowland Belgium + DreamVille",
+  "slug": "tomorrowland-belgium",
+  "institutionType": "multi-day festival hospitality ecosystem",
+  "sector": "festival-hospitality",
+  "canonicalPath": "khds/research/institutions/festival-hospitality/tomorrowland-belgium/",
+  "stagingPath": "khds/staging/case-42-tomorrowland-belgium",
+  "trackingChanges": [],
+  "requiredFiles": [
+    "README.md",
+    "discovery.md",
+    "reservation.md",
+    "pre-arrival.md",
+    "arrival.md",
+    "stay.md",
+    "dining.md",
+    "departure.md",
+    "atmosphere.md",
+    "photography.md",
+    "story.md",
+    "knowledge-extraction.md"
+  ],
+  "evidenceCoverageVersion": 1,
+  "lockedAt": "2026-11-04T15:10:36.814Z",
+  "baseCommit": "191da1d1a0548f1e565ae8a13b474f398819ec4a"
+}
