@@ -1,0 +1,27 @@
+{
+  "caseNumber": 43,
+  "institutionName": "Yas Island Abu Dhabi",
+  "slug": "yas-island-abu-dhabi",
+  "institutionType": "multi-attraction destination hospitality ecosystem",
+  "sector": "destination-hospitality",
+  "canonicalPath": "khds/research/institutions/destination-hospitality/yas-island-abu-dhabi/",
+  "stagingPath": "khds/staging/case-43-yas-island-abu-dhabi",
+  "trackingChanges": [],
+  "requiredFiles": [
+    "README.md",
+    "discovery.md",
+    "reservation.md",
+    "pre-arrival.md",
+    "arrival.md",
+    "stay.md",
+    "dining.md",
+    "departure.md",
+    "atmosphere.md",
+    "photography.md",
+    "story.md",
+    "knowledge-extraction.md"
+  ],
+  "evidenceCoverageVersion": 1,
+  "lockedAt": "2026-11-05T17:04:06.073Z",
+  "baseCommit": "8963043532e3aa4f6d4edb8b7e25278b8ecaa888"
+}

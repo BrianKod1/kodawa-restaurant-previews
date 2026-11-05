@@ -1,0 +1,505 @@
+{
+  "schemaVersion": 1,
+  "dimensions": [
+    {
+      "dimension": "discovery",
+      "question": "How clearly can a prospective Yas Island visitor understand the difference among hotel stays, Stay & Play packages, Premium Stay & Play, Multi-Park products, events, transport and destination experiences before committing?",
+      "scopeChange": "Discovery is treated as a destination-product and entitlement problem rather than simple attraction discovery.",
+      "sources": [
+        "S2",
+        "S3",
+        "S4",
+        "S5",
+        "S9",
+        "S10",
+        "S11"
+      ],
+      "observations": [
+        {
+          "text": "Yas Island presents multiple materially different products under one destination brand.",
+          "sources": [
+            "S2",
+            "S3",
+            "S4",
+            "S9"
+          ]
+        },
+        {
+          "text": "Stay & Play attraction entitlement can vary by participating hotel and stay length.",
+          "sources": [
+            "S2"
+          ]
+        },
+        {
+          "text": "Multi-Park products are time-bounded and identity-bound rather than unlimited destination access.",
+          "sources": [
+            "S4"
+          ]
+        },
+        {
+          "text": "Some transport benefits require qualifying attraction credentials and remain first-come, first-served.",
+          "sources": [
+            "S5"
+          ]
+        }
+      ],
+      "unanswered": [
+        "Representative buyer comprehension is not established.",
+        "Conversion by package type is not public.",
+        "Package-selection error frequency is unknown."
+      ],
+      "rating": "partial",
+      "reason": "Destination product differentiation is clear, but buyer understanding and selection outcomes remain unverified.",
+      "nextEvidence": "Compare representative purchase paths and test whether hotel, park, premium and transport entitlements are communicated consistently."
+    },
+    {
+      "dimension": "reservation",
+      "question": "What becomes committed when a visitor books through Yas Island, and how do named guests, supplier terms, vouchers, tickets and package rules determine what can actually be redeemed?",
+      "scopeChange": "Reservation is decomposed into destination booking, named guest, supplier-specific redemption and local entitlement.",
+      "sources": [
+        "S1",
+        "S2",
+        "S4",
+        "S9",
+        "S10"
+      ],
+      "observations": [
+        {
+          "text": "Destination bookings incorporate package-specific and supplier-specific terms.",
+          "sources": [
+            "S1"
+          ]
+        },
+        {
+          "text": "A purchaser can book for multiple named guests who then hold individual redemption rights.",
+          "sources": [
+            "S1"
+          ]
+        },
+        {
+          "text": "One package can generate multiple supplier vouchers and tickets.",
+          "sources": [
+            "S1"
+          ]
+        },
+        {
+          "text": "Premium and Multi-Park products require local state transitions after purchase.",
+          "sources": [
+            "S4",
+            "S9"
+          ]
+        }
+      ],
+      "unanswered": [
+        "One internal reservation identifier across suppliers is not established.",
+        "Cross-component amendment propagation is unknown.",
+        "Supplier redemption failure rates are not public."
+      ],
+      "rating": "partial",
+      "reason": "Booking and redemption boundaries are explicit, but backend integration and exception handling remain unverified.",
+      "nextEvidence": "Seek operational evidence on supplier redemption, amendments, cancellations and cross-component state synchronization."
+    },
+    {
+      "dimension": "pre-arrival",
+      "question": "What must a visitor resolve before arrival, including vouchers, identity, visa responsibility, FacePass setup, shuttle eligibility and opening-hours planning?",
+      "scopeChange": "Pre-arrival includes identity, transport eligibility and local-service readiness because these materially affect destination usability.",
+      "sources": [
+        "S1",
+        "S4",
+        "S5",
+        "S6",
+        "S7",
+        "S8",
+        "S9",
+        "S12",
+        "S13",
+        "S14"
+      ],
+      "observations": [
+        {
+          "text": "Vouchers and tickets must be available for supplier-level redemption.",
+          "sources": [
+            "S1"
+          ]
+        },
+        {
+          "text": "International travel and visa responsibility remain outside the destination package.",
+          "sources": [
+            "S1",
+            "S6"
+          ]
+        },
+        {
+          "text": "Airport/Dubai shuttle entitlement does not guarantee a reserved seat.",
+          "sources": [
+            "S5",
+            "S6"
+          ]
+        },
+        {
+          "text": "FacePass readiness requires a separate identity/enrolment step.",
+          "sources": [
+            "S7",
+            "S8"
+          ]
+        }
+      ],
+      "unanswered": [
+        "Voucher-delivery failure rates are unknown.",
+        "FacePass enrolment failure rates are unknown.",
+        "Missed-shuttle recovery and hotel-to-park coordination are not public."
+      ],
+      "rating": "partial",
+      "reason": "Preparation dependencies are well documented, but live recovery and cross-service coordination remain unverified.",
+      "nextEvidence": "Seek operational evidence on failed vouchers, FacePass enrolment, shuttle capacity and itinerary handoffs."
+    },
+    {
+      "dimension": "arrival",
+      "question": "At what point does a Yas Island visitor become operationally admitted to hotel, transport or attraction services, and how do credentials, capacity, time windows and local redemption affect that transition?",
+      "scopeChange": "Arrival is treated as a sequence of local admissions rather than one destination arrival event.",
+      "sources": [
+        "S1",
+        "S4",
+        "S5",
+        "S6",
+        "S7",
+        "S8",
+        "S9"
+      ],
+      "observations": [
+        {
+          "text": "Shuttle boarding requires qualifying credentials but remains capacity-limited.",
+          "sources": [
+            "S5",
+            "S6"
+          ]
+        },
+        {
+          "text": "Hotel check-in remains separately governed after destination booking.",
+          "sources": [
+            "S1"
+          ]
+        },
+        {
+          "text": "The first Multi-Park admission changes the ticket state by activating the use window.",
+          "sources": [
+            "S4"
+          ]
+        },
+        {
+          "text": "Premium access requires additional local redemption beyond park admission.",
+          "sources": [
+            "S9"
+          ]
+        }
+      ],
+      "unanswered": [
+        "Shuttle wait and denied-boarding frequency are unknown.",
+        "Hotel check-in and park-gate recovery are not public.",
+        "Premium redemption performance is unverified."
+      ],
+      "rating": "partial",
+      "reason": "Local admission states are explicit, but performance and failure recovery remain incomplete.",
+      "nextEvidence": "Seek gate, hotel check-in, shuttle-capacity and premium-redemption performance evidence."
+    },
+    {
+      "dimension": "stay",
+      "question": "How does the guest relationship operate after arrival when hotels, theme parks, beaches, events, transport and local facilities retain separate operating and entitlement states?",
+      "scopeChange": "Stay is treated as participation across multiple destination institutions rather than accommodation occupancy alone.",
+      "sources": [
+        "S2",
+        "S5",
+        "S9",
+        "S15",
+        "S20",
+        "S21",
+        "S22",
+        "S23"
+      ],
+      "observations": [
+        {
+          "text": "Hotel stay does not create universal entitlement to all Yas Island services.",
+          "sources": [
+            "S2",
+            "S20",
+            "S21"
+          ]
+        },
+        {
+          "text": "Premium access remains separate from general destination stay and park admission.",
+          "sources": [
+            "S9",
+            "S23"
+          ]
+        },
+        {
+          "text": "On-island mobility remains timetable-dependent rather than continuous on-demand transport.",
+          "sources": [
+            "S5",
+            "S22"
+          ]
+        },
+        {
+          "text": "Public terms direct service failures first to the local hotel or attraction before destination support.",
+          "sources": [
+            "S15"
+          ]
+        }
+      ],
+      "unanswered": [
+        "Destination-wide service-state synchronization is unknown.",
+        "Hotel-to-park recovery handoffs are not public.",
+        "Cross-operator service-credit mechanisms are not established."
+      ],
+      "rating": "partial",
+      "reason": "Service fragmentation is clear, but shared operating coordination and recovery outcomes remain unverified.",
+      "nextEvidence": "Seek cross-operator service-recovery, transport and guest-state continuity evidence."
+    },
+    {
+      "dimension": "dining",
+      "question": "How does dining operate when Yas Island includes hotel, park, waterfront, mall and marina venues plus package-specific meal entitlements?",
+      "scopeChange": "Dining separates destination discovery, venue access, package-derived meal rights and local transaction conditions.",
+      "sources": [
+        "S16",
+        "S17",
+        "S18",
+        "S19",
+        "S24"
+      ],
+      "observations": [
+        {
+          "text": "Yas Island dining spans multiple institution types rather than one restaurant system.",
+          "sources": [
+            "S16",
+            "S18"
+          ]
+        },
+        {
+          "text": "Some attraction-branded dining can be used without park admission.",
+          "sources": [
+            "S17"
+          ]
+        },
+        {
+          "text": "Child meal entitlement can depend on adult meal-plan or spend conditions.",
+          "sources": [
+            "S19"
+          ]
+        },
+        {
+          "text": "Half-board benefits can activate at hotel check-in rather than at package purchase.",
+          "sources": [
+            "S24"
+          ]
+        }
+      ],
+      "unanswered": [
+        "Meal-voucher settlement among operators is unknown.",
+        "Dining recovery and dietary-safety coordination are incomplete.",
+        "Live restaurant capacity is not established."
+      ],
+      "rating": "partial",
+      "reason": "Dining entitlement logic is explicit, but settlement, reliability and cross-venue coordination remain unverified.",
+      "nextEvidence": "Seek operator settlement, dietary coordination, dining capacity and meal-plan failure-recovery evidence."
+    },
+    {
+      "dimension": "departure",
+      "question": "What ends when a guest checks out or leaves Yas Island, and which park, transport, digital, support or complaint relationships remain active afterward?",
+      "scopeChange": "Departure includes time-bounded park rights, outbound transport, digital account state and destination-level support after physical checkout.",
+      "sources": [
+        "S4",
+        "S5",
+        "S15",
+        "S23",
+        "S25",
+        "S26"
+      ],
+      "observations": [
+        {
+          "text": "Hotel stay dates can bound included attraction and Premium Pass entitlement.",
+          "sources": [
+            "S23",
+            "S25"
+          ]
+        },
+        {
+          "text": "Destination support can remain available after the booking dates.",
+          "sources": [
+            "S15"
+          ]
+        },
+        {
+          "text": "Destination refunds do not necessarily cover external journey costs.",
+          "sources": [
+            "S15"
+          ]
+        },
+        {
+          "text": "Digital identity/payment state can persist beyond the physical visit.",
+          "sources": [
+            "S26"
+          ]
+        }
+      ],
+      "unanswered": [
+        "Complaint-resolution rates are unknown.",
+        "Missed outbound transport recovery is not public.",
+        "Digital-state retention outcomes are incomplete."
+      ],
+      "rating": "partial",
+      "reason": "Physical departure is clearly separate from support and digital closure, but recovery outcomes remain unverified.",
+      "nextEvidence": "Seek complaint, refund, outbound-transport and digital-account closure evidence."
+    },
+    {
+      "dimension": "atmosphere",
+      "question": "How is atmosphere created across a destination that combines parks, waterfront nightlife, hotels, arenas, beaches, malls and events with different local sensory and social states?",
+      "scopeChange": "Atmosphere is treated as a destination-level composition of multiple local environments rather than one unified mood.",
+      "sources": [
+        "S27",
+        "S28",
+        "S29",
+        "S30",
+        "S31"
+      ],
+      "observations": [
+        {
+          "text": "Yas Island presents one destination identity across atmospherically different local environments.",
+          "sources": [
+            "S27",
+            "S28",
+            "S29",
+            "S30",
+            "S31"
+          ]
+        },
+        {
+          "text": "Yas Bay changes from daytime leisure to evening dining/nightlife/event context.",
+          "sources": [
+            "S28"
+          ]
+        },
+        {
+          "text": "Warner Bros. World and SeaWorld intentionally create distinct immersive worlds.",
+          "sources": [
+            "S30",
+            "S31"
+          ]
+        },
+        {
+          "text": "Destination-level brand values sit above locally distinct atmospheres.",
+          "sources": [
+            "S27"
+          ]
+        }
+      ],
+      "unanswered": [
+        "Representative emotional response is not established.",
+        "Crowd comfort and sensory accessibility are unknown.",
+        "Atmosphere during disruption is not independently verified."
+      ],
+      "rating": "partial",
+      "reason": "Local atmosphere design is well documented, but lived response and destination-wide continuity remain incomplete.",
+      "nextEvidence": "Compare destination claims with independent visitor evidence and event/congestion conditions."
+    },
+    {
+      "dimension": "photography",
+      "question": "What does photography reveal about Yas Island, and how do ride capture, roaming photography, Photofinder, consent, purchase and retention create distinct service states?",
+      "scopeChange": "Photography is treated as both visual evidence and a guest-service lifecycle.",
+      "sources": [
+        "S27",
+        "S28",
+        "S30",
+        "S31",
+        "S32"
+      ],
+      "observations": [
+        {
+          "text": "Destination imagery presents multiple local environments under one visual identity.",
+          "sources": [
+            "S27",
+            "S28",
+            "S30",
+            "S31"
+          ]
+        },
+        {
+          "text": "Automated and roaming photography use different capture and consent paths.",
+          "sources": [
+            "S32"
+          ]
+        },
+        {
+          "text": "Photo capture, matching and purchase are distinct states.",
+          "sources": [
+            "S32"
+          ]
+        },
+        {
+          "text": "Photo retention is time-bounded rather than permanent.",
+          "sources": [
+            "S32"
+          ]
+        }
+      ],
+      "unanswered": [
+        "Capture and matching accuracy are unknown.",
+        "Photo purchase conversion is not public.",
+        "Cross-attraction photo continuity is unverified."
+      ],
+      "rating": "partial",
+      "reason": "Photography lifecycle states are explicit, but operational performance and destination-wide continuity are incomplete.",
+      "nextEvidence": "Seek evidence on photo matching, purchase, deletion and cross-attraction account continuity."
+    },
+    {
+      "dimension": "story",
+      "question": "How does Yas Island construct one coherent destination story across multiple operators, and how much of that story reflects operational integration rather than promotional unity?",
+      "scopeChange": "Story includes destination identity, campaigns, destination-level measurement, guest-experience governance and local brand coexistence.",
+      "sources": [
+        "S27",
+        "S29",
+        "S30",
+        "S31",
+        "S33",
+        "S34",
+        "S35",
+        "S36"
+      ],
+      "observations": [
+        {
+          "text": "Yas Island presents one destination identity across multiple brands and institutions.",
+          "sources": [
+            "S27",
+            "S30",
+            "S31"
+          ]
+        },
+        {
+          "text": "Miral orchestrates destination-level campaigns above local attraction brands.",
+          "sources": [
+            "S33"
+          ]
+        },
+        {
+          "text": "Destination performance is measured separately from individual attraction performance.",
+          "sources": [
+            "S34"
+          ]
+        },
+        {
+          "text": "Guest experience is recognized across attractions, hotels and experiences at destination level.",
+          "sources": [
+            "S35"
+          ]
+        }
+      ],
+      "unanswered": [
+        "Internal destination command structure is not public.",
+        "Shared CRM and guest-state architecture are unknown.",
+        "Destination-level causal commercial effect is unverified."
+      ],
+      "rating": "partial",
+      "reason": "Destination-level narrative and measurement are clear, but internal operational integration remains unverified.",
+      "nextEvidence": "Seek cross-operator governance, shared guest-state and recovery evidence before stronger architecture conclusions."
+    }
+  ]
+}

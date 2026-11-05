@@ -246,6 +246,17 @@
       "dossierComplete": true,
       "administrativeReconciliation": true,
       "publicationJournal": "khds/staging/case-42-tomorrowland-belgium/publication.json"
+    },
+    {
+      "caseNumber": 43,
+      "institutionName": "Yas Island Abu Dhabi",
+      "slug": "yas-island-abu-dhabi",
+      "institutionType": "multi-attraction destination hospitality ecosystem",
+      "sector": "destination-hospitality",
+      "canonicalPath": "khds/research/institutions/destination-hospitality/yas-island-abu-dhabi/",
+      "dossierComplete": true,
+      "administrativeReconciliation": true,
+      "publicationJournal": "khds/staging/case-43-yas-island-abu-dhabi/publication.json"
     }
   ],
   "priorIdentities": [

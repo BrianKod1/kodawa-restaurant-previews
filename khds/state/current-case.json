@@ -3,22 +3,22 @@
   "expectedBranch": "main",
   "workflowStatus": "idle",
   "latestCompletedCase": {
-    "caseNumber": 42,
-    "institutionName": "Tomorrowland Belgium + DreamVille",
-    "slug": "tomorrowland-belgium",
-    "institutionType": "multi-day festival hospitality ecosystem",
-    "sector": "festival-hospitality",
-    "canonicalPath": "khds/research/institutions/festival-hospitality/tomorrowland-belgium/",
+    "caseNumber": 43,
+    "institutionName": "Yas Island Abu Dhabi",
+    "slug": "yas-island-abu-dhabi",
+    "institutionType": "multi-attraction destination hospitality ecosystem",
+    "sector": "destination-hospitality",
+    "canonicalPath": "khds/research/institutions/destination-hospitality/yas-island-abu-dhabi/",
     "dossierComplete": true,
     "administrativeReconciliation": true
   },
-  "expectedNextCase": 43,
+  "expectedNextCase": 44,
   "researchAuthorized": false,
   "authorization": null,
   "activeCase": null,
   "disagreements": [],
   "publication": {
-    "journalPath": "khds/staging/case-42-tomorrowland-belgium/publication.json",
+    "journalPath": "khds/staging/case-43-yas-island-abu-dhabi/publication.json",
     "status": "promoted"
   },
   "reconciliationRecord": {
@@ -72,8 +72,8 @@
   },
   "reconciliationReview": {
     "approvedBy": "Brian Kodawa",
-    "approvedAt": "2026-11-04T15:43:17.926Z",
-    "contentDigest": "376d645a361d5f6bb93ad1123ee3d364d16dae28604db3fcaf32ffe5a1289551",
+    "approvedAt": "2026-11-05T17:39:38.334Z",
+    "contentDigest": "142bb311fd141fce8f8932d22d877056e57c68fbbd64335a9a5255688d5fe581",
     "controlChanges": []
   },
   "historyReconciliation": {
