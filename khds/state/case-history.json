@@ -257,6 +257,17 @@
       "dossierComplete": true,
       "administrativeReconciliation": true,
       "publicationJournal": "khds/staging/case-43-yas-island-abu-dhabi/publication.json"
+    },
+    {
+      "caseNumber": 44,
+      "institutionName": "Ronald McDonald House Charities Toronto",
+      "slug": "rmhc-toronto",
+      "institutionType": "family-centred medical accommodation and respite hospitality system",
+      "sector": "institutional-hospitality",
+      "canonicalPath": "khds/research/institutions/institutional-hospitality/rmhc-toronto/",
+      "dossierComplete": true,
+      "administrativeReconciliation": true,
+      "publicationJournal": "khds/staging/case-44-rmhc-toronto/publication.json"
     }
   ],
   "priorIdentities": [

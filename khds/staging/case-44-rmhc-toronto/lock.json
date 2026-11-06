@@ -1,0 +1,27 @@
+{
+  "caseNumber": 44,
+  "institutionName": "Ronald McDonald House Charities Toronto",
+  "slug": "rmhc-toronto",
+  "institutionType": "family-centred medical accommodation and respite hospitality system",
+  "sector": "institutional-hospitality",
+  "canonicalPath": "khds/research/institutions/institutional-hospitality/rmhc-toronto/",
+  "stagingPath": "khds/staging/case-44-rmhc-toronto",
+  "trackingChanges": [],
+  "requiredFiles": [
+    "README.md",
+    "discovery.md",
+    "reservation.md",
+    "pre-arrival.md",
+    "arrival.md",
+    "stay.md",
+    "dining.md",
+    "departure.md",
+    "atmosphere.md",
+    "photography.md",
+    "story.md",
+    "knowledge-extraction.md"
+  ],
+  "evidenceCoverageVersion": 1,
+  "lockedAt": "2026-11-06T17:32:57.332Z",
+  "baseCommit": "428c9a91070fa9d6ddeb1e25c475e5155bd95165"
+}

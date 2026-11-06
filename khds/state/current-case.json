@@ -3,22 +3,22 @@
   "expectedBranch": "main",
   "workflowStatus": "idle",
   "latestCompletedCase": {
-    "caseNumber": 43,
-    "institutionName": "Yas Island Abu Dhabi",
-    "slug": "yas-island-abu-dhabi",
-    "institutionType": "multi-attraction destination hospitality ecosystem",
-    "sector": "destination-hospitality",
-    "canonicalPath": "khds/research/institutions/destination-hospitality/yas-island-abu-dhabi/",
+    "caseNumber": 44,
+    "institutionName": "Ronald McDonald House Charities Toronto",
+    "slug": "rmhc-toronto",
+    "institutionType": "family-centred medical accommodation and respite hospitality system",
+    "sector": "institutional-hospitality",
+    "canonicalPath": "khds/research/institutions/institutional-hospitality/rmhc-toronto/",
     "dossierComplete": true,
     "administrativeReconciliation": true
   },
-  "expectedNextCase": 44,
+  "expectedNextCase": 45,
   "researchAuthorized": false,
   "authorization": null,
   "activeCase": null,
   "disagreements": [],
   "publication": {
-    "journalPath": "khds/staging/case-43-yas-island-abu-dhabi/publication.json",
+    "journalPath": "khds/staging/case-44-rmhc-toronto/publication.json",
     "status": "promoted"
   },
   "reconciliationRecord": {
@@ -72,8 +72,8 @@
   },
   "reconciliationReview": {
     "approvedBy": "Brian Kodawa",
-    "approvedAt": "2026-11-05T17:39:38.334Z",
-    "contentDigest": "142bb311fd141fce8f8932d22d877056e57c68fbbd64335a9a5255688d5fe581",
+    "approvedAt": "2026-11-06T17:59:53.404Z",
+    "contentDigest": "65668240ef3e0ef3fb221447d4f77591788c9a7caeba86514c1dfb1c3aa8ee04",
     "controlChanges": []
   },
   "historyReconciliation": {

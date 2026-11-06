@@ -1,0 +1,521 @@
+{
+  "schemaVersion": 1,
+  "dimensions": [
+    {
+      "dimension": "discovery",
+      "question": "How does a family discover which RMHC Toronto service fits its situation when House accommodation, Family Rooms, sleep spaces, school and support services use different eligibility and capacity rules?",
+      "scopeChange": "Discovery is treated as a family-role, eligibility and service-routing problem rather than ordinary lodging search.",
+      "sources": [
+        "S1",
+        "S2",
+        "S3",
+        "S4",
+        "S5",
+        "S6",
+        "S7",
+        "S8"
+      ],
+      "observations": [
+        {
+          "text": "RMHC Toronto operates multiple hospitality/service modes rather than one uniform product.",
+          "sources": [
+            "S2",
+            "S3",
+            "S8"
+          ]
+        },
+        {
+          "text": "House eligibility depends on medical context, distance, role and hospital referral.",
+          "sources": [
+            "S1",
+            "S2"
+          ]
+        },
+        {
+          "text": "Family Room eligibility differs from House eligibility and varies by hospital/unit.",
+          "sources": [
+            "S3",
+            "S4",
+            "S5",
+            "S6",
+            "S7"
+          ]
+        },
+        {
+          "text": "Eligible families may still face House or sleep-space capacity limits.",
+          "sources": [
+            "S1",
+            "S3"
+          ]
+        }
+      ],
+      "unanswered": [
+        "How families first discover RMHC Toronto is not established.",
+        "Referral conversion rates are unknown.",
+        "Real-time visibility of House or Family Room capacity is not public."
+      ],
+      "rating": "partial",
+      "reason": "Service and eligibility differentiation are clear, but discovery effectiveness and unmet demand remain unverified.",
+      "nextEvidence": "Seek independent family discovery pathways, referral conversion and live capacity visibility."
+    },
+    {
+      "dimension": "reservation",
+      "question": "How does medical need become hospitality access when House admission requires referral, clearance and wait-list priority while Family Room sleep space uses local assignment or first-come allocation?",
+      "scopeChange": "Reservation is reframed as eligibility, referral and allocation rather than purchase and booking.",
+      "sources": [
+        "S1",
+        "S2",
+        "S3",
+        "S4",
+        "S5",
+        "S6",
+        "S7"
+      ],
+      "observations": [
+        {
+          "text": "Hospital social-worker referral is part of the House access path.",
+          "sources": [
+            "S1"
+          ]
+        },
+        {
+          "text": "Referral does not secure a room because clearance and capacity remain separate states.",
+          "sources": [
+            "S1"
+          ]
+        },
+        {
+          "text": "Wait-list priority depends on care type and distance rather than simple chronology.",
+          "sources": [
+            "S2"
+          ]
+        },
+        {
+          "text": "Family Room sleep-space access uses hospital assignment or first-come processes.",
+          "sources": [
+            "S3"
+          ]
+        }
+      ],
+      "unanswered": [
+        "Referral and background-check turnaround times are unknown.",
+        "Average wait-list duration is unknown.",
+        "Priority tie-breaking and accessibility allocation are not public."
+      ],
+      "rating": "partial",
+      "reason": "Admission logic is explicit, but processing performance and detailed allocation rules remain unverified.",
+      "nextEvidence": "Seek operational data on wait-list duration, room allocation and clearance timelines."
+    },
+    {
+      "dimension": "pre-arrival",
+      "question": "What must a family resolve before arrival while room availability remains uncertain and adult clearance, health-safety and hospital-unit eligibility can still affect access?",
+      "scopeChange": "Pre-arrival includes uncertainty management and cross-institution readiness rather than only travel preparation.",
+      "sources": [
+        "S1",
+        "S2",
+        "S3",
+        "S4",
+        "S5",
+        "S6",
+        "S7"
+      ],
+      "observations": [
+        {
+          "text": "Families may need backup accommodation because House availability is not guaranteed.",
+          "sources": [
+            "S1"
+          ]
+        },
+        {
+          "text": "Wait-listed families can remain unresolved until shortly before need.",
+          "sources": [
+            "S1"
+          ]
+        },
+        {
+          "text": "Adult background checks are separate from the child's treatment state.",
+          "sources": [
+            "S1"
+          ]
+        },
+        {
+          "text": "Family Room hours, services and eligibility vary by hospital/unit.",
+          "sources": [
+            "S3",
+            "S4",
+            "S5",
+            "S6",
+            "S7"
+          ]
+        }
+      ],
+      "unanswered": [
+        "Last-minute room-offer communication is not documented.",
+        "Arrival deadlines after an offer are unknown.",
+        "Accessibility, language support and transport planning are incomplete."
+      ],
+      "rating": "partial",
+      "reason": "Pre-arrival dependencies are clear, but the live communication and readiness process is incomplete.",
+      "nextEvidence": "Seek family-facing wait-list communication, arrival instructions and accessibility planning."
+    },
+    {
+      "dimension": "arrival",
+      "question": "What changes when a family physically reaches the House or Family Room, and how do local capacity, unit eligibility and responsibility boundaries determine whether hospitality service actually begins?",
+      "scopeChange": "Arrival is treated as local admission into non-clinical services rather than simple physical presence.",
+      "sources": [
+        "S1",
+        "S2",
+        "S3",
+        "S4",
+        "S5",
+        "S6",
+        "S7"
+      ],
+      "observations": [
+        {
+          "text": "Physical presence does not override House admission requirements or room availability.",
+          "sources": [
+            "S1"
+          ]
+        },
+        {
+          "text": "Hospital admission and House admission are separate states.",
+          "sources": [
+            "S1",
+            "S2"
+          ]
+        },
+        {
+          "text": "Family Room access is unit-specific and patient/family roles are distinct.",
+          "sources": [
+            "S3",
+            "S4",
+            "S5",
+            "S6",
+            "S7"
+          ]
+        },
+        {
+          "text": "Family Room access does not guarantee overnight sleep capacity.",
+          "sources": [
+            "S3"
+          ]
+        }
+      ],
+      "unanswered": [
+        "House check-in procedure and hours are not public.",
+        "Family Room occupancy limits are unknown.",
+        "Failed-arrival escalation is not documented."
+      ],
+      "rating": "partial",
+      "reason": "Admission and role boundaries are explicit, but physical check-in and capacity-recovery operations remain incomplete.",
+      "nextEvidence": "Seek House check-in, local occupancy and failed-arrival recovery evidence."
+    },
+    {
+      "dimension": "stay",
+      "question": "How does the family stay operate when treatment, school, meals, household routines, respite and family composition can change independently?",
+      "scopeChange": "Stay is treated as a family-living system rather than room occupancy alone.",
+      "sources": [
+        "S11",
+        "S12",
+        "S13",
+        "S14",
+        "S16",
+        "S17",
+        "S18",
+        "S19",
+        "S20"
+      ],
+      "observations": [
+        {
+          "text": "The House supports household routines through kitchen, laundry, family spaces and programs.",
+          "sources": [
+            "S11",
+            "S14"
+          ]
+        },
+        {
+          "text": "School is a separate service state with rolling admission and adaptable participation.",
+          "sources": [
+            "S12",
+            "S13"
+          ]
+        },
+        {
+          "text": "Family co-location can vary during the medical journey.",
+          "sources": [
+            "S16",
+            "S17"
+          ]
+        },
+        {
+          "text": "Family Rooms provide a distinct bedside-adjacent respite mode.",
+          "sources": [
+            "S19",
+            "S20"
+          ]
+        }
+      ],
+      "unanswered": [
+        "Maximum stay duration and service-utilization rates are not public.",
+        "Shared family identity across services is unknown.",
+        "Hospital-to-House state propagation is unverified."
+      ],
+      "rating": "partial",
+      "reason": "Daily-living and education layers are clear, but service orchestration and utilization remain unverified.",
+      "nextEvidence": "Seek shared family-state, service-use and hospital-to-House transition evidence."
+    },
+    {
+      "dimension": "dining",
+      "question": "How does food support operate when families can self-cater, use pantry resources, receive prepared meals and use Family Room food services depending on location and schedule?",
+      "scopeChange": "Dining is treated as a layered support system rather than fixed-board hospitality.",
+      "sources": [
+        "S11",
+        "S14",
+        "S15",
+        "S16",
+        "S17",
+        "S19",
+        "S20"
+      ],
+      "observations": [
+        {
+          "text": "RMHC dining combines self-catering, pantry access and prepared meals.",
+          "sources": [
+            "S11",
+            "S14"
+          ]
+        },
+        {
+          "text": "Prepared meals do not constitute universal full-board service.",
+          "sources": [
+            "S11",
+            "S14"
+          ]
+        },
+        {
+          "text": "Meals also function as social and caregiver support.",
+          "sources": [
+            "S15",
+            "S17"
+          ]
+        },
+        {
+          "text": "Family Rooms extend food support into hospital locations.",
+          "sources": [
+            "S19",
+            "S20"
+          ]
+        }
+      ],
+      "unanswered": [
+        "Meal eligibility and dietary workflow are incomplete.",
+        "Food-service capacity and utilization are unknown.",
+        "Cost per meal and cross-site inventory coordination are not public."
+      ],
+      "rating": "partial",
+      "reason": "The food-support model is clear, but operational capacity and dietary coordination remain incomplete.",
+      "nextEvidence": "Seek meal-service capacity, dietary accommodation and program-cost evidence."
+    },
+    {
+      "dimension": "departure",
+      "question": "What ends when treatment status changes, and which House, Family Room, school and referral relationships must close, transfer or restart?",
+      "scopeChange": "Departure includes medical scheduling, re-referral, school handoff and repeated hospitality episodes.",
+      "sources": [
+        "S1",
+        "S2",
+        "S3",
+        "S4",
+        "S5",
+        "S6",
+        "S7",
+        "S13",
+        "S17"
+      ],
+      "observations": [
+        {
+          "text": "Medical schedule changes require social-worker confirmation before hospitality-date changes.",
+          "sources": [
+            "S13"
+          ]
+        },
+        {
+          "text": "Each new House visit requires a new referral.",
+          "sources": [
+            "S1"
+          ]
+        },
+        {
+          "text": "Clinical discharge can alter wait-list capacity for other families.",
+          "sources": [
+            "S2"
+          ]
+        },
+        {
+          "text": "School departure includes an education-continuity handoff.",
+          "sources": [
+            "S13"
+          ]
+        }
+      ],
+      "unanswered": [
+        "Formal House checkout rules are not public.",
+        "Discharge-to-room turnover timing is unknown.",
+        "Family Room transfer and exit procedures are incomplete."
+      ],
+      "rating": "partial",
+      "reason": "Cross-institution transition rules are visible, but departure execution and recovery remain unverified.",
+      "nextEvidence": "Seek checkout, room-release, unit-transfer and post-stay continuity evidence."
+    },
+    {
+      "dimension": "atmosphere",
+      "question": "How does RMHC Toronto create a home-like family atmosphere while remaining physically and institutionally close to hospitals?",
+      "scopeChange": "Atmosphere is treated as intentional residential design plus service behaviour rather than generic comfort language.",
+      "sources": [
+        "S21",
+        "S22",
+        "S23",
+        "S24",
+        "S25",
+        "S26"
+      ],
+      "observations": [
+        {
+          "text": "The House was intentionally designed around comfort, natural light and community.",
+          "sources": [
+            "S21",
+            "S22"
+          ]
+        },
+        {
+          "text": "Family Rooms create non-clinical respite inside hospitals.",
+          "sources": [
+            "S23",
+            "S24"
+          ]
+        },
+        {
+          "text": "Volunteers contribute to the welcoming environment.",
+          "sources": [
+            "S25"
+          ]
+        },
+        {
+          "text": "Accessibility disruptions can alter usability even when the home-like environment remains.",
+          "sources": [
+            "S26"
+          ]
+        }
+      ],
+      "unanswered": [
+        "Representative family perception is not established.",
+        "Noise, sleep and sensory-accessibility outcomes are unknown.",
+        "Atmosphere at high occupancy is not independently verified."
+      ],
+      "rating": "partial",
+      "reason": "Design intent and environment are well documented, but lived outcomes remain incomplete.",
+      "nextEvidence": "Seek independent family experience and environmental-performance evidence."
+    },
+    {
+      "dimension": "photography",
+      "question": "What does public photography reveal about RMHC Toronto's hospitality model, and where are the limits of using curated architectural and family imagery as evidence?",
+      "scopeChange": "Photography is treated as evidence of spatial identity and storytelling rather than direct proof of service outcomes.",
+      "sources": [
+        "S21",
+        "S22",
+        "S24",
+        "S27",
+        "S28",
+        "S29"
+      ],
+      "observations": [
+        {
+          "text": "Public imagery emphasizes domestic and family life rather than clinical care.",
+          "sources": [
+            "S21",
+            "S24",
+            "S27",
+            "S28"
+          ]
+        },
+        {
+          "text": "Architecture itself is part of the public hospitality story.",
+          "sources": [
+            "S21",
+            "S22"
+          ]
+        },
+        {
+          "text": "Family stories visually connect medical journeys with House life.",
+          "sources": [
+            "S27",
+            "S28"
+          ]
+        },
+        {
+          "text": "General privacy policy establishes consent principles but not a specific photography-release workflow.",
+          "sources": [
+            "S29"
+          ]
+        }
+      ],
+      "unanswered": [
+        "Photography-release procedure is not public.",
+        "Representativeness of published families is unknown.",
+        "Photo-retention rules are not established."
+      ],
+      "rating": "partial",
+      "reason": "Visual evidence is useful for environment and narrative, but cannot establish representative outcomes or media workflow.",
+      "nextEvidence": "Seek explicit photography-consent policy and independent visual evidence if available."
+    },
+    {
+      "dimension": "story",
+      "question": "How does RMHC Toronto construct a coherent story around keeping families close, and how does that story interact with complex eligibility, capacity and responsibility boundaries?",
+      "scopeChange": "Story includes origin problem, mission, family roles, institutional growth and the gap between narrative simplicity and operational complexity.",
+      "sources": [
+        "S24",
+        "S27",
+        "S28",
+        "S30",
+        "S31",
+        "S32"
+      ],
+      "observations": [
+        {
+          "text": "The institution originated around distance-from-care and family-separation problems.",
+          "sources": [
+            "S30"
+          ]
+        },
+        {
+          "text": "The mission is family-centred rather than accommodation-only.",
+          "sources": [
+            "S31"
+          ]
+        },
+        {
+          "text": "The institutional model expanded from a small House to House plus Family Rooms and School.",
+          "sources": [
+            "S30",
+            "S32"
+          ]
+        },
+        {
+          "text": "Family narratives emphasize ordinary life alongside treatment.",
+          "sources": [
+            "S27",
+            "S28"
+          ]
+        }
+      ],
+      "unanswered": [
+        "Internal operating architecture behind the family-centred narrative is not public.",
+        "Shared data and orchestration mechanisms are unknown.",
+        "Causal family or health outcomes are unverified."
+      ],
+      "rating": "partial",
+      "reason": "The institutional narrative is clear, but the operational architecture behind it remains incomplete.",
+      "nextEvidence": "Seek cross-institution governance, family-state and outcome evidence before stronger conclusions."
+    }
+  ]
+}
