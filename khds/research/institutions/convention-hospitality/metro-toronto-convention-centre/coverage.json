@@ -1,0 +1,505 @@
+{
+  "schemaVersion": 1,
+  "dimensions": [
+    {
+      "dimension": "discovery",
+      "question": "How do planners, exhibitors and attendees discover the correct MTCC relationship when booking, participation, ticketing, supplier services, accessibility and venue navigation use separate pathways?",
+      "scopeChange": "Discovery is treated as role routing across planner, exhibitor and attendee relationships rather than one venue search.",
+      "sources": [
+        "S1",
+        "S2",
+        "S5",
+        "S6",
+        "S7",
+        "S8",
+        "S9",
+        "S10"
+      ],
+      "observations": [
+        {
+          "text": "MTCC publicly separates planner, exhibitor and attendee discovery paths.",
+          "sources": [
+            "S2",
+            "S5",
+            "S8",
+            "S9"
+          ]
+        },
+        {
+          "text": "Booking enquiry captures event type, attendance, space, exhibition and catering variables rather than simple room search.",
+          "sources": [
+            "S1"
+          ]
+        },
+        {
+          "text": "MTCC does not own attendee ticket sales for listed events.",
+          "sources": [
+            "S8"
+          ]
+        },
+        {
+          "text": "Exhibitor service ownership is distributed across MTCC and supplier relationships.",
+          "sources": [
+            "S7"
+          ]
+        }
+      ],
+      "unanswered": [
+        "Organizer enquiry-to-contract conversion is unknown.",
+        "Exhibitor discovery and service-order completion rates are unknown.",
+        "Shared identity across planner, exhibitor and attendee systems is not public."
+      ],
+      "rating": "partial",
+      "reason": "Role-specific discovery and ownership boundaries are clear, but conversion and integration remain unverified.",
+      "nextEvidence": "Seek organizer conversion, exhibitor onboarding and cross-role identity evidence."
+    },
+    {
+      "dimension": "reservation",
+      "question": "What does the organizer secure through the venue relationship, and which event areas, exhibitor services, supplier relationships and attendee entitlements remain separately governed?",
+      "scopeChange": "Reservation is reframed as event contracting plus downstream entitlement rather than one booking.",
+      "sources": [
+        "S1",
+        "S4",
+        "S7",
+        "S13"
+      ],
+      "observations": [
+        {
+          "text": "Booking enquiry and License Agreement are separate states.",
+          "sources": [
+            "S1",
+            "S4"
+          ]
+        },
+        {
+          "text": "Public/common areas remain subject to separate MTCC approval.",
+          "sources": [
+            "S4"
+          ]
+        },
+        {
+          "text": "Exhibitor services and supplier services are not automatically activated by the organizer contract.",
+          "sources": [
+            "S4",
+            "S7",
+            "S13"
+          ]
+        },
+        {
+          "text": "Attendee and production users can receive different technology entitlements.",
+          "sources": [
+            "S4"
+          ]
+        }
+      ],
+      "unanswered": [
+        "Base venue-rental deposit and cancellation economics are incomplete.",
+        "Programmatic linkage between organizer contract and exhibitor orders is unknown.",
+        "Attendee-registration integration with MTCC systems is unknown."
+      ],
+      "rating": "partial",
+      "reason": "Contract and downstream service separation are explicit, but commercial and data integration remain incomplete.",
+      "nextEvidence": "Seek executed-contract structure, service-order linkage and registration integration."
+    },
+    {
+      "dimension": "pre-arrival",
+      "question": "How does a contracted event become operationally ready when floor plans, move-in schedules, security, catering, exhibitor orders and accessibility requirements each have separate approval or readiness states?",
+      "scopeChange": "Pre-arrival is treated as multi-owner event readiness rather than guest travel preparation.",
+      "sources": [
+        "S3",
+        "S4",
+        "S5",
+        "S6",
+        "S7",
+        "S10"
+      ],
+      "observations": [
+        {
+          "text": "Contracted event does not equal approved event layout.",
+          "sources": [
+            "S4"
+          ]
+        },
+        {
+          "text": "Move-in schedules require separate submission and MTCC approval.",
+          "sources": [
+            "S4",
+            "S6"
+          ]
+        },
+        {
+          "text": "Venue security does not eliminate organizer security responsibilities.",
+          "sources": [
+            "S4"
+          ]
+        },
+        {
+          "text": "Catering, exhibitor services and accessibility can require separate advance actions.",
+          "sources": [
+            "S4",
+            "S5",
+            "S10"
+          ]
+        }
+      ],
+      "unanswered": [
+        "Approval turnaround times are unknown.",
+        "Dock-slot conflict rates are unknown.",
+        "Shared event-readiness dashboard or common state system is not public."
+      ],
+      "rating": "partial",
+      "reason": "Readiness dependencies are explicit, but execution performance and coordination tooling remain unverified.",
+      "nextEvidence": "Seek approval SLAs, dock-conflict data and event-readiness orchestration evidence."
+    },
+    {
+      "dimension": "arrival",
+      "question": "What does arrival mean when exhibitors, freight, contractors, organizers and attendees enter through different processes and with different access conditions?",
+      "scopeChange": "Arrival is treated as role-specific access activation rather than one physical-entry event.",
+      "sources": [
+        "S4",
+        "S6",
+        "S8",
+        "S9",
+        "S10"
+      ],
+      "observations": [
+        {
+          "text": "Freight and exhibitor logistics use controlled loading access rather than public entrances.",
+          "sources": [
+            "S4",
+            "S6"
+          ]
+        },
+        {
+          "text": "Exhibitor validity does not guarantee any-time loading-dock access.",
+          "sources": [
+            "S4",
+            "S6"
+          ]
+        },
+        {
+          "text": "Attendee event admission is distinct from venue arrival because MTCC does not own ticketing.",
+          "sources": [
+            "S8"
+          ]
+        },
+        {
+          "text": "Accessibility supports can remain capacity- or notification-dependent at arrival.",
+          "sources": [
+            "S10"
+          ]
+        }
+      ],
+      "unanswered": [
+        "Attendee credential-scanning ownership is not public.",
+        "Dock wait times and queue performance are unknown.",
+        "Cross-building arrival/navigation error rates are unknown."
+      ],
+      "rating": "partial",
+      "reason": "Role-specific access boundaries are clear, but real-time admission and logistics performance remain incomplete.",
+      "nextEvidence": "Seek credential, dock-queue and cross-building wayfinding evidence."
+    },
+    {
+      "dimension": "stay",
+      "question": "How does event participation operate when attendee, exhibitor, organizer, production, technology, cleaning, security and accessibility states remain role- and phase-specific?",
+      "scopeChange": "Stay is reframed as event participation across role-specific services rather than overnight occupancy.",
+      "sources": [
+        "S4",
+        "S10",
+        "S12",
+        "S13",
+        "S19",
+        "S20"
+      ],
+      "observations": [
+        {
+          "text": "Attendee Wi-Fi is phase- and role-specific.",
+          "sources": [
+            "S4"
+          ]
+        },
+        {
+          "text": "Exhibitor services remain separately orderable after event participation is established.",
+          "sources": [
+            "S13"
+          ]
+        },
+        {
+          "text": "Cleaning and security responsibilities remain partitioned by area and owner.",
+          "sources": [
+            "S4"
+          ]
+        },
+        {
+          "text": "Guest Services supports venue-level needs without owning the event program.",
+          "sources": [
+            "S12"
+          ]
+        }
+      ],
+      "unanswered": [
+        "Service activation and fulfilment rates are unknown.",
+        "Wi-Fi incident recovery is unknown.",
+        "Cross-team problem ownership is not public."
+      ],
+      "rating": "partial",
+      "reason": "Participation-state separation is well documented, but service reliability and recovery remain unverified.",
+      "nextEvidence": "Seek service-fulfilment, incident and cross-owner recovery evidence."
+    },
+    {
+      "dimension": "dining",
+      "question": "How does food and beverage operate when MTCC centrally controls food service but organizer, exhibitor, retail, dietary and service-area states remain separate?",
+      "scopeChange": "Dining is treated as centralized provider ownership with multiple role- and event-specific service states.",
+      "sources": [
+        "S4",
+        "S5",
+        "S7",
+        "S14",
+        "S15",
+        "S16"
+      ],
+      "observations": [
+        {
+          "text": "MTCC retains exclusive food-and-beverage rights for events.",
+          "sources": [
+            "S4"
+          ]
+        },
+        {
+          "text": "Menu selection, guarantees and service configuration remain event-specific readiness states.",
+          "sources": [
+            "S4",
+            "S14"
+          ]
+        },
+        {
+          "text": "Organizer catering does not necessarily satisfy exhibitor-specific requirements.",
+          "sources": [
+            "S5",
+            "S7"
+          ]
+        },
+        {
+          "text": "Food donation and post-event lifecycle programs exist beyond immediate service.",
+          "sources": [
+            "S15",
+            "S16"
+          ]
+        }
+      ],
+      "unanswered": [
+        "Dietary-request fulfilment performance is unknown.",
+        "Retail-food wait times are unknown.",
+        "Event-level food waste and donation uptake are not public."
+      ],
+      "rating": "partial",
+      "reason": "Provider ownership and dining-state separation are clear, but operational performance remains incomplete.",
+      "nextEvidence": "Seek dietary fulfilment, retail queue and event-level food lifecycle evidence."
+    },
+    {
+      "dimension": "departure",
+      "question": "When does an event actually end when attendee-facing activity can stop before exhibitor dismantling, freight, security, cleaning, technical shutdown and administrative closure are complete?",
+      "scopeChange": "Departure is treated as multi-phase event closure rather than guest exit.",
+      "sources": [
+        "S4",
+        "S6",
+        "S12",
+        "S15",
+        "S16",
+        "S18",
+        "S19"
+      ],
+      "observations": [
+        {
+          "text": "Attendee-facing event end does not equal operational end.",
+          "sources": [
+            "S4"
+          ]
+        },
+        {
+          "text": "Security responsibility continues through move-out.",
+          "sources": [
+            "S4"
+          ]
+        },
+        {
+          "text": "Cleaning, freight and technical states can persist after attendee departure.",
+          "sources": [
+            "S4",
+            "S6"
+          ]
+        },
+        {
+          "text": "Physical move-out can precede administrative closure.",
+          "sources": [
+            "S4"
+          ]
+        }
+      ],
+      "unanswered": [
+        "Average move-out duration is unknown.",
+        "Late move-out and dock-congestion frequency are unknown.",
+        "Unified closure-state visibility for organizers is not public."
+      ],
+      "rating": "partial",
+      "reason": "Closure-state separation is explicit, but timing, recovery and completion performance remain unverified.",
+      "nextEvidence": "Seek move-out performance, late-clearance and closure-dashboard evidence."
+    },
+    {
+      "dimension": "atmosphere",
+      "question": "How does MTCC create one coherent event atmosphere across two buildings, flexible rooms, public art, pre-function areas and downtown context?",
+      "scopeChange": "Atmosphere is treated as an institutional environment spanning rooms, transition spaces, art, city context and sustainability.",
+      "sources": [
+        "S21",
+        "S22",
+        "S23",
+        "S24",
+        "S25",
+        "S26",
+        "S28",
+        "S29",
+        "S30",
+        "S27"
+      ],
+      "observations": [
+        {
+          "text": "MTCC intentionally presents flexible, welcoming spaces with natural light and city views.",
+          "sources": [
+            "S21",
+            "S22",
+            "S23"
+          ]
+        },
+        {
+          "text": "Pre-function spaces participate in networking and event transition.",
+          "sources": [
+            "S24"
+          ]
+        },
+        {
+          "text": "Public art and place interpretation contribute to venue identity.",
+          "sources": [
+            "S25",
+            "S26"
+          ]
+        },
+        {
+          "text": "One venue brand spans physically different buildings and room conditions.",
+          "sources": [
+            "S25",
+            "S27"
+          ]
+        }
+      ],
+      "unanswered": [
+        "Representative attendee perception is not established.",
+        "Navigation friction, noise and crowd-density experience are unknown.",
+        "Atmosphere during move-in/out is not independently verified."
+      ],
+      "rating": "partial",
+      "reason": "Design intent and environmental identity are clear, but lived experience remains incomplete.",
+      "nextEvidence": "Seek attendee perception, navigation and environmental-performance evidence."
+    },
+    {
+      "dimension": "photography",
+      "question": "What does MTCC's public visual record reveal about venue flexibility and event identity, and where are the limits of using curated imagery as evidence?",
+      "scopeChange": "Photography is treated as evidence of visual possibility and narrative unity rather than direct proof of operational performance.",
+      "sources": [
+        "S21",
+        "S23",
+        "S26",
+        "S31"
+      ],
+      "observations": [
+        {
+          "text": "Public galleries cover facility, food, meetings, trade shows and theatre.",
+          "sources": [
+            "S21"
+          ]
+        },
+        {
+          "text": "Room imagery demonstrates multiple configurations and visual event states.",
+          "sources": [
+            "S21",
+            "S23"
+          ]
+        },
+        {
+          "text": "Public art contributes to the venue's visual identity beyond event branding.",
+          "sources": [
+            "S26"
+          ]
+        },
+        {
+          "text": "Institutional event imagery persists after individual events end.",
+          "sources": [
+            "S21",
+            "S31"
+          ]
+        }
+      ],
+      "unanswered": [
+        "Image-selection methodology is not public.",
+        "Representativeness of gallery imagery is unknown.",
+        "Organizer/attendee photography rights and consent workflow are incomplete."
+      ],
+      "rating": "partial",
+      "reason": "The visual record supports flexibility and identity claims but not representative service performance.",
+      "nextEvidence": "Seek media-rights, gallery-selection and independent occupied-event visual evidence."
+    },
+    {
+      "dimension": "story",
+      "question": "How does MTCC construct one story around world-class and epic events while operations remain split across roles, suppliers, approvals and event phases?",
+      "scopeChange": "Story includes public mandate, institutional growth, urban/economic identity and the gap between narrative simplicity and operational complexity.",
+      "sources": [
+        "S26",
+        "S29",
+        "S30",
+        "S31",
+        "S32",
+        "S33",
+        "S34"
+      ],
+      "observations": [
+        {
+          "text": "MTCC presents itself as a world-class downtown convention institution.",
+          "sources": [
+            "S29",
+            "S34"
+          ]
+        },
+        {
+          "text": "Its public history connects the venue to tourism and economic impact.",
+          "sources": [
+            "S29",
+            "S31",
+            "S32",
+            "S33"
+          ]
+        },
+        {
+          "text": "Institutional growth from North to South Building reflects changing event-market requirements.",
+          "sources": [
+            "S32",
+            "S33"
+          ]
+        },
+        {
+          "text": "Place identity and sustainability extend the institutional story beyond room rental.",
+          "sources": [
+            "S26",
+            "S30"
+          ]
+        }
+      ],
+      "unanswered": [
+        "Internal operating architecture behind the unified brand story is not public.",
+        "Cross-owner recovery performance is unknown.",
+        "Event-level commercial and experience outcomes are unverified."
+      ],
+      "rating": "partial",
+      "reason": "The public institutional story is strong, but the operating architecture behind it remains incomplete.",
+      "nextEvidence": "Seek cross-owner governance, event-state orchestration and outcome evidence."
+    }
+  ]
+}

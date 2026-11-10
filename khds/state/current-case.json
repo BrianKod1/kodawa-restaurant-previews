@@ -3,22 +3,22 @@
   "expectedBranch": "main",
   "workflowStatus": "idle",
   "latestCompletedCase": {
-    "caseNumber": 44,
-    "institutionName": "Ronald McDonald House Charities Toronto",
-    "slug": "rmhc-toronto",
-    "institutionType": "family-centred medical accommodation and respite hospitality system",
-    "sector": "institutional-hospitality",
-    "canonicalPath": "khds/research/institutions/institutional-hospitality/rmhc-toronto/",
+    "caseNumber": 45,
+    "institutionName": "Metro Toronto Convention Centre",
+    "slug": "metro-toronto-convention-centre",
+    "institutionType": "large-scale convention and exhibition hospitality venue",
+    "sector": "convention-hospitality",
+    "canonicalPath": "khds/research/institutions/convention-hospitality/metro-toronto-convention-centre/",
     "dossierComplete": true,
     "administrativeReconciliation": true
   },
-  "expectedNextCase": 45,
+  "expectedNextCase": 46,
   "researchAuthorized": false,
   "authorization": null,
   "activeCase": null,
   "disagreements": [],
   "publication": {
-    "journalPath": "khds/staging/case-44-rmhc-toronto/publication.json",
+    "journalPath": "khds/staging/case-45-metro-toronto-convention-centre/publication.json",
     "status": "promoted"
   },
   "reconciliationRecord": {
@@ -72,8 +72,8 @@
   },
   "reconciliationReview": {
     "approvedBy": "Brian Kodawa",
-    "approvedAt": "2026-11-06T17:59:53.404Z",
-    "contentDigest": "65668240ef3e0ef3fb221447d4f77591788c9a7caeba86514c1dfb1c3aa8ee04",
+    "approvedAt": "2026-11-10T17:03:17.958Z",
+    "contentDigest": "eccebd7c7f6f3680931a06dd22d3b844bd6edc2e90006c616abd70eccb86fc7b",
     "controlChanges": []
   },
   "historyReconciliation": {
