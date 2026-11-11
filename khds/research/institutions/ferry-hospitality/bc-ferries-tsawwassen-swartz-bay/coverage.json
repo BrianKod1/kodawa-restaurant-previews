@@ -1,0 +1,520 @@
+{
+  "schemaVersion": 1,
+  "dimensions": [
+    {
+      "dimension": "discovery",
+      "question": "How does a traveller discover the correct journey when route direction, sailing time, passenger type, vehicle type, booking availability, terminal conditions and live capacity are separate states?",
+      "scopeChange": "Discovery is treated as route and operational-state selection rather than simple schedule lookup.",
+      "sources": [
+        "S1",
+        "S2",
+        "S4",
+        "S6",
+        "S7",
+        "S9",
+        "S10"
+      ],
+      "observations": [
+        {
+          "text": "BC Ferries separates schedule information from live Current Conditions.",
+          "sources": [
+            "S1",
+            "S9",
+            "S10"
+          ]
+        },
+        {
+          "text": "Foot-passenger advance-booking inventory is not the same as total passenger capacity.",
+          "sources": [
+            "S4"
+          ]
+        },
+        {
+          "text": "Vehicle deck space is divided between advance-bookable and drive-up capacity.",
+          "sources": [
+            "S2"
+          ]
+        },
+        {
+          "text": "Foot passengers are excluded from vehicle deck-space calculations.",
+          "sources": [
+            "S1",
+            "S10"
+          ]
+        }
+      ],
+      "unanswered": [
+        "How often travellers misinterpret booking inventory as total capacity is unknown.",
+        "Passenger and vehicle identity-linkage architecture is not public.",
+        "Route-search to booking conversion is unknown."
+      ],
+      "rating": "partial",
+      "reason": "Directional, capacity and passenger/vehicle discovery boundaries are clear, but customer behaviour and system integration remain unverified.",
+      "nextEvidence": "Seek discovery-conversion, identity-linkage and cross-channel consistency evidence."
+    },
+    {
+      "dimension": "reservation",
+      "question": "What does a booking secure, and which passenger, vehicle, time and capacity states remain conditional?",
+      "scopeChange": "Reservation is reframed as time- and capacity-conditioned entitlement rather than guaranteed boarding.",
+      "sources": [
+        "S2",
+        "S4",
+        "S5",
+        "S6",
+        "S7",
+        "S8",
+        "S10"
+      ],
+      "observations": [
+        {
+          "text": "Vehicle booking still requires check-in inside the defined booking window.",
+          "sources": [
+            "S5",
+            "S6",
+            "S7"
+          ]
+        },
+        {
+          "text": "Arriving outside the booking window can remove reserved priority.",
+          "sources": [
+            "S6",
+            "S7"
+          ]
+        },
+        {
+          "text": "Unused booked vehicle capacity can return to drive-up customers.",
+          "sources": [
+            "S10"
+          ]
+        },
+        {
+          "text": "Passenger and vehicle entitlement can diverge when vehicle capacity is unavailable.",
+          "sources": [
+            "S8"
+          ]
+        }
+      ],
+      "unanswered": [
+        "Missed-booking-window frequency is unknown.",
+        "No-show rates for this route are not established at traveller level.",
+        "Booking-to-terminal reconciliation latency is not public."
+      ],
+      "rating": "partial",
+      "reason": "Conditional entitlement and capacity release are explicit, but real-world frequency and system latency remain incomplete.",
+      "nextEvidence": "Seek missed-window, no-show and booking-reconciliation performance evidence."
+    },
+    {
+      "dimension": "pre-arrival",
+      "question": "How does a traveller prepare when schedule, check-in timing, terminal congestion and live capacity can change before arrival?",
+      "scopeChange": "Pre-arrival is treated as dynamic monitoring rather than static possession of a booking confirmation.",
+      "sources": [
+        "S1",
+        "S5",
+        "S6",
+        "S7",
+        "S9",
+        "S10"
+      ],
+      "observations": [
+        {
+          "text": "Knowing the departure time is insufficient because terminal-specific check-in windows also govern entitlement.",
+          "sources": [
+            "S6",
+            "S7"
+          ]
+        },
+        {
+          "text": "Current Conditions can change the traveller's capacity information without a schedule change.",
+          "sources": [
+            "S1",
+            "S10"
+          ]
+        },
+        {
+          "text": "Visible terminal queues do not reveal true remaining capacity because booked vehicles not yet present are included in estimates.",
+          "sources": [
+            "S10"
+          ]
+        },
+        {
+          "text": "Booking confirmation is not the final information state because customers can continue monitoring live conditions.",
+          "sources": [
+            "S9",
+            "S10"
+          ]
+        }
+      ],
+      "unanswered": [
+        "How often customers monitor Current Conditions before travel is unknown.",
+        "Estimated-capacity accuracy distribution is not public.",
+        "Alert-delivery success and timing are not established."
+      ],
+      "rating": "partial",
+      "reason": "Dynamic pre-arrival information and time-window dependency are clear, but information-use and accuracy outcomes remain unverified.",
+      "nextEvidence": "Seek customer-monitoring, forecast-accuracy and alert-delivery evidence."
+    },
+    {
+      "dimension": "arrival",
+      "question": "What changes operationally when the traveller reaches the terminal, and how are booking, passenger, vehicle, queue and boarding states converted into actual boarding?",
+      "scopeChange": "Arrival is treated as a multi-stage state transition rather than terminal presence.",
+      "sources": [
+        "S1",
+        "S3",
+        "S4",
+        "S5",
+        "S6",
+        "S7",
+        "S10"
+      ],
+      "observations": [
+        {
+          "text": "Terminal presence does not equal check-in.",
+          "sources": [
+            "S3",
+            "S4",
+            "S5"
+          ]
+        },
+        {
+          "text": "Check-in does not equal boarding.",
+          "sources": [
+            "S4"
+          ]
+        },
+        {
+          "text": "Booking priority can disappear if the traveller arrives outside the defined check-in window.",
+          "sources": [
+            "S6",
+            "S7"
+          ]
+        },
+        {
+          "text": "Current Conditions separates reserved-not-checked-in, checked-in and available-deck states.",
+          "sources": [
+            "S1",
+            "S10"
+          ]
+        }
+      ],
+      "unanswered": [
+        "Boarding-sequence algorithms are not public.",
+        "Check-in exception handling is incomplete.",
+        "Vehicle-loading optimization and lane assignment are not public."
+      ],
+      "rating": "partial",
+      "reason": "Arrival-state decomposition is strong, but the internal logic that converts check-in into boarding remains incomplete.",
+      "nextEvidence": "Seek lane-allocation, boarding-sequence and exception-handling evidence."
+    },
+    {
+      "dimension": "stay",
+      "question": "How does onboard passage differ when vessel assignment, vehicle-deck placement, accessibility, seating, family, pet, work and safety states vary within one crossing?",
+      "scopeChange": "Stay is reframed as onboard passage across vessel-local hospitality and safety states.",
+      "sources": [
+        "S5",
+        "S11",
+        "S12",
+        "S13",
+        "S15"
+      ],
+      "observations": [
+        {
+          "text": "Same route can use different vessels with independently documented amenity sets.",
+          "sources": [
+            "S11",
+            "S12"
+          ]
+        },
+        {
+          "text": "Vehicle-deck placement can determine whether passengers may remain with their vehicles.",
+          "sources": [
+            "S5"
+          ]
+        },
+        {
+          "text": "Elevator-adjacent vehicle space is limited and can change the sailing outcome where accessibility positioning is essential.",
+          "sources": [
+            "S15"
+          ]
+        },
+        {
+          "text": "Extreme weather or emergency states can change accessibility and ordinary movement rules.",
+          "sources": [
+            "S11",
+            "S12",
+            "S15"
+          ]
+        }
+      ],
+      "unanswered": [
+        "Accessibility deferral frequency is unknown.",
+        "Amenity uptime by vessel is unknown.",
+        "Onboard service-recovery performance is not public."
+      ],
+      "rating": "partial",
+      "reason": "Vessel-local and accessibility-dependent state variation is explicit, but operating reliability remains unverified.",
+      "nextEvidence": "Seek amenity-uptime, accessibility-deferral and onboard-recovery evidence."
+    },
+    {
+      "dimension": "dining",
+      "question": "How does food and lounge access vary by vessel, sailing, time and local service state?",
+      "scopeChange": "Dining is treated as vessel- and time-dependent hospitality rather than a route-guaranteed amenity.",
+      "sources": [
+        "S11",
+        "S12",
+        "S13",
+        "S14",
+        "S16"
+      ],
+      "observations": [
+        {
+          "text": "Some South Coast amenities are available only on select sailings.",
+          "sources": [
+            "S13"
+          ]
+        },
+        {
+          "text": "Seascapes availability depends on Spirit-class vessel assignment.",
+          "sources": [
+            "S14"
+          ]
+        },
+        {
+          "text": "Dining offerings change by time of day.",
+          "sources": [
+            "S14"
+          ]
+        },
+        {
+          "text": "Some menu items are explicitly subject to change.",
+          "sources": [
+            "S16"
+          ]
+        }
+      ],
+      "unanswered": [
+        "Outlet-opening rates by sailing are unknown.",
+        "Queue and sell-out rates are unknown.",
+        "Dining accessibility friction is not measured publicly."
+      ],
+      "rating": "partial",
+      "reason": "Dining variation by vessel and time is clear, but service performance and accessibility remain incomplete.",
+      "nextEvidence": "Seek sailing-level outlet uptime, queue and accessibility evidence."
+    },
+    {
+      "dimension": "departure",
+      "question": "When does the journey end when vessel arrival, passenger disembarkation, vehicle unloading, terminal exit and post-travel recovery can complete at different times?",
+      "scopeChange": "Departure is treated as multi-stage mobility closure rather than vessel arrival.",
+      "sources": [
+        "S5",
+        "S15",
+        "S17",
+        "S18",
+        "S19",
+        "S20"
+      ],
+      "observations": [
+        {
+          "text": "Vessel arrival does not equal passenger or vehicle journey completion.",
+          "sources": [
+            "S20",
+            "S5"
+          ]
+        },
+        {
+          "text": "Accessibility-supportive loading can affect later unloading timing.",
+          "sources": [
+            "S15"
+          ]
+        },
+        {
+          "text": "Lost-property recovery can continue after physical departure.",
+          "sources": [
+            "S17"
+          ]
+        },
+        {
+          "text": "Parking and onward transport can introduce additional service relationships after disembarkation.",
+          "sources": [
+            "S18",
+            "S19"
+          ]
+        }
+      ],
+      "unanswered": [
+        "Unloading time by deck is unknown.",
+        "Accessibility-related unloading delay distribution is unknown.",
+        "Lost-property recovery and claims-resolution performance are not public."
+      ],
+      "rating": "partial",
+      "reason": "Closure-state separation is clear, but timing and recovery performance remain unverified.",
+      "nextEvidence": "Seek unloading, terminal-egress and post-travel recovery evidence."
+    },
+    {
+      "dimension": "atmosphere",
+      "question": "How does BC Ferries create a coherent coastal-travel atmosphere across two terminals, vessel spaces, changing views and operational information?",
+      "scopeChange": "Atmosphere is treated as a moving, multi-location hospitality environment rather than one fixed physical setting.",
+      "sources": [
+        "S5",
+        "S6",
+        "S7",
+        "S11",
+        "S12",
+        "S13",
+        "S15",
+        "S21",
+        "S24",
+        "S25",
+        "S27",
+        "S28",
+        "S29",
+        "S30"
+      ],
+      "observations": [
+        {
+          "text": "The journey is publicly framed around coastal connection and community, not transport alone.",
+          "sources": [
+            "S21",
+            "S27"
+          ]
+        },
+        {
+          "text": "Terminal waiting environments precede onboard hospitality.",
+          "sources": [
+            "S6",
+            "S7"
+          ]
+        },
+        {
+          "text": "A single vessel contains multiple local passenger environments.",
+          "sources": [
+            "S11",
+            "S12",
+            "S13"
+          ]
+        },
+        {
+          "text": "Operational information such as vessel location and terminal conditions is visible within the customer environment.",
+          "sources": [
+            "S28",
+            "S29",
+            "S30"
+          ]
+        }
+      ],
+      "unanswered": [
+        "Representative passenger perception is not established.",
+        "Crowding and noise experience are unknown.",
+        "Whether operational transparency reduces uncertainty is not public."
+      ],
+      "rating": "partial",
+      "reason": "The moving coastal environment and information layer are well documented, but lived atmospheric experience remains incomplete.",
+      "nextEvidence": "Seek passenger-perception, crowding and information-effect evidence."
+    },
+    {
+      "dimension": "photography",
+      "question": "What does the public visual record reveal about ferry hospitality, and where are the limits of using vessel, terminal, coastal and operational imagery as evidence?",
+      "scopeChange": "Photography is treated as both curated institutional imagery and operational visual evidence.",
+      "sources": [
+        "S11",
+        "S12",
+        "S21",
+        "S22",
+        "S23",
+        "S24",
+        "S25",
+        "S26",
+        "S29",
+        "S30"
+      ],
+      "observations": [
+        {
+          "text": "Vessel pages combine technical identity with hospitality and amenity presentation.",
+          "sources": [
+            "S11",
+            "S12"
+          ]
+        },
+        {
+          "text": "Terminal webcams provide operational rather than purely promotional imagery.",
+          "sources": [
+            "S30"
+          ]
+        },
+        {
+          "text": "Ferry tracking visually represents the transport asset as moving through space.",
+          "sources": [
+            "S29"
+          ]
+        },
+        {
+          "text": "Media and annual-report imagery supports institutional storytelling but remains curated.",
+          "sources": [
+            "S22",
+            "S23",
+            "S26"
+          ]
+        }
+      ],
+      "unanswered": [
+        "Image-selection methodology is not public.",
+        "Representativeness of passenger imagery is unknown.",
+        "Consent and rights workflows for public customer photography are incomplete."
+      ],
+      "rating": "partial",
+      "reason": "The visual record includes unusual operational imagery, but curated images cannot establish representative passenger experience.",
+      "nextEvidence": "Seek media-selection, consent and independent occupied-journey imagery evidence."
+    },
+    {
+      "dimension": "story",
+      "question": "How does BC Ferries construct one story of connection, lifeline service and seamless travel while operations depend on many separate mobility, capacity and service states?",
+      "scopeChange": "Story includes public-service mission, community dependence, customer-experience goals and the gap between narrative simplicity and operating complexity.",
+      "sources": [
+        "S21",
+        "S22",
+        "S23",
+        "S24",
+        "S25",
+        "S27",
+        "S28",
+        "S31",
+        "S32"
+      ],
+      "observations": [
+        {
+          "text": "BC Ferries frames its mission around connecting people, communities and places.",
+          "sources": [
+            "S21",
+            "S27"
+          ]
+        },
+        {
+          "text": "The system is publicly framed as essential or lifeline infrastructure for coastal communities.",
+          "sources": [
+            "S21",
+            "S23"
+          ]
+        },
+        {
+          "text": "Smooth end-to-end customer experience is an explicit strategic objective.",
+          "sources": [
+            "S21"
+          ]
+        },
+        {
+          "text": "Customer Experience spans terminal operations, retail, catering and customer care through disembarkation.",
+          "sources": [
+            "S31"
+          ]
+        }
+      ],
+      "unanswered": [
+        "Internal architecture behind the seamless experience objective is not public.",
+        "Cross-owner recovery performance is unknown.",
+        "Journey-level economics and service outcomes remain unverified."
+      ],
+      "rating": "partial",
+      "reason": "The public connection and seamless-journey story is strong, but the operating architecture behind it remains incomplete.",
+      "nextEvidence": "Seek cross-state orchestration, recovery and journey-outcome evidence."
+    }
+  ]
+}

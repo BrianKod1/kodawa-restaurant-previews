@@ -279,6 +279,17 @@
       "dossierComplete": true,
       "administrativeReconciliation": true,
       "publicationJournal": "khds/staging/case-45-metro-toronto-convention-centre/publication.json"
+    },
+    {
+      "caseNumber": 46,
+      "institutionName": "BC Ferries - Tsawwassen-Swartz Bay",
+      "slug": "bc-ferries-tsawwassen-swartz-bay",
+      "institutionType": "passenger ferry and terminal hospitality system",
+      "sector": "ferry-hospitality",
+      "canonicalPath": "khds/research/institutions/ferry-hospitality/bc-ferries-tsawwassen-swartz-bay/",
+      "dossierComplete": true,
+      "administrativeReconciliation": true,
+      "publicationJournal": "khds/staging/case-46-bc-ferries-tsawwassen-swartz-bay/publication.json"
     }
   ],
   "priorIdentities": [

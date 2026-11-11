@@ -1,0 +1,27 @@
+{
+  "caseNumber": 46,
+  "institutionName": "BC Ferries - Tsawwassen-Swartz Bay",
+  "slug": "bc-ferries-tsawwassen-swartz-bay",
+  "institutionType": "passenger ferry and terminal hospitality system",
+  "sector": "ferry-hospitality",
+  "canonicalPath": "khds/research/institutions/ferry-hospitality/bc-ferries-tsawwassen-swartz-bay/",
+  "stagingPath": "khds/staging/case-46-bc-ferries-tsawwassen-swartz-bay",
+  "trackingChanges": [],
+  "requiredFiles": [
+    "README.md",
+    "discovery.md",
+    "reservation.md",
+    "pre-arrival.md",
+    "arrival.md",
+    "stay.md",
+    "dining.md",
+    "departure.md",
+    "atmosphere.md",
+    "photography.md",
+    "story.md",
+    "knowledge-extraction.md"
+  ],
+  "evidenceCoverageVersion": 1,
+  "lockedAt": "2026-11-11T18:31:06.814Z",
+  "baseCommit": "8eb13766da2fd87d3aef3cbcc074feebf3c6f01c"
+}

@@ -1,0 +1,619 @@
+{
+  "status": "promoted",
+  "approvedReport": "7dfbfe9754c30dc5e3df70d2c6ae424b590a7ea78b1e4b44bea6a7badafc24c2",
+  "approvedAt": "2026-11-11T18:57:26.190Z",
+  "case": {
+    "caseNumber": 46,
+    "institutionName": "BC Ferries - Tsawwassen-Swartz Bay",
+    "slug": "bc-ferries-tsawwassen-swartz-bay",
+    "institutionType": "passenger ferry and terminal hospitality system",
+    "sector": "ferry-hospitality",
+    "canonicalPath": "khds/research/institutions/ferry-hospitality/bc-ferries-tsawwassen-swartz-bay/",
+    "stagingPath": "khds/staging/case-46-bc-ferries-tsawwassen-swartz-bay",
+    "trackingChanges": [],
+    "requiredFiles": [
+      "README.md",
+      "discovery.md",
+      "reservation.md",
+      "pre-arrival.md",
+      "arrival.md",
+      "stay.md",
+      "dining.md",
+      "departure.md",
+      "atmosphere.md",
+      "photography.md",
+      "story.md",
+      "knowledge-extraction.md"
+    ],
+    "evidenceCoverageVersion": 1,
+    "lockedAt": "2026-11-11T18:31:06.814Z",
+    "baseCommit": "8eb13766da2fd87d3aef3cbcc074feebf3c6f01c"
+  },
+  "promoted": [
+    {
+      "from": "khds/staging/case-46-bc-ferries-tsawwassen-swartz-bay/dossier/README.md",
+      "to": "khds/research/institutions/ferry-hospitality/bc-ferries-tsawwassen-swartz-bay/README.md",
+      "sha256": "3fd8436dcb864e6e49610d0f9cc7167335ebb677ca3a11982b877ff830db1f53"
+    },
+    {
+      "from": "khds/staging/case-46-bc-ferries-tsawwassen-swartz-bay/dossier/arrival.md",
+      "to": "khds/research/institutions/ferry-hospitality/bc-ferries-tsawwassen-swartz-bay/arrival.md",
+      "sha256": "96e192a7ddd1f20f8ddc4cb55c5e5e608c9e7e17afb0186f36f9f308a005449c"
+    },
+    {
+      "from": "khds/staging/case-46-bc-ferries-tsawwassen-swartz-bay/dossier/atmosphere.md",
+      "to": "khds/research/institutions/ferry-hospitality/bc-ferries-tsawwassen-swartz-bay/atmosphere.md",
+      "sha256": "c2caeb87fb6206ab5494715fa2ccba8c3efc7b92a85d98dbcfaa6306f3134e39"
+    },
+    {
+      "from": "khds/staging/case-46-bc-ferries-tsawwassen-swartz-bay/dossier/coverage.json",
+      "to": "khds/research/institutions/ferry-hospitality/bc-ferries-tsawwassen-swartz-bay/coverage.json",
+      "sha256": "e7cd084df2029bffe26d4de39c084db3d208c70a8f30020cc4a665e97a45b498"
+    },
+    {
+      "from": "khds/staging/case-46-bc-ferries-tsawwassen-swartz-bay/dossier/departure.md",
+      "to": "khds/research/institutions/ferry-hospitality/bc-ferries-tsawwassen-swartz-bay/departure.md",
+      "sha256": "6c1437bde2548cd5cd6e94b402b188f3315d107781f657bdd92b0e3061a09858"
+    },
+    {
+      "from": "khds/staging/case-46-bc-ferries-tsawwassen-swartz-bay/dossier/dining.md",
+      "to": "khds/research/institutions/ferry-hospitality/bc-ferries-tsawwassen-swartz-bay/dining.md",
+      "sha256": "6ca02e60b9495db06d07120552398be0558a12912e8d015e2cfb7c041954e628"
+    },
+    {
+      "from": "khds/staging/case-46-bc-ferries-tsawwassen-swartz-bay/dossier/discovery.md",
+      "to": "khds/research/institutions/ferry-hospitality/bc-ferries-tsawwassen-swartz-bay/discovery.md",
+      "sha256": "8cde3687fbafad91b5a71e2153539b14697135508d40cf0bab41c7b416939da7"
+    },
+    {
+      "from": "khds/staging/case-46-bc-ferries-tsawwassen-swartz-bay/dossier/knowledge-extraction.md",
+      "to": "khds/research/institutions/ferry-hospitality/bc-ferries-tsawwassen-swartz-bay/knowledge-extraction.md",
+      "sha256": "5a7bb4fee172e45b45606429a32e665655649baaf64ec5294cc48ec44c334d4f"
+    },
+    {
+      "from": "khds/staging/case-46-bc-ferries-tsawwassen-swartz-bay/dossier/photography.md",
+      "to": "khds/research/institutions/ferry-hospitality/bc-ferries-tsawwassen-swartz-bay/photography.md",
+      "sha256": "38db840b6a3408ec6580af0b4450236ecf819fe49435b80eab9b0196d2da6cb0"
+    },
+    {
+      "from": "khds/staging/case-46-bc-ferries-tsawwassen-swartz-bay/dossier/pre-arrival.md",
+      "to": "khds/research/institutions/ferry-hospitality/bc-ferries-tsawwassen-swartz-bay/pre-arrival.md",
+      "sha256": "8720b770bdaf16ab71d5e40ecdc28cb3b888421aa24f0f95fc6b0e7a1385e09c"
+    },
+    {
+      "from": "khds/staging/case-46-bc-ferries-tsawwassen-swartz-bay/dossier/reservation.md",
+      "to": "khds/research/institutions/ferry-hospitality/bc-ferries-tsawwassen-swartz-bay/reservation.md",
+      "sha256": "e584abe38a76d674f428f70acc795a0590d32e01103a3b22bc02c8f55e0102b8"
+    },
+    {
+      "from": "khds/staging/case-46-bc-ferries-tsawwassen-swartz-bay/dossier/sources.json",
+      "to": "khds/research/institutions/ferry-hospitality/bc-ferries-tsawwassen-swartz-bay/sources.json",
+      "sha256": "167320d07c9dd1ce1f258c4fe9ade6d548f2e409bd7bc6f2374432877abc939c"
+    },
+    {
+      "from": "khds/staging/case-46-bc-ferries-tsawwassen-swartz-bay/dossier/stay.md",
+      "to": "khds/research/institutions/ferry-hospitality/bc-ferries-tsawwassen-swartz-bay/stay.md",
+      "sha256": "65d53c751fa8e19ac0cf10086def44d7f2985630f0b7aef338115217c2f4a3be"
+    },
+    {
+      "from": "khds/staging/case-46-bc-ferries-tsawwassen-swartz-bay/dossier/story.md",
+      "to": "khds/research/institutions/ferry-hospitality/bc-ferries-tsawwassen-swartz-bay/story.md",
+      "sha256": "b70e407356985ed42bb7666f50e23bf79eae25bf93a27a8dc8c539f9c75205a6"
+    }
+  ],
+  "tracking": [],
+  "previousState": {
+    "schemaVersion": 1,
+    "expectedBranch": "main",
+    "workflowStatus": "publishable",
+    "latestCompletedCase": {
+      "caseNumber": 45,
+      "institutionName": "Metro Toronto Convention Centre",
+      "slug": "metro-toronto-convention-centre",
+      "institutionType": "large-scale convention and exhibition hospitality venue",
+      "sector": "convention-hospitality",
+      "canonicalPath": "khds/research/institutions/convention-hospitality/metro-toronto-convention-centre/",
+      "dossierComplete": true,
+      "administrativeReconciliation": true
+    },
+    "expectedNextCase": 46,
+    "researchAuthorized": true,
+    "authorization": {
+      "approvedBy": "Brian Kodawa",
+      "approvedAt": "2026-11-11T18:31:06.728Z",
+      "identity": {
+        "caseNumber": 46,
+        "institutionName": "BC Ferries - Tsawwassen-Swartz Bay",
+        "slug": "bc-ferries-tsawwassen-swartz-bay",
+        "institutionType": "passenger ferry and terminal hospitality system",
+        "sector": "ferry-hospitality",
+        "canonicalPath": "khds/research/institutions/ferry-hospitality/bc-ferries-tsawwassen-swartz-bay/"
+      }
+    },
+    "activeCase": {
+      "caseNumber": 46,
+      "institutionName": "BC Ferries - Tsawwassen-Swartz Bay",
+      "slug": "bc-ferries-tsawwassen-swartz-bay",
+      "institutionType": "passenger ferry and terminal hospitality system",
+      "sector": "ferry-hospitality",
+      "canonicalPath": "khds/research/institutions/ferry-hospitality/bc-ferries-tsawwassen-swartz-bay/",
+      "stagingPath": "khds/staging/case-46-bc-ferries-tsawwassen-swartz-bay",
+      "trackingChanges": [],
+      "requiredFiles": [
+        "README.md",
+        "discovery.md",
+        "reservation.md",
+        "pre-arrival.md",
+        "arrival.md",
+        "stay.md",
+        "dining.md",
+        "departure.md",
+        "atmosphere.md",
+        "photography.md",
+        "story.md",
+        "knowledge-extraction.md"
+      ],
+      "evidenceCoverageVersion": 1,
+      "lockedAt": "2026-11-11T18:31:06.814Z",
+      "baseCommit": "8eb13766da2fd87d3aef3cbcc074feebf3c6f01c"
+    },
+    "disagreements": [],
+    "publication": {
+      "journalPath": "khds/staging/case-45-metro-toronto-convention-centre/publication.json",
+      "status": "promoted"
+    },
+    "reconciliationRecord": {
+      "scope": "Case #21 administratively closed at public-evidence scope; local changes uncommitted for review",
+      "controlCheckpoint": "5259bf1",
+      "correctedIssues": [
+        {
+          "path": "khds/research/institutions/hotels/fogo-island-inn-newfoundland/knowledge-extraction.md",
+          "reason": "Lines 14-15 and 3761-3763 say comparison and reconciliation pending; comparison and governance records say complete."
+        },
+        {
+          "path": "khds/research/institutions/README.md",
+          "reason": "Line 145 still defers selection of Case #21 institution."
+        },
+        {
+          "path": "khds/research/validation/README.md",
+          "reason": "Line 14703 says next Case #21; line 16803 says next Case #22."
+        },
+        {
+          "path": "khds/research/README.md",
+          "reason": "Validation README mirror remains Next at line 15284 despite its completion claim."
+        },
+        {
+          "path": "khds/research/institutions/hotels/fogo-island-inn-newfoundland/",
+          "reason": "22 dossier path references omit hotels/; legacy comparison/ references also survive the directory rename."
+        }
+      ],
+      "verifiedStages": [
+        "12-file public-evidence dossier",
+        "Institution comparison units, sector adapters and Case #21 seed",
+        "Canonical no-promotion decision and unchanged 26/8/1/0/0 maturity totals",
+        "Local canonical path and active-status corrections",
+        "Original completion checklist and F01-F12 dispositions recorded without claiming resolved operational outcomes",
+        "Current primary road/ferry sources compared; exact road duration remains uncertain"
+      ],
+      "unverified": [
+        "F01-F12 empirical outcomes and detailed operational tests remain unresolved; no positive promotion or validation",
+        "Exact Gander-to-Farewell road duration; current primary estimates conflict",
+        "Cross-institution recurrence; no second institution researched"
+      ]
+    },
+    "administrativeReview": {
+      "date": "2026-09-08",
+      "dispositionPath": "khds/research/institutions/hotels/fogo-island-inn-newfoundland/knowledge-extraction.md",
+      "travelReviewPath": "khds/research/institutions/hotels/fogo-island-inn-newfoundland/arrival.md",
+      "basis": "README public-evidence scope and non-inference rules; complete research dispositions, not operational proof",
+      "durationStatus": "uncertain",
+      "patternDecision": "no-promotion",
+      "patternValidated": false,
+      "confidenceChanges": 0
+    },
+    "reconciliationReview": {
+      "approvedBy": "Brian Kodawa",
+      "approvedAt": "2026-11-11T18:56:11.245Z",
+      "contentDigest": "3616231666aafc47fcb848ac4b0cd2237f7c05790445561400bcef6c85a2ff09",
+      "controlChanges": []
+    },
+    "historyReconciliation": {
+      "approvedBy": "Brian Kodawa",
+      "approvedAt": "2026-09-22T20:13:40.949Z",
+      "scope": "Administrative machine-readable history reconciliation for completed KHDS Cases #23 and #24 only; no research content altered and Case #25 not started.",
+      "mode": "retrospective-canonical-registration",
+      "cases": [
+        {
+          "caseNumber": 23,
+          "slug": "reffen-copenhagen",
+          "evidenceCommit": "cc5d586",
+          "scriptedPublicationJournal": null
+        },
+        {
+          "caseNumber": 24,
+          "slug": "time-out-market-lisboa",
+          "evidenceCommit": "fdebc1c",
+          "scriptedPublicationJournal": null
+        }
+      ]
+    },
+    "case25Registration": {
+      "approvedBy": "Brian Kodawa",
+      "approvedAt": "2026-09-22T20:50:09.232Z",
+      "scope": "Administrative machine-readable registration of completed KHDS Case #25 Generator Copenhagen only; canonical research remains unchanged and Case #26 is unselected and unstarted.",
+      "mode": "retrospective-canonical-registration",
+      "evidenceCommit": "e8c3f72",
+      "scriptedPublicationJournal": null
+    }
+  },
+  "previousHistory": {
+    "schemaVersion": 1,
+    "cases": [
+      {
+        "caseNumber": 21,
+        "institutionName": "Fogo Island Inn",
+        "slug": "fogo-island-inn-newfoundland",
+        "institutionType": "Boutique-scale luxury hotel / inn",
+        "sector": "hotels",
+        "canonicalPath": "khds/research/institutions/hotels/fogo-island-inn-newfoundland/",
+        "dossierComplete": true,
+        "administrativeReconciliation": true,
+        "evidenceCommit": "3e027f8",
+        "completionScope": "Public-evidence dossier administratively reconciled on 2026-09-08; F01-F12 outcomes, operational validation and exact road duration remain unresolved. No pattern promotion or confidence change."
+      },
+      {
+        "caseNumber": 22,
+        "institutionName": "Sky Lagoon",
+        "slug": "sky-lagoon-kopavogur",
+        "institutionType": "Geothermal bathing and wellness venue",
+        "sector": "wellness",
+        "canonicalPath": "khds/research/institutions/wellness/sky-lagoon-kopavogur/",
+        "dossierComplete": true,
+        "administrativeReconciliation": true,
+        "publicationJournal": "khds/staging/case-22-sky-lagoon-kopavogur/publication.json"
+      },
+      {
+        "caseNumber": 23,
+        "institutionName": "Reffen",
+        "slug": "reffen-copenhagen",
+        "institutionType": "Open-air street-food market and cultural hospitality venue",
+        "sector": "venues",
+        "canonicalPath": "khds/research/institutions/venues/reffen-copenhagen/",
+        "dossierComplete": true,
+        "administrativeReconciliation": true,
+        "evidenceCommit": "cc5d586",
+        "completionScope": "Canonical public-evidence dossier and governance reconciliation committed in cc5d586. Retrospectively registered in KHDS machine-readable history because Cases #23-24 were completed outside the scripted staging/publication state transition."
+      },
+      {
+        "caseNumber": 24,
+        "institutionName": "Time Out Market Lisboa",
+        "slug": "time-out-market-lisboa",
+        "institutionType": "Indoor food-and-cultural market with multiple eateries and event spaces",
+        "sector": "venues",
+        "canonicalPath": "khds/research/institutions/venues/time-out-market-lisboa/",
+        "dossierComplete": true,
+        "administrativeReconciliation": true,
+        "evidenceCommit": "fdebc1c",
+        "completionScope": "Canonical public-evidence dossier and governance closure committed in fdebc1c. Retrospectively registered in KHDS machine-readable history because Cases #23-24 were completed outside the scripted staging/publication state transition. Legacy filename depature.md retained unchanged."
+      },
+      {
+        "caseNumber": 25,
+        "institutionName": "Generator Copenhagen",
+        "slug": "generator-copenhagen",
+        "institutionType": "Hostel / Social Stay",
+        "sector": "hostels",
+        "canonicalPath": "khds/research/institutions/hostels/generator-copenhagen/",
+        "dossierComplete": true,
+        "administrativeReconciliation": true,
+        "evidenceCommit": "e8c3f72",
+        "completionScope": "Canonical public-evidence research, case-level review, administrative closure and governance reconciliation committed in e8c3f72. Retrospectively registered in KHDS machine-readable history after the Cases #23-24 control-lineage repair. No scripted staging/publication journal exists for Case #25."
+      },
+      {
+        "caseNumber": 26,
+        "institutionName": "Scarlet Lady",
+        "slug": "scarlet-lady",
+        "institutionType": "Adults-only cruise ship / integrated hospitality vessel",
+        "sector": "cruises",
+        "canonicalPath": "khds/research/institutions/cruises/scarlet-lady/",
+        "dossierComplete": true,
+        "administrativeReconciliation": true,
+        "publicationJournal": "khds/staging/case-26-scarlet-lady/publication.json"
+      },
+      {
+        "caseNumber": 27,
+        "institutionName": "Soho House Toronto",
+        "slug": "soho-house-toronto",
+        "institutionType": "Private members' club / membership-based hospitality institution",
+        "sector": "members-clubs",
+        "canonicalPath": "khds/research/institutions/members-clubs/soho-house-toronto/",
+        "dossierComplete": true,
+        "administrativeReconciliation": true,
+        "publicationJournal": "khds/staging/case-27-soho-house-toronto/publication.json"
+      },
+      {
+        "caseNumber": 28,
+        "institutionName": "The Arts Club London",
+        "slug": "the-arts-club-london",
+        "institutionType": "Private members' club with integrated hotel, dining, cultural programming and wellness access",
+        "sector": "members-clubs",
+        "canonicalPath": "khds/research/institutions/members-clubs/the-arts-club-london/",
+        "dossierComplete": true,
+        "administrativeReconciliation": true,
+        "publicationJournal": "khds/staging/case-28-the-arts-club-london/publication.json"
+      },
+      {
+        "caseNumber": 29,
+        "institutionName": "Casa Cipriani New York",
+        "slug": "casa-cipriani-new-york",
+        "institutionType": "Private members' club with hotel accommodation, dining, events and wellness",
+        "sector": "members-clubs",
+        "canonicalPath": "khds/research/institutions/members-clubs/casa-cipriani-new-york/",
+        "dossierComplete": true,
+        "administrativeReconciliation": true,
+        "publicationJournal": "khds/staging/case-29-casa-cipriani-new-york/publication.json"
+      },
+      {
+        "caseNumber": 30,
+        "institutionName": "The Social Hub Amsterdam City",
+        "slug": "the-social-hub-amsterdam-city",
+        "institutionType": "Mixed-use hospitality hub with hotel accommodation, student and extended stays, coworking, meetings/events, food & beverage, community programming and membership",
+        "sector": "mixed-use-hospitality",
+        "canonicalPath": "khds/research/institutions/mixed-use-hospitality/the-social-hub-amsterdam-city/",
+        "dossierComplete": true,
+        "administrativeReconciliation": true,
+        "publicationJournal": "khds/staging/case-30-the-social-hub-amsterdam-city/publication.json"
+      },
+      {
+        "caseNumber": 31,
+        "institutionName": "Moxy NYC Times Square",
+        "slug": "moxy-nyc-times-square",
+        "institutionType": "Lifestyle hotel with public social, dining, coworking and event spaces",
+        "sector": "hotels",
+        "canonicalPath": "khds/research/institutions/hotels/moxy-nyc-times-square/",
+        "dossierComplete": true,
+        "administrativeReconciliation": true,
+        "publicationJournal": "khds/staging/case-31-moxy-nyc-times-square/publication.json"
+      },
+      {
+        "caseNumber": 32,
+        "institutionName": "Plaza Premium Lounge Toronto Pearson Terminal 1 Domestic",
+        "slug": "plaza-premium-lounge-toronto-pearson-t1-domestic",
+        "institutionType": "Airport lounge with paid, pass-based, walk-in, group and optional-service access pathways",
+        "sector": "airport-lounges",
+        "canonicalPath": "khds/research/institutions/airport-lounges/plaza-premium-lounge-toronto-pearson-t1-domestic/",
+        "dossierComplete": true,
+        "administrativeReconciliation": true,
+        "publicationJournal": "khds/staging/case-32-plaza-premium-lounge-toronto-pearson-t1-domestic/publication.json"
+      },
+      {
+        "caseNumber": 33,
+        "institutionName": "YOTELAIR Istanbul Airport (Airside)",
+        "slug": "yotelair-istanbul-airport-airside",
+        "institutionType": "Airside transit hotel with short-stay and overnight cabin accommodation, shared lounge and airport-dependent access conditions",
+        "sector": "transit-hotels",
+        "canonicalPath": "khds/research/institutions/transit-hotels/yotelair-istanbul-airport-airside/",
+        "dossierComplete": true,
+        "administrativeReconciliation": true,
+        "publicationJournal": "khds/staging/case-33-yotelair-istanbul-airport-airside/publication.json"
+      },
+      {
+        "caseNumber": 34,
+        "institutionName": "The Venetian Resort Las Vegas",
+        "slug": "the-venetian-resort-las-vegas",
+        "institutionType": "Integrated resort with hotel accommodation, gaming, dining, entertainment, spa, loyalty tiers and guest-restricted amenities",
+        "sector": "integrated-resorts",
+        "canonicalPath": "khds/research/institutions/integrated-resorts/the-venetian-resort-las-vegas/",
+        "dossierComplete": true,
+        "administrativeReconciliation": true,
+        "publicationJournal": "khds/staging/case-34-the-venetian-resort-las-vegas/publication.json"
+      },
+      {
+        "caseNumber": 35,
+        "institutionName": "Great Wolf Lodge Niagara Falls",
+        "slug": "great-wolf-lodge-niagara-falls",
+        "institutionType": "Family waterpark resort with overnight lodging, registered-guest-only waterpark access, attraction passes, dining packages and reservable cabanas",
+        "sector": "waterpark-resorts",
+        "canonicalPath": "khds/research/institutions/waterpark-resorts/great-wolf-lodge-niagara-falls/",
+        "dossierComplete": true,
+        "administrativeReconciliation": true,
+        "publicationJournal": "khds/staging/case-35-great-wolf-lodge-niagara-falls/publication.json"
+      },
+      {
+        "caseNumber": 36,
+        "institutionName": "Disney's Grand Floridian Resort & Spa",
+        "slug": "disneys-grand-floridian-resort-and-spa",
+        "institutionType": "Deluxe theme-park resort hotel with lodging, resort-guest benefits, separate theme-park admission, dining reservations, transportation and tiered access privileges",
+        "sector": "theme-park-resorts",
+        "canonicalPath": "khds/research/institutions/theme-park-resorts/disneys-grand-floridian-resort-and-spa/",
+        "dossierComplete": true,
+        "administrativeReconciliation": true,
+        "publicationJournal": "khds/staging/case-36-disneys-grand-floridian-resort-and-spa/publication.json"
+      },
+      {
+        "caseNumber": 37,
+        "institutionName": "Esalen Institute",
+        "slug": "esalen-institute-big-sur",
+        "institutionType": "Residential retreat and workshop institution with overnight lodging, included meals, hot springs, open classes and program-based participation",
+        "sector": "retreats",
+        "canonicalPath": "khds/research/institutions/retreats/esalen-institute-big-sur/",
+        "dossierComplete": true,
+        "administrativeReconciliation": true,
+        "publicationJournal": "khds/staging/case-37-esalen-institute-big-sur/publication.json"
+      },
+      {
+        "caseNumber": 38,
+        "institutionName": "Venice Simplon-Orient-Express",
+        "slug": "venice-simplon-orient-express",
+        "institutionType": "Luxury overnight rail-hospitality institution with private cabin accommodation, inclusive dining, steward service, scheduled multi-city journeys and journey-specific transfers or excursions",
+        "sector": "luxury-trains",
+        "canonicalPath": "khds/research/institutions/luxury-trains/venice-simplon-orient-express/",
+        "dossierComplete": true,
+        "administrativeReconciliation": true,
+        "publicationJournal": "khds/staging/case-38-venice-simplon-orient-express/publication.json"
+      },
+      {
+        "caseNumber": 39,
+        "institutionName": "Tottenham Hotspur Stadium",
+        "slug": "tottenham-hotspur-stadium",
+        "institutionType": "Multi-event stadium hospitality institution with ticketed event access, premium seating, lounges and private suites, recurring memberships, food-and-beverage service, digital ticketing, security-controlled entry and event-specific operating rules",
+        "sector": "stadium-hospitality",
+        "canonicalPath": "khds/research/institutions/stadium-hospitality/tottenham-hotspur-stadium/",
+        "dossierComplete": true,
+        "administrativeReconciliation": true,
+        "publicationJournal": "khds/staging/case-39-tottenham-hotspur-stadium/publication.json"
+      },
+      {
+        "caseNumber": 40,
+        "institutionName": "Singapore Changi Airport",
+        "slug": "singapore-changi-airport",
+        "institutionType": "Multi-terminal airport hospitality ecosystem combining passenger processing, airside and landside access states, transfer flows, lounges, transit hotels, dining, retail, attractions, baggage services and third-party airline/operator relationships",
+        "sector": "airport-hospitality",
+        "canonicalPath": "khds/research/institutions/airport-hospitality/singapore-changi-airport/",
+        "dossierComplete": true,
+        "administrativeReconciliation": true,
+        "publicationJournal": "khds/staging/case-40-singapore-changi-airport/publication.json"
+      },
+      {
+        "caseNumber": 41,
+        "institutionName": "Singita Lebombo Lodge",
+        "slug": "singita-lebombo-lodge",
+        "institutionType": "luxury-safari-lodge",
+        "sector": "safari-lodges",
+        "canonicalPath": "khds/research/institutions/safari-lodges/singita-lebombo-lodge/",
+        "dossierComplete": true,
+        "administrativeReconciliation": true,
+        "publicationJournal": "khds/staging/case-41-singita-lebombo-lodge/publication.json"
+      },
+      {
+        "caseNumber": 42,
+        "institutionName": "Tomorrowland Belgium + DreamVille",
+        "slug": "tomorrowland-belgium",
+        "institutionType": "multi-day festival hospitality ecosystem",
+        "sector": "festival-hospitality",
+        "canonicalPath": "khds/research/institutions/festival-hospitality/tomorrowland-belgium/",
+        "dossierComplete": true,
+        "administrativeReconciliation": true,
+        "publicationJournal": "khds/staging/case-42-tomorrowland-belgium/publication.json"
+      },
+      {
+        "caseNumber": 43,
+        "institutionName": "Yas Island Abu Dhabi",
+        "slug": "yas-island-abu-dhabi",
+        "institutionType": "multi-attraction destination hospitality ecosystem",
+        "sector": "destination-hospitality",
+        "canonicalPath": "khds/research/institutions/destination-hospitality/yas-island-abu-dhabi/",
+        "dossierComplete": true,
+        "administrativeReconciliation": true,
+        "publicationJournal": "khds/staging/case-43-yas-island-abu-dhabi/publication.json"
+      },
+      {
+        "caseNumber": 44,
+        "institutionName": "Ronald McDonald House Charities Toronto",
+        "slug": "rmhc-toronto",
+        "institutionType": "family-centred medical accommodation and respite hospitality system",
+        "sector": "institutional-hospitality",
+        "canonicalPath": "khds/research/institutions/institutional-hospitality/rmhc-toronto/",
+        "dossierComplete": true,
+        "administrativeReconciliation": true,
+        "publicationJournal": "khds/staging/case-44-rmhc-toronto/publication.json"
+      },
+      {
+        "caseNumber": 45,
+        "institutionName": "Metro Toronto Convention Centre",
+        "slug": "metro-toronto-convention-centre",
+        "institutionType": "large-scale convention and exhibition hospitality venue",
+        "sector": "convention-hospitality",
+        "canonicalPath": "khds/research/institutions/convention-hospitality/metro-toronto-convention-centre/",
+        "dossierComplete": true,
+        "administrativeReconciliation": true,
+        "publicationJournal": "khds/staging/case-45-metro-toronto-convention-centre/publication.json"
+      }
+    ],
+    "priorIdentities": [
+      {
+        "slug": "alinea",
+        "institutionName": "Alinea"
+      },
+      {
+        "slug": "ankole",
+        "institutionName": "Ankole"
+      },
+      {
+        "slug": "avatar-robot-cafe-dawn-tokyo",
+        "institutionName": "Avatar Robot Cafe Dawn Tokyo"
+      },
+      {
+        "slug": "bistro-lolo",
+        "institutionName": "Bistro Lolo"
+      },
+      {
+        "slug": "cultiva",
+        "institutionName": "Cultiva"
+      },
+      {
+        "slug": "dans-le-noir-london",
+        "institutionName": "Dans Le Noir London"
+      },
+      {
+        "slug": "din-tai-fung-covent-garden",
+        "institutionName": "Din Tai Fung Covent Garden"
+      },
+      {
+        "slug": "dishoom-covent-garden",
+        "institutionName": "Dishoom Covent Garden"
+      },
+      {
+        "slug": "franklin-barbecue",
+        "institutionName": "Franklin Barbecue"
+      },
+      {
+        "slug": "fyn",
+        "institutionName": "Fyn"
+      },
+      {
+        "slug": "haidilao-toronto",
+        "institutionName": "Haidilao Toronto"
+      },
+      {
+        "slug": "ichiran-shibuya",
+        "institutionName": "Ichiran Shibuya"
+      },
+      {
+        "slug": "jbj-soul-kitchen-red-bank",
+        "institutionName": "JBJ Soul Kitchen"
+      },
+      {
+        "slug": "mawimbi",
+        "institutionName": "Mawimbi"
+      },
+      {
+        "slug": "narisawa",
+        "institutionName": "Narisawa"
+      },
+      {
+        "slug": "noma-copenhagen-2026",
+        "institutionName": "Noma Copenhagen 2026"
+      },
+      {
+        "slug": "pearl-morissette-jordan-station",
+        "institutionName": "Pearl Morissette Jordan Station"
+      },
+      {
+        "slug": "refettorio-felix-london",
+        "institutionName": "Refettorio Felix"
+      },
+      {
+        "slug": "same-cafe-denver",
+        "institutionName": "SAME Caf? Denver"
+      },
+      {
+        "slug": "talisman",
+        "institutionName": "Talisman"
+      },
+      {
+        "slug": "trunk-tandoor",
+        "institutionName": "Trunk & Tandoor"
+      }
+    ]
+  }
+}
