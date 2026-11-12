@@ -1,0 +1,292 @@
+{
+  "schemaVersion": 1,
+  "contentDigest": "ef76a205c91e6b30a54c3caca7cd9f1ae2d44b7f45450af685ee5bfdc974a9ac",
+  "previousState": {
+    "schemaVersion": 1,
+    "expectedBranch": "main",
+    "workflowStatus": "staging",
+    "latestCompletedCase": {
+      "caseNumber": 46,
+      "institutionName": "BC Ferries - Tsawwassen-Swartz Bay",
+      "slug": "bc-ferries-tsawwassen-swartz-bay",
+      "institutionType": "passenger ferry and terminal hospitality system",
+      "sector": "ferry-hospitality",
+      "canonicalPath": "khds/research/institutions/ferry-hospitality/bc-ferries-tsawwassen-swartz-bay/",
+      "dossierComplete": true,
+      "administrativeReconciliation": true
+    },
+    "expectedNextCase": 47,
+    "researchAuthorized": true,
+    "authorization": {
+      "approvedBy": "Brian Kodawa",
+      "approvedAt": "2026-11-12T17:37:52.394Z",
+      "identity": {
+        "caseNumber": 47,
+        "institutionName": "ONE°15 Marina Sentosa Cove",
+        "slug": "one15-marina-sentosa-cove",
+        "institutionType": "integrated yacht marina and waterfront hospitality destination",
+        "sector": "marina-hospitality",
+        "canonicalPath": "khds/research/institutions/marina-hospitality/one15-marina-sentosa-cove/"
+      }
+    },
+    "activeCase": {
+      "caseNumber": 47,
+      "institutionName": "ONE°15 Marina Sentosa Cove",
+      "slug": "one15-marina-sentosa-cove",
+      "institutionType": "integrated yacht marina and waterfront hospitality destination",
+      "sector": "marina-hospitality",
+      "canonicalPath": "khds/research/institutions/marina-hospitality/one15-marina-sentosa-cove/",
+      "stagingPath": "khds/staging/case-47-one15-marina-sentosa-cove",
+      "trackingChanges": [],
+      "requiredFiles": [
+        "README.md",
+        "discovery.md",
+        "reservation.md",
+        "pre-arrival.md",
+        "arrival.md",
+        "stay.md",
+        "dining.md",
+        "departure.md",
+        "atmosphere.md",
+        "photography.md",
+        "story.md",
+        "knowledge-extraction.md"
+      ],
+      "evidenceCoverageVersion": 1,
+      "lockedAt": "2026-11-12T17:37:52.405Z",
+      "baseCommit": "7de50a2cffb1d4a26df1653658c68eb9fc792cb6"
+    },
+    "disagreements": [],
+    "publication": {
+      "journalPath": "khds/staging/case-46-bc-ferries-tsawwassen-swartz-bay/publication.json",
+      "status": "promoted"
+    },
+    "reconciliationRecord": {
+      "scope": "Case #21 administratively closed at public-evidence scope; local changes uncommitted for review",
+      "controlCheckpoint": "5259bf1",
+      "correctedIssues": [
+        {
+          "path": "khds/research/institutions/hotels/fogo-island-inn-newfoundland/knowledge-extraction.md",
+          "reason": "Lines 14-15 and 3761-3763 say comparison and reconciliation pending; comparison and governance records say complete."
+        },
+        {
+          "path": "khds/research/institutions/README.md",
+          "reason": "Line 145 still defers selection of Case #21 institution."
+        },
+        {
+          "path": "khds/research/validation/README.md",
+          "reason": "Line 14703 says next Case #21; line 16803 says next Case #22."
+        },
+        {
+          "path": "khds/research/README.md",
+          "reason": "Validation README mirror remains Next at line 15284 despite its completion claim."
+        },
+        {
+          "path": "khds/research/institutions/hotels/fogo-island-inn-newfoundland/",
+          "reason": "22 dossier path references omit hotels/; legacy comparison/ references also survive the directory rename."
+        }
+      ],
+      "verifiedStages": [
+        "12-file public-evidence dossier",
+        "Institution comparison units, sector adapters and Case #21 seed",
+        "Canonical no-promotion decision and unchanged 26/8/1/0/0 maturity totals",
+        "Local canonical path and active-status corrections",
+        "Original completion checklist and F01-F12 dispositions recorded without claiming resolved operational outcomes",
+        "Current primary road/ferry sources compared; exact road duration remains uncertain"
+      ],
+      "unverified": [
+        "F01-F12 empirical outcomes and detailed operational tests remain unresolved; no positive promotion or validation",
+        "Exact Gander-to-Farewell road duration; current primary estimates conflict",
+        "Cross-institution recurrence; no second institution researched"
+      ]
+    },
+    "administrativeReview": {
+      "date": "2026-09-08",
+      "dispositionPath": "khds/research/institutions/hotels/fogo-island-inn-newfoundland/knowledge-extraction.md",
+      "travelReviewPath": "khds/research/institutions/hotels/fogo-island-inn-newfoundland/arrival.md",
+      "basis": "README public-evidence scope and non-inference rules; complete research dispositions, not operational proof",
+      "durationStatus": "uncertain",
+      "patternDecision": "no-promotion",
+      "patternValidated": false,
+      "confidenceChanges": 0
+    },
+    "reconciliationReview": {
+      "approvedBy": "Brian Kodawa",
+      "approvedAt": "2026-11-11T18:56:11.245Z",
+      "contentDigest": "3616231666aafc47fcb848ac4b0cd2237f7c05790445561400bcef6c85a2ff09",
+      "controlChanges": []
+    },
+    "historyReconciliation": {
+      "approvedBy": "Brian Kodawa",
+      "approvedAt": "2026-09-22T20:13:40.949Z",
+      "scope": "Administrative machine-readable history reconciliation for completed KHDS Cases #23 and #24 only; no research content altered and Case #25 not started.",
+      "mode": "retrospective-canonical-registration",
+      "cases": [
+        {
+          "caseNumber": 23,
+          "slug": "reffen-copenhagen",
+          "evidenceCommit": "cc5d586",
+          "scriptedPublicationJournal": null
+        },
+        {
+          "caseNumber": 24,
+          "slug": "time-out-market-lisboa",
+          "evidenceCommit": "fdebc1c",
+          "scriptedPublicationJournal": null
+        }
+      ]
+    },
+    "case25Registration": {
+      "approvedBy": "Brian Kodawa",
+      "approvedAt": "2026-09-22T20:50:09.232Z",
+      "scope": "Administrative machine-readable registration of completed KHDS Case #25 Generator Copenhagen only; canonical research remains unchanged and Case #26 is unselected and unstarted.",
+      "mode": "retrospective-canonical-registration",
+      "evidenceCommit": "e8c3f72",
+      "scriptedPublicationJournal": null
+    }
+  },
+  "nextState": {
+    "schemaVersion": 1,
+    "expectedBranch": "main",
+    "workflowStatus": "publishable",
+    "latestCompletedCase": {
+      "caseNumber": 46,
+      "institutionName": "BC Ferries - Tsawwassen-Swartz Bay",
+      "slug": "bc-ferries-tsawwassen-swartz-bay",
+      "institutionType": "passenger ferry and terminal hospitality system",
+      "sector": "ferry-hospitality",
+      "canonicalPath": "khds/research/institutions/ferry-hospitality/bc-ferries-tsawwassen-swartz-bay/",
+      "dossierComplete": true,
+      "administrativeReconciliation": true
+    },
+    "expectedNextCase": 47,
+    "researchAuthorized": true,
+    "authorization": {
+      "approvedBy": "Brian Kodawa",
+      "approvedAt": "2026-11-12T17:37:52.394Z",
+      "identity": {
+        "caseNumber": 47,
+        "institutionName": "ONE°15 Marina Sentosa Cove",
+        "slug": "one15-marina-sentosa-cove",
+        "institutionType": "integrated yacht marina and waterfront hospitality destination",
+        "sector": "marina-hospitality",
+        "canonicalPath": "khds/research/institutions/marina-hospitality/one15-marina-sentosa-cove/"
+      }
+    },
+    "activeCase": {
+      "caseNumber": 47,
+      "institutionName": "ONE°15 Marina Sentosa Cove",
+      "slug": "one15-marina-sentosa-cove",
+      "institutionType": "integrated yacht marina and waterfront hospitality destination",
+      "sector": "marina-hospitality",
+      "canonicalPath": "khds/research/institutions/marina-hospitality/one15-marina-sentosa-cove/",
+      "stagingPath": "khds/staging/case-47-one15-marina-sentosa-cove",
+      "trackingChanges": [],
+      "requiredFiles": [
+        "README.md",
+        "discovery.md",
+        "reservation.md",
+        "pre-arrival.md",
+        "arrival.md",
+        "stay.md",
+        "dining.md",
+        "departure.md",
+        "atmosphere.md",
+        "photography.md",
+        "story.md",
+        "knowledge-extraction.md"
+      ],
+      "evidenceCoverageVersion": 1,
+      "lockedAt": "2026-11-12T17:37:52.405Z",
+      "baseCommit": "7de50a2cffb1d4a26df1653658c68eb9fc792cb6"
+    },
+    "disagreements": [],
+    "publication": {
+      "journalPath": "khds/staging/case-46-bc-ferries-tsawwassen-swartz-bay/publication.json",
+      "status": "promoted"
+    },
+    "reconciliationRecord": {
+      "scope": "Case #21 administratively closed at public-evidence scope; local changes uncommitted for review",
+      "controlCheckpoint": "5259bf1",
+      "correctedIssues": [
+        {
+          "path": "khds/research/institutions/hotels/fogo-island-inn-newfoundland/knowledge-extraction.md",
+          "reason": "Lines 14-15 and 3761-3763 say comparison and reconciliation pending; comparison and governance records say complete."
+        },
+        {
+          "path": "khds/research/institutions/README.md",
+          "reason": "Line 145 still defers selection of Case #21 institution."
+        },
+        {
+          "path": "khds/research/validation/README.md",
+          "reason": "Line 14703 says next Case #21; line 16803 says next Case #22."
+        },
+        {
+          "path": "khds/research/README.md",
+          "reason": "Validation README mirror remains Next at line 15284 despite its completion claim."
+        },
+        {
+          "path": "khds/research/institutions/hotels/fogo-island-inn-newfoundland/",
+          "reason": "22 dossier path references omit hotels/; legacy comparison/ references also survive the directory rename."
+        }
+      ],
+      "verifiedStages": [
+        "12-file public-evidence dossier",
+        "Institution comparison units, sector adapters and Case #21 seed",
+        "Canonical no-promotion decision and unchanged 26/8/1/0/0 maturity totals",
+        "Local canonical path and active-status corrections",
+        "Original completion checklist and F01-F12 dispositions recorded without claiming resolved operational outcomes",
+        "Current primary road/ferry sources compared; exact road duration remains uncertain"
+      ],
+      "unverified": [
+        "F01-F12 empirical outcomes and detailed operational tests remain unresolved; no positive promotion or validation",
+        "Exact Gander-to-Farewell road duration; current primary estimates conflict",
+        "Cross-institution recurrence; no second institution researched"
+      ]
+    },
+    "administrativeReview": {
+      "date": "2026-09-08",
+      "dispositionPath": "khds/research/institutions/hotels/fogo-island-inn-newfoundland/knowledge-extraction.md",
+      "travelReviewPath": "khds/research/institutions/hotels/fogo-island-inn-newfoundland/arrival.md",
+      "basis": "README public-evidence scope and non-inference rules; complete research dispositions, not operational proof",
+      "durationStatus": "uncertain",
+      "patternDecision": "no-promotion",
+      "patternValidated": false,
+      "confidenceChanges": 0
+    },
+    "reconciliationReview": {
+      "approvedBy": "Brian Kodawa",
+      "approvedAt": "2026-11-12T18:02:14.422Z",
+      "contentDigest": "ef76a205c91e6b30a54c3caca7cd9f1ae2d44b7f45450af685ee5bfdc974a9ac",
+      "controlChanges": []
+    },
+    "historyReconciliation": {
+      "approvedBy": "Brian Kodawa",
+      "approvedAt": "2026-09-22T20:13:40.949Z",
+      "scope": "Administrative machine-readable history reconciliation for completed KHDS Cases #23 and #24 only; no research content altered and Case #25 not started.",
+      "mode": "retrospective-canonical-registration",
+      "cases": [
+        {
+          "caseNumber": 23,
+          "slug": "reffen-copenhagen",
+          "evidenceCommit": "cc5d586",
+          "scriptedPublicationJournal": null
+        },
+        {
+          "caseNumber": 24,
+          "slug": "time-out-market-lisboa",
+          "evidenceCommit": "fdebc1c",
+          "scriptedPublicationJournal": null
+        }
+      ]
+    },
+    "case25Registration": {
+      "approvedBy": "Brian Kodawa",
+      "approvedAt": "2026-09-22T20:50:09.232Z",
+      "scope": "Administrative machine-readable registration of completed KHDS Case #25 Generator Copenhagen only; canonical research remains unchanged and Case #26 is unselected and unstarted.",
+      "mode": "retrospective-canonical-registration",
+      "evidenceCommit": "e8c3f72",
+      "scriptedPublicationJournal": null
+    }
+  }
+}

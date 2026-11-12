@@ -1,0 +1,513 @@
+{
+  "schemaVersion": 1,
+  "dimensions": [
+    {
+      "dimension": "discovery",
+      "question": "How does a boater discover the correct marina journey when berth suitability, membership status, vessel dimensions, CIQ needs and shore-side access are separate states?",
+      "scopeChange": "Discovery is treated as vessel-fit and service-domain discovery rather than destination discovery alone.",
+      "sources": [
+        "S1",
+        "S2",
+        "S3",
+        "S4",
+        "S5",
+        "S6",
+        "S7"
+      ],
+      "observations": [
+        {
+          "text": "ONE°15 presents multiple service domains inside one destination.",
+          "sources": [
+            "S5",
+            "S6"
+          ]
+        },
+        {
+          "text": "Berth suitability depends on vessel dimensions and configuration.",
+          "sources": [
+            "S1",
+            "S2"
+          ]
+        },
+        {
+          "text": "CIQ and berth journeys are separate.",
+          "sources": [
+            "S3"
+          ]
+        },
+        {
+          "text": "Marina operations span berthing, utilities, fuel, security and authority liaison.",
+          "sources": [
+            "S4"
+          ]
+        }
+      ],
+      "unanswered": [
+        "Live berth inventory is not public.",
+        "Berth-matching logic is not public.",
+        "The internal identity link among vessel, owner, crew and guest is unknown."
+      ],
+      "rating": "partial",
+      "reason": "The discovery structure is clear, but live capacity and internal matching remain incomplete.",
+      "nextEvidence": "Seek live berth inventory, vessel-match logic and identity-linkage evidence."
+    },
+    {
+      "dimension": "reservation",
+      "question": "What does a berth request or CIQ booking secure, and which vessel, regulatory and timing states remain conditional?",
+      "scopeChange": "Reservation is reframed as multiple parallel commitments rather than one marina booking.",
+      "sources": [
+        "S1",
+        "S2",
+        "S3"
+      ],
+      "observations": [
+        {
+          "text": "Berth enquiry is not explicitly a confirmed berth.",
+          "sources": [
+            "S2"
+          ]
+        },
+        {
+          "text": "CIQ is separately booked from berthing.",
+          "sources": [
+            "S3"
+          ]
+        },
+        {
+          "text": "Overnight berthing remains separate after CIQ clearance.",
+          "sources": [
+            "S3"
+          ]
+        },
+        {
+          "text": "Late arrival can change the commercial state.",
+          "sources": [
+            "S1",
+            "S3"
+          ]
+        }
+      ],
+      "unanswered": [
+        "Berth confirmation SLA is unknown.",
+        "Cancellation/amendment rules for berth bookings are incomplete.",
+        "Berth-CIQ system coupling is not public."
+      ],
+      "rating": "partial",
+      "reason": "Parallel reservation states are explicit, but confirmation and internal coupling are incomplete.",
+      "nextEvidence": "Seek berth-confirmation, amendment and cross-booking architecture evidence."
+    },
+    {
+      "dimension": "pre-arrival",
+      "question": "How does a vessel prepare when vessel documentation, manifests, regulatory approval, timing and berth readiness must align before arrival?",
+      "scopeChange": "Pre-arrival is treated as multi-entity readiness across vessel, people and regulatory states.",
+      "sources": [
+        "S2",
+        "S3",
+        "S4"
+      ],
+      "observations": [
+        {
+          "text": "Vessel and people documentation are both required for CIQ.",
+          "sources": [
+            "S3"
+          ]
+        },
+        {
+          "text": "Manifest changes can reset approval state.",
+          "sources": [
+            "S3"
+          ]
+        },
+        {
+          "text": "Weather or mechanical disruption can alter CIQ state.",
+          "sources": [
+            "S3"
+          ]
+        },
+        {
+          "text": "Marina support services remain separate local states.",
+          "sources": [
+            "S4"
+          ]
+        }
+      ],
+      "unanswered": [
+        "Document-validation turnaround is unknown.",
+        "Manifest-change frequency is unknown.",
+        "Pre-arrival exception ownership is not public."
+      ],
+      "rating": "partial",
+      "reason": "Readiness separation is strong, but processing performance and exception ownership remain incomplete.",
+      "nextEvidence": "Seek validation-latency and exception-handling evidence."
+    },
+    {
+      "dimension": "arrival",
+      "question": "How does physical vessel arrival become clearance, berthing, utility/security activation and shore access?",
+      "scopeChange": "Arrival is treated as regulatory and berth-state activation rather than physical presence.",
+      "sources": [
+        "S1",
+        "S3",
+        "S4",
+        "S5",
+        "S6"
+      ],
+      "observations": [
+        {
+          "text": "Physical vessel arrival does not equal clearance.",
+          "sources": [
+            "S3"
+          ]
+        },
+        {
+          "text": "Passengers and crew must remain onboard until clearance is complete.",
+          "sources": [
+            "S3"
+          ]
+        },
+        {
+          "text": "Berthing involves active marina support and berth-licence state.",
+          "sources": [
+            "S4"
+          ]
+        },
+        {
+          "text": "Utilities and security remain separate local states.",
+          "sources": [
+            "S1",
+            "S4"
+          ]
+        }
+      ],
+      "unanswered": [
+        "Docking wait times are unknown.",
+        "Utility activation workflow is not public.",
+        "Security-pass provisioning latency is unknown."
+      ],
+      "rating": "partial",
+      "reason": "Arrival-state decomposition is clear, but operational timing and local activation workflows remain incomplete.",
+      "nextEvidence": "Seek berthing, utility and security activation performance evidence."
+    },
+    {
+      "dimension": "stay",
+      "question": "How does the hospitality state evolve after berthing when utilities, hotel, membership, recreation and events remain separate?",
+      "scopeChange": "Stay is treated as layered berth and shore-service occupancy rather than a single accommodation state.",
+      "sources": [
+        "S1",
+        "S3",
+        "S4",
+        "S5",
+        "S10",
+        "S11",
+        "S12",
+        "S13",
+        "S14"
+      ],
+      "observations": [
+        {
+          "text": "Overnight berthing and hotel stay are separate accommodation states.",
+          "sources": [
+            "S1",
+            "S3",
+            "S11"
+          ]
+        },
+        {
+          "text": "Utilities are berth-local service states.",
+          "sources": [
+            "S1",
+            "S4"
+          ]
+        },
+        {
+          "text": "Club facilities and activities have separate role/time conditions.",
+          "sources": [
+            "S10",
+            "S13",
+            "S14"
+          ]
+        },
+        {
+          "text": "Different service domains have separate contacts and hours.",
+          "sources": [
+            "S12"
+          ]
+        }
+      ],
+      "unanswered": [
+        "Guest-to-vessel identity linkage is unknown.",
+        "Hotel-marina booking linkage is unknown.",
+        "Cross-service recovery ownership is not public."
+      ],
+      "rating": "partial",
+      "reason": "Shore-service separation is clear, but identity and recovery integration remain incomplete.",
+      "nextEvidence": "Seek cross-service identity, account and recovery evidence."
+    },
+    {
+      "dimension": "dining",
+      "question": "How does dining differ across public visitors, members, hotel guests and marina users?",
+      "scopeChange": "Dining is treated as role- and venue-dependent entitlement rather than universal destination service.",
+      "sources": [
+        "S8",
+        "S9",
+        "S11",
+        "S14"
+      ],
+      "observations": [
+        {
+          "text": "Latitude is restricted to members and hotel guests.",
+          "sources": [
+            "S8",
+            "S9"
+          ]
+        },
+        {
+          "text": "Other dining venues are open to the public.",
+          "sources": [
+            "S8"
+          ]
+        },
+        {
+          "text": "Reservation paths differ by role.",
+          "sources": [
+            "S8"
+          ]
+        },
+        {
+          "text": "Promotions can be venue- and role-specific.",
+          "sources": [
+            "S11",
+            "S14"
+          ]
+        }
+      ],
+      "unanswered": [
+        "Restaurant capacity and waitlist logic are unknown.",
+        "How marina users are classified for dining is unclear.",
+        "Cross-venue spend attribution is not public."
+      ],
+      "rating": "partial",
+      "reason": "Role-based dining entitlement is explicit, but capacity and integration remain incomplete.",
+      "nextEvidence": "Seek capacity, identity and reservation-integration evidence."
+    },
+    {
+      "dimension": "departure",
+      "question": "When does the marina journey end when departure clearance, unberthing, utilities, security and guest relationships close separately?",
+      "scopeChange": "Departure is treated as multi-stage regulatory, operational and hospitality closure.",
+      "sources": [
+        "S3",
+        "S4",
+        "S8",
+        "S10",
+        "S12",
+        "S14"
+      ],
+      "observations": [
+        {
+          "text": "Departure requires its own CIQ readiness.",
+          "sources": [
+            "S3"
+          ]
+        },
+        {
+          "text": "Manifest changes can reset departure state.",
+          "sources": [
+            "S3"
+          ]
+        },
+        {
+          "text": "Departure clearance and unberthing are separate states.",
+          "sources": [
+            "S3",
+            "S4"
+          ]
+        },
+        {
+          "text": "Vessel departure does not close hotel, dining, membership or event relationships automatically.",
+          "sources": [
+            "S8",
+            "S10",
+            "S12",
+            "S14"
+          ]
+        }
+      ],
+      "unanswered": [
+        "Berth checkout workflow is unknown.",
+        "Utility close-out timing is unknown.",
+        "Departure-clearance failure rates are not public."
+      ],
+      "rating": "partial",
+      "reason": "Closure-state separation is clear, but timing and failure/recovery performance remain incomplete.",
+      "nextEvidence": "Seek berth checkout, utility closure and departure-exception evidence."
+    },
+    {
+      "dimension": "atmosphere",
+      "question": "How does ONE°15 create one waterfront atmosphere across marina, yacht, hotel, dining, club and events?",
+      "scopeChange": "Atmosphere is treated as cross-domain waterfront continuity rather than marina scenery alone.",
+      "sources": [
+        "S15",
+        "S16",
+        "S17",
+        "S18",
+        "S19",
+        "S20",
+        "S21",
+        "S22"
+      ],
+      "observations": [
+        {
+          "text": "ONE°15 frames itself as a home-by-the-water lifestyle destination.",
+          "sources": [
+            "S15",
+            "S16"
+          ]
+        },
+        {
+          "text": "Waterfront and yacht imagery connect multiple service domains.",
+          "sources": [
+            "S16",
+            "S19",
+            "S20",
+            "S22"
+          ]
+        },
+        {
+          "text": "Membership atmosphere remains exclusive despite destination-level coherence.",
+          "sources": [
+            "S21"
+          ]
+        },
+        {
+          "text": "Sustainability is integrated into the waterfront experience story.",
+          "sources": [
+            "S17"
+          ]
+        }
+      ],
+      "unanswered": [
+        "Representative guest perception is not established.",
+        "Atmosphere under high occupancy is unknown.",
+        "The effect of visual continuity on perceived service fragmentation is unknown."
+      ],
+      "rating": "partial",
+      "reason": "Cross-domain atmosphere is strong, but lived experience and crowding remain incomplete.",
+      "nextEvidence": "Seek guest-perception and occupancy-condition evidence."
+    },
+    {
+      "dimension": "photography",
+      "question": "What does the public visual record reveal about marina hospitality, and where are the limits of using yacht and waterfront imagery as evidence?",
+      "scopeChange": "Photography is treated as cross-product identity and potential concealment of entitlement/regulatory complexity.",
+      "sources": [
+        "S15",
+        "S16",
+        "S17",
+        "S18",
+        "S19",
+        "S20",
+        "S21",
+        "S22",
+        "S10",
+        "S8"
+      ],
+      "observations": [
+        {
+          "text": "Public imagery spans marina, hotel, dining, events, sustainability and membership.",
+          "sources": [
+            "S15",
+            "S16",
+            "S17",
+            "S18",
+            "S19",
+            "S20",
+            "S21",
+            "S22"
+          ]
+        },
+        {
+          "text": "Superyachts operate as visual anchors beyond marina operations.",
+          "sources": [
+            "S15",
+            "S16",
+            "S19",
+            "S21",
+            "S22"
+          ]
+        },
+        {
+          "text": "Marina views become accommodation product attributes.",
+          "sources": [
+            "S19"
+          ]
+        },
+        {
+          "text": "Visual unity can conceal role and regulatory boundaries.",
+          "sources": [
+            "S8",
+            "S10",
+            "S21"
+          ]
+        }
+      ],
+      "unanswered": [
+        "Image-selection methodology is not public.",
+        "Representativeness of guest imagery is unknown.",
+        "Visual treatment of service failures is unknown."
+      ],
+      "rating": "partial",
+      "reason": "The cross-product visual identity is strong, but representativeness and selection logic remain incomplete.",
+      "nextEvidence": "Seek documentary, occupied-state and media-selection evidence."
+    },
+    {
+      "dimension": "story",
+      "question": "How does ONE°15 tell one story of waterfront belonging and seamless yachting while operational states remain separate?",
+      "scopeChange": "Story includes belonging, sea-to-shore continuity, sustainability and the gap between destination narrative and entitlement architecture.",
+      "sources": [
+        "S1",
+        "S15",
+        "S16",
+        "S17",
+        "S18",
+        "S19",
+        "S21",
+        "S22"
+      ],
+      "observations": [
+        {
+          "text": "The core story is home, community and waterfront belonging.",
+          "sources": [
+            "S15",
+            "S16"
+          ]
+        },
+        {
+          "text": "ONE°15 explicitly joins yachting and wider hospitality.",
+          "sources": [
+            "S1",
+            "S15"
+          ]
+        },
+        {
+          "text": "Sail & Stay narratively extends sea travel into shore accommodation.",
+          "sources": [
+            "S19",
+            "S22"
+          ]
+        },
+        {
+          "text": "Membership deepens belonging while remaining an entitlement state.",
+          "sources": [
+            "S21"
+          ]
+        }
+      ],
+      "unanswered": [
+        "Internal architecture behind cross-product continuity is not public.",
+        "Cross-domain recovery performance is unknown.",
+        "Journey-level economics remain unverified."
+      ],
+      "rating": "partial",
+      "reason": "The integrated waterfront story is strong, but the operating architecture behind it remains incomplete.",
+      "nextEvidence": "Seek cross-state orchestration, recovery and journey-outcome evidence."
+    }
+  ]
+}

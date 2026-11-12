@@ -290,6 +290,17 @@
       "dossierComplete": true,
       "administrativeReconciliation": true,
       "publicationJournal": "khds/staging/case-46-bc-ferries-tsawwassen-swartz-bay/publication.json"
+    },
+    {
+      "caseNumber": 47,
+      "institutionName": "ONE°15 Marina Sentosa Cove",
+      "slug": "one15-marina-sentosa-cove",
+      "institutionType": "integrated yacht marina and waterfront hospitality destination",
+      "sector": "marina-hospitality",
+      "canonicalPath": "khds/research/institutions/marina-hospitality/one15-marina-sentosa-cove/",
+      "dossierComplete": true,
+      "administrativeReconciliation": true,
+      "publicationJournal": "khds/staging/case-47-one15-marina-sentosa-cove/publication.json"
     }
   ],
   "priorIdentities": [

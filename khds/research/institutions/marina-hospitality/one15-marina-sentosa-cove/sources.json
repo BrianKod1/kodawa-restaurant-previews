@@ -1,0 +1,247 @@
+{
+    "schemaVersion":  1,
+    "sources":  [
+                    {
+                        "id":  "S1",
+                        "url":  "https://one15marina.com/sentosa-cove/marina/",
+                        "accessDate":  "2026-11-12",
+                        "sourceDate":  "Current marina overview inspected 2026-11-12",
+                        "method":  "Direct official web-page inspection",
+                        "sections":  "270 wet berths; 33 mega-yacht berths; 60 dry berths; superyacht capability; berthing rates; vessel/berth surcharges; embark/disembark timing; utilities; fuel; security; gated access; 24/7 CIQ",
+                        "access":  "inspected",
+                        "title":  "World-class Marina Singapore | Superyacht Berthing",
+                        "note":  "Primary berth-capacity, pricing, facility, utility and CIQ overview source."
+                    },
+                    {
+                        "id":  "S2",
+                        "url":  "https://one15marina.com/sentosa-cove/request-for-berth/",
+                        "accessDate":  "2026-11-12",
+                        "sourceDate":  "Current berth enquiry form inspected 2026-11-12",
+                        "method":  "Direct official web-page inspection",
+                        "sections":  "Contact details; membership status; type of berthing; request type; arrival/departure dates; vessel name/type/size",
+                        "access":  "inspected",
+                        "title":  "Berth Enquiry at ONE°15 Marina Sentosa Cove",
+                        "note":  "Primary berth-enquiry and vessel-match information source."
+                    },
+                    {
+                        "id":  "S3",
+                        "url":  "https://one15marina.com/sentosa-cove/marina/request-for-ciq/",
+                        "accessDate":  "2026-11-12",
+                        "sourceDate":  "Current 24/7 CIQ reservation page inspected 2026-11-12",
+                        "method":  "Direct official web-page inspection",
+                        "sections":  "Advance booking; vessel registration/insurance; crew/passenger manifests; designated CIQ berth; passenger/crew onboard requirement; visitor boarding restriction; \u003e125ft review; lateness; rescheduling; separate overnight berth reservation",
+                        "access":  "inspected",
+                        "title":  "24/7 CIQ Clearance Reservation Form",
+                        "note":  "Primary regulatory booking, manifest, time-window, arrival and shore-access source."
+                    },
+                    {
+                        "id":  "S4",
+                        "url":  "https://one15marina.com/sentosa-cove/marina-assistant/",
+                        "accessDate":  "2026-11-12",
+                        "sourceDate":  "Current marina-operations role page inspected 2026-11-12",
+                        "method":  "Direct official web-page inspection",
+                        "sections":  "Berthing/unberthing; mooring; towing/line handling; berth occupancy and licence validity; electricity/water monitoring; fuel dock; authority liaison; keys/security passes",
+                        "access":  "inspected",
+                        "title":  "Marina Assistant",
+                        "note":  "Primary public evidence for operational service domains and local state ownership."
+                    },
+                    {
+                        "id":  "S5",
+                        "url":  "https://one15marina.com/sentosa-cove/",
+                        "accessDate":  "2026-11-12",
+                        "sourceDate":  "Current destination homepage inspected 2026-11-12",
+                        "method":  "Direct official web-page inspection",
+                        "sections":  "Integrated marina, membership, dining, hotel, wellness, meetings and events positioning",
+                        "access":  "inspected",
+                        "title":  "ONE°15 Marina Sentosa Cove | Private Members and Marina Club",
+                        "note":  "Primary integrated hospitality-destination and shore-service context source."
+                    },
+                    {
+                        "id":  "S6",
+                        "url":  "https://one15marina.com/sentosa-cove/contact-us/",
+                        "accessDate":  "2026-11-12",
+                        "sourceDate":  "Current contact page inspected 2026-11-12",
+                        "method":  "Direct official web-page inspection",
+                        "sections":  "Separate contacts/hours for membership, marina, hotel, dining, fitness, recreation and events",
+                        "access":  "inspected",
+                        "title":  "Contact ONE°15 Marina Sentosa Cove",
+                        "note":  "Primary evidence that shore-side service domains have separate operational/contact relationships."
+                    },
+                    {
+                        "id":  "S7",
+                        "url":  "https://one15marina.com/sentosa-cove/news-media/one15-marina-sentosa-cove-to-become-singapores-first-marina-to-offer-24-7-ciq-clearance-for-pleasure-craft/",
+                        "accessDate":  "2026-11-12",
+                        "sourceDate":  "2026-08-19",
+                        "method":  "Direct official press-release inspection",
+                        "sections":  "24/7 CIQ introduction from 1 September 2026; pleasure craft/yacht clearance; ICA collaboration; security and operational arrangements",
+                        "access":  "inspected",
+                        "title":  "ONE°15 Marina Sentosa Cove to Become Singapore’s First Marina to Offer 24/7 CIQ Clearance for Pleasure Craft",
+                        "note":  "Primary current institutional evidence for round-the-clock CIQ and authority coordination."
+                    },
+                    {
+                        "id":  "S8",
+                        "url":  "https://one15marina.com/sentosa-cove/dining/",
+                        "accessDate":  "2026-11-12",
+                        "sourceDate":  "Current dining page inspected 2026-11-12",
+                        "method":  "Direct official web-page inspection",
+                        "sections":  "Dining venues; Latitude members/hotel-guests restriction; WOK°15 and Boaters Bar public access; operating hours; reservation channels; shuttle with same-day dining reservation",
+                        "access":  "inspected",
+                        "title":  "Waterfront Restaurants in Sentosa Cove",
+                        "note":  "Primary dining-role, venue-access, operating-hour and reservation-path source."
+                    },
+                    {
+                        "id":  "S9",
+                        "url":  "https://one15marina.com/sentosa-cove/latitude-reservation/",
+                        "accessDate":  "2026-11-12",
+                        "sourceDate":  "Current Latitude reservation form inspected 2026-11-12",
+                        "method":  "Direct official web-page inspection",
+                        "sections":  "Members-only establishment; membership details; reservations subject to confirmation; group/same-day process; private-room minimum spend",
+                        "access":  "inspected",
+                        "title":  "Latitude Restaurant \u0026 Terrace Reservation",
+                        "note":  "Primary restricted dining entitlement and conditional reservation source."
+                    },
+                    {
+                        "id":  "S10",
+                        "url":  "https://one15marina.com/sentosa-cove/clubhouse-facilities/",
+                        "accessDate":  "2026-11-12",
+                        "sourceDate":  "Current clubhouse-facilities page inspected 2026-11-12",
+                        "method":  "Direct official web-page inspection",
+                        "sections":  "Members\u0027 lounge; steam room; lockers; children’s playroom; locations and operating hours",
+                        "access":  "inspected",
+                        "title":  "Clubhouse Facilities in Singapore",
+                        "note":  "Primary shore-side club-facility and local operating-state source."
+                    },
+                    {
+                        "id":  "S11",
+                        "url":  "https://one15marina.com/sentosa-cove/promotions/",
+                        "accessDate":  "2026-11-12",
+                        "sourceDate":  "Current promotions page inspected 2026-11-12",
+                        "method":  "Direct official web-page inspection",
+                        "sections":  "Hotel stay offers; Hillview and Marina View rooms; suite stay; dining credits; time-specific promotions",
+                        "access":  "inspected",
+                        "title":  "Exclusive Promotions",
+                        "note":  "Primary current evidence for independent hotel accommodation and time/venue-specific hospitality offers."
+                    },
+                    {
+                        "id":  "S12",
+                        "url":  "https://one15marina.com/sentosa-cove/contact-us/",
+                        "accessDate":  "2026-11-12",
+                        "sourceDate":  "Current contact page inspected 2026-11-12",
+                        "method":  "Direct official web-page inspection",
+                        "sections":  "Separate Marina, Hotel, Membership, Dining, Fitness, Recreation and Events contacts and operating hours",
+                        "access":  "inspected",
+                        "title":  "Contact ONE°15 Marina Sentosa Cove",
+                        "note":  "Primary service-domain ownership and operating-hour separation source."
+                    },
+                    {
+                        "id":  "S13",
+                        "url":  "https://one15marina.com/sentosa-cove/fitness-classes/",
+                        "accessDate":  "2026-11-12",
+                        "sourceDate":  "Current fitness-classes page inspected 2026-11-12",
+                        "method":  "Direct official web-page inspection",
+                        "sections":  "Member/member-guest/trial pricing; advance RSVP; venue/time-specific recreation and fitness access",
+                        "access":  "inspected",
+                        "title":  "Fitness Classes",
+                        "note":  "Primary member-versus-guest activity entitlement and reservation-state source."
+                    },
+                    {
+                        "id":  "S14",
+                        "url":  "https://one15marina.com/sentosa-cove/event-calendar/",
+                        "accessDate":  "2026-11-12",
+                        "sourceDate":  "Current events calendar inspected 2026-11-12",
+                        "method":  "Direct official web-page inspection",
+                        "sections":  "Members-only events; member\u0027s-guest pricing; RSVP deadlines; boater-exclusive meeting; club social programming",
+                        "access":  "inspected",
+                        "title":  "Upcoming Events",
+                        "note":  "Primary event-entitlement, member/guest distinction and boater-community source."
+                    },
+                    {
+                        "id":  "S15",
+                        "url":  "https://one15marina.com/sentosa-cove/about-us/",
+                        "accessDate":  "2026-11-12",
+                        "sourceDate":  "Current About page inspected 2026-11-12",
+                        "method":  "Direct official web-page inspection",
+                        "sections":  "Luxury marina and waterfront lifestyle positioning; mission and vision; home-away-from-home language; yachting events; awards; organisational heritage",
+                        "access":  "inspected",
+                        "title":  "About ONE°15 Marina Sentosa Cove",
+                        "note":  "Primary institutional story, mission, atmosphere and excellence-narrative source."
+                    },
+                    {
+                        "id":  "S16",
+                        "url":  "https://one15marina.com/sentosa-cove/",
+                        "accessDate":  "2026-11-12",
+                        "sourceDate":  "Current homepage inspected 2026-11-12",
+                        "method":  "Direct official web-page inspection",
+                        "sections":  "Home by the water; community/culture/connection; membership; marina; dining; hotel; celebrations; events; integrated lifestyle framing",
+                        "access":  "inspected",
+                        "title":  "ONE°15 Marina Sentosa Cove",
+                        "note":  "Primary unified destination narrative and cross-domain visual framing source."
+                    },
+                    {
+                        "id":  "S17",
+                        "url":  "https://one15marina.com/sentosa-cove/sustainability/",
+                        "accessDate":  "2026-11-12",
+                        "sourceDate":  "Current sustainability page inspected 2026-11-12",
+                        "method":  "Direct official web-page inspection",
+                        "sections":  "Marine conservation; clean-marina practices; renewable energy; waste; community; responsible events; boater/hotel/diner/visitor roles; environmental credentials",
+                        "access":  "inspected",
+                        "title":  "Sustainability at ONE°15 Marina",
+                        "note":  "Primary environmental-atmosphere, role-framing and sustainability-story source."
+                    },
+                    {
+                        "id":  "S18",
+                        "url":  "https://one15marina.com/sentosa-cove/news-media/",
+                        "accessDate":  "2026-11-12",
+                        "sourceDate":  "Current News \u0026 Media archive inspected 2026-11-12",
+                        "method":  "Direct official web-page inspection",
+                        "sections":  "Press releases; reading; eco updates; club updates; current institutional stories and media archive",
+                        "access":  "inspected",
+                        "title":  "News \u0026 Media",
+                        "note":  "Primary curated institutional-media and public-story source."
+                    },
+                    {
+                        "id":  "S19",
+                        "url":  "https://one15marina.com/sentosa-cove/hotel/",
+                        "accessDate":  "2026-11-12",
+                        "sourceDate":  "Current hotel page inspected 2026-11-12",
+                        "method":  "Direct official web-page inspection",
+                        "sections":  "Hillview and Marina View rooms; marina-facing balconies; room imagery; accommodation offers; Sail \u0026 Stay; sea-to-shore positioning",
+                        "access":  "inspected",
+                        "title":  "Best Waterfront Hotel in Sentosa Singapore",
+                        "note":  "Primary hotel-atmosphere, marina-view imagery and sea-to-shore narrative source."
+                    },
+                    {
+                        "id":  "S20",
+                        "url":  "https://one15marina.com/sentosa-cove/dining/",
+                        "accessDate":  "2026-11-12",
+                        "sourceDate":  "Current dining page inspected 2026-11-12",
+                        "method":  "Direct official web-page inspection",
+                        "sections":  "Different dining moods; waterfront views; all-day dining; Cantonese dining; floating bar; public/member access; operating hours",
+                        "access":  "inspected",
+                        "title":  "Waterfront Restaurants in Sentosa Cove",
+                        "note":  "Primary dining-atmosphere, mood and waterfront visual-framing source."
+                    },
+                    {
+                        "id":  "S21",
+                        "url":  "https://one15marina.com/sentosa-cove/membership-overview/",
+                        "accessDate":  "2026-11-12",
+                        "sourceDate":  "Current membership overview inspected 2026-11-12",
+                        "method":  "Direct official web-page inspection",
+                        "sections":  "Private world by the water; community; curated experiences; private spaces; invitation-only experiences; reciprocal access; member privileges",
+                        "access":  "inspected",
+                        "title":  "A Private Membership by the Marina",
+                        "note":  "Primary exclusive-community, belonging and membership-entitlement story source."
+                    },
+                    {
+                        "id":  "S22",
+                        "url":  "https://one15marina.com/sentosa-cove/promotions/sail-stay/",
+                        "accessDate":  "2026-11-12",
+                        "sourceDate":  "Current Sail \u0026 Stay promotion inspected 2026-11-12",
+                        "method":  "Direct official web-page inspection",
+                        "sections":  "Private yacht charter; hotel rooms; sea-to-shore narrative; minimum spend; stay conditions",
+                        "access":  "inspected",
+                        "title":  "Sail \u0026 Stay",
+                        "note":  "Primary explicit sea-to-shore journey narrative and cross-product commercial-bundle source."
+                    }
+                ]
+}

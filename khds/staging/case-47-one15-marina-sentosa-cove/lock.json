@@ -1,0 +1,27 @@
+{
+  "caseNumber": 47,
+  "institutionName": "ONE°15 Marina Sentosa Cove",
+  "slug": "one15-marina-sentosa-cove",
+  "institutionType": "integrated yacht marina and waterfront hospitality destination",
+  "sector": "marina-hospitality",
+  "canonicalPath": "khds/research/institutions/marina-hospitality/one15-marina-sentosa-cove/",
+  "stagingPath": "khds/staging/case-47-one15-marina-sentosa-cove",
+  "trackingChanges": [],
+  "requiredFiles": [
+    "README.md",
+    "discovery.md",
+    "reservation.md",
+    "pre-arrival.md",
+    "arrival.md",
+    "stay.md",
+    "dining.md",
+    "departure.md",
+    "atmosphere.md",
+    "photography.md",
+    "story.md",
+    "knowledge-extraction.md"
+  ],
+  "evidenceCoverageVersion": 1,
+  "lockedAt": "2026-11-12T17:37:52.405Z",
+  "baseCommit": "7de50a2cffb1d4a26df1653658c68eb9fc792cb6"
+}
